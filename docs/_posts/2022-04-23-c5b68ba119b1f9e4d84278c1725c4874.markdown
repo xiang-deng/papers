@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BLISS: Robust Sequence-to-Sequence Learning via Self-Supervised Input Representation"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "Z Zhang, L Ding, D Cheng, X Liu, M Zhang, D Tao - arXiv preprint arXiv:2204.07837, 2022"
+---
+Data augmentations (DA) are the cores to achieving robust sequence-to-sequence learning on various natural language processing (NLP) tasks. However, most of the DA approaches force the decoder to make predictions conditioned on the perturbed input representation, underutilizing supervised information provided by perturbed input. In this work, we propose a framework-level robust sequence-to-sequence learning approach, named BLISS, via self-supervised input representation, which Cites: BERT: Pre-training of Deep Bidirectional Transformers for

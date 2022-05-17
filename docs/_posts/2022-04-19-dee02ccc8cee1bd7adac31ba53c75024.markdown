@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "What Language Model to Train if You Have One Million GPU Hours?"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "T Le Scao, T Wang, D Hesslow, L Saulnier, S Bekman - Challenges { &, 2022"
+---
+The crystallization of modeling methods around the Transformer architecture has been a boon for practitioners. Simple, well-motivated architectural variations that transfer across tasks and scale, increasing the impact of modeling research. However, with the emergence of state-of-the-art 100B+ parameters models, large language models are increasingly expensive to accurately design and train. Notably, it can be difficult to evaluate how modeling decisions may impact emergent Cites: BoolQ: Exploring the Surprising Difficulty of Natural Yes/No

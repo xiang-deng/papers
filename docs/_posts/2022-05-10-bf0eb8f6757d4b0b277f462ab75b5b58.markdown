@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards consistent document-level entity linking: Joint Models for entity linking and coreference resolution"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "Y Jiang, K Zaporojets, J Deleu, T Demeester - 2022"
+---
+We consider the task of document-level entity linking (EL), where it is important to make consistent decisions for entity mentions over the full document jointly. We aim to leverage explicit connections among mentions within the document itself: we propose to join EL and coreference resolution (coref) in a single structured prediction task over directed trees and use a globally normalized model to solve it. This contrasts with related works where two separate models are trained for each of the Cites: A Joint Model for Entity Analysis: Coreference, Typing, and Linking

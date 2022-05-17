@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "S Ge, T Hayes, H Yang, X Yin, G Pang, D Jacobs - arXiv preprint arXiv , 2022"
+---
+Videos are created to express emotion, exchange information, and share experiences. Video synthesis has intrigued researchers for a long time. Despite the rapid progress driven by advances in visual synthesis, most existing studies focus on improving the frames  quality and the transitions between them, while little progress has been made in generating longer videos. In this paper, we present a method that builds on 3D-VQGAN and transformers to generate videos with thousands of frames Cites: The curious case of neural text degeneration

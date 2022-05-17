@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Knowledge-Aware Meta-learning for Low-Resource Text Classification"
+date:   2021-09-16 19:19:30 -0400
+categories: jekyll update
+author: "H Yao, Y Wu, M Al-Shedivat, EP Xing - arXiv preprint arXiv:2109.04707, 2021"
+---
+Meta-learning has achieved great success in leveraging the historical learned knowledge to facilitate the learning process of the new task. However, merely learning the knowledge from the historical tasks, adopted by current meta-learning algorithms, may not generalize well to testing tasks when they are not well-supported by training tasks. This paper studies a low-resource text classification problem and bridges the gap between meta-training and meta-testing tasks by leveraging the Cites: Inferential text generation with multiple knowledge sources and

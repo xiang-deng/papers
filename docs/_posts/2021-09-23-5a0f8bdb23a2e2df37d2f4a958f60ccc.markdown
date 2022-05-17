@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Question Classification of CoQA (QCoC) Dataset"
+date:   2021-09-23 17:17:49 -0400
+categories: jekyll update
+author: "AS Lokman, MA Ameedeen, NA Ghani -  Engineering & Computer Systems and 4th , 2021"
+---
+This paper proposes a new dataset for question classification process. Named QCoC (Question Classification of CoQA), this dataset is created based on Stanford s CoQA (A Conversational Question Answering Challenge) dataset. The total of QCoC datapoint is 116630 (total of combined question-answer pairs in CoQA training and evaluation dataset). Common question classification datasets are classifying question based on its paired answer s knowledge (the semantic of answer s context) Cites: Quac: Question answering in context

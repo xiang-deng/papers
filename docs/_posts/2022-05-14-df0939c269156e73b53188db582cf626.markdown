@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Beyond a Pre-Trained Object Detector: Cross-Modal Textual and Visual Context for Image Captioning"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "CW Kuo, Z Kira - arXiv preprint arXiv:2205.04363, 2022"
+---
+Significant progress has been made on visual captioning, largely relying on pre- trained features and later fixed object detectors that serve as rich inputs to auto- regressive models. A key limitation of such methods, however, is that the output of the model is conditioned only on the object detector s outputs. The assumption that such outputs can represent all necessary information is unrealistic, especially when the detector is transferred across datasets. In this work, we reason about the Cites: Vinvl: Revisiting visual representations in vision-language models

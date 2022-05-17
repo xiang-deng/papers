@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Feature Structure Distillation for BERT Transferring"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "HJ Jung, D Kim, SH Na, K Kim - arXiv preprint arXiv:2204.08922, 2022"
+---
+Knowledge distillation is an approach to transfer information on representations from a teacher to a student by reducing their difference. A challenge of this approach is to reduce the flexibility of the student s representations inducing inaccurate learning of the teacher s knowledge. To resolve it in BERT transferring, we investigate distillation of structures of representations specified to three types: intra-feature, local inter- feature, global inter-feature structures. To transfer them, we introduce textit {feature Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

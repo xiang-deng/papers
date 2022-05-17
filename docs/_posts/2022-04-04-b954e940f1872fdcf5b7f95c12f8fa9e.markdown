@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Exploiting high-order local and global user-item interactions for effective recommendation"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "S Tian, G Guo, Y Li, Y Liu, X Wang - Knowledge-Based Systems, 2022"
+---
+Recommender systems aim to suggest items of interest from historical interactions between users and items. Advanced methods such as path-based recommendations attempt to capture high-order user-item interactions for better recommendation performance. However, these methods focus more on the local view of user-item interactions, ignoring the global view, which limits performance. Two more drawbacks further restrict the performance of existing methods. First, most do not Cites: Convolutional 2d knowledge graph embeddings

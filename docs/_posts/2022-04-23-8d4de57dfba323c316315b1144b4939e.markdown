@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "M Leszczynski, DY Fu, MF Chen, C R - arXiv preprint arXiv:2204.08173, 2022"
+---
+Entity retrieval--retrieving information about entity mentions in a query--is a key step in open-domain tasks, such as question answering or fact checking. However, state- of-the-art entity retrievers struggle to retrieve rare entities for ambiguous mentions due to biases towards popular entities. Incorporating knowledge graph types during training could help overcome popularity biases, but there are several challenges:(1) existing type-based retrieval methods require mention boundaries as input, but open Cites: Sparse, dense, and attentional representations for text retrieval

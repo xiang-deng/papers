@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Reference-based weak supervision for answer sentence selection using web data"
+date:   2021-09-23 17:17:49 -0400
+categories: jekyll update
+author: "V Krishnamurthy, T Vu, A Moschitti - arXiv preprint arXiv:2104.08943, 2021"
+---
+Answer sentence selection (AS2) modeling requires annotated data, ie, hand- labeled question-answer pairs. We present a strategy to collect weakly supervised answers for a question based on its reference to improve AS2 modeling. Specifically, we introduce Reference-based Weak Supervision (RWS), a fully automatic large- scale data pipeline that harvests high-quality weakly-supervised answers from abundant Web data requiring only a question-reference pair as input. We study the Cites: Natural questions: a benchmark for question answering research

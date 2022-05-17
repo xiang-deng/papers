@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ELM: Embedding and Logit Margins for Long-Tail Learning"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "W Jitkrittum, AK Menon, AS Rawat, S Kumar - arXiv preprint arXiv:2204.13208, 2022"
+---
+Long-tail learning is the problem of learning under skewed label distributions, which pose a challenge for standard learners. Several recent approaches for the problem have proposed enforcing a suitable margin in logit space. Such techniques are intuitive analogues of the guiding principle behind SVMs, and are equally applicable to linear models and neural models. However, when applied to neural models, such techniques do not explicitly control the geometry of the learned embeddings. This Cites: Ranking on data manifolds.

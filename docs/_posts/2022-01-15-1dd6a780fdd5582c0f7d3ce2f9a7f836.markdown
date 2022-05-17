@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ALICE++: Adversarial Training for Robust and Effective Temporal Reasoning"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "L Pereira, F Cheng, M Asahara, I Kobayashi - Proceedings of the 35th Pacific Asia , 2021"
+---
+We propose an enhanced adversarial training algorithm for fine-tuning transformer- based language models (ie, RoBERTa) and apply it to the temporal reasoning task. Instead of adding the perturbation only to the embedding layer, our algorithm searches for the best combination of layers to add the adversarial perturbation. We further enhance this algorithm with f-divergences, ie, the Jensen-Shannon divergence. Moreover, we enrich this model with general commonsense knowledge Cites: Cosmos qa: Machine reading comprehension with contextual

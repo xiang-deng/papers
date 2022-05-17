@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards Teachable Reasoning Systems"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "B Dalvi, O Tafjord, P Clark - arXiv preprint arXiv:2204.13074, 2022"
+---
+Our goal is a teachable reasoning system for question-answering (QA), where a user can interact with faithful answer explanations, and correct errors so that the system improves over time. Our approach is three-fold: First, generated chains of reasoning show how answers are implied by the system s own internal beliefs. Second, users can interact with the explanations to identify erroneous model beliefs and provide corrections. Third, we augment the model with a dynamic memory of such Cites: Fast model editing at scale

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Self-Consistency Improves Chain of Thought Reasoning in Language Models"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "X Wang, J Wei, D Schuurmans, Q Le, E Chi, D Zhou - arXiv preprint arXiv:2203.11171, 2022"
+---
+We explore a simple ensemble strategy, self-consistency, that significantly improves the reasoning accuracy of large language models. The idea is to sample a diverse set of outputs from a language model and return the most consistent answer in the

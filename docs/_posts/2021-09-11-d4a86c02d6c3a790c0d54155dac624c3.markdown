@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Finetuned Language Models Are Zero-Shot Learners"
+date:   2021-09-11 11:24:16 -0400
+categories: jekyll update
+author: "J Wei, M Bosma, VY Zhao, K Guu, AW Yu, B Lester - arXiv preprint arXiv , 2021"
+---
+This paper explores a simple method for improving the zero-shot learning abilities of language models. We show that instruction tuning--finetuning language models on a collection of tasks described via instructions--substantially boosts zero-shot performance on unseen tasks. We take a 137B parameter pretrained language model and instruction-tune it on over 60 NLP tasks verbalized via natural language instruction templates. We evaluate this instruction-tuned model, which we call FLAN Cites: Prefix-tuning: Optimizing continuous prompts for generation

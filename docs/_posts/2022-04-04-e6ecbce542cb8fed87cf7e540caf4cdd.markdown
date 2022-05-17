@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Near-optimality for infinite-horizon restless bandits with many arms"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "X Zhang, PI Frazier - arXiv preprint arXiv:2203.15853, 2022"
+---
+Restless bandits are an important class of problems with applications in recommender systems, active learning, revenue management and other areas. We consider infinite-horizon discounted restless bandits with many arms where a fixed proportion of arms may be pulled in each period and where arms share a finite state space. Although an average-case-optimal policy can be computed via stochastic dynamic programming, the computation required grows exponentially with the Cites: Optimistic knowledge gradient policy for optimal budget allocation

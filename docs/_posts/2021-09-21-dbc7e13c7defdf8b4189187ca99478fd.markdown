@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Challenges in Detoxifying Language Models"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "J Welbl, A Glaese, J Uesato, S Dathathri, J Mellor - arXiv preprint arXiv , 2021"
+---
+Large language models (LM) generate remarkably fluent text and can be efficiently adapted across NLP tasks. Measuring and guaranteeing the quality of generated text in terms of safety is imperative for deploying LMs in the real world; to this end, prior work often relies on automatic evaluation of LM toxicity. We critically discuss this approach, evaluate several toxicity mitigation strategies with respect to both automatic and human evaluation, and analyze consequences of toxicity mitigation in Cites: Bert: Pre-training of deep bidirectional transformers for language

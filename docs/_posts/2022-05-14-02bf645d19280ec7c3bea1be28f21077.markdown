@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Practical Synthesis from Real-World Oracles"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "B Collie"
+---
+As software systems become increasingly heterogeneous, the ability of compilers to reason about an entire system has decreased. When components of a system are not implemented as traditional programs, but rather as specialised hardware, optimised architecture-specific libraries, or network services, the compiler is unable to cross these abstraction barriers and analyse the system as a whole. If these components could be modelled or understood as programs, then the compiler would Cites: Optimal Neural Program Synthesis from Multimodal Specifications

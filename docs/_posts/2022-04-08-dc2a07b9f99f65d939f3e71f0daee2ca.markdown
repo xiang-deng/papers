@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CharacterBERT and Self-Teaching for Improving the Robustness of Dense Retrievers on Queries with Typos"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "S Zhuang, G Zuccon - arXiv preprint arXiv:2204.00716, 2022"
+---
+Previous work has shown that dense retrievers are not robust to out-of-domain and outlier queries, ie their effectiveness on these queries is much poorer than what expected. In this paper, we consider a specific instance of such queries: queries that contain typos. We show that a small character level perturbation in queries (as caused by typos) highly impacts the effectiveness of dense retrievers. We then demonstrate that the root cause of this resides in the input tokenization strategy Cites: Salient Phrase Aware Dense Retrieval: Can a Dense Retriever

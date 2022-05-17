@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Art of Prompting: Event Detection based on Type Specific Prompts"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "S Wang, M Yu, L Huang - arXiv preprint arXiv:2204.07241, 2022"
+---
+We compare various forms of prompts to represent event types and develop a unified framework to incorporate the event type specific prompts for supervised, few-shot, and zero-shot event detection. The experimental results demonstrate that a well- defined and comprehensive event type prompt can significantly improve the performance of event detection, especially when the annotated data is scarce (few- shot event detection) or not available (zero-shot event detection). By leveraging the Cites: Entity, relation, and event extraction with contextualized span

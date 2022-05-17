@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Automatic Pharma News Categorization"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "S Adaszewski, P Kuner, RJ Jaeger - arXiv preprint arXiv:2201.00688, 2021"
+---
+We use a text dataset consisting of 23 news categories relevant to pharma information science, in order to compare the fine-tuning performance of multiple transformer models in a classification task. Using a well-balanced dataset with multiple autoregressive and autocoding transformation models, we compare their fine-tuning performance. To validate the winning approach, we perform diagnostics of model behavior on mispredicted instances, including inspection of category-wise Cites: Electra: Pre-training text encoders as discriminators rather than

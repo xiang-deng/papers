@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "R Sato - arXiv preprint arXiv:2205.01954, 2022"
+---
+Word embeddings are one of the most fundamental technologies used in natural language processing. Existing word embeddings are high-dimensional and consume considerable computational resources. In this study, we propose WordTour, unsupervised one-dimensional word embeddings. To achieve the challenging goal, we propose a decomposition of the desiderata of word embeddings into two parts, completeness and soundness, and focus on soundness Cites: Linguistic regularities in continuous space word representations

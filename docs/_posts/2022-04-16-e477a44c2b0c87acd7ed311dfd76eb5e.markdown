@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Detection, Disambiguation, Re-ranking: Autoregressive Entity Linking as a Multi-Task Problem"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "K Mrini, S Nie, J Gu, S Wang, M Sanjabi, H Firooz - arXiv preprint arXiv:2204.05990, 2022"
+---
+We propose an autoregressive entity linking model, that is trained with two auxiliary tasks, and learns to re-rank generated samples at inference time. Our proposed novelties address two weaknesses in the literature. First, a recent method proposes to learn mention detection and then entity candidate selection, but relies on predefined sets of candidates. We use encoder-decoder autoregressive entity linking in order to bypass this need, and propose to train mention detection as an auxiliary Cites: Multilingual autoregressive entity linking

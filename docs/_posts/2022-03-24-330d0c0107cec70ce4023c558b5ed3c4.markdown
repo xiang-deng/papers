@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Finding and Fixing Undesirable Behaviors in Pretrained Language Models"
+date:   2022-03-24 01:59:24 -0400
+categories: jekyll update
+author: "E Perez - 2022"
+---
+In machine learning, we often do not know how to specify the desired objective for our learning algorithms. For example, we typically train models to answer questions correctly by using a proxy objective: training models to answer questions as people do. We do so because we don t know how to directly train the model to provide true answers, since we don t always know what the truth is [van Inwagen 2004]. Question answering systems trained in the above way regurgitate human misconceptions [Lin Cites: Dense Passage Retrieval for Open-Domain Question Answering

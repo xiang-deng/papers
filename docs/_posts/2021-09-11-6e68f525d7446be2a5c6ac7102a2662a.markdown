@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multi-modal Program Inference: a Marriage of Pre-trainedLanguage Models and Component-based Synthesis"
+date:   2021-09-11 11:24:16 -0400
+categories: jekyll update
+author: "K Rahmani, M Raza, S Gulwani, V Le, D Morris - arXiv preprint arXiv , 2021"
+---
+Multi-modal program synthesis refers to the task of synthesizing programs (code) from their specification given in different forms, such as a combination of natural language and examples. Examples provide a precise but incomplete specification, and natural language provides an ambiguous but more  complete  task description. Machine-learned pre-trained models (PTMs) are adept at handling ambiguous natural language, but struggle with generating syntactically and semantically precise Cites: Rat-sql: Relation-aware schema encoding and linking for text-to

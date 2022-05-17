@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards Document-Level Paraphrase Generation with Sentence Rewriting and Reordering"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "Z Lin, Y Cai, X Wan - arXiv preprint arXiv:2109.07095, 2021"
+---
+Paraphrase generation is an important task in natural language processing. Previous works focus on sentence-level paraphrase generation, while ignoring document- level paraphrase generation, which is a more challenging and valuable task. In this paper, we explore the task of document-level paraphrase generation for the first time and focus on the inter-sentence diversity by considering sentence rewriting and reordering. We propose CoRPG (Coherence Relationship guided Paraphrase Cites: Cross-sentence n-ary relation extraction with graph lstms

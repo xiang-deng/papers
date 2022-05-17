@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "Y Chen, D Hazarika, M Namazifar, Y Liu, D Jin - arXiv preprint arXiv , 2022"
+---
+The massive amount of trainable parameters in the pre-trained language models (PLMs) makes them hard to be deployed to multiple downstream tasks. To address this issue, parameter-efficient transfer learning methods have been proposed to tune only a few parameters during fine-tuning while freezing the rest. This paper looks at existing methods along this line through the textit {kernel lens}. Motivated by the connection between self-attention in transformer-based PLMs and kernel learning Cites: Coqa: A conversational question answering challenge

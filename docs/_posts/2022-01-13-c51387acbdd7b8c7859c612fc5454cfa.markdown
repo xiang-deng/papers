@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multimodal feature fusion based on object relation for video captioning"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "Z Yan, Y Chen, J Song, J Zhu - CAAI Transactions on Intelligence Technology"
+---
+Video captioning aims at automatically generating a natural language caption to describe the content of a video. However, most of the existing methods in the video captioning task ignore the relationship between objects in the video and the correlation between multimodal features, and they also ignore the effect of caption length on the task. This study proposes a novel video captioning framework (ORMF) based on the object relation graph and multimodal feature fusion. ORMF uses the Cites: Video description generation incorporating spatio-temporal

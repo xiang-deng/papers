@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multilingual Syntax-aware Language Modeling through Dependency Tree Conversion"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "S Kando, H Noji, Y Miyao - arXiv preprint arXiv:2204.08644, 2022"
+---
+Incorporating stronger syntactic biases into neural language models (LMs) is a long- standing goal, but research in this area often focuses on modeling English text, where constituent treebanks are readily available. Extending constituent tree-based LMs to the multilingual setting, where dependency treebanks are more common, is possible via dependency-to-constituency conversion methods. However, this raises the question of which tree formats are best for learning the model, and for which Cites: Universal dependencies v2: An evergrowing multilingual treebank

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Multitask Deep Learning Framework for DNER"
+date:   2022-04-21 03:59:43 -0400
+categories: jekyll update
+author: "R Jin, T Hou, T Yu, M Luo, H Hu - Computational Intelligence and Neuroscience, 2022"
+---
+Over the years, the explosive growth of drug-related text information has resulted in heavy loads of work for manual data processing. However, the domain knowledge hidden is believed to be crucial to biomedical research and applications. In this article, the multi-DTR model that can accurately recognize drug-specific name by joint modeling of DNER and DNEN was proposed. Character features were extracted by CNN out of the input text, and the context-sensitive word vectors were obtained Cites: BERT: Pre-training of Deep Bidirectional Transformers for

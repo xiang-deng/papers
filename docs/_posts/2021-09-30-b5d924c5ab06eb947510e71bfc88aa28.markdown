@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Extracting Relations from Italian Wikipedia using Unsupervised Information Extraction"
+date:   2021-09-30 20:19:19 -0400
+categories: jekyll update
+author: "P Cassotti, L Siciliani, P Basile, M de Gemmis, P Lops - 2021"
+---
+In this paper, we describe WikiOIE, a framework for extracting relations from Wikipedia. The framework is based on UDPipe and the Universal Dependencies project for text processing. It easily allows customizing the information extraction (IE) approach to automatically extract triples (subject, predicate, object). In this work, we propose two unsupervised IE methods to extract triples from the Italian version of Wikipedia. The former is based only on PoS-tag patterns; the latter also uses Cites: Open information extraction from the web

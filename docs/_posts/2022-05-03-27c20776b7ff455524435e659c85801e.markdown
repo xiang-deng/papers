@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CPT: Cross-Modal Prefix-Tuning for Speech-To-Text Translation"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "Y Ma, TH Nguyen, B Ma - ICASSP 2022-2022 IEEE International Conference on , 2022"
+---
+Speech translation models benefit from adapting multilingual pretrained language models. However, such adaptation modifies the parameters in the pretrained model to favor a specific task. Prefix-tuning, as a lightweight adaptation technique, has recently emerged as an efficient adaptation method that significantly reduces the number of trainable parameters and has demonstrated great potential in low- resource settings. It inserts prefixes into the output of each layer of a pretrained Cites: Analyzing the forgetting problem in pretrain-finetuning of open

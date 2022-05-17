@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Using Optimal Transport as Alignment Objective for fine-tuning Multilingual Contextualized Embeddings"
+date:   2021-09-30 20:19:19 -0400
+categories: jekyll update
+author: "S Alqahtani, G Lalwani, Y Zhang, S Romeo, S Mansour"
+---
+Recent studies have proposed different methods to improve multilingual word representations in contextualized settings including techniques that align between source and target embedding spaces. For contextualized embeddings, alignment becomes more complex as we additionally take context into consideration. In this work, we propose using Optimal Transport (OT) as an alignment objective during finetuning to further improve multilingual contextualized representations for Cites: Bert: Pre-training of deep bidirectional transformers for language

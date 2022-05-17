@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ABLE: Meta-Path Prediction in Heterogeneous Information Networks"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "C Huang, Y Fang, X Lin, X Cao, W Zhang - ACM Transactions on Knowledge , 2022"
+---
+Given a heterogeneous information network (HIN) H, a head node h, a meta-path P, and a tail node t, the meta-path prediction aims at predicting whether h can be linked to t by an instance of P. Most existing solutions either require predefined meta-paths, which limits their scalability to schema-rich HINs and long meta-paths, or do not aim at predicting the existence of an instance of P. To address these issues, in this article, we propose a novel prediction model, called ABLE, by exploiting the A ttention Cites: Quac: Question answering in context

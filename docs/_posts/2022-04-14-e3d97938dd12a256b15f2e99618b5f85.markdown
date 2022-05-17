@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Effects of Data and Entity Ablation on Multitask Learning Models for Biomedical Entity Recognition"
+date:   2022-04-14 01:14:43 -0400
+categories: jekyll update
+author: "NE Rodriguez, M Nguyen, BT McInnes - Journal of Biomedical Informatics, 2022"
+---
+Motivation Training domain-specific named entity recognition (NER) models requires high quality hand curated gold standard datasets which are time-consuming and expensive to create. Furthermore, the storage and memory required to deploy NLP models can be prohibitive when the number of tasks is large. In this work, we explore utilizing multi-task learning to reduce the amount of training data needed to train new domain-specific models. We evaluate our system across 22 distinct biomedical NER Cites: Bert: Pre-training of deep bidirectional transformers for language

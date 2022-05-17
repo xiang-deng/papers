@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Pipelines for Social Bias Testing of Large Language Models"
+date:   2022-04-21 03:59:43 -0400
+categories: jekyll update
+author: "D Nozza, F Bianchi, D Hovy - Challenges { &, 2022"
+---
+The maturity level of language models is now at a stage in which many companies rely on them to solve various tasks. However, while research has shown how biased and harmful these models are, systematic ways of integrating social bias tests into development pipelines are still lacking. This short paper suggests how to use these verification techniques in development pipelines. We take inspiration from software testing and suggest addressing social bias evaluation as software testing. We hope Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

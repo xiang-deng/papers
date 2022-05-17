@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MiDTD: A Simple and Effective Distillation Framework for Distantly Supervised Relation Extraction"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "R Li, C Yang, T Li, S Su - ACM Transactions on Information Systems (TOIS), 2022"
+---
+Relation extraction (RE), an important information extraction task, faced the great challenge brought by limited annotation data. To this end, distant supervision was proposed to automatically label RE data, and thus largely increased the number of annotated instances. Unfortunately, lots of noise relation annotations brought by automatic labeling become a new obstacle. Some recent studies have shown that the teacher-student framework of knowledge distillation can alleviate the interference Cites: Position-aware attention and supervised data improve slot filling

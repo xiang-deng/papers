@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "L Huang, G Niu, J Liu, X Xiao, H Wu - arXiv preprint arXiv:2203.09052, 2022"
+---
+Due to the limitations of the model structure and pre-training objectives, existing vision-and-language generation models cannot utilize pair-wise images and text through bi-directional generation. In this paper, we propose DU-VLG, a framework which unifies vision-and-language generation as sequence generation problems. DU-VLG is trained with novel dual pre-training tasks: multi-modal denoising autoencoder tasks and modality translation tasks. To bridge the gap between image Cites: X-lxmert: Paint, caption and answer questions with multi-modal

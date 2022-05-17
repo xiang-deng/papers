@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "KATANA: Simple Post-Training Robustness Using Test Time Augmentations"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "G Cohen, R Giryes - arXiv preprint arXiv:2109.08191, 2021"
+---
+Although Deep Neural Networks (DNNs) achieve excellent performance on many real-world tasks, they are highly vulnerable to adversarial attacks. A leading defense against such attacks is adversarial training, a technique in which a DNN is trained to be robust to adversarial attacks by introducing adversarial noise to its input. This procedure is effective but must be done during the training phase. In this work, we propose a new simple and easy-to-use technique, KATANA, for robustifying an Cites: Unlabeled data improves adversarial robustness

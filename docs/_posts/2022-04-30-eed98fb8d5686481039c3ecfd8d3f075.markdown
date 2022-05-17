@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Training and challenging models for text-guided fashion image retrieval"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "E Dodds, J Culpepper, G Srivastava - arXiv preprint arXiv:2204.11004, 2022"
+---
+Retrieving relevant images from a catalog based on a query image together with a modifying caption is a challenging multimodal task that can particularly benefit domains like apparel shopping, where fine details and subtle variations may be best expressed through natural language. We introduce a new evaluation dataset, Challenging Fashion Queries (CFQ), as well as a modeling approach that achieves state-of-the-art performance on the existing Fashion IQ (FIQ) dataset. CFQ Cites: Vinvl: Making visual representations matter in vision-language

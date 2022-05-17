@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Beam Decoding with Controlled Patience"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "J Kasai, K Sakaguchi, RL Bras, D Radev, Y Choi - arXiv preprint arXiv , 2022"
+---
+Text generation with beam search has proven successful in a wide range of applications. The commonly-used implementation of beam decoding follows a first come, first served heuristic: it keeps a set of already completed sequences over time

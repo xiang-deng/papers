@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Integrity and Privacy in Adversarial Machine Learning"
+date:   2021-09-16 19:19:30 -0400
+categories: jekyll update
+author: "M Jagielski - 2021"
+---
+Abstract Machine learning is being used for an increasing number of applications with societal impact. In such settings, models must be trusted to be fair, useful, and robust. In many applications, a large amount of training data is collected from a variety of sources, including from private or untrusted individuals. Manually sanitizing datasets is difficult as datasets increase in size, which allows a motivate adversary to adversarially corrupt training data, crafted to impact the model at test time, referred to Cites: Stronger data poisoning attacks break data sanitization defenses

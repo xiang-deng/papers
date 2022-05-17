@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Generating Scientific Claims for Zero-Shot Scientific Fact Checking"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "D Wright, D Wadden, K Lo, B Kuehl, A Cohan - arXiv preprint arXiv , 2022"
+---
+Automated scientific fact checking is difficult due to the complexity of scientific language and a lack of significant amounts of training data, as annotation requires domain expertise. To address this challenge, we propose scientific claim generation, the task of generating one or more atomic and verifiable claims from scientific sentences, and demonstrate its usefulness in zero-shot fact checking for biomedical claims. We propose CLAIMGEN-BART, a new supervised method for generating Cites: Question generation for question answering

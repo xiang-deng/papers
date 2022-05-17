@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "M Shukor, G Couairon, A Grechka, M Cord - arXiv preprint arXiv:2204.09730, 2022"
+---
+Cross-modal image-recipe retrieval has gained significant attention in recent years. Most work focuses on improving cross-modal embeddings using unimodal encoders, that allow for efficient retrieval in large-scale databases, leaving aside cross-attention between modalities which is more computationally expensive. We propose a new retrieval framework, T-Food (Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval) that exploits the interaction between modalities in a Cites: Oscar: Object-semantics aligned pre-training for vision-language

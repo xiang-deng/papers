@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BARACK: Partially Supervised Group Robustness With Guarantees"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "N Sohoni, M Sanjabi, N Ballas, A Grover, S Nie - arXiv preprint arXiv , 2021"
+---
+While neural networks have shown remarkable success on classification tasks in terms of average-case performance, they often fail to perform well on certain groups of the data. Such group information may be expensive to obtain; thus, recent works in robustness and fairness have proposed ways to improve worst-group performance even when group labels are unavailable for the training data. However, these methods generally underperform methods that utilize group information at training Cites: Just train twice: Improving group robustness without training group

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "IndicXNLI: Evaluating Multilingual Inference for Indian Languages"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "D Aggarwal, V Gupta, A Kunchukuttan - arXiv preprint arXiv:2204.08776, 2022"
+---
+While Indic NLP has made rapid advances recently in terms of the availability of corpora and pre-trained models, benchmark datasets on standard NLU tasks are limited. To this end, we introduce IndicXNLI, an NLI dataset for 11 Indic languages. It has been created by high-quality machine translation of the original English XNLI dataset and our analysis attests to the quality of IndicXNLI. By finetuning different pre- trained LMs on this IndicXNLI, we analyze various cross-lingual transfer techniques Cites: XTREME-R: Towards More Challenging and Nuanced Multilingual

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Siamese Pre-Trained Transformer Encoder for Knowledge Base Completion"
+date:   2021-09-11 11:24:16 -0400
+categories: jekyll update
+author: "M Li, B Wang, J Jiang - Neural Processing Letters, 2021"
+---
+In this paper, we aim at leveraging a Siamese textual encoder to efficiently and effectively tackle knowledge base completion problem. Traditional graph embedding- based methods straightforwardly learn the embeddings by considering a knowledge base s structure but are inherently vulnerable to the graph s sparsity or incompleteness issue. In contrast, previous textual encoding-based methods capture such structured knowledge from a semantic perspective and employ deep neural Cites: Embedding entities and relations for learning and inference in

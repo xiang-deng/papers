@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Knowledge Enhanced Fine-Tuning for Better Handling Unseen Entities in Dialogue Generation"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "L Cui, Y Wu, S Liu, Y Zhang - arXiv preprint arXiv:2109.05487, 2021"
+---
+Although pre-training models have achieved great success in dialogue generation, their performance drops dramatically when the input contains an entity that does not appear in pre-training and fine-tuning datasets (unseen entity). To address this issue, existing methods leverage an external knowledge base to generate appropriate responses. In real-world scenario, the entity may not be included by the knowledge base or suffer from the precision of knowledge retrieval. To deal with this problem Cites: A knowledge-grounded neural conversation model

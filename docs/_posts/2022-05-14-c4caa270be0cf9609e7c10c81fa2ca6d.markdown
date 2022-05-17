@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CompactIE: Compact Facts in Open Information Extraction"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "FF Bayat, N Bhutani, HV Jagadish - arXiv preprint arXiv:2205.02880, 2022"
+---
+A major drawback of modern neural OpenIE systems and benchmarks is that they prioritize high coverage of information in extractions over compactness of their constituents. This severely limits the usefulness of OpenIE extractions in many downstream tasks. The utility of extractions can be improved if extractions are compact and share constituents. To this end, we study the problem of identifying compact extractions with neural-based methods. We propose CompactIE, an OpenIE Cites: Open information extraction from the web

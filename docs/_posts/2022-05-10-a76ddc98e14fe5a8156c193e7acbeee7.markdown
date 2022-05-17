@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Low-resource Entity Set Expansion: A Comprehensive Study on User-generated Text"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "Y Shao, N Bhutani, S Rahman, E Hruschka"
+---
+Entity set expansion (ESE) aims at obtaining a more complete set of entities given a textual corpus and a seed set of entities of a concept. Although it is a critical task in many NLP applications, existing benchmarks are limited to well-formed text (eg, Wikipedia) and welldefined concepts (eg, countries and diseases). Furthermore, only a small number of predictions are evaluated compared to the actual size of an entity set. A rigorous assessment of ESE methods warrants more comprehensive Cites: Few-shot learning for opinion summarization

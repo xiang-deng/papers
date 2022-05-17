@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Relation-aware collaborative autoencoder for personalized multiple facet selection"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "S Chantamunee, KW Wong, CC Fung - Knowledge-Based Systems, 2022"
+---
+Collaborative-based personalization has been one of the most successful techniques used in building personalization for recommender systems and facet selection. The technique predicts users  interests based on the preferences of similar people or items. The prediction is usually made on one single group of users or items/facets. However, multiple facet selection creates a different challenge where the prediction needs to be based on the similarity among different groups of users Cites: Complex embeddings for simple link prediction

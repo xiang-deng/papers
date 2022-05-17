@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Compositional Generalization and Decomposition in Neural Program Synthesis"
+date:   2022-04-14 01:14:43 -0400
+categories: jekyll update
+author: "K Shi, J Hong, M Zaheer, P Yin, C Sutton - Deep Learning for Code Workshop, 2022"
+---
+When writing programs, people have the ability to tackle a new complex task by decomposing it into smaller and more familiar subtasks. While it is difficult to measure whether neural program synthesis methods have similar capabilities, what we can measure is whether they compositionally generalize, that is, whether a model that has been trained on the simpler subtasks is subsequently able to solve more complex tasks. In this paper, we focus on measuring the ability of learned program Cites: Compositional Generalization for Neural Semantic Parsing via

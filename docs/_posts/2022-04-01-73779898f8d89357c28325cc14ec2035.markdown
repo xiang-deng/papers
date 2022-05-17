@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chain of Thought Prompting Elicits Reasoning in Large Language Models"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "JWXWD Schuurmans, M Bosma, D Zhou"
+---
+Although scaling up language model size has reliably improved performance on a range of NLP tasks, even the largest models currently struggle with certain reasoning tasks such as math word problems, symbolic manipulation, and commonsense reasoning. This paper explores the ability of language models to generate a coherent chain of thoughta series of short sentences that mimic the reasoning process a person might have when responding to a question. Experiments show that Cites: Flexible generation of natural language deductions

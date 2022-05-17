@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Comparing in context: Improving cosine similarity measures with a metric tensor"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "IMA de Vos, GL Boogerd, MD Fennema, AD Correia - arXiv preprint arXiv:2203.14996, 2022"
+---
+Cosine similarity is a widely used measure of the relatedness of pre-trained word embeddings, trained on a language modeling goal. Datasets such as WordSim-353 and SimLex-999 rate how similar words are according to human annotators, and as such are often used to evaluate the performance of language models. Thus, any improvement on the word similarity task requires an improved word representation. In this paper, we propose instead the use of an extended cosine similarity measure Cites: A structural probe for finding syntax in word representations

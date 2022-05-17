@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "METGEN: A Module-Based Entailment Tree Generation Framework for Answer Explanation"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "R Hong, H Zhang, X Yu, C Zhang - arXiv preprint arXiv:2205.02593, 2022"
+---
+Knowing the reasoning chains from knowledge to the predicted answers can help construct an explainable question answering (QA) system. Advances on QA explanation propose to explain the answers with entailment trees composed of multiple entailment steps. While current work proposes to generate entailment trees with end-to-end generative models, the steps in the generated trees are not constrained and could be unreliable. In this paper, we propose METGEN, a Module Cites: Flexible generation of natural language deductions

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Can We Teach a Transformer To Reason About Effects of Actions?"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "P Banerjee, C Baral, M Luo, A Mitra, K Pal, TC Son - 2021"
+---
+A recent work has shown that transformers are able to reason with facts and rules in a limited setting where the rules are natural language expressions of conjunctions of conditions implying a conclusion. Since this suggests that transformers may be used for reasoning with knowledge given in natural language, we do a rigorous evaluation of this with respect to a common form of knowledge and its corresponding reasoning the reasoning about effects of actions. Reasoning about action and change has been Cites: Tracking state changes in procedural text: a challenge dataset and

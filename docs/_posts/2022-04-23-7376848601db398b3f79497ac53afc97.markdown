@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "P Ang, B Dhingra, LW Wills - arXiv preprint arXiv:2204.07288, 2022"
+---
+With many real-world applications of Natural Language Processing (NLP) comprising of long texts, there has been a rise in NLP benchmarks that measure the accuracy of models that can handle longer input sequences. However, these benchmarks do not consider the trade-offs between accuracy, speed, and power consumption as input sizes or model sizes are varied. In this work, we perform a systematic study of this accuracy vs. efficiency trade-off on two widely used long Cites: A dataset of information-seeking questions and answers anchored

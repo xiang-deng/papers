@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improving Top-K Decoding for Non-Autoregressive Semantic Parsing via Intent Conditioning"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "G Oh, R Goel, C Hidey, S Paul, A Gupta, P Shah - arXiv preprint arXiv , 2022"
+---
+Semantic parsing (SP) is a core component of modern virtual assistants like Google Assistant and Amazon Alexa. While sequence-to-sequence-based auto-regressive (AR) approaches are common for conversational semantic parsing, recent studies employ non-autoregressive (NAR) decoders and reduce inference latency while maintaining competitive parsing quality. However, a major drawback of NAR decoders is the difficulty of generating top-k (ie, k-best) outputs with approaches such Cites: Compositional Generalization for Neural Semantic Parsing via

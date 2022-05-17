@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A segment enhanced span-based model for nested named entity recognition"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "F Li, Z Wang, SC Hui, L Liao, X Zhu, H Huang - Neurocomputing, 2021"
+---
+Named entity recognition (NER) is a fundamental problem in natural language processing. In particular, nested entities are commonly existed in real-life textual data for the NER task. However, the current span-based methods for nested NER are computationally expensive, lacking of explicit boundary supervision and generating many negative samples for span classification, which affect their overall performance. In this paper, we propose a Segment Enhanced Span-based model for Cites: A neural transition-based model for nested mention recognition

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Inducing and Using Alignments for Transition-based AMR Parsing"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "A Drozdov, J Zhou, R Florian, A McCallum, T Naseem - arXiv preprint arXiv , 2022"
+---
+Transition-based parsers for Abstract Meaning Representation (AMR) rely on node- to-word alignments. These alignments are learned separately from parser training and require a complex pipeline of rule-based components, pre-processing, and post- processing to satisfy domain-specific constraints. Parsers also train on a point- estimate of the alignment pipeline, neglecting the uncertainty due to the inherent ambiguity of alignment. In this work we explore two avenues for overcoming these Cites: Compositional Generalization for Neural Semantic Parsing via

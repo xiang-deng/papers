@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SPARQLing Database Queries from Intermediate Question Decompositions"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "I Saparina, A Osokin - arXiv preprint arXiv:2109.06162, 2021"
+---
+To translate natural language questions into executable database queries, most approaches rely on a fully annotated training set. Annotating a large dataset with queries is difficult as it requires query-language expertise. We reduce this burden using grounded in databases intermediate question representations. These representations are simpler to collect and were originally crowdsourced within the Break dataset (Wolfson et al., 2020). Our pipeline consists of two parts: a neural Cites: GraPPa: Grammar-Augmented Pre-Training for Table Semantic

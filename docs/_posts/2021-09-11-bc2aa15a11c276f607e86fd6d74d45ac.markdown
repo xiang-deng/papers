@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards a fine-grained entity linking approach"
+date:   2021-09-11 11:24:16 -0400
+categories: jekyll update
+author: "H Rosales Mndez - 2021"
+---
+La tarea Entity Linking (EL) implica vincular menciones de entidades en un texto con su identificador correspondiente en una base de conocimiento (KB) como Wikipedia, BabelNet, DBpedia, Freebase, Wikidata, YAGO, etc. Se han propuesto numerosas tcnicas para abordar esta tarea a lo largo de los aos. Sin embargo, no todos los trabajos adoptan la misma convencin con respecto a las entidades a las que debe desambiguar la tarea EL; por ejemplo, mientras que algunos trabajos EL apuntan a Cites: Feature-rich part-of-speech tagging with a cyclic dependency

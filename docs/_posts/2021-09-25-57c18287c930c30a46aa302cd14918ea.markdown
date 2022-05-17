@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning Kernel-Smoothed Machine Translation with Retrieved Examples"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "Q Jiang, M Wang, J Cao, S Cheng, S Huang, L Li - arXiv preprint arXiv:2109.09991, 2021"
+---
+How to effectively adapt neural machine translation (NMT) models according to emerging cases without retraining? Despite the great success of neural machine translation, updating the deployed models online remains a challenge. Existing non- parametric approaches that retrieve similar examples from a database to guide the translation process are promising but are prone to overfit the retrieved examples. However, non-parametric methods are prone to overfit the retrieved examples. In this Cites: WhiteningBERT: An Easy Unsupervised Sentence Embedding

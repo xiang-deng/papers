@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "Q Shi, Y Zhang, Q Yin, T Liu - arXiv preprint arXiv:2109.06480, 2021"
+---
+Table-based fact verification task aims to verify whether the given statement is supported by the given semi-structured table. Symbolic reasoning with logical operations plays a crucial role in this task. Existing methods leverage programs that contain rich logical information to enhance the verification process. However, due to the lack of fully supervised signals in the program generation process, spurious programs can be derived and employed, which leads to the inability of the model to Cites: Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir

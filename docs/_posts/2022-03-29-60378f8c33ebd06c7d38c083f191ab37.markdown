@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "Z Yu, Z Jin, J Yu, M Xu, J Fan - arXiv preprint arXiv:2203.12814, 2022"
+---
+Transformer-based approaches have shown great success in visual question answering (VQA). However, they usually require deep and wide models to guarantee good performance, making it difficult to deploy on capacity-restricted platforms. It is a challenging yet valuable task to design an elastic VQA model that supports adaptive pruning at runtime to meet the efficiency constraints of diverse platforms. In this paper, we present the Doubly Slimmable Transformer (DST), a general framework Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

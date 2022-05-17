@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DeepAltTrip: Top-k Alternative Itineraries for Trip Recommendation"
+date:   2021-09-14 15:58:32 -0400
+categories: jekyll update
+author: "SM Rashid, ME Ali, MA Cheema - arXiv preprint arXiv:2109.03535, 2021"
+---
+Trip itinerary recommendation finds an ordered sequence of Points-of-Interest (POIs) from a large number of candidate POIs in a city. In this paper, we propose a deep learning-based framework, called DeepAltTrip, that learns to recommend top-k alternative itineraries for given source and destination POIs. These alternative itineraries would be not only popular given the historical routes adopted by past users but also dissimilar (or diverse) to each other. The DeepAltTrip consists of two Cites: Automatic construction of travel itineraries using social breadcrumbs

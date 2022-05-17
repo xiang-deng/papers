@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Table Enrichment System for Machine Learning"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "Y Dong, M Oyamada - arXiv preprint arXiv:2204.08235, 2022"
+---
+Data scientists are constantly facing the problem of how to improve prediction accuracy with insufficient tabular data. We propose a table enrichment system that enriches a query table by adding external attributes (columns) from data lakes and improves the accuracy of machine learning predictive models. Our system has four stages, join row search, task-related table selection, row and column alignment, and feature selection and evaluation, to efficiently create an enriched table for a given Cites: Finding related tables

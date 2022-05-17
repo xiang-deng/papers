@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Do Long-Range Language Models Actually Use Long-Range Context?"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "S Sun, K Krishna, A Mattarella-Micke, M Iyyer - arXiv preprint arXiv:2109.09115, 2021"
+---
+Language models are generally trained on short, truncated input sequences, which limits their ability to use discourse-level information present in long-range context to improve their predictions. Recent efforts to improve the efficiency of self-attention

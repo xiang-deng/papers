@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning to Answer Visual Questions from Web Videos"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "A Yang, A Miech, J Sivic, I Laptev, C Schmid - arXiv preprint arXiv:2205.05019, 2022"
+---
+Recent methods for visual question answering rely on large-scale annotated datasets. Manual annotation of questions and answers for videos, however, is tedious, expensive and prevents scalability. In this work, we propose to avoid manual annotation and generate a large-scale training dataset for video question answering making use of automatic cross-modal supervision. We leverage a question generation transformer trained on text data and use it to generate question-answer Cites: Merlot: Multimodal neural script knowledge models

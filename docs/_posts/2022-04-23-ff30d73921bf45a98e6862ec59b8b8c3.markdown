@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Contrastive Learning with Hard Negative Entities for Entity Set Expansion"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "Y Li, Y Li, Y He, T Yu, Y Shen, HT Zheng - arXiv preprint arXiv:2204.07789, 2022"
+---
+Entity Set Expansion (ESE) is a promising task which aims to expand entities of the target semantic class described by a small seed entity set. Various NLP and IR applications will benefit from ESE due to its ability to discover knowledge. Although previous ESE methods have achieved great progress, most of them still lack the ability to handle hard negative entities (ie, entities that are difficult to distinguish from the target entities), since two entities may or may not belong to the same semantic Cites: Long-tail vocabulary dictionary extraction from the web

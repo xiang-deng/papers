@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Self-Supervised Learning of Smart Contract Representations"
+date:   2022-05-05 02:23:22 -0400
+categories: jekyll update
+author: "S Yang, X Gu, B Shen - 2022"
+---
+Learning smart contract representations can greatly facilitate the development of smart contracts in many tasks such as bug detection and clone detection. Existing approaches for learning program representations are difficult to apply to smart contracts which have insufficient data and significant homogenization. To overcome these challenges, in this paper, we propose SRCL, a novel, self-supervised approach for learning smart contract representations. Unlike existing supervised Cites: Codebert: A pre-trained model for programming and natural

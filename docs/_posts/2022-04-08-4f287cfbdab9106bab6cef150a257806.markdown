@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Better Intermediates Improve CTC Inference"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "T Komatsu, Y Fujita, J Lee, L Lee, S Watanabe, Y Kida - arXiv preprint arXiv , 2022"
+---
+This paper proposes a method for improved CTC inference with searched intermediates and multi-pass conditioning. The paper first formulates self- conditioned CTC as a probabilistic model with an intermediate prediction as a latent representation and provides a tractable conditioning framework. We then propose two new conditioning methods based on the new formulation:(1) Searched intermediate conditioning that refines intermediate predictions with beam-search,(2) Cites: Latent-variable non-autoregressive neural machine translation

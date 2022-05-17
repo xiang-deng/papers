@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "GeSe: Generalized static embedding"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "N Gong, N Yao - Applied Intelligence, 2022"
+---
+In natural language processing, most text representation methods can be generally categorized into two paradigms: static and dynamic. Both have distinctive advantages, which are reflected in the cost of training resources, the scale of input data, and the interpretability of the representation model. Dynamic representation methods, such as BERT, have achieved excellent results on many tasks based on expensive pre-training. However, this representation paradigm is black-box, and the Cites: Linguistic regularities in continuous space word representations

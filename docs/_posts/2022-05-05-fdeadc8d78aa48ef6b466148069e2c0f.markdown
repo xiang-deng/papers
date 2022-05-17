@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DeepLoc 2.0: multi-label subcellular localization prediction using protein language models"
+date:   2022-05-05 02:23:22 -0400
+categories: jekyll update
+author: "V Thumuluri, JJ Almagro Armenteros, AR Johansen - Nucleic Acids Research, 2022"
+---
+The prediction of protein subcellular localization is of great relevance for proteomics research. Here, we propose an update to the popular tool DeepLoc with multi- localization prediction and improvements in both performance and interpretability. For training and validation, we curate eukaryotic and human multi-location protein datasets with stringent homology partitioning and enriched with sorting signal information compiled from the literature. We achieve state-of-the-art performance in Cites: BERT: Pre-training of Deep Bidirectional Transformers for

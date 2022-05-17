@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hierarchical Inductive Transfer for Continual Dialogue Learning"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "S Feng, X Ren, K Li, X Sun - arXiv preprint arXiv:2203.10484, 2022"
+---
+Pre-trained models have achieved excellent performance on the dialogue task. However, for the continual increase of online chit-chat scenarios, directly fine-tuning these models for each of the new tasks not only explodes the capacity of the dialogue system on the embedded devices but also causes knowledge forgetting on pre-trained models and knowledge interference among diverse dialogue tasks. In this work, we propose a hierarchical inductive transfer framework to learn and deploy Cites: A knowledge-grounded neural conversation model

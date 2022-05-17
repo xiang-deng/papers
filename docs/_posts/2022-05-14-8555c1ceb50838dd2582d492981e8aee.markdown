@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "An Application-Oblivious Memory Scheduling System for DNN Accelerators"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "J Li, X Wang, X Chen, G Li, X Dong, P Zhao, X Yu - ACM Transactions on , 2022"
+---
+Deep Neural Networks (DNNs) tend to go deeper and wider, which poses a significant challenge to the training of DNNs, due to the limited memory capacity of DNN accelerators. Existing solutions for memory-efficient DNN training are densely coupled with the application features of DNN workloads, eg, layer structures or computational graphs of DNNs are necessary for these solutions. This would result in weak versatility for DNNs with sophisticated layer structures or complicated Cites: BERT: pre-training of deep bidirectional transformers for language

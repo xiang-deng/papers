@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "Y Gan, X Chen, Q Huang, M Purver - arXiv preprint arXiv:2205.02054, 2022"
+---
+In text-to-SQL tasks--as in much of NLP--compositional generalization is a major challenge: neural networks struggle with compositional generalization where training and test distributions differ. However, most recent attempts to improve this are based on word-level synthetic data or specific dataset splits to generate compositional biases. In this work, we propose a clause-level compositional example generation method. We first split the sentences in the Spider text-to-SQL dataset into sub Cites: Meta-Learning to Compositionally Generalize

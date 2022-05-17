@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Similar Questions Correspond to Similar SQL Queries: A Case-Based Reasoning Approach for Text-to-SQL Translation"
+date:   2021-09-14 15:58:32 -0400
+categories: jekyll update
+author: "W Yu, X Guo, F Chen, T Chang, M Wang, X Wang - International Conference on Case , 2021"
+---
+Based on the natural truth that similar questions correspond to similar SQL queries, a CBR-based approach is proposed to deal with the Text-to-SQL task in this paper. We follow the traditional CBR processes: similarity assessment, case retrieval, and case reuse. First, we introduce a neural classifier in the similarity assessment stage and comprehensively uses classification probability and literal cosine similarity to measure similarity. Then, based on the results of the similarity assessment, our Cites: SParC: Cross-Domain Semantic Parsing in Context

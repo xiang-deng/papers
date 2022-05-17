@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "X Hu, C Zhang, Y Yang, X Li, L Lin, L Wen, PS Yu - arXiv preprint arXiv:2109.06415, 2021"
+---
+Low-resource Relation Extraction (LRE) aims to extract relation facts from limited labeled corpora when human annotation is scarce. Existing works either utilize self- training scheme to generate pseudo labels that will cause the gradual drift problem, or leverage meta-learning scheme which does not solicit feedback explicitly. To alleviate selection bias due to the lack of feedback loops in existing LRE learning paradigms, we developed a Gradient Imitation Reinforcement Learning method to Cites: Zero-shot relation extraction via reading comprehension

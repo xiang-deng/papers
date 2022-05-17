@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "CL Fu, ZC Chen, YR Lee, H Lee - arXiv preprint arXiv:2205.00305, 2022"
+---
+Transformer-based pre-trained models with millions of parameters require large storage. Recent approaches tackle this shortcoming by training adapters, but these approaches still require a relatively large number of parameters. In this study, AdapterBias, a surprisingly simple yet effective adapter architecture, is proposed. AdapterBias adds a token-dependent shift to the hidden output of transformer layers to adapt to downstream tasks with only a vector and a linear layer. Extensive Cites: AdapterFusion: Non-destructive task composition for transfer learning

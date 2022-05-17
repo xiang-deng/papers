@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "J Kim, JC Weiss, P Ravikumar - Conference on Health, Inference, and Learning, 2022"
+---
+Spelling correction is a particularly important problem in clinical natural language processing because of the abundant occurrence of misspellings in medical records. However, the scarcity of labeled datasets in a clinical context makes it hard to build a machine learning system for such clinical spelling correction. In this work, we present a probabilistic model of correcting misspellings based on a simple conditional independence assumption, which leads to a modular decomposition into a language Cites: BERT: Pre-training of deep bidirectional transformers for language

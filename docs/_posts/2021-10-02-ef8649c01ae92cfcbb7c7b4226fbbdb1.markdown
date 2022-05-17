@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Auditing AI models for Verified Deployment under Semantic Specifications"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "H Bharadhwaj, DA Huang, C Xiao, A Anandkumar - arXiv preprint arXiv , 2021"
+---
+Auditing trained deep learning (DL) models prior to deployment is vital in preventing unintended consequences. One of the biggest challenges in auditing is in understanding how we can obtain human-interpretable specifications that are directly useful to the end-user. We address this challenge through a sequence of semantically-aligned unit tests, where each unit test verifies whether a predefined specification (eg, accuracy over 95%) is satisfied with respect to controlled and Cites: Certified robustness to adversarial word substitutions

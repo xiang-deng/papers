@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Jointly Learning to Repair Code and Generate Commit Message"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "J Bai, L Zhou, A Blanco, S Liu, F Wei, M Zhou, Z Li - arXiv preprint arXiv:2109.12296, 2021"
+---
+We propose a novel task of jointly repairing program codes and generating commit messages. Code repair and commit message generation are two essential and related tasks for software development. However, existing work usually performs the two tasks independently. We construct a multilingual triple dataset including buggy code, fixed code, and commit messages for this novel task. We provide the cascaded models as baseline, which are enhanced with different training approaches Cites: Dawn Drain

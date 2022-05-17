@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Rows from Many Sources: Enriching row completions from Wikidata with a pre-trained Language Model"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "C Negreanu, A Karaoglu, J Williams, S Chen, D Fabian - arXiv preprint arXiv , 2022"
+---
+Row completion is the task of augmenting a given table of text and numbers with additional, relevant rows. The task divides into two steps: subject suggestion, the task of populating the main column; and gap filling, the task of populating the remaining columns. We present state-of-the-art results for subject suggestion and gap filling measured on a standard benchmark (WikiTables). Our idea is to solve this task by harmoniously combining knowledge base table interpretation and free text Cites: TaBERT: Pretraining for joint understanding of textual and tabular

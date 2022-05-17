@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Flexible Instance-Specific Rationalization of NLP Models"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "G Chrysostomou, N Aletras - 2022"
+---
+Recent research on model interpretability in natural language processing extensively uses feature scoring methods for identifying which parts of the input are the most important for a model to make a prediction (ie explanation or rationale). However, previous research has shown that there is no clear best scoring method across various text classification tasks while practitioners typically have to make several other adhoc choices regarding the length and the type of the rationale (eg short or Cites: On the opportunities and risks of foundation models

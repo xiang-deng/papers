@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Document-Level Relation Extraction with Adaptive Focal Loss and Knowledge Distillation"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "Q Tan, R He, L Bing, HT Ng - arXiv preprint arXiv:2203.10900, 2022"
+---
+Document-level Relation Extraction (DocRE) is a more challenging task compared to its sentence-level counterpart. It aims to extract relations from multiple sentences at once. In this paper, we propose a semi-supervised framework for DocRE with three novel components. Firstly, we use an axial attention module for learning the interdependency among entity-pairs, which improves the performance on two-hop relations. Secondly, we propose an adaptive focal loss to tackle the class imbalance Cites: Cross-sentence n-ary relation extraction with graph lstms

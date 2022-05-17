@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Synthetic Question Value Estimation for Domain Adaptation of Question Answering"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "X Yue, Z Yao, H Sun - arXiv preprint arXiv:2203.08926, 2022"
+---
+Synthesizing QA pairs with a question generator (QG) on the target domain has become a popular approach for domain adaptation of question answering (QA) models. Since synthetic questions are often noisy in practice, existing work adapts scores from a pretrained QA (or QG) model as criteria to select high-quality questions. However, these scores do not directly serve the ultimate goal of improving QA performance on the target domain. In this paper, we introduce a novel idea of Cites: Unsupervised question answering by cloze translation

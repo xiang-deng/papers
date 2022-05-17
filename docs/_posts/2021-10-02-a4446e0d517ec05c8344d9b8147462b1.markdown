@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Investigating Non-local Features for Neural Constituency Parsing"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "L Cui, S Yang, Y Zhang - arXiv preprint arXiv:2109.12814, 2021"
+---
+Thanks to the strong representation power of neural encoders, neural chart-based parsers have achieved highly competitive performance by using local features. Recently, it has been shown that non-local features in CRF structures lead to improvements. In this paper, we investigate injecting non-local features into the training process of a local span-based parser, by predicting constituent n-gram non- local patterns and ensuring consistency between non-local patterns and local Cites: A tree-based decoder for neural machine translation

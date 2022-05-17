@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "X Ma, J Guo, R Zhang, Y Fan, X Cheng - arXiv preprint arXiv:2204.10641, 2022"
+---
+Dense retrieval has shown promising results in many information retrieval (IR) related tasks, whose foundation is high-quality text representation learning for effective search. Some recent studies have shown that autoencoder-based language models are able to boost the dense retrieval performance using a weak decoder. However, we argue that 1) it is not discriminative to decode all the input texts and, 2) even a weak decoder has the bypass effect on the encoder. Therefore, in this work Cites: Latent retrieval for weakly supervised open domain question

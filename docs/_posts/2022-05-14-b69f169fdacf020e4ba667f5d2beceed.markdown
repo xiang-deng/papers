@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "GRAPHCACHE: Message Passing as Caching for Sentence-Level Relation Extraction"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "Y Wang, M Chen, W Zhou, Y Cai, Y Liang, B Hooi - arXiv preprint arXiv:2205.03786, 2022"
+---
+Entity types and textual context are essential properties for sentence-level relation extraction (RE). Existing work only encodes these properties within individual instances, which limits the performance of RE given the insufficient features in a single sentence. In contrast, we model these properties from the whole dataset and use the dataset-level information to enrich the semantics of every instance. We propose the GRAPHCACHE (Graph Neural Network as Caching) module, that Cites: Knowledge enhanced contextual word representations

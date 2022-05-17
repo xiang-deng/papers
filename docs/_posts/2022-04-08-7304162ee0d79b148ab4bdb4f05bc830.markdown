@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Maintaining Reasoning Consistency in Compositional Visual Question Answering"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "C Jing, Y Jia, Y Wu, X Liu, Q Wu"
+---
+A compositional question refers to a question that contains multiple visual concepts (eg, objects, attributes, and relationships) and requires compositional reasoning to answer. Existing VQA models can answer a compositional question well, but cannot work well in terms of reasoning consistency in answering the compositional question and its sub-questions. For example, a compositional question for an image is:Are there any elephants to the right of the white bird? and one of its sub-questions is Is Cites: Squinting at vqa models: Introspecting vqa models with sub

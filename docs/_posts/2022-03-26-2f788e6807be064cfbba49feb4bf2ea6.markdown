@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mutually improved dense retriever and GNN-based reader for arbitrary-hop open-domain question answering"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "R Li, L Wang, Z Jiang, Z Hu, M Zhao, X Lu - Neural Computing and Applications, 2022"
+---
+Open-domain question answering (OpenQA) requires not only a high-precision reader, but also high-quality retrieval of related passages. Particularly, real-world OpenQA usually involves multi-hop retrieval and reading to deal with complex questions that need bridging information. In this paper, we investigate the mutual promotion of dense retrievers and Graph Neural Network-based readers to improve OpenQA. Specifically, we introduce an alternate training strategy where the scores of Cites: Retrieve, rerank, read, then iterate: Answering open-domain

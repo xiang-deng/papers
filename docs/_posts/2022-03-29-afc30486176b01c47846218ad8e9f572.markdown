@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Text Transformations in Contrastive Self-Supervised Learning: A Review"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "A Bhattacharjee, M Karami, H Liu - arXiv preprint arXiv:2203.12000, 2022"
+---
+Contrastive self-supervised learning has become a prominent technique in representation learning. The main step in these methods is to contrast semantically similar and dissimilar pairs of samples. However, in the domain of Natural Language, the augmentation methods used in creating similar pairs with regard to contrastive learning assumptions are challenging. This is because, even simply modifying a word in the input might change the semantic meaning of the sentence, and hence Cites: Polyjuice: Generating counterfactuals for explaining, evaluating

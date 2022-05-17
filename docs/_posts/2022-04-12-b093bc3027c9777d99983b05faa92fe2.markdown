@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Entailment Graph Learning with Textual Entailment and Soft Transitivity"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "Z Chen, Y Feng, D Zhao - arXiv preprint arXiv:2204.03286, 2022"
+---
+Typed entailment graphs try to learn the entailment relations between predicates from text and model them as edges between predicate nodes. The construction of entailment graphs usually suffers from severe sparsity and unreliability of distributional similarity. We propose a two-stage method, Entailment Graph with Textual Entailment and Transitivity (EGT2). EGT2 learns local entailment relations by recognizing possible textual entailment between template sentences formed by Cites: Large-scale semantic parsing without question-answer pairs

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On Synonyms Search Model"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "OM Ataeva, VA Serebryakov, NP Tuchkova - 2021"
+---
+The problem of finding the most relevant documents as a result of an extended and refined query is considered. To solve it, a search model and a text preprocessing mechanism are proposed. It is proposed to use a search engine and a model based on an index using word2vec algorithms to generate an extended query with synonyms. To refine the search results, the idea of selecting similar documents in the digital semantic library is used. The paper investigates the construction of a vector Cites: Linguistic regularities in continuous space word representations

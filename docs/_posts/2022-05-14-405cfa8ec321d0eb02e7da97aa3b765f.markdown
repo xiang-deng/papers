@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Building Machine Translation Systems for the Next Thousand Languages"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "A Bapna, I Caswell, J Kreutzer, O Firat, D van Esch - arXiv preprint arXiv , 2022"
+---
+In this paper we share findings from our effort to build practical machine translation (MT) systems capable of translating across over one thousand languages. We describe results in three research domains:(i) Building clean, web-mined datasets for 1500+ languages by leveraging semi-supervised pre-training for language identification and developing data-driven filtering techniques;(ii) Developing practical MT models for under-served languages by leveraging massively multilingual models Cites: AfroMT: Pretraining Strategies and Reproducible Benchmarks for

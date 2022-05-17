@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Indiscriminate Data Poisoning Attacks on Neural Networks"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "Y Lu, G Kamath, Y Yu - arXiv preprint arXiv:2204.09092, 2022"
+---
+Data poisoning attacks, in which a malicious adversary aims to influence a model by injecting  poisoned  data into the training process, have attracted significant recent attention. In this work, we take a closer look at existing poisoning attacks and connect them with old and new algorithms for solving sequential Stackelberg games. By choosing an appropriate loss function for the attacker and optimizing with algorithms that exploit second-order information, we design poisoning attacks that are effective Cites: Stronger data poisoning attacks break data sanitization defenses

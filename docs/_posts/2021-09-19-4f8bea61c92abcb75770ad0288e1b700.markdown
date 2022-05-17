@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Natural SQL: Making SQL Easier to Infer from Natural Language Specifications"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "Y Gan, X Chen, J Xie, M Purver, JR Woodward, J Drake - arXiv preprint arXiv , 2021"
+---
+Addressing the mismatch between natural language descriptions and the corresponding SQL queries is a key challenge for text-to-SQL translation. To bridge this gap, we propose an SQL intermediate representation (IR) called Natural SQL (NatSQL). Specifically, NatSQL preserves the core functionalities of SQL, while it simplifies the queries as follows:(1) dispensing with operators and keywords such as GROUP BY, HAVING, FROM, JOIN ON, which are usually hard to find counterparts Cites: SyntaxSQLNet: Syntax Tree Networks for Complex and Cross

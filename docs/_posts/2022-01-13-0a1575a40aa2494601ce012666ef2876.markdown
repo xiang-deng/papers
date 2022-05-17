@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Borrowing wisdom from world: modeling rich external knowledge for Chinese named entity recognition"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "Y Nie, Y Zhang, Y Peng, L Yang - Neural Computing and Applications, 2022"
+---
+Chinese named entity recognition (CNER) is one of the fundamental tasks in natural language processing (NLP), supporting a wide range of downstream NLP tasks for Chinese texts. The recent best-performing CNER works have extensively shown that by using external knowledge, such as lexicons and syntactic dependency features, considerable task improvements can be secured. Nevertheless, we note that current works still fail to sufficiently integrate rich external knowledge to boost the CNER Cites: Deep biaffine attention for neural dependency parsing

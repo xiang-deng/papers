@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ELUNet: an efficient and lightweight U-shape network for real-time semantic segmentation"
+date:   2022-04-06 16:01:31 -0400
+categories: jekyll update
+author: "Y Ai, J Guo, Y Wang - Journal of Electronic Imaging, 2022"
+---
+The demand to design lightweight semantic segmentation models on mobile devices is growing. Current U-shape structures can improve the segmentation accuracy. However, they can hardly achieve lightweight requirements due to their inefficient encoders. Besides, partial details and edges are damaged during the process of repeated downsampling. To this end, we propose an efficient and lightweight U- shape network (ELUNet) for real-time semantic segmentation. In the encoder, a light Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

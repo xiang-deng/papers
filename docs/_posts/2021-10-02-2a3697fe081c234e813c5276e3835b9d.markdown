@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards Automating Type Changes"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "AS Ketkar - 2021"
+---
+Developers frequently change the type of a program element and update all its references for performance, security, concurrency, library migration, or better maintainability. Despite type changes being a common program transformation, it is the least automated and the least studied. Manually performing type changes is tedious since the programmers have to reason about propagating the type constraints of the new type over assignments, method hierarchies and subtypes Cites: Learning to represent edits

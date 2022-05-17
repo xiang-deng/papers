@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "Z Tang, S Pei, Z Zhang, Y Zhu, F Zhuang, R Hoehndorf - arXiv preprint arXiv , 2022"
+---
+Most real-world knowledge graphs (KG) are far from complete and comprehensive. This problem has motivated efforts in predicting the most plausible missing facts to complete a given KG, ie, knowledge graph completion (KGC). However, existing KGC methods suffer from two main issues, 1) the false negative issue, ie, the candidates for sampling negative training instances include potential true facts; and 2) the data sparsity issue, ie, true facts account for only a tiny part of all possible facts Cites: Representing Text for Joint Embedding of Text and Knowledge

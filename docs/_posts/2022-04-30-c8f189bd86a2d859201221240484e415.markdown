@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Evaluating Extrapolation Performance of Dense Retrieval"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "J Zhan, X Xie, J Mao, Y Liu, M Zhang, S Ma - arXiv preprint arXiv:2204.11447, 2022"
+---
+A retrieval model should not only interpolate the training data but also extrapolate well to the queries that are rather different from the training data. While dense retrieval (DR) models have been demonstrated to achieve better retrieval performance than the traditional term-based retrieval models, we still know little about whether they can extrapolate. To shed light on the research question, we investigate how DR models perform in both the interpolation and extrapolation Cites: Towards Unsupervised Dense Information Retrieval with

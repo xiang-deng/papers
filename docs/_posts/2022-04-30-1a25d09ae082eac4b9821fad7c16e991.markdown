@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sparse and Dense Approaches for the Full-rank Retrieval of Responses for Dialogues"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "G Penha, C Hauff - arXiv preprint arXiv:2204.10558, 2022"
+---
+Ranking responses for a given dialogue context is a popular benchmark in which the setup is to re-rank the ground-truth response over a limited set of $ n $ responses, where $ n $ is typically 10. The predominance of this setup in conversation response ranking has lead to a great deal of attention to building neural re-rankers, while the first-stage retrieval step has been overlooked. Since the correct answer is always available in the candidate list of $ n $ responses, this artificial evaluation setup Cites: Domain-matched pre-training tasks for dense retrieval

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PSP: Pre-trained Soft Prompts for Few-Shot Abstractive Summarization"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "X Liu, Y Bai, J Li, Y Hu, Y Gao - arXiv preprint arXiv:2204.04413, 2022"
+---
+Few-shot abstractive summarization has become a challenging task in natural language generation. To support it, we designed a novel soft prompts architecture coupled with a prompt pre-training plus fine-tuning paradigm that is effective and tunes only extremely light parameters. The soft prompts include continuous input embeddings across an encoder and a decoder to fit the structure of the generation models. Importantly, a novel inner-prompt placed in the text is introduced to capture Cites: Few-shot learning for opinion summarization

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Decoupled Reinforcement Learning to Stabilise Intrinsically-Motivated Exploration"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "L Schfer, F Christianos, JP Hanna, SV Albrecht"
+---
+Intrinsic rewards can improve exploration in reinforcement learning, but the exploration process may suffer from instability caused by non-stationary reward shaping and strong dependency on hyperparameters. In this work, we introduce Decoupled RL (DeRL) as a general framework which trains separate policies for intrinsicallymotivated exploration and exploitation. Such decoupling allows DeRL to leverage the benefits of intrinsic rewards for exploration while demonstrating Cites: Decoupling exploration and exploitation for meta-reinforcement

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Netted?! How to Improve the Usefulness of Spider & Co."
+date:   2021-09-16 19:19:30 -0400
+categories: jekyll update
+author: "B Httasch, N Geisler, C Binnig - 2021"
+---
+Natural language interfaces for databases (NLIDBs) are an intuitive way to access and explore structured data. That makes challenges like Spider (Yale s semantic parsing and text-to-SQL challenge) valuable, as they produce a series of approaches for NL-to-SQL-translation. However, the resulting contributions leave something to be desired. In this paper, we analyze the usefulness of those submissions to the leaderboard for future research. We also present a prototypical implementation Cites: CoSQL: A Conversational Text-to-SQL Challenge Towards Cross

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Road to Explainability is Paved with Bias: Measuring the Fairness of Explanations"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "A Balagopalan, H Zhang, K Hamidieh, T Hartvigsen - arXiv preprint arXiv , 2022"
+---
+Machine learning models in safety-critical settings like healthcare are often blackboxes: they contain a large number of parameters which are not transparent to users. Post-hoc explainability methods where a simple, human-interpretable model imitates the behavior of these blackbox models are often proposed to help users trust model predictions. In this work, we audit the quality of such explanations for different protected subgroups using real data from four settings in finance, healthcare, college Cites: Does the whole exceed its parts? the effect of ai explanations on

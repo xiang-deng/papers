@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Three-Way Decisions Based RNN Models for Sentiment Classification"
+date:   2021-09-23 17:17:49 -0400
+categories: jekyll update
+author: "Y Ma, J Yu, B Ji, J Chen, S Zhao, J Chen - International Joint Conference on Rough , 2021"
+---
+Recurrent neural networks (RNN) has been widely used in sentiment classification. RNN can memorize the previous information and is applied to calculate the current output. For sentiment binary classification, RNN calculates the probabilities and then performs binary classification according to the probability values, and some emotions near the median are forcibly divided. But, it does not consider the existence of some samples that are not very clearly polarized in sentiment binary classification. Three Cites: Deep learning for sentiment analysis: successful approaches and

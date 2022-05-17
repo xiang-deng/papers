@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Self-Guided Learning to Denoise for Robust Recommendation"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "Y Gao, Y Du, Y Hu, L Chen, X Zhu, Z Fang, B Zheng - arXiv preprint arXiv:2204.06832, 2022"
+---
+The ubiquity of implicit feedback makes them the default choice to build modern recommender systems. Generally speaking, observed interactions are considered as positive samples, while unobserved interactions are considered as negative ones. However, implicit feedback is inherently noisy because of the ubiquitous presence of noisy-positive and noisy-negative interactions. Recently, some studies have noticed the importance of denoising implicit feedback for recommendations, and enhanced Cites: Dividemix: Learning with noisy labels as semi-supervised learning

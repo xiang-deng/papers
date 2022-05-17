@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CGC: Contrastive Graph Clustering for Community Detection and Tracking"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "N Park, R Rossi, E Koh, IA Burhanuddin, S Kim, F Du - arXiv preprint arXiv , 2022"
+---
+Given entities and their interactions in the web data, which may have occurred at different time, how can we find communities of entities and track their evolution? In this paper, we approach this important task from graph clustering perspective. Recently, state-of-the-art clustering performance in various domains has been achieved by deep clustering methods. Especially, deep graph clustering (DGC) methods have successfully extended deep clustering to graph-structured data by Cites: Evolutionary spectral clustering by incorporating temporal

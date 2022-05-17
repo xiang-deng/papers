@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Semantic-aware conditional variational autoencoder for one-to-many dialogue generation"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "Y Wang, J Liao, H Yu, J Leng - Neural Computing and Applications, 2022"
+---
+Due to the miscellaneous ambiguity of semantics in open-domain conversation, current deep dialogue models disregard to detect potential emotional and action response features in the latent space, which leads to the general tendency to produce inaccurate and irrelevant sentences. To address this problem, we propose a semantic-aware conditional variational autoencoder that discriminates the sentiment and action responses features in the latent space for one-to-many open-domain Cites:   Why Should I Trust You? : Explaining the Predictions of Any

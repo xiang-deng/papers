@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Flamingo: a Visual Language Model for Few-Shot Learning"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "JB Alayrac, J Donahue, P Luc, A Miech, I Barr - arXiv preprint arXiv , 2022"
+---
+Building models that can be rapidly adapted to numerous tasks using only a handful of annotated examples is an open challenge for multimodal machine learning research. We introduce Flamingo, a family of Visual Language Models (VLM) with this ability. Flamingo models include key architectural innovations to:(i) bridge powerful pretrained vision-only and language-only models,(ii) handle sequences of arbitrarily interleaved visual and textual data, and (iii) seamlessly ingest images or Cites: Prefix-tuning: Optimizing continuous prompts for generation

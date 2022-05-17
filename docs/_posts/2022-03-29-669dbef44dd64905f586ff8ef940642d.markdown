@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "RankSumAn unsupervised extractive text summarization based on rank fusion"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "A Joshi, E Fidalgo, E Alegre, R Alaiz-Rodriguez - Expert Systems with Applications, 2022"
+---
+In this paper, we propose Ranksum, an approach for extractive text summarization of single documents based on the rank fusion of four multi-dimensional sentence features extracted for each sentence: topic information, semantic content, significant keywords, and position. The Ranksum obtains the sentence saliency rankings corresponding to each feature in an unsupervised way followed by the weighted fusion of the four scores to rank the sentences according to their significance. The Cites: Neural Extractive Text Summarization with Syntactic Compression

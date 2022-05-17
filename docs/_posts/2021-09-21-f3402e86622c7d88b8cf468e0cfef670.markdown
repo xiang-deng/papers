@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "SR Choudhury, N Bhutani, I Augenstein - arXiv preprint arXiv:2109.07102, 2021"
+---
+There have been many efforts to try to understand what grammatical knowledge (eg, ability to understand the part of speech of a token) is encoded in large pre-trained language models (LM). This is done throughEdge Probing (EP) tests: simple ML models that predict the grammatical properties of a span (whether it has a particular part of speech) using textit {only} the LM s token representations. However, most NLP applications use finetuned LMs. Here, we ask: if a LM is finetuned, does the Cites: Designing and interpreting probes with control tasks

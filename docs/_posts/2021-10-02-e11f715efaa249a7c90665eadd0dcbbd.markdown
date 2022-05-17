@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Instance-Based Neural Dependency Parsing"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "H Ouchi, J Suzuki, S Kobayashi, S Yokoi, T Kuribayashi - arXiv preprint arXiv , 2021"
+---
+Interpretable rationales for model predictions are crucial in practical applications. We develop neural models that possess an interpretable inference process for dependency parsing. Our models adopt instance-based inference, where dependency edges are extracted and labeled by comparing them to edges in a training set. The training edges are explicitly used for the predictions; thus, it is easy to grasp the contribution of each edge to the predictions. Our experiments show that Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

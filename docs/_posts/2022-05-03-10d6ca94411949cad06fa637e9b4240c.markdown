@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bilingual End-to-End ASR with Byte-Level Subwords"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "L Deng, R Hsiao, A Ghoshal - ICASSP 2022-2022 IEEE International Conference on , 2022"
+---
+In this paper, we investigate how the output representation of an end-to-end neural network affects multilingual automatic speech recognition (ASR). We study different representations including character-level, byte-level, byte pair encoding (BPE), and byte-level byte pair encoding (BBPE) representations, and analyze their strengths and weaknesses. We focus on developing a single end-to-end model to support utterance-based bilingual ASR, where speakers do not alternate between two Cites: Neural machine translation with byte-level subwords

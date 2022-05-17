@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The GatedTabTransformer. An enhanced deep learning architecture for tabular modeling"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "R Cholakov, T Kolev - arXiv preprint arXiv:2201.00199, 2022"
+---
+There is an increasing interest in the application of deep learning architectures to tabular data. One of the state-of-the-art solutions is TabTransformer which incorporates an attention mechanism to better track relationships between categorical features and then makes use of a standard MLP to output its final logits. In this paper we propose multiple modifications to the original TabTransformer performing better on binary classification tasks for three separate datasets with more Cites: TaBERT: Pretraining for joint understanding of textual and tabular

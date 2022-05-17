@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Few-shot Backdoor Defense Using Shapley Estimation"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "J Guan, Z Tu, R He, D Tao - arXiv preprint arXiv:2112.14889, 2021"
+---
+Deep neural networks have achieved impressive performance in a variety of tasks over the last decade, such as autonomous driving, face recognition, and medical diagnosis. However, prior works show that deep neural networks are easily manipulated into specific, attacker-decided behaviors in the inference stage by backdoor attacks which inject malicious small hidden triggers into model training, raising serious security threats. To determine the triggered neurons and protect Cites: Certified defenses for data poisoning attacks

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ProQA: Structural Prompt-based Pre-training for Unified Question Answering"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "W Zhong, Y Gao, N Ding, Y Qin, Z Liu, M Zhou, J Wang - arXiv preprint arXiv , 2022"
+---
+Question Answering (QA) is a longstanding challenge in natural language processing. Existing QA works mostly focus on specific question types, knowledge domains, or reasoning skills. The specialty in QA research hinders systems from modeling commonalities between tasks and generalization for wider applications. To address this issue, we present ProQA, a unified QA paradigm that solves various tasks through a single model. ProQA takes a unified structural prompt as the bridge Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

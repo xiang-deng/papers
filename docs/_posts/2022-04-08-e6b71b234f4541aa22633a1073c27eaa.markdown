@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "SH Bach, V Sanh, ZX Yong, A Webson, C Raffel - arXiv preprint arXiv , 2022"
+---
+PromptSource is a system for creating, sharing, and using natural language prompts. Prompts are functions that map an example from a dataset to a natural language input and target output. Using prompts to train and query language models is an emerging area in NLP that requires new tools that let users develop and refine these prompts collaboratively. PromptSource addresses the emergent challenges in this new setting with (1) a templating language for defining data-linked prompts,(2) an Cites: Dynabench: Rethinking benchmarking in NLP

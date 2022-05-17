@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning to classify relations between entities from noisy data-A meta instance reweighting approach"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "Z Li, JY Nie, Y Song, P Du, D Li - Expert Systems with Applications, 2022"
+---
+Relation classification between entities is a fundamental problem in knowledge extraction. It aims at determining if a semantic relation holds between a pair of entities based on textual descriptions. In general, the training data for each relation is limited. Distant supervision has thus been widely used to generate abundant weakly labeled data for the task. These data are noisy, containing many errors. A crucial problem is to select reliable instances for training or weigh them adequately Cites: Position-aware attention and supervised data improve slot filling

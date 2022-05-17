@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "X Wei, H Yu, Y Hu, R Weng, W Luo, J Xie, R Jin - arXiv preprint arXiv:2204.06812, 2022"
+---
+The principal task in supervised neural machine translation (NMT) is to learn to generate target sentences conditioned on the source inputs from a set of parallel sentence pairs, and thus produce a model capable of generalizing to unseen instances. However, it is commonly observed that the generalization performance of the model is highly influenced by the amount of parallel data used in training. Although data augmentation is widely used to enrich the training data, conventional Cites: SSMBA: Self-supervised manifold based data augmentation for

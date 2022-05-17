@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Exploring the Universal Vulnerability of Prompt-based Learning Paradigm"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "L Xu, Y Chen, G Cui, H Gao, Z Liu - arXiv preprint arXiv:2204.05239, 2022"
+---
+Prompt-based learning paradigm bridges the gap between pre-training and fine- tuning, and works effectively under the few-shot setting. However, we find that this learning paradigm inherits the vulnerability from the pre-training stage, where model predictions can be misled by inserting certain triggers into the text. In this paper, we explore this universal vulnerability by either injecting backdoor triggers or searching for adversarial triggers on pre-trained language models using only plain text. In both Cites: Cutting down on prompts and parameters: Simple few-shot

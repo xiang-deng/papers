@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "StruBERT: Structure-aware BERT for Table Search and Matching"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "M Trabelsi, Z Chen, S Zhang, BD Davison, J Heflin - arXiv preprint arXiv:2203.14278, 2022"
+---
+A large amount of information is stored in data tables. Users can search for data tables using a keyword-based query. A table is composed primarily of data values that are organized in rows and columns providing implicit structural information. A table is usually accompanied by secondary information such as the caption, page title, etc., that form the textual information. Understanding the connection between the textual and structural information is an important yet neglected aspect in table Cites: Finding related tables

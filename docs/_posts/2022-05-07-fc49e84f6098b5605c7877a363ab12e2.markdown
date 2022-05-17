@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SUBS: Subtree Substitution for Compositional Semantic Parsing"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "J Yang, L Zhang, D Yang - arXiv preprint arXiv:2205.01538, 2022"
+---
+Although sequence-to-sequence models often achieve good performance in semantic parsing for iid data, their performance is still inferior in compositional generalization. Several data augmentation methods have been proposed to alleviate this problem. However, prior work only leveraged superficial grammar or rules for data augmentation, which resulted in limited improvement. We propose to use subtree substitution for compositional data augmentation, where we consider Cites: Compositional generalization via semantic tagging

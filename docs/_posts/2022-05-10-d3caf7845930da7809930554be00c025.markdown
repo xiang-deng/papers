@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sparse summary generation"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "S Zhao, T He, J Wen - Applied Intelligence, 2022"
+---
+The state-of-the-art summary generators build on powerful language models, such as BERT, which achieves impressive performance. However, most models employ softmax transformation in their output layer, leading to dense alignments and strictly positive output probabilities. This density is wasteful since it assigns probability mass to many implausible outputs. In this paper, we propose a sparse summary generation model with a new gp-entmax transformation, which includes 1.5-entmax and gradient Cites: Text summarization with pretrained encoders

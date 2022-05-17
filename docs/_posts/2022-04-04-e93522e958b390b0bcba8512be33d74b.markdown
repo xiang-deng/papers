@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FindIt: Generalized Localization with Natural Language Queries"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "W Kuo, F Bertsch, W Li, AJ Piergiovanni, M Saffar - arXiv preprint arXiv , 2022"
+---
+We propose FindIt, a simple and versatile framework that unifies a variety of visual grounding and localization tasks including referring expression comprehension, text- based localization, and object detection. Key to our architecture is an efficient multi- scale fusion module that unifies the disparate localization requirements across the tasks. In addition, we discover that a standard object detector is surprisingly effective in unifying these tasks without a need for task-specific design, losses, or pre Cites: Gqa: a new dataset for compositional question answering over real

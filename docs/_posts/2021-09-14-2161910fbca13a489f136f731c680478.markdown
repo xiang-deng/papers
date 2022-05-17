@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Efficient Nearest Neighbor Language Models"
+date:   2021-09-14 15:58:32 -0400
+categories: jekyll update
+author: "J He, G Neubig, T Berg-Kirkpatrick - arXiv preprint arXiv:2109.04212, 2021"
+---
+Non-parametric neural language models (NLMs) learn predictive distributions of text utilizing an external datastore, which allows them to learn through explicitly memorizing the training datapoints. While effective, these models often require retrieval from a large datastore at test time, significantly increasing the inference overhead and thus limiting the deployment of non-parametric NLMs in practical applications. In this paper, we take the recently proposed $ k $-nearest neighbors Cites: NeurIPS 2020 EfficientQA competition: Systems, analyses and

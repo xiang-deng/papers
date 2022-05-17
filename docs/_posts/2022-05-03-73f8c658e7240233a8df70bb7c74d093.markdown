@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Novel Lightweight Network for Fast Monocular Depth Estimation"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "T Heydrich, Y Yang, X Ma, Y Liu, S Du -  2022-2022 IEEE International Conference on , 2022"
+---
+Depth estimation is of growing interest in many sectors, from robotics to wearable augmented reality gears. Monocular depth estimation attracts more attention due to its cost efficiency and low complexity. Most recent research has developed very large and resource intensive networks which are not suitable for small systems with limited resources. In this paper, we propose a lightweight network which leverages the advantages of dimension-wise convolutions and depthwise separable convolutions Cites: DiCENet: Dimension-wise convolutions for efficient networks

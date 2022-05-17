@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Do Vision-Language Pretrained Models Learn Primitive Concepts?"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "T Yun, U Bhalla, E Pavlick, C Sun - arXiv preprint arXiv:2203.17271, 2022"
+---
+Vision-language pretrained models have achieved impressive performance on multimodal reasoning and zero-shot recognition tasks. Many of these VL models are pretrained on unlabeled image and caption pairs from the internet. In this paper, we study whether the notion of primitive concepts, such as color and shape attributes, emerges automatically from these pretrained VL models. We propose to learn compositional derivations that map primitive concept activations into composite Cites: On the opportunities and risks of foundation models

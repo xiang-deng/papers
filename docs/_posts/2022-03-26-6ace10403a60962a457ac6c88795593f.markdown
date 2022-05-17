@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DuReader_retrieval: A Large-scale Chinese Benchmark for Passage Retrieval from Web Search Engine"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "Y Qiu, H Li, Y Qu, Y Chen, Q She, J Liu, H Wu, H Wang - arXiv preprint arXiv , 2022"
+---
+In this paper, we present DuReader_retrieval, a large-scale Chinese dataset for passage retrieval. DuReader_retrieval contains more than 90K queries and over 8M unique passages from Baidu search. To ensure the quality of our benchmark and address the shortcomings in other existing datasets, we (1) reduce the false negatives in development and testing sets by pooling the results from multiple retrievers with human annotations,(2) and remove the semantically similar questions Cites: Salient Phrase Aware Dense Retrieval: Can a Dense Retriever

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Compact Bidirectional Transformer for Image Captioning"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "Y Zhou, Z Hu, D Liu, H Ben, M Wang - arXiv preprint arXiv:2201.01984, 2022"
+---
+Most current image captioning models typically generate captions from left to right. This unidirectional property makes them can only leverage past context but not future context. Though recent refinement-based models can exploit both past and future context by generating a new caption in the second stage based on pre-retrieved or pre-generated captions in the first stage, the decoder of these models generally consists of two networks~(ie a retriever or captioner in the first stage and a refiner in Cites: Vinvl: Revisiting visual representations in vision-language models

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ERNIE-SPARSE: Learning Hierarchical Efficient Transformer Through Regularized Self-Attention"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "Y Liu, J Liu, L Chen, Y Lu, S Feng, Z Feng, Y Sun - arXiv preprint arXiv , 2022"
+---
+Sparse Transformer has recently attracted a lot of attention since the ability for reducing the quadratic dependency on the sequence length. We argue that two factors, information bottleneck sensitivity and inconsistency between different attention topologies, could affect the performance of the Sparse Transformer. This paper proposes a well-designed model named ERNIE-Sparse. It consists of two distinctive parts:(i) Hierarchical Sparse Transformer (HST) to sequentially unify local Cites: Blockwise Self-Attention for Long Document Understanding

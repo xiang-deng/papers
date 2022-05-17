@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "EllSeg-Gen, towards Domain Generalization for head-mounted eyetracking"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "RS Kothari, RJ Bailey, C Kanan, JB Pelz, GJ Diaz - arXiv preprint arXiv:2205.01947, 2022"
+---
+The study of human gaze behavior in natural contexts requires algorithms for gaze estimation that are robust to a wide range of imaging conditions. However, algorithms often fail to identify features such as the iris and pupil centroid in the presence of reflective artifacts and occlusions. Previous work has shown that convolutional networks excel at extracting gaze features despite the presence of such artifacts. However, these networks often perform poorly on data unseen during Cites: Understanding and mitigating the tradeoff between robustness and

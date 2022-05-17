@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Policy-based performance comparison study of Real-time Simultaneous Translation"
+date:   2022-04-21 03:59:43 -0400
+categories: jekyll update
+author: "J Lee, H Moon, C Park, J Seo, S Eo, S Lee, S Koo - Journal of the Korea , 2022"
+---
+Simultaneous translation is online decoding to translates with only subsentence. The goal of simultaneous translation research is to improve translation performance against delay. For this reason, most studies find trade-off performance between delays. We studied the experiments of the fixed policy-based simultaneous translation in Korean. Our experiments suggest that Korean tokenization causes many fragments, resulting in delay compared to other languages. We suggest follow Cites: Learning to translate in real-time with neural machine translation

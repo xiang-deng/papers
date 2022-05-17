@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On the Generalization Mystery in Deep Learning"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "S Chatterjee, P Zielinski - arXiv preprint arXiv:2203.10036, 2022"
+---
+The generalization mystery in deep learning is the following: Why do over- parameterized neural networks trained with gradient descent (GD) generalize well on real datasets even though they are capable of fitting random datasets of comparable size? Furthermore, from among all solutions that fit the training data, how does GD find one that generalizes well (when such a well-generalizing solution exists)? We argue that the answer to both questions lies in the interaction of the Cites: Catastrophic fisher explosion: Early phase fisher matrix impacts

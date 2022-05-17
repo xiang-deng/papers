@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "E Balkr, I Nejadgholi, KC Fraser, S Kiritchenko"
+---
+We present a novel feature attribution method for explaining text classifiers, and analyze it in the context of hate speech detection. Although feature attribution models usually provide a single importance score for each token, we instead provide two complementary and theoreticallygrounded scoresnecessity and sufficiency resulting in more informative explanations. We propose a transparent method that calculates these values by generating explicit perturbations of the input text, allowing Cites: Polyjuice: Generating Counterfactuals for Explaining, Evaluating

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Span-based Dual-decoder framework for Aspect Sentiment Triplet Extraction"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "Y Chen, Z Zhang, G Zhou, X Sun, K Chen - Neurocomputing, 2022"
+---
+Aspect sentiment triplet extraction (ASTE) aims to extract aspects from review sentences along with their corresponding opinions and sentiments to form opinion triplets. Since each factor within a sentiment triplet could be a single word or a phrase, defining and implementing the span-level features for this span-level task is critical and challenging. However, prior works typically formulate the ASTE task as a sequence tagging problem and address it with token-level models, limiting the Cites: Adaptive recursive neural network for target-dependent twitter

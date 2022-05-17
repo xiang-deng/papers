@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Latent Variable Model with Hierarchical Structure and GPT-2 for Long Text Generation"
+date:   2021-09-14 15:58:32 -0400
+categories: jekyll update
+author: "K Zhao, H Ding, K Ye, X Cui, Z Fu - International Conference on Artificial Neural , 2021"
+---
+Variational AutoEncoder (VAE) has made great achievements in the field of text generation. However, the current research mainly focuses on short texts, with little attention paid to long texts (more than 20 words). In this paper, we first propose a hidden-variable model based on the GPT-2 and hierarchical structure to generate long text. We use hierarchical GRU to encode long text to get hidden variables. At the same time, to generate the text better, we combine the hierarchical structure and GPT Cites: StructVAE: Tree-structured latent variable models for semi

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ArgueBERT: How To Improve BERT Embeddings for Measuring the Similarity of Arguments"
+date:   2021-09-16 19:19:30 -0400
+categories: jekyll update
+author: "M Behrendt, S Harmeling"
+---
+Abstract Argumentation is an important tool within human interaction, not only in law and politics but also for discussing issues, expressing and exchanging opinions and coming to decisions in our everyday life. Applications for argumentation often require the measurement of the arguments  similarity, to solve tasks like clustering, paraphrase identification or summarization. In our work, BERT embeddings are pre- trained on novel training objectives and afterwards fine-tuned in a siamese Cites: Well-Read Students Learn Better: On the Importance of Pre

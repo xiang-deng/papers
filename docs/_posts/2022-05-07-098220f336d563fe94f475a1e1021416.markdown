@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Faithful to the Document or to the World? Mitigating Hallucinations via Entity-linked Knowledge in Abstractive Summarization"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "Y Dong, J Wieting, P Verga - arXiv preprint arXiv:2204.13761, 2022"
+---
+Despite recent advances in abstractive summarization, current summarization systems still suffer from content hallucinations where models generate text that is either irrelevant or contradictory to the source document. However, prior work has been predicated on the assumption that any generated facts not appearing explicitly in the source are undesired hallucinations. Methods have been proposed to address this scenario by ultimately improvingfaithfulness  to the source document, but in Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

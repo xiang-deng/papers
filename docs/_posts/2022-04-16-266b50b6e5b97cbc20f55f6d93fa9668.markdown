@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic Perspective"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "X Wang, S Dou, L Xiong, Y Zou, Q Zhang, T Gui, L Qiao - arXiv preprint arXiv , 2022"
+---
+NER model has achieved promising performance on standard NER benchmarks. However, recent studies show that previous approaches may over-rely on entity mention information, resulting in poor performance on out-of-vocabulary (OOV) entity recognition. In this work, we propose MINER, a novel NER learning framework, to remedy this issue from an information-theoretic perspective. The proposed approach contains two mutual information-based training objectives: i) generalizing information Cites: Joint passage ranking for diverse multi-answer retrieval

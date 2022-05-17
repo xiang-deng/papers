@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Instilling Type Knowledge in Language Models via Multi-Task QA"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "S Li, M Sridhar, CS Prakash, J Cao, W Hamza - arXiv preprint arXiv , 2022"
+---
+Understanding human language often necessitates understanding entities and their place in a taxonomy of knowledge--their types. Previous methods to learn entity types rely on training classifiers on datasets with coarse, noisy, and incomplete labels. We introduce a method to instill fine-grained type knowledge in language models with text-to-text pre-training on type-centric questions leveraging knowledge base documents and knowledge graphs. We create the WikiWiki dataset: entities and Cites: REALM: Retrieval-Augmented Language Model Pre-Training

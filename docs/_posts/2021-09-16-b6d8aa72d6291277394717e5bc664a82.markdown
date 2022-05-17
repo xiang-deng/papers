@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Exploring Datasets via Cell-Centric Indexing"
+date:   2021-09-16 19:19:30 -0400
+categories: jekyll update
+author: "J Heflin, BD Davison, H Jia - 2021"
+---
+We present a novel approach to dataset search and exploration. Cell-centric indexing is a unique indexing strategy that enables a powerful, new interface. The strategy treats individual cells of a table as the indexed unit, and combining this with a number of structure-specific fields enables queries that cannot be answered by a traditional indexing approach. Our interface provides users with an overview of a dataset repository, and allows them to efficiently use various facets to explore the Cites: DBExplorer: Exploratory Search in Databases.

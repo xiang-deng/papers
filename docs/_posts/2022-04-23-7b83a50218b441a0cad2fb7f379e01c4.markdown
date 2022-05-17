@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Zero-Shot Program Representation Learning"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "N Cui, Y Jiang, X Gu, B Shen - arXiv preprint arXiv:2204.08360, 2022"
+---
+Learning program representations has been the core prerequisite of code intelligent tasks such as code search and code clone detection. The state-of-the-art pre-trained models such as CodeBERT require the availability of large-scale code corpora. However, gathering training samples can be costly and infeasible for domain-specific languages such as Solidity for smart contracts. In this paper, we propose Zecoler, a zero-shot learning approach for code representations. Zecoler is built upon a pre Cites: Dawn Drain

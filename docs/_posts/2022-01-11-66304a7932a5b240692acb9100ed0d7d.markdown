@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On Detecting Cherry-picked Generalizations"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "Y Lin, B Youngmann, Y Moskovitch, HV Jagadish"
+---
+Generalizing from detailed data to statements in a broader context is often critical for users to make sense of large data sets. Correspondingly, poorly constructed generalizations might convey misleading information even if the statements are technically supported by the data. For example, a cherry-picked level of aggregation could obscure substantial sub-groups that oppose the generalization. We present a framework for detecting and explaining cherry-picked generalizations by refining Cites: On detecting cherry-picked trendlines

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Domain Adaptation meets Individual Fairness. And they get along"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "D Mukherjee, F Petersen, M Yurochkin, Y Sun - arXiv preprint arXiv:2205.00504, 2022"
+---
+Many instances of algorithmic bias are caused by distributional shifts. For example, machine learning (ML) models often perform worse on demographic groups that are underrepresented in the training data. In this paper, we leverage this connection between algorithmic fairness and distribution shifts to show that algorithmic fairness interventions can help ML models overcome distribution shifts, and that domain adaptation methods (for overcoming distribution shifts) can mitigate algorithmic Cites: Wilds: A benchmark of in-the-wild distribution shifts

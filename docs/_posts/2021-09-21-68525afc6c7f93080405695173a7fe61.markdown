@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "G Mercatali, A Freitas - arXiv preprint arXiv:2109.07169, 2021"
+---
+The ability of learning disentangled representations represents a major step for interpretable NLP systems as it allows latent linguistic features to be controlled. Most approaches to disentanglement rely on continuous variables, both for images and text. We argue that despite being suitable for image datasets, continuous variables may not be ideal to model features of textual data, due to the fact that most generative factors in text are discrete. We propose a Variational Autoencoder based Cites: Evidence-Aware Inferential Text Generation with Vector Quantised

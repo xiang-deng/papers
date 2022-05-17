@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On Effectively Learning of Knowledge in Continual Pre-training"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "C Wang, F Luo, Y Li, R Xu, F Huang, Y Zhang - arXiv preprint arXiv:2204.07994, 2022"
+---
+Pre-trained language models (PLMs) like BERT have made significant progress in various downstream NLP tasks. However, by asking models to do cloze-style tests, recent work finds that PLMs are short in acquiring knowledge from unstructured text. To understand the internal behaviour of PLMs in retrieving knowledge, we first define knowledge-baring (KB) tokens and knowledge-free (KF) tokens for unstructured text and ask professional annotators to label some samples manually. Then, we find that Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

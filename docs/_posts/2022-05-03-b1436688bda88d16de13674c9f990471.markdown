@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Compressing Transformer-Based ASR Model by Task-Driven Loss and Attention-Based Multi-Level Feature Distillation"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "Y Lv, L Wang, M Ge, S Li, C Ding, L Pan, Y Wang - ICASSP 2022-2022 IEEE , 2022"
+---
+The current popular knowledge distillation (KD) methods effectively compress the transformer-based end-to-end speech recognition model. However, existing methods fail to utilize complete information of the teacher model, and they distill only a limited number of blocks of the teacher model. In this study, we first integrate a task-driven loss function into the decoder s intermediate blocks to generate task-related feature representations. Then, we propose an attention-based multi-level feature distillation Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accelerating Attention through Gradient-Based Learned Runtime Pruning"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "Z Li, S Ghodrati, A Yazdanbakhsh, H Esmaeilzadeh - arXiv preprint arXiv , 2022"
+---
+Self-attention is a key enabler of state-of-art accuracy for various transformer-based Natural Language Processing models. This attention mechanism calculates a correlation score for each word with respect to the other words in a sentence. Commonly, only a small subset of words highly correlates with the word under attention, which is only determined at runtime. As such, a significant amount of computation is inconsequential due to low attention scores and can potentially be Cites: Blockwise Self-Attention for Long Document Understanding

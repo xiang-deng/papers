@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Dynamic Model Tree for Interpretable Data Stream Learning"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "J Haug, K Broelemann, G Kasneci - arXiv preprint arXiv:2203.16181, 2022"
+---
+Data streams are ubiquitous in modern business and society. In practice, data streams may evolve over time and cannot be stored indefinitely. Effective and transparent machine learning on data streams is thus often challenging. Hoeffding Trees have emerged as a state-of-the art for online predictive modelling. They are easy to train and provide meaningful convergence guarantees under a stationary process. Yet, at the same time, Hoeffding Trees often require heuristic and costly Cites:   Why Should I Trust You? : Explaining the Predictions of Any

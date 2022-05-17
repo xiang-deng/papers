@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Column Type Detection Based on Pretrained Language Models with Various Column Encodings"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "P LI, M IWAIHARA"
+---
+Real-world tables provide valuable long-tailed facts, and detecting semantic types of table columns is important for table understanding and associated tasks. However, existing methods are often built on heavily-engineered features, such as statistical features and straightforward string matching, which are not robust to dirty data and lack of extensibility. Deep learning models in the field of natural language processing have been successfully adopted to various sequence prediction tasks. In this paper Cites: Turl: Table understanding through representation learning

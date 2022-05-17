@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Generative Spoken Dialogue Language Modeling"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "TA Nguyen, E Kharitonov, J Copet, Y Adi, WN Hsu - arXiv preprint arXiv , 2022"
+---
+We introduce dGSLM, the first  textless  model able to generate audio samples of naturalistic spoken dialogues. It uses recent work on unsupervised spoken unit discovery coupled with a dual-tower transformer architecture with cross-attention trained on 2000 hours of two-channel raw conversational audio (Fisher dataset) without any text or labels. It is able to generate speech, laughter and other paralinguistic signals in the two channels simultaneously and reproduces naturalistic Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

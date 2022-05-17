@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PLATO-XL: Exploring the Large-scale Pre-training of Dialogue Generation"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "S Bao, H He, F Wang, H Wu, H Wang, W Wu, Z Wu - arXiv preprint arXiv , 2021"
+---
+To explore the limit of dialogue generation pre-training, we present the models of PLATO-XL with up to 11 billion parameters, trained on both Chinese and English social media conversations. To train such large models, we adopt the architecture of unified transformer with high computation and parameter efficiency. In addition, we carry out multi-party aware pre-training to better distinguish the characteristic information in social media conversations. With such designs, PLATO-XL Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Quantifying and Alleviating Political Bias in Language Models"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "R Liu, C Jia, J Wei, G Xu, S Vosoughi - Artificial Intelligence, 2022"
+---
+Current large-scale language models can be politically biased as a result of the data they are trained on, potentially causing serious problems when they are deployed in real-world settings. In this paper, we first describe metrics for measuring political bias in GPT-2 generation, and discuss several interesting takeaways: 1) The generation of vanilla GPT-2 model is mostly liberal-leaning, 2) Such political bias depends on the sensitive attributes mentioned in the context, and 3) Priming the generation with a Cites: Social bias frames: Reasoning about social and power

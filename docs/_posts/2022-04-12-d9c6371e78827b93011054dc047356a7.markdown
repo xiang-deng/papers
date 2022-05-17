@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On the Effectiveness of Pretrained Models for API Learning"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "MA Hadi, INB Yusuf, F Thung, KG Luong, J Lingxiao - arXiv preprint arXiv , 2022"
+---
+Developers frequently use APIs to implement certain functionalities, such as parsing Excel Files, reading and writing text files line by line, etc. Developers can greatly benefit from automatic API usage sequence generation based on natural language queries for building applications in a faster and cleaner manner. Existing approaches utilize information retrieval models to search for matching API sequences given a query or use RNN-based encoder-decoder to generate API sequences. As it stands Cites: Incorporating external knowledge through pre-training for natural

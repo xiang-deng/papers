@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Non-autoregressive Model for Full-line Code Completion"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "F Liu, Z Fu, G Li, Z Jin, H Liu, Y Hao - arXiv preprint arXiv:2204.09877, 2022"
+---
+Code completion tools are frequently used by software developers to accelerate software development by suggesting the following code elements. Completing a sequence of code tokens (eg, a full line of code) has been proved more efficient than predicting a single token at a time. To complete the code sequence, researchers are employing AutoRegressive (AR) decoders to generate tokens in a left-to-right, token- by-token fashion. Consequently, the prediction of the next token depends on all Cites: FlowSeq: Non-Autoregressive Conditional Sequence Generation

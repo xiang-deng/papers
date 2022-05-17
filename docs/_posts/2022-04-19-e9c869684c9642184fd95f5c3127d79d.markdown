@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Syntactic Knowledge Embedding Network for Aspect-Based Sentiment Classification"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "Y Wen, W Li, Q Zeng, H Duan, F Zhang, S Kang - Mobile Information Systems, 2022"
+---
+An aspect-based sentiment classification task is a fine-grained sentiment analysis task, which is aimed at identifying the sentiment polarity of a given aspect in subjective sentences. In recent years, some researchers have applied pretrained BERT models to this task. However, existing research only uses the BERT output layer and ignores the syntactic features in the middle layers, leading to deviations in the prediction results. In order to solve above problems, we propose a new model Cites: Aspect level sentiment classification with deep memory network

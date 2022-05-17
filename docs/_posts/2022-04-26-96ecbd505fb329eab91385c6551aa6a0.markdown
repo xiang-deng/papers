@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "What Makes Instruction Learning Hard? An Investigation and a New Challenge in a Synthetic Environment"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "M Finlayson, K Richardson, A Sabharwal, P Clark - arXiv preprint arXiv:2204.09148, 2022"
+---
+The instruction learning paradigm--where a model learns to perform new tasks from task descriptions alone--has become popular in general-purpose model research. The capabilities of large transformer models as instruction learners, however, remain poorly understood. We use a controlled synthetic environment to characterize such capabilities. Specifically, we use the task of deciding whether a given string matches a regular expression (viewed as an instruction) to identify properties of tasks Cites: Compositional generalization and natural language variation: Can

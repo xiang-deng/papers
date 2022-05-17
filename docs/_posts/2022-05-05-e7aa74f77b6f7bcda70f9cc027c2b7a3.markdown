@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improving abstractive summarization of legal rulings through textual entailment"
+date:   2022-05-05 02:23:22 -0400
+categories: jekyll update
+author: "D de Vargas Feijo, VP Moreira - Artificial Intelligence and Law"
+---
+The standard approach for abstractive text summarization is to use an encoder- decoder architecture. The encoder is responsible for capturing the general meaning from the source text, and the decoder is in charge of generating the final text summary. While this approach can compose summaries that resemble human writing, some may contain unrelated or unfaithful information. This problem is called hallucination and it represents a serious issue in legal texts as legal practitioners Cites: Improving abstraction in text summarization

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PaLM: Scaling Language Modeling with Pathways"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "A Chowdhery, S Narang, J Devlin, M Bosma, G Mishra - arXiv preprint arXiv , 2022"
+---
+Large language models have been shown to achieve remarkable performance across a variety of natural language tasks using few-shot learning, which drastically reduces the number of task-specific training examples needed to adapt the model to a particular application. To further our understanding of the impact of scale on few- shot learning, we trained a 540-billion parameter, densely activated, Transformer language model, which we call Pathways Language Model PaLM. We trained PaLM Cites: Piqa: Reasoning about physical commonsense in natural language

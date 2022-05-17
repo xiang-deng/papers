@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "LAMNER: Code Comment Generation Using Character Language Model and Named Entity Recognition"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "R Sharma, F Chen, F Fard - arXiv preprint arXiv:2204.09654, 2022"
+---
+Code comment generation is the task of generating a high-level natural language description for a given code method or function. Although researchers have been studying multiple ways to generate code comments automatically, previous work mainly considers representing a code token in its entirety semantics form only (eg, a language model is used to learn the semantics of a code token), and additional code properties such as the tree structure of a code are included as an auxiliary input to Cites: Learning to represent edits

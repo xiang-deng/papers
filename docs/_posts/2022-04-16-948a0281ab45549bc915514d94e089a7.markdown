@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Breaking Fair Binary Classification with Optimal Flipping Attacks"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "C Jo, J Sohn, K Lee - arXiv preprint arXiv:2204.05472, 2022"
+---
+Minimizing risk with fairness constraints is one of the popular approaches to learning a fair classifier. Recent works showed that this approach yields an unfair classifier if the training set is corrupted. In this work, we study the minimum amount of data corruption required for a successful flipping attack. First, we find lower/upper bounds on this quantity and show that these bounds are tight when the target model is the unique unconstrained risk minimizer. Second, we propose a computationally efficient Cites: Stronger data poisoning attacks break data sanitization defenses

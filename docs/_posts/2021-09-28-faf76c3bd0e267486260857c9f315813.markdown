@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Toward a Unified Framework for Debugging Gray-box Models"
+date:   2021-09-28 14:54:04 -0400
+categories: jekyll update
+author: "A Bontempelli, F Giunchiglia, A Passerini, S Teso - arXiv preprint arXiv:2109.11160, 2021"
+---
+We are concerned with debugging concept-based gray-box models (GBMs). These models acquire task-relevant concepts appearing in the inputs and then compute a prediction by aggregating the concept activations. This work stems from the observation that in GBMs both the concepts and the aggregation function can be affected by different bugs, and that correcting these bugs requires different kinds of corrective supervision. To this end, we introduce a simple schema for identifying and Cites: Concept bottleneck models

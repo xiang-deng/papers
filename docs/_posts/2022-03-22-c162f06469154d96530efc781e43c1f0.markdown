@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Don t Say What You Don t Know: Improving the Consistency of Abstractive Summarization by Constraining Beam Search"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "D King, Z Shen, N Subramani, DS Weld, I Beltagy - arXiv preprint arXiv , 2022"
+---
+Abstractive summarization systems today produce fluent and relevant output, but often  hallucinate  statements not supported by the source text. We analyze the connection between hallucinations and training data, and find evidence that models hallucinate because they train on target summaries that are unsupported by the source. Based on our findings, we present PINOCCHIO, a new decoding method that improves the consistency of a transformer-based abstractive summarizer by Cites: Understanding Neural Abstractive Summarization Models via

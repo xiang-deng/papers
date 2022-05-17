@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "J Phang, H Liu, SR Bowman - arXiv preprint arXiv:2109.08406, 2021"
+---
+Despite the success of fine-tuning pretrained language encoders like BERT for downstream natural language understanding (NLU) tasks, it is still poorly understood how neural networks change after fine-tuning. In this work, we use centered kernel alignment (CKA), a method for comparing learned representations, to measure the similarity of representations in task-tuned models across layers. In experiments across twelve NLU tasks, we discover a consistent block diagonal structure in the Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation"
+date:   2022-04-21 03:59:43 -0400
+categories: jekyll update
+author: "J Dong, Y Lou, Q Zhu, Z Sun, Z Li, W Zhang, D Hao - 2022"
+---
+Commit messages summarize code changes of each commit in natural language, which help developers understand code changes without digging into detailed implementations and play an essential role in comprehending software evolution. To alleviate human efforts in writing commit messages, researchers have proposed various automated techniques to generate commit messages, including template- based, information retrieval-based, and learning-based techniques. Although Cites: Learning to Represent Edits

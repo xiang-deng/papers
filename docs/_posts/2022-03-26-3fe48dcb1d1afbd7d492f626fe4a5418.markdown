@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Domain Generalization by Mutual-Information Regularization with Pre-trained Models"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "J Cha, K Lee, S Park, S Chun - arXiv preprint arXiv:2203.10789, 2022"
+---
+Domain generalization (DG) aims to learn a generalized model to an unseen target domain using only limited source domains. Previous attempts to DG fail to learn domain-invariant representations only from the source domains due to the significant domain shifts between training and test domains. Instead, we re-formulate the DG objective using mutual information with the oracle model, a model generalized to any possible domain. We derive a tractable variational lower bound via approximating Cites: Robust fine-tuning of zero-shot models

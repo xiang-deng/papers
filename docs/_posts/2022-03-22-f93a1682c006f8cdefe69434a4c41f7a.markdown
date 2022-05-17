@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multi-Stage Prompting for Knowledgeable Dialogue Generation"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "Z Liu, M Patwary, R Prenger, S Prabhumoye, W Ping - arXiv preprint arXiv , 2022"
+---
+Existing knowledge-grounded dialogue systems typically use finetuned versions of a pretrained language model (LM) and large-scale knowledge bases. These models typically fail to generalize on topics outside of the knowledge base, and require maintaining separate potentially large checkpoints each time finetuning is needed. In this paper, we aim to address these limitations by leveraging the inherent knowledge stored in the pretrained LM as well as its powerful generation ability. We propose a Cites: A controllable model of grounded response generation

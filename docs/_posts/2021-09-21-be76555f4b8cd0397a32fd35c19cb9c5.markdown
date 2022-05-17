@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FORTAP: Using Formulae for Numerical-Reasoning-Aware Table Pretraining"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "Z Cheng, H Dong, F Cheng, R Jia, P Wu, S Han - arXiv preprint arXiv , 2021"
+---
+Tables store rich numerical data, but numerical reasoning over tables is still a challenge. In this paper, we find that the spreadsheet formula, which performs calculations on numerical values in tables, is naturally a strong supervision of numerical reasoning. More importantly, large amounts of spreadsheets with expert- made formulae are available on the web and can be obtained easily. FORTAP is the first method for numerical-reasoning-aware table pretraining by leveraging large Cites: Spider: A Large-Scale Human-Labeled Dataset for Complex and

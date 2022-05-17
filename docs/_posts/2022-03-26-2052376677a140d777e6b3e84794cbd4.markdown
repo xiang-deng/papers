@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Quality Controlled Paraphrase Generation"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "E Bandel, R Aharonov, M Shmueli-Scheuer - arXiv preprint arXiv , 2022"
+---
+Paraphrase generation has been widely used in various downstream tasks. Most tasks benefit mainly from high quality paraphrases, namely those that are semantically similar to, yet linguistically diverse from, the original sentence. Generating high-quality paraphrases is challenging as it becomes increasingly hard to preserve meaning as linguistic diversity increases. Recent works achieve nice results by controlling specific aspects of the paraphrase, such as its syntactic tree Cites: Neural Syntactic Preordering for Controlled Paraphrase Generation

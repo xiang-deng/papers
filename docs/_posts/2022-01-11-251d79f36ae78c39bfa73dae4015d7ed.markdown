@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "EM-driven unsupervised learning for efficient motion segmentation"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "E Meunier, A Badoual, P Bouthemy - arXiv preprint arXiv:2201.02074, 2022"
+---
+This paper presents a CNN-based fully unsupervised method for motion segmentation from optical flow. We assume that the input optical flow can be represented as a piecewise set of parametric motion models, typically, affine or quadratic motion models. The core idea of this work is to leverage the Expectation- Maximization (EM) framework. It enables us to design in a well-founded manner the loss function and the training procedure of our motion segmentation neural network Cites: A framework for contrastive self-supervised learning and designing

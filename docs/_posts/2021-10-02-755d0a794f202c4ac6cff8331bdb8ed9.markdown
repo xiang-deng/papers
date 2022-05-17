@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Single-dataset Experts for Multi-dataset Question Answering"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "D Friedman, B Dodge, D Chen - arXiv preprint arXiv:2109.13880, 2021"
+---
+Many datasets have been created for training reading comprehension models, and a natural question is whether we can combine them to build models that (1) perform better on all of the training datasets and (2) generalize and transfer better to new

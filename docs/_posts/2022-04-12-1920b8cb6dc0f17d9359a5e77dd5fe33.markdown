@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fine-grained Temporal Relation Extraction with Ordered-Neuron LSTM and Graph Convolutional Networks"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "MP Tran, M Van Nguyen, TH Nguyen - Proceedings of the Seventh Workshop on , 2021"
+---
+Fine-grained temporal relation extraction (FineTempRel) aims to recognize the durations and timeline of event mentions in text. A missing part in the current deep learning models for FineTempRel is their failure to exploit the syntactic structures of the input sentences to enrich the representation vectors. In this work, we propose to fill this gap by introducing novel methods to integrate the syntactic structures into the deep learning models for FineTempRel. The proposed model focuses on two types Cites: Embedding time expressions for deep temporal ordering models

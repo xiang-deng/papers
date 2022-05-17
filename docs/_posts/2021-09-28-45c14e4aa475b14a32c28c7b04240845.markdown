@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Simple Approach to Jointly Rank Passages and Select Relevant Sentences in the OBQA Context"
+date:   2021-09-28 14:54:04 -0400
+categories: jekyll update
+author: "M Luo, S Chen, C Baral - arXiv preprint arXiv:2109.10497, 2021"
+---
+In the open question answering (OBQA) task, how to select the relevant information from a large corpus is a crucial problem for reasoning and inference. Some datasets (eg, HotpotQA) mainly focus on testing the model s reasoning ability at the sentence level. To overcome this challenge, many existing frameworks use a deep learning model to select relevant passages and then answer each question by matching a sentence in the corresponding passage. However, such frameworks require long Cites: Joint learning of question answering and question generation

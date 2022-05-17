@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Word Level Robustness Enhancement: Fight Perturbation with Perturbation"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "P Huang, Y Yang, F Jia, M Liu, FF Ma, J Zhang - 2022"
+---
+State-of-the-art deep NLP models have achieved impressive improvements on many tasks. However, they are found to be vulnerable to some perturbations. In this paper, we design a robustness enhancement method to defend against word substitution perturbation, whose basic idea is to fight perturbation with perturbation. We find that: although many welltrained deep models are not robust in the setting of the presence of adversarial samples, they satisfy weak robustness. That means they can handle Cites: Understanding and mitigating the tradeoff between robustness and

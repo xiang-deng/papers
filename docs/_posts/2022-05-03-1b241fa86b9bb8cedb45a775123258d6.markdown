@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "S Shin, SW Lee, H Ahn, S Kim, HS Kim, B Kim, K Cho - arXiv preprint arXiv , 2022"
+---
+Many recent studies on large-scale language models have reported successful in- context zero-and few-shot learning ability. However, the in-depth analysis of when in- context learning occurs is still lacking. For example, it is unknown how in-context learning performance changes as the training corpus varies. Here, we investigate the effects of the source and size of the pretraining corpus on in-context learning in HyperCLOVA, a Korean-centric GPT-3 model. From our in-depth investigation, we Cites: Palm: Scaling language modeling with pathways

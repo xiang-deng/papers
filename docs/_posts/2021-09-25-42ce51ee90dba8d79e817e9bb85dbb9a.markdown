@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "Y Yin, Q Wang, S Huang, H Xiong, X Zhang - arXiv preprint arXiv:2109.10259, 2021"
+---
+Contrastive learning has been widely applied to graph representation learning, where the view generators play a vital role in generating effective contrastive samples. Most of the existing contrastive learning methods employ pre-defined view generation methods, eg, node drop or edge perturbation, which usually cannot adapt to input data or preserve the original semantic structures well. To address this issue, we propose a novel framework named Automated Graph Contrastive Learning Cites: Strategies for pre-training graph neural networks

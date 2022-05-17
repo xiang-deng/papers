@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Leveraging Reaction-aware Substructures for Retrosynthesis and Reaction Prediction"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "M Zhao, L Fang, L Tan, JG Lou, Y Lepage - arXiv preprint arXiv:2204.05919, 2022"
+---
+Reaction outcome prediction and retrosynthesis analysis are two critical tasks in organic chemistry. Recently, various machine learning approaches have achieved promising results on both two tasks, the output molecules are usually autoregressively decoded atom by atom with a generative model, utilizing text generation or machine translation models in natural language processing. The atom by atom decoding approach is not intuitive from a chemical perspective because Cites: Chemical-Reaction-Aware Molecule Representation Learning

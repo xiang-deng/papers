@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Probing Sentence Embeddings in L2 Learners  LSTM Neural Language Models Using Adaptation Learning"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "E Kim - Journal of the Korea Society of Computer and , 2022"
+---
+In this study we leveraged a probing method to evaluate how a pre-trained L2 LSTM language model represents sentences with relative and coordinate clauses. The probing experiment employed adapted models based on the pre-trained L2 language models to trace the syntactic properties of sentence embedding vector representations. The dataset for probing was automatically generated using several templates related to different sentence structures. To classify the syntactic properties Cites: A structural probe for finding syntax in word representations

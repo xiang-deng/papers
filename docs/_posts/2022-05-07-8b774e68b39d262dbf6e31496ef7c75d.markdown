@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Answer-Me: Multi-Task Open-Vocabulary Visual Question Answering"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "AJ Piergiovanni, W Li, W Kuo, M Saffar, F Bertsch - arXiv preprint arXiv , 2022"
+---
+We present Answer-Me, a task-aware multi-task framework which unifies a variety of question answering tasks, such as, visual question answering, visual entailment, visual reasoning. In contrast to previous works using contrastive or generative captioning training, we propose a novel and simple recipe to pre-train a vision- language joint model, which is multi-task as well. The pre-training uses only noisy image captioning data, and is formulated to use the entire architecture end-to-end Cites: Vinvl: Revisiting visual representations in vision-language models

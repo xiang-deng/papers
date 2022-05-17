@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MUNDOFUZZ: Hypervisor Fuzzing with Statistical Coverage Testing and Grammar Inference"
+date:   2022-04-14 01:14:43 -0400
+categories: jekyll update
+author: "C Myung, G Lee, B Lee"
+---
+A hypervisor is system software, managing and running virtual machines. Since the hypervisor is placed at the lowestlevel in the typical systems software stack, it has critical security implications. Once compromised, the entire software components running on top of the hypervisor (including all guest virtual machines and applications running within each guest virtual machine) are compromised as well, as the hypervisor has all the privileges to access those. This paper proposes Cites: Synthesizing program input grammars

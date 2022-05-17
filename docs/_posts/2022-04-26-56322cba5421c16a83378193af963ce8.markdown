@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SpaceE: Knowledge Graph Embedding by Relational Linear Transformation in the Entity Space"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "J Yu, Y Cai, M Sun, P Li - arXiv preprint arXiv:2204.10245, 2022"
+---
+Translation distance based knowledge graph embedding (KGE) methods, such as TransE and RotatE, model the relation in knowledge graphs as translation or rotation in the vector space. Both translation and rotation are injective; that is, the translation or rotation of different vectors results in different results. In knowledge graphs, different entities may have a relation with the same entity; for example, many actors starred in one movie. Such a non-injective relation pattern cannot be well modeled Cites: Representing Text for Joint Embedding of Text and Knowledge

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "J Wang, Z Zhang, Z Shi, J Cai, S Ji, F Wu - IEEE Transactions on Pattern Analysis and , 2022"
+---
+Semantic matching models---which assume that entities with similar semantics have similar embeddings---have shown great power in knowledge graph embeddings (KGE). Many existing semantic matching models use inner products in embedding spaces to measure the plausibility of triples and quadruples in static and temporal knowledge graphs. However, vectors that have the same inner products with another vector can still be orthogonal to each other, which implies that entities with similar Cites: Embedding entities and relations for learning and inference in

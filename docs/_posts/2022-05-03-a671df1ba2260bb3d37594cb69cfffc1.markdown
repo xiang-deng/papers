@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Syntax-Based Graph Matching for Knowledge Base Question Answering"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "L Ma, P Zhang, D Luo, X Zhu, M Zhou, Q Liang - ICASSP 2022-2022 IEEE , 2022"
+---
+Semantic parsing is a mainstream method of knowledge base question answering task that first generates a set of logical forms according to question and knowledge base (KB), and then selects the most matching one to get answers. However, existing selection methods are usually based on word-level matching, which cannot capture the structural information or solve the long-term dependency problem of entities. To solve this problem, we propose a syntax-based graph matching method, which Cites: The value of semantic parse labeling for knowledge base question

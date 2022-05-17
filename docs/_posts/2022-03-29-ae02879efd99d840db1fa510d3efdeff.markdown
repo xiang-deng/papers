@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "An Empirical Study on Learning and Improving the Search Objective for Unsupervised Paraphrasing"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "WS Lu - arXiv preprint arXiv:2203.12106, 2022"
+---
+Research in unsupervised text generation has been gaining attention over the years. One recent approach is local search towards a heuristically defined objective, which specifies language fluency, semantic meanings, and other task-specific attributes. Search in the sentence space is realized by word-level edit operations including insertion, replacement, and deletion. However, such objective function is manually designed with multiple components. Although previous work has shown maximizing Cites: Data-to-text generation with content selection and planning

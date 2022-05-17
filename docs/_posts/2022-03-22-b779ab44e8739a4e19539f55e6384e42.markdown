@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "AP-BERT: enhanced pre-trained model through average pooling"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "S Zhao, T Zhang, M Hu, W Chang, F You - Applied Intelligence, 2022"
+---
+BERT, a pre-trained language model on the large-scale corpus, has made breakthrough progress in NLP tasks. However, the experimental data shows that the BERT model s application effect in Chinese tasks is not ideal. The reason is that we believe that only character-level embedding can be obtained through BERT. However, a single Chinese character often cannot express their comprehensive meaning. To improve the model s ability to understand phrase-level semantic Cites: Text summarization with pretrained encoders

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SkillNet-NLG: General-Purpose Natural Language Generation with a Sparsely Activated Approach"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "J Liao, D Tang, F Zhang, S Shi - arXiv preprint arXiv:2204.12184, 2022"
+---
+We present SkillNet-NLG, a sparsely activated approach that handles many natural language generation tasks with one model. Different from traditional dense models that always activate all the parameters, SkillNet-NLG selectively activates relevant

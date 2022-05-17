@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "StableMoE: Stable Routing Strategy for Mixture of Experts"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "D Dai, L Dong, S Ma, B Zheng, Z Sui, B Chang, F Wei - arXiv preprint arXiv , 2022"
+---
+The Mixture-of-Experts (MoE) technique can scale up the model size of Transformers with an affordable computational overhead. We point out that existing learning-to- route MoE methods suffer from the routing fluctuation issue, ie, the target expert of the same input may change along with training, but only one expert will be activated for the input during inference. The routing fluctuation tends to harm sample efficiency because the same input updates different experts but only one is finally used. In this Cites: Electra: Pre-training text encoders as discriminators rather than

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "$ text {CIS}^ 2$: A Simplified Commonsense Inference Evaluation for Story Prose"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "B Li, LJ Martin, C Callison-Burch - ACL 2022 Workshop on Commonsense , 2022"
+---
+Contextual Commonsense Inference (CCI) is the problem of inferring causal relations between the events of a text, such as a story. Like other commonsense reasoning tasks, CCI is a problem of language understanding, rather than language generation. We show that prior work, in using language generation to perform CCI, trains models that struggle on the CCI task in isolation. This conflation of tasks is further exacerbated by evaluating with word-matching based metrics such as BLEU Cites: Comet-atomic 2020: On symbolic and neural commonsense

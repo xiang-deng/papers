@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fold2Vec: Towards a Statement Based Representation of Code for Code Comprehension"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "F Bertolotti, W Cazzola - ACM Transactions on Software Engineering and , 2022"
+---
+We introduce a novel approach to source code representation to be used in combination with neural networks. Such a representation is designed to permit the production of a continuous vector for each code statement. In particular, we present how the representation is produced in the case of Java source code. We test our representation for three tasks: code summarization, statement separation, and code search. We compare with the state-of-the-art non-autoregressive and end-to-end Cites: Codebert: A pre-trained model for programming and natural

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "What is wrong with you?: Leveraging User Sentiment for Automatic Dialog Evaluation"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "S Ghazarian, B Hedayatnia, A Papangelis, Y Liu - arXiv preprint arXiv , 2022"
+---
+Accurate automatic evaluation metrics for open-domain dialogs are in high demand. Existing model-based metrics for system response evaluation are trained on human annotated data, which is cumbersome to collect. In this work, we propose to use information that can be automatically extracted from the next user utterance, such as its sentiment or whether the user explicitly ends the conversation, as a proxy to measure the quality of the previous system response. This allows us to train on a Cites: Understanding and predicting user dissatisfaction in a neural

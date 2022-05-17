@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Aspect-level sentiment classification based on attention-BiLSTM model and transfer learning"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "G Xu, Z Zhang, T Zhang, S Yu, Y Meng, S Chen - Knowledge-Based Systems, 2022"
+---
+Aspect-level sentiment classification, a fine-grained sentiment analysis task which provides entire and intensive results, has been a research focus in recent years. However, the performance of neural network models is largely limited by the small scale of datasets for aspect-level sentiment classification due to the challenges to label such data. In this paper, we propose an aspect-level sentiment classification model based on Attention-Bidirectional Long Short-Term Memory (Attention-BiLSTM) Cites: Aspect level sentiment classification with deep memory network

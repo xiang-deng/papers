@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "YZ Song, YS Chen, HH Shuai - arXiv preprint arXiv:2205.01889, 2022"
+---
+A notable challenge in Multi-Document Summarization (MDS) is the extremely-long length of the input. In this paper, we present an extract-then-abstract Transformer framework to overcome the problem. Specifically, we leverage pre-trained language models to construct a hierarchical extractor for salient sentence selection across documents and an abstractor for rewriting the selected contents as summaries. However, learning such a framework is challenging since the optimal contents for the Cites: Learning Opinion Summarizers by Selecting Informative Reviews

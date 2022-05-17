@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation"
+date:   2021-09-14 15:58:32 -0400
+categories: jekyll update
+author: "J Zhang, M Gao, J Yu, L Guo, J Li, H Yin - arXiv preprint arXiv:2109.04200, 2021"
+---
+With the prevalence of social media, there has recently been a proliferation of recommenders that shift their focus from individual modeling to group recommendation. Since the group preference is a mixture of various predilections from group members, the fundamental challenge of group recommendation is to model the correlations among members. Existing methods mostly adopt heuristic or attention-based preference aggregation strategies to synthesize group preferences Cites: Group recommendation: Semantics and efficiency

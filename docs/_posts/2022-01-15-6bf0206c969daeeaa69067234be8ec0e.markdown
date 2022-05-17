@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards Group Robustness in the presence of Partial Group Labels"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "VS Lokhande, K Sohn, J Yoon, M Udell, CY Lee - arXiv preprint arXiv , 2022"
+---
+Learning invariant representations is an important requirement when training machine learning models that are driven by spurious correlations in the datasets. These spurious correlations, between input samples and the target labels, wrongly direct the neural network predictions resulting in poor performance on certain groups, especially the minority groups. Robust training against these spurious correlations requires the knowledge of group membership for every sample. Such a Cites: Just train twice: Improving group robustness without training group

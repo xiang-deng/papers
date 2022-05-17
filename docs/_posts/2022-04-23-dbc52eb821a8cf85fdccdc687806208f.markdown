@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "S Gupta, S Mukherjee, K Subudhi, E Gonzalez, D Jose - arXiv preprint arXiv , 2022"
+---
+Traditional multi-task learning (MTL) methods use dense networks that use the same set of shared weights across several different tasks. This often creates interference where two or more tasks compete to pull model parameters in different directions. In this work, we study whether sparsely activated Mixture-of-Experts (MoE) improve multi-task learning by specializing some weights for learning shared representations and using the others for learning task-specific information. To this end, we devise Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

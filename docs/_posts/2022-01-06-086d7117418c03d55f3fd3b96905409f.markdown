@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Skill-based Meta-Reinforcement Learning"
+date:   2022-01-06 10:02:50 -0400
+categories: jekyll update
+author: "T Nam, SH Sun, K Pertsch, SJ Hwang13, JJ Lim"
+---
+While deep reinforcement learning methods have shown impressive results in robot learning, their sample inefficiency makes the learning of complex, longhorizon behaviors with real robot systems infeasible. To mitigate this issue, metareinforcement learning methods aim to enable fast learning on novel tasks by learning how to learn. Yet, the application has been limited to short-horizon tasks with dense rewards. To enable learning long-horizon behaviors, recent works have Cites: Decoupling exploration and exploitation for meta-reinforcement

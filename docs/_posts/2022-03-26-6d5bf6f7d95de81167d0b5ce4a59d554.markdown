@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "S Cao, L Wang - arXiv preprint arXiv:2203.10741, 2022"
+---
+Document structure is critical for efficient information consumption. However, it is challenging to encode it efficiently into the modern Transformer architecture. In this work, we present HIBRIDS, which injects Hierarchical Biases foR Incorporating Document Structure into the calculation of attention scores. We further present a new task, hierarchical question-summary generation, for summarizing salient content in the source document into a hierarchy of questions and summaries, where each Cites: QuAC: Question answering in context

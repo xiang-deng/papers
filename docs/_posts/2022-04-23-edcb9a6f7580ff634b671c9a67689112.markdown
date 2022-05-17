@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Probing for the Usage of Grammatical Number"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "K Lasri, T Pimentel, A Lenci, T Poibeau, R Cotterell - arXiv preprint arXiv:2204.08831, 2022"
+---
+A central quest of probing is to uncover how pre-trained models encode a linguistic property within their representations. An encoding, however, might be spurious-ie, the model might not rely on it when making predictions. In this paper, we try to find encodings that the model actually uses, introducing a usage-based probing setup. We first choose a behavioral task which cannot be solved without using the linguistic property. Then, we attempt to remove the property by intervening on the model s Cites: Conditional probing: measuring usable information beyond a

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fine-tuning a transformers-based model to extract relevant fields from invoices"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "RFPML Cruz - 2021"
+---
+Extraction of relevant fields from documents has been a relevant matter for decades. Although there are well-established algorithms to perform this task since the late XX century, this field of study has again gathered more attention with the fast growth of deep learning models and transfer learning. One of these models is LayoutLM, which is a Transformer-based architecture pre-trained with additional features that represent the 2D position of the words. In this dissertation, LayoutLM is fine-tuned on Cites: On the opportunities and risks of foundation models

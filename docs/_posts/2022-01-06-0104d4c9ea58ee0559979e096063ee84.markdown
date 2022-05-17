@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SIMULTANEOUS SPEECH-TO-SPEECH TRANSLATION SYSTEM WITH TRANSFORMER-BASED INCREMENTAL ASR, MT, AND TTS"
+date:   2022-01-06 10:02:50 -0400
+categories: jekyll update
+author: "R Fukuda, S Novitasari, Y Oka, Y Kano, Y Yano, Y Ko"
+---
+In this paper, we present an English-to-Japanese simultaneous speech-to-speech translation (S2ST) system. It has three Transformer-based incremental processing modules for S2ST: automatic speech recognition (ASR), machine translation (MT), and text-to-speech synthesis (TTS). We also evaluated its system-level latency in addition to the modulelevel latency and accuracy. Cites: Effective approaches to attention-based neural machine translation

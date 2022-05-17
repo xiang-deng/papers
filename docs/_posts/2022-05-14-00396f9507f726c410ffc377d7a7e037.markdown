@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Task Generalisation in Multi-Agent Reinforcement Learning"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "L Schfer - Proceedings of the 21st International Conference on , 2022"
+---
+Multi-agent reinforcement learning agents are typically trained in a single environment. As a consequence, they overfit to the training environment which results in sensitivity to perturbations and inability to generalise to similar environments. For multi-agent reinforcement learning approaches to be applicable in real-world scenarios, generalisation and robustness need to be addressed. However, unlike in supervised learning, generalisation lacks a clear definition in Cites: Decoupling exploration and exploitation for meta-reinforcement

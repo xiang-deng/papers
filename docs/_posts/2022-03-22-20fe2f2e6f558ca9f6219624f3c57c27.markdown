@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "AdapLeR: Speeding up Inference by Adaptive Length Reduction"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "A Modarressi, H Mohebbi, MT Pilehvar - arXiv preprint arXiv:2203.08991, 2022"
+---
+Pre-trained language models have shown stellar performance in various downstream tasks. But, this usually comes at the cost of high latency and computation, hindering their usage in resource-limited settings. In this work, we propose a novel approach for reducing the computational cost of BERT with minimal loss in downstream performance. Our method dynamically eliminates less contributing tokens through layers, resulting in shorter lengths and consequently Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

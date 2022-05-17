@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "End-to-End Table Question Answering via Retrieval-Augmented Generation"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "F Pan, M Canim, M Glass, A Gliozzo, J Hendler - arXiv preprint arXiv:2203.16714, 2022"
+---
+Most existing end-to-end Table Question Answering (Table QA) models consist of a two-stage framework with a retriever to select relevant table candidates from a corpus and a reader to locate the correct answers from table candidates. Even though the accuracy of the reader models is significantly improved with the recent transformer-based approaches, the overall performance of such frameworks still suffers from the poor accuracy of using traditional information retrieval techniques as Cites: TaBERT: Pretraining for Joint Understanding of Textual and

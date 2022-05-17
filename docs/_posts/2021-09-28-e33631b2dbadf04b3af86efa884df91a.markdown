@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers"
+date:   2021-09-28 14:54:04 -0400
+categories: jekyll update
+author: "Y Tay, M Dehghani, J Rao, W Fedus, S Abnar - arXiv preprint arXiv , 2021"
+---
+There remain many open questions pertaining to the scaling behaviour of Transformer architectures. These scaling decisions and findings can be critical, as training runs often come with an associated computational cost which have both financial and/or environmental impact. The goal of this paper is to present scaling insights from pretraining and finetuning Transformers. While Kaplan et al. presents a comprehensive study of the scaling behaviour of Transformer language models, the Cites: Charformer: Fast character transformers via gradient-based

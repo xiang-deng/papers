@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Finding the Dwarf: Recovering Precise Types from WebAssembly Binaries"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "D Lehmann, M Pradel - 2022"
+---
+The increasing popularity of WebAssembly creates a demand for understanding and reverse engineering WebAssembly binaries. Recovering high-level function types is an important part of this process. One method to recover types is dataflow analysis, but it is complex to implement and may require manual heuristics when logical constraints fall short. In contrast, this paper presents SnowWhite, a learning-based approach for recovering precise, high-level parameter and return types for Cites: DIRE: A neural approach to decompiled identifier naming

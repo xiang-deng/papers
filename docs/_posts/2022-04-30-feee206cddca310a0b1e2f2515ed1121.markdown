@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Contrastive Language-Action Pre-training for Temporal Localization"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "M Xu, E Gundogdu, M Lapin, B Ghanem, M Donoser - arXiv preprint arXiv , 2022"
+---
+Long-form video understanding requires designing approaches that are able to temporally localize activities or language. End-to-end training for such tasks is limited by the compute device memory constraints and lack of temporal annotations at large- scale. These limitations can be addressed by pre-training on large datasets of temporally trimmed videos supervised by class annotations. Once the video encoder is pre-trained, it is common practice to freeze it during fine-tuning. Therefore, the Cites: BERT: pre-training of deep bidirectional transformers for language

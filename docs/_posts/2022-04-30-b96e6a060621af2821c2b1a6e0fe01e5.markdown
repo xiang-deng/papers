@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Pretraining Chinese BERT for Detecting Word Insertion and Deletion Errors"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "C Zhou, Y Dai, D Tang, E Zhao, Z Feng, L Kuang, S Shi - arXiv preprint arXiv , 2022"
+---
+Chinese BERT models achieve remarkable progress in dealing with grammatical errors of word substitution. However, they fail to handle word insertion and deletion because BERT assumes the existence of a word at each position. To address this

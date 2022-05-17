@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Non-Autoregressive Neural Machine Translation Model with Iterative Length Update of Target Sentence"
+date:   2022-04-28 04:54:27 -0400
+categories: jekyll update
+author: "YS Lim, EJ Park, HJ Song, SB Park - IEEE Access, 2022"
+---
+The non-autoregressive decoders in neural machine translation are paid increasing attention due to their faster decoding than autoregressive decoders. However, their apparent problem is a low performance which is mainly originated from wrong prediction about the target sentence length. To attack this problem, this paper proposes a novel machine translation model with a new non-autoregressive decoder named Iterative and Length-Adjustive Non-Autoregressive Decoder (ILAND). This Cites: FlowSeq: Non-Autoregressive Conditional Sequence Generation

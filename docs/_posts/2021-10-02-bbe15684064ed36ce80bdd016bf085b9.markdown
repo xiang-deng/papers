@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Enriching networks with edge insertion to improve community detection"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "TC de Oliveira, FO de Frana - Social Network Analysis and Mining, 2021"
+---
+Community detection is a broad area of study in network science, in which its correct detection helps to get information about the groups and the relationships between their nodes. Community detection algorithms use the available snapshot of a network to detect its underlying communities. But, if this snapshot is incomplete, the algorithms may not recover the correct communities. This work proposes a set of link prediction heuristics using different network properties to estimate a more complete Cites: Link-prediction enhanced consensus clustering for complex networks

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "L Xu, JD Choi - arXiv preprint arXiv:2205.01909, 2022"
+---
+We target on the document-level relation extraction in an end-to-end setting, where the model needs to jointly perform mention extraction, coreference resolution (COREF) and relation extraction (RE) at once, and gets evaluated in an entity-centric way. Especially, we address the two-way interaction between COREF and RE that has not been the focus by previous work, and propose to introduce explicit interaction namely Graph Compatibility (GC) that is specifically designed to leverage Cites: Higher-order Coreference Resolution with Coarse-to-fine Inference

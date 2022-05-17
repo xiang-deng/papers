@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "RNNCTPs: A Neural Symbolic Reasoning Method Using Dynamic Knowledge Partitioning Technology"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "Y Wu, H Li - arXiv preprint arXiv:2204.08810, 2022"
+---
+Although traditional symbolic reasoning methods are highly interpretable, their application in knowledge graph link prediction is limited due to their low computational efficiency. In this paper, we propose a new neural symbolic reasoning method: RNNCTPs, which improves computational efficiency by re-filtering the knowledge selection of Conditional Theorem Provers (CTPs), and is less sensitive to the embedding size parameter. RNNCTPs are divided into relation selectors and Cites: Learning reasoning strategies in end-to-end differentiable proving

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning with Different Amounts of Annotation: From Zero to Many Labels"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "S Zhang, C Gong, E Choi"
+---
+Training NLP systems typically assumes access to annotated data that has a single human label per example. Given imperfect labeling from annotators and inherent ambiguity of language, we hypothesize that single label is not sufficient to learn the spectrum of language interpretation. We explore new annotation distribution schemes, assigning multiple labels per example for a small subset of training examples. Introducing such multi label examples at the cost of annotating fewer Cites: Knowing More About Questions Can Help: Improving Calibration in

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multi-modal Transformers Excel at Class-agnostic Object Detection"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "M Maaz, H Rasheed, S Khan, FS Khan, RM Anwer - arXiv preprint arXiv , 2021"
+---
+What constitutes an object? This has been a longstanding question in computer vision. Towards this goal, numerous learning-free and learning-based approaches have been developed to score objectness. However, they generally do not scale well across new domains and for unseen objects. In this paper, we advocate that existing methods lack a top-down supervision signal governed by human-understandable semantics. To bridge this gap, we explore recent Multi-modal Vision Transformers Cites: Oscar: Object-semantics aligned pre-training for vision-language

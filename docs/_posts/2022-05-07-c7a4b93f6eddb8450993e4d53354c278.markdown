@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "HatCUP: Hybrid Analysis and Attention based Just-In-Time Comment Updating"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "H Zhu, X He, L Xu - arXiv preprint arXiv:2205.00600, 2022"
+---
+When changing code, developers sometimes neglect updating the related comments, bringing inconsistent or outdated comments. These comments increase the cost of program understanding and greatly reduce software maintainability. Researchers have put forward some solutions, such as CUP and HEBCUP, which update comments efficiently for simple code changes (ie modifying of a single token), but not good enough for complex ones. In this paper, we propose an approach Cites: Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming

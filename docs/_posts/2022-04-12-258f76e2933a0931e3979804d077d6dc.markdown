@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "Y Fang, S Yang, S Wang, Y Ge, Y Shan, X Wang - arXiv preprint arXiv:2204.02964, 2022"
+---
+We present an approach to efficiently and effectively adapt a masked image modeling (MIM) pre-trained vanilla Vision Transformer (ViT) for object detection, which is based on our two novel observations:(i) A MIM pre-trained vanilla ViT can work surprisingly well in the challenging object-level recognition scenario even with random sampled partial observations, eg, only 25%~ 50% of the input sequence.(ii) In order to construct multi-scale representations for object detection, a random Cites: A Simple Single-Scale Vision Transformer for Object Localization

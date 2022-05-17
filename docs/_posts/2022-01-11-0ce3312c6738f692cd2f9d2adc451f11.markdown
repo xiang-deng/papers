@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On the Privacy Risks of Deploying Recurrent Neural Networks in Machine Learning"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "Y Yang, P Gohari, U Topcu - arXiv preprint arXiv:2110.03054, 2021"
+---
+We study the privacy implications of deploying recurrent neural networks (RNNs) in machine learning models. We focus on a class of privacy threats, called membership inference attacks (MIAs), which aim to infer whether or not specific data records have been used to train a model. Considering three machine learning applications, namely, machine translation, deep reinforcement learning, and image classification, we provide empirical evidence that RNNs are more vulnerable to MIAs than the Cites: Prediction with a short memory

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Risks of misinterpretation in the evaluation of Distant Supervision for Relation Extraction"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "JLG Mendoza, LV Pineda, FO Espina - Procesamiento del Lenguaje Natural, 2022"
+---
+Distant Supervision is frequently used for addressing Relation Extraction. The evaluation of Distant Supervision in Relation Extraction has been attempted through Precision-Recall curves and/or calculation of Precision at N elements. However, such evaluation is challenging because the labeling of the instances results from an automatic process that can introduce noise into the labels. Consequently, the labels are not necessarily correct, affecting the learning process and the interpretation of Cites: Modeling relations and their mentions without labeled text

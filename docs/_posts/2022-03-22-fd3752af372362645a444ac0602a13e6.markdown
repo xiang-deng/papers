@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "KH Huang, I Hsu, P Natarajan, KW Chang, N Peng - arXiv preprint arXiv , 2022"
+---
+We present a study on leveraging multilingual pre-trained generative language models for zero-shot cross-lingual event argument extraction (EAE). By formulating EAE as a language generation task, our method effectively encodes event structures and captures the dependencies between arguments. We design language-agnostic templates to represent the event argument structures, which are compatible with any language, hence facilitating the cross-lingual transfer. Our proposed model finetunes Cites: Entity, relation, and event extraction with contextualized span

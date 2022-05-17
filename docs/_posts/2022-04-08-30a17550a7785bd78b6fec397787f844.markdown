@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DIETCODE: AUTOMATIC OPTIMIZATION FOR DYNAMIC TENSOR PROGRAMS"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "B Zheng, Z Jiang, CH Yu, H Shen, J Fromm, Y Liu"
+---
+Achieving high performance for compute-intensive operators in machine learning (ML) workloads is a crucial but challenging task. Many ML and system practitioners rely on vendor libraries or auto-schedulers to do the job. While the former requires large engineering efforts, the latter only supports static-shape workloads in existing works. It is difficult, if not impractical, to apply existing auto-schedulers directly to dynamic-shape workloads, as this leads to extremely long auto-scheduling time. We Cites: DyNet: the dynamic neural network toolkit (2017)

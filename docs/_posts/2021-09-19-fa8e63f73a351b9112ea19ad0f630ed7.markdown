@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Adaptive Information Seeking for Open-Domain Question Answering"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "Y Zhu, L Pang, Y Lan, H Shen, X Cheng - arXiv preprint arXiv:2109.06747, 2021"
+---
+Information seeking is an essential step for open-domain question answering to efficiently gather evidence from a large corpus. Recently, iterative approaches have been proven to be effective for complex questions, by recursively retrieving new evidence at each step. However, almost all existing iterative approaches use predefined strategies, either applying the same retrieval function multiple times or fixing the order of different retrieval functions, which cannot fulfill the diverse Cites: Latent retrieval for weakly supervised open domain question

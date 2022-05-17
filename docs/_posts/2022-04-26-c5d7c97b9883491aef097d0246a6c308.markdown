@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "OTExtSum: Extractive Text Summarisation with Optimal Transport"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "P Tang, K Hu, R Yan, L Zhang, J Gao, Z Wang - arXiv preprint arXiv:2204.10086, 2022"
+---
+Extractive text summarisation aims to select salient sentences from a document to form a short yet informative summary. While learning-based methods have achieved promising results, they have several limitations, such as dependence on expensive training and lack of interpretability. Therefore, in this paper, we propose a novel non- learning-based method by for the first time formulating text summarisation as an Optimal Transport (OT) problem, namely Optimal Transport Extractive Summariser Cites: Sentence centrality revisited for unsupervised summarization

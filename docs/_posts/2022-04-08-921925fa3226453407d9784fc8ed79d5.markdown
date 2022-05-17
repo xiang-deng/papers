@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Evaluation of Fake News Detection with Knowledge-Enhanced Language Models"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "C Whitehouse, T Weyde, P Madhyastha, N Komninos - arXiv preprint arXiv , 2022"
+---
+Recent advances in fake news detection have exploited the success of large-scale pre-trained language models (PLMs). The predominant state-of-the-art approaches are based on fine-tuning PLMs on labelled fake news datasets. However, large-scale PLMs are generally not trained on structured factual data and hence may not possess priors that are grounded in factually accurate knowledge. The use of existing knowledge bases (KBs) with rich human-curated factual information has thus Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

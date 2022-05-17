@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "LinkBERT: Pretraining Language Models with Document Links"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "MYJ Leskovec, P Liang"
+---
+Abstract Language model (LM) pretraining can learn various knowledge from text corpora, helping downstream tasks. However, existing methods such as BERT model a single document, and do not capture dependencies or knowledge that span across

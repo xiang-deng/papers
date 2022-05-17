@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CycleNER: An Unsupervised Training Approach for Named Entity Recognition"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "A Iovine, A Fang, B Fetahu, O Rokhlenko, S Malmasi - Proceedings of the ACM Web , 2022"
+---
+ABSTRACT Named Entity Recognition (NER) is a crucial natural language understanding task for many down-stream tasks such as question answering and retrieval. Despite significant progress in developing NER models for multiple languages and domains, scaling to emerging and/or low-resource domains still remains challenging, due to the costly nature of acquiring training data. We propose CycleNER, an unsupervised approach based on cycle-consistency training that uses Cites: Unsupervised named-entity extraction from the web: An

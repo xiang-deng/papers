@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Causal GraphSAGE: A Robust Graph Method for Classification Based on Causal Sampling"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "T Zhang, HR Shan, MA Little - Pattern Recognition, 2022"
+---
+GraphSAGE is a widely-used graph neural network for classification, which generates node embeddings in two steps: sampling and aggregation. In this paper, we introduce causal inference into the GraphSAGE sampling stage, and propose Causal GraphSAGE (C-GraphSAGE) to improve the robustness of the classifier. In C- GraphSAGE, we use causal bootstrapping to obtain a weighting between the target node s neighbors and their label. Then, these weights are used to resample the Cites: Advancing graphsage with a data-driven node sampling

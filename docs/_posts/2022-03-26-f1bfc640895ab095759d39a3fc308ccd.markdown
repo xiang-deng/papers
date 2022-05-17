@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Relevant CommonSense Subgraphs for  What if...  Procedural Reasoning"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "C Zheng, P Kordjamshidi - arXiv preprint arXiv:2203.11187, 2022"
+---
+We study the challenge of learning causal reasoning over procedural text to answer What if...  questions when external commonsense knowledge is required. We propose a novel multi-hop graph reasoning model to 1) efficiently extract a commonsense subgraph with the most relevant information from a large knowledge graph; 2) predict the causal answer by reasoning over the representations obtained from the commonsense subgraph and the contextual interactions between the Cites: Graph-based reasoning over heterogeneous external knowledge

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Embedding Hallucination for Few-Shot Language Fine-tuning"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "Y Jian, C Gao, S Vosoughi - arXiv preprint arXiv:2205.01307, 2022"
+---
+Few-shot language learners adapt knowledge from a pre-trained model to recognize novel classes from a few-labeled sentences. In such settings, fine-tuning a pre- trained language model can cause severe over-fitting. In this paper, we propose an Embedding Hallucination (EmbedHalluc) method, which generates auxiliary embedding-label pairs to expand the fine-tuning dataset. The hallucinator is trained by playing an adversarial game with the discriminator, such that the hallucinated Cites: Mixout: Effective regularization to finetune large-scale pretrained

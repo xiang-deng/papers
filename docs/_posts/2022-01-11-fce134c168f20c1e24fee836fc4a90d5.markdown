@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On entity alignment at scale"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "W Zeng, X Zhao, X Li, J Tang, W Wang - The VLDB Journal, 2022"
+---
+Abstract Knowledge graph (KG), as an effective approach of organizing and storing data, has received growing attention over the last decade. A KG can hardly reach completeness since there are always a large amount of new data emerging. To increase the scale and coverage of KGs, a possible solution is to incorporate data from other KGs, and entity alignment (EA) plays a vital role during this process. EA is the task of detecting the entities that refer to the same real-world object but come Cites: Complex embeddings for simple link prediction

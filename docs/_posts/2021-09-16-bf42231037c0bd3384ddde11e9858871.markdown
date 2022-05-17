@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code"
+date:   2021-09-16 19:19:30 -0400
+categories: jekyll update
+author: "M Paltenghi, M Pradel"
+---
+Neural models of code are successfully tackling various prediction tasks, complementing and sometimes even outperforming traditional program analyses. While most work focuses on end-to-end evaluations of such models, it often remains unclear what the models actually learn, and to what extent their reasoning about code matches that of skilled humans. A poor understanding of the model reasoning risks deploying models that are right for the wrong reason, and taking decisions Cites: Dawn Drain

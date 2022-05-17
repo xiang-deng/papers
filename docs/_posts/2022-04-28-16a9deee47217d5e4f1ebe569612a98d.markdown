@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Protum: A New Method For Prompt Tuning Based on[MASK]"
+date:   2022-04-28 04:54:27 -0400
+categories: jekyll update
+author: "PHYCY Wang, Y Zhang"
+---
+Recently, prompt tuning (Lester et al., 2021) has gradually become a new paradigm for NLP, which only depends on the representation of the words by freezing the parameters of pre-trained language models (PLMs) to obtain remarkable performance on downstream tasks. It maintains the consistency of Masked Language Model (MLM)(Devlin et al., 2018) task in the process of pre-training, and avoids some issues that may happened during fine-tuning. Naturally, we consider that the[MASK] Cites: Prefix-tuning: Optimizing continuous prompts for generation

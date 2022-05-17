@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Deep Clustering of Text Representations for Supervision-Free Probing of Syntax"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "V Gupta, H Shi, K Gimpel, M Sachan - Association for the Advancement of Artificial , 2022"
+---
+We explore deep clustering of text representations for unsupervised model interpretation and induction of syntax. As these representations are high- dimensional, out-of-the-box methods like KMeans do not work well. Thus, our approach jointly transforms the representations into a lowerdimensional cluster- friendly space and clusters them. We consider two notions of syntax: part of speech induction (POSI) and constituency labelling (CoLab) in this work. Interestingly, we Cites: A structural probe for finding syntax in word representations

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ATP: AMRize Then Parse! Enhancing AMR Parsing with PseudoAMRs"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "L Chen, P Wang, R Xu, T Liu, Z Sui, B Chang - arXiv preprint arXiv:2204.08875, 2022"
+---
+As Abstract Meaning Representation (AMR) implicitly involves compound semantic annotations, we hypothesize auxiliary tasks which are semantically or formally related can better enhance AMR parsing. We find that 1) Semantic role labeling (SRL) and dependency parsing (DP), would bring more performance gain than other tasks eg MT and summarization in the text-to-AMR transition even with much less data. 2) To make a better fit for AMR, data from auxiliary tasks should be properly Cites: Efficient One-Pass End-to-End Entity Linking for Questions

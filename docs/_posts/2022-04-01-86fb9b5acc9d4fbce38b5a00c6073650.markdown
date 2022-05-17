@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ManyTypes4TypeScript: A Comprehensive TypeScript Dataset for Sequence-Based Type Inference"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "K Jesse, PT Devanbu - 2022"
+---
+In this paper, we present ManyTypes4TypeScript, a very large corpus for training and evaluating machine-learning models for sequence-based type inference in TypeScript. The dataset includes over 9 million type annotations, across 13,953 projects and 539,571 files. The dataset is approximately 10x larger than analogous type inference datasets for Python, and is the largest available for Type-Script. We also provide API access to the dataset, which can be integrated into any tokenizer Cites: Codexglue: A machine learning benchmark dataset for code

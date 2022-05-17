@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Unified Structure Generation for Universal Information Extraction"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "Y Lu, Q Liu, D Dai, X Xiao, H Lin, X Han, L Sun, H Wu - arXiv preprint arXiv , 2022"
+---
+Information extraction suffers from its varying targets, heterogeneous structures, and demand-specific schemas. In this paper, we propose a unified text-to-structure generation framework, namely UIE, which can universally model different IE tasks, adaptively generate targeted structures, and collaboratively learn general IE abilities from different knowledge sources. Specifically, UIE uniformly encodes different extraction structures via a structured extraction language, adaptively generates target Cites: Entity, relation, and event extraction with contextualized span

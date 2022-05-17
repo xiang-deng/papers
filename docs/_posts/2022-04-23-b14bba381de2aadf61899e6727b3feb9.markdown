@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Just Fine-tune Twice: Selective Differential Privacy for Large Language Models"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "W Shi, S Chen, C Zhang, R Jia, Z Yu - arXiv preprint arXiv:2204.07667, 2022"
+---
+With the increasing adoption of NLP models in real-world products, it becomes more and more important to protect these models from privacy leakage. Because private information in language data is sparse, previous research formalized a Selective- Differential-Privacy (SDP) notion to provide protection for sensitive tokens detected by policy functions, and prove its effectiveness on RNN-based models. But the previous mechanism requires separating the private and public model parameters Cites: Large language models can be strong differentially private learners

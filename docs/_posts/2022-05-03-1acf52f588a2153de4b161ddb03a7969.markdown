@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chinese Entity Linking with Two-stage Pre-training Transformer Encoders"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "S Gong, X Xiong, S Li, A Liu, Y Liu - 2022 International Conference on Machine , 2022"
+---
+To solve the Chinese entity linking problem, this paper employs a two-stage deep pre-training transformer model. The model is broken down into two stages. The first stage separates the input text and entity information and encodes them in the CN- DBpedia (a popular and large-scale open-source Chinese knowledge base) with bi- encoder. The candidate entities are reranked in the second stage by a deep pre- training transformer encoder (bi-encoder, cross-encoder or polyencoder). To Cites: Zero-Shot Entity Linking by Reading Entity Descriptions

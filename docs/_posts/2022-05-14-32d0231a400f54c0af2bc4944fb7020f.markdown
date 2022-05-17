@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Song of (Dis) agreement: Evaluating the Evaluation of Explainable Artificial Intelligence in Natural Language Processing"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "M Neely, SF Schouten, M Bleeker, A Lucic - arXiv preprint arXiv:2205.04559, 2022"
+---
+There has been significant debate in the NLP community about whether or not attention weights can be used as an explanation-a mechanism for interpreting how important each input token is for a particular prediction. The validity of  attention as explanation  has so far been evaluated by computing the rank correlation between attention-based explanations and existing feature attribution explanations using LSTM-based models. In our work, we (i) compare the rank correlation between five Cites: ERASER: A benchmark to evaluate rationalized NLP models

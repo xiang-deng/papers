@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Natural language processing versus rule-based text analysis: Comparing BERT score and readability indices to predict crowdfunding outcomes"
+date:   2021-09-11 11:24:16 -0400
+categories: jekyll update
+author: "CSR Chan, C Pethe, S Skiena - Journal of Business Venturing Insights, 2021"
+---
+We explore how natural language processing can be applied to predict crowdfunding outcomes. Using the Bidirectional Encoder Representations from Transformers (BERT) technique, we find that crowdfunding projects that use a story section description with a higher average BERT score (indicating a lower quality of writing) tend to raise more funding than those with lower average BERT scores. In contrast, risk descriptions that have higher BERT scores tend to receive less funding Cites: Bert: Pre-training of deep bidirectional transformers for language

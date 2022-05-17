@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multi-Resolution and Asymmetric Implementation of Attention in Transformers"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "Z Chaudhry - 2022"
+---
+Transformers are the state-of-the-art for machine translation and grammar error correction. One of the most important components of transformers are the attention layers, but they require significant computational power. We suggest a new way of looking at the mixing mechanisms of tokens by doing a multi-resolution implementation of attention, which maintains inference results while also improving training and inference speed, thus getting the best of both worlds. This approximation Cites: Deep encoder, shallow decoder: Reevaluating non-autoregressive

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "Y Gan, X Chen, M Purver - arXiv preprint arXiv:2109.05157, 2021"
+---
+Recently, there has been significant progress in studying neural networks for translating text descriptions into SQL queries under the zero-shot cross-domain setting. Despite achieving good performance on some public benchmarks, we observe that existing text-to-SQL models do not generalize when facing domain knowledge that does not frequently appear in the training data, which may render the worse prediction performance for unseen domains. In this work, we investigate the Cites: Spider: A Large-Scale Human-Labeled Dataset for Complex and

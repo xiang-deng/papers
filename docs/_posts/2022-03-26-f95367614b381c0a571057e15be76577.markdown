@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Importance Sampling Placement in Off-Policy Temporal-Difference Methods"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "E Graves, S Ghiassian - arXiv preprint arXiv:2203.10172, 2022"
+---
+A central challenge to applying many off-policy reinforcement learning algorithms to real world problems is the variance introduced by importance sampling. In off-policy learning, the agent learns about a different policy than the one being executed. To account for the difference importance sampling ratios are often used, but can increase variance in the algorithms and reduce the rate of learning. Several variations of importance sampling have been proposed to reduce variance, with per Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "J Brophy, Z Hammoudeh, D Lowd - arXiv preprint arXiv:2205.00359, 2022"
+---
+Influence estimation analyzes how changes to the training data can lead to different model predictions; this analysis can help us better understand these predictions, the models making those predictions, and the data sets they re trained on. However, most influence-estimation techniques are designed for deep learning models with continuous parameters. Gradient-boosted decision trees (GBDTs) are a powerful and widely-used class of models; however, these models are black boxes with opaque Cites: Dataset cartography: Mapping and diagnosing datasets with

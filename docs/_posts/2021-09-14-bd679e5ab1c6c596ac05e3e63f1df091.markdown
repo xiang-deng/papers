@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining"
+date:   2021-09-14 15:58:32 -0400
+categories: jekyll update
+author: "Y Zou, B Zhu, X Hu, T Gui, Q Zhang - arXiv preprint arXiv:2109.04080, 2021"
+---
+With the rapid increase in the volume of dialogue data from daily life, there is a growing demand for dialogue summarization. Unfortunately, training a large summarization model is generally infeasible due to the inadequacy of dialogue data with annotated summaries. Most existing works for low-resource dialogue summarization directly pretrain models in other domains, eg, the news domain, but they generally neglect the huge difference between dialogues and conventional Cites: QMSum: A New Benchmark for Query-based Multi-domain Meeting

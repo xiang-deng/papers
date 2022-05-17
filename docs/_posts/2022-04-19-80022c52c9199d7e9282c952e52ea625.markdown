@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Predicting Fine-Tuning Performance with Probing"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "Z Zhu, S Shahtalebi, F Rudzicz - Challenges { &, 2022"
+---
+Large NLP models have recently shown impressive performance in language understanding tasks, typically evaluated by fine-tuning tasks. Alternatively, probing has received increasing attention as being a lightweight method for interpreting the intrinsic mechanisms of large NLP models. In probing, post-hoc classifiers are trained on``out-of-domain  datasets that diagnose specific abilities. While probing the language models has led to insightful findings, they appear disjointed from the Cites: Towards a unified view of parameter-efficient transfer learning

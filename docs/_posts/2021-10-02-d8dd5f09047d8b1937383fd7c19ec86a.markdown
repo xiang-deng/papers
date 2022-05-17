@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Data Summarization via Bilevel Optimization"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "Z Borsos, M Mutn, M Tagliasacchi, A Krause - arXiv preprint arXiv:2109.12534, 2021"
+---
+The increasing availability of massive data sets poses a series of challenges for machine learning. Prominent among these is the need to learn models under hardware or human resource constraints. In such resource-constrained settings, a simple yet powerful approach is to operate on small subsets of the data. Coresets are weighted subsets of the data that provide approximation guarantees for the optimization objective. However, existing coreset constructions are highly model Cites: Selection via proxy: Efficient data selection for deep learning

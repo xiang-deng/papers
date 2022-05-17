@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Non-autoregressive Translation with Dependency-Aware Decoder"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "J Zhan, Q Chen, B Chen, W Wang, Y Bai, Y Gao - arXiv preprint arXiv:2203.16266, 2022"
+---
+Non-autoregressive translation (NAT) models suffer from inferior translation quality due to removal of dependency on previous target tokens from inputs to the decoder. In this paper, we propose a novel and general approach to enhance the target dependency within the NAT decoder from two perspectives: decoder input and decoder self-attention. First, we transform the initial decoder input from the source language space to the target language space through a novel attentive Cites: Latent-variable non-autoregressive neural machine translation

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Decoupled Graph Neural Networks based on Label Agreement Message Propagation"
+date:   2022-05-12 04:06:18 -0400
+categories: jekyll update
+author: "Z An, Z Wu, B Hu, Z Zhang, JUN ZHOU, Y Wang - ICLR 2022 Workshop on , 2022"
+---
+Decoupling has become a new paradigm in Graph Neural Networks (GNNs) for its effectiveness and scalability. However, this paradigm still faces two several restrictions: unsatisfying propagation, caused by noisy or confused edges, could greatly degrade model performance; fixed aggregation schema with the same propagation steps and the same combination weights for each node limit achieving optimal performance. To address these problems, we propose a novel decoupled Cites: Learning with Local and Global Consistency.

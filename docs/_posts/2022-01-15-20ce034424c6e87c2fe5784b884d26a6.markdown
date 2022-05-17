@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improved Unsupervised Neural Machine Translation with Semantically Weighted Back Translation for Morphologically Rich and Low Resource Languages"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "S Chauhan, S Saxena, P Daniel - Neural Processing Letters, 2022"
+---
+The effective method to utilize monolingual data and enhance the performance of neural machine translation models is back-translation. Iteratively conducting back- translation can further improve the performance of the translation model. In back- translation where, pseudo sentence pairs are generated to train the translation systems with a reconstruction loss, but all the pseudo sentence pairs are not of good quality, which can severely impact the performance of neural machine translation Cites: Nematus: a toolkit for neural machine translation

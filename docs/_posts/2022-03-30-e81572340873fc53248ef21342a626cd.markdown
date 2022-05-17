@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multi-Source Unsupervised Domain Adaptation for Time-Series Sensor Data"
+date:   2022-03-30 13:35:09 -0400
+categories: jekyll update
+author: "G Wilson - 2021"
+---
+Real-world problems such as human activity recognition and gesture recognition involve time series data. However, in the case of human activity recognition, for example, a machine learning model trained on one person s data may not perform well on another person s data due to different activity patterns, sensor positions, or sampling rates. This poses a problem, requiring data annotations to be collected for each person individually. Yet collecting such labels for time series may be expensive Cites: Domain agnostic real-valued specificity prediction

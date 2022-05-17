@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Trust Region Optimization of Optimistic Actor Critic"
+date:   2022-04-14 01:14:43 -0400
+categories: jekyll update
+author: "N Kappes, P Herrmann"
+---
+The exploration-exploitation trade-off is a fundamental challenge in reinforcement learning. While off-policy algorithms like Soft Actor-Critic (SAC) yield good performance, they can struggle with data efficient exploration. Optimistic Actor-Critic (OAC) builds upon SAC by improving the exploration behavior. But the resulting policy often samples actions at the action boundaries, which is not desirable if the policy should be deployed to a real system. We introduce Trust Region Optimistic Cites: Decoupled Exploration and Exploitation Policies for Sample

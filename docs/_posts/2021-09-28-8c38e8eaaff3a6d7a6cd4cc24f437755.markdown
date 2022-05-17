@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ur-iw-hnt at GermEval 2021: An Ensembling Strategy with Multiple BERT Models"
+date:   2021-09-28 14:54:04 -0400
+categories: jekyll update
+author: "HN Tran, U Kruschwitz"
+---
+This paper describes our approach (ur-iw-hnt) for the Shared Task of GermEval2021 to identify toxic, engaging, and fact-claiming comments. We submitted three runs using an ensembling strategy by majority (hard) voting with multiple different BERT models of three different types: German-based, Twitter-based, and multilingual models. All ensemble models outperform single models, while BERTweet is the winner of all individual models in every subtask. Twitter-based models perform better Cites: The quest to automate fact-checking

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Unbiased feature enhancement framework for cross-modality person re-identification"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "B Yuan, B Chen, Z Tan, X Shao, BK Bao - Multimedia Systems, 2022"
+---
+Cross-modality person re-identification aims at matching the RGB images of a specific person in variable appearances with his/her images in another modality like infrared modality, sketch modality, etc. It is challenging due to domain gap and intra- class variations. Existing Re-id models usually employ symmetric or identical feature extractors in two modalities and single-stream classification algorithms for extracting modality-invariant and identity-discriminative feature representations. However, we Cites: Feature noise induces loss discrepancy across groups

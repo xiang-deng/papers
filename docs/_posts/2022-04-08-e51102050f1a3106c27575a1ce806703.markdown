@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Aligned Weight Regularizers for Pruning Pretrained Neural Networks"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "JO Neill, S Dutta, H Assem - arXiv preprint arXiv:2204.01385, 2022"
+---
+While various avenues of research have been explored for iterative pruning, little is known what effect pruning has on zero-shot test performance and its potential implications on the choice of pruning criteria. This pruning setup is particularly important for cross-lingual models that implicitly learn alignment between language representations during pretraining, which if distorted via pruning, not only leads to poorer performance on language data used for retraining but also on zero-shot Cites: Universal dependencies v2: An evergrowing multilingual treebank

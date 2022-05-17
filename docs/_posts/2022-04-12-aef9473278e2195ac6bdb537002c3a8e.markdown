@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Domain-Agnostic Prior for Transfer Semantic Segmentation"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "X Huo, L Xie, H Hu, W Zhou, H Li, Q Tian - arXiv preprint arXiv:2204.02684, 2022"
+---
+Unsupervised domain adaptation (UDA) is an important topic in the computer vision community. The key difficulty lies in defining a common property between the source and target domains so that the source-domain features can align with the target- domain semantics. In this paper, we present a simple and effective mechanism that regularizes cross-domain representation learning with a domain-agnostic prior (DAP) that constrains the features extracted from source and target domains to align Cites: Oscar: Object-semantics aligned pre-training for vision-language

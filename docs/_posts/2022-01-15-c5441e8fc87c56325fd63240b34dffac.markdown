@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Quantifying Robustness to Adversarial Word Substitutions"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "Y Yang, P Huang, FF Ma, J Cao, M Zhang, J Zhang - arXiv preprint arXiv , 2022"
+---
+Deep-learning-based NLP models are found to be vulnerable to word substitution perturbations. Before they are widely adopted, the fundamental issues of robustness need to be addressed. Along this line, we propose a formal framework to evaluate word-level robustness. First, to study safe regions for a model, we introduce robustness radius which is the boundary where the model can resist any perturbation. As calculating the maximum robustness radius is computationally hard Cites: Certified robustness to adversarial word substitutions

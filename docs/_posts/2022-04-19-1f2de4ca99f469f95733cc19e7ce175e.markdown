@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MiniViT: Compressing Vision Transformers with Weight Multiplexing"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "J Zhang, H Peng, K Wu, M Liu, B Xiao, J Fu, L Yuan - arXiv preprint arXiv:2204.07154, 2022"
+---
+Vision Transformer (ViT) models have recently drawn much attention in computer vision due to their high model capability. However, ViT models suffer from huge number of parameters, restricting their applicability on devices with limited memory. To alleviate this problem, we propose MiniViT, a new compression framework, which achieves parameter reduction in vision transformers while retaining the same performance. The central idea of MiniViT is to multiplex the weights of consecutive Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

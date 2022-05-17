@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DCAF-BERT: A Distilled Cachable Adaptable Factorized Model For Improved Ads CTR Prediction"
+date:   2022-05-05 02:23:22 -0400
+categories: jekyll update
+author: "A Muhamed, J Singh, S Zheng, I Keivanloo, S Perera - 2022"
+---
+In this paper we present a Click-through-rate (CTR) prediction model for product advertisement at Amazon. CTR prediction is challenging because the model needs to a) learn from text and numeric features, b) maintain low-latency at inference time, and c) adapt to a temporal advertisement distribution shift. Our proposed model is DCAF-BERT, a novel lightweight cache-friendly factorized model that consists of twin- structured BERT-like encoders for text with a mechanism for late fusion for tabular Cites: Well-read students learn better: On the importance of pre-training

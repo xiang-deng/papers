@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Efficient Global Optimization of Two-layer ReLU Networks: Quadratic-time Algorithms and Adversarial Training"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "Y Bai, T Gautam, S Sojoudi - arXiv preprint arXiv:2201.01965, 2022"
+---
+The non-convexity of the artificial neural network (ANN) training landscape brings inherent optimization difficulties. While the traditional back-propagation stochastic gradient descent (SGD) algorithm and its variants are effective in certain cases, they can become stuck at spurious local minima and are sensitive to initializations and hyperparameters. Recent work has shown that the training of an ANN with ReLU activations can be reformulated as a convex program, bringing hope to globally Cites: Certified defenses against adversarial examples

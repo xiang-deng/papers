@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A precise method for RBMs training using phased curricula"
+date:   2022-05-12 04:06:18 -0400
+categories: jekyll update
+author: "Q Wang, X Gao, X Li, Z Hu, K Wan - Multimedia Tools and Applications, 2022"
+---
+Abstract Restricted Boltzmann machines (RBMs) are efficacious undirected neural networks for generating features and reconstructing images. Nevertheless, the classical persistent chain sampling algorithm has the problem of refactoring failure in the early training stage, which significantly limits the feature extraction and application of RBM. In this paper, motivated by the cumulative nature of the curriculum learning, three Phased Gibbs Sampling (PGS) methods are proposed for Cites: Enhanced gradient and adaptive learning rate for training

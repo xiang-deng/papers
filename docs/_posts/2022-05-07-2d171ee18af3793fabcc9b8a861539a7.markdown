@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "What do we Really Know about State of the Art NER?"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "S Vajjala, R Balasubramaniam - arXiv preprint arXiv:2205.00034, 2022"
+---
+Named Entity Recognition (NER) is a well researched NLP task and is widely used in real world NLP scenarios. NER research typically focuses on the creation of new ways of training NER, with relatively less emphasis on resources and evaluation. Further, state of the art (SOTA) NER models, trained on standard datasets, typically report only a single performance measure (F-score) and we don t really know how well they do for different entity types and genres of text, or how robust are they to Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

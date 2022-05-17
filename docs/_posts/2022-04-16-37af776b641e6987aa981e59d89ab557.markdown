@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Redwood: Using Collision Detection to Grow a Large-Scale Intent Classification Dataset"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "S Larson, K Leach - arXiv preprint arXiv:2204.05483, 2022"
+---
+Dialog systems must be capable of incorporating new skills via updates over time in order to reflect new use cases or deployment scenarios. Similarly, developers of such ML-driven systems need to be able to add new training data to an already- existing dataset to support these new skills. In intent classification systems, problems can arise if training data for a new skill s intent overlaps semantically with an already- existing intent. We call such cases collisions. This paper introduces the task of intent Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Revisiting the Classics: Online RL in the Programmable Dataplane"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "KA Simpson, DP Pezaros - 2021"
+---
+Data-driven networking is becoming more capable and widely researched, partly driven by the efficacy of Deep Reinforcement Learning (DRL) algorithms. Yet the complexity of both DRL inference and learning force these tasks to be pushed away from the dataplane to hosts, harming latency-sensitive applications. Online learning of such policies cannot occur in the dataplane, despite being useful techniques when problems evolve or are hard to model. We present OPaLOn Path Learningthe Cites: Mvfst-rl: An asynchronous rl framework for congestion control with

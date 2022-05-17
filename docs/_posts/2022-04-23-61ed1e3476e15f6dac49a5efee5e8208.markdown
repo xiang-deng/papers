@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Understanding Gradual Domain Adaptation: Improved Analysis, Optimal Path and Beyond"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "H Wang, B Li, H Zhao - arXiv preprint arXiv:2204.08200, 2022"
+---
+The vast majority of existing algorithms for unsupervised domain adaptation (UDA) focus on adapting from a labeled source domain to an unlabeled target domain directly in a one-off way. Gradual domain adaptation (GDA), on the other hand, assumes a path of $(T-1) $ unlabeled intermediate domains bridging the source and target, and aims to provide better generalization in the target domain by leveraging the intermediate ones. Under certain assumptions, Kumar et al.(2020) proposed a Cites: Extending the WILDS Benchmark for Unsupervised Adaptation

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Gated attention fusion network for multimodal sentiment classification"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "Y Du, Y Liu, Z Peng, X Jin - Knowledge-Based Systems, 2022"
+---
+Sentiment classification can explore the opinions expressed by people and help them make better decisions. With the increasing of multimodal contents on the web, such as text, image, audio and video, how to make full use of them is important in many tasks, including sentiment classification. This paper focuses on the text and image. Previous work cannot capture the fine-grained features of images, and those models bring a lot of noise during feature fusion. In this work, we propose a novel Cites: Electra: Pre-training text encoders as discriminators rather than

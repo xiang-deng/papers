@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Total Recall: a Customized Continual Learning Method for Neural Semantic Parsers"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "Z Li, L Qu, G Haffari - arXiv preprint arXiv:2109.05186, 2021"
+---
+This paper investigates continual learning for semantic parsing. In this setting, a neural semantic parser learns tasks sequentially without accessing full training data from previous tasks. Direct application of the SOTA continual learning algorithms to this problem fails to achieve comparable performance with re-training models with all seen tasks because they have not considered the special properties of structured outputs yielded by semantic parsers. Therefore, we propose TotalRecall, a continual Cites: Model-based interactive semantic parsing: A unified framework

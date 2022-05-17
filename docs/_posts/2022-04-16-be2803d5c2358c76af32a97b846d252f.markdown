@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "Z Wang, Z Zhang, S Ebrahimi, R Sun, H Zhang, CY Lee - arXiv preprint arXiv , 2022"
+---
+Continual learning aims to enable a single model to learn a sequence of tasks without catastrophic forgetting. Top-performing methods usually require a rehearsal buffer to store past pristine examples for experience replay, which, however, limits their practical value due to privacy and memory constraints. In this work, we present a simple yet effective framework, DualPrompt, which learns a tiny set of parameters, called prompts, to properly instruct a pre-trained model to learn tasks arriving Cites: Pre-train, prompt, and predict: A systematic survey of prompting

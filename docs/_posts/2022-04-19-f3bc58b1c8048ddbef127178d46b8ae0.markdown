@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Investigating language relationships in multilingual sentence encoders through the lens of linguistic typology"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "R Choenni, E Shutova - Computational Linguistics, 2022"
+---
+Multilingual sentence encoders have seen much success in cross-lingual model transfer for downstream NLP tasks. The success of this transfer is, however, dependent on the model s ability to encode the patterns of cross-lingual similarity and variation. Yet, we know relatively little about the properties of individual languages or the general patterns of linguistic variation that the models encode. In this article, we investigate these questions by leveraging knowledge from the field of Cites: Finding Universal Grammatical Relations in Multilingual BERT

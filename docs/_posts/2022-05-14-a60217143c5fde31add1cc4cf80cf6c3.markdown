@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Weakly-supervised segmentation of referring expressions"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "R Strudel, I Laptev, C Schmid - arXiv preprint arXiv:2205.04725, 2022"
+---
+Visual grounding localizes regions (boxes or segments) in the image corresponding to given referring expressions. In this work we address image segmentation from referring expressions, a problem that has so far only been addressed in a fully- supervised setting. A fully-supervised setup, however, requires pixel-wise supervision and is hard to scale given the expense of manual annotation. We therefore introduce a new task of weakly-supervised image segmentation from Cites: Well-read students learn better: The impact of student initialization

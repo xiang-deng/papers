@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Long-tailed Extreme Multi-label Text Classification with Generated Pseudo Label Descriptions"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "R Zhang, YS Wang, Y Yang, D Yu, T Vu, L Lei - arXiv preprint arXiv:2204.00958, 2022"
+---
+Extreme Multi-label Text Classification (XMTC) has been a tough challenge in machine learning research and applications due to the sheer sizes of the label spaces and the severe data scarce problem associated with the long tail of rare labels in highly skewed distributions. This paper addresses the challenge of tail label prediction by proposing a novel approach, which combines the effectiveness of a trained bag-of-words (BoW) classifier in generating informative label descriptions Cites: Contextualized sparse representations for real-time open-domain

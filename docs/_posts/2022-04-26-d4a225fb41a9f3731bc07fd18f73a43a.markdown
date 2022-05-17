@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Video Moment Retrieval from Text Queries via Single Frame Annotation"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "R Cui, T Qian, P Peng, E Daskalaki, J Chen, X Guo - arXiv preprint arXiv , 2022"
+---
+Video moment retrieval aims at finding the start and end timestamps of a moment (part of a video) described by a given natural language query. Fully supervised methods need complete temporal boundary annotations to achieve promising results, which is costly since the annotator needs to watch the whole moment. Weakly supervised methods only rely on the paired video and query, but the performance is relatively poor. In this paper, we look closer into the annotation Cites: Wslln: Weakly supervised natural language localization networks

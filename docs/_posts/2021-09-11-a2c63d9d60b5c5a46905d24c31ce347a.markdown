@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Enhancing Language Models with Plug-and-Play Large-Scale Commonsense"
+date:   2021-09-11 11:24:16 -0400
+categories: jekyll update
+author: "W Cui, X Chen - arXiv preprint arXiv:2109.02572, 2021"
+---
+We study how to enhance language models (LMs) with textual commonsense knowledge. Previous work (eg, KnowBERT) has focused on the integrating entity knowledge from knowledge graphs. In order to introduce the external entity embeddings, they learn to jointly represent the original sentences and external knowledge by pre-training on a large scale corpus. However, when switching to textual commonsense, unlike the light entity embeddings, the encoding of Cites: Expbert: Representation engineering with natural language

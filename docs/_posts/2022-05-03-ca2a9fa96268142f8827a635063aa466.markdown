@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Keep the Caption Information: Preventing Shortcut Learning in Contrastive Image-Caption Retrieval"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "M Bleeker, A Yates, M de Rijke - arXiv preprint arXiv:2204.13382, 2022"
+---
+To train image-caption retrieval (ICR) methods, contrastive loss functions are a common choice for optimization functions. Unfortunately, contrastive ICR methods are vulnerable to learning shortcuts: decision rules that perform well on the training data but fail to transfer to other testing conditions. We introduce an approach to reduce shortcut feature representations for the ICR task: latent target decoding (LTD). We add an additional decoder to the learning framework to reconstruct the input Cites: Oscar: Object-semantics aligned pre-training for vision-language

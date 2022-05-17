@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ARCH: Efficient Adversarial Regularized Training with Caching"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "S Zuo, C Liang, H Jiang, P He, X Liu, J Gao, W Chen - arXiv preprint arXiv , 2021"
+---
+Adversarial regularization can improve model generalization in many natural language processing tasks. However, conventional approaches are computationally expensive since they need to generate a perturbation for each sample in each epoch. We propose a new adversarial regularization method ARCH (adversarial regularization with caching), where perturbations are generated and cached once every several epochs. As caching all the perturbations imposes memory usage Cites: Understanding and mitigating the tradeoff between robustness and

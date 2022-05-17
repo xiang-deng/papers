@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Exploring Input Representation Granularity for Generating Questions Satisfying Question-Answer Congruence"
+date:   2021-09-28 14:54:04 -0400
+categories: jekyll update
+author: "M Kannan, HS Ponnusamy, K De Kuthy, L Stein - Proceedings of the 14th , 2021"
+---
+In question generation, the question produced has to be well-formed and meaningfully related to the answer serving as input. Neural generation methods have predominantly leveraged the distributional semantics of words as representations of meaning and generated questions one word at a time. In this paper, we explore the viability of form-based and more fine-grained encodings, such as character or subword representations for question generation. We start from the Cites: TyDi QA: A benchmark for information-seeking question answering

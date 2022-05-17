@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "R Jia, X Zhang, Y Cao, S Wang, Z Lin, F Wei - arXiv preprint arXiv:2204.13512, 2022"
+---
+In zero-shot multilingual extractive text summarization, a model is typically trained on English summarization dataset and then applied on summarization datasets of other languages. Given English gold summaries and documents, sentence-level labels for extractive summarization are usually generated using heuristics. However, these monolingual labels created on English datasets may not be optimal on datasets of other languages, for that there is the syntactic or semantic discrepancy between Cites: True few-shot learning with language models

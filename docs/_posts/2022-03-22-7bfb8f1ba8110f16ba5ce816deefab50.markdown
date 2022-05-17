@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Are Shortest Rationales the Best Explanations for Human Understanding?"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "H Shen, T Wu, W Guo, THK Huang - arXiv preprint arXiv:2203.08788, 2022"
+---
+Existing self-explaining models typically favor extracting the shortest possible rationales-snippets of an input text  responsible for  corresponding output-to explain the model prediction, with the assumption that shorter rationales are more intuitive to humans. However, this assumption has yet to be validated. Is the shortest rationale indeed the most human-understandable? To answer this question, we design a self- explaining model, LimitedInk, which allows users to extract rationales at any target Cites:   Why Should I Trust You? : Explaining the Predictions of Any

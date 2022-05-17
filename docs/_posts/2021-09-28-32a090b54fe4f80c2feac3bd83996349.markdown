@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Knowledge Enhanced Sequential Entity Linking"
+date:   2021-09-28 14:54:04 -0400
+categories: jekyll update
+author: "Y Liu, S Wang, K Zi, J Li, C Cao - 2021 International Joint Conference on Neural , 2021"
+---
+Entity Linking (EL) is the task of mapping mentions in texts to the corresponding entities in knowledge bases. Existing studies mostly focus on joint disambiguation based on the topical coherence, including graph and sequence models. Sequence models alleviate the complexity caused by graph models, but exist the error propagation that incorrectly disambiguated entities are likely to induce further errors when predicting future mentions. Moreover, it is a huge expense to construct the Cites: Zero-shot entity linking by reading entity descriptions

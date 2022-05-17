@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "M Tucker, T Eisape, P Qian, R Levy, J Shah - arXiv preprint arXiv:2204.09722, 2022"
+---
+Recent causal probing literature reveals when language models and syntactic probes use similar representations. Such techniques may yield  false negative causality results: models may use representations of syntax, but probes may have learned to use redundant encodings of the same syntactic information. We demonstrate that models do encode syntactic information redundantly and introduce a new probe design that guides probes to consider all syntactic information present Cites: A structural probe for finding syntax in word representations

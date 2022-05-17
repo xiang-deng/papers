@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "V Gupta, Z Li, A Kortylewski, C Zhang, Y Li, A Yuille - arXiv preprint arXiv:2204.02285, 2022"
+---
+While Visual Question Answering (VQA) has progressed rapidly, previous works raise concerns about robustness of current VQA models. In this work, we study the robustness of VQA models from a novel perspective: visual context. We suggest that the models over-rely on the visual context, ie, irrelevant objects in the image, to make predictions. To diagnose the model s reliance on visual context and measure their robustness, we propose a simple yet effective perturbation technique, SwapMix Cites: Oscar: Object-semantics aligned pre-training for vision-language

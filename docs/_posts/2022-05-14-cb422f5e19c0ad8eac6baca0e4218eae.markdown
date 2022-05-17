@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bug-Transformer: Automated Program Repair Using Attention-Based Deep Neural Network"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "J Yao, B Rao, W Xing, L Wang - Journal of Circuits, Systems and Computers, 2022"
+---
+In this paper, we propose a novel transformer-based deep neural network model to learn semantic bug patterns from a corpus of buggy/fixed codes, then generate correct ones automatically. Transformer is a deep learning model relying entirely on attention mechanism to model global dependencies between input and output. Although there are a few endeavors to repair programs by learning neural language models (NLM), many special program properties, such as structure and semantics of Cites: Break-It-Fix-It: Unsupervised Learning for Program Repair

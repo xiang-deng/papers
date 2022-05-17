@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ANN Softmax: Acceleration of Extreme Classification Training"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "K Zhao, L Song, Y Zhang, P Pan, Y Xu, R Jin"
+---
+Thanks to the popularity of GPU and the growth of its computational power, more and more deep learning tasks, such as face recognition, image retrieval and word embedding, can take advantage of extreme classification to improve accuracy. However, it remains a big challenge to train a deep model with millions of classes efficiently due to the huge memory and computation consumption in the last layer. By sampling a small set of classes to avoid the total classes calculation, sampling-based Cites: Turl: Table understanding through representation learning

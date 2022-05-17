@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improving spatial variation of ground-level PM2. 5 prediction with contrastive learning from satellite imagery"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "Z Jiang, T Zheng, M Bergin, D Carlson - Science of Remote Sensing, 2022"
+---
+Abstract Convolutional Neural Networks (CNNs) are a promising technique to predict highly localized fine particulate matter (ie, PM 2.5 levels) based on high-resolution satellite imagery. Unfortunately, CNNs typically require large amounts of supervised data to perform well, whereas this application generally has lots of unsupervised data (all satellite imagery) and relatively sparse supervised data (measurements from ground sensors). Previous work used transfer learning from another visual task Cites: A framework for contrastive self-supervised learning and designing

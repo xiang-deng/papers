@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Dynamic Schema Graph Fusion Network for Multi-Domain Dialogue State Tracking"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "Y Feng, A Lipani, F Ye, Q Zhang, E Yilmaz - arXiv preprint arXiv:2204.06677, 2022"
+---
+Dialogue State Tracking (DST) aims to keep track of users  intentions during the course of a conversation. In DST, modelling the relations among domains and slots is still an under-studied problem. Existing approaches that have considered such relations generally fall short in:(1) fusing prior slot-domain membership relations and dialogue-aware dynamic slot relations explicitly, and (2) generalizing to unseen domains. To address these issues, we propose a novel textbf {D} ynamic textbf {S} Cites: Find or classify? dual strategy for slot-value predictions on multi

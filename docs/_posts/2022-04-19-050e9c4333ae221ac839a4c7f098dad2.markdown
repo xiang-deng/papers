@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Open Domain Question Answering with A Unified Knowledge Interface"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "K Ma, H Cheng, X Liu, E Nyberg, J Gao"
+---
+The retriever-reader framework is popular for open-domain question answering (ODQA) due to its ability to use explicit knowledge. Although prior work has sought to increase the knowledge coverage by incorporating structured knowledge beyond text, accessing heterogeneous knowledge sources through a unified interface remains an open question. While data-to-text generation has the potential to serve as a universal interface for data and text, its feasibility for downstream tasks remains Cites: Probabilistic Assumptions Matter: Improved Models for Distantly

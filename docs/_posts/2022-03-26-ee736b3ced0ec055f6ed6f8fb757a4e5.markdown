@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "How Validation Methodology Influences Human Activity Recognition Mobile Systems"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "H Bragana, JG Colonna, HABF Oliveira, E Souto - Sensors, 2022"
+---
+In this article, we introduce explainable methods to understand how Human Activity Recognition (HAR) mobile systems perform based on the chosen validation strategies. Our results introduce a new way to discover potential bias problems that overestimate the prediction accuracy of an algorithm because of the inappropriate choice of validation methodology. We show how the SHAP (Shapley additive explanations) framework, used in literature to explain the predictions of any machine Cites: Model-agnostic interpretability of machine learning

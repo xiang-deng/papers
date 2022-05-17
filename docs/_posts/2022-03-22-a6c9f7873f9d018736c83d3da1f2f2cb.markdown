@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BPE vs. Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic Languages"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "M Mager, A Oncevay, E Mager, K Kann, NT Vu - arXiv preprint arXiv:2203.08954, 2022"
+---
+Morphologically-rich polysynthetic languages present a challenge for NLP systems due to data sparsity, and a common strategy to handle this issue is to apply subword segmentation. We investigate a wide variety of supervised and unsupervised morphological segmentation methods for four polysynthetic languages: Nahuatl, Raramuri, Shipibo-Konibo, and Wixarika. Then, we compare the morphologically inspired segmentation methods against Byte-Pair Encodings (BPEs) as inputs for Cites: Neural machine translation with a polysynthetic low resource

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Unsupervised Cross-Task Generalization via Retrieval Augmentation"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "BY Lin, K Tan, C Miller, B Tian, X Ren - arXiv preprint arXiv:2204.07937, 2022"
+---
+Humans can perform unseen tasks by recalling relevant skills that are acquired previously and then generalizing them to the target tasks, even if there is no supervision at all. In this paper, we aim to improve such cross-task generalization ability of massive multi-task language models such as T0 (Sanh et al., 2021) in an unsupervised setting. We propose a retrieval-augmentation method named ReCross that takes a few unlabelled examples as queries to retrieve a small subset of Cites: Retrieval-augmented generation for knowledge-intensive nlp tasks

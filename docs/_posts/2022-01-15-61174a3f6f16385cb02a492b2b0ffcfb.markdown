@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning Action Translator for Meta Reinforcement Learning on Sparse-Reward Tasks"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "Y Guo, Q Wu, H Lee - Deep RL Workshop NeurIPS 2021, 2021"
+---
+Meta reinforcement learning (meta-RL) aims to learn a policy solving a set of training tasks simultaneously and quickly adapting to new tasks. It requires massive amounts of data drawn from training tasks to infer the common structure shared among tasks. Without heavy reward engineering, the sparse rewards in long-horizon tasks exacerbate the problem of sample efficiency in meta-RL. Another challenge in meta- RL is the discrepancy of difficulty level among tasks, which might cause one easy Cites: Explore then Execute: Adapting without Rewards via Factorized

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Nonlinear Label Spreading on Hypergraphs"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "K Prokopchik"
+---
+Semi-supervised learning is the problem of finding clusters in a graph or a point- clould dataset where we are given few initial input labels. Label Spreading (LS) is a standard technique for this problem, which can be interpreted as a random walk diffusion process of the labels on the graph [1]. Recent work in network science has shown that in many graph algorithms a great advantage can be obtained when accounting directly for higher-order interactions modeled as hypergraphs, where, for Cites: Learning with Local and Global Consistency.

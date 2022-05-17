@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A novel bundling learning paradigm for named entity recognition"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "B Ji, Y Xie, J Yu, S Li, J Ma, Y Ji, H Liu - Knowledge-Based Systems, 2022"
+---
+Multi-task learning (MTL) takes advantage of the information gained from multiple related NLP tasks in order to improve performance across these tasks. MTL-based models for named entity recognition (NER) have traditionally included relation extraction and (or) coreference resolution, which requires additional data annotations in NER corpora, whereas these annotations are often unavailable. Indeed, we generally model the NER task using either a sequence labeling-based or Cites: Entity, relation, and event extraction with contextualized span

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Building a Knowledge Graph of Events and Consequences Using Wikipedia and Wikidata"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "O Hassanzadeh - 2022"
+---
+In this short paper, we present our preliminary results on building a Knowledge Graph (KG) of events and consequences with application to event forecasting and analysis. A base KG is first constructed using existing concepts and relations in Wikidata. Using an automated unsupervised knowledge extraction pipeline, causal knowledge is extracted from Wikipedia articles to augment the base KG. We show examples from the base and the augmented KG, and discuss a few challenges in Cites: Scalable zero-shot entity linking with dense entity retrieval

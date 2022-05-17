@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Weakly Supervised Moment Localization with Decoupled Consistent Concept Prediction"
+date:   2022-03-24 01:59:24 -0400
+categories: jekyll update
+author: "F Ma, L Zhu, Y Yang - International Journal of Computer Vision, 2022"
+---
+Localizing moments in a video via natural language queries is a challenging task where models are trained to identify the start and the end timestamps of the moment in a video. However, it is labor intensive to obtain the temporal endpoint annotations. In this paper, we focus on a weakly supervised setting, where the temporal endpoints of moments are not available during training. We develop a decoupled consistent concept prediction (DCCP) framework to learn the relations between videos and Cites: Show, Attend and Tell: Neural Image Caption Generation with

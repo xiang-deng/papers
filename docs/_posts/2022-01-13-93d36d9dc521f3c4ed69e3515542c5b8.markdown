@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fine Grained Classification of Personal Data Entities with Language Models"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "A Nagpal, R Dasgupta, B Ganesan - 5th Joint International Conference on Data , 2022"
+---
+Fine grained entity classification is the task of assigning context-specific, fine grained labels to entities extracted in an NLP Pipeline. Before the advent of language models, several artificial neural network models were proposed for this task. We revisit these models and compare them with BERT-based models for the specific task of classifying Personal Data Entities (PDE). We observe that using side information from rule-based annotators improves neural model performance on this task and can Cites: Ultra-fine entity typing

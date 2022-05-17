@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DaLC: Domain Adaptation Learning Curve Prediction for Neural Machine Translation"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "C Park, H Kim, I Calapodescu, H Cho, V Nikoulina - arXiv preprint arXiv:2204.09259, 2022"
+---
+Domain Adaptation (DA) of Neural Machine Translation (NMT) model often relies on a pre-trained general NMT model which is adapted to the new domain on a sample of in-domain parallel data. Without parallel data, there is no way to estimate the potential benefit of DA, nor the amount of parallel samples it would require. It is however a desirable functionality that could help MT practitioners to make an informed decision before investing resources in dataset creation. We propose a Cites: Towards More Fine-grained and Reliable NLP Performance

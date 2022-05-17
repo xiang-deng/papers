@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "H Chen, Y Ji - arXiv preprint arXiv:2201.03742, 2022"
+---
+Estimating the predictive uncertainty of pre-trained language models is important for increasing their trustworthiness in NLP. Although many previous works focus on quantifying prediction uncertainty, there is little work on explaining the uncertainty. This paper pushes a step further on explaining uncertain predictions of post- calibrated pre-trained language models. We adapt two perturbation-based post-hoc interpretation methods, Leave-one-out and Sampling Shapley, to identify words in Cites: Understanding Neural Abstractive Summarization Models via

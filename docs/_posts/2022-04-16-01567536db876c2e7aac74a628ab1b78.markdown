@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Breaking Character: Are Subwords Good Enough for MRLs After All?"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "O Keren, T Avinari, R Tsarfaty, O Levy - arXiv preprint arXiv:2204.04748, 2022"
+---
+Large pretrained language models (PLMs) typically tokenize the input string into contiguous subwords before any pretraining or inference. However, previous studies have claimed that this form of subword tokenization is inadequate for processing morphologically-rich languages (MRLs). We revisit this hypothesis by pretraining a BERT-style masked language model over character sequences instead of word- pieces. We compare the resulting model, dubbed TavBERT, against contemporary Cites: Universal dependencies v2: An evergrowing multilingual treebank

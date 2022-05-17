@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "YS Chuang, R Dangovski, H Luo, Y Zhang, S Chang - arXiv preprint arXiv , 2022"
+---
+We propose DiffCSE, an unsupervised contrastive learning framework for learning sentence embeddings. DiffCSE learns sentence embeddings that are sensitive to the difference between the original sentence and an edited sentence, where the edited sentence is obtained by stochastically masking out the original sentence and then sampling from a masked language model. We show that DiffSCE is an instance of equivariant contrastive learning (Dangovski et al., 2021), which generalizes Cites: Well-read students learn better: On the importance of pre-training

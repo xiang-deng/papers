@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BLINK with Elasticsearch for Efficient Entity Linking in Business Conversations"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "MTR Laskar, C Chen, A Martsinovich, J Johnston - arXiv preprint arXiv , 2022"
+---
+An Entity Linking system aligns the textual mentions of entities in a text to their corresponding entries in a knowledge base. However, deploying a neural entity linking system for efficient real-time inference in production environments is a challenging task. In this work, we present a neural entity linking system that connects the product and organization type entities in business conversations to their corresponding Wikipedia and Wikidata entries. The proposed system leverages Cites: Scalable zero-shot entity linking with dense entity retrieval

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Dialogue State Tracking with a Language Model using Schema-Driven Prompting"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "CH Lee, H Cheng, M Ostendorf - arXiv preprint arXiv:2109.07506, 2021"
+---
+Task-oriented conversational systems often use dialogue state tracking to represent the user s intentions, which involves filling in values of pre-defined slots. Many approaches have been proposed, often using task-specific architectures with special- purpose classifiers. Recently, good results have been obtained using more general architectures based on pretrained language models. Here, we introduce a new variation of the language modeling approach that uses schema-driven prompting to Cites: SCoRe: Pre-Training for Context Representation in Conversational

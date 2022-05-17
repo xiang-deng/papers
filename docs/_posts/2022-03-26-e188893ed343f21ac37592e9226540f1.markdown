@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Reasoning over Public and Private Data in Retrieval-Based Systems"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "S Arora, P Lewis, A Fan, J Kahn, C R - arXiv preprint arXiv:2203.11027, 2022"
+---
+Users and organizations are generating ever-increasing amounts of private data from a wide range of sources. Incorporating private data is important to personalize open-domain applications such as question-answering, fact-checking, and personal assistants. State-of-the-art systems for these tasks explicitly retrieve relevant information to a user question from a background corpus before producing an answer. While today s retrieval systems assume the corpus is fully accessible, users Cites: Electra: Pre-training text encoders as discriminators rather than

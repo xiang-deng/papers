@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "KUCST@ LT-EDI-ACL2022: Detecting Signs of Depression from Social Media Text"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "M Agirrezabal, J Amann - arXiv preprint arXiv:2204.04481, 2022"
+---
+In this paper we present our approach for detecting signs of depression from social media text. Our model relies on word unigrams, part-of-speech tags, readabilitiy measures and the use of first, second or third person and the number of words. Our best model obtained a macro F1-score of 0.439 and ranked 25th, out of 31 teams. We further take advantage of the interpretability of the Logistic Regression model and we make an attempt to interpret the model coefficients with the hope that these Cites: Stanza: A python natural language processing toolkit for many

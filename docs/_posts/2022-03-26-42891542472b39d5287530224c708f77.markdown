@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Programming Language Agnostic Mining of Code and Language Pairs with Sequence Labeling Based Question Answering"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "C Hu, AR Methukupalli, Y Zhou, C Wu, Y Chen - arXiv preprint arXiv:2203.10744, 2022"
+---
+Mining aligned natural language (NL) and programming language (PL) pairs is a critical task to NL-PL understanding. Existing methods applied specialized hand- crafted features or separately-trained models for each PL. However, they usually suffered from low transferability across multiple PLs, especially for niche PLs with less annotated data. Fortunately, a Stack Overflow answer post is essentially a sequence of text and code blocks and its global textual context can provide PL Cites: Reranking for neural semantic parsing

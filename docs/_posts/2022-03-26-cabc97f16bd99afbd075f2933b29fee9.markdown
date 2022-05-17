@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "TDv2: A Novel Tree-Structured Decoder for Offline Mathematical Expression Recognition"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "C Wu, J Du, Y Li, J Zhang, C Yang, B Ren, Y Hu - 2022"
+---
+In recent years, tree decoders become more popular than La-TeX string decoders in the field of handwritten mathematical expression recognition (HMER) as they can capture the hierarchical tree structure of mathematical expressions. However previous tree decoders converted the tree structure labels into a fixed and ordered sequence, which could not make full use of the diversified expression of tree labels. In this study, we propose a novel tree decoder (TDv2) to fully utilize the tree structure Cites: Neuro-symbolic program synthesis

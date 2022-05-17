@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Structurally Diverse Sampling Reduces Spurious Correlations in Semantic Parsing Datasets"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "S Gupta, S Singh, M Gardner - arXiv preprint arXiv:2203.08445, 2022"
+---
+A rapidly growing body of research has demonstrated the inability of NLP models to generalize compositionally and has tried to alleviate it through specialized architectures, training schemes, and data augmentation, among other approaches. In this work, we study a different relatively under-explored approach: sampling diverse train sets that encourage compositional generalization. We propose a novel algorithm for sampling a structurally diverse set of instances from a labeled instance Cites: Compositional generalization for neural semantic parsing via span

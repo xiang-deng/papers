@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Conversational Paradigm for Program Synthesis"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "E Nijkamp, B Pang, H Hayashi, L Tu, H Wang, Y Zhou - arXiv preprint arXiv , 2022"
+---
+Program synthesis strives to generate a computer program as a solution to a given problem specification. We propose a conversational program synthesis approach via large language models, which addresses the challenges of searching over a vast program space and user intent specification faced in prior approaches. Our new approach casts the process of writing a specification and program as a multi-turn conversation between a user and a system. It treats program synthesis as a Cites: Codebert: A pre-trained model for programming and natural

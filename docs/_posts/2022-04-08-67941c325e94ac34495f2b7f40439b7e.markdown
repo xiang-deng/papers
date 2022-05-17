@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Why Exposure Bias Matters: An Imitation Learning Perspective of Error Accumulation in Language Generation"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "K Arora, LE Asri, H Bahuleyan, JCK Cheung - arXiv preprint arXiv:2204.01171, 2022"
+---
+Current language generation models suffer from issues such as repetition, incoherence, and hallucinations. An often-repeated hypothesis is that this brittleness of generation models is caused by the training and the generation procedure mismatch, also referred to as exposure bias. In this paper, we verify this hypothesis by analyzing exposure bias from an imitation learning perspective. We show that exposure bias leads to an accumulation of errors, analyze why perplexity fails to Cites: Neural text generation with unlikelihood training

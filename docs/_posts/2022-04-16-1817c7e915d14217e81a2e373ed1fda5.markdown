@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Predictive Rate Parity Testing and Mitigation"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "C DiCiccio, B Hsu, YY Yu, P Nandy, K Basu - arXiv preprint arXiv:2204.05947, 2022"
+---
+Recently, numerous studies have demonstrated the presence of bias in machine learning powered decision-making systems. Although most definitions of algorithmic bias have solid mathematical foundations, the corresponding bias detection techniques often lack statistical rigor, especially for non-iid data. We fill this gap in the literature by presenting a rigorous non-parametric testing procedure for bias according to Predictive Rate Parity, a commonly considered notion of algorithmic Cites: Verified uncertainty calibration

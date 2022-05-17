@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Unsupervised Numerical Reasoning to Extract Phenotypes from Clinical Text by Leveraging External Knowledge"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "A Tanwar, J Zhang, J Ive, V Gupta, Y Guo - arXiv preprint arXiv:2204.10202, 2022"
+---
+Extracting phenotypes from clinical text has been shown to be useful for a variety of clinical use cases such as identifying patients with rare diseases. However, reasoning with numerical values remains challenging for phenotyping in clinical text, for example, temperature 102F representing Fever. Current state-of-the-art phenotyping models are able to detect general phenotypes, but perform poorly when they detect phenotypes requiring numerical reasoning. We present a novel Cites: Biomedical and clinical English model packages in the Stanza

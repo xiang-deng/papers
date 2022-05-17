@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "HuSpaCy: an industrial-strength Hungarian natural language processing toolkit"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "G Orosz, Z Sznt, P Berkecz, G Szab, R Farkas - arXiv preprint arXiv:2201.01956, 2022"
+---
+Although there are a couple of open-source language processing pipelines available for Hungarian, none of them satisfies the requirements of today s NLP applications. A language processing pipeline should consist of close to state-of-the-art lemmatization, morphosyntactic analysis, entity recognition and word embeddings. Industrial text processing applications have to satisfy non-functional software quality requirements, what is more, frameworks supporting multiple languages are more and Cites: Universal dependencies

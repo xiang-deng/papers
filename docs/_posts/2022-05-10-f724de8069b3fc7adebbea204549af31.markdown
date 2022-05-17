@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Declaration-based Prompt Tuning for Visual Question Answering"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "Y Liu, W Wei, D Peng, F Zhu - arXiv preprint arXiv:2205.02456, 2022"
+---
+In recent years, the pre-training-then-fine-tuning paradigm has yielded immense success on a wide spectrum of cross-modal tasks, such as visual question answering (VQA), in which a visual-language (VL) model is first optimized via self-supervised task objectives, eg, masked language modeling (MLM) and image-text matching (ITM), and then fine-tuned to adapt to downstream task (eg, VQA) via a brand-new objective function, eg, answer prediction. The inconsistency of the objective forms not Cites: Learning by abstraction: The neural state machine

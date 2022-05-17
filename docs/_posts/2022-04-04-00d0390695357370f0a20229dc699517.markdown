@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Clozer: Adaptable Data Augmentation for Cloze-style Reading Comprehension"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "H Lovenia, B Wilie, W Chung, M Zeng, S Cahyawijaya - arXiv preprint arXiv , 2022"
+---
+Task-adaptive pre-training (TAPT) alleviates the lack of labelled data and provides performance lift by adapting unlabelled data to downstream task. Unfortunately, existing adaptations mainly involve deterministic rules that cannot generalize well. Here, we propose Clozer, a sequence-tagging based cloze answer extraction method used in TAPT that is extendable for adaptation on any cloze-style machine reading comprehension (MRC) downstream tasks. We experiment on multiple Cites: Bidirectional Attention Flow for Machine Comprehension

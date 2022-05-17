@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Can domain adaptation make object recognition work for everyone?"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "V Prabhu, RR Selvaraju, J Hoffman, N Naik - arXiv preprint arXiv:2204.11122, 2022"
+---
+Despite the rapid progress in deep visual recognition, modern computer vision datasets significantly overrepresent the developed world and models trained on such datasets underperform on images from unseen geographies. We investigate the effectiveness of unsupervised domain adaptation (UDA) of such models across geographies at closing this performance gap. To do so, we first curate two shifts from existing datasets to study the Geographical DA problem, and discover new Cites: Extending the WILDS Benchmark for Unsupervised Adaptation

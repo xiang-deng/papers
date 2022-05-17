@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "STaR: Bootstrapping Reasoning With Reasoning"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "E Zelikman, Y Wu, ND Goodman - arXiv preprint arXiv:2203.14465, 2022"
+---
+Generating step-by-step  chain-of-thought  rationales improves language model performance on complex reasoning tasks like mathematics or commonsense question-answering. However, inducing language model rationale generation currently requires either constructing massive rationale datasets or sacrificing accuracy by using only few-shot inference. We propose a technique to iteratively leverage a small number of rationale examples and a large dataset without Cites: Rethinking the Role of Demonstrations: What Makes In-Context

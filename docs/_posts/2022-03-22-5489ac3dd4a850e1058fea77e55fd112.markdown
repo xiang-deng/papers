@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Leveraging speaker-aware structure and factual knowledge for faithful dialogue summarization"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "L Zhao, W Xu, C Zhang, J Guo - Knowledge-Based Systems, 2022"
+---
+Abstract Currently, sequence/graph-to-sequence models for abstractive dialogue summarization are being studied extensively. However, previous methods strive to integrate complex events spanning multiple utterances, and the generated summaries are often filled with incorrect facts. In this study, we first utilize the speaker- aware structure to model the information interaction process in the dialogue, which shows an excellent ability to settle the cross-sentence dependency. Then, we Cites: Optimizing the factual correctness of a summary: A study of

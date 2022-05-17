@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Static Analysis for AWS Best Practices in Python Code"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "R Mukherjee, O Tripp, B Liblit, M Wilson - arXiv preprint arXiv:2205.04432, 2022"
+---
+Amazon Web Services (AWS) is a comprehensive and broadly adopted cloud provider, offering over 200 fully featured services, including compute, database, storage, networking and content delivery, machine learning, Internet of Things and many others. AWS SDKs provide access to AWS services through API endpoints. However, incorrect use of these APIs can lead to code defects, crashes, performance issues, and other problems. This paper presents automated static analysis rules Cites: Lambdanet: Probabilistic type inference using graph neural networks

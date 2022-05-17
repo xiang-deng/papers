@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Self-Attentive Moving Average for Time Series Prediction"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "Y Su, C Cui, H Qu - Applied Sciences, 2022"
+---
+Time series prediction has been studied for decades due to its potential in a wide range of applications. As one of the most popular technical indicators, moving average summarizes the overall changing patterns over a past period and is frequently used to predict the future trend of time series. However, traditional moving average indicators are calculated by averaging the time series data with equal or predefined weights, and ignore the subtle difference in the importance of different Cites: Learning phrase representations using RNN encoder-decoder for

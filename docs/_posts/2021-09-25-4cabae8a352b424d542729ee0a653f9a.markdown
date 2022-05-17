@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SentiPrompt: Sentiment Knowledge Enhanced Prompt-Tuning for Aspect-Based Sentiment Analysis"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "C Li, F Gao, J Bu, L Xu, X Chen, Y Gu, Z Shao, Q Zheng - arXiv preprint arXiv , 2021"
+---
+Aspect-based sentiment analysis (ABSA) is an emerging fine-grained sentiment analysis task that aims to extract aspects, classify corresponding sentiment polarities and find opinions as the causes of sentiment. The latest research tends to solve the ABSA task in a unified way with end-to-end frameworks. Yet, these frameworks get fine-tuned from downstream tasks without any task-adaptive modification. Specifically, they do not use task-related knowledge well or explicitly model relations Cites: Effective LSTMs for target-dependent sentiment classification

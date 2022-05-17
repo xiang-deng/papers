@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Probing Speech Emotion Recognition Transformers for Linguistic Knowledge"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "A Triantafyllopoulos, J Wagner, H Wierstorf, M Schmitt - arXiv preprint arXiv , 2022"
+---
+Large, pre-trained neural networks consisting of self-attention layers (transformers) have recently achieved state-of-the-art results on several speech emotion recognition (SER) datasets. These models are typically pre-trained in self-supervised manner with the goal to improve automatic speech recognition performance--and thus, to understand linguistic information. In this work, we investigate the extent in which this information is exploited during SER fine-tuning. Using a reproducible Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

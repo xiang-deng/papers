@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multihead attention graph convolutional network model: Endtoend entity and relation joint extraction based on multihead attention graph convolutional network"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "Z Tao, C Ouyang, Y Liu, T Chung, Y Cao - CAAI Transactions on Intelligence , 2022"
+---
+At present, the entity and relation joint extraction task has attracted more and more scholars  attention in the field of natural language processing (NLP). However, most of their methods rely on NLP tools to construct dependency trees to obtain sentence structure information. The adjacency matrix constructed by the dependency tree can convey syntactic information. Dependency trees obtained through NLP tools are too dependent on the tools and may not be very accurate in contextual semantic Cites: Dependency parsing as head selection

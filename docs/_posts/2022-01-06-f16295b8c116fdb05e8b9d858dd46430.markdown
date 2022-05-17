@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Automatic detection of behavioural codes in team interactions"
+date:   2022-01-06 10:02:50 -0400
+categories: jekyll update
+author: "M Hasan, N Jefferson, T Hain, J Dawson - Computer Speech & Language, 2022"
+---
+This paper investigates the feasibility of the task of automatic behaviour coding of spoken interactions in teamwork settings. We introduce the coding schema used to classify the behaviours of the group members and the corpus we collected to assess the coding schema reliability in real teamwork meetings. The behaviours embedded in spoken utterances are modeled using a discriminative approach based on conditional random fields, and state-of-the-art neural networks based models Cites: Glove: Global vectors for word representation

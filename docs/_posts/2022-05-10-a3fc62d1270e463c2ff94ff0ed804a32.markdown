@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DeepFD: Automated Fault Diagnosis and Localization for Deep Learning Programs"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "J Cao, M Li, X Chen, M Wen, Y Tian, B Wu, SC Cheung - arXiv preprint arXiv , 2022"
+---
+As Deep Learning (DL) systems are widely deployed for mission-critical applications, debugging such systems becomes essential. Most existing works identify and repair suspicious neurons on the trained Deep Neural Network (DNN), which, unfortunately, might be a detour. Specifically, several existing studies have reported that many unsatisfactory behaviors are actually originated from the faults residing in DL programs. Besides, locating faulty neurons is not actionable for developers, while Cites: AlphaD3M: Machine learning pipeline synthesis

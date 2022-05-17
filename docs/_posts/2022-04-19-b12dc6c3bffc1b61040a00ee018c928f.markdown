@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Can Question Rewriting Help Conversational Question Answering?"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "E Ishii, Y Xu, S Cahyawijaya, B Wilie - arXiv preprint arXiv:2204.06239, 2022"
+---
+Question rewriting (QR) is a subtask of conversational question answering (CQA) aiming to ease the challenges of understanding dependencies among dialogue history by reformulating questions in a self-contained form. Despite seeming plausible, little evidence is available to justify QR as a mitigation method for CQA. To verify the effectiveness of QR in CQA, we investigate a reinforcement learning approach that integrates QR and CQA tasks and does not require corresponding QR Cites: Natural questions: a benchmark for question answering research

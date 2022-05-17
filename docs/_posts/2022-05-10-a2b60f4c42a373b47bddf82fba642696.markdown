@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Diversifying Neural Dialogue Generation via Negative Distillation"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "Y Li, S Feng, B Sun, K Li - arXiv preprint arXiv:2205.02795, 2022"
+---
+Generative dialogue models suffer badly from the generic response problem, limiting their applications to a few toy scenarios. Recently, an interesting approach, namely negative training, has been proposed to alleviate this problem by reminding the model not to generate high-frequency responses during training. However, its performance is hindered by two issues, ignoring low-frequency but generic responses and bringing low-frequency but meaningless responses. In this paper, we Cites: Don t Say That! Making Inconsistent Dialogue Unlikely with

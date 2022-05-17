@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Deconfounded Training for Graph Neural Networks"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "Y Sui, X Wang, J Wu, X He, TS Chua - arXiv preprint arXiv:2112.15089, 2021"
+---
+Learning powerful representations is one central theme of graph neural networks (GNNs). It requires refining the critical information from the input graph, instead of the trivial patterns, to enrich the representations. Towards this end, graph attention and pooling methods prevail. They mostly follow the paradigm of  learning to attend . It maximizes the mutual information between the attended subgraph and the ground- truth label. However, this training paradigm is prone to capture the spurious Cites: Distributionally robust neural networks for group shifts: On the

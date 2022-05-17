@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ALLSH: Active Learning Guided by Local Sensitivity and Hardness"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "S Zhang, C Gong, X Liu, P He, W Chen, M Zhou - arXiv preprint arXiv:2205.04980, 2022"
+---
+Active learning, which effectively collects informative unlabeled data for annotation, reduces the demand for labeled data. In this work, we propose to retrieve unlabeled samples with a local sensitivity and hardness-aware acquisition function. The proposed method generates data copies through local perturbations and selects data points whose predictive likelihoods diverge the most from their copies. We further empower our acquisition function by injecting the select-worst case Cites: On the importance of adaptive data collection for extremely

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "C Guo, B Zhao, Y Bai - arXiv preprint arXiv:2204.08499, 2022"
+---
+Coreset selection, which aims to select a subset of the most informative training samples, is a long-standing learning problem that can benefit many downstream tasks such as data-efficient learning, continual learning, neural architecture search, active learning, etc. However, many existing coreset selection methods are not designed for deep learning, which may have high complexity and poor generalization ability to unseen representations. In addition, the recently proposed Cites: Just train twice: Improving group robustness without training group

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "INK: knowledge graph embeddings for node classification"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "B Steenwinckel, G Vandewiele, M Weyns, T Agozzino - Data Mining and Knowledge , 2022"
+---
+Deep learning techniques are increasingly being applied to solve various machine learning tasks that use Knowledge Graphs as input data. However, these techniques typically learn a latent representation for the entities of interest internally, which is then used to make decisions. This latent representation is often not comprehensible to humans, which is why deep learning techniques are often considered to be black boxes. In this paper, we present INK: Instance Neighbouring by using Knowledge, a Cites: Embedding entities and relations for learning and inference in

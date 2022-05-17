@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "LFR Ribeiro, M Liu, I Gurevych, M Dreyer, M Bansal - arXiv preprint arXiv:2204.06508, 2022"
+---
+Despite recent improvements in abstractive summarization, most current approaches generate summaries that are not factually consistent with the source document, severely restricting their trust and usage in real-world applications. Recent works have shown promising improvements in factuality error identification using text or dependency arc entailments; however, they do not consider the entire semantic graph simultaneously. To this end, we propose FactGraph, a method that Cites: Asking and Answering Questions to Evaluate the Factual

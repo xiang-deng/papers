@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mixhead: Breaking the low-rank bottleneck in multi-head attention language models"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "Z Zhang, N Shao, C Gao, R Miao, Q Yang, J Shao - Knowledge-Based Systems, 2022"
+---
+The Transformer-based models have achieved significant advances in language modeling, while the multi-head attention mechanism in Transformers plays an indispensable part in their success. However, the too-small head size caused by the multi-head mechanism will lead to one problem called the low-rank bottleneck, which means that the rank of the attention weight matrix is too small to represent any desired attention. Naively increasing the head size is insufficient to solve the problem Cites: What does BERT look at? An analysis of BERT s attention

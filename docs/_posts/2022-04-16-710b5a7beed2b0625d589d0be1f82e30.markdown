@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Uninformative Input Features and Counterfactual Invariance: Two Perspectives on Spurious Correlations in Natural Language"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "J Eisenstein - arXiv preprint arXiv:2204.04487, 2022"
+---
+Spurious correlations are a threat to the trustworthiness of natural language processing systems, motivating research into methods for identifying and eliminating them. Gardner et al (2021) argue that the compositional nature of language implies that emph {all} correlations between labels and individual input features are spurious. This paper analyzes this proposal in the context of a toy example, demonstrating three distinct conditions that can give rise to feature-label correlations Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

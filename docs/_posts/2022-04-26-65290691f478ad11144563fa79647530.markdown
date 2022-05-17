@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "An Attention-Guided Spatiotemporal Graph Convolutional Network for Sleep Stage Classification"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "M Li, H Chen, Z Cheng - Life, 2022"
+---
+Sleep staging has been widely used as an approach in sleep diagnoses at sleep clinics. Graph neural network (GNN)-based methods have been extensively applied for automatic sleep stage classifications with significant results. However, the existing GNN-based methods rely on a static adjacency matrix to capture the features of the different electroencephalogram (EEG) channels, which cannot grasp the information of each electrode. Meanwhile, these methods ignore the importance of Cites: Learning phrase representations using RNN encoder-decoder for

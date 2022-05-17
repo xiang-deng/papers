@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bag-of-Words vs. Sequence vs. Graph vs. Hierarchy for Single-and Multi-Label Text Classification"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "A Diera, BX Lin, B Khera, T Meuser, T Singhal, L Galke - arXiv preprint arXiv , 2022"
+---
+Graph neural networks have triggered a resurgence of graph-based text classification methods, defining today s state of the art. We show that a simple multi- layer perceptron (MLP) using a Bag of Words (BoW) outperforms the recent graph- based models TextGCN and HeteGCN in an inductive text classification setting and is comparable with HyperGAT in single-label classification. We also run our own experiments on multi-label classification, where the simple MLP outperforms the Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Graph Spectral Embedding using the Geodesic Betweeness Centrality"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "S Deutsch, S Soatto - arXiv preprint arXiv:2205.03544, 2022"
+---
+We introduce the Graph Sylvester Embedding (GSE), an unsupervised graph representation of local similarity, connectivity, and global structure. GSE uses the solution of the Sylvester equation to capture both network structure and neighborhood proximity in a single representation. Unlike embeddings based on the eigenvectors of the Laplacian, GSE incorporates two or more basis functions, for instance using the Laplacian and the affinity matrix. Such basis functions are Cites: A regularization framework for learning from graph data

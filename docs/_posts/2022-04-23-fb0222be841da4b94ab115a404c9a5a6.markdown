@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "S Zuo, Q Zhang, C Liang, P He, T Zhao, W Chen - arXiv preprint arXiv:2204.07675, 2022"
+---
+Pre-trained language models have demonstrated superior performance in various natural language processing tasks. However, these models usually contain hundreds of millions of parameters, which limits their practicality because of latency requirements in real-world applications. Existing methods train small compressed models via knowledge distillation. However, performance of these small models drops significantly compared with the pre-trained models due to their reduced model Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

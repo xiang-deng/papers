@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MKGN: A Multi-Dimensional Knowledge Enhanced Graph Network for Multi-Hop Question and Answering"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "Y ZHANG, F MENG, J ZHANG, Y CHEN, J XU, J ZHOU - IEICE Transactions on , 2022"
+---
+Machine reading comprehension with multi-hop reasoning always suffers from reasoning path breaking due to the lack of world knowledge, which always results in wrong answer detection. In this paper, we analyze what knowledge the previous work lacks, eg, dependency relations and commonsense. Based on our analysis, we propose a Multi-dimensional Knowledge enhanced Graph Network, named MKGN, which exploits specific knowledge to repair the knowledge gap in reasoning process Cites: Multi-hop Question Answering via Reasoning Chains

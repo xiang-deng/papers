@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "X Wang, Y Wang, Y Wan, J Wang, P Zhou, L Li, H Wu - arXiv preprint arXiv , 2022"
+---
+Recent years have witnessed increasing interest in code representation learning, which aims to represent the semantics of source code into distributed vectors. Currently, various works have been proposed to represent the complex semantics of source code from different views, including plain text, Abstract Syntax Tree (AST), and several kinds of code graphs (eg, Control/Data Flow Graph). However, most of them only consider a single view of source code independently, ignoring the Cites: Learning to mine aligned code and natural language pairs from

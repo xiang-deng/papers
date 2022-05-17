@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Anchor Prediction: A Topic Modeling Approach"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "J Dupuy, A Guille, J Jacques - 2022"
+---
+Networks of documents connected by hyperlinks, such as Wikipedia, are ubiquitous. Hyperlinks are inserted by the authors to enrich the text and facilitate the navigation through the network. However, authors tend to insert only a fraction of the relevant hyperlinks, mainly because this is a time consuming task. In this paper we address an annotation, which we refer to as anchor prediction. Even though it is conceptually close to link prediction or entity linking, it is a different task that require developing a Cites: Modeling mention, context and entity with neural networks for entity

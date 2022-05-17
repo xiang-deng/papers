@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "C Zeng, J Chen, T Zhuang, R Xu, H Yang, Y Qin, S Tao - arXiv preprint arXiv , 2022"
+---
+However, current autoregressive approaches suffer from high latency. In this paper, we focus on non-autoregressive translation (NAT) for this problem for its efficiency advantage. We identify that current constrained NAT models, which are based on iterative editing, do not handle low-frequency constraints well. To this end, we propose a plug-in algorithm for this line of work, ie, Aligned Constrained Training (ACT), which alleviates this problem by familiarizing the model with the source-side Cites: Latent-variable non-autoregressive neural machine translation

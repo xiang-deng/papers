@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Synthetic Target Domain Supervision for Open Retrieval QA"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "RG Reddy, B Iyer, MA Sultan, R Zhang, A Sil, V Castelli - arXiv preprint arXiv , 2022"
+---
+Neural passage retrieval is a new and promising approach in open retrieval question answering. In this work, we stress-test the Dense Passage Retriever (DPR)--a state- of-the-art (SOTA) open domain neural retrieval model--on closed and specialized target domains such as COVID-19, and find that it lags behind standard BM25 in this important real-world setting. To make DPR more robust under domain shift, we explore its fine-tuning with synthetic training examples, which we generate from Cites: Rapidly bootstrapping a question answering dataset for COVID-19

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multimodal Entity Tagging with Multimodal Knowledge Base"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "H Peng, H Li, L Hou, J Li, C Qiao - arXiv preprint arXiv:2201.00693, 2021"
+---
+To enhance research on multimodal knowledge base and multimodal information processing, we propose a new task called multimodal entity tagging (MET) with a multimodal knowledge base (MKB). We also develop a dataset for the problem using an existing MKB. In an MKB, there are entities and their associated texts and images. In MET, given a text-image pair, one uses the information in the MKB to automatically identify the related entity in the text-image pair. We solve the task by using the Cites: VisualSem: a high-quality knowledge graph for vision and language

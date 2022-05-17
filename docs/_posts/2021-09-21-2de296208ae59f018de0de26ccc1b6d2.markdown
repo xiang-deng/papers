@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Allocating Large Vocabulary Capacity for Cross-lingual Language Model Pre-training"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "B Zheng, L Dong, S Huang, S Singhal, W Che, T Liu - arXiv preprint arXiv , 2021"
+---
+Compared to monolingual models, cross-lingual models usually require a more expressive vocabulary to represent all languages adequately. We find that many languages are under-represented in recent cross-lingual language models due to the limited vocabulary capacity. To this end, we propose an algorithm VoCap to determine the desired vocabulary capacity of each language. However, increasing the vocabulary size significantly slows down the pre-training speed. In order to Cites: TyDi QA: A benchmark for information-seeking question answering

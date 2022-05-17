@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "J Thorpe, P Zhao, J Eyolfson, Y Qiao, Z Jia, M Zhang - arXiv preprint arXiv , 2022"
+---
+DNN models across many domains continue to grow in size, resulting in high resource requirements for effective training, and unpalatable (and often unaffordable) costs for organizations and research labs across scales. This paper aims to significantly reduce training costs with effective use of preemptible instances, ie, those that can be obtained at a much cheaper price while idle, but may be preempted whenever requested by priority users. Doing so, however, requires new Cites: Well-read students learn better: The impact of student initialization

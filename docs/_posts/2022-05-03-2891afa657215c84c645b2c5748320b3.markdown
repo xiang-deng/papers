@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On the Limitations of Dataset Balancing: The Lost Battle Against Spurious Correlations"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "R Schwartz, G Stanovsky - arXiv preprint arXiv:2204.12708, 2022"
+---
+Recent work has shown that deep learning models in NLP are highly sensitive to low- level correlations between simple features and specific output labels, leading to overfitting and lack of generalization. To mitigate this problem, a common practice is to balance datasets by adding new instances or by filtering out  easy  instances (Sakaguchi et al., 2020), culminating in a recent proposal to eliminate single-word correlations altogether (Gardner et al., 2021). In this opinion paper, we identify that Cites: Adversarial filters of dataset biases

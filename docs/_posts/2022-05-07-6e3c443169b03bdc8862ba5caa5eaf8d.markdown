@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Modular Domain Adaptation"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "JK Chen, D Card, D Jurafsky - arXiv preprint arXiv:2204.14213, 2022"
+---
+Off-the-shelf models are widely used by computational social science researchers to measure properties of text, such as sentiment. However, without access to source data it is difficult to account for domain shift, which represents a threat to validity. Here, we treat domain adaptation as a modular process that involves separate model producers and model consumers, and show how they can independently cooperate to facilitate more accurate measurements of text. We introduce two lightweight Cites: Understanding self-training for gradual domain adaptation

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Response Generation via Structure-aware Constraints"
+date:   2022-03-30 13:35:09 -0400
+categories: jekyll update
+author: "M Guan, Z Wang, G Zhou - Transactions on Asian and Low-Resource Language , 2022"
+---
+End-to-end neural modeling with the encoder-decoder architecture has shown great promise in response generation. However, it often generates dull and generic responses, due to its failure to effectively perceive various kinds of act, sentiment, and topic information. To address the above challenges, we propose a response generation model with structure-aware constraints to capture the structure of dialog and generate a better response with various constraints of the act, sentiment, and Cites: The curious case of neural text degeneration

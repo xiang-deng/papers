@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "TFM: A Triple Fusion Module for Integrating Lexicon Information in Chinese Named Entity Recognition"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "H Liu, J Song, W Peng, J Sun, X Xin - Neural Processing Letters, 2022"
+---
+Due to the characteristics of the Chinese writing system, character-based Chinese named entity recognition models ignore the word information in sentences, which harms their performance. Recently, many works try to alleviate the problem by integrating lexicon information into character-based models. These models, however, either simply concatenate word embeddings, or have complex structures which lead to low efficiency. Furthermore, word information is viewed as the only Cites: Syn-QG: Syntactic and shallow semantic rules for question

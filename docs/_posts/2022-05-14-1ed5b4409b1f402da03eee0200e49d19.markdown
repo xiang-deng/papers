@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "Y Gao, Q Yin, Z Li, R Meng, T Zhao, B Yin, I King"
+---
+Keyphrase generation is the task of automatically predicting keyphrases given a piece of long text. Despite its recent flourishing, keyphrase generation on non- English languages haven t been vastly investigated. In this paper, we call attention to a new setting named multilingual keyphrase generation and we contribute two new datasets, EcommerceMKP and AcademicMKP, covering six languages. Technically, we propose a retrievalaugmented method for multilingual keyphrase generation to Cites: Latent retrieval for weakly supervised open domain question

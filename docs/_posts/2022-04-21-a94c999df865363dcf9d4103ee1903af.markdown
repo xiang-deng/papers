@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Deletion-Based Sentence Compression Using Sentence Scoring Reflecting Linguistic Information"
+date:   2022-04-21 03:59:43 -0400
+categories: jekyll update
+author: "JB Lee, SE Kim, SB Park - KIPS Transactions on Software and Data Engineering, 2022"
+---
+Sentence compression is a natural language processing task that generates concise sentences that preserves the important meaning of the original sentence. For grammatically appropriate sentence compression, early studies utilized human- defined linguistic rules. Furthermore, while the sequence-to-sequence models perform well on various natural language processing tasks, such as machine translation, there have been studies that utilize it for sentence compression Cites: Deleter: Leveraging BERT to Perform Unsupervised Successive

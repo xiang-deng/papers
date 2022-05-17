@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "RK Mahabadi, L Zettlemoyer, J Henderson, M Saeidi - arXiv preprint arXiv , 2022"
+---
+Current methods for few-shot fine-tuning of pretrained masked language models (PLMs) require carefully engineered prompts and verbalizers for each new task to convert examples into a cloze-format that the PLM can score. In this work, we propose PERFECT, a simple and efficient method for few-shot fine-tuning of PLMs without relying on any such handcrafting, which is highly effective given as few as 32 data points. PERFECT makes two key design choices: First, we show that manually Cites: Cutting down on prompts and parameters: Simple few-shot

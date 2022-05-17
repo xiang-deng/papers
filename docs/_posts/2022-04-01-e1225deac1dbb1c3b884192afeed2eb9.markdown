@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Offline Reinforcement Learning Under Value and Density-Ratio Realizability: the Power of Gaps"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "J Chen, N Jiang - arXiv preprint arXiv:2203.13935, 2022"
+---
+We consider a challenging theoretical problem in offline reinforcement learning (RL): obtaining sample-efficiency guarantees with a dataset lacking sufficient coverage, under only realizability-type assumptions for the function approximators. While the existing theory has addressed learning under realizability and under non-exploratory data separately, no work has been able to address both simultaneously (except for a concurrent work which we compare to in detail). Under an additional gap Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

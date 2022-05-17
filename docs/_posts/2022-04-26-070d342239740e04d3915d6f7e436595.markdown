@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Unleashing the Power of Compiler Intermediate Representation to Enhance Neural Program Embeddings"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "Z Li, P Ma, H Wang, S Wang, Q Tang, S Nie, S Wu - arXiv preprint arXiv:2204.09191, 2022"
+---
+Neural program embeddings have demonstrated considerable promise in a range of program analysis tasks, including clone identification, program repair, code completion, and program synthesis. However, most existing methods generate neural program embeddings directly from the program source codes, by learning from features such as tokens, abstract syntax trees, and control flow graphs. This paper takes a fresh look at how to improve program embeddings by leveraging Cites: Squinting at vqa models: Introspecting vqa models with sub

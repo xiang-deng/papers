@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improving Visual Grounding with Visual-Linguistic Verification and Iterative Reasoning"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "L Yang, Y Xu, C Yuan, W Liu, B Li, W Hu - arXiv preprint arXiv:2205.00272, 2022"
+---
+Visual grounding is a task to locate the target indicated by a natural language expression. Existing methods extend the generic object detection framework to this problem. They base the visual grounding on the features from pre-generated proposals or anchors, and fuse these features with the text embeddings to locate the target mentioned by the text. However, modeling the visual features from these predefined locations may fail to fully exploit the visual context and attribute Cites: BERT: Pre-training of Deep Bidirectional Transformers for

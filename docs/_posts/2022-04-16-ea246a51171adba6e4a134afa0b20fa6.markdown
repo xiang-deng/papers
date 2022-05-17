@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "TRUE: Re-evaluating Factual Consistency Evaluation"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "O Honovich, R Aharoni, J Herzig, H Taitelbaum - arXiv preprint arXiv , 2022"
+---
+Grounded text generation systems often generate text that contains factual inconsistencies, hindering their real-world applicability. Automatic factual consistency evaluation may help alleviate this limitation by accelerating evaluation cycles, filtering inconsistent outputs and augmenting training data. While attracting increasing attention, such evaluation metrics are usually developed and evaluated in silo for a single task or dataset, slowing their adoption. Moreover, previous meta Cites: BARTScore: Evaluating Generated Text as Text Generation

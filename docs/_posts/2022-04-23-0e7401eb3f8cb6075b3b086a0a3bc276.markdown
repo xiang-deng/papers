@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Calibrating Trust of Multi-Hop Question Answering Systems with Decompositional Probes"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "K Xie, S Wiegreffe, M Riedl - arXiv preprint arXiv:2204.07693, 2022"
+---
+Multi-hop Question Answering (QA) is a challenging task since it requires an accurate aggregation of information from multiple context paragraphs and a thorough understanding of the underlying reasoning chains. Recent work in multi-hop QA has shown that performance can be boosted by first decomposing the questions into simpler, single-hop questions. In this paper, we explore one additional utility of the multi-hop decomposition from the perspective of explainable NLP: to create Cites: Anchors: High-Precision Model-Agnostic Explanations

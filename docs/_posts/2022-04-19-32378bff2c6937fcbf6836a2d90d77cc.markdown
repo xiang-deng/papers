@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Recognition and segmentation of complex texture images based on superpixel algorithm and deep learning"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "Y Han, S Yang, Q Chen - Computational Materials Science, 2022"
+---
+Recognizing and segmenting complex texture images such as materials is of great significance to industrial design and production. Due to the lack of sufficient training samples and fuzzy boundaries in material images, it is difficult to segment material images by using deep learning methods. In material images, the pixels of each phase have a high degree of similarity, so if partial pixels  features in each phase are learned, the whole phase can be recognized. In this paper, we propose a method Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

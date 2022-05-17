@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "HateCheckHIn: Evaluating Hindi Hate Speech Detection Models"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "M Das, P Saha, B Mathew, A Mukherjee - arXiv preprint arXiv:2205.00328, 2022"
+---
+Due to the sheer volume of online hate, the AI and NLP communities have started building models to detect such hateful content. Recently, multilingual hate is a major emerging challenge for automated detection where code-mixing or more than one language have been used for conversation in social media. Typically, hate speech detection models are evaluated by measuring their performance on the held-out test data using metrics such as accuracy and F1-score. While these metrics are useful, it Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

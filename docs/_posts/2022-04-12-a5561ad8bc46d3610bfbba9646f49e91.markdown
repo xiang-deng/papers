@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "L Mitchener, D Tuckey, M Crosby, A Russo - Machine Learning, 2022"
+---
+In this paper we introduce Detect, Understand, Act (DUA), a neuro-symbolic reinforcement learning framework. The Detect component is composed of a traditional computer vision object detector and tracker. The Act component houses a set of options, high-level actions enacted by pre-trained deep reinforcement learning (DRL) policies. The Understand component provides a novel answer set programming (ASP) paradigm for symbolically implementing a meta-policy over Cites: Neural logic machines

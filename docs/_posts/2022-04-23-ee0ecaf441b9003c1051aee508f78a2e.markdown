@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improving Passage Retrieval with Zero-Shot Question Generation"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "D Singh Sachan, M Lewis, M Joshi, A Aghajanyan - arXiv e-prints, 2022"
+---
+We propose a simple and effective re-ranking method for improving passage retrieval in open question answering. The re-ranker re-scores retrieved passages with a zero-shot question generation model, which uses a pre-trained language

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accurate Prediction of Aqueous Free Solvation Energies Using 3D Atomic Feature-Based Graph Neural Network with Transfer Learning"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "D Zhang, S Xia, Y Zhang - Journal of Chemical Information and Modeling, 2022"
+---
+Graph neural network (GNN)-based deep learning (DL) models have been widely implemented to predict the experimental aqueous solvation free energy, while its prediction accuracy has reached a plateau partly due to the scarcity of available experimental data. In order to tackle this challenge, we first build a large and diverse calculated data set Frag20-Aqsol-100K of aqueous solvation free energy with reasonable computational cost and accuracy via electronic structure calculations Cites: Strategies for pre-training graph neural networks

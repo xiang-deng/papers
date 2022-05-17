@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Named Entity Recognition for Audio De-Identification"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "G Baril, P Cardinal, AL Koerich - arXiv preprint arXiv:2204.12622, 2022"
+---
+Data anonymization is often a task carried out by humans. Automating it would reduce the cost and time required to complete this task. This paper presents a pipeline to automate the anonymization of audio data in French. We propose a pipeline, which takes audio files with their transcriptions and removes the named entities (NEs) present in the audio. Our pipeline is made up of a forced aligner, which aligns words in an audio transcript with speech and a model that performs named Cites: Findings of the First Shared Task on Machine Translation

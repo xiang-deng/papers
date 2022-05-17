@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Basecalling Using Joint Raw and Event Nanopore Data Sequence-to-Sequence Processing"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "A Napieralski, R Nowak - Sensors, 2022"
+---
+Third-generation DNA sequencers provided by Oxford Nanopore Technologies (ONT) produce a series of samples of an electrical current in the nanopore. Such a time series is used to detect the sequence of nucleotides. The task of translation of current values into nucleotide symbols is called basecalling. Various solutions for basecalling have already been proposed. The earlier ones were based on Hidden Markov Models, but the best ones use neural networks or other machine learning Cites: Learning phrase representations using RNN encoder-decoder for

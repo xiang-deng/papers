@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Improving Lookup and Query Execution Performance in Distributed Big Data Systems using Cuckoo Filter"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "SIM Mosharraf, MA Adnan - 2021"
+---
+Performance is a critical concern when reading and writing data from billions of records stored in Big Data warehouse. We introduce two scopes for query performance improvement. One is to improve performance of lookup queries after data deletion in Big Data systems that use Eventual Consistency. We propose a scheme to improve lookup performance after data deletion by using Cuckoo Filter. Another scope for improvement is to avoid unnecessary network round-trip for Cites: Automatic optimization for MapReduce programs

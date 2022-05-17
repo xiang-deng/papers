@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Small object detection based on multi-scale feature fusion using remote sensing images"
+date:   2022-04-28 04:54:27 -0400
+categories: jekyll update
+author: "M Liang, G Yutao, L Tao, J Lei, S Yixuan - Opto-Electronic Engineering, 2022"
+---
+This paper proposes a robust small object detection method based on multi-scale feature fusion using remote sensing images. When the natural image-based pre- training model is directly applied to the remote sensing images, the large number of parameters and excessive down sampling in widely feature extractions may lead to the disappearances of small objects due to feature gaps. Therefore, based on the distribution of all object sizes in the dataset (ie, prior knowledge), a lightweight Cites: Imagenet: A large-scale hierarchical image database, 2009

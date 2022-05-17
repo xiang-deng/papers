@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Conversational Question Answering on Heterogeneous Sources"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "P Christmann, RS Roy, G Weikum - arXiv preprint arXiv:2204.11677, 2022"
+---
+Conversational question answering (ConvQA) tackles sequential information needs where contexts in follow-up questions are left implicit. Current ConvQA systems operate over homogeneous sources of information: either a knowledge base (KB), or a text corpus, or a collection of tables. This paper addresses the novel issue of jointly tapping into all of these together, this way boosting answer coverage and confidence. We present CONVINSE, an end-to-end pipeline for ConvQA over Cites: Multimodalqa: Complex question answering over text, tables and

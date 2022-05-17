@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Using Deep Learning Transformer Networks to Identify Symptoms Associated with COVID-19 on Twitter"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "V Machado, CR Bom, K Ocaa, R Terra, MBF Chaves - NOTAS TCNICAS, 2022"
+---
+This study aims to present a methodology to identify, through Twitter posts, predefined symptoms of COVID-19 aided by Deep Learning techniques, namely Transformers Networks. The proposed approach was evaluated on a public Twitter database in Brazilian Portuguese, using user reports of COVID-19 symptoms. We mine the Twitter database, extract phrases with symptoms, compare distributions, and build a database to construct high accuracy Deep Learning networks, which can Cites: Word n-gram attention models for sentence similarity and inference

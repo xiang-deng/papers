@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning Disentangled Textual Representations via Statistical Measures of Similarity"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "P Colombo, G Staerman, N Noiry, P Piantanida - arXiv preprint arXiv:2205.03589, 2022"
+---
+When working with textual data, a natural application of disentangled representations is fair classification where the goal is to make predictions without being biased (or influenced) by sensitive attributes that may be present in the data (eg, age, gender or race). Dominant approaches to disentangle a sensitive attribute from textual representations rely on learning simultaneously a penalization term that involves either an adversarial loss (eg, a discriminator) or an information measure Cites: Evaluating Gender Bias in Machine Translation

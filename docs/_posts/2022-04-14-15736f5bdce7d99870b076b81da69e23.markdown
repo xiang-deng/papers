@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Less Descriptive yet Discriminative: Quantifying the Properties of Multimodal Referring Utterances via CLIP"
+date:   2022-04-14 01:14:43 -0400
+categories: jekyll update
+author: "E Takmaz, S Pezzelle, R Fernndez"
+---
+In this work, we use a transformer-based pre-trained multimodal model, CLIP, to shed light on the mechanisms employed by human speakers when referring to visual entities. In particular, we use CLIP to quantify the degree of descriptiveness (how well an utterance describes an image in isolation) and discriminativeness (to what extent an utterance is effective in picking out a single image among similar images) of human referring utterances within multimodal dialogues. Overall, our results show Cites: CLIPScore: A reference-free evaluation metric for image captioning

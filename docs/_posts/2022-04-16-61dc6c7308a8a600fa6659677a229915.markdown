@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Evaluation of Automatic Text Summarization using Synthetic Facts"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "J Ahn, F Khosmood - arXiv preprint arXiv:2204.04869, 2022"
+---
+Despite some recent advances, automatic text summarization remains unreliable, elusive, and of limited practical use in applications. Two main problems with current summarization methods are well known: evaluation and factual consistency. To address these issues, we propose a new automatic reference-less text summarization evaluation system that can measure the quality of any text summarization model with a set of generated facts based on factual consistency Cites: Evaluating Factuality in Generation with Dependency-level

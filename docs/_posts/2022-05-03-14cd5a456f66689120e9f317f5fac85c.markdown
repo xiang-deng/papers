@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learn from Structural Scope: Improving Aspect-Level Sentiment Analysis with Hybrid Graph Convolutional Networks"
+date:   2022-05-03 04:46:57 -0400
+categories: jekyll update
+author: "L Xu, X Pang, J Wu, M Cai, J Peng - arXiv preprint arXiv:2204.12784, 2022"
+---
+Aspect-level sentiment analysis aims to determine the sentiment polarity towards a specific target in a sentence. The main challenge of this task is to effectively model the relation between targets and sentiments so as to filter out noisy opinion words from irrelevant targets. Most recent efforts capture relations through target-sentiment pairs or opinion spans from a word-level or phrase-level perspective. Based on the observation that targets and sentiments essentially establish relations following the Cites: Learning latent opinions for aspect-level sentiment classification

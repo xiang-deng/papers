@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Genre-Controllable Story Generation via Supervised Contrastive Learning"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "JU Cho, MS Jeong, JY Bak, YG Cheong - Proceedings of the ACM Web Conference , 2022"
+---
+While controllable text generation has received attention due to the recent advances in large-scale pre-trained language models, there is a lack of research that focuses on story-specific controllability. To address this, we present Story Control via Supervised Contrastive learning model (SCSC), to create a story conditioned on genre. For this, we design a supervised contrastive objective combined with log- likelihood objective, to capture the intrinsic differences among the stories in different Cites: Learning discriminative projections for text similarity measures

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings"
+date:   2021-09-21 13:29:05 -0400
+categories: jekyll update
+author: "H Schuff, HY Yang, H Adel, NT Vu - arXiv preprint arXiv:2109.07833, 2021"
+---
+Natural language inference (NLI) requires models to learn and apply commonsense knowledge. These reasoning abilities are particularly important for explainable NLI systems that generate a natural language explanation in addition to their label prediction. The integration of external knowledge has been shown to improve NLI systems, here we investigate whether it can also improve their explanation capabilities. For this, we investigate different sources of external knowledge and Cites: Abductive commonsense reasoning

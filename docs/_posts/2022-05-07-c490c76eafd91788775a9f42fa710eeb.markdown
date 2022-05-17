@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The Implicit Length Bias of Label Smoothing on Beam Search Decoding"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "B Liang, P Wang, Y Cao - arXiv preprint arXiv:2205.00659, 2022"
+---
+Label smoothing is ubiquitously applied in Neural Machine Translation (NMT) training. While label smoothing offers a desired regularization effect during model training, in this paper we demonstrate that it nevertheless introduces length biases in the beam search decoding procedure. Our analysis shows that label smoothing implicitly applies a length penalty term to output sequence, causing a bias towards shorter translations. We also show that for a model fully optimized with label Cites: Characterizing and addressing the issue of oversmoothing in

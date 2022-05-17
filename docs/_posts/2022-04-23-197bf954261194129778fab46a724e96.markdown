@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Text-Based Interactive Recommendation via Offline Reinforcement Learning"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "RZTYY Shen, H Jin - 2022"
+---
+Interactive recommendation with natural-language feedback can provide richer user feedback and has demonstrated advantages over traditional recommender systems. However, the classical online paradigm involves iteratively collecting experience via interaction with users, which is expensive and risky. We consider an offline interactive recommendation to exploit arbitrary experience collected by multiple unknown policies. A direct application of policy learning with such fixed experience Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

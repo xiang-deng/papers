@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Self-Training Vision Language BERTs with a Unified Conditional Model"
+date:   2022-01-11 11:24:28 -0400
+categories: jekyll update
+author: "X Yang, F Lv, F Liu, G Lin - arXiv preprint arXiv:2201.02010, 2022"
+---
+Natural language BERTs are trained with language corpus in a self-supervised manner. Unlike natural language BERTs, vision language BERTs need paired data to train, which restricts the scale of VL-BERT pretraining. We propose a self-training approach that allows training VL-BERTs from unlabeled image data. The proposed method starts with our unified conditional model--a vision language BERT model that can perform zero-shot conditional generation. Given different conditions, the unified Cites: Gqa: a new dataset for compositional question answering over real

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "XQA-DST: Multi-Domain and Multi-Lingual Dialogue State Tracking"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "H Zhou, I Iacobacci, P Minervini - arXiv preprint arXiv:2204.05895, 2022"
+---
+In a task-oriented dialogue system, Dialogue State Tracking (DST) keeps track of all important information by filling slots with values given through the conversation. Existing methods generally rely on a predefined set of values and struggle to generalise to previously unseen slots in new domains. In this paper, we propose a multi-domain and multi-lingual dialogue state tracker in a neural reading comprehension approach. Our approach fills the slot values using span prediction Cites: A simple language model for task-oriented dialogue

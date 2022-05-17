@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "R Xu, P Wang, T Liu, S Zeng, B Chang, Z Sui - arXiv preprint arXiv:2205.00241, 2022"
+---
+Most previous studies aim at extracting events from a single sentence, while document-level event extraction still remains under-explored. In this paper, we focus on extracting event arguments from an entire document, which mainly faces two critical problems: a) the long-distance dependency between trigger and arguments over sentences; b) the distracting context towards an event in the document. To address these issues, we propose a Two-Stream Abstract meaning Representation Cites: Entity, relation, and event extraction with contextualized span

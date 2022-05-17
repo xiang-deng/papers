@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "Y Zhou, X Chen, B He, Z Ye, L Sun - arXiv preprint arXiv:2205.04105, 2022"
+---
+Knowledge graph completion (KGC) aims to infer missing knowledge triples based on known facts in a knowledge graph. Current KGC research mostly follows an entity ranking protocol, wherein the effectiveness is measured by the predicted rank of a masked entity in a test triple. The overall performance is then given by a micro (- average) metric over all individual answer entities. Due to the incomplete nature of the large-scale knowledge bases, such an entity ranking setting is likely affected by Cites: Text generation from knowledge graphs with graph transformers

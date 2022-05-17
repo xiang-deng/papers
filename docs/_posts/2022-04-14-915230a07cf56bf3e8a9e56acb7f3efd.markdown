@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Scale-aware Network with Modality-awareness for RGB-D Indoor Semantic Segmentation"
+date:   2022-04-14 01:14:43 -0400
+categories: jekyll update
+author: "F Zhou, YK Lai, PL Rosin, F Zhang, Y Hu - Neurocomputing, 2022"
+---
+This paper focuses on indoor semantic segmentation based on RGB-D images. Semantic segmentation is a pixel-level classification task that has made steady progress based on fully convolutional networks (FCNs). However, we find there is still room for improvements in the following three aspects. The first is related to multi- scale feature extraction. Recent state-of-the-art works forcibly concatenate multi- scale feature representations extracted by spatial pyramid pooling, dilated Cites: Show, Attend and Tell: Neural Image Caption Generation with

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ArcaneQA: Dynamic Program Induction and Contextualized Encoding for Knowledge Base Question Answering"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "Y Gu, Y Su - arXiv preprint arXiv:2204.08109, 2022"
+---
+Question answering on knowledge bases (KBQA) poses a unique challenge for semantic parsing research due to two intertwined factors: large search space and ambiguities in schema linking. The predominant ranking-based KBQA models, which rely on a candidate enumeration step to reduce the search space, struggle with flexibility and have impractical online running time. In this paper, we present ArcaneQA, a novel generation-based model that addresses both the large search Cites: UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge

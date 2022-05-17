@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Natural Language to Code Translation with Execution"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "F Shi, D Fried, M Ghazvininejad, L Zettlemoyer - arXiv preprint arXiv , 2022"
+---
+Generative models of code, pretrained on large corpora of programs, have shown great success in translating natural language to code (Chen et al., 2021; Austin et al., 2021; Li et al., 2022, inter alia). While these models do not explicitly incorporate program semantics (ie, execution results) during training, they are able to generate correct solutions for many problems. However, choosing a single correct program from among a generated set for each problem remains challenging. In this work, we Cites: Noisy channel language model prompting for few-shot text

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Interpretable prison term prediction with reinforce learning and attention"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "P Wang, X Zhang, H Yu, Z Cao - Applied Intelligence, 2022"
+---
+The task of prison term prediction is to predict the term of penalty based on the charge and the seriousness of the sentencing plot. Most existing methods focus on improving prediction accuracy but disregard interpretability, which yields unreliable judgment results. To address this problem, we propose an interpretable prison term prediction method. First, the prison term is divided into intervals according to the charge and sentencing plot. Second, we propose a reinforcement learning principle Cites: BERT: Pre-training of deep bidirectional transformers for language

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "M Geva, A Caciularu, KR Wang, Y Goldberg - arXiv preprint arXiv:2203.14680, 2022"
+---
+Transformer-based language models (LMs) are at the core of modern NLP, but their internal prediction construction process is opaque and largely not understood. In this work, we make a substantial step towards unveiling this underlying prediction process, by reverse-engineering the operation of the feed-forward network (FFN) layers, one of the building blocks of transformer models. We view the token representation as a changing distribution over the vocabulary, and the output from Cites: What does BERT look at? An analysis of BERT s attention

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Adversarial Training for High-Stakes Reliability"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "DM Ziegler, S Nix, L Chan, T Bauman - arXiv preprint arXiv , 2022"
+---
+In the future, powerful AI systems may be deployed in high-stakes settings, where a single failure could be catastrophic. One technique for improving AI safety in high- stakes settings is adversarial training, which uses an adversary to generate examples to train on in order to achieve better worst-case performance. In this work, we used a language generation task as a testbed for achieving high reliability through adversarial training. We created a series of adversarial training techniques Cites: Distributionally robust neural networks for group shifts: On the

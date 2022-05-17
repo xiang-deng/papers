@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Finding Structural Knowledge in Multimodal-BERT"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "V Milewski, M de Lhoneux, MF Moens - arXiv preprint arXiv:2203.09306, 2022"
+---
+In this work, we investigate the knowledge learned in the embeddings of multimodal- BERT models. More specifically, we probe their capabilities of storing the grammatical structure of linguistic data and the structure learned over objects in visual data. To reach that goal, we first make the inherent structure of language and visuals explicit by a dependency parse of the sentences that describe the image and by the dependencies between the object regions in the image, respectively. We call Cites: Conditional probing: measuring usable information beyond a

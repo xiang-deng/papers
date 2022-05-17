@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Extraction of Competing Models using Distant Supervision and Graph Ranking"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "S Daw, V Pudi - 2022"
+---
+We introduce the task of detection of competing model entities from scientific documents. We define competing models as those models that solve a particular task that is investigated in the target research document. The task is challenging due to the fact that contextual information is required from the entire target document to predict the model entities. Hence, traditional sequence labelling approaches fail in such settings. Furthermore, model entities themselves are long-tailed in nature, ie Cites: SciREX: A challenge dataset for document-level information

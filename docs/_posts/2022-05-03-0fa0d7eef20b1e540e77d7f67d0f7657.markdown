@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Design Guidelines for Prompt Engineering Text-to-Image Generative Models"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "V Liu, LB Chilton - CHI Conference on Human Factors in Computing , 2022"
+---
+Text-to-image generative models are a new and powerful way to generate visual artwork. However, the open-ended nature of text as interaction is double-edged; while users can input anything and have access to an infinite range of generations, they also must engage in brute-force trial and error with the text prompt when the result quality is poor. We conduct a study exploring what prompt keywords and model hyperparameters can help produce coherent outputs. In particular, we study Cites: Pre-train, prompt, and predict: A systematic survey of prompting

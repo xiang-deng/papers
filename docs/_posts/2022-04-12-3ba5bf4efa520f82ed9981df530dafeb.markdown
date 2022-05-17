@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Parameter-Efficient Abstractive Question Answering over Tables or Text"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "V Pal, E Kanoulas, M de Rijke - arXiv preprint arXiv:2204.03357, 2022"
+---
+A long-term ambition of information seeking QA systems is to reason over multi- modal contexts and generate natural answers to user queries. Today, memory intensive pre-trained language models are adapted to downstream tasks such as QA by fine-tuning the model on QA data in a specific modality like unstructured text or structured tables. To avoid training such memory-hungry models while utilizing a uniform architecture for each modality, parameter-efficient adapters add and train Cites: TaBERT: Pretraining for joint understanding of textual and tabular

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bridging the Gap between Language Models and Cross-Lingual Sequence Labeling"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "N Chen, L Shou, M Gong, J Pei, D Jiang - arXiv preprint arXiv:2204.05210, 2022"
+---
+Large-scale cross-lingual pre-trained language models (xPLMs) have shown effectiveness in cross-lingual sequence labeling tasks (xSL), such as cross-lingual machine reading comprehension (xMRC) by transferring knowledge from a high- resource language to low-resource languages. Despite the great success, we draw an empirical observation that there is a training objective gap between pre-training and fine-tuning stages: eg, mask language modeling objective requires local Cites: MLQA: Evaluating cross-lingual extractive question answering

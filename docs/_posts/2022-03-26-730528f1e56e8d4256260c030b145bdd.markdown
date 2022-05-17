@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Task-guided Disentangled Tuning for Pretrained Language Models"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "J Zeng, Y Jiang, S Wu, Y Yin, M Li - arXiv preprint arXiv:2203.11431, 2022"
+---
+Pretrained language models (PLMs) trained on large-scale unlabeled corpus are typically fine-tuned on task-specific downstream datasets, which have produced state- of-the-art results on various NLP tasks. However, the data discrepancy issue in domain and scale makes fine-tuning fail to efficiently capture task-specific patterns, especially in the low data regime. To address this issue, we propose Task-guided Disentangled Tuning (TDT) for PLMs, which enhances the generalization of Cites: On the influence of masking policies in intermediate pre-training

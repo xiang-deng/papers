@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Paramixer: Parameterizing Mixing Links in Sparse Factors Works Better than Dot-Product Self-Attention"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "T Yu, R Khalitov, L Cheng, Z Yang - arXiv preprint arXiv:2204.10670, 2022"
+---
+Self-Attention is a widely used building block in neural modeling to mix long-range data elements. Most self-attention neural networks employ pairwise dot-products to specify the attention coefficients. However, these methods require $ O (N^ 2) $ computing cost for sequence length $ N $. Even though some approximation methods have been introduced to relieve the quadratic cost, the performance of the dot-product approach is still bottlenecked by the low-rank constraint in the attention Cites: Random feature attention

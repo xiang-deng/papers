@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Exploring the Role of Task Transferability in Large-Scale Multi-Task Learning"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "V Padmakumar, L Lausen, M Ballesteros, S Zha, H He - arXiv preprint arXiv , 2022"
+---
+Recent work has found that multi-task training with a large number of diverse tasks can uniformly improve downstream performance on unseen target tasks. In contrast, literature on task transferability has established that the choice of intermediate tasks can heavily affect downstream task performance. In this work, we aim to disentangle the effect of scale and relatedness of tasks in multi-task representation learning. We find that, on average, increasing the scale of multi-task learning, in terms of the Cites: Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter

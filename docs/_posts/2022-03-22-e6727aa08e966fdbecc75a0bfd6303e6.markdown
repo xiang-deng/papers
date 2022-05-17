@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fine-and Coarse-Granularity Hybrid Self-Attention for Efficient BERT"
+date:   2022-03-22 03:39:25 -0400
+categories: jekyll update
+author: "J Zhao, Y Wang, J Bao, Y Wu, X He - arXiv preprint arXiv:2203.09055, 2022"
+---
+Transformer-based pre-trained models, such as BERT, have shown extraordinary success in achieving state-of-the-art results in many natural language processing applications. However, deploying these models can be prohibitively costly, as the standard self-attention mechanism of the Transformer suffers from quadratic computational cost in the input sequence length. To confront this, we propose FCA, a fine-and coarse-granularity hybrid self-attention that reduces the computation cost Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

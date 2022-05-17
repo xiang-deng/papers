@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "HGAT-BR: Hyperedge-based graph attention network for basket recommendation"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "T Song, F Guo, H Jiang, W Ma, Z Feng, L Guo - Applied Intelligence, 2022"
+---
+The event that predicts the next item that the people will buy in the next basket is defined as the next basket recommendation task. Though this task has been widely studied, previous works still have the following two challenges: 1) Previous methods usually make predictions via only considering the correlations between items within the basket, while ignoring the similarity relationships between baskets, which may also have the potential capability of improving the basket modeling. 2) Previous Cites: Learning with hypergraphs: Clustering, classification, and

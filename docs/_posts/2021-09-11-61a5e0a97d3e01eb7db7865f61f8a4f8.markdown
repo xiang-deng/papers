@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Naturalness Evaluation of Natural Language Generation in Task-oriented Dialogues using BERT"
+date:   2021-09-11 11:24:16 -0400
+categories: jekyll update
+author: "Y Liu, W Maier, W Minker, S Ultes - arXiv preprint arXiv:2109.02938, 2021"
+---
+This paper presents an automatic method to evaluate the naturalness of natural language generation in dialogue systems. While this task was previously rendered through expensive and time-consuming human labor, we present this novel task of automatic naturalness evaluation of generated language. By fine-tuning the BERT model, our proposed naturalness evaluation method shows robust results and outperforms the baselines: support vector machines, bi-directional LSTMs, and Cites: Unifying human and statistical evaluation for natural language

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Language Models Can Prioritize Patches for Practical Program Patching"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "S Kang, S Yoo - 2022"
+---
+ABSTRACT The field of Automated Program Repair (APR) has seen significant growth in the past decade. As the field progressed, the number of templates used by APR tools has grown substantially to increase the number of patches included within the domain each tool finds fixable, thus increasing their fixing capability. However, this heightened potential was not free: new techniques paid by using greater computational resources and time to look over an enlarged repair space. In this Cites: Codebert: A pre-trained model for programming and natural

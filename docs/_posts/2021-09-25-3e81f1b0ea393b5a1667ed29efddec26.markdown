@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "RnG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering"
+date:   2021-09-25 18:07:15 -0400
+categories: jekyll update
+author: "X Ye, S Yavuz, K Hashimoto, Y Zhou, C Xiong - arXiv preprint arXiv:2109.08678, 2021"
+---
+Existing KBQA approaches, despite achieving strong performance on iid test data, often struggle in generalizing to questions involving unseen KB schema items. Prior ranking-based approaches have shown some success in generalization, but suffer from the coverage issue. We present RnG-KBQA, a Rank-and-Generate approach for KBQA, which remedies the coverage issue with a generation model while preserving a strong generalization capability. Our approach first uses a contrastive ranker to Cites: Beyond IID: three levels of generalization for question answering

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Pack Together: Entity and Relation Extraction with Levitated Marker"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "D Ye, Y Lin, M Sun - arXiv preprint arXiv:2109.06067, 2021"
+---
+Named Entity Recognition (NER) and Relation Extraction (RE) are the core sub-tasks for information extraction. Many recent works formulate these two tasks as the span (pair) classification problem, and thus focus on investigating how to obtain a better span representation from the pre-trained encoder. However, a major limitation of existing works is that they ignore the dependencies between spans (pairs). In this work, we propose a novel span representation approach, named Packed Levitated Cites: RECONSIDER: Improved Re-Ranking using Span-Focused Cross

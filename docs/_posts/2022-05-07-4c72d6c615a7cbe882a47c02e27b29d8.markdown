@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Nearest Neighbor Knowledge Distillation for Neural Machine Translation"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "Z Yang, R Sun, X Wan - arXiv preprint arXiv:2205.00479, 2022"
+---
+k-nearest-neighbor machine translation (NN-MT), proposed by Khandelwal et al.(2021), has achieved many state-of-the-art results in machine translation tasks. Although effective, NN-MT requires conducting NN searches through the large datastore for each decoding step during inference, prohibitively increasing the decoding cost and thus leading to the difficulty for the deployment in real-world applications. In this paper, we propose to move the time-consuming NN search Cites: BAM! Born-Again Multi-Task Networks for Natural Language

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning to Reduce False Positives in Analytic Bug Detectors"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "A Kharkar, RZ Moghaddam, M Jin, X Liu, X Shi - arXiv preprint arXiv , 2022"
+---
+Due to increasingly complex software design and rapid iterative development, code defects and security vulnerabilities are prevalent in modern software. In response, programmers rely on static analysis tools to regularly scan their codebases and find potential bugs. In order to maximize coverage, however, these tools generally tend to report a significant number of false positives, requiring developers to manually verify each warning. To address this problem, we propose a Transformer-based learning Cites: Codebert: A pre-trained model for programming and natural

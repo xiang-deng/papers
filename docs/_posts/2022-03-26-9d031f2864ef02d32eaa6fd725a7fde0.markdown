@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "Z Jie, J Li, W Lu - arXiv preprint arXiv:2203.10316, 2022"
+---
+Solving math word problems requires deductive reasoning over the quantities in the text. Various recent research efforts mostly relied on sequence-to-sequence or sequence-to-tree models to generate mathematical expressions without explicitly performing relational reasoning between quantities in the given context. While empirically effective, such approaches typically do not provide explanations for the generated expressions. In this work, we view the task as a complex relation Cites: MathQA: Towards interpretable math word problem solving with

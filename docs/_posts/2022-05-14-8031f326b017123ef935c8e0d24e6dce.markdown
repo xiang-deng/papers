@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Implementing neural machine translation at la Mobilire"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "M Battaglia - 2022"
+---
+The interest of LSP and companies in neural machine translation solutions is growing worldwide and in Switzerland. One large Swiss insurance company that is turning its attention towards MT is la Mobilire. In this master thesis, we have trained a NMT system to try and find out whether a trained system can provide a superior output compared to a generic system, DeepL. This was achieved using automatic metrics (BLEU and TER) and human evaluations. Our results show that a trained Cites: Linguistic regularities in continuous space word representations

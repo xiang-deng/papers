@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "N Wies, Y Levine, A Shashua - arXiv preprint arXiv:2204.02892, 2022"
+---
+The field of Natural Language Processing (NLP) has experienced a dramatic leap in capabilities with the recent introduction of huge Language Models (LMs). Despite this success, natural language problems that involve several compounded steps are still practically unlearnable, even by the largest LMs. This complies with experimental failures for end-to-end learning of composite problems that were demonstrated in a variety of domains. A known mitigation is to introduce intermediate supervision for Cites: Generated knowledge prompting for commonsense reasoning

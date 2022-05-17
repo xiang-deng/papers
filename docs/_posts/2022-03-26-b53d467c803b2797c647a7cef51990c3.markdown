@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A comparative study of cluster-based Big Data Cube implementations"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "AFM Caetano, CM Hirata, RR Silva - Future Generation Computer Systems, 2022"
+---
+Abstract Research on Data Cubes scalability is extensive, yet sparse. Scalable design patterns for Data Cube implementations are a trend as the technology shifts from centralized and fully materialized models to distributed and partially materialized ones. The implementations explore cheaper and upgraded hardware in clusters of computer nodes. It is a common understanding that the parallel and distributed hardware enables to handle large amounts of multidimensional data for Cites: Data cube materialization and mining over mapreduce

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Query Rewriting with Expansion and Multi-Turn Entity Graphs for Answer Selection"
+date:   2022-04-01 17:06:07 -0400
+categories: jekyll update
+author: "N Jedidi, G Gonalves, J Callan"
+---
+Conversational search is challenging in part because often the meaning of the current question cannot be fully understood without contextual information from previous questions and/or answers. This paper describes research on using query reformulation and lightweight reranking based on a multi-turn entity graph to represent and make use of contextual information in the CAsT 2021 track. Cites: QuAC: Question answering in context

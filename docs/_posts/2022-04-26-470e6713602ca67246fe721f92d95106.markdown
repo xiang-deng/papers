@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CFGExplainer: Explaining Graph Neural Network-Based Malware Classification from Control Flow Graphs"
+date:   2022-04-26 05:34:18 -0400
+categories: jekyll update
+author: "JD Herath, PP Wakodikar, P Yang, G Yan"
+---
+With the ever increasing threat of malware, extensive research effort has been put on applying Deep Learning for malware classification tasks. Graph Neural Networks (GNNs) that process malware as Control Flow Graphs (CFGs) have shown great promise for malware classification. However, these models are viewed as black- boxes, which makes it hard to validate and identify malicious patterns. To that end, we propose CFG-Explainer, a deep learning based model for interpreting GNN Cites: Model-agnostic interpretability of machine learning

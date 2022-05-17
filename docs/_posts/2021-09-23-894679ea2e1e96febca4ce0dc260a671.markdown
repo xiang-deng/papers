@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning with Graphs in Natural Language Processing"
+date:   2021-09-23 17:17:49 -0400
+categories: jekyll update
+author: "GUO Zhijiang - 2021"
+---
+Graph is a ubiquitous structure in natural language processing (NLP), which describes a collection of entities, represented as nodes, and their pairwise relationships, represented as edges. Many sentence-level meaning representations employ directed, acyclic graphs as the underlying formalism, while most tree-based syntactic representations can also be regarded as graphs. In this thesis, we mainly focus on predicting graphs from texts, and integrating graphs for downstream tasks Cites: Cross-sentence n-ary relation extraction with graph lstms

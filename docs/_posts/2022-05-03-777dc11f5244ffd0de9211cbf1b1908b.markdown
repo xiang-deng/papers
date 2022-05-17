@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Curriculum Learning for Dense Retrieval Distillation"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "H Zeng, H Zamani, V Vinay - arXiv preprint arXiv:2204.13679, 2022"
+---
+Recent work has shown that more effective dense retrieval models can be obtained by distilling ranking knowledge from an existing base re-ranking model. In this paper, we propose a generic curriculum learning based optimization framework called CL- DRD that controls the difficulty level of training data produced by the re-ranking (teacher) model. CL-DRD iteratively optimizes the dense retrieval (student) model by increasing the difficulty of the knowledge distillation data made available to it. In Cites: Sparse, dense, and attentional representations for text retrieval

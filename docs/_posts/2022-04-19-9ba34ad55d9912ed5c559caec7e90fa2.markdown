@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "TangoBERT: Reducing Inference Cost by using Cascaded Architecture"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "J Mamou, O Pereg, M Wasserblat, R Schwartz - arXiv preprint arXiv:2204.06271, 2022"
+---
+The remarkable success of large transformer-based models such as BERT, RoBERTa and XLNet in many NLP tasks comes with a large increase in monetary and environmental cost due to their high computational load and energy consumption. In order to reduce this computational load in inference time, we present TangoBERT, a cascaded model architecture in which instances are first processed by an efficient but less accurate first tier model, and only part of those instances are Cites: The right tool for the job: Matching model and instance complexities

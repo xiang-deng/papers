@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting"
+date:   2022-05-14 04:38:21 -0400
+categories: jekyll update
+author: "M Chen, W Zhang, Z Yao, X Chen, M Ding, F Huang - arXiv preprint arXiv , 2022"
+---
+We study the knowledge extrapolation problem to embed new components (ie, entities and relations) that come with emerging knowledge graphs (KGs) in the federated setting. In this problem, a model trained on an existing KG needs to embed an emerging KG with unseen entities and relations. To solve this problem, we introduce the meta-learning setting, where a set of tasks are sampled on the existing KG to mimic the link prediction task on the emerging KG. Based on sampled tasks Cites: Embedding entities and relations for learning and inference in

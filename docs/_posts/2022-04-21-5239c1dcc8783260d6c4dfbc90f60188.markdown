@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DIGINPIX: identification d entits nommes visuelles dans les images et les vidos"
+date:   2022-04-21 03:59:43 -0400
+categories: jekyll update
+author: "P Letessier, N Herv, H Nabi, M Derval, O Buisson"
+---
+Ce travail prsente un systme automatique capable d identifier des entits nommes visuelles apparaissant dans des images et vidos, parmi une liste de 25 000 entits, rassembles  partir de listes Wikipdia et de sites Web plus spcifiques. DigInPix est une application gnrique conue pour identifier diffrents types d entits. Dans cette premire tentative, nous nous intressons uniquement l identification de logo (plus gnralement sur les personnes morales). La procdure Cites: ERD 14: entity recognition and disambiguation challenge

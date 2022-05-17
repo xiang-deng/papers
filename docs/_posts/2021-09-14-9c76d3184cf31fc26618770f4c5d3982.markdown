@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning from Uneven Training Data: Unlabeled, Single Label, and Multiple Labels"
+date:   2021-09-14 15:58:32 -0400
+categories: jekyll update
+author: "S Zhang, C Gong, E Choi - arXiv preprint arXiv:2109.04408, 2021"
+---
+Training NLP systems typically assumes access to annotated data that has a single human label per example. Given imperfect labeling from annotators and inherent ambiguity of language, we hypothesize that single label is not sufficient to learn the spectrum of language interpretation. We explore new label annotation distribution schemes, assigning multiple labels per example for a small subset of training examples. Introducing such multi label examples at the cost of annotating fewer Cites: Knowing More About Questions Can Help: Improving Calibration in

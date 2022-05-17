@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Co-VQA: Answering by Interactive Sub Question Sequence"
+date:   2022-04-08 14:57:15 -0400
+categories: jekyll update
+author: "R Wang, Y Qian, F Feng, X Wang, H Jiang - arXiv preprint arXiv:2204.00879, 2022"
+---
+Most existing approaches to Visual Question Answering (VQA) answer questions directly, however, people usually decompose a complex question into a sequence of simple sub questions and finally obtain the answer to the original question after answering the sub question sequence (SQS). By simulating the process, this paper proposes a conversation-based VQA (Co-VQA) framework, which consists of three components: Questioner, Oracle, and Answerer. Questioner raises the sub questions Cites: Squinting at vqa models: Introspecting vqa models with sub

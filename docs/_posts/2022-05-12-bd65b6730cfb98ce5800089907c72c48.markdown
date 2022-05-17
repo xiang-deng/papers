@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MODELNET40-C: ARobustness BENCHMARK FOR 3D POINT CLOUD RECOGNITION UNDER CORRUPTION"
+date:   2022-05-12 04:06:18 -0400
+categories: jekyll update
+author: "J Sun, Q Zhang, B Kailkhura, Z Yu, ZM Mao"
+---
+Deep neural networks on 3D point cloud data have been widely used in the real world, especially in safety-critical applications. However, their robustness against corruptions is less studied. In this paper, we present ModelNet40-C, the first comprehensive benchmark on 3D point cloud corruption robustness, consisting of 15 common and realistic corruptions. Our evaluation shows a significant gap between the performances on ModelNet40 and ModelNet40-C for state-of-the-art (SOTA) Cites: Wilds: A benchmark of in-the-wild distribution shifts

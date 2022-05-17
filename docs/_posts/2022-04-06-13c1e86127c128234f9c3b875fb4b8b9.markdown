@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A joint learning Im-BiLSTM model for incomplete time-series Sentinel-2A data imputation and crop classification"
+date:   2022-04-06 16:01:31 -0400
+categories: jekyll update
+author: "B Chen, H Zheng, L Wang, O Hellwich, C Chen, L Yang - International Journal of , 2022"
+---
+Multi-temporal deep learning approaches can make full use of crop growth patterns and phenological characteristics, resulting in excellent crop classification performance in large areas. However, obtaining complete time-series remote sensing images during the growing season is challenging due to cloud contamination. Hence, given time-series multispectral data, it is important to impute missing data and accurately classify crops. A novel Imputation-BiLSTM model (Im Cites: Recurrent neural networks for multivariate time series with missing

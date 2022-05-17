@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "GNN-encoder: Learning a Dual-encoder Architecture via Graph Neural Networks for Passage Retrieval"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "J Liu, J Liu, Y Yang, J Wang, W Wu, D Zhao, R Yan - arXiv preprint arXiv:2204.08241, 2022"
+---
+Recently, retrieval models based on dense representations are dominant in passage retrieval tasks, due to their outstanding ability in terms of capturing semantics of input text compared to the traditional sparse vector space models. A common practice of dense retrieval models is to exploit a dual-encoder architecture to represent a query and a passage independently. Though efficient, such a structure loses interaction between the query-passage pair, resulting in inferior accuracy. To enhance the Cites: Dense Passage Retrieval for Open-Domain Question Answering

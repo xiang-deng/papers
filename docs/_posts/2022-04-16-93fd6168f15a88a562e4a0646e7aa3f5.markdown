@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Event-Event Relation Extraction using Probabilistic Box Embedding"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "EJ Hwang, JY Lee, T Yang, D Patel, D Zhang"
+---
+To understand a story with multiple events, it is important to capture the proper relations across these events. However, existing event relation extraction (ERE) frameworks regard it as a multi-class classification task, and do not guarantee any coherence between different relation types. For instance, if a phone line died after storm, then it is evident that the storm happened before the died. Current frameworks of event relation extraction do not guarantee this anti-symmetry and thus enforce it Cites: Modeling fine-grained entity types with box embeddings

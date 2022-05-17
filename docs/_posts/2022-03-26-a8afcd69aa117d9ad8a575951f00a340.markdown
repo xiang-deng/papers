@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Prototypical Verbalizer for Prompt-based Few-shot Tuning"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "G Cui, S Hu, N Ding, L Huang, Z Liu - arXiv preprint arXiv:2203.09770, 2022"
+---
+Prompt-based tuning for pre-trained language models (PLMs) has shown its effectiveness in few-shot learning. Typically, prompt-based tuning wraps the input text into a cloze question. To make predictions, the model maps the output words to labels via a verbalizer, which is either manually designed or automatically built. However, manual verbalizers heavily depend on domain-specific prior knowledge and human efforts, while finding appropriate label words automatically still remains Cites: Language models as knowledge bases?

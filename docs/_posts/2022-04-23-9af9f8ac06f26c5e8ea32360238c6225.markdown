@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Text Revision by On-the-Fly Representation Optimization"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "J Li, Z Li, T Ge, I King, MR Lyu - arXiv preprint arXiv:2204.07359, 2022"
+---
+Text revision refers to a family of natural language generation tasks, where the source and target sequences share moderate resemblance in surface form but differentiate in attributes, such as text formality and simplicity. Current state-of-the-art methods formulate these tasks as sequence-to-sequence learning problems, which rely on large-scale parallel training corpus. In this paper, we present an iterative in- place editing approach for text revision, which requires no parallel data. In this Cites: Sentence simplification with deep reinforcement learning

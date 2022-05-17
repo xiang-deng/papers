@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Adapter-based Transfer Learning for CodeBERT and Biology"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "X Cui, S Alzu bi, L Aggarwal"
+---
+Recently, adapters Rebuffi et al.(2017) have appeared as a parameter-efficient alternative to fine-tuning. Adapters are small feed forward modules that can be added to large models. The models can then be fine-tuned by freezing all the pre- trained parameters, and only training the adapter parameters. This project explores the applicability of continual learning methods in concert with adapters to two domains: CodeBERT Feng et al.(2020) and Biological Structures Rives et al.(2020) Cites: Adapterhub: A framework for adapting transformers

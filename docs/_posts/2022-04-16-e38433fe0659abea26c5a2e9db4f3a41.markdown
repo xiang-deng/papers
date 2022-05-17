@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Grounding Hindsight Instructions in Multi-Goal Reinforcement Learning for Robotics"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "F Rder, M Eppe, S Wermter - arXiv preprint arXiv:2204.04308, 2022"
+---
+This paper focuses on robotic reinforcement learning with sparse rewards for natural language goal representations. An open problem is the sample-inefficiency that stems from the compositionality of natural language, and from the grounding of language in sensory data and actions. We address these issues with three contributions. We first present a mechanism for hindsight instruction replay utilizing expert feedback. Second, we propose a seq2seq model to generate linguistic Cites: Experience grounds language

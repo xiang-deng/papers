@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ExtEnD: Extractive Entity Disambiguation"
+date:   2022-03-30 13:35:09 -0400
+categories: jekyll update
+author: "E Barba, L Procopio, R Navigli"
+---
+Abstract Local models for Entity Disambiguation (ED) have today become extremely powerful, in most part thanks to the advent of large pretrained language models. However, despite their significant performance achievements, most of these approaches frame ED through classification formulations that have intrinsic limitations, both computationally and from a modeling perspective. In contrast with this trend, here we propose EXTEND, a novel local formulation for ED where we Cites: Data-to-text generation with entity modeling

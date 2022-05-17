@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sufficient Reasons for Classifier Decisions in the Presence of Domain Constraints"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "N Gorji, S Rubin - 2022"
+---
+Recent work has unveiled a theory for reasoning about the decisions made by binary classifiers: a classifier describes a Boolean function, and the reasons behind an instance being classified as positive are the prime-implicants of the function that are satisfied by the instance. One drawback of these works is that they do not explicitly treat scenarios where the underlying data is known to be constrained, eg, certain combinations of features may not exist, may not be observable, or may be required to Cites: Anchors: High-Precision Model-Agnostic Explanations

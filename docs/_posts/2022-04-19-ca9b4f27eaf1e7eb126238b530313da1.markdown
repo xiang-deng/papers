@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Jointly Identifying and Fixing Inconsistent Readings from Information Extraction Systems"
+date:   2022-04-19 07:59:02 -0400
+categories: jekyll update
+author: "A Padia, F Ferraro, T Finin - Proceedings of the Third Deep Learning Inside Out , 2022"
+---
+Information extraction systems analyze text to produce entities and beliefs, but their output often has errors. In this paper, we analyze the reading consistency of the extracted facts with respect to the text from which they were derived and show how to detect and correct errors. We consider both the scenario when the provenance text is automatically found by an information extraction system and when it is curated by humans. We contrast consistency with credibility; define and explore consistency and Cites: A simple but tough-to-beat baseline for the Fake News Challenge

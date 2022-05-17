@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Wav2Seq: Pre-training Speech-to-Text Encoder-Decoder Models Using Pseudo Languages"
+date:   2022-05-07 02:52:45 -0400
+categories: jekyll update
+author: "F Wu, K Kim, S Watanabe, K Han, R McDonald - arXiv preprint arXiv , 2022"
+---
+We introduce Wav2Seq, the first self-supervised approach to pre-train both parts of encoder-decoder models for speech data. We induce a pseudo language as a compact discrete representation, and formulate a self-supervised pseudo speech recognition task--transcribing audio inputs into pseudo subword sequences. This process stands on its own, or can be applied as low-cost second-stage pre-training. We experiment with automatic speech recognition (ASR), spoken named entity Cites: Detecting formal thought disorder by deep contextualized word

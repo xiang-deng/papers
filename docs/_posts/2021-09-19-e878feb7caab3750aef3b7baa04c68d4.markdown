@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Summarize-then-Answer: Generating Concise Explanations for Multi-hop Reading Comprehension"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "N Inoue, H Trivedi, S Sinha, N Balasubramanian, K Inui - arXiv preprint arXiv , 2021"
+---
+How can we generate concise explanations for multi-hop Reading Comprehension (RC)? The current strategies of identifying supporting sentences can be seen as an extractive question-focused summarization of the input text. However, these extractive explanations are not necessarily concise ie not minimally sufficient for answering a question. Instead, we advocate for an abstractive approach, where we propose to generate a question-focused, abstractive summary of input paragraphs Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

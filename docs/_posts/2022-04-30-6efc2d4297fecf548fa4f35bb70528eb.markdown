@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Alleviating Representational Shift for Continual Fine-tuning"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "S Jie, ZH Deng, Z Li - arXiv preprint arXiv:2204.10535, 2022"
+---
+We study a practical setting of continual learning: fine-tuning on a pre-trained model continually. Previous work has found that, when training on new tasks, the features (penultimate layer representations) of previous data will change, called representational shift. Besides the shift of features, we reveal that the intermediate layers  representational shift (IRS) also matters since it disrupts batch normalization, which is another crucial cause of catastrophic forgetting. Motivated by this, we Cites: Fine-tuning can distort pretrained features and underperform out-of

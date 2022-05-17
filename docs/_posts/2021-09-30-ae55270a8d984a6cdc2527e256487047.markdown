@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "An Unsolicited Soliloquy on Dependency Parsing"
+date:   2021-09-30 20:19:19 -0400
+categories: jekyll update
+author: "M Anderson - 2021"
+---
+This thesis presents work on dependency parsing covering two distinct lines of research. The first aims to develop efficient parsers so that they can be fast enough to parse large amounts of data while still maintaining decent accuracy. We investigate two techniques to achieve this. The first is a cognitively-inspired method and the second uses a model distillation method. The first technique proved to be utterly dismal, while the second was somewhat of a success. The second line of research Cites: Syntax-enhanced pre-trained model

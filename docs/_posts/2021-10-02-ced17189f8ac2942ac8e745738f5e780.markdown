@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification and Applications"
+date:   2021-10-02 23:22:46 -0400
+categories: jekyll update
+author: "C Li, S Ji, H Weng, B Li, J Shi, R Beyah, S Guo, Z Wang - IEEE Transactions on , 2021"
+---
+One intriguing property of deep neural networks (DNNs) is their vulnerability to adversarial examples--those maliciously crafted inputs that deceive target DNNs. While a plethora of defenses have been proposed to mitigate the threats of adversarial examples, they are often penetrated or circumvented by even stronger attacks. To end the constant arms race between attackers and defenders, significant efforts have been devoted to providing certifiable robustness bounds for DNNs Cites: Semidefinite relaxations for certifying robustness to adversarial

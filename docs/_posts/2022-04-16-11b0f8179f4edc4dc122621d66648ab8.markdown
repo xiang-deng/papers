@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Contrastive Demonstration Tuning for Pre-trained Language Models"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "X Liang, N Zhang, S Cheng, Z Bi, Z Zhang, C Tan - arXiv preprint arXiv , 2022"
+---
+Pretrained language models can be effectively stimulated by textual prompts or demonstrations, especially in low-data scenarios. Recent works have focused on automatically searching discrete or continuous prompts or optimized verbalizers, yet studies for the demonstration are still limited. Concretely, the demonstration examples are crucial for an excellent final performance of prompt-tuning. In this paper, we propose a novel pluggable, extensible, and efficient approach named Cites: Retrieval augmented language model pre-training

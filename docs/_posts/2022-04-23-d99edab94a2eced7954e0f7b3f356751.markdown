@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression"
+date:   2022-04-23 07:54:44 -0400
+categories: jekyll update
+author: "T Piao, I Cho, U Kang - PloS one, 2022"
+---
+Given a pre-trained BERT, how can we compress it to a fast and lightweight one while maintaining its accuracy? Pre-training language model, such as BERT, is effective for improving the performance of natural language processing (NLP) tasks. However, heavy models like BERT have problems of large memory cost and long inference time. In this paper, we propose SensiMix (Sensitivity-Aware Mixed Precision Quantization), a novel quantization-based BERT compression method that Cites: What does BERT look at? An analysis of BERT s attention

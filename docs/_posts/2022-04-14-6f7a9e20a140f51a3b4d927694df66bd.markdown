@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Neural Model for Compositional Word Embeddings and Sentence Processing"
+date:   2022-04-14 01:14:43 -0400
+categories: jekyll update
+author: "JP Bernardy, S Lappin"
+---
+We propose a new neural model for word embeddings, which uses Unitary Matrices as the primary device for encoding lexical information. It uses simple matrix multiplication to derive matrices for large units, yielding a sentence processing model that is strictly compositional, does not lose information over time steps, and is transparent, in the sense that word embeddings can be analysed regardless of context. This model does not employ activation functions, and so the network is fully Cites: RNNs can generate bounded hierarchical languages with optimal

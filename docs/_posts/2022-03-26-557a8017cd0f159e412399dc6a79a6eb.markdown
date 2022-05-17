@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Symbolic Semantic Memory in Transformer Language Models"
+date:   2022-03-26 03:19:20 -0400
+categories: jekyll update
+author: "RK Morain - 2022"
+---
+This paper demonstrates how transformer language models can be improved by giving them access to relevant structured data extracted from a knowledge base. The knowledge base preparation process and modifications to transformer models are explained. We evaluate these methods on language modeling and question answering tasks. These results show that even simple additional knowledge augmentation leads to a reduction in validation loss by 73%. These methods also Cites: Structured data on the web

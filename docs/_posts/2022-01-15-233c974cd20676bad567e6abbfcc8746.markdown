@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cross-view Self-Supervised Learning on Heterogeneous Graph Neural Network via Bootstrapping"
+date:   2022-01-15 10:11:37 -0400
+categories: jekyll update
+author: "M Park - arXiv preprint arXiv:2201.03340, 2022"
+---
+Heterogeneous graph neural networks can represent information of heterogeneous graphs with excellent ability. Recently, self-supervised learning manner is researched which learns the unique expression of a graph through a contrastive learning method. In the absence of labels, this learning methods show great potential. However, contrastive learning relies heavily on positive and negative pairs, and generating high-quality pairs from heterogeneous graphs is difficult. In this Cites: Strategies for pre-training graph neural networks

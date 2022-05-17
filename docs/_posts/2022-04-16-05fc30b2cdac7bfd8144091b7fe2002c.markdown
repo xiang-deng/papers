@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CookieEnforcer: Automated Cookie Notice Analysis and Enforcement"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "R Khandelwal, A Nayak, H Harkous, K Fawaz - arXiv preprint arXiv:2204.04221, 2022"
+---
+Online websites use cookie notices to elicit consent from the users, as required by recent privacy regulations like the GDPR and the CCPA. Prior work has shown that these notices use dark patterns to manipulate users into making website-friendly choices which put users  privacy at risk. In this work, we develop CookieEnforcer, a new system for automatically discovering cookie notices and deciding on the options that result in disabling all non-essential cookies. In order to achieve this, we first build Cites: Compositional generalization and natural language variation: Can

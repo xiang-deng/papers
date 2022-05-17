@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A qualitative study: how Solution Snippets are presented in Stack Overflow and how those Solution Snippets need to be adapted for reuse"
+date:   2022-03-29 11:43:06 -0400
+categories: jekyll update
+author: "NR Weeraddana - 2022"
+---
+Researchers use datasets of Question-Solution pairs to train machine learning models, such as source code generation models. A Question-Solution pair contains two parts: a programming question and its corresponding Solution Snippet. A Solution Snippet is a source code that solves a programming question. These datasets of Question-Solution pairs can be extracted from a number of different platforms. In this research, I study how Question-Solution pairs are extracted from Cites: Codexglue: A machine learning benchmark dataset for code

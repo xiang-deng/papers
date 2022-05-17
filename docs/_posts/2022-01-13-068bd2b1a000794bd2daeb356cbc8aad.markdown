@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Spam filtering based on PV-DBOW model"
+date:   2022-01-13 09:35:49 -0400
+categories: jekyll update
+author: "G Hnini, A Fahfouh, J Riffi, MA Mahraz, A Yahyaouy - International Journal of Data , 2021"
+---
+Many feature extraction techniques have been conducted to deal with spam e-mails. However, despite their performance and efficiency, they still have a lot of weaknesses. The term frequency-inverse document frequency (TF-IDF) and the bag- of-words (BoW) are two well-known methods. Yet, they do not capture the semantic aspect of the e-mails, which may lead to misclassification. To tackle this issue, we propose an architecture based on distributed bag-of-words version of paragraph Cites: Online Discriminative Spam Filter Training.

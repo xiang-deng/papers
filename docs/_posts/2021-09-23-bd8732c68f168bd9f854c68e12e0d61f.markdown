@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Natural Language Response Generation from SQL with Generalization and Back-translation"
+date:   2021-09-23 17:17:49 -0400
+categories: jekyll update
+author: "S Bandyopadhyay, T Zhao - Proceedings of the First Workshop on Interactive and , 2020"
+---
+Generation of natural language responses to the queries of structured language like SQL is very challenging as it requires generalization to new domains and the ability to answer ambiguous queries among other issues. We have participated in the CoSQL shared task organized in the IntEx-SemPar workshop at EMNLP 2020. We have trained a number of Neural Machine Translation (NMT) models to efficiently generate the natural language responses from SQL. Our shuffled back-translation Cites: Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, et al. 2019a

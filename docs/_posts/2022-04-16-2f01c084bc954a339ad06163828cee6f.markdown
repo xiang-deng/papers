@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Replicated Layout for In-Memory Database Systems"
+date:   2022-04-16 01:25:48 -0400
+categories: jekyll update
+author: "S Sudhir, M Cafarella, S Madden"
+---
+Scanning and filtering are the foundations of analytical database systems. Modern DBMSs employ a variety of techniques to partition and layout data to improve the performance of these operations. To accelerate query performance, systems tune

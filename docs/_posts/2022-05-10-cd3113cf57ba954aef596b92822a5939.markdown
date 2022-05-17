@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Method and system for domain agnostic knowledge extraction"
+date:   2022-05-10 03:22:04 -0400
+categories: jekyll update
+author: "A Genkin, S Klarman - US Patent 11,321,615, 2022"
+---
+A system and method of extracting knowledge from a plurality of documents by at least one processor may include: receiving a domain-specific schema data structure, comprising a definition of one or more domain entity types; using at least one first machine-learning (ML) based model to fetch one or more mentions from the plurality of documents; using at least one second ML model to extract, from the one or more mentions, at least one domain entity that corresponds to the one or more domain Cites: Zero-Shot Entity Linking by Reading Entity Descriptions

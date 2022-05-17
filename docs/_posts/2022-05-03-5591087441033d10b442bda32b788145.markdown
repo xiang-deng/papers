@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning Music Sequence Representation From Text Supervision"
+date:   2022-05-03 04:46:56 -0400
+categories: jekyll update
+author: "T Chen, Y Xie, S Zhang, S Huang, H Zhou, J Li - ICASSP 2022-2022 IEEE , 2022"
+---
+Music representation learning is notoriously difficult for its complex human-related concepts contained in the sequence of numerical signals. To excavate better MUsic SEquence Representation from labeled audio, we propose a novel text-supervision pre-training method, namely MUSER. MUSER adopts an audio-spectrum-text tri- modal contrastive learning framework, where the text input could be any form of meta- data with the help of text templates while the spectrum is derived from an audio Cites: Codified audio language modeling learns useful representations

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Parameter-efficient Fine-tuning for Vision Transformers"
+date:   2022-04-04 16:51:29 -0400
+categories: jekyll update
+author: "X He, C Li, P Zhang, J Yang, XE Wang - arXiv preprint arXiv:2203.16329, 2022"
+---
+In computer vision, it has achieved great success in adapting large-scale pretrained vision models (eg, Vision Transformer) to downstream tasks via fine-tuning. Common approaches for fine-tuning either update all model parameters or leverage linear probes. In this paper, we aim to study parameter-efficient fine-tuning strategies for Vision Transformers on vision tasks. We formulate efficient fine-tuning as a subspace training problem and perform a comprehensive benchmarking over different efficient Cites: Knowledge guided text retrieval and reading for open domain

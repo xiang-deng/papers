@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multi-concept Representation Learning for Knowledge Graph Completion"
+date:   2022-05-05 02:23:22 -0400
+categories: jekyll update
+author: "J Wang, B Wang, J Gao, Y Hu, B Yin -  on Knowledge Discovery from Data (TKDD), 2022"
+---
+Knowledge Graph Completion (KGC) aims at inferring missing entities or relations by embedding them in a low-dimensional space. However, most existing KGC methods generally fail to handle the complex concepts hidden in triplets, so the learned embeddings of entities or relations may deviate from the true situation. In this paper, we propose a novel M ulti-c oncept R epresentation L earning method for KGC task (McRL), which mainly consists of a multi-concept representation module, a deep Cites: Embedding entities and relations for learning and inference in

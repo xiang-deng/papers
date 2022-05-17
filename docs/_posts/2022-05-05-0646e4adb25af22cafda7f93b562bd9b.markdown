@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Classification performance metric elicitation and its applications"
+date:   2022-05-05 02:23:22 -0400
+categories: jekyll update
+author: "G Hiranandani - 2021"
+---
+Given a learning problem with real-world tradeoffs, which cost function should the model be trained to optimize? This is the metric selection problem in machine learning. Despite its practical interest, there is limited formal guidance on how to select metrics for machine learning applications. This thesis outlines metric elicitation as a principled framework for selecting the performance metric that best reflects implicit user preferences. Once specified, the evaluation metric can be used to Cites: Fairness without demographics in repeated loss minimization

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-verified Image-Caption Associations for MS-COCO"
+date:   2022-04-12 02:42:38 -0400
+categories: jekyll update
+author: "S Chun, W Kim, S Park, M Chang, SJ Oh - arXiv preprint arXiv:2204.03359, 2022"
+---
+Image-Test matching (ITM) is a common task for evaluating the quality of Vision and Language (VL) models. However, existing ITM benchmarks have a significant limitation. They have many missing correspondences, originating from the data construction process itself. For example, a caption is only matched with one image although the caption can be matched with other similar images, and vice versa. To correct the massive false negatives, we construct the Extended COCO Validation Cites: Vinvl: Making visual representations matter in vision-language

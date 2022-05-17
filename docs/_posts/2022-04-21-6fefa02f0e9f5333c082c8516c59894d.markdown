@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SiamCAM: A Real-Time Siamese Network for Object Tracking with Compensating Attention Mechanism"
+date:   2022-04-21 03:59:43 -0400
+categories: jekyll update
+author: "K Huang, P Qin, X Tu, L Leng, J Chu - Applied Sciences, 2022"
+---
+The Siamese-based object tracking algorithm regards tracking as a similarity matching problem. It determines the object location according to the response value of the object template to the search template. When there is similar object interference in complex scenes, it is easy to cause tracking drift. We propose a real- time Siamese network object tracking algorithm combined with a compensating attention mechanism to solve this problem. Firstly, the attention mechanism is Cites: Imagenet: A large-scale hierarchical image database

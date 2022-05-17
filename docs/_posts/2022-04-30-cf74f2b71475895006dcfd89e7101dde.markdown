@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Flow-Adapter Architecture for Unsupervised Machine Translation"
+date:   2022-04-30 03:01:01 -0400
+categories: jekyll update
+author: "Y Liu, H Jabbar, H Schtze - arXiv preprint arXiv:2204.12225, 2022"
+---
+In this work, we propose a flow-adapter architecture for unsupervised NMT. It leverages normalizing flows to explicitly model the distributions of sentence-level latent representations, which are subsequently used in conjunction with the attention mechanism for the translation task. The primary novelties of our model are:(a) capturing language-specific sentence representations separately for each language using normalizing flows and (b) using a simple transformation of these latent Cites: Latent-variable non-autoregressive neural machine translation

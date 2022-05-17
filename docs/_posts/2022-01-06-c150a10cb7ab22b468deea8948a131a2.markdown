@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Using Distributionally Robust Optimization to improve robustness in cancer pathology"
+date:   2022-01-06 10:02:50 -0400
+categories: jekyll update
+author: "SN Hari, E Van Allen, J Nyman, N Mehta, B Jiang - NeurIPS 2021 Workshop on , 2021"
+---
+Computer vision (CV) approaches applied to digital pathology have informed biological discovery and clinical decision-making. However, batch effects in images represent a major challenge to effective analysis. A CV model trained using Empirical Risk Minimization (ERM) risks learning batch-effects when they may align with the labels and serve as spurious correlates. The standard methods to circumvent learning such confounders include (i) application of image augmentation Cites: Selective classification can magnify disparities across groups

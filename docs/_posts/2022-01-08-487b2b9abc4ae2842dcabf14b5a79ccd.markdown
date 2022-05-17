@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PAW: Data Partitioning Meets Workload Variance"
+date:   2022-01-08 08:13:01 -0400
+categories: jekyll update
+author: "Z Li, ML Yiu, TN Chan"
+---
+In distributed storage systems (eg, HDFS, Amazon S3, Databricks), partitioning is applied on a dataset in order to enhance performance and availability. Recently, partitioning methods have been designed to optimize the query performance of partitions with respect to the historical query workload. Nevertheless, in practice, future query workloads may deviate from the historical query workload, thus deteriorating the performance of existing partitioning methods. To fill this research Cites: DBExplorer: Exploratory Search in Databases.

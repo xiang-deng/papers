@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Making Table Understanding Work in Practice"
+date:   2021-09-19 02:15:47 -0400
+categories: jekyll update
+author: "M Hulsebos, S Gathani, J Gale, I Dillig, P Groth - arXiv preprint arXiv , 2021"
+---
+Understanding the semantics of tables at scale is crucial for tasks like data integration, preparation, and search. Table understanding methods aim at detecting a table s topic, semantic column types, column relations, or entities. With the rise of deep learning, powerful models have been developed for these tasks with excellent accuracy on benchmarks. However, we observe that there exists a gap between the performance of these models on these benchmarks and their applicability in practice Cites: Ten years of webtables
