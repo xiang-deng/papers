@@ -28,12 +28,12 @@ url: "https://xiang-deng.github.io" # the base hostname & protocol for your site
 # github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
 feed:
-  posts_limit: 9999
+  posts_limit: 100
 
 # Exclude from processing.
 # The following items will not be processed, by default.
