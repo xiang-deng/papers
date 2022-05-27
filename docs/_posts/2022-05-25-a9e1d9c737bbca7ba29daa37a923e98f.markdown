@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Time Series Building Energy Systems Data Imputation"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "A Lucbert, J van der Niet, A Corson, M Weij… - CLIMA 2022 conference, 2022"
+---
+Systems (BMS) as missing data can result in biased decision making down the line. This study creates a guideline for imputing the gaps in BMS datasets by comparing four methods: K Nearest Neighbour algorithm (KNN), Recurrent Neural Network (RNN), Hot Deck (HD) and Last Observation Carried Forward (LOCF). The guideline contains the best method per gap size and scales of measurement. The four selected methods are from various backgrounds and are tested on a real BMS and … Cites: ‪Recurrent neural networks for multivariate time series with missing …‬

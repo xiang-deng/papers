@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "TransTab: Learning Transferable Tabular Transformers Across Tables"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "Z Wang, J Sun - arXiv preprint arXiv:2205.09328, 2022"
+---
+Tabular data (or tables) are the most widely used data format in machine learning (ML). However, ML models often assume the table structure keeps fixed in training and testing. Before ML modeling, heavy data cleaning is required to merge disparate tables with different columns. This preprocessing often incurs significant data waste (eg, removing unmatched columns and samples). How to learn ML models from multiple tables with partially overlapping columns? How to incrementally update ML … Cites: ‪TaBERT: Pretraining for Joint Understanding of Textual and …‬

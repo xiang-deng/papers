@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A STEP towards Interpretable Multi-Hop Reasoning: Bridge Phrase Identification and Query Expansion"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "F Luo, M Surdeanu"
+---
+We propose an unsupervised method for the identification of bridge phrases in multi-hop question answering (QA). Our method constructs a graph of noun phrases from the question and the available context, and applies the Steiner tree algorithm to identify the minimal sub-graph that connects all question phrases. Nodes in the sub-graph that bridge loosely-connected or disjoint subsets of question phrases due to low-strength semantic relations are extracted as bridge phrases. The identified … Cites: ‪Self-Assembling Modular Networks for Interpretable Multi-Hop …‬

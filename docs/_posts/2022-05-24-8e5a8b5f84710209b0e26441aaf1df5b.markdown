@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Metrics of calibration for probabilistic predictions"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "I Arrieta-Ibarra, P Gujral, J Tannen, M Tygert, C Xu - arXiv preprint arXiv:2205.09680, 2022"
+---
+Predictions are often probabilities; eg, a prediction could be for precipitation tomorrow, but with only a 30% chance. Given such probabilistic predictions together with the actual outcomes,  reliability diagrams  help detect and diagnose statistically significant discrepancies--so-called  miscalibration --between the predictions and the outcomes. The canonical reliability diagrams histogram the observed and expected values of the predictions; replacing the hard histogram binning with soft … Cites: ‪Verified uncertainty calibration‬

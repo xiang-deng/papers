@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Personalized Prompts for Sequential Recommendation"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "Y Wu, R Xie, Y Zhu, F Zhuang, X Zhang, L Lin, Q He - arXiv preprint arXiv:2205.09666, 2022"
+---
+Pre-training models have shown their power in sequential recommendation. Recently, prompt has been widely explored and verified for tuning in NLP pre-training, which could help to more effectively and efficiently extract useful knowledge from pre-training models for downstream tasks, especially in cold-start scenarios. However, it is challenging to bring prompt-tuning from NLP to recommendation, since the tokens in recommendation (ie, items) do not have explicit explainable semantics … Cites: ‪How can we know what language models know?‬

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Shared Autonomy for Robotic Manipulation with Language Corrections"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "S Karamcheti, R Palleti, Y Cui, P Liang, D Sadigh - ACL Workshop on Learning with …, 2022"
+---
+Traditional end-to-end instruction following approaches for robotic manipulation are notoriously sample inefficient and lack adaptivity; for most single-turn methods, there is no way to provide additional language supervision to adapt robot behavior online–a property critical to deploying robots in collaborative, safety-critical environments. In this work, we present a method for incorporating language corrections, built on the insight that an initial instruction and subsequent corrections differ mainly in the … Cites: ‪Vision-and-dialog navigation‬

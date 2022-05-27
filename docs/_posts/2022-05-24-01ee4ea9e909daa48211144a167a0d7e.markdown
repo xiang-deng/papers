@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Continual Pre-Training Mitigates Forgetting in Language and Vision"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "A Cossu, T Tuytelaars, A Carta, L Passaro… - arXiv preprint arXiv …, 2022"
+---
+Pre-trained models are nowadays a fundamental component of machine learning research. In continual learning, they are commonly used to initialize the model before training on the stream of non-stationary data. However, pre-training is rarely applied during continual learning. We formalize and investigate the characteristics of the continual pre-training scenario in both language and vision environments, where a model is continually pre-trained on a stream of incoming data and only later fine … Cites: ‪Don t stop pretraining: adapt language models to domains and tasks‬

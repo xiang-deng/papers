@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Deploying self-supervised learning in the wild for hybrid automatic speech recognition"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "M Karimi, C Liu, K Kumatani, Y Qian, T Wu, J Wu - arXiv preprint arXiv:2205.08598, 2022"
+---
+Self-supervised learning (SSL) methods have proven to be very successful in automatic speech recognition (ASR). These great improvements have been reported mostly based on highly curated datasets such as LibriSpeech for non-streaming End-to-End ASR models. However, the pivotal characteristics of SSL is to be utilized for any untranscribed audio data. In this paper, we provide a full exploration on how to utilize uncurated audio data in SSL from data pre-processing to deploying an … Cites: ‪Pushing the limits of semi-supervised learning for automatic …‬

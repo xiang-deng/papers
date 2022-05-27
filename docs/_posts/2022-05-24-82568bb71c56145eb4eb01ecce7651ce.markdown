@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Certified Error Control of Candidate Set Pruning for Two-Stage Relevance Ranking"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "M Li, X Zhang, J Xin, H Zhang, J Lin - arXiv preprint arXiv:2205.09638, 2022"
+---
+In information retrieval (IR), candidate set pruning has been commonly used to speed up two-stage relevance ranking. However, such an approach lacks accurate error control and often trades accuracy off against computational efficiency in an empirical fashion, lacking theoretical guarantees. In this paper, we propose the concept of certified error control of candidate set pruning for relevance ranking, which means that the test error after pruning is guaranteed to be controlled under a … Cites: ‪Simple Entity-Centric Questions Challenge Dense Retrievers‬

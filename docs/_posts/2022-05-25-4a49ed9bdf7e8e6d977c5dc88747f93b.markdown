@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Detecting explicit lyrics: a case study in Italian music"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "M Rospocher - Language Resources and Evaluation, 2022"
+---
+Preventing the reproduction of songs whose textual content is offensive or inappropriate for kids is an important issue in the music industry. In this paper, we investigate the problem of assessing whether music lyrics contain content unsuitable for children (aka, explicit content). Previous works that have computationally tackled this problem have dealt with English or Korean songs, comparing the performance of various machine learning approaches. We investigate the automatic detection of … Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

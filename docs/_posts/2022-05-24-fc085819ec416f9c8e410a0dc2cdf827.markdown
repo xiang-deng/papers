@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Evaluation of Transfer Learning for Polish with a Text-to-Text Model"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "A Chrabrowa, Ł Dragan, K Grzegorczyk, D Kajtoch… - arXiv preprint arXiv …, 2022"
+---
+We introduce a new benchmark for assessing the quality of text-to-text models for Polish. The benchmark consists of diverse tasks and datasets: KLEJ benchmark adapted for text-to-text, en-pl translation, summarization, and question answering. In particular, since summarization and question answering lack benchmark datasets for the Polish language, we describe their construction and make them publicly available. Additionally, we present plT5-a general-purpose text-to-text model for … Cites: ‪Multilingual denoising pre-training for neural machine translation‬

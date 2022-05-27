@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "An Efficient Big Data Storage Service Architecture"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "Y Wang, X Li, P Bai, H Wang, J Dong - 2022 IEEE 25th International Conference on …, 2022"
+---
+Due to the limitations of the distributed file storage system, when data storage is surging, the depth and width of file directory will continue to increase, which results in reduced I/O efficiency of metadata management. Rapidly growing data can also cause system congestion or data loss. In today s environment where information and data are linked and collaborative in all walks of life, this phenomenon is absolutely unacceptable. Object storage is an efficient way to store massive data through … Cites: ‪The Beckman report on database research‬

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Transformer attention optimization in time series forecasting"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "A ARCIDIACONO - 2022"
+---
+Transformer-based architectures are neural networks architectures developed for natural language processing. These state-of-the-art architectures innovation is the use of the self-attention mechanism. These models have been deployed in several settings, not just limited to natural language, but also including videos and images. However they are hard to scale up for industrial applications due to the quadratic time and memory complexity of attention mechanism. Therefore, there has been a … Cites: ‪Delight: Very deep and light-weight transformer‬

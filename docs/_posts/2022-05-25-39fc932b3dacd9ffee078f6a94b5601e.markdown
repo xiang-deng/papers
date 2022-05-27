@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "質問応答を用いた日本語要約評価システム"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "岡田直士， 松澤智史 - IEICE Conferences Archives, 2021"
+---
+2.1 概要 QAGS [1] は要約文から質問を生成し原文と要約文に対して同じ質問を投げかけることで, 得られた解答との類似度を比較し要約文を評価する. 解答の比較では F 値を用いており, 全ての質問について F 値を計算し平均を求める. 以下に概要図を載せる.(図 1) Cites: ‪Asking and Answering Questions to Evaluate the Factual …‬

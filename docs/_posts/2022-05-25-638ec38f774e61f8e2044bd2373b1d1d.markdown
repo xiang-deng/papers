@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Contrastive Latent Variable Models for Neural Text Generation"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "Z Teng, C Chen, Y Zhang, Y Zhang - The 38th Conference on Uncertainty in Artificial …, 2022"
+---
+Deep latent variable models such as variational autoencoders and energy-based models are widely used for neural text generation. Most of them focus on matching the prior distribution with the posterior distribution of the latent variable for text reconstruction. In addition to instance-level reconstruction, this paper aims to integrate contrastive learning in the latent space, forcing the latent variables to learn high-level semantics by exploring inter-instance relationships. Experiments on … Cites: ‪Lagging Inference Networks and Posterior Collapse in Variational …‬

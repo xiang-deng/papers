@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "X Zhang, F Liu, Z Peng, Z Guo, F Wan, X Ji, Q Ye - arXiv preprint arXiv:2205.09613, 2022"
+---
+Modern object detectors have taken the advantages of pre-trained vision transformers by using them as backbone networks. However, except for the backbone networks, other detector components, such as the detector head and the feature pyramid network, remain randomly initialized, which hinders the consistency between detectors and pre-trained models. In this study, we propose to integrally migrate the pre-trained transformer encoder-decoders (imTED) for object detection … Cites: ‪A Simple Single-Scale Vision Transformer for Object Localization …‬

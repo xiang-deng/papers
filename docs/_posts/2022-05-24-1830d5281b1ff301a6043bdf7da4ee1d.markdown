@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Logic-Guided Message Generation from Raw Real-Time Sensor Data"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "E Chang, A Kovtunova, S Borgwardt, V Demberg…"
+---
+Natural language generation in real-time settings with raw sensor data is a challenging task. We find that formulating the task as an end-to-end problem leads to two major challenges in content selection–the sensor data is both redundant and diverse across environments, thereby making it hard for the encoders to select and reason on the data. We here present a new corpus for a specific domain that instantiates these properties. It includes handover utterances that an assistant for a … Cites: ‪Handling divergent reference texts when evaluating table-to-text …‬

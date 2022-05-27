@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PromptDA: Label-guided Data Augmentation for Prompt-based Few Shot Learners"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "C Chen, K Shu - arXiv preprint arXiv:2205.09229, 2022"
+---
+Recent advances on large pre-trained language models (PLMs) lead impressive gains on natural language understanding (NLU) tasks with task-specific fine-tuning. However, direct fine-tuning PLMs heavily relies on large amount of labeled instances, which are expensive and time-consuming to obtain. Prompt-based tuning on PLMs has proven valuable for few shot tasks. Existing works studying prompt-based tuning for few-shot NLU mainly focus on deriving proper label words with a … Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬

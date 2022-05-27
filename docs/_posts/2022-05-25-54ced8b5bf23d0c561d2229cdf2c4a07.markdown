@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Short Text Similarity Calculation Method Combining Semantic and Headword Attention Mechanism"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "M Ji, X Zhang - Scientific Programming, 2022"
+---
+Short text similarity computation plays an important role in various natural language processing tasks. Siamese neural networks are widely used in short text similarity calculation. However, due to the complexity of syntax and the correlation between words, siamese networks alone cannot achieve satisfactory results. Many studies show that the use of an attention mechanism will improve the impact of key features that can be utilized to measure sentence similarity. In this paper, a similarity … Cites: ‪Neural machine translation by jointly learning to align and translate‬

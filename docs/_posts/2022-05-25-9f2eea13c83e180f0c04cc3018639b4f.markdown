@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Neuro-Symbolic Entropy Regularization"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "E Wang, KW Chang, G Van den Broeck - The 38th Conference on Uncertainty in …, 2022"
+---
+In structured prediction, the goal is to jointly predict many output variables that together encode a structured object--a path in a graph, an entity-relation triple, or an ordering of objects. Such a large output space makes learning hard and requires vast amounts of labeled data. Different approaches leverage alternate sources of supervision. One approach--entropy regularization--posits that decision boundaries should lie in low-probability regions. It extracts supervision from unlabeled examples … Cites: ‪Programming with a differentiable forth interpreter‬

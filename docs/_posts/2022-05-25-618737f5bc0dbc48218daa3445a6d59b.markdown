@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "日本語事前学習言語モデルにおける語彙の直接的操作を用いたドメイン適応の試みが下流タスクの精度に与える影響の評価"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "浜直史， 安井雅彦， 森靖英， 和久井一則 - IEICE Conferences Archives, 2021"
+---
+1 はじめに近年の機械学習を利用した自然言語処理技術の発展の要因の 1 つが, 学習過程を事前学習言語モデル (PLM: pretrained language model) の作成とタスク依存の Fine-Tuning へ分離可能になったこと [1, 2] である. 一般に, 大量のコーパスを用意し大規模なモデルを作成することで, 多くのタスクで高精度を達成する高性能な事前学習言語モデルが作成できると考えられている. また, 実際に自然言語処理モデルを運用するドメインと同一ドメインからコーパスを収集するようにすると … Cites: ‪Don t stop pretraining: adapt language models to domains and tasks‬

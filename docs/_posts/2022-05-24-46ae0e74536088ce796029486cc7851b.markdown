@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Novel Transformer Pre-training Objective and a Novel Fine-Tuning Method for Abstractive Summarization"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "C Zhang - 2022"
+---
+Pre-training Transformer has been widely used in many NLP tasks including document summarization. Researchers designed many different self-supervised objectives for their pre-training transformer models, then based on the seq2seq model to fine tune on these pre-trained Transformer models for downstream tasks. However, most researchers designed their self-supervised objectives for all NLP tasks, the ability of self-supervised objectives for a specific task such as abstractive … Cites: ‪Neural text summarization: A critical evaluation‬

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Transformers only look once with nonlinear combination for real-time object detection"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "R Xia, G Li, Z Huang, Y Pang, M Qi - Neural Computing and Applications, 2022"
+---
+In this article, a novel real-time object detector called Transformers Only Look Once (TOLO) is proposed to resolve two problems. The first problem is the inefficiency of building long-distance dependencies among local features for amounts of modern real-time object detectors. The second one is the lack of inductive biases for vision Transformer networks with heavily computational cost. TOLO is composed of Convolutional Neural Network (CNN) backbone, Feature Fusion Neck (FFN), and … Cites: ‪Efficientdet: Scalable and efficient object detection‬

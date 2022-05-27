@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Robust and Efficient Medical Imaging with Self-Supervision"
+date:   2022-05-24 00:00:36 -0400
+categories: jekyll update
+author: "S Azizi, L Culp, J Freyberg, B Mustafa, S Baur… - arXiv preprint arXiv …, 2022"
+---
+Recent progress in Medical Artificial Intelligence (AI) has delivered systems that can reach clinical expert level performance. However, such systems tend to demonstrate sub-optimal  out-of-distribution  performance when evaluated in clinical settings different from the training environment. A common mitigation strategy is to develop separate systems for each clinical setting using site-specific data [1]. However, this quickly becomes impractical as medical data is time-consuming to acquire and … Cites: ‪Robust fine-tuning of zero-shot models‬

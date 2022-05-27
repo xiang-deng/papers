@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DHA: End-to-End Joint Optimization of Data Augmentation Policy, Hyper-parameter and Architecture"
+date:   2022-05-25 22:16:33 -0400
+categories: jekyll update
+author: "H Lanqing, S Hu, F Zhou, B Ru, J Feng, Z Li - First Conference on Automated …, 2022"
+---
+Automated machine learning (AutoML) usually involves several crucial components, such as Data Augmentation (DA) policy, Hyper-Parameter Optimization (HPO), and Neural Architecture Search (NAS). However joint optimization of these components remains challenging due to the largely increased search dimension and the variant input types of each component. In parallel to this, the common practice of searching for the optimal architecture first and then retraining it before deployment in NAS often … Cites: ‪AutoHAS: Differentiable hyper-parameter and architecture search‬

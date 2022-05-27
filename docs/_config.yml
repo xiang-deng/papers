@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 feed:
-  posts_limit: 100
+  posts_limit: 1000
 
 # Exclude from processing.
 # The following items will not be processed, by default.
