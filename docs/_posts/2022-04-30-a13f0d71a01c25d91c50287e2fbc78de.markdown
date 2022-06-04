@@ -1,8 +1,0 @@
----
-layout: post
-title:  "FedKC: Federated Knowledge Composition for Multilingual Natural Language Understanding"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "H Wang, H Zhao, Y Wang, T Yu, J Gu, J Gao -  of the ACM Web Conference 2022, 2022"
----
-Multilingual natural language understanding, which aims to comprehend multilingual documents, is an important task. Existing efforts have been focusing on the analysis of centrally stored text data, but in real practice, multilingual data is usually distributed. Federated learning is a promising paradigm to solve this problem, which trains local models with decentralized data on local clients and aggregates local models on the central server to achieve a good global model. However, existing Cites: Effective LSTMs for target-dependent sentiment classification

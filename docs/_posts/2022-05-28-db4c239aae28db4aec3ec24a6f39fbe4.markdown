@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Deeper vs Wider: A Revisit of Transformer Configuration"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "F Xue, J Chen, A Sun, X Ren, Z Zheng, X He, X Jiang… - arXiv preprint arXiv …, 2022"
+---
+Transformer-based models have delivered impressive results on many tasks, particularly vision and language tasks. In many model training situations, conventional configurations are typically adopted. For example, we often set the base model with hidden dimensions (ie model width) to be 768 and the number of transformer layers (ie model depth) to be 12. In this paper, we revisit these conventional configurations. Through theoretical analysis and experimental … Cites: ‪GLaM: Efficient Scaling of Language Models with Mixture-of-Experts‬

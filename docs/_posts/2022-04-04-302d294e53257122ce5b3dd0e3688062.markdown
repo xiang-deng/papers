@@ -1,8 +1,0 @@
----
-layout: post
-title:  "UGDAS: Unsupervised Graph-Network based Denoiser for Abstractive Summarization in biomedical domain"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "Y Du, Y Zhao, J Yan, Q Li - Methods, 2022"
----
-Abstractive summarization models can generate summary auto-regressively, but the quality is often impacted by the noise in the text. Learning cross-sentence relations is a crucial step in this task and the graph-based network is more effective to capture the sentence relationship. Moreover, knowledge is very important to distinguish the noise of the text in special domain. A novel model structure called UGDAS is proposed in this paper, which combines a sentence-level denoiser based on an Cites: Optimizing the factual correctness of a summary: A study of

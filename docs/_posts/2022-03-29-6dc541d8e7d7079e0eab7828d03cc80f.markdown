@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "S Vandenhende, D Mahajan, F Radenovic - arXiv preprint arXiv , 2022"
----
-A visual counterfactual explanation replaces image regions in a query image with regions from a distractor image such that the system s decision on the transformed image changes to the distractor class. In this work, we present a novel framework for computing visual counterfactual explanations based on two key ideas. First, we enforce that the textit {replaced} and textit {replacer} regions contain the same semantic part, resulting in more semantically consistent explanations. Second, we Cites: Anchors: High-Precision Model-Agnostic Explanations

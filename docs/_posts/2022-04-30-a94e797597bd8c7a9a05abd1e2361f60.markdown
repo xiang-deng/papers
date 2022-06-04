@@ -1,8 +1,0 @@
----
-layout: post
-title:  "FPGA-based AI Smart NICs for Scalable Distributed AI Training Systems"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "R Ma, E Georganas, A Heinecke, A Boutros - arXiv preprint arXiv , 2022"
----
-Rapid advances in artificial intelligence (AI) technology have led to significant accuracy improvements in a myriad of application domains at the cost of larger and more compute-intensive models. Training such models on massive amounts of data typically requires scaling to many compute nodes and relies heavily on collective communication algorithms, such as all-reduce, to exchange the weight gradients between different nodes. The overhead of these collective communication operations Cites: Palm: Scaling language modeling with pathways

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "The Combination of BERT and Data Oversampling for Relation Set Prediction"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "A Gelbukh"
----
-In this paper, we engage the Task 2 of the SMART Task 2021 challenge in predicting relations used to identify the correct answer of a given question. This is a subtask of Knowledge Base Question Answering (KBQA) and offers valuable insights for the development of KBQA systems. We introduce our method, combining BERT and data oversampling with text replacements of linked terms to Wikidata and dependent noun phrases, in predicting answer relations in two datasets. For the DBpedia dataset, we Cites: Language to logical form with neural attention

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Memorization in NLP Fine-tuning Methods"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "F Mireshghallah, A Uniyal, T Wang, D Evans… - arXiv preprint arXiv …, 2022"
+---
+Large language models are shown to present privacy risks through memorization of training data, and several recent works have studied such risks for the pre-training phase. Little attention, however, has been given to the fine-tuning phase and it is not well understood how different fine-tuning methods (such as fine-tuning the full model, the model head, and adapter) compare in terms of memorization risk. This presents increasing concern as the  pre-train and fine-tune  paradigm proliferates. In this … Cites: ‪Documenting the english colossal clean crawled corpus‬

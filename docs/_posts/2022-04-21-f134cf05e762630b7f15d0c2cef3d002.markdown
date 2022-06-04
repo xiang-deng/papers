@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Survey on Self-Supervised Learning: Auxiliary Pretext Tasks and Contrastive Learning Methods in Imaging"
-date:   2022-04-21 03:59:43 -0400
-categories: jekyll update
-author: "S Albelwi - Entropy, 2022"
----
-Although deep learning algorithms have achieved significant progress in a variety of domains, they require costly annotations on huge datasets. Self-supervised learning (SSL) using unlabeled data has emerged as an alternative, as it eliminates manual annotation. To do this, SSL constructs feature representations using pretext tasks that operate without manual annotation, which allows models trained in these tasks to extract useful latent representations that later improve downstream tasks such as Cites: Imagenet: A large-scale hierarchical image database

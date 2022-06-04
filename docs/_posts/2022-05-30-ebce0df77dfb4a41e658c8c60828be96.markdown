@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sequence to Sequence Learning for Joint Extraction of Entities and Relations"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "Z Liang, J Du - Neurocomputing, 2022"
+---
+The relations of two entities contained in the sentence are often complicated. There exists multiple relation tuples which owns one or both the same entities among them. Extracting those overlapped multiple relation tuples faces great challenges. Most existing works employ the famous Seq2Seq model for joint extraction of entities and relations, which cannot handle the multiple relations properly due to the missing of graph structure information of the relations and entities in a sentence. In this paper … Cites: ‪Exploiting syntactico-semantic structures for relation extraction‬

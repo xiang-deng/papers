@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Detection of source code in internet texts using automatically generated machine learning models"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "M Badurowicz - Applied Computer Science, 2022"
+---
+In the paper, the authors are presenting the outcome of web scraping software allowing for the automated classification of source code. The software system was prepared for a discussion forum for software developers to find fragments of source code that were published without marking them as code snippets. The analyzer software is using a Machine Learning binary classification model for differentiating between a programming language source code and highly technical text about … Cites: ‪Learning to mine aligned code and natural language pairs from …‬

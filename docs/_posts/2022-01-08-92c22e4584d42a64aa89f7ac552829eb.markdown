@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Knowledge Matters: Radiology Report Generation with General and Specific Knowledge"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "S Yang, X Wu, S Ge, SK Zhou, L Xiao - arXiv preprint arXiv:2112.15009, 2021"
----
-Automatic radiology report generation is critical in clinics which can relieve experienced radiologists from the heavy workload and remind inexperienced radiologists of misdiagnosis or missed diagnose. Existing approaches mainly formulate radiology report generation as an image captioning task and adopt the encoder-decoder framework. However, in the medical domain, such pure data-driven approaches suffer from the following problems: 1) visual and textual bias problem; 2) Cites: Biomedical and clinical English model packages in the Stanza

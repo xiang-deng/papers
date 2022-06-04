@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Path embedded hybrid reasoning model for relation prediction in knowledge graphs"
-date:   2022-04-14 01:14:43 -0400
-categories: jekyll update
-author: "D Zhao, X Wang, X Luo - International Journal of Embedded Systems, 2022"
----
-To conquer incompleteness of knowledge graphs (KGs), we focus on a relation prediction task that completes KGs by ranking all relationships between entities and selecting the top one. Most existing methods for relation prediction are representation-based models, which learn the structural information of KGs to obtain the embeddings of entities and relationships but fail to effectively use relation paths to predict potential relationships between two entities. The traditional path-based Cites: Embedding entities and relations for learning and inference in

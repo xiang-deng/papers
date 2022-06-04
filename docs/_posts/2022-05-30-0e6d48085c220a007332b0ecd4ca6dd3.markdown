@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Overcoming Catastrophic Forgetting in Zero-Shot Cross-Lingual Generation"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "T Vu, A Barua, B Lester, D Cer, M Iyyer, N Constant - arXiv preprint arXiv:2205.12647, 2022"
+---
+In this paper, we explore the challenging problem of performing a generative task (ie, summarization) in a target language when labeled data is only available in English. We assume a strict setting with no access to parallel data or machine translation. Prior work has shown, and we confirm, that standard transfer learning techniques struggle in this setting, as a generative multilingual model fine-tuned purely on English catastrophically forgets how to generate non-English. Given the recent rise of … Cites: ‪Metaicl: Learning to learn in context‬

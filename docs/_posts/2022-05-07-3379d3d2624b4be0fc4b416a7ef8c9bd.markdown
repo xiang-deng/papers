@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Balanced and Accurate Pseudo-labels for Semi-supervised Image Classification"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "J Zhao, X Liu, W Zaho - ACM Transactions on Multimidia Computing , 2022"
----
-Image classification by semi-supervised learning has recently become a hot spot, and Co-Training framework is an important method of semi-supervised image classification. In the traditional Co-Training structure, the sub-networks will generate pseudo-labels for each other, and these pseudo-labels will further be used as supervisory signal for model training. However, the pseudo-labels will hurt classification performance because of their low accuracy and unbalanced Cites: Dividemix: Learning with noisy labels as semi-supervised learning

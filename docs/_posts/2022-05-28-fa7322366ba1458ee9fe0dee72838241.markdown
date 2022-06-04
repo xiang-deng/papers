@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "How to Find Actionable Static Analysis Warnings"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "R Yedida, HJ Kang, H Tu, X Yang, D Lo, T Menzies - arXiv preprint arXiv:2205.10504, 2022"
+---
+Automatically generated static code warnings suffer from a large number of false alarms. Hence, developers only take action on a small percent of those warnings. To better predict which static code warnings should not be ignored, we suggest that analysts need to look deeper into their algorithms to find choices that better improve the particulars of their specific problem. Specifically, we show here that effective predictors of such warnings can be created by methods that locally adjust the … Cites: ‪Codebert: A pre-trained model for programming and natural …‬

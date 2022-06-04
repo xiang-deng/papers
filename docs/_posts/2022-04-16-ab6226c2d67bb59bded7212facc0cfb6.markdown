@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A Multilingual Perspective Towards the Evaluation of Attribution Methods in Natural Language Inference"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "K Zaman, Y Belinkov - arXiv preprint arXiv:2204.05428, 2022"
----
-Most evaluations of attribution methods focus on the English language. In this work, we present a multilingual approach for evaluating attribution methods for the Natural Language Inference (NLI) task in terms of plausibility and faithfulness properties. First, we introduce a novel cross-lingual strategy to measure faithfulness based on word alignments, which eliminates the potential downsides of erasure-based evaluations. We then perform a comprehensive evaluation of attribution methods Cites: Word Alignment by Fine-tuning Embeddings on Parallel Corpora

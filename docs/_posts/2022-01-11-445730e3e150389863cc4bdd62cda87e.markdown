@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Predicting Solute Descriptors for Organic Chemicals by a Deep Neural Network (DNN) Using Basic Chemical Structures and a Surrogate Metric"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "K Zhang, H Zhang - Environmental Science & Technology, 2022"
----
-Solute descriptors have been widely used to model chemical transfer processes through poly-parameter linear free energy relationships (pp-LFERs); however, there are still substantial difficulties in obtaining these descriptors accurately and quickly for new organic chemicals. In this research, models (PaDEL-DNN) that require only SMILES of chemicals were built to satisfactorily estimate pp-LFER descriptors using deep neural networks (DNN) and the PaDEL chemical representation. The PaDEL Cites: Understanding black-box predictions via influence functions

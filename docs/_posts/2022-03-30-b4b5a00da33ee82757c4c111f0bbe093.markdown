@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Data Augmentation by program transformation"
-date:   2022-03-30 13:35:09 -0400
-categories: jekyll update
-author: "S Yu, T Wang, J Wang - Journal of Systems and Software, 2022"
----
-Data Augmentation has been recognized as one of the main techniques to improve deep learning models  generalization ability. However, it has not been widely leveraged in big code tasks due to the essential difficulties of manipulating source code to generate new labeled data of high quality. In this paper, we propose a general data augmentation method based on program transformation. The idea is to extend big code datasets by a set of source-to-source transformation rules that Cites: Neural machine translation by jointly learning to align and translate

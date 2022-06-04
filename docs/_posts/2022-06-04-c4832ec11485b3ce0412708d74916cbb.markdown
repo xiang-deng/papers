@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Patching Leaks in the Charformer for Efficient Character-Level Generation"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "L Edman, A Toral, G van Noord - arXiv preprint arXiv:2205.14086, 2022"
+---
+Character-based representations have important advantages over subword-based ones for morphologically rich languages. They come with increased robustness to noisy input and do not need a separate tokenization step. However, they also have a crucial disadvantage: they notably increase the length of text sequences. The GBST method from Charformer groups (aka downsamples) characters to solve this, but allows information to leak when applied to a Transformer decoder. We solve this … Cites: ‪Charformer: Fast character transformers via gradient-based …‬

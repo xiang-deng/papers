@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Language Models Can See: Plugging Visual Controls in Text Generation"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "Y Su, T Lan, Y Liu, F Liu, D Yogatama, Y Wang, L Kong - arXiv preprint arXiv , 2022"
----
-Generative language models (LMs) such as GPT-2/3 can be prompted to generate text with remarkable quality. While they are designed for text-prompted generation, it remains an open question how the generation process could be guided by modalities beyond text such as images. In this work, we propose a training-free framework, called MAGIC (iMAge-Guided text generatIon with CLIP), for plugging in visual controls in the generation process and enabling LMs to perform multimodal Cites: Palm: Scaling language modeling with pathways

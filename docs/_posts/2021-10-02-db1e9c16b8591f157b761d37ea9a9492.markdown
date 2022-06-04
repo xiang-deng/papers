@@ -1,8 +1,0 @@
----
-layout: post
-title:  "BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for Automatic Speech Recognition"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "Y Zhang, DS Park, W Han, J Qin, A Gulati, J Shor - arXiv preprint arXiv , 2021"
----
-We summarize the results of a host of efforts using giant automatic speech recognition (ASR) models pre-trained using large, diverse unlabeled datasets containing approximately a million hours of audio. We find that the combination of pre-training, self-training and scaling up model size greatly increases data efficiency, even for extremely large tasks with tens of thousands of hours of labeled data. In particular, on an ASR task with 34k hours of labeled data, by fine-tuning an 8 billion Cites: Bert: Pre-training of deep bidirectional transformers for language

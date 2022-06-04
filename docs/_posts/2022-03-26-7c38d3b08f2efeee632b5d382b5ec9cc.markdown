@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Deep semi-supervised learning with contrastive learning and partial label propagation for image data"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "Y Gan, H Zhu, W Guo, G Xu, G Zou - Knowledge-Based Systems, 2022"
----
-Deep semi-supervised learning is becoming an active research topic because it jointly utilizes labeled and unlabeled samples in training deep neural networks. Recent advances are mainly focused on inductive semi-supervised learning which generally extends supervised algorithms to include unlabeled data. In this paper, we propose CL_PLP, a new transductive deep semi-supervised learning algorithm based on contrastive self-supervised learning and partial label propagation. The Cites: Learning with Local and Global Consistency.

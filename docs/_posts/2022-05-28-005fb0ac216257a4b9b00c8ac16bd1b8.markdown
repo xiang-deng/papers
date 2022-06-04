@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Attributing AUC-ROC to Analyze Binary Classifier Performance"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "A Tafvizi, B Avci, M Sundararajan - arXiv preprint arXiv:2205.11781, 2022"
+---
+Area Under the Receiver Operating Characteristic Curve (AUC-ROC) is a popular evaluation metric for binary classifiers. In this paper, we discuss techniques to segment the AUC-ROC along human-interpretable dimensions. AUC-ROC is not an additive/linear function over the data samples, therefore such segmenting the overall AUC-ROC is different from tabulating the AUC-ROC of data segments. To segment the overall AUC-ROC, we must first solve an\emph {attribution} problem to identify … Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

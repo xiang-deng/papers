@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "StreamingQA: A Benchmark for Adaptation to New Knowledge over Time in Question Answering Models"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "A Liška, T Kočiský, E Gribovskaya, T Terzi, E Sezener… - arXiv preprint arXiv …, 2022"
+---
+Knowledge and language understanding of models evaluated through question answering (QA) has been usually studied on static snapshots of knowledge, like Wikipedia. However, our world is dynamic, evolves over time, and our models  knowledge becomes outdated. To study how semi-parametric QA models and their underlying parametric language models (LMs) adapt to evolving knowledge, we construct a new large-scale dataset, StreamingQA, with human written and … Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬

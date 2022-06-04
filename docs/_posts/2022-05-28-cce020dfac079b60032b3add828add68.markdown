@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Prototypical Calibration for Few-shot Learning of Language Models"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "Z Han, Y Hao, L Dong, F Wei - arXiv preprint arXiv:2205.10183, 2022"
+---
+In-context learning of GPT-like models has been recognized as fragile across different hand-crafted templates, and demonstration permutations. In this work, we propose prototypical calibration to adaptively learn a more robust decision boundary for zero-and few-shot classification, instead of greedy decoding. Concretely, our method first adopts Gaussian mixture distribution to estimate the prototypical clusters for all categories. Then we assign each cluster to the corresponding label by solving … Cites: ‪Learning To Retrieve Prompts for In-Context Learning‬

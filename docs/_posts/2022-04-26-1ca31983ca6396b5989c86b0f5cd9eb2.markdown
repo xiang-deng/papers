@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Reinforced Structured State-Evolution for Vision-Language Navigation"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "J Chen, C Gao, E Meng, Q Zhang, S Liu - arXiv preprint arXiv:2204.09280, 2022"
----
-Vision-and-language Navigation (VLN) task requires an embodied agent to navigate to a remote location following a natural language instruction. Previous methods usually adopt a sequence model (eg, Transformer and LSTM) as the navigator. In such a paradigm, the sequence model predicts action at each step through a maintained navigation state, which is generally represented as a one-dimensional vector. However, the crucial navigation clues (ie, object-level environment layout) for Cites: Robust navigation with language pretraining and stochastic sampling

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "S Zhang, Y Feng - arXiv preprint arXiv:2203.09053, 2022"
----
-Simultaneous machine translation (SiMT) starts translating while receiving the streaming source inputs, and hence the source sentence is always incomplete during translating. Different from the full-sentence MT using the conventional seq-to- seq architecture, SiMT often applies prefix-to-prefix architecture, which forces each target word to only align with a partial source prefix to adapt to the incomplete source in streaming inputs. However, the source words in the front positions are always Cites: Latent-variable non-autoregressive neural machine translation

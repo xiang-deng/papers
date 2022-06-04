@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "H Jiang, Y Lin, D Han, S Song, G Huang - arXiv preprint arXiv:2203.08481, 2022"
----
-Visual grounding, ie, localizing objects in images according to natural language queries, is an important topic in visual language understanding. The most effective approaches for this task are based on deep learning, which generally require expensive manually labeled image-query or patch-query pairs. To eliminate the heavy dependence on human annotations, we present a novel method, named Pseudo-Q, to automatically generate pseudo language queries for supervised Cites: Oscar: Object-semantics aligned pre-training for vision-language

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Training Language Models with Memory Augmentation"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "Z Zhong, T Lei, D Chen - arXiv preprint arXiv:2205.12674, 2022"
+---
+Recent work has improved language models remarkably by equipping them with a non-parametric memory component. However, most existing approaches only introduce memories at testing time, or represent them using a separately trained encoder--resulting in sub-optimal training of the language model. In this work, we present TRIME, a novel yet simple training approach designed for training language models with memory augmentation. Our approach uses a training objective that … Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬

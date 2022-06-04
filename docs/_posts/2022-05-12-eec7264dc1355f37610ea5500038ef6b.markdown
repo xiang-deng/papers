@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Multi-hop reading comprehension based on reinforcement learning"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "H Wu -  Conference on Electronic Information Engineering, Big , 2022"
----
-Multi-hop machine reading comprehension (MRC) across multiple documents poses new challenges over single-hop MRC, because it requires reasoning several times to answer the given questions and being able to show the reasoning path to support its answer as explanation at the same time. In this paper, we propose a new model based on reinforcement learning for multi-hop MRC. Our model mainly consists of two parts:(i) a novel agent that decomposes the multi-hop question into several sub Cites: Constructing datasets for multi-hop reading comprehension across

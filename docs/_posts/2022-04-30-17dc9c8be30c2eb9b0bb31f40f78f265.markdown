@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Causal Transportability for Visual Recognition"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "C Mao, K Xia, J Wang, H Wang, J Yang, E Bareinboim - arXiv preprint arXiv , 2022"
----
-Visual representations underlie object recognition tasks, but they often contain both robust and non-robust features. Our main observation is that image classifiers may perform poorly on out-of-distribution samples because spurious correlations between non-robust features and labels can be changed in a new environment. By analyzing procedures for out-of-distribution generalization with a causal graph, we show that standard classifiers fail because the association between images and labels is not Cites: Distributionally robust neural networks for group shifts: On the

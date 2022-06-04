@@ -1,8 +1,0 @@
----
-layout: post
-title:  "S-NER: A Concise and Efficient Span-Based Model for Named Entity Recognition"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "J Yu, B Ji, S Li, J Ma, H Liu, H Xu - Sensors, 2022"
----
-Named entity recognition (NER) is a task that seeks to recognize entities in raw texts and is a precondition for a series of downstream NLP tasks. Traditionally, prior NER models use the sequence labeling mechanism which requires label dependency captured by the conditional random fields (CRFs). However, these models are prone to cascade label misclassifications since a misclassified label results in incorrect label dependency, and so some following labels may also be misclassified. To Cites: Entity, relation, and event extraction with contextualized span

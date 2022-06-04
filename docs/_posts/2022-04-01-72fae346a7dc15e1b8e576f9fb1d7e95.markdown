@@ -1,8 +1,0 @@
----
-layout: post
-title:  "On the Neural Tangent Kernel Analysis of Randomly Pruned Wide Neural Networks"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "H Yang, Z Wang - arXiv preprint arXiv:2203.14328, 2022"
----
-We study the behavior of ultra-wide neural networks when their weights are randomly pruned at the initialization, through the lens of neural tangent kernels (NTKs). We show that for fully-connected neural networks when the network is pruned randomly at the initialization, as the width of each layer grows to infinity, the empirical NTK of the pruned neural network converges to that of the original (unpruned) network with some extra scaling factor. Further, if we apply some Cites: Good subnetworks provably exist: Pruning via greedy forward

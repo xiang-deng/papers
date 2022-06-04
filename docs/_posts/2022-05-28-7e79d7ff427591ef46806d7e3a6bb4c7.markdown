@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FlexiBERT: Are Current Transformer Architectures too Homogeneous and Rigid?"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "S Tuli, B Dedhia, S Tuli, NK Jha - arXiv preprint arXiv:2205.11656, 2022"
+---
+The existence of a plethora of language models makes the problem of selecting the best one for a custom task challenging. Most state-of-the-art methods leverage transformer-based models (eg, BERT) or their variants. Training such models and exploring their hyperparameter space, however, is computationally expensive. Prior work proposes several neural architecture search (NAS) methods that employ performance predictors (eg, surrogate models) to address this issue; however … Cites: ‪Searching for Efficient Transformers for Language Modeling‬

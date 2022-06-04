@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Towards abstractive summarization in Hungarian"
-date:   2022-03-24 01:59:24 -0400
-categories: jekyll update
-author: "M Makrai, M Tndik, B Indig, G Szaszk"
----
-We publish an abstractive summarizer for Hungarian, an encoder-decoder model initialized with huBERT, and fine-tuned on the ELTE. DH corpus of former Hungarian news portals. The model produces fluent output in the correct topic, but it hallucinates frequently. Our quantitative evaluation on automatic and human transcripts of news (with automatic and human-made punctuation) shows that the model is robust with respect to errors in either automatic speech recognition or automatic punctuation Cites: Text summarization with pretrained encoders

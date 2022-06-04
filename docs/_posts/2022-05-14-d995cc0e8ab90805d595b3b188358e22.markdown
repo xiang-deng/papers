@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Hypergraph attentional convolutional neural network for salient object detection"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "Z Liu, J Liu - The Visual Computer, 2022"
----
-Learning discriminative features and mining salient visual patterns play an important role in salient object detection (SOD) task. Existing SOD methods suffer from limited receptive field and insufficient cross-level feature mining. To this end, we propose a hypergraph attentional convolutional neural network for SOD task. Specifically, our method consists of (1) an attention based feature fusion module, which efficiently fuses lower layer as well as higher layer features,(2) a hypergraph-based long-range Cites: Learning with hypergraphs: Clustering, classification, and

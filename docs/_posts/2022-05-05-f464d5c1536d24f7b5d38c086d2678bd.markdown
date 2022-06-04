@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Improving multilingual speech recognition systems"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "H Gao - 2021"
----
-End-to-end trainable deep neural networks have become the state-of-the-art architecture for automatic speech recognition (ASR), provided that the network is trained with a sufficiently large dataset. However, many existing languages are too sparsely resourced for deep learning networks to achieve as high accuracy as their resource-abundant counterparts. Multilingual recognition systems mitigate data sparsity issues by training models on data from multiple language resources to learn Cites: Universal phone recognition with a multilingual allophone system

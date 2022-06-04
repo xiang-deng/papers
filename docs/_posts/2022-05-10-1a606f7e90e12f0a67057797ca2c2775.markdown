@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Knowledge Distillation of Russian Language Models with Reduction of Vocabulary"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "A Kolesnikova, Y Kuratov, V Konovalov, M Burtsev - arXiv preprint arXiv:2205.02340, 2022"
----
-Today, transformer language models serve as a core component for majority of natural language processing tasks. Industrial application of such models requires minimization of computation time and memory footprint. Knowledge distillation is one of approaches to address this goal. Existing methods in this field are mainly focused on reducing the number of layers or dimension of embeddings/hidden representations. Alternative option is to reduce the number of tokens in vocabulary Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

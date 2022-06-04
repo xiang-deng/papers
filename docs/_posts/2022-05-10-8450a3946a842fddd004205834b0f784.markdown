@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Zero-shot Sonnet Generation with Discourse-level Planning and Aesthetics Features"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "Y Tian, N Peng - arXiv preprint arXiv:2205.01821, 2022"
----
-Poetry generation, and creative language generation in general, usually suffers from the lack of large training data. In this paper, we present a novel framework to generate sonnets that does not require training on poems. We design a hierarchical framework which plans the poem sketch before decoding. Specifically, a content planning module is trained on non-poetic texts to obtain discourse-level coherence; then a rhyme module generates rhyme words and a polishing module introduces Cites: COMET: Commonsense transformers for automatic knowledge

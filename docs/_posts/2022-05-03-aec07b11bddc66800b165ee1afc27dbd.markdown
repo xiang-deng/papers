@@ -1,8 +1,0 @@
----
-layout: post
-title:  "LyS_ACoru ~ na at SemEval-2022 Task 10: Repurposing Off-the-Shelf Tools for Sentiment Analysis as Semantic Dependency Parsing"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "I Alonso-Alonso, D Vilares, C Gmez-Rodrguez - arXiv preprint arXiv:2204.12820, 2022"
----
-This paper addressed the problem of structured sentiment analysis using a bi-affine semantic dependency parser, large pre-trained language models, and publicly available translation models. For the monolingual setup, we considered:(i) training on a single treebank, and (ii) relaxing the setup by training on treebanks coming from different languages that can be adequately processed by cross-lingual language models. For the zero-shot setup and a given target treebank, we relied on:(i) a word Cites: Simpler but more accurate semantic dependency parsing

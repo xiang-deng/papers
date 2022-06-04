@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MaskEval: Weighted MLM-Based Evaluation for Text Summarization and Simplification"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "YL Liu, R Bawden, T Scaliom, B Sagot, JCK Cheung - arXiv preprint arXiv …, 2022"
+---
+In text summarization and simplification, system outputs must be evaluated along multiple dimensions such as relevance, factual consistency, fluency, and grammaticality, and a wide range of possible outputs could be of high quality. These properties make the development of an adaptable, reference-less evaluation metric both necessary and challenging. We introduce MaskEval, a reference-less metric for text summarization and simplification that operates by performing masked language … Cites: ‪BARTScore: Evaluating Generated Text as Text Generation‬

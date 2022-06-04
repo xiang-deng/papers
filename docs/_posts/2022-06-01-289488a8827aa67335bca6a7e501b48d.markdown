@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BIM-driven data augmentation method for semantic segmentation in superpoint-based deep learning network"
+date:   2022-06-01 23:51:30 -0400
+categories: jekyll update
+author: "R Zhai, J Zou, Y He, L Meng - Automation in Construction, 2022"
+---
+This paper describes a universal workflow to synthesize point clouds containing both geometry and color information by utilizing the IFC model or its 3D geometry model to automatically generate annotated point clouds for semantic segmentation in deep learning. In our experiments, we selected 44 scenes from the S3DIS dataset to rebuild BIM models and synthesize point clouds, replaced training datasets in different proportions with synthetic point clouds, and fed the mixed datasets to a … Cites: ‪Learning data augmentation strategies for object detection‬

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Three things everyone should know about Vision Transformers"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "H Touvron, M Cord, A El-Nouby, J Verbeek, H Jgou - arXiv preprint arXiv , 2022"
----
-After their initial success in natural language processing, transformer architectures have rapidly gained traction in computer vision, providing state-of-the-art results for tasks such as image classification, detection, segmentation, and video analysis. We offer three insights based on simple and easy to implement variants of vision transformers.(1) The residual layers of vision transformers, which are usually processed sequentially, can to some extent be processed efficiently in parallel Cites: Adapterhub: A framework for adapting transformers

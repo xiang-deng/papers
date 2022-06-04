@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Vector-Quantized Input-Contextualized Soft Prompts for Natural Language Understanding"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "R Bhardwaj, A Saha, SCH Hoi - arXiv preprint arXiv:2205.11024, 2022"
+---
+Prompt Tuning (PT) has been largely successful as a parameter-efficient way of conditioning large-scale pre-trained language models towards a downstream task. More recently, soft prompt tuning has aimed to learn a fixed set of task-specific continuous vectors, ie, soft tokens that remain static across the task samples. However, a fixed prompt may not generalize well to the diverse kinds of inputs the task comprises. With this motivation, we propose a novel way of prompting, Vector … Cites: ‪BERTese: Learning to Speak to BERT‬

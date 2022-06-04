@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Data Imputation for Multivariate Time Series Sensor Data with Large Gaps of Missing Data"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "R Wu, SD Hamshaw, L Yang, DW Kincaid, R Etheridge… - IEEE Sensors Journal, 2022"
+---
+Imputation of missing sensor-collected data is often an important step prior to machine learning and statistical data analysis. One particular data imputation challenge is filling large data gaps when the only related data comes from the same sensor station. In this paper, we propose a framework to improve the popular multivariate imputation by chained equations (MICE) method for dealing with missing data. One key strategy we use to improve model accuracy is to reshape the original … Cites: ‪Recurrent neural networks for multivariate time series with missing …‬

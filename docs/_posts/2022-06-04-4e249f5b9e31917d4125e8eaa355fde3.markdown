@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Radial Basis Function Attention for Named Entity Recognition"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "J Chen, X Xu, X Zhang - Transactions on Asian and Low-Resource Language …, 2022"
+---
+Attention mechanism is an increasingly important approach in the field of natural language processing (NLP). In the attention-based named entity recognition (NER) model, most attention mechanisms can calculate attention coefficient to express the importance of sentence semantic information, but cannot adjust the position distribution of contextual feature vectors in the semantic space. To address this issue, a radial basis function attention (RBF-attention) layer is proposed to adaptively … Cites: ‪Long short-term memory-networks for machine reading‬

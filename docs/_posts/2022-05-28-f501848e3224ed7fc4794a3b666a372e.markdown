@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Meta Policy Learning for Cold-Start Conversational Recommendation"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "Z Chu, H Wang, Y Xiao, B Long, L Wu - arXiv preprint arXiv:2205.11788, 2022"
+---
+Conversational recommender systems (CRS) explicitly solicit users  preferences for improved recommendations on the fly. Most existing CRS solutions employ reinforcement learning methods to train a single policy for a population of users. However, for users new to the system, such a global policy becomes ineffective to produce conversational recommendations, ie, the cold-start challenge. In this paper, we study CRS policy learning for cold-start users via meta reinforcement learning … Cites: ‪Decoupling exploration and exploitation for meta-reinforcement …‬

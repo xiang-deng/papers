@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Lexicon enhanced Chinese named entity recognition with pointer network"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "Q Guo, Y Guo - Neural Computing and Applications, 2022"
----
-In recent time, lexicon-based LSTM and pre-training language models are combined to explore the Chinese Named Entity Recognition (NER) and achieve the current state-of-the-art (SOTA) performance on several Chinese benchmark datasets. However, existing lexicon-based models only conform lexicon features through shallow and randomly initialized coding layers and do not integrate them into the bottom layer of the pre-training language model to mine the deep lexicon knowledge Cites: A structural probe for finding syntax in word representations

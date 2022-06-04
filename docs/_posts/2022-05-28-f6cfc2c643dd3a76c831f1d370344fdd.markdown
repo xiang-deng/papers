@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SafeNet: Mitigating Data Poisoning Attacks on Private Machine Learning"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "H Chaudhari, M Jagielski, A Oprea - arXiv preprint arXiv:2205.09986, 2022"
+---
+Secure multiparty computation (MPC) has been proposed to allow multiple mutually distrustful data owners to jointly train machine learning (ML) models on their combined data. However, the datasets used for training ML models might be under the control of an adversary mounting a data poisoning attack, and MPC prevents inspecting training sets to detect poisoning. We show that multiple MPC frameworks for private ML training are susceptible to backdoor and targeted poisoning attacks … Cites: ‪Stronger data poisoning attacks break data sanitization defenses‬

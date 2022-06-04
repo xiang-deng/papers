@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Distinguishing between fake news and satire with transformers"
-date:   2021-09-16 19:19:30 -0400
-categories: jekyll update
-author: "JF Low, BCM Fung, F Iqbal, SC Huang - Expert Systems with Applications, 2021"
----
-Indiscriminate elimination of harmful fake news risks destroying satirical news, which can be benign or even beneficial, because both types of news share highly similar textual cues. In this work we applied a recent development in neural network architecture, transformers, to the task of separating satirical news from fake news. Transformers have hitherto not been applied to this specific problem. Our evaluation results on a publicly available and carefully curated dataset show that the Cites: Bert: Pre-training of deep bidirectional transformers for language

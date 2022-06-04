@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Maximal activation weighted memory for aspect based sentiment analysis"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "R Mokhosi, C Shikali, Z Qin, Q Liu - Computer Speech & Language, 2022"
----
-The vast diffusion of social networks has made an unprecedented amount of user- generated data available, increasing the importance of Aspect Based Sentiment Analysis (ABSA) when extracting sentiment polarity. Although recent research efforts favour the use of self attention networks to solve the ABSA task, they still face difficulty in extracting long distance relations between non-adjacent words, especially when a sentence has more than one aspect. We propose the BERT-MAM Cites: Aspect level sentiment classification with deep memory network

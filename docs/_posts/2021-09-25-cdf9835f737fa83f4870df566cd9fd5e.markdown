@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Slot Filling for Biomedical Information Extraction"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "Y Papanikolaou, F Bennett - arXiv preprint arXiv:2109.08564, 2021"
----
-Information Extraction (IE) from text refers to the task of extracting structured knowledge from unstructured text. The task typically consists of a series of sub-tasks such as Named Entity Recognition and Relation Extraction. Sourcing entity and relation type specific training data is a major bottleneck in the above sub-tasks. In this work we present a slot filling approach to the task of biomedical IE, effectively replacing the need for entity and relation-specific training data, allowing to deal with Cites: Zero-shot relation extraction via reading comprehension

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "X Liu, Y Wang, S Xie, X Zhang, Z Ma, D McDuff, S Patel - arXiv preprint arXiv , 2022"
----
-Camera-based contactless photoplethysmography refers to a set of popular techniques for contactless physiological measurement. The current state-of-the-art neural models are typically trained in a supervised manner using videos accompanied by gold standard physiological measurements. However, they often generalize poorly out-of-domain examples (ie, videos that are unlike those in the training set). Personalizing models can help improve model generalizability, but Cites: Generalized inner loop meta-learning

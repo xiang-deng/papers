@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Fine-tuning Image Transformers using Learnable Memory"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "M Sandler, A Zhmoginov, M Vladymyrov, A Jackson - arXiv preprint arXiv:2203.15243, 2022"
----
-In this paper we propose augmenting Vision Transformer models with learnable memory tokens. Our approach allows the model to adapt to new tasks, using few parameters, while optionally preserving its capabilities on previously learned tasks. At each layer we introduce a set of learnable embedding vectors that provide contextual information useful for specific datasets. We call these  memory tokens . We show that augmenting a model with just a handful of such tokens per layer Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

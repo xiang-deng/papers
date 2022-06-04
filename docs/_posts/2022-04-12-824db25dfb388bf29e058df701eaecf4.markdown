@@ -1,8 +1,0 @@
----
-layout: post
-title:  "C3KG: A Chinese Commonsense Conversation Knowledge Graph"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "D Li, Y Li, J Zhang, K Li, C Wei, J Cui, B Wang - arXiv preprint arXiv:2204.02549, 2022"
----
-Existing commonsense knowledge bases often organize tuples in an isolated manner, which is deficient for commonsense conversational models to plan the next steps. To fill the gap, we curate a large-scale multi-turn human-written conversation corpus, and create the first Chinese commonsense conversation knowledge graph which incorporates both social commonsense knowledge and dialog flow information. To show the potential of our graph, we develop a graph-conversation Cites: Comet-atomic 2020: On symbolic and neural commonsense

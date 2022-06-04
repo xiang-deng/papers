@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Perturbation Augmentation for Fairer NLP"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "R Qian, C Ross, J Fernandes, E Smith, D Kiela… - arXiv preprint arXiv …, 2022"
+---
+Unwanted and often harmful social biases are becoming ever more salient in NLP research, affecting both models and datasets. In this work, we ask: does training on demographically perturbed data lead to more fair language models? We collect a large dataset of human annotated text perturbations and train an automatic perturber on it, which we show to outperform heuristic alternatives. We find:(i) Language models (LMs) pre-trained on demographically perturbed corpora are more fair, at … Cites: ‪Tailor: Generating and Perturbing Text with Semantic Controls‬

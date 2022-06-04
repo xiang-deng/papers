@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Can Pre-trained Language Models Interpret Similes as Smart as Human?"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "Q He, S Cheng, Z Li, R Xie, Y Xiao - arXiv preprint arXiv:2203.08452, 2022"
----
-Simile interpretation is a crucial task in natural language processing. Nowadays, pre- trained language models (PLMs) have achieved state-of-the-art performance on many tasks. However, it remains under-explored whether PLMs can interpret similes or not. In this paper, we investigate the ability of PLMs in simile interpretation by designing a novel task named Simile Property Probing, ie, to let the PLMs infer the shared properties of similes. We construct our simile property probing datasets from Cites: It s not Rocket Science: Interpreting Figurative Language in

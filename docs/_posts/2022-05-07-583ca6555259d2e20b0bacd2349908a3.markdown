@@ -1,8 +1,0 @@
----
-layout: post
-title:  "NEURAL MUSIC INSTRUMENT CLONING FROM FEW SAMPLES"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "N Jonason, BLT Sturm - 2022"
----
-Neural music instrument cloning is an application of deep neural networks for imitating the timbre of a particular music instrument recording. One can create such clones using an approach such as DDSP [1], which has been shown to achieve good synthesis quality for several instrument types [2]. However, this approach needs about ten minutes of audio data from the instrument of interest (target recording audio). In this work, we modify the DDSP architecture and apply transfer learning Cites: Towards realistic midi instrument synthesizers

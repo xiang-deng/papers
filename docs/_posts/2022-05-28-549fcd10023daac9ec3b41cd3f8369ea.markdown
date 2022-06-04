@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Decoder Denoising Pretraining for Semantic Segmentation"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "EB Asiedu, S Kornblith, T Chen, N Parmar, M Minderer… - arXiv preprint arXiv …, 2022"
+---
+Semantic segmentation labels are expensive and time consuming to acquire. Hence, pretraining is commonly used to improve the label-efficiency of segmentation models. Typically, the encoder of a segmentation model is pretrained as a classifier and the decoder is randomly initialized. Here, we argue that random initialization of the decoder can be suboptimal, especially when few labeled examples are available. We propose a decoder pretraining approach based on denoising, which … Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬

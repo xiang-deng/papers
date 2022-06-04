@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Active Labeling: Streaming Stochastic Gradients"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "V Cabannes, F Bach, V Perchet, A Rudi - arXiv preprint arXiv:2205.13255, 2022"
+---
+The workhorse of machine learning is stochastic gradient descent. To access stochastic gradients, it is common to consider iteratively input/output pairs of a training dataset. Interestingly, it appears that one does not need full supervision to access stochastic gradients, which is the main motivation of this paper. After formalizing the  active labeling  problem, which generalizes active learning based on partial supervision, we provide a streaming technique that provably minimizes the … Cites: ‪Crowdsourcing systems on the world-wide web‬

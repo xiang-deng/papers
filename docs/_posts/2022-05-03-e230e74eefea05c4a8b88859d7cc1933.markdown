@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Adapter Based Fine-Tuning of Pre-Trained Multilingual Language Models for Code-Mixed and Code-Switched Text Classification"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "H Rathnayake, J Sumanapala, R Rukshani - 2022"
----
-Code-mixing and code-switching (CMCS) are frequent features in online conversations. Classification of such text is challenging if one of the languages is low- resourced. Fine-tuning pre-trained multilingual language models (PMLMs) is a promising avenue for code-mixed text classification. In this paper, we explore adapter-based fine-tuning of PMLMs for CMCS text classification. We introduce sequential and parallel stacking of adapters, continuous fine-tuning of adapters, and Cites: Efficient Test Time Adapter Ensembling for Low-resource

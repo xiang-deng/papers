@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Active Programming by Example with a Natural Language Prior"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "R Zhong, C Snell, D Klein, J Eisner - arXiv preprint arXiv:2205.12422, 2022"
+---
+We introduce APEL, a new framework that enables non-programmers to indirectly annotate natural language utterances with executable meaning representations, such as SQL programs. Based on a natural language utterance, we first run a seed semantic parser to generate a prior over a list of candidate programs. To obtain information about which candidate is correct, we synthesize an input on which the more likely programs tend to produce different outputs, and ask an annotator which … Cites: ‪Constructing Expressive Relational Queries with Dual …‬

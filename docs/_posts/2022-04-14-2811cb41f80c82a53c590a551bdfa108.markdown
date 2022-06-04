@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Adaptive weight assignment scheme for multi-task learning"
-date:   2022-04-14 01:14:43 -0400
-categories: jekyll update
-author: "A Huq, MT Pervin - IAES International Journal of Artificial Intelligence, 2022"
----
-Deep learning based models are used regularly in every applications nowadays. Generally we train a single model on a single task. However, we can train multiple tasks on a single model under multi-task learning (MTL) settings. This provides us many benefits like lesser training time, training a single model for multiple tasks, reducing overfitting, and improving performances. To train a model in multi-task learning settings we need to sum the loss values from different tasks. In vanilla multi Cites: Squad: 100,000+ questions for machine comprehension of text

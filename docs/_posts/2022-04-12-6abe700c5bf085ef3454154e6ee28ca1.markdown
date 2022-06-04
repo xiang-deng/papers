@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Position-based Prompting for Health Outcome Generation"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "M Abaho, D Bollegala, P Williamson, S Dodd - arXiv preprint arXiv:2204.03489, 2022"
----
-Probing Pre-trained Language Models (PLMs) using prompts has indirectly implied that language models (LMs) can be treated as knowledge bases. To this end, this phenomena has been effective especially when these LMs are fine-tuned towards not just data of a specific domain, but also to the style or linguistic pattern of the prompts themselves. We observe that, satisfying a particular linguistic pattern in prompts is an unsustainable constraint that unnecessarily lengthens the probing Cites: Language models as knowledge bases?

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Local Byte Fusion for Neural Machine Translation"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "MN Sreedhar, X Wan, Y Cheng, J Hu - arXiv preprint arXiv:2205.11490, 2022"
+---
+Subword tokenization schemes are the dominant technique used in current NLP models. However, such schemes can be rigid and tokenizers built on one corpus do not adapt well to other parallel corpora. It has also been observed that in multilingual corpora, subword tokenization schemes over-segment low-resource languages leading to a drop in translation performance. A simple alternative to subword tokenizers is byte-based methods ie tokenization into byte sequences using … Cites: ‪Byte Pair Encoding is Suboptimal for Language Model Pretraining‬

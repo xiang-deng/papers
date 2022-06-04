@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Evaluating Domain Generalization for Survival Analysis in Clinical Studies"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "F Pfisterer, C Harbron, G Jansen, T Xu - Conference on Health, Inference, and , 2022"
----
-Abstract Machine learning models are often required to generalize to new populations (domains) unseen during training, which may lead to model underperformance. So far, most research has focused on Domain Generalization methods for image classification tasks, which address the problem by learning domain invariant predictors. In this study, we assess the efficacy of domain generalization methods in survival analysis. The goal is to predict time-to-events Cites: Distributionally robust neural networks for group shifts: On the

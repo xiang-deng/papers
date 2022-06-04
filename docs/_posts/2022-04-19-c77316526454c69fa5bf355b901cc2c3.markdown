@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Multi-attention mutual information distributed framework for few-shot learning"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "Z Wang, P Ma, Z Chi, D Li, H Yang, W Du - Expert Systems with Applications, 2022"
----
-The purpose of few-shot learning is to learn a classifier, even if only a limited number of samples are used, a good generalization effect can be achieved. Recently, many methods based on meta-learning learn a large number of multi-classification tasks to train a general classifier to solve this problem. Methods based on metric learning use the distance relationship between labeled samples and unlabeled samples for classification. These methods all have good performance. However, these methods Cites: Learning with Local and Global Consistency.

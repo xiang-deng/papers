@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Revisiting the Effects of Leakage on Dependency Parsing"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "N Krasner, M Wanner, A Anastasopoulos - arXiv preprint arXiv:2203.12815, 2022"
----
-Recent work by S { o} gaard (2020) showed that, treebank size aside, overlap between training and test graphs (termed leakage) explains more of the observed variation in dependency parsing performance than other explanations. In this work we revisit this claim, testing it on more models and languages. We find that it only holds for zero-shot cross-lingual settings. We then propose a more fine-grained measure of such leakage which, unlike the original measure, not only explains but Cites: Universal dependencies

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "I Sen, M Samory, C Wagner, I Augenstein - arXiv preprint arXiv:2205.04238, 2022"
----
-Counterfactually Augmented Data (CAD) aims to improve out-of-domain generalizability, an indicator of model robustness. The improvement is credited with promoting core features of the construct over spurious artifacts that happen to correlate with it. Yet, over-relying on core features may lead to unintended model bias. Especially, construct-driven CAD--perturbations of core features--may induce models to ignore the context in which core features are used. Here, we test models Cites: Polyjuice: Generating counterfactuals for explaining, evaluating

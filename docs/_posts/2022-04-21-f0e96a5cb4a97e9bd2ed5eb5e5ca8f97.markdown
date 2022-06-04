@@ -1,8 +1,0 @@
----
-layout: post
-title:  "FLAG: Towards Graph Query Autocompletion for Large Graphs"
-date:   2022-04-21 03:59:43 -0400
-categories: jekyll update
-author: "P Yi, J Li, B Choi, SS Bhowmick, J Xu - Data Science and Engineering, 2022"
----
-Graph query autocompletion (GQAC) takes a user s graph query as input and generates top-k query suggestions as output, to help alleviate the verbose and error- prone graph query formulation process in a visual interface. To compose a target query with GQAC, the user may iteratively adopt suggestions or manually add edges to augment the existing query. The current state-of-the-art of GQAC, however, focuses on a large collection of small-or medium-sized graphs only. The subgraph Cites: Enabling Schema-Free XQuery with meaningful query focus

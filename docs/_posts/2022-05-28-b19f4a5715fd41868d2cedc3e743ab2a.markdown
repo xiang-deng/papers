@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Many-Class Text Classification with Matching"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "Y Song, Y Gu, M Huang - arXiv preprint arXiv:2205.11409, 2022"
+---
+In this work, we formulate\textbf {T} ext\textbf {C} lassification as a\textbf {M} atching problem between the text and the labels, and propose a simple yet effective framework named TCM. Compared with previous text classification approaches, TCM takes advantage of the fine-grained semantic information of the classification labels, which helps distinguish each class better when the class number is large, especially in low-resource scenarios. TCM is also easy to implement and is … Cites: ‪PPT: Pre-trained Prompt Tuning for Few-shot Learning‬

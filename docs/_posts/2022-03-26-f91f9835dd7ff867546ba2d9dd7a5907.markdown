@@ -1,8 +1,0 @@
----
-layout: post
-title:  "HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "Y Qiao, Y Qi, Y Hong, Z Yu, P Wang, Q Wu - arXiv preprint arXiv:2203.11591, 2022"
----
-Pre-training has been adopted in a few of recent works for Vision-and-Language Navigation (VLN). However, previous pre-training methods for VLN either lack the ability to predict future actions or ignore the trajectory contexts, which are essential for a greedy navigation process. In this work, to promote the learning of spatio- temporal visual-textual correspondence as well as the agent s capability of decision making, we propose a novel history-and-order aware pre-training paradigm (HOP) Cites: Oscar: Object-semantics aligned pre-training for vision-language

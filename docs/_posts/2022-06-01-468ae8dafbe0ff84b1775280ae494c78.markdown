@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Wire Point Cloud Instance Segmentation from RGBD Imagery with Mask R-CNN"
+date:   2022-06-01 23:51:30 -0400
+categories: jekyll update
+author: "H Dinkel, J Xiang, H Zhao, B Coltin, T Smith, T Bretl"
+---
+Perception of the shapes of deforming objects like wires enables their monitoring and manipulation by autonomous robots. This paper presents detection, classification, and instance segmentation of deformable wires from a cluttered scene in RGBD imagery. This work uses the Detectron2 implementation of Mask R-CNN trained with the PointRend mask head on the UIUCWires dataset as the framework for wire instance segmentation on RGB imagery, a method demonstrated to perform … Cites: ‪Simple copy-paste is a strong data augmentation method for …‬

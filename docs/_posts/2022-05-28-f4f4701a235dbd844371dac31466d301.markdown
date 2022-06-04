@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Why GANs are overkill for NLP"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "D Alvarez-Melis, V Garg, AT Kalai - arXiv preprint arXiv:2205.09838, 2022"
+---
+This work offers a novel theoretical perspective on why, despite numerous attempts, adversarial approaches to generative modeling (eg, GANs) have not been as popular for certain generation tasks, particularly sequential tasks such as Natural Language Generation, as they have in others, such as Computer Vision. In particular, on sequential data such as text, maximum-likelihood approaches are significantly more utilized than GANs. We show that, while it may seem that maximizing likelihood … Cites: ‪Palm: Scaling language modeling with pathways‬

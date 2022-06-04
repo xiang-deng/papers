@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Improving Neural Machine Translation by Transferring Knowledge from Syntactic Constituent Alignment Learning"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "C Su, H Huang, S Shi, P Jian - Transactions on Asian and Low-Resource Language , 2022"
----
-Statistical machine translation (SMT) models rely on word-, phrase-, and syntax-level alignments. But neural machine translation (NMT) models rarely explicitly learn the phrase-and syntax-level alignments. In this paper, we propose to improve NMT by explicitly learning the bilingual syntactic constituent alignments. Specifically, we first utilize syntactic parsers to induce syntactic structures of sentences, and then propose two ways to utilize the syntactic constituents in a perceptual (not adversarial) Cites: Towards neural phrase-based machine translation

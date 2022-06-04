@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Efficient Semantic Segmentation via Self-Attention and Self-Distillation"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "S An, Q Liao, Z Lu, JH Xue - IEEE Transactions on Intelligent Transportation , 2022"
----
-Lightweight models are pivotal in efficient semantic segmentation, but they often suffer from insufficient context information due to limited convolution and small receptive field. To address this problem, we propose a tailored approach to efficient semantic segmentation by leveraging two complementary distillation schemes for supplementing context information to small networks: 1) a self-attention distillation scheme, which transfers long-range context knowledge adaptively from large teacher Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

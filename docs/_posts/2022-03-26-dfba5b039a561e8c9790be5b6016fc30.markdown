@@ -1,8 +1,0 @@
----
-layout: post
-title:  "FrameHopper: Selective Processing of Video Frames in Detection-driven Real-Time Video Analytics"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "MA Arefeen, ST Nimi, MYS Uddin - arXiv preprint arXiv:2203.11493, 2022"
----
-Detection-driven real-time video analytics require continuous detection of objects contained in the video frames using deep learning models like YOLOV3, EfficientDet. However, running these detectors on each and every frame in resource-constrained edge devices is computationally intensive. By taking the temporal correlation between consecutive video frames into account, we note that detection outputs tend to be overlapping in successive frames. Elimination of similar consecutive frames will Cites: Miris: Fast object track queries in video

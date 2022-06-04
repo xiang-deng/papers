@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Debiased-CAM to mitigate image perturbations with faithful visual explanations of machine learning"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "W Zhang, M Dimiccoli, BY Lim - CHI Conference on Human Factors in Computing , 2022"
----
-Model explanations such as saliency maps can improve user trust in AI by highlighting important features for a prediction. However, these become distorted and misleading when explaining predictions of images that are subject to systematic error (bias) by perturbations and corruptions. Furthermore, the distortions persist despite model fine-tuning on images biased by different factors (blur, color temperature, day/night). We present Debiased-CAM to recover explanation Cites: Does the whole exceed its parts? the effect of ai explanations on

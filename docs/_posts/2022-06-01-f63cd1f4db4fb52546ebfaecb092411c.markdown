@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Commonsense Reasoning in Interpersonal Conflict"
+date:   2022-06-01 23:51:30 -0400
+categories: jekyll update
+author: "Z Cao - 2022"
+---
+We propose to use the subreddit named r/AITA as the corpus for studying social commonsense reasoning. Compared to existing popular corpora, it contains social situations with more complex structures. We show that current NLP systems have worse performance on the subset of the corpus where humans have a lower agreement. We show that, across different subsets, RoBERTa outperforms BERT. Intermediate task finetuning only produces similar performance on the subsets with a … Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬

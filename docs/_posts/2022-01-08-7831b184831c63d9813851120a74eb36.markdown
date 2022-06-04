@@ -1,8 +1,0 @@
----
-layout: post
-title:  "An Object Detection Framework for Span Extraction in Question Answering"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "T Zhou, P Gong - 2021 7th IEEE International Conference on Network , 2021"
----
-Machine Reading Comprehension (MRC), including a series of tasks that test the ability of models to understand natural language, has received quite a few attention in Natural Language Processing (NLP). Most existing works deal with MRC tasks by exploiting the expression capability of neural networks. Some of them have achieved impressive performance. Despite the rapid iteration of the models used, few work have focused on output layer and prediction method of answer span-also known as Cites: Bidirectional Attention Flow for Machine Comprehension

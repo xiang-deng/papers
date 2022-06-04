@@ -1,8 +1,0 @@
----
-layout: post
-title:  "ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "T Hartvigsen, S Gabriel, H Palangi, M Sap, D Ray - arXiv preprint arXiv , 2022"
----
-Toxic language detection systems often falsely flag text that contains minority group mentions as toxic, as those groups are often the targets of online hate. Such over- reliance on spurious correlations also causes systems to struggle with detecting implicitly toxic language. To help mitigate these issues, we create ToxiGen, a new large-scale and machine-generated dataset of 274k toxic and benign statements about 13 minority groups. We develop a demonstration-based prompting framework Cites: Natural instructions: Benchmarking generalization to new tasks

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ZusammenQA: Data Augmentation with Specialized Models for Cross-lingual Open-retrieval Question Answering System"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "CC Hung, T Green, R Litschko, T Tsereteli, S Takeshita… - arXiv preprint arXiv …, 2022"
+---
+This paper introduces our proposed system for the MIA Shared Task on Cross-lingual Open-retrieval Question Answering (COQA). In this challenging scenario, given an input question the system has to gather evidence documents from a multilingual pool and generate from them an answer in the language of the question. We devised several approaches combining different model variants for three main components: Data Augmentation, Passage Retrieval, and Answer Generation. For … Cites: ‪Retrieval-augmented generation for knowledge-intensive nlp tasks‬

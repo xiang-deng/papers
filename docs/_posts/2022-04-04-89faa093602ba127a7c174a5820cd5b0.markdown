@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "H Wang, W Liang, J Shen, L Van Gool, W Wang - arXiv preprint arXiv:2203.16586, 2022"
----
-Since the rise of vision-language navigation (VLN), great progress has been made in instruction following--building a follower to navigate environments under the guidance of instructions. However, far less attention has been paid to the inverse task: instruction generation--learning a speaker~ to generate grounded descriptions for navigation routes. Existing VLN methods train a speaker independently and often treat it as a data augmentation tool to strengthen the follower while ignoring rich Cites: Question answering and question generation as dual tasks

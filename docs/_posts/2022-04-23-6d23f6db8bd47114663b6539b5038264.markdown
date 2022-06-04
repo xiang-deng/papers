@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Fairly Accurate: Learning Optimal Accuracy vs. Fairness Tradeoffs for Hate Speech Detection"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "V Kovatchev, S Gupta, M Lease - arXiv preprint arXiv:2204.07661, 2022"
----
-Recent work has emphasized the importance of balancing competing objectives in model training (eg, accuracy vs. fairness, or competing measures of fairness). Such trade-offs reflect a broader class of multi-objective optimization (MOO) problems in which optimization methods seek Pareto optimal trade-offs between competing goals. In this work, we first introduce a differentiable measure that enables direct optimization of group fairness (specifically, balancing accuracy across groups) in Cites: The risk of racial bias in hate speech detection

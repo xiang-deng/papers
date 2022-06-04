@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Evaluation of taxonomic and neural embedding methods for calculating semantic similarity"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "D Yang, Y Yin - Natural Language Engineering, 2021"
----
-Modelling semantic similarity plays a fundamental role in lexical semantic applications. A natural way of calculating semantic similarity is to access handcrafted semantic networks, but similarity prediction can also be anticipated in a distributional vector space. Similarity calculation continues to be a challenging task, even with the latest breakthroughs in deep neural language models. We first examined popular methodologies in measuring taxonomic similarity, including edge-counting that Cites: Dissecting contextual word embeddings: Architecture and

@@ -1,8 +1,0 @@
----
-layout: post
-title:  ": Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition"
-date:   2022-04-28 04:54:27 -0400
-categories: jekyll update
-author: "X Wang, J Tian, M Gui, Z Li, J Ye, M Yan, Y Xiao - International Conference on , 2022"
----
-Multimodal named entity recognition (MNER) is an emerging task that incorporates visual and textual inputs to detect named entities and predicts their corresponding entity types. However, existing MNER methods often fail to capture certain entity- related but text-loosely-related visual clues from the image, which may introduce task- irrelevant noises or even errors. To address this problem, we propose to utilize entity- related prompts for extracting proper visual clues with a pre-trained vision-language Cites: Pre-train, prompt, and predict: A systematic survey of prompting

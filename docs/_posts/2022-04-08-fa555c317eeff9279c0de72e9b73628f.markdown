@@ -1,8 +1,0 @@
----
-layout: post
-title:  "MaxViT: Multi-Axis Vision Transformer"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "Z Tu, H Talebi, H Zhang, F Yang, P Milanfar, A Bovik - arXiv preprint arXiv , 2022"
----
-Transformers have recently gained significant attention in the computer vision community. However, the lack of scalability of self-attention mechanisms with respect to image size has limited their wide adoption in state-of-the-art vision backbones. In this paper we introduce an efficient and scalable attention model we call multi-axis attention, which consists of two aspects: blocked local and dilated global attention. These design choices allow global-local spatial interactions on arbitrary input Cites: Auto-scaling Vision Transformers without Training

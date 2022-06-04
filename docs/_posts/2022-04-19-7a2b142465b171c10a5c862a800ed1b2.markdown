@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Can Visual Dialogue Models Do Scorekeeping? Exploring How Dialogue Representations Incrementally Encode Shared Knowledge"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "B Madureira, D Schlangen - arXiv preprint arXiv:2204.06970, 2022"
----
-Cognitively plausible visual dialogue models should keep a mental scoreboard of shared established facts in the dialogue context. We propose a theory-based evaluation method for investigating to what degree models pretrained on the VisDial dataset incrementally build representations that appropriately do scorekeeping. Our conclusion is that the ability to make the distinction between shared and privately known statements along the dialogue is moderately present in the analysed models Cites: Are red roses red? evaluating consistency of question-answering

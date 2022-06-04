@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Nearest Neighbor Zero-Shot Inference"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "W Shi, J Michael, S Gururangan, L Zettlemoyer - arXiv preprint arXiv:2205.13792, 2022"
+---
+We introduce kNN-Prompt, a simple and effective technique to use k-nearest neighbor (kNN) retrieval augmentation (Khandelwal et al., 2021) for zero-shot inference with language models (LMs). Key to our approach is the introduction of fuzzy verbalizers which leverage the sparse kNN distribution for downstream tasks by automatically associating each classification label with a set of natural language tokens. Across eleven diverse end-tasks (spanning text classification, fact retrieval … Cites: ‪Efficient Nearest Neighbor Language Models‬

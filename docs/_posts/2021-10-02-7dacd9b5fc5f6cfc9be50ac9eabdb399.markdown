@@ -1,8 +1,0 @@
----
-layout: post
-title:  "XLM-K: Improving Cross-Lingual Language Model Pre-Training with Multilingual Knowledge"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "X Jiang, Y Liang, W Chen, N Duan - arXiv preprint arXiv:2109.12573, 2021"
----
-Cross-lingual pre-training has achieved great successes using monolingual and bilingual plain text corpora. However, existing pre-trained models neglect multilingual knowledge, which is language agnostic but comprises abundant cross- lingual structure alignment. In this paper, we propose XLM-K, a cross-lingual language model incorporating multilingual knowledge in pre-training. XLM-K augments existing multilingual pre-training with two knowledge tasks, namely Cites: Entities as experts: Sparse memory access with entity supervision

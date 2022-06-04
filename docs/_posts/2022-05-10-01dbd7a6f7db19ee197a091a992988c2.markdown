@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Hierarchical semantic-aware neural code representation"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "Y Jiang, X Su, C Treude, T Wang - Journal of Systems and Software, 2022"
----
-Code representation is a fundamental problem in many software engineering tasks. Despite the effort made by many researchers, it is still hard for existing methods to fully extract syntactic, structural and sequential features of source code, which form the hierarchical semantics of the program and are necessary to achieve a deeper code understanding. To alleviate this difficulty, we propose a new supervised approach based on the novel use of Tree-LSTM to incorporate the sequential and Cites: Graphcodebert: Pre-training code representations with data flow

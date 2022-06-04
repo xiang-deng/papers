@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Data Determines Distributional Robustness in Contrastive Language Image Pre-training (CLIP)"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "A Fang, G Ilharco, M Wortsman, Y Wan, V Shankar - arXiv preprint arXiv , 2022"
----
-Contrastively trained image-text models such as CLIP, ALIGN, and BASIC have demonstrated unprecedented robustness to multiple challenging natural distribution shifts. Since these image-text models differ from previous training approaches in several ways, an important question is what causes the large robustness gains. We answer this question via a systematic experimental investigation. Concretely, we study five different possible causes for the robustness gains:(i) the training set Cites: Accuracy on the line: on the strong correlation between out-of

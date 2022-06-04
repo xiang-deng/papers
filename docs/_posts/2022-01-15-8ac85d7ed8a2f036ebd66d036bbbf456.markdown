@@ -1,8 +1,0 @@
----
-layout: post
-title:  "The lmu munich systems for the wmt21 unsupervised and very low-resource translation task"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "J Libovick, A Fraser - Proceedings of the Sixth Conference on Machine , 2021"
----
-We present our submissions to the WMT21 shared task in Unsupervised and Very Low Resource machine translation between German and Upper Sorbian, German and Lower Sorbian, and Russian and Chuvash. Our low-resource systems (German Upper Sorbian, Russian Chuvash) are pre-trained on high-resource pairs of related languages. We fine-tune those systems using the available authentic parallel data and improve by iterated back-translation. The unsupervised German Cites: Unsupervised neural machine translation

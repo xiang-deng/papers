@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Bridging Cross-Lingual Gaps During Leveraging the Multilingual Sequence-to-Sequence Pretraining for Text Generation"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "C Zan, L Ding, L Shen, Y Cao, W Liu, D Tao - arXiv preprint arXiv:2204.07834, 2022"
----
-For multilingual sequence-to-sequence pretrained language models (multilingual Seq2Seq PLMs), eg mBART, the self-supervised pretraining task is trained on a wide range of monolingual languages, eg 25 languages from commoncrawl, while the downstream cross-lingual tasks generally progress on a bilingual language subset, eg English-German, making there exists the cross-lingual data discrepancy, namely textit {domain discrepancy}, and cross-lingual learning objective Cites: Mixout: Effective regularization to finetune large-scale pretrained

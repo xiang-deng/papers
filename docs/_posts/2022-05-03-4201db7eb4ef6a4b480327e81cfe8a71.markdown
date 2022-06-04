@@ -1,8 +1,0 @@
----
-layout: post
-title:  "An Adapter Based Pre-Training for Efficient and Scalable Self-Supervised Speech Representation Learning"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "S Kessler, B Thomas, S Karout - ICASSP 2022-2022 IEEE International Conference , 2022"
----
-We present a method for transferring pre-trained self-supervised (SSL) speech representations to multiple languages. There is an abundance of unannotated speech, so creating self-supervised representations from raw audio and fine-tuning on small annotated datasets is a promising direction to build speech recognition systems. SSL models generally perform SSL on raw audio in a pre-training phase and then fine-tune on a small fraction of annotated data. Such models have Cites: AdapterFusion: Non-destructive task composition for transfer learning

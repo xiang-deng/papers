@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CORAL: Contextual Response Retrievability Loss Function for Training Dialog Generation Models"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "B Santra, R Ghadia, A Dwivedi, M Gupta, P Goyal - arXiv preprint arXiv:2205.10558, 2022"
+---
+Natural Language Generation (NLG) represents a large collection of tasks in the field of NLP. While many of these tasks have been tackled well by the cross-entropy (CE) loss, the task of dialog generation poses a few unique challenges for this loss function. First, CE loss assumes that for any given input, the only possible output is the one available as the ground truth in the training dataset. In general, this is not true for any task, as there can be multiple semantically equivalent sentences, each … Cites: ‪MultiTalk: A Highly-Branching Dialog Testbed for Diverse …‬

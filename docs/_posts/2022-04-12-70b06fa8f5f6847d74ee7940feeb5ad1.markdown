@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Modeling Label Correlations for Second-Order Semantic Dependency Parsing with Mean-Field Inference"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "S Yang, K Tu - arXiv preprint arXiv:2204.03619, 2022"
----
-Second-order semantic parsing with end-to-end mean-field inference has been shown good performance. In this work we aim to improve this method by modeling label correlations between adjacent arcs. However, direct modeling leads to memory explosion because second-order score tensors have sizes of $ O (n^ 3L^ 2) $($ n $ is the sentence length and $ L $ is the number of labels), which is not affordable. To tackle this computational challenge, we leverage tensor decomposition techniques Cites: A Joint Model for Entity Analysis: Coreference, Typing, and Linking

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Joint learning of object graph and relation graph for visual question answering"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "H Li, X Li, B Karimi, J Chen, M Sun - arXiv preprint arXiv:2205.04188, 2022"
----
-Modeling visual question answering (VQA) through scene graphs can significantly improve the reasoning accuracy and interpretability. However, existing models answer poorly for complex reasoning questions with attributes or relations, which causes false attribute selection or missing relation in Figure 1 (a). It is because these models cannot balance all kinds of information in scene graphs, neglecting relation and attribute information. In this paper, we introduce a novel Dual Message-passing Cites: Learning by abstraction: The neural state machine

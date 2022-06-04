@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Visual Prompt Tuning"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "M Jia, L Tang, BC Chen, C Cardie, S Belongie - arXiv preprint arXiv , 2022"
----
-The current modus operandi in adapting pre-trained models involves updating all the backbone parameters, ie, full fine-tuning. This paper introduces Visual Prompt Tuning (VPT) as an efficient and effective alternative to full fine-tuning for large-scale Transformer models in vision. Taking inspiration from recent advances in efficiently tuning large language models, VPT introduces only a small amount (less than 1% of model parameters) of trainable parameters in the input space while keeping the Cites: AdapterFusion: Non-destructive task composition for transfer learning

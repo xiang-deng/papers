@@ -1,8 +1,0 @@
----
-layout: post
-title:  "The Impact of Cross-Lingual Adjustment of Contextual Word Representations on Zero-Shot Transfer"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "P Efimov, L Boytsov, E Arslanova, P Braslavski - arXiv preprint arXiv:2204.06457, 2022"
----
-Large pre-trained multilingual models such as mBERT and XLM-R enabled effective cross-lingual zero-shot transfer in many NLP tasks. A cross-lingual adjustment of these models using a small parallel corpus can potentially further improve results. This is a more data efficient method compared to training a machine-translation system or a multi-lingual model from scratch using only parallel data. In this study, we experiment with zero-shot transfer of English models to four typologically different Cites: MLQA: Evaluating cross-lingual extractive question answering

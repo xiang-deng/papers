@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "B Li, J Jin, H Zhong, JE Hopcroft, L Wang - arXiv preprint arXiv:2205.13863, 2022"
+---
+It is well-known that modern neural networks are vulnerable to adversarial examples. To mitigate this problem, a series of robust learning algorithms have been proposed. However, although the robust training error can be near zero via some methods, all existing algorithms lead to a high robust generalization error. In this paper, we provide a theoretical understanding of this puzzling phenomenon from the perspective of expressive power for deep neural networks. Specifically, for binary … Cites: ‪Adversarial training can hurt generalization‬

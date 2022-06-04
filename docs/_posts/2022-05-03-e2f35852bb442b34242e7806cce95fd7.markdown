@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Transformer-based map-matching model with limited labeled data using transfer-learning approach"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "Z Jin, J Kim, H Yeo, S Choi - Transportation Research Part C: Emerging , 2022"
----
-In many spatial trajectory-based applications, it is necessary to map raw trajectory data points onto road networks in digital maps, which is commonly referred to as a map-matching process. While most previous map-matching methods have focused on using rule-based algorithms to deal with the map-matching problems, in this paper, we consider the map-matching task from the data-driven perspective, proposing a deep learning-based map-matching model. We build a Transformer Cites: Ctrl: A conditional transformer language model for controllable

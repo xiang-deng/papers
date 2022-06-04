@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Fairness-Aware Selective Sampling on Attributed Graphs"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "OD Kose, Y Shen - ICASSP 2022-2022 IEEE International Conference on , 2022"
----
-Selective sampling is an online learning framework where the learner tries to detect the data samples whose labels can boost the performance maximally, and only the labels of chosen data samples are queried. While the design of selective sampling algorithms is extensively studied for independent data samples, the area is rather under-explored in the context of graphs. Furthermore, the limited number of existing graph-based approaches do not take into consideration the nodal attributes that are Cites: Learning with Local and Global Consistency.

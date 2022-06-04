@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Hyperspectral Image Classification with Imbalanced Data Based on Semi-Supervised Learning"
-date:   2022-04-21 03:59:43 -0400
-categories: jekyll update
-author: "X Zheng, J Jia, J Chen, S Guo, L Sun, C Zhou, Y Wang - Applied Sciences, 2022"
----
-Hyperspectral remote sensing image classification has been widely employed for numerous applications, such as environmental monitoring, agriculture, and mineralogy. During such classification, the number of training samples in each class often varies significantly. This imbalance in the dataset is often not identified because most classifiers are designed under a balanced dataset assumption, which can distort the minority classes or even treat them as noise. This may lead to biased and Cites: Semi-supervised graph-based hyperspectral image classification

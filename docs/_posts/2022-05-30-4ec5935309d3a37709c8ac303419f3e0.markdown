@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Are Large Pre-Trained Language Models Leaking Your Personal Information?"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "J Huang, H Shao, KCC Chang - arXiv preprint arXiv:2205.12628, 2022"
+---
+Large Pre-Trained Language Models (PLMs) have facilitated and dominated many NLP tasks in recent years. However, despite the great success of PLMs, there are also privacy concerns brought with PLMs. For example, recent studies show that PLMs memorize a lot of training data, including sensitive information, while the information may be leaked unintentionally and be utilized by malicious attackers. In this paper, we propose to measure whether PLMs are prone to leaking personal … Cites: ‪Large language models can be strong differentially private learners‬

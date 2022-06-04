@@ -1,8 +1,0 @@
----
-layout: post
-title:  "L^ 3U-net: Low-Latency Lightweight U-net Based Image Segmentation Model for Parallel CNN Processors"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "OE Okman, MG Ulkar, GS Uyanik - arXiv preprint arXiv:2203.16528, 2022"
----
-In this research, we propose a tiny image segmentation model, L^ 3U-net, that works on low-resource edge devices in real-time. We introduce a data folding technique that reduces inference latency by leveraging the parallel convolutional layer processing capability of the CNN accelerators. We also deploy the proposed model to such a device, MAX78000, and the results show that L^ 3U-net achieves more than 90% accuracy over two different segmentation datasets with 10 fps. Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

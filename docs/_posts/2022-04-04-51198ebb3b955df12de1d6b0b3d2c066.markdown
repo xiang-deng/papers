@@ -1,8 +1,0 @@
----
-layout: post
-title:  "TubeDETR: Spatio-Temporal Video Grounding with Transformers"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "A Yang, A Miech, J Sivic, I Laptev, C Schmid - arXiv preprint arXiv:2203.16434, 2022"
----
-We consider the problem of localizing a spatio-temporal tube in a video corresponding to a given text query. This is a challenging task that requires the joint and efficient modeling of temporal, spatial and multi-modal interactions. To address this task, we propose TubeDETR, a transformer-based architecture inspired by the recent success of such models for text-conditioned object detection. Our model notably includes:(i) an efficient video and text encoder that models spatial multi Cites: Merlot: Multimodal neural script knowledge models

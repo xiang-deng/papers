@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Distributionally Robust Multilingual Machine Translation"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "C Zhou, D Levy, X Li, M Ghazvininejad, G Neubig - arXiv preprint arXiv:2109.04020, 2021"
----
-Multilingual neural machine translation (MNMT) learns to translate multiple language pairs with a single model, potentially improving both the accuracy and the memory- efficiency of deployed models. However, the heavy data imbalance between languages hinders the model from performing uniformly across language pairs. In this paper, we propose a new learning objective for MNMT based on distributionally robust optimization, which minimizes the worst-case expected loss over the set of Cites: Distributionally robust neural networks for group shifts: On the

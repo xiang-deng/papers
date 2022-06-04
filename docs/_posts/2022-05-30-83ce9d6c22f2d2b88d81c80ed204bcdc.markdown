@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Structured Prompt Tuning"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "CL Liu, H Lee, W Yih - arXiv preprint arXiv:2205.12309, 2022"
+---
+We propose structured prompt tuning, a simple and effective method to improve prompt tuning. Instead of prepending a sequence of tunable embeddings to the input, we generate the soft prompt embeddings through a hypernetwork. Our approach subsumes the standard prompt tuning, allows more flexibility in model design and can be applied to both single-task and multi-task training settings. Empirically, structured prompt tuning shows a gain of+ 1.2$~ 1.5 points on the GLUE … Cites: ‪Factual Probing Is [MASK]: Learning vs. Learning to Recall‬

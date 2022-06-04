@@ -1,8 +1,0 @@
----
-layout: post
-title:  "VILA: Improving Structured Content Extraction from Scientific PDFs Using Visual Layout Groups"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "Z Shen, K Lo, LL Wang, B Kuehl, DS Weld, D Downey - Transactions of the , 2022"
----
-Accurately extracting structured content from PDFs is a critical first step for NLP over scientific papers. Recent work has improved extraction accuracy by incorporating elementary layout information, for example, each token s 2D position on the page, into language model pretraining. We introduce new methods that explicitly model VIsual LAyout (VILA) groups, that is, text lines or text blocks, to further improve performance. In our I-VILA approach, we show that simply inserting special tokens Cites: SLM: Learning a discourse language representation with sentence

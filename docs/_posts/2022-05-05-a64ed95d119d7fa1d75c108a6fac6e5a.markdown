@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Connecting the dots in clinical document understanding with Relation Extraction at scale"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "HU Haq, V Kocaman, D Talby - Software Impacts, 2022"
----
-We present a text mining framework based on top of the Spark NLP library- comprising of Named Entity Recognition (NER) and Relation Extraction (RE) models, which expands on previous work in three main ways. First, we release new RE model architectures that obtain state-of-the-art F1 scores on 5 out of 7 benchmark datasets. Second, we introduce a modular approach to train and stack multiple models in a single nlp pipeline in a production grade library with little coding. Third Cites: BERT: Pre-training of Deep Bidirectional Transformers for

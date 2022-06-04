@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Data Augmentation for Biomedical Factoid Question Answering"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "D Pappas, P Malakasiotis, I Androutsopoulos - arXiv preprint arXiv:2204.04711, 2022"
----
-We study the effect of seven data augmentation (da) methods in factoid question answering, focusing on the biomedical domain, where obtaining training instances is particularly difficult. We experiment with data from the BioASQ challenge, which we augment with training instances obtained from an artificial biomedical machine reading comprehension dataset, or via back-translation, information retrieval, word substitution based on word2vec embeddings, or masked language modeling Cites: Natural questions: a benchmark for question answering research

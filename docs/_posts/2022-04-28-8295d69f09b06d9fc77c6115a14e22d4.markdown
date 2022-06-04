@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A simple neural vector space model for medical concept normalization using concept embeddings"
-date:   2022-04-28 04:54:27 -0400
-categories: jekyll update
-author: "D Xu, T Miller - Journal of Biomedical Informatics, 2022"
----
-Objective Medical concept normalization (MCN), the task of linking textual mentions to concepts in an ontology, provides a solution to unify different ways of referring to the same concept. In this paper, we present a simple neural MCN model that takes mentions as input and directly predicts concepts. Materials and Methods We evaluate our proposed model on clinical datasets from ShARe/CLEF eHealth 2013 shared task and 2019 n2c2/OHNLP shared task track 3. Our neural MCN model Cites: Dynabench: Rethinking benchmarking in NLP

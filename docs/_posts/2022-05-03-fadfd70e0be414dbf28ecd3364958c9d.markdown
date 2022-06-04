@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Efficient Machine Translation Domain Adaptation"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "PH Martins, Z Marinho, AFT Martins - arXiv preprint arXiv:2204.12608, 2022"
----
-Machine translation models struggle when translating out-of-domain text, which makes domain adaptation a topic of critical importance. However, most domain adaptation methods focus on fine-tuning or training the entire or part of the model on every new domain, which can be costly. On the other hand, semi-parametric models have been shown to successfully perform domain adaptation by retrieving examples from an in-domain datastore (Khandelwal et al., 2021). A drawback of these retrieval Cites: Efficient Nearest Neighbor Language Models

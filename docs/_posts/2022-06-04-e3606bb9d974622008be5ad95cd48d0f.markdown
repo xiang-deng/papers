@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Heterogenous affinity graph inference network for Document-level Relation Extraction"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "R Li, J Zhong, Z Xue, Q Dai, X Li - Knowledge-Based Systems, 2022"
+---
+Document-level relation extraction (Doc-level RE) is a more practical and challenging task, which provides a new perspective on obtaining factual knowledge from the more complex cross-sentence text. Recent Doc-level RE, based on pre-trained language models, uses graph neural networks to implicitly model relation reasoning in a document. However, it is not perfect that the model neglects explicit reasoning clues, leading to a weak ability and a lack of capability to model long … Cites: ‪Coreferential reasoning learning for language representation‬

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Joint-Modal Label Denoising for Weakly-Supervised Audio-Visual Video Parsing"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "H Cheng, Z Liu, H Zhou, C Qian, W Wu, L Wang - arXiv preprint arXiv:2204.11573, 2022"
----
-This paper focuses on the weakly-supervised audio-visual video parsing task, which aims to recognize all events belonging to each modality and localize their temporal boundaries. This task is challenging because only overall labels indicating the video events are provided for training. However, an event might be labeled but not appear in one of the modalities, which results in a modality-specific noisy label problem. Motivated by two observations that networks tend to learn clean samples first and Cites: Dividemix: Learning with noisy labels as semi-supervised learning

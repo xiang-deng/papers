@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "Y Ling, R Xia - arXiv preprint arXiv:2204.07955, 2022"
----
-As an important task in sentiment analysis, Multimodal Aspect-Based Sentiment Analysis (MABSA) has attracted increasing attention in recent years. However, previous approaches either (i) use separately pre-trained visual and textual models, which ignore the crossmodal alignment or (ii) use vision-language models pre- trained with general pre-training tasks, which are inadequate to identify finegrained aspects, opinions, and their alignments across modalities. To tackle these limitations Cites: Vinvl: Revisiting visual representations in vision-language models

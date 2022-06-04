@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A unified multi-task learning model for AST-level and token-level code completion"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "F Liu, G Li, B Wei, X Xia, Z Fu, Z Jin - Empirical Software Engineering, 2022"
----
-Code completion, one of the most useful features in the Integrated Development Environments (IDEs), can accelerate software development by suggesting the next probable tokens based on existing code in real-time. Recent studies have shown that recurrent neural networks based statistical language models can improve the performance of code completion tools through learning from large-scale software repositories. However, most of the existing approaches treat code completion as a Cites: Codebert: A pre-trained model for programming and natural

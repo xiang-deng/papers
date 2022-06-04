@@ -1,8 +1,0 @@
----
-layout: post
-title:  "MetaTS: Meta Teacher-Student Network for Multilingual Sequence Labeling with Minimal Supervision"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "Z Li, D Zhang, T Cao, Y Wei, Y Song, B Yin - Proceedings of the 2021 Conference on , 2021"
----
-Sequence labeling aims to predict a finegrained sequence of labels for the text. However, such formulation hinders the effectiveness of supervised methods due to the lack of token-level annotated data. This is exacerbated when we meet a diverse range of languages. In this work, we explore multilingual sequence labeling with minimal supervision using a single unified model for multiple languages. Specifically, we propose a Meta Teacher-Student (MetaTS) Network, a novel meta learning Cites: Bert: Pre-training of deep bidirectional transformers for language

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Sub-Word Alignment Is Still Useful: A Vest-Pocket Method for Enhancing Low-Resource Machine Translation"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "M Xu, Y Hong - arXiv preprint arXiv:2205.04067, 2022"
----
-We leverage embedding duplication between aligned sub-words to extend the Parent-Child transfer learning method, so as to improve low-resource machine translation. We conduct experiments on benchmark datasets of My-En, Id-En and Tr- En translation scenarios. The test results show that our method produces substantial improvements, achieving the BLEU scores of 22.5, 28.0 and 18.1 respectively. In addition, the method is computationally efficient which reduces the consumption of Cites: Choosing Transfer Languages for Cross-Lingual Learning

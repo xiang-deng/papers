@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Large Scale Transfer Learning for Differentially Private Image Classification"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "H Mehta, A Thakurta, A Kurakin, A Cutkosky - arXiv preprint arXiv:2205.02973, 2022"
----
-Differential Privacy (DP) provides a formal framework for training machine learning models with individual example level privacy. Training models with DP protects the model against leakage of sensitive data in a potentially adversarial setting. In the field of deep learning, Differentially Private Stochastic Gradient Descent (DP-SGD) has emerged as a popular private training algorithm. Private training using DP-SGD protects against leakage by injecting noise into individual example gradients, such Cites: Large language models can be strong differentially private learners

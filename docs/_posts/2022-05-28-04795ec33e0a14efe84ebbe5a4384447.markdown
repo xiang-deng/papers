@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Neural Subgraph Explorer: Reducing Noisy Information via Target-Oriented Syntax Graph Pruning"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "B Xing, IW Tsang - arXiv preprint arXiv:2205.10970, 2022"
+---
+Recent years have witnessed the emerging success of leveraging syntax graphs for the target sentiment classification task. However, we discover that existing syntax-based models suffer from two issues: noisy information aggregation and loss of distant correlations. In this paper, we propose a novel model termed Neural Subgraph Explorer, which (1) reduces the noisy information via pruning target-irrelevant nodes on the syntax graph;(2) introduces beneficial first-order connections … Cites: ‪Effective LSTMs for target-dependent sentiment classification‬

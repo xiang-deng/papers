@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Decorate the Examples: A Simple Method of Prompt Design for Biomedical Relation Extraction"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "HS Yeh, T Lavergne, P Zweigenbaum - arXiv preprint arXiv:2204.10360, 2022"
----
-Relation extraction is a core problem for natural language processing in the biomedical domain. Recent research on relation extraction showed that prompt- based learning improves the performance on both fine-tuning on full training set and few-shot training. However, less effort has been made on domain-specific tasks where good prompt design can be even harder. In this paper, we investigate prompting for biomedical relation extraction, with experiments on the ChemProt Cites: Language models as knowledge bases?

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Object detection based on few-shot learning via instance-level feature correlation and aggregation"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "M Wang, H Ning, H Liu - Applied Intelligence, 2022"
----
-The detection of novel foregrounds only utilizing scarce annotated images, namely few-shot object detection, makes a detector no longer dependent on large-scale instantiated sets. The realistic challenge might lie in establishing the correlation of few instances and balancing the sensitivity between base and novel categories. In this paper, we propose a few-shot detector using instance-level feature correlation based on an interactive self-attention module to deeply mine the discriminating Cites: Imagenet: A large-scale hierarchical image database, 2009

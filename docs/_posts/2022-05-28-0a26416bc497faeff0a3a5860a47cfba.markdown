@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Penguins Don t Fly: Reasoning about Generics through Instantiations and Exceptions"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "E Allaway, JD Hwang, C Bhagavatula, K McKeown… - arXiv preprint arXiv …, 2022"
+---
+Generics express generalizations about the world (eg,  birds can fly ). However, they are not universally true--while sparrows and penguins are both birds, only sparrows can fly and penguins cannot. Commonsense knowledge bases, which are used extensively in many NLP tasks as a source of world-knowledge, can often encode generic knowledge but, by-design, cannot encode such exceptions. Therefore, it is crucial to realize the specific instances when a generic statement is true or false. In … Cites: ‪NeuroLogic A* esque Decoding: Constrained Text Generation with …‬

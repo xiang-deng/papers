@@ -1,8 +1,0 @@
----
-layout: post
-title:  "CoCa: Contrastive Captioners are Image-Text Foundation Models"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "J Yu, Z Wang, V Vasudevan, L Yeung - arXiv preprint arXiv , 2022"
----
-Exploring large-scale pretrained foundation models is of significant interest in computer vision because these models can be quickly transferred to many downstream tasks. This paper presents Contrastive Captioner (CoCa), a minimalist design to pretrain an image-text encoder-decoder foundation model jointly with contrastive loss and captioning loss, thereby subsuming model capabilities from contrastive approaches like CLIP and generative methods like SimVLM. In contrast to Cites: Vinvl: Revisiting visual representations in vision-language models

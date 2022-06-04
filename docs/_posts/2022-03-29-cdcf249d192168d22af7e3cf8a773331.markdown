@@ -1,8 +1,0 @@
----
-layout: post
-title:  "What to Hide from Your Students: Attention-Guided Masked Image Modeling"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "I Kakogeorgiou, S Gidaris, B Psomas, Y Avrithis - arXiv preprint arXiv , 2022"
----
-Transformers and masked language modeling are quickly being adopted and explored in computer vision as vision transformers and masked image modeling (MIM). In this work, we argue that image token masking is fundamentally different from token masking in text, due to the amount and correlation of tokens in an image. In particular, to generate a challenging pretext task for MIM, we advocate a shift from random masking to informed masking. We develop and exhibit this idea in the Cites: A framework for contrastive self-supervised learning and designing

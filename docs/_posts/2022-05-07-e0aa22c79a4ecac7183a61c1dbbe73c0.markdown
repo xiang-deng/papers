@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Exploring Cross-Lingual Transfer to Counteract Data Scarcity for Causality Detection"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "S Reimann, S Stymne - 2022"
----
-Finding causal relations in text is an important task for many types of textual analysis. It is a challenging task, especially for the many languages with no or only little annotated training data available. To overcome this issue, we explore cross-lingual methods. Our main focus is on Swedish, for which we have a limited amount of data, and where we explore transfer from English and German. We also present additional results for German with English as a source language. We explore both a zero-shot Cites: Revisiting the primacy of english in zero-shot cross-lingual transfer

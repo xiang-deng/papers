@@ -1,8 +1,0 @@
----
-layout: post
-title:  "LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "Y Huang, T Lv, L Cui, Y Lu, F Wei - arXiv preprint arXiv:2204.08387, 2022"
----
-Self-supervised pre-training techniques have achieved remarkable progress in Document AI. Most multimodal pre-trained models use a masked language modeling objective to learn bidirectional representations on the text modality, but they differ in pre-training objectives for the image modality. This discrepancy adds difficulty to multimodal representation learning. In this paper, we propose LayoutLMv3 to pre- train multimodal Transformers for Document AI with unified text and image masking Cites: X-lxmert: Paint, caption and answer questions with multi-modal

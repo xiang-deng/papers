@@ -1,8 +1,0 @@
----
-layout: post
-title:  "AVA: A financial service chatbot based on deep bidirectional transformers"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "S Yu, Y Chen, H Zaidi - Frontiers in Applied Mathematics and Statistics, 2021"
----
-We develop a chatbot using Deep Bidirectional Transformer models (BERT)(Devlin et al., 2019) to handle client questions in financial investment customer service. The bot can recognize 381 intents, and decides when to say I don t know and escalates irrelevant/uncertain questions to human operators. Our main novel contribution is the discussion about uncertainty measure for BERT, where three different approaches are systematically compared on real problems. We investigated two uncertainty Cites: Dissecting contextual word embeddings: Architecture and

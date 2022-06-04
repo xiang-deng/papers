@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Concept-level Debugging of Part-Prototype Networks"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "A Bontempelli, S Teso, F Giunchiglia, A Passerini - arXiv preprint arXiv:2205.15769, 2022"
+---
+Part-prototype Networks (ProtoPNets) are concept-based classifiers designed to achieve the same performance as black-box models without compromising transparency. ProtoPNets compute predictions based on similarity to class-specific part-prototypes learned to recognize parts of training examples, making it easy to faithfully determine what examples are responsible for any target prediction and why. However, like other models, they are prone to picking up confounds and shortcuts … Cites: ‪Evaluating Explainable AI: Which Algorithmic Explanations Help …‬

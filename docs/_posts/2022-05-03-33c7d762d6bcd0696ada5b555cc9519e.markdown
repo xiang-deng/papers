@@ -1,8 +1,0 @@
----
-layout: post
-title:  "OT Cleaner: Label Correction as Optimal Transport"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "J Xia, C Tan, L Wu, Y Xu, SZ Li - ICASSP 2022-2022 IEEE International Conference , 2022"
----
-Datasets with noisy labels present challenges for training Deep Neural Networks (DNNs) with high generalization ability. An direct idea is to correct the noisy labels for robust learning. However, existing label correction methods can not handle with heavy noise or datasets with samples of many categories so well. We explain the reasons and introduce a global label distribution regularization to remedy these deficiencies. With this regularization, we convert the label correction to the Optimal Cites: Dividemix: Learning with noisy labels as semi-supervised learning

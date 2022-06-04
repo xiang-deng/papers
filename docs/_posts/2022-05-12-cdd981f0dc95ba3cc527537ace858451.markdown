@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Is Your Data Relevant?: Dynamic Selection of Relevant Data for Federated Learning"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "L Nagalapatti, RS Mittal, R Narayanam - 2022"
----
-Federated Learning (FL) is a machine learning paradigm in which multiple clients participate to collectively learn a global machine learning model at the central server. Clients share updates derived from their local data to the server such that their privacy is not compromised. The server aggregates these updates and applies it to the global model. It is plausible that not all the data owned by each client is relevant to the server s learning objective. The updates incorporated from irrelevant data Cites: Understanding black-box predictions via influence functions

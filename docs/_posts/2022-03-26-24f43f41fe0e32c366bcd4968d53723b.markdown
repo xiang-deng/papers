@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Local-Global Context Aware Transformer for Language-Guided Video Segmentation"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "C Liang, W Wang, T Zhou, J Miao, Y Luo, Y Yang - arXiv preprint arXiv:2203.09773, 2022"
----
-We explore the task of language-guided video segmentation (LVS). Previous algorithms mostly adopt 3D CNNs to learn video representation, struggling to capture long-term context and easily suffering from visual-linguistic misalignment. In light of this, we present Locater (local-global context aware Transformer), which augments the Transformer architecture with a finite memory so as to query the entire video with the language expression in an efficient manner. The memory is designed to involve Cites: Stanza: A python natural language processing toolkit for many

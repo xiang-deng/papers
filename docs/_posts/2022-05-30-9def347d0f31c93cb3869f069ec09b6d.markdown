@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Does Your Model Classify Entities Reasonably? Diagnosing and Mitigating Spurious Correlations in Entity Typing"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "N Xu, F Wang, B Li, M Dong, M Chen - arXiv preprint arXiv:2205.12640, 2022"
+---
+The entity typing task aims at predicting one or more words or phrases that describe the type (s) of a specific mention in a sentence. Due to shortcuts from surface patterns to annotated entity labels and biased training, existing entity typing models are subject to the problem of spurious correlations. To comprehensively investigate the faithfulness and reliability of entity typing methods, we first systematically define distinct kinds of model biases that are reflected mainly from spurious correlations … Cites: ‪Modeling fine-grained entity types with box embeddings‬

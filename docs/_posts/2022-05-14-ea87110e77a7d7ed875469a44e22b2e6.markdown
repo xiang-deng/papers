@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A hybrid Chinese named entity recognition method for Internet of Things"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "Y Wang, Z Wang, H Li, Y Li, F Zuo - International Conference on Algorithms , 2022"
----
-In order to facilitate government departments to assess security risks and prevent infiltration, it s necessary to recognize the IoT device from open data by the method of Named entity recognition (NER). In this study, a hybrid method of chinese NER which contains neural networks and templates is proposed to extract IoT device information from open web. The model first initiates characters of input through BERT, which can create character embedding while reduce dependency with external datasets. Then Cites: BERT: pre-training of deep bidirectional transformers for language

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Applying Efficient Selection Techniques of Unlabelled Instances for Wrapper-based Semi-supervised Methods"
-date:   2022-04-28 04:54:27 -0400
-categories: jekyll update
-author: "CAS Barreto, AC Gorgnio, JC Xavier-Jnior - IEEE Access, 2022"
----
-Semi-supervised learning (SSL) is a machine learning approach that integrates supervised and unsupervised learning mechanisms. This integration may be done in different ways and one possibility is to use a wrapper-based strategy. The main aim of a wrapper-based strategy is to use a small number of labelled instances to create a learning model. Then, this created model is used in a labelling process, where some unlabelled instances are labelled, and consequently, these instances are Cites: Learning with Local and Global Consistency.

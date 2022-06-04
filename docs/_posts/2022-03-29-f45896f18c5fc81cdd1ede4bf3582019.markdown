@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Transfer Learning Pre-training Dataset Effect Analysis for Breast Cancer Imaging"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "C Bulathsinghalage, L Liu - Proceedings of 14th International Conference, 2022"
----
-Comparing with natural imaging datasets used in transfer learning, the effects of medical pre-training datasets are underexplored. In this study, we carry out transfer learning pre-training dataset effect analysis in breast cancer imaging by evaluating three popular deep neural networks and one patch-based convolutional neural network on three target datasets under different fine-tuning configurations. Through a series of comparisons, we conclude that the pre-training dataset, DDSM, is effective Cites: Evaluation of combined artificial intelligence and radiologist

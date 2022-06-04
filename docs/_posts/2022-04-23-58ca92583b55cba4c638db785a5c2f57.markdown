@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Image Captioning In the Transformer Age"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "Y Xu, L Li, H Xu, S Huang, F Huang, J Cai - arXiv preprint arXiv:2204.07374, 2022"
----
-Image Captioning (IC) has achieved astonishing developments by incorporating various techniques into the CNN-RNN encoder-decoder architecture. However, since CNN and RNN do not share the basic network component, such a heterogeneous pipeline is hard to be trained end-to-end where the visual encoder will not learn anything from the caption supervision. This drawback inspires the researchers to develop a homogeneous architecture that facilitates end-to-end Cites: Oscar: Object-semantics aligned pre-training for vision-language

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Seizing Critical Learning Periods in Federated Learning"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "G Yan, H Wang, J Li - 2022"
----
-Federated learning (FL) is a popular technique to train machine learning (ML) models with decentralized data. Extensive works have studied the performance of the global model; however, it is still unclear how the training process affects the final test accuracy. Exacerbating this problem is the fact that FL executions differ significantly from traditional ML with heterogeneous data characteristics across clients, involving more hyperparameters. In this work, we show that the final test Cites: Catastrophic fisher explosion: Early phase fisher matrix impacts

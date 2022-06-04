@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Eliciting Transferability in Multi-task Learning with Task-level Mixture-of-Experts"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "Q Ye, J Zha, X Ren - arXiv preprint arXiv:2205.12701, 2022"
+---
+Recent work suggests that transformer models are capable of multi-task learning on diverse NLP tasks. However, the potential of these models may be limited as they use the same set of parameters for all tasks. In contrast, humans tackle tasks in a more flexible way, by making proper presumptions on what skills and knowledge are relevant and executing only the necessary computations. Inspired by this, we propose to use task-level mixture-of-expert models, which has a collection of … Cites: ‪MOCHA: A Dataset for Training and Evaluating Generative …‬

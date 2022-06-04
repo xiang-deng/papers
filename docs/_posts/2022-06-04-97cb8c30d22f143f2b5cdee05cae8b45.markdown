@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "T Dao, DY Fu, S Ermon, A Rudra, C Ré - arXiv preprint arXiv:2205.14135, 2022"
+---
+Transformers are slow and memory-hungry on long sequences, since the time and memory complexity of self-attention are quadratic in sequence length. Approximate attention methods have attempted to address this problem by trading off model quality to reduce the compute complexity, but often do not achieve wall-clock speedup. We argue that a missing principle is making attention algorithms IO-aware--accounting for reads and writes between levels of GPU memory. We propose … Cites: ‪Transformer quality in linear time‬

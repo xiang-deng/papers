@@ -1,8 +1,0 @@
----
-layout: post
-title:  "RoViST: Learning Robust Metrics for Visual Storytelling"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "E Wang, C Han, J Poon - arXiv preprint arXiv:2205.03774, 2022"
----
-Visual storytelling (VST) is the task of generating a story paragraph that describes a given image sequence. Most existing storytelling approaches have evaluated their models using traditional natural language generation metrics like BLEU or CIDEr. However, such metrics based on n-gram matching tend to have poor correlation with human evaluation scores and do not explicitly consider other criteria necessary for storytelling such as sentence structure or topic coherence. Moreover, a single score Cites: What Makes A Good Story? Designing Composite Rewards for

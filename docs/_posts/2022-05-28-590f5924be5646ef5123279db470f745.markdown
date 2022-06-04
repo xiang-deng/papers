@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Attentional Mixtures of Soft Prompt Tuning for Parameter-efficient Multi-task Knowledge Sharing"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "A Asai, M Salehi, ME Peters, H Hajishirzi - arXiv preprint arXiv:2205.11961, 2022"
+---
+This work introduces ATTEMPT (Attentional Mixture of Prompt Tuning), a new modular, multi-task, and parameter-efficient language model (LM) tuning approach that combines knowledge transferred across different tasks via a mixture of soft prompts while keeping original LM unchanged. ATTEMPT interpolates a set of prompts trained on large-scale source tasks and a newly initialized target task prompt using instance-wise attention computed by a lightweight sub-network trained … Cites: ‪Palm: Scaling language modeling with pathways‬

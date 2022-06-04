@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Multimodal Adaptive Distillation for Leveraging Unimodal Encoders for Vision-Language Tasks"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "Z Wang, N Codella, YC Chen, L Zhou, X Dai, B Xiao - arXiv preprint arXiv , 2022"
----
-Cross-modal encoders for vision-language (VL) tasks are often pretrained with carefully curated vision-language datasets. While these datasets reach an order of 10 million samples, the labor cost is prohibitive to scale further. Conversely, unimodal encoders are pretrained with simpler annotations that are less cost- prohibitive, achieving scales of hundreds of millions to billions. As a result, unimodal encoders have achieved state-of-art (SOTA) on many downstream tasks. However Cites: Merlot: Multimodal neural script knowledge models

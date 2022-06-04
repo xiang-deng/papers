@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Phonotactic Language Recognition Using A Universal Phoneme Recognizer and A Transformer Architecture"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "D Romero, LF D Haro, M Estecha-Garitagoitia - ICASSP 2022-2022 IEEE , 2022"
----
-In this paper, we describe a phonotactic language recognition model that effectively manages long and short n-gram input sequences to learn contextual phonotactic- based vector embeddings. Our approach uses a transformer-based encoder that integrates a sliding window attention to attempt finding discriminative short and long cooccurrences of language dependent n-gram phonetic units. We then evaluate and compare the use of different phoneme recognizers (Brno and Allosaurus) and sub Cites: Universal phone recognition with a multilingual allophone system

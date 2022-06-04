@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "K Heffernan, O Çelebi, H Schwenk - arXiv preprint arXiv:2205.12654, 2022"
+---
+Scaling multilingual representation learning beyond the hundred most frequent languages is challenging, in particular to cover the long tail of low-resource languages. A promising approach has been to train one-for-all multilingual models capable of cross-lingual transfer, but these models often suffer from insufficient capacity and interference between unrelated languages. Instead, we move away from this approach and focus on training multiple language (family) specific … Cites: ‪Extending multilingual BERT to low-resource languages‬

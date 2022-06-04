@@ -1,8 +1,0 @@
----
-layout: post
-title:  "An attention-based network for serial number recognition on banknotes"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "Z Lin, Z He, B Tan, Y Shen, P Wang, T Liu - Signal Processing: Image Communication, 2022"
----
-The serial number recognition (SNR) on banknotes is essential for currency circulation. The performance of the existing SNR methods is significantly influenced by character segmentation, which is challenging due to uneven illumination and complex background. In this paper, we apply deep learning techniques to SNR by proposing an attention-based network, which can be end-to-end trained to avoid the problem of character segmentation. The proposed framework contains two parts Cites: Neural machine translation by jointly learning to align and translate

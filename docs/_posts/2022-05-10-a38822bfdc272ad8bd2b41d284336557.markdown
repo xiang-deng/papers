@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Subverting Fair Image Search with Generative Adversarial Perturbations"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "A Ghosh, M Jagielski, C Wilson - arXiv preprint arXiv:2205.02414, 2022"
----
-In this work we explore the intersection fairness and robustness in the context of ranking: textit {when a ranking model has been calibrated to achieve some definition of fairness, is it possible for an external adversary to make the ranking model behave unfairly without having access to the model or training data?} To investigate this question, we present a case study in which we develop and then attack a state-of-the- art, fairness-aware image search engine using images that have been maliciously Cites: Oscar: Object-semantics aligned pre-training for vision-language

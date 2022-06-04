@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "J Jung, L Qin, S Welleck, F Brahman, C Bhagavatula… - arXiv preprint arXiv …, 2022"
+---
+Despite their impressive capabilities, large pre-trained language models (LMs) struggle with consistent reasoning; recently, prompting LMs to generate explanations that self-guide the inference has emerged as a promising direction to amend this. However, these approaches are fundamentally bounded by the correctness of explanations, which themselves are often noisy and inconsistent. In this work, we develop Maieutic Prompting, which infers a correct answer to a question even from … Cites: ‪Palm: Scaling language modeling with pathways‬

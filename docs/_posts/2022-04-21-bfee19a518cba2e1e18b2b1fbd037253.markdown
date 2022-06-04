@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Recurrence and Self-Attention vs the Transformer for Time-Series Classification: A Comparative Study"
-date:   2022-04-21 03:59:43 -0400
-categories: jekyll update
-author: "A Katrompas, T Ntakouris, V Metsis"
----
-Recently the transformer has established itself as the stateof-the-art in text processing and has demonstrated impressive results in image processing, leading to the decline in the use of recurrence in neural network models. As established in the seminal paper, Attention Is All You Need, recurrence can be removed in favor of a simpler model using only self-attention. While transformers have shown themselves to be robust in a variety of text and image processing tasks, these tasks all have one Cites: Long short-term memory-networks for machine reading

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FedNoiL: A Simple Two-Level Sampling Method for Federated Learning with Noisy Labels"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "Z Wang, T Zhou, G Long, B Han, J Jiang - arXiv preprint arXiv:2205.10110, 2022"
+---
+Federated learning (FL) aims at training a global model on the server side while the training data are collected and located at the local devices. Hence, the labels in practice are usually annotated by clients of varying expertise or criteria and thus contain different amounts of noises. Local training on noisy labels can easily result in overfitting to noisy labels, which is devastating to the global model through aggregation. Although recent robust FL methods take malicious clients into account … Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

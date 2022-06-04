@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Delta Keyword Transformer: Bringing Transformers to the Edge through Dynamically Pruned Multi-Head Self-Attention"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "Z Jelicov, M Verhelst - 2022"
----
-Multi-head self-attention forms the core of Transformer networks. However, their quadratically growing complexity with respect to the input sequence length impedes their deployment on resourceconstrained edge devices. We address this challenge by proposing a dynamic pruning method, which exploits the temporal stability of data across tokens to reduce inference cost. The threshold-based method only retains significant differences between the subsequent tokens, effectively reducing the Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

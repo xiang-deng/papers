@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A Remedy For Distributional Shifts Through Expected Domain Translation"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "JC Gagnon-Audet, S Shahtalebi, F Rudzicz, I Rish - ICASSP 2022-2022 IEEE , 2022"
----
-Machine learning models often fail to generalize to unseen domains due to the distributional shifts. A family of such shifts,correlation shifts, is caused by spurious correlations in the data. It is studied under the overarching topic of domain generalization. In this work, we employ multi-modal translation networks to tackle the correlation shifts that appear when data is sampled out-of-distribution. Learning a generative model from training domains enables us to translate each training sample Cites: Wilds: A benchmark of in-the-wild distribution shifts

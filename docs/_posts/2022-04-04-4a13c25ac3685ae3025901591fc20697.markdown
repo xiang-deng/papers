@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Readers versus Re-rankers in Question Answering over COVID-19 scientific literature"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "B Lozano, J Bern, A Peas - Procesamiento del Lenguaje Natural, 2022"
----
-In this work we present a comparison between the two most used neural Question Answering (QA) architectures to solve the problem of information overload on COVID- 19 related articles. The span extraction (reader) and the re-ranker. We have found that there are no studies that compare these two methods even though they are so widely used. We also performed a search of the best hyperparameters for this task, and tried to conclude whether a model pre-trained with biomedical documents such Cites: Covidex: Neural ranking models and keyword search infrastructure

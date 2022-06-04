@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "B Fetahu, A Fang, O Rokhlenko, S Malmasi"
----
-Named entity recognition (NER) in a realworld setting remains challenging and is impacted by factors like text genre, corpus quality, and data availability. NER models trained on CoNLL do not transfer well to other domains, even within the same language. This is especially the case for multi-lingual models when applied to low- resource languages, and is mainly due to missing entity information. We propose an approach that with limited effort and data, addresses the NER knowledge gap across Cites: Detecting formal thought disorder by deep contextualized word

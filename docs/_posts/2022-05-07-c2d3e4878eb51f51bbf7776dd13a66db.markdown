@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "A Chen, V Zayats, DD Walker, D Padfield - arXiv preprint arXiv:2205.00620, 2022"
----
-In modern interactive speech-based systems, speech is consumed and transcribed incrementally prior to having disfluencies removed. This post-processing step is crucial for producing clean transcripts and high performance on downstream tasks (eg machine translation). However, most current state-of-the-art NLP models such as the Transformer operate non-incrementally, potentially causing unacceptable delays. We propose a streaming BERT-based sequence tagging model that, combined with Cites: Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in

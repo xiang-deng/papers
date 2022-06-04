@@ -1,8 +1,0 @@
----
-layout: post
-title:  "HAHA at EmoEvalEs 2021: Sentiment Analysis in Spanish Tweets with Cross-lingual Model"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "K Li - Proceedings of the Iberian Languages Evaluation , 2021"
----
-This article describes HAHATeam participation in the Iber-LEF 2021 EmoEvalEs task: Emotion detection and Evaluation for Spanish. In this task, we use Masked Language Model-based data augmentation to enhance the data to increase the training data set and prevent overfitting. We improve the performance of the model through a series of data processing and data augmentation technologies. We use three different cross-language models, BERT, XLM, and XLM-RoBERTa for Cites: Effective LSTMs for target-dependent sentiment classification

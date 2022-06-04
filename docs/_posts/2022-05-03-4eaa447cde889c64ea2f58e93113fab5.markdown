@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Improving Fastspeech TTS with Efficient Self-Attention and Compact Feed-Forward Network"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "Y Xiao, X Wang, L He, FK Soong - ICASSP 2022-2022 IEEE International Conference , 2022"
----
-FastSpeech, as a feed-forward transformer based TTS, can avoid the slow serial, autoregressive inference to generate the target mel-spectrogram in a parallel way. As a non-autoregressive TTS, the latency and computation load in inference is shifted from vocoder to transformer where the efficiency is limited by the quadratic time and memory complexity in the self-attention mechanism, particularly for a long text sequence. To tackle this challenges, We propose two models, ProbSparseFS Cites: Blockwise Self-Attention for Long Document Understanding

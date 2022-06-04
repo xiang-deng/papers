@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Multilingual CheckList: Generation and Evaluation"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "S Bhatt, P Singh, S Aditya, S Dandapat, S Sitaram - arXiv preprint arXiv , 2022"
----
-The recently proposed CheckList (Riberio et al,. 2020) approach to evaluation of NLP systems has revealed high failure rates for basic capabilities for multiple state-of- the-art and commercial models. However, the CheckList creation process is manual which creates a bottleneck towards creation of multilingual CheckLists catering 100s of languages. In this work, we explore multiple approaches to generate and evaluate the quality of Multilingual CheckList. We device an algorithm--Automated Multilingual Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

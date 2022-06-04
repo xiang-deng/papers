@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Multi-Role Event Argument Extraction as Machine Reading Comprehension with Argument Match Optimization"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "J Tao, Y Pan, X Li, B Hu, W Peng, C Han, X Wang - ICASSP 2022-2022 IEEE , 2022"
----
-Extracting arguments for the pre-defined roles is a crucial step for event extraction. Recently, there are some insightful works that view it as a machine reading comprehension problem and achieve significant progress. However, most of them need multi-turns to extract the arguments of each role independently, which ignores the relationships among roles in the same event. To alleviate this problem, we propose a novel Multi-Role Argument Extraction method named MRAE which can Cites: Entity, relation, and event extraction with contextualized span

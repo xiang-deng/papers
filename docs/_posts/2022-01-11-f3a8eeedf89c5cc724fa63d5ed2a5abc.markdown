@@ -1,8 +1,0 @@
----
-layout: post
-title:  "JointE: Jointly utilizing 1D and 2D convolution for knowledge graph embedding"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "Z Zhou, C Wang, Y Feng, D Chen - Knowledge-Based Systems, 2022"
----
-Abstract Knowledge graph embedding is a popular method to predict missing links for knowledge graphs by projecting entities and relations into continuous low- dimension embeddings. Some recent embedding models employ translation-based operations to learn the representations of entities and relations with shallow and linear structures, and others leverage neural networks, especially convolution neural networks, to embed the entities and relations with deep and non-linear structures Cites: Embedding entities and relations for learning and inference in

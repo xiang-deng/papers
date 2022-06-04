@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Structure-aware Protein Self-supervised Learning"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "C Chen, J Zhou, F Wang, X Liu, D Dou - arXiv preprint arXiv:2204.04213, 2022"
----
-Protein representation learning methods have shown great potential to yield useful representation for many downstream tasks, especially on protein classification. Moreover, a few recent studies have shown great promise in addressing insufficient labels of proteins with self-supervised learning methods. However, existing protein language models are usually pretrained on protein sequences without considering the important protein structural information. To this end, we propose a novel structure Cites: Fine-tuning pretrained language models: Weight initializations

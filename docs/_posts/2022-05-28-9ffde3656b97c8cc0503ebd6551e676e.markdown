@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BBTv2: Pure Black-Box Optimization Can Be Comparable to Gradient Descent for Few-Shot Learning"
+date:   2022-05-28 02:05:27 -0400
+categories: jekyll update
+author: "T Sun, Z He, H Qian, X Huang, X Qiu - arXiv preprint arXiv:2205.11200, 2022"
+---
+Black-Box Tuning (BBT) is a derivative-free approach to optimize continuous prompt tokens prepended to the input of language models. Although BBT has achieved comparable performance to full model tuning on simple classification tasks under few-shot settings, it requires pre-trained prompt embedding to match model tuning on hard tasks (eg, entailment tasks), and therefore does not completely get rid of the dependence on gradients. In this paper we present BBTv2, a pure black-box … Cites: ‪Cpm-2: Large-scale cost-effective pre-trained language models‬

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "KNN-Diffusion: Image Generation via Large-Scale Retrieval"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "O Ashual, S Sheynin, A Polyak, U Singer, O Gafni - arXiv preprint arXiv , 2022"
----
-While the availability of massive Text-Image datasets is shown to be extremely useful in training large-scale generative models (eg DDPMs, Transformers), their output typically depends on the quality of both the input text, as well as the training dataset. In this work, we show how large-scale retrieval methods, in particular efficient K- Nearest-Neighbors (KNN) search, can be used in order to train a model to adapt to new samples. Learning to adapt enables several new capabilities. Sifting through Cites: Search engine guided neural machine translation

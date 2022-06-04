@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Semi-supervised 3D Object Detection via Temporal Graph Neural Networks"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "J Wang, H Gang, S Ancha, YT Chen, D Held - 2021 International Conference on 3D , 2021"
----
-3D object detection plays an important role in autonomous driving and other robotics applications. However, these detectors usually require training on large amounts of annotated data that is expensive and time-consuming to collect. Instead, we propose leveraging large amounts of unlabeled point cloud videos by semi-supervised learning of 3D object detectors via temporal graph neural networks. Our insight is that temporal smoothing can create more accurate detection results on unlabeled Cites: Understanding self-training for gradual domain adaptation

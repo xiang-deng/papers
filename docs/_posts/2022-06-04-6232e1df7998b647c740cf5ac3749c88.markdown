@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "B Lin, Y Zhu, Z Chen, X Liang, J Liu, X Liang - arXiv preprint arXiv:2205.15509, 2022"
+---
+Vision-Language Navigation (VLN) is a challenging task that requires an embodied agent to perform action-level modality alignment, ie, make instruction-asked actions sequentially in complex visual environments. Most existing VLN agents learn the instruction-path data directly and cannot sufficiently explore action-level alignment knowledge inside the multi-modal inputs. In this paper, we propose modAlity-aligneD Action PrompTs (ADAPT), which provides the VLN agent with action prompts to … Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬

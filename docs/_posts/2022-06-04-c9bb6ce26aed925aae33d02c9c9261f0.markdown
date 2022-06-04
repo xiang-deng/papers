@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Learning Adaptive Propagation for Knowledge Graph Reasoning"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "Y Zhang, Z Zhou, Q Yao, X Chu, B Han - arXiv preprint arXiv:2205.15319, 2022"
+---
+Due to the success of Graph Neural Networks (GNNs) in learning from graph-structured data, various GNN-based methods have been introduced to learn from knowledge graphs (KGs). In this paper, to reveal the key factors underneath existing GNN-based methods, we revisit exemplar works from the lens of the propagation path. We find that the answer entity can be close to queried one, but the information dependency can be long. Thus, better reasoning performance can be obtained by … Cites: ‪Convolutional 2d knowledge graph embeddings‬

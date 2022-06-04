@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Precise Learning Curves and Higher-Order Scaling Limits for Dot Product Kernel Regression"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "L Xiao, J Pennington - arXiv preprint arXiv:2205.14846, 2022"
+---
+As modern machine learning models continue to advance the computational frontier, it has become increasingly important to develop precise estimates for expected performance improvements under different model and data scaling regimes. Currently, theoretical understanding of the learning curves that characterize how the prediction error depends on the number of samples is restricted to either large-sample asymptotics ($ m\to\infty $) or, for certain simple data distributions, to the high … Cites: ‪Palm: Scaling language modeling with pathways‬

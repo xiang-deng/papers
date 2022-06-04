@@ -1,8 +1,0 @@
----
-layout: post
-title:  "How Robust is Neural Machine Translation to Language Imbalance in Multilingual Tokenizer Training?"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "S Zhang, V Chaudhary, N Goyal, J Cross, G Wenzek - arXiv preprint arXiv , 2022"
----
-A multilingual tokenizer is a fundamental component of multilingual neural machine translation. It is trained from a multilingual corpus. Since a skewed data distribution is considered to be harmful, a sampling strategy is usually used to balance languages in the corpus. However, few works have systematically answered how language imbalance in tokenizer training affects downstream performance. In this work, we analyze how translation performance changes as the data ratios among languages Cites: Charformer: Fast character transformers via gradient-based

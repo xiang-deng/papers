@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "EfficientViT: Enhanced Linear Attention for High-Resolution Low-Computation Visual Recognition"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "H Cai, C Gan, S Han - arXiv preprint arXiv:2205.14756, 2022"
+---
+Vision Transformer (ViT) has achieved remarkable performance in many vision tasks. However, ViT is inferior to convolutional neural networks (CNNs) when targeting high-resolution mobile vision applications. The key computational bottleneck of ViT is the softmax attention module which has quadratic computational complexity with the input resolution. It is essential to reduce the cost of ViT to deploy it on edge devices. Existing methods (eg, Swin, PVT) restrict the softmax attention within local windows … Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬

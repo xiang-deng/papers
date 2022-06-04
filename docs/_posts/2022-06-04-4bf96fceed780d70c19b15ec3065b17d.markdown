@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Transfer language selection for zero-shot cross-lingual abusive language detection"
+date:   2022-06-04 01:43:25 -0400
+categories: jekyll update
+author: "J Eronen, M Ptaszynski, F Masui, M Arata, G Leliwa… - Information Processing & …, 2022"
+---
+We study the selection of transfer languages for automatic abusive language detection. Instead of preparing a dataset for every language, we demonstrate the effectiveness of cross-lingual transfer learning for zero-shot abusive language detection. This way we can use existing data from higher-resource languages to build better detection systems for low-resource languages. Our datasets are from seven different languages from three language families. We measure the distance … Cites: ‪XTREME: A massively multilingual multi-task benchmark for …‬

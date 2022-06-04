@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Complex graph convolutional network for link prediction in knowledge graphs"
-date:   2022-03-30 13:35:09 -0400
-categories: jekyll update
-author: "A Zeb, S Saif, J Chen, AU Haq, Z Gong, D Zhang - Expert Systems with Applications, 2022"
----
-Abstract Knowledge graph (KG) embedding models map nodes and edges to fixed- length vectors and obtain the similarity of nodes as the output of a scoring function to predict missing links between nodes. KG embedding methods based on graph convolutional networks (GCNs) have recently gained significant attention due to their ability to add information of neighboring nodes into the nodes  embeddings. However, existing GCNs are primarily based on real-valued embeddings, which Cites: Embedding entities and relations for learning and inference in

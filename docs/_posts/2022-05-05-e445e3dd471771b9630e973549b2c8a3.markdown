@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Predicting Sentence Deletions for Text Simplification Using a Functional Discourse Structure"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "B Zhang, PK Choubey, R Huang"
----
-Document-level text simplification often deletes some sentences besides performing lexical, grammatical or structural simplification to reduce text complexity. In this work, we focus on sentence deletions for text simplification and use a news genre-specific functional discourse structure, which categorizes sentences based on their contents and their function roles in telling a news story, for predicting sentence deletion. We incorporate sentence categories into a neural net model in two ways for predicting Cites: Learning to simplify sentences with quasi-synchronous grammar

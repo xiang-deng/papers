@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Green Hierarchical Vision Transformer for Masked Image Modeling"
+date:   2022-05-30 22:20:45 -0400
+categories: jekyll update
+author: "L Huang, S You, M Zheng, F Wang, C Qian… - arXiv preprint arXiv …, 2022"
+---
+We present an efficient approach for Masked Image Modeling (MIM) with hierarchical Vision Transformers (ViTs), eg, Swin Transformer, allowing the hierarchical ViTs to discard masked patches and operate only on the visible ones. Our approach consists of two key components. First, for the window attention, we design a Group Window Attention scheme following the Divide-and-Conquer strategy. To mitigate the quadratic complexity of the self-attention wrt the number of patches, group attention … Cites: ‪Green AI‬

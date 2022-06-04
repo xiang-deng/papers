@@ -1,8 +1,0 @@
----
-layout: post
-title:  "3DMeT: 3D Medical Image Transformer for Knee Cartilage Defect Assessment"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "S Wang, Z Zhuang, K Xuan, D Qian, Z Xue, J Xu, Y Liu - International Workshop on , 2021"
----
-While convolutional neural networks (CNNs) are dominating the area of computer- aided 3D medical image diagnosis, they are incapable of capturing global information due to the intrinsic locality of convolution. Transformers, another type of neural network empowered with self-attention mechanism, are good at representing global relations, yet computationally expensive and do not generalize well on small datasets. Applying Transformers on 3D medical images has two major problems: 1) Cites: Bert: Pre-training of deep bidirectional transformers for language

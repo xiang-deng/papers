@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Unsupervised Learning of Unbiased Visual Representations"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "CA Barbano, E Tartaglione, M Grangetto - arXiv preprint arXiv:2204.12941, 2022"
----
-Deep neural networks are known for their inability to learn robust representations when biases exist in the dataset. This results in a poor generalization to unbiased datasets, as the predictions strongly rely on peripheral and confounding factors, which are erroneously learned by the network. Many existing works deal with this issue by either employing an explicit supervision on the bias attributes, or assuming prior knowledge about the bias. In this work we study this problem in a more difficult Cites: Distributionally robust neural networks

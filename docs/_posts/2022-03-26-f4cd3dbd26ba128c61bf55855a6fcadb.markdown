@@ -1,8 +1,0 @@
----
-layout: post
-title:  "GRS: Combining Generation and Revision in Unsupervised Sentence Simplification"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "M Dehghan, D Kumar, L Golab - arXiv preprint arXiv:2203.09742, 2022"
----
-We propose GRS: an unsupervised approach to sentence simplification that combines text generation and text revision. We start with an iterative framework in which an input sentence is revised using explicit edit operations, and add paraphrasing as a new edit operation. This allows us to combine the advantages of generative and revision-based approaches: paraphrasing captures complex edit operations, and the use of explicit edit operations in an iterative manner provides Cites: Sentence simplification with deep reinforcement learning

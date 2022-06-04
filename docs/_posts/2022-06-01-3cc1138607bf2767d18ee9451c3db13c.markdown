@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Localization-based active learning (LOCAL) for object detection in 3D point clouds"
+date:   2022-06-01 23:51:30 -0400
+categories: jekyll update
+author: "A Moses, S Jakkampudi, C Danner, D Biega - Geospatial Informatics XII, 2022"
+---
+Deep learning-based object detection and classification in 3D point clouds has numerous applications including defense, autonomous driving, and augmented reality. A challenge in applying deep learning to point clouds is the frequent scarcity of labeled data. Often, one must manually label a large quantity of data for the model to be useful in application. To overcome this challenge, active learning provides a means of minimizing the manual labeling required. The crux of active learning … Cites: ‪Margin-based active learning for structured output spaces‬
