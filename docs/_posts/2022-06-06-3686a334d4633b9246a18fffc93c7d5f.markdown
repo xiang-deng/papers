@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Masked Bayesian Neural Networks: Computation and Optimality"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "I Kong, D Yang, J Lee, I Ohn, Y Kim - arXiv preprint arXiv:2206.00853, 2022"
+---
+As data size and computing power increase, the architectures of deep neural networks (DNNs) have been getting more complex and huge, and thus there is a growing need to simplify such complex and huge DNNs. In this paper, we propose a novel sparse Bayesian neural network (BNN) which searches a good DNN with an appropriate complexity. We employ the masking variables at each node which can turn off some nodes according to the posterior distribution to yield a nodewise sparse …
+Cites: ‪Verified uncertainty calibration‬  

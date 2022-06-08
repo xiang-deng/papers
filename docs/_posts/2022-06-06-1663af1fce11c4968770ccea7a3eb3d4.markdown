@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contrapositive local class inference prediction"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "O Kashefi - 2022"
+---
+Certain types of classification problems may be performed at multiple levels of granularity; for example, we might want to know the sentiment polarity of a document or a sentence, or a phrase. Making more localized prediction (eg, words or phrases), however, is relatively harder because the role of smaller text units depends on the context in which they are used (eg, sentences or paragraphs), and training a supervised model to take the context into account, requires labeled training corpora …
+Cites: ‪Deep semantic role labeling: What works and what’s next‬  

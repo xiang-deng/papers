@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "When Can We Answer Queries Using Result-Bounded Data Interfaces?"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "M Benedikt, A Amarilli - Logical Methods in Computer Science, 2022"
+---
+We consider answering queries on data available through access methods, that provide lookup access to the tuples matching a given binding. Such interfaces are common on the Web; further, they often have bounds on how many results they can return, eg, because of pagination or rate limits. We thus study result-bounded methods, which may return only a limited number of tuples. We study how to decide if a query is answerable using result-bounded methods, ie, how to compute a plan that …
+Cites: ‪Answering queries using views‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BRExIt: On Opponent Modelling in Expert Iteration"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "D Hernandez, H Baier, M Kaisers - arXiv preprint arXiv:2206.00113, 2022"
+---
+Finding a best response policy is a central objective in game theory and multi-agent learning, with modern population-based training approaches employing reinforcement learning algorithms as best-response oracles to improve play against candidate opponents (typically previously learnt policies). We propose Best Response Expert Iteration (BRExIt), which accelerates learning in games by incorporating opponent models into the state-of-the-art learning algorithm Expert …
+Cites: ‪Opponent modeling in deep reinforcement learning‬  

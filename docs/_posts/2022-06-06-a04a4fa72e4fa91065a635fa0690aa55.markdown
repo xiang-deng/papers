@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RoCourseNet: Distributionally Robust Training of a Prediction Aware Recourse Model"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "H Guo, F Jia, J Chen, A Squicciarini, A Yadav - arXiv preprint arXiv:2206.00700, 2022"
+---
+Counterfactual (CF) explanations for machine learning (ML) models are preferred by end-users, as they explain the predictions of ML models by providing a recourse case to individuals who are adversely impacted by predicted outcomes. Existing CF explanation methods generate recourses under the assumption that the underlying target ML model remains stationary over time. However, due to commonly occurring distributional shifts in training data, ML models constantly get updated in practice …
+Cites: ‪Generalized inner loop meta-learning‬  

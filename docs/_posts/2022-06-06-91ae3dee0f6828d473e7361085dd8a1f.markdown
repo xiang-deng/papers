@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Federated Learning under Distributed Concept Drift"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "E Jothimurugesan, K Hsieh, J Wang, G Joshi… - arXiv preprint arXiv …, 2022"
+---
+Federated Learning (FL) under distributed concept drift is a largely unexplored area. Although concept drift is itself a well-studied phenomenon, it poses particular challenges for FL, because drifts arise staggered in time and space (across clients). Our work is the first to explicitly study data heterogeneity in both dimensions. We first demonstrate that prior solutions to drift adaptation, with their single global model, are ill-suited to staggered drifts, necessitating multi-model solutions. We identify the …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬  

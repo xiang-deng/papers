@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bilinear pooling in video-QA: empirical challenges and motivational drift from neurological parallels"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "T Winterbottom, S Xiao, A McLean, N Al Moubayed - PeerJ Computer Science, 2022"
+---
+Bilinear pooling (BLP) refers to a family of operations recently developed for fusing features from different modalities predominantly for visual question answering (VQA) models. Successive BLP techniques have yielded higher performance with lower computational expense, yet at the same time they have drifted further from the original motivational justification of bilinear models, instead becoming empirically motivated by task performance. Furthermore, despite significant success in text …
+Cites: ‪Bidirectional Attention Flow for Machine Comprehension‬  

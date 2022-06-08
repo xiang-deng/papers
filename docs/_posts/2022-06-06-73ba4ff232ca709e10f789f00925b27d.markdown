@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Comparing neural models for nested and overlapping biomedical event detection"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "K Espinosa, P Georgiadis, F Christopoulou, M Ju… - BMC bioinformatics, 2022"
+---
+Nested and overlapping events are particularly frequent and informative structures in biomedical event extraction. However, state-of-the-art neural models either neglect those structures during learning or use syntactic features and external tools to detect them. To overcome these limitations, this paper presents and compares two neural models: a novel EXhaustive Neural Network (EXNN) and a Search-Based Neural Network (SBNN) for detection of nested and overlapping events. We evaluate the …
+Cites: ‪Robust biomedical event extraction with dual decomposition and …‬  

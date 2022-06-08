@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fast-Paced Improvements to Named Entity Handling for Neural Machine Translation"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "P Mota, V Cabarrão, E Farah - Proceedings of the 23rd Annual Conference of the …, 2022"
+---
+In this work, we propose a Named Entity handling approach to improve translation quality within an existing Natural Language Processing (NLP) pipeline without modifying the Neural Machine Translation (NMT) component. Our approach seeks to enable fast delivery of such improvements and alleviate user experience problems related to NE distortion. We implement separate NE recognition and translation steps. Then, a combination of standard entity masking technique and a novel …
+Cites: ‪Stanza: A python natural language processing toolkit for many …‬  

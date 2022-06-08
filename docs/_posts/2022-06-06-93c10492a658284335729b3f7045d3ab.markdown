@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Differentiable Soft-Masked Attention"
+date:   2022-06-06 21:51:57 -0400
+categories: jekyll update
+author: "A Athar, J Luiten, A Hermans, D Ramanan, B Leibe - arXiv preprint arXiv:2206.00182, 2022"
+---
+Transformers have become prevalent in computer vision due to their performance and flexibility in modelling complex operations. Of particular significance is the cross-attention operation, which allows a vector representation (eg of an object in an image) to be learned by attending to an arbitrarily sized set of input features. Recently,  Masked Attention  was proposed in which a given object representation only attends to those image pixel features for which the segmentation mask of that …
+Cites: ‪Train short, test long: Attention with linear biases enables input …‬  
