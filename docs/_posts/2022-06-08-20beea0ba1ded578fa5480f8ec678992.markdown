@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Subject-aware Attention Hierarchical Tagger for Joint Entity and Relation Extraction"
+date:   2022-06-08 12:58:29 -0400
+categories: jekyll update
+author: "Y Zhao, X Li - International Conference on Advanced Information …, 2022"
+---
+Joint entity and relation extraction aims to detect entities and relations from unstructured text by a single model. This task becomes challenging due to the problem of overlapping relational triples and the lack of internal interaction of triples. In this paper, we propose a Subject-aware Attention Hierarchical Tagger (SAHT) to overcome these challenges. Firstly, this model identifies all subjects through a subject tagger. Secondly, the subject-aware attention mechanism that incorporates …
+Cites: ‪End-to-end Relation Extraction using LSTMs on Sequences and …‬  

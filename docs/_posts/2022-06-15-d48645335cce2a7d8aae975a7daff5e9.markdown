@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic Inpainting on Segmentation Map via Multi-Expansion Loss"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "J He, X Zhang, S Lei, S Wang, CT Lu, B Xiao - Neurocomputing, 2022"
+---
+Abstract Semantic Inpainting on Segmentation Map (SISM) aims to manipulate segmentation maps by semantics. Recent works show SISM provides semantic-aware auxiliary information for better style or structure manipulations. Providing structural assistance, segmentation maps have been broadly used as an intermediate interface to achieve better image manipulation. Mainstream solutions of image manipulation use Generative Adversarial Net (GAN) globally, locally or jointly …
+Cites: ‪Rethinking pre-training and self-training‬  

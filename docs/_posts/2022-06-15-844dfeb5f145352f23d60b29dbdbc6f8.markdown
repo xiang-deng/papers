@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Extracting automata from recurrent neural networks using queries and counterexamples (extended version)"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "G Weiss, Y Goldberg, E Yahav - Machine Learning, 2022"
+---
+We consider the problem of extracting a deterministic finite automaton (DFA) from a trained recurrent neural network (RNN). We present a novel algorithm that uses exact learning and abstract interpretation to perform efficient extraction of a minimal DFA describing the state dynamics of a given RNN. We use Angluin s\(\hbox {L}^{*}\) algorithm as a learner and the given RNN as an oracle, refining the abstraction of the RNN only as much as necessary for answering equivalence queries. Our technique …
+Cites: ‪RNNs can generate bounded hierarchical languages with optimal …‬  

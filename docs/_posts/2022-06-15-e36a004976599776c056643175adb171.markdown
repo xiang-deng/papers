@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Meta-Learning Transferable Parameterized Skills"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "H Fu, S Yu, S Tiwari, G Konidaris, M Littman - arXiv preprint arXiv:2206.03597, 2022"
+---
+We propose a novel parameterized skill-learning algorithm that aims to learn transferable parameterized skills and synthesize them into a new action space that supports efficient learning in long-horizon tasks. We first propose novel learning objectives--trajectory-centric diversity and smoothness--that allow an agent to meta-learn reusable parameterized skills. Our agent can use these learned skills to construct a temporally-extended parameterized-action Markov decision process, for …
+Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬  

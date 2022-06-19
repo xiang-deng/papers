@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Multi-turn and Multi-Granularity Reader for Document-level Event Extraction"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "H Yang, Y Chen, K Liu, J Zhao, Z Zhao, W Sun - Transactions on Asian and Low …, 2022"
+---
+Most existing event extraction (EE) works mainly focus on extracting events from one sentence. However, in real-world applications, arguments of one event may scatter across sentences and multiple events may co-occur in one document. Thus these scenarios require document-level event extraction (DEE) which aims to extract events and their arguments across sentences from a document. Previous works cast DEE as a two-step paradigm: sentence-level event argument extraction (SEE) to …
+Cites: ‪Modeling biological processes for reading comprehension‬  

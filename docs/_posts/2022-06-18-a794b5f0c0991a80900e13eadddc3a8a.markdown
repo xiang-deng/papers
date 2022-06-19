@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SRCB at the NTCIR-16 Real-MedNLP Task"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "Y Zhang, R Cheng, L Luo, H Gao, S Jiang, B Dong"
+---
+The SRCB participated in subtask1: Few-resource Named Entity Recognition (NER) and subtask3: Adverse Drug Event detection (ADE) in NTCIR-16 Real-MedNLP. This paper reports our approach to solve the problem and discusses the official results. For the Fewresource NER subtask, we developed NER systems based on pretraining model, span-based classification and prompt learning. In addition, data augmentation and model ensemble are used to further improve performance. For …
+Cites: ‪Prompt-Learning for Fine-Grained Entity Typing‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GateHUB: Gated History Unit With Background Suppression for Online Action Detection"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "J Chen, G Mittal, Y Yu, Y Kong, M Chen - Proceedings of the IEEE/CVF Conference …, 2022"
+---
+Online action detection is the task of predicting the action as soon as it happens in a streaming video. A major challenge is that the model does not have access to the future and has to solely rely on the history, ie, the frames observed so far, to make predictions. It is therefore important to accentuate parts of the history that are more informative to the prediction of the current frame. We present GateHUB, Gated History Unit with Background Suppression, that comprises a novel position-guided …
+Cites: ‪WOAD: Weakly supervised online action detection in untrimmed …‬  

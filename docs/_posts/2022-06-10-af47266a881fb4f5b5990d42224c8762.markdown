@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Weakly-Supervised Generation and Grounding of Visual Descriptions With Conditional Generative Models"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "E Mavroudi, R Vidal - Proceedings of the IEEE/CVF Conference on Computer …, 2022"
+---
+Given weak supervision from image-or video-caption pairs, we address the problem of grounding (localizing) each object word of a ground-truth or generated sentence describing a visual input. Recent weakly-supervised approaches leverage region proposals and ground words based on the region attention coefficients of captioning models. To predict each next word in the sentence they attend over regions using a summary of the previous words as a query, and then ground the word by selecting …
+Cites: ‪A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text‬  

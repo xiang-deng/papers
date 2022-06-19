@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "C Chen, Z Tan, Q Cheng, X Jiang, Q Liu, Y Zhu, X Gu - Proceedings of the IEEE/CVF …, 2022"
+---
+Visual Dialog aims to answer multi-round, interactive questions based on the dialog history and image content. Existing methods either consider answer ranking and generating individually or only weakly capture the relation across the two tasks implicitly by two separate models. The research on a universal framework that jointly learns to rank and generate answers in a single model is seldom explored. In this paper, we propose a contrastive learning-based framework UTC to unify and …
+Cites: ‪Oscar: Object-semantics aligned pre-training for vision-language …‬  

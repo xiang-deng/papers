@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Denoising Pretraining for Semantic Segmentation"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "EA Brempong, S Kornblith, T Chen, N Parmar… - Proceedings of the IEEE …, 2022"
+---
+Semantic segmentation labels are expensive and time consuming to acquire. To improve label efficiency of semantic segmentation models, we revisit denoising autoencoders and study the use of a denoising objective for pretraining UNets. We pretrain a Transformer-based UNet as a denoising autoencoder, followed by fine-tuning on semantic segmentation using few labeled examples. Denoising pretraining outperforms training from random initialization, and even supervised ImageNet-21K …
+Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬  

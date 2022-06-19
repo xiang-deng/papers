@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "cycle text2face: cycle text-to-face gan via transformers"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "F Gholamrezaie, M Manthouri - arXiv preprint arXiv:2206.04503, 2022"
+---
+Text-to-face is a subset of text-to-image that require more complex architecture due to their more detailed production. In this paper, we present an encoder-decoder model called Cycle Text2Face. Cycle Text2Face is a new initiative in the encoder part, it uses a sentence transformer and GAN to generate the image described by the text. The Cycle is completed by reproducing the text of the face in the decoder part of the model. Evaluating the model using the CelebA dataset, leads to better results …
+Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, M‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CLAP: Learning Audio Concepts From Natural Language Supervision"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "B Elizalde, S Deshmukh, MA Ismail, H Wang - arXiv preprint arXiv:2206.04769, 2022"
+---
+Mainstream Audio Analytics models are trained to learn under the paradigm of one class label to many recordings focusing on one task. Learning under such restricted supervision limits the flexibility of models because they require labeled audio for training and can only predict the predefined categories. Instead, we propose to learn audio concepts from natural language supervision. We call our approach Contrastive Language-Audio Pretraining (CLAP), which learns to connect language and audio …
+Cites: ‪Bigssl: Exploring the frontier of large-scale semi-supervised …‬  

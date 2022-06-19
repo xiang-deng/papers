@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Revisiting AP Loss for Dense Object Detection: Adaptive Ranking Pair Selection"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "D Xu, J Deng, W Li - Proceedings of the IEEE/CVF Conference on Computer …, 2022"
+---
+Average precision (AP) loss has recently shown promising performance on the dense object detection task. However, a deep understanding of how AP loss affects the detector from a pairwise ranking perspective has not yet been developed. In this work, we revisit the average precision (AP) loss and reveal that the crucial element is that of selecting the ranking pairs between positive and negative samples. Based on this observation, we propose two strategies to improve the AP loss. The first of these …
+Cites: ‪Learning from noisy anchors for one-stage object detection‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Interpretable Mixture of Experts for Structured Data"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "AA Ismail, SÖ Arik, J Yoon, A Taly, S Feizi, T Pfister - arXiv preprint arXiv:2206.02107, 2022"
+---
+With the growth of machine learning for structured data, the need for reliable model explanations is essential, especially in high-stakes applications. We introduce a novel framework, Interpretable Mixture of Experts (IME), that provides interpretability for structured data while preserving accuracy. IME consists of an assignment module and a mixture of interpretable experts such as linear models where each sample is assigned to a single interpretable expert. This results in an inherently-interpretable …
+Cites: ‪Learning to deceive with attention-based explanations‬  

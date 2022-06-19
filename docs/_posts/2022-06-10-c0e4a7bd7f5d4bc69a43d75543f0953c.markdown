@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DynaMaR: Dynamic Prompt with Mask Token Representation"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "X Sun, S Rajagopalan, P Nigam, W Lu, Y Xu, B Zeng… - arXiv preprint arXiv …, 2022"
+---
+Recent research has shown that large language models pretrained using unsupervised approaches can achieve significant performance improvement on many downstream tasks. Typically when adapting these language models to downstream tasks, like a classification or regression task, we employ a fine-tuning paradigm in which the sentence representation from the language model is input to a task-specific head; the model is then fine-tuned end-to-end. However, with the …
+Cites: ‪Mixout: Effective regularization to finetune large-scale pretrained …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unraveling egocentric actions with vision and language"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "RG Pasca - 2022"
+---
+This work is one of the first to treat next-active object (NAO) prediction as an end-to-end deep learning multimodal prediction problem. The NAO prediction task requires localizing the object that an actor will interact with in the short-term future and classifying the type of interaction that will take place. We take it further by including natural language descriptions of the recently executed actions which provide additional, higher-level information about the goals of the actor and past scene …
+Cites: ‪Merlot: Multimodal neural script knowledge models‬  

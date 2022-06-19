@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On the Advance of Making Language Models Better Reasoners"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "Y Li, Z Lin, S Zhang, Q Fu, B Chen, JG Lou, W Chen - arXiv preprint arXiv:2206.02336, 2022"
+---
+Large language models such as GPT-3 and PaLM have shown remarkable performance in few-shot learning. However, they still struggle with reasoning tasks such as the arithmetic benchmark GSM8K. Recent advances deliberately guide the language model to generate a chain of reasoning steps before producing the final answer, successfully boosting the GSM8K benchmark from 17.9% to 58.1% in terms of problem solving rate. In this paper, we propose a new approach, DiVeRSe …
+Cites: ‪Abductive commonsense reasoning‬  

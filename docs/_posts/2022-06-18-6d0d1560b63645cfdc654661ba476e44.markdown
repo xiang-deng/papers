@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Demonstrating ASET: Ad-hoc Structured Exploration of Text Collections"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "B Hättasch, JM Bodensohn, C Binnig - … of the 2022 International Conference on …, 2022"
+---
+In this demo, we present ASET, a novel tool to explore the contents of unstructured data (text) by automatically transforming relevant parts into tabular form. ASET works in an ad-hoc manner without the need to curate extraction pipelines for the (unseen) text collection or to annotate large amounts of training data. The main idea is to use a new two-phased approach that first extracts a superset of information nuggets from the texts using existing extractors such as named entity recognizers. In a second …
+Cites: ‪Stanza: A python natural language processing toolkit for many …‬  

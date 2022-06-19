@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unveiling Transformers with LEGO: a synthetic reasoning task"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "Y Zhang, A Backurs, S Bubeck, R Eldan, S Gunasekar… - arXiv preprint arXiv …, 2022"
+---
+We propose a synthetic task, LEGO (Learning Equality and Group Operations), that encapsulates the problem of following a chain of reasoning, and we study how the transformer architecture learns this task. We pay special attention to data effects such as pretraining (on seemingly unrelated NLP tasks) and dataset composition (eg, differing chain length at training and test time), as well as architectural variants such as weight-tied layers or adding convolutional components. We study how the trained …
+Cites: ‪Palm: Scaling language modeling with pathways‬  

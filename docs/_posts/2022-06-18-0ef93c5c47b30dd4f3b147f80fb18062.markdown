@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IGN: Implicit Generative Networks"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "H Luo, T Wu, F Han, Z Yan, J Zhang - arXiv preprint arXiv:2206.05860, 2022"
+---
+In this work, we build recent advances in distributional reinforcement learning to give a state-of-art distributional variant of the model based on the IQN. We achieve this by using the GAN model s generator and discriminator function with the quantile regression to approximate the full quantile value for the state-action return distribution. We demonstrate improved performance on our baseline dataset-57 Atari 2600 games in the ALE. Also, we use our algorithm to show the state-of-art training …
+Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬  

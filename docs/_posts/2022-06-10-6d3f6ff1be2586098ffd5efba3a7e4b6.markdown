@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pyramid adversarial training improves vit performance"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "C Herrmann, K Sargent, L Jiang, R Zabih, H Chang… - Proceedings of the IEEE …, 2022"
+---
+Aggressive data augmentation is a key component of the strong generalization capabilities of Vision Transformer (ViT). One such data augmentation technique is adversarial training (AT); however, many prior works have shown that this often results in poor clean accuracy. In this work, we present pyramid adversarial training (PyramidAT), a simple and effective technique to improve ViT s overall performance. We pair it with a  matched  Dropout and stochastic depth regularization, which …
+Cites: ‪Adversarial examples improve image recognition‬  

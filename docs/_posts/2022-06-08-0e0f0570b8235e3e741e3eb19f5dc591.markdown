@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On the form of parsed sentences for relation extraction"
+date:   2022-06-08 12:58:29 -0400
+categories: jekyll update
+author: "X Chen, M Zhang, S Xiong, T Qian - Knowledge-Based Systems, 2022"
+---
+Parsed sentences convey rich syntactic information like part-of-speech (POS) tags and dependency trees, and have been widely adopted in relation extraction. However, existing methods either suffer from error propagation when using tree or graph form of the imperfect parse tree, or neglect the independent POS sequence because each POS embedding is combined with a word embedding to form the representation of the word. We propose to exploit the sequential form of POS tags …
+Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Explicit Graph Reasoning Fusing Knowledge and Contextual Information for Multi-hop Question Answering"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "Z Deng, Y Zhu, Q Qi, M Witbrock, PJ Riddle - … 2022 Workshop on Deep Learning on …, 2022"
+---
+Current graph-neural-network-based (GNN-based) approaches to multi-hop questions integrate clues from scattered paragraphs in an entity graph, achieving implicit reasoning by synchronous update of graph node representations using information from neighbours; this is poorly suited for explaining how clues are passed through the graph in hops. In this paper, we describe a structured Knowledge and contextual Information Fusion GNN (KIFGraph) whose explicit multi-hop graph …
+Cites: ‪Unsupervised question decomposition for question answering‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to Estimate Shapley Values with Vision Transformers"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "I Covert, C Kim, SI Lee - arXiv preprint arXiv:2206.05282, 2022"
+---
+Transformers have become a default architecture in computer vision, but understanding what drives their predictions remains a challenging problem. Current explanation approaches rely on attention values or input gradients, but these give a limited understanding of a model s dependencies. Shapley values offer a theoretically sound alternative, but their computational cost makes them impractical for large, high-dimensional models. In this work, we aim to make Shapley values …
+Cites: ‪What does BERT look at? An analysis of BERT's attention‬  

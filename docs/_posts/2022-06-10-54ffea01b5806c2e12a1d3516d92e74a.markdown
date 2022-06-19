@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Calibrating Deep Neural Networks by Pairwise Constraints"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "J Cheng, N Vasconcelos - Proceedings of the IEEE/CVF Conference on Computer …, 2022"
+---
+It is well known that deep neural networks (DNNs) produce poorly calibrated estimates of class-posterior probabilities. We hypothesize that this is due to the limited calibration supervision provided by the cross-entropy loss, which places all emphasis on the probability of the true class and mostly ignores the remaining. We consider how each example can supervise all classes and show that the calibration of a C-way classification problem is equivalent to the calibration of C (C-1)/2 pairwise …
+Cites: ‪Verified uncertainty calibration‬  

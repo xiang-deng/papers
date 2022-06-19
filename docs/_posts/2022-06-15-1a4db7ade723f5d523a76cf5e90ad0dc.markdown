@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to generate imaginary tasks for improving generalization in meta-learning"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "Y Wu, LK Huang, Y Wei - arXiv preprint arXiv:2206.04335, 2022"
+---
+The success of meta-learning on existing benchmarks is predicated on the assumption that the distribution of meta-training tasks covers meta-testing tasks. Frequent violation of the assumption in applications with either insufficient tasks or a very narrow meta-training task distribution leads to memorization or learner overfitting. Recent solutions have pursued augmentation of meta-training tasks, while it is still an open question to generate both correct and sufficiently imaginary tasks. In …
+Cites: ‪DReCa: A general task augmentation strategy for few-shot natural …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Discriminative Models Can Still Outperform Generative Models in Aspect Based Sentiment Analysis"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "D Mullick, A Fyshe, B Ghanem - arXiv preprint arXiv:2206.02892, 2022"
+---
+Aspect-based Sentiment Analysis (ABSA) helps to explain customers  opinions towards products and services. In the past, ABSA models were discriminative, but more recently generative models have been used to generate aspects and polarities directly from text. In contrast, discriminative models commonly first select aspects from the text, and then classify the aspect s polarity. Previous results showed that generative models outperform discriminative models on several English ABSA …
+Cites: ‪Aspect level sentiment classification with deep memory network‬  

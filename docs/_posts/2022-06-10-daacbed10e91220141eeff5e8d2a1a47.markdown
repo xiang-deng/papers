@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Gene Ontology Description Generation: Task, Dataset, Model"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "F Liu, B Yang, C You, X Wu, S Ge, A Woicik, S Wang - 2022"
+---
+Gene Ontology (GO) is the primary gene function knowledge base that enables computational tasks in biomedicine. The basic element of GO is a term, which includes a set of genes with the same function. Existing research efforts of GO mainly focus on predicting gene term associations. Other tasks, such as generating descriptions of new terms, are rarely pursued. In this paper, we propose a novel task: GO term description generation. This task aims to automatically generate a sentence …
+Cites: ‪Text generation from knowledge graphs with graph transformers‬  

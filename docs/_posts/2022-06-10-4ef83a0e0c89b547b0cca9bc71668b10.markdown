@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Decentralized Training of Foundation Models in Heterogeneous Environments"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "B Yuan, Y He, JQ Davis, T Zhang, T Dao, B Chenâ€¦Â - arXiv preprint arXivÂ â€¦, 2022"
+---
+Training foundation models, such as GPT-3 and PaLM, can be extremely expensive, often involving tens of thousands of GPUs running continuously for months. These models are typically trained in specialized clusters featuring fast, homogeneous interconnects and using carefully designed software systems that support both data parallelism and model/pipeline parallelism. Such dedicated clusters can be costly and difficult to obtain. Can we instead leverage the much greater amount ofÂ â€¦
+Cites: â€ªPalm: Scaling language modeling with pathwaysâ€¬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Leveraging a Bilingual Corpus to Resolve Date–Duration Ambiguity in Japanese Numeric Day Expressions"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "K Kinugawa, H Mino, I Goto, I Yamada - Journal of Natural Language Processing, 2022"
+---
+抄録 In Japanese, time expressions are often unaccompanied by explicit temporal markers, and thus their temporal types are not always obvious. One of the most representative cases is date–duration ambiguity arising from the commonly used time expression,“** 日 [** nichi].” To build a supervised classifier for this ambiguity while minimizing the annotation burden, we introduce an automatic label generation method using a bilingual corpus. Inspired by an annotation projection technique, we …
+Cites: ‪CogCompTime: A tool for understanding time in natural language‬  

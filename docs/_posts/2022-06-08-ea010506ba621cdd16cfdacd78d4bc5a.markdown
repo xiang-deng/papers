@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Text sentiment classification method based on DPCNN and BiLSTM"
+date:   2022-06-08 12:58:29 -0400
+categories: jekyll update
+author: "W Huang, J Nie, X Huang - ITM Web of Conferences, 2022"
+---
+In recent years, deep learning network models have been widely used in the aspect of text emotion classification and have achieved remarkable achievements. The traditional TextCNN network can only extract local spatial features of sentences, while the improved DPCNN model has the ability to capture long-distance dependence of the text by deepening the network depth. At the same time, bi-LSTM model is characterized by learning temporal information of text. Therefore, this paper …
+Cites: ‪A C-LSTM Neural Network for Text Classification‬  

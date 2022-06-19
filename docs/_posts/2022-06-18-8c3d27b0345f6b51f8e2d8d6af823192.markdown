@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contrastive Learning for Unsupervised Domain Adaptation of Time Series"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "Y Ozyurt, S Feuerriegel, C Zhang - arXiv preprint arXiv:2206.06243, 2022"
+---
+Unsupervised domain adaptation (UDA) aims at learning a machine learning model using a labeled source domain that performs well on a similar yet different, unlabeled target domain. UDA is important in many applications such as medicine, where it is used to adapt risk scores across different patient cohorts. In this paper, we develop a novel framework for UDA of time series data, called CLUDA. Specifically, we propose a contrastive learning framework to learn domain-invariant semantics in multivariate …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬  

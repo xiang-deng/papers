@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "J Zhu, X Zhu, W Wang, X Wang, H Li, X Wang, J Dai - arXiv preprint arXiv:2206.04674, 2022"
+---
+To build an artificial neural network like the biological intelligence system, recent works have unified numerous tasks into a generalist model, which can process various tasks with shared parameters and do not have any task-specific modules. While generalist models achieve promising results on various benchmarks, they have performance degradation on some tasks compared with task-specialized models. In this work, we find that interference among different tasks and modalities is …
+Cites: ‪GLaM: Efficient Scaling of Language Models with Mixture-of-Experts‬  

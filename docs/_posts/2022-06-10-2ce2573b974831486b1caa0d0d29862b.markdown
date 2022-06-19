@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Neural Corpus Indexer for Document Retrieval"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "Y Wang, Y Hou, H Wang, Z Miao, S Wu, H Sun, Q Chen… - arXiv preprint arXiv …, 2022"
+---
+Current state-of-the-art document retrieval solutions mainly follow an index-retrieve paradigm, where the index is hard to be optimized for the final retrieval target. In this paper, we aim to show that an end-to-end deep neural network unifying training and indexing stages can significantly improve the recall performance of traditional methods. To this end, we propose Neural Corpus Indexer (NCI), a sequence-to-sequence network that generates relevant document identifiers directly for a …
+Cites: ‪Autoregressive Search Engines: Generating Substrings as …‬  

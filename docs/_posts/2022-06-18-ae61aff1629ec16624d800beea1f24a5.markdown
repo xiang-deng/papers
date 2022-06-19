@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bilateral Dependency Optimization: Defending Against Model-inversion Attacks"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "X Peng, F Liu, J Zhang, L Lan, J Ye, T Liu, B Han - arXiv preprint arXiv:2206.05483, 2022"
+---
+Through using only a well-trained classifier, model-inversion (MI) attacks can recover the data used for training the classifier, leading to the privacy leakage of the training data. To defend against MI attacks, previous work utilizes a unilateral dependency optimization strategy, ie, minimizing the dependency between inputs (ie, features) and outputs (ie, labels) during training the classifier. However, such a minimization process conflicts with minimizing the supervised loss that aims to maximize the …
+Cites: ‪Thieves on Sesame Street! Model Extraction of BERT-based APIs‬  

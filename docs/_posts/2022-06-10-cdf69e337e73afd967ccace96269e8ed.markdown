@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ADSF: Node Classification via Adaptive Structural Fingerprints"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "Y Zhu, J Wang, J Zhang, K Zhang - Neurocomputing, 2022"
+---
+Graph attention network (GAT) is a promising framework for message passing on graphs, but how to exploit rich, high-order structural information in the attention mechanism is still an open challenge. Furthermore, increasing the attention range to more than one-hop neighbors can negatively affect the performance of GAT, reflecting the over-smoothing risk of graph neural networks in general. In this paper, we propose an “adaptive structural fingerprint” model to fully exploit complex graph …
+Cites: ‪Graph neural networks: A review of methods and applications‬  

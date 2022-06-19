@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Distantly Supervised Document-Level Relation Extraction Through Natural Language Inference"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "CVGE Lee, A Pierleoni"
+---
+The distant supervision (DS) paradigm has been widely used for relation extraction (RE) to alleviate the need for expensive annotations. However, it suffers from noisy labels, which leads to worse performance than models trained on human-annotated data, even when trained using hundreds of times more data. We present a systematic study on the use of natural language inference (NLI) to improve distantly supervised document-level RE. We apply NLI in three scenarios:(i) as a filter for denoising DS …
+Cites: ‪Denoising Relation Extraction from Document-level Distant …‬  

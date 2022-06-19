@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Per-Instance Privacy Accounting for Differentially Private Stochastic Gradient Descent"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "D Yu, G Kamath, J Kulkarni, J Yin, TY Liu, H Zhang - arXiv preprint arXiv:2206.02617, 2022"
+---
+Differentially private stochastic gradient descent (DP-SGD) is the workhorse algorithm for recent advances in private deep learning. It provides a single privacy guarantee to all datapoints in the dataset. We propose an efficient algorithm to compute per-instance privacy guarantees for individual examples when running DP-SGD. We use our algorithm to investigate per-instance privacy losses across a number of datasets. We find that most examples enjoy stronger privacy guarantees …
+Cites: ‪Large language models can be strong differentially private learners‬  

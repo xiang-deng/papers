@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Is Self-Supervised Learning More Robust Than Supervised Learning?"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "Y Zhong, H Tang, J Chen, J Peng, YX Wang - arXiv preprint arXiv:2206.05259, 2022"
+---
+Self-supervised contrastive learning is a powerful tool to learn visual representation without labels. Prior work has primarily focused on evaluating the recognition accuracy of various pre-training algorithms, but has overlooked other behavioral aspects. In addition to accuracy, distributional robustness plays a critical role in the reliability of machine learning models. We design and conduct a series of robustness tests to quantify the behavioral differences between contrastive learning and …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬  

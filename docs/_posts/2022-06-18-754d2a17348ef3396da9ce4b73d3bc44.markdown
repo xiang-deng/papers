@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to Efficiently Propagate for Reasoning on Knowledge Graphs"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "Z Zhu, X Yuan, LP Xhonneux, M Zhang, M Gazeau… - arXiv preprint arXiv …, 2022"
+---
+Path-based methods are more appealing solutions than embedding methods for knowledge graph reasoning, due to their interpretability and generalization ability to unseen graphs. However, path-based methods usually suffer from the problem of scalability, as the time complexity grows exponentially wrt the length of paths. While recent methods compute reasoning paths with the Bellman-Ford algorithm in polynomial time, the time and memory cost remains very high, as they need to …
+Cites: ‪Compositional learning of embeddings for relation paths in …‬  

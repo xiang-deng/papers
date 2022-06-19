@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On Gradient Descent Convergence beyond the Edge of Stability"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "L Chen, J Bruna - arXiv preprint arXiv:2206.04172, 2022"
+---
+Gradient Descent (GD) is a powerful workhorse of modern machine learning thanks to its scalability and efficiency in high-dimensional spaces. Its ability to find local minimisers is only guaranteed for losses with Lipschitz gradients, where it can be seen as a bona-fide discretisation of an underlying gradient flow. Yet, many ML setups involving overparametrised models do not fall into this problem class, which has motivated research beyond the so-called  Edge of Stability , where the step-size …
+Cites: ‪Catastrophic fisher explosion: Early phase fisher matrix impacts …‬  

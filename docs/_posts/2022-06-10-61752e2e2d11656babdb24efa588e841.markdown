@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Annotation sémantique pour la géolocalisation d entités spatiales dans des tweets"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "G Caillaut, C Gracianne, S Auclair, N Abadie, G Touya - PFIA Résilience et IA, 2022"
+---
+Cet article présente une méthode d annotation sémantique (Entity Linking) dédiée à la géolocalisation de messages postés sur les réseaux sociaux. Nous proposons une variante de l architecture à double encodeur capable de détecter simultanément les mentions des entités présentes dans un texte et d en calculer des représentations vectorielles; là où les travaux récents menés dans ce domaine ne proposent que des systèmes capable de produire une représentation pour une unique entité annotée …
+Cites: ‪Scalable zero-shot entity linking with dense entity retrieval‬  

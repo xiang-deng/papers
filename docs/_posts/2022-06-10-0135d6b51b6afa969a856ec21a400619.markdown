@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Amund Faller Råheim"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "F Wei-Kleiner - 2022"
+---
+Entity Linking aims to connect mentioned names in a text to unambiguous entities in a knowledge base. State-of-the-art approaches are deep neural network models based on one or more instances of BERT. With the use of a Candidate Generation step between Mention Detection and Entity Disambiguation, these approaches tend to break the end-to-end capabilities of training deep neural networks. This thesis aims to investigate an end-to-end approach that combines Mention Detection and …
+Cites: ‪Knowledge enhanced contextual word representations‬  

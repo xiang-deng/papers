@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Revisiting Learnable Affines for Batch Norm in Few-Shot Transfer Learning"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "M Yazdanpanah, AA Rahman, M Chaudhary… - Proceedings of the IEEE …, 2022"
+---
+Batch Normalization is a staple of computer vision models, including those employed in few-shot learning. Batch Normalization layers in convolutional neural networks are composed of a normalization step, followed by a shift and scale of these normalized features applied via the per-channel trainable affine parameters gamma and beta. These affine parameters were introduced to maintain the expressive powers of the model following normalization. While this hypothesis holds true for classification …
+Cites: ‪Self-training with noisy student improves imagenet classification‬  

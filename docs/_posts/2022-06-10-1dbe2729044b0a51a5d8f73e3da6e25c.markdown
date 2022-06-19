@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "XPASC: Measuring Generalization in Weak Supervision"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "L März, E Asgari, F Braune, F Zimmermann, B Roth - arXiv preprint arXiv:2206.01444, 2022"
+---
+Weak supervision is leveraged in a wide range of domains and tasks due to its ability to create massive amounts of labeled data, requiring only little manual effort. Standard approaches use labeling functions to specify signals that are relevant for the labeling. It has been conjectured that weakly supervised models over-rely on those signals and as a result suffer from overfitting. To verify this assumption, we introduce a novel method, XPASC (eXPlainability-Association SCore), for measuring …
+Cites: ‪Why Overfitting Isn't Always Bad: Retrofitting Cross-Lingual Word …‬  

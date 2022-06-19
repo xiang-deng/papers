@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Refining neural network predictions using background knowledge"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "A Daniele, E van Krieken, L Serafini, F van Harmelen - arXiv preprint arXiv …, 2022"
+---
+Recent work has showed we can use logical background knowledge in learning system to compensate for a lack of labeled training data. Many such methods work by creating a loss function that encodes this knowledge. However, often the logic is discarded after training, even if it is still useful at test-time. Instead, we ensure neural network predictions satisfy the knowledge by refining the predictions with an extra computation step. We introduce differentiable refinement functions that find a …
+Cites: ‪Palm: Scaling language modeling with pathways‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Less Is More: Linear Layers on CLIP Features as Powerful VizWiz Model"
+date:   2022-06-18 03:19:09 -0400
+categories: jekyll update
+author: "F Deuser, K Habel, PJ Rösch, N Oswald - arXiv preprint arXiv:2206.05281, 2022"
+---
+Current architectures for multi-modality tasks such as visual question answering suffer from their high complexity. As a result, these architectures are difficult to train and require high computational resources. To address these problems we present a CLIP-based architecture that does not require any fine-tuning of the feature extractors. A simple linear classifier is used on the concatenated features of the image and text encoder. During training an auxiliary loss is added which operates on …
+Cites: ‪How Much Can CLIP Benefit Vision-and-Language Tasks?‬  

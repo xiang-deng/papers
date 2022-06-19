@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Recall Distortion in Neural Network Pruning and the Undecayed Pruning Algorithm"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "A Good, J Lin, H Sieg, M Ferguson, X Yu, S Zhe… - arXiv preprint arXiv …, 2022"
+---
+Pruning techniques have been successfully used in neural networks to trade accuracy for sparsity. However, the impact of network pruning is not uniform: prior work has shown that the recall for underrepresented classes in a dataset may be more negatively affected. In this work, we study such relative distortions in recall by hypothesizing an intensification effect that is inherent to the model. Namely, that pruning makes recall relatively worse for a class with recall below accuracy and …
+Cites: ‪Well-read students learn better: The impact of student initialization …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "STable: Table Generation Framework for Encoder-Decoder Models"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "M Pietruszka, M Turski, Ł Borchmann, T Dwojak… - arXiv preprint arXiv …, 2022"
+---
+The output structure of database-like tables, consisting of values structured in horizontal rows and vertical columns identifiable by name, can cover a wide range of NLP tasks. Following this constatation, we propose a framework for text-to-table neural models applicable to problems such as extraction of line items, joint entity and relation extraction, or knowledge base population. The permutation-based decoder of our proposal is a generalized sequential method that comprehends information …
+Cites: ‪Axcell: Automatic extraction of results from machine learning papers‬  

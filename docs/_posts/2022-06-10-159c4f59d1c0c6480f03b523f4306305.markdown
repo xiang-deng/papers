@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Equivariant Reinforcement Learning for Quadrotor UAV"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "B Yu, T Lee - arXiv preprint arXiv:2206.01233, 2022"
+---
+This paper presents an equivariant reinforcement learning framework for quadrotor unmanned aerial vehicles. Successful training of reinforcement learning often requires numerous interactions with the environments, which hinders its applicability especially when the available computational resources are limited, or when there is no reliable simulation model. We identified an equivariance property of the quadrotor dynamics such that the dimension of the state required in the training is reduced by …
+Cites: ‪Coarse-to-fine question answering for long documents‬  

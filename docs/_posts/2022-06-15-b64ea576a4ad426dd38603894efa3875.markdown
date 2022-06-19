@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks"
+date:   2022-06-15 15:55:00 -0400
+categories: jekyll update
+author: "Y Shi, M Chi, T Barnes, T Price - arXiv preprint arXiv:2206.03545, 2022"
+---
+Knowledge tracing (KT) models are a popular approach for predicting students  future performance at practice problems using their prior attempts. Though many innovations have been made in KT, most models including the state-of-the-art Deep KT (DKT) mainly leverage each student s response either as correct or incorrect, ignoring its content. In this work, we propose Code-based Deep Knowledge Tracing (Code-DKT), a model that uses an attention mechanism to automatically extract and …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬  

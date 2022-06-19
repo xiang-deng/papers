@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking the Openness of CLIP"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "S Ren, L Li, X Ren, G Zhao, X Sun - arXiv preprint arXiv:2206.01986, 2022"
+---
+Contrastive Language-Image Pre-training (CLIP) has demonstrated great potential in realizing open-vocabulary image classification in a matching style, because of its holistic use of natural language supervision that covers unconstrained real-world visual concepts. However, it is, in turn, also difficult to evaluate and analyze the openness of CLIP-like models, since they are in theory open to any vocabulary but the actual accuracy varies. To address the insufficiency of conventional studies on …
+Cites: ‪Robust fine-tuning of zero-shot models‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Contrastive Learning of Sentence Embeddings with Case-Augmented Positives and Retrieved Negatives"
+date:   2022-06-10 22:27:43 -0400
+categories: jekyll update
+author: "W Wang, L Ge, J Zhang, C Yang - arXiv preprint arXiv:2206.02457, 2022"
+---
+Following SimCSE, contrastive learning based methods have achieved the state-of-the-art (SOTA) performance in learning sentence embeddings. However, the unsupervised contrastive learning methods still lag far behind the supervised counterparts. We attribute this to the quality of positive and negative samples, and aim to improve both. Specifically, for positive samples, we propose switch-case augmentation to flip the case of the first letter of randomly selected words in a …
+Cites: ‪Neural text generation with unlikelihood training‬  
