@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Conformal Off-Policy Prediction"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "Y Zhang, C Shi, S Luo - arXiv preprint arXiv:2206.06711, 2022"
+---
+Off-policy evaluation is critical in a number of applications where new policies need to be evaluated offline before online deployment. Most existing methods focus on the expected return, define the target parameter through averaging and provide a point estimator only. In this paper, we develop a novel procedure to produce reliable interval estimators for a target policy s return starting from any initial state. Our proposal accounts for the variability of the return around its expectation, focuses on …
+Cites: ‪Doubly robust bias reduction in infinite horizon off-policy estimation‬  

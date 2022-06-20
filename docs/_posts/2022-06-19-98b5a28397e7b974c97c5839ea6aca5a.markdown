@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "J FitzGerald, S Ananthakrishnan, K Arkoudas… - arXiv preprint arXiv …, 2022"
+---
+We present results from a large-scale experiment on pretraining encoders with non-embedding parameter counts ranging from 700M to 9.3 B, their subsequent distillation into smaller models ranging from 17M-170M parameters, and their application to the Natural Language Understanding (NLU) component of a virtual assistant system. Though we train using 70% spoken-form data, our teacher models perform comparably to XLM-R and mT5 when evaluated on the written-form Cross …
+Cites: ‪The multilingual Amazon reviews corpus‬  

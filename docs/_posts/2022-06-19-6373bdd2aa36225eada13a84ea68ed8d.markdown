@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "W Jin, X Liu, Y Ma, C Aggarwal, J Tang - arXiv preprint arXiv:2206.07743, 2022"
+---
+Recent years have witnessed remarkable success achieved by graph neural networks (GNNs) in many real-world applications such as recommendation and drug discovery. Despite the success, oversmoothing has been identified as one of the key issues which limit the performance of deep GNNs. It indicates that the learned node representations are highly indistinguishable due to the stacked aggregators. In this paper, we propose a new perspective to look at the performance degradation of …
+Cites: ‪Graph neural networks: A review of methods and applications‬  

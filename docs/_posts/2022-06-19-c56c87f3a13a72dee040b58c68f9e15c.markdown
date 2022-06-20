@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PInKS: Preconditioned Commonsense Inference with Minimal Supervision"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "E Qasemi, P Khanna, Q Ning, M Chen - arXiv preprint arXiv:2206.07920, 2022"
+---
+Reasoning with preconditions such as  glass can be used for drinking water unless the glass is shattered  remains an open problem for language models. The main challenge lies in the scarcity of preconditions data and the model s lack of support for such reasoning. We present PInKS, Preconditioned Commonsense Inference with WeaK Supervision, an improved model for reasoning with preconditions through minimum supervision. We show, both empirically and theoretically, that PInKS …
+Cites: ‪Winogrande: An adversarial winograd schema challenge at scale‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "P Wu, X Jia, L Chen, J Yan, H Li, Y Qiao - arXiv preprint arXiv:2206.08129, 2022"
+---
+Current end-to-end autonomous driving methods either run a controller based on a planned trajectory or perform control prediction directly, which have spanned two separately studied lines of research. Seeing their potential mutual benefits to each other, this paper takes the initiative to explore the combination of these two well-developed worlds. Specifically, our integrated approach has two branches for trajectory planning and direct control, respectively. The trajectory branch predicts the …
+Cites: ‪Deepfusion: Lidar-camera deep fusion for multi-modal 3d object …‬  

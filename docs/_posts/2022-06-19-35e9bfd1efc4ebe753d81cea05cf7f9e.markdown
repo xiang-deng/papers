@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Abstractive summarization of public opinion in Vietnamese using graph-based method"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "MN Dinh, AQ Tang, NM La - 2022"
+---
+This study develops an abstractive text summarization for multi-document inputs using a two-fold graph-based approach. First, key opinions in the form of topic sentences and feature words are identified using the Stochastic Block Model, a graph-based topic modelling technique. This process filters noisy and non-relevant data from the inputs. Importantly, key aspects are identified to provide labels for the sentence classification task. The second graph-based method is used in the …
+Cites: ‪Unsupervised opinion summarization as copycat-review generation‬  

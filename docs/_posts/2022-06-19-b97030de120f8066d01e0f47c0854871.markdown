@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Let Invariant Rationale Discovery Inspire Graph Contrastive Learning"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "S Li, X Wang, Y Wu, X He, TS Chua - arXiv preprint arXiv:2206.07869, 2022"
+---
+Leading graph contrastive learning (GCL) methods perform graph augmentations in two fashions:(1) randomly corrupting the anchor graph, which could cause the loss of semantic information, or (2) using domain knowledge to maintain salient features, which undermines the generalization to other domains. Taking an invariance look at GCL, we argue that a high-performing augmentation should preserve the salient semantics of anchor graphs regarding instance-discrimination. To this end, we relate …
+Cites: ‪Just train twice: Improving group robustness without training group …‬  

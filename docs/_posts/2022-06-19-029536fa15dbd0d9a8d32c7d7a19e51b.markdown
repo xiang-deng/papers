@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Automatic Clipping: Differentially Private Deep Learning Made Easier and Stronger"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "Z Bu, YX Wang, S Zha, G Karypis - arXiv preprint arXiv:2206.07136, 2022"
+---
+Per-example gradient clipping is a key algorithmic step that enables practical differential private (DP) training for deep learning models. The choice of clipping norm $ R $, however, is shown to be vital for achieving high accuracy under DP. We propose an easy-to-use replacement, called AutoClipping, that eliminates the need to tune $ R $ for any DP optimizers, including DP-SGD, DP-Adam, DP-LAMB and many others. The automatic variants are as private and computationally efficient as …
+Cites: ‪Large language models can be strong differentially private learners‬  

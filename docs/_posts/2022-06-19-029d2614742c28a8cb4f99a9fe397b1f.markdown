@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A universal adversarial policy for text classifiers"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "G Maimon, L Rokach - Neural Networks, 2022"
+---
+Discovering the existence of universal adversarial perturbations had large theoretical and practical impacts on the field of adversarial learning. In the text domain, most universal studies focused on adversarial prefixes which are added to all texts. However, unlike the vision domain, adding the same perturbation to different inputs results in noticeably unnatural inputs. Therefore, we introduce a new universal adversarial setup-a universal adversarial policy, which has many advantages of …
+Cites: ‪Semantically Equivalent Adversarial Rules for Debugging NLP …‬  

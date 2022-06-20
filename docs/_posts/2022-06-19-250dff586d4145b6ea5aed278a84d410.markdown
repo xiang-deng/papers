@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "T Dinh, Y Zeng, R Zhang, Z Lin, S Rajput, M Gira… - arXiv preprint arXiv …, 2022"
+---
+Fine-tuning pretrained language models (LMs) without making any architectural changes has become a norm for learning various language downstream tasks. However, for non-language downstream tasks, a common practice is to employ task-specific designs for input, output layers, and loss functions. For instance, it is possible to fine-tune an LM into an MNIST classifier by replacing the word embedding layer with an image patch embedding layer, the word token output layer with a 10-way …
+Cites: ‪K-adapter: Infusing knowledge into pre-trained models with adapters‬  

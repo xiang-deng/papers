@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Explainable detection of adverse drug reaction with imbalanced data distribution"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "J Wang, LC Yu, X Zhang - PLOS Computational Biology, 2022"
+---
+Analysis of health-related texts can be used to detect adverse drug reactions (ADR). The greatest challenge for ADR detection lies in imbalanced data distributions where words related to ADR symptoms are often minority classes. As a result, trained models tend to converge to a point that strongly biases towards the majority class and then ignores the minority class. Since the most used cross-entropy criteria is an approximation to accuracy, the model focuses more readily on the majority class to …
+Cites: ‪Deep contextualized word representations‬  

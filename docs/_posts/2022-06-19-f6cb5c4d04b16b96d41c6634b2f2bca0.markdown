@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Domain Generalization via Selective Consistency Regularization for Time Series Classification"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "W Zhang, M Ragab, CS Foo - arXiv preprint arXiv:2206.07876, 2022"
+---
+Domain generalization methods aim to learn models robust to domain shift with data from a limited number of source domains and without access to target domain samples during training. Popular domain alignment methods for domain generalization seek to extract domain-invariant features by minimizing the discrepancy between feature distributions across all domains, disregarding inter-domain relationships. In this paper, we instead propose a novel representation …
+Cites: ‪Distributionally robust neural networks for group shifts: On the …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Noisy Learning for Neural ODEs Acts as a Robustness Locus Widening"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "M Gonzalez, H Hajri, L Cantat, M Petreczky - arXiv preprint arXiv:2206.08237, 2022"
+---
+We investigate the problems and challenges of evaluating the robustness of Differential Equation-based (DE) networks against synthetic distribution shifts. We propose a novel and simple accuracy metric which can be used to evaluate intrinsic robustness and to validate dataset corruption simulators. We also propose methodology recommendations, destined for evaluating the many faces of neural DEs  robustness and for comparing them with their discrete counterparts rigorously …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬  

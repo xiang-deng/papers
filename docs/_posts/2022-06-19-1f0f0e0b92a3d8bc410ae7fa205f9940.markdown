@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GoodBye WaveNet--A Language Model for Raw Audio with Context of 1/2 Million Samples"
+date:   2022-06-19 07:39:02 -0400
+categories: jekyll update
+author: "P Verma - arXiv preprint arXiv:2206.08297, 2022"
+---
+Modeling long-term dependencies for audio signals is a particularly challenging problem, as even small-time scales yield on the order of a hundred thousand samples. With the recent advent of Transformers, neural architectures became good at modeling dependencies over longer time scales, but they suffered from quadratic constraints to scale them. We propose a generative auto-regressive architecture that can model audio waveforms over quite a large context, greater than 500,000 …
+Cites: ‪Progen: Language modeling for protein generation‬  
