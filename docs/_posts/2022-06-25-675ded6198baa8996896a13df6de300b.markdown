@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MerIt: improving neural program synthesis by merging collective intelligence"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "Y Zhang, D Wang, W Dong - Automated Software Engineering, 2022"
+---
+Program synthesis is the task of automatically generating programs from user intent, which is one of the central problems in automated software engineering. Recently many researchers use a neural network to learn the distribution over programs based on user intent (such as API and type name), known as neural program synthesis (NPS). The generated programs of NPS are highly dependent on user intent. However, it is difficult for users to provide an accurate and complete intent for …
+Cites: ‪A syntactic neural model for general-purpose code generation‬  

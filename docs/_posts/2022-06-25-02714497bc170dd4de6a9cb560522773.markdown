@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimal Extragradient-Based Bilinearly-Coupled Saddle-Point Optimization"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "SS Du, G Gidel, MI Jordan, CJ Li - arXiv preprint arXiv:2206.08573, 2022"
+---
+We consider the smooth convex-concave bilinearly-coupled saddle-point problem, $\min_ {\mathbf {x}}\max_ {\mathbf {y}}~ F (\mathbf {x})+ H (\mathbf {x},\mathbf {y})-G (\mathbf {y}) $, where one has access to stochastic first-order oracles for $ F $, $ G $ as well as the bilinear coupling function $ H $. Building upon standard stochastic extragradient analysis for variational inequalities, we present a stochastic\emph {accelerated gradient-extragradient (AG-EG)} descent-ascent algorithm that …
+Cites: ‪Stochastic variance reduction methods for policy evaluation‬  

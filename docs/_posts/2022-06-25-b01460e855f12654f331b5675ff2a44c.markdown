@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Query-Efficient and Scalable Black-Box Adversarial Attacks on Discrete Sequential Data via Bayesian Optimization"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "D Lee, S Moon, J Lee, HO Song - arXiv preprint arXiv:2206.08575, 2022"
+---
+We focus on the problem of adversarial attacks against models on discrete sequential data in the black-box setting where the attacker aims to craft adversarial examples with limited query access to the victim model. Existing black-box attacks, mostly based on greedy algorithms, find adversarial examples using pre-computed key positions to perturb, which severely limits the search space and might result in suboptimal solutions. To this end, we propose a query-efficient black-box attack …
+Cites: ‪Word-level Textual Adversarial Attacking as Combinatorial …‬  

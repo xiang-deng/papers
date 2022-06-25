@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Compiling a Highly Accurate Bilingual Lexicon by Combining Different Approaches"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "S Steingrímsson, L O Brien, F Ingimundarson…"
+---
+Bilingual lexicons can be generated automatically using a wide variety of approaches. We perform a rigorous manual evaluation of four different methods: word alignments on different types of bilingual data, pivoting, machine translation and cross-lingual word embeddings. We investigate how the different setups perform using publicly available data for the English-Icelandic language pair, doing separate evaluations for each method, dataset and confidence class where it can be …
+Cites: ‪Word Alignment by Fine-tuning Embeddings on Parallel Corpora‬  

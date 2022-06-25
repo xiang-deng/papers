@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SQL ChatBot–using Context Free Grammar"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "R Patil, S Boit, N Bowman - 2022 IEEE International IOT, Electronics and …, 2022"
+---
+In this work, we derive the semantics of a given English query and convert it into its equivalent SQL query. Instead of using neural networks for semantic analysis of English queries, we opt for a Context Free Grammar approach. Most neural-network-based systems can handle only one semantic at a time, whereas, because of the flexibility offered by our CFG approach, our system manages to handle simultaneous usage of conjunctive, disjunctive, and negative semantics. It also handles complex …
+Cites: ‪Spider: A Large-Scale Human-Labeled Dataset for Complex and …‬  

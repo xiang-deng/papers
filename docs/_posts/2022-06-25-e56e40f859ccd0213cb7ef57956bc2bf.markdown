@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Collocation2Text: Controllable Text Generation from Guide Phrases in Russian"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "S Vychegzhanin, E Kotelnikov - arXiv preprint arXiv:2206.09248, 2022"
+---
+Large pre-trained language models are capable of generating varied and fluent texts. Starting from the prompt, these models generate a narrative that can develop unpredictably. The existing methods of controllable text generation, which guide the narrative in the text in the user-specified direction, require creating a training corpus and an additional time-consuming training procedure. The paper proposes and investigates Collocation2Text, a plug-and-play method for automatic controllable text …
+Cites: ‪Neural text generation with unlikelihood training‬  

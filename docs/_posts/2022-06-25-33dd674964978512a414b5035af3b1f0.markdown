@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "C Niu, C Li, V Ng, J Ge, L Huang, B Luo - … IEEE/ACM 44th International Conference on …, 2022"
+---
+Recent years have seen the successful application of large pretrained models to code representation learning, resulting in substantial improvements on many code-related downstream tasks. But there are issues surrounding their application to SE tasks. First, the majority of the pre-trained models focus on pre-training only the encoder of the Transformer. For generation tasks that are addressed using models with the encoder-decoder architecture, however, there is no reason why the decoder …
+Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Dense Representation Framework for Lexical and Semantic Matching"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "SC Lin, J Lin - arXiv preprint arXiv:2206.09912, 2022"
+---
+Lexical and semantic matching capture different successful approaches to text retrieval and the fusion of their results has proven to be more effective and robust than either alone. Prior work performs hybrid retrieval by conducting lexical and semantic text matching using different systems (eg, Lucene and Faiss, respectively) and then fusing their model outputs. In contrast, our work integrates lexical representations with dense semantic representations by densifying high-dimensional …
+Cites: ‪Sparse, dense, and attentional representations for text retrieval‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "G Cui, L Yuan, B He, Y Chen, Z Liu, M Sun - arXiv preprint arXiv:2206.08514, 2022"
+---
+Textual backdoor attacks are a kind of practical threat to NLP systems. By injecting a backdoor in the training phase, the adversary could control model predictions via predefined triggers. As various attack and defense models have been proposed, it is of great significance to perform rigorous evaluations. However, we highlight two issues in previous backdoor learning evaluations:(1) The differences between real-world scenarios (eg releasing poisoned datasets or models) are neglected, and we …
+Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬  

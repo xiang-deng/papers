@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Fair Representation via Distributional Contrastive Disentanglement"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "C Oh, H Won, J So, T Kim, Y Kim, H Choi, K Song - arXiv preprint arXiv:2206.08743, 2022"
+---
+Learning fair representation is crucial for achieving fairness or debiasing sensitive information. Most existing works rely on adversarial representation learning to inject some invariance into representation. However, adversarial learning methods are known to suffer from relatively unstable training, and this might harm the balance between fairness and predictiveness of representation. We propose a new approach, learning FAir Representation via distributional CONtrastive Variational AutoEncoder …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬  

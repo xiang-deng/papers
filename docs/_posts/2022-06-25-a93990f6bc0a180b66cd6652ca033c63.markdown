@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Langevin-like Sampler for Discrete Distributions"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "R Zhang, X Liu, Q Liu - arXiv preprint arXiv:2206.09914, 2022"
+---
+We propose discrete Langevin proposal (DLP), a simple and scalable gradient-based proposal for sampling complex high-dimensional discrete distributions. In contrast to Gibbs sampling-based methods, DLP is able to update all coordinates in parallel in a single step and the magnitude of changes is controlled by a stepsize. This allows a cheap and efficient exploration in the space of high-dimensional and strongly correlated variables. We prove the efficiency of DLP by showing that the …
+Cites: ‪Understanding Knowledge Distillation in Non-autoregressive …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GOOD: A Graph Out-of-Distribution Benchmark"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "S Gui, X Li, L Wang, S Ji - arXiv preprint arXiv:2206.08452, 2022"
+---
+Out-of-distribution (OOD) learning deals with scenarios in which training and test data follow different distributions. Although general OOD problems have been intensively studied in machine learning, graph OOD is only an emerging area of research. Currently, there lacks a systematic benchmark tailored to graph OOD method evaluation. In this work, we aim at developing an OOD benchmark, known as GOOD, for graphs specifically. We explicitly make distinctions between covariate and …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬  

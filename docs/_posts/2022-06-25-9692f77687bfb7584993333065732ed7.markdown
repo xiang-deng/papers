@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient transfer learning with pretrained language models"
+date:   2022-06-25 08:25:58 -0400
+categories: jekyll update
+author: "M Zhao - 2022"
+---
+Pretrained language models (PLMs) like BERT have been shown to encode rich linguistic information and prolific world knowledge. Through transfer learning, the PLMs significantly benefit a wide range of NLP tasks in diverse languages. However, two notable disadvantages come with the performance gains. First, plain transfer learning is parameter-inefficient, ie, each downstream task requires a saved checkpoint for inference. This is problematic as PLMs often contain hundreds of …
+Cites: ‪Green AI‬  
