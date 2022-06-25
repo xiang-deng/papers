@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Clairvoyant: a log-based transformer-decoder for failure prediction in large-scale systems"
+date:   2022-06-20 23:00:52 -0400
+categories: jekyll update
+author: "KA Alharthi, A Jhumka, S Di, F Cappello - Proceedings of the 36th ACM International …, 2022"
+---
+System failures are expected to be frequent in the exascale era such as current Petascale systems. The health of such systems is usually determined from challenging analysis of large amounts of unstructured & redundant log data. In this paper, we leverage log data and propose Clairvoyant, a novel self-supervised (ie, no labels needed) model to predict node failures in HPC systems based on a recent deep learning approach called transformer-decoder and the self-attention …
+Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬  

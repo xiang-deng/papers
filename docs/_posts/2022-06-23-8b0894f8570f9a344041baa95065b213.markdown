@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Strategies to Improve Few-shot Learning for Intent Classification and Slot-Filling"
+date:   2022-06-23 20:09:31 -0400
+categories: jekyll update
+author: "M Amoake, H El-Hammamy, E Nosakhare, V Ramani…"
+---
+Intent classification (IC) and slot filling (SF) are two fundamental tasks in modern Natural Language Understanding (NLU) systems. Collecting and annotating large amounts of data to train deep learning models for such systems are not scalable. This problem can be addressed by learning from few examples using fast supervised meta-learning techniques such as prototypical networks. In this work, we systematically investigate how contrastive learning and data augmentation methods …
+Cites: ‪Unsupervised data augmentation for consistency training‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Better Exploiting BERT for Few-Shot Event Detection"
+date:   2022-06-23 20:09:31 -0400
+categories: jekyll update
+author: "J Tourille - Natural Language Processing and Information Systems …, 2022"
+---
+Recent approaches for event detection rely on deep supervised learning, which requires large annotated corpora. Few-shot learning approaches, such as the meta-learning paradigm, can be used to address this issue. We focus in this paper on the use of prototypical networks with a BERT encoder for event detection. More specifically, we optimize the use of the information contained in the different layers of a pre-trained BERT model and show that simple strategies for combining BERT …
+Cites: ‪Zero-shot Label-Aware Event Trigger and Argument Classification‬  

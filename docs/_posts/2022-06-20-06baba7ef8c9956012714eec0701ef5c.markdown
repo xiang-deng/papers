@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Quantifying the Impact of Predicate Similarities on Knowledge Graph Triple Embeddings"
+date:   2022-06-20 23:00:52 -0400
+categories: jekyll update
+author: "A Kalinowski, Y An - 2022"
+---
+In devising methods for representing knowledge graph triples in low-dimensional spaces, care must be taken to quantify the similarities between all components, especially the predicate components common to all triples. Unfortunately, knowledge graph benchmarks do not come equipped with scores indicating the semantic similarity between two arbitrary triples. To proxy these scores, we introduce a weakly supervised method we call PTSS, or pairwise triple similarity scoring. A neural model …
+Cites: ‪Convolutional 2d knowledge graph embeddings‬  

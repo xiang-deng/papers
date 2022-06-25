@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Graph Convolutional Recurrent Networks for Reward Shaping in Reinforcement Learning"
+date:   2022-06-23 20:09:31 -0400
+categories: jekyll update
+author: "H Sami, J Bentahar, A Mourad, H Otrok, E Damiani - Information Sciences, 2022"
+---
+In this paper, we consider the problem of low-speed convergence in Reinforcement Learning (RL). As a solution, various potential-based reward shaping techniques were proposed to form the potential function. Learning a potential function is still challenging and comparable to building a value function from scratch. In this work, our main contribution is proposing a new scheme for reward shaping, which combines (1) the Graph Convolutional Recurrent Networks (GCRN),(2) augmented …
+Cites: ‪Keeping your distance: Solving sparse reward tasks using self …‬  

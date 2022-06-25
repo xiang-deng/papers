@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "시각언어 멀티모달 모델의 모달리티 비대칭성 개선을 위한 유동적인 마스킹 방법의 적용"
+date:   2022-06-23 20:09:31 -0400
+categories: jekyll update
+author: "이채현 - 2022"
+---
+최근 많은 주목을 받는 사전학습 기반의 시각언어 멀티모달 모델은 인터넷과 스마트폰의 발전으로 다양한 멀티모달 데이터가 생성되면서 점차 중요해지고 있다. 멀티모달 모델의 성능은 데이터와 연산 능력에 비례해 증가하고 있지만, 지름길 (shortcut) 문제와 모달리티 비대칭성 문제로 인해 제대로 된 추론 과정을 거치고 있는지는 확실하지 않다. 본 논문에서는 돌출맵 (Saliency Map) 등에서 사용된 그래디언트 (gradient) 기반의 분석 방법을 활용하여 각 모달리티 토큰의 중요성을 …
+Cites: ‪Oscar: Object-semantics aligned pre-training for vision-language …‬  

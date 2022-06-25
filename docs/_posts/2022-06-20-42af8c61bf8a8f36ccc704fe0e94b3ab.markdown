@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sentence selection strategies for distilling word embeddings from BERT"
+date:   2022-06-20 23:00:52 -0400
+categories: jekyll update
+author: "Y Wang, Z Bouraoui, L Espinosa-Anke, S Schockaert - 2022"
+---
+Many applications crucially rely on the availability of high-quality word vectors. To learn such representations, several strategies based on language models have been proposed in recent years. While effective, these methods typically rely on a large number of contextualised vectors for each word, which makes them impractical. In this paper, we investigate whether similar results can be obtained when only a few contextualised representations of each word can be used. To this end, we analyze a …
+Cites: ‪Do neural language representations learn physical commonsense?‬  

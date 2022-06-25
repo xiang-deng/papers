@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Novel Transformer-Based Model for Dialog State Tracking"
+date:   2022-06-23 20:09:31 -0400
+categories: jekyll update
+author: "Y Miao, K Liu, W Yang, C Yang - International Conference on Human-Computer …, 2022"
+---
+Dialog state tracking (DST) is a core component in the task-oriented dialog systems. Many previous approaches regard DST as a classification task for a set of predefined slot-value pairs, but these approaches can not handle the situation of dynamic ontology. Other methods consider slot as span-based, while these methods are insufficient when the target slot-value cannot be found as a word segment in the dialog context. To mitigate these problems, we propose a Transformer-based model …
+Cites: ‪Global-locally self-attentive encoder for dialogue state tracking‬  

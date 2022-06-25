@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving transformers with probabilistic attention keys"
+date:   2022-06-20 23:00:52 -0400
+categories: jekyll update
+author: "T Nguyen, T Nguyen, D Le, K Nguyen, A Tran… - 2022"
+---
+Multi-head attention is a driving force behind state-of-the-art transformers, which achieve remarkable performance across a variety of natural language processing (NLP) and computer vision tasks. It has been observed that for many applications, those attention heads learn redundant embedding, and most of them can be removed without degrading the performance of the model. Inspired by this observation, we propose Transformer with a Mixture of Gaussian Keys (Transformer …
+Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬  

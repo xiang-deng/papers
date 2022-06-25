@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Handling heavy-tailed input of transformer inference on GPUs"
+date:   2022-06-20 23:00:52 -0400
+categories: jekyll update
+author: "J Du, J Jiang, Y You, D Huang, Y Lu - Proceedings of the 36th ACM International …, 2022"
+---
+Transformer-based models achieve superior accuracy in the field of natural language processing (NLP) and start to be widely deployed in production. As a popular deployment device, graphic processing units (GPUs) basically adopt the batch processing technique for inferring transformer-based models and achieving high hardware performance. However, as the input sequence lengths of NLP tasks are generally variable and in a heavy-tailed distribution, the batch processing will …
+Cites: ‪Squad: 100,000+ questions for machine comprehension of text‬  

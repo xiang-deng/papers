@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modeling Second Language Acquisition with pre-trained neural language models"
+date:   2022-06-20 23:00:52 -0400
+categories: jekyll update
+author: "ÁJJ Palenzuela, F Frasincar, MM Truşcǎ - Expert Systems with Applications, 2022"
+---
+Prediction of language mistakes is a task introduced by Duolingo as part of the Second Language Acquisition Modeling topic that aims to learn from the history of mistakes to improve the experience of language learners. Using transfer learning by means of pre-trained language models, we propose a framework that can learn the actual mistakes distribution according to which faraway words of a sentence have a higher chance to produce errors. To adapt the information provided by the pre …
+Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬  

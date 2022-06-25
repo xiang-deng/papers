@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Grape: Grammar-Preserving Rule Embedding"
+date:   2022-06-23 20:09:31 -0400
+categories: jekyll update
+author: "Q Zhu, Z Sun, W Zhang, Y Xiong, L Zhang"
+---
+Word embedding has been widely used in various areas to boost the performance of the neural models. However, when processing context-free languages, embedding grammar rules with word embedding loses two types of information. One is the structural relationship between the grammar rules, and the other one is the content information of the rule definition. In this paper, we make the first attempt to learn a grammar-preserving rule embedding. We first introduce a novel graph structure to …
+Cites: ‪A syntactic neural model for general-purpose code generation‬  
