@@ -3,6 +3,6 @@ layout: post
 title:  "Understanding Limitations of Unsupervised Graph Representation Learning from a Data-Dependent Perspective"
 date:   2022-05-28 02:05:27 -0400
 categories: jekyll update
-author: "P Trivedi, M Heimann, ES Lubana, D Koutra… - 2022"
+author: "P Trivedi, M Heimann, ES Lubana, D Koutra - 2022"
 ---
-Recent advances in unsupervised graph representation learning (UGRL) have primarily been driven by new paradigms, such as contrastive learning (CL) and novel reconstruction-based approaches. However, understanding of how dataset properties, often assumed true for vision datasets, apply to URGL remains limited. By taking a datacentric perspective, we investigate augmentation invariance and recoverability, as well as dataset separability in graph classification. Finding popular … Cites: ‪AAVAE: Augmentation-Augmented Variational Autoencoders‬
+Recent advances in unsupervised graph representation learning (UGRL) have primarily been driven by new paradigms, such as contrastive learning (CL) and novel reconstruction-based approaches. However, understanding of how dataset properties, often assumed true for vision datasets, apply to URGL remains limited. By taking a datacentric perspective, we investigate augmentation invariance and recoverability, as well as dataset separability in graph classification. Finding popular  Cites: AAVAE: Augmentation-Augmented Variational Autoencoders

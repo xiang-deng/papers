@@ -5,5 +5,5 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "H Ahn, Y Yang, Q Gan, D Wipf, T Moon - arXiv preprint arXiv:2206.11081, 2022"
 ---
-Heterogeneous graph neural networks (GNNs) achieve strong performance on node classification tasks in a semi-supervised learning setting. However, as in the simpler homogeneous GNN case, message-passing-based heterogeneous GNNs may struggle to balance between resisting the oversmoothing occuring in deep models and capturing long-range dependencies graph structured data. Moreover, the complexity of this trade-off is compounded in the heterogeneous graph case due to …
-Cites: ‪Learning with Local and Global Consistency.‬  
+Heterogeneous graph neural networks (GNNs) achieve strong performance on node classification tasks in a semi-supervised learning setting. However, as in the simpler homogeneous GNN case, message-passing-based heterogeneous GNNs may struggle to balance between resisting the oversmoothing occuring in deep models and capturing long-range dependencies graph structured data. Moreover, the complexity of this trade-off is compounded in the heterogeneous graph case due to 
+Cites: Learning with Local and Global Consistency.

@@ -5,5 +5,5 @@ date:   2022-06-23 20:09:31 -0400
 categories: jekyll update
 author: "J Ravichandran, M Kaden, T Villmann - Neurocomputing, 2022"
 ---
-Abstract Learning Vector Quantization (LVQ) and its cost-function-based variant called Generalized Learning Vector Quantization (GLVQ) are powerful, yet simple and interpretable Machine Learning (ML) algorithms for multi-class classification. Even though GLVQ is an effective tool for classifying vectorial data in its native form, it is not particularly suited to handle raw sequence data of potentially different lengths. Usually, this problem is addressed by manually engineering fixed-length …
-Cites: ‪Neural machine translation by jointly learning to align and translate‬  
+Abstract Learning Vector Quantization (LVQ) and its cost-function-based variant called Generalized Learning Vector Quantization (GLVQ) are powerful, yet simple and interpretable Machine Learning (ML) algorithms for multi-class classification. Even though GLVQ is an effective tool for classifying vectorial data in its native form, it is not particularly suited to handle raw sequence data of potentially different lengths. Usually, this problem is addressed by manually engineering fixed-length 
+Cites: Neural machine translation by jointly learning to align and translate

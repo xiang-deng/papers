@@ -3,6 +3,6 @@ layout: post
 title:  "Software-Hardware Codesign for Efficient In-Memory Regular Pattern Matching"
 date:   2022-05-30 22:20:45 -0400
 categories: jekyll update
-author: "L Kong, Q Yu, A Chattopadhyay, A Le Glaunec… - 2022"
+author: "L Kong, Q Yu, A Chattopadhyay, A Le Glaunec - 2022"
 ---
-Regular pattern matching is used in numerous application domains, including text processing, bioinformatics, and network security. Patterns are typically expressed with an extended syntax of regular expressions. This syntax includes the computationally challenging construct of bounded repetition or counting, which describes the repetition of a pattern a fixed number of times. We develop a specialized in-memory hardware architecture that integrates counter and bit vector … Cites: ‪HARE: Hardware accelerator for regular expressions‬
+Regular pattern matching is used in numerous application domains, including text processing, bioinformatics, and network security. Patterns are typically expressed with an extended syntax of regular expressions. This syntax includes the computationally challenging construct of bounded repetition or counting, which describes the repetition of a pattern a fixed number of times. We develop a specialized in-memory hardware architecture that integrates counter and bit vector  Cites: HARE: Hardware accelerator for regular expressions

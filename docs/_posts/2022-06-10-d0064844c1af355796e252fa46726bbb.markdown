@@ -3,7 +3,7 @@ layout: post
 title:  "Code Generation Tools (Almost) for Free? A Study of Few-Shot, Pre-Trained Language Models on Code"
 date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
-author: "P Bareiß, B Souza, M d Amorim, M Pradel - arXiv preprint arXiv:2206.01335, 2022"
+author: "P Barei, B Souza, M d Amorim, M Pradel - arXiv preprint arXiv:2206.01335, 2022"
 ---
-Few-shot learning with large-scale, pre-trained language models is a powerful way to answer questions about code, eg, how to complete a given code example, or even generate code snippets from scratch. The success of these models raises the question whether they could serve as a basis for building a wide range code generation tools. Traditionally, such tools are built manually and separately for each task. Instead, few-shot learning may allow to obtain different tools from a single pre …
-Cites: ‪Chain of thought prompting elicits reasoning in large language …‬  
+Few-shot learning with large-scale, pre-trained language models is a powerful way to answer questions about code, eg, how to complete a given code example, or even generate code snippets from scratch. The success of these models raises the question whether they could serve as a basis for building a wide range code generation tools. Traditionally, such tools are built manually and separately for each task. Instead, few-shot learning may allow to obtain different tools from a single pre 
+Cites: Chain of thought prompting elicits reasoning in large language

@@ -5,5 +5,5 @@ date:   2022-06-30 03:02:10 -0400
 categories: jekyll update
 author: "R Akula, I Garibay"
 ---
-The development of an automatic evaluation metric remains an open problem in text generation. Widely used evaluation metrics, like ROUGE and BLEU, are based on exact word matching and fail to capture semantic similarity. Recent works, such as BERTScore, MoverScore and, Sentence Mover s Similarity, are an improvement over these standard metrics as they use contextualized word or sentence embeddings to capture semantic similarity. We in this work, propose a novel evaluation metric …
-Cites: ‪Summeval: Re-evaluating summarization evaluation‬  
+The development of an automatic evaluation metric remains an open problem in text generation. Widely used evaluation metrics, like ROUGE and BLEU, are based on exact word matching and fail to capture semantic similarity. Recent works, such as BERTScore, MoverScore and, Sentence Mover s Similarity, are an improvement over these standard metrics as they use contextualized word or sentence embeddings to capture semantic similarity. We in this work, propose a novel evaluation metric 
+Cites: Summeval: Re-evaluating summarization evaluation

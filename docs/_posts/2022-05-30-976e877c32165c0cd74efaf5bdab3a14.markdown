@@ -3,6 +3,6 @@ layout: post
 title:  "Towards Understanding Label Regularization for Fine-tuning Pre-trained Language Models"
 date:   2022-05-30 22:20:45 -0400
 categories: jekyll update
-author: "I Kobyzev, A Jafari, M Rezagholizadeh, T Li, A Do-Omri… - arXiv preprint arXiv …, 2022"
+author: "I Kobyzev, A Jafari, M Rezagholizadeh, T Li, A Do-Omri - arXiv preprint arXiv , 2022"
 ---
-Knowledge Distillation (KD) is a prominent neural model compression technique which heavily relies on teacher network predictions to guide the training of a student model. Considering the ever-growing size of pre-trained language models (PLMs), KD is often adopted in many NLP tasks involving PLMs. However, it is evident that in KD, deploying the teacher network during training adds to the memory and computational requirements of training. In the computer vision literature, the … Cites: ‪Well-Read Students Learn Better: On the Importance of Pre …‬
+Knowledge Distillation (KD) is a prominent neural model compression technique which heavily relies on teacher network predictions to guide the training of a student model. Considering the ever-growing size of pre-trained language models (PLMs), KD is often adopted in many NLP tasks involving PLMs. However, it is evident that in KD, deploying the teacher network during training adds to the memory and computational requirements of training. In the computer vision literature, the  Cites: Well-Read Students Learn Better: On the Importance of Pre 

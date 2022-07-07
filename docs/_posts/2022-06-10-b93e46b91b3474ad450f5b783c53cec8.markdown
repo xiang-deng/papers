@@ -3,7 +3,7 @@ layout: post
 title:  "Aug-NeRF: Training Stronger Neural Radiance Fields With Triple-Level Physically-Grounded Augmentations"
 date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
-author: "T Chen, P Wang, Z Fan, Z Wang - Proceedings of the IEEE/CVF Conference on …, 2022"
+author: "T Chen, P Wang, Z Fan, Z Wang - Proceedings of the IEEE/CVF Conference on , 2022"
 ---
-Abstract Neural Radiance Field (NeRF) regresses a neural parameterized scene by differentially rendering multi-view images with ground-truth supervision. However, when interpolating novel views, NeRF often yields inconsistent and visually non-smooth geometric results, which we consider as a generalization gap between seen and unseen views. Recent advances in convolutional neural networks have demonstrated the promise of advanced robust data augmentations, either random or …
-Cites: ‪Adversarial training can hurt generalization‬  
+Abstract Neural Radiance Field (NeRF) regresses a neural parameterized scene by differentially rendering multi-view images with ground-truth supervision. However, when interpolating novel views, NeRF often yields inconsistent and visually non-smooth geometric results, which we consider as a generalization gap between seen and unseen views. Recent advances in convolutional neural networks have demonstrated the promise of advanced robust data augmentations, either random or 
+Cites: Adversarial training can hurt generalization

@@ -3,6 +3,6 @@ layout: post
 title:  "Exploring sparse expert models and beyond"
 date:   2022-05-24 00:00:36 -0400
 categories: jekyll update
-author: "A Yang, J Lin, R Men, C Zhou, L Jiang, X Jia, A Wang… - arXiv preprint arXiv …, 2021"
+author: "A Yang, J Lin, R Men, C Zhou, L Jiang, X Jia, A Wang - arXiv preprint arXiv , 2021"
 ---
-Abstract Mixture-of-Experts (MoE) models can achieve promising results with outrageous large amount of parameters but constant computation cost, and thus it has become a trend in model scaling. Still it is a mystery how MoE layers bring quality gains by leveraging the parameters with sparse activation. In this work, we investigate several key factors in sparse expert models. We observe that load imbalance may not be a significant problem affecting model quality, contrary to the … Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬
+Abstract Mixture-of-Experts (MoE) models can achieve promising results with outrageous large amount of parameters but constant computation cost, and thus it has become a trend in model scaling. Still it is a mystery how MoE layers bring quality gains by leveraging the parameters with sparse activation. In this work, we investigate several key factors in sparse expert models. We observe that load imbalance may not be a significant problem affecting model quality, contrary to the  Cites: RoBERTa: A Robustly Optimized BERT Pretraining Approach

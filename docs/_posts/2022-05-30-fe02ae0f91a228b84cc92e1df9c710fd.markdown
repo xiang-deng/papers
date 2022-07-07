@@ -3,6 +3,6 @@ layout: post
 title:  "Align Representations with Base: A New Approach to Self-Supervised Learning"
 date:   2022-05-30 22:20:45 -0400
 categories: jekyll update
-author: "S Zhang, L Qiu, F Zhu, J Yan, H Zhang, R Zhao, H Li…"
+author: "S Zhang, L Qiu, F Zhu, J Yan, H Zhang, R Zhao, H Li"
 ---
-Existing symmetric contrastive learning methods suffer from collapses (complete and dimensional) or quadratic complexity of objectives. Departure from these methods which maximize mutual information of two generated views, along either instance or feature dimension, the proposed paradigm introduces intermediate variables at the feature level, and maximizes the consistency between variables and representations of each view. Specifically, the proposed intermediate variables are the nearest group … Cites: ‪Towards domain-agnostic contrastive learning‬
+Existing symmetric contrastive learning methods suffer from collapses (complete and dimensional) or quadratic complexity of objectives. Departure from these methods which maximize mutual information of two generated views, along either instance or feature dimension, the proposed paradigm introduces intermediate variables at the feature level, and maximizes the consistency between variables and representations of each view. Specifically, the proposed intermediate variables are the nearest group  Cites: Towards domain-agnostic contrastive learning

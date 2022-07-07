@@ -5,5 +5,5 @@ date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
 author: "R Liu, G Zhang, X Feng, S Vosoughi"
 ---
-Although current large-scale generative language models (LMs) can show impressive insights about factual knowledge, they do not exhibit similar success with respect to human values judgements (eg, whether or not the generations of an LM are moral). Existing methods learn human values either by directly mimicking the behavior of human data, or rigidly constraining the generation space to human-chosen tokens. These methods are inherently limited in that they do not consider the …
-Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬  
+Although current large-scale generative language models (LMs) can show impressive insights about factual knowledge, they do not exhibit similar success with respect to human values judgements (eg, whether or not the generations of an LM are moral). Existing methods learn human values either by directly mimicking the behavior of human data, or rigidly constraining the generation space to human-chosen tokens. These methods are inherently limited in that they do not consider the 
+Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

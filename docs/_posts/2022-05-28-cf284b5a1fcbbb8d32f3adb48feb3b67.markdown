@@ -3,6 +3,6 @@ layout: post
 title:  "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models"
 date:   2022-05-28 02:05:27 -0400
 categories: jekyll update
-author: "D Zhou, N Schärli, L Hou, J Wei, N Scales, X Wang… - arXiv preprint arXiv …, 2022"
+author: "D Zhou, N Schrli, L Hou, J Wei, N Scales, X Wang - arXiv preprint arXiv , 2022"
 ---
-We propose a novel prompting strategy, least-to-most prompting, that enables large language models to better perform multi-step reasoning tasks. Least-to-most prompting first reduces a complex problem into a list of subproblems, and then sequentially solves the subproblems, whereby solving a given subproblem is facilitated by the model s answers to previously solved subproblems. Experiments on symbolic manipulation, compositional generalization and numerical reasoning … Cites: ‪Palm: Scaling language modeling with pathways‬
+We propose a novel prompting strategy, least-to-most prompting, that enables large language models to better perform multi-step reasoning tasks. Least-to-most prompting first reduces a complex problem into a list of subproblems, and then sequentially solves the subproblems, whereby solving a given subproblem is facilitated by the model s answers to previously solved subproblems. Experiments on symbolic manipulation, compositional generalization and numerical reasoning  Cites: Palm: Scaling language modeling with pathways

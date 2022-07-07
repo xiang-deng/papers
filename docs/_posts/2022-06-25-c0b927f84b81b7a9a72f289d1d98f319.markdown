@@ -5,5 +5,5 @@ date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
 author: "M Yasunaga, J Leskovec, P Liang - ICML 2022 2nd AI for Science Workshop, 2022"
 ---
-Language model (LM) pretraining can learn various knowledge from text corpora, helping downstream tasks. However, existing methods such as BERT model a single document, and do not capture dependencies or knowledge that span across documents. In this work, we propose LinkBERT, an LM pretraining method that leverages links between documents, eg, hyperlinks, citation links. Given a text corpus, we view it as a graph of documents and create LM inputs by placing linked …
-Cites: ‪Unifiedqa: Crossing format boundaries with a single qa system‬  
+Language model (LM) pretraining can learn various knowledge from text corpora, helping downstream tasks. However, existing methods such as BERT model a single document, and do not capture dependencies or knowledge that span across documents. In this work, we propose LinkBERT, an LM pretraining method that leverages links between documents, eg, hyperlinks, citation links. Given a text corpus, we view it as a graph of documents and create LM inputs by placing linked 
+Cites: Unifiedqa: Crossing format boundaries with a single qa system

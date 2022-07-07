@@ -5,5 +5,5 @@ date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
 author: "G Menguy, S Bardin, N Lazaar, A Gotlieb"
 ---
-Program annotations under the form of function pre/postconditions are crucial for many software engineering and program verification applications. Unfortunately, such annotations are rarely available and must be retrofit by hand. In this paper, we explore how Constraint Acquisition (CA), a learning framework from Constraint Programming, can be leveraged to automatically infer program preconditions in a black-box manner, from input-output observations. We propose PRECA, the first ever …
-Cites: ‪Learning invariants using decision trees and implication …‬  
+Program annotations under the form of function pre/postconditions are crucial for many software engineering and program verification applications. Unfortunately, such annotations are rarely available and must be retrofit by hand. In this paper, we explore how Constraint Acquisition (CA), a learning framework from Constraint Programming, can be leveraged to automatically infer program preconditions in a black-box manner, from input-output observations. We propose PRECA, the first ever 
+Cites: Learning invariants using decision trees and implication

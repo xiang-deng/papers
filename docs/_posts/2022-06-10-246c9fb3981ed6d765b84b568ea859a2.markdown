@@ -3,7 +3,7 @@ layout: post
 title:  "Performance-Aware Mutual Knowledge Distillation for Improving Neural Architecture Search"
 date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
-author: "P Xie, X Du - Proceedings of the IEEE/CVF Conference on Computer …, 2022"
+author: "P Xie, X Du - Proceedings of the IEEE/CVF Conference on Computer , 2022"
 ---
-Abstract Knowledge distillation has shown great effectiveness for improving neural architecture search (NAS). Mutual knowledge distillation (MKD), where a group of models mutually generate knowledge to train each other, has achieved promising results in many applications. In existing MKD methods, mutual knowledge distillation is performed between models without scrutiny: a worse-performing model is allowed to generate knowledge to train a better-performing model, which may lead to …
-Cites: ‪Theory-inspired path-regularized differential network architecture …‬  
+Abstract Knowledge distillation has shown great effectiveness for improving neural architecture search (NAS). Mutual knowledge distillation (MKD), where a group of models mutually generate knowledge to train each other, has achieved promising results in many applications. In existing MKD methods, mutual knowledge distillation is performed between models without scrutiny: a worse-performing model is allowed to generate knowledge to train a better-performing model, which may lead to 
+Cites: Theory-inspired path-regularized differential network architecture

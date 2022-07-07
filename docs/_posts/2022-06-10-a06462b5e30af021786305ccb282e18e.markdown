@@ -3,7 +3,7 @@ layout: post
 title:  "Positive Unlabeled Contrastive Learning"
 date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
-author: "A Acharya, S Sanghavi, L Jing, B Bhushanam… - arXiv preprint arXiv …, 2022"
+author: "A Acharya, S Sanghavi, L Jing, B Bhushanam - arXiv preprint arXiv , 2022"
 ---
-Self-supervised pretraining on unlabeled data followed by supervised finetuning on labeled data is a popular paradigm for learning from limited labeled examples. In this paper, we investigate and extend this paradigm to the classical positive unlabeled (PU) setting-the weakly supervised task of learning a binary classifier only using a few labeled positive examples and a set of unlabeled samples. We propose a novel PU learning objective positive unlabeled Noise Contrastive Estimation (puNCE) that …
-Cites: ‪Fine-tuning pretrained language models: Weight initializations …‬  
+Self-supervised pretraining on unlabeled data followed by supervised finetuning on labeled data is a popular paradigm for learning from limited labeled examples. In this paper, we investigate and extend this paradigm to the classical positive unlabeled (PU) setting-the weakly supervised task of learning a binary classifier only using a few labeled positive examples and a set of unlabeled samples. We propose a novel PU learning objective positive unlabeled Noise Contrastive Estimation (puNCE) that 
+Cites: Fine-tuning pretrained language models: Weight initializations

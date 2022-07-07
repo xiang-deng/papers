@@ -3,7 +3,7 @@ layout: post
 title:  "Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation"
 date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
-author: "S Zhuang, H Ren, L Shou, J Pei, M Gong, G Zuccon… - arXiv preprint arXiv …, 2022"
+author: "S Zhuang, H Ren, L Shou, J Pei, M Gong, G Zuccon - arXiv preprint arXiv , 2022"
 ---
-The Differentiable Search Index (DSI) is a new, emerging paradigm for information retrieval. Unlike traditional retrieval architectures where index and retrieval are two different and separate components, DSI uses a single transformer model to perform both indexing and retrieval. In this paper, we identify and tackle an important issue of current DSI models: the data distribution mismatch that occurs between the DSI indexing and retrieval processes. Specifically, we argue that, at indexing, current DSI …
-Cites: ‪Natural questions: a benchmark for question answering research‬  
+The Differentiable Search Index (DSI) is a new, emerging paradigm for information retrieval. Unlike traditional retrieval architectures where index and retrieval are two different and separate components, DSI uses a single transformer model to perform both indexing and retrieval. In this paper, we identify and tackle an important issue of current DSI models: the data distribution mismatch that occurs between the DSI indexing and retrieval processes. Specifically, we argue that, at indexing, current DSI 
+Cites: Natural questions: a benchmark for question answering research

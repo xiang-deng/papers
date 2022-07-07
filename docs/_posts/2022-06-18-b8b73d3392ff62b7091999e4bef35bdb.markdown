@@ -3,7 +3,7 @@ layout: post
 title:  "One Size Does Not Fit All: A Bandit-Based Sampler Combination Framework with Theoretical Guarantees"
 date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
-author: "J Peng, B Ding, J Wang, K Zeng, J Zhou - … of the 2022 International Conference on …, 2022"
+author: "J Peng, B Ding, J Wang, K Zeng, J Zhou -  of the 2022 International Conference on , 2022"
 ---
-Sample-based estimation, which uses a sample to estimate population parameters (eg, SUM, COUNT, and AVG), has various applications in database systems. A sampler defines how samples are drawn from a population. Various samplers have been proposed (eg, uniform sampler, stratified sampler, and measure-biased sampler), since there is no single sampler that works well in all cases. To overcome the  one size does not fit all  challenge, we study how to combine multiple samplers …
-Cites: ‪Database learning: Toward a database that becomes smarter …‬  
+Sample-based estimation, which uses a sample to estimate population parameters (eg, SUM, COUNT, and AVG), has various applications in database systems. A sampler defines how samples are drawn from a population. Various samplers have been proposed (eg, uniform sampler, stratified sampler, and measure-biased sampler), since there is no single sampler that works well in all cases. To overcome the  one size does not fit all  challenge, we study how to combine multiple samplers 
+Cites: Database learning: Toward a database that becomes smarter

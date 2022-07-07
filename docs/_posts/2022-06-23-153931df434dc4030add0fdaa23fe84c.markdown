@@ -5,5 +5,5 @@ date:   2022-06-23 20:09:31 -0400
 categories: jekyll update
 author: "F Wang, X Lu, L Lyu - Knowledge-Based Systems, 2022"
 ---
-The goal of session-based recommendation (SBR) is to predict the next item at a certain point in time for anonymous users. Previous methods usually learn session representations based on the item prediction loss, and session-based data consists of limited users  short-term interactions. Consequently, the model trained with this loss often suffers from data sparsity. Contrastive learning can derive self-supervision signals from raw data, effectively alleviating this problem. However, existing …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬  
+The goal of session-based recommendation (SBR) is to predict the next item at a certain point in time for anonymous users. Previous methods usually learn session representations based on the item prediction loss, and session-based data consists of limited users  short-term interactions. Consequently, the model trained with this loss often suffers from data sparsity. Contrastive learning can derive self-supervision signals from raw data, effectively alleviating this problem. However, existing 
+Cites: Bert: Pre-training of deep bidirectional transformers for language

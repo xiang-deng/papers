@@ -5,5 +5,5 @@ date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
 author: "W Yang, G Wang, E Diao, V Tarokh, J Ding, Y Yang - arXiv preprint arXiv:2206.05604, 2022"
 ---
-The goal of model compression is to reduce the size of a large neural network while retaining a comparable performance. As a result, computation and memory costs in resource-limited applications may be significantly reduced by dropping redundant weights, neurons, or layers. There have been many model compression algorithms proposed that provide impressive empirical success. However, a theoretical understanding of model compression is still limited. One problem is understanding if …
-Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬  
+The goal of model compression is to reduce the size of a large neural network while retaining a comparable performance. As a result, computation and memory costs in resource-limited applications may be significantly reduced by dropping redundant weights, neurons, or layers. There have been many model compression algorithms proposed that provide impressive empirical success. However, a theoretical understanding of model compression is still limited. One problem is understanding if 
+Cites: Good subnetworks provably exist: Pruning via greedy forward

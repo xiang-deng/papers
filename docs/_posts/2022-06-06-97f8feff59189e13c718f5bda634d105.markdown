@@ -3,7 +3,7 @@ layout: post
 title:  "DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks"
 date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
-author: "Y Fu, H Yang, J Yuan, M Li, C Wan, R Krishnamoorthi… - arXiv preprint arXiv …, 2022"
+author: "Y Fu, H Yang, J Yuan, M Li, C Wan, R Krishnamoorthi - arXiv preprint arXiv , 2022"
 ---
-Efficient deep neural network (DNN) models equipped with compact operators (eg, depthwise convolutions) have shown great potential in reducing DNNs  theoretical complexity (eg, the total number of weights/operations) while maintaining a decent model accuracy. However, existing efficient DNNs are still limited in fulfilling their promise in boosting real-hardware efficiency, due to their commonly adopted compact operators  low hardware utilization. In this work, we open up a new …
-Cites: ‪Go wide, then narrow: Efficient training of deep thin networks‬  
+Efficient deep neural network (DNN) models equipped with compact operators (eg, depthwise convolutions) have shown great potential in reducing DNNs  theoretical complexity (eg, the total number of weights/operations) while maintaining a decent model accuracy. However, existing efficient DNNs are still limited in fulfilling their promise in boosting real-hardware efficiency, due to their commonly adopted compact operators  low hardware utilization. In this work, we open up a new 
+Cites: Go wide, then narrow: Efficient training of deep thin networks

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "多様な規則を活用した文法誤り訂正のデータ拡張に関する分析"
+title:  ""
 date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
-author: "古山翔太， 高村大也， 岡崎直観 - 自然言語処理, 2022"
+author: "   - , 2022"
 ---
-抄録 ニューラル文法誤り訂正では, データ拡張によって学習データの不足を補う手法が活発に研究されている. 本研究では, 既存のデータ拡張手法が, より良いデータ拡張を行い性能向上を目指す上で重要な要素として,(1) 誤りの多様性が訂正性能に寄与すること,(2) 特定の種類の誤り生成がその種類の誤り訂正性能に寄与すること,(3) データ拡張に用いるコーパスの大きさが訂正性能に寄与することの 3 点が仮定されている. 本研究では, これらの仮定の妥当性を検証するため, 多様な文法カテゴリでの誤り生成規則を …
-Cites: ‪LM-Critic: Language Models for Unsupervised Grammatical Error …‬  
+ , . , , ,(1) ,(2) ,(3)  3 . , ,  
+Cites: LM-Critic: Language Models for Unsupervised Grammatical Error

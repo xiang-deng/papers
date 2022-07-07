@@ -3,7 +3,7 @@ layout: post
 title:  "CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation"
 date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
-author: "D Zan, B Chen, D Yang, Z Lin, M Kim, B Guan, Y Wang… - arXiv preprint arXiv …, 2022"
+author: "D Zan, B Chen, D Yang, Z Lin, M Kim, B Guan, Y Wang - arXiv preprint arXiv , 2022"
 ---
-Code generation is a longstanding challenge, aiming to generate a code snippet based on a natural language description. Usually, expensive text-code paired data is essential for training a code generation model. Recently, thanks to the success of pre-training techniques, large language models are trained on large-scale unlabelled code corpora and perform well in code generation. In this paper, we investigate how to leverage an unlabelled code corpus to train a model for library-oriented code …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬  
+Code generation is a longstanding challenge, aiming to generate a code snippet based on a natural language description. Usually, expensive text-code paired data is essential for training a code generation model. Recently, thanks to the success of pre-training techniques, large language models are trained on large-scale unlabelled code corpora and perform well in code generation. In this paper, we investigate how to leverage an unlabelled code corpus to train a model for library-oriented code 
+Cites: Codexglue: A machine learning benchmark dataset for code

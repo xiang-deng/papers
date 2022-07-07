@@ -5,5 +5,5 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "X Liang, P Song - arXiv preprint arXiv:2206.12128, 2022"
 ---
-Self-attention is one of the most successful designs in deep learning, which calculates the similarity of different tokens and reconstructs the feature based on the attention matrix. Originally designed for NLP, self-attention is also popular in computer vision, and can be categorized into pixel-level attention and patch-level attention. In object detection, RoI features can be seen as patches from base feature maps. This paper aims to apply the attention module to RoI features to improve …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬  
+Self-attention is one of the most successful designs in deep learning, which calculates the similarity of different tokens and reconstructs the feature based on the attention matrix. Originally designed for NLP, self-attention is also popular in computer vision, and can be categorized into pixel-level attention and patch-level attention. In object detection, RoI features can be seen as patches from base feature maps. This paper aims to apply the attention module to RoI features to improve 
+Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

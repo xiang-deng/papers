@@ -5,5 +5,5 @@ date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
 author: "X Yang, J Lin, H Zhang, X Yang, P Zhao - arXiv preprint arXiv:2206.00913, 2022"
 ---
-Deep neural network (DNN) with dropout can be regarded as an ensemble model consisting of lots of sub-DNNs (ie, an ensemble sub-DNN where the sub-DNN is the remaining part of the DNN after dropout), and through increasing the diversity of the ensemble sub-DNN, the generalization and robustness of the DNN can be effectively improved. In this paper, a mask-guided divergence loss function (MDL), which consists of a cross-entropy loss term and an orthogonal term, is proposed to increase …
-Cites: ‪Learning better structured representations using low-rank adaptive …‬  
+Deep neural network (DNN) with dropout can be regarded as an ensemble model consisting of lots of sub-DNNs (ie, an ensemble sub-DNN where the sub-DNN is the remaining part of the DNN after dropout), and through increasing the diversity of the ensemble sub-DNN, the generalization and robustness of the DNN can be effectively improved. In this paper, a mask-guided divergence loss function (MDL), which consists of a cross-entropy loss term and an orthogonal term, is proposed to increase 
+Cites: Learning better structured representations using low-rank adaptive

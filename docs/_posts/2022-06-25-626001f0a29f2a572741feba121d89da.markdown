@@ -3,7 +3,7 @@ layout: post
 title:  "GODEL: Large-Scale Pre-Training for Goal-Directed Dialog"
 date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
-author: "B Peng, M Galley, P He, C Brockett, L Liden, E Nouri…"
+author: "B Peng, M Galley, P He, C Brockett, L Liden, E Nouri"
 ---
-Abstract We introduce GODEL(Grounded Open Dialogue Language Model), a large pretrained language model for dialog. In contrast with earlier models such as DialoGPT, GODEL leverages a new phase of grounded pre-training designed to better support adapting GODEL to a wide range of downstream dialog tasks that require information external to the current conversation (eg, a database or document) to produce good responses. Experiments against an array of benchmarks that …
-Cites: ‪CoQA: A Conversational Question Answering Challenge‬  
+Abstract We introduce GODEL(Grounded Open Dialogue Language Model), a large pretrained language model for dialog. In contrast with earlier models such as DialoGPT, GODEL leverages a new phase of grounded pre-training designed to better support adapting GODEL to a wide range of downstream dialog tasks that require information external to the current conversation (eg, a database or document) to produce good responses. Experiments against an array of benchmarks that 
+Cites: CoQA: A Conversational Question Answering Challenge

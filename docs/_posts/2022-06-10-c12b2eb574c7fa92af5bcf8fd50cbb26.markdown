@@ -5,5 +5,5 @@ date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
 author: "K Faldu, A Sheth, P Kikani, D Patel - arXiv preprint arXiv:2206.01268, 2022"
 ---
-Recently, quite a few novel neural architectures were derived to solve math word problems by predicting expression trees. These architectures varied from seq2seq models, including encoders leveraging graph relationships combined with tree decoders. These models achieve good performance on various MWPs datasets but perform poorly when applied to an adversarial challenge dataset, SVAMP. We present a novel model MMTM that leverages multi-tasking and multi-decoder during …
-Cites: ‪Mapping to declarative knowledge for word problem solving‬  
+Recently, quite a few novel neural architectures were derived to solve math word problems by predicting expression trees. These architectures varied from seq2seq models, including encoders leveraging graph relationships combined with tree decoders. These models achieve good performance on various MWPs datasets but perform poorly when applied to an adversarial challenge dataset, SVAMP. We present a novel model MMTM that leverages multi-tasking and multi-decoder during 
+Cites: Mapping to declarative knowledge for word problem solving

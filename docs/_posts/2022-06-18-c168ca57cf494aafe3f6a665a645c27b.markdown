@@ -1,9 +1,0 @@
----
-layout: post
-title:  "딥러닝을 이용한 법률 분야 한국어 의미 유사판단에 관한 연구"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "김성원， 박광렬 - 정보처리학회논문지/소프트웨어 및 데이터 공학 제, 2022"
----
-요 약기존의 데이터 검색 방법으로는 키워드 중심의 검색 방법이 주로 사용되나, 이는 전문적인 용어가 많이 쓰이는 법률 분야의 검색 방법으로는적합하지 않다. 이에 대해 본 논문에서는 법률 분야의 효과적인 데이터 검색 방안을 제안한다. 법률 도메인의 자연어처리 분야에서 문장 간의유사성을 판단하는 데 최적화된 임베딩 방법에 관하여 서술한다. 법률문장을 TF-IDF 를 이용하여 키워드 기반으로 임베딩하거나 Universal Sentence Encoder 를 이용하여 의미 기반으로 임베딩을 한 후, BERT 모델을 결합하여 …
-Cites: ‪Deep unordered composition rivals syntactic methods for text …‬  

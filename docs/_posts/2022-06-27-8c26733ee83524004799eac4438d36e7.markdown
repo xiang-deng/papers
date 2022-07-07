@@ -3,7 +3,7 @@ layout: post
 title:  "A Relative Information Gain-based Query Performance Prediction Framework with Generated Query Variants"
 date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
-author: "S Datta, D Ganguly, M Mitra, D Greene - ACM Transactions on Information Systems …, 2022"
+author: "S Datta, D Ganguly, M Mitra, D Greene - ACM Transactions on Information Systems , 2022"
 ---
-Query performance prediction (QPP) methods, which aim to predict the performance of a query, often rely on evidences in the form of different characteristic patterns in the distribution of Retrieval Status Values (RSVs). However, for neural IR models, it is usually observed that the RSVs are often less reliable for QPP because they are bounded within short intervals, different from the situation for statistical models. To address this limitation, we propose a model-agnostic QPP framework that gathers …
-Cites: ‪Convolutional Neural Networks for Soft-Matching N-Grams in Ad …‬  
+Query performance prediction (QPP) methods, which aim to predict the performance of a query, often rely on evidences in the form of different characteristic patterns in the distribution of Retrieval Status Values (RSVs). However, for neural IR models, it is usually observed that the RSVs are often less reliable for QPP because they are bounded within short intervals, different from the situation for statistical models. To address this limitation, we propose a model-agnostic QPP framework that gathers 
+Cites: Convolutional Neural Networks for Soft-Matching N-Grams in Ad

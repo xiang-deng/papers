@@ -3,6 +3,6 @@ layout: post
 title:  "Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models"
 date:   2022-05-28 02:05:27 -0400
 categories: jekyll update
-author: "K Tirumala, AH Markosyan, L Zettlemoyer… - arXiv preprint arXiv …, 2022"
+author: "K Tirumala, AH Markosyan, L Zettlemoyer - arXiv preprint arXiv , 2022"
 ---
-Despite their wide adoption, the underlying training and memorization dynamics of very large language models is not well understood. We empirically study exact memorization in causal and masked language modeling, across model sizes and throughout the training process. We measure the effects of dataset size, learning rate, and model size on memorization, finding that larger language models memorize training data faster across all settings. Surprisingly, we show that larger models can … Cites: ‪Palm: Scaling language modeling with pathways‬
+Despite their wide adoption, the underlying training and memorization dynamics of very large language models is not well understood. We empirically study exact memorization in causal and masked language modeling, across model sizes and throughout the training process. We measure the effects of dataset size, learning rate, and model size on memorization, finding that larger language models memorize training data faster across all settings. Surprisingly, we show that larger models can  Cites: Palm: Scaling language modeling with pathways

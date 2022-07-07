@@ -3,7 +3,7 @@ layout: post
 title:  "Exploring Representation of Horn Clauses using GNNs"
 date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
-author: "C Liang, P Rümmer, M Brockschmidt - arXiv preprint arXiv:2206.06986, 2022"
+author: "C Liang, P Rmmer, M Brockschmidt - arXiv preprint arXiv:2206.06986, 2022"
 ---
-Learning program semantics from raw source code is challenging due to the complexity of real-world programming language syntax and due to the difficulty of reconstructing long-distance relational information implicitly represented in programs using identifiers. Addressing the first point, we consider Constrained Horn Clauses (CHCs) as a standard representation of program verification problems, providing a simple and programming language-independent syntax. For the second challenge …
-Cites: ‪Lambdanet: Probabilistic type inference using graph neural networks‬  
+Learning program semantics from raw source code is challenging due to the complexity of real-world programming language syntax and due to the difficulty of reconstructing long-distance relational information implicitly represented in programs using identifiers. Addressing the first point, we consider Constrained Horn Clauses (CHCs) as a standard representation of program verification problems, providing a simple and programming language-independent syntax. For the second challenge 
+Cites: Lambdanet: Probabilistic type inference using graph neural networks

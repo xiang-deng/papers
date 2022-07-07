@@ -5,5 +5,5 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "T Chen, S Li, J Yan - Neural Computing and Applications, 2022"
 ---
-Recurrent neural networks (RNNs) provide powerful tools for sequence problems. However, simple RNN and its variants are prone to high computational cost, for which RNN variants like Skip RNN have been proposed. To further reduce the cost, we introduce a new recurrent network model, continuous skip RNN (CS-RNN), to overcome the limitation of Skip RNN. The model learns to omit relatively continuous elements in a sequence, which are less relevant to the task, allowing it to maintain its …
-Cites: ‪Neural speed reading via Skim-RNN‬  
+Recurrent neural networks (RNNs) provide powerful tools for sequence problems. However, simple RNN and its variants are prone to high computational cost, for which RNN variants like Skip RNN have been proposed. To further reduce the cost, we introduce a new recurrent network model, continuous skip RNN (CS-RNN), to overcome the limitation of Skip RNN. The model learns to omit relatively continuous elements in a sequence, which are less relevant to the task, allowing it to maintain its 
+Cites: Neural speed reading via Skim-RNN

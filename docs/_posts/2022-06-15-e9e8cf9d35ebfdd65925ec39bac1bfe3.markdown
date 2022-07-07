@@ -3,7 +3,7 @@ layout: post
 title:  "Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection"
 date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
-author: "X Li, C Lv, W Wang, G Li, L Yang, J Yang - IEEE Transactions on Pattern Analysis and …, 2022"
+author: "X Li, C Lv, W Wang, G Li, L Yang, J Yang - IEEE Transactions on Pattern Analysis and , 2022"
 ---
-Object detection is a fundamental computer vision task that simultaneously predicts the category and localization of the targets of interest. Recently one-stage (also termed “dense”) detectors have gained much attention over two-stage ones due to their simple pipeline and friendly application to end devices. Dense object detectors basically formulate object detection as dense classification and localization (ie, bounding box regression). The classification is usually optimized by Focal Loss and …
-Cites: ‪Learning from noisy anchors for one-stage object detection‬  
+Object detection is a fundamental computer vision task that simultaneously predicts the category and localization of the targets of interest. Recently one-stage (also termed dense) detectors have gained much attention over two-stage ones due to their simple pipeline and friendly application to end devices. Dense object detectors basically formulate object detection as dense classification and localization (ie, bounding box regression). The classification is usually optimized by Focal Loss and 
+Cites: Learning from noisy anchors for one-stage object detection

@@ -3,7 +3,7 @@ layout: post
 title:  "EfficientFormer: Vision Transformers at MobileNet Speed"
 date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
-author: "Y Li, G Yuan, Y Wen, E Hu, G Evangelidis, S Tulyakov… - arXiv preprint arXiv …, 2022"
+author: "Y Li, G Yuan, Y Wen, E Hu, G Evangelidis, S Tulyakov - arXiv preprint arXiv , 2022"
 ---
-Vision Transformers (ViT) have shown rapid progress in computer vision tasks, achieving promising results on various benchmarks. However, due to the massive number of parameters and model design, eg, attention mechanism, ViT-based models are generally times slower than lightweight convolutional networks. Therefore, the deployment of ViT for real-time applications is particularly challenging, especially on resource-constrained hardware such as mobile devices. Recent efforts …
-Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬  
+Vision Transformers (ViT) have shown rapid progress in computer vision tasks, achieving promising results on various benchmarks. However, due to the massive number of parameters and model design, eg, attention mechanism, ViT-based models are generally times slower than lightweight convolutional networks. Therefore, the deployment of ViT for real-time applications is particularly challenging, especially on resource-constrained hardware such as mobile devices. Recent efforts 
+Cites: Coatnet: Marrying convolution and attention for all data sizes

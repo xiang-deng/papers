@@ -5,5 +5,5 @@ date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
 author: "V Khattar, Y Ding, J Lavaei, M Jin"
 ---
-We study the problem of meta-safe reinforcement learning (meta-SRL) through the CMDP-within-online framework and show that the task-averaged optimality gap and constraint satisfaction improve with task-similarity in the static environment or task-relatedness in the changing environment. Several technical challenges arise when making this framework practical while still having strong theoretical guarantees. To address these challenges, we propose a meta-algorithm that performs inexact online …
-Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬  
+We study the problem of meta-safe reinforcement learning (meta-SRL) through the CMDP-within-online framework and show that the task-averaged optimality gap and constraint satisfaction improve with task-similarity in the static environment or task-relatedness in the changing environment. Several technical challenges arise when making this framework practical while still having strong theoretical guarantees. To address these challenges, we propose a meta-algorithm that performs inexact online 
+Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

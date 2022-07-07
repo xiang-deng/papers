@@ -3,7 +3,7 @@ layout: post
 title:  "Entity Resolution with Hierarchical Graph Attention Networks"
 date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
-author: "D Yao, Y Gu, G Cong, H Jin, X Lv - Proceedings of the 2022 International Conference …, 2022"
+author: "D Yao, Y Gu, G Cong, H Jin, X Lv - Proceedings of the 2022 International Conference , 2022"
 ---
-Entity Resolution (ER) links entities that refer to the same real-world entity from different sources. Existing work usually takes pairs of entities as input and judges those pairs independently. However, there is often interdependence between different pairs of ER decisions, eg, the entities from the same data source are usually semantically related to each other. Furthermore, current ER approaches are mainly based on attribute similarity comparison, but ignore interdependence between …
-Cites: ‪Entity linking via joint encoding of types, descriptions, and context‬  
+Entity Resolution (ER) links entities that refer to the same real-world entity from different sources. Existing work usually takes pairs of entities as input and judges those pairs independently. However, there is often interdependence between different pairs of ER decisions, eg, the entities from the same data source are usually semantically related to each other. Furthermore, current ER approaches are mainly based on attribute similarity comparison, but ignore interdependence between 
+Cites: Entity linking via joint encoding of types, descriptions, and context

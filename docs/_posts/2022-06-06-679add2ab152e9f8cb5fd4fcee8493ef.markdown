@@ -3,7 +3,7 @@ layout: post
 title:  "Zebra: A novel method for optimizing text classification query in overload scenario"
 date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
-author: "T Yu, Z He, Z Yang, F Ye, Y Fan, Y Jing, K Zhang… - World Wide Web, 2022"
+author: "T Yu, Z He, Z Yang, F Ye, Y Fan, Y Jing, K Zhang - World Wide Web, 2022"
 ---
-Text classification is a crucial task in the text mining field, and it can be included in queries with user-defined functions (UDF). In many web applications, such as Twitter mining or Weibo real-time processing, when the amount of text data to be processed is enormous, there will be many overload phenomena. At the same time, when the system is overloaded, the delays in the query process can negatively affect the user experience in a streaming scenario. This paper focuses on the query with text …
-Cites: ‪A Method for Optimizing Opaque Filter Queries‬  
+Text classification is a crucial task in the text mining field, and it can be included in queries with user-defined functions (UDF). In many web applications, such as Twitter mining or Weibo real-time processing, when the amount of text data to be processed is enormous, there will be many overload phenomena. At the same time, when the system is overloaded, the delays in the query process can negatively affect the user experience in a streaming scenario. This paper focuses on the query with text 
+Cites: A Method for Optimizing Opaque Filter Queries

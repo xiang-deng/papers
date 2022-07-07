@@ -5,5 +5,5 @@ date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
 author: "D Ding, S Amer-Yahia, LVS Lakshmanan - arXiv preprint arXiv:2206.02845, 2022"
 ---
-The question of answering queries over ML predictions has been gaining attention in the database community. This question is challenging because the cost of finding high quality answers corresponds to invoking an oracle such as a human expert or an expensive deep neural network model on every single item in the DB and then applying the query. We develop a novel unified framework for approximate query answering by leveraging a proxy to minimize the oracle usage of finding high quality …
-Cites: ‪Physical representation-based predicate optimization for a visual …‬  
+The question of answering queries over ML predictions has been gaining attention in the database community. This question is challenging because the cost of finding high quality answers corresponds to invoking an oracle such as a human expert or an expensive deep neural network model on every single item in the DB and then applying the query. We develop a novel unified framework for approximate query answering by leveraging a proxy to minimize the oracle usage of finding high quality 
+Cites: Physical representation-based predicate optimization for a visual

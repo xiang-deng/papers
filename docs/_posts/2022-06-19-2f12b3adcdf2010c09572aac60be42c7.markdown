@@ -3,7 +3,7 @@ layout: post
 title:  "Text Generation with Text-Editing Models"
 date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
-author: "E Malmi, Y Dong, J Mallinson, A Chuklin, J Adamek… - arXiv preprint arXiv …, 2022"
+author: "E Malmi, Y Dong, J Mallinson, A Chuklin, J Adamek - arXiv preprint arXiv , 2022"
 ---
-Text-editing models have recently become a prominent alternative to seq2seq models for monolingual text-generation tasks such as grammatical error correction, simplification, and style transfer. These tasks share a common trait-they exhibit a large amount of textual overlap between the source and target texts. Text-editing models take advantage of this observation and learn to generate the output by predicting edit operations applied to the source sequence. In contrast, seq2seq …
-Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬  
+Text-editing models have recently become a prominent alternative to seq2seq models for monolingual text-generation tasks such as grammatical error correction, simplification, and style transfer. These tasks share a common trait-they exhibit a large amount of textual overlap between the source and target texts. Text-editing models take advantage of this observation and learn to generate the output by predicting edit operations applied to the source sequence. In contrast, seq2seq 
+Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in

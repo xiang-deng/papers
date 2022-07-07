@@ -5,5 +5,5 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "Q Tao, J Zhong, R Li"
 ---
-Automated essay scoring (AES) aims to automatically assign scores to essays based on the quality of writing. Previous approaches have made many attempts with pre-trained BERT for essay scoring and achieved the state-of-the-art. However, these approaches mainly rely on the high computation cost and ignore the high similarity between text representations. In this paper, we propose a lightweight prompt-tuning framework, AESPrompt, to capture the significant semantic features of the text …
-Cites: ‪Prefix-tuning: Optimizing continuous prompts for generation‬  
+Automated essay scoring (AES) aims to automatically assign scores to essays based on the quality of writing. Previous approaches have made many attempts with pre-trained BERT for essay scoring and achieved the state-of-the-art. However, these approaches mainly rely on the high computation cost and ignore the high similarity between text representations. In this paper, we propose a lightweight prompt-tuning framework, AESPrompt, to capture the significant semantic features of the text 
+Cites: Prefix-tuning: Optimizing continuous prompts for generation

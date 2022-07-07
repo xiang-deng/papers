@@ -5,5 +5,5 @@ date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
 author: "AI AWS"
 ---
-We propose a novel method for applying Transformer models to extractive question answering (QA) tasks. Recently, pretrained generative sequence-to-sequence (seq2seq) models have achieved great success in question answering. Contributing to the success of these models are internal attention mechanisms such as cross-attention. We propose a simple strategy to obtain an extractive answer span from the generative model by leveraging the decoder cross-attention patterns. Viewing cross …
-Cites: ‪Knowledge guided text retrieval and reading for open domain …‬  
+We propose a novel method for applying Transformer models to extractive question answering (QA) tasks. Recently, pretrained generative sequence-to-sequence (seq2seq) models have achieved great success in question answering. Contributing to the success of these models are internal attention mechanisms such as cross-attention. We propose a simple strategy to obtain an extractive answer span from the generative model by leveraging the decoder cross-attention patterns. Viewing cross 
+Cites: Knowledge guided text retrieval and reading for open domain

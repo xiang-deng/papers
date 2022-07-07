@@ -5,5 +5,5 @@ date:   2022-07-04 12:22:48 -0400
 categories: jekyll update
 author: "E Veltri, D Santoro, G Badaro, M Saeed, P Papotti - 2022"
 ---
-Computational fact checking,(given a textual claim and a table, verify if the claim holds wrt the given data) and data-to-text generation (given a subset of cells, produce a sentence describing them) exploit the relationship between relational data and natural language text. Despite promising results in these areas, state-of-the-art solutions simply fail in managing “data-ambiguity , ie, the case when there are multiple interpretations of the relationship between the textual sentence and the …
-Cites: ‪Computational fact checking through query perturbations‬  
+Computational fact checking,(given a textual claim and a table, verify if the claim holds wrt the given data) and data-to-text generation (given a subset of cells, produce a sentence describing them) exploit the relationship between relational data and natural language text. Despite promising results in these areas, state-of-the-art solutions simply fail in managing data-ambiguity , ie, the case when there are multiple interpretations of the relationship between the textual sentence and the 
+Cites: Computational fact checking through query perturbations

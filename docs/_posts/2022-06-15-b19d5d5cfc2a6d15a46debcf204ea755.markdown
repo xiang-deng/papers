@@ -3,7 +3,7 @@ layout: post
 title:  "Attention Analysis and Calibration for Transformer in Natural Language Generation"
 date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
-author: "Y Lu, J Zhang, J Zeng, SZ Wu, C Zong - IEEE/ACM Transactions on Audio, Speech …, 2022"
+author: "Y Lu, J Zhang, J Zeng, SZ Wu, C Zong - IEEE/ACM Transactions on Audio, Speech , 2022"
 ---
-Attention mechanism has been ubiquitous in neural machine translation by dynamically selecting relevant contexts for different translations. Apart from performance gains, attention weights assigned to input tokens are often utilized to explain that high-attention tokens contribute more to the prediction. However, many works question whether this assumption holds in text classification by manually manipulating attention weights and observing decision flips. This article extends this …
-Cites: ‪Is Attention Interpretable?‬  
+Attention mechanism has been ubiquitous in neural machine translation by dynamically selecting relevant contexts for different translations. Apart from performance gains, attention weights assigned to input tokens are often utilized to explain that high-attention tokens contribute more to the prediction. However, many works question whether this assumption holds in text classification by manually manipulating attention weights and observing decision flips. This article extends this 
+Cites: Is Attention Interpretable?

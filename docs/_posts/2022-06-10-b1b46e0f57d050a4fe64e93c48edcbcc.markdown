@@ -3,7 +3,7 @@ layout: post
 title:  "Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning"
 date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
-author: "J Lim, S Yun, S Park, JY ChoiÂ - Proceedings of the IEEE/CVF Conference onÂ â€¦, 2022"
+author: "J Lim, S Yun, S Park, JY Choi - Proceedings of the IEEE/CVF Conference on , 2022"
 ---
-In this paper, we propose Hypergraph-Induced Semantic Tuplet (HIST) loss for deep metric learning that leverages the multilateral semantic relations of multiple samples to multiple classes via hypergraph modeling. We formulate deep metric learning as a hypergraph node classification problem in which each sample in a mini-batch is regarded as a node and each hyperedge models class-specific semantic relations represented by a semantic tuplet. Unlike previous graph-based losses that only useÂ â€¦
-Cites: â€ªLearning with Local and Global Consistency.â€¬  
+In this paper, we propose Hypergraph-Induced Semantic Tuplet (HIST) loss for deep metric learning that leverages the multilateral semantic relations of multiple samples to multiple classes via hypergraph modeling. We formulate deep metric learning as a hypergraph node classification problem in which each sample in a mini-batch is regarded as a node and each hyperedge models class-specific semantic relations represented by a semantic tuplet. Unlike previous graph-based losses that only use 
+Cites: Learning with Local and Global Consistency.

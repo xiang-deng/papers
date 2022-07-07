@@ -5,5 +5,5 @@ date:   2022-07-04 12:22:48 -0400
 categories: jekyll update
 author: "S Wang, Y Chen, S Yi, G Chao - Applied Intelligence, 2022"
 ---
-Graph learning methods have been widely used for multi-view clustering. However, such methods have the following challenges:(1) they usually perform simple fusion of fixed similarity graph matrices, ignoring its essential structure.(2) they are sensitive to noise and outliers because they usually learn the similarity matrix from the raw features. To solve these problems, we propose a novel multi-view subspace clustering method named Frobenius norm-regularized robust graph learning (RGL) …
-Cites: ‪Learning from labeled and unlabeled data on a directed graph‬  
+Graph learning methods have been widely used for multi-view clustering. However, such methods have the following challenges:(1) they usually perform simple fusion of fixed similarity graph matrices, ignoring its essential structure.(2) they are sensitive to noise and outliers because they usually learn the similarity matrix from the raw features. To solve these problems, we propose a novel multi-view subspace clustering method named Frobenius norm-regularized robust graph learning (RGL) 
+Cites: Learning from labeled and unlabeled data on a directed graph

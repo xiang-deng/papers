@@ -3,7 +3,7 @@ layout: post
 title:  "Feature Space Particle Inference for Neural Network Ensembles"
 date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
-author: "S Yashima, T Suzuki, K Ishikawa, I Sato, R Kawakami - arXiv preprint arXiv …, 2022"
+author: "S Yashima, T Suzuki, K Ishikawa, I Sato, R Kawakami - arXiv preprint arXiv , 2022"
 ---
-Ensembles of deep neural networks demonstrate improved performance over single models. For enhancing the diversity of ensemble members while keeping their performance, particle-based inference methods offer a promising approach from a Bayesian perspective. However, the best way to apply these methods to neural networks is still unclear: seeking samples from the weight-space posterior suffers from inefficiency due to the over-parameterization issues, while seeking samples …
-Cites: ‪Distributionally robust neural networks‬  
+Ensembles of deep neural networks demonstrate improved performance over single models. For enhancing the diversity of ensemble members while keeping their performance, particle-based inference methods offer a promising approach from a Bayesian perspective. However, the best way to apply these methods to neural networks is still unclear: seeking samples from the weight-space posterior suffers from inefficiency due to the over-parameterization issues, while seeking samples 
+Cites: Distributionally robust neural networks

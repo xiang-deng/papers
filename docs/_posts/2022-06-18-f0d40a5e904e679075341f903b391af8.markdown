@@ -5,5 +5,5 @@ date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
 author: "F Huang, T Tao, H Zhou, L Li, M Huang - arXiv preprint arXiv:2206.05975, 2022"
 ---
-Non-autoregressive Transformer (NAT) is a family of text generation models, which aims to reduce the decoding latency by predicting the whole sentences in parallel. However, such latency reduction sacrifices the ability to capture left-to-right dependencies, thereby making NAT learning very challenging. In this paper, we present theoretical and empirical analyses to reveal the challenges of NAT learning and propose a unified perspective to understand existing successes. First, we show …
-Cites: ‪Deep encoder, shallow decoder: Reevaluating non-autoregressive …‬  
+Non-autoregressive Transformer (NAT) is a family of text generation models, which aims to reduce the decoding latency by predicting the whole sentences in parallel. However, such latency reduction sacrifices the ability to capture left-to-right dependencies, thereby making NAT learning very challenging. In this paper, we present theoretical and empirical analyses to reveal the challenges of NAT learning and propose a unified perspective to understand existing successes. First, we show 
+Cites: Deep encoder, shallow decoder: Reevaluating non-autoregressive

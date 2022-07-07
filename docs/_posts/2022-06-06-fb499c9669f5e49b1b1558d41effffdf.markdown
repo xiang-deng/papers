@@ -3,7 +3,7 @@ layout: post
 title:  "Merlin-Arthur Classifiers: Formal Interpretability with Interactive Black Boxes"
 date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
-author: "S Wäldchen, K Sharma, M Zimmer, S Pokutta - arXiv preprint arXiv:2206.00759, 2022"
+author: "S Wldchen, K Sharma, M Zimmer, S Pokutta - arXiv preprint arXiv:2206.00759, 2022"
 ---
-We present a new theoretical framework for making black box classifiers such as Neural Networks interpretable, basing our work on clear assumptions and guarantees. In our setting, which is inspired by the Merlin-Arthur protocol from Interactive Proof Systems, two functions cooperate to achieve a classification together: the\emph {prover} selects a small set of features as a certificate and presents it to the\emph {classifier}. Including a second, adversarial prover allows us …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬  
+We present a new theoretical framework for making black box classifiers such as Neural Networks interpretable, basing our work on clear assumptions and guarantees. In our setting, which is inspired by the Merlin-Arthur protocol from Interactive Proof Systems, two functions cooperate to achieve a classification together: the\emph {prover} selects a small set of features as a certificate and presents it to the\emph {classifier}. Including a second, adversarial prover allows us 
+Cites: Anchors: High-Precision Model-Agnostic Explanations

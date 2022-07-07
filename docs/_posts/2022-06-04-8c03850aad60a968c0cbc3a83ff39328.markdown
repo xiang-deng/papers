@@ -3,6 +3,6 @@ layout: post
 title:  "Differentially Private Decoding in Large Language Models"
 date:   2022-06-04 01:43:25 -0400
 categories: jekyll update
-author: "J Majmudar, C Dupuy, C Peris, S Smaili, R Gupta… - arXiv preprint arXiv …, 2022"
+author: "J Majmudar, C Dupuy, C Peris, S Smaili, R Gupta - arXiv preprint arXiv , 2022"
 ---
-Recent large-scale natural language processing (NLP) systems use a pre-trained Large Language Model (LLM) on massive and diverse corpora as a headstart. In practice, the pre-trained model is adapted to a wide array of tasks via fine-tuning on task-specific datasets. LLMs, while effective, have been shown to memorize instances of training data thereby potentially revealing private information processed during pre-training. The potential leakage might further propagate to the downstream … Cites: ‪Large language models can be strong differentially private learners‬
+Recent large-scale natural language processing (NLP) systems use a pre-trained Large Language Model (LLM) on massive and diverse corpora as a headstart. In practice, the pre-trained model is adapted to a wide array of tasks via fine-tuning on task-specific datasets. LLMs, while effective, have been shown to memorize instances of training data thereby potentially revealing private information processed during pre-training. The potential leakage might further propagate to the downstream  Cites: Large language models can be strong differentially private learners

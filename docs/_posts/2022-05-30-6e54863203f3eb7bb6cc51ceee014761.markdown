@@ -3,6 +3,6 @@ layout: post
 title:  "RLPrompt: Optimizing Discrete Text Prompts With Reinforcement Learning"
 date:   2022-05-30 22:20:45 -0400
 categories: jekyll update
-author: "M Deng, J Wang, CP Hsieh, Y Wang, H Guo, T Shu… - arXiv preprint arXiv …, 2022"
+author: "M Deng, J Wang, CP Hsieh, Y Wang, H Guo, T Shu - arXiv preprint arXiv , 2022"
 ---
-Prompting has shown impressive success in enabling large pretrained language models (LMs) to perform diverse NLP tasks, especially when only few downstream data are available. Automatically finding the optimal prompt for each task, however, is challenging. Most existing work resorts to tuning soft prompt (eg, embeddings) which falls short of interpretability, reusability across LMs, and applicability when gradients are not accessible. Discrete prompt, on the other hand, is difficult to … Cites: ‪Fantastically ordered prompts and where to find them: Overcoming …‬
+Prompting has shown impressive success in enabling large pretrained language models (LMs) to perform diverse NLP tasks, especially when only few downstream data are available. Automatically finding the optimal prompt for each task, however, is challenging. Most existing work resorts to tuning soft prompt (eg, embeddings) which falls short of interpretability, reusability across LMs, and applicability when gradients are not accessible. Discrete prompt, on the other hand, is difficult to  Cites: Fantastically ordered prompts and where to find them: Overcoming 

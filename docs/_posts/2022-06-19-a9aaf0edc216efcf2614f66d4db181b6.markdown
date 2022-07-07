@@ -5,5 +5,5 @@ date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
 author: "K Maxim, G Alexander, B Denis - arXiv preprint arXiv:2206.06827, 2022"
 ---
-Policy-gradient methods in Reinforcement Learning (RL) are very universal and widely applied in practice but their performance suffers from the high variance of the gradient estimate. Several procedures were proposed to reduce it including actor-critic (AC) and advantage actor-critic (A2C) methods. Recently the approaches have got new perspective due to the introduction of Deep RL: both new control variates (CV) and new sub-sampling procedures became available in the setting of complex …
-Cites: ‪Action-depedent Control Variates for Policy Optimization via Stein's …‬  
+Policy-gradient methods in Reinforcement Learning (RL) are very universal and widely applied in practice but their performance suffers from the high variance of the gradient estimate. Several procedures were proposed to reduce it including actor-critic (AC) and advantage actor-critic (A2C) methods. Recently the approaches have got new perspective due to the introduction of Deep RL: both new control variates (CV) and new sub-sampling procedures became available in the setting of complex 
+Cites: Action-depedent Control Variates for Policy Optimization via Stein's

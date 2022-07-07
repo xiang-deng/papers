@@ -5,5 +5,5 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "JLTJ Ainslie"
 ---
-We combine the capacity of sparsely gated Mixture-of-Experts (MoE) with the speed and stability of linear, mixing transformations to design the Sparse Mixer encoder model. The Sparse Mixer slightly outperforms (<<< 1%) BERT on GLUE and SuperGLUE, but more importantly trains 65% faster and runs inference 61% faster. We also present a faster variant, prosaically named Fast Sparse Mixer, that marginally underperforms (<<< 0.2%) BERT on SuperGLUE, but trains and runs …
-Cites: ‪Mixture-of-Experts with Expert Choice Routing‬  
+We combine the capacity of sparsely gated Mixture-of-Experts (MoE) with the speed and stability of linear, mixing transformations to design the Sparse Mixer encoder model. The Sparse Mixer slightly outperforms (<<< 1%) BERT on GLUE and SuperGLUE, but more importantly trains 65% faster and runs inference 61% faster. We also present a faster variant, prosaically named Fast Sparse Mixer, that marginally underperforms (<<< 0.2%) BERT on SuperGLUE, but trains and runs 
+Cites: Mixture-of-Experts with Expert Choice Routing

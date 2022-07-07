@@ -3,7 +3,7 @@ layout: post
 title:  "Holistic Evaluation of Automatic TimeML Annotators"
 date:   2022-07-04 12:22:48 -0400
 categories: jekyll update
-author: "M Ocal, A Perez, A Radas, M Finlayson - … of The 13th Language Resources and …, 2022"
+author: "M Ocal, A Perez, A Radas, M Finlayson -  of The 13th Language Resources and , 2022"
 ---
-TimeML is a scheme for representing temporal information (times, events, & temporal relations) in texts. Although automatic TimeML annotation is challenging, there has been notable progress, with F1s of 0.8–0.9 for events and time detection subtasks, and F1s of 0.5–0.7 for relation extraction. Individually, these subtask results are reasonable, even good, but when combined to generate a full TimeML graph, is overall performance still acceptable? We present a novel suite of eight metrics …
-Cites: ‪A structured learning approach to temporal relation extraction‬  
+TimeML is a scheme for representing temporal information (times, events, & temporal relations) in texts. Although automatic TimeML annotation is challenging, there has been notable progress, with F1s of 0.80.9 for events and time detection subtasks, and F1s of 0.50.7 for relation extraction. Individually, these subtask results are reasonable, even good, but when combined to generate a full TimeML graph, is overall performance still acceptable? We present a novel suite of eight metrics 
+Cites: A structured learning approach to temporal relation extraction

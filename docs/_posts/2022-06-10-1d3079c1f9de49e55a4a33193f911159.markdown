@@ -3,7 +3,7 @@ layout: post
 title:  "Uniform Priors for Data-Efficient Learning"
 date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
-author: "S Sinha, K Roth, A Goyal, M Ghassemi, Z Akata… - Proceedings of the IEEE …, 2022"
+author: "S Sinha, K Roth, A Goyal, M Ghassemi, Z Akata - Proceedings of the IEEE , 2022"
 ---
-Few or zero-shot adaptation to novel tasks is important for the scalability and deployment of machine learning models. It is therefore crucial to find properties that encourage more transferable features in deep networks for generalization. In this paper, we show that models that learn uniformly distributed features from the training data, are able to perform better transfer learning at test-time. Motivated by this, we evaluate our method: uniformity regularization (\mathcal UR) on its ability to facilitate …
-Cites: ‪FewRel 2.0: Towards More Challenging Few-Shot Relation …‬  
+Few or zero-shot adaptation to novel tasks is important for the scalability and deployment of machine learning models. It is therefore crucial to find properties that encourage more transferable features in deep networks for generalization. In this paper, we show that models that learn uniformly distributed features from the training data, are able to perform better transfer learning at test-time. Motivated by this, we evaluate our method: uniformity regularization (\mathcal UR) on its ability to facilitate 
+Cites: FewRel 2.0: Towards More Challenging Few-Shot Relation

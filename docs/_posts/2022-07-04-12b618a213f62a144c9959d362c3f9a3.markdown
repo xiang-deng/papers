@@ -5,5 +5,5 @@ date:   2022-07-04 12:22:48 -0400
 categories: jekyll update
 author: "H Qiu, Y Wang, S Tang, D Meng, Q Yao"
 ---
-In this paper, we study nonconvex tensor robust principal component analysis (RPCA) based on the t-SVD. We first propose an alternating projection method, ie, APT, which converges linearly to the ground-truth under the incoherence conditions of tensors. However, as the projection to the low-rank tensor space in APT can be slow, we further propose to speedup such a process by utilizing the property of the tangent space of low-rank. The resulting algorithm, ie, EAPT, is not only more …
-Cites: ‪Tensor robust principal component analysis: Better recovery with …‬  
+In this paper, we study nonconvex tensor robust principal component analysis (RPCA) based on the t-SVD. We first propose an alternating projection method, ie, APT, which converges linearly to the ground-truth under the incoherence conditions of tensors. However, as the projection to the low-rank tensor space in APT can be slow, we further propose to speedup such a process by utilizing the property of the tangent space of low-rank. The resulting algorithm, ie, EAPT, is not only more 
+Cites: Tensor robust principal component analysis: Better recovery with

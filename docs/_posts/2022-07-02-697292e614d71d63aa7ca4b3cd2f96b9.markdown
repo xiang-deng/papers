@@ -5,5 +5,5 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "D Santra - 2022"
 ---
-2. Build a tight integration with GraphNeuralNetworks. jl The graph datasets are built to be used with libraries like GraphNeural-Networks. jl (still in it s beta stage), we can build the MLDatasets. jl graph datasets to be first class compatible (usable without little to alterations). 3. Consistent Structure The data for MLDatasets are sourced from different websites, who in turn use their own variable names and specifications. Currently MLDatasets does-not enforce any fixed api for data-access, so an end-user …
-Cites: ‪Text generation from knowledge graphs with graph transformers‬  
+2. Build a tight integration with GraphNeuralNetworks. jl The graph datasets are built to be used with libraries like GraphNeural-Networks. jl (still in it s beta stage), we can build the MLDatasets. jl graph datasets to be first class compatible (usable without little to alterations). 3. Consistent Structure The data for MLDatasets are sourced from different websites, who in turn use their own variable names and specifications. Currently MLDatasets does-not enforce any fixed api for data-access, so an end-user 
+Cites: Text generation from knowledge graphs with graph transformers

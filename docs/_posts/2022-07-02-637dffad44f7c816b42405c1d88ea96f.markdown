@@ -5,5 +5,5 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "A Mehra, B Kailkhura, PY Chen, J Hamm - arXiv preprint arXiv:2206.12364, 2022"
 ---
-Domain Generalization (DG) aims to learn models whose performance remains high on unseen domains encountered at test-time by using data from multiple related source domains. Many existing DG algorithms reduce the divergence between source distributions in a representation space to potentially align the unseen domain close to the sources. This is motivated by the analysis that explains generalization to unseen domains using distributional distance (such as the Wasserstein distance) to …
-Cites: ‪Distributionally robust neural networks for group shifts: On the …‬  
+Domain Generalization (DG) aims to learn models whose performance remains high on unseen domains encountered at test-time by using data from multiple related source domains. Many existing DG algorithms reduce the divergence between source distributions in a representation space to potentially align the unseen domain close to the sources. This is motivated by the analysis that explains generalization to unseen domains using distributional distance (such as the Wasserstein distance) to 
+Cites: Distributionally robust neural networks for group shifts: On the

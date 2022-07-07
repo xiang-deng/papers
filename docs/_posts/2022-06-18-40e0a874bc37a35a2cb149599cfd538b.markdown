@@ -5,5 +5,5 @@ date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
 author: "Y Yang, M Loog - Pattern Recognition, 2022"
 ---
-Though much effort has been spent on designing new active learning algorithms, little attention has been paid to the initialization problem of active learning, ie, how to find a set of labeled samples which contains at least one instance per category. This work identifies the initialization of active learning as a separate and novel research problem, reviews existing methods that can be adapted to be used for this task and, in addition, proposes a new active initialization criterion: the Nearest Neighbor …
-Cites: ‪Cold-start active learning through self-supervised language …‬  
+Though much effort has been spent on designing new active learning algorithms, little attention has been paid to the initialization problem of active learning, ie, how to find a set of labeled samples which contains at least one instance per category. This work identifies the initialization of active learning as a separate and novel research problem, reviews existing methods that can be adapted to be used for this task and, in addition, proposes a new active initialization criterion: the Nearest Neighbor 
+Cites: Cold-start active learning through self-supervised language

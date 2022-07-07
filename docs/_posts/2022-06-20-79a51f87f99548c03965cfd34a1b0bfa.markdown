@@ -5,5 +5,5 @@ date:   2022-06-20 23:00:52 -0400
 categories: jekyll update
 author: "P Chen, Y Deng, Q Zou, L Lu, H Li - Neural Processing Letters, 2022"
 ---
-When used for small-scale datasets classification tasks, deep neural networks are difficult to train, which results in the network not extracting useful features and the low accuracy of network. This paper proposes a method called Enhanced Adversarial Autoencoders (EAAE) to improve the accuracy of classification in small-scale datasets scenarios. We reuse the decoder of the Adversarial Autoencoders to generate data for the specified category, which expands the training space of the …
-Cites: ‪Fine-grained attention mechanism for neural machine translation‬  
+When used for small-scale datasets classification tasks, deep neural networks are difficult to train, which results in the network not extracting useful features and the low accuracy of network. This paper proposes a method called Enhanced Adversarial Autoencoders (EAAE) to improve the accuracy of classification in small-scale datasets scenarios. We reuse the decoder of the Adversarial Autoencoders to generate data for the specified category, which expands the training space of the 
+Cites: Fine-grained attention mechanism for neural machine translation

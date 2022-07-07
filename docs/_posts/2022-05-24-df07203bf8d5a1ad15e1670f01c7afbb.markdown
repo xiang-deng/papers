@@ -3,6 +3,6 @@ layout: post
 title:  "CHAMP: Channel Merging Process for Cost-Efficient Highly-Pruned CNN Acceleration"
 date:   2022-05-24 00:00:36 -0400
 categories: jekyll update
-author: "H Kwon, Y Byun, S Kang, Y Lee - IEEE Transactions on Circuits and Systems I …, 2022"
+author: "H Kwon, Y Byun, S Kang, Y Lee - IEEE Transactions on Circuits and Systems I , 2022"
 ---
-This paper presents an advanced offline scheduling scheme to improve the accelerator efficiency, especially for the highly-pruned convolutional neural networks (HP-CNNs). Based on the existing outlier-aware accelerator design, we demonstrate the efficiency drop of HP-CNN processing for the first time, and element-wise channel merging is proposed to make a dense processing sequence even for the highly-pruned model. The dedicated hardware architecture is also presented to … Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬
+This paper presents an advanced offline scheduling scheme to improve the accelerator efficiency, especially for the highly-pruned convolutional neural networks (HP-CNNs). Based on the existing outlier-aware accelerator design, we demonstrate the efficiency drop of HP-CNN processing for the first time, and element-wise channel merging is proposed to make a dense processing sequence even for the highly-pruned model. The dedicated hardware architecture is also presented to  Cites: Coatnet: Marrying convolution and attention for all data sizes

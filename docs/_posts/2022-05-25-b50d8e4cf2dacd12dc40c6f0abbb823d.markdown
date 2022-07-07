@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SNS ユーザの自己紹介文にあらわれる偏りに着目したフェイクニュース検知"
+title:  "SNS "
 date:   2022-05-25 22:16:33 -0400
 categories: jekyll update
-author: "古川凌也， 伊藤大貴， 高田雄太， 熊谷裕志， 神薗雅紀… - IEICE Conferences Archives, 2021"
+author: "     - IEICE Conferences Archives, 2021"
 ---
-概要 SNS におけるフェイクニュースの拡散が問題となっている. フェイクニュースを共有するユーザは承認欲求や帰属欲求, 自己顕示欲といったヒューマンニーズが強く, 自己紹介文に特徴的な単語が現れやすい. 本研究では, それら自己紹介文に含まれる単語の偏りに基づき, フェイクニュースを検知する手法を提案する. Twitter 上で同一のニュース URL を投稿する複数ユーザの自己紹介文に含まれる単語から特徴量ベクトルを作成し, 機械学習によりその真偽を分類する. 日米のリアルおよびフェイクニュースを含む複数の … Cites: ‪Truth of varying shades: Analyzing language in fake news and …‬
+ SNS . , , . , , . Twitter  URL , .   Cites: Truth of varying shades: Analyzing language in fake news and 

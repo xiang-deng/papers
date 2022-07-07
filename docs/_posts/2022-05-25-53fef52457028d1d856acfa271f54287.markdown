@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "背景入替えデータ集計による XAI 結果評価方式の提案"
+title:  " XAI "
 date:   2022-05-25 22:16:33 -0400
 categories: jekyll update
-author: "安井雅彦， 浜直史， 森靖英， 和久井一則 - IEICE Conferences Archives, 2021"
+author: "    - IEICE Conferences Archives, 2021"
 ---
-1. はじめに機械学習の技術が発展する一方で, 機械学習モデルやアルゴリズムのいわゆるブラックボックス化が加速している. ブラックボックス化とは, 当該モデルがどのような理由でその結果を出力したのかについて直感的な理解を得ることが難しくなってきていることをいう. 機械学習のブラックボックス化に対し, モデルがなぜそのような判断結果を出力したのかを説明できるようにする, XAI (eXplainable AI, 説明可能な AI) という技術が研究されている. また, XAI を自らが開発する機械学習モデルに適用し, 出力される判定根拠からその挙動の … Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+1. , . , . , , XAI (eXplainable AI,  AI) . , XAI ,   Cites: Anchors: High-Precision Model-Agnostic Explanations

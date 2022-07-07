@@ -5,5 +5,5 @@ date:   2022-06-30 03:02:10 -0400
 categories: jekyll update
 author: "SY Kim, CH Kim, WJ Lee, I Park, SW Kim - Microprocessors and Microsystems, 2022"
 ---
-An inference engine uses floating-point numbers to provide high accuracy in deep neural network computing despite its computing resource limitations. However, the computation for non-linear activation functions occurs the performance bottleneck, and we may alleviate it by adopting a lookup table (LUT) method. However, the floating-point number system s characteristic, where intervals between mantissa numbers differ depending on their exponent values, makes it challenging to calculate …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬  
+An inference engine uses floating-point numbers to provide high accuracy in deep neural network computing despite its computing resource limitations. However, the computation for non-linear activation functions occurs the performance bottleneck, and we may alleviate it by adopting a lookup table (LUT) method. However, the floating-point number system s characteristic, where intervals between mantissa numbers differ depending on their exponent values, makes it challenging to calculate 
+Cites: Bert: Pre-training of deep bidirectional transformers for language

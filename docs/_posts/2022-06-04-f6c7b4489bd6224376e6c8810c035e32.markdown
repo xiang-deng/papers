@@ -3,6 +3,6 @@ layout: post
 title:  "Class-Wise Denoising for Robust Learning under Label Noise"
 date:   2022-06-04 01:43:25 -0400
 categories: jekyll update
-author: "C Gong, Y Ding, B Han, G Niu, J Yang, JJ You, D Tao… - IEEE Transactions on …, 2022"
+author: "C Gong, Y Ding, B Han, G Niu, J Yang, JJ You, D Tao - IEEE Transactions on , 2022"
 ---
-Label noise is ubiquitous in many real-world scenarios which often misleads training algorithm and brings about the degraded classification performance. Therefore, many approaches have been proposed to correct the loss function given corrupted labels to combat such label noise. Among them, a trend of works unbiasedly estimate the data centroid, which plays an important role in constructing an unbiased risk estimator. However, they usually handle the noisy labels in different classes all at … Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+Label noise is ubiquitous in many real-world scenarios which often misleads training algorithm and brings about the degraded classification performance. Therefore, many approaches have been proposed to correct the loss function given corrupted labels to combat such label noise. Among them, a trend of works unbiasedly estimate the data centroid, which plays an important role in constructing an unbiased risk estimator. However, they usually handle the noisy labels in different classes all at  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

@@ -3,7 +3,7 @@ layout: post
 title:  "Augmenting Message Passing by Retrieving Similar Graphs"
 date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
-author: "D Wang, S Liu, H Wang, L Song, J Tang, S Le, BC Grau… - arXiv preprint arXiv …, 2022"
+author: "D Wang, S Liu, H Wang, L Song, J Tang, S Le, BC Grau - arXiv preprint arXiv , 2022"
 ---
-Graph Neural Networks (GNNs) are effective tools for graph representation learning. Most GNNs rely on a recursive neighborhood aggregation scheme, named message passing. In this paper, motivated by the success of retrieval-based models, we propose a non-parametric scheme called GraphRetrieval, in which similar training graphs associated with their ground-truth labels are retrieved to be jointly utilized with the input graph representation to complete various graph-based predictive …
-Cites: ‪Retrieval augmented language model pre-training‬  
+Graph Neural Networks (GNNs) are effective tools for graph representation learning. Most GNNs rely on a recursive neighborhood aggregation scheme, named message passing. In this paper, motivated by the success of retrieval-based models, we propose a non-parametric scheme called GraphRetrieval, in which similar training graphs associated with their ground-truth labels are retrieved to be jointly utilized with the input graph representation to complete various graph-based predictive 
+Cites: Retrieval augmented language model pre-training

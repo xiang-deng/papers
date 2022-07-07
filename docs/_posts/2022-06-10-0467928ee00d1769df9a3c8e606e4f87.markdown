@@ -5,5 +5,5 @@ date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
 author: "E Hershkovich, D Atzmon, G Shani, R Stern - 2022"
 ---
-Abstract The Pursuit-Evasion (PE) problem is a well-known problem in which an agent–the Pursuer–attempts to catch another agent–the Evader–before it reaches some target destination. We explore a variant of the PE problem called PE with Fixed Evader plans (PE-FEP), in which an external opponent modeling tool provides a distribution over the plans the Evader agent may select. This PE variant, which is motivated by real-life problems, is particularly challenging for existing PE algorithms …
-Cites: ‪Opponent modeling in deep reinforcement learning‬  
+Abstract The Pursuit-Evasion (PE) problem is a well-known problem in which an agentthe Pursuerattempts to catch another agentthe Evaderbefore it reaches some target destination. We explore a variant of the PE problem called PE with Fixed Evader plans (PE-FEP), in which an external opponent modeling tool provides a distribution over the plans the Evader agent may select. This PE variant, which is motivated by real-life problems, is particularly challenging for existing PE algorithms 
+Cites: Opponent modeling in deep reinforcement learning

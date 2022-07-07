@@ -3,6 +3,6 @@ layout: post
 title:  "MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores"
 date:   2022-05-24 00:00:36 -0400
 categories: jekyll update
-author: "SC Kao, T Krishna - 2022 IEEE International Symposium on High …, 2022"
+author: "SC Kao, T Krishna - 2022 IEEE International Symposium on High , 2022"
 ---
-As Deep Learning continues to drive a variety of applications in edge and cloud data centers, there is a growing trend towards building large accelerators with several sub-accelerator cores/chiplets. This work looks at the problem of supporting multi-tenancy on such accelerators. In particular, we focus on the problem of mapping jobs from several DNNs simultaneously on an accelerator. Given the extremely large search space, we formulate the search as an optimization problem and develop an … Cites: ‪Unsupervised cross-lingual representation learning at scale‬
+As Deep Learning continues to drive a variety of applications in edge and cloud data centers, there is a growing trend towards building large accelerators with several sub-accelerator cores/chiplets. This work looks at the problem of supporting multi-tenancy on such accelerators. In particular, we focus on the problem of mapping jobs from several DNNs simultaneously on an accelerator. Given the extremely large search space, we formulate the search as an optimization problem and develop an  Cites: Unsupervised cross-lingual representation learning at scale

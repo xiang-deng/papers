@@ -3,6 +3,6 @@ layout: post
 title:  "Leveraging Locality in Abstractive Text Summarization"
 date:   2022-05-30 22:20:45 -0400
 categories: jekyll update
-author: "Y Liu, A Ni, L Nan, B Deb, C Zhu, AH Awadallah… - arXiv preprint arXiv …, 2022"
+author: "Y Liu, A Ni, L Nan, B Deb, C Zhu, AH Awadallah - arXiv preprint arXiv , 2022"
 ---
-Despite the successes of neural attention models for natural language generation tasks, the quadratic memory complexity of the self-attention module with respect to the input length hinders their applications in long text summarization. Instead of designing more efficient attention modules, we approach this problem by investigating if models with a restricted context can have competitive performance compared with the memory-efficient attention models that maintain a global context … Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬
+Despite the successes of neural attention models for natural language generation tasks, the quadratic memory complexity of the self-attention module with respect to the input length hinders their applications in long text summarization. Instead of designing more efficient attention modules, we approach this problem by investigating if models with a restricted context can have competitive performance compared with the memory-efficient attention models that maintain a global context  Cites: Discourse-Aware Neural Extractive Text Summarization

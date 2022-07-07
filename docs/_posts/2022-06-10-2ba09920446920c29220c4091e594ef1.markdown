@@ -3,7 +3,7 @@ layout: post
 title:  "Instance-Dependent Label-Noise Learning with Manifold-Regularized Transition Matrix Estimation"
 date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
-author: "D Cheng, T Liu, Y Ning, N Wang, B Han, G Niu, X Gao… - Proceedings of the IEEE …, 2022"
+author: "D Cheng, T Liu, Y Ning, N Wang, B Han, G Niu, X Gao - Proceedings of the IEEE , 2022"
 ---
-In label-noise learning, estimating the transition matrix has attracted more and more attention as the matrix plays an important role in building statistically consistent classifiers. However, it is very challenging to estimate the transition matrix T (x), where T (x) denotes the instance, because it is unidentifiable under the instance-dependent noise (IDN). To address this problem, we have noticed that, there are psychological and physiological evidences showing that we humans are more likely …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬  
+In label-noise learning, estimating the transition matrix has attracted more and more attention as the matrix plays an important role in building statistically consistent classifiers. However, it is very challenging to estimate the transition matrix T (x), where T (x) denotes the instance, because it is unidentifiable under the instance-dependent noise (IDN). To address this problem, we have noticed that, there are psychological and physiological evidences showing that we humans are more likely 
+Cites: Dividemix: Learning with noisy labels as semi-supervised learning

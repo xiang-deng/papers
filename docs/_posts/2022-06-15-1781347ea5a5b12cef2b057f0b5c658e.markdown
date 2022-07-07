@@ -3,7 +3,7 @@ layout: post
 title:  "ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement"
 date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
-author: "L Zhao, F Zheng, W Zeng, K He, R Geng, H Jiang… - 2022"
+author: "L Zhao, F Zheng, W Zeng, K He, R Geng, H Jiang - 2022"
 ---
-Traditional dialogue summarization models rely on a large-scale manually-labeled corpus, lacking generalization ability to new domains, and domain adaptation from a labeled source domain to an unlabeled target domain is important in practical summarization scenarios. However, existing domain adaptation works in dialogue summarization generally require large-scale pre-training using extensive external data. To explore the lightweight fine-tuning methods, in this paper, we propose an …
-Cites: ‪Text summarization with pretrained encoders‬  
+Traditional dialogue summarization models rely on a large-scale manually-labeled corpus, lacking generalization ability to new domains, and domain adaptation from a labeled source domain to an unlabeled target domain is important in practical summarization scenarios. However, existing domain adaptation works in dialogue summarization generally require large-scale pre-training using extensive external data. To explore the lightweight fine-tuning methods, in this paper, we propose an 
+Cites: Text summarization with pretrained encoders

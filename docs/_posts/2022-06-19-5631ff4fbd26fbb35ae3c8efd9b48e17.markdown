@@ -3,7 +3,7 @@ layout: post
 title:  "Towards Robust Ranker for Text Retrieval"
 date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
-author: "Y Zhou, T Shen, X Geng, C Tao, C Xu, G Long, B Jiao… - arXiv preprint arXiv …, 2022"
+author: "Y Zhou, T Shen, X Geng, C Tao, C Xu, G Long, B Jiao - arXiv preprint arXiv , 2022"
 ---
-A ranker plays an indispensable role in the de facto retrieval & rerank pipeline, but its training still lags behind--learning from moderate negatives or/and serving as an auxiliary module for a retriever. In this work, we first identify two major barriers to a robust ranker, ie, inherent label noises caused by a well-trained retriever and non-ideal negatives sampled for a high-capable ranker. Thereby, we propose multiple retrievers as negative generators improve the ranker s robustness, where i) involving …
-Cites: ‪Sparse, dense, and attentional representations for text retrieval‬  
+A ranker plays an indispensable role in the de facto retrieval & rerank pipeline, but its training still lags behind--learning from moderate negatives or/and serving as an auxiliary module for a retriever. In this work, we first identify two major barriers to a robust ranker, ie, inherent label noises caused by a well-trained retriever and non-ideal negatives sampled for a high-capable ranker. Thereby, we propose multiple retrievers as negative generators improve the ranker s robustness, where i) involving 
+Cites: Sparse, dense, and attentional representations for text retrieval

@@ -3,7 +3,7 @@ layout: post
 title:  "Machine Learning with Differentially Private Labels: Mechanisms and Frameworks"
 date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
-author: "X Tang, M Nasr, S Mahloujifar, V Shejwalkar, L Song… - Proceedings on Privacy …"
+author: "X Tang, M Nasr, S Mahloujifar, V Shejwalkar, L Song - Proceedings on Privacy "
 ---
-Label differential privacy is a relaxation of differential privacy for machine learning scenarios where the labels are the only sensitive information that need to be protected in the training data. For example, imagine a survey from a participant in a university class about their vaccination status. Some attributes of the students are publicly available but their vaccination status is sensitive information and must remain private. Now if we want to train a model that predicts whether a student has …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬  
+Label differential privacy is a relaxation of differential privacy for machine learning scenarios where the labels are the only sensitive information that need to be protected in the training data. For example, imagine a survey from a participant in a university class about their vaccination status. Some attributes of the students are publicly available but their vaccination status is sensitive information and must remain private. Now if we want to train a model that predicts whether a student has 
+Cites: Dividemix: Learning with noisy labels as semi-supervised learning
