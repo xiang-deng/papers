@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Single and Multiple Representations in Dense Passage Retrieval"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "C Macdonald, N Tonellotto, I Ounis - arXiv preprint arXiv:2108.06279, 2021"
----
+--- 
+layout: post 
+title: "On Single and Multiple Representations in Dense Passage Retrieval" 
+date: 2021-09-30 20:19:19 -0400 
+categories: jekyll update 
+author: "C Macdonald, N Tonellotto, I Ounis - arXiv preprint arXiv:2108.06279, 2021" 
+--- 
 The advent of contextualised language models has brought gains in search effectiveness, not just when applied for re-ranking the output of classical weighting models such as BM25, but also when used directly for passage indexing and retrieval, a technique which is called dense retrieval. In the existing literature in neural ranking, two dense retrieval families have become apparent: single representation, where entire passages are represented by a single embedding Cites: Bert: Pre-training of deep bidirectional transformers for language

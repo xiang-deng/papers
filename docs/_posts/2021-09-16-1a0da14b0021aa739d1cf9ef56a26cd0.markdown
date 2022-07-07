@@ -1,8 +1,8 @@
----
-layout: post
-title:  "RoR: Read-over-Read for Long Document Machine Reading Comprehension"
-date:   2021-09-16 19:19:30 -0400
-categories: jekyll update
-author: "J Zhao, J Bao, Y Wang, Y Zhou, Y Wu, X He, B Zhou - arXiv preprint arXiv:2109.04780, 2021"
----
+--- 
+layout: post 
+title: "RoR: Read-over-Read for Long Document Machine Reading Comprehension" 
+date: 2021-09-16 19:19:30 -0400 
+categories: jekyll update 
+author: "J Zhao, J Bao, Y Wang, Y Zhou, Y Wu, X He, B Zhou - arXiv preprint arXiv:2109.04780, 2021" 
+--- 
 Transformer-based pre-trained models, such as BERT, have achieved remarkable results on machine reading comprehension. However, due to the constraint of encoding length (eg, 512 WordPiece tokens), a long document is usually split into multiple chunks that are independently read. It results in the reading field being limited to individual chunks without information collaboration for long document machine reading comprehension. To address this problem, we propose RoR, a read Cites: Quac: Question answering in context

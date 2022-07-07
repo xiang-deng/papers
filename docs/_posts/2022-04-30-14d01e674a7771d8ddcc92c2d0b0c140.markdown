@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Reinforced Causal Explainer for Graph Neural Networks"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "X Wang, Y Wu, A Zhang, F Feng, X He, TS Chua - IEEE Transactions on Pattern , 2022"
----
-Explainability is crucial for probing graph neural networks (GNNs), answering questions like Why the GNN model makes a certain prediction. Feature attribution is a prevalent technique of highlighting the explanatory subgraph in the input graph which plausibly leads the GNN model to make its prediction. However, the existing attribution methods largely make an untenable assumption the selected edges are linearly independent, without considering their dependencies, especially their Cites:   Why Should I Trust You? : Explaining the Predictions of Any
+--- 
+layout: post 
+title: "Reinforced Causal Explainer for Graph Neural Networks" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "X Wang, Y Wu, A Zhang, F Feng, X He, TS Chua - IEEE Transactions on Pattern , 2022" 
+--- 
+Explainability is crucial for probing graph neural networks (GNNs), answering questions like Why the GNN model makes a certain prediction. Feature attribution is a prevalent technique of highlighting the explanatory subgraph in the input graph which plausibly leads the GNN model to make its prediction. However, the existing attribution methods largely make an untenable assumption the selected edges are linearly independent, without considering their dependencies, especially their Cites: Why Should I Trust You? : Explaining the Predictions of Any

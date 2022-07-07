@@ -1,8 +1,8 @@
----
-layout: post
-title:  "BenchIE: Open Information Extraction Evaluation Based on Facts, Not Tokens"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "K Gashteovski, M Yu, B Kotnis, C Lawrence, G Glavas - arXiv preprint arXiv , 2021"
----
-Intrinsic evaluations of OIE systems are carried out either manually--with human evaluators judging the correctness of extractions--or automatically, on standardized benchmarks. The latter, while much more cost-effective, is less reliable, primarily because of the incompleteness of the existing OIE benchmarks: the ground truth extractions do not include all acceptable variants of the same fact, leading to unreliable assessment of models  performance. Moreover, the existing OIE Cites: Open information extraction from the web
+--- 
+layout: post 
+title: "BenchIE: Open Information Extraction Evaluation Based on Facts, Not Tokens" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "K Gashteovski, M Yu, B Kotnis, C Lawrence, G Glavas - arXiv preprint arXiv , 2021" 
+--- 
+Intrinsic evaluations of OIE systems are carried out either manually--with human evaluators judging the correctness of extractions--or automatically, on standardized benchmarks. The latter, while much more cost-effective, is less reliable, primarily because of the incompleteness of the existing OIE benchmarks: the ground truth extractions do not include all acceptable variants of the same fact, leading to unreliable assessment of models performance. Moreover, the existing OIE Cites: Open information extraction from the web

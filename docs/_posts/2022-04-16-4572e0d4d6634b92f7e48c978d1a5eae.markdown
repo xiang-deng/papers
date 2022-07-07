@@ -1,8 +1,8 @@
----
-layout: post
-title:  "NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "S Mishra, A Mitra, N Varshney, B Sachdeva, P Clark - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "S Mishra, A Mitra, N Varshney, B Sachdeva, P Clark - arXiv preprint arXiv , 2022" 
+--- 
 Given the ubiquitous nature of numbers in text, reasoning with numbers to perform simple calculations is an important skill of AI systems. While many datasets and models have been developed to this end, state-of-the-art AI systems are brittle; failing to perform the underlying mathematical reasoning when they appear in a slightly different scenario. Drawing inspiration from GLUE that was proposed in the context of natural language understanding, we propose NumGLUE, a multi-task benchmark Cites: Dataset cartography: Mapping and diagnosing datasets with

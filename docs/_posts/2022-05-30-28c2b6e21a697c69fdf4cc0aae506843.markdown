@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FLUTE: Figurative Language Understanding and Textual Explanations"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "T Chakrabarty, A Saakyan, D Ghosh, S Muresan - arXiv preprint arXiv:2205.12404, 2022"
----
-In spite of the prevalence of figurative language, transformer-based models struggle to demonstrate an understanding of it. Meanwhile, even classical natural language inference (NLI) tasks have been plagued by spurious correlations and annotation artifacts. Datasets like eSNLI have been released, allowing to probe whether language models are right for the right reasons. Yet no such data exists for figurative language, making it harder to asses genuine understanding of such expressions. In  Cites: Testing the Ability of Language Models to Interpret Figurative
+--- 
+layout: post 
+title: "FLUTE: Figurative Language Understanding and Textual Explanations" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "T Chakrabarty, A Saakyan, D Ghosh, S Muresan - arXiv preprint arXiv:2205.12404, 2022" 
+--- 
+In spite of the prevalence of figurative language, transformer-based models struggle to demonstrate an understanding of it. Meanwhile, even classical natural language inference (NLI) tasks have been plagued by spurious correlations and annotation artifacts. Datasets like eSNLI have been released, allowing to probe whether language models are right for the right reasons. Yet no such data exists for figurative language, making it harder to asses genuine understanding of such expressions. In Cites: Testing the Ability of Language Models to Interpret Figurative

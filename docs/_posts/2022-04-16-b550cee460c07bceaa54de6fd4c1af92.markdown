@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Regularization-based Pruning of Irrelevant Weights in Deep Neural Architectures"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "G Bonetta, M Ribero, R Cancelliere - arXiv preprint arXiv:2204.04977, 2022"
----
+--- 
+layout: post 
+title: "Regularization-based Pruning of Irrelevant Weights in Deep Neural Architectures" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "G Bonetta, M Ribero, R Cancelliere - arXiv preprint arXiv:2204.04977, 2022" 
+--- 
 Deep neural networks exploiting millions of parameters are nowadays the norm in deep learning applications. This is a potential issue because of the great amount of computational resources needed for training, and of the possible loss of generalization performance of overparametrized networks. We propose in this paper a method for learning sparse neural topologies via a regularization technique which identifies non relevant weights and selectively shrinks their norm, while performing a Cites: Data-to-text generation with content selection and planning

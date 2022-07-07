@@ -1,8 +1,8 @@
----
-layout: post
-title:  "An Analysis of Logic Rule Dissemination in Sentiment Classifiers"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "S Gupta, MR Bouadjenek, A Robles-Kelly"
----
-Disseminating and incorporating logic rules in deep neural networks has been extensively explored for sentiment classification. Methods that are proposed for that goal rely on a component that aims to capture and model logic rules, followed by a sequence model to process the input sequence. While these methods claim to effectively capture syntactic structures that affect sentiment, they only show improvement in terms of accuracy to support their claims with no further analysis  Cites: Revisiting the Importance of Encoding Logic Rules in Sentiment
+--- 
+layout: post 
+title: "An Analysis of Logic Rule Dissemination in Sentiment Classifiers" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "S Gupta, MR Bouadjenek, A Robles-Kelly" 
+--- 
+Disseminating and incorporating logic rules in deep neural networks has been extensively explored for sentiment classification. Methods that are proposed for that goal rely on a component that aims to capture and model logic rules, followed by a sequence model to process the input sequence. While these methods claim to effectively capture syntactic structures that affect sentiment, they only show improvement in terms of accuracy to support their claims with no further analysis Cites: Revisiting the Importance of Encoding Logic Rules in Sentiment

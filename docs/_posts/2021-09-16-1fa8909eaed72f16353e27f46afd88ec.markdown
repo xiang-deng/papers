@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semantic Parsing in Task-Oriented Dialog with Recursive Insertion-based Encoder"
-date:   2021-09-16 19:19:30 -0400
-categories: jekyll update
-author: "E Mansimov, Y Zhang - arXiv preprint arXiv:2109.04500, 2021"
----
+--- 
+layout: post 
+title: "Semantic Parsing in Task-Oriented Dialog with Recursive Insertion-based Encoder" 
+date: 2021-09-16 19:19:30 -0400 
+categories: jekyll update 
+author: "E Mansimov, Y Zhang - arXiv preprint arXiv:2109.04500, 2021" 
+--- 
 We introduce a Recursive INsertion-based Encoder (RINE), a novel approach for semantic parsing in task-oriented dialog. Our model consists of an encoder network that incrementally builds the semantic parse tree by predicting the non-terminal label and its positions in the linearized tree. At the generation time, the model constructs the semantic parse tree by recursively inserting the predicted non-terminal labels at the predicted positions until termination. RINE achieves state-of-the-art exact match Cites: Task-oriented dialogue as dataflow synthesis

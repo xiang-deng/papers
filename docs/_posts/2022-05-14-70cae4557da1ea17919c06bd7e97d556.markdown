@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Better Retrieval May Not Lead to Better Question Answering"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "Z Liang, T Khot, S Bethard, M Surdeanu, A Sabharwal - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Better Retrieval May Not Lead to Better Question Answering" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "Z Liang, T Khot, S Bethard, M Surdeanu, A Sabharwal - arXiv preprint arXiv , 2022" 
+--- 
 Considerable progress has been made recently in open-domain question answering (QA) problems, which require Information Retrieval (IR) and Reading Comprehension (RC). A popular approach to improve the system s performance is to improve the quality of the retrieved context from the IR stage. In this work we show that for StrategyQA, a challenging open-domain QA dataset that requires multi-hop reasoning, this common approach is surprisingly ineffective--improving the quality of Cites: Answering Open-Domain Questions of Varying Reasoning Steps

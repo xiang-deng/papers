@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evaluating Transformer Language Models on Arithmetic Operations Using Number Decomposition"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "M Muffo, A Cocco, E Bertino"
----
-Abstract In recent years, Large Language Models such as GPT-3 showed remarkable capabilities in performing NLP tasks in the zero and few shot settings. On the other hand, the experiments highlighted the difficulty of GPT-3 in carrying out tasks that require a certain degree of reasoning, such as arithmetic operations. In this paper we evaluate the ability of Transformer Language Models to perform arithmetic operations following a pipeline that, before performing computations, decomposes  Cites: Do language embeddings capture scales?
+--- 
+layout: post 
+title: "Evaluating Transformer Language Models on Arithmetic Operations Using Number Decomposition" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "M Muffo, A Cocco, E Bertino" 
+--- 
+Abstract In recent years, Large Language Models such as GPT-3 showed remarkable capabilities in performing NLP tasks in the zero and few shot settings. On the other hand, the experiments highlighted the difficulty of GPT-3 in carrying out tasks that require a certain degree of reasoning, such as arithmetic operations. In this paper we evaluate the ability of Transformer Language Models to perform arithmetic operations following a pipeline that, before performing computations, decomposes Cites: Do language embeddings capture scales?

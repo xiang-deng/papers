@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Transcormer: Transformer for Sentence Scoring with Sliding Language Modeling"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "K Song, Y Leng, X Tan, Y Zou, T Qin, D Li - arXiv preprint arXiv:2205.12986, 2022"
----
-Sentence scoring aims at measuring the likelihood score of a sentence and is widely used in many natural language processing scenarios, like reranking, which is to select the best sentence from multiple candidates. Previous works on sentence scoring mainly adopted either causal language modeling (CLM) like GPT or masked language modeling (MLM) like BERT, which have some limitations: 1) CLM only utilizes unidirectional information for the probability estimation of a sentence without  Cites: Energy-based reranking: Improving neural machine translation
+--- 
+layout: post 
+title: "Transcormer: Transformer for Sentence Scoring with Sliding Language Modeling" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "K Song, Y Leng, X Tan, Y Zou, T Qin, D Li - arXiv preprint arXiv:2205.12986, 2022" 
+--- 
+Sentence scoring aims at measuring the likelihood score of a sentence and is widely used in many natural language processing scenarios, like reranking, which is to select the best sentence from multiple candidates. Previous works on sentence scoring mainly adopted either causal language modeling (CLM) like GPT or masked language modeling (MLM) like BERT, which have some limitations: 1) CLM only utilizes unidirectional information for the probability estimation of a sentence without Cites: Energy-based reranking: Improving neural machine translation

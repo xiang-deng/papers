@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Tackling the veracity and variety of big data"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "R Jin - 2022"
----
-This thesis tackles the veracity and variety challenges of big data, especially focusing on graphs and relational data. We start with proposing a class of graph association rules (GARs) to specify regularities between entities in graphs, which capture both missing links and inconsistencies. A GAR is a combination of a graph pattern and a dependency; it may take as predicates machine learning classifiers for link prediction. We formalize association deduction with GARs in terms of the chase, and  Cites: Learning reasoning strategies in end-to-end differentiable proving
+--- 
+layout: post 
+title: "Tackling the veracity and variety of big data" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "R Jin - 2022" 
+--- 
+This thesis tackles the veracity and variety challenges of big data, especially focusing on graphs and relational data. We start with proposing a class of graph association rules (GARs) to specify regularities between entities in graphs, which capture both missing links and inconsistencies. A GAR is a combination of a graph pattern and a dependency; it may take as predicates machine learning classifiers for link prediction. We formalize association deduction with GARs in terms of the chase, and Cites: Learning reasoning strategies in end-to-end differentiable proving

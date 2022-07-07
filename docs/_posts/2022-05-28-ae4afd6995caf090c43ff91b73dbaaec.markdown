@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "L Qiu, P Shaw, P Pasupat, T Shi, J Herzig, E Pitler - arXiv preprint arXiv , 2022"
----
-Despite their strong performance on many tasks, pre-trained language models have been shown to struggle on out-of-distribution compositional generalization. Meanwhile, recent work has shown considerable improvements on many NLP tasks from model scaling. Can scaling up model size also improve compositional generalization in semantic parsing? We evaluate encoder-decoder models up to 11B parameters and decoder-only models up to 540B parameters, and compare model  Cites: Rethinking the Role of Demonstrations: What Makes In-Context
+--- 
+layout: post 
+title: "Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "L Qiu, P Shaw, P Pasupat, T Shi, J Herzig, E Pitler - arXiv preprint arXiv , 2022" 
+--- 
+Despite their strong performance on many tasks, pre-trained language models have been shown to struggle on out-of-distribution compositional generalization. Meanwhile, recent work has shown considerable improvements on many NLP tasks from model scaling. Can scaling up model size also improve compositional generalization in semantic parsing? We evaluate encoder-decoder models up to 11B parameters and decoder-only models up to 540B parameters, and compare model Cites: Rethinking the Role of Demonstrations: What Makes In-Context

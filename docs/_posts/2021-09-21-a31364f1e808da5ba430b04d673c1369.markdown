@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "J Dodge, M Sap, A Marasovic, W Agnew, G Ilharco"
----
+--- 
+layout: post 
+title: "Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "J Dodge, M Sap, A Marasovic, W Agnew, G Ilharco" 
+--- 
 Large language models have led to remarkable progress on many NLP tasks, and researchers are turning to ever-larger text corpora to train them. Some of the largest corpora available are made by scraping significant portions of the internet, and are frequently introduced with only minimal documentation. In this work we provide some of the first documentation for the Colossal Clean Crawled Corpus (C4; Raffel et al., 2020), a dataset created by applying a set of filters to a single snapshot of Common Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

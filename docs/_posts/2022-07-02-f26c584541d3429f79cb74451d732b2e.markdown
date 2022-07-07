@@ -1,8 +1,8 @@
----
-layout: post
-title:  "NABERT-Large+: Using Modified BERT Model to Improve Discrete Reasoning Performance"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "B Li"
----
-Abstract Machine Reading Comprehension (MRC) is one of the key problems in Natural Language Processing, where the task is to read and comprehend a given text passage, and then answer questions based on it. MRC that requires discrete reasoning involving symbolic operations is a challenging task. Discrete Reasoning Over Paragraphs (DROP), introduced by AI2, is a benchmark which requires the natural language inference system to perform multiple discrete operations over the  Cites: DROP: A Reading Comprehension Benchmark Requiring Discrete
+--- 
+layout: post 
+title: "NABERT-Large+: Using Modified BERT Model to Improve Discrete Reasoning Performance" 
+date: 2022-07-02 02:42:16 -0400 
+categories: jekyll update 
+author: "B Li" 
+--- 
+Abstract Machine Reading Comprehension (MRC) is one of the key problems in Natural Language Processing, where the task is to read and comprehend a given text passage, and then answer questions based on it. MRC that requires discrete reasoning involving symbolic operations is a challenging task. Discrete Reasoning Over Paragraphs (DROP), introduced by AI2, is a benchmark which requires the natural language inference system to perform multiple discrete operations over the Cites: DROP: A Reading Comprehension Benchmark Requiring Discrete

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Unsupervised Question Answering via Summarization-Informed Question Generation"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "C Lyu, L Shang, Y Graham, J Foster, X Jiang, Q Liu - arXiv preprint arXiv:2109.07954, 2021"
----
+--- 
+layout: post 
+title: "Improving Unsupervised Question Answering via Summarization-Informed Question Generation" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "C Lyu, L Shang, Y Graham, J Foster, X Jiang, Q Liu - arXiv preprint arXiv:2109.07954, 2021" 
+--- 
 Question Generation (QG) is the task of generating a plausible question for a given< passage, answer> pair. Template-based QG uses linguistically-informed heuristics to transform declarative sentences into interrogatives, whereas supervised QG uses existing Question Answering (QA) datasets to train a system to generate a question given a passage and an answer. A disadvantage of the heuristic approach is that the generated questions are heavily tied to their declarative counterparts. A Cites: MRQA 2019 shared task: Evaluating generalization in reading

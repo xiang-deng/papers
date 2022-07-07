@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Few-Shot Aspect Category Sentiment Analysis via Meta-Learning"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "B Liang, X Li, L Gui, Y Fu, Y He, M Yang, R Xu - ACM Transactions on Information , 2022"
----
+--- 
+layout: post 
+title: "Few-Shot Aspect Category Sentiment Analysis via Meta-Learning" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "B Liang, X Li, L Gui, Y Fu, Y He, M Yang, R Xu - ACM Transactions on Information , 2022" 
+--- 
 Existing aspect-based/category sentiment analysis methods have shown great success in detecting sentiment polarity towards a given aspect in a sentence with supervised learning, where the training and inference stages share the same pre- defined set of aspects. However, in practice, the aspect categories are changing rather than keeping fixed over time. Dealing with unseen aspect categories is under- explored in existing methods. In this paper, we formulate a new few-shot aspect Cites: Zero-Shot Entity Linking by Reading Entity Descriptions

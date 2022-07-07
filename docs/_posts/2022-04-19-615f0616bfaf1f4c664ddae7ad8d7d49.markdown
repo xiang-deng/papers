@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Natural Language Processing based Automated Essay Scoring with Parameter-Efficient Transformer Approach"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "A Sethi, K Singh - 2022 6th International Conference on Computing , 2022"
----
+--- 
+layout: post 
+title: "Natural Language Processing based Automated Essay Scoring with Parameter-Efficient Transformer Approach" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "A Sethi, K Singh - 2022 6th International Conference on Computing , 2022" 
+--- 
 Existing automated scoring models implement layers of traditional recurrent neural networks to achieve reasonable performance. However, the models provide limited performance due to the limited capacity to encode long-term dependencies. The paper proposed a novel architecture incorporating pioneering language models of the natural language processing community. We leverage pre-trained language models and integrate it with adapter modules, which use a bottle-neck architecture to Cites: Adapterhub: A framework for adapting transformers

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FIP: Fake News Detection System Using Incompatibility Probability"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "J Xu, V Zadorozhny, J Grant - 2022"
----
+--- 
+layout: post 
+title: "FIP: Fake News Detection System Using Incompatibility Probability" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "J Xu, V Zadorozhny, J Grant - 2022" 
+--- 
 We propose FIP, a new method for fake news detection. In this framework a topic is a statement about an event, such as a headline. News articles may refer to or elaborate on the supposed event. Our technique relies on calculating the incompatibility probability for news articles with respect to a topic based on their stances determined by a reviewer. In the relevant cases where a news article is related to a topic, the stances are agree, disagree, and discuss, where the last option Cites: Toward computational fact-checking

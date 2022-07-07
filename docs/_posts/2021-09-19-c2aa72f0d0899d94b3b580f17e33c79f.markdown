@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning Constraints and Descriptive Segmentation for Subevent Detection"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "H Wang, H Zhang, M Chen, D Roth - arXiv preprint arXiv:2109.06316, 2021"
----
+--- 
+layout: post 
+title: "Learning Constraints and Descriptive Segmentation for Subevent Detection" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "H Wang, H Zhang, M Chen, D Roth - arXiv preprint arXiv:2109.06316, 2021" 
+--- 
 Event mentions in text correspond to real-world events of varying degrees of granularity. The task of subevent detection aims to resolve this granularity issue, recognizing the membership of multi-granular events in event complexes. Since

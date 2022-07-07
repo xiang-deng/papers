@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "C Zhao, Y Su, A Pauls, EA Platanios"
----
+--- 
+layout: post 
+title: "Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "C Zhao, Y Su, A Pauls, EA Platanios" 
+--- 
 Text-to-SQL parsers map natural language questions to programs that are executable over tables to generate answers, and are typically evaluated on large- scale datasets like SPIDER (Yu et al., 2018). We argue that existing benchmarks fail to capture a certain out-of-domain generalization problem that is of significant practical importance: matching domain specific phrases to composite operations over columns. To study this problem, we propose a synthetic dataset and a re Cites: Meta-Learning for Domain Generalization in Semantic Parsing

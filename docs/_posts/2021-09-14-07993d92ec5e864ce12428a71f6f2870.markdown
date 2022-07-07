@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Software Vulnerability Detection via Deep Learning over Disaggregated Code Graph Representation"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "Y Zhuang, S Suneja, V Thost, G Domeniconi, A Morari - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Software Vulnerability Detection via Deep Learning over Disaggregated Code Graph Representation" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "Y Zhuang, S Suneja, V Thost, G Domeniconi, A Morari - arXiv preprint arXiv , 2021" 
+--- 
 Identifying vulnerable code is a precautionary measure to counter software security breaches. Tedious expert effort has been spent to build static analyzers, yet insecure patterns are barely fully enumerated. This work explores a deep learning approach to automatically learn the insecure patterns from code corpora. Because code naturally admits graph structures with parsing, we develop a novel graph neural network (GNN) to exploit both the semantic context and structural regularity of a Cites: Codebert: A pre-trained model for programming and natural

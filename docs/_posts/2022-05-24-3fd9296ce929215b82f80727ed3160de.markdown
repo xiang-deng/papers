@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "Y Lu, Y Liu, J Liu, Y Shi, Z Huang, SFY Sun, H Tian - arXiv preprint arXiv , 2022"
----
-Neural retrievers based on pre-trained language models (PLMs), such as dual-encoders, have achieved promising performance on the task of open-domain question answering (QA). Their effectiveness can further reach new state-of-the-arts by incorporating cross-architecture knowledge distillation. However, most of the existing studies just directly apply conventional distillation methods. They fail to consider the particular situation where the teacher and student have different  Cites: Speeding up Deep Model Training by Sharing Weights and Then
+--- 
+layout: post 
+title: "ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "Y Lu, Y Liu, J Liu, Y Shi, Z Huang, SFY Sun, H Tian - arXiv preprint arXiv , 2022" 
+--- 
+Neural retrievers based on pre-trained language models (PLMs), such as dual-encoders, have achieved promising performance on the task of open-domain question answering (QA). Their effectiveness can further reach new state-of-the-arts by incorporating cross-architecture knowledge distillation. However, most of the existing studies just directly apply conventional distillation methods. They fail to consider the particular situation where the teacher and student have different Cites: Speeding up Deep Model Training by Sharing Weights and Then

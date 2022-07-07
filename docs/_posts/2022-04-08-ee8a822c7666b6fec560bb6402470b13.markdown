@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ARL: An adaptive reinforcement learning framework for complex question answering over knowledge base"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "Q Zhang, X Weng, G Zhou, Y Zhang, JX Huang - Information Processing & , 2022"
----
+--- 
+layout: post 
+title: "ARL: An adaptive reinforcement learning framework for complex question answering over knowledge base" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "Q Zhang, X Weng, G Zhou, Y Zhang, JX Huang - Information Processing & , 2022" 
+--- 
 Abstract Recently, reinforcement learning (RL)-based methods have achieved remarkable progress in both effectiveness and interpretability for complex question answering over knowledge base (KBQA). However, existing RL-based methods share a common limitation: the agent is usually misled by aimless exploration, as well as sparse and delayed rewards, leading to a large number of spurious relation paths. To address this issue, a new adaptive reinforcement learning (ARL) Cites: Multi-task learning for conversational question answering over a

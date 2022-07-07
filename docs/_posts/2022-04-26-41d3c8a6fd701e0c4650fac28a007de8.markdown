@@ -1,8 +1,8 @@
----
-layout: post
-title:  "An Attention-Based Model for Predicting Contextual Informativeness and Curriculum Learning Applications"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "S Nam, D Jurgens, K Collins-Thompson - arXiv preprint arXiv:2204.09885, 2022"
----
+--- 
+layout: post 
+title: "An Attention-Based Model for Predicting Contextual Informativeness and Curriculum Learning Applications" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "S Nam, D Jurgens, K Collins-Thompson - arXiv preprint arXiv:2204.09885, 2022" 
+--- 
 Both humans and machines learn the meaning of unknown words through contextual information in a sentence, but not all contexts are equally helpful for learning. We introduce an effective method for capturing the level of contextual informativeness with respect to a given target word. Our study makes three main contributions. First, we develop models for estimating contextual informativeness, focusing on the instructional aspect of sentences. Our attention-based approach using pre-trained Cites: How can we know what language models know?

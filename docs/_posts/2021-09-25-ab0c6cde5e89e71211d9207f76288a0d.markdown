@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Toward Description Generation for Tables in Scientific Articles"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "JH XU, W IMRATTANATRAI, MP KATO"
----
+--- 
+layout: post 
+title: "Toward Description Generation for Tables in Scientific Articles" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "JH XU, W IMRATTANATRAI, MP KATO" 
+--- 
 The task of description generation for tables in scientific articles requires not only table contents but also retrieval and a combination of other information outside the table. The table is sometimes too consolidated and informative, challenging to understand if only use the table. This paper proposes generating table descriptions by combining the text body of a paper and table information through the learning to rank (LTR) method to find sentences related to the table. We introduced a labeling Cites: Generating titles for web tables

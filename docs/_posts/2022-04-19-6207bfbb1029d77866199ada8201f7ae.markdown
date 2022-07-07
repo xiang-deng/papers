@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Better Uncertainty Quantification for Machine Translation Evaluation"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "C Zerva, T Glushkova, R Rei, AFT Martins - arXiv preprint arXiv:2204.06546, 2022"
----
+--- 
+layout: post 
+title: "Better Uncertainty Quantification for Machine Translation Evaluation" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "C Zerva, T Glushkova, R Rei, AFT Martins - arXiv preprint arXiv:2204.06546, 2022" 
+--- 
 Neural-based machine translation (MT) evaluation metrics are progressing fast. However, these systems are often hard to interpret and might produce unreliable scores when human references or assessments are noisy or when data is out-of- domain. Recent work leveraged uncertainty quantification techniques such as Monte Carlo dropout and deep ensembles to provide confidence intervals, but these techniques (as we show) are limited in several ways. In this paper we investigate Cites: Towards More Fine-grained and Reliable NLP Performance

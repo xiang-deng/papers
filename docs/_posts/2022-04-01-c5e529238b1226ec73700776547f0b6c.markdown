@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "S Geng, S Liu, Z Fu, Y Ge, Y Zhang - arXiv preprint arXiv:2203.13366, 2022"
----
+--- 
+layout: post 
+title: "Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "S Geng, S Liu, Z Fu, Y Ge, Y Zhang - arXiv preprint arXiv:2203.13366, 2022" 
+--- 
 For a long period, different recommendation tasks typically require designing task- specific architectures and training objectives. As a result, it is hard to transfer the learned knowledge and representations from one task to another, thus restricting the generalization ability of existing recommendation approaches, eg, a sequential recommendation model can hardly be applied or transferred to a review generation method. To deal with such issues, considering that language grounding is a powerful Cites: Fantastically ordered prompts and where to find them: Overcoming

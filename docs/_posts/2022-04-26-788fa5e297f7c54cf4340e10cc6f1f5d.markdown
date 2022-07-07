@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Robustness of Machine Learning Models Beyond Adversarial Attacks"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "S Scher, A Trgler - arXiv preprint arXiv:2204.10046, 2022"
----
-Correctly quantifying the robustness of machine learning models is a central aspect in judging their suitability for specific tasks, and thus, ultimately, for generating trust in the models. We show that the widely used concept of adversarial robustness and closely related metrics based on counterfactuals are not necessarily valid metrics for determining the robustness of ML models against perturbations that occur  naturally , outside specific adversarial attack scenarios. Additionally, we argue that generic Cites: Wilds: A benchmark of in-the-wild distribution shifts
+--- 
+layout: post 
+title: "Robustness of Machine Learning Models Beyond Adversarial Attacks" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "S Scher, A Trgler - arXiv preprint arXiv:2204.10046, 2022" 
+--- 
+Correctly quantifying the robustness of machine learning models is a central aspect in judging their suitability for specific tasks, and thus, ultimately, for generating trust in the models. We show that the widely used concept of adversarial robustness and closely related metrics based on counterfactuals are not necessarily valid metrics for determining the robustness of ML models against perturbations that occur naturally , outside specific adversarial attack scenarios. Additionally, we argue that generic Cites: Wilds: A benchmark of in-the-wild distribution shifts

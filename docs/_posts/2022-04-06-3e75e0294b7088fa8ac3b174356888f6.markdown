@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LegalNERo: A linked corpus for named entity recognition in the Romanian legal domain"
-date:   2022-04-06 16:01:31 -0400
-categories: jekyll update
-author: "V Pais, M Mitrofan, CL Gasan, A Ianov, C Ghit"
----
+--- 
+layout: post 
+title: "LegalNERo: A linked corpus for named entity recognition in the Romanian legal domain" 
+date: 2022-04-06 16:01:31 -0400 
+categories: jekyll update 
+author: "V Pais, M Mitrofan, CL Gasan, A Ianov, C Ghit" 
+--- 
 LegalNERo is a manually annotated corpus for named entity recognition in the Romanian legal domain. It provides gold annotations for organizations, locations, persons, time and legal resources mentioned in legal documents. Furthermore, GeoNames identifiers are provided for location entities, when linking was possible. The resource is available in multiple formats, including span-based, token-based and RDF. The Linked Open Data version, in RDF-Turtle format, is available for both Cites: The Stanford CoreNLP Natural Language Processing Toolkit

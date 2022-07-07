@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge-based tensor subspace analysis system for kinship verification"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "I Serraoui, O Laiadi, A Ouamane, F Dornaika - Neural Networks, 2022"
----
+--- 
+layout: post 
+title: "Knowledge-based tensor subspace analysis system for kinship verification" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "I Serraoui, O Laiadi, A Ouamane, F Dornaika - Neural Networks, 2022" 
+--- 
 Most existing automatic kinship verification methods focus on learning the optimal distance metrics between family members. However, learning facial features and kinship features simultaneously may cause the proposed models to be too weak. In this work, we explore the possibility of bridging this gap by developing knowledge- based tensor models based on pre-trained multi-view models. We propose an effective knowledge-based tensor similarity extraction framework for automatic facial Cites: Programs as black-box explanations

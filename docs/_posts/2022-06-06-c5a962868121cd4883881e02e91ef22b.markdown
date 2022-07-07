@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Pre-trained transformers: an empirical comparison"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "S Casola, I Lauriola, A Lavelli - Machine Learning with Applications, 2022"
----
-Pre-trained transformers have rapidly become very popular in the Natural Language Processing (NLP) community, surpassing the previous state of the art in a wide variety of tasks. While their effectiveness is indisputable, these methods are expensive to fine-tune on the target domain due to the high number of hyper-parameters; this aspect significantly affects the model selection phase and the reliability of the experimental assessment. This paper serves a double purpose: we  Cites: Ctrl: A conditional transformer language model for controllable
+--- 
+layout: post 
+title: "Pre-trained transformers: an empirical comparison" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "S Casola, I Lauriola, A Lavelli - Machine Learning with Applications, 2022" 
+--- 
+Pre-trained transformers have rapidly become very popular in the Natural Language Processing (NLP) community, surpassing the previous state of the art in a wide variety of tasks. While their effectiveness is indisputable, these methods are expensive to fine-tune on the target domain due to the high number of hyper-parameters; this aspect significantly affects the model selection phase and the reliability of the experimental assessment. This paper serves a double purpose: we Cites: Ctrl: A conditional transformer language model for controllable

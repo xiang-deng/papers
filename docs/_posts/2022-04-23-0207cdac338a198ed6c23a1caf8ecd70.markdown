@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledgebra: An Algebraic Learning Framework for Knowledge Graph"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "T Yang, Y Wang, L Sha, J Engelbrecht, P Hong - arXiv preprint arXiv:2204.07328, 2022"
----
+--- 
+layout: post 
+title: "Knowledgebra: An Algebraic Learning Framework for Knowledge Graph" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "T Yang, Y Wang, L Sha, J Engelbrecht, P Hong - arXiv preprint arXiv:2204.07328, 2022" 
+--- 
 Knowledge graph (KG) representation learning aims to encode entities and relations into dense continuous vector spaces such that knowledge contained in a dataset could be consistently represented. Dense embeddings trained from KG datasets benefit a variety of downstream tasks such as KG completion and link prediction. However, existing KG embedding methods fell short to provide a systematic solution for the global consistency of knowledge representation. We developed a Cites: Observed versus latent features for knowledge base and text

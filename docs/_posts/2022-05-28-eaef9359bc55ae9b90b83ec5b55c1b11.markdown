@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semi-Parametric Deep Neural Networks in Linear Time and Memory"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "R Rastogi, Y Deng, I Lee, MR Sabuncu, V Kuleshov - arXiv preprint arXiv:2205.11718, 2022"
----
-Recent advances in deep learning have been driven by large-scale parametric models, which can be computationally expensive and lack interpretability. Semi-parametric methods query the training set at inference time and can be more compact, although they typically have quadratic computational complexity. Here, we introduce SPIN, a general-purpose semi-parametric neural architecture whose computational cost is linear in the size and dimensionality of the data. Our  Cites: Detecting formal thought disorder by deep contextualized word
+--- 
+layout: post 
+title: "Semi-Parametric Deep Neural Networks in Linear Time and Memory" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "R Rastogi, Y Deng, I Lee, MR Sabuncu, V Kuleshov - arXiv preprint arXiv:2205.11718, 2022" 
+--- 
+Recent advances in deep learning have been driven by large-scale parametric models, which can be computationally expensive and lack interpretability. Semi-parametric methods query the training set at inference time and can be more compact, although they typically have quadratic computational complexity. Here, we introduce SPIN, a general-purpose semi-parametric neural architecture whose computational cost is linear in the size and dimensionality of the data. Our Cites: Detecting formal thought disorder by deep contextualized word

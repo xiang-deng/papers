@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-granularity Textual Adversarial Attack with Behavior Cloning"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "Y Chen, J Su, W Wei - arXiv preprint arXiv:2109.04367, 2021"
----
+--- 
+layout: post 
+title: "Multi-granularity Textual Adversarial Attack with Behavior Cloning" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "Y Chen, J Su, W Wei - arXiv preprint arXiv:2109.04367, 2021" 
+--- 
 Recently, the textual adversarial attack models become increasingly popular due to their successful in estimating the robustness of NLP models. However, existing works have obvious deficiencies.(1) They usually consider only a single granularity of modification strategies (eg word-level or sentence-level), which is insufficient to explore the holistic textual space for generation;(2) They need to query victim models hundreds of times to make a successful attack, which is highly inefficient in practice Cites: Robust encodings: A framework for combating adversarial typos

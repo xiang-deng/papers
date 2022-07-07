@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Visually-Augmented Language Modeling"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "W Wang, L Dong, H Cheng, H Song, X Liu, X Yan - arXiv preprint arXiv , 2022"
----
-Human language is grounded on multimodal knowledge including visual knowledge like colors, sizes, and shapes. However, current large-scale pre-trained language models rely on the text-only self-supervised training with massive text data, which precludes them from utilizing relevant visual information when necessary. To address this, we propose a novel pre-training framework, named VaLM, to Visually-augment text tokens with retrieved relevant images for Language Modeling  Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks
+--- 
+layout: post 
+title: "Visually-Augmented Language Modeling" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "W Wang, L Dong, H Cheng, H Song, X Liu, X Yan - arXiv preprint arXiv , 2022" 
+--- 
+Human language is grounded on multimodal knowledge including visual knowledge like colors, sizes, and shapes. However, current large-scale pre-trained language models rely on the text-only self-supervised training with massive text data, which precludes them from utilizing relevant visual information when necessary. To address this, we propose a novel pre-training framework, named VaLM, to Visually-augment text tokens with retrieved relevant images for Language Modeling Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

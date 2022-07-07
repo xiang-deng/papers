@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Deep Learning Based Code Generation from Requirements Text: Are We There Yet?"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "H Liu, M Shen, J Zhu, N Niu, G Li, L Zhang"
----
+--- 
+layout: post 
+title: "Deep Learning Based Code Generation from Requirements Text: Are We There Yet?" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "H Liu, M Shen, J Zhu, N Niu, G Li, L Zhang" 
+--- 
 To release developers from time consuming software development, many approaches have been proposed to generate source code automatically according to software requirements. With significant advances in deep learning and natural language processing, deep learning based approaches are proposed to generate source code from natural language descriptions. The key insight is that given a large corpus of software requirements and their corresponding implementations, advanced Cites: Tranx: A transition-based neural abstract syntax parser for

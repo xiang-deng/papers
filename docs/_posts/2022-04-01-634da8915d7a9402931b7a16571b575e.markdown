@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Decoding Strategies for Neural Text Generators"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "G Wiher, C Meister, R Cotterell - arXiv preprint arXiv:2203.15721, 2022"
----
+--- 
+layout: post 
+title: "On Decoding Strategies for Neural Text Generators" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "G Wiher, C Meister, R Cotterell - arXiv preprint arXiv:2203.15721, 2022" 
+--- 
 When generating text from probabilistic models, the chosen decoding strategy has a profound effect on the resulting text. Yet the properties elicited by various decoding strategies do not always transfer across natural language generation tasks. For example, while mode-seeking methods like beam search perform remarkably well for machine translation, they have been observed to lead to incoherent and repetitive text in story generation. Despite such observations, the effectiveness of decoding Cites: A systematic characterization of sampling algorithms for open

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge Distillation with Noisy Labels for Natural Language Understanding"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "S Bhardwaj, A Ghaddar, A Rashid, K Bibi, C Li - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Knowledge Distillation with Noisy Labels for Natural Language Understanding" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "S Bhardwaj, A Ghaddar, A Rashid, K Bibi, C Li - arXiv preprint arXiv , 2021" 
+--- 
 Knowledge Distillation (KD) is extensively used to compress and deploy large pre- trained language models on edge devices for real-world applications. However, one neglected area of research is the impact of noisy (corrupted) labels on KD. We present, to the best of our knowledge, the first study on KD with noisy labels in Natural Language Understanding (NLU). We document the scope of the problem and present two methods to mitigate the impact of label noise. Experiments on the Cites: Well-Read Students Learn Better: On the Importance of Pre

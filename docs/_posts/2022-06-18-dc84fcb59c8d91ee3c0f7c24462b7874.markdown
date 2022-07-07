@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Language Models are General-Purpose Interfaces"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "Y Hao, H Song, L Dong, S Huang, Z Chi, W Wang - arXiv preprint arXiv , 2022"
----
-Foundation models have received much attention due to their effectiveness across a broad range of downstream applications. Though there is a big convergence in terms of architecture, most pretrained models are typically still developed for specific tasks or modalities. In this work, we propose to use language models as a general-purpose interface to various foundation models. A collection of pretrained encoders perceive diverse modalities (such as vision, and language), and they dock with a  Cites: Finetuned language models are zero-shot learners
+--- 
+layout: post 
+title: "Language Models are General-Purpose Interfaces" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "Y Hao, H Song, L Dong, S Huang, Z Chi, W Wang - arXiv preprint arXiv , 2022" 
+--- 
+Foundation models have received much attention due to their effectiveness across a broad range of downstream applications. Though there is a big convergence in terms of architecture, most pretrained models are typically still developed for specific tasks or modalities. In this work, we propose to use language models as a general-purpose interface to various foundation models. A collection of pretrained encoders perceive diverse modalities (such as vision, and language), and they dock with a Cites: Finetuned language models are zero-shot learners

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SMARAGD: Synthesized sMatch for Accurate and Rapid AMR Graph Distance"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "J Opitz, P Meier, A Frank - arXiv preprint arXiv:2203.13226, 2022"
----
+--- 
+layout: post 
+title: "SMARAGD: Synthesized sMatch for Accurate and Rapid AMR Graph Distance" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "J Opitz, P Meier, A Frank - arXiv preprint arXiv:2203.13226, 2022" 
+--- 
 The semantic similarity of graph-based meaning representations, such as Abstract Meaning Representation (AMR), is typically assessed using graph matching algorithms, such as SMATCH (Cai and Knight, 2013). However, SMATCH suffers from NP-completeness, making its large-scale application, eg, for AMR clustering or semantic search, infeasible. To mitigate this issue, we propose SMARAGD (Synthesized sMatch for accurate and rapid AMR graph distance). We show the Cites: Neuro-symbolic program synthesis

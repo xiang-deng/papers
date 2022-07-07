@@ -1,8 +1,8 @@
----
-layout: post
-title:  "DRGI: Deep Relational Graph Infomax for Knowledge Graph Completion"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "S Liang, J Shao, D Zhang, J Zhang, B Cui - IEEE Transactions on Knowledge and , 2021"
----
+--- 
+layout: post 
+title: "DRGI: Deep Relational Graph Infomax for Knowledge Graph Completion" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "S Liang, J Shao, D Zhang, J Zhang, B Cui - IEEE Transactions on Knowledge and , 2021" 
+--- 
 Recently, many knowledge graph embedding models for knowledge graph completion have been proposed, ranging from the initial translation-based models such as TransE to recent convolutional neural network (CNN) models such as ConvE. However, these models only focus on semantic information of knowledge graph and neglect the natural graph structure information. Although graph convolutional network (GCN)-based models for knowledge graph embedding have Cites: Observed versus latent features for knowledge base and text

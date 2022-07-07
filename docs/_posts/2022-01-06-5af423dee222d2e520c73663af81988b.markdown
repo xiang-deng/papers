@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sentiment analysis on Bangla text using extended lexicon dictionary and deep learning algorithms"
-date:   2022-01-06 10:02:50 -0400
-categories: jekyll update
-author: "NR Bhowmik, M Arifuzzaman, MRH Mondal - Array, 2022"
----
+--- 
+layout: post 
+title: "Sentiment analysis on Bangla text using extended lexicon dictionary and deep learning algorithms" 
+date: 2022-01-06 10:02:50 -0400 
+categories: jekyll update 
+author: "NR Bhowmik, M Arifuzzaman, MRH Mondal - Array, 2022" 
+--- 
 Sentiment analysis (SA) is a subset of natural language processing (NLP) research. In the case of categorical weighted based dictionary with rule-based sentiment score generation, no work in SA has been done yet in Bangla language using deep learning (DL) approaches. This paper proposes DL models for SA on Bangla text using an extended lexicon data dictionary (LDD). We implement the rule-based method Bangla text sentiment score (BTSC) algorithm for extracting polarity from Cites: Building large-scale twitter-specific sentiment lexicon: A

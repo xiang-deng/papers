@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Toward Learning Robust and Invariant Representations with Alignment Regularization and Data Augmentation"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "H Wang, Z Huang, X Wu, EP Xing - arXiv preprint arXiv:2206.01909, 2022"
----
-Data augmentation has been proven to be an effective technique for developing machine learning models that are robust to known classes of distributional shifts (eg, rotations of images), and alignment regularization is a technique often used together with data augmentation to further help the model learn representations invariant to the shifts used to augment the data. In this paper, motivated by a proliferation of options of alignment regularizations, we seek to evaluate the performances of  Cites: Logic-guided data augmentation and regularization for consistent
+--- 
+layout: post 
+title: "Toward Learning Robust and Invariant Representations with Alignment Regularization and Data Augmentation" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "H Wang, Z Huang, X Wu, EP Xing - arXiv preprint arXiv:2206.01909, 2022" 
+--- 
+Data augmentation has been proven to be an effective technique for developing machine learning models that are robust to known classes of distributional shifts (eg, rotations of images), and alignment regularization is a technique often used together with data augmentation to further help the model learn representations invariant to the shifts used to augment the data. In this paper, motivated by a proliferation of options of alignment regularizations, we seek to evaluate the performances of Cites: Logic-guided data augmentation and regularization for consistent

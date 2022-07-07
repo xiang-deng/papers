@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Attack-Agnostic Adversarial Detection"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "J Cheng, M Hussein, J Billa, W AbdAlmageed - arXiv preprint arXiv:2206.00489, 2022"
----
-The growing number of adversarial attacks in recent years gives attackers an advantage over defenders, as defenders must train detectors after knowing the types of attacks, and many models need to be maintained to ensure good performance in detecting any upcoming attacks. We propose a way to end the tug-of-war between attackers and defenders by treating adversarial attack detection as an anomaly detection problem so that the detector is agnostic to the attack. We quantify the  Cites: Assessing Local Generalization Capability in Deep Models
+--- 
+layout: post 
+title: "Attack-Agnostic Adversarial Detection" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "J Cheng, M Hussein, J Billa, W AbdAlmageed - arXiv preprint arXiv:2206.00489, 2022" 
+--- 
+The growing number of adversarial attacks in recent years gives attackers an advantage over defenders, as defenders must train detectors after knowing the types of attacks, and many models need to be maintained to ensure good performance in detecting any upcoming attacks. We propose a way to end the tug-of-war between attackers and defenders by treating adversarial attack detection as an anomaly detection problem so that the detector is agnostic to the attack. We quantify the Cites: Assessing Local Generalization Capability in Deep Models

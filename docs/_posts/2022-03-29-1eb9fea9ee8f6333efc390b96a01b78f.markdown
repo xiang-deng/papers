@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Adversarial Data Augmentation for Task-Specific Knowledge Distillation of Pre-Trained Transformers"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "M Zhng, NU Naresh, Y He - 2022"
----
+--- 
+layout: post 
+title: "Adversarial Data Augmentation for Task-Specific Knowledge Distillation of Pre-Trained Transformers" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "M Zhng, NU Naresh, Y He - 2022" 
+--- 
 Deep and large pre-trained language models (eg, BERT, GPT-3) are state-of-the-art for various natural language processing tasks. However, the huge size of these models brings challenges to fine-tuning and online deployment due to latency and cost constraints. Existing knowledge distillation methods reduce the model size, but they may encounter difficulties transferring knowledge from the teacher model to the student model due to the limited data from the downstream tasks. In this work, we Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

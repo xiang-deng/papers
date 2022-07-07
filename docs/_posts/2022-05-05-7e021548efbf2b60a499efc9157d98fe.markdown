@@ -1,8 +1,8 @@
----
-layout: post
-title:  "To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "H Li, S Wang, S Zhuang, A Mourad, X Ma, J Lin - 2022"
----
+--- 
+layout: post 
+title: "To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers" 
+date: 2022-05-05 02:23:22 -0400 
+categories: jekyll update 
+author: "H Li, S Wang, S Zhuang, A Mourad, X Ma, J Lin - 2022" 
+--- 
 Current pre-trained language model approaches to information retrieval can be broadly divided into two categories: sparse retrievers (to which belong also non- neural approaches such as bag-of-words methods, eg, BM25) and dense retrievers. Each of these categories appears to capture di erent characteristics of relevance. Previous work has investigated how relevance signals from sparse retrievers could be combined with those from dense retrievers via interpolation. Such interpolation Cites: Passage Re-ranking with BERT

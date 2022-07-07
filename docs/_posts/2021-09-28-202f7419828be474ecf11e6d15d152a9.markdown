@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Supply-Chain Vulnerability Elimination via Active Learning and Regeneration"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "N Vasilakis, A Benetopoulos, S Handa, A Schoen - Proceedings of the 2021 , 2021"
----
+--- 
+layout: post 
+title: "Supply-Chain Vulnerability Elimination via Active Learning and Regeneration" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "N Vasilakis, A Benetopoulos, S Handa, A Schoen - Proceedings of the 2021 , 2021" 
+--- 
 Software supply-chain attacks target components that are integrated into client applications. Such attacks often target widelyused components, with the attack taking place via operations such as file system and network accesses that do not affect the values that the component returns to the client and therefore preserve the client- observable behavior. We propose new active library learning and regeneration (ALR) techniques for inferring and regenerating the client-observable functionality of Cites: Frangel: component-based synthesis with control structures

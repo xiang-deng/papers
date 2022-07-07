@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Know Where You re Going: Meta-Learning for Parameter-Efficient Fine-tuning"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "M Gheini, X Ma, J May - arXiv preprint arXiv:2205.12453, 2022"
----
-A recent family of techniques, dubbed as lightweight fine-tuning methods, facilitates parameter-efficient transfer learning by updating only a small set of additional parameters while keeping the parameters of the pretrained language model frozen. While proven to be an effective method, there are no existing studies on if and how such knowledge of the downstream fine-tuning approach should affect the pretraining stage. In this work, we show that taking the ultimate choice of fine-tuning  Cites: Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper
+--- 
+layout: post 
+title: "Know Where You re Going: Meta-Learning for Parameter-Efficient Fine-tuning" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "M Gheini, X Ma, J May - arXiv preprint arXiv:2205.12453, 2022" 
+--- 
+A recent family of techniques, dubbed as lightweight fine-tuning methods, facilitates parameter-efficient transfer learning by updating only a small set of additional parameters while keeping the parameters of the pretrained language model frozen. While proven to be an effective method, there are no existing studies on if and how such knowledge of the downstream fine-tuning approach should affect the pretraining stage. In this work, we show that taking the ultimate choice of fine-tuning Cites: Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper

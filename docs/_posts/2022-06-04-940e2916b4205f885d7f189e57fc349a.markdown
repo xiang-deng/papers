@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automatic Short Math Answer Grading via In-context Meta-learning"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "M Zhang, S Baral, N Heffernan, A Lan - arXiv preprint arXiv:2205.15219, 2022"
----
-Automatic short answer grading is an important research direction in the exploration of how to use artificial intelligence (AI)-based tools to improve education. Current state-of-the-art approaches use neural language models to create vectorized representations of students responses, followed by classifiers to predict the score. However, these approaches have several key limitations, including i) they use pre-trained language models that are not well-adapted to educational subject domains  Cites: Metaicl: Learning to learn in context
+--- 
+layout: post 
+title: "Automatic Short Math Answer Grading via In-context Meta-learning" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "M Zhang, S Baral, N Heffernan, A Lan - arXiv preprint arXiv:2205.15219, 2022" 
+--- 
+Automatic short answer grading is an important research direction in the exploration of how to use artificial intelligence (AI)-based tools to improve education. Current state-of-the-art approaches use neural language models to create vectorized representations of students responses, followed by classifiers to predict the score. However, these approaches have several key limitations, including i) they use pre-trained language models that are not well-adapted to educational subject domains Cites: Metaicl: Learning to learn in context

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "r-GAT: Relational Graph Attention Network for Multi-Relational Graphs"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "M Chen, Y Zhang, X Kou, Y Li, Y Zhang - arXiv preprint arXiv:2109.05922, 2021"
----
+--- 
+layout: post 
+title: "r-GAT: Relational Graph Attention Network for Multi-Relational Graphs" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "M Chen, Y Zhang, X Kou, Y Li, Y Zhang - arXiv preprint arXiv:2109.05922, 2021" 
+--- 
 Graph Attention Network (GAT) focuses on modelling simple undirected and single relational graph data only. This limits its ability to deal with more general and complex multi-relational graphs that contain entities with directed links of different labels (eg, knowledge graphs). Therefore, directly applying GAT on multi-relational graphs leads to sub-optimal solutions. To tackle this issue, we propose r-GAT, a relational graph attention network to learn multi-channel entity representations Cites: Representing Text for Joint Embedding of Text and Knowledge

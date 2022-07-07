@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Comprehensive Evaluation and Correction of the TimeBank Corpus"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "M Ocal, A Radas, J Hummer, K Megerdoomian"
----
-TimeML is an annotation scheme for capturing temporal information in text. The developers of TimeML built the TimeBank corpus to both validate the scheme and provide a rich dataset of events, temporal expressions, and temporal relationships for training and testing temporal analysis systems. In our own work we have been developing methods aimed at TimeML graphs for detecting (and eventually automatically correcting) temporal inconsistencies, extracting timelines, and  Cites: Exploiting partially annotated data for temporal relation extraction
+--- 
+layout: post 
+title: "A Comprehensive Evaluation and Correction of the TimeBank Corpus" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "M Ocal, A Radas, J Hummer, K Megerdoomian" 
+--- 
+TimeML is an annotation scheme for capturing temporal information in text. The developers of TimeML built the TimeBank corpus to both validate the scheme and provide a rich dataset of events, temporal expressions, and temporal relationships for training and testing temporal analysis systems. In our own work we have been developing methods aimed at TimeML graphs for detecting (and eventually automatically correcting) temporal inconsistencies, extracting timelines, and Cites: Exploiting partially annotated data for temporal relation extraction

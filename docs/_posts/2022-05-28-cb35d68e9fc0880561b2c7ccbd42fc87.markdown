@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning to Reverse DNNs from AI Programs Automatically"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "S Chen, H Khanpour, C Liu, W Yang - arXiv preprint arXiv:2205.10364, 2022"
----
-With the privatization deployment of DNNs on edge devices, the security of on-device DNNs has raised significant concern. To quantify the model leakage risk of on-device DNNs automatically, we propose NNReverse, the first learning-based method which can reverse DNNs from AI programs without domain knowledge. NNReverse trains a representation model to represent the semantics of binary code for DNN layers. By searching the most similar function in our database, NNReverse infers the layer type  Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs
+--- 
+layout: post 
+title: "Learning to Reverse DNNs from AI Programs Automatically" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "S Chen, H Khanpour, C Liu, W Yang - arXiv preprint arXiv:2205.10364, 2022" 
+--- 
+With the privatization deployment of DNNs on edge devices, the security of on-device DNNs has raised significant concern. To quantify the model leakage risk of on-device DNNs automatically, we propose NNReverse, the first learning-based method which can reverse DNNs from AI programs without domain knowledge. NNReverse trains a representation model to represent the semantics of binary code for DNN layers. By searching the most similar function in our database, NNReverse infers the layer type Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

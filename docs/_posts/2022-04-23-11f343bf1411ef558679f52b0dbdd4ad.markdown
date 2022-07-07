@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Contrastive Cross-Channel Data Augmentation Framework for Aspect-based Sentiment Analysis"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "B Wang, L Ding, Q Zhong, X Li, D Tao - arXiv preprint arXiv:2204.07832, 2022"
----
+--- 
+layout: post 
+title: "A Contrastive Cross-Channel Data Augmentation Framework for Aspect-based Sentiment Analysis" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "B Wang, L Ding, Q Zhong, X Li, D Tao - arXiv preprint arXiv:2204.07832, 2022" 
+--- 
 Aspect-Based Sentiment Analysis is a fine-grained sentiment analysis task, which focuses on detecting the sentiment polarity towards the aspect in a sentence. However, it is always sensitive to the multi-aspect challenge, where features of multiple aspects in a sentence will affect each other. To mitigate this issue, we design a novel training framework, called Contrastive Cross-Channel Data Augmentation (C3DA). A source sentence will be fed a domain-specific generator to obtain some Cites: Prefix-tuning: Optimizing continuous prompts for generation

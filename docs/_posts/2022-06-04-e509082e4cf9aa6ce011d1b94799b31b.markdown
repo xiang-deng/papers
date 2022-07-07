@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Lifting the Information Ratio: An Information-Theoretic Analysis of Thompson Sampling for Contextual Bandits"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "G Neu, J Olkhovskaya, M Papini, L Schwartz - arXiv preprint arXiv:2205.13924, 2022"
----
-We study the Bayesian regret of the renowned Thompson Sampling algorithm in contextual bandits with binary losses and adversarially-selected contexts. We adapt the information-theoretic perspective of Russo and Van Roy [2016] to the contextual setting by introducing a new concept of information ratio based on the mutual information between the unknown model parameter and the observed loss. This allows us to bound the regret in terms of the entropy of the prior distribution through a  Cites: Provably optimal algorithms for generalized linear contextual bandits
+--- 
+layout: post 
+title: "Lifting the Information Ratio: An Information-Theoretic Analysis of Thompson Sampling for Contextual Bandits" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "G Neu, J Olkhovskaya, M Papini, L Schwartz - arXiv preprint arXiv:2205.13924, 2022" 
+--- 
+We study the Bayesian regret of the renowned Thompson Sampling algorithm in contextual bandits with binary losses and adversarially-selected contexts. We adapt the information-theoretic perspective of Russo and Van Roy [2016] to the contextual setting by introducing a new concept of information ratio based on the mutual information between the unknown model parameter and the observed loss. This allows us to bound the regret in terms of the entropy of the prior distribution through a Cites: Provably optimal algorithms for generalized linear contextual bandits

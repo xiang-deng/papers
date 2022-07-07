@@ -1,8 +1,8 @@
----
-layout: post
-title:  "THUIR at the NTCIR-16 WWW-4 Task"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "S Yang, H Li, Z Chu, J Zhan, Y Liu, M Zhang, S Ma - Proceedings of NTCIR-16. to , 2022"
----
-The THUIR team participates in the English subtask of the NTCIR-16 We Want Web with CENTRE (WWW-4) task. This paper elaborates on our methods and discusses the experimental results. We adopt three methods, namely learning-to-rank methods, a pretrained language model tailored for information retrieval, and BERT with prompt learning. Experimental results demonstrate the importance of designing pre-training task specifically for information retrieval. Results also suggest the relatively simple  Cites: OpenPrompt: An Open-source Framework for Prompt-learning
+--- 
+layout: post 
+title: "THUIR at the NTCIR-16 WWW-4 Task" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "S Yang, H Li, Z Chu, J Zhan, Y Liu, M Zhang, S Ma - Proceedings of NTCIR-16. to , 2022" 
+--- 
+The THUIR team participates in the English subtask of the NTCIR-16 We Want Web with CENTRE (WWW-4) task. This paper elaborates on our methods and discusses the experimental results. We adopt three methods, namely learning-to-rank methods, a pretrained language model tailored for information retrieval, and BERT with prompt learning. Experimental results demonstrate the importance of designing pre-training task specifically for information retrieval. Results also suggest the relatively simple Cites: OpenPrompt: An Open-source Framework for Prompt-learning

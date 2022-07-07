@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Searching for COMETINHO: The Little Metric That Could"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "R Rei, AC Farinha, JGC de Souza, PG Ramos - Proceedings of the 23rd , 2022"
----
-In recent years, several neural fine-tuned machine translation evaluation metrics such as COMET and BLEURT have been proposed. These metrics achieve much higher correlations with human judgments than lexical overlap metrics at the cost of computational efficiency and simplicity, limiting their applications to scenarios in which one has to score thousands of translation hypothesis (eg scoring multiple systems or Minimum Bayes Risk decoding). In this paper, we explore optimization  Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices
+--- 
+layout: post 
+title: "Searching for COMETINHO: The Little Metric That Could" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "R Rei, AC Farinha, JGC de Souza, PG Ramos - Proceedings of the 23rd , 2022" 
+--- 
+In recent years, several neural fine-tuned machine translation evaluation metrics such as COMET and BLEURT have been proposed. These metrics achieve much higher correlations with human judgments than lexical overlap metrics at the cost of computational efficiency and simplicity, limiting their applications to scenarios in which one has to score thousands of translation hypothesis (eg scoring multiple systems or Minimum Bayes Risk decoding). In this paper, we explore optimization Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

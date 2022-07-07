@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Revisiting Calibration for Question Answering"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "C Si, C Zhao, S Min, J Boyd-Graber - arXiv preprint arXiv:2205.12507, 2022"
----
-Model calibration aims to adjust (calibrate) models  confidence so that they match expected accuracy. We argue that the traditional evaluation of calibration (expected calibration error; ECE) does not reflect usefulness of the model confidence. For example, after conventional temperature scaling, confidence scores become similar for all predictions, which makes it hard for users to distinguish correct predictions from wrong ones, even though it achieves low ECE. Building on those observations  Cites: Can Explanations Be Useful for Calibrating Black Box Models?
+--- 
+layout: post 
+title: "Revisiting Calibration for Question Answering" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "C Si, C Zhao, S Min, J Boyd-Graber - arXiv preprint arXiv:2205.12507, 2022" 
+--- 
+Model calibration aims to adjust (calibrate) models confidence so that they match expected accuracy. We argue that the traditional evaluation of calibration (expected calibration error; ECE) does not reflect usefulness of the model confidence. For example, after conventional temperature scaling, confidence scores become similar for all predictions, which makes it hard for users to distinguish correct predictions from wrong ones, even though it achieves low ECE. Building on those observations Cites: Can Explanations Be Useful for Calibrating Black Box Models?

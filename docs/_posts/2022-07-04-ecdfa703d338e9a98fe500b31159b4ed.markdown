@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Artificial fine-tuning tasks for yes/no question answering"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "D Dimitriadis, G Tsoumakas - Natural Language Engineering, 2022"
----
-Current research in yes/no question answering (QA) focuses on transfer learning techniques and transformer-based models. Models trained on large corpora are fine-tuned on tasks similar to yes/no QA, and then the captured knowledge is transferred for solving the yes/no QA task. Most previous studies use existing similar tasks, such as natural language inference or extractive QA, for the fine-tuning step. This paper follows a different perspective, hypothesizing that an artificial yes/no task can transfer  Cites: Muppet: Massive multi-task representations with pre-finetuning
+--- 
+layout: post 
+title: "Artificial fine-tuning tasks for yes/no question answering" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "D Dimitriadis, G Tsoumakas - Natural Language Engineering, 2022" 
+--- 
+Current research in yes/no question answering (QA) focuses on transfer learning techniques and transformer-based models. Models trained on large corpora are fine-tuned on tasks similar to yes/no QA, and then the captured knowledge is transferred for solving the yes/no QA task. Most previous studies use existing similar tasks, such as natural language inference or extractive QA, for the fine-tuning step. This paper follows a different perspective, hypothesizing that an artificial yes/no task can transfer Cites: Muppet: Massive multi-task representations with pre-finetuning

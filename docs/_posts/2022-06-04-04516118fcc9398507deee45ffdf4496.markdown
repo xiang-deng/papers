@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Aspect-based sentiment analysis with enhanced aspect-sensitive word embeddings"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "Y Qi, X Zheng, X Huang - Knowledge and Information Systems, 2022"
----
-Aspect term sentiment classification (ATSC) aims at identifying sentiment polarities towards some aspect terms described in a text. One of the challenges in the ATSC is that the same word may express different sentiment polarities for distinct aspects. For instance, if the word high is used to describe the quality of a product, this word is most likely used to express a positive opinion towards the product. However, if the aspect term is about the price of the product, the same word high is quite likely used  Cites: Aspect level sentiment classification with deep memory network
+--- 
+layout: post 
+title: "Aspect-based sentiment analysis with enhanced aspect-sensitive word embeddings" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "Y Qi, X Zheng, X Huang - Knowledge and Information Systems, 2022" 
+--- 
+Aspect term sentiment classification (ATSC) aims at identifying sentiment polarities towards some aspect terms described in a text. One of the challenges in the ATSC is that the same word may express different sentiment polarities for distinct aspects. For instance, if the word high is used to describe the quality of a product, this word is most likely used to express a positive opinion towards the product. However, if the aspect term is about the price of the product, the same word high is quite likely used Cites: Aspect level sentiment classification with deep memory network

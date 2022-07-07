@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Code comment generation based on graph neural network enhanced transformer model for code understanding in open-source software ecosystems"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "L Kuang, C Zhou, X Yang - Automated Software Engineering, 2022"
----
-In open-source software ecosystems, the scale of source code is getting larger and larger, and developers often use various methods (good code comments or method names, etc.) to make the code easier to read and understand. However, high-quality code comments or method names are often unavailable due to tight project schedules or other reasons in open-source software ecosystems such as Github. Therefore, in this work, we try to use deep learning models to generate appropriate  Cites: Graphcodebert: Pre-training code representations with data flow
+--- 
+layout: post 
+title: "Code comment generation based on graph neural network enhanced transformer model for code understanding in open-source software ecosystems" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "L Kuang, C Zhou, X Yang - Automated Software Engineering, 2022" 
+--- 
+In open-source software ecosystems, the scale of source code is getting larger and larger, and developers often use various methods (good code comments or method names, etc.) to make the code easier to read and understand. However, high-quality code comments or method names are often unavailable due to tight project schedules or other reasons in open-source software ecosystems such as Github. Therefore, in this work, we try to use deep learning models to generate appropriate Cites: Graphcodebert: Pre-training code representations with data flow

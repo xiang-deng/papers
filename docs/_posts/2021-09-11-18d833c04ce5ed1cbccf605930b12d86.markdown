@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Exploiting Reasoning Chains for Multi-hop Science Question Answering"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "W Xu, Y Deng, H Zhang, D Cai, W Lam - arXiv preprint arXiv:2109.02905, 2021"
----
+--- 
+layout: post 
+title: "Exploiting Reasoning Chains for Multi-hop Science Question Answering" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "W Xu, Y Deng, H Zhang, D Cai, W Lam - arXiv preprint arXiv:2109.02905, 2021" 
+--- 
 We propose a novel Chain Guided Retriever-reader ({ tt CGR}) framework to model the reasoning chain for multi-hop Science Question Answering. Our framework is capable of performing explainable reasoning without the need of any corpus-specific annotations, such as the ground-truth reasoning chain, or human-annotated entity mentions. Specifically, we first generate reasoning chains from a semantic graph constructed by Abstract Meaning Representation of retrieved evidence facts. A textit Cites: QA-GNN: Reasoning with Language Models and Knowledge

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Graph Attention Network for Movie Recommendation"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "T Ameen, AA Ali"
----
-To provide more accurate, diverse, and interpretable recommendations, one must go beyond modeling usermovie interactions and consider user social correlation graphs and movie-movie correlation graphs. However, most previous research has only considered correlations between user preferences and social correlations, while ignoring the correlation between movies. In this paper, we describe a model for movie recommendations that include a representation of the user s preference in  Cites: Recommender systems with social regularization
+--- 
+layout: post 
+title: "Graph Attention Network for Movie Recommendation" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "T Ameen, AA Ali" 
+--- 
+To provide more accurate, diverse, and interpretable recommendations, one must go beyond modeling usermovie interactions and consider user social correlation graphs and movie-movie correlation graphs. However, most previous research has only considered correlations between user preferences and social correlations, while ignoring the correlation between movies. In this paper, we describe a model for movie recommendations that include a representation of the user s preference in Cites: Recommender systems with social regularization

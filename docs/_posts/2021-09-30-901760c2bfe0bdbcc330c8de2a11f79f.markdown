@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Group s Influence Value in Logistic Regression Model and Gradient Boosting Model"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "QV Dang, ML Tran, MH Dang, TMT Tran, HN Nguyen - Proceedings of Sixth , 2022"
----
+--- 
+layout: post 
+title: "Group s Influence Value in Logistic Regression Model and Gradient Boosting Model" 
+date: 2021-09-30 20:19:19 -0400 
+categories: jekyll update 
+author: "QV Dang, ML Tran, MH Dang, TMT Tran, HN Nguyen - Proceedings of Sixth , 2022" 
+--- 
 Measuring the influence of particular data point is an important task in designing a data hub. In recent years, several research works have addressed the problem. In this paper we analyze these approaches and show that they are too complicated to apply in practice. We propose a new lightweight approach to approximate the influence of data points. We evaluate our proposal on the popular Home Credit dataset to show the effective. Cites: On the accuracy of influence functions for measuring group effects

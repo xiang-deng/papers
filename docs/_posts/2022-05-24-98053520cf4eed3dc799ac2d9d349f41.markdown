@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "A Creswell, M Shanahan, I Higgins - arXiv preprint arXiv:2205.09712, 2022"
----
-Large language models (LLMs) have been shown to be capable of impressive few-shot generalisation to new tasks. However, they still tend to perform poorly on multi-step logical reasoning problems. Here we carry out a comprehensive evaluation of LLMs on 50 tasks that probe different aspects of logical reasoning. We show that language models tend to perform fairly well at single step inference or entailment tasks, but struggle to chain together multiple reasoning steps to solve more complex  Cites: Rethinking the Role of Demonstrations: What Makes In-Context
+--- 
+layout: post 
+title: "Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "A Creswell, M Shanahan, I Higgins - arXiv preprint arXiv:2205.09712, 2022" 
+--- 
+Large language models (LLMs) have been shown to be capable of impressive few-shot generalisation to new tasks. However, they still tend to perform poorly on multi-step logical reasoning problems. Here we carry out a comprehensive evaluation of LLMs on 50 tasks that probe different aspects of logical reasoning. We show that language models tend to perform fairly well at single step inference or entailment tasks, but struggle to chain together multiple reasoning steps to solve more complex Cites: Rethinking the Role of Demonstrations: What Makes In-Context

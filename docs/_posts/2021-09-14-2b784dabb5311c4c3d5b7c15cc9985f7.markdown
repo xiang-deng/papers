@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sustainable Modular Debiasing of Language Models"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "A Lauscher, T Lken, G Glava - arXiv preprint arXiv:2109.03646, 2021"
----
+--- 
+layout: post 
+title: "Sustainable Modular Debiasing of Language Models" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "A Lauscher, T Lken, G Glava - arXiv preprint arXiv:2109.03646, 2021" 
+--- 
 Unfair stereotypical biases (eg, gender, racial, or religious biases) encoded in modern pretrained language models (PLMs) have negative ethical implications for widespread adoption of state-of-the-art language technology. To remedy for this, a wide range of debiasing techniques have recently been introduced to remove such stereotypical biases from PLMs. Existing debiasing methods, however, directly modify all of the PLMs parameters, which--besides being computationally expensive Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

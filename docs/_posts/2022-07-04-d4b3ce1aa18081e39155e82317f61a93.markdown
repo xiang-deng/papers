@@ -1,8 +1,8 @@
----
-layout: post
-title:  "When Does Group Invariant Learning Survive Spurious Correlations?"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "Y Chen, R Xiong, Z Ma, Y Lan - arXiv preprint arXiv:2206.14534, 2022"
----
-By inferring latent groups in the training data, recent works introduce invariant learning to the case where environment annotations are unavailable. Typically, learning group invariance under a majority/minority split is empirically shown to be effective in improving out-of-distribution generalization on many datasets. However, theoretical guarantee for these methods on learning invariant mechanisms is lacking. In this paper, we reveal the insufficiency of existing group invariant learning methods  Cites: Just train twice: Improving group robustness without training group
+--- 
+layout: post 
+title: "When Does Group Invariant Learning Survive Spurious Correlations?" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "Y Chen, R Xiong, Z Ma, Y Lan - arXiv preprint arXiv:2206.14534, 2022" 
+--- 
+By inferring latent groups in the training data, recent works introduce invariant learning to the case where environment annotations are unavailable. Typically, learning group invariance under a majority/minority split is empirically shown to be effective in improving out-of-distribution generalization on many datasets. However, theoretical guarantee for these methods on learning invariant mechanisms is lacking. In this paper, we reveal the insufficiency of existing group invariant learning methods Cites: Just train twice: Improving group robustness without training group

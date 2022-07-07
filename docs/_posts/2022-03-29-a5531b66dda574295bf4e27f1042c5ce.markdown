@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Domain-adaptive Pre-training Approach for Language Bias Detection in News"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "JD Krieger, T Spinde, T Ruas, J Kulshrestha, B Gipp - 2022"
----
+--- 
+layout: post 
+title: "A Domain-adaptive Pre-training Approach for Language Bias Detection in News" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "JD Krieger, T Spinde, T Ruas, J Kulshrestha, B Gipp - 2022" 
+--- 
 Media bias is a multi-faceted construct influencing individual behavior and collective decision-making. Slanted news reporting is the result of one-sided and polarized writing which can occur in various forms. In this work, we focus on an important form of media bias, ie bias by word choice. Detecting biased word choices is a challenging task due to its linguistic complexity and the lack of representative gold- standard corpora. We present DA-RoBERTa, a new state-of-the-art transformer Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

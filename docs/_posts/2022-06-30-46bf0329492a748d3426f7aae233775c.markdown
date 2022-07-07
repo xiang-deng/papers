@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fusion of linguistic, neural and sentence-transformer features for improved term alignment"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "A Repar, B Koloski, M Ulcar, S Pollak -  and Evaluation Conference 25 June 2022, 2022"
----
-Crosslingual terminology alignment task has many practical applications. In this work, we propose an aligning method for the shared task of the 15th Workshop on Building and Using Comparable Corpora. Our method combines several different approaches into one cohesive machine learning model, based on SVM. From shared-task specific and external sources, we crafted four types of features: cognate-based, dictionary-based, embedding-based, and combined features, which combine  Cites: Roberta: A robustly optimized bert pretraining approach
+--- 
+layout: post 
+title: "Fusion of linguistic, neural and sentence-transformer features for improved term alignment" 
+date: 2022-06-30 03:02:10 -0400 
+categories: jekyll update 
+author: "A Repar, B Koloski, M Ulcar, S Pollak - and Evaluation Conference 25 June 2022, 2022" 
+--- 
+Crosslingual terminology alignment task has many practical applications. In this work, we propose an aligning method for the shared task of the 15th Workshop on Building and Using Comparable Corpora. Our method combines several different approaches into one cohesive machine learning model, based on SVM. From shared-task specific and external sources, we crafted four types of features: cognate-based, dictionary-based, embedding-based, and combined features, which combine Cites: Roberta: A robustly optimized bert pretraining approach

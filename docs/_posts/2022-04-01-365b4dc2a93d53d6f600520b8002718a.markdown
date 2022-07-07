@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Training Compute-Optimal Large Language Models"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "J Hoffmann, S Borgeaud, A Mensch, E Buchatskaya - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Training Compute-Optimal Large Language Models" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "J Hoffmann, S Borgeaud, A Mensch, E Buchatskaya - arXiv preprint arXiv , 2022" 
+--- 
 We investigate the optimal model size and number of tokens for training a transformer language model under a given compute budget. We find that current large language models are significantly undertrained, a consequence of the recent focus on scaling language models whilst keeping the amount of training data constant. By training over nummodels language models ranging from 70 million to over 16 billion parameters on 5 to 500 billion tokens, we find that for compute-optimal Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in

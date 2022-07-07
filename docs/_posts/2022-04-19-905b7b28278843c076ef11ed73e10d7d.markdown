@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Commonsense Reasoning for Question Answering with Explanations"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "W Zhao, AM Rush, C Cardie -  2022 Workshop on Commonsense Representation and , 2022"
----
+--- 
+layout: post 
+title: "Commonsense Reasoning for Question Answering with Explanations" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "W Zhao, AM Rush, C Cardie - 2022 Workshop on Commonsense Representation and , 2022" 
+--- 
 Commonsense reasoning is an important capability for a range of AI applications such as text understanding. Neural models for commonsense reasoning QA often directly predict answers based on learned representations of language. In this work, we consider the challenge of producing an explicit reasoning step for a commonsense QA system. We propose a latent-variable model that identifies what type of knowledge from an external knowledge base may be relevant to answering Cites: Qa-gnn: Reasoning with language models and knowledge graphs

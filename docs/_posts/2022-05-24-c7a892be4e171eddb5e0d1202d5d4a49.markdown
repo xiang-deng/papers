@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Foundation Posteriors for Approximate Probabilistic Inference"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "M Wu, N Goodman - arXiv preprint arXiv:2205.09735, 2022"
----
-Probabilistic programs provide an expressive representation language for generative models. Given a probabilistic program, we are interested in the task of posterior inference: estimating a latent variable given a set of observed variables. Existing techniques for inference in probabilistic programs often require choosing many hyper-parameters, are computationally expensive, and/or only work for restricted classes of programs. Here we formulate inference as masked language modeling: given a  Cites: Codebert: A pre-trained model for programming and natural
+--- 
+layout: post 
+title: "Foundation Posteriors for Approximate Probabilistic Inference" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "M Wu, N Goodman - arXiv preprint arXiv:2205.09735, 2022" 
+--- 
+Probabilistic programs provide an expressive representation language for generative models. Given a probabilistic program, we are interested in the task of posterior inference: estimating a latent variable given a set of observed variables. Existing techniques for inference in probabilistic programs often require choosing many hyper-parameters, are computationally expensive, and/or only work for restricted classes of programs. Here we formulate inference as masked language modeling: given a Cites: Codebert: A pre-trained model for programming and natural

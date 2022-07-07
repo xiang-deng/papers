@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evidence-aware Fake News Detection with Graph Neural Networks"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "W Xu, J Wu, Q Liu, S Wu, L Wang - Proceedings of the ACM Web Conference 2022, 2022"
----
+--- 
+layout: post 
+title: "Evidence-aware Fake News Detection with Graph Neural Networks" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "W Xu, J Wu, Q Liu, S Wu, L Wang - Proceedings of the ACM Web Conference 2022, 2022" 
+--- 
 The prevalence and perniciousness of fake news has been a critical issue on the Internet, which stimulates the development of automatic fake news detection in turn. In this paper, we focus on the evidence-based fake news detection, where several evidences are utilized to probe the veracity of news (ie, a claim). Most previous methods first employ sequential models to embed the semantic information and then capture the claim-evidence interaction based on different attention mechanisms Cites: Reasoning over semantic-level graph for fact checking

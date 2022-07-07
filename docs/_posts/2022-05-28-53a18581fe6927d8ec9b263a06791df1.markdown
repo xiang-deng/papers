@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Bachelor s Thesis"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "J Stahlhut, JPDM Potthast, W Kircheis"
----
-Article retrieval is a topic widely studied in computer science. Many unique approaches have been developed to retrieve articles for a given query. This work describes, implements, evaluates, and compares three different approaches to retrieve related articles on Wikipedia. The keyquery approach incorporates a search engine to find a query that will retrieve a set of documents. The graph approach creates a graph from Wikipedias  structure and finds similar articles based on its  Cites: Deep unordered composition rivals syntactic methods for text
+--- 
+layout: post 
+title: "Bachelor s Thesis" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "J Stahlhut, JPDM Potthast, W Kircheis" 
+--- 
+Article retrieval is a topic widely studied in computer science. Many unique approaches have been developed to retrieve articles for a given query. This work describes, implements, evaluates, and compares three different approaches to retrieve related articles on Wikipedia. The keyquery approach incorporates a search engine to find a query that will retrieve a set of documents. The graph approach creates a graph from Wikipedias structure and finds similar articles based on its Cites: Deep unordered composition rivals syntactic methods for text

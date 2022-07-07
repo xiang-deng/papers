@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Benchmark of Deep Active Learning: A Deep Active Learning Toolkit and A Comparative Survey"
-date:   2022-07-06 06:18:13 -0400
-categories: jekyll update
-author: "X Zhan, Q Wang, KH Huang, H Xiong, D Dou, AB Chan - 2022"
----
-While deep learning (DL) is data-hungry and usually relies on large labeled data to deliver good performance, Active Learning (AL) reduces labeling cost by selecting a small proportion of samples from unlabeled data for labeling and then training. Therefore, in recent years, Deep Active Learning (DAL) has risen as a feasible solution for maximizing model performance under limited labeling cost/budget. Although abundant methods of DAL have been developed and various literature  Cites: Mind your outliers! investigating the negative impact of outliers on
+--- 
+layout: post 
+title: "Benchmark of Deep Active Learning: A Deep Active Learning Toolkit and A Comparative Survey" 
+date: 2022-07-06 06:18:13 -0400 
+categories: jekyll update 
+author: "X Zhan, Q Wang, KH Huang, H Xiong, D Dou, AB Chan - 2022" 
+--- 
+While deep learning (DL) is data-hungry and usually relies on large labeled data to deliver good performance, Active Learning (AL) reduces labeling cost by selecting a small proportion of samples from unlabeled data for labeling and then training. Therefore, in recent years, Deep Active Learning (DAL) has risen as a feasible solution for maximizing model performance under limited labeling cost/budget. Although abundant methods of DAL have been developed and various literature Cites: Mind your outliers! investigating the negative impact of outliers on

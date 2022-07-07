@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving aspect term extraction via span-level tag data augmentation"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "B Liu, T Lin, M Li - Applied Intelligence, 2022"
----
-Aspect term extraction (ATE), a fundamental subtask in aspect-based sentiment analysis, aims to extract explicit aspect term from reviewers  expressed opinions. However, the distribution of samples containing different numbers of aspect terms is long-tailed. Due to the scarcity of long-tailed samples and the existence of multiple variable-length aspect terms inside each sample, most ATE models converge to an inferior state because they have difficulty capturing features. Popular data  Cites: A simple and effective model for answering multi-span questions
+--- 
+layout: post 
+title: "Improving aspect term extraction via span-level tag data augmentation" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "B Liu, T Lin, M Li - Applied Intelligence, 2022" 
+--- 
+Aspect term extraction (ATE), a fundamental subtask in aspect-based sentiment analysis, aims to extract explicit aspect term from reviewers expressed opinions. However, the distribution of samples containing different numbers of aspect terms is long-tailed. Due to the scarcity of long-tailed samples and the existence of multiple variable-length aspect terms inside each sample, most ATE models converge to an inferior state because they have difficulty capturing features. Popular data Cites: A simple and effective model for answering multi-span questions

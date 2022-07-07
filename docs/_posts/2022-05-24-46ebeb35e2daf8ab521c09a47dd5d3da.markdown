@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Spatial Autoregressive Coding for Graph Neural Recommendation"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "J Zheng, L Yang, H Wang, C Yang, Y Li, X Hu, S Hong - arXiv preprint arXiv , 2022"
----
-Graph embedding methods including traditional shallow models and deep Graph Neural Networks (GNNs) have led to promising applications in recommendation. Nevertheless, shallow models especially random-walk-based algorithms fail to adequately exploit neighbor proximity in sampled subgraphs or sequences due to their optimization paradigm. GNN-based algorithms suffer from the insufficient utilization of high-order information and easily cause over-smoothing problems when  Cites: UPRec: User-Aware Pre-training for Recommender Systems
+--- 
+layout: post 
+title: "Spatial Autoregressive Coding for Graph Neural Recommendation" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "J Zheng, L Yang, H Wang, C Yang, Y Li, X Hu, S Hong - arXiv preprint arXiv , 2022" 
+--- 
+Graph embedding methods including traditional shallow models and deep Graph Neural Networks (GNNs) have led to promising applications in recommendation. Nevertheless, shallow models especially random-walk-based algorithms fail to adequately exploit neighbor proximity in sampled subgraphs or sequences due to their optimization paradigm. GNN-based algorithms suffer from the insufficient utilization of high-order information and easily cause over-smoothing problems when Cites: UPRec: User-Aware Pre-training for Recommender Systems

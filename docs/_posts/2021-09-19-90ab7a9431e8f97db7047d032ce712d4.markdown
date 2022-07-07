@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning from Language Description: Low-shot Named Entity Recognition via Decomposed Framework"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "Y Wang, H Chu, C Zhang, J Gao - arXiv preprint arXiv:2109.05357, 2021"
----
+--- 
+layout: post 
+title: "Learning from Language Description: Low-shot Named Entity Recognition via Decomposed Framework" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "Y Wang, H Chu, C Zhang, J Gao - arXiv preprint arXiv:2109.05357, 2021" 
+--- 
 In this work, we study the problem of named entity recognition (NER) in a low resource scenario, focusing on few-shot and zero-shot settings. Built upon large- scale pre-trained language models, we propose a novel NER framework, namely SpanNER, which learns from natural language supervision and enables the identification of never-seen entity classes without using in-domain labeled data. We perform extensive experiments on 5 benchmark datasets and evaluate the proposed Cites: Zero-shot relation extraction via reading comprehension

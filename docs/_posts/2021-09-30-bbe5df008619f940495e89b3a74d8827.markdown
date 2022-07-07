@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Unsolved Problems in ML Safety"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "D Hendrycks, N Carlini, J Schulman, TG Dietterich"
----
+--- 
+layout: post 
+title: "Unsolved Problems in ML Safety" 
+date: 2021-09-30 20:19:19 -0400 
+categories: jekyll update 
+author: "D Hendrycks, N Carlini, J Schulman, TG Dietterich" 
+--- 
 Abstract Machine learning (ML) systems are rapidly increasing in size, are acquiring new capabilities, and are increasingly deployed in high-stakes settings. Like other powerful technologies, safety for ML should be a leading research priority. However, most research discussions about how to improve the safety of ML systems are nebulous, RL-specific, or strictly futuristic. To rectify this, we present four problems ready for research, namely enduring hazards (Robustness), identifying hazards Cites: Verified uncertainty calibration

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "J Jia, Y Liu, X Cao, NZ Gong - 2022"
----
+--- 
+layout: post 
+title: "Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks" 
+date: 2022-05-12 04:06:18 -0400 
+categories: jekyll update 
+author: "J Jia, Y Liu, X Cao, NZ Gong - 2022" 
+--- 
 Data poisoning attacks and backdoor attacks aim to corrupt a machine learning classifier via modifying, adding, and/or removing some carefully selected training examples, such that the corrupted classifier makes incorrect predictions as the attacker desires. The key idea of state-of-the-art certified defenses against data poisoning attacks and backdoor attacks is to create a majority vote mechanism to predict the label of a testing example. Moreover, each voter is a base classifier Cites: Certified defenses for data poisoning attacks

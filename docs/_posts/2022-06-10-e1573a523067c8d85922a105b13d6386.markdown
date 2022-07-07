@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Language models can learn complex molecular distributions"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "D Flam-Shepherd, K Zhu, A Aspuru-Guzik - Nature Communications, 2022"
----
-Deep generative models of molecules have grown immensely in popularity, trained on relevant datasets, these models are used to search through chemical space. The downstream utility of generative models for the inverse design of novel functional compounds, depends on their ability to learn a training distribution of molecules. The most simple example is a language model that takes the form of a recurrent neural network and generates molecules using a string representation. Since their initial  Cites: Masked graph modeling for molecule generation
+--- 
+layout: post 
+title: "Language models can learn complex molecular distributions" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "D Flam-Shepherd, K Zhu, A Aspuru-Guzik - Nature Communications, 2022" 
+--- 
+Deep generative models of molecules have grown immensely in popularity, trained on relevant datasets, these models are used to search through chemical space. The downstream utility of generative models for the inverse design of novel functional compounds, depends on their ability to learn a training distribution of molecules. The most simple example is a language model that takes the form of a recurrent neural network and generates molecules using a string representation. Since their initial Cites: Masked graph modeling for molecule generation

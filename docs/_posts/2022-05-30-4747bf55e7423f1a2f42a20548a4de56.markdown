@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Using Expert Interpretation and Reasoning to Guide Model Selection in Machine Learning"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "J Wang - 2022"
----
-In using machine learning to train predictive models, training data often under-specify solutions due to limited sample size and/or the lack of diversity in samples. When selecting a solution (or model) for deployment, we must consider metrics beyond statistics calculated in distribution (ie, statistics on samples available in model learning such as training and validation error) so that we can identify and correct potential pitfalls of the learned model when applied to out of distribution  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
+--- 
+layout: post 
+title: "Using Expert Interpretation and Reasoning to Guide Model Selection in Machine Learning" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "J Wang - 2022" 
+--- 
+In using machine learning to train predictive models, training data often under-specify solutions due to limited sample size and/or the lack of diversity in samples. When selecting a solution (or model) for deployment, we must consider metrics beyond statistics calculated in distribution (ie, statistics on samples available in model learning such as training and validation error) so that we can identify and correct potential pitfalls of the learned model when applied to out of distribution Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

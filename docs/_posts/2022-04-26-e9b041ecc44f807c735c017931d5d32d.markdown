@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TEAM-Atreides at SemEval-2022 Task 11: On leveraging data augmentation and ensemble to recognize complex Named Entities in Bangla"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "N Tasnim, M Shihab, I Hossain, AS Sushmit, S Bethard - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "TEAM-Atreides at SemEval-2022 Task 11: On leveraging data augmentation and ensemble to recognize complex Named Entities in Bangla" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "N Tasnim, M Shihab, I Hossain, AS Sushmit, S Bethard - arXiv preprint arXiv , 2022" 
+--- 
 Many areas, such as the biological and healthcare domain, artistic works, and organization names, have nested, overlapping, discontinuous entity mentions that may even be syntactically or semantically ambiguous in practice. Traditional sequence tagging algorithms are unable to recognize these complex mentions because they may violate the assumptions upon which sequence tagging schemes are founded. In this paper, we describe our contribution to SemEval 2022 Task 11 on Cites: Unsupervised named-entity extraction from the web: An

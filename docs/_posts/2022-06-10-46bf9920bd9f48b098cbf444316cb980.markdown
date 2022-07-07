@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Investigating the use of Paraphrase Generation for Question Reformulation in the FRANK QA system"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "N Ferguson, L Guillou, K Nuamah, A Bundy - arXiv preprint arXiv:2206.02737, 2022"
----
-We present a study into the ability of paraphrase generation methods to increase the variety of natural language questions that the FRANK Question Answering system can answer. We first evaluate paraphrase generation methods on the LC-QuAD 2.0 dataset using both automatic metrics and human judgement, and discuss their correlation. Error analysis on the dataset is also performed using both automatic and manual approaches, and we discuss how paraphrase generation and evaluation is  Cites: Factorising meaning and form for intent-preserving paraphrasing
+--- 
+layout: post 
+title: "Investigating the use of Paraphrase Generation for Question Reformulation in the FRANK QA system" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "N Ferguson, L Guillou, K Nuamah, A Bundy - arXiv preprint arXiv:2206.02737, 2022" 
+--- 
+We present a study into the ability of paraphrase generation methods to increase the variety of natural language questions that the FRANK Question Answering system can answer. We first evaluate paraphrase generation methods on the LC-QuAD 2.0 dataset using both automatic metrics and human judgement, and discuss their correlation. Error analysis on the dataset is also performed using both automatic and manual approaches, and we discuss how paraphrase generation and evaluation is Cites: Factorising meaning and form for intent-preserving paraphrasing

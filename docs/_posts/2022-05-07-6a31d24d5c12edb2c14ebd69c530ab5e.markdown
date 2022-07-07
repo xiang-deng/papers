@@ -1,8 +1,8 @@
----
-layout: post
-title:  "QRelScore: Better Evaluating Generated Questions with Deeper Understanding of Context-aware Relevance"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "X Wang, B Liu, S Tang, L Wu - arXiv preprint arXiv:2204.13921, 2022"
----
+--- 
+layout: post 
+title: "QRelScore: Better Evaluating Generated Questions with Deeper Understanding of Context-aware Relevance" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "X Wang, B Liu, S Tang, L Wu - arXiv preprint arXiv:2204.13921, 2022" 
+--- 
 Existing metrics for assessing question generation not only require costly human reference but also fail to take into account the input context of generation, rendering the lack of deep understanding of the relevance between the generated questions and input contexts. As a result, they may wrongly penalize a legitimate and reasonable candidate question when it (i) involves complicated reasoning with the context or (ii) can be grounded by multiple evidences in the context. In this paper, we Cites: Evaluating the factual consistency of abstractive text summarization

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving deep label noise learning with dual active label correction"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "SY Li, Y Shi, SJ Huang, S Chen - Machine Learning, 2022"
----
+--- 
+layout: post 
+title: "Improving deep label noise learning with dual active label correction" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "SY Li, Y Shi, SJ Huang, S Chen - Machine Learning, 2022" 
+--- 
 Label noise is now a common problem in many applications, which may lead to significant learning performance degeneration. To deal with the label noise, Active Label Correction (ALC) was proposed to query the true labels for a small subset of instances. As the true labels costs can be high, the focus of ALC is to maximally improve the learning performance with minimal query costs. Existing ALC methods mainly proceed by querying the most likely mislabeled instances, or using criteria Cites: Certified defenses for data poisoning attacks

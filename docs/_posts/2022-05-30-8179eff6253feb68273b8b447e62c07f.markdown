@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Threats to Training: A Survey of Poisoning Attacks and Defenses on Machine Learning Systems"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "Z Wang, J Ma, X Wang, J Hu, Z Qin, K Ren - ACM Journal of the ACM (JACM), 2022"
----
-Machine learning (ML) has been universally adopted for automated decisions in a variety of fields, including recognition and classification applications, recommendation systems, natural language processing, etc. However, in the light of high expenses on training data and computing resources, recent years have witnessed a rapid increase in outsourced ML training, either partially or completely, which provides vulnerabilities for adversaries to exploit. A prime threat in training  Cites: Stronger data poisoning attacks break data sanitization defenses
+--- 
+layout: post 
+title: "Threats to Training: A Survey of Poisoning Attacks and Defenses on Machine Learning Systems" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "Z Wang, J Ma, X Wang, J Hu, Z Qin, K Ren - ACM Journal of the ACM (JACM), 2022" 
+--- 
+Machine learning (ML) has been universally adopted for automated decisions in a variety of fields, including recognition and classification applications, recommendation systems, natural language processing, etc. However, in the light of high expenses on training data and computing resources, recent years have witnessed a rapid increase in outsourced ML training, either partially or completely, which provides vulnerabilities for adversaries to exploit. A prime threat in training Cites: Stronger data poisoning attacks break data sanitization defenses

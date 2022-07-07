@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Holistic Graph Neural Networks based on a global-based attention mechanism"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "A Rassil, H Chougrad, H Zouaki - Knowledge-Based Systems, 2022"
----
+--- 
+layout: post 
+title: "Holistic Graph Neural Networks based on a global-based attention mechanism" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "A Rassil, H Chougrad, H Zouaki - Knowledge-Based Systems, 2022" 
+--- 
 Abstract Graph Neural Networks (GNNs) have become increasingly popular due to their impressive capacity to perform classification or regression on high-dimensional graph-structured data. However, standard message passing GNNs typically define nodes embeddings through a recursive neighborhood aggregation process which updates the representation vector of each node with reference to its neighborhood only. In this paper, we propose the Holistic Graph Neural Network (HGNN), a two-fold Cites: Effective approaches to attention-based neural machine translation

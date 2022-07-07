@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Answering Natural-Language Questions with Neuro-Symbolic Knowledge Bases"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "H Sun, P Verga, WW Cohen - Neuro-Symbolic Artificial Intelligence: The State of the , 2021"
----
+--- 
+layout: post 
+title: "Answering Natural-Language Questions with Neuro-Symbolic Knowledge Bases" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "H Sun, P Verga, WW Cohen - Neuro-Symbolic Artificial Intelligence: The State of the , 2021" 
+--- 
 Symbolic reasoning systems based on first-order logics are computationally powerful, and feedforward neural networks are computationally efficient, so unless P= NP, neural networks cannot, in general, emulate symbolic logics. Hence bridging the gap between neural and symbolic methods requires achieving a delicate balance: one needs to incorporate just enough of symbolic reasoning to be useful for a task, but not so much as to cause computational intractability. In this chapter we first Cites: The value of semantic parse labeling for knowledge base question

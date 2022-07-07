@@ -1,8 +1,8 @@
----
-layout: post
-title:  "HELoC: Hierarchical Contrastive Learning of Source Code Representation"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "X Wang, Q Wu, H Zhang, C Lyu, X Jiang, Z Zheng - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "HELoC: Hierarchical Contrastive Learning of Source Code Representation" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "X Wang, Q Wu, H Zhang, C Lyu, X Jiang, Z Zheng - arXiv preprint arXiv , 2022" 
+--- 
 Abstract syntax trees (ASTs) play a crucial role in source code representation. However, due to the large number of nodes in an AST and the typically deep AST hierarchy, it is challenging to learn the hierarchical structure of an AST effectively. In this paper, we propose HELoC, a hierarchical contrastive learning model for source code representation. To effectively learn the AST hierarchy, we use contrastive learning to allow the network to predict the AST node level and learn the hierarchical Cites: Graphcodebert: Pre-training code representations with data flow

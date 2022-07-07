@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semantic Self-segmentation for Abstractive Summarization of Long Legal Documents in Low-resource Regimes"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "G Moro, L Ragazzi - Proceedings of the Thirty-Six AAAI Conference on , 2022"
----
+--- 
+layout: post 
+title: "Semantic Self-segmentation for Abstractive Summarization of Long Legal Documents in Low-resource Regimes" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "G Moro, L Ragazzi - Proceedings of the Thirty-Six AAAI Conference on , 2022" 
+--- 
 The quadratic memory complexity of Transformers prevents long document summarization in low computational resource scenarios. State-of-the-art models need to apply input truncation, thus discarding and ignoring potential summary- relevant contents, leading to a performance drop. Furthermore, such loss is generally destructive for semantic text analytics in the legal domain. In this paper, we propose a novel semantic selfsegmentation (Se3) approach for long document summarization Cites: Discourse-Aware Neural Extractive Text Summarization

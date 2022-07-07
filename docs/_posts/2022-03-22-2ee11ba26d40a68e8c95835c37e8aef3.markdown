@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "CY Lee, CL Li, T Dozat, V Perot, G Su, N Hua, J Ainslie - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "CY Lee, CL Li, T Dozat, V Perot, G Su, N Hua, J Ainslie - arXiv preprint arXiv , 2022" 
+--- 
 Sequence modeling has demonstrated state-of-the-art performance on natural language and document understanding tasks. However, it is challenging to correctly serialize tokens in form-like documents in practice due to their variety of layout patterns. We propose FormNet, a structure-aware sequence model to mitigate the suboptimal serialization of forms. First, we design Rich Attention that leverages the spatial relationship between tokens in a form for more precise attention score Cites: Cross-sentence n-ary relation extraction with graph lstms

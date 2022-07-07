@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Rethinking Classifier And Adversarial Attack"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "Y Yang, L Sun, L Dai, S Guo, X Mao, X Wang, B Xu - arXiv preprint arXiv:2205.02743, 2022"
----
+--- 
+layout: post 
+title: "Rethinking Classifier And Adversarial Attack" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "Y Yang, L Sun, L Dai, S Guo, X Mao, X Wang, B Xu - arXiv preprint arXiv:2205.02743, 2022" 
+--- 
 Various defense models have been proposed to resist adversarial attack algorithms, but existing adversarial robustness evaluation methods always overestimate the adversarial robustness of these models (ie not approaching the lower bound of robustness). To solve this problem, this paper first uses the Decouple Space method to divide the classifier into two parts: non-linear and linear. On this basis, this paper defines the representation vector of original example (and its space, ie, the Cites: Unlabeled data improves adversarial robustness

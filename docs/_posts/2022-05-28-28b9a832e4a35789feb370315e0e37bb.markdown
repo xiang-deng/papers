@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Collaborative Adversarial Training"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "Q Li, Y Guo, W Zuo, H Chen - arXiv preprint arXiv:2205.11156, 2022"
----
-The vulnerability of deep neural networks (DNNs) to adversarial examples has attracted great attention in the machine learning community. The problem is related to local non-smoothness and steepness of normally obtained loss landscapes. Training augmented with adversarial examples (aka, adversarial training) is considered as an effective remedy. In this paper, we highlight that some collaborative examples, nearly perceptually indistinguishable from both adversarial and benign  Cites: Unlabeled data improves adversarial robustness
+--- 
+layout: post 
+title: "Collaborative Adversarial Training" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "Q Li, Y Guo, W Zuo, H Chen - arXiv preprint arXiv:2205.11156, 2022" 
+--- 
+The vulnerability of deep neural networks (DNNs) to adversarial examples has attracted great attention in the machine learning community. The problem is related to local non-smoothness and steepness of normally obtained loss landscapes. Training augmented with adversarial examples (aka, adversarial training) is considered as an effective remedy. In this paper, we highlight that some collaborative examples, nearly perceptually indistinguishable from both adversarial and benign Cites: Unlabeled data improves adversarial robustness

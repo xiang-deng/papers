@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Training a Dutch (+ English) BERT model applicable for the legal domain"
-date:   2022-07-06 06:18:13 -0400
-categories: jekyll update
-author: "G de Kruijf, AP de Vries, F Hasibi - 2022"
----
-This thesis proposes four new BERT models that bridge the gap for applying tasks within the Dutch (and English) legal domain. Both pre-training from scratch and further training from an existing BERT checkpoint have been explored to find out what works best regarding final performance. These models improve on current state-of-the-art models such as BERTje and mBERT for various metrics such as F1, Accuracy, and Mean Average Precision, tested on a dataset from Rabobank and the  Cites: Deep contextualized word representations
+--- 
+layout: post 
+title: "Training a Dutch (+ English) BERT model applicable for the legal domain" 
+date: 2022-07-06 06:18:13 -0400 
+categories: jekyll update 
+author: "G de Kruijf, AP de Vries, F Hasibi - 2022" 
+--- 
+This thesis proposes four new BERT models that bridge the gap for applying tasks within the Dutch (and English) legal domain. Both pre-training from scratch and further training from an existing BERT checkpoint have been explored to find out what works best regarding final performance. These models improve on current state-of-the-art models such as BERTje and mBERT for various metrics such as F1, Accuracy, and Mean Average Precision, tested on a dataset from Rabobank and the Cites: Deep contextualized word representations

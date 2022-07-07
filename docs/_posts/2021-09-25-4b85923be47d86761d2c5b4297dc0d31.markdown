@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Temporal Knowledge Graph Completion using Box Embeddings"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "J Messner, R Abboud,  Ceylan - arXiv preprint arXiv:2109.08970, 2021"
----
+--- 
+layout: post 
+title: "Temporal Knowledge Graph Completion using Box Embeddings" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "J Messner, R Abboud, Ceylan - arXiv preprint arXiv:2109.08970, 2021" 
+--- 
 Knowledge graph completion is the task of inferring missing facts based on existing data in a knowledge graph. Temporal knowledge graph completion (TKGC) is an extension of this task to temporal knowledge graphs, where each fact is additionally associated with a time stamp. Current approaches for TKGC primarily build on existing embedding models which are developed for (static) knowledge graph completion, and extend these models to incorporate time, where the idea is to learn Cites: Observed versus latent features for knowledge base and text

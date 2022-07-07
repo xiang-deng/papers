@@ -1,8 +1,8 @@
----
-layout: post
-title:  "From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "T Formal, C Lassance, B Piwowarski, S Clinchant - arXiv preprint arXiv:2205.04733, 2022"
----
+--- 
+layout: post 
+title: "From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "T Formal, C Lassance, B Piwowarski, S Clinchant - arXiv preprint arXiv:2205.04733, 2022" 
+--- 
 Neural retrievers based on dense representations combined with Approximate Nearest Neighbors search have recently received a lot of attention, owing their success to distillation and/or better sampling of examples for training--while still relying on the same backbone architecture. In the meantime, sparse representation learning fueled by traditional inverted indexing techniques has seen a growing interest, inheriting from desirable IR priors such as explicit lexical matching. While Cites: Towards Unsupervised Dense Information Retrieval with

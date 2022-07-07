@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automating Neural Architecture Design without Search"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "Z Liang, Y Sun - arXiv preprint arXiv:2204.11838, 2022"
----
+--- 
+layout: post 
+title: "Automating Neural Architecture Design without Search" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "Z Liang, Y Sun - arXiv preprint arXiv:2204.11838, 2022" 
+--- 
 Neural structure search (NAS), as the mainstream approach to automate deep neural architecture design, has achieved much success in recent years. However, the performance estimation component adhering to NAS is often prohibitively costly, which leads to the enormous computational demand. Though a large number of efforts have been dedicated to alleviating this pain point, no consensus has been made yet on which is optimal. In this paper, we study the automated architecture Cites: Theory-inspired path-regularized differential network architecture

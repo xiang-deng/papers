@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Calibration of Machine Reading Systems at Scale"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "S Dhuliawala, L Adolphs, R Das, M Sachan - arXiv preprint arXiv:2203.10623, 2022"
----
+--- 
+layout: post 
+title: "Calibration of Machine Reading Systems at Scale" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "S Dhuliawala, L Adolphs, R Das, M Sachan - arXiv preprint arXiv:2203.10623, 2022" 
+--- 
 In typical machine learning systems, an estimate of the probability of the prediction is used to assess the system s confidence in the prediction. This confidence measure is usually uncalibrated; ie the system s confidence in the prediction does not match the true probability of the predicted output. In this paper, we present an investigation into calibrating open setting machine reading systems such as open-domain question answering and claim verification systems. We show that calibrating such complex Cites: Confidence modeling for neural semantic parsing

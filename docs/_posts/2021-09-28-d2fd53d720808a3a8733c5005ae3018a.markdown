@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Distiller: A Systematic Study of Model Distillation Methods in Natural Language Processing"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "H He, X Shi, J Mueller, Z Sheng, M Li, G Karypis - arXiv preprint arXiv:2109.11105, 2021"
----
+--- 
+layout: post 
+title: "Distiller: A Systematic Study of Model Distillation Methods in Natural Language Processing" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "H He, X Shi, J Mueller, Z Sheng, M Li, G Karypis - arXiv preprint arXiv:2109.11105, 2021" 
+--- 
 We aim to identify how different components in the KD pipeline affect the resulting performance and how much the optimal KD pipeline varies across different datasets/tasks, such as the data augmentation policy, the loss function, and the intermediate representation for transferring the knowledge between teacher and student. To tease apart their effects, we propose Distiller, a meta KD framework that systematically combines a broad range of techniques across different stages of the Cites: Well-Read Students Learn Better: On the Importance of Pre

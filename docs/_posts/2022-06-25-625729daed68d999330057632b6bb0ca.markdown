@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Your Social Circle Affects Your Interests: Social Influence Enhanced Session-Based Recommendation"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "Y Chen, W Qian, D Liu, M Zhou, Y Su, J Han, R Li - International Conference on , 2022"
----
-Session-based recommendation aims at predicting the next item given a series of historical items a user interacts with in a session. Many works try to make use of social network to achieve a better recommendation performance. However, existing works treat the weights of user edges as the same and thus neglect the differences of social influences among users in a social network, for each user s social circle differs widely. In this work, we try to utilize an explicit way to describe the impact of social  Cites: Recommender systems with social regularization
+--- 
+layout: post 
+title: "Your Social Circle Affects Your Interests: Social Influence Enhanced Session-Based Recommendation" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "Y Chen, W Qian, D Liu, M Zhou, Y Su, J Han, R Li - International Conference on , 2022" 
+--- 
+Session-based recommendation aims at predicting the next item given a series of historical items a user interacts with in a session. Many works try to make use of social network to achieve a better recommendation performance. However, existing works treat the weights of user edges as the same and thus neglect the differences of social influences among users in a social network, for each user s social circle differs widely. In this work, we try to utilize an explicit way to describe the impact of social Cites: Recommender systems with social regularization

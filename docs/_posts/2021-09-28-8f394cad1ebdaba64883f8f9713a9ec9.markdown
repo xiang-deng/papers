@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Exploring Decomposition for Table-based Fact Verification"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "X Yang, X Zhu - arXiv preprint arXiv:2109.11020, 2021"
----
+--- 
+layout: post 
+title: "Exploring Decomposition for Table-based Fact Verification" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "X Yang, X Zhu - arXiv preprint arXiv:2109.11020, 2021" 
+--- 
 Fact verification based on structured data is challenging as it requires models to understand both natural language and symbolic operations performed over tables. Although pre-trained language models have demonstrated a strong capability in verifying simple statements, they struggle with complex statements that involve multiple operations. In this paper, we improve fact verification by decomposing complex statements into simpler subproblems. Leveraging the programs synthesized Cites: LogicalFactChecker: Leveraging Logical Operations for Fact

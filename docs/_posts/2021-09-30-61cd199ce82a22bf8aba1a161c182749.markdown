@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Keyword Extraction Algorithm Based on Pre-training and Multi-task Training"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "L Guo, H Sun, Q Qi, J Wang - Proceedings of Sixth International Congress on , 2022"
----
+--- 
+layout: post 
+title: "Keyword Extraction Algorithm Based on Pre-training and Multi-task Training" 
+date: 2021-09-30 20:19:19 -0400 
+categories: jekyll update 
+author: "L Guo, H Sun, Q Qi, J Wang - Proceedings of Sixth International Congress on , 2022" 
+--- 
 The generalization ability of the supervised model is relatively weak in keyword extraction technology. For enhancing the robustness of the model, a keyword extraction method is proposed inspired by the pre-training model. After pre-training with plenty of corpus and fine-tuning with specific datasets, the proposed method performs more robust in keyword extraction tasks. In addition, multi-task training is added in the fine-tuning stage to improve the accuracy of the model. Plenty of Cites: Bert: Pre-training of deep bidirectional transformers for language

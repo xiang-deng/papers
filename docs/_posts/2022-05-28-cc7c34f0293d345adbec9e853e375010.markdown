@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Transition-based Semantic Role Labeling with Pointer Networks"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "D Fernndez-Gonzlez - arXiv preprint arXiv:2205.10023, 2022"
----
-Semantic role labeling (SRL) focuses on recognizing the predicate-argument structure of a sentence and plays a critical role in many natural language processing tasks such as machine translation and question answering. Practically all available methods do not perform full SRL, since they rely on pre-identified predicates, and most of them follow a pipeline strategy, using specific models for undertaking one or several SRL subtasks. In addition, previous approaches have a strong dependence  Cites: A structural probe for finding syntax in word representations
+--- 
+layout: post 
+title: "Transition-based Semantic Role Labeling with Pointer Networks" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "D Fernndez-Gonzlez - arXiv preprint arXiv:2205.10023, 2022" 
+--- 
+Semantic role labeling (SRL) focuses on recognizing the predicate-argument structure of a sentence and plays a critical role in many natural language processing tasks such as machine translation and question answering. Practically all available methods do not perform full SRL, since they rely on pre-identified predicates, and most of them follow a pipeline strategy, using specific models for undertaking one or several SRL subtasks. In addition, previous approaches have a strong dependence Cites: A structural probe for finding syntax in word representations

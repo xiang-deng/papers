@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations"
-date:   2022-01-06 10:02:50 -0400
-categories: jekyll update
-author: "M Zhang, NS Sohoni, HR Zhang, C Finn, C R - NeurIPS 2021 Workshop on , 2021"
----
+--- 
+layout: post 
+title: "Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations" 
+date: 2022-01-06 10:02:50 -0400 
+categories: jekyll update 
+author: "M Zhang, NS Sohoni, HR Zhang, C Finn, C R - NeurIPS 2021 Workshop on , 2021" 
+--- 
 We propose Correct-N-Contrast (CNC), a contrastive learning method to improve robustness to spurious correlations when training group labels are unknown. Our motivating observation is that worst-group performance is related to a representation alignment loss, which measures the distance in feature space between different groups within each class. We prove that the gap between worst-group and average loss for each class is upper bounded by this alignment loss for that class. Thus, CNC Cites: Just train twice: Improving group robustness without training group

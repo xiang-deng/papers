@@ -1,8 +1,8 @@
----
-layout: post
-title:  "MCSE: Multimodal Contrastive Learning of Sentence Embeddings"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "M Zhang, M Mosbach, DI Adelani, MA Hedderich - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "MCSE: Multimodal Contrastive Learning of Sentence Embeddings" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "M Zhang, M Mosbach, DI Adelani, MA Hedderich - arXiv preprint arXiv , 2022" 
+--- 
 Learning semantically meaningful sentence embeddings is an open problem in natural language processing. In this work, we propose a sentence embedding learning approach that exploits both visual and textual information via a multimodal contrastive objective. Through experiments on a variety of semantic textual similarity tasks, we demonstrate that our approach consistently improves the performance across various datasets and pre-trained encoders. In particular, combining a small Cites: Experience grounds language

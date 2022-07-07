@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Annotation smantique pour la golocalisation d entits spatiales dans des tweets"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "G Caillaut, C Gracianne, S Auclair, N Abadie, G Touya - PFIA Rsilience et IA, 2022"
----
-Cet article prsente une mthode d annotation smantique (Entity Linking) ddie  la golocalisation de messages posts sur les rseaux sociaux. Nous proposons une variante de l architecture  double encodeur capable de dtecter simultanment les mentions des entits prsentes dans un texte et d en calculer des reprsentations vectorielles; l o les travaux rcents mens dans ce domaine ne proposent que des systmes capable de produire une reprsentation pour une unique entit annote  Cites: Scalable zero-shot entity linking with dense entity retrieval
+--- 
+layout: post 
+title: "Annotation smantique pour la golocalisation d entits spatiales dans des tweets" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "G Caillaut, C Gracianne, S Auclair, N Abadie, G Touya - PFIA Rsilience et IA, 2022" 
+--- 
+Cet article prsente une mthode d annotation smantique (Entity Linking) ddie la golocalisation de messages posts sur les rseaux sociaux. Nous proposons une variante de l architecture double encodeur capable de dtecter simultanment les mentions des entits prsentes dans un texte et d en calculer des reprsentations vectorielles; l o les travaux rcents mens dans ce domaine ne proposent que des systmes capable de produire une reprsentation pour une unique entit annote Cites: Scalable zero-shot entity linking with dense entity retrieval

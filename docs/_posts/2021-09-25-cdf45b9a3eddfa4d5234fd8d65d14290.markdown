@@ -1,8 +1,8 @@
----
-layout: post
-title:  "AMFF: A new attention-based multi-feature fusion method for intention recognition"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "C Liu, X Xu - Knowledge-Based Systems, 2021"
----
+--- 
+layout: post 
+title: "AMFF: A new attention-based multi-feature fusion method for intention recognition" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "C Liu, X Xu - Knowledge-Based Systems, 2021" 
+--- 
 Intention recognition is based on a dialog between users to identify their real intentions, which plays a key role in the question answering system. However, the content of a dialog is usually in the form of short text. Due to data sparsity, many current classification models show poor performance on short text. To address this issue, we propose AMFF, an attention-based multi-feature fusion method for intention recognition. In this paper, we enrich short text features by fusing features extracted Cites: Deep learning for sentiment analysis: successful approaches and

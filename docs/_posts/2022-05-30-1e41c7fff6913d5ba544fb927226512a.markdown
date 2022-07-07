@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Tailored Text Augmentation for sentiment analysis"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "Z Feng, H Zhou, Z Zhu, K Mao - Expert Systems with Applications, 2022"
----
-In synonym replacement-based data augmentation techniques for natural language processing tasks, words in a sentence are often sampled randomly with equal probability. In this paper, we propose a novel data augmentation technique named Tailored Text Argumentation (TTA) for sentiment analysis. It has two main operations. The first operation is the probabilistic word sampling for synonym replacement based on the discriminative power and relevance of the word to sentiment. The second  Cites: SSMBA: Self-supervised manifold based data augmentation for
+--- 
+layout: post 
+title: "Tailored Text Augmentation for sentiment analysis" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "Z Feng, H Zhou, Z Zhu, K Mao - Expert Systems with Applications, 2022" 
+--- 
+In synonym replacement-based data augmentation techniques for natural language processing tasks, words in a sentence are often sampled randomly with equal probability. In this paper, we propose a novel data augmentation technique named Tailored Text Argumentation (TTA) for sentiment analysis. It has two main operations. The first operation is the probabilistic word sampling for synonym replacement based on the discriminative power and relevance of the word to sentiment. The second Cites: SSMBA: Self-supervised manifold based data augmentation for

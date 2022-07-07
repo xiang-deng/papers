@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evidence Graphs with Adaptive Retrieval WIP-Not for distribution"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "J Milbauer, E Strubell"
----
+--- 
+layout: post 
+title: "Evidence Graphs with Adaptive Retrieval WIP-Not for distribution" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "J Milbauer, E Strubell" 
+--- 
 The most efficient systems for question answering (QA) use pre-computed question/answer pairs to rapidly retrieve answers for user questions. But the most challenging QA tasks require powerful systems which can retrieve and synthesize multiple passages of evidence, referred to as multi-hop reasoning . Existing approaches to multi-hop typically either traverse an existing graph of linked documents (such as Wikipedia), or rely on iterative query expansion using dense Cites: Paq: 65 million probably-asked questions and what you can do

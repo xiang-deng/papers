@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Leveraging Transformer Self Attention Encoder for Crisis Event Detection in Short Texts"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "P Kyriakidis, D Chatzakou, T Tsikrika, S Vrochidis - European Conference on , 2022"
----
+--- 
+layout: post 
+title: "Leveraging Transformer Self Attention Encoder for Crisis Event Detection in Short Texts" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "P Kyriakidis, D Chatzakou, T Tsikrika, S Vrochidis - European Conference on , 2022" 
+--- 
 Analyzing content generated on social media has proven to be a powerful tool for early detection of crisis-related events. Such an analysis may allow for timely action, mitigating or even preventing altogether the effects of a crisis. However, the high noise levels in short texts present in microblogging platforms, combined with the limited publicly available datasets have rendered the task difficult. Here, we propose deep learning models based on a transformer self-attention encoder, which is Cites: A language-independent neural network for event detection

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Rockafellian Relaxation in Optimization under Uncertainty: Asymptotically Exact Formulations"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "LL Chen, JO Royset - arXiv preprint arXiv:2204.04762, 2022"
----
-In practice, optimization models are often prone to unavoidable inaccuracies due to lack of data and dubious assumptions. Traditionally, this placed special emphasis on risk-based and robust formulations, and their focus on  conservative  decisions. We develop, in contrast, an  optimistic  framework based on Rockafellian relaxations in which optimization is conducted not only over the original decision space but also jointly with a choice of model perturbation. The framework enables us to address Cites: Unlabeled data improves adversarial robustness
+--- 
+layout: post 
+title: "Rockafellian Relaxation in Optimization under Uncertainty: Asymptotically Exact Formulations" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "LL Chen, JO Royset - arXiv preprint arXiv:2204.04762, 2022" 
+--- 
+In practice, optimization models are often prone to unavoidable inaccuracies due to lack of data and dubious assumptions. Traditionally, this placed special emphasis on risk-based and robust formulations, and their focus on conservative decisions. We develop, in contrast, an optimistic framework based on Rockafellian relaxations in which optimization is conducted not only over the original decision space but also jointly with a choice of model perturbation. The framework enables us to address Cites: Unlabeled data improves adversarial robustness

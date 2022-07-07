@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Triple-strip attention mechanism-based natural disaster images classification and segmentation"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "Z Ma, M Yuan, J Gu, W Meng, S Xu, X Zhang - The Visual Computer, 2022"
----
-Fast and accurate semantic analysis of natural disaster images is crucial for rational rescue plans and resource allocation. However, the scarcity of meticulously labelled datasets and the ignorance of region-of-interest scale variations of popular general-purpose methods lead to undesirable performance. In this paper, we propose a novel triple-strip attention mechanism (TSAM) to solve the generalization problem of disaster images that can be combined into general networks. Our TSAM accumulates  Cites: Coatnet: Marrying convolution and attention for all data sizes
+--- 
+layout: post 
+title: "Triple-strip attention mechanism-based natural disaster images classification and segmentation" 
+date: 2022-06-23 20:09:31 -0400 
+categories: jekyll update 
+author: "Z Ma, M Yuan, J Gu, W Meng, S Xu, X Zhang - The Visual Computer, 2022" 
+--- 
+Fast and accurate semantic analysis of natural disaster images is crucial for rational rescue plans and resource allocation. However, the scarcity of meticulously labelled datasets and the ignorance of region-of-interest scale variations of popular general-purpose methods lead to undesirable performance. In this paper, we propose a novel triple-strip attention mechanism (TSAM) to solve the generalization problem of disaster images that can be combined into general networks. Our TSAM accumulates Cites: Coatnet: Marrying convolution and attention for all data sizes

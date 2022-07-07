@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Landmark Explanation: a tool for Entity Matching"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "A Baraldi, F Del Buono, M Paganelli, F Guerra - 2022"
----
+--- 
+layout: post 
+title: "Landmark Explanation: a tool for Entity Matching" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "A Baraldi, F Del Buono, M Paganelli, F Guerra - 2022" 
+--- 
 Abstract We introduce Landmark Explanation, a framework that extends the capabilities of a post-hoc perturbationbased explainer to the EM scenario. Landmark Explanation leverages on the specific schema typically adopted by the EM datasets, representing pairs of entity descriptions, for generating word-based explanations that effectively describe the matching model. Cites: Anchors: High-Precision Model-Agnostic Explanations

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Flexible Order Aware Sequential Recommendation"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "M Qian, X Gu, L Chu, F Dai, H Fan, B Li -  of the 2022 International Conference on , 2022"
----
-Sequential recommendations can dynamically model user interests, which has great value since users  interests may change rapidly with time. Traditional sequential recommendation methods assume that the user behaviors are rigidly ordered and sequentially dependent. However, some user behaviors have flexible orders, meaning the behaviors may occur in any order and are not sequentially dependent. Therefore, traditional methods may capture inaccurate user interests based on wrong  Cites: Bert: Pre-training of deep bidirectional transformers for language
+--- 
+layout: post 
+title: "Flexible Order Aware Sequential Recommendation" 
+date: 2022-06-30 03:02:10 -0400 
+categories: jekyll update 
+author: "M Qian, X Gu, L Chu, F Dai, H Fan, B Li - of the 2022 International Conference on , 2022" 
+--- 
+Sequential recommendations can dynamically model user interests, which has great value since users interests may change rapidly with time. Traditional sequential recommendation methods assume that the user behaviors are rigidly ordered and sequentially dependent. However, some user behaviors have flexible orders, meaning the behaviors may occur in any order and are not sequentially dependent. Therefore, traditional methods may capture inaccurate user interests based on wrong Cites: Bert: Pre-training of deep bidirectional transformers for language

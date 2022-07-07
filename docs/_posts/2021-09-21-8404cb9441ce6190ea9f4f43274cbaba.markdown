@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Topic Transferable Table Question Answering"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "SA Chemmengath, V Kumar, S Bharadwaj, J Sen - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Topic Transferable Table Question Answering" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "SA Chemmengath, V Kumar, S Bharadwaj, J Sen - arXiv preprint arXiv , 2021" 
+--- 
 Weakly-supervised table question-answering (TableQA) models have achieved state- of-art performance by using pre-trained BERT transformer to jointly encoding a question and a table to produce structured query for the question. However, in practical settings TableQA systems are deployed over table corpora having topic and word distributions quite distinct from BERT s pretraining corpus. In this work we simulate the practical topic shift scenario by designing novel challenge benchmarks Cites: Question Generation from SQL Queries Improves Neural Semantic

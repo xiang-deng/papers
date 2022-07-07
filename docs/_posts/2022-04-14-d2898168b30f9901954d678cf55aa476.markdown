@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Label Semantics for Few Shot Named Entity Recognition"
-date:   2022-04-14 01:14:43 -0400
-categories: jekyll update
-author: "JMM Ballesteros, S Doss, R Anubhai, S Mallya"
----
+--- 
+layout: post 
+title: "Label Semantics for Few Shot Named Entity Recognition" 
+date: 2022-04-14 01:14:43 -0400 
+categories: jekyll update 
+author: "JMM Ballesteros, S Doss, R Anubhai, S Mallya" 
+--- 
 We study the problem of few shot learning for named entity recognition. Specifically, we leverage the semantic information in the names of the labels as a way of giving the model additional signal and enriched priors. We propose a neural architecture that consists of two BERT encoders, one to encode the document and its tokens and another one to encode each of the labels in natural language format. Our model learns to match the representations of named entities computed by the first encoder Cites: Zero-shot entity linking by reading entity descriptions

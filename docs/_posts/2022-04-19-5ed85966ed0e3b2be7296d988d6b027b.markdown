@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Pair-wise Aspect and Opinion Terms Extraction as Graph Parsing via a Novel Mutually-Aware Interaction Mechanism"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "Y Liu, F Li, H Fei, D Ji - Neurocomputing, 2022"
----
+--- 
+layout: post 
+title: "Pair-wise Aspect and Opinion Terms Extraction as Graph Parsing via a Novel Mutually-Aware Interaction Mechanism" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "Y Liu, F Li, H Fei, D Ji - Neurocomputing, 2022" 
+--- 
 The pair-wise aspect and opinion term extraction (PAOTE) task aims to extract aspect terms and opinion terms from reviews in the form of opinion pairs, which provides a global profile for reviews of goods or users. Up-to-date studies ignore the interaction between term detection and term pairing, which may be crucial for the PAOTE task. Other studies use syntactic dependency structures to enhance their models, which cannot better provide task-specific structural information. In this work, we design an Cites: Bert: Pre-training of deep bidirectional transformers for language

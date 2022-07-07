@@ -1,8 +1,8 @@
----
-layout: post
-title:  "How Many Data Samples is an Additional Instruction Worth?"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "RS Puri, S Mishra, M Parmar, C Baral - arXiv preprint arXiv:2203.09161, 2022"
----
+--- 
+layout: post 
+title: "How Many Data Samples is an Additional Instruction Worth?" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "RS Puri, S Mishra, M Parmar, C Baral - arXiv preprint arXiv:2203.09161, 2022" 
+--- 
 Recently introduced instruction-paradigm empowers non-expert users to leverage NLP resources by defining a new task in natural language. Instruction-tuned models have significantly outperformed multitask learning models (without instruction); however they are far from state of the art task specific models. Conventional approaches to improve model performance via creating large datasets with lots of task instances or architectural/training changes in model may not be feasible for non Cites: NL-Augmenter: A Framework for Task-Sensitive Natural Language

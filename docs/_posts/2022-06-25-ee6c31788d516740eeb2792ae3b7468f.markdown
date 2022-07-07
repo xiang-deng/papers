@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Winning the Lottery Ahead of Time: Efficient Early Network Pruning"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "J Rachwan, D Zgner, B Charpentier, S Geisler, M Ayle - arXiv preprint arXiv , 2022"
----
-Pruning, the task of sparsifying deep neural networks, received increasing attention recently. Although state-of-the-art pruning methods extract highly sparse models, they neglect two main challenges:(1) the process of finding these sparse models is often very expensive;(2) unstructured pruning does not provide benefits in terms of GPU memory, training time, or carbon emissions. We propose Early Compression via Gradient Flow Preservation (EarlyCroP), which efficiently extracts state-of-the-art  Cites: Sparse networks from scratch: Faster training without losing
+--- 
+layout: post 
+title: "Winning the Lottery Ahead of Time: Efficient Early Network Pruning" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "J Rachwan, D Zgner, B Charpentier, S Geisler, M Ayle - arXiv preprint arXiv , 2022" 
+--- 
+Pruning, the task of sparsifying deep neural networks, received increasing attention recently. Although state-of-the-art pruning methods extract highly sparse models, they neglect two main challenges:(1) the process of finding these sparse models is often very expensive;(2) unstructured pruning does not provide benefits in terms of GPU memory, training time, or carbon emissions. We propose Early Compression via Gradient Flow Preservation (EarlyCroP), which efficiently extracts state-of-the-art Cites: Sparse networks from scratch: Faster training without losing

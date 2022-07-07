@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Explainability in Graph Neural Networks: An Experimental Survey"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "P Li, Y Yang, M Pagnucco, Y Song - arXiv preprint arXiv:2203.09258, 2022"
----
-Graph neural networks (GNNs) have been extensively developed for graph representation learning in various application domains. However, similar to all other neural networks models, GNNs suffer from the black-box problem as people cannot understand the mechanism underlying them. To solve this problem, several GNN explainability methods have been proposed to explain the decisions made by GNNs. In this survey, we give an overview of the state-of-the-art GNN explainability methods Cites:   Why Should I Trust You? : Explaining the Predictions of Any
+--- 
+layout: post 
+title: "Explainability in Graph Neural Networks: An Experimental Survey" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "P Li, Y Yang, M Pagnucco, Y Song - arXiv preprint arXiv:2203.09258, 2022" 
+--- 
+Graph neural networks (GNNs) have been extensively developed for graph representation learning in various application domains. However, similar to all other neural networks models, GNNs suffer from the black-box problem as people cannot understand the mechanism underlying them. To solve this problem, several GNN explainability methods have been proposed to explain the decisions made by GNNs. In this survey, we give an overview of the state-of-the-art GNN explainability methods Cites: Why Should I Trust You? : Explaining the Predictions of Any

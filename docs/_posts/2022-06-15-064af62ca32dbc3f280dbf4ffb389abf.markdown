@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Few-shot Prompting Toward Controllable Response Generation"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "H Su, P Chi, SC Huang, CH Lam, S Sahay, ST Chen - arXiv preprint arXiv , 2022"
----
-Much literature has shown that prompt-based learning is an efficient method to make use of the large pre-trained language model. Recent works also exhibit the possibility of steering a chatbot s output by plugging in an appropriate prompt. Gradient-based methods are often used to perturb the prompts. However, some language models are not even available to the public. In this work, we first explored the combination of prompting and reinforcement learning (RL) to steer models   Cites: DExperts: Decoding-time controlled text generation with experts
+--- 
+layout: post 
+title: "Few-shot Prompting Toward Controllable Response Generation" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "H Su, P Chi, SC Huang, CH Lam, S Sahay, ST Chen - arXiv preprint arXiv , 2022" 
+--- 
+Much literature has shown that prompt-based learning is an efficient method to make use of the large pre-trained language model. Recent works also exhibit the possibility of steering a chatbot s output by plugging in an appropriate prompt. Gradient-based methods are often used to perturb the prompts. However, some language models are not even available to the public. In this work, we first explored the combination of prompting and reinforcement learning (RL) to steer models Cites: DExperts: Decoding-time controlled text generation with experts

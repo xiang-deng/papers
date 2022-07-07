@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Optimality of Deterministic Rules in Adversarial Bayesian Detection"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "J Kim - IEEE Signal Processing Letters, 2022"
----
+--- 
+layout: post 
+title: "On Optimality of Deterministic Rules in Adversarial Bayesian Detection" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "J Kim - IEEE Signal Processing Letters, 2022" 
+--- 
 We consider a Bayesian binary detection problem in the presence of an adversary. The adversary is assumed to be capable of falsifying the observation, under a norm constraint, such that a detector will make a decision based on the falsified observation. We consider a sequential game between the adversary and the defender. The defender first determines the detection rule. Then, given the knowledge of the detection rule, the adversary determines the attack strategy to Cites: Defending against whitebox adversarial attacks via randomized

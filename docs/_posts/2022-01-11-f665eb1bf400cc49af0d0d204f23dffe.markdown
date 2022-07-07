@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Effective Text Augmentation Strategy for NLP Models"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "S Bonthu, A Dayal, M Lakshmi, S Rama Sree - Proceedings of Third International , 2022"
----
+--- 
+layout: post 
+title: "Effective Text Augmentation Strategy for NLP Models" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "S Bonthu, A Dayal, M Lakshmi, S Rama Sree - Proceedings of Third International , 2022" 
+--- 
 Data augmentation effectively increases variance in training data resulting in increased accuracy and generalization in deep learning tasks. Augmentation of text data requires careful implementation so as to avoid text attacks. This paper presents a novel strategy for augmentation of text data in a meaningful way leading to improved accuracy, as well as provides a baseline model for comparison. The proposed strategy uses a mixed of pre-and post-augmentation utilizing four Cites: Deep learning for sentiment analysis: successful approaches and

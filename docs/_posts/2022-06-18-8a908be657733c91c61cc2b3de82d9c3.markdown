@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Cross-TOP: Zero-Shot Cross-Schema Task-Oriented Parsing"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "M Rubino, NG Mesnards, U Shah, N Jiang, W Sun - arXiv preprint arXiv , 2022"
----
-Deep learning methods have enabled task-oriented semantic parsing of increasingly complex utterances. However, a single model is still typically trained and deployed for each task separately, requiring labeled training data for each, which makes it challenging to support new tasks, even within a single business vertical (eg, food-ordering or travel booking). In this paper we describe Cross-TOP (Cross-Schema Task-Oriented Parsing), a zero-shot method for complex semantic parsing in a given  Cites: Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir R
+--- 
+layout: post 
+title: "Cross-TOP: Zero-Shot Cross-Schema Task-Oriented Parsing" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "M Rubino, NG Mesnards, U Shah, N Jiang, W Sun - arXiv preprint arXiv , 2022" 
+--- 
+Deep learning methods have enabled task-oriented semantic parsing of increasingly complex utterances. However, a single model is still typically trained and deployed for each task separately, requiring labeled training data for each, which makes it challenging to support new tasks, even within a single business vertical (eg, food-ordering or travel booking). In this paper we describe Cross-TOP (Cross-Schema Task-Oriented Parsing), a zero-shot method for complex semantic parsing in a given Cites: Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir R

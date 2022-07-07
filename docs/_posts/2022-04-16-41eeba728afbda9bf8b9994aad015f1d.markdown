@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Extending the Scope of Out-of-Domain: Examining QA models in multiple subdomains"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "C Lyu, J Foster, Y Graham - arXiv preprint arXiv:2204.04534, 2022"
----
-Past works that investigate out-of-domain performance of QA systems have mainly focused on general domains (eg news domain, wikipedia domain), underestimating the importance of subdomains defined by the internal characteristics of QA datasets. In this paper, we extend the scope of  out-of-domain  by splitting QA examples into different subdomains according to their several internal characteristics including question type, text length, answer position. We then examine the performance of QA Cites: Open-domain question answering
+--- 
+layout: post 
+title: "Extending the Scope of Out-of-Domain: Examining QA models in multiple subdomains" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "C Lyu, J Foster, Y Graham - arXiv preprint arXiv:2204.04534, 2022" 
+--- 
+Past works that investigate out-of-domain performance of QA systems have mainly focused on general domains (eg news domain, wikipedia domain), underestimating the importance of subdomains defined by the internal characteristics of QA datasets. In this paper, we extend the scope of out-of-domain by splitting QA examples into different subdomains according to their several internal characteristics including question type, text length, answer position. We then examine the performance of QA Cites: Open-domain question answering

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "R2D2: Robust Data-to-Text with Replacement Detection"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "L Nan, LJY Flores, Y Zhao, Y Liu, L Benson, W Zou - arXiv preprint arXiv , 2022"
----
-Unfaithful text generation is a common problem for text generation systems. In the case of Data-to-Text (D2T) systems, the factuality of the generated text is particularly crucial for any real-world applications. We introduce R2D2, a training framework that addresses unfaithful Data-to-Text generation by training a system both as a generator and a faithfulness discriminator with additional replacement detection and unlikelihood learning tasks. To facilitate such training, we propose two methods for  Cites: BRIO: Bringing Order to Abstractive Summarization
+--- 
+layout: post 
+title: "R2D2: Robust Data-to-Text with Replacement Detection" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "L Nan, LJY Flores, Y Zhao, Y Liu, L Benson, W Zou - arXiv preprint arXiv , 2022" 
+--- 
+Unfaithful text generation is a common problem for text generation systems. In the case of Data-to-Text (D2T) systems, the factuality of the generated text is particularly crucial for any real-world applications. We introduce R2D2, a training framework that addresses unfaithful Data-to-Text generation by training a system both as a generator and a faithfulness discriminator with additional replacement detection and unlikelihood learning tasks. To facilitate such training, we propose two methods for Cites: BRIO: Bringing Order to Abstractive Summarization

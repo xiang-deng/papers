@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Method of Sharing Sentence Vectors for Opinion Triplet Extraction"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "W Liu, J Hu, S Du, H Chen, F Teng - Neural Processing Letters, 2022"
----
-The aspect-based sentiment analysis (ABSA) task mainly detects the sentiment polarities of aspect terms, or achieves the aspect-opinion co-extraction. Existing ABSA methods usually divide the task into two independent sub-tasks to execute separately, which will result in getting many meaningless pairs due to the following two reasons: the aspect-sentiment pairs extraction task has no reference opinion terms for the interaction, and the aspect-opinion co-extraction task has no reference  Cites: Entity, relation, and event extraction with contextualized span
+--- 
+layout: post 
+title: "A Method of Sharing Sentence Vectors for Opinion Triplet Extraction" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "W Liu, J Hu, S Du, H Chen, F Teng - Neural Processing Letters, 2022" 
+--- 
+The aspect-based sentiment analysis (ABSA) task mainly detects the sentiment polarities of aspect terms, or achieves the aspect-opinion co-extraction. Existing ABSA methods usually divide the task into two independent sub-tasks to execute separately, which will result in getting many meaningless pairs due to the following two reasons: the aspect-sentiment pairs extraction task has no reference opinion terms for the interaction, and the aspect-opinion co-extraction task has no reference Cites: Entity, relation, and event extraction with contextualized span

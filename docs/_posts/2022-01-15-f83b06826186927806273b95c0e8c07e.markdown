@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Scaling Knowledge Graph Embedding Models"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "N Sheikh, X Qin, B Reinwald, C Lei - arXiv preprint arXiv:2201.02791, 2022"
----
+--- 
+layout: post 
+title: "Scaling Knowledge Graph Embedding Models" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "N Sheikh, X Qin, B Reinwald, C Lei - arXiv preprint arXiv:2201.02791, 2022" 
+--- 
 Developing scalable solutions for training Graph Neural Networks (GNNs) for link prediction tasks is challenging due to the high data dependencies which entail high computational cost and huge memory footprint. We propose a new method for scaling training of knowledge graph embedding models for link prediction to address these challenges. Towards this end, we propose the following algorithmic strategies: self-sufficient partitions, constraint-based negative sampling, and edge mini-batch Cites: Embedding entities and relations for learning and inference in

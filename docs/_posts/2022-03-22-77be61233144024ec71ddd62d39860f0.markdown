@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "S Wang, Y Xu, Y Fang, Y Liu, S Sun, R Xu, C Zhu - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "S Wang, Y Xu, Y Fang, Y Liu, S Sun, R Xu, C Zhu - arXiv preprint arXiv , 2022" 
+--- 
 Retrieval-based methods have been shown to be effective in NLP tasks via introducing external knowledge. However, the indexing and retrieving of large-scale corpora bring considerable computational cost. Surprisingly, we found that REtrieving from the traINing datA (REINA) only can lead to significant gains on multiple NLG and NLU tasks. We retrieve the labeled training instances most similar to the input text and then concatenate them with the input to feed into the model to Cites: Paq: 65 million probably-asked questions and what you can do

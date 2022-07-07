@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "B Andrus, Y Nasiri, J Cui, B Cullen, N Fulda - 2022"
----
+--- 
+layout: post 
+title: "Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "B Andrus, Y Nasiri, J Cui, B Cullen, N Fulda - 2022" 
+--- 
 Large transformer-based language models have achieved incredible success at various tasks which require narrative comprehension, including story completion, answering questions about stories, and generating stories ex nihilo. However, due to the limitations of finite context windows, these language models struggle to produce or understand stories longer than several thousand tokens. In order to mitigate the document length limitations that come with finite context windows, we introduce a Cites: Retrieval augmented language model pre-training

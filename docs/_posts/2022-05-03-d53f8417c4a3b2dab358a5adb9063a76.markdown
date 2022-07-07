@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Counterfactual explanations and how to find them: literature review and benchmarking"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "R Guidotti - Data Mining and Knowledge Discovery, 2022"
----
+--- 
+layout: post 
+title: "Counterfactual explanations and how to find them: literature review and benchmarking" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "R Guidotti - Data Mining and Knowledge Discovery, 2022" 
+--- 
 Interpretable machine learning aims at unveiling the reasons behind predictions returned by uninterpretable classifiers. One of the most valuable types of explanation consists of counterfactuals. A counterfactual explanation reveals what should have been different in an instance to observe a diverse outcome. For instance, a bank customer asks for a loan that is rejected. The counterfactual explanation consists of what should have been different for the customer in order to have the loan accepted Cites: Polyjuice: Generating counterfactuals for explaining, evaluating

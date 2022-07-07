@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Information-Theoretic Bias Reduction via Causal View of Spurious Correlation"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "S Seo, JY Lee, B Han - arXiv preprint arXiv:2201.03121, 2022"
----
+--- 
+layout: post 
+title: "Information-Theoretic Bias Reduction via Causal View of Spurious Correlation" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "S Seo, JY Lee, B Han - arXiv preprint arXiv:2201.03121, 2022" 
+--- 
 We propose an information-theoretic bias measurement technique through a causal interpretation of spurious correlation, which is effective to identify the feature-level algorithmic bias by taking advantage of conditional mutual information. Although several bias measurement methods have been proposed and widely investigated to achieve algorithmic fairness in various tasks such as face recognition, their accuracy- or logit-based metrics are susceptible to leading to trivial prediction score adjustment Cites: An investigation of why overparameterization exacerbates

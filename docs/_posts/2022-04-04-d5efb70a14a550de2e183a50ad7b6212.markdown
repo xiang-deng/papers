@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Continuous Scene Representations for Embodied AI"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "SY Gadre, K Ehsani, S Song, R Mottaghi - arXiv preprint arXiv:2203.17251, 2022"
----
+--- 
+layout: post 
+title: "Continuous Scene Representations for Embodied AI" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "SY Gadre, K Ehsani, S Song, R Mottaghi - arXiv preprint arXiv:2203.17251, 2022" 
+--- 
 We propose Continuous Scene Representations (CSR), a scene representation constructed by an embodied agent navigating within a space, where objects and their relationships are modeled by continuous valued embeddings. Our method captures feature relationships between objects, composes them into a graph structure on-the-fly, and situates an embodied agent within the representation. Our key insight is to embed pair-wise relationships between objects in a latent space Cites: Neural motifs: Scene graph parsing with global context

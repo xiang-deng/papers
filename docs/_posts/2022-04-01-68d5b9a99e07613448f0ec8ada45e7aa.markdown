@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Out-of-order backprop: an effective scheduling technique for deep learning"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "H Oh, J Lee, H Kim, J Seo - Proceedings of the Seventeenth European Conference , 2022"
----
+--- 
+layout: post 
+title: "Out-of-order backprop: an effective scheduling technique for deep learning" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "H Oh, J Lee, H Kim, J Seo - Proceedings of the Seventeenth European Conference , 2022" 
+--- 
 Neural network training requires a large amount of computation and thus GPUs are often used for the acceleration. While they improve the performance, GPUs are underutilized during the training. This paper proposes out-of-order (ooo) back-prop, an effective scheduling technique for neural network training. By exploiting the dependencies of gradient computations, ooo backprop enables to reorder their executions to make the most of the GPU resources. We show that the GPU utilization Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

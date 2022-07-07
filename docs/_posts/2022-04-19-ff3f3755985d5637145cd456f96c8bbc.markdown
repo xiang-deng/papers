@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "H Wang, C Xu, J McAuley - arXiv preprint arXiv:2204.06305, 2022"
----
+--- 
+layout: post 
+title: "Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "H Wang, C Xu, J McAuley - arXiv preprint arXiv:2204.06305, 2022" 
+--- 
 Prompt-based learning (ie, prompting) is an emerging paradigm for exploiting knowledge learned by a pretrained language model. In this paper, we propose Automatic Multi-Label Prompting (AMuLaP), a simple yet effective method to automatically select label mappings for few-shot text classification with prompting. Our method exploits one-to-many label mappings and a statistics-based algorithm to select label mappings given a prompt template. Our experiments demonstrate that Cites: Language models as knowledge bases?

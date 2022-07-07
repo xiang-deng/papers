@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Compression of Generative Pre-trained Language Models via Quantization"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "C Tao, L Hou, W Zhang, L Shang, X Jiang, Q Liu, P Luo - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Compression of Generative Pre-trained Language Models via Quantization" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "C Tao, L Hou, W Zhang, L Shang, X Jiang, Q Liu, P Luo - arXiv preprint arXiv , 2022" 
+--- 
 The increasing size of generative Pre-trained Language Models (PLMs) has greatly increased the demand for model compression. Despite various methods to compress BERT or its variants, there are few attempts to compress generative PLMs, and the underlying difficulty remains unclear. In this paper, we compress generative PLMs by quantization. We find that previous quantization methods fail on generative tasks due to the textit {homogeneous word embeddings} caused by reduced capacity, and textit Cites: Don t give me the details, just the summary! topic-aware

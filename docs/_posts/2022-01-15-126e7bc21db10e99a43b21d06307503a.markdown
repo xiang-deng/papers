@@ -1,8 +1,8 @@
----
-layout: post
-title:  "MistralA Journey towards Reproducible Language Model Training"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "S Karamcheti, L Orr, T Hashimoto, D Jurafsky"
----
+--- 
+layout: post 
+title: "MistralA Journey towards Reproducible Language Model Training" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "S Karamcheti, L Orr, T Hashimoto, D Jurafsky" 
+--- 
 We introduce and describe our journey towards building Mistral, our code and infrastructure for training moderate scale GPT models in a plug-and-play fashion. We also release artifacts5 GPT-2 Small/5 GPT-2 Medium models, with different random seeds and 600+ granular checkpoints per run!tl; dr:: We are the development team (colloquially referred to as the Propulsion team) for the Center for Research on Foundation Models (CRFM). We are incredibly excited to introduce Mistrala Cites: Defending against neural fake news

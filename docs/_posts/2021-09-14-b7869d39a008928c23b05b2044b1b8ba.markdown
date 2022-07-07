@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "D Wilmot, F Keller - arXiv preprint arXiv:2109.03754, 2021"
----
+--- 
+layout: post 
+title: "Memory and Knowledge Augmented Language Models for Inferring Salience in Long-Form Stories" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "D Wilmot, F Keller - arXiv preprint arXiv:2109.03754, 2021" 
+--- 
 Measuring event salience is essential in the understanding of stories. This paper takes a recent unsupervised method for salience detection derived from Barthes Cardinal Functions and theories of surprise and applies it to longer narrative forms. We improve the standard transformer language model by incorporating an external knowledgebase (derived from Retrieval Augmented Generation) and adding a memory mechanism to enhance performance on longer works. We use a novel Cites: Dense Passage Retrieval for Open-Domain Question Answering

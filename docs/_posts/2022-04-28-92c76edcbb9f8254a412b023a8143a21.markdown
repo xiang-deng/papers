@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Session-Based Recommender Systems"
-date:   2022-04-28 04:54:27 -0400
-categories: jekyll update
-author: "D Jannach, M Quadrana, P Cremonesi - Recommender Systems Handbook, 2022"
----
+--- 
+layout: post 
+title: "Session-Based Recommender Systems" 
+date: 2022-04-28 04:54:27 -0400 
+categories: jekyll update 
+author: "D Jannach, M Quadrana, P Cremonesi - Recommender Systems Handbook, 2022" 
+--- 
 In session-based recommendation scenarios, the goal is to tailor the suggestions that are made to the users according to their assumed short-term intents during an ongoing usage session. The main inputs in such settings consists of (1) the sequence of interactions with an individual user that were observed by the system since the session started,(2) information about past sessions by other users. Typical application scenarios can, for example, be found in the e-commerce domain, where Cites: Learning Phrase Representations using RNN Encoder-Decoder

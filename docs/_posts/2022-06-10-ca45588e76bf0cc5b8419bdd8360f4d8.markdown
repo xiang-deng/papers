@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LELNER: A lightweight and effective low-resource named entity recognition model"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "Z Zhang, H Zhang, Q Wan, J Liu - Knowledge-Based Systems, 2022"
----
-Named entity recognition aims to find the target entity from the input sentence and determine the category it belongs to. Low-resource means that the training data used by the model is scarce. In order to improve the performance of the model with a small quantity of labeled data, previous works propose the concept of the trigger and introduce trigger information. Despite their excellent performance, these methods still have shortcomings in trigger representation generation, information fusion and  Cites: Deep contextualized word representations
+--- 
+layout: post 
+title: "LELNER: A lightweight and effective low-resource named entity recognition model" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "Z Zhang, H Zhang, Q Wan, J Liu - Knowledge-Based Systems, 2022" 
+--- 
+Named entity recognition aims to find the target entity from the input sentence and determine the category it belongs to. Low-resource means that the training data used by the model is scarce. In order to improve the performance of the model with a small quantity of labeled data, previous works propose the concept of the trigger and introduce trigger information. Despite their excellent performance, these methods still have shortcomings in trigger representation generation, information fusion and Cites: Deep contextualized word representations

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Span Classification with Structured Information for Disfluency Detection in Spoken Utterances"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "S Ghosh, S Kumar, YK Singla, RR Shah, S Umesh - arXiv preprint arXiv:2203.16028, 2022"
----
+--- 
+layout: post 
+title: "Span Classification with Structured Information for Disfluency Detection in Spoken Utterances" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "S Ghosh, S Kumar, YK Singla, RR Shah, S Umesh - arXiv preprint arXiv:2203.16028, 2022" 
+--- 
 Existing approaches in disfluency detection focus on solving a token-level classification task for identifying and removing disfluencies in text. Moreover, most works focus on leveraging only contextual information captured by the linear sequences in text, thus ignoring the structured information in text which is efficiently captured by dependency trees. In this paper, building on the span classification paradigm of entity recognition, we propose a novel architecture for detecting Cites: Disfluency detection with a semi-markov model and prosodic

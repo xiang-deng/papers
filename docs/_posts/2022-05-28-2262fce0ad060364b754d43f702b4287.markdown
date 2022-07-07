@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Prompt-and-Rerank: A Method for Zero-Shot and Few-Shot Arbitrary Textual Style Transfer with Small Language Models"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "M Suzgun, L Melas-Kyriazi, D Jurafsky - arXiv preprint arXiv:2205.11503, 2022"
----
-We propose a method for arbitrary textual style transfer (TST)--the task of transforming a text into any given style--utilizing general-purpose pre-trained language models. Our method, Prompt-and-Rerank, is based on a mathematical formulation of the TST task, decomposing it into three constituent components: textual similarity, target style strength, and fluency. Specifically, our method first uses zero-shot or few-shot prompting to obtain a set of candidate generations in the target  Cites: Reformulating Unsupervised Style Transfer as Paraphrase
+--- 
+layout: post 
+title: "Prompt-and-Rerank: A Method for Zero-Shot and Few-Shot Arbitrary Textual Style Transfer with Small Language Models" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "M Suzgun, L Melas-Kyriazi, D Jurafsky - arXiv preprint arXiv:2205.11503, 2022" 
+--- 
+We propose a method for arbitrary textual style transfer (TST)--the task of transforming a text into any given style--utilizing general-purpose pre-trained language models. Our method, Prompt-and-Rerank, is based on a mathematical formulation of the TST task, decomposing it into three constituent components: textual similarity, target style strength, and fluency. Specifically, our method first uses zero-shot or few-shot prompting to obtain a set of candidate generations in the target Cites: Reformulating Unsupervised Style Transfer as Paraphrase

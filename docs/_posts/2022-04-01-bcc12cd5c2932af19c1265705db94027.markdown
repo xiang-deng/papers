@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "E Aghazadeh, M Fayyaz, Y Yaghoobzadeh - arXiv preprint arXiv:2203.14139, 2022"
----
+--- 
+layout: post 
+title: "Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "E Aghazadeh, M Fayyaz, Y Yaghoobzadeh - arXiv preprint arXiv:2203.14139, 2022" 
+--- 
 Human languages are full of metaphorical expressions. Metaphors help people understand the world by connecting new concepts and domains to more familiar ones. Large pre-trained language models (PLMs) are therefore assumed to encode metaphorical knowledge useful for NLP systems. In this paper, we investigate this hypothesis for PLMs, by probing metaphoricity information in their encodings, and by measuring the cross-lingual and cross-dataset generalization of this information. We Cites: Electra: Pre-training text encoders as discriminators rather than

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "NeuPSL: Neural Probabilistic Soft Logic"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "C Pryor, C Dickens, E Augustine, A Albalak, W Wang - arXiv preprint arXiv , 2022"
----
-We present Neural Probabilistic Soft Logic (NeuPSL), a novel neuro-symbolic (NeSy) framework that unites state-of-the-art symbolic reasoning with the low-level perception of deep neural networks. To explicitly model the boundary between neural and symbolic representations, we introduce NeSy Energy-Based Models, a general family of energy-based models that combine neural and symbolic reasoning. Using this framework, we show how to seamlessly integrate neural and symbolic  Cites: Programming with a differentiable forth interpreter
+--- 
+layout: post 
+title: "NeuPSL: Neural Probabilistic Soft Logic" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "C Pryor, C Dickens, E Augustine, A Albalak, W Wang - arXiv preprint arXiv , 2022" 
+--- 
+We present Neural Probabilistic Soft Logic (NeuPSL), a novel neuro-symbolic (NeSy) framework that unites state-of-the-art symbolic reasoning with the low-level perception of deep neural networks. To explicitly model the boundary between neural and symbolic representations, we introduce NeSy Energy-Based Models, a general family of energy-based models that combine neural and symbolic reasoning. Using this framework, we show how to seamlessly integrate neural and symbolic Cites: Programming with a differentiable forth interpreter

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LaMemo: Language Modeling with Look-Ahead Memory"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "H Ji, R Zhang, Z Yang, Z Hu, M Huang - arXiv preprint arXiv:2204.07341, 2022"
----
+--- 
+layout: post 
+title: "LaMemo: Language Modeling with Look-Ahead Memory" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "H Ji, R Zhang, Z Yang, Z Hu, M Huang - arXiv preprint arXiv:2204.07341, 2022" 
+--- 
 Although Transformers with fully connected self-attentions are powerful to model long-term dependencies, they are struggling to scale to long texts with thousands of words in language modeling. One of the solutions is to equip the model with a recurrence memory. However, existing approaches directly reuse hidden states from the previous segment that encodes contexts in a uni-directional way. As a result, this prohibits the memory to dynamically interact with the current context that provides up Cites: Simple Local Attentions Remain Competitive for Long-Context Tasks

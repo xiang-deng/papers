@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A novel end-to-end neural network for simultaneous filtering of task-unrelated named entities and fine-grained typing of task-related named entities"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "Q Li, K Mao, P Li, Y Xu, EYM Lo - Expert Systems with Applications, 2022"
----
-Recently, one emerging problem in Named Entity Typing (NET) is the fine-grained classification of task-related entities co-existing with task-unrelated entities. The traditional pipeline framework decomposes this problem into two sub-tasks. The first sub-task filters out the task-unrelated entities, while the second sub-task performs fine-grained classification for task-related entities. In the present study, we have developed an end-to-end neural network to solve the two sub-tasks simultaneously  Cites: Ultra-fine entity typing
+--- 
+layout: post 
+title: "A novel end-to-end neural network for simultaneous filtering of task-unrelated named entities and fine-grained typing of task-related named entities" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "Q Li, K Mao, P Li, Y Xu, EYM Lo - Expert Systems with Applications, 2022" 
+--- 
+Recently, one emerging problem in Named Entity Typing (NET) is the fine-grained classification of task-related entities co-existing with task-unrelated entities. The traditional pipeline framework decomposes this problem into two sub-tasks. The first sub-task filters out the task-unrelated entities, while the second sub-task performs fine-grained classification for task-related entities. In the present study, we have developed an end-to-end neural network to solve the two sub-tasks simultaneously Cites: Ultra-fine entity typing

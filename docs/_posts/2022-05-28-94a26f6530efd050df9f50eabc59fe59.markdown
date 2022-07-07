@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "R Leluc, F Portier, J Segers, A Zhuman - arXiv preprint arXiv:2205.11890, 2022"
----
-Driven by several successful applications such as in stochastic gradient descent or in Bayesian computation, control variates have become a major tool for Monte Carlo integration. However, standard methods do not allow the distribution of the particles to evolve during the algorithm, as is the case in sequential simulation methods. Within the standard adaptive importance sampling framework, a simple weighted least squares approach is proposed to improve the procedure with control variates  Cites: Action-depedent Control Variates for Policy Optimization via Stein s
+--- 
+layout: post 
+title: "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "R Leluc, F Portier, J Segers, A Zhuman - arXiv preprint arXiv:2205.11890, 2022" 
+--- 
+Driven by several successful applications such as in stochastic gradient descent or in Bayesian computation, control variates have become a major tool for Monte Carlo integration. However, standard methods do not allow the distribution of the particles to evolve during the algorithm, as is the case in sequential simulation methods. Within the standard adaptive importance sampling framework, a simple weighted least squares approach is proposed to improve the procedure with control variates Cites: Action-depedent Control Variates for Policy Optimization via Stein s

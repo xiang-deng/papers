@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Impossible Triangle: What s Next for Pre-trained Language Models?"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "C Zhu, M Zeng - arXiv preprint arXiv:2204.06130, 2022"
----
+--- 
+layout: post 
+title: "Impossible Triangle: What s Next for Pre-trained Language Models?" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "C Zhu, M Zeng - arXiv preprint arXiv:2204.06130, 2022" 
+--- 
 Recent development of large-scale pre-trained language models (PLM) have significantly improved the capability of models in various NLP tasks, in terms of performance after task-specific fine-tuning and zero-shot/few-shot learning. However, many of such models come with a dauntingly huge size that few institutions can afford to pre-train, fine-tune or even deploy, while moderate-sized models usually lack strong generalized few-shot learning capabilities. In this paper, we first Cites: PaLM: Scaling Language Modeling with Pathways

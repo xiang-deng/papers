@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Table-based Fact Verification with Self-adaptive Mixture of Experts"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "Y Zhou, X Liu, K Zhou, J Wu - arXiv preprint arXiv:2204.08753, 2022"
----
+--- 
+layout: post 
+title: "Table-based Fact Verification with Self-adaptive Mixture of Experts" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "Y Zhou, X Liu, K Zhou, J Wu - arXiv preprint arXiv:2204.08753, 2022" 
+--- 
 The table-based fact verification task has recently gained widespread attention and yet remains to be a very challenging problem. It inherently requires informative reasoning over natural language together with different numerical and logical reasoning on tables (eg, count, superlative, comparative). Considering that, we exploit mixture-of-experts and present in this paper a new method: Self-adaptive Mixture-of-Experts Network (SaMoE). Specifically, we have developed a mixture-of Cites: LogicalFactChecker: Leveraging logical operations for fact

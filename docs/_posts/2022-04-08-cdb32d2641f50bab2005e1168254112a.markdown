@@ -1,8 +1,8 @@
----
-layout: post
-title:  "HYPER2: Hyperbolic Embedding for Hyper-Relational Link Prediction"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "S Yan, Z Zhang, X Sun, G Xu, L Jin, S Li - Neurocomputing, 2022"
----
+--- 
+layout: post 
+title: "HYPER2: Hyperbolic Embedding for Hyper-Relational Link Prediction" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "S Yan, Z Zhang, X Sun, G Xu, L Jin, S Li - Neurocomputing, 2022" 
+--- 
 Abstract Knowledge graphs (KGs) Embedding has been broadly studied in recent years. However, less light is shed on the ubiquitous hyper-relational KGs. Most existing hyper-relational KG embedding methods decompose n-ary facts into smaller tuples, undermining the structure of n-ary facts. Moreover, these models always suffer from low expressiveness and high complexity. In this work, to tackle the indecomposability issue, we represent n-ary fact as a hyperedge, keeping the Cites: Semantic parsing via staged query graph generation: Question

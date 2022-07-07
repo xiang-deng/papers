@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Sandbox Tool to Bias (Stress)-Test Fairness Algorithms"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "NJ Akpinar, M Nagireddy, L Stapleton, HF Cheng - arXiv preprint arXiv , 2022"
----
-Motivated by the growing importance of reducing unfairness in ML predictions, Fair- ML researchers have presented an extensive suite of algorithmic  fairness- enhancing  remedies. Most existing algorithms, however, are agnostic to the sources of the observed unfairness. As a result, the literature currently lacks guiding frameworks to specify conditions under which each algorithmic intervention can potentially alleviate the underpinning cause of unfairness. To close this gap, we Cites: Removing spurious features can hurt accuracy and affect groups
+--- 
+layout: post 
+title: "A Sandbox Tool to Bias (Stress)-Test Fairness Algorithms" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "NJ Akpinar, M Nagireddy, L Stapleton, HF Cheng - arXiv preprint arXiv , 2022" 
+--- 
+Motivated by the growing importance of reducing unfairness in ML predictions, Fair- ML researchers have presented an extensive suite of algorithmic fairness- enhancing remedies. Most existing algorithms, however, are agnostic to the sources of the observed unfairness. As a result, the literature currently lacks guiding frameworks to specify conditions under which each algorithmic intervention can potentially alleviate the underpinning cause of unfairness. To close this gap, we Cites: Removing spurious features can hurt accuracy and affect groups

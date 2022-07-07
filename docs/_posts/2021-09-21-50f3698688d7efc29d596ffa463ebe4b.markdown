@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Robust Generalization of Quadratic Neural Networks via Function Identification"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "K Xu, H Bastani, O Bastani"
----
+--- 
+layout: post 
+title: "Robust Generalization of Quadratic Neural Networks via Function Identification" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "K Xu, H Bastani, O Bastani" 
+--- 
 A key challenge facing deep learning is that neural networks are often not robust to shifts in the underlying data distribution. We study this problem from the perspective of the statistical concept of parameter identification. Generalization bounds from learning theory often assume that the test distribution is close to the training distribution. In contrast, if we can identify the true parameters, then the model generalizes to arbitrary distribution shifts. However, neural networks are typically Cites: Wilds: A benchmark of in-the-wild distribution shifts

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Minimax Fairness in Machine Learning"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "NLM Gil - 2022"
----
-The notion of fairness in machine learning has gained significant popularity in the last decades, in part due to the large number of decision-making models that are being deployed on real-world applications, which have presented unwanted behavior. In this work, we analyze fairness in machine learning from a multi-objective optimization perspective, where the goal is to learn a model that achieves a good performance across different groups or demographics. In particular, we analyze how  Cites: Distributionally robust neural networks for group shifts: On the
+--- 
+layout: post 
+title: "Minimax Fairness in Machine Learning" 
+date: 2022-06-23 20:09:31 -0400 
+categories: jekyll update 
+author: "NLM Gil - 2022" 
+--- 
+The notion of fairness in machine learning has gained significant popularity in the last decades, in part due to the large number of decision-making models that are being deployed on real-world applications, which have presented unwanted behavior. In this work, we analyze fairness in machine learning from a multi-objective optimization perspective, where the goal is to learn a model that achieves a good performance across different groups or demographics. In particular, we analyze how Cites: Distributionally robust neural networks for group shifts: On the

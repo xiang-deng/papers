@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Parameter-Efficient and Student-Friendly Knowledge Distillation"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "J Rao, X Meng, L Ding, S Qi, D Tao - arXiv preprint arXiv:2205.15308, 2022"
----
-Knowledge distillation (KD) has been extensively employed to transfer the knowledge from a large teacher model to the smaller students, where the parameters of the teacher are fixed (or partially) during training. Recent studies show that this mode may cause difficulties in knowledge transfer due to the mismatched model capacities. To alleviate the mismatch problem, teacher-student joint training methods, eg, online distillation, have been proposed, but it always requires  Cites: Towards a unified view of parameter-efficient transfer learning
+--- 
+layout: post 
+title: "Parameter-Efficient and Student-Friendly Knowledge Distillation" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "J Rao, X Meng, L Ding, S Qi, D Tao - arXiv preprint arXiv:2205.15308, 2022" 
+--- 
+Knowledge distillation (KD) has been extensively employed to transfer the knowledge from a large teacher model to the smaller students, where the parameters of the teacher are fixed (or partially) during training. Recent studies show that this mode may cause difficulties in knowledge transfer due to the mismatched model capacities. To alleviate the mismatch problem, teacher-student joint training methods, eg, online distillation, have been proposed, but it always requires Cites: Towards a unified view of parameter-efficient transfer learning

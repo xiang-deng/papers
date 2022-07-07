@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Contrastive Document Representation Learning with Graph Attention Networks"
-date:   2021-09-16 19:19:30 -0400
-categories: jekyll update
-author: "PXXCX Ma, ZHB Xiang"
----
+--- 
+layout: post 
+title: "Contrastive Document Representation Learning with Graph Attention Networks" 
+date: 2021-09-16 19:19:30 -0400 
+categories: jekyll update 
+author: "PXXCX Ma, ZHB Xiang" 
+--- 
 Recent progress in pretrained Transformerbased language models has shown great success in learning contextual representation of text. However, due to the quadratic selfattention complexity, most of the pretrained Transformers models can only handle relatively short text. It is still a challenge when it comes to modeling very long documents. In this work, we propose to use a graph attention network on top of the available pretrained Transformers model to learn document embeddings. This graph Cites: Sparse, dense, and attentional representations for text retrieval

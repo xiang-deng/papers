@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "D Deutsch, R Dror, D Roth - arXiv preprint arXiv:2204.10216, 2022"
----
+--- 
+layout: post 
+title: "Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "D Deutsch, R Dror, D Roth - arXiv preprint arXiv:2204.10216, 2022" 
+--- 
 How reliably an automatic summarization evaluation metric replicates human judgments of summary quality is quantified by system-level correlations. We identify two ways in which the definition of the system-level correlation is inconsistent with how metrics are used to evaluate systems in practice and propose changes to rectify this disconnect. First, we calculate the system score for an automatic metric using the full test set instead of the subset of summaries judged by humans, which is currently Cites: Re-evaluating Evaluation in Text Summarization

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge Base Index Compression via Dimensionality and Precision Reduction"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "V Zouhar, M Mosbach, M Zhang, D Klakow - arXiv preprint arXiv:2204.02906, 2022"
----
+--- 
+layout: post 
+title: "Knowledge Base Index Compression via Dimensionality and Precision Reduction" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "V Zouhar, M Mosbach, M Zhang, D Klakow - arXiv preprint arXiv:2204.02906, 2022" 
+--- 
 Recently neural network based approaches to knowledge-intensive NLP tasks, such as question answering, started to rely heavily on the combination of neural retrievers and readers. Retrieval is typically performed over a large textual knowledge base (KB) which requires significant memory and compute resources, especially when scaled up. On HotpotQA we systematically investigate reducing the size of the KB index by means of dimensionality (sparse random projections, PCA, autoencoders) Cites: A memory efficient baseline for open domain question answering

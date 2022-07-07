@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Unknown-Aware Domain Adversarial Learning for Open-Set Domain Adaptation"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "JH Jang, B Na, DH Shin, M Ji, K Song, IC Moon - arXiv preprint arXiv:2206.07551, 2022"
----
-Open-Set Domain Adaptation (OSDA) assumes that a target domain contains unknown classes, which are not discovered in a source domain. Existing domain adversarial learning methods are not suitable for OSDA because distribution matching with\textit {unknown} classes leads to the negative transfer. Previous OSDA methods have focused on matching the source and the target distribution by only utilizing\textit {known} classes. However, this\textit {known}-only matching may fail to  Cites: Understanding self-training for gradual domain adaptation
+--- 
+layout: post 
+title: "Unknown-Aware Domain Adversarial Learning for Open-Set Domain Adaptation" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "JH Jang, B Na, DH Shin, M Ji, K Song, IC Moon - arXiv preprint arXiv:2206.07551, 2022" 
+--- 
+Open-Set Domain Adaptation (OSDA) assumes that a target domain contains unknown classes, which are not discovered in a source domain. Existing domain adversarial learning methods are not suitable for OSDA because distribution matching with\textit {unknown} classes leads to the negative transfer. Previous OSDA methods have focused on matching the source and the target distribution by only utilizing\textit {known} classes. However, this\textit {known}-only matching may fail to Cites: Understanding self-training for gradual domain adaptation

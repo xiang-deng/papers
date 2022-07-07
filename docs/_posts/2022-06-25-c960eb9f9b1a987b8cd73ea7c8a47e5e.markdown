@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Personalized Subgraph Federated Learning"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "J Baek, W Jeong, J Jin, J Yoon, SJ Hwang - arXiv preprint arXiv:2206.10206, 2022"
----
-In real-world scenarios, subgraphs of a larger global graph may be distributed across multiple devices or institutions, and only locally accessible due to privacy restrictions, although there may be links between them. Recently proposed subgraph Federated Learning (FL) methods deal with those missing links across private local subgraphs while distributively training Graph Neural Networks (GNNs) on them. However, they have overlooked the inevitable heterogeneity among subgraphs, caused by  Cites: Graph neural networks: A review of methods and applications
+--- 
+layout: post 
+title: "Personalized Subgraph Federated Learning" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "J Baek, W Jeong, J Jin, J Yoon, SJ Hwang - arXiv preprint arXiv:2206.10206, 2022" 
+--- 
+In real-world scenarios, subgraphs of a larger global graph may be distributed across multiple devices or institutions, and only locally accessible due to privacy restrictions, although there may be links between them. Recently proposed subgraph Federated Learning (FL) methods deal with those missing links across private local subgraphs while distributively training Graph Neural Networks (GNNs) on them. However, they have overlooked the inevitable heterogeneity among subgraphs, caused by Cites: Graph neural networks: A review of methods and applications

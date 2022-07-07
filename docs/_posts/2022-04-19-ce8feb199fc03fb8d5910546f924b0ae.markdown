@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Retrieval-Based Neural Code Generation"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "SAHR Olivier, P Avvaru, PYATG Neubig"
----
+--- 
+layout: post 
+title: "Retrieval-Based Neural Code Generation" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "SAHR Olivier, P Avvaru, PYATG Neubig" 
+--- 
 In models to generate program source code from natural language, representing this code in a tree structure has been a common approach. However, existing methods often fail to generate complex code correctly due to a lack of ability to memorize large and complex structures. We introduce RECODE, a method based on subtree retrieval that makes it possible to explicitly reference existing code examples within a neural code generation model. First, we retrieve sentences that are similar to input Cites: A syntactic neural model for general-purpose code generation

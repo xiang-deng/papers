@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automated Algorithm Selection: from Feature-Based to Feature-Free Approaches"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "M Alissa, K Sim, E Hart - arXiv preprint arXiv:2203.13392, 2022"
----
+--- 
+layout: post 
+title: "Automated Algorithm Selection: from Feature-Based to Feature-Free Approaches" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "M Alissa, K Sim, E Hart - arXiv preprint arXiv:2203.13392, 2022" 
+--- 
 We propose a novel technique for algorithm-selection, applicable to optimisation domains in which there is implicit sequential information encapsulated in the data, eg, in online bin-packing. Specifically we train two types of recurrent neural networks to predict a packing heuristic in online bin-packing, selecting from four well-known heuristics. As input, the RNN methods only use the sequence of item-sizes. This contrasts to typical approaches to algorithm-selection which require a model to be Cites: Learning phrase representations using RNN encoder-decoder for

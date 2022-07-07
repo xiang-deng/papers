@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Efficient Join Order Selection Learning with Graph-based Representation"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "J Chen, G Ye, Y Zhao, S Liu, L Deng, X Chen, R Zhou - 2022"
----
-Join order selection, which aims to find the optimal join order, plays a critical role in DBMS query optimizers. Figure 1 shows an example of join order selection for an SQL query from a database with four tables, ie, T1, T2, T3, T4. There are many possible sequential join orders to execute the query, eg,(T1 T2)(T3 T4),((T1 T2) T3) T4,((T1 T3) T2) T4, etc., from which join order selection aims to find one with the lowest expected cost. With the increase of  Cites: Tree-structured attention with hierarchical accumulation
+--- 
+layout: post 
+title: "Efficient Join Order Selection Learning with Graph-based Representation" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "J Chen, G Ye, Y Zhao, S Liu, L Deng, X Chen, R Zhou - 2022" 
+--- 
+Join order selection, which aims to find the optimal join order, plays a critical role in DBMS query optimizers. Figure 1 shows an example of join order selection for an SQL query from a database with four tables, ie, T1, T2, T3, T4. There are many possible sequential join orders to execute the query, eg,(T1 T2)(T3 T4),((T1 T2) T3) T4,((T1 T3) T2) T4, etc., from which join order selection aims to find one with the lowest expected cost. With the increase of Cites: Tree-structured attention with hierarchical accumulation

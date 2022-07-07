@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge-based BERT: a method to extract molecular features such as computational chemists"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "Z Wu, D Jiang, J Wang, X Zhang, H Du, L Pan - Briefings in Bioinformatics, 2022"
----
+--- 
+layout: post 
+title: "Knowledge-based BERT: a method to extract molecular features such as computational chemists" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "Z Wu, D Jiang, J Wang, X Zhang, H Du, L Pan - Briefings in Bioinformatics, 2022" 
+--- 
 Molecular property prediction models based on machine learning algorithms have become important tools to triage unpromising lead molecules in the early stages of drug discovery. Compared with the mainstream descriptor-and graph-based methods for molecular property predictions, SMILES-based methods can directly extract molecular features from SMILES without human expert knowledge, but they require more powerful algorithms for feature extraction and a larger amount of data Cites: Strategies for pre-training graph neural networks

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Zero-Shot Open Information Extraction using Question Generation and Reading Comprehension"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "H Gupta, A Badugu, T Agrawal, HS Bhatt - arXiv preprint arXiv:2109.08079, 2021"
----
+--- 
+layout: post 
+title: "Zero-Shot Open Information Extraction using Question Generation and Reading Comprehension" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "H Gupta, A Badugu, T Agrawal, HS Bhatt - arXiv preprint arXiv:2109.08079, 2021" 
+--- 
 Typically, Open Information Extraction (OpenIE) focuses on extracting triples, representing a subject, a relation, and the object of the relation. However, most of the existing techniques are based on a predefined set of relations in each domain which limits their applicability to newer domains where these relations may be unknown such as financial documents. This paper presents a zero-shot open information extraction technique that extracts the entities (value) and their descriptions (key) from Cites: Zero-shot relation extraction via reading comprehension

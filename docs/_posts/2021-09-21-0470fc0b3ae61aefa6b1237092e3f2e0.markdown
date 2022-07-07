@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Efficient Attribute Injection for Pretrained Language Models"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "RK Amplayo, KM Yoo, SW Lee - arXiv preprint arXiv:2109.07953, 2021"
----
+--- 
+layout: post 
+title: "Efficient Attribute Injection for Pretrained Language Models" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "RK Amplayo, KM Yoo, SW Lee - arXiv preprint arXiv:2109.07953, 2021" 
+--- 
 Metadata attributes (eg, user and product IDs from reviews) can be incorporated as additional inputs to neural-based NLP models, by modifying the architecture of the models, in order to improve their performance. Recent models however rely on pretrained language models (PLMs), where previously used techniques for attribute injection are either nontrivial or ineffective. In this paper, we propose a lightweight and memory-efficient method to inject attributes to PLMs. We extend adapters, ie tiny Cites: Learning semantic representations of users and products for

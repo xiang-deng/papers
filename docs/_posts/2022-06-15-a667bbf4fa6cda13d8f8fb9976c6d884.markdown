@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sparse Fusion Mixture-of-Experts are Domain Generalizable Learners"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "B Li, J Yang, J Ren, Y Wang, Z Liu - arXiv preprint arXiv:2206.04046, 2022"
----
-Domain generalization (DG) aims at learning generalizable models under distribution shifts to avoid redundantly overfitting massive training data. Previous works with complex loss design and gradient constraint have not yet led to empirical success on large-scale benchmarks. In this work, we reveal the mixture-of-experts (MoE) model s generalizability on DG by leveraging to distributively handle multiple aspects of the predictive features across domains. To this end, we propose Sparse  Cites: Base layers: Simplifying training of large, sparse models
+--- 
+layout: post 
+title: "Sparse Fusion Mixture-of-Experts are Domain Generalizable Learners" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "B Li, J Yang, J Ren, Y Wang, Z Liu - arXiv preprint arXiv:2206.04046, 2022" 
+--- 
+Domain generalization (DG) aims at learning generalizable models under distribution shifts to avoid redundantly overfitting massive training data. Previous works with complex loss design and gradient constraint have not yet led to empirical success on large-scale benchmarks. In this work, we reveal the mixture-of-experts (MoE) model s generalizability on DG by leveraging to distributively handle multiple aspects of the predictive features across domains. To this end, we propose Sparse Cites: Base layers: Simplifying training of large, sparse models

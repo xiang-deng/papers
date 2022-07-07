@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Natural Language Understanding and Generation for Task-Oriented Dialogue"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "BH Tseng - 2022"
----
+--- 
+layout: post 
+title: "Natural Language Understanding and Generation for Task-Oriented Dialogue" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "BH Tseng - 2022" 
+--- 
 The success of deep learning methods has stimulated the rapid development of many NLP research areas. Still, task-oriented dialogue modelling remains challenging due to both the inherent complexity of human language and task difficulty. Moreover, building such systems usually relies on large amounts of data with fine-grained annotations, and in many situations, it is difficult to obtain such data. It is thus important for dialogue systems to learn efficiently in low-resource scenarios Cites: Data-to-text generation with content selection and planning

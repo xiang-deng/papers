@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Mitigating Reporting Bias for Semi-supervised Temporal Commonsense Inference with Probabilistic Soft Logic"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "B Cai, X Ding, B Chen, L Du, T Liu - 2022"
----
+--- 
+layout: post 
+title: "Mitigating Reporting Bias for Semi-supervised Temporal Commonsense Inference with Probabilistic Soft Logic" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "B Cai, X Ding, B Chen, L Du, T Liu - 2022" 
+--- 
 Acquiring high-quality temporal common sense (TCS) knowledge from free-form text is a crucial but challenging problem for event-centric natural language understanding, due to the language reporting bias problem: people rarely report the commonly observed events but highlight the special cases. For example, one may rarely report I get up from bed in 1 minute, but we can observe It takes me an hour to get up from bed every morning in text. Models directly trained upon such corpus Cites: Conditional Generation of Temporally-ordered Event Sequences

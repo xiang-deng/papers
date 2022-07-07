@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "Z Li, P Sharma, XH Lu, JCK Cheung, S Reddy - arXiv preprint arXiv:2204.03025, 2022"
----
+--- 
+layout: post 
+title: "Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "Z Li, P Sharma, XH Lu, JCK Cheung, S Reddy - arXiv preprint arXiv:2204.03025, 2022" 
+--- 
 Most research on question answering focuses on the pre-deployment stage; ie, building an accurate model for deployment. In this paper, we ask the question: Can we improve QA systems further emph {post-} deployment based on user interactions? We focus on two kinds of improvements: 1) improving the QA system s performance itself, and 2) providing the model with the ability to explain the correctness or incorrectness of an answer. We collect a retrieval-based QA dataset Cites: Does the whole exceed its parts? the effect of ai explanations on

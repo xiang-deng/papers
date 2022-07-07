@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Training Dynamics of Neural Language Models"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "N Saphra"
----
+--- 
+layout: post 
+title: "Training Dynamics of Neural Language Models" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "N Saphra" 
+--- 
 Why do artificial neural networks model language so well? We claim that in order to answer this question and understand the biases that lead to such high performing language modelsand all models that handle languagewe must analyze the training process. For decades, linguists have used the tools of developmental linguistics to study human bias towards linguistic structure. Similarly, we wish to consider a neural network s training dynamics, ie, the analysis of training in practice Cites: RNNs can generate bounded hierarchical languages with optimal

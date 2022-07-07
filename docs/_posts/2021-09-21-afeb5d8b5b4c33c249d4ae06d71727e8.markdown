@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Context-aware Entity Typing in Knowledge Graphs"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "W Pan, W Wei, XL Mao - arXiv preprint arXiv:2109.07990, 2021"
----
-Knowledge graph entity typing aims to infer entities  missing types in knowledge graphs which is an important but under-explored issue. This paper proposes a novel method for this task by utilizing entities  contextual information. Specifically, we design two inference mechanisms: i) N2T: independently use each neighbor of an entity to infer its type; ii) Agg2T: aggregate the neighbors of an entity to infer its type. Those mechanisms will produce multiple inference results, and an exponentially Cites: Ultra-fine entity typing
+--- 
+layout: post 
+title: "Context-aware Entity Typing in Knowledge Graphs" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "W Pan, W Wei, XL Mao - arXiv preprint arXiv:2109.07990, 2021" 
+--- 
+Knowledge graph entity typing aims to infer entities missing types in knowledge graphs which is an important but under-explored issue. This paper proposes a novel method for this task by utilizing entities contextual information. Specifically, we design two inference mechanisms: i) N2T: independently use each neighbor of an entity to infer its type; ii) Agg2T: aggregate the neighbors of an entity to infer its type. Those mechanisms will produce multiple inference results, and an exponentially Cites: Ultra-fine entity typing

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Layer Normalizations and Residual Connections in Transformers"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "S Takase, S Kiyono, S Kobayashi, J Suzuki - arXiv preprint arXiv:2206.00330, 2022"
----
-In the perspective of a layer normalization (LN) position, the architecture of Transformers can be categorized into two types: Post-LN and Pre-LN. Recent Transformers prefer to select Pre-LN because the training in Post-LN with deep Transformers, eg, ten or more layers, often becomes unstable, resulting in useless models. However, in contrast, Post-LN has also consistently achieved better performance than Pre-LN in relatively shallow Transformers, eg, six or fewer layers  Cites: Green AI
+--- 
+layout: post 
+title: "On Layer Normalizations and Residual Connections in Transformers" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "S Takase, S Kiyono, S Kobayashi, J Suzuki - arXiv preprint arXiv:2206.00330, 2022" 
+--- 
+In the perspective of a layer normalization (LN) position, the architecture of Transformers can be categorized into two types: Post-LN and Pre-LN. Recent Transformers prefer to select Pre-LN because the training in Post-LN with deep Transformers, eg, ten or more layers, often becomes unstable, resulting in useless models. However, in contrast, Post-LN has also consistently achieved better performance than Pre-LN in relatively shallow Transformers, eg, six or fewer layers Cites: Green AI

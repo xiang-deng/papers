@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Graph Reasoning with Context-Aware Linearization for Interpretable Fact Extraction and Verification"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "N Kotonya, T Spooner, D Magazzeni, F Toni - arXiv preprint arXiv:2109.12349, 2021"
----
+--- 
+layout: post 
+title: "Graph Reasoning with Context-Aware Linearization for Interpretable Fact Extraction and Verification" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "N Kotonya, T Spooner, D Magazzeni, F Toni - arXiv preprint arXiv:2109.12349, 2021" 
+--- 
 This paper presents an end-to-end system for fact extraction and verification using textual and tabular evidence, the performance of which we demonstrate on the FEVEROUS dataset. We experiment with both a multi-task learning paradigm to jointly train a graph attention network for both the task of evidence extraction and veracity prediction, as well as a single objective graph model for solely learning veracity prediction and separate evidence extraction. In both instances, we employ a Cites: Joint Verification and Reranking for Open Fact Checking Over Tables

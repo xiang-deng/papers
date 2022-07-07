@@ -1,8 +1,8 @@
----
-layout: post
-title:  "AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "X Li, G Cheng, Z Chen, Y Sun, Y Qu - arXiv preprint arXiv:2203.08992, 2022"
----
+--- 
+layout: post 
+title: "AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "X Li, G Cheng, Z Chen, Y Sun, Y Qu - arXiv preprint arXiv:2203.08992, 2022" 
+--- 
 Recent machine reading comprehension datasets such as ReClor and LogiQA require performing logical reasoning over text. Conventional neural models are insufficient for logical reasoning, while symbolic reasoners cannot directly apply to text. To meet the challenge, we present a neural-symbolic approach which, to predict an answer, passes messages over a graph representing logical relations between text units. It incorporates an adaptive logic graph network (AdaLoGN) which Cites: Neural logic machines

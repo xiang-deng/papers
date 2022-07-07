@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Constituent Representation with Hypertree Neural Networks"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "H Zhou, G Liu, K Tu"
----
+--- 
+layout: post 
+title: "Improving Constituent Representation with Hypertree Neural Networks" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "H Zhou, G Liu, K Tu" 
+--- 
 Many natural language processing tasks involve text spans and thus high-quality span representations are needed to enhance neural approaches to these tasks. Most existing methods of span representation are based on simple derivations (such as max-pooling) from word representations and do not utilize compositional structures of natural language. In this paper, we aim to improve representations of constituent spans using a novel hypertree neural networks (HTNN) that is structured with Cites: Jointly predicting predicates and arguments in neural semantic

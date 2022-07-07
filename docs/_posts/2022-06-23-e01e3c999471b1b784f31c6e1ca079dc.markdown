@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Kern: A Labeling Environment for Large-Scale, High-Quality Training Data"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "J Htter, H Wenck, M Feuerpfeil, S Witzke -  on Applications of Natural Language to , 2022"
----
-The lack of large-scale, high-quality training data is a significant bottleneck in supervised learning. We introduce kern, a labeling environment used by machine learning experts and subject matter experts to create training data and find manual labeling errors powered by weak supervision, active transfer learning, and confident learning. We explain the current workflow and system overview and showcase the benefits of our system in an intent classification experiment, where we reduce the  Cites: Bert: Pre-training of deep bidirectional transformers for language
+--- 
+layout: post 
+title: "Kern: A Labeling Environment for Large-Scale, High-Quality Training Data" 
+date: 2022-06-23 20:09:31 -0400 
+categories: jekyll update 
+author: "J Htter, H Wenck, M Feuerpfeil, S Witzke - on Applications of Natural Language to , 2022" 
+--- 
+The lack of large-scale, high-quality training data is a significant bottleneck in supervised learning. We introduce kern, a labeling environment used by machine learning experts and subject matter experts to create training data and find manual labeling errors powered by weak supervision, active transfer learning, and confident learning. We explain the current workflow and system overview and showcase the benefits of our system in an intent classification experiment, where we reduce the Cites: Bert: Pre-training of deep bidirectional transformers for language

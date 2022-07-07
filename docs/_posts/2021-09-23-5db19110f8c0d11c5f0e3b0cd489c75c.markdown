@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A multi-task learning network using shared BERT models for aspect-based sentiment analysis"
-date:   2021-09-23 17:17:49 -0400
-categories: jekyll update
-author: "Q LIU, M IWAIHARA"
----
+--- 
+layout: post 
+title: "A multi-task learning network using shared BERT models for aspect-based sentiment analysis" 
+date: 2021-09-23 17:17:49 -0400 
+categories: jekyll update 
+author: "Q LIU, M IWAIHARA" 
+--- 
 Aspect-based sentiment analysis (ABSA) aims to predict the sentiment polarity of specific aspect words occurring in a text. ABSA includes aspect-category sentiment analysis (ACSA) and aspect-target sentiment analysis (ATSA). There have been many previous studies addressing both tasks through RNNs and other neural models. With BERT s remarkable performance on NLP tasks, several studies have enhanced aspect word extraction to solve ATSA by building new BERT-based Cites: Aspect level sentiment classification with deep memory network

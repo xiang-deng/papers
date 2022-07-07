@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Think Before You Speak: Explicitly Generating Implicit Commonsense Knowledge for Response Generation"
-date:   2022-04-06 16:01:31 -0400
-categories: jekyll update
-author: "P Zhou, K Gopalakrishnan, B Hedayatnia, S Kim"
----
+--- 
+layout: post 
+title: "Think Before You Speak: Explicitly Generating Implicit Commonsense Knowledge for Response Generation" 
+date: 2022-04-06 16:01:31 -0400 
+categories: jekyll update 
+author: "P Zhou, K Gopalakrishnan, B Hedayatnia, S Kim" 
+--- 
 Implicit knowledge, such as common sense, is key to fluid human conversations. Current neural response generation (RG) models are trained to generate responses directly, omitting unstated implicit knowledge. In this paper, we present Think-Before- Speaking (TBS), a generative approach to first externalize implicit commonsense knowledge (think) and use this knowledge to generate responses (speak). We expect that externalizing implicit knowledge allows more efficient learning, produces Cites: Neural text generation with unlikelihood training

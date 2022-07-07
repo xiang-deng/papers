@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Crossdomain opinion classification via aspect analysis and attention sharing mechanism"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "RK Singh, MK Sachan, RB Patel - Concurrency and Computation: Practice and"
----
+--- 
+layout: post 
+title: "Crossdomain opinion classification via aspect analysis and attention sharing mechanism" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "RK Singh, MK Sachan, RB Patel - Concurrency and Computation: Practice and" 
+--- 
 The purpose of crossdomain opinion classification is to leverage useful information acquired from the source domain to train a classifier for opinion classification in the target domain, which has a huge amount of unlabeled data. An opinion classifier trained on a specific domain usually acts poorly, when directly employed to another domain. Annotating the data for all the domains is a laborious and costly process. The majority of available approaches are centered on identifying invariant features Cites: Document modeling with gated recurrent neural network for

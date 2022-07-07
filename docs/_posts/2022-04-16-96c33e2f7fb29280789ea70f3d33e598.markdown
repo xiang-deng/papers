@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Pattern-First Pipeline Approach for Entity and Relation Extraction"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "Z Chen, C Guo - Neurocomputing, 2022"
----
+--- 
+layout: post 
+title: "A Pattern-First Pipeline Approach for Entity and Relation Extraction" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "Z Chen, C Guo - Neurocomputing, 2022" 
+--- 
 Entity-relation extraction is the task of extracting entities and their semantic relations from a piece of unstructured text. In recent studies, Machine Reading Comprehension (MRC) based methods have been applied to this task and achieved significant results. As a pipelined approach, these methods always extract head entities first, and then identify related tail entities by enumerating each relationship. These entity-first methods will lead to the entity redundancy problem. They also suffer Cites: A General Framework for Information Extraction using Dynamic

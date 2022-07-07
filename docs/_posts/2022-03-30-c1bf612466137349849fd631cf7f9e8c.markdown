@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Brief Overview of Universal Sentence Representation Methods: A Linguistic View"
-date:   2022-03-30 13:35:09 -0400
-categories: jekyll update
-author: "R Li, X Zhao, MF Moens - ACM Computing Surveys (CSUR), 2022"
----
+--- 
+layout: post 
+title: "A Brief Overview of Universal Sentence Representation Methods: A Linguistic View" 
+date: 2022-03-30 13:35:09 -0400 
+categories: jekyll update 
+author: "R Li, X Zhao, MF Moens - ACM Computing Surveys (CSUR), 2022" 
+--- 
 How to transfer the semantic information in a sentence to a computable numerical embedding form is a fundamental problem in natural language processing. An informative universal sentence embedding can greatly promote subsequent natural language processing tasks. However, unlike universal word embeddings, a widely accepted general-purpose sentence embedding technique has not been developed. This survey summarizes the current universal sentence-embedding methods Cites: Learning distributed representations of sentences from unlabelled

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "F Xu, Q Lin, J Liu, Y Pan, L Zhang - arXiv preprint arXiv:2205.00731, 2022"
----
+--- 
+layout: post 
+title: "Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "F Xu, Q Lin, J Liu, Y Pan, L Zhang - arXiv preprint arXiv:2205.00731, 2022" 
+--- 
 Machine reading comprehension has aroused wide concerns, since it explores the potential of model for text understanding. To further equip the machine with the reasoning capability, the challenging task of logical reasoning is proposed. Previous works on logical reasoning have proposed some strategies to extract the logical units from different aspects. However, there still remains a challenge to model the long distance dependency among the logical units. Also, it is demanding to uncover the Cites: Logic-driven context extension and data augmentation for logical

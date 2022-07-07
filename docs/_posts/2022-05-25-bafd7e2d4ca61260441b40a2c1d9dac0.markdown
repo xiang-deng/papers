@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Data Poisoning Attacks on Off-Policy Policy Evaluation Methods"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "E Lobo, H Singh, M Petrik, C Rudin, H Lakkaraju - The 38th Conference on , 2022"
----
-Off-policy Evaluation (OPE) methods are a crucial tool for evaluating policies in high-stakes domains such as healthcare, where exploration is often infeasible or expensive. However, the extent to which such methods can be trusted under adversarial threats to data quality is largely unexplored. In this work, we make the first attempt at investigating the sensitivity of OPE methods to marginal adversarial perturbations in the data. We design a generic data poisoning attack framework  Cites: Stronger data poisoning attacks break data sanitization defenses
+--- 
+layout: post 
+title: "Data Poisoning Attacks on Off-Policy Policy Evaluation Methods" 
+date: 2022-05-25 22:16:33 -0400 
+categories: jekyll update 
+author: "E Lobo, H Singh, M Petrik, C Rudin, H Lakkaraju - The 38th Conference on , 2022" 
+--- 
+Off-policy Evaluation (OPE) methods are a crucial tool for evaluating policies in high-stakes domains such as healthcare, where exploration is often infeasible or expensive. However, the extent to which such methods can be trusted under adversarial threats to data quality is largely unexplored. In this work, we make the first attempt at investigating the sensitivity of OPE methods to marginal adversarial perturbations in the data. We design a generic data poisoning attack framework Cites: Stronger data poisoning attacks break data sanitization defenses

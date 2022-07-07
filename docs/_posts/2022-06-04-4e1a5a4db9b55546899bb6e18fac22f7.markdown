@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge Transfer between Structured and Unstructured Sources for Complex Question Answering"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "L Mo, Z Wang, J Zhao, H Sun"
----
-Multi-hop question answering (QA) combines multiple pieces of evidence to search for the correct answer. Reasoning over a text corpus (TextQA) and/or a knowledge base (KBQA) has been extensively studied and led to distinct system architectures. However, knowledge transfer between such two QA systems has been under-explored. Research questions like what knowledge is transferred or whether the transferred knowledge can help answer over one source using another one, are yet  Cites: The web as a knowledge-base for answering complex questions
+--- 
+layout: post 
+title: "Knowledge Transfer between Structured and Unstructured Sources for Complex Question Answering" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "L Mo, Z Wang, J Zhao, H Sun" 
+--- 
+Multi-hop question answering (QA) combines multiple pieces of evidence to search for the correct answer. Reasoning over a text corpus (TextQA) and/or a knowledge base (KBQA) has been extensively studied and led to distinct system architectures. However, knowledge transfer between such two QA systems has been under-explored. Research questions like what knowledge is transferred or whether the transferred knowledge can help answer over one source using another one, are yet Cites: The web as a knowledge-base for answering complex questions

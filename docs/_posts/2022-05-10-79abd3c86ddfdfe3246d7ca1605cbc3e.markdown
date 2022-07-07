@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Implicit N-grams Induced by Recurrence"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "X Sun, W Lu - arXiv preprint arXiv:2205.02724, 2022"
----
+--- 
+layout: post 
+title: "Implicit N-grams Induced by Recurrence" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "X Sun, W Lu - arXiv preprint arXiv:2205.02724, 2022" 
+--- 
 Although self-attention based models such as Transformers have achieved remarkable successes on natural language processing (NLP) tasks, recent studies reveal that they have limitations on modeling sequential transformations (Hahn, 2020), which may prompt re-examinations of recurrent neural networks (RNNs) that demonstrated impressive results on handling sequential data. Despite many prior attempts to interpret RNNs, their internal mechanisms have not been fully Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

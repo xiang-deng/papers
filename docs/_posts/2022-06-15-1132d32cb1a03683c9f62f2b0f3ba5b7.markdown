@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning in Distributed Contextual Linear Bandits Without Sharing the Context"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "OA Hanna, LF Yang, C Fragouli - arXiv preprint arXiv:2206.04180, 2022"
----
-Contextual linear bandits is a rich and theoretically important model that has many practical applications. Recently, this setup gained a lot of interest in applications over wireless where communication constraints can be a performance bottleneck, especially when the contexts come from a large $ d $-dimensional space. In this paper, we consider a distributed memoryless contextual linear bandit learning problem, where the agents who observe the contexts and take actions are  Cites: Provably optimal algorithms for generalized linear contextual bandits
+--- 
+layout: post 
+title: "Learning in Distributed Contextual Linear Bandits Without Sharing the Context" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "OA Hanna, LF Yang, C Fragouli - arXiv preprint arXiv:2206.04180, 2022" 
+--- 
+Contextual linear bandits is a rich and theoretically important model that has many practical applications. Recently, this setup gained a lot of interest in applications over wireless where communication constraints can be a performance bottleneck, especially when the contexts come from a large $ d $-dimensional space. In this paper, we consider a distributed memoryless contextual linear bandit learning problem, where the agents who observe the contexts and take actions are Cites: Provably optimal algorithms for generalized linear contextual bandits

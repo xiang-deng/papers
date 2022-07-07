@@ -1,8 +1,8 @@
----
-layout: post
-title:  "KALA: Knowledge-Augmented Language Model Adaptation"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "M Kang, J Baek, SJ Hwang - arXiv preprint arXiv:2204.10555, 2022"
----
+--- 
+layout: post 
+title: "KALA: Knowledge-Augmented Language Model Adaptation" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "M Kang, J Baek, SJ Hwang - arXiv preprint arXiv:2204.10555, 2022" 
+--- 
 Pre-trained language models (PLMs) have achieved remarkable success on various natural language understanding tasks. Simple fine-tuning of PLMs, on the other hand, might be suboptimal for domain-specific tasks because they cannot possibly cover knowledge from all domains. While adaptive pre-training of PLMs can help them obtain domain-specific knowledge, it requires a large training cost. Moreover, adaptive pre-training can harm the PLM s performance on the downstream task by Cites: Demix layers: Disentangling domains for modular language

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "STraTA: Self-Training with Task Augmentation for Better Few-shot Learning"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "T Vu, MT Luong, QV Le, G Simon, M Iyyer - arXiv preprint arXiv:2109.06270, 2021"
----
+--- 
+layout: post 
+title: "STraTA: Self-Training with Task Augmentation for Better Few-shot Learning" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "T Vu, MT Luong, QV Le, G Simon, M Iyyer - arXiv preprint arXiv:2109.06270, 2021" 
+--- 
 Despite their recent successes in tackling many NLP tasks, large-scale pre-trained language models do not perform as well in few-shot settings where only a handful of training examples are available. To address this shortcoming, we propose STraTA

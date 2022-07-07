@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost"
-date:   2022-06-20 23:00:52 -0400
-categories: jekyll update
-author: "Z Li - Computers, Environment and Urban Systems, 2022"
----
-Abstract Machine learning and artificial intelligence (ML/AI), previously considered black box approaches, are becoming more interpretable, as a result of the recent advances in eXplainable AI (XAI). In particular, local interpretation methods such as SHAP (SHapley Additive exPlanations) offer the opportunity to flexibly model, interpret and visualise complex geographical phenomena and processes. In this paper, we use SHAP to interpret XGBoost (eXtreme Gradient Boosting) as an  Cites: " Why Should I Trust You?": Explaining the Predictions of Any
+--- 
+layout: post 
+title: "Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost" 
+date: 2022-06-20 23:00:52 -0400 
+categories: jekyll update 
+author: "Z Li - Computers, Environment and Urban Systems, 2022" 
+--- 
+Abstract Machine learning and artificial intelligence (ML/AI), previously considered black box approaches, are becoming more interpretable, as a result of the recent advances in eXplainable AI (XAI). In particular, local interpretation methods such as SHAP (SHapley Additive exPlanations) offer the opportunity to flexibly model, interpret and visualise complex geographical phenomena and processes. In this paper, we use SHAP to interpret XGBoost (eXtreme Gradient Boosting) as an Cites: " Why Should I Trust You?": Explaining the Predictions of Any

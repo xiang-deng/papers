@@ -1,8 +1,8 @@
----
-layout: post
-title:  "GitTables: A Large-Scale Corpus of Relational Tables"
-date:   2022-04-06 16:01:31 -0400
-categories: jekyll update
-author: "MHS Computing, DS Computing"
----
+--- 
+layout: post 
+title: "GitTables: A Large-Scale Corpus of Relational Tables" 
+date: 2022-04-06 16:01:31 -0400 
+categories: jekyll update 
+author: "MHS Computing, DS Computing" 
+--- 
 The practical success of deep learning has sparked interest in improving relational table tasks, like data search, with models trained on large table corpora. Existing corpora primarily contain tables extracted from HTML pages, limiting the capability to represent offline database tables. To train and evaluate high-capacity models for applications beyond the Web, we need additional resources with tables that resemble relational database tables. Cites: Ten years of webtables

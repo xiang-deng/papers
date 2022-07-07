@@ -1,8 +1,8 @@
----
-layout: post
-title:  "EDIN: An End-to-end Benchmark and Pipeline for Unknown Entity Discovery and Indexing"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "N Kassner, F Petroni, M Plekhanov, S Riedel - arXiv preprint arXiv , 2022"
----
-Existing work on Entity Linking mostly assumes that the reference knowledge base is complete, and therefore all mentions can be linked. In practice this is hardly ever the case, as knowledge bases are incomplete and because novel concepts arise constantly. This paper created the Unknown Entity Discovery and Indexing (EDIN) benchmark where unknown entities, that is entities without a description in the knowledge base and labeled mentions, have to be integrated into an existing entity  Cites: Zero-shot entity linking by reading entity descriptions
+--- 
+layout: post 
+title: "EDIN: An End-to-end Benchmark and Pipeline for Unknown Entity Discovery and Indexing" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "N Kassner, F Petroni, M Plekhanov, S Riedel - arXiv preprint arXiv , 2022" 
+--- 
+Existing work on Entity Linking mostly assumes that the reference knowledge base is complete, and therefore all mentions can be linked. In practice this is hardly ever the case, as knowledge bases are incomplete and because novel concepts arise constantly. This paper created the Unknown Entity Discovery and Indexing (EDIN) benchmark where unknown entities, that is entities without a description in the knowledge base and labeled mentions, have to be integrated into an existing entity Cites: Zero-shot entity linking by reading entity descriptions

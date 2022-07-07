@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "Y Xiao, L Wu, J Guo, J Li, M Zhang, T Qin, T Liu - arXiv preprint arXiv:2204.09269, 2022"
----
+--- 
+layout: post 
+title: "A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "Y Xiao, L Wu, J Guo, J Li, M Zhang, T Qin, T Liu - arXiv preprint arXiv:2204.09269, 2022" 
+--- 
 Non-autoregressive (NAR) generation, which is first proposed in neural machine translation (NMT) to speed up inference, has attracted much attention in both machine learning and natural language processing communities. While NAR generation can significantly accelerate inference speed for machine translation, the speedup comes at the cost of sacrificed translation accuracy compared to its counterpart, auto-regressive (AR) generation. In recent years, many new models and Cites: Non-autoregressive dialog state tracking

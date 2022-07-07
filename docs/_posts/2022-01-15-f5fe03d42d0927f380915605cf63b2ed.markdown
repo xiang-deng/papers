@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Black-Box Tuning for Language-Model-as-a-Service"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "T Sun, Y Shao, H Qian, X Huang, X Qiu - arXiv preprint arXiv:2201.03514, 2022"
----
+--- 
+layout: post 
+title: "Black-Box Tuning for Language-Model-as-a-Service" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "T Sun, Y Shao, H Qian, X Huang, X Qiu - arXiv preprint arXiv:2201.03514, 2022" 
+--- 
 Extremely large pre-trained language models (PTMs) such as GPT-3 are usually released as a service, allowing users to design task-specific prompts to query the PTMs through some black-box APIs. In such a scenario, which we call Language- Model-as-a-Service (LMaaS), gradients of the PTMs are usually not available. Can we optimize the task prompts by only accessing the model inference APIs? Based on recent observations that large PTMs have a very low intrinsic dimensionality, this Cites: Prefix-tuning: Optimizing continuous prompts for generation

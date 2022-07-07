@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On the Paradox of Learning to Reason from Data"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "H Zhang, LH Li, T Meng, KW Chang, GV Broeck - arXiv preprint arXiv:2205.11502, 2022"
----
-Logical reasoning is needed in a wide range of NLP tasks. Can a BERT model be trained end-to-end to solve logical reasoning problems presented in natural language? We attempt to answer this question in a confined problem space where there exists a set of parameters that perfectly simulates logical reasoning. We make observations that seem to contradict each other: BERT attains near-perfect accuracy on in-distribution test examples while failing to generalize to other data distributions  Cites: Back to Square One: Artifact Detection, Training and
+--- 
+layout: post 
+title: "On the Paradox of Learning to Reason from Data" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "H Zhang, LH Li, T Meng, KW Chang, GV Broeck - arXiv preprint arXiv:2205.11502, 2022" 
+--- 
+Logical reasoning is needed in a wide range of NLP tasks. Can a BERT model be trained end-to-end to solve logical reasoning problems presented in natural language? We attempt to answer this question in a confined problem space where there exists a set of parameters that perfectly simulates logical reasoning. We make observations that seem to contradict each other: BERT attains near-perfect accuracy on in-distribution test examples while failing to generalize to other data distributions Cites: Back to Square One: Artifact Detection, Training and

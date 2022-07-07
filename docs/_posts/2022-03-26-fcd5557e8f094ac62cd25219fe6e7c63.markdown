@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Probing Factually Grounded Content Transfer with Factual Ablation"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "P West, C Quirk, M Galley, Y Choi - arXiv preprint arXiv:2203.10133, 2022"
----
+--- 
+layout: post 
+title: "Probing Factually Grounded Content Transfer with Factual Ablation" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "P West, C Quirk, M Galley, Y Choi - arXiv preprint arXiv:2203.10133, 2022" 
+--- 
 Despite recent success, large neural models often generate factually incorrect text. Compounding this is the lack of a standard automatic evaluation for factuality--it cannot be meaningfully improved if it cannot be measured. Grounded generation promises a path to solving both of these problems: models draw on a reliable external document (grounding) for factual information, simplifying the challenge of factuality. Measuring factuality is also simplified--to factual consistency, testing Cites: Optimizing the factual correctness of a summary: A study of

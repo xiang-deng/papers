@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Large-Scale Multi-Document Summarization with Information Extraction and Compression"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "N Wang, H Liu, D Klabjan - arXiv preprint arXiv:2205.00548, 2022"
----
+--- 
+layout: post 
+title: "Large-Scale Multi-Document Summarization with Information Extraction and Compression" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "N Wang, H Liu, D Klabjan - arXiv preprint arXiv:2205.00548, 2022" 
+--- 
 We develop an abstractive summarization framework independent of labeled data for multiple heterogeneous documents. Unlike existing multi-document summarization methods, our framework processes documents telling different stories instead of documents on the same topic. We also enhance an existing sentence fusion method with a uni-directional language model to prioritize fused sentences with higher sentence probability with the goal of increasing readability. Lastly, we construct a Cites: Sentence centrality revisited for unsupervised summarization

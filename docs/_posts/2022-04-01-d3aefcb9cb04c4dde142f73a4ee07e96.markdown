@@ -1,8 +1,8 @@
----
-layout: post
-title:  "MQDD: Pre-training of Multimodal Question Duplicity Detection for Software Engineering Domain"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "J Paek, J Sido, M Konopk, O Prak - arXiv preprint arXiv:2203.14093, 2022"
----
+--- 
+layout: post 
+title: "MQDD: Pre-training of Multimodal Question Duplicity Detection for Software Engineering Domain" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "J Paek, J Sido, M Konopk, O Prak - arXiv preprint arXiv:2203.14093, 2022" 
+--- 
 This work proposes a new pipeline for leveraging data collected on the Stack Overflow website for pre-training a multimodal model for searching duplicates on question answering websites. Our multimodal model is trained on question descriptions and source codes in multiple programming languages. We design two new learning objectives to improve duplicate detection capabilities. The result of this work is a mature, fine-tuned Multimodal Question Duplicity Detection (MQDD) model Cites: A syntactic neural model for general-purpose code generation

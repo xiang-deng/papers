@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Toward Semi-Supervised Graphical Object Detection in Document Images"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "G Kallempudi, KA Hashmi, A Pagani, M Liwicki - Future Internet, 2022"
----
-The graphical page object detection classifies and localizes objects such as Tables and Figures in a document. As deep learning techniques for object detection become increasingly successful, many supervised deep neural network-based methods have been introduced to recognize graphical objects in documents. However, these models necessitate a substantial amount of labeled data for the training process. This paper presents an end-to-end semi-supervised framework for graphical object  Cites: Unsupervised data augmentation for consistency training
+--- 
+layout: post 
+title: "Toward Semi-Supervised Graphical Object Detection in Document Images" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "G Kallempudi, KA Hashmi, A Pagani, M Liwicki - Future Internet, 2022" 
+--- 
+The graphical page object detection classifies and localizes objects such as Tables and Figures in a document. As deep learning techniques for object detection become increasingly successful, many supervised deep neural network-based methods have been introduced to recognize graphical objects in documents. However, these models necessitate a substantial amount of labeled data for the training process. This paper presents an end-to-end semi-supervised framework for graphical object Cites: Unsupervised data augmentation for consistency training

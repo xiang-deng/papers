@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Comparative Survey of Deep Active Learning"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "X Zhan, Q Wang, K Huang, H Xiong, D Dou, AB Chan - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "A Comparative Survey of Deep Active Learning" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "X Zhan, Q Wang, K Huang, H Xiong, D Dou, AB Chan - arXiv preprint arXiv , 2022" 
+--- 
 Active Learning (AL) is a set of techniques for reducing labeling cost by sequentially selecting data samples from a large unlabeled data pool for labeling. Meanwhile, Deep Learning (DL) is data-hungry, and the performance of DL models scales monotonically with more training data. Therefore, in recent years, Deep Active Learning (DAL) has risen as feasible solutions for maximizing model performance while minimizing the expensive labeling cost. Abundant methods have sprung up Cites: Mind your outliers! investigating the negative impact of outliers on

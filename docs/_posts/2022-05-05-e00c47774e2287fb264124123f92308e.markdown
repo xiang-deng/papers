@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LDGC-SR: Integrating long-range dependencies and global context information for session-based recommendation"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "N Qiu, BY Gao, H Tu, F Huang, Q Guan, W Luo - Knowledge-Based Systems, 2022"
----
+--- 
+layout: post 
+title: "LDGC-SR: Integrating long-range dependencies and global context information for session-based recommendation" 
+date: 2022-05-05 02:23:22 -0400 
+categories: jekyll update 
+author: "N Qiu, BY Gao, H Tu, F Huang, Q Guan, W Luo - Knowledge-Based Systems, 2022" 
+--- 
 Graph neural networks (GNN) have been applied in the session-based recommendation, which aims to predict the potential items the user will interact with next time based on the given anonymous interaction sequences. Most advanced GNN-based recommendation methods (eg, LESSR, SGNN-HN and GCE-GNN) focus on how to either capture long-range dependencies or use global context information to enhance the recommendation performance. However, these approaches do not Cites: Empirical evaluation of gated recurrent neural networks on

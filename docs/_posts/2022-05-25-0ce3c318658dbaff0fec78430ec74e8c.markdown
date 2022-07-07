@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-Constrained Embedding for Accurate Community Detection on Undirected Networks"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "Q Wang, X Liu, T Shang, Z Liu, H Yang, X Luo - IEEE Transactions on Network , 2022"
----
-A Symmetric Non-negative Matrix Factorization (SNMF)-based network embedding model adopts a unique Latent Factor (LF) matrix for describing the symmetry of an undirected network, which reduces its representation ability to the target network and thus resulting in accuracy loss when performing community detection. To address this issue, this paper proposes a new undirected network embedding model, ie, Alternating Direction Method of Multipliers (ADMM)-based, Modularity, Symmetry and  Cites: Network Representation Learning with Rich Text Information
+--- 
+layout: post 
+title: "Multi-Constrained Embedding for Accurate Community Detection on Undirected Networks" 
+date: 2022-05-25 22:16:33 -0400 
+categories: jekyll update 
+author: "Q Wang, X Liu, T Shang, Z Liu, H Yang, X Luo - IEEE Transactions on Network , 2022" 
+--- 
+A Symmetric Non-negative Matrix Factorization (SNMF)-based network embedding model adopts a unique Latent Factor (LF) matrix for describing the symmetry of an undirected network, which reduces its representation ability to the target network and thus resulting in accuracy loss when performing community detection. To address this issue, this paper proposes a new undirected network embedding model, ie, Alternating Direction Method of Multipliers (ADMM)-based, Modularity, Symmetry and Cites: Network Representation Learning with Rich Text Information

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "P Ke, H Zhou, Y Lin, P Li, J Zhou, X Zhu, M Huang - arXiv preprint arXiv:2204.00862, 2022"
----
+--- 
+layout: post 
+title: "CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "P Ke, H Zhou, Y Lin, P Li, J Zhou, X Zhu, M Huang - arXiv preprint arXiv:2204.00862, 2022" 
+--- 
 Existing reference-free metrics have obvious limitations for evaluating controlled text generation models. Unsupervised metrics can only provide a task-agnostic evaluation result which correlates weakly with human judgments, whereas supervised ones may overfit task-specific data with poor generalization ability to other datasets. In this paper, we propose an unsupervised reference-free metric called CTRLEval, which evaluates controlled text generation from different aspects Cites: DExperts: Decoding-time controlled text generation with experts

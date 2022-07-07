@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards harnessing feature embedding for robust learning with noisy labels"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "C Zhang, L Shen, J Yang, C Gong - Machine Learning, 2022"
----
-The memorization effect of deep neural networks (DNNs) plays a pivotal role in recent label noise learning methods. To exploit this effect, the model prediction-based methods have been widely adopted, which aim to exploit the outputs of DNNs in the early stage of learning to correct noisy labels. However, we observe that the model will make mistakes during label prediction, resulting in unsatisfactory performance. By contrast, the produced features in the early stage of learning show  Cites: Dividemix: Learning with noisy labels as semi-supervised learning
+--- 
+layout: post 
+title: "Towards harnessing feature embedding for robust learning with noisy labels" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "C Zhang, L Shen, J Yang, C Gong - Machine Learning, 2022" 
+--- 
+The memorization effect of deep neural networks (DNNs) plays a pivotal role in recent label noise learning methods. To exploit this effect, the model prediction-based methods have been widely adopted, which aim to exploit the outputs of DNNs in the early stage of learning to correct noisy labels. However, we observe that the model will make mistakes during label prediction, resulting in unsatisfactory performance. By contrast, the produced features in the early stage of learning show Cites: Dividemix: Learning with noisy labels as semi-supervised learning

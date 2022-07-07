@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Span Detection for Vietnamese Aspect-Based Sentiment Analysis"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "KNT Thanh, SH Khai, PP Huynh, LP Luc, DV Nguyen - Proceedings of the 35th , 2021"
----
+--- 
+layout: post 
+title: "Span Detection for Vietnamese Aspect-Based Sentiment Analysis" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "KNT Thanh, SH Khai, PP Huynh, LP Luc, DV Nguyen - Proceedings of the 35th , 2021" 
+--- 
 Aspect-based sentiment analysis plays an essential role in natural language processing and artificial intelligence. Recently, researchers only focused on aspect detection and sentiment classification but ignoring the subtask of detecting user opinion span, which has enormous potential in practical applications. In this paper, we present a new Vietnamese dataset (UIT-ViSD4SA) consisting of 35,396 human- annotated spans on 11,122 feedback comments for evaluating the span detection in Cites: Bidirectional Attention Flow for Machine Comprehension

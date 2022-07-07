@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Highly Parallel Autoregressive Entity Linking with Discriminative Correction"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "N De Cao, W Aziz, I Titov - arXiv preprint arXiv:2109.03792, 2021"
----
+--- 
+layout: post 
+title: "Highly Parallel Autoregressive Entity Linking with Discriminative Correction" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "N De Cao, W Aziz, I Titov - arXiv preprint arXiv:2109.03792, 2021" 
+--- 
 Generative approaches have been recently shown to be effective for both Entity Disambiguation and Entity Linking (ie, joint mention detection and disambiguation). However, the previously proposed autoregressive formulation for EL suffers from i) high computational cost due to a complex (deep) decoder, ii) non-parallelizable decoding that scales with the source sequence length, and iii) the need for training on a large amount of data. In this work, we propose a very efficient approach that Cites: NeurIPS 2020 EfficientQA competition: Systems, analyses and

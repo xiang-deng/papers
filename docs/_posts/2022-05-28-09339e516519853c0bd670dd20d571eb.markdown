@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Discovering Entity Columns of Web Tables Effectively and Efficiently."
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "SIYU CHEN, N WANG - Journal of Information Science & Engineering, 2022"
----
-Compared with traditional relational tables, web tables have no designated key attributes or entity columns, which make them difficult for machines to understand. The effectiveness of existing methods for entity column detection usually depends on the coverage of knowledge base, and efficiency of traversing knowledge base is low. In this paper, we propose a novel framework for discovering entity columns in web tables based on approximate primary functional dependency. We build the table  Cites: Ten years of webtables
+--- 
+layout: post 
+title: "Discovering Entity Columns of Web Tables Effectively and Efficiently." 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "SIYU CHEN, N WANG - Journal of Information Science & Engineering, 2022" 
+--- 
+Compared with traditional relational tables, web tables have no designated key attributes or entity columns, which make them difficult for machines to understand. The effectiveness of existing methods for entity column detection usually depends on the coverage of knowledge base, and efficiency of traversing knowledge base is low. In this paper, we propose a novel framework for discovering entity columns in web tables based on approximate primary functional dependency. We build the table Cites: Ten years of webtables

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "J Hu, S Qian, Q Fang, C Xu - arXiv preprint arXiv:2204.02338, 2022"
----
+--- 
+layout: post 
+title: "MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "J Hu, S Qian, Q Fang, C Xu - arXiv preprint arXiv:2204.02338, 2022" 
+--- 
 Collaborative filtering (CF) is widely used by personalized recommendation systems, which aims to predict the preference of users with historical user-item interactions. In recent years, Graph Neural Networks (GNNs) have been utilized to build CF models and have shown promising performance. Recent state-of-the-art GNN-based CF approaches simply attribute their performance improvement to the high-order neighbor aggregation ability of GNNs. However, we observe that some powerful Cites: Learning with Local and Global Consistency.

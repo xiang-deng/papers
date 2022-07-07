@@ -1,8 +1,8 @@
----
-layout: post
-title:  "What Makes Data-to-Text Generation Hard for Pretrained Language Models?"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "M Keymanesh, A Benton, M Dredze - arXiv preprint arXiv:2205.11505, 2022"
----
-Expressing natural language descriptions of structured facts or relations--data-to-text generation (D2T)--increases the accessibility of structured knowledge repositories. Previous work shows that pre-trained language models (PLMs) perform remarkably well on this task after fine-tuning on a significant amount of task-specific training data. On the other hand, while auto-regressive PLMs can generalize from a few task examples, their efficacy at D2T is largely unexplored. Furthermore, we have an  Cites: Do Massively Pretrained Language Models Make Better Storytellers?
+--- 
+layout: post 
+title: "What Makes Data-to-Text Generation Hard for Pretrained Language Models?" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "M Keymanesh, A Benton, M Dredze - arXiv preprint arXiv:2205.11505, 2022" 
+--- 
+Expressing natural language descriptions of structured facts or relations--data-to-text generation (D2T)--increases the accessibility of structured knowledge repositories. Previous work shows that pre-trained language models (PLMs) perform remarkably well on this task after fine-tuning on a significant amount of task-specific training data. On the other hand, while auto-regressive PLMs can generalize from a few task examples, their efficacy at D2T is largely unexplored. Furthermore, we have an Cites: Do Massively Pretrained Language Models Make Better Storytellers?

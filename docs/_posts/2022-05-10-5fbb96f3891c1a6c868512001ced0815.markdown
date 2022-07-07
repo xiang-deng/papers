@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Faster Rates, Adaptive Algorithms, and Finite-Time Bounds for Linear Composition Optimization and Gradient TD Learning"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "A Raj, P Joulani, A Gyorgy, C Szepesvari - International Conference on Artificial , 2022"
----
+--- 
+layout: post 
+title: "Faster Rates, Adaptive Algorithms, and Finite-Time Bounds for Linear Composition Optimization and Gradient TD Learning" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "A Raj, P Joulani, A Gyorgy, C Szepesvari - International Conference on Artificial , 2022" 
+--- 
 Gradient temporal difference (GTD) algorithms are provably convergent policy evaluation methods for off-policy reinforcement learning. Despite much progress, proper tuning of the stochastic approximation methods used to solve the resulting saddle point optimization problem requires the knowledge of several (unknown) problem-dependent parameters. In this paper we apply adaptive step-size tuning strategies to greatly reduce this dependence on prior knowledge, and provide Cites: Stochastic variance reduction methods for policy evaluation

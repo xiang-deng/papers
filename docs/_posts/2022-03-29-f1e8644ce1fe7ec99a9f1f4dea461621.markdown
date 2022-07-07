@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Chat-Capsule: A Hierarchical Capsule for Dialog-level Emotion Analysis"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "Y Wang, X Meng, Y Liu, A Sun, Y Wang, Y Zheng - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Chat-Capsule: A Hierarchical Capsule for Dialog-level Emotion Analysis" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "Y Wang, X Meng, Y Liu, A Sun, Y Wang, Y Zheng - arXiv preprint arXiv , 2022" 
+--- 
 Many studies on dialog emotion analysis focus on utterance-level emotion only. These models hence are not optimized for dialog-level emotion detection, ie to predict the emotion category of a dialog as a whole. More importantly, these models cannot benefit from the context provided by the whole dialog. In real-world applications, annotations to dialog could fine-grained, including both utterance-level tags (eg speaker type, intent category, and emotion category), and dialog-level tags Cites: Target-dependent sentiment classification with long short term

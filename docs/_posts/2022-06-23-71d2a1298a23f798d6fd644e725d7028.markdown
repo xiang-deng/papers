@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ForBackBench: A Benchmark for Chasing vs. ery-Rewriting"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "A Alhazmi, T Blount, G Konstantinidis"
----
-ABSTRACT The problems of Data Integration/Exchange (DE) and Ontology Based Data Access (OBDA) have been extensively studied across di erent communities. The underlying problem is common: using a number of di erently structured data-sources mapped to a mediating schema/ontology/knowledge-graph, answer a query posed on the latter. In DE, forward-chaining algorithms, collectively known as the chase, transform source data to a new materialised instance that satis es the  Cites: Data integration: After the teenage years
+--- 
+layout: post 
+title: "ForBackBench: A Benchmark for Chasing vs. ery-Rewriting" 
+date: 2022-06-23 20:09:31 -0400 
+categories: jekyll update 
+author: "A Alhazmi, T Blount, G Konstantinidis" 
+--- 
+ABSTRACT The problems of Data Integration/Exchange (DE) and Ontology Based Data Access (OBDA) have been extensively studied across di erent communities. The underlying problem is common: using a number of di erently structured data-sources mapped to a mediating schema/ontology/knowledge-graph, answer a query posed on the latter. In DE, forward-chaining algorithms, collectively known as the chase, transform source data to a new materialised instance that satis es the Cites: Data integration: After the teenage years

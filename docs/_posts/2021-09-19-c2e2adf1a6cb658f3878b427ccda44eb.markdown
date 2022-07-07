@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "T Scholak, N Schucher, D Bahdanau - arXiv preprint arXiv:2109.05093, 2021"
----
+--- 
+layout: post 
+title: "PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "T Scholak, N Schucher, D Bahdanau - arXiv preprint arXiv:2109.05093, 2021" 
+--- 
 Large pre-trained language models for textual data have an unconstrained output space; at each decoding step, they can produce any of 10,000 s of sub-word tokens. When fine-tuned to target constrained formal languages like SQL, these models often generate invalid code, rendering it unusable. We propose PICARD (code and trained

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Span-level Emotion Cause Analysis with Neural Sequence Tagging"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "X Li, W Gao, S Feng, D Wang, S Joty - International Conference on Information and , 2021"
----
+--- 
+layout: post 
+title: "Span-level Emotion Cause Analysis with Neural Sequence Tagging" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "X Li, W Gao, S Feng, D Wang, S Joty - International Conference on Information and , 2021" 
+--- 
 This paper addresses the task of span-level emotion cause analysis (SECA). It is a finer-grained emotion cause analysis (ECA) task, which aims to identify the specific emotion cause span (s) behind certain emotions in text. In this paper, we formalize SECA as a sequence tagging task for which several variants of neural networkbased sequence tagging models to extract specific emotion cause span (s) in the given context. These models combine different types of encoding and decoding Cites: Bert: Pre-training of deep bidirectional transformers for language

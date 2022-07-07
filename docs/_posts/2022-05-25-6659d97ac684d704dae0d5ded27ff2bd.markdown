@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "X Song, S Perel, C Lee, G Kochanski, D Golovin - First Conference on Automated , 2022"
----
-Vizier is the de-facto blackbox optimization service across Google, having optimized some of Google s largest products and research efforts. To operate at the scale of tuning thousands of users  critical systems, Vizier solved key design challenges in providing multiple different features, while remaining fully fault-tolerant. In this paper, we introduce Open Source (OSS) Vizier, a Python-based interface for blackbox optimization and research, based on the Google-internal Vizier infrastructure and  Cites: A full-stack accelerator search technique for vision applications
+--- 
+layout: post 
+title: "Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization" 
+date: 2022-05-25 22:16:33 -0400 
+categories: jekyll update 
+author: "X Song, S Perel, C Lee, G Kochanski, D Golovin - First Conference on Automated , 2022" 
+--- 
+Vizier is the de-facto blackbox optimization service across Google, having optimized some of Google s largest products and research efforts. To operate at the scale of tuning thousands of users critical systems, Vizier solved key design challenges in providing multiple different features, while remaining fully fault-tolerant. In this paper, we introduce Open Source (OSS) Vizier, a Python-based interface for blackbox optimization and research, based on the Google-internal Vizier infrastructure and Cites: A full-stack accelerator search technique for vision applications

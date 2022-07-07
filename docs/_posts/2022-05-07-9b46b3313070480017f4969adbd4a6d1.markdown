@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Debiased Contrastive Learning of Unsupervised Sentence Representations"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "K Zhou, B Zhang, WX Zhao, JR Wen - arXiv preprint arXiv:2205.00656, 2022"
----
+--- 
+layout: post 
+title: "Debiased Contrastive Learning of Unsupervised Sentence Representations" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "K Zhou, B Zhang, WX Zhao, JR Wen - arXiv preprint arXiv:2205.00656, 2022" 
+--- 
 Recently, contrastive learning has been shown to be effective in improving pre- trained language models (PLM) to derive high-quality sentence representations. It aims to pull close positive examples to enhance the alignment while push apart irrelevant negatives for the uniformity of the whole representation space. However, previous works mostly adopt in-batch negatives or sample from training data at random. Such a way may cause the sampling bias that improper negatives (eg false Cites: Whiteningbert: An easy unsupervised sentence embedding

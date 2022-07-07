@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge graph embedding with self adaptive double-limited loss"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "X Zou, X Wang, S Cen, G Dai, C Liu - Knowledge-Based Systems, 2022"
----
-Many well-performing embedding models for knowledge graphs employ a negative sampling framework to complete the representation learning in which the loss function is a critical component in distinguishing between positive and negative triplets. One of the most recently proposed loss functions is the double-limited scoring loss, which sets fixed upper and lower bounds respectively for positive and negative triplets. We find that, for all positive and negative triplets, fixed upper and  Cites: Learning Entity and Relation Embeddings for Knowledge Graph
+--- 
+layout: post 
+title: "Knowledge graph embedding with self adaptive double-limited loss" 
+date: 2022-06-30 03:02:10 -0400 
+categories: jekyll update 
+author: "X Zou, X Wang, S Cen, G Dai, C Liu - Knowledge-Based Systems, 2022" 
+--- 
+Many well-performing embedding models for knowledge graphs employ a negative sampling framework to complete the representation learning in which the loss function is a critical component in distinguishing between positive and negative triplets. One of the most recently proposed loss functions is the double-limited scoring loss, which sets fixed upper and lower bounds respectively for positive and negative triplets. We find that, for all positive and negative triplets, fixed upper and Cites: Learning Entity and Relation Embeddings for Knowledge Graph

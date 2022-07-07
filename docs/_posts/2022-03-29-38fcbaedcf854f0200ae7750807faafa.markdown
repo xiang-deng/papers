@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Input-specific Attention Subnetworks for Adversarial Detection"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "E Biju, A Sriram, P Kumar, MM Khapra - arXiv preprint arXiv:2203.12298, 2022"
----
+--- 
+layout: post 
+title: "Input-specific Attention Subnetworks for Adversarial Detection" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "E Biju, A Sriram, P Kumar, MM Khapra - arXiv preprint arXiv:2203.12298, 2022" 
+--- 
 Self-attention heads are characteristic of Transformer models and have been well studied for interpretability and pruning. In this work, we demonstrate an altogether different utility of attention heads, namely for adversarial detection. Specifically, we propose a method to construct input-specific attention subnetworks (IAS) from which we extract three features to discriminate between authentic and adversarial inputs. The resultant detector significantly improves (by over 7.5%) the state-of-the-art Cites: A structural probe for finding syntax in word representations

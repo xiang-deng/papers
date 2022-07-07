@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "W Chen, P Verga, M de Jong, J Wieting, W Cohen - arXiv preprint arXiv:2204.04581, 2022"
----
+--- 
+layout: post 
+title: "Augmenting Pre-trained Language Models with QA-Memory for Open-Domain Question Answering" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "W Chen, P Verga, M de Jong, J Wieting, W Cohen - arXiv preprint arXiv:2204.04581, 2022" 
+--- 
 Retrieval augmented language models have recently become the standard for knowledge intensive tasks. Rather than relying purely on latent semantics within the parameters of large neural models, these methods enlist a semi-parametric memory to encode an index of knowledge for the model to retrieve over. Most prior work has employed text passages as the unit of knowledge, which has high coverage at the cost of interpretability, controllability, and efficiency. The opposite properties arise in Cites: Domain-matched pre-training tasks for dense retrieval

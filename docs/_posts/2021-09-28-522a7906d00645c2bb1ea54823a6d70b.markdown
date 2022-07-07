@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards Interpretable and Reliable Reading Comprehension: A Pipeline Model with Unanswerability Prediction"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "K Nishida, K Nishida, I Saito, S Yoshida - 2021 International Joint Conference on , 2021"
----
+--- 
+layout: post 
+title: "Towards Interpretable and Reliable Reading Comprehension: A Pipeline Model with Unanswerability Prediction" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "K Nishida, K Nishida, I Saito, S Yoshida - 2021 International Joint Conference on , 2021" 
+--- 
 Multi-hop QA with annotated supporting facts, which is the task of reading comprehension (RC) considering the interpretability of the answer, has been extensively studied. In this study, we define an interpretable reading comprehension (IRC) model as a pipeline model with the capability of predicting unanswerable queries. The IRC model justifies the answer prediction by establishing consistency between the predicted supporting facts and the actual rationale for interpretability Cites: Coarse-to-fine question answering for long documents

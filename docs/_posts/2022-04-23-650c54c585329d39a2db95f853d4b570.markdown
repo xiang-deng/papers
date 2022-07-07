@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Adding an Inception Network to Neural Network Open Information Extraction"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "D Van Le, J Montgomery, K Kirkby, J Scanlan - IEEE Intelligent Systems, 2022"
----
+--- 
+layout: post 
+title: "Adding an Inception Network to Neural Network Open Information Extraction" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "D Van Le, J Montgomery, K Kirkby, J Scanlan - IEEE Intelligent Systems, 2022" 
+--- 
 This paper presents a method to resolve tuples from plain text by adding an inception network, and dependency path embedding to existing neural network methods of Open Information Extraction (Open IE). Inception networks are used in analysis of computer vision, and dependency path embedding in text processing, but neither has been reported with Open IE. Performance was measured on benchmark datasets using two existing Open IE deep learning methods, one using bidirectional Cites: Neural semantic role labeling with dependency path embeddings

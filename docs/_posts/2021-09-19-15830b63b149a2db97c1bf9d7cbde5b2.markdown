@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sunder: Enabling Low-Overhead and Scalable Near-Data Pattern Matching Acceleration"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "E Sadredini, R Rahimi, M Imani, K Skadron - 2021"
----
+--- 
+layout: post 
+title: "Sunder: Enabling Low-Overhead and Scalable Near-Data Pattern Matching Acceleration" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "E Sadredini, R Rahimi, M Imani, K Skadron - 2021" 
+--- 
 Automata processing is an efficient computation model for regular expressions and other forms of sophisticated pattern matching. The demand for high-throughput and real-time pattern matching in many applications, including network intrusion detection and spam filters, has motivated several in-memory architectures for automata processing. Existing in-memory architectures focus on accelerating the pattern-matching kernel, but either fail to support a practical reporting solution or Cites: HARE: Hardware accelerator for regular expressions

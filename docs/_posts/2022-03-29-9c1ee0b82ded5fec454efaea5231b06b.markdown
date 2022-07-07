@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "K Shuster, M Komeili, L Adolphs, S Roller, A Szlam - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "K Shuster, M Komeili, L Adolphs, S Roller, A Szlam - arXiv preprint arXiv , 2022" 
+--- 
 Language models (LMs) have recently been shown to generate more factual responses by employing modularity (Zhou et al., 2021) in combination with retrieval (Adolphs et al., 2021). We extend the recent approach of Adolphs et al.(2021) to include internet search as a module. Our SeeKeR (Search engine-> Knowledge-> Response) method thus applies a single LM to three modular tasks in succession: search, generating knowledge, and generating a final response. We show that, when Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

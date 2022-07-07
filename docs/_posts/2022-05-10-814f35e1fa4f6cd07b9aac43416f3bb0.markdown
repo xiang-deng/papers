@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sampling for Scientific Data Analysis and Reduction"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "A Biswas, S Dutta, TL Turton, J Ahrens - In Situ Visualization for Computational , 2022"
----
+--- 
+layout: post 
+title: "Sampling for Scientific Data Analysis and Reduction" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "A Biswas, S Dutta, TL Turton, J Ahrens - In Situ Visualization for Computational , 2022" 
+--- 
 With exascale supercomputers on the horizon, data-driven in situ data reduction is a very important topic that potentially enables post hoc data visualization, reconstruction, and exploration with the goal of minimal information loss. Sophisticated sampling methods provide a fast approximation to the data that can be used as a preview to the simulation output without the need for full data reconstruction. More detailed analysis can then be performed by reconstructing the Cites: Visualization-aware sampling for very large databases

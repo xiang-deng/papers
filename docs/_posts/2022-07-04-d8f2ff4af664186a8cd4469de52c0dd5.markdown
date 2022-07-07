@@ -1,8 +1,8 @@
----
-layout: post
-title:  "From Zero to Hero: Generating Training Data for Question-To-Cypher Models"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "D Opitz, N Hochgeschwender - 2022 IEEE/ACM 1st International Workshop on , 2022"
----
-Graph databases employ graph structures such as nodes, attributes and edges to model and store relationships among data. To access this data, graph query languages (GQL) such as Cypher are typically used, which might be difficult to master for end-users. In the context of relational databases, sequence to SQL models, which translate natural language questions to SQL queries, have been proposed. While these Neural Machine Translation (NMT) models increase the  Cites: Semantic parsing on freebase from question-answer pairs
+--- 
+layout: post 
+title: "From Zero to Hero: Generating Training Data for Question-To-Cypher Models" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "D Opitz, N Hochgeschwender - 2022 IEEE/ACM 1st International Workshop on , 2022" 
+--- 
+Graph databases employ graph structures such as nodes, attributes and edges to model and store relationships among data. To access this data, graph query languages (GQL) such as Cypher are typically used, which might be difficult to master for end-users. In the context of relational databases, sequence to SQL models, which translate natural language questions to SQL queries, have been proposed. While these Neural Machine Translation (NMT) models increase the Cites: Semantic parsing on freebase from question-answer pairs

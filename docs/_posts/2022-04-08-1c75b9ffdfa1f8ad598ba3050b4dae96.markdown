@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "M Ahn, A Brohan, N Brown, Y Chebotar, O Cortes - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "M Ahn, A Brohan, N Brown, Y Chebotar, O Cortes - arXiv preprint arXiv , 2022" 
+--- 
 Large language models can encode a wealth of semantic knowledge about the world. Such knowledge could be extremely useful to robots aiming to act upon high- level, temporally extended instructions expressed in natural language. However, a significant weakness of language models is that they lack real-world experience, which makes it difficult to leverage them for decision making within a given embodiment. For example, asking a language model to describe how to clean a spill Cites: Piglet: Language grounding through neuro-symbolic interaction in

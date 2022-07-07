@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Chunk-based Nearest Neighbor Machine Translation"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "PH Martins, Z Marinho, AFT Martins - arXiv preprint arXiv:2205.12230, 2022"
----
-Semi-parametric models, which augment generation with retrieval, have led to impressive results in language modeling and machine translation, due to their ability to leverage information retrieved from a datastore of examples. One of the most prominent approaches, $ k $ NN-MT, has an outstanding performance on domain adaptation by retrieving tokens from a domain-specific datastore\citep {khandelwal2020nearest}. However, $ k $ NN-MT requires retrieval for every single  Cites: Topic models for dynamic translation model adaptation
+--- 
+layout: post 
+title: "Chunk-based Nearest Neighbor Machine Translation" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "PH Martins, Z Marinho, AFT Martins - arXiv preprint arXiv:2205.12230, 2022" 
+--- 
+Semi-parametric models, which augment generation with retrieval, have led to impressive results in language modeling and machine translation, due to their ability to leverage information retrieved from a datastore of examples. One of the most prominent approaches, $ k $ NN-MT, has an outstanding performance on domain adaptation by retrieving tokens from a domain-specific datastore\citep {khandelwal2020nearest}. However, $ k $ NN-MT requires retrieval for every single Cites: Topic models for dynamic translation model adaptation

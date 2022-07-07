@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TTAPS: Test-Time Adaption by Aligning Prototypes using Self-Supervision"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "A Bartler, F Bender, F Wiewel, B Yang - arXiv preprint arXiv:2205.08731, 2022"
----
-Nowadays, deep neural networks outperform humans in many tasks. However, if the input distribution drifts away from the one used in training, their performance drops significantly. Recently published research has shown that adapting the model parameters to the test sample can mitigate this performance degradation. In this paper, we therefore propose a novel modification of the self-supervised training algorithm SwAV that adds the ability to adapt to single test samples. Using the  Cites: Improving out-of-distribution generalization via multi-task self
+--- 
+layout: post 
+title: "TTAPS: Test-Time Adaption by Aligning Prototypes using Self-Supervision" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "A Bartler, F Bender, F Wiewel, B Yang - arXiv preprint arXiv:2205.08731, 2022" 
+--- 
+Nowadays, deep neural networks outperform humans in many tasks. However, if the input distribution drifts away from the one used in training, their performance drops significantly. Recently published research has shown that adapting the model parameters to the test sample can mitigate this performance degradation. In this paper, we therefore propose a novel modification of the self-supervised training algorithm SwAV that adds the ability to adapt to single test samples. Using the Cites: Improving out-of-distribution generalization via multi-task self

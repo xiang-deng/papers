@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Human-in-the-Loop Question Answering with Natural Language Interaction"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "AE Ghoneim - 2021"
----
+--- 
+layout: post 
+title: "Human-in-the-Loop Question Answering with Natural Language Interaction" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "AE Ghoneim - 2021" 
+--- 
 Generalizing beyond the training examples is the primary goal of machine learning. In natural language processing (NLP), impressive models struggle to generalize when faced with test examples that differ from the training examples: eg, in genre, domain, or language. I study interactive methods that overcome such limitations by seeking feedback from human users to successfully complete the task at hand and improve over time while on the job. Unlike previous work that adopts simple forms of Cites: SCoRe: Pre-Training for Context Representation in Conversational

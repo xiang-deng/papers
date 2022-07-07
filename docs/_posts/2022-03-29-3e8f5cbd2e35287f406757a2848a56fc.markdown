@@ -1,8 +1,8 @@
----
-layout: post
-title:  "AbductionRules: Training Transformers to Explain Unexpected Inputs"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "N Young, Q Bao, J Bensemann, M Witbrock - arXiv preprint arXiv:2203.12186, 2022"
----
+--- 
+layout: post 
+title: "AbductionRules: Training Transformers to Explain Unexpected Inputs" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "N Young, Q Bao, J Bensemann, M Witbrock - arXiv preprint arXiv:2203.12186, 2022" 
+--- 
 Transformers have recently been shown to be capable of reliably performing logical reasoning over facts and rules expressed in natural language, but abductive reasoning-inference to the best explanation of an unexpected observation-has been underexplored despite significant applications to scientific discovery, common-sense reasoning, and model interpretability. We present AbductionRules, a group of natural language datasets designed to train and test generalisable abduction over natural Cites: Naturalproofs: Mathematical theorem proving in natural language

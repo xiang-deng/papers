@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Annotating Column Type Utilizing BERT and Knowledge Graph Over Wikipedia Categories and Lists"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "J QIN, M IWAIHARA"
----
+--- 
+layout: post 
+title: "Annotating Column Type Utilizing BERT and Knowledge Graph Over Wikipedia Categories and Lists" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "J QIN, M IWAIHARA" 
+--- 
 Automatically annotating semantic type of table column task plays a vital role in the process of information retrieval and NLP tasks. In this paper, given an entity column of a table without a header, we study the problem of predicting its column type using both finetuning on pre-trained BERT model and knowledge graph lookup, integrating the two methods to complement each other s shortcomings. A data augmentation method utilizing similar entities in Wikipedia categories and lists is proposed to fine Cites: Turl: Table understanding through representation learning

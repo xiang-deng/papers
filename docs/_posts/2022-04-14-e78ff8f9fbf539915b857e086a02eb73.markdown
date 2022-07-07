@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Metamorphic testing of named entity recognition systems: A case study"
-date:   2022-04-14 01:14:43 -0400
-categories: jekyll update
-author: "Y Xu, ZQ Zhou, X Zhang, J Wang, M Jiang - IET Software"
----
+--- 
+layout: post 
+title: "Metamorphic testing of named entity recognition systems: A case study" 
+date: 2022-04-14 01:14:43 -0400 
+categories: jekyll update 
+author: "Y Xu, ZQ Zhou, X Zhang, J Wang, M Jiang - IET Software" 
+--- 
 Named entity recognition (NER) is a widely used natural language processing technique; it plays a key role in information extraction from sentences. To be able to test the correctness of NER systems is important, but it is expensive because an automated test oracle is normally unavailable. To address the oracle problem, this study proposes to apply metamorphic testing (MT). The authors conduct a case study with Litigant, an industrial NER system of the Ant Group, and show that MT can Cites: Interpretable Multi-dataset Evaluation for Named Entity Recognition

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Off-Policy Risk Assessment for Markov Decision Processes"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "A Huang, L Leqi, Z Lipton, K Azizzadenesheli - International Conference on Artificial , 2022"
----
+--- 
+layout: post 
+title: "Off-Policy Risk Assessment for Markov Decision Processes" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "A Huang, L Leqi, Z Lipton, K Azizzadenesheli - International Conference on Artificial , 2022" 
+--- 
 Addressing such diverse ends as mitigating safety risks, aligning agent behavior with human preferences, and improving the efficiency of learning, an emerging line of reinforcement learning research addresses the entire distribution of returns and various risk functionals that depend upon it. In the contextual bandit setting, recently work on off-policy risk assessment estimates the target policy s CDF of returns, providing finite sample guarantees that extend to (and hold simultaneously over) Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

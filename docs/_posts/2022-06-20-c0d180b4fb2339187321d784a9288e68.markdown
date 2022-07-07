@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Reinforcement Subgraph Reasoning for Fake News Detection"
-date:   2022-06-20 23:00:52 -0400
-categories: jekyll update
-author: "R Yang, X Wang, Y Jin, C Li, J Lian, X Xie - 2022"
----
-The wide spread of fake news has caused serious societal issues. We propose a subgraph reasoning paradigm for fake news detection, which provides a crystal type of explainability by revealing which subgraphs of the news propagation network are the most important for news verification, and concurrently improves the generalization and discrimination power of graph-based detection models by removing task-irrelevant information. In particular, we propose a reinforced subgraph  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis
+--- 
+layout: post 
+title: "Reinforcement Subgraph Reasoning for Fake News Detection" 
+date: 2022-06-20 23:00:52 -0400 
+categories: jekyll update 
+author: "R Yang, X Wang, Y Jin, C Li, J Lian, X Xie - 2022" 
+--- 
+The wide spread of fake news has caused serious societal issues. We propose a subgraph reasoning paradigm for fake news detection, which provides a crystal type of explainability by revealing which subgraphs of the news propagation network are the most important for news verification, and concurrently improves the generalization and discrimination power of graph-based detection models by removing task-irrelevant information. In particular, we propose a reinforced subgraph Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

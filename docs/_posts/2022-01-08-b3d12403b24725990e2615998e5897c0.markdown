@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Mind Your Solver! On Adversarial Attack and Defense for Combinatorial Optimization"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "H Lu, Z Li, R Wang, Q Ren, J Yan, X Yang - arXiv preprint arXiv:2201.00402, 2021"
----
+--- 
+layout: post 
+title: "Mind Your Solver! On Adversarial Attack and Defense for Combinatorial Optimization" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "H Lu, Z Li, R Wang, Q Ren, J Yan, X Yang - arXiv preprint arXiv:2201.00402, 2021" 
+--- 
 Combinatorial optimization (CO) is a long-standing challenging task not only in its inherent complexity (eg NP-hard) but also the possible sensitivity to input conditions. In this paper, we take an initiative on developing the mechanisms for adversarial attack and defense towards combinatorial optimization solvers, whereby the solver is treated as a black-box function and the original problem s underlying graph structure (which is often available and associated with the problem instance, eg DAG, TSP) is Cites: Adversarial examples for evaluating reading comprehension systems

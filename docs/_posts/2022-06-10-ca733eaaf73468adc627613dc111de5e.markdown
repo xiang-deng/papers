@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Kallima: A Clean-label Framework for Textual Backdoor Attacks"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "X Chen, Y Dong, Z Sun, S Zhai, Q Shen, Z Wu - arXiv preprint arXiv:2206.01832, 2022"
----
-Although Deep Neural Network (DNN) has led to unprecedented progress in various natural language processing (NLP) tasks, research shows that deep models are extremely vulnerable to backdoor attacks. The existing backdoor attacks mainly inject a small number of poisoned samples into the training dataset with the labels changed to the target one. Such mislabeled samples would raise suspicion upon human inspection, potentially revealing the attack. To improve the stealthiness of  Cites: Weight Poisoning Attacks on Pre-trained Models
+--- 
+layout: post 
+title: "Kallima: A Clean-label Framework for Textual Backdoor Attacks" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "X Chen, Y Dong, Z Sun, S Zhai, Q Shen, Z Wu - arXiv preprint arXiv:2206.01832, 2022" 
+--- 
+Although Deep Neural Network (DNN) has led to unprecedented progress in various natural language processing (NLP) tasks, research shows that deep models are extremely vulnerable to backdoor attacks. The existing backdoor attacks mainly inject a small number of poisoned samples into the training dataset with the labels changed to the target one. Such mislabeled samples would raise suspicion upon human inspection, potentially revealing the attack. To improve the stealthiness of Cites: Weight Poisoning Attacks on Pre-trained Models

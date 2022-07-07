@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Exploiting Social Media Content for Self-Supervised Style Transfer"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "D Ruiter, T Kleinbauer, C Espaa-Bonet - arXiv preprint arXiv , 2022"
----
-Recent research on style transfer takes inspiration from unsupervised neural machine translation (UNMT), learning from large amounts of non-parallel data by exploiting cycle consistency loss, back-translation, and denoising autoencoders. By contrast, the use of self-supervised NMT (SSNMT), which leverages (near) parallel instances hidden in non-parallel data more efficiently than UNMT, has not yet been explored for style transfer. In this paper we present a novel Self-Supervised Style  Cites: A Probabilistic Formulation of Unsupervised Text Style Transfer
+--- 
+layout: post 
+title: "Exploiting Social Media Content for Self-Supervised Style Transfer" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "D Ruiter, T Kleinbauer, C Espaa-Bonet - arXiv preprint arXiv , 2022" 
+--- 
+Recent research on style transfer takes inspiration from unsupervised neural machine translation (UNMT), learning from large amounts of non-parallel data by exploiting cycle consistency loss, back-translation, and denoising autoencoders. By contrast, the use of self-supervised NMT (SSNMT), which leverages (near) parallel instances hidden in non-parallel data more efficiently than UNMT, has not yet been explored for style transfer. In this paper we present a novel Self-Supervised Style Cites: A Probabilistic Formulation of Unsupervised Text Style Transfer

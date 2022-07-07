@@ -1,8 +1,8 @@
----
-layout: post
-title:  "How explainable are adversarially-robust CNNs?"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "M Nourelahi, L Kotthoff, P Chen, A Nguyen - arXiv preprint arXiv:2205.13042, 2022"
----
-Three important criteria of existing convolutional neural networks (CNNs) are (1) test-set accuracy;(2) out-of-distribution accuracy; and (3) explainability. While these criteria have been studied independently, their relationship is unknown. For example, do CNNs that have a stronger out-of-distribution performance have also stronger explainability? Furthermore, most prior feature-importance studies only evaluate methods on 2-3 common vanilla ImageNet-trained CNNs, leaving it  Cites: ERASER: A benchmark to evaluate rationalized NLP models
+--- 
+layout: post 
+title: "How explainable are adversarially-robust CNNs?" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "M Nourelahi, L Kotthoff, P Chen, A Nguyen - arXiv preprint arXiv:2205.13042, 2022" 
+--- 
+Three important criteria of existing convolutional neural networks (CNNs) are (1) test-set accuracy;(2) out-of-distribution accuracy; and (3) explainability. While these criteria have been studied independently, their relationship is unknown. For example, do CNNs that have a stronger out-of-distribution performance have also stronger explainability? Furthermore, most prior feature-importance studies only evaluate methods on 2-3 common vanilla ImageNet-trained CNNs, leaving it Cites: ERASER: A benchmark to evaluate rationalized NLP models

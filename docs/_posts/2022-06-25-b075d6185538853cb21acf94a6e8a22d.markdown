@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Stack-Propagation Framework With Slot Filling for Multi-Domain Dialogue State Tracking"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "Y Wang, T He, J Mei, R Fan, X Tu - IEEE Transactions on Neural Networks and , 2022"
----
-Dialogue state tracking (DST) is a core component of task-oriented dialogue systems. Recent works focus mainly on end-to-end DST models that omit the spoken language understanding (SLU) module to directly obtain the dialogue state based on a user s dialogue. However, the slot information detected by slot filling in SLU is closely tied to the slotvalue pair that needs to be updated in DST. Efficient use of the key slot semantic knowledge obtained by slot filling contributes to improving the  Cites: A simple language model for task-oriented dialogue
+--- 
+layout: post 
+title: "A Stack-Propagation Framework With Slot Filling for Multi-Domain Dialogue State Tracking" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "Y Wang, T He, J Mei, R Fan, X Tu - IEEE Transactions on Neural Networks and , 2022" 
+--- 
+Dialogue state tracking (DST) is a core component of task-oriented dialogue systems. Recent works focus mainly on end-to-end DST models that omit the spoken language understanding (SLU) module to directly obtain the dialogue state based on a user s dialogue. However, the slot information detected by slot filling in SLU is closely tied to the slotvalue pair that needs to be updated in DST. Efficient use of the key slot semantic knowledge obtained by slot filling contributes to improving the Cites: A simple language model for task-oriented dialogue

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Embedding Knowledge Graphs with Semantic-Guided Walk"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "H Tang, D Liu, X Xu, F Zhang"
----
-Knowledge graph completion can complete knowledge by predicting missing facts, which is a increasingly hot research topic in knowledge graph construction. Prevalent approaches propose to embed knowledge graphs in a lowdimensional vector space and use these embedding to predict, but they neglect either semantic information or graph structures. We propose a new approach to knowledge graph completion named as ATTWALK, which learns embedding by exploiting both  Cites: Embedding entities and relations for learning and inference in
+--- 
+layout: post 
+title: "Embedding Knowledge Graphs with Semantic-Guided Walk" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "H Tang, D Liu, X Xu, F Zhang" 
+--- 
+Knowledge graph completion can complete knowledge by predicting missing facts, which is a increasingly hot research topic in knowledge graph construction. Prevalent approaches propose to embed knowledge graphs in a lowdimensional vector space and use these embedding to predict, but they neglect either semantic information or graph structures. We propose a new approach to knowledge graph completion named as ATTWALK, which learns embedding by exploiting both Cites: Embedding entities and relations for learning and inference in

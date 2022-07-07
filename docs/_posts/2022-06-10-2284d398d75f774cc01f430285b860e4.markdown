@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "P Ke, H Ji, Z Yang, Y Huang, J Feng, X Zhu, M Huang - arXiv preprint arXiv , 2022"
----
-Despite the success of text-to-text pre-trained models in various natural language generation (NLG) tasks, the generation performance is largely restricted by the number of labeled data in downstream tasks, particularly in data-to-text generation tasks. Existing works mostly utilize abundant unlabeled structured data to conduct unsupervised pre-training for task adaption, which fail to model the complex relationship between source structured data and target texts. Thus, we introduce self  Cites: Promoting graph awareness in linearized graph-to-text generation
+--- 
+layout: post 
+title: "Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "P Ke, H Ji, Z Yang, Y Huang, J Feng, X Zhu, M Huang - arXiv preprint arXiv , 2022" 
+--- 
+Despite the success of text-to-text pre-trained models in various natural language generation (NLG) tasks, the generation performance is largely restricted by the number of labeled data in downstream tasks, particularly in data-to-text generation tasks. Existing works mostly utilize abundant unlabeled structured data to conduct unsupervised pre-training for task adaption, which fail to model the complex relationship between source structured data and target texts. Thus, we introduce self Cites: Promoting graph awareness in linearized graph-to-text generation

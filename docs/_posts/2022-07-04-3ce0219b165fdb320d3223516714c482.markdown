@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Code recommendation based on joint embedded attention network"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "W Wen, T Zhao, S Wang, J Chu, D Kumar Jain - Soft Computing, 2022"
----
-Due to the heterogeneity of program language and natural language query, it is difficult to identify the semantic relationship between them, which leads to the low efficiency of code recommendation. In order to solve the problems of the above code recommendation technology, a code recommendation method based on joint embedded attention network (JEAN) is proposed in this paper. The method uses GRU Network to embed code snippets and describe queries into vector  Cites: Retrieval-based neural code generation
+--- 
+layout: post 
+title: "Code recommendation based on joint embedded attention network" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "W Wen, T Zhao, S Wang, J Chu, D Kumar Jain - Soft Computing, 2022" 
+--- 
+Due to the heterogeneity of program language and natural language query, it is difficult to identify the semantic relationship between them, which leads to the low efficiency of code recommendation. In order to solve the problems of the above code recommendation technology, a code recommendation method based on joint embedded attention network (JEAN) is proposed in this paper. The method uses GRU Network to embed code snippets and describe queries into vector Cites: Retrieval-based neural code generation

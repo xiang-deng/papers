@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Simulating Bandit Learning from User Feedback for Extractive Question Answering"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "G Gao, E Choi, Y Artzi - arXiv preprint arXiv:2203.10079, 2022"
----
+--- 
+layout: post 
+title: "Simulating Bandit Learning from User Feedback for Extractive Question Answering" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "G Gao, E Choi, Y Artzi - arXiv preprint arXiv:2203.10079, 2022" 
+--- 
 We study learning from user feedback for extractive question answering by simulating feedback using supervised data. We cast the problem as contextual bandit learning, and analyze the characteristics of several learning scenarios with focus on reducing data annotation. We show that systems initially trained on a small number of examples can dramatically improve given feedback from users on model- predicted answers, and that one can use existing datasets to deploy systems in new Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

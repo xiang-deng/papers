@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Prompt Consistency for Zero-Shot Task Generalization"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "C Zhou, J He, X Ma, T Berg-Kirkpatrick, G Neubig - arXiv preprint arXiv:2205.00049, 2022"
----
+--- 
+layout: post 
+title: "Prompt Consistency for Zero-Shot Task Generalization" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "C Zhou, J He, X Ma, T Berg-Kirkpatrick, G Neubig - arXiv preprint arXiv:2205.00049, 2022" 
+--- 
 One of the most impressive results of recent NLP history is the ability of pre-trained language models to solve new tasks in a zero-shot setting. To achieve this, NLP tasks are framed as natural language prompts, generating a response indicating the predicted output. Nonetheless, the performance in such settings often lags far behind its supervised counterpart, suggesting a large space for potential improvement. In this paper, we explore methods to utilize unlabeled data to improve zero-shot Cites: HellaSwag: Can a machine really finish your sentence?

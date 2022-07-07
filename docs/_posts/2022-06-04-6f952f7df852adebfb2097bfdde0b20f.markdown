@@ -1,8 +1,8 @@
----
-layout: post
-title:  "CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "ED Abraham, K D Oosterlinck, A Feder, YO Gat - arXiv preprint arXiv , 2022"
----
-The increasing size and complexity of modern ML systems has improved their predictive capabilities but made their behavior harder to explain. Many techniques for model explanation have been developed in response, but we lack clear criteria for assessing these techniques. In this paper, we cast model explanation as the causal inference problem of estimating causal effects of real-world concepts on the output behavior of ML models given actual input data. We introduce CEBaB, a new  Cites: Dynabench: Rethinking benchmarking in NLP
+--- 
+layout: post 
+title: "CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "ED Abraham, K D Oosterlinck, A Feder, YO Gat - arXiv preprint arXiv , 2022" 
+--- 
+The increasing size and complexity of modern ML systems has improved their predictive capabilities but made their behavior harder to explain. Many techniques for model explanation have been developed in response, but we lack clear criteria for assessing these techniques. In this paper, we cast model explanation as the causal inference problem of estimating causal effects of real-world concepts on the output behavior of ML models given actual input data. We introduce CEBaB, a new Cites: Dynabench: Rethinking benchmarking in NLP

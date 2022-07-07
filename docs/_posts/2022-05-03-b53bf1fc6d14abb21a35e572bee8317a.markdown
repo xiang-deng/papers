@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Modern Baselines for SPARQL Semantic Parsing"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "D Banerjee, PA Nair, JN Kaur, R Usbeck, C Biemann - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Modern Baselines for SPARQL Semantic Parsing" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "D Banerjee, PA Nair, JN Kaur, R Usbeck, C Biemann - arXiv preprint arXiv , 2022" 
+--- 
 In this work, we focus on the task of generating SPARQL queries from natural language questions, which can then be executed on Knowledge Graphs (KGs). We assume that gold entity and relations have been provided, and the remaining task is to arrange them in the right order along with SPARQL vocabulary, and input tokens to produce the correct SPARQL query. Pre-trained Language Models (PLMs) have not been explored in depth on this task so far, so we experiment with BART, T5 and Cites: Unlocking compositional generalization in pre-trained models

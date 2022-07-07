@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Dataset Construction for Scientific-Document Writing Support by Extracting Related Work Section and Citations from PDF Papers"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "K Kobayashi, K Koyama, H Narimatsu, Y Minami"
----
-To augment datasets used for scientific-document writing support research, we extract texts from Related Work sections and citation information in PDF-formatted papers published in English. The previous dataset was constructed entirely with Tex-formatted papers, from which it is easy to extract citation information. However, since many publicly available papers in various fields are provided only in PDF format, a dataset constructed using only Tex papers has limited utility. To resolve this problem  Cites: Axcell: Automatic extraction of results from machine learning papers
+--- 
+layout: post 
+title: "Dataset Construction for Scientific-Document Writing Support by Extracting Related Work Section and Citations from PDF Papers" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "K Kobayashi, K Koyama, H Narimatsu, Y Minami" 
+--- 
+To augment datasets used for scientific-document writing support research, we extract texts from Related Work sections and citation information in PDF-formatted papers published in English. The previous dataset was constructed entirely with Tex-formatted papers, from which it is easy to extract citation information. However, since many publicly available papers in various fields are provided only in PDF format, a dataset constructed using only Tex papers has limited utility. To resolve this problem Cites: Axcell: Automatic extraction of results from machine learning papers

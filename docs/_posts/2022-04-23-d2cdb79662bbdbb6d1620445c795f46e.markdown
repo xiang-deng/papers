@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evaluation Benchmarks for Spanish Sentence Representations"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "V Araujo, A Carvallo, S Kundu, J Caete, M Mendoza - arXiv preprint arXiv , 2022"
----
-Due to the success of pre-trained language models, versions of languages other than English have been released in recent years. This fact implies the need for resources to evaluate these models. In the case of Spanish, there are few ways to systematically assess the models  quality. In this paper, we narrow the gap by building two evaluation benchmarks. Inspired by previous work (Conneau and Kiela, 2018; Chen et al., 2019), we introduce Spanish SentEval and Spanish DiscoEval Cites: SLM: Learning a discourse language representation with sentence
+--- 
+layout: post 
+title: "Evaluation Benchmarks for Spanish Sentence Representations" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "V Araujo, A Carvallo, S Kundu, J Caete, M Mendoza - arXiv preprint arXiv , 2022" 
+--- 
+Due to the success of pre-trained language models, versions of languages other than English have been released in recent years. This fact implies the need for resources to evaluate these models. In the case of Spanish, there are few ways to systematically assess the models quality. In this paper, we narrow the gap by building two evaluation benchmarks. Inspired by previous work (Conneau and Kiela, 2018; Chen et al., 2019), we introduce Spanish SentEval and Spanish DiscoEval Cites: SLM: Learning a discourse language representation with sentence

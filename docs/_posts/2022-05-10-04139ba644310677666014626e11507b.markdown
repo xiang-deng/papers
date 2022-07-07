@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Continual Model Refinement in Out-of-Distribution Data Streams"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "B Yuchen Lin, S Wang, XV Lin, R Jia, L Xiao, X Ren - arXiv e-prints, 2022"
----
+--- 
+layout: post 
+title: "On Continual Model Refinement in Out-of-Distribution Data Streams" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "B Yuchen Lin, S Wang, XV Lin, R Jia, L Xiao, X Ren - arXiv e-prints, 2022" 
+--- 
 Real-world natural language processing (NLP) models need to be continually updated to fix the prediction errors in out-of-distribution (OOD) data streams while overcoming catastrophic forgetting. However, existing continual learning (CL)

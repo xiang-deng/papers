@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Unified Model of Reasoning and Learning"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "P Wang - International Workshop on Self-Supervised Learning, 2022"
----
+--- 
+layout: post 
+title: "A Unified Model of Reasoning and Learning" 
+date: 2022-05-12 04:06:18 -0400 
+categories: jekyll update 
+author: "P Wang - International Workshop on Self-Supervised Learning, 2022" 
+--- 
 We present a novel approach to state space discretization for constructivist and reinforcement learning. Constructivist learning and reinforcement learning often operate on a predefined set of states and transitions (state space). AI researchers design algorithms to reach particular goal states in this state space (for example, visualized in the form of goal cells that a robot should reach in a grid). When the size and the dimensionality of the state space increases, however, finding goal states Cites: Differentiable reasoning on large knowledge bases and natural

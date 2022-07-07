@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Separating the World and Ego Models for Self-Driving"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "V Sobal, A Canziani, N Carion, K Cho, Y LeCun - arXiv preprint arXiv:2204.07184, 2022"
----
+--- 
+layout: post 
+title: "Separating the World and Ego Models for Self-Driving" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "V Sobal, A Canziani, N Carion, K Cho, Y LeCun - arXiv preprint arXiv:2204.07184, 2022" 
+--- 
 Training self-driving systems to be robust to the long-tail of driving scenarios is a critical problem. Model-based approaches leverage simulation to emulate a wide range of scenarios without putting users at risk in the real world. One promising path

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "J Jang, S Ye, C Lee, S Yang, J Shin, J Han, G Kim - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "J Jang, S Ye, C Lee, S Yang, J Shin, J Han, G Kim - arXiv preprint arXiv , 2022" 
+--- 
 Language Models (LMs) become outdated as the world changes; they often fail to perform tasks requiring recent factual information which was absent or different during training, a phenomenon called temporal misalignment. This is especially a challenging problem because the research community still lacks a coherent dataset for assessing the adaptability of LMs to frequently-updated knowledge corpus such as Wikipedia. To this end, we introduce TemporalWiki, a lifelong benchmark for ever Cites: FRUIT: Faithfully Reflecting Updated Information in Text

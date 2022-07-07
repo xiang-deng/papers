@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Modeling N-ary relational data as gyro-polygons with learnable gyro-centroid"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "S Yan, Z Zhang, G Xu, X Sun, S Li, S Wang - Knowledge-Based Systems, 2022"
----
-Binary Knowledge base (KB) embedding has been broadly studied, while n-ary relational KB embedding which aims to simultaneously map binary and beyond-binary facts into low-dimensional vector space is less explored. Existing n-ary KB embedding approaches typically treat entities in n-ary fact as equally important or decompose n-ary relational fact into subtuples. And they generally model n-ary relational KBs in the Euclidean space. However, n-ary facts are semantically and  Cites: Embedding entities and relations for learning and inference in
+--- 
+layout: post 
+title: "Modeling N-ary relational data as gyro-polygons with learnable gyro-centroid" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "S Yan, Z Zhang, G Xu, X Sun, S Li, S Wang - Knowledge-Based Systems, 2022" 
+--- 
+Binary Knowledge base (KB) embedding has been broadly studied, while n-ary relational KB embedding which aims to simultaneously map binary and beyond-binary facts into low-dimensional vector space is less explored. Existing n-ary KB embedding approaches typically treat entities in n-ary fact as equally important or decompose n-ary relational fact into subtuples. And they generally model n-ary relational KBs in the Euclidean space. However, n-ary facts are semantically and Cites: Embedding entities and relations for learning and inference in

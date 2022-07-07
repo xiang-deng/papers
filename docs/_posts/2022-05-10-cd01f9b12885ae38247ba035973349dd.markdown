@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Language models for patents: exploring prompt engineering for the patent domain"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "A BERRIOS TORRES - 2022"
----
+--- 
+layout: post 
+title: "Language models for patents: exploring prompt engineering for the patent domain" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "A BERRIOS TORRES - 2022" 
+--- 
 Abstract in italiano I modelli linguistici applicati al dominio dei brevetti rappresentano una grande sfida a causa della complessit e delle competenze specifiche richieste. Questo lavoro ha sviluppato una soluzione che estende la fase di pre-formazione dei modelli linguistici in questo dominio. La soluzione implementata sfrutta il modello GPT-2 per creare un modello linguistico multitasking per il dominio dei brevetti basato su un approccio di tipo prompt-engineering, utilizzando 11, 8 milioni di Cites: Ctrl: A conditional transformer language model for controllable

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "WCATN: Unsupervised deep learning to classify weather conditions from outdoor images"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "K Xie, L Huang, Z Wei, W Zhang, Q Qin - Engineering Applications of Artificial , 2022"
----
-Weather classification from single images is significant for many outdoor computer vision applications, while it has not been thoroughly studied. Existing methods view it as a supervised task under the guidance of weather labels. Though these methods have made great success, they are not applicable to real-world applications because of their reliance on massive human-annotated weather images. In this paper, we take the initial attempt to treat weather classification as an unsupervised task, ie to classify  Cites: Randaugment: Practical automated data augmentation with a
+--- 
+layout: post 
+title: "WCATN: Unsupervised deep learning to classify weather conditions from outdoor images" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "K Xie, L Huang, Z Wei, W Zhang, Q Qin - Engineering Applications of Artificial , 2022" 
+--- 
+Weather classification from single images is significant for many outdoor computer vision applications, while it has not been thoroughly studied. Existing methods view it as a supervised task under the guidance of weather labels. Though these methods have made great success, they are not applicable to real-world applications because of their reliance on massive human-annotated weather images. In this paper, we take the initial attempt to treat weather classification as an unsupervised task, ie to classify Cites: Randaugment: Practical automated data augmentation with a

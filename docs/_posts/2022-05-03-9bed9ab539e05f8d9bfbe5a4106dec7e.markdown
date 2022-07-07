@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition"
-date:   2022-05-03 04:46:57 -0400
-categories: jekyll update
-author: "S Wu, Y Shen, Z Tan, W Lu - arXiv preprint arXiv:2204.12732, 2022"
----
+--- 
+layout: post 
+title: "Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition" 
+date: 2022-05-03 04:46:57 -0400 
+categories: jekyll update 
+author: "S Wu, Y Shen, Z Tan, W Lu - arXiv preprint arXiv:2204.12732, 2022" 
+--- 
 Nested named entity recognition (nested NER) is a fundamental task in natural language processing. Various span-based methods have been proposed to detect nested entities with span representations. However, span-based methods do not consider the relationship between a span and other entities or phrases, which is helpful in the NER task. Besides, span-based methods have trouble predicting long entities due to limited span enumeration length. To mitigate these issues, we present Cites: A neural transition-based model for nested mention recognition

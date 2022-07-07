@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Vulnerability Detection With Graph Attention Network And Metric Learning"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "C Zhang, B Liu, Q Fan, Y Xin, H Zhu - 2022"
----
-Static code vulnerability detection is a critical topic in software security. Existing software analysis methods have a high rate of false positives and false negatives. Researchers are interested in employing deep learning to discover vulnerabilities automatically, thanks to the recent success of deep learning algorithms in other application domains. This paper aims at the problem of insufficient and effective extraction of syntax and semantics, the issue of data imbalance, and the problem of  Cites: Graphcodebert: Pre-training code representations with data flow
+--- 
+layout: post 
+title: "Vulnerability Detection With Graph Attention Network And Metric Learning" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "C Zhang, B Liu, Q Fan, Y Xin, H Zhu - 2022" 
+--- 
+Static code vulnerability detection is a critical topic in software security. Existing software analysis methods have a high rate of false positives and false negatives. Researchers are interested in employing deep learning to discover vulnerabilities automatically, thanks to the recent success of deep learning algorithms in other application domains. This paper aims at the problem of insufficient and effective extraction of syntax and semantics, the issue of data imbalance, and the problem of Cites: Graphcodebert: Pre-training code representations with data flow

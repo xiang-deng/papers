@@ -1,8 +1,8 @@
----
-layout: post
-title:  "P $^ 3$ Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "X Hu, S Yu, C Xiong, Z Liu, Z Liu, G Yu - arXiv preprint arXiv:2205.01886, 2022"
----
+--- 
+layout: post 
+title: "P $^ 3$ Ranker: Mitigating the Gaps between Pre-training and Ranking Fine-tuning with Prompt-based Learning and Pre-finetuning" 
+date: 2022-05-12 04:06:18 -0400 
+categories: jekyll update 
+author: "X Hu, S Yu, C Xiong, Z Liu, Z Liu, G Yu - arXiv preprint arXiv:2205.01886, 2022" 
+--- 
 Compared to other language tasks, applying pre-trained language models (PLMs) for search ranking often requires more nuances and training signals. In this paper, we identify and study the two mismatches between pre-training and ranking fine

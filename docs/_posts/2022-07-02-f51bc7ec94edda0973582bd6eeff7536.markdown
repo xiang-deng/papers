@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PrivTDSI: A Local Differentially Private Approach for Truth Discovery via Sampling and Inference"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "P Zhang, X Cheng, S Su, B Zhu - IEEE Transactions on Big Data, 2022"
----
-Truth discovery is an effective way to identify the aggregated truth of each task among multiple observed data drawn from different workers of varying reliabilities. However, existing studies are insufficient to protect individuals  privacy, as they either just guarantee the weaker versions of local differential privacy (LDP) or potentially assume that the tasks are independent. In this paper, we, for the first time, investigate the problem of truth discovery while achieving the rigorous LDP for each worker with  Cites: Learning from the Wisdom of Crowds by Minimax Entropy.
+--- 
+layout: post 
+title: "PrivTDSI: A Local Differentially Private Approach for Truth Discovery via Sampling and Inference" 
+date: 2022-07-02 02:42:16 -0400 
+categories: jekyll update 
+author: "P Zhang, X Cheng, S Su, B Zhu - IEEE Transactions on Big Data, 2022" 
+--- 
+Truth discovery is an effective way to identify the aggregated truth of each task among multiple observed data drawn from different workers of varying reliabilities. However, existing studies are insufficient to protect individuals privacy, as they either just guarantee the weaker versions of local differential privacy (LDP) or potentially assume that the tasks are independent. In this paper, we, for the first time, investigate the problem of truth discovery while achieving the rigorous LDP for each worker with Cites: Learning from the Wisdom of Crowds by Minimax Entropy.

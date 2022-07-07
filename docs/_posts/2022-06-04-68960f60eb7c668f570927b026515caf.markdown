@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Adversarial Robustness of Deep Neural Networks: A Survey from a Formal Verification Perspective"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "MH Meng, G Bai, SG Teo, Z Hou, Y Xiao, Y Lin - IEEE Transactions on , 2022"
----
-Neural networks have been widely applied in security applications such as spam and phishing detection, intrusion prevention, and malware detection. This black-box method, however, often has uncertainty and poor explainability in applications. Furthermore, neural networks themselves are often vulnerable to adversarial attacks. For those reasons, there is a high demand for trustworthy and rigorous methods to verify the robustness of neural network models. Adversarial robustness, which  Cites: Enabling certification of verification-agnostic networks via memory
+--- 
+layout: post 
+title: "Adversarial Robustness of Deep Neural Networks: A Survey from a Formal Verification Perspective" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "MH Meng, G Bai, SG Teo, Z Hou, Y Xiao, Y Lin - IEEE Transactions on , 2022" 
+--- 
+Neural networks have been widely applied in security applications such as spam and phishing detection, intrusion prevention, and malware detection. This black-box method, however, often has uncertainty and poor explainability in applications. Furthermore, neural networks themselves are often vulnerable to adversarial attacks. For those reasons, there is a high demand for trustworthy and rigorous methods to verify the robustness of neural network models. Adversarial robustness, which Cites: Enabling certification of verification-agnostic networks via memory

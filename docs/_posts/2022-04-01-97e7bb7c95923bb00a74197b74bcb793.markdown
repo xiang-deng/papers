@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Specialized Document Embeddings for Aspect-based Similarity of Research Papers"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "M Ostendorff, T Blume, T Ruas, B Gipp, G Rehm - arXiv preprint arXiv:2203.14541, 2022"
----
+--- 
+layout: post 
+title: "Specialized Document Embeddings for Aspect-based Similarity of Research Papers" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "M Ostendorff, T Blume, T Ruas, B Gipp, G Rehm - arXiv preprint arXiv:2203.14541, 2022" 
+--- 
 Document embeddings and similarity measures underpin content-based recommender systems, whereby a document is commonly represented as a single generic embedding. However, similarity computed on single vector representations provides only one perspective on document similarity that ignores which aspects make two documents alike. To address this limitation, aspect-based similarity measures have been developed using document segmentation or pairwise multi Cites: Axcell: Automatic extraction of results from machine learning papers

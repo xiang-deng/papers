@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Tracing Knowledge in Language Models Back to the Training Data"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "E Akyrek, T Bolukbasi, F Liu, B Xiong, I Tenney - arXiv preprint arXiv , 2022"
----
-Neural language models (LMs) have been shown to memorize a great deal of factual knowledge. But when an LM generates an assertion, it is often difficult to determine where it learned this information and whether it is true. In this paper, we introduce a new benchmark for fact tracing: tracing language models  assertions back to the training examples that provided evidence for those predictions. Prior work has suggested that dataset-level\emph {influence methods} might offer an effective  Cites: Explaining and improving model behavior with k nearest neighbor
+--- 
+layout: post 
+title: "Tracing Knowledge in Language Models Back to the Training Data" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "E Akyrek, T Bolukbasi, F Liu, B Xiong, I Tenney - arXiv preprint arXiv , 2022" 
+--- 
+Neural language models (LMs) have been shown to memorize a great deal of factual knowledge. But when an LM generates an assertion, it is often difficult to determine where it learned this information and whether it is true. In this paper, we introduce a new benchmark for fact tracing: tracing language models assertions back to the training examples that provided evidence for those predictions. Prior work has suggested that dataset-level\emph {influence methods} might offer an effective Cites: Explaining and improving model behavior with k nearest neighbor

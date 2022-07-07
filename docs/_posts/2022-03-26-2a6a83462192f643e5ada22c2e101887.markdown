@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "H Chen, Y Ji - 2022"
----
+--- 
+layout: post 
+title: "Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "H Chen, Y Ji - 2022" 
+--- 
 Neural language models show vulnerability to adversarial examples which are semantically similar to their original counterparts with a few words replaced by their synonyms. A common way to improve model robustness is adversarial training which follows two stepscollecting adversarial examples by attacking a target model, and fine-tuning the model on the augmented dataset with these adversarial examples. The objective of traditional adversarial training is to make a model produce the same Cites: Semantically Equivalent Adversarial Rules for Debugging NLP

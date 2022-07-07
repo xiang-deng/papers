@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards Explainable Evaluation Metrics for Natural Language Generation"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "C Leiter, P Lertvittayakumjorn, M Fomicheva, W Zhao - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Towards Explainable Evaluation Metrics for Natural Language Generation" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "C Leiter, P Lertvittayakumjorn, M Fomicheva, W Zhao - arXiv preprint arXiv , 2022" 
+--- 
 Unlike classical lexical overlap metrics such as BLEU, most current evaluation metrics (such as BERTScore or MoverScore) are based on black-box language models such as BERT or XLM-R. They often achieve strong correlations with human judgments, but recent research indicates that the lower-quality classical metrics remain dominant, one of the potential reasons being that their decision processes are transparent. To foster more widespread acceptance of the novel high-quality Cites: A structural probe for finding syntax in word representations

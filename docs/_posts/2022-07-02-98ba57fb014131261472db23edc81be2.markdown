@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On how to avoid exacerbating spurious correlations when models are overparameterized"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "T Behnia, K Wang, C Thrampoulidis - arXiv preprint arXiv:2206.12739, 2022"
----
-Overparameterized models fail to generalize well in the presence of data imbalance even when combined with traditional techniques for mitigating imbalances. This paper focuses on imbalanced classification datasets, in which a small subset of the population--a minority--may contain features that correlate spuriously with the class label. For a parametric family of cross-entropy loss modifications and a representative Gaussian mixture model, we derive non-asymptotic generalization  Cites: An investigation of why overparameterization exacerbates
+--- 
+layout: post 
+title: "On how to avoid exacerbating spurious correlations when models are overparameterized" 
+date: 2022-07-02 02:42:16 -0400 
+categories: jekyll update 
+author: "T Behnia, K Wang, C Thrampoulidis - arXiv preprint arXiv:2206.12739, 2022" 
+--- 
+Overparameterized models fail to generalize well in the presence of data imbalance even when combined with traditional techniques for mitigating imbalances. This paper focuses on imbalanced classification datasets, in which a small subset of the population--a minority--may contain features that correlate spuriously with the class label. For a parametric family of cross-entropy loss modifications and a representative Gaussian mixture model, we derive non-asymptotic generalization Cites: An investigation of why overparameterization exacerbates

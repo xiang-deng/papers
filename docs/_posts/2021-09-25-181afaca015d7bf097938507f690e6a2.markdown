@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Neural Unit Test Suggestions"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "E Dinella, SK Lahiri, T Mytkowicz, G Ryan - arXiv preprint arXiv:2109.09262, 2021"
----
+--- 
+layout: post 
+title: "Neural Unit Test Suggestions" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "E Dinella, SK Lahiri, T Mytkowicz, G Ryan - arXiv preprint arXiv:2109.09262, 2021" 
+--- 
 Testing is widely recognized as an important stage of the software development lifecycle. Effective software testing can provide benefits such as documentation, bug finding, and preventing regressions. In particular, unit tests document a unit s textit {intended} functionality. A textit {test oracle}, typically expressed as an condition, documents the intended behavior of the unit under a given test prefix. Synthesizing a functional test oracle is a challenging problem, as it has to capture the intended Cites: Codebert: A pre-trained model for programming and natural

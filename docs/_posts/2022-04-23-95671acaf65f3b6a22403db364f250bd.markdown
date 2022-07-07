@@ -1,8 +1,8 @@
----
-layout: post
-title:  "UniGDD: A Unified Generative Framework for Goal-Oriented Document-Grounded Dialogue"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "C Gao, W Zhang, W Lam - arXiv preprint arXiv:2204.07770, 2022"
----
+--- 
+layout: post 
+title: "UniGDD: A Unified Generative Framework for Goal-Oriented Document-Grounded Dialogue" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "C Gao, W Zhang, W Lam - arXiv preprint arXiv:2204.07770, 2022" 
+--- 
 The goal-oriented document-grounded dialogue aims at responding to the user query based on the dialogue context and supporting document. Existing studies tackle this problem by decomposing it into two sub-tasks: knowledge identification and response generation. However, such pipeline methods would unavoidably suffer from the error propagation issue. This paper proposes to unify these two sub-tasks via sequentially generating the grounding knowledge and the response. We further Cites: A simple language model for task-oriented dialogue

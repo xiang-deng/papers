@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evaluating the Practical Utility of Confidence-score based Techniques for Unsupervised Open-world Intent Classification"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "S Khosla, R Gangadharaiah"
----
+--- 
+layout: post 
+title: "Evaluating the Practical Utility of Confidence-score based Techniques for Unsupervised Open-world Intent Classification" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "S Khosla, R Gangadharaiah" 
+--- 
 Open-world classification in dialog systems require models to detect open intents, while ensuring the quality of in-domain (ID) intent classification. In this work, we revisit methods that leverage distance-based statistics for unsupervised out-of- domain (OOD) detection. We show that despite their superior performance on threshold-independent metrics like AUROC on test-set, threshold values chosen based on the performance on a validation-set do not generalize well to the test-set Cites: Discriminative nearest neighbor few-shot intent detection by

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "HP Huang, D Sun, Y Liu, WS Chu, T Xiao, J Yuan - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "HP Huang, D Sun, Y Liu, WS Chu, T Xiao, J Yuan - arXiv preprint arXiv , 2022" 
+--- 
 While recent face anti-spoofing methods perform well under the intra-domain setups, an effective approach needs to account for much larger appearance variations of images acquired in complex scenes with different sensors for robust performance. In this paper, we present adaptive vision transformers (ViT) for robust cross-domain face anti-spoofing. Specifically, we adopt ViT as a backbone to exploit its strength to account for long-range dependencies among pixels. We further introduce the Cites: Fine-tuning pretrained language models: Weight initializations

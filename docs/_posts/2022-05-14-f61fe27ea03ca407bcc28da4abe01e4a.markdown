@@ -1,8 +1,8 @@
----
-layout: post
-title:  "KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "J Wang, C Wang, M Qiu, Q Shi, H Wang, J Huang - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "J Wang, C Wang, M Qiu, Q Shi, H Wang, J Huang - arXiv preprint arXiv , 2022" 
+--- 
 Extractive Question Answering (EQA) is one of the most important tasks in Machine Reading Comprehension (MRC), which can be solved by fine-tuning the span selecting heads of Pre-trained Language Models (PLMs). However, most existing approaches for MRC may perform poorly in the few-shot learning scenario. To solve this issue, we propose a novel framework named Knowledge Enhanced Contrastive Prompt-tuning (KECP). Instead of adding pointer heads to PLMs, we introduce a Cites: Natural questions: a benchmark for question answering research

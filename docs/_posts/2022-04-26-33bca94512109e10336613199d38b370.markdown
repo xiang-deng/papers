@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Path-aware Multi-hop Graph towards Improving Graph Learning"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "R Duan, C Yan, J Wang, C Jiang - Neurocomputing, 2022"
----
-Abstract Graph Neural Networks (GNNs) have achieved state-of-the-art performance in graph-related tasks. Most of them pass messages between direct neighbors and the deeper GNNs can theoretically capture the more global neighborhood information. However, they often suffer from over-smoothing problems when the GNNs  depth deepens. To eliminate this limitation, we propose a path-aware multi- hop graph framework with hop-level attention (HAPG), which has a larger receptive Cites: Long short-term memory-networks for machine reading
+--- 
+layout: post 
+title: "Path-aware Multi-hop Graph towards Improving Graph Learning" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "R Duan, C Yan, J Wang, C Jiang - Neurocomputing, 2022" 
+--- 
+Abstract Graph Neural Networks (GNNs) have achieved state-of-the-art performance in graph-related tasks. Most of them pass messages between direct neighbors and the deeper GNNs can theoretically capture the more global neighborhood information. However, they often suffer from over-smoothing problems when the GNNs depth deepens. To eliminate this limitation, we propose a path-aware multi- hop graph framework with hop-level attention (HAPG), which has a larger receptive Cites: Long short-term memory-networks for machine reading

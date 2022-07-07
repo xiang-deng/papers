@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "H Lee, KM Yoo, J Park, H Lee, K Jung - arXiv preprint arXiv:2205.02035, 2022"
----
+--- 
+layout: post 
+title: "Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "H Lee, KM Yoo, J Park, H Lee, K Jung - arXiv preprint arXiv:2205.02035, 2022" 
+--- 
 Despite the recent advances in abstractive summarization systems, it is still difficult to determine whether a generated summary is factual consistent with the source text. To this end, the latest approach is to train a factual consistency classifier on factually consistent and inconsistent summaries. Luckily, the former is readily available as reference summaries in existing summarization datasets. However, generating the latter remains a challenge, as they need to be factually inconsistent, yet closely Cites: Don t give me the details, just the summary! topic-aware

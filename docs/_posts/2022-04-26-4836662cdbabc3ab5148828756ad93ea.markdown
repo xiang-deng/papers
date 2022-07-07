@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Low-Resource Neural Adaptation: A Unified Data Adaptation Framework for Neural Networks"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "B Li - 2022"
----
+--- 
+layout: post 
+title: "Low-Resource Neural Adaptation: A Unified Data Adaptation Framework for Neural Networks" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "B Li - 2022" 
+--- 
 Many machine learning (ML) models are trained on specific datasets for specific tasks. While traditional transfer learning can adapt to new datasets when labeled data are adequate, adapting to small datasets is still a challenging task. Researchers have applied multi-task learning, meta-learning, weakly-supervised learning, self- supervision, generative adversarial training, and active learning for various data adaptation applications. However, a unified data adaptation framework has yet to be Cites: ESPNetv2: A Light-weight, Power Efficient, and General Purpose

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Finding the Right Recipe for Low Resource Domain Adaptation in Neural Machine Translation"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "V Adams, S Subramanian, M Chrzanowski, O Hrinchuk - arXiv preprint arXiv , 2022"
----
-General translation models often still struggle to generate accurate translations in specialized domains. To guide machine translation practitioners and characterize the effectiveness of domain adaptation methods under different data availability scenarios, we conduct an in-depth empirical exploration of monolingual and parallel data approaches to domain adaptation of pre-trained, third-party, NMT models in settings where architecture change is impractical. We compare data centric  Cites: Meta-Learning for Low-Resource Neural Machine Translation
+--- 
+layout: post 
+title: "Finding the Right Recipe for Low Resource Domain Adaptation in Neural Machine Translation" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "V Adams, S Subramanian, M Chrzanowski, O Hrinchuk - arXiv preprint arXiv , 2022" 
+--- 
+General translation models often still struggle to generate accurate translations in specialized domains. To guide machine translation practitioners and characterize the effectiveness of domain adaptation methods under different data availability scenarios, we conduct an in-depth empirical exploration of monolingual and parallel data approaches to domain adaptation of pre-trained, third-party, NMT models in settings where architecture change is impractical. We compare data centric Cites: Meta-Learning for Low-Resource Neural Machine Translation

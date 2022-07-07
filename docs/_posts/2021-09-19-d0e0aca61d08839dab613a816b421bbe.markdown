@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fine-grained Entity Typing via Label Reasoning"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "Q Liu, H Lin, X Xiao, X Han, L Sun, H Wu - arXiv preprint arXiv:2109.05744, 2021"
----
+--- 
+layout: post 
+title: "Fine-grained Entity Typing via Label Reasoning" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "Q Liu, H Lin, X Xiao, X Han, L Sun, H Wu - arXiv preprint arXiv:2109.05744, 2021" 
+--- 
 Conventional entity typing approaches are based on independent classification paradigms, which make them difficult to recognize inter-dependent, long-tailed and fine-grained entity types. In this paper, we argue that the implicitly entailed extrinsic and intrinsic dependencies between labels can provide critical knowledge to tackle the above challenges. To this end, we propose emph {Label Reasoning Network (LRN)}, which sequentially reasons fine-grained entity labels by discovering and Cites: Ultra-fine entity typing

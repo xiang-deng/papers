@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving scripts with a memory of natural feedback"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "N Tandon, A Madaan, P Clark, Y Yang - arXiv preprint arXiv:2112.09737, 2021"
----
-How can an end-user provide feedback if a deployed structured prediction model generates incorrect output? Our goal is to allow users to correct errors directly through interaction, without retraining, by giving feedback on the model s output. We create a dynamic memory architecture with a growing memory of feedbacks about errors in the output. Given a new, unseen input, our model can use feedback from a similar, past erroneous state. On a script generation task, we show empirically that  Cites: REALM: Retrieval-Augmented Language Model Pre-Training
+--- 
+layout: post 
+title: "Improving scripts with a memory of natural feedback" 
+date: 2022-05-25 22:16:33 -0400 
+categories: jekyll update 
+author: "N Tandon, A Madaan, P Clark, Y Yang - arXiv preprint arXiv:2112.09737, 2021" 
+--- 
+How can an end-user provide feedback if a deployed structured prediction model generates incorrect output? Our goal is to allow users to correct errors directly through interaction, without retraining, by giving feedback on the model s output. We create a dynamic memory architecture with a growing memory of feedbacks about errors in the output. Given a new, unseen input, our model can use feedback from a similar, past erroneous state. On a script generation task, we show empirically that Cites: REALM: Retrieval-Augmented Language Model Pre-Training

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Dynamic change detection in topics based on rolling LDAs"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "J Rieger, KR Lange, J Flossdorf, C Jentsch - 2022"
----
+--- 
+layout: post 
+title: "Dynamic change detection in topics based on rolling LDAs" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "J Rieger, KR Lange, J Flossdorf, C Jentsch - 2022" 
+--- 
 Topic modeling methods such as eg Latent Dirichlet Allocation (LDA) are popular techniques to analyze large text corpora. With huge amounts of textual data that are collected over time in various fields of applied research, it becomes also relevant to be able to automatically monitor the evolution of topics identified from some sort of dynamic topic modeling approach. For this purpose, we propose a dynamic change detection method that relies on a rolling version of the classical LDA that allows for Cites: A Bayesian model of diachronic meaning change

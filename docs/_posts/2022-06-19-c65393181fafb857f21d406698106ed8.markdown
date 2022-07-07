@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Unified Sequence Interface for Vision Tasks"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "T Chen, S Saxena, L Li, TY Lin, DJ Fleet, G Hinton - arXiv preprint arXiv:2206.07669, 2022"
----
-While language tasks are naturally expressed in a single, unified, modeling framework, ie, generating sequences of tokens, this has not been the case in computer vision. As a result, there is a proliferation of distinct architectures and loss functions for different vision tasks. In this work we show that a diverse set of  core  computer vision tasks can also be unified if formulated in terms of a shared pixel-to-sequence interface. We focus on four tasks, namely, object detection, instance  Cites: Multi-task self-training for learning general representations
+--- 
+layout: post 
+title: "A Unified Sequence Interface for Vision Tasks" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "T Chen, S Saxena, L Li, TY Lin, DJ Fleet, G Hinton - arXiv preprint arXiv:2206.07669, 2022" 
+--- 
+While language tasks are naturally expressed in a single, unified, modeling framework, ie, generating sequences of tokens, this has not been the case in computer vision. As a result, there is a proliferation of distinct architectures and loss functions for different vision tasks. In this work we show that a diverse set of core computer vision tasks can also be unified if formulated in terms of a shared pixel-to-sequence interface. We focus on four tasks, namely, object detection, instance Cites: Multi-task self-training for learning general representations

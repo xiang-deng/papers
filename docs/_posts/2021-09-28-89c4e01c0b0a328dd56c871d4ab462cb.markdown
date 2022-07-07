@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Use of Deep Learning Model with Attention Mechanism for Software Fault Prediction"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "TY Yu, CY Huang, NC Fang"
----
+--- 
+layout: post 
+title: "Use of Deep Learning Model with Attention Mechanism for Software Fault Prediction" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "TY Yu, CY Huang, NC Fang" 
+--- 
 Software defect prediction is a skill in software engineering that can increase program reliability. In the past, most defect prediction studies have been based on size and complexity metrics. In recent years, machine learning based predictive studies have been conducted. To build an accurate prediction model, choosing effective features remains critical. In this paper, we constructed a deep learning model called Defect Prediction via Self-Attention mechanism (DPSAM) to extract Cites: A syntactic neural model for general-purpose code generation

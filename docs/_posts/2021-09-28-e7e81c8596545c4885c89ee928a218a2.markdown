@@ -1,8 +1,8 @@
----
-layout: post
-title:  "HRotatE: Hybrid Relational Rotation Embedding for Knowledge Graph"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "A Shah, B Molokwu, Z Kobti - 2021 International Joint Conference on Neural , 2021"
----
+--- 
+layout: post 
+title: "HRotatE: Hybrid Relational Rotation Embedding for Knowledge Graph" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "A Shah, B Molokwu, Z Kobti - 2021 International Joint Conference on Neural , 2021" 
+--- 
 Knowledge Graph represents the real world s information in the form of triplets (head, relation, and tail). However, most Knowledge Graphs are highly incomplete. The goal of a Knowledge-Graph Completion task is to predict missing links in a given Knowledge Graph. Various approaches exist to predict a missing link in a Knowledge Graph, but the most prominent approaches are based on tensor factorization and Knowledge-Graph embeddings, such as RotatE and SimplE. The Cites: Observed versus latent features for knowledge base and text

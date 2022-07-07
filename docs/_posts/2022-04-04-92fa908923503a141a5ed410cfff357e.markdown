@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Transformer Language Models without Positional Encodings Still Learn Positional Information"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "A Haviv, O Ram, O Press, P Izsak, O Levy - arXiv preprint arXiv:2203.16634, 2022"
----
+--- 
+layout: post 
+title: "Transformer Language Models without Positional Encodings Still Learn Positional Information" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "A Haviv, O Ram, O Press, P Izsak, O Levy - arXiv preprint arXiv:2203.16634, 2022" 
+--- 
 Transformers typically require some form of positional encoding, such as positional embeddings, to process natural language sequences. Surprisingly, we find that transformer language models without any explicit positional encoding are still

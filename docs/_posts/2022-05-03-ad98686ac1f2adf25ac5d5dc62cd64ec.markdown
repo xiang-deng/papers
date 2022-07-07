@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning to Parallelize in a Shared-Memory Environment with Transformers"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "R Harel, Y Pinter, G Oren - arXiv preprint arXiv:2204.12835, 2022"
----
+--- 
+layout: post 
+title: "Learning to Parallelize in a Shared-Memory Environment with Transformers" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "R Harel, Y Pinter, G Oren - arXiv preprint arXiv:2204.12835, 2022" 
+--- 
 In past years, the world has switched to many-core and multi-core shared memory architectures. As a result, there is a growing need to utilize these architectures by introducing shared memory parallelization schemes to software applications. OpenMP is the most comprehensive API that implements such schemes, characterized by a readable interface. Nevertheless, introducing OpenMP into code is challenging due to pervasive pitfalls in management of parallel shared memory. To Cites: A syntactic neural model for general-purpose code generation

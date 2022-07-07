@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Transformers for Tabular Data Representation: A Survey of Models and Applications"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "G Badaro, M Saeed, P Papotti"
----
+--- 
+layout: post 
+title: "Transformers for Tabular Data Representation: A Survey of Models and Applications" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "G Badaro, M Saeed, P Papotti" 
+--- 
 In the last few years, the natural language processing community witnessed the advances in neural representations of free texts with transformer-based language models (LMs). Given the importance of knowledge available in relational tables, recent research efforts extend LMs by developing neural representations for tabular data. In this work, we present the first survey that analyzes these efforts. We first categorize the downstream tasks where the models are successfully utilized. The Cites: Content-based table retrieval for web queries

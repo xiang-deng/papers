@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Multi-stage Framework with Mean Subspace Computation and Recursive Feedback for Online Unsupervised Domain Adaptation"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "J Moon, D Das, CSG Lee - IEEE Transactions on Image Processing, 2022"
----
-In this paper, we address the Online Unsupervised Domain Adaptation (OUDA) problem and propose a novel multi-stage framework to solve real-world situations when the target data are unlabeled and arriving online sequentially in batches. Most of the traditional manifold-based methods on the OUDA problem focus on transforming each arriving target data to the source domain without sufficiently considering the temporal coherency and accumulative statistics among the arriving  Cites: Understanding self-training for gradual domain adaptation
+--- 
+layout: post 
+title: "A Multi-stage Framework with Mean Subspace Computation and Recursive Feedback for Online Unsupervised Domain Adaptation" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "J Moon, D Das, CSG Lee - IEEE Transactions on Image Processing, 2022" 
+--- 
+In this paper, we address the Online Unsupervised Domain Adaptation (OUDA) problem and propose a novel multi-stage framework to solve real-world situations when the target data are unlabeled and arriving online sequentially in batches. Most of the traditional manifold-based methods on the OUDA problem focus on transforming each arriving target data to the source domain without sufficiently considering the temporal coherency and accumulative statistics among the arriving Cites: Understanding self-training for gradual domain adaptation

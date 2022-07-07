@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Asking the Right Questions in Low Resource Template Extraction"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "N Holzenberger, Y Chen, B Van Durme - arXiv preprint arXiv:2205.12643, 2022"
----
-Information Extraction (IE) researchers are mapping tasks to Question Answering (QA) in order to leverage existing large QA resources, and thereby improve data efficiency. Especially in template extraction (TE), mapping an ontology to a set of questions can be more time-efficient than collecting labeled examples. We ask whether end users of TE systems can design these questions, and whether it is beneficial to involve an NLP practitioner in the process. We compare questions to  Cites: Cutting down on prompts and parameters: Simple few-shot
+--- 
+layout: post 
+title: "Asking the Right Questions in Low Resource Template Extraction" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "N Holzenberger, Y Chen, B Van Durme - arXiv preprint arXiv:2205.12643, 2022" 
+--- 
+Information Extraction (IE) researchers are mapping tasks to Question Answering (QA) in order to leverage existing large QA resources, and thereby improve data efficiency. Especially in template extraction (TE), mapping an ontology to a set of questions can be more time-efficient than collecting labeled examples. We ask whether end users of TE systems can design these questions, and whether it is beneficial to involve an NLP practitioner in the process. We compare questions to Cites: Cutting down on prompts and parameters: Simple few-shot

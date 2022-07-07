@@ -1,8 +1,8 @@
----
-layout: post
-title:  "An Open-Domain QA System for e-Governance"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "R Ion, AM Avram, V Pi, M Mitrofan, VB Mititelu - arXiv preprint arXiv , 2022"
----
-The paper presents an open-domain Question Answering system for Romanian, answering COVID-19 related questions. The QA system pipeline involves automatic question processing, automatic query generation, web searching for the top 10 most relevant documents and answer extraction using a fine-tuned BERT model for Extractive QA, trained on a COVID-19 data set that we have manually created. The paper will present the QA system and its integration with the Romanian language  Cites: Deep contextualized word representations. CoRR abs/1802.05365
+--- 
+layout: post 
+title: "An Open-Domain QA System for e-Governance" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "R Ion, AM Avram, V Pi, M Mitrofan, VB Mititelu - arXiv preprint arXiv , 2022" 
+--- 
+The paper presents an open-domain Question Answering system for Romanian, answering COVID-19 related questions. The QA system pipeline involves automatic question processing, automatic query generation, web searching for the top 10 most relevant documents and answer extraction using a fine-tuned BERT model for Extractive QA, trained on a COVID-19 data set that we have manually created. The paper will present the QA system and its integration with the Romanian language Cites: Deep contextualized word representations. CoRR abs/1802.05365

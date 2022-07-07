@@ -1,8 +1,8 @@
----
-layout: post
-title:  "NICO++: Towards Better Benchmarking for Domain Generalization"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "X Zhang, L Zhou, R Xu, P Cui, Z Shen, H Liu - arXiv preprint arXiv:2204.08040, 2022"
----
+--- 
+layout: post 
+title: "NICO++: Towards Better Benchmarking for Domain Generalization" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "X Zhang, L Zhou, R Xu, P Cui, Z Shen, H Liu - arXiv preprint arXiv:2204.08040, 2022" 
+--- 
 Despite the remarkable performance that modern deep neural networks have achieved on independent and identically distributed (IID) data, they can crash under distribution shifts. Most current evaluation methods for domain generalization (DG) adopt the leave-one-out strategy as a compromise on the limited number of domains. We propose a large-scale benchmark with extensive labeled domains named NICO++ { ddag} along with more rational evaluation methods for comprehensively Cites: Wilds: A benchmark of in-the-wild distribution shifts

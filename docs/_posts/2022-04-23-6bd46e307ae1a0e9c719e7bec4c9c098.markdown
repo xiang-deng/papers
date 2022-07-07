@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Rare Word Recognition with LM-aware MWER Training"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "W Wang, T Chen, TN Sainath, E Variani - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Improving Rare Word Recognition with LM-aware MWER Training" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "W Wang, T Chen, TN Sainath, E Variani - arXiv preprint arXiv , 2022" 
+--- 
 Language models (LMs) significantly improve the recognition accuracy of end-to-end (E2E) models on words rarely seen during training, when used in either the shallow fusion or the rescoring setups. In this work, we introduce LMs in the learning of hybrid autoregressive transducer (HAT) models in the discriminative training framework, to mitigate the training versus inference gap regarding the use of LMs. For the shallow fusion setup, we use LMs during both hypotheses generation and loss computation Cites: Ctrl: A conditional transformer language model for controllable

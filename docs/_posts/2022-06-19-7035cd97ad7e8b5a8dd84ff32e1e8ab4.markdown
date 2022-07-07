@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Private Online Convex Optimization: Optimal Algorithms in $\ell_p $-Geometry and High Dimensional Contextual Bandits"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "Y Han, Z Liang, Z Liang, Y Wang, Y Yao, J Zhang - arXiv preprint arXiv:2206.08111, 2022"
----
-Differentially private (DP) stochastic convex optimization (SCO) is ubiquitous in trustworthy machine learning algorithm design. This paper studies the DP-SCO problem with streaming data sampled from a distribution and arrives sequentially. We also consider the continual release model where parameters related to private information are updated and released upon each new data, often known as the online algorithms. Despite that numerous algorithms have been developed to  Cites: Provably optimal algorithms for generalized linear contextual bandits
+--- 
+layout: post 
+title: "On Private Online Convex Optimization: Optimal Algorithms in $\ell_p $-Geometry and High Dimensional Contextual Bandits" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "Y Han, Z Liang, Z Liang, Y Wang, Y Yao, J Zhang - arXiv preprint arXiv:2206.08111, 2022" 
+--- 
+Differentially private (DP) stochastic convex optimization (SCO) is ubiquitous in trustworthy machine learning algorithm design. This paper studies the DP-SCO problem with streaming data sampled from a distribution and arrives sequentially. We also consider the continual release model where parameters related to private information are updated and released upon each new data, often known as the online algorithms. Despite that numerous algorithms have been developed to Cites: Provably optimal algorithms for generalized linear contextual bandits

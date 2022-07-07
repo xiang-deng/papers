@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Teaching language models to support answers with verified quotes"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "J Menick, M Trebacz, V Mikulik, J Aslanides, F Song - arXiv preprint arXiv , 2022"
----
-Recent large language models often answer factual questions correctly. But users can t trust any given claim a model makes without fact-checking, because language models can hallucinate convincing nonsense. In this work we use reinforcement learning from human preferences (RLHP) to train  open-book  QA models that generate answers whilst also citing specific evidence for their claims, which aids in the appraisal of correctness. Supporting evidence is drawn from multiple documents Cites: Question and answer test-train overlap in open-domain question
+--- 
+layout: post 
+title: "Teaching language models to support answers with verified quotes" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "J Menick, M Trebacz, V Mikulik, J Aslanides, F Song - arXiv preprint arXiv , 2022" 
+--- 
+Recent large language models often answer factual questions correctly. But users can t trust any given claim a model makes without fact-checking, because language models can hallucinate convincing nonsense. In this work we use reinforcement learning from human preferences (RLHP) to train open-book QA models that generate answers whilst also citing specific evidence for their claims, which aids in the appraisal of correctness. Supporting evidence is drawn from multiple documents Cites: Question and answer test-train overlap in open-domain question

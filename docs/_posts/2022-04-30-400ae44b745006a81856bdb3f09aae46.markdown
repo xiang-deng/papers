@@ -1,8 +1,8 @@
----
-layout: post
-title:  "GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "C Wei, B Bai, K Bai, F Wang - Proceedings of the ACM Web Conference 2022, 2022"
----
-Users  social connections have recently shown significant benefits to session-based recommendations, and graph neural networks have demonstrated great success in learning the pattern of information flow among users. However, the current paradigm presumes a given social network, which is not necessarily consistent with the fast- evolving shared interests and is expensive to collect. We propose a novel idea to learn the graph structure among users and make recommendations collectively in a Cites: Recommender systems with social regularization
+--- 
+layout: post 
+title: "GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "C Wei, B Bai, K Bai, F Wang - Proceedings of the ACM Web Conference 2022, 2022" 
+--- 
+Users social connections have recently shown significant benefits to session-based recommendations, and graph neural networks have demonstrated great success in learning the pattern of information flow among users. However, the current paradigm presumes a given social network, which is not necessarily consistent with the fast- evolving shared interests and is expensive to collect. We propose a novel idea to learn the graph structure among users and make recommendations collectively in a Cites: Recommender systems with social regularization

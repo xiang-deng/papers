@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FewshotQA: A framework for few-shot learning of question answering tasks using pre-trained text-to-text models"
-date:   2021-09-16 19:19:30 -0400
-categories: jekyll update
-author: "R Chada, AA AI - Context"
----
+--- 
+layout: post 
+title: "FewshotQA: A framework for few-shot learning of question answering tasks using pre-trained text-to-text models" 
+date: 2021-09-16 19:19:30 -0400 
+categories: jekyll update 
+author: "R Chada, AA AI - Context" 
+--- 
 The task of learning from only a few examples (called a few-shot setting) is of key importance and relevance to a real-world setting. For question answering (QA), the current state-ofthe-art pre-trained models typically need finetuning on tens of thousands of examples to obtain good results. Their performance degrades significantly in a few-shot setting (< 100 examples). To address this, we propose a finetuning framework that leverages pre-trained text-to-text models and is directly Cites: TyDi QA: A benchmark for information-seeking question answering

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "muNet: Evolving Pretrained Deep Neural Networks into Scalable Auto-tuning Multitask Systems"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "A Gesmundo, J Dean - arXiv preprint arXiv:2205.10937, 2022"
----
-Most uses of machine learning today involve training a model from scratch for a particular task, or sometimes starting with a model pretrained on a related task and then fine-tuning on a downstream task. Both approaches offer limited knowledge transfer between different tasks, time-consuming human-driven customization to individual tasks and high computational costs especially when starting from randomly initialized models. We propose a method that uses the layers of a  Cites: Chip placement with deep reinforcement learning
+--- 
+layout: post 
+title: "muNet: Evolving Pretrained Deep Neural Networks into Scalable Auto-tuning Multitask Systems" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "A Gesmundo, J Dean - arXiv preprint arXiv:2205.10937, 2022" 
+--- 
+Most uses of machine learning today involve training a model from scratch for a particular task, or sometimes starting with a model pretrained on a related task and then fine-tuning on a downstream task. Both approaches offer limited knowledge transfer between different tasks, time-consuming human-driven customization to individual tasks and high computational costs especially when starting from randomly initialized models. We propose a method that uses the layers of a Cites: Chip placement with deep reinforcement learning

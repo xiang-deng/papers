@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "S Wang, L Thompson, M Iyyer - arXiv preprint arXiv:2109.06304, 2021"
----
+--- 
+layout: post 
+title: "Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "S Wang, L Thompson, M Iyyer - arXiv preprint arXiv:2109.06304, 2021" 
+--- 
 Phrase representations derived from BERT often do not exhibit complex phrasal compositionality, as the model relies instead on lexical similarity to determine semantic relatedness. In this paper, we propose a contrastive fine-tuning objective

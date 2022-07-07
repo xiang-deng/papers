@@ -1,8 +1,8 @@
----
-layout: post
-title:  "DILEMMA: Self-Supervised Shape and Texture Learning with Transformers"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "S Sameni, S Jenni, P Favaro - arXiv preprint arXiv:2204.04788, 2022"
----
+--- 
+layout: post 
+title: "DILEMMA: Self-Supervised Shape and Texture Learning with Transformers" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "S Sameni, S Jenni, P Favaro - arXiv preprint arXiv:2204.04788, 2022" 
+--- 
 There is a growing belief that deep neural networks with a shape bias may exhibit better generalization capabilities than models with a texture bias, because shape is a more reliable indicator of the object category. However, we show experimentally that existing measures of shape bias are not stable predictors of generalization and argue that shape discrimination should not come at the expense of texture discrimination. Thus, we propose a pseudo-task to explicitly boost both shape and Cites: Pre-Training Transformers as Energy-Based Cloze Models

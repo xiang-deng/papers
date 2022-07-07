@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Mining Error Templates for Grammatical Error Correction"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "Y Zhang, H Jiang, Z Bao, B Zhang, C Li, Z Li - arXiv preprint arXiv:2206.11569, 2022"
----
-Some grammatical error correction (GEC) systems incorporate hand-crafted rules and achieve positive results. However, manually defining rules is time-consuming and laborious. In view of this, we propose a method to mine error templates for GEC automatically. An error template is a regular expression aiming at identifying text errors. We use the web crawler to acquire such error templates from the Internet. For each template, we further select the corresponding corrective action by using the  Cites: Algorithm selection and model adaptation for ESL correction tasks
+--- 
+layout: post 
+title: "Mining Error Templates for Grammatical Error Correction" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "Y Zhang, H Jiang, Z Bao, B Zhang, C Li, Z Li - arXiv preprint arXiv:2206.11569, 2022" 
+--- 
+Some grammatical error correction (GEC) systems incorporate hand-crafted rules and achieve positive results. However, manually defining rules is time-consuming and laborious. In view of this, we propose a method to mine error templates for GEC automatically. An error template is a regular expression aiming at identifying text errors. We use the web crawler to acquire such error templates from the Internet. For each template, we further select the corresponding corrective action by using the Cites: Algorithm selection and model adaptation for ESL correction tasks

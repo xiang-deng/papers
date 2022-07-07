@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Model Agnostic Sample Reweighting for Out-of-Distribution Learning"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "X Zhou, Y Lin, R Pi, W Zhang, R Xu, P Cui, T Zhang"
----
-Distributionally robust optimization (DRO) and invariant risk minimization (IRM) are two popular methods proposed to improve out-of-distribution (OOD) generalization performance of machine learning models. While effective for small models, it has been observed that these methods can be vulnerable to overfitting with large overparameterized models. This work proposes a principled method, Model Agnostic samPLe rEweighting (MAPLE), to effectively address OOD problem, especially in  Cites: Just train twice: Improving group robustness without training group
+--- 
+layout: post 
+title: "Model Agnostic Sample Reweighting for Out-of-Distribution Learning" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "X Zhou, Y Lin, R Pi, W Zhang, R Xu, P Cui, T Zhang" 
+--- 
+Distributionally robust optimization (DRO) and invariant risk minimization (IRM) are two popular methods proposed to improve out-of-distribution (OOD) generalization performance of machine learning models. While effective for small models, it has been observed that these methods can be vulnerable to overfitting with large overparameterized models. This work proposes a principled method, Model Agnostic samPLe rEweighting (MAPLE), to effectively address OOD problem, especially in Cites: Just train twice: Improving group robustness without training group

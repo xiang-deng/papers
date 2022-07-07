@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Graph-based Retrieval for Claim Verification over Cross-Document Evidence"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "M Mongiov, A Gangemi - arXiv preprint arXiv:2109.06022, 2021"
----
+--- 
+layout: post 
+title: "Graph-based Retrieval for Claim Verification over Cross-Document Evidence" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "M Mongiov, A Gangemi - arXiv preprint arXiv:2109.06022, 2021" 
+--- 
 Verifying the veracity of claims requires reasoning over a large knowledge base, often in the form of corpora of trustworthy sources. A common approach consists in retrieving short portions of relevant text from the reference documents and giving them as input to a natural language inference module that determines whether the claim can be inferred or contradicted from them. This approach, however, struggles when multiple pieces of evidence need to be collected and combined from different Cites: Reasoning over semantic-level graph for fact checking

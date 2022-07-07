@@ -1,8 +1,8 @@
----
-layout: post
-title:  "UniTE: Unified Translation Evaluation"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "Y Wan, D Liu, B Yang, H Zhang, B Chen, DF Wong - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "UniTE: Unified Translation Evaluation" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "Y Wan, D Liu, B Yang, H Zhang, B Chen, DF Wong - arXiv preprint arXiv , 2022" 
+--- 
 Translation quality evaluation plays a crucial role in machine translation. According to the input format, it is mainly separated into three tasks, ie, reference-only, source- only and source-reference-combined. Recent methods, despite their promising results, are specifically designed and optimized on one of them. This limits the convenience of these methods, and overlooks the commonalities among tasks. In this paper, we propose UniTE, which is the first unified framework engaged with Cites: BARTScore: Evaluating Generated Text as Text Generation

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PICCOLO: Exposing Complex Backdoors in NLP Transformer Models"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "Y Liu, G Shen, G Tao, S An, S Ma, X Zhang"
----
+--- 
+layout: post 
+title: "PICCOLO: Exposing Complex Backdoors in NLP Transformer Models" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "Y Liu, G Shen, G Tao, S An, S Ma, X Zhang" 
+--- 
 Backdoors can be injected to NLP models such that they misbehave when the trigger words or sentences appear in an input sample. Detecting such backdoors given only a subject model and a small number of benign samples is very challenging because of the unique nature of NLP applications, such as the discontinuity of pipeline and the large search space. Existing techniques work well for backdoors with simple triggers such as single character/word triggers but become less effective when Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

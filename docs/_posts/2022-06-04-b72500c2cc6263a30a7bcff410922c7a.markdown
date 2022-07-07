@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-Task Learning with Multi-query Transformer for Dense Prediction"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "Y Xu, X Li, H Yuan, Y Yang, J Zhang, Y Tong, L Zhang - arXiv preprint arXiv , 2022"
----
-Previous multi-task dense prediction studies developed complex pipelines such as multi-modal distillations in multiple stages or searching for task relational contexts for each task. The core insight beyond these methods is to maximize the mutual effects between each task. Inspired by the recent query-based Transformers, we propose a simpler pipeline named Multi-Query Transformer (MQTransformer) that is equipped with multiple queries from different tasks to facilitate the reasoning among multiple  Cites: Multi-task self-training for learning general representations
+--- 
+layout: post 
+title: "Multi-Task Learning with Multi-query Transformer for Dense Prediction" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "Y Xu, X Li, H Yuan, Y Yang, J Zhang, Y Tong, L Zhang - arXiv preprint arXiv , 2022" 
+--- 
+Previous multi-task dense prediction studies developed complex pipelines such as multi-modal distillations in multiple stages or searching for task relational contexts for each task. The core insight beyond these methods is to maximize the mutual effects between each task. Inspired by the recent query-based Transformers, we propose a simpler pipeline named Multi-Query Transformer (MQTransformer) that is equipped with multiple queries from different tasks to facilitate the reasoning among multiple Cites: Multi-task self-training for learning general representations

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "RegMiner: Towards Constructing Large Regression Dataset from Code Evolution History"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "X Song, Y Lin, SH Ng, Y Wu, X Peng, JS Dong, H Mei - 2022"
----
-Bug datasets lay significant empirical and experimental foundation for various SE/PL researches such as fault localization, software testing, and program repair. Current well-known datasets are constructed manually, which inevitably limits their scalability, representativeness, and the support for the emerging data-driven research. In this work, we propose an approach to automate the process of harvesting replicable regression bugs from the code evolution history. We focus on  Cites: Graphcodebert: Pre-training code representations with data flow
+--- 
+layout: post 
+title: "RegMiner: Towards Constructing Large Regression Dataset from Code Evolution History" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "X Song, Y Lin, SH Ng, Y Wu, X Peng, JS Dong, H Mei - 2022" 
+--- 
+Bug datasets lay significant empirical and experimental foundation for various SE/PL researches such as fault localization, software testing, and program repair. Current well-known datasets are constructed manually, which inevitably limits their scalability, representativeness, and the support for the emerging data-driven research. In this work, we propose an approach to automate the process of harvesting replicable regression bugs from the code evolution history. We focus on Cites: Graphcodebert: Pre-training code representations with data flow

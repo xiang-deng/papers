@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Interpretable, Verifiable, and Robust Reinforcement Learning via Program Synthesis"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "O Bastani, JP Inala, A Solar-Lezama -  on Extending Explainable AI Beyond Deep , 2022"
----
+--- 
+layout: post 
+title: "Interpretable, Verifiable, and Robust Reinforcement Learning via Program Synthesis" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "O Bastani, JP Inala, A Solar-Lezama - on Extending Explainable AI Beyond Deep , 2022" 
+--- 
 Reinforcement learning is a promising strategy for automatically training policies for challenging control tasks. However, state-of-the-art deep reinforcement learning algorithms focus on training deep neural network (DNN) policies, which are black box models that are hard to interpret and reason about. In this chapter, we describe recent progress towards learning policies in the form of programs. Compared to DNNs, such programmatic policies are significantly more interpretable, easier to Cites: Web question answering with neurosymbolic program synthesis

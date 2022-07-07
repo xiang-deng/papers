@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Collaborative Linear Bandits with Adversarial Agents: Near-Optimal Regret Bounds"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "A Mitra, A Adibi, GJ Pappas, H Hassani - arXiv preprint arXiv:2206.02834, 2022"
----
-We consider a linear stochastic bandit problem involving $ M $ agents that can collaborate via a central server to minimize regret. A fraction $\alpha $ of these agents are adversarial and can act arbitrarily, leading to the following tension: while collaboration can potentially reduce regret, it can also disrupt the process of learning due to adversaries. In this work, we provide a fundamental understanding of this tension by designing new algorithms that balance the exploration-exploitation trade  Cites: Provably optimal algorithms for generalized linear contextual bandits
+--- 
+layout: post 
+title: "Collaborative Linear Bandits with Adversarial Agents: Near-Optimal Regret Bounds" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "A Mitra, A Adibi, GJ Pappas, H Hassani - arXiv preprint arXiv:2206.02834, 2022" 
+--- 
+We consider a linear stochastic bandit problem involving $ M $ agents that can collaborate via a central server to minimize regret. A fraction $\alpha $ of these agents are adversarial and can act arbitrarily, leading to the following tension: while collaboration can potentially reduce regret, it can also disrupt the process of learning due to adversaries. In this work, we provide a fundamental understanding of this tension by designing new algorithms that balance the exploration-exploitation trade Cites: Provably optimal algorithms for generalized linear contextual bandits

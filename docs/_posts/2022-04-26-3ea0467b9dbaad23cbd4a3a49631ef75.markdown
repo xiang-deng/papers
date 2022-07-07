@@ -1,8 +1,8 @@
----
-layout: post
-title:  "An Exploratory Study on Code Attention in BERT"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "R Sharma, F Chen, F Fard, D Lo - arXiv preprint arXiv:2204.10200, 2022"
----
+--- 
+layout: post 
+title: "An Exploratory Study on Code Attention in BERT" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "R Sharma, F Chen, F Fard, D Lo - arXiv preprint arXiv:2204.10200, 2022" 
+--- 
 Many recent models in software engineering introduced deep neural models based on the Transformer architecture or use transformer-based Pre-trained Language Models (PLM) trained on code. Although these models achieve the state of the arts results in many downstream tasks such as code summarization and bug detection, they are based on Transformer and PLM, which are mainly studied in the Natural Language Processing (NLP) field. The current studies rely on the reasoning and Cites: Emergent linguistic structure in artificial neural networks trained by

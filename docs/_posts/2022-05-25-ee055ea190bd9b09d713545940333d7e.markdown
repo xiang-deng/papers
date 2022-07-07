@@ -1,8 +1,8 @@
----
-layout: post
-title:  "DEGREE: A Data-Efficient Generation-Based Event Extraction Model"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "IH Hsu, KH Huang, E Boschee, S Miller, P Natarajan"
----
-Event extraction requires high-quality expert human annotations, which are usually expensive. Therefore, learning a data-efficient event extraction model that can be trained with only a few labeled examples has become a crucial challenge. In this paper, we focus on low-resource end-to-end event extraction and propose DE-GREE, a data-efficient model that formulates event extraction as a conditional generation problem. Given a passage and a manually designed prompt, DEGREE  Cites: ESTER: A Machine Reading Comprehension Dataset for
+--- 
+layout: post 
+title: "DEGREE: A Data-Efficient Generation-Based Event Extraction Model" 
+date: 2022-05-25 22:16:33 -0400 
+categories: jekyll update 
+author: "IH Hsu, KH Huang, E Boschee, S Miller, P Natarajan" 
+--- 
+Event extraction requires high-quality expert human annotations, which are usually expensive. Therefore, learning a data-efficient event extraction model that can be trained with only a few labeled examples has become a crucial challenge. In this paper, we focus on low-resource end-to-end event extraction and propose DE-GREE, a data-efficient model that formulates event extraction as a conditional generation problem. Given a passage and a manually designed prompt, DEGREE Cites: ESTER: A Machine Reading Comprehension Dataset for

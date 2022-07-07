@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "H Sun, Y Li, Y Zhang - Proceedings of the 2022 SIAM International , 2022"
----
+--- 
+layout: post 
+title: "ConLearn: Contextual-knowledge-aware Concept Prerequisite Relation Learning with Graph Neural Network" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "H Sun, Y Li, Y Zhang - Proceedings of the 2022 SIAM International , 2022" 
+--- 
 Prerequisite relations among concepts are important for a wide range of educational applications, such as intelligent tutoring and curriculum planning. However, concept prerequisite relation learning is not trivial due to the sparsity of prerequisite relations. In this paper, we propose a contextual-knowledge-aware concept prerequisite relation learning approach called ConLearn. Four unique properties of the proposed approach are:(1) It transfers knowledge from large language model BERT to improve Cites: Commonsense knowledge base completion with structural and

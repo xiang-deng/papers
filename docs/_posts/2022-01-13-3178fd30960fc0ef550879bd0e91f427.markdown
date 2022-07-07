@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A study of BERT for context-aware neural machine translation"
-date:   2022-01-13 09:35:49 -0400
-categories: jekyll update
-author: "X Wu, Y Xia, J Zhu, L Wu, S Xie, T Qin - Machine Learning, 2022"
----
+--- 
+layout: post 
+title: "A study of BERT for context-aware neural machine translation" 
+date: 2022-01-13 09:35:49 -0400 
+categories: jekyll update 
+author: "X Wu, Y Xia, J Zhu, L Wu, S Xie, T Qin - Machine Learning, 2022" 
+--- 
 Context-aware neural machine translation (NMT), which targets at translating sentences with contextual information, has attracted much attention recently. A key problem for context-aware NMT is to effectively encode and aggregate the contextual information. BERT (Devlin et al., in: NAACL, 2019) has been proven to be an effective feature extractor in natural language understanding tasks, but it has not been well studied in context-aware NMT. In this work, we conduct a study about Cites: Does neural machine translation benefit from larger context?

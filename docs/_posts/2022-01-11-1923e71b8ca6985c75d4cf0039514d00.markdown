@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On the Relationship between Similar Requirements and Similar Software"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "M Abbas, A Ferrari, A Shatnawi, E Enoiu"
----
+--- 
+layout: post 
+title: "On the Relationship between Similar Requirements and Similar Software" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "M Abbas, A Ferrari, A Shatnawi, E Enoiu" 
+--- 
 Abstract [Context] Recommender systems for requirements are typically built on the assumption that similar requirements can be used as proxies to retrieve similar software. When a stakeholder proposes a new requirement, natural language processing (NLP)-based similarity metrics can be exploited to retrieve existing requirements, and in turn, identify previously developed code.[Question/problem] Several NLP approaches for similarity computation between requirements are Cites: Codebert: A pre-trained model for programming and natural

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Efficient Cluster-Based k-Nearest-Neighbor Machine Translation"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "D Wang, K Fan, B Chen, D Xiong - arXiv preprint arXiv:2204.06175, 2022"
----
+--- 
+layout: post 
+title: "Efficient Cluster-Based k-Nearest-Neighbor Machine Translation" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "D Wang, K Fan, B Chen, D Xiong - arXiv preprint arXiv:2204.06175, 2022" 
+--- 
 k-Nearest-Neighbor Machine Translation (kNN-MT) has been recently proposed as a non-parametric solution for domain adaptation in neural machine translation (NMT). It aims to alleviate the performance degradation of advanced MT systems in translating out-of-domain sentences by coordinating with an additional token-level feature-based retrieval module constructed from in-domain data. Previous studies have already demonstrated that non-parametric NMT is even superior to models fine Cites: Efficient Nearest Neighbor Language Models

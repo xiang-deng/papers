@@ -1,8 +1,8 @@
----
-layout: post
-title:  "How much pretraining data do language models need to learn syntax?"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "L Prez-Mayos, M Ballesteros, L Wanner - arXiv preprint arXiv:2109.03160, 2021"
----
+--- 
+layout: post 
+title: "How much pretraining data do language models need to learn syntax?" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "L Prez-Mayos, M Ballesteros, L Wanner - arXiv preprint arXiv:2109.03160, 2021" 
+--- 
 Transformers-based pretrained language models achieve outstanding results in many well-known NLU benchmarks. However, while pretraining methods are very convenient, they are expensive in terms of time and resources. This calls for a study of the impact of pretraining data size on the knowledge of the models. We explore this impact on the syntactic capabilities of RoBERTa, using models trained on incremental sizes of raw text data. First, we use syntactic structural probes to Cites: Designing and interpreting probes with control tasks

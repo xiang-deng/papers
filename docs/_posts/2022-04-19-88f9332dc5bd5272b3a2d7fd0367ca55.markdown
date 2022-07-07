@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Review on Language Models as Knowledge Bases"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "B AlKhamissi, M Li, A Celikyilmaz, M Diab - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "A Review on Language Models as Knowledge Bases" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "B AlKhamissi, M Li, A Celikyilmaz, M Diab - arXiv preprint arXiv , 2022" 
+--- 
 Recently, there has been a surge of interest in the NLP community on the use of pretrained Language Models (LMs) as Knowledge Bases (KBs). Researchers have shown that LMs trained on a sufficiently large (web) corpus will encode a significant amount of knowledge implicitly in its parameters. The resulting LM can be probed for different kinds of knowledge and thus acting as a KB. This has a major advantage over traditional KBs in that this method requires no human supervision. In this paper Cites: REALM: Retrieval-Augmented Language Model Pre-Training

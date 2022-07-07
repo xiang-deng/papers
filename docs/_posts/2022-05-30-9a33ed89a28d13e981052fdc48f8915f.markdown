@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning a Better Initialization for Soft Prompts via Meta-Learning"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "Y Huang, K Qian, Z Yu - arXiv preprint arXiv:2205.12471, 2022"
----
-Prompt tuning (PT) is an effective approach to adapting pre-trained language models to downstream tasks. Without a good initialization, prompt tuning doesn t perform well under few-shot settings. So pre-trained prompt tuning (PPT) is proposed to initialize prompts by leveraging pre-training data. We propose MetaPT (Meta-learned Prompt Tuning) to further improve PPT s initialization by considering latent structure within the pre-training data. Specifically, we introduce the structure by first clustering pre  Cites: BERTese: Learning to Speak to BERT
+--- 
+layout: post 
+title: "Learning a Better Initialization for Soft Prompts via Meta-Learning" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "Y Huang, K Qian, Z Yu - arXiv preprint arXiv:2205.12471, 2022" 
+--- 
+Prompt tuning (PT) is an effective approach to adapting pre-trained language models to downstream tasks. Without a good initialization, prompt tuning doesn t perform well under few-shot settings. So pre-trained prompt tuning (PPT) is proposed to initialize prompts by leveraging pre-training data. We propose MetaPT (Meta-learned Prompt Tuning) to further improve PPT s initialization by considering latent structure within the pre-training data. Specifically, we introduce the structure by first clustering pre Cites: BERTese: Learning to Speak to BERT

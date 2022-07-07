@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Relational Learning over Dirty Data Using Data Constraints"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "GY Lee - 2021"
----
+--- 
+layout: post 
+title: "Relational Learning over Dirty Data Using Data Constraints" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "GY Lee - 2021" 
+--- 
 Real-world datasets are dirty and contain many errors. Examples of these issues are violations of integrity constraints, duplicates, and inconsistencies in representing data values and entities. Applying machine learning on dirty databases may lead to inaccurate results. Users have to spend a lot of time and effort repairing data errors and creating a clean learning database. Moreover, as the information required to fix these errors is not often available, there may be numerous possible clean versions Cites: Introduction to statistical relational learning

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "X Zhao, Y Ren, Y Du, S Zhang, N Wang - arXiv preprint arXiv:2205.13795, 2022"
----
-Embedding & MLP has become a paradigm for modern large-scale recommendation system. However, this paradigm suffers from the cold-start problem which will seriously compromise the ecological health of recommendation systems. This paper attempts to tackle the item cold-start problem by generating enhanced warmed-up ID embeddings for cold items with historical data and limited interaction records. From the aspect of industrial practice, we mainly focus on the following three points of item  Cites: Multiobjective pareto-efficient approaches for recommender systems
+--- 
+layout: post 
+title: "Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "X Zhao, Y Ren, Y Du, S Zhang, N Wang - arXiv preprint arXiv:2205.13795, 2022" 
+--- 
+Embedding & MLP has become a paradigm for modern large-scale recommendation system. However, this paradigm suffers from the cold-start problem which will seriously compromise the ecological health of recommendation systems. This paper attempts to tackle the item cold-start problem by generating enhanced warmed-up ID embeddings for cold items with historical data and limited interaction records. From the aspect of industrial practice, we mainly focus on the following three points of item Cites: Multiobjective pareto-efficient approaches for recommender systems

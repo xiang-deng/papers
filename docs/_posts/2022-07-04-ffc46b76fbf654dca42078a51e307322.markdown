@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Explaining Link Prediction with Kelpie"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "A Rossi, D Firmani, P Merialdo, T Teofili - 2022"
----
-Link Prediction (LP) is the problem of inferring new facts in a Knowledge Graph from the already known ones. Recent advances in Machine Learning have led researchers to develop LP models that represent Knowledge Graph elements as vectors in an embedding space. This approach has led to greatly encouraging results, often outperforming traditional approaches; its main shortcoming is its opaqueness, hindering both our understanding and our trust in these models. In this  Cites: Anchors: High-Precision Model-Agnostic Explanations
+--- 
+layout: post 
+title: "Explaining Link Prediction with Kelpie" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "A Rossi, D Firmani, P Merialdo, T Teofili - 2022" 
+--- 
+Link Prediction (LP) is the problem of inferring new facts in a Knowledge Graph from the already known ones. Recent advances in Machine Learning have led researchers to develop LP models that represent Knowledge Graph elements as vectors in an embedding space. This approach has led to greatly encouraging results, often outperforming traditional approaches; its main shortcoming is its opaqueness, hindering both our understanding and our trust in these models. In this Cites: Anchors: High-Precision Model-Agnostic Explanations

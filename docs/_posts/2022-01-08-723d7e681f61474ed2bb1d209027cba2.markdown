@@ -1,8 +1,8 @@
----
-layout: post
-title:  "DigNet: Digging Clues from Local-Global Interactive Graph for Aspect-level Sentiment Classification"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "B Xing, I Tsang - arXiv preprint arXiv:2201.00989, 2022"
----
+--- 
+layout: post 
+title: "DigNet: Digging Clues from Local-Global Interactive Graph for Aspect-level Sentiment Classification" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "B Xing, I Tsang - arXiv preprint arXiv:2201.00989, 2022" 
+--- 
 In aspect-level sentiment classification (ASC), state-of-the-art models encode either syntax graph or relation graph to capture the local syntactic information or global relational information. Despite the advantages of syntax and relation graphs, they have respective shortages which are neglected, limiting the representation power in the graph modeling process. To resolve their limitations, we design a novel local- global interactive graph, which marries their advantages by stitching the two graphs Cites: Aspect level sentiment classification with deep memory network

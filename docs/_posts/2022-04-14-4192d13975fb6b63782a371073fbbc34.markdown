@@ -1,8 +1,8 @@
----
-layout: post
-title:  "InfoCensor: An Information-Theoretic Framework against Sensitive Attribute Inference and Demographic Disparity"
-date:   2022-04-14 01:14:43 -0400
-categories: jekyll update
-author: "T Zheng, B Li - 2022"
----
+--- 
+layout: post 
+title: "InfoCensor: An Information-Theoretic Framework against Sensitive Attribute Inference and Demographic Disparity" 
+date: 2022-04-14 01:14:43 -0400 
+categories: jekyll update 
+author: "T Zheng, B Li - 2022" 
+--- 
 Aided by big data and over-parameterization, modern deep learning techniques can achieve excellent performance in many learning tasks under benign environments. Therefore, at a rapid pace, deep learning is being deployed to diversified real-world applications, including some privacy or fairness-critical ones [24]. For privacycritical applications, there is a growing concern that deep learning would be a primary source of user privacy leakage in the future, and forestalling privacy leakage from Cites: Controllable Invariance through Adversarial Feature Learning

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "Q Yao, Y Wang, B Han, J Kwok - arXiv preprint arXiv:2205.03059, 2022"
----
-Nonconvex regularization has been popularly used in low-rank matrix learning. However, extending it for low-rank tensor learning is still computationally expensive. To address this problem, we develop an efficient solver for use with a nonconvex extension of the overlapped nuclear norm regularizer. Based on the proximal average algorithm, the proposed algorithm can avoid expensive tensor folding/unfolding operations. A special  sparse plus low-rank  structure is maintained Cites: Representing Text for Joint Embedding of Text and Knowledge
+--- 
+layout: post 
+title: "Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "Q Yao, Y Wang, B Han, J Kwok - arXiv preprint arXiv:2205.03059, 2022" 
+--- 
+Nonconvex regularization has been popularly used in low-rank matrix learning. However, extending it for low-rank tensor learning is still computationally expensive. To address this problem, we develop an efficient solver for use with a nonconvex extension of the overlapped nuclear norm regularizer. Based on the proximal average algorithm, the proposed algorithm can avoid expensive tensor folding/unfolding operations. A special sparse plus low-rank structure is maintained Cites: Representing Text for Joint Embedding of Text and Knowledge

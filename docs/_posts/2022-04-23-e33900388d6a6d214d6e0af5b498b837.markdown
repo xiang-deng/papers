@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "D Goel, R Grover, FH Fard - arXiv preprint arXiv:2204.08653, 2022"
----
+--- 
+layout: post 
+title: "On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "D Goel, R Grover, FH Fard - arXiv preprint arXiv:2204.08653, 2022" 
+--- 
 Pre-trained neural Language Models (PTLM), such as CodeBERT, are recently used in software engineering as models pre-trained on large source code corpora. Their knowledge is transferred to downstream tasks (eg code clone detection) via fine- tuning. In natural language processing (NLP), other alternatives for transferring the knowledge of PTLMs are explored through using adapters, compact, parameter efficient modules inserted in the layers of the PTLM. Although adapters are known to Cites: AdapterFusion: Non-destructive task composition for transfer learning

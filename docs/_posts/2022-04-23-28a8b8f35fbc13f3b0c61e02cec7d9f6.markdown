@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Back to the Future: Bidirectional Information Decoupling Network for Multi-turn Dialogue Modeling"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "Y Li, H Zhao, Z Zhang - arXiv preprint arXiv:2204.08152, 2022"
----
+--- 
+layout: post 
+title: "Back to the Future: Bidirectional Information Decoupling Network for Multi-turn Dialogue Modeling" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "Y Li, H Zhao, Z Zhang - arXiv preprint arXiv:2204.08152, 2022" 
+--- 
 Multi-turn dialogue modeling as a challenging branch of natural language understanding (NLU), aims to build representations for machines to understand human dialogues, which provides a solid foundation for multiple downstream tasks. Recent studies of dialogue modeling commonly employ pre-trained language models (PrLMs) to encode the dialogue history as successive tokens, which is insufficient in capturing the temporal characteristics of dialogues. Therefore, we Cites: Timedial: Temporal commonsense reasoning in dialog

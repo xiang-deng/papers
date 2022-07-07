@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "S Narayan, G Simes, Y Zhao, J Maynez, D Das - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "S Narayan, G Simes, Y Zhao, J Maynez, D Das - arXiv preprint arXiv , 2022" 
+--- 
 We propose Composition Sampling, a simple but effective method to generate diverse outputs for conditional generation of higher quality compared to previous stochastic decoding strategies. It builds on recently proposed plan-based neural generation models (Narayan et al, 2021) that are trained to first create a composition of the output and then generate by conditioning on it and the input. Our approach avoids text degeneration by first sampling a composition in the form of an entity chain Cites: Mixture content selection for diverse sequence generation

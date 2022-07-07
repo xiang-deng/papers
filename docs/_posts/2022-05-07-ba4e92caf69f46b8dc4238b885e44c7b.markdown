@@ -1,8 +1,8 @@
----
-layout: post
-title:  "High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "J Ba, MA Erdogdu, T Suzuki, Z Wang, D Wu, G Yang - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "J Ba, MA Erdogdu, T Suzuki, Z Wang, D Wu, G Yang - arXiv preprint arXiv , 2022" 
+--- 
 We study the first gradient descent step on the first-layer parameters $ boldsymbol {W} $ in a two-layer neural network: $ f ( boldsymbol {x})= frac {1}{ sqrt {N}} boldsymbol {a}^ top sigma ( boldsymbol {W}^ top boldsymbol {x}) $, where $ boldsymbol {W} in mathbb {R}^{d times N}, boldsymbol {a} in mathbb {R}^{N} $ are randomly initialized, and the training objective is the empirical MSE loss: $ frac {1}{n} sum_ {i= 1}^ n (f ( boldsymbol {x} _i)-y_i)^ 2$. In the proportional asymptotic Cites: The break-even point on optimization trajectories of deep neural

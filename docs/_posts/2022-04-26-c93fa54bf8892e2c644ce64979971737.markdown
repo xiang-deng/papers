@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Probing Script Knowledge from Pre-Trained Models"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "Z Jin, X Zhang, M Yu, L Huang - arXiv preprint arXiv:2204.10176, 2022"
----
+--- 
+layout: post 
+title: "Probing Script Knowledge from Pre-Trained Models" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "Z Jin, X Zhang, M Yu, L Huang - arXiv preprint arXiv:2204.10176, 2022" 
+--- 
 Script knowledge is critical for humans to understand the broad daily tasks and routine activities in the world. Recently researchers have explored the large-scale pre-trained language models (PLMs) to perform various script related tasks, such as story generation, temporal ordering of event, future event prediction and so on. However, it s still not well studied in terms of how well the PLMs capture the script knowledge. To answer this question, we design three probing tasks: inclusive sub Cites: Explain yourself! leveraging language models for commonsense

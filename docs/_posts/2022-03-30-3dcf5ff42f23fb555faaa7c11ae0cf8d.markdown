@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets"
-date:   2022-03-30 13:35:09 -0400
-categories: jekyll update
-author: "Y Wu, M Gardner, P Stenetorp, P Dasigi - arXiv preprint arXiv:2203.12942, 2022"
----
+--- 
+layout: post 
+title: "Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets" 
+date: 2022-03-30 13:35:09 -0400 
+categories: jekyll update 
+author: "Y Wu, M Gardner, P Stenetorp, P Dasigi - arXiv preprint arXiv:2203.12942, 2022" 
+--- 
 Natural language processing models often exploit spurious correlations between task-independent features and labels in datasets to perform well only within the distributions they are trained on, while not generalising to different task distributions

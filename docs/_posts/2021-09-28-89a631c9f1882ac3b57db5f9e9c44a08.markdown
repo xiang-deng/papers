@@ -1,8 +1,8 @@
----
-layout: post
-title:  "CC-Cert: A Probabilistic Approach to Certify General Robustness of Neural Networks"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "M Pautov, N Tursynbek, M Munkhoeva, N Muravev - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "CC-Cert: A Probabilistic Approach to Certify General Robustness of Neural Networks" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "M Pautov, N Tursynbek, M Munkhoeva, N Muravev - arXiv preprint arXiv , 2021" 
+--- 
 In safety-critical machine learning applications, it is crucial to defend models against adversarial attacks--small modifications of the input that change the predictions. Besides rigorously studied $ ell_p $-bounded additive perturbations, recently proposed semantic perturbations (eg rotation, translation) raise a serious concern on deploying ML systems in real-world. Therefore, it is important to provide provable guarantees for deep learning models against semantically meaningful input Cites: Semidefinite relaxations for certifying robustness to adversarial

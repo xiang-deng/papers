@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning to Augment Data in Graphs"
-date:   2022-06-01 23:51:30 -0400
-categories: jekyll update
-author: "T Zhao - 2022"
----
-Given the omnipresence of graph-structured data, graph machine learning has copious applications in multifarious fields such as social media, e-commerce platform, cyber-physical system, or chemical synthesis. Nonetheless, data driven models for graph data also face their unique challenges including over-smoothing caused by message passing-based graph neural networks, structural data sparsity brought by power-law distributions, lack of labelled data due to costly annotations  Cites: Unsupervised data augmentation for consistency training
+--- 
+layout: post 
+title: "Learning to Augment Data in Graphs" 
+date: 2022-06-01 23:51:30 -0400 
+categories: jekyll update 
+author: "T Zhao - 2022" 
+--- 
+Given the omnipresence of graph-structured data, graph machine learning has copious applications in multifarious fields such as social media, e-commerce platform, cyber-physical system, or chemical synthesis. Nonetheless, data driven models for graph data also face their unique challenges including over-smoothing caused by message passing-based graph neural networks, structural data sparsity brought by power-law distributions, lack of labelled data due to costly annotations Cites: Unsupervised data augmentation for consistency training

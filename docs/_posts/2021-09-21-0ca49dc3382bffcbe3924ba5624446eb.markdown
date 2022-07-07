@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On the Complementarity of Data Selection and Fine Tuning for Domain Adaptation"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "D Iter, D Grangier - arXiv preprint arXiv:2109.07591, 2021"
----
+--- 
+layout: post 
+title: "On the Complementarity of Data Selection and Fine Tuning for Domain Adaptation" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "D Iter, D Grangier - arXiv preprint arXiv:2109.07591, 2021" 
+--- 
 Domain adaptation of neural networks commonly relies on three training phases: pretraining, selected data training and then fine tuning. Data selection improves target domain generalization by training further on pretraining data identified by relying on a small sample of target domain data. This work examines the benefit of data selection for language modeling and machine translation. Our experiments assess the complementarity of selection with fine tuning and result in practical Cites: Distributionally robust language modeling

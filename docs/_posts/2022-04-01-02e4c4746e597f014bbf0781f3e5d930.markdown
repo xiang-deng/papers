@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Can NMT Understand Me? Towards Perturbation-based Evaluation of NMT Models for Code Generation"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "P Liguori, C Improta, S De Vivo, R Natella, B Cukic - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Can NMT Understand Me? Towards Perturbation-based Evaluation of NMT Models for Code Generation" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "P Liguori, C Improta, S De Vivo, R Natella, B Cukic - arXiv preprint arXiv , 2022" 
+--- 
 Neural Machine Translation (NMT) has reached a level of maturity to be recognized as the premier method for the translation between different languages and aroused interest in different research areas, including software engineering. A key step to validate the robustness of the NMT models consists in evaluating the performance of the models on adversarial inputs, ie, inputs obtained from the original ones by adding small amounts of perturbation. However, when dealing with the specific task Cites: Incorporating external knowledge through pre-training for natural

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "I Nejadgholi, KC Fraser, S Kiritchenko"
----
+--- 
+layout: post 
+title: "Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "I Nejadgholi, KC Fraser, S Kiritchenko" 
+--- 
 Robustness of machine learning models on ever-changing real-world data is critical, especially for applications affecting human wellbeing such as content moderation. New kinds of abusive language continually emerge in online discussions in response to current events (eg, COVID-19), and the deployed abuse detection systems should be updated regularly to remain accurate. In this paper, we show that general abusive language classifiers tend to be fairly reliable in detecting out-of Cites: Challenges in automated debiasing for toxic language detection

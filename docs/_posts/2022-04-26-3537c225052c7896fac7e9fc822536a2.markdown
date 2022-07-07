@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Adapting Distilled Knowledge for Few-shot Relation Reasoning over Knowledge Graphs"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "Y Zhang, Y Qian, Y Ye, C Zhang - Proceedings of the 2022 SIAM International , 2022"
----
+--- 
+layout: post 
+title: "Adapting Distilled Knowledge for Few-shot Relation Reasoning over Knowledge Graphs" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "Y Zhang, Y Qian, Y Ye, C Zhang - Proceedings of the 2022 SIAM International , 2022" 
+--- 
 Abstract Knowledge graphs (KGs) are serving as important resources for many applications, such as semantic search, question answering, or dialogue generation. As one of the fundamental tasks, multi-hop KG reasoning aims at generating effective and explainable relation prediction through reasoning paths. The current methods often require sufficient amount of training data (ie, fact triples) for each query relation, impairing their applicabilities and performances over few-shot relations (with limited Cites: Embedding entities and relations for learning and inference in

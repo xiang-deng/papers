@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Scientific and Technological Text Knowledge Extraction Method of based on Word Mixing and GRU"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "S Ouyang, Y Shao, J Du, A Li - arXiv preprint arXiv:2203.17079, 2022"
----
-The knowledge extraction task is to extract triple relations (head entity-relation-tail entity) from unstructured text data. The existing knowledge extraction methods are divided into  pipeline  method and joint extraction method. The  pipeline  method is to separate named entity recognition and entity relationship extraction and use their own modules to extract them. Although this method has better flexibility, the training speed is slow. The learning model of joint extraction is an end-to-end model Cites: Global inference for entity and relation identification via a linear
+--- 
+layout: post 
+title: "Scientific and Technological Text Knowledge Extraction Method of based on Word Mixing and GRU" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "S Ouyang, Y Shao, J Du, A Li - arXiv preprint arXiv:2203.17079, 2022" 
+--- 
+The knowledge extraction task is to extract triple relations (head entity-relation-tail entity) from unstructured text data. The existing knowledge extraction methods are divided into pipeline method and joint extraction method. The pipeline method is to separate named entity recognition and entity relationship extraction and use their own modules to extract them. Although this method has better flexibility, the training speed is slow. The learning model of joint extraction is an end-to-end model Cites: Global inference for entity and relation identification via a linear

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Number Entity Recognition"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "D Sundararaman, V Subramanian, G Wang, L Xu - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Number Entity Recognition" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "D Sundararaman, V Subramanian, G Wang, L Xu - arXiv preprint arXiv , 2022" 
+--- 
 Numbers are essential components of text, like any other word tokens, from which natural language processing (NLP) models are built and deployed. Though numbers are typically not accounted for distinctly in most NLP tasks, there is still an underlying amount of numeracy already exhibited by NLP models. In this work, we attempt to tap this potential of state-of-the-art NLP models and transfer their ability to boost performance in related tasks. Our proposed classification of numbers into entities Cites: Giving BERT a Calculator: Finding Operations and Arguments with

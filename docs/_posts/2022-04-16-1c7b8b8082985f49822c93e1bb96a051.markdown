@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Characterizing and Understanding the Behavior of Quantized Models for Reliable Deployment"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "Q Hu, Y Guo, M Cordy, X Xie, W Ma, M Papadakis - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Characterizing and Understanding the Behavior of Quantized Models for Reliable Deployment" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "Q Hu, Y Guo, M Cordy, X Xie, W Ma, M Papadakis - arXiv preprint arXiv , 2022" 
+--- 
 Deep Neural Networks (DNNs) have gained considerable attention in the past decades due to their astounding performance in different applications, such as natural language modeling, self-driving assistance, and source code understanding. With rapid exploration, more and more complex DNN architectures have been proposed along with huge pre-trained model parameters. The common way to use such DNN models in user-friendly devices (eg, mobile phones) is to perform model Cites: Graphcodebert: Pre-training code representations with data flow

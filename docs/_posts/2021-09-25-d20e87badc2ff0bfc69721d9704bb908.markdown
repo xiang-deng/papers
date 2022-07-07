@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "F Arabshahi, J Lee, A Bosselut, Y Choi, T Mitchell - arXiv preprint arXiv:2109.08544, 2021"
----
-One of the challenges faced by conversational agents is their inability to identify unstated presumptions of their users  commands, a task trivial for humans due to their common sense. In this paper, we propose a zero-shot commonsense reasoning system for conversational agents in an attempt to achieve this. Our reasoner uncovers unstated presumptions from user commands satisfying a general template of if-(state), then-(action), because-(goal). Our reasoner uses a state-of-the-art Cites: Dialog-to-action: Conversational question answering over a large
+--- 
+layout: post 
+title: "Conversational Multi-Hop Reasoning with Neural Commonsense Knowledge and Symbolic Logic Rules" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "F Arabshahi, J Lee, A Bosselut, Y Choi, T Mitchell - arXiv preprint arXiv:2109.08544, 2021" 
+--- 
+One of the challenges faced by conversational agents is their inability to identify unstated presumptions of their users commands, a task trivial for humans due to their common sense. In this paper, we propose a zero-shot commonsense reasoning system for conversational agents in an attempt to achieve this. Our reasoner uncovers unstated presumptions from user commands satisfying a general template of if-(state), then-(action), because-(goal). Our reasoner uses a state-of-the-art Cites: Dialog-to-action: Conversational question answering over a large

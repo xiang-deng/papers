@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Heterogeneous graph embedding with single-level aggregation and infomax encoding"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "N Chairatanakul, X Liu, NT Hoang, T Murata - Machine Learning, 2022"
----
+--- 
+layout: post 
+title: "Heterogeneous graph embedding with single-level aggregation and infomax encoding" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "N Chairatanakul, X Liu, NT Hoang, T Murata - Machine Learning, 2022" 
+--- 
 There has been an increasing interest in developing embedding methods for heterogeneous graph-structured data. The state-of-the-art approaches often adopt a bi-level aggregation scheme, where the first level aggregates information of neighbors belonging to the same type or group, and the second level employs the averaging or attention mechanism to aggregate the outputs of the first level. We find that bi-level aggregation may suffer from a down-weighting issue and overlook Cites: Embedding entities and relations for learning and inference in

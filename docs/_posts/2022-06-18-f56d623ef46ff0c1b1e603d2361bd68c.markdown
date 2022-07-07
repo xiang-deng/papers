@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Simplifying Access to Large-scale Structured Datasets by Meta-Profiling with Scalable Training Set Enrichment"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "S Pavia, R Khan, A Pyayt, M Gubanov -  of the 2022 International Conference on , 2022"
----
+--- 
+layout: post 
+title: "Simplifying Access to Large-scale Structured Datasets by Meta-Profiling with Scalable Training Set Enrichment" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "S Pavia, R Khan, A Pyayt, M Gubanov - of the 2022 International Conference on , 2022" 
+--- 
 Accessing large-scale structured datasets such as WDC [21], having millions of tables coming from hundreds of thousands of sources is very challenging [11, 13, 14, 30, 31]. Even if one topic (eg Job postings) is of interest, Jobs tables in different sources have hundreds of different schemas, which significantly complicates both finding and querying them. Cites: Webtables: exploring the power of tables on the web

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Submix: Practical Private Prediction for Large-Scale Language Models"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "A Ginart, L van der Maaten, J Zou, C Guo - arXiv preprint arXiv:2201.00971, 2022"
----
+--- 
+layout: post 
+title: "Submix: Practical Private Prediction for Large-Scale Language Models" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "A Ginart, L van der Maaten, J Zou, C Guo - arXiv preprint arXiv:2201.00971, 2022" 
+--- 
 Recent data-extraction attacks have exposed that language models can memorize some training samples verbatim. This is a vulnerability that can compromise the privacy of the model s training data. In this work, we introduce SubMix: a practical protocol for private next-token prediction designed to prevent privacy violations by language models that were fine-tuned on a private corpus after pre-training on a public corpus. We show that SubMix limits the leakage of information that is unique to Cites: Importance of search and evaluation strategies in neural dialogue

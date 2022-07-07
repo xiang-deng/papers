@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LEPUS: Prompt-based Unsupervised Multi-hop Reranking for Open-domain QA"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "M Khalifa, L Logeswaran, M Lee, H Lee, L Wang - arXiv preprint arXiv:2205.12650, 2022"
----
-We study unsupervised multi-hop reranking for multi-hop QA (MQA) with open-domain questions. Since MQA requires piecing information from multiple documents, the main challenge thus resides in retrieving and reranking chains of passages that support the reasoning process. Our approach relies on LargE models with Prompt-Utilizing reranking Strategy (LEPUS): we construct an instruction-like prompt based on a candidate document path and compute a relevance score of the path as the  Cites: Calibration of Pre-trained Transformers
+--- 
+layout: post 
+title: "LEPUS: Prompt-based Unsupervised Multi-hop Reranking for Open-domain QA" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "M Khalifa, L Logeswaran, M Lee, H Lee, L Wang - arXiv preprint arXiv:2205.12650, 2022" 
+--- 
+We study unsupervised multi-hop reranking for multi-hop QA (MQA) with open-domain questions. Since MQA requires piecing information from multiple documents, the main challenge thus resides in retrieving and reranking chains of passages that support the reasoning process. Our approach relies on LargE models with Prompt-Utilizing reranking Strategy (LEPUS): we construct an instruction-like prompt based on a candidate document path and compute a relevance score of the path as the Cites: Calibration of Pre-trained Transformers

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "When More Data Hurts: A Troubling Quirk in Developing Broad-Coverage Natural Language Understanding Systems"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "E Stengel-Eskin, EA Platanios, A Pauls, S Thomson - arXiv preprint arXiv , 2022"
----
-In natural language understanding (NLU) production systems, users  evolving needs necessitate the addition of new features over time, indexed by new symbols added to the meaning representation space. This requires additional training data and results in ever-growing datasets. We present the first systematic investigation into this incremental symbol learning scenario. Our analyses reveal a troubling quirk in building (broad-coverage) NLU systems: as the training dataset grows, more data is  Cites: Examining and Combating Spurious Features under Distribution Shift
+--- 
+layout: post 
+title: "When More Data Hurts: A Troubling Quirk in Developing Broad-Coverage Natural Language Understanding Systems" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "E Stengel-Eskin, EA Platanios, A Pauls, S Thomson - arXiv preprint arXiv , 2022" 
+--- 
+In natural language understanding (NLU) production systems, users evolving needs necessitate the addition of new features over time, indexed by new symbols added to the meaning representation space. This requires additional training data and results in ever-growing datasets. We present the first systematic investigation into this incremental symbol learning scenario. Our analyses reveal a troubling quirk in building (broad-coverage) NLU systems: as the training dataset grows, more data is Cites: Examining and Combating Spurious Features under Distribution Shift

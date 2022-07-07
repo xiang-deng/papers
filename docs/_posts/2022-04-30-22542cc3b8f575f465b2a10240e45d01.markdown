@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Which Discriminator for Cooperative Text Generation?"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "A Chaffin, T Scialom, S Lamprier, J Staiano - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Which Discriminator for Cooperative Text Generation?" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "A Chaffin, T Scialom, S Lamprier, J Staiano - arXiv preprint arXiv , 2022" 
+--- 
 Language models generate texts by successively predicting probability distributions for next tokens given past ones. A growing field of interest tries to leverage external information in the decoding process so that the generated texts have desired properties, such as being more natural, non toxic, faithful, or having a specific writing style. A solution is to use a classifier at each generation step, resulting in a cooperative environment where the classifier guides the decoding of the language Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in

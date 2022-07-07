@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Multi-Task Based Neural Model to Simulate Users in Goal-Oriented Dialogue Systems"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "TE Kim, A Lipani - Association for Computing Machinery, New York, NY , 2022"
----
-ABSTRACT A human-like user simulator that anticipates users  satisfaction scores, actions, and utterances can help goal-oriented dialogue systems in evaluating the conversation and refining their dialogue strategies. However, little work has experimented with user simulators which can generate users  utterances. In this paper, we propose a deep learning-based user simulator that predicts users satisfaction scores and actions while also jointly generating users  utterances in a Cites: BERT: Pre-training of Deep Bidirectional Transformers for
+--- 
+layout: post 
+title: "A Multi-Task Based Neural Model to Simulate Users in Goal-Oriented Dialogue Systems" 
+date: 2022-05-05 02:23:22 -0400 
+categories: jekyll update 
+author: "TE Kim, A Lipani - Association for Computing Machinery, New York, NY , 2022" 
+--- 
+ABSTRACT A human-like user simulator that anticipates users satisfaction scores, actions, and utterances can help goal-oriented dialogue systems in evaluating the conversation and refining their dialogue strategies. However, little work has experimented with user simulators which can generate users utterances. In this paper, we propose a deep learning-based user simulator that predicts users satisfaction scores and actions while also jointly generating users utterances in a Cites: BERT: Pre-training of Deep Bidirectional Transformers for

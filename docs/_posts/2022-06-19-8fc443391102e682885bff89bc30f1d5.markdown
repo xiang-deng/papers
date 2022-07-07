@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Privacy and Personalization in Cross-Silo Federated Learning"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "Z Liu, S Hu, ZS Wu, V Smith - arXiv preprint arXiv:2206.07902, 2022"
----
-While the application of differential privacy (DP) has been well-studied in cross-device federated learning (FL), there is a lack of work considering DP for cross-silo FL, a setting characterized by a limited number of clients each containing many data subjects. In cross-silo FL, usual notions of client-level privacy are less suitable as real-world privacy regulations typically concern in-silo data subjects rather than the silos themselves. In this work, we instead consider the more realistic notion of silo  Cites: Palm: Scaling language modeling with pathways
+--- 
+layout: post 
+title: "On Privacy and Personalization in Cross-Silo Federated Learning" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "Z Liu, S Hu, ZS Wu, V Smith - arXiv preprint arXiv:2206.07902, 2022" 
+--- 
+While the application of differential privacy (DP) has been well-studied in cross-device federated learning (FL), there is a lack of work considering DP for cross-silo FL, a setting characterized by a limited number of clients each containing many data subjects. In cross-silo FL, usual notions of client-level privacy are less suitable as real-world privacy regulations typically concern in-silo data subjects rather than the silos themselves. In this work, we instead consider the more realistic notion of silo Cites: Palm: Scaling language modeling with pathways

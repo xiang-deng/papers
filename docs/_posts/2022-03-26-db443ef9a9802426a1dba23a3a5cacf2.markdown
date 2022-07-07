@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Achieving Conversational Goals with Unsupervised Post-hoc Knowledge Injection"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "BP Majumder, H Jhamtani, T Berg-Kirkpatrick - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Achieving Conversational Goals with Unsupervised Post-hoc Knowledge Injection" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "BP Majumder, H Jhamtani, T Berg-Kirkpatrick - arXiv preprint arXiv , 2022" 
+--- 
 A limitation of current neural dialog models is that they tend to suffer from a lack of specificity and informativeness in generated responses, primarily due to dependence on training data that covers a limited variety of scenarios and conveys limited knowledge. One way to alleviate this issue is to extract relevant knowledge from external sources at decoding time and incorporate it into the dialog response. In this paper, we propose a post-hoc knowledge-injection technique where we first retrieve Cites: Human-like informative conversations: Better acknowledgements

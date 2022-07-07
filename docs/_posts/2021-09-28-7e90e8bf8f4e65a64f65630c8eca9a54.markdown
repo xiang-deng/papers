@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Self-Supervised Learning to Prove Equivalence Between Programs via Semantics-Preserving Rewrite Rules"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "S Kommrusch, M Monperrus, LN Pouchet - arXiv preprint arXiv:2109.10476, 2021"
----
+--- 
+layout: post 
+title: "Self-Supervised Learning to Prove Equivalence Between Programs via Semantics-Preserving Rewrite Rules" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "S Kommrusch, M Monperrus, LN Pouchet - arXiv preprint arXiv:2109.10476, 2021" 
+--- 
 We target the problem of synthesizing proofs of semantic equivalence between two programs made of sequences of statements with complex symbolic expressions. We propose a neural network architecture based on the transformer to generate axiomatic proofs of equivalence between program pairs. We generate expressions which include scalars and vectors and support multi-typed rewrite rules to prove equivalence. For training the system, we develop an original training technique Cites: DIRE: A neural approach to decompiled identifier naming

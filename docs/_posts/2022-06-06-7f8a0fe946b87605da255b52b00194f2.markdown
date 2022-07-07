@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "YH Liu, A Ghosh, BA Richards, E Shea-Brown - arXiv preprint arXiv , 2022"
----
-To unveil how the brain learns, ongoing work seeks biologically-plausible approximations of gradient descent algorithms for training recurrent neural networks (RNNs). Yet, beyond task accuracy, it is unclear if such learning rules converge to solutions that exhibit different levels of generalization than their nonbiologically-plausible counterparts. Leveraging results from deep learning theory based on loss landscape curvature, we ask: how do biologically-plausible gradient approximations  Cites: A unified framework of online learning algorithms for training
+--- 
+layout: post 
+title: "Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "YH Liu, A Ghosh, BA Richards, E Shea-Brown - arXiv preprint arXiv , 2022" 
+--- 
+To unveil how the brain learns, ongoing work seeks biologically-plausible approximations of gradient descent algorithms for training recurrent neural networks (RNNs). Yet, beyond task accuracy, it is unclear if such learning rules converge to solutions that exhibit different levels of generalization than their nonbiologically-plausible counterparts. Leveraging results from deep learning theory based on loss landscape curvature, we ask: how do biologically-plausible gradient approximations Cites: A unified framework of online learning algorithms for training

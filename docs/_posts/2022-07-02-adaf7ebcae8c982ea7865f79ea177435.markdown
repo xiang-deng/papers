@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Are We There Yet? A Decision Framework for Replacing Term Based Retrieval with Dense Retrieval Systems"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "S Hofsttter, N Craswell, B Mitra, H Zamani, A Hanbury - arXiv preprint arXiv , 2022"
----
-Recently, several dense retrieval (DR) models have demonstrated competitive performance to term-based retrieval that are ubiquitous in search systems. In contrast to term-based matching, DR projects queries and documents into a dense vector space and retrieves results via (approximate) nearest neighbor search. Deploying a new system, such as DR, inevitably involves tradeoffs in aspects of its performance. Established retrieval systems running at scale are usually well understood in terms of  Cites: NeurIPS 2020 EfficientQA competition: Systems, Analyses and
+--- 
+layout: post 
+title: "Are We There Yet? A Decision Framework for Replacing Term Based Retrieval with Dense Retrieval Systems" 
+date: 2022-07-02 02:42:16 -0400 
+categories: jekyll update 
+author: "S Hofsttter, N Craswell, B Mitra, H Zamani, A Hanbury - arXiv preprint arXiv , 2022" 
+--- 
+Recently, several dense retrieval (DR) models have demonstrated competitive performance to term-based retrieval that are ubiquitous in search systems. In contrast to term-based matching, DR projects queries and documents into a dense vector space and retrieves results via (approximate) nearest neighbor search. Deploying a new system, such as DR, inevitably involves tradeoffs in aspects of its performance. Established retrieval systems running at scale are usually well understood in terms of Cites: NeurIPS 2020 EfficientQA competition: Systems, Analyses and

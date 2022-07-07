@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Revisiting Transformer-based Models for Long Document Classification"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "X Dai, I Chalkidis, S Darkner, D Elliott - arXiv preprint arXiv:2204.06683, 2022"
----
+--- 
+layout: post 
+title: "Revisiting Transformer-based Models for Long Document Classification" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "X Dai, I Chalkidis, S Darkner, D Elliott - arXiv preprint arXiv:2204.06683, 2022" 
+--- 
 The recent literature in text classification is biased towards short text sequences (eg, sentences or paragraphs). In real-world applications, multi-page multi-paragraph documents are common and they cannot be efficiently encoded by vanilla Transformer-based models. We compare different Transformer-based Long Document Classification (TrLDC) approaches that aim to mitigate the computational overhead of vanilla transformers to encode much longer text, namely sparse Cites: Blockwise Self-Attention for Long Document Understanding

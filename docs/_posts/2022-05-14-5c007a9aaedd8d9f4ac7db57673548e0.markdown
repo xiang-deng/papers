@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Attribution-based Task-specific Pruning for Multi-task Language Models"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "N Yang, Y Jang, H Lee, S Jung, K Jung - arXiv preprint arXiv:2205.04157, 2022"
----
+--- 
+layout: post 
+title: "Attribution-based Task-specific Pruning for Multi-task Language Models" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "N Yang, Y Jang, H Lee, S Jung, K Jung - arXiv preprint arXiv:2205.04157, 2022" 
+--- 
 Multi-task language models show outstanding performance for various natural language understanding tasks with only a single model. However, these language models inevitably utilize unnecessary large-scale model parameters, even when they are used for only a specific task. In this paper, we propose a novel training-free task-specific pruning method for multi-task language models. Specifically, we utilize an attribution method to compute the importance of each neuron for performing a Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

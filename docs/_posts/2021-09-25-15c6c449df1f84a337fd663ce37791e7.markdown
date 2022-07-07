@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "X Li, W Gao, S Feng, D Wang, S Joty - International Conference on Information and , 2021"
----
+--- 
+layout: post 
+title: "Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "X Li, W Gao, S Feng, D Wang, S Joty - International Conference on Information and , 2021" 
+--- 
 We study the task of span-level emotion cause analysis (SECA), which is focused on identifying the specific emotion cause span (s) triggering a certain emotion in the text. Compared to the popular clause-level emotion cause analysis (CECA), it is a finer- grained emotion cause analysis (ECA) task. In this paper, we design a BERT-based graph attention network for emotion cause span (s) identification. The proposed model takes advantage of the structure of BERT to capture the relationship Cites: Bert: Pre-training of deep bidirectional transformers for language

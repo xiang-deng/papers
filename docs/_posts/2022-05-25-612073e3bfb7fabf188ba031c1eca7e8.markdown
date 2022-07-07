@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "Y Qiang, C Li, M Brocanelli, D Zhu"
----
-Bias in the training data can jeopardize fairness and explainability of deep neural network prediction on test data. We propose a novel bias-tailored data augmentation approach, Counterfactual Interpolation Augmentation (CIA), attempting to debias the training data by d-separating the spurious correlation between the target variable and the sensitive attribute. CIA generates counterfactual interpolations along a path simulating the distribution transitions between the input and its counterfactual  Cites: Do feature attribution methods correctly attribute features?
+--- 
+layout: post 
+title: "Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN" 
+date: 2022-05-25 22:16:33 -0400 
+categories: jekyll update 
+author: "Y Qiang, C Li, M Brocanelli, D Zhu" 
+--- 
+Bias in the training data can jeopardize fairness and explainability of deep neural network prediction on test data. We propose a novel bias-tailored data augmentation approach, Counterfactual Interpolation Augmentation (CIA), attempting to debias the training data by d-separating the spurious correlation between the target variable and the sensitive attribute. CIA generates counterfactual interpolations along a path simulating the distribution transitions between the input and its counterfactual Cites: Do feature attribution methods correctly attribute features?

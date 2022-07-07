@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Does entity abstraction help generative Transformers reason?"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "N Gontier, S Reddy, C Pal - arXiv preprint arXiv:2201.01787, 2022"
----
-Pre-trained language models (LMs) often struggle to reason logically or generalize in a compositional fashion. Recent work suggests that incorporating external entity knowledge can improve LMs  abilities to reason and generalize. However, the effect of explicitly providing entity abstraction remains unclear, especially with recent studies suggesting that pre-trained LMs already encode some of that knowledge in their parameters. We study the utility of incorporating entity type abstractions into pre Cites: Dissecting contextual word embeddings: Architecture and
+--- 
+layout: post 
+title: "Does entity abstraction help generative Transformers reason?" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "N Gontier, S Reddy, C Pal - arXiv preprint arXiv:2201.01787, 2022" 
+--- 
+Pre-trained language models (LMs) often struggle to reason logically or generalize in a compositional fashion. Recent work suggests that incorporating external entity knowledge can improve LMs abilities to reason and generalize. However, the effect of explicitly providing entity abstraction remains unclear, especially with recent studies suggesting that pre-trained LMs already encode some of that knowledge in their parameters. We study the utility of incorporating entity type abstractions into pre Cites: Dissecting contextual word embeddings: Architecture and

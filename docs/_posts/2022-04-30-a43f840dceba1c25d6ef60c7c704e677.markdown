@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Translation between Molecules and Natural Language"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "C Edwards, T Lai, K Ros, G Honke, H Ji - arXiv preprint arXiv:2204.11817, 2022"
----
+--- 
+layout: post 
+title: "Translation between Molecules and Natural Language" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "C Edwards, T Lai, K Ros, G Honke, H Ji - arXiv preprint arXiv:2204.11817, 2022" 
+--- 
 Joint representations between images and text have been deeply investigated in the literature. In computer vision, the benefits of incorporating natural language have become clear for enabling semantic-level control of images. In this work, we present $ textbf {MolT5}-$ a self-supervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings. $ textbf {MolT5} $ allows for new, useful, and challenging analogs of traditional vision Cites: Chemical-Reaction-Aware Molecule Representation Learning

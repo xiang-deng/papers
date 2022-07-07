@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "Y Shi, JX Cai, Y Shavit, TJ Mu, W Feng, K Zhang - arXiv preprint arXiv:2204.11700, 2022"
----
+--- 
+layout: post 
+title: "ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "Y Shi, JX Cai, Y Shavit, TJ Mu, W Feng, K Zhang - arXiv preprint arXiv:2204.11700, 2022" 
+--- 
 Graph Neural Networks (GNNs) with attention have been successfully applied for learning visual feature matching. However, current methods learn with complete graphs, resulting in a quadratic complexity in the number of features. Motivated by a prior observation that self-and cross-attention matrices converge to a sparse representation, we propose ClusterGNN, an attentional GNN architecture which operates on clusters for learning the feature matching task. Using a progressive Cites: Blockwise Self-Attention for Long Document Understanding

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "The Auto Arborist Dataset: A Large-Scale Benchmark for Multiview Urban Forest Monitoring Under Domain Shift"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "S Beery, G Wu, T Edwards, F Pavetic, B Majewski - Proceedings of the IEEE , 2022"
----
-Generalization to novel domains is a fundamental challenge for computer vision. Near-perfect accuracy on benchmarks is common, but these models do not work as expected when deployed outside of the training distribution. To build computer vision systems that truly solve real-world problems at global scale, we need benchmarks that fully capture real-world complexity, including geographic domain shift, long-tailed distributions, and data noise. We propose urban forest monitoring as an ideal  Cites: Wilds: A benchmark of in-the-wild distribution shifts
+--- 
+layout: post 
+title: "The Auto Arborist Dataset: A Large-Scale Benchmark for Multiview Urban Forest Monitoring Under Domain Shift" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "S Beery, G Wu, T Edwards, F Pavetic, B Majewski - Proceedings of the IEEE , 2022" 
+--- 
+Generalization to novel domains is a fundamental challenge for computer vision. Near-perfect accuracy on benchmarks is common, but these models do not work as expected when deployed outside of the training distribution. To build computer vision systems that truly solve real-world problems at global scale, we need benchmarks that fully capture real-world complexity, including geographic domain shift, long-tailed distributions, and data noise. We propose urban forest monitoring as an ideal Cites: Wilds: A benchmark of in-the-wild distribution shifts

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fairness in Graph Mining: A Survey"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "Y Dong, J Ma, C Chen, J Li - arXiv preprint arXiv:2204.09888, 2022"
----
+--- 
+layout: post 
+title: "Fairness in Graph Mining: A Survey" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "Y Dong, J Ma, C Chen, J Li - arXiv preprint arXiv:2204.09888, 2022" 
+--- 
 Graph mining algorithms have been playing a significant role in myriad fields over the years. However, despite their promising performance on various graph analytical tasks, most of these algorithms lack fairness considerations. As a consequence, they could lead to discrimination towards certain populations when exploited in human- centered applications. Recently, algorithmic fairness has been extensively studied in graph-based applications. In contrast to algorithmic fairness on independent and Cites: Group recommendation: Semantics and efficiency

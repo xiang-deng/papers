@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Understanding the Generalization Benefit of Normalization Layers: Sharpness Reduction"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "K Lyu, Z Li, S Arora - arXiv preprint arXiv:2206.07085, 2022"
----
-Normalization layers (eg, Batch Normalization, Layer Normalization) were introduced to help with optimization difficulties in very deep nets, but they clearly also help generalization, even in not-so-deep nets. Motivated by the long-held belief that flatter minima lead to better generalization, this paper gives mathematical analysis and supporting experiments suggesting that normalization (together with accompanying weight-decay) encourages GD to reduce the sharpness of loss surface. Here   Cites: The break-even point on optimization trajectories of deep neural
+--- 
+layout: post 
+title: "Understanding the Generalization Benefit of Normalization Layers: Sharpness Reduction" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "K Lyu, Z Li, S Arora - arXiv preprint arXiv:2206.07085, 2022" 
+--- 
+Normalization layers (eg, Batch Normalization, Layer Normalization) were introduced to help with optimization difficulties in very deep nets, but they clearly also help generalization, even in not-so-deep nets. Motivated by the long-held belief that flatter minima lead to better generalization, this paper gives mathematical analysis and supporting experiments suggesting that normalization (together with accompanying weight-decay) encourages GD to reduce the sharpness of loss surface. Here Cites: The break-even point on optimization trajectories of deep neural

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LIDER: An Efficient High-dimensional Learned Index for Large-scale Dense Passage Retrieval"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "Y Wang, H Ma, DZ Wang - arXiv preprint arXiv:2205.00970, 2022"
----
-Text retrieval using dense embeddings generated from deep neural models is called  dense passage retrieval . Dense passage retrieval systems normally deploy a deep neural model followed by an approximate nearest neighbor (ANN) search module. The model generates text embeddings, which are then indexed by the ANN module. With the increasing data scale, the ANN module unavoidably becomes the bottleneck on efficiency, because of its linear or sublinear time complexity with data Cites: Efficient passage retrieval with hashing for open-domain question
+--- 
+layout: post 
+title: "LIDER: An Efficient High-dimensional Learned Index for Large-scale Dense Passage Retrieval" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "Y Wang, H Ma, DZ Wang - arXiv preprint arXiv:2205.00970, 2022" 
+--- 
+Text retrieval using dense embeddings generated from deep neural models is called dense passage retrieval . Dense passage retrieval systems normally deploy a deep neural model followed by an approximate nearest neighbor (ANN) search module. The model generates text embeddings, which are then indexed by the ANN module. With the increasing data scale, the ANN module unavoidably becomes the bottleneck on efficiency, because of its linear or sublinear time complexity with data Cites: Efficient passage retrieval with hashing for open-domain question

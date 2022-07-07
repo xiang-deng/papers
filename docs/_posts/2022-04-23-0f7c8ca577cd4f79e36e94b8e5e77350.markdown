@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "MF Chen, DY Fu, A Narayan, M Zhang, Z Song - arXiv preprint arXiv , 2022"
----
-An ideal learned representation should display transferability and robustness. Supervised contrastive learning (SupCon) is a promising method for training accurate models, but produces representations that do not capture these properties due to class collapse--when all points in a class map to the same representation. Recent work suggests that  spreading out  these representations improves them, but the precise mechanism is poorly understood. We argue that creating spread alone is Cites: A framework for contrastive self-supervised learning and designing
+--- 
+layout: post 
+title: "Perfectly Balanced: Improving Transfer and Robustness of Supervised Contrastive Learning" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "MF Chen, DY Fu, A Narayan, M Zhang, Z Song - arXiv preprint arXiv , 2022" 
+--- 
+An ideal learned representation should display transferability and robustness. Supervised contrastive learning (SupCon) is a promising method for training accurate models, but produces representations that do not capture these properties due to class collapse--when all points in a class map to the same representation. Recent work suggests that spreading out these representations improves them, but the precise mechanism is poorly understood. We argue that creating spread alone is Cites: A framework for contrastive self-supervised learning and designing

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "CoNT: Contrastive Neural Text Generation"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "C An, J Feng, K Lv, L Kong, X Qiu, X Huang - arXiv preprint arXiv:2205.14690, 2022"
----
-Recently, contrastive learning attracts increasing interests in neural text generation as a new solution to alleviate the exposure bias problem. It introduces a sequence-level training signal which is crucial to generation tasks that always rely on auto-regressive decoding. However, previous methods using contrastive learning in neural text generation usually lead to inferior performance. In this paper, we analyse the underlying reasons and propose a new Contrastive Neural Text generation  Cites: RankGen: Improving Text Generation with Large Ranking Models
+--- 
+layout: post 
+title: "CoNT: Contrastive Neural Text Generation" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "C An, J Feng, K Lv, L Kong, X Qiu, X Huang - arXiv preprint arXiv:2205.14690, 2022" 
+--- 
+Recently, contrastive learning attracts increasing interests in neural text generation as a new solution to alleviate the exposure bias problem. It introduces a sequence-level training signal which is crucial to generation tasks that always rely on auto-regressive decoding. However, previous methods using contrastive learning in neural text generation usually lead to inferior performance. In this paper, we analyse the underlying reasons and propose a new Contrastive Neural Text generation Cites: RankGen: Improving Text Generation with Large Ranking Models

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Unified Semantic Typing with Meaningful Label Inference"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "JY Huang, B Li, J Xu, M Chen - arXiv preprint arXiv:2205.01826, 2022"
----
+--- 
+layout: post 
+title: "Unified Semantic Typing with Meaningful Label Inference" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "JY Huang, B Li, J Xu, M Chen - arXiv preprint arXiv:2205.01826, 2022" 
+--- 
 Semantic typing aims at classifying tokens or spans of interest in a textual context into semantic categories such as relations, entity types, and event types. The inferred labels of semantic categories meaningfully interpret how machines understand components of text. In this paper, we present UniST, a unified framework for semantic typing that captures label semantics by projecting both inputs and labels into a joint semantic embedding space. To formulate different lexical and relational semantic Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

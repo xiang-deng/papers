@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Genetic Algorithm for Evolving an Objective Function of a Program Synthesizer"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "N Efthymiou - 2022"
----
-Program Synthesis is a challenging problem in Artificial Intelligence. An important element of a program synthesizer is the objective function that guides the combinatorial search for a program that satisfies a given user intent. Given multiple I/O example transformations that correspond to the intended behavior of the program, this function evaluates the performance of a generated program based on the distance of its output to the correct output. In this study, we consider the possibility of  Cites: Neuro-symbolic program synthesis
+--- 
+layout: post 
+title: "Genetic Algorithm for Evolving an Objective Function of a Program Synthesizer" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "N Efthymiou - 2022" 
+--- 
+Program Synthesis is a challenging problem in Artificial Intelligence. An important element of a program synthesizer is the objective function that guides the combinatorial search for a program that satisfies a given user intent. Given multiple I/O example transformations that correspond to the intended behavior of the program, this function evaluates the performance of a generated program based on the distance of its output to the correct output. In this study, we consider the possibility of Cites: Neuro-symbolic program synthesis

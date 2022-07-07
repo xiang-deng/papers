@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-task recommendation system for scientific papers with high-way networks"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "A Karimi, S Dobnik - arXiv preprint arXiv:2204.09930, 2022"
----
+--- 
+layout: post 
+title: "Multi-task recommendation system for scientific papers with high-way networks" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "A Karimi, S Dobnik - arXiv preprint arXiv:2204.09930, 2022" 
+--- 
 Finding and selecting the most relevant scientific papers from a large number of papers written in a research community is one of the key challenges for researchers these days. As we know, much information around research interest for scholars and academicians belongs to papers they read. Analysis and extracting contextual features from these papers could help us to suggest the most related paper to them. In this paper, we present a multi-task recommendation system (RS) that predicts a Cites: Document modeling with gated recurrent neural network for

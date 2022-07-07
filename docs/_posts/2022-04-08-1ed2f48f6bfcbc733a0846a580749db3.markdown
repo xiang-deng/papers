@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Diverse Text Generation via Variational Encoder-Decoder Models with Gaussian Process Priors"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "W Du, J Zhao, L Wang, Y Ji - arXiv preprint arXiv:2204.01227, 2022"
----
+--- 
+layout: post 
+title: "Diverse Text Generation via Variational Encoder-Decoder Models with Gaussian Process Priors" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "W Du, J Zhao, L Wang, Y Ji - arXiv preprint arXiv:2204.01227, 2022" 
+--- 
 Generating high quality texts with high diversity is important for many NLG applications, but current methods mostly focus on building deterministic models to generate higher quality texts and do not provide many options for promoting diversity. In this work, we present a novel latent structured variable model to generate high quality texts by enriching contextual representation learning of encoder-decoder models. Specifically, we introduce a stochastic function to map deterministic encoder Cites: Mixture content selection for diverse sequence generation

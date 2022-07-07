@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning to Borrow--Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "H Hakami, M Hakami, A Mandya, D Bollegala - arXiv preprint arXiv:2204.13097, 2022"
----
+--- 
+layout: post 
+title: "Learning to Borrow--Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "H Hakami, M Hakami, A Mandya, D Bollegala - arXiv preprint arXiv:2204.13097, 2022" 
+--- 
 Prior work on integrating text corpora with knowledge graphs (KGs) to improve Knowledge Graph Embedding (KGE) have obtained good performance for entities that co-occur in sentences in text corpora. Such sentences (textual mentions of entity- pairs) are represented as Lexicalised Dependency Paths (LDPs) between two entities. However, it is not possible to represent relations between entities that do not co-occur in a single sentence using LDPs. In this paper, we propose and evaluate Cites: Embedding entities and relations for learning and inference in

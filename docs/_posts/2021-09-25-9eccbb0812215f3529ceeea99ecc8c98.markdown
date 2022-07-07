@@ -1,8 +1,8 @@
----
-layout: post
-title:  "AI Open"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "K Xiong, X Ding, L Du, T Liu"
----
+--- 
+layout: post 
+title: "AI Open" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "K Xiong, X Ding, L Du, T Liu" 
+--- 
 We focus on the task of stock market prediction based on financial text which contains information that could influence the movement of stock market. Previous works mainly utilize a single semantic unit of financial text, such as words, events, sentences, to predict the tendency of stock market. However, the interaction of differentgrained information within financial text can be useful for context knowledge supplement and predictive information selection, and then improve the performance Cites: Document modeling with gated recurrent neural network for

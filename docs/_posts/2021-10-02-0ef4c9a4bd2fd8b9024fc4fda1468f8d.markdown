@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Classification and Adversarial examples in an Overparameterized Linear Model: A Signal Processing Perspective"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "A Narang, V Muthukumar, A Sahai - arXiv preprint arXiv:2109.13215, 2021"
----
-State-of-the-art deep learning classifiers are heavily overparameterized with respect to the amount of training examples and observed to generalize well on  clean  data, but be highly susceptible to infinitesmal adversarial perturbations. In this paper, we identify an overparameterized linear ensemble, that uses the  lifted  Fourier feature map, that demonstrates both of these behaviors. The input is one-dimensional, and the adversary is only allowed to perturb these inputs and not the non-linear features Cites: Understanding and mitigating the tradeoff between robustness and
+--- 
+layout: post 
+title: "Classification and Adversarial examples in an Overparameterized Linear Model: A Signal Processing Perspective" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "A Narang, V Muthukumar, A Sahai - arXiv preprint arXiv:2109.13215, 2021" 
+--- 
+State-of-the-art deep learning classifiers are heavily overparameterized with respect to the amount of training examples and observed to generalize well on clean data, but be highly susceptible to infinitesmal adversarial perturbations. In this paper, we identify an overparameterized linear ensemble, that uses the lifted Fourier feature map, that demonstrates both of these behaviors. The input is one-dimensional, and the adversary is only allowed to perturb these inputs and not the non-linear features Cites: Understanding and mitigating the tradeoff between robustness and

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FreeTransfer-X: Safe and Label-Free Cross-Lingual Transfer from Off-the-Shelf Models"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "Y Guo, L Li, X Jiang, Q Liu - arXiv preprint arXiv:2206.06586, 2022"
----
-Cross-lingual transfer (CLT) is of various applications. However, labeled cross-lingual corpus is expensive or even inaccessible, especially in the fields where labels are private, such as diagnostic results of symptoms in medicine and user profiles in business. Nevertheless, there are off-the-shelf models in these sensitive fields. Instead of pursuing the original labels, a workaround for CLT is to transfer knowledge from the off-the-shelf models without labels. To this end, we define a  Cites: Cross-lingual Alignment vs Joint Training: A Comparative Study
+--- 
+layout: post 
+title: "FreeTransfer-X: Safe and Label-Free Cross-Lingual Transfer from Off-the-Shelf Models" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "Y Guo, L Li, X Jiang, Q Liu - arXiv preprint arXiv:2206.06586, 2022" 
+--- 
+Cross-lingual transfer (CLT) is of various applications. However, labeled cross-lingual corpus is expensive or even inaccessible, especially in the fields where labels are private, such as diagnostic results of symptoms in medicine and user profiles in business. Nevertheless, there are off-the-shelf models in these sensitive fields. Instead of pursuing the original labels, a workaround for CLT is to transfer knowledge from the off-the-shelf models without labels. To this end, we define a Cites: Cross-lingual Alignment vs Joint Training: A Comparative Study

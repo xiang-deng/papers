@@ -1,8 +1,8 @@
----
-layout: post
-title:  "INDIGO: Intrinsic Multimodality for Domain Generalization"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "P Mangla, S Chandhok, M Aggarwal - arXiv preprint arXiv , 2022"
----
-For models to generalize under unseen domains (aka domain generalization), it is crucial to learn feature representations that are domain-agnostic and capture the underlying semantics that makes up an object category. Recent advances towards weakly supervised vision-language models that learn holistic representations from cheap weakly supervised noisy text annotations have shown their ability on semantic understanding by capturing object characteristics that generalize under different  Cites: Vinvl: Making visual representations matter in vision-language
+--- 
+layout: post 
+title: "INDIGO: Intrinsic Multimodality for Domain Generalization" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "P Mangla, S Chandhok, M Aggarwal - arXiv preprint arXiv , 2022" 
+--- 
+For models to generalize under unseen domains (aka domain generalization), it is crucial to learn feature representations that are domain-agnostic and capture the underlying semantics that makes up an object category. Recent advances towards weakly supervised vision-language models that learn holistic representations from cheap weakly supervised noisy text annotations have shown their ability on semantic understanding by capturing object characteristics that generalize under different Cites: Vinvl: Making visual representations matter in vision-language

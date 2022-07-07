@@ -1,8 +1,8 @@
----
-layout: post
-title:  "How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "S Li, X Li, L Shang, Z Dong, C Sun, B Liu, Z Ji, X Jiang - arXiv preprint arXiv , 2022"
----
-Recently, there has been a trend to investigate the factual knowledge captured by Pre-trained Language Models (PLMs). Many works show the PLMs  ability to fill in the missing factual words in cloze-style prompts such as  Dante was born in [MASK]. However, it is still a mystery how PLMs generate the results correctly: relying on effective clues or shortcut patterns? We try to answer this question by a causal- inspired analysis that quantitatively measures and evaluates the word-level patterns Cites: Language models as knowledge bases?
+--- 
+layout: post 
+title: "How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "S Li, X Li, L Shang, Z Dong, C Sun, B Liu, Z Ji, X Jiang - arXiv preprint arXiv , 2022" 
+--- 
+Recently, there has been a trend to investigate the factual knowledge captured by Pre-trained Language Models (PLMs). Many works show the PLMs ability to fill in the missing factual words in cloze-style prompts such as Dante was born in [MASK]. However, it is still a mystery how PLMs generate the results correctly: relying on effective clues or shortcut patterns? We try to answer this question by a causal- inspired analysis that quantitatively measures and evaluates the word-level patterns Cites: Language models as knowledge bases?

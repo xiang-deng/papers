@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fast Maximal Clique Enumeration on Uncertain Graphs: A Pivot-based Approach"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "Q Dai, RH Li, M Liao, H Chen, G Wang -  of the 2022 International Conference on , 2022"
----
-Maximal clique enumeration on uncertain graphs is a fundamental problem in uncertain graph analysis. In this paper, we study a problem of enumerating all maximal (k, n)-cliques on an uncertain graph G, where a vertex set H of G is a maximal (k, n)-clique if (1) H (| H| k) is a clique with probability no less than n, and (2) H is a maximal vertex set satisfying (1). The state-of-the-art algorithms for enumerating all maximal (k, n)-cliques are based on a set enumeration technique  Cites: Never-ending learning
+--- 
+layout: post 
+title: "Fast Maximal Clique Enumeration on Uncertain Graphs: A Pivot-based Approach" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "Q Dai, RH Li, M Liao, H Chen, G Wang - of the 2022 International Conference on , 2022" 
+--- 
+Maximal clique enumeration on uncertain graphs is a fundamental problem in uncertain graph analysis. In this paper, we study a problem of enumerating all maximal (k, n)-cliques on an uncertain graph G, where a vertex set H of G is a maximal (k, n)-clique if (1) H (| H| k) is a clique with probability no less than n, and (2) H is a maximal vertex set satisfying (1). The state-of-the-art algorithms for enumerating all maximal (k, n)-cliques are based on a set enumeration technique Cites: Never-ending learning

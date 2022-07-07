@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Differentiable Reasoning over Long Stories--Assessing Systematic Generalisation in Neural Models"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "W Li, P Minervini - arXiv preprint arXiv:2203.10620, 2022"
----
+--- 
+layout: post 
+title: "Differentiable Reasoning over Long Stories--Assessing Systematic Generalisation in Neural Models" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "W Li, P Minervini - arXiv preprint arXiv:2203.10620, 2022" 
+--- 
 Contemporary neural networks have achieved a series of developments and successes in many aspects; however, when exposed to data outside the training distribution, they may fail to predict correct answers. In this work, we were concerned about this generalisation issue and thus analysed a broad set of models systematically and robustly over long stories. Related experiments were conducted based on the CLUTRR, which is a diagnostic benchmark suite that can analyse Cites: Learning by abstraction: The neural state machine

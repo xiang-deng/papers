@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Augmenting the User-Item Graph with Textual Similarity Models"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "F Lpez, M Scholz, J Yung, M Pellat, M Strube, L Dixon - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Augmenting the User-Item Graph with Textual Similarity Models" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "F Lpez, M Scholz, J Yung, M Pellat, M Strube, L Dixon - arXiv preprint arXiv , 2021" 
+--- 
 This paper introduces a simple and effective form of data augmentation for recommender systems. A paraphrase similarity model is applied to widely available textual data, such as reviews and product descriptions, yielding new semantic relations that are added to the user-item graph. This increases the density of the graph without needing further labeled data. The data augmentation is evaluated on a variety of recommendation algorithms, using Euclidean, hyperbolic, and complex Cites: Embedding entities and relations for learning and inference in

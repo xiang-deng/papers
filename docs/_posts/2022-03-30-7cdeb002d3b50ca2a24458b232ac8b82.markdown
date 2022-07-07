@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Building an Efficient and Scalable Learning System on Heterogeneous Cluster"
-date:   2022-03-30 13:35:09 -0400
-categories: jekyll update
-author: "D Yang - 2022"
----
+--- 
+layout: post 
+title: "Building an Efficient and Scalable Learning System on Heterogeneous Cluster" 
+date: 2022-03-30 13:35:09 -0400 
+categories: jekyll update 
+author: "D Yang - 2022" 
+--- 
 Deep Learning (DL) has been widely applied in both academia and industry. System innovations can continue to squeeze more efficiency out of modern hardware. Existing systems such as TensorFlow, MXNet, and PyTorch have emerged to assist researchers in training their models on a large scale. However, obtaining performant execution for different DL jobs on heterogeneous hardware platforms is notoriously difficult. We found that current solutions show relatively low scalability and Cites: Recursive deep models for semantic compositionality over a

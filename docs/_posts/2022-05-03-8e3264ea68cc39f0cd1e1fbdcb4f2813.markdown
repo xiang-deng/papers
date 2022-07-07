@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Utilizing Language Model Probes for Knowledge Graph Repair"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "H Arnaout, TK Tran, D Stepanova, MH Gad-Elrab - 2022"
----
+--- 
+layout: post 
+title: "Utilizing Language Model Probes for Knowledge Graph Repair" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "H Arnaout, TK Tran, D Stepanova, MH Gad-Elrab - 2022" 
+--- 
 Structured knowledge is an important backend in the Wikimedia ecosystem, and knowledge graphs (KGs) like Wikidata are an asset also in many other applications like web search and question answering. At web scale, it is unavoidable that KGs contain erroneous statements. While error detection and subsequent removal of incorrect facts have received attention in prior works, a better approach is to repair errors without losing information. This paper presents a novel method to repair Cites: Language models as fact checkers?

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Structural Transformer with Relative Positions in Trees for Code-to-Sequence Tasks"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "J Villmow, A Ulges, U Schwanecke - 2021 International Joint Conference on Neural , 2021"
----
+--- 
+layout: post 
+title: "A Structural Transformer with Relative Positions in Trees for Code-to-Sequence Tasks" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "J Villmow, A Ulges, U Schwanecke - 2021 International Joint Conference on Neural , 2021" 
+--- 
 We suggest two approaches to incorporate syntactic information into transformer models encoding trees (eg abstract syntax trees) and generating sequences. First, we use self-attention with relative position representations to consider structural relationships between nodes using a representation that encodes movements between any pair of nodes in the tree, and demonstrate how those movements can be computed efficiently on the fly. Second, we suggest an auxiliary loss enforcing the Cites: A syntactic neural model for general-purpose code generation

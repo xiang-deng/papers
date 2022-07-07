@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Representative Data Selection for Sequence-to-Sequence Pre-training"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "H Song, R Dabre, Z Mao, C Chu, S Kurohashi"
----
+--- 
+layout: post 
+title: "Representative Data Selection for Sequence-to-Sequence Pre-training" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "H Song, R Dabre, Z Mao, C Chu, S Kurohashi" 
+--- 
 Pre-trained sequence-to-sequence models such as BART [1] have helped improve natural language generation quality. However, training large models is resourceconsuming. We propose a data selection algorithm that selects a tiny but representative subset from billion-scale datasets. Experimental results show that pre- training with 0. 26% data and 4. 4% energy consumption achieves about 90% BLEU scores onmachine translation (MT) tasks and ROUGE scores on text summarization Cites: Overview of the 6th workshop on Asian translation

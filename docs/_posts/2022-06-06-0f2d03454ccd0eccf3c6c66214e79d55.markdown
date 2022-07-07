@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semi-supervised multitask learning using convolutional autoencoder for faulty code detection with limited data"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "AV Phan, KDT Nguyen, LT Bui - Applied Intelligence, 2022"
----
-Detecting faults in source code to fix is an important task in the software quality assurance. Building automated detectors using machine learning has been faced two big challenges of data imbalance and shortages. To address the issues, this paper proposes a deep neural network and training procedures to allow learning with limited annotated data. The network is composed of an unsupervised auto-encoder and a supervised classifier. The two components share some first layers that  Cites: Deep contextualized word representations
+--- 
+layout: post 
+title: "Semi-supervised multitask learning using convolutional autoencoder for faulty code detection with limited data" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "AV Phan, KDT Nguyen, LT Bui - Applied Intelligence, 2022" 
+--- 
+Detecting faults in source code to fix is an important task in the software quality assurance. Building automated detectors using machine learning has been faced two big challenges of data imbalance and shortages. To address the issues, this paper proposes a deep neural network and training procedures to allow learning with limited annotated data. The network is composed of an unsupervised auto-encoder and a supervised classifier. The two components share some first layers that Cites: Deep contextualized word representations

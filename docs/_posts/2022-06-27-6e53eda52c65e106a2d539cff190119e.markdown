@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-word terms selection for information retrieval"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "CB Ali, H Haddad, Y Slimani - Information Discovery and Delivery, 2022"
----
-Purpose A number of approaches and algorithms have been proposed over the years as a basis for automatic indexing. Many of these approaches suffer from precision inefficiency at low recall. The choice of indexing units has a great impact on search system effectiveness. The authors dive beyond simple terms indexing to propose a framework for multi-word terms (MWT) filtering and indexing. Design/methodology/approach In this paper, the authors rely on ranking MWT to filter  Cites: Multi-stage document ranking with BERT
+--- 
+layout: post 
+title: "Multi-word terms selection for information retrieval" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "CB Ali, H Haddad, Y Slimani - Information Discovery and Delivery, 2022" 
+--- 
+Purpose A number of approaches and algorithms have been proposed over the years as a basis for automatic indexing. Many of these approaches suffer from precision inefficiency at low recall. The choice of indexing units has a great impact on search system effectiveness. The authors dive beyond simple terms indexing to propose a framework for multi-word terms (MWT) filtering and indexing. Design/methodology/approach In this paper, the authors rely on ranking MWT to filter Cites: Multi-stage document ranking with BERT

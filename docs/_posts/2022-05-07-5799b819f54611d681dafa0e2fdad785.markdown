@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Inferring Implicit Relations with Language Models"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "U Katz, M Geva, J Berant - arXiv preprint arXiv:2204.13778, 2022"
----
+--- 
+layout: post 
+title: "Inferring Implicit Relations with Language Models" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "U Katz, M Geva, J Berant - arXiv preprint arXiv:2204.13778, 2022" 
+--- 
 A prominent challenge for modern language understanding systems is the ability to answer implicit reasoning questions, where the required reasoning steps for answering the question are not mentioned in the text explicitly. In this work, we investigate why current models struggle with implicit reasoning question answering (QA) tasks, by decoupling inference of reasoning steps from their execution. We define a new task of implicit relation inference and construct a benchmark Cites: Qa-gnn: Reasoning with language models and knowledge graphs

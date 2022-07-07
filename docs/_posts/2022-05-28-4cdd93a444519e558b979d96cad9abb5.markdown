@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Table Retrieval May Not Necessitate Table-specific Model Design"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "Z Wang, Z Jiang, E Nyberg, G Neubig - arXiv preprint arXiv:2205.09843, 2022"
----
-Tables are an important form of structured data for both human and machine readers alike, providing answers to questions that cannot, or cannot easily, be found in texts. Recent work has designed special models and training paradigms for table-related tasks such as table-based question answering and table retrieval. Though effective, they add complexity in both modeling and data acquisition compared to generic text solutions and obscure which elements are truly beneficial. In this work, we focus on  Cites: UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge
+--- 
+layout: post 
+title: "Table Retrieval May Not Necessitate Table-specific Model Design" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "Z Wang, Z Jiang, E Nyberg, G Neubig - arXiv preprint arXiv:2205.09843, 2022" 
+--- 
+Tables are an important form of structured data for both human and machine readers alike, providing answers to questions that cannot, or cannot easily, be found in texts. Recent work has designed special models and training paradigms for table-related tasks such as table-based question answering and table retrieval. Though effective, they add complexity in both modeling and data acquisition compared to generic text solutions and obscure which elements are truly beneficial. In this work, we focus on Cites: UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge

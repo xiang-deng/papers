@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Superdense-Scale Network for Semantic Segmentation"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "Z Li, J Jiang, X Chen, H Qi, Q Li, J Liu, L Zheng, M Liu - Neurocomputing, 2022"
----
-Great progress has been made in semantic segmentation based on deep convolutional neural networks. However, semantic segmentation in complex scenes remains challenging due to the large-scale variation problem. To handle this problem, the existing methods usually employ multiple receptive fields to capture multiscale features. Some works have verified that the denser the different receptive fields (scales), the easier it is to address the large-scale variation problem. To make  Cites: Espnet: Efficient spatial pyramid of dilated convolutions for
+--- 
+layout: post 
+title: "Superdense-Scale Network for Semantic Segmentation" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "Z Li, J Jiang, X Chen, H Qi, Q Li, J Liu, L Zheng, M Liu - Neurocomputing, 2022" 
+--- 
+Great progress has been made in semantic segmentation based on deep convolutional neural networks. However, semantic segmentation in complex scenes remains challenging due to the large-scale variation problem. To handle this problem, the existing methods usually employ multiple receptive fields to capture multiscale features. Some works have verified that the denser the different receptive fields (scales), the easier it is to address the large-scale variation problem. To make Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

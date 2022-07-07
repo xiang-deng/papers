@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Analyzing the Contribution of Commonsense Knowledge Sources for Why-Question Answering"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "YK Lal, H Liu, N Tandon, N Chambers, R Mooney - ACL 2022 Workshop on , 2022"
----
+--- 
+layout: post 
+title: "Analyzing the Contribution of Commonsense Knowledge Sources for Why-Question Answering" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "YK Lal, H Liu, N Tandon, N Chambers, R Mooney - ACL 2022 Workshop on , 2022" 
+--- 
 Answering questions about why events happen in narratives requires commonsense knowledge that is external to the narrative. What aspects of this knowledge is accessible to large models? What aspects can be made accessible via external commonsense resources? We study these in the context of answering Why questions in the TellMeWhy dataset using COMET as a source of relevant commonsense relations. We analyze the relative improvements over a base T5 Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

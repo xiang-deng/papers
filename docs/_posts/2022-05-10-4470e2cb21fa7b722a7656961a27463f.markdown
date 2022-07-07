@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Language Models in the Loop: Incorporating Prompting into Weak Supervision"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "R Smith, JA Fries, B Hancock, SH Bach - arXiv preprint arXiv:2205.02318, 2022"
----
+--- 
+layout: post 
+title: "Language Models in the Loop: Incorporating Prompting into Weak Supervision" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "R Smith, JA Fries, B Hancock, SH Bach - arXiv preprint arXiv:2205.02318, 2022" 
+--- 
 We propose a new strategy for applying large pre-trained language models to novel tasks when labeled training data is limited. Rather than apply the model in a typical zero-shot or few-shot fashion, we treat the model as the basis for labeling functions in a weak supervision framework. To create a classifier, we first prompt the model to answer multiple distinct queries about an example and define how the possible responses should be mapped to votes for labels and abstentions. We then denoise Cites: ZeroGen: Efficient Zero-shot Learning via Dataset Generation

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "RoMe: A Robust Metric for Evaluating Natural Language Generation"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "MRAH Rony, L Kovriguina, D Chaudhuri, R Usbeck - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "RoMe: A Robust Metric for Evaluating Natural Language Generation" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "MRAH Rony, L Kovriguina, D Chaudhuri, R Usbeck - arXiv preprint arXiv , 2022" 
+--- 
 Evaluating Natural Language Generation (NLG) systems is a challenging task. Firstly, the metric should ensure that the generated hypothesis reflects the reference s semantics. Secondly, it should consider the grammatical quality of the generated sentence. Thirdly, it should be robust enough to handle various surface forms of the generated sentence. Thus, an effective evaluation metric has to be multifaceted. In this paper, we propose an automatic evaluation metric incorporating Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

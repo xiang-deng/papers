@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Methods and systems for generating textual summary from tabular data"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "M Rawat, L Vig, A Sangroya, G Shroff - US Patent App. 17/319,635, 2021"
----
+--- 
+layout: post 
+title: "Methods and systems for generating textual summary from tabular data" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "M Rawat, L Vig, A Sangroya, G Shroff - US Patent App. 17/319,635, 2021" 
+--- 
 This disclosure relates generally to methods and systems for generating a textual summary from a tabular data. During the textual summary generation using conventional end-to-end neural network-based techniques, a numeric data present in the tables is encoded via textual embeddings. However, the textual embeddings cannot reliably encode information about numeric concepts and relationships. The methods and systems generate the textual summary from the tabular data, by Cites: Generation of text from structured data

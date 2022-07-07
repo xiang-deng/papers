@@ -1,8 +1,8 @@
----
-layout: post
-title:  "CILDA: Contrastive Data Augmentation using Intermediate Layer Knowledge Distillation"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "MA Haidar, M Rezagholizadeh, A Ghaddar, K Bibi - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "CILDA: Contrastive Data Augmentation using Intermediate Layer Knowledge Distillation" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "MA Haidar, M Rezagholizadeh, A Ghaddar, K Bibi - arXiv preprint arXiv , 2022" 
+--- 
 Knowledge distillation (KD) is an efficient framework for compressing large-scale pre- trained language models. Recent years have seen a surge of research aiming to improve KD by leveraging Contrastive Learning, Intermediate Layer Distillation, Data Augmentation, and Adversarial Training. In this work, we propose a learning based data augmentation technique tailored for knowledge distillation, called CILDA. To the best of our knowledge, this is the first time that intermediate layer representations of Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

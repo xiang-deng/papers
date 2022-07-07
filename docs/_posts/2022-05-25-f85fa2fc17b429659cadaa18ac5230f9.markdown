@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Tiny RNN Model with Certified Robustness for Text Classification"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "Y Qiang, STS Kumar, M Brocanelli, D Zhu"
----
-Mobile artificial intelligence has recently gained more attention due to the increasing computing power of mobile devices and applications in computer vision, natural language processing, and internet of things. Although large pre-trained language models (eg, BERT, GPT) have recently achieved the state-of-the-art results on text classification tasks, they are not well suited for latency critical applications on mobile devices. Therefore, it is essential to design tiny models to reduce their memory and  Cites: Word embeddings with limited memory
+--- 
+layout: post 
+title: "Tiny RNN Model with Certified Robustness for Text Classification" 
+date: 2022-05-25 22:16:33 -0400 
+categories: jekyll update 
+author: "Y Qiang, STS Kumar, M Brocanelli, D Zhu" 
+--- 
+Mobile artificial intelligence has recently gained more attention due to the increasing computing power of mobile devices and applications in computer vision, natural language processing, and internet of things. Although large pre-trained language models (eg, BERT, GPT) have recently achieved the state-of-the-art results on text classification tasks, they are not well suited for latency critical applications on mobile devices. Therefore, it is essential to design tiny models to reduce their memory and Cites: Word embeddings with limited memory

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Continual Model Refinement in Out-of-Distribution Data Streams"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "BY Lin, S Wang, XV Lin, R Jia, L Xiao, X Ren, W Yih - arXiv preprint arXiv:2205.02014, 2022"
----
+--- 
+layout: post 
+title: "On Continual Model Refinement in Out-of-Distribution Data Streams" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "BY Lin, S Wang, XV Lin, R Jia, L Xiao, X Ren, W Yih - arXiv preprint arXiv:2205.02014, 2022" 
+--- 
 Real-world natural language processing (NLP) models need to be continually updated to fix the prediction errors in out-of-distribution (OOD) data streams while overcoming catastrophic forgetting. However, existing continual learning (CL) problem setups cannot cover such a realistic and complex scenario. In response to this, we propose a new CL problem formulation dubbed continual model refinement (CMR). Compared to prior CL settings, CMR is more practical and introduces unique Cites: Fast model editing at scale

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Robust Text Perturbation using Sequence-to-Sequence Pre-Training"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "N Madaan, D Saha, S Bedathur"
----
-Large Transformer-based models have shown great performance in sequence-tosequence tasks such as machine translation, text summarization etc. While these models perform well on the original task they have been trained on, it is hard to use them for a new but related task. We propose CASPer, a framework to perturb the input-output behavior of the original pre-trained sequence-to-sequence model. CASPer learns a perturbation parameter at test time to modify the behavior of pre  Cites: Polyjuice: Automated, general-purpose counterfactual generation
+--- 
+layout: post 
+title: "Robust Text Perturbation using Sequence-to-Sequence Pre-Training" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "N Madaan, D Saha, S Bedathur" 
+--- 
+Large Transformer-based models have shown great performance in sequence-tosequence tasks such as machine translation, text summarization etc. While these models perform well on the original task they have been trained on, it is hard to use them for a new but related task. We propose CASPer, a framework to perturb the input-output behavior of the original pre-trained sequence-to-sequence model. CASPer learns a perturbation parameter at test time to modify the behavior of pre Cites: Polyjuice: Automated, general-purpose counterfactual generation

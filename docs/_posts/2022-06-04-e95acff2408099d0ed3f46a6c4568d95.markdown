@@ -1,8 +1,8 @@
----
-layout: post
-title:  "BadDet: Backdoor Attacks on Object Detection"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "SH Chan, Y Dong, J Zhu, X Zhang, J Zhou - arXiv preprint arXiv:2205.14497, 2022"
----
-Deep learning models have been deployed in numerous real-world applications such as autonomous driving and surveillance. However, these models are vulnerable in adversarial environments. Backdoor attack is emerging as a severe security threat which injects a backdoor trigger into a small portion of training data such that the trained model behaves normally on benign inputs but gives incorrect predictions when the specific trigger appears. While most research in backdoor  Cites: Weight Poisoning Attacks on Pre-trained Models
+--- 
+layout: post 
+title: "BadDet: Backdoor Attacks on Object Detection" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "SH Chan, Y Dong, J Zhu, X Zhang, J Zhou - arXiv preprint arXiv:2205.14497, 2022" 
+--- 
+Deep learning models have been deployed in numerous real-world applications such as autonomous driving and surveillance. However, these models are vulnerable in adversarial environments. Backdoor attack is emerging as a severe security threat which injects a backdoor trigger into a small portion of training data such that the trained model behaves normally on benign inputs but gives incorrect predictions when the specific trigger appears. While most research in backdoor Cites: Weight Poisoning Attacks on Pre-trained Models

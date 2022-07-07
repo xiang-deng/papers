@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SimA: Simple Softmax-free Attention for Vision Transformers"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "SA Koohpayegani, H Pirsiavash - arXiv preprint arXiv:2206.08898, 2022"
----
-Recently, vision transformers have become very popular. However, deploying them in many applications is computationally expensive partly due to the Softmax layer in the attention block. We introduce a simple but effective, Softmax-free attention block, SimA, which normalizes query and key matrices with simple $\ell_1 $-norm instead of using Softmax layer. Then, the attention block in SimA is a simple multiplication of three matrices, so SimA can dynamically change the ordering of the computation at  Cites: Random feature attention
+--- 
+layout: post 
+title: "SimA: Simple Softmax-free Attention for Vision Transformers" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "SA Koohpayegani, H Pirsiavash - arXiv preprint arXiv:2206.08898, 2022" 
+--- 
+Recently, vision transformers have become very popular. However, deploying them in many applications is computationally expensive partly due to the Softmax layer in the attention block. We introduce a simple but effective, Softmax-free attention block, SimA, which normalizes query and key matrices with simple $\ell_1 $-norm instead of using Softmax layer. Then, the attention block in SimA is a simple multiplication of three matrices, so SimA can dynamically change the ordering of the computation at Cites: Random feature attention

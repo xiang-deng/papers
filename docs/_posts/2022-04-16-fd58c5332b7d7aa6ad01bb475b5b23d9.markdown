@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Impact of Evaluation Methodologies on Code Summarization"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "P Nie, J Zhang, JJ Li, RJ Mooney, M Gligoric - ACL, page (To Appear), 2022"
----
+--- 
+layout: post 
+title: "Impact of Evaluation Methodologies on Code Summarization" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "P Nie, J Zhang, JJ Li, RJ Mooney, M Gligoric - ACL, page (To Appear), 2022" 
+--- 
 There has been a growing interest in developing machine learning (ML) models for code summarization tasks, eg, comment generation and method naming. Despite substantial increase in the effectiveness of ML models, the evaluation methodologies, ie, the way people split datasets into training, validation, and test sets, were not well studied. Specifically, no prior work on code summarization considered the timestamps of code and comments during evaluation. This may lead Cites: Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming

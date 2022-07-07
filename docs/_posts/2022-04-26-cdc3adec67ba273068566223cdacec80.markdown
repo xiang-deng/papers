@@ -1,8 +1,8 @@
----
-layout: post
-title:  "How to train your self-supervised NLP model: Investigating pre-training objectives, data, and scale"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "M Joshi - 2022"
----
+--- 
+layout: post 
+title: "How to train your self-supervised NLP model: Investigating pre-training objectives, data, and scale" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "M Joshi - 2022" 
+--- 
 A robust language processing machine should be able to encode linguistic and factual knowledge across a wide variety of domains, languages, and even modalities. The paradigm of pre-training self-supervised models on large text corpora has driven much of recent progress towards this goal. In spite of this large scale pre-training, the best performing models have to be further fine-tuned on downstream tasks--often containing hundreds of thousands of examples--to achieve Cites: Knowledge guided text retrieval and reading for open domain

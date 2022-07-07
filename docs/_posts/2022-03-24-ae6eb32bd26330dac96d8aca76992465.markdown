@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-hop reading comprehension over Wikipedia"
-date:   2022-03-24 01:59:24 -0400
-categories: jekyll update
-author: "D Li, Y Zhong, C Wei, Y Han - Proc. of SPIE Vol, 2022"
----
+--- 
+layout: post 
+title: "Multi-hop reading comprehension over Wikipedia" 
+date: 2022-03-24 01:59:24 -0400 
+categories: jekyll update 
+author: "D Li, Y Zhong, C Wei, Y Han - Proc. of SPIE Vol, 2022" 
+--- 
 In open-domain question answering, especially in multi-hop question answering, it is important to extract clues related to the question from the huge knowledge base for the next-hop reasoning. Most of the current question answering methods do not make full use of the knowledge base to retrieve clues. To answer complex questions more accurately, in this article, we first extract the clue paragraphs related to the problem from the Wikipedia knowledge base to construct the representation of a fine Cites: HotpotQA: A dataset for diverse, explainable multi-hop question

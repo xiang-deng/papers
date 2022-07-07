@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improved Worst-Group Robustness via Classifier Retraining on Independent Splits"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "TH Nguyen, HR Zhang, HL Nguyen - arXiv preprint arXiv:2204.09583, 2022"
----
+--- 
+layout: post 
+title: "Improved Worst-Group Robustness via Classifier Retraining on Independent Splits" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "TH Nguyen, HR Zhang, HL Nguyen - arXiv preprint arXiv:2204.09583, 2022" 
+--- 
 High-capacity deep neural networks (DNNs) trained with Empirical Risk Minimization (ERM) often suffer from poor worst-group accuracy despite good on-average performance, where worst-group accuracy measures a model s robustness towards certain subpopulations of the input space. Spurious correlations and memorization behaviors of ERM trained DNNs are typically attributed to this degradation in performance. We develop a method, called CRIS, that address these issues by Cites: Just train twice: Improving group robustness without training group

@@ -1,8 +1,8 @@
----
-layout: post
-title:  ": A Faithful Contrastive Framework for Response Generation in TableQA Systems"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "S Fang, J Chen, X Shen, Y Chen, Y Xiao - International Conference on Database , 2022"
----
+--- 
+layout: post 
+title: ": A Faithful Contrastive Framework for Response Generation in TableQA Systems" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "S Fang, J Chen, X Shen, Y Chen, Y Xiao - International Conference on Database , 2022" 
+--- 
 In a practical TableQA system, response generation is a critical module to generate a natural language description of the SQL and the execution result. Due to the complex syntax of SQL and matching issues with table content, this task is prone to produce factual errors. In this paper, we propose FalCon, a Fa ithfu l Con trastive generation framework to improve the factual correctness of generated responses. FalCon forces the generation model to identify examples with factual errors in the latent space Cites: Rat-sql: Relation-aware schema encoding and linking for text-to

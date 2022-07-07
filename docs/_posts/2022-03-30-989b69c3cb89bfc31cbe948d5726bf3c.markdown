@@ -1,8 +1,8 @@
----
-layout: post
-title:  "New Efficient Decision-Making Strategies in Selected Multi-Armed Bandits Problems"
-date:   2022-03-30 13:35:09 -0400
-categories: jekyll update
-author: "C Tao - 2022"
----
+--- 
+layout: post 
+title: "New Efficient Decision-Making Strategies in Selected Multi-Armed Bandits Problems" 
+date: 2022-03-30 13:35:09 -0400 
+categories: jekyll update 
+author: "C Tao - 2022" 
+--- 
 The stochastic multi-armed bandits (MAB) problems have attracted a lot of attention after Robbins s seminal work. In the simplest form, there are multiple alternative arms. Each arm is associated with an unknown distribution supported on a bounded range. Each time the learner pulls an arm, she will obtain a stochastic reward generated from the distribution associated with that arm. A popularly studied goal of the learner is to find a strategy to obtain as much reward as possible. This model Cites: Provably optimal algorithms for generalized linear contextual bandits

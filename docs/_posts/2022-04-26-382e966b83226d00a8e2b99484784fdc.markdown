@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Hierarchical N-Gram Framework for Zero-Shot Link Prediction"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "M Li, J Chen, S Mensah, N Aletras, X Yang, Y Ye - arXiv preprint arXiv:2204.10293, 2022"
----
+--- 
+layout: post 
+title: "A Hierarchical N-Gram Framework for Zero-Shot Link Prediction" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "M Li, J Chen, S Mensah, N Aletras, X Yang, Y Ye - arXiv preprint arXiv:2204.10293, 2022" 
+--- 
 Due to the incompleteness of knowledge graphs (KGs), zero-shot link prediction (ZSLP) which aims to predict unobserved relations in KGs has attracted recent interest from researchers. A common solution is to use textual features of relations (eg, surface name or textual descriptions) as auxiliary information to bridge the gap between seen and unseen relations. Current approaches learn an embedding for each word token in the text. These methods lack robustness as they suffer from the Cites: Charformer: Fast character transformers via gradient-based

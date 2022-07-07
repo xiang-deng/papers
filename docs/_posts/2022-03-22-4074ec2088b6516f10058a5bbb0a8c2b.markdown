@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automated Transpilation of Imperative to Functional Code using Neural-Guided Program Synthesis (Extended Version)"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "B Mariano, Y Chen, Y Feng, G Durrett, I Dillig - arXiv preprint arXiv:2203.09452, 2022"
----
+--- 
+layout: post 
+title: "Automated Transpilation of Imperative to Functional Code using Neural-Guided Program Synthesis (Extended Version)" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "B Mariano, Y Chen, Y Feng, G Durrett, I Dillig - arXiv preprint arXiv:2203.09452, 2022" 
+--- 
 While many mainstream languages such as Java, Python, and C# increasingly incorporate functional APIs to simplify programming and improve parallelization/ performance, there are no effective techniques that can be used to automatically translate existing imperative code to functional variants using these APIs. Motivated by this problem, this paper presents a transpilation approach based on inductive program synthesis for modernizing existing code. Our method is based on the Cites: Web question answering with neurosymbolic program synthesis

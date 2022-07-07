@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-View Document Representation Learning for Open-Domain Dense Retrieval"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "S Zhang, Y Liang, M Gong, D Jiang, N Duan - arXiv preprint arXiv:2203.08372, 2022"
----
+--- 
+layout: post 
+title: "Multi-View Document Representation Learning for Open-Domain Dense Retrieval" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "S Zhang, Y Liang, M Gong, D Jiang, N Duan - arXiv preprint arXiv:2203.08372, 2022" 
+--- 
 Dense retrieval has achieved impressive advances in first-stage retrieval from a large-scale document collection, which is built on bi-encoder architecture to produce single vector representation of query and document. However, a document can usually answer multiple potential queries from different views. So the single vector representation of a document is hard to match with multi-view queries, and faces a semantic mismatch problem. This paper proposes a multi-view document Cites: Domain-matched pre-training tasks for dense retrieval

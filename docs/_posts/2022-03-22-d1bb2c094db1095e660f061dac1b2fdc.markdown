@@ -1,8 +1,8 @@
----
-layout: post
-title:  "When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "E Kamalloo, M Rezagholizadeh, A Ghodsi - arXiv preprint arXiv:2203.09391, 2022"
----
+--- 
+layout: post 
+title: "When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "E Kamalloo, M Rezagholizadeh, A Ghodsi - arXiv preprint arXiv:2203.09391, 2022" 
+--- 
 Data Augmentation (DA) is known to improve the generalizability of deep neural networks. Most existing DA techniques naively add a certain number of augmented samples without considering the quality and the added computational cost of these samples. To tackle this problem, a common strategy, adopted by several state-of-the- art DA methods, is to adaptively generate or re-weight augmented samples with respect to the task objective during training. However, these adaptive DA Cites: SSMBA: Self-supervised manifold based data augmentation for

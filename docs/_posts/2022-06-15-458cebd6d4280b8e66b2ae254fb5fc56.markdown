@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Factuality Enhanced Language Models for Open-Ended Text Generation"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "N Lee, W Ping, P Xu, M Patwary, M Shoeybi - arXiv preprint arXiv , 2022"
----
-Pretrained language models (LMs) are susceptible to generate text with nonfactual information. In this work, we measure and improve the factual accuracy of large-scale LMs for open-ended text generation. We design the FactualityPrompts test set and metrics to measure the factuality of LM generations. Based on that, we study the factual accuracy of LMs with parameter sizes ranging from 126M to 530B. Interestingly, we find that larger LMs are more factual than smaller ones, although a  Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in
+--- 
+layout: post 
+title: "Factuality Enhanced Language Models for Open-Ended Text Generation" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "N Lee, W Ping, P Xu, M Patwary, M Shoeybi - arXiv preprint arXiv , 2022" 
+--- 
+Pretrained language models (LMs) are susceptible to generate text with nonfactual information. In this work, we measure and improve the factual accuracy of large-scale LMs for open-ended text generation. We design the FactualityPrompts test set and metrics to measure the factuality of LM generations. Based on that, we study the factual accuracy of LMs with parameter sizes ranging from 126M to 530B. Interestingly, we find that larger LMs are more factual than smaller ones, although a Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in

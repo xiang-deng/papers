@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "L Tang, T Goyal, AR Fabbri, P Laban, J Xu, S Yahvuz - arXiv preprint arXiv , 2022"
----
-The propensity of abstractive summarization systems to make factual errors has been the subject of significant study, including work on models to detect factual errors and annotation of errors in current systems  outputs. However, the ever-evolving nature of summarization systems, error detectors, and annotated benchmarks make factuality evaluation a moving target; it is hard to get a clear picture of how techniques compare. In this work, we collect labeled factuality errors from across nine datasets of  Cites: Optimizing the factual correctness of a summary: A study of
+--- 
+layout: post 
+title: "Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "L Tang, T Goyal, AR Fabbri, P Laban, J Xu, S Yahvuz - arXiv preprint arXiv , 2022" 
+--- 
+The propensity of abstractive summarization systems to make factual errors has been the subject of significant study, including work on models to detect factual errors and annotation of errors in current systems outputs. However, the ever-evolving nature of summarization systems, error detectors, and annotated benchmarks make factuality evaluation a moving target; it is hard to get a clear picture of how techniques compare. In this work, we collect labeled factuality errors from across nine datasets of Cites: Optimizing the factual correctness of a summary: A study of

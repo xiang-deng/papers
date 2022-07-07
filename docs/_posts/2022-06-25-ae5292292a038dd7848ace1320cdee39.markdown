@@ -1,8 +1,8 @@
----
-layout: post
-title:  "EBBE-Text: Explaining Neural Networks by Exploring Text Classification Decision Boundaries"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "A Delaforge, J Az, S Bringay, C Mollevi, A Sallaberry - IEEE Transactions on , 2022"
----
-While neural networks (NN) have been successfully applied to many NLP tasks, the way they function is often difficult to interpret. In this article, we focus on binary text classification via NNs and propose a new tool, which includes a visualization of the decision boundary and the distances of data elements to this boundary. This tool increases the interpretability of NN. Our approach uses two innovative views:(1) an overview of the text representation space and (2) a local view allowing data  Cites: Local Decision Pitfalls in Interactive Machine Learning: An
+--- 
+layout: post 
+title: "EBBE-Text: Explaining Neural Networks by Exploring Text Classification Decision Boundaries" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "A Delaforge, J Az, S Bringay, C Mollevi, A Sallaberry - IEEE Transactions on , 2022" 
+--- 
+While neural networks (NN) have been successfully applied to many NLP tasks, the way they function is often difficult to interpret. In this article, we focus on binary text classification via NNs and propose a new tool, which includes a visualization of the decision boundary and the distances of data elements to this boundary. This tool increases the interpretability of NN. Our approach uses two innovative views:(1) an overview of the text representation space and (2) a local view allowing data Cites: Local Decision Pitfalls in Interactive Machine Learning: An

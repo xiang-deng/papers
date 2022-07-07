@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Standing on the Shoulders of Giant Frozen Language Models"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "Y Levine, I Dalmedigos, O Ram, Y Zeldes, D Jannai - arXiv preprint arXiv , 2022"
----
-Huge pretrained language models (LMs) have demonstrated surprisingly good zero- shot capabilities on a wide variety of tasks. This gives rise to the appealing vision of a single, versatile model with a wide range of functionalities across disparate applications. However, current leading techniques for leveraging a  frozen  LM--ie, leaving its weights untouched--still often underperform fine-tuning approaches which modify these weights in a task-dependent way. Those, in turn, suffer forgetfulness Cites: Dense Passage Retrieval for Open-Domain Question Answering
+--- 
+layout: post 
+title: "Standing on the Shoulders of Giant Frozen Language Models" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "Y Levine, I Dalmedigos, O Ram, Y Zeldes, D Jannai - arXiv preprint arXiv , 2022" 
+--- 
+Huge pretrained language models (LMs) have demonstrated surprisingly good zero- shot capabilities on a wide variety of tasks. This gives rise to the appealing vision of a single, versatile model with a wide range of functionalities across disparate applications. However, current leading techniques for leveraging a frozen LM--ie, leaving its weights untouched--still often underperform fine-tuning approaches which modify these weights in a task-dependent way. Those, in turn, suffer forgetfulness Cites: Dense Passage Retrieval for Open-Domain Question Answering

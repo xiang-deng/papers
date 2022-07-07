@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ASQA: Factoid Questions Meet Long-Form Answers"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "I Stelmakh, Y Luan, B Dhingra, MW Chang - arXiv preprint arXiv:2204.06092, 2022"
----
+--- 
+layout: post 
+title: "ASQA: Factoid Questions Meet Long-Form Answers" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "I Stelmakh, Y Luan, B Dhingra, MW Chang - arXiv preprint arXiv:2204.06092, 2022" 
+--- 
 An abundance of datasets and availability of reliable evaluation metrics have resulted in strong progress in factoid question answering (QA). This progress, however, does not easily transfer to the task of long-form QA, where the goal is to answer questions that require in-depth explanations. The hurdles include (i) a lack of high-quality data, and (ii) the absence of a well-defined notion of the answer s quality. In this work, we address these problems by (i) releasing a novel dataset and Cites: Joint Passage Ranking for Diverse Multi-Answer Retrieval

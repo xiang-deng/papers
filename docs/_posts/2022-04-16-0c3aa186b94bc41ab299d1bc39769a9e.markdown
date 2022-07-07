@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Settling the sample complexity of model-based offline reinforcement learning"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "G Li, L Shi, Y Chen, Y Chi, Y Wei - arXiv preprint arXiv:2204.05275, 2022"
----
-This paper is concerned with offline reinforcement learning (RL), which learns using pre-collected data without further exploration. Effective offline RL would be able to accommodate distribution shift and limited data coverage. However, prior algorithms or analyses either suffer from suboptimal sample complexities or incur high burn-in cost to reach sample optimality, thus posing an impediment to efficient offline RL in sample-starved applications. We demonstrate that the model-based (or  plug-in ) Cites: Stochastic variance reduction methods for policy evaluation
+--- 
+layout: post 
+title: "Settling the sample complexity of model-based offline reinforcement learning" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "G Li, L Shi, Y Chen, Y Chi, Y Wei - arXiv preprint arXiv:2204.05275, 2022" 
+--- 
+This paper is concerned with offline reinforcement learning (RL), which learns using pre-collected data without further exploration. Effective offline RL would be able to accommodate distribution shift and limited data coverage. However, prior algorithms or analyses either suffer from suboptimal sample complexities or incur high burn-in cost to reach sample optimality, thus posing an impediment to efficient offline RL in sample-starved applications. We demonstrate that the model-based (or plug-in ) Cites: Stochastic variance reduction methods for policy evaluation

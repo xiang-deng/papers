@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Language Anisotropic Cross-Lingual Model Editing"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "Y Xu, Y Hou, W Che - arXiv preprint arXiv:2205.12677, 2022"
----
-Pre-trained language models learn large amounts of knowledge from their training corpus, while the memorized facts could become outdated over a few years. Model editing aims to make post-hoc updates on specific facts in a model while leaving irrelevant knowledge unchanged. However, existing work studies only the monolingual scenario. In this paper, we focus on cross-lingual model editing. Firstly, we propose the definition and metrics of the cross-lingual model editing, where  Cites: Fast model editing at scale
+--- 
+layout: post 
+title: "Language Anisotropic Cross-Lingual Model Editing" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "Y Xu, Y Hou, W Che - arXiv preprint arXiv:2205.12677, 2022" 
+--- 
+Pre-trained language models learn large amounts of knowledge from their training corpus, while the memorized facts could become outdated over a few years. Model editing aims to make post-hoc updates on specific facts in a model while leaving irrelevant knowledge unchanged. However, existing work studies only the monolingual scenario. In this paper, we focus on cross-lingual model editing. Firstly, we propose the definition and metrics of the cross-lingual model editing, where Cites: Fast model editing at scale

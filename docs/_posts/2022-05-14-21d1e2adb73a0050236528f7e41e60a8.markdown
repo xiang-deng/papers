@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Implicit Relation Inference with Deep Path Extraction for Commonsense Question Answering"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "P Yang, Z Liu, B Li, P Zhang - Neural Processing Letters, 2022"
----
+--- 
+layout: post 
+title: "Implicit Relation Inference with Deep Path Extraction for Commonsense Question Answering" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "P Yang, Z Liu, B Li, P Zhang - Neural Processing Letters, 2022" 
+--- 
 Natural language inference plays an essential role in Commonsense Question Answering. Conventional models usually adopt keywords in questions and choices as queries to retrieve static and explicit evidence that is used to obtain final answers, where dynamic interaction between different keywords and implicit relations inference of deeper information are often neglected. In this paper, we propose a novel joint model, the Graph Relation retrieval Reasoning Network (GRRN), to Cites: Electra: Pre-training text encoders as discriminators rather than

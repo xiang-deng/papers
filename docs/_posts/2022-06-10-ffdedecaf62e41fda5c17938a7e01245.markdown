@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards Robust Adaptive Object Detection under Noisy Annotations"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "X Liu, W Li, Q Yang, B Li, Y Yuan - Proceedings of the IEEE/CVF Conference on , 2022"
----
-Abstract Domain Adaptive Object Detection (DAOD) models a joint distribution of images and labels from an annotated source domain and learns a domain-invariant transformation to estimate the target labels with the given target domain images. Existing methods assume that the source domain labels are completely clean, yet large-scale datasets often contain error-prone annotations due to instance ambiguity, which may lead to a biased source distribution and severely degrade the  Cites: Towards noise-resistant object detection with noisy annotations
+--- 
+layout: post 
+title: "Towards Robust Adaptive Object Detection under Noisy Annotations" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "X Liu, W Li, Q Yang, B Li, Y Yuan - Proceedings of the IEEE/CVF Conference on , 2022" 
+--- 
+Abstract Domain Adaptive Object Detection (DAOD) models a joint distribution of images and labels from an annotated source domain and learns a domain-invariant transformation to estimate the target labels with the given target domain images. Existing methods assume that the source domain labels are completely clean, yet large-scale datasets often contain error-prone annotations due to instance ambiguity, which may lead to a biased source distribution and severely degrade the Cites: Towards noise-resistant object detection with noisy annotations

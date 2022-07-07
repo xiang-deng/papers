@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Relation-Guided Pre-Training for Open-Domain Question Answering"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "Z Hu, Y Sun, KW Chang - arXiv preprint arXiv:2109.10346, 2021"
----
+--- 
+layout: post 
+title: "Relation-Guided Pre-Training for Open-Domain Question Answering" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "Z Hu, Y Sun, KW Chang - arXiv preprint arXiv:2109.10346, 2021" 
+--- 
 Answering complex open-domain questions requires understanding the latent relations between involving entities. However, we found that the existing QA datasets are extremely imbalanced in some types of relations, which hurts the generalization performance over questions with long-tail relations. To remedy this problem, in this paper, we propose a Relation-Guided Pre-Training (RGPT-QA) framework. We first generate a relational QA dataset covering a wide range of relations from both the Cites: Sewon Min, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen-tau

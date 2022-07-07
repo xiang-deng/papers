@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Memory-Based Model Editing at Scale"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "E Mitchell, C Lin, A Bosselut, CD Manning, C Finn - arXiv preprint arXiv:2206.06520, 2022"
----
-Even the largest neural networks make errors, and once-correct predictions can become invalid as the world changes. Model editors make local updates to the behavior of base (pre-trained) models to inject updated knowledge or correct undesirable behaviors. Existing model editors have shown promise, but also suffer from insufficient expressiveness: they struggle to accurately model an edit s intended scope (examples affected by the edit), leading to inaccurate predictions for test inputs  Cites: Are red roses red? evaluating consistency of question-answering
+--- 
+layout: post 
+title: "Memory-Based Model Editing at Scale" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "E Mitchell, C Lin, A Bosselut, CD Manning, C Finn - arXiv preprint arXiv:2206.06520, 2022" 
+--- 
+Even the largest neural networks make errors, and once-correct predictions can become invalid as the world changes. Model editors make local updates to the behavior of base (pre-trained) models to inject updated knowledge or correct undesirable behaviors. Existing model editors have shown promise, but also suffer from insufficient expressiveness: they struggle to accurately model an edit s intended scope (examples affected by the edit), leading to inaccurate predictions for test inputs Cites: Are red roses red? evaluating consistency of question-answering

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Large-Scale Retrieval for Reinforcement Learning"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "PC Humphreys, A Guez, O Tieleman, L Sifre, T Weber - arXiv preprint arXiv , 2022"
----
-Effective decision making involves flexibly relating past experiences and relevant contextual information to a novel situation. In deep reinforcement learning, the dominant paradigm is for an agent to amortise information that helps decision-making into its network weights via gradient descent on training losses. Here, we pursue an alternative approach in which agents can utilise large-scale context-sensitive database lookups to support their parametric computations. This allows  Cites: REALM: Retrieval-Augmented Language Model Pre-Training
+--- 
+layout: post 
+title: "Large-Scale Retrieval for Reinforcement Learning" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "PC Humphreys, A Guez, O Tieleman, L Sifre, T Weber - arXiv preprint arXiv , 2022" 
+--- 
+Effective decision making involves flexibly relating past experiences and relevant contextual information to a novel situation. In deep reinforcement learning, the dominant paradigm is for an agent to amortise information that helps decision-making into its network weights via gradient descent on training losses. Here, we pursue an alternative approach in which agents can utilise large-scale context-sensitive database lookups to support their parametric computations. This allows Cites: REALM: Retrieval-Augmented Language Model Pre-Training

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Active Few-Shot Learning with FASL"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "T Mller, G Prez-Torr, A Basile, M Franco-Salvador - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Active Few-Shot Learning with FASL" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "T Mller, G Prez-Torr, A Basile, M Franco-Salvador - arXiv preprint arXiv , 2022" 
+--- 
 Recent advances in natural language processing (NLP) have led to strong text classification models for many tasks. However, still often thousands of examples are needed to train models with good quality. This makes it challenging to quickly develop and deploy new models for real world problems and business needs. Few- shot learning and active learning are two lines of research, aimed at tackling this problem. In this work, we combine both lines into FASL, a platform that allows Cites: Universal natural language processing with limited annotations

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "H Hanif, S Maffeis - arXiv preprint arXiv:2205.12424, 2022"
----
-This paper presents VulBERTa, a deep learning approach to detect security vulnerabilities in source code. Our approach pre-trains a RoBERTa model with a custom tokenisation pipeline on real-world code from open-source C/C++ projects. The model learns a deep knowledge representation of the code syntax and semantics, which we leverage to train vulnerability detection classifiers. We evaluate our approach on binary and multi-class vulnerability detection tasks across several  Cites: Codexglue: A machine learning benchmark dataset for code
+--- 
+layout: post 
+title: "VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "H Hanif, S Maffeis - arXiv preprint arXiv:2205.12424, 2022" 
+--- 
+This paper presents VulBERTa, a deep learning approach to detect security vulnerabilities in source code. Our approach pre-trains a RoBERTa model with a custom tokenisation pipeline on real-world code from open-source C/C++ projects. The model learns a deep knowledge representation of the code syntax and semantics, which we leverage to train vulnerability detection classifiers. We evaluate our approach on binary and multi-class vulnerability detection tasks across several Cites: Codexglue: A machine learning benchmark dataset for code

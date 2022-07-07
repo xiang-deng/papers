@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FaithDial: A Faithful Benchmark for Information-Seeking Dialogue"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "N Dziri, E Kamalloo, S Milton, O Zaiane, M Yu - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "FaithDial: A Faithful Benchmark for Information-Seeking Dialogue" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "N Dziri, E Kamalloo, S Milton, O Zaiane, M Yu - arXiv preprint arXiv , 2022" 
+--- 
 The goal of information-seeking dialogue is to respond to seeker queries with natural language utterances that are grounded on knowledge sources. However, dialogue systems often produce unsupported utterances, a phenomenon known as hallucination. Dziri et al.(2022) s investigation of hallucinations has revealed that existing knowledge-grounded benchmarks are contaminated with hallucinated responses at an alarming level (> 60% of the responses) and models trained on this Cites: Asking and Answering Questions to Evaluate the Factual

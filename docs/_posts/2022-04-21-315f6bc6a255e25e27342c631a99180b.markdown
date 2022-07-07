@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation"
-date:   2022-04-21 03:59:43 -0400
-categories: jekyll update
-author: "H Zhong, Z Dou, Y Zhu, H Qian, JR Wen"
----
+--- 
+layout: post 
+title: "Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation" 
+date: 2022-04-21 03:59:43 -0400 
+categories: jekyll update 
+author: "H Zhong, Z Dou, Y Zhu, H Qian, JR Wen" 
+--- 
 Personalized dialogue systems explore the problem of generating responses that are consistent with the user s personality, which has raised much attention in recent years. Existing personalized dialogue systems have tried to extract user profiles from dialogue history to guide personalized response generation. Since the dialogue history is usually long and noisy, most existing methods truncate the dialogue history to model the user s personality. Such methods can generate some personalized Cites: Bert: Pre-training of deep bidirectional transformers for language

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SemAttack: Natural Textual Attacks via Different Semantic Spaces"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "B Wang, C Xu, X Liu, Y Cheng, B Li - arXiv preprint arXiv:2205.01287, 2022"
----
+--- 
+layout: post 
+title: "SemAttack: Natural Textual Attacks via Different Semantic Spaces" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "B Wang, C Xu, X Liu, Y Cheng, B Li - arXiv preprint arXiv:2205.01287, 2022" 
+--- 
 Recent studies show that pre-trained language models (LMs) are vulnerable to textual adversarial attacks. However, existing attack methods either suffer from low attack success rates or fail to search efficiently in the exponentially large perturbation space. We propose an efficient and effective framework SemAttack to generate natural adversarial text by constructing different semantic perturbation functions. In particular, SemAttack optimizes the generated perturbations constrained on generic Cites: A structural probe for finding syntax in word representations

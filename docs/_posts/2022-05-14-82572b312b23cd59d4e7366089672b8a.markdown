@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Beyond backpropagation: implicit gradients for bilevel optimization"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "N Zucchet, J Sacramento - arXiv preprint arXiv:2205.03076, 2022"
----
+--- 
+layout: post 
+title: "Beyond backpropagation: implicit gradients for bilevel optimization" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "N Zucchet, J Sacramento - arXiv preprint arXiv:2205.03076, 2022" 
+--- 
 This paper reviews gradient-based techniques to solve bilevel optimization problems. Bilevel optimization is a general way to frame the learning of systems that are implicitly defined through a quantity that they minimize. This characterization can be applied to neural networks, optimizers, algorithmic solvers and even physical systems, and allows for greater modeling flexibility compared to an explicit definition of such systems. Here we focus on gradient-based approaches that solve such Cites: A unified framework of online learning algorithms for training

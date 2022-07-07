@@ -1,8 +1,8 @@
----
-layout: post
-title:  "M2TS: Multi-Scale Multi-Modal Approach Based on Transformer for Source Code Summarization"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "Y Gao, C Lyu - arXiv preprint arXiv:2203.09707, 2022"
----
+--- 
+layout: post 
+title: "M2TS: Multi-Scale Multi-Modal Approach Based on Transformer for Source Code Summarization" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "Y Gao, C Lyu - arXiv preprint arXiv:2203.09707, 2022" 
+--- 
 Source code summarization aims to generate natural language descriptions of code snippets. Many existing studies learn the syntactic and semantic knowledge of code snippets from their token sequences and Abstract Syntax Trees (ASTs). They use the learned code representations as input to code summarization models, which can accordingly generate summaries describing source code. Traditional models traverse ASTs as sequences or split ASTs into paths as input. However, the former Cites: Codebert: A pre-trained model for programming and natural

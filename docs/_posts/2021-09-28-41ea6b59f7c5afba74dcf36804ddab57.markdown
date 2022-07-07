@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning to Selectively Learn for Weakly-supervised Paraphrase Generation"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "K Ding, D Li, AH Li, X Fan, C Guo, Y Liu, H Liu"
----
+--- 
+layout: post 
+title: "Learning to Selectively Learn for Weakly-supervised Paraphrase Generation" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "K Ding, D Li, AH Li, X Fan, C Guo, Y Liu, H Liu" 
+--- 
 Paraphrase generation is a longstanding NLP task that has diverse applications for downstream NLP tasks. However, the effectiveness of existing efforts predominantly relies on large amounts of golden labeled data. Though unsupervised endeavors have been proposed to address this issue, they may fail to generate meaningful paraphrases due to the lack of supervision signals. In this work, we go beyond the existing paradigms and propose a novel approach to generate high-quality Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

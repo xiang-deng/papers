@@ -1,8 +1,8 @@
----
-layout: post
-title:  "MP-CodeCheck: Evolving Logical Expression Code Anomaly Learning with Iterative Self-Supervision"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "UC Muff, C Lee, P Gottschlich, J Gottschlich - arXiv preprint arXiv:2204.07225, 2022"
----
+--- 
+layout: post 
+title: "MP-CodeCheck: Evolving Logical Expression Code Anomaly Learning with Iterative Self-Supervision" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "UC Muff, C Lee, P Gottschlich, J Gottschlich - arXiv preprint arXiv:2204.07225, 2022" 
+--- 
 Machine programming (MP) is concerned with automating software development. According to studies, software engineers spend upwards of 50% of their development time debugging software. To help accelerate debugging, we present MP-CodeCheck (MPCC). MPCC is an MP system that attempts to identify anomalous code patterns within logical program expressions. In designing MPCC, we developed two novel programming language representations, the formations of Cites: Tranx: A transition-based neural abstract syntax parser for

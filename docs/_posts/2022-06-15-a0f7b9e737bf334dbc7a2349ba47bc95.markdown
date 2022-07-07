@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-Instance Embedding Learning with Deconfounded Instance-Level Prediction"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "YX Zhang, M Yang, Z Zhou, F Min - 2022"
----
-Confounded information is an objective fact when using multiple instance learning (MIL) to classify bags of instances, which may be inherited by MIL embedding methods and lead to questionable bag label prediction. To respond to this problem, we propose the multi-instance embedding learning with deconfounded instance-level prediction (MEDI) algorithm. Unlike traditional embedding-based strategies, we design a deconfounded optimization goal to maximize the distinction between  Cites: Multiple instance learning networks for fine-grained sentiment
+--- 
+layout: post 
+title: "Multi-Instance Embedding Learning with Deconfounded Instance-Level Prediction" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "YX Zhang, M Yang, Z Zhou, F Min - 2022" 
+--- 
+Confounded information is an objective fact when using multiple instance learning (MIL) to classify bags of instances, which may be inherited by MIL embedding methods and lead to questionable bag label prediction. To respond to this problem, we propose the multi-instance embedding learning with deconfounded instance-level prediction (MEDI) algorithm. Unlike traditional embedding-based strategies, we design a deconfounded optimization goal to maximize the distinction between Cites: Multiple instance learning networks for fine-grained sentiment

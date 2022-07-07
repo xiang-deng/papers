@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ConTinTin: Continual Learning from Task Instructions"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "W Yin, J Li, C Xiong - arXiv preprint arXiv:2203.08512, 2022"
----
+--- 
+layout: post 
+title: "ConTinTin: Continual Learning from Task Instructions" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "W Yin, J Li, C Xiong - arXiv preprint arXiv:2203.08512, 2022" 
+--- 
 The mainstream machine learning paradigms for NLP often work with two underlying presumptions. First, the target task is predefined and static, a system just needs to learn to solve it exclusively. Second, the supervision of a task mainly comes from a set of labeled examples. A question arises: how to build a system that can keep learning new tasks from their instructions? This work defines a new learning paradigm ConTinTin (Continual Learning from Task Instructions), in which a system Cites: Cross-task generalization via natural language crowdsourcing

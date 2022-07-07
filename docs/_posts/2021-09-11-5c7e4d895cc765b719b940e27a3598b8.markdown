@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "J Lin, X Ma, J Mackenzie, A Mallia - 2021"
----
+--- 
+layout: post 
+title: "On the Separation of Logical and Physical Ranking Models for Text Retrieval Applications" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "J Lin, X Ma, J Mackenzie, A Mallia - 2021" 
+--- 
 Text retrieval using bags of words is typically formulated as inner products between vector representations of queries and documents, realized in query evaluation algorithms that traverse postings in an inverted index. Viewed in database terms, this captures a tight coupling between the logical aspects of ranking (ie, term weighting) and the physical aspects of ranking (query evaluation). We argue that explicitly decoupling these two aspects offers a framework for thinking about the relationship Cites: Sewon Min, Ledell Wu, Sergey Edunov, Danqi Chen, and Wentau

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Effective use of BERT in graph embeddings for sparse knowledge graph completion"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "X Liu, H Hussain, H Razouk, R Kern - Proceedings of the 37th ACM/SIGAPP , 2022"
----
+--- 
+layout: post 
+title: "Effective use of BERT in graph embeddings for sparse knowledge graph completion" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "X Liu, H Hussain, H Razouk, R Kern - Proceedings of the 37th ACM/SIGAPP , 2022" 
+--- 
 Graph embedding methods have emerged as effective solutions for knowledge graph completion. However, such methods are typically tested on benchmark datasets such as Freebase, but show limited performance when applied on sparse knowledge graphs with orders of magnitude lower density. To compensate for the lack of structure in a sparse graph, low dimensional representations of textual information such as word2vec or BERT embeddings have been used. This paper Cites: Graph-based reasoning over heterogeneous external knowledge

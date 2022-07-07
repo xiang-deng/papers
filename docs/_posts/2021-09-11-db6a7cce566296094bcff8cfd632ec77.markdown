@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fishr: Invariant Gradient Variances for Out-of-distribution Generalization"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "A Rame, C Dancette, M Cord - arXiv preprint arXiv:2109.02934, 2021"
----
+--- 
+layout: post 
+title: "Fishr: Invariant Gradient Variances for Out-of-distribution Generalization" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "A Rame, C Dancette, M Cord - arXiv preprint arXiv:2109.02934, 2021" 
+--- 
 Learning robust models that generalize well under changes in the data distribution is critical for real-world applications. To this end, there has been a growing surge of interest to learn simultaneously from multiple training domains-while enforcing different types of invariance across those domains. Yet, all existing approaches fail to show systematic benefits under fair evaluation protocols. In this paper, we propose a new learning scheme to enforce domain invariance in the space of the gradients of Cites: In-n-out: Pre-training and self-training using auxiliary information

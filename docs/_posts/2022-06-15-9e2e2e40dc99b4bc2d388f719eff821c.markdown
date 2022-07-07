@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sentence Pair Modeling and Beyond"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "W Lan - 2021"
----
-Sentence pair modeling is a fundamental technique underlying many NLP tasks, including natural language inference (NLI), paraphrase identification (PI), semantic textual similarity (STS), and question answering (QA), where all of them involve the identification of semantic relationship between a pair of sentences. We first focus on the paraphrase task, where a major challenge is the lack of parallel corpora. We present a new method to collect large-scale sentential paraphrases from Twitter by  Cites: Calibration of Pre-trained Transformers
+--- 
+layout: post 
+title: "Sentence Pair Modeling and Beyond" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "W Lan - 2021" 
+--- 
+Sentence pair modeling is a fundamental technique underlying many NLP tasks, including natural language inference (NLI), paraphrase identification (PI), semantic textual similarity (STS), and question answering (QA), where all of them involve the identification of semantic relationship between a pair of sentences. We first focus on the paraphrase task, where a major challenge is the lack of parallel corpora. We present a new method to collect large-scale sentential paraphrases from Twitter by Cites: Calibration of Pre-trained Transformers

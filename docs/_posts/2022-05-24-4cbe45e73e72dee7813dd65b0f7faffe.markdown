@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Information Extraction on Business Documents with Specific Pre-training Tasks"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "T Douzon, S Duffner, C Garcia, J Espinas - International Workshop on Document , 2022"
----
-Abstract Transformer-based Language Models are widely used in Natural Language Processing related tasks. Thanks to their pre-training, they have been successfully adapted to Information Extraction in business documents. However, most pre-training tasks proposed in the literature for business documents are too generic and not sufficient to learn more complex structures. In this paper, we use LayoutLM, a language model pre-trained on a collection of business documents, and introduce  Cites: Question Answering is a Format; When is it Useful?
+--- 
+layout: post 
+title: "Improving Information Extraction on Business Documents with Specific Pre-training Tasks" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "T Douzon, S Duffner, C Garcia, J Espinas - International Workshop on Document , 2022" 
+--- 
+Abstract Transformer-based Language Models are widely used in Natural Language Processing related tasks. Thanks to their pre-training, they have been successfully adapted to Information Extraction in business documents. However, most pre-training tasks proposed in the literature for business documents are too generic and not sufficient to learn more complex structures. In this paper, we use LayoutLM, a language model pre-trained on a collection of business documents, and introduce Cites: Question Answering is a Format; When is it Useful?

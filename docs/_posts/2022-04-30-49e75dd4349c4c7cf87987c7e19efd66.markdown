@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Neural Predicting Higher-order Patterns in Temporal Networks"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "Y Liu, J Ma, P Li - Proceedings of the ACM Web Conference 2022, 2022"
----
+--- 
+layout: post 
+title: "Neural Predicting Higher-order Patterns in Temporal Networks" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "Y Liu, J Ma, P Li - Proceedings of the ACM Web Conference 2022, 2022" 
+--- 
 Dynamic systems that consist of a set of interacting elements can be abstracted as temporal networks. Recently, higher-order patterns that involve multiple interacting nodes have been found crucial to indicate domain-specific laws of different temporal networks. This posts us the challenge of designing more sophisticated hypergraph models for these higher-order patterns and the associated new learning algorithms. Here, we propose the first model, named HIT, for full-spectrum higher-order pattern Cites: Group recommendation: Semantics and efficiency

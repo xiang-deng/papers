@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning Competitive Equilibria in Exchange Economies with Bandit Feedback"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "W Guo, K Kandasamy, J Gonzalez, M Jordan, I Stoica - International Conference on , 2022"
----
+--- 
+layout: post 
+title: "Learning Competitive Equilibria in Exchange Economies with Bandit Feedback" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "W Guo, K Kandasamy, J Gonzalez, M Jordan, I Stoica - International Conference on , 2022" 
+--- 
 The sharing of scarce resources among multiple rational agents is one of the classical problems in economics. In exchange economies, which are used to model such situations, agents begin with an initial endowment of resources and exchange them in a way that is mutually beneficial until they reach a competitive equilibrium (CE). The allocations at a CE are Pareto efficient and fair. Consequently, they are used widely in designing mechanisms for fair division. However, computing CEs Cites: Provably optimal algorithms for generalized linear contextual bandits

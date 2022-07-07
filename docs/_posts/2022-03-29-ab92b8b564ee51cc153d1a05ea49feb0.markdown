@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fair-SSL: Building fair ML Software with less data"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "J Chakraborty, S Majumder, H Tu - 2022"
----
+--- 
+layout: post 
+title: "Fair-SSL: Building fair ML Software with less data" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "J Chakraborty, S Majumder, H Tu - 2022" 
+--- 
 Ethical bias in machine learning models has become a matter of concern in the software engineering community. Most of the prior software engineering works concentrated on finding ethical bias in models rather than fixing it. After finding bias, the next step is mitigation. Prior researchers mainly tried to use supervised approaches to achieve fairness. However, in the real world, getting data with trustworthy ground truth is challenging and also ground truth can contain human Cites: Learning with Local and Global Consistency.

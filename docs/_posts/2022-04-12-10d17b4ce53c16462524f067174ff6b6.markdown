@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Universal Representations: A Unified Look at Multiple Task and Domain Learning"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "WH Li, X Liu, H Bilen - arXiv preprint arXiv:2204.02744, 2022"
----
+--- 
+layout: post 
+title: "Universal Representations: A Unified Look at Multiple Task and Domain Learning" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "WH Li, X Liu, H Bilen - arXiv preprint arXiv:2204.02744, 2022" 
+--- 
 We propose a unified look at jointly learning multiple vision tasks and visual domains through universal representations, a single deep neural network. Learning multiple problems simultaneously involves minimizing a weighted sum of multiple loss functions with different magnitudes and characteristics and thus results in unbalanced state of one loss dominating the optimization and poor results compared to learning a separate model for each problem. To this end, we propose distilling Cites: BAM! Born-Again Multi-Task Networks for Natural Language

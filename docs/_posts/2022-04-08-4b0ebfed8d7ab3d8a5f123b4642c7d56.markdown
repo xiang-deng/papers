@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improved and Efficient Conversational Slot Labeling through Question Answering"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "G Fuisz, I Vuli, S Gibbons, I Casanueva - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Improved and Efficient Conversational Slot Labeling through Question Answering" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "G Fuisz, I Vuli, S Gibbons, I Casanueva - arXiv preprint arXiv , 2022" 
+--- 
 Transformer-based pretrained language models (PLMs) offer unmatched performance across the majority of natural language understanding (NLU) tasks, including a body of question answering (QA) tasks. We hypothesize that improvements in QA methodology can also be directly exploited in dialog NLU; however, dialog tasks must be textit {reformatted} into QA tasks. In particular, we focus on modeling and studying textit {slot labeling}(SL), a crucial component of NLU Cites: AdapterFusion: Non-destructive task composition for transfer learning

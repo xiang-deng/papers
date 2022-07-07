@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Pruning Neural Nets by Optimal Neuron Merging"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "F Goldberg, Y Lubarsky, A Gaissinski, D Botchan - International Conference on , 2022"
----
-We present a new method for structured pruning of neural networks, based on the recently proposed neuron merging trick in which following a pruning operation, the weights of the next layer are suitably modified. By a rigorous mathematical analysis of the neuron merging technique we prove an upper bound on the reconstruction error. This bound defines a new objective function for pruning-and-merging. Our new optimal algorithm provably achieves the lowest objective cost among all possible  Cites: Go wide, then narrow: Efficient training of deep thin networks
+--- 
+layout: post 
+title: "Pruning Neural Nets by Optimal Neuron Merging" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "F Goldberg, Y Lubarsky, A Gaissinski, D Botchan - International Conference on , 2022" 
+--- 
+We present a new method for structured pruning of neural networks, based on the recently proposed neuron merging trick in which following a pruning operation, the weights of the next layer are suitably modified. By a rigorous mathematical analysis of the neuron merging technique we prove an upper bound on the reconstruction error. This bound defines a new objective function for pruning-and-merging. Our new optimal algorithm provably achieves the lowest objective cost among all possible Cites: Go wide, then narrow: Efficient training of deep thin networks

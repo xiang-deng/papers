@@ -1,8 +1,8 @@
----
-layout: post
-title:  "To be Closer: Learning to Link up Aspects with Opinions"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "Y Zhou, L Liao, Y Gao, Z Jie, W Lu - arXiv preprint arXiv:2109.08382, 2021"
----
+--- 
+layout: post 
+title: "To be Closer: Learning to Link up Aspects with Opinions" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "Y Zhou, L Liao, Y Gao, Z Jie, W Lu - arXiv preprint arXiv:2109.08382, 2021" 
+--- 
 Dependency parse trees are helpful for discovering the opinion words in aspect- based sentiment analysis (ABSA). However, the trees obtained from off-the-shelf dependency parsers are static, and could be sub-optimal in ABSA. This is because the syntactic trees are not designed for capturing the interactions between opinion words and aspect words. In this work, we aim to shorten the distance between aspects and corresponding opinion words by learning an aspect-centric tree Cites: Learning latent opinions for aspect-level sentiment classification

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "DEAM: Dialogue Coherence Evaluation using AMR-based Semantic Manipulations"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "S Ghazarian, N Wen, A Galstyan, N Peng - arXiv preprint arXiv:2203.09711, 2022"
----
+--- 
+layout: post 
+title: "DEAM: Dialogue Coherence Evaluation using AMR-based Semantic Manipulations" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "S Ghazarian, N Wen, A Galstyan, N Peng - arXiv preprint arXiv:2203.09711, 2022" 
+--- 
 Automatic evaluation metrics are essential for the rapid development of open-domain dialogue systems as they facilitate hyper-parameter tuning and comparison between models. Although recently proposed trainable conversation-level metrics have shown encouraging results, the quality of the metrics is strongly dependent on the quality of training data. Prior works mainly resort to heuristic text-level manipulations (eg utterances shuffling) to bootstrap incoherent conversations (negative examples) Cites: Automatic evaluation of text coherence: Models and representations

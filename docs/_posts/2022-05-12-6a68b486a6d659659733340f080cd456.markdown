@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Variational Cold-start Resistant Recommendation"
-date:   2022-05-12 04:06:18 -0400
-categories: jekyll update
-author: "J Walker, F Zhang, T Zhong, F Zhou, EY Baagyere - Information Sciences, 2022"
----
+--- 
+layout: post 
+title: "Variational Cold-start Resistant Recommendation" 
+date: 2022-05-12 04:06:18 -0400 
+categories: jekyll update 
+author: "J Walker, F Zhang, T Zhong, F Zhou, EY Baagyere - Information Sciences, 2022" 
+--- 
 Conventionally, cold-start limitations are managed by leveraging side information such as social-trust relationships. However, the relationships between users in social networks are complex, uncertain, and sparse. Therefore, it is necessary to extract beneficial social connections to make the recommendation models cold-start resistant. Towards this end, we propose a novel recommendation model called Variational Cold-start Resistant Recommendation (CORE-VAE). More concretely, we Cites: Recommender systems with social regularization

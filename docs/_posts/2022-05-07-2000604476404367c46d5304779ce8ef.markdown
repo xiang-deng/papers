@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Clues Before Answers: Generation-Enhanced Multiple-Choice QA"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "Z Huang, A Wu, J Zhou, Y Gu, Y Zhao, G Cheng - arXiv preprint arXiv:2205.00274, 2022"
----
+--- 
+layout: post 
+title: "Clues Before Answers: Generation-Enhanced Multiple-Choice QA" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "Z Huang, A Wu, J Zhou, Y Gu, Y Zhao, G Cheng - arXiv preprint arXiv:2205.00274, 2022" 
+--- 
 A trending paradigm for multiple-choice question answering (MCQA) is using a text- to-text framework. By unifying data in different tasks into a single text-to-text format, it trains a generative encoder-decoder model which is both powerful and universal. However, a side effect of twisting a generation target to fit the classification nature of MCQA is the under-utilization of the decoder and the knowledge that can be decoded. To exploit the generation capability and underlying knowledge of a pre Cites: Explain yourself! leveraging language models for commonsense

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "J Kim, HJ Kim, H Cho, H Jo, SW Lee, S Lee, KM Yoo - arXiv preprint arXiv , 2022"
----
-Despite recent explosion in research interests, in-context learning and the precise impact of the quality of demonstrations remain elusive. While, based on current literature, it is expected that in-context learning shares a similar mechanism to supervised learning, Min et al.(2022) recently reported that, surprisingly, input-label correspondence is less important than other aspects of prompt demonstrations. Inspired by this counter-intuitive observation, we re-examine the importance of  Cites: An Explanation of In-context Learning as Implicit Bayesian Inference
+--- 
+layout: post 
+title: "Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "J Kim, HJ Kim, H Cho, H Jo, SW Lee, S Lee, KM Yoo - arXiv preprint arXiv , 2022" 
+--- 
+Despite recent explosion in research interests, in-context learning and the precise impact of the quality of demonstrations remain elusive. While, based on current literature, it is expected that in-context learning shares a similar mechanism to supervised learning, Min et al.(2022) recently reported that, surprisingly, input-label correspondence is less important than other aspects of prompt demonstrations. Inspired by this counter-intuitive observation, we re-examine the importance of Cites: An Explanation of In-context Learning as Implicit Bayesian Inference

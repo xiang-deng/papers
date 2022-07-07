@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "S Sia, A Belyy, A Almahairi, M Khabsa, L Zettlemoyer - arXiv preprint arXiv , 2022"
----
-Evaluating an explanation s faithfulness is desired for many reasons such as trust, interpretability and diagnosing the sources of model s errors. In this work, which focuses on the NLI task, we introduce the methodology of Faithfulness-through-Counterfactuals, which first generates a counterfactual hypothesis based on the logical predicates expressed in the explanation, and then evaluates if the model s prediction on the counterfactual is consistent with that expressed logic (ie if the new  Cites: Toward Code Generation: A Survey and Lessons from Semantic
+--- 
+layout: post 
+title: "Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "S Sia, A Belyy, A Almahairi, M Khabsa, L Zettlemoyer - arXiv preprint arXiv , 2022" 
+--- 
+Evaluating an explanation s faithfulness is desired for many reasons such as trust, interpretability and diagnosing the sources of model s errors. In this work, which focuses on the NLI task, we introduce the methodology of Faithfulness-through-Counterfactuals, which first generates a counterfactual hypothesis based on the logical predicates expressed in the explanation, and then evaluates if the model s prediction on the counterfactual is consistent with that expressed logic (ie if the new Cites: Toward Code Generation: A Survey and Lessons from Semantic

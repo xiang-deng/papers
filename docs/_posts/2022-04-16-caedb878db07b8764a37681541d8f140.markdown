@@ -1,8 +1,8 @@
----
-layout: post
-title:  "GERE: Generative Evidence Retrieval for Fact Verification"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "J Chen, R Zhang, J Guo, Y Fan, X Cheng - arXiv preprint arXiv:2204.05511, 2022"
----
+--- 
+layout: post 
+title: "GERE: Generative Evidence Retrieval for Fact Verification" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "J Chen, R Zhang, J Guo, Y Fan, X Cheng - arXiv preprint arXiv:2204.05511, 2022" 
+--- 
 Fact verification (FV) is a challenging task which aims to verify a claim using multiple evidential sentences from trustworthy corpora, eg, Wikipedia. Most existing approaches follow a three-step pipeline framework, including document retrieval, sentence retrieval and claim verification. High-quality evidences provided by the first two steps are the foundation of the effective reasoning in the last step. Despite being important, high-quality evidences are rarely studied by existing works for FV, which Cites: Autoregressive entity retrieval

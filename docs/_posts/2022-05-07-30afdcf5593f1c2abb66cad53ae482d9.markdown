@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "S Yang, W Liu, K Tu - arXiv preprint arXiv:2205.00484, 2022"
----
+--- 
+layout: post 
+title: "Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "S Yang, W Liu, K Tu - arXiv preprint arXiv:2205.00484, 2022" 
+--- 
 Hidden Markov Models (HMMs) and Probabilistic Context-Free Grammars (PCFGs) are widely used structured models, both of which can be represented as factor graph grammars (FGGs), a powerful formalism capable of describing a wide range of models. Recent research found it beneficial to use large state spaces for HMMs and PCFGs. However, inference with large state spaces is computationally demanding, especially for PCFGs. To tackle this challenge, we leverage tensor rank Cites: Scaling Structured Inference with Randomization

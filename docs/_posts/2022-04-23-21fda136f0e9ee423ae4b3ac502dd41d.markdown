@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sources of Irreproducibility in Machine Learning: A Review"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "OE Gundersen, K Coakley, C Kirkpatrick - arXiv preprint arXiv:2204.07610, 2022"
----
+--- 
+layout: post 
+title: "Sources of Irreproducibility in Machine Learning: A Review" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "OE Gundersen, K Coakley, C Kirkpatrick - arXiv preprint arXiv:2204.07610, 2022" 
+--- 
 Lately, several benchmark studies have shown that the state of the art in some of the sub-fields of machine learning actually has not progressed despite progress being reported in the literature. The lack of progress is partly caused by the irreproducibility of many model comparison studies. Model comparison studies are conducted that do not control for many known sources of irreproducibility. This leads to results that cannot be verified by third parties. Our objective is to provide an overview of the Cites: Show your work: Improved reporting of experimental results

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "GATSum: Graph-Based Topic-Aware Abstract Text Summarization"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "M Jiang, Y Zou, J Xu, M Zhang - Information Technology and Control, 2022"
----
-The purpose of text summarization is to compress a text document into a summary containing key information. abstract approaches are challenging tasks, it is necessary to design a mechanism to effectively extract salient information from the source text, and then generate a summary. However, most of the existing abstract approaches are difficult to capture global semantics, ignoring the impact of global information on obtaining important content. To solve this problem, this paper  Cites: BERT: Pre-training of Deep Bidirectional Transformers for
+--- 
+layout: post 
+title: "GATSum: Graph-Based Topic-Aware Abstract Text Summarization" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "M Jiang, Y Zou, J Xu, M Zhang - Information Technology and Control, 2022" 
+--- 
+The purpose of text summarization is to compress a text document into a summary containing key information. abstract approaches are challenging tasks, it is necessary to design a mechanism to effectively extract salient information from the source text, and then generate a summary. However, most of the existing abstract approaches are difficult to capture global semantics, ignoring the impact of global information on obtaining important content. To solve this problem, this paper Cites: BERT: Pre-training of Deep Bidirectional Transformers for

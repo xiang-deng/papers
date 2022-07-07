@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Discovering Financial Hypernyms by Prompting Masked Language Models"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "B Peng, E Chersoni, YY Hsu, CR Huang - Proceedings of the 4th Financial Narrative , 2022"
----
-With the rising popularity of Transformer-based language models, several studies have tried to exploit their masked language modeling capabilities to automatically extract relational linguistic knowledge, although this kind of research has rarely investigated semantic relations in specialized domains. The present study aims at testing a general-domain and a domain-adapted Transformer model on two datasets of financial term-hypernym pairs using the prompt methodology. Our results show  Cites: How well can we predict hypernyms from word embeddings? a
+--- 
+layout: post 
+title: "Discovering Financial Hypernyms by Prompting Masked Language Models" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "B Peng, E Chersoni, YY Hsu, CR Huang - Proceedings of the 4th Financial Narrative , 2022" 
+--- 
+With the rising popularity of Transformer-based language models, several studies have tried to exploit their masked language modeling capabilities to automatically extract relational linguistic knowledge, although this kind of research has rarely investigated semantic relations in specialized domains. The present study aims at testing a general-domain and a domain-adapted Transformer model on two datasets of financial term-hypernym pairs using the prompt methodology. Our results show Cites: How well can we predict hypernyms from word embeddings? a

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "Y Bai, A Jones, K Ndousse, A Askell, A Chen - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "Y Bai, A Jones, K Ndousse, A Askell, A Chen - arXiv preprint arXiv , 2022" 
+--- 
 We apply preference modeling and reinforcement learning from human feedback (RLHF) to finetune language models to act as helpful and harmless assistants. We find this alignment training improves performance on almost all NLP evaluations, and is fully compatible with training for specialized skills such as python coding and summarization. We explore an iterated online mode of training, where preference models and RL policies are updated on a weekly cadence with fresh human Cites: Retrieval-augmented generation for knowledge-intensive nlp tasks

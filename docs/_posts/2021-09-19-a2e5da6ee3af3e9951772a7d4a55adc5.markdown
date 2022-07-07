@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ROMAX: Certifiably Robust Deep Multiagent Reinforcement Learning via Convex Relaxation"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "C Sun, DK Kim, JP How - arXiv preprint arXiv:2109.06795, 2021"
----
+--- 
+layout: post 
+title: "ROMAX: Certifiably Robust Deep Multiagent Reinforcement Learning via Convex Relaxation" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "C Sun, DK Kim, JP How - arXiv preprint arXiv:2109.06795, 2021" 
+--- 
 In a multirobot system, a number of cyber-physical attacks (eg, communication hijack, observation perturbations) can challenge the robustness of agents. This robustness issue worsens in multiagent reinforcement learning because there exists the non- stationarity of the environment caused by simultaneously learning agents whose changing policies affect the transition and reward functions. In this paper, we propose a minimax MARL approach to infer the worst-case policy update of other Cites: Semidefinite relaxations for certifying robustness to adversarial

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PERSPECTIVES GENERATION VIA MULTI-HEAD ATTENTION MECHANISM AND COMMON-SENSE KNOWLEDGE"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "F Alkhawaldeh, T Yuan, D Kazakov"
----
+--- 
+layout: post 
+title: "PERSPECTIVES GENERATION VIA MULTI-HEAD ATTENTION MECHANISM AND COMMON-SENSE KNOWLEDGE" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "F Alkhawaldeh, T Yuan, D Kazakov" 
+--- 
 Consideration of multiple viewpoints on a contentious issue is critical for avoiding bias and assisting in the formulation of rational decisions. We observe that the current model imposes a constraint on diversity. This is because the conventional attention mechanism is biased toward a single semantic aspect of the claim, whereas the claim may contain multiple semantic aspects. Additionally, disregarding common- sense knowledge may result in generating perspectives that violate known facts Cites: Paragraph-level commonsense transformers with recurrent memory

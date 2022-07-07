@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Graph Neural Networks: Self-supervised Learning"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "Y Wang, W Jin, T Derr - Graph Neural Networks: Foundations, Frontiers, and , 2021"
----
+--- 
+layout: post 
+title: "Graph Neural Networks: Self-supervised Learning" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "Y Wang, W Jin, T Derr - Graph Neural Networks: Foundations, Frontiers, and , 2021" 
+--- 
 Although deep learning has achieved state-of-the-art performance across numerous domains, these models generally require large annotated datasets to reach their full potential and avoid overfitting. However, obtaining such datasets can have high associated costs or even be impossible to procure. Self-supervised learning (SSL) seeks to create and utilize specific pretext tasks on unlabeled data to aid in alleviating this fundamental limitation of deep learning models. Although initially Cites: Strategies for pre-training graph neural networks

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Pathologies of Pre-trained Language Models in Few-shot Fine-tuning"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "H Chen, G Zheng, AH Awadallah, Y Ji - arXiv preprint arXiv:2204.08039, 2022"
----
+--- 
+layout: post 
+title: "Pathologies of Pre-trained Language Models in Few-shot Fine-tuning" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "H Chen, G Zheng, AH Awadallah, Y Ji - arXiv preprint arXiv:2204.08039, 2022" 
+--- 
 Although adapting pre-trained language models with few examples has shown promising performance on text classification, there is a lack of understanding of where the performance gain comes from. In this work, we propose to answer this question by interpreting the adaptation behavior using post-hoc explanations from model predictions. By modeling feature statistics of explanations, we discover that (1) without fine-tuning, pre-trained models (eg BERT and RoBERTa) show strong Cites: How can we know what language models know?

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fast and Light-Weight Answer Text Retrieval in Dialogue Systems"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "H Wan, SS Patel, JW Murdock, S Potdar, S Joshi - arXiv preprint arXiv:2205.14226, 2022"
----
-Dialogue systems can benefit from being able to search through a corpus of text to find information relevant to user requests, especially when encountering a request for which no manually curated response is available. The state-of-the-art technology for neural dense retrieval or re-ranking involves deep learning models with hundreds of millions of parameters. However, it is difficult and expensive to get such models to operate at an industrial scale, especially for cloud services that often need to support  Cites: KILT: a benchmark for knowledge intensive language tasks
+--- 
+layout: post 
+title: "Fast and Light-Weight Answer Text Retrieval in Dialogue Systems" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "H Wan, SS Patel, JW Murdock, S Potdar, S Joshi - arXiv preprint arXiv:2205.14226, 2022" 
+--- 
+Dialogue systems can benefit from being able to search through a corpus of text to find information relevant to user requests, especially when encountering a request for which no manually curated response is available. The state-of-the-art technology for neural dense retrieval or re-ranking involves deep learning models with hundreds of millions of parameters. However, it is difficult and expensive to get such models to operate at an industrial scale, especially for cloud services that often need to support Cites: KILT: a benchmark for knowledge intensive language tasks

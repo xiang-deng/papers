@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Few-Shot Adaptation of Pre-Trained Networks for Domain Shift"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "W Zhang, L Shen, W Zhang, CS Foo - arXiv preprint arXiv:2205.15234, 2022"
----
-Deep networks are prone to performance degradation when there is a domain shift between the source (training) data and target (test) data. Recent test-time adaptation methods update batch normalization layers of pre-trained source models deployed in new target environments with streaming data to mitigate such performance degradation. Although such methods can adapt on-the-fly without first collecting a large target domain dataset, their performance is dependent on streaming conditions  Cites: Wilds: A benchmark of in-the-wild distribution shifts
+--- 
+layout: post 
+title: "Few-Shot Adaptation of Pre-Trained Networks for Domain Shift" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "W Zhang, L Shen, W Zhang, CS Foo - arXiv preprint arXiv:2205.15234, 2022" 
+--- 
+Deep networks are prone to performance degradation when there is a domain shift between the source (training) data and target (test) data. Recent test-time adaptation methods update batch normalization layers of pre-trained source models deployed in new target environments with streaming data to mitigate such performance degradation. Although such methods can adapt on-the-fly without first collecting a large target domain dataset, their performance is dependent on streaming conditions Cites: Wilds: A benchmark of in-the-wild distribution shifts

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Selective Classification Via Neural Network Training Dynamics"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "S Rabanser, A Thudi, K Hamidieh, A Dziedzic - arXiv preprint arXiv , 2022"
----
-Selective classification is the task of rejecting inputs a model would predict incorrectly on through a trade-off between input space coverage and model accuracy. Current methods for selective classification impose constraints on either the model architecture or the loss function; this inhibits their usage in practice. In contrast to prior work, we show that state-of-the-art selective classification performance can be attained solely from studying the (discretized) training dynamics  Cites: Selective classification can magnify disparities across groups
+--- 
+layout: post 
+title: "Selective Classification Via Neural Network Training Dynamics" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "S Rabanser, A Thudi, K Hamidieh, A Dziedzic - arXiv preprint arXiv , 2022" 
+--- 
+Selective classification is the task of rejecting inputs a model would predict incorrectly on through a trade-off between input space coverage and model accuracy. Current methods for selective classification impose constraints on either the model architecture or the loss function; this inhibits their usage in practice. In contrast to prior work, we show that state-of-the-art selective classification performance can be attained solely from studying the (discretized) training dynamics Cites: Selective classification can magnify disparities across groups

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Distribution Shift in Learning-based Bug Detectors"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "J He, L Beurer-Kellner, M Vechev - arXiv preprint arXiv:2204.10049, 2022"
----
+--- 
+layout: post 
+title: "On Distribution Shift in Learning-based Bug Detectors" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "J He, L Beurer-Kellner, M Vechev - arXiv preprint arXiv:2204.10049, 2022" 
+--- 
 Deep learning has recently achieved initial success in program analysis tasks such as bug detection. Lacking real bugs, most existing works construct training and test data by injecting synthetic bugs into correct programs. Despite achieving high test accuracy (eg> 90%), the resulting bug detectors are found to be surprisingly unusable in practice, ie,< 10% precision when used to scan real software repositories. In this work, we argue that this massive performance difference is Cites: Learning to represent edits

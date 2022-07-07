@@ -1,8 +1,8 @@
----
-layout: post
-title:  "General-Purpose Question-Answering with Macaw"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "O Tafjord, P Clark - arXiv preprint arXiv:2109.02593, 2021"
----
+--- 
+layout: post 
+title: "General-Purpose Question-Answering with Macaw" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "O Tafjord, P Clark - arXiv preprint arXiv:2109.02593, 2021" 
+--- 
 Despite the successes of pretrained language models, there are still few high-quality, general-purpose QA systems that are freely available. In response, we present Macaw, a versatile, generative question-answering (QA) system that we are making available to the community. Macaw is built on UnifiedQA, itself built on T5, and exhibits strong performance, zero-shot, on a wide variety of topics, including outperforming GPT-3 by over 10%(absolute) on Challenge300, a suite of 300 Cites: Reasoning about actions and state changes by injecting

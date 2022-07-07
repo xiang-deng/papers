@@ -1,8 +1,8 @@
----
-layout: post
-title:  "E2S2: Encoding-Enhanced Sequence-to-Sequence Pretraining for Language Understanding and Generation"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "Q Zhong, L Ding, J Liu, B Du, D Tao - arXiv preprint arXiv:2205.14912, 2022"
----
-Sequence-to-sequence (seq2seq) learning has become a popular trend for pretraining language models, due to its succinct and universal framework. However, the prior seq2seq pretraining models generally focus on reconstructive objectives on the decoder side and neglect the effect of encoder-side supervisions, which may lead to sub-optimal performance. To this end, we propose an encoding-enhanced seq2seq pretraining strategy, namely E2S2, which improves the seq2seq models via  Cites: Don t give me the details, just the summary! topic-aware
+--- 
+layout: post 
+title: "E2S2: Encoding-Enhanced Sequence-to-Sequence Pretraining for Language Understanding and Generation" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "Q Zhong, L Ding, J Liu, B Du, D Tao - arXiv preprint arXiv:2205.14912, 2022" 
+--- 
+Sequence-to-sequence (seq2seq) learning has become a popular trend for pretraining language models, due to its succinct and universal framework. However, the prior seq2seq pretraining models generally focus on reconstructive objectives on the decoder side and neglect the effect of encoder-side supervisions, which may lead to sub-optimal performance. To this end, we propose an encoding-enhanced seq2seq pretraining strategy, namely E2S2, which improves the seq2seq models via Cites: Don t give me the details, just the summary! topic-aware

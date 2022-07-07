@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Conjunctive Queries with Output Access Patterns under Updates"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "A Kara, M Nikolic, D Olteanu, H Zhang - arXiv preprint arXiv:2206.09032, 2022"
----
-We study the dynamic evaluation of conjunctive queries with output access patterns. An access pattern is a partition of the free variables of the query into input and output. The query returns tuples over the output variables given a tuple over the input variables. Our contribution is threefold. First, we give a syntactic characterisation of queries that admit constant time per single-tuple update and whose output tuples can be enumerated with constant delay given an input tuple. Second, we define a class  Cites: Query optimization in the presence of limited access patterns
+--- 
+layout: post 
+title: "Conjunctive Queries with Output Access Patterns under Updates" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "A Kara, M Nikolic, D Olteanu, H Zhang - arXiv preprint arXiv:2206.09032, 2022" 
+--- 
+We study the dynamic evaluation of conjunctive queries with output access patterns. An access pattern is a partition of the free variables of the query into input and output. The query returns tuples over the output variables given a tuple over the input variables. Our contribution is threefold. First, we give a syntactic characterisation of queries that admit constant time per single-tuple update and whose output tuples can be enumerated with constant delay given an input tuple. Second, we define a class Cites: Query optimization in the presence of limited access patterns

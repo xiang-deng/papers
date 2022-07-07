@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sequence-Based Extractive Summarisation for Scientific Articles"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "D Kershaw, R Koeling - arXiv preprint arXiv:2204.03301, 2022"
----
+--- 
+layout: post 
+title: "Sequence-Based Extractive Summarisation for Scientific Articles" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "D Kershaw, R Koeling - arXiv preprint arXiv:2204.03301, 2022" 
+--- 
 This paper presents the results of research on supervised extractive text summarisation for scientific articles. We show that a simple sequential tagging model based only on the text within a document achieves high results against a simple classification model. Improvements can be achieved through additional sentence- level features, though these were minimal. Through further analysis, we show the potential of the sequential model relying on the structure of the document depending Cites: Neural summarization by extracting sentences and words

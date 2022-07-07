@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automatic Detection of Entity-Manipulated Text using Factual Knowledge"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "G Jawahar, M Abdul-Mageed, LVS Lakshmanan - arXiv preprint arXiv:2203.10343, 2022"
----
+--- 
+layout: post 
+title: "Automatic Detection of Entity-Manipulated Text using Factual Knowledge" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "G Jawahar, M Abdul-Mageed, LVS Lakshmanan - arXiv preprint arXiv:2203.10343, 2022" 
+--- 
 In this work, we focus on the problem of distinguishing a human written news article from a news article that is created by manipulating entities in a human written news article (eg, replacing entities with factually incorrect entities). Such manipulated articles can mislead the reader by posing as a human written news article. We propose a neural network based detector that detects manipulated news articles by reasoning about the facts mentioned in the article. Our proposed detector exploits Cites: Mauve: Measuring the gap between neural text and human text

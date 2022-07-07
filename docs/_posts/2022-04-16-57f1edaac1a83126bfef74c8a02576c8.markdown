@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ProtoTEx: Explaining Model Decisions with Prototype Tensors"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "A Das, C Gupta, V Kovatchev, M Lease, JJ Li - arXiv preprint arXiv:2204.05426, 2022"
----
+--- 
+layout: post 
+title: "ProtoTEx: Explaining Model Decisions with Prototype Tensors" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "A Das, C Gupta, V Kovatchev, M Lease, JJ Li - arXiv preprint arXiv:2204.05426, 2022" 
+--- 
 We present ProtoTEx, a novel white-box NLP classification architecture based on prototype networks. ProtoTEx faithfully explains model decisions based on prototype tensors that encode latent clusters of training examples. At inference time, classification decisions are based on the distances between the input text and the prototype tensors, explained via the training examples most similar to the most influential prototypes. We also describe a novel interleaved training algorithm that Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

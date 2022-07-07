@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evidence Augment for Multiple-Choice Machine Reading Comprehension by Weak Supervision"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "D Luo, P Zhang, L Ma, X Zhu, M Zhou, Q Liang - International Conference on , 2021"
----
+--- 
+layout: post 
+title: "Evidence Augment for Multiple-Choice Machine Reading Comprehension by Weak Supervision" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "D Luo, P Zhang, L Ma, X Zhu, M Zhou, Q Liang - International Conference on , 2021" 
+--- 
 Given a passage and a question, Multiple-choice Machine Reading Comprehension (MRC) requires to select the correct answer from several candidates. Existing methods consider more about the accuracy of the prediction of the final answer in a black box, which provides no concrete evidence to explain the choice making process. Intuitively, evidence is helpful in building a convincing multiple-choice MRC model. Due to the lack of the golden evidence labels and high cost of manual Cites: Triviaqa: A large scale distantly supervised challenge dataset for

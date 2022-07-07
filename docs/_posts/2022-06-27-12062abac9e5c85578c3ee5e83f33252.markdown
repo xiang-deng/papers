@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-Aspect Dense Retrieval"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "W Kong, S Khadanga, C Li, S Gupta, M Zhang, W Xu - 2022"
----
-Abstract Prior work in Dense Retrieval usually encodes queries and documents using single-vector representations (also called embeddings) and performs retrieval in the embedding space using approximate nearest neighbor search. This paradigm enables efficient semantic retrieval. However, the single-vector representations can be ineffective at capturing different aspects of the queries and documents in relevance matching, especially for some vertical domains. For example, in e  Cites: Sparse, dense, and attentional representations for text retrieval
+--- 
+layout: post 
+title: "Multi-Aspect Dense Retrieval" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "W Kong, S Khadanga, C Li, S Gupta, M Zhang, W Xu - 2022" 
+--- 
+Abstract Prior work in Dense Retrieval usually encodes queries and documents using single-vector representations (also called embeddings) and performs retrieval in the embedding space using approximate nearest neighbor search. This paradigm enables efficient semantic retrieval. However, the single-vector representations can be ineffective at capturing different aspects of the queries and documents in relevance matching, especially for some vertical domains. For example, in e Cites: Sparse, dense, and attentional representations for text retrieval

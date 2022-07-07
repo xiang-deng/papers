@@ -1,8 +1,8 @@
----
-layout: post
-title:  "AI Assisted Data Labeling with Interactive Auto Label"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "M Desmond, M Brachman, E Duesterwald, C Dugan - 2022"
----
+--- 
+layout: post 
+title: "AI Assisted Data Labeling with Interactive Auto Label" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "M Desmond, M Brachman, E Duesterwald, C Dugan - 2022" 
+--- 
 We demonstrate an AI assisted data labeling system which applies unsupervised and semi-supervised machine learning to facilitate accurate and efficient labeling of large data sets. Our system (1) applies representative data sampling and active learning in order to seed and maintain a semi-supervised learner that assists the human labeler (2) provides visual labeling assistance and optimizes labeling mechanics using predicted labels (3) seamlessly updates and learns from ongoing Cites: Learning with Local and Global Consistency.

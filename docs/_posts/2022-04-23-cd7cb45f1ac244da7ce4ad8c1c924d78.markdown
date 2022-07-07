@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evaluating few shot and Contrastive learning Methods for Code Clone Detection"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "M Khajezade, FH Fard, MS Shehata - arXiv preprint arXiv:2204.07501, 2022"
----
+--- 
+layout: post 
+title: "Evaluating few shot and Contrastive learning Methods for Code Clone Detection" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "M Khajezade, FH Fard, MS Shehata - arXiv preprint arXiv:2204.07501, 2022" 
+--- 
 Context: Code Clone Detection (CCD) is a software engineering task that is used for plagiarism detection, code search, and code comprehension. Recently, deep learning-based models have achieved an F1 score (a metric used to assess classifiers) of $ sim $95 % on the CodeXGLUE benchmark. These models require many training data, mainly fine-tuned on Java or C++ datasets. However, no previous study evaluates the generalizability of these models where a limited amount Cites: Universal natural language processing with limited annotations

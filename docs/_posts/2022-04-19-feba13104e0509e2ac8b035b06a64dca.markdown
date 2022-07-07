@@ -1,8 +1,8 @@
----
-layout: post
-title:  "State of the art: a review of sentiment analysis based on sequential transfer learning"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "JYL Chan, KT Bea, SMH Leow, SW Phoong - Artificial Intelligence Review, 2022"
----
+--- 
+layout: post 
+title: "State of the art: a review of sentiment analysis based on sequential transfer learning" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "JYL Chan, KT Bea, SMH Leow, SW Phoong - Artificial Intelligence Review, 2022" 
+--- 
 Recently, sequential transfer learning emerged as a modern technique for applying the pretrain then fine-tune paradigm to leverage existing knowledge to improve the performance of various downstream NLP tasks, with no exception of sentiment analysis. Previous pieces of literature mostly focus on reviewing the application of various deep learning models to sentiment analysis. However, supervised deep learning methods are known to be data hungry, but insufficient training data in Cites: Learning sentiment-specific word embedding for twitter sentiment

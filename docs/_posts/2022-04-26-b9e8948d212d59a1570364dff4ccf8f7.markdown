@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sparse factorization of square matrices with application to neural attention modeling"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "R Khalitov, T Yu, L Cheng, Z Yang - Neural Networks, 2022"
----
+--- 
+layout: post 
+title: "Sparse factorization of square matrices with application to neural attention modeling" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "R Khalitov, T Yu, L Cheng, Z Yang - Neural Networks, 2022" 
+--- 
 Square matrices appear in many machine learning problems and models. Optimization over a large square matrix is expensive in memory and in time. Therefore an economic approximation is needed. Conventional approximation approaches factorize the square matrix into a number matrices of much lower ranks. However, the low-rank constraint is a performance bottleneck if the approximated matrix is intrinsically high-rank or close to full rank. In this paper, we propose to Cites: Random feature attention

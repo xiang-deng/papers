@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Pipeline for Tailored Sampling for Progressive Visual Analytics"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "M Hogrfer, J Burkhardt, HJ Schulz - 2022"
----
-Abstract Progressive Visual Analytics enables analysts to interactively work with partial results from long-running computations early on instead of forcing them to wait. For very large datasets, the first step is to divide that input data into smaller chunks using sampling, which are then passed down the progressive analysis pipeline all the way to their progressive visualization in the end. The quality of the partial results produced by the progression heavily depends on the quality of these  Cites: Visualization-aware sampling for very large databases
+--- 
+layout: post 
+title: "A Pipeline for Tailored Sampling for Progressive Visual Analytics" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "M Hogrfer, J Burkhardt, HJ Schulz - 2022" 
+--- 
+Abstract Progressive Visual Analytics enables analysts to interactively work with partial results from long-running computations early on instead of forcing them to wait. For very large datasets, the first step is to divide that input data into smaller chunks using sampling, which are then passed down the progressive analysis pipeline all the way to their progressive visualization in the end. The quality of the partial results produced by the progression heavily depends on the quality of these Cites: Visualization-aware sampling for very large databases

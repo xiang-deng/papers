@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Inductive Link Prediction via Interactive Learning Across Relations in Multiplex Networks"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "M Gao, P Jiao, R Lu, H Wu, Y Wang, Z Zhao - IEEE Transactions on Computational , 2022"
----
-Network embedding is an important class of link prediction methods, which can use the distance between learned low-dimensional node representations to characterize the similarity between nodes. Traditional network embedding methods focus on single-layer networks, while in reality, a large part of complex networks are not isolated, but interdependent and interrelated, forming multiplex complex networks. Also, how to effectively exploit layer correlations in multiplex networks to learn more  Cites: Rhine: relation structure-aware heterogeneous information
+--- 
+layout: post 
+title: "Inductive Link Prediction via Interactive Learning Across Relations in Multiplex Networks" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "M Gao, P Jiao, R Lu, H Wu, Y Wang, Z Zhao - IEEE Transactions on Computational , 2022" 
+--- 
+Network embedding is an important class of link prediction methods, which can use the distance between learned low-dimensional node representations to characterize the similarity between nodes. Traditional network embedding methods focus on single-layer networks, while in reality, a large part of complex networks are not isolated, but interdependent and interrelated, forming multiplex complex networks. Also, how to effectively exploit layer correlations in multiplex networks to learn more Cites: Rhine: relation structure-aware heterogeneous information

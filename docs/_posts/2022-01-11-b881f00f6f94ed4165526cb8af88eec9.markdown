@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Tractable Planning for Coordinated Story Capture: Sequential Stochastic Decoupling"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "JM O Kane - Distributed Autonomous Robotic Systems: 15th"
----
+--- 
+layout: post 
+title: "Tractable Planning for Coordinated Story Capture: Sequential Stochastic Decoupling" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "JM O Kane - Distributed Autonomous Robotic Systems: 15th" 
+--- 
 We consider the problem of deploying robots to observe the evolution of a stochastic process in order to output a sequence of observations that fit some given specification. This problem often arises in contexts such as event reporting, situation depiction, and automated narrative generation. The paper extends our prior work by formulating and examining the multi-robot case: a team of robots move about, each recording what they observe, and, if they manage to capture some event Cites: Reasoning about robocup soccer narratives

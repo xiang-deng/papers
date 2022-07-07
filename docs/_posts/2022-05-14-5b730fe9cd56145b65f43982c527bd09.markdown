@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automatic Noisy Label Correction for Fine-Grained Entity Typing"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "W Pan, W Wei, F Zhu - arXiv preprint arXiv:2205.03011, 2022"
----
+--- 
+layout: post 
+title: "Automatic Noisy Label Correction for Fine-Grained Entity Typing" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "W Pan, W Wei, F Zhu - arXiv preprint arXiv:2205.03011, 2022" 
+--- 
 Fine-grained entity typing (FET) aims to assign proper semantic types to entity mentions according to their context, which is a fundamental task in various entity- leveraging applications. Current FET systems usually establish on large-scale weakly-supervised/distantly annotation data, which may contain abundant noise and thus severely hinder the performance of the FET task. Although previous studies have made great success in automatically identifying the noisy labels in FET, they Cites: Dividemix: Learning with noisy labels as semi-supervised learning

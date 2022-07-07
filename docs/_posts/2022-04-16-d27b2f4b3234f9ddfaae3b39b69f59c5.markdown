@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Reducing Model Jitter: Stable Re-training of Semantic Parsers in Production Environments"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "C Hidey, F Liu, R Goel - arXiv preprint arXiv:2204.04735, 2022"
----
+--- 
+layout: post 
+title: "Reducing Model Jitter: Stable Re-training of Semantic Parsers in Production Environments" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "C Hidey, F Liu, R Goel - arXiv preprint arXiv:2204.04735, 2022" 
+--- 
 Retraining modern deep learning systems can lead to variations in model performance even when trained using the same data and hyper-parameters by simply using different random seeds. We call this phenomenon model jitter. This issue is often exacerbated in production settings, where models are retrained on noisy data. In this work we tackle the problem of stable retraining with a focus on conversational semantic parsers. We first quantify the model jitter problem by Cites: Well-read students learn better: On the importance of pre-training

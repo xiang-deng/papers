@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Method of Relation Extraction: Integrating Graph Convolutional Networks, Relative Entity Position Attention and Back-Multi-Head-Attention Mechanism"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "C Liu, X Zhao, Y Zhao - 2021 International Joint Conference on Neural , 2021"
----
+--- 
+layout: post 
+title: "A Method of Relation Extraction: Integrating Graph Convolutional Networks, Relative Entity Position Attention and Back-Multi-Head-Attention Mechanism" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "C Liu, X Zhao, Y Zhao - 2021 International Joint Conference on Neural , 2021" 
+--- 
 Relation extraction is the task of identifying entity pairs and relationship between entity pairs. Moreover, it is a key method for knowledge discovery. It has been proven effective to run the graph convolutional networks on the syntactic dependency tree to extract the syntactic features of sentences. The entities in the sentence and position of entities have a great influence on the results of relation extraction. Based on graph convolutional networks, we propose a relation extraction model that combines Cites: Cross-sentence n-ary relation extraction with graph lstms

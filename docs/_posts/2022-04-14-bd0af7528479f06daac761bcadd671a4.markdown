@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Measuring Semantic Similarity of Documents by Using Named Entity Recognition Methods"
-date:   2022-04-14 01:14:43 -0400
-categories: jekyll update
-author: "DEM Morales - 2022"
----
+--- 
+layout: post 
+title: "Measuring Semantic Similarity of Documents by Using Named Entity Recognition Methods" 
+date: 2022-04-14 01:14:43 -0400 
+categories: jekyll update 
+author: "DEM Morales - 2022" 
+--- 
 The work presented in this thesis was born from the desire to map documents with similar semantic concepts between them. We decided to address this problem as a named entity recognition task, where we have identified key concepts in the texts we use, and we have categorized them. So, we can apply named entity recognition techniques and automatically recognize these key concepts inside other documents. However, we propose the use of a classification method based on the recognition of Cites: Semi-supervised sequence modeling with cross-view training

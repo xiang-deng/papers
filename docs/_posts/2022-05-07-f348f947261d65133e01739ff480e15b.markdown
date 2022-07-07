@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Meta Learning for Natural Language Processing: A Survey"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "H Lee, SW Li, NT Vu - arXiv preprint arXiv:2205.01500, 2022"
----
+--- 
+layout: post 
+title: "Meta Learning for Natural Language Processing: A Survey" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "H Lee, SW Li, NT Vu - arXiv preprint arXiv:2205.01500, 2022" 
+--- 
 Deep learning has been the mainstream technique in natural language processing (NLP) area. However, the techniques require many labeled data and are less generalizable across domains. Meta-learning is an arising field in machine learning studying approaches to learn better learning algorithms. Approaches aim at improving algorithms in various aspects, including data efficiency and generalizability. Efficacy of approaches has been shown in many NLP tasks, but Cites: Coupling retrieval and meta-learning for context-dependent

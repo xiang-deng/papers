@@ -1,8 +1,8 @@
----
-layout: post
-title:  "HyperLogLogLog: Cardinality Estimation With One Log More"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "M Karppa, R Pagh - arXiv preprint arXiv:2205.11327, 2022"
----
-We present HyperLogLogLog, a practical compression of the HyperLogLog sketch that compresses the sketch from $ O (m\log\log n) $ bits down to $ m\log_2\log_2\log_2 m+ O (m+\log\log n) $ bits for estimating the number of distinct elements~ $ n $ using $ m $~ registers. The algorithm works as a drop-in replacement that preserves all estimation properties of the HyperLogLog sketch, it is possible to convert back and forth between the compressed and uncompressed  Cites: Goods: Organizing google s datasets
+--- 
+layout: post 
+title: "HyperLogLogLog: Cardinality Estimation With One Log More" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "M Karppa, R Pagh - arXiv preprint arXiv:2205.11327, 2022" 
+--- 
+We present HyperLogLogLog, a practical compression of the HyperLogLog sketch that compresses the sketch from $ O (m\log\log n) $ bits down to $ m\log_2\log_2\log_2 m+ O (m+\log\log n) $ bits for estimating the number of distinct elements~ $ n $ using $ m $~ registers. The algorithm works as a drop-in replacement that preserves all estimation properties of the HyperLogLog sketch, it is possible to convert back and forth between the compressed and uncompressed Cites: Goods: Organizing google s datasets

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Machine Learning Based Invariant Generation: A Framework and Reproducibility Study"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "J Haltermann, H Wehrheim - 2022 IEEE Conference on Software Testing , 2022"
----
-Software verification is the task of proving correct-ness of programs against specified requirements. Key to software verification is the automatic generation of loop invariants. In recent years, template-and logic-based approaches to invariant generation have been complemented by machine learning (ML) techniques. A number of proposals for such techniques exist today. Although all authors perform experimental evaluations of their proposals, comparability of the core techniques is  Cites: Learning invariants using decision trees and implication
+--- 
+layout: post 
+title: "Machine Learning Based Invariant Generation: A Framework and Reproducibility Study" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "J Haltermann, H Wehrheim - 2022 IEEE Conference on Software Testing , 2022" 
+--- 
+Software verification is the task of proving correct-ness of programs against specified requirements. Key to software verification is the automatic generation of loop invariants. In recent years, template-and logic-based approaches to invariant generation have been complemented by machine learning (ML) techniques. A number of proposals for such techniques exist today. Although all authors perform experimental evaluations of their proposals, comparability of the core techniques is Cites: Learning invariants using decision trees and implication

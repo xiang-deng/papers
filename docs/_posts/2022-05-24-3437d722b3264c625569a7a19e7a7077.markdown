@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LeRaC: Learning Rate Curriculum"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "FA Croitoru, NC Ristea, RT Ionescu, N Sebe - arXiv preprint arXiv:2205.09180, 2022"
----
-Most curriculum learning methods require an approach to sort the data samples by difficulty, which is often cumbersome to perform. In this work, we propose a novel curriculum learning approach termed Learning Rate Curriculum (LeRaC), which leverages the use of a different learning rate for each layer of a neural network to create a data-free curriculum during the initial training epochs. More specifically, LeRaC assigns higher learning rates to neural layers closer to the input, gradually  Cites: Competence-based Curriculum Learning for Neural Machine
+--- 
+layout: post 
+title: "LeRaC: Learning Rate Curriculum" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "FA Croitoru, NC Ristea, RT Ionescu, N Sebe - arXiv preprint arXiv:2205.09180, 2022" 
+--- 
+Most curriculum learning methods require an approach to sort the data samples by difficulty, which is often cumbersome to perform. In this work, we propose a novel curriculum learning approach termed Learning Rate Curriculum (LeRaC), which leverages the use of a different learning rate for each layer of a neural network to create a data-free curriculum during the initial training epochs. More specifically, LeRaC assigns higher learning rates to neural layers closer to the input, gradually Cites: Competence-based Curriculum Learning for Neural Machine

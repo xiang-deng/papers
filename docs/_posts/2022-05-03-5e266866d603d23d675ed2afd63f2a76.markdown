@@ -1,8 +1,8 @@
----
-layout: post
-title:  "$ G^ 2$: Enhance Knowledge Grounded Dialogue via Ground Graph"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "Y Yang, Y Gao, J Li, H Huang - arXiv preprint arXiv:2204.12681, 2022"
----
+--- 
+layout: post 
+title: "$ G^ 2$: Enhance Knowledge Grounded Dialogue via Ground Graph" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "Y Yang, Y Gao, J Li, H Huang - arXiv preprint arXiv:2204.12681, 2022" 
+--- 
 Knowledge grounded dialogue system is designed to generate responses that convey information from given knowledge documents. However, it s a challenge for the current Seq2Seq model to acquire knowledge from complex documents and integrate it to perform correct responses without the aid of an explicit semantic structure. To address these issues, we present a novel graph structure, Ground Graph ($ G^ 2$), which models the semantic structure of both dialogue contexts and Cites: DIALKI: Knowledge Identification in Conversational Systems

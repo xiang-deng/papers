@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Neighborhood Network for Aspect-Based Sentiment Analysis"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "H Liu, Q Dou - International Conference on Intelligent Information , 2022"
----
-Different aspects of a sentence may contain different sentiments, and sentiment descriptors for a given aspect exist in different places in the sentence, making it difficult to determine its sentiment polarity. Aiming at the above problems, a neighborhood network (Nenet) for aspect-based sentiment analysis is proposed. Firstly, the context information of the text is encoded, and the neighborhood information of the target aspect at the grammar level is extracted by using a graph  Cites: Aspect level sentiment classification with deep memory network
+--- 
+layout: post 
+title: "Neighborhood Network for Aspect-Based Sentiment Analysis" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "H Liu, Q Dou - International Conference on Intelligent Information , 2022" 
+--- 
+Different aspects of a sentence may contain different sentiments, and sentiment descriptors for a given aspect exist in different places in the sentence, making it difficult to determine its sentiment polarity. Aiming at the above problems, a neighborhood network (Nenet) for aspect-based sentiment analysis is proposed. Firstly, the context information of the text is encoded, and the neighborhood information of the target aspect at the grammar level is extracted by using a graph Cites: Aspect level sentiment classification with deep memory network

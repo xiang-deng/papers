@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Debiasing NLU models via Causal Intervention and Counterfactual Reasoning"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "B Tian, Y Cao, Y Zhang, C Xing - 2022"
----
+--- 
+layout: post 
+title: "Debiasing NLU models via Causal Intervention and Counterfactual Reasoning" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "B Tian, Y Cao, Y Zhang, C Xing - 2022" 
+--- 
 Recent studies have shown that strong Natural Language Understanding (NLU) models are prone to relying on annotation biases of the datasets as a shortcut, which goes against the underlying mechanisms of the task of interest. To reduce such biases, several recent works introduce debiasing methods to regularize the training process of targeted NLU models. In this paper, we provide a new perspective with causal inference to find out the bias. On the one hand, we show that there is an Cites: Avoiding the hypothesis-only bias in natural language inference

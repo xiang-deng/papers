@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Redefining Text-to-SQL Task as a Machine Translation Problem"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "A Das -  Technology for Competitive Strategies (ICTCS 2021) "
----
-Natural language interfaces are gaining popularity as an alternative interface for non-technical users. Natural language interface to database (NLIDB) systems have been attracting considerable interest recently that are being developed to accept user s query in natural language (NL), and then converting this NL query to an SQL query, the SQL query is executed to extract the resultant data from the database. This Text-to-SQL task is a long-standing, open problem, and towards solving the problem, the  Cites: Language to logical form with neural attention
+--- 
+layout: post 
+title: "Redefining Text-to-SQL Task as a Machine Translation Problem" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "A Das - Technology for Competitive Strategies (ICTCS 2021) " 
+--- 
+Natural language interfaces are gaining popularity as an alternative interface for non-technical users. Natural language interface to database (NLIDB) systems have been attracting considerable interest recently that are being developed to accept user s query in natural language (NL), and then converting this NL query to an SQL query, the SQL query is executed to extract the resultant data from the database. This Text-to-SQL task is a long-standing, open problem, and towards solving the problem, the Cites: Language to logical form with neural attention

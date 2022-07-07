@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning Realistic Mutations: Bug Creation for Neural Bug Detectors"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "C Richter, H Wehrheim - 2022 IEEE Conference on Software Testing , 2022"
----
-Mutations are small, often token-level changes to program code, typically performed during mutation testing for evaluating the quality of test suites. Recently, code mutations have come in use for creating benchmarks of buggy code. Such bug benchmarks present valuable aids for the evaluation of testing, debugging or bug repair tools. Moreover, they can serve as training data for learning-based (neural) bug detectors. Key to all these applications is the creation of realistic bugs which  Cites: Electra: Pre-training text encoders as discriminators rather than
+--- 
+layout: post 
+title: "Learning Realistic Mutations: Bug Creation for Neural Bug Detectors" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "C Richter, H Wehrheim - 2022 IEEE Conference on Software Testing , 2022" 
+--- 
+Mutations are small, often token-level changes to program code, typically performed during mutation testing for evaluating the quality of test suites. Recently, code mutations have come in use for creating benchmarks of buggy code. Such bug benchmarks present valuable aids for the evaluation of testing, debugging or bug repair tools. Moreover, they can serve as training data for learning-based (neural) bug detectors. Key to all these applications is the creation of realistic bugs which Cites: Electra: Pre-training text encoders as discriminators rather than

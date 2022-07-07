@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Noun-based attention mechanism for Fine-grained Named Entity Recognition"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "DC Castro, SH Garca - Expert Systems with Applications, 2022"
----
+--- 
+layout: post 
+title: "Noun-based attention mechanism for Fine-grained Named Entity Recognition" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "DC Castro, SH Garca - Expert Systems with Applications, 2022" 
+--- 
 Abstract Fine-grained Named Entity Recognition is a challenging Natural Language Processing problem as it requires classifying entity mentions into hundreds of types that can span across several domains and be organized in several hierarchy levels. This task can be divided into two subtasks: Fine-grained Named Entity Detection and Fine-grained Named Entity Typing. In this work, we propose solutions for both of these subtasks. For the former, we propose a system that uses a stack of Byte-Pair Cites: Neural architectures for fine-grained entity type classification

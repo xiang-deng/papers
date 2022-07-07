@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "V Gupta, S Zhang, A Vempala, Y He, T Choji"
----
+--- 
+layout: post 
+title: "Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "V Gupta, S Zhang, A Vempala, Y He, T Choji" 
+--- 
 When pre-trained contextualized embeddingbased models developed for unstructured data are adapted for structured tabular data, they perform admirably. However, recent probing studies show that these models use spurious correlations, and often predict inference labels by focusing on false evidence or ignoring it altogether. To study this issue, we introduce the task of Trustworthy Tabular Reasoning, where a model needs to extract evidence to be used for reasoning, in Cites: Is Attention Interpretable?

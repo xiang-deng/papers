@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards Readability-Controlled Machine Translation of COVID-19 Texts"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "F Alva-Manchego, M Shardlow - Proceedings of the 23rd Annual Conference of the , 2022"
----
-This project investigates the capabilities of Machine Translation models for generating translations at varying levels of readability, focusing on texts related to COVID-19. Whilst it is possible to automatically translate this information, the resulting text may contain specialised terminology, or may be written in a style that is difficult for lay readers to understand. So far, we have collected a new dataset with manual simplifications for English and Spanish sentences in the TICO-19 dataset, as  Cites: TICO-19: the Translation Initiative for COvid-19
+--- 
+layout: post 
+title: "Towards Readability-Controlled Machine Translation of COVID-19 Texts" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "F Alva-Manchego, M Shardlow - Proceedings of the 23rd Annual Conference of the , 2022" 
+--- 
+This project investigates the capabilities of Machine Translation models for generating translations at varying levels of readability, focusing on texts related to COVID-19. Whilst it is possible to automatically translate this information, the resulting text may contain specialised terminology, or may be written in a style that is difficult for lay readers to understand. So far, we have collected a new dataset with manual simplifications for English and Spanish sentences in the TICO-19 dataset, as Cites: TICO-19: the Translation Initiative for COvid-19

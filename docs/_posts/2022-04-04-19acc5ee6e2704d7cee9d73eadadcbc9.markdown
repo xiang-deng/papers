@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Preventing Over-Smoothing for Hypergraph Neural Networks"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "G Chen, J Zhang - arXiv preprint arXiv:2203.17159, 2022"
----
+--- 
+layout: post 
+title: "Preventing Over-Smoothing for Hypergraph Neural Networks" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "G Chen, J Zhang - arXiv preprint arXiv:2203.17159, 2022" 
+--- 
 In recent years, hypergraph learning has attracted great attention due to its capacity in representing complex and high-order relationships. However, current neural network approaches designed for hypergraphs are mostly shallow, thus limiting their ability to extract information from high-order neighbors. In this paper, we show both theoretically and empirically, that the performance of hypergraph neural networks does not improve as the number of layers increases, which is known as the over Cites: Learning with hypergraphs: Clustering, classification, and

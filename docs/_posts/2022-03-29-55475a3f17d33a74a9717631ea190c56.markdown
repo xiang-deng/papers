@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Token Dropping for Efficient BERT Pretraining"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "L Hou, RY Pang, T Zhou, Y Wu, X Song, X Song - arXiv preprint arXiv , 2022"
----
-Transformer-based models generally allocate the same amount of computation for each token in a given sequence. We develop a simple but effective  token dropping method to accelerate the pretraining of transformer models, such as BERT, without
+--- 
+layout: post 
+title: "Token Dropping for Efficient BERT Pretraining" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "L Hou, RY Pang, T Zhou, Y Wu, X Song, X Song - arXiv preprint arXiv , 2022" 
+--- 
+Transformer-based models generally allocate the same amount of computation for each token in a given sequence. We develop a simple but effective token dropping method to accelerate the pretraining of transformer models, such as BERT, without

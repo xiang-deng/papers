@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ParaShoot: A Hebrew Question Answering Dataset"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "O Keren, O Levy - arXiv preprint arXiv:2109.11314, 2021"
----
+--- 
+layout: post 
+title: "ParaShoot: A Hebrew Question Answering Dataset" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "O Keren, O Levy - arXiv preprint arXiv:2109.11314, 2021" 
+--- 
 NLP research in Hebrew has largely focused on morphology and syntax, where rich annotated datasets in the spirit of Universal Dependencies are available. Semantic datasets, however, are in short supply, hindering crucial advances in the development of NLP technology in Hebrew. In this work, we present ParaShoot, the first question answering dataset in modern Hebrew. The dataset follows the format and crowdsourcing methodology of SQuAD, and contains approximately 3000 Cites: TyDi QA: A benchmark for information-seeking question answering

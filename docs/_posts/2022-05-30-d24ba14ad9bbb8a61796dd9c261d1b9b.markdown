@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Unified Framework for Anomaly and Concept Drift Detection with Explainability"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "CH Tan - 2022"
----
-Data-driven applications typically rely on data streams for different machine learning tasks. Inevitably, rare and peculiar events such as concept drifts and anomalies exist within real-world data streams. Identifying such events is of crucial importance as they are the major causes of the deterioration of the performance of machine learning algorithms. The accurate identification of these events remains challenging, particularly because of the characteristics of the real-world streaming data:(1)  Cites: Anchors: High-Precision Model-Agnostic Explanations
+--- 
+layout: post 
+title: "A Unified Framework for Anomaly and Concept Drift Detection with Explainability" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "CH Tan - 2022" 
+--- 
+Data-driven applications typically rely on data streams for different machine learning tasks. Inevitably, rare and peculiar events such as concept drifts and anomalies exist within real-world data streams. Identifying such events is of crucial importance as they are the major causes of the deterioration of the performance of machine learning algorithms. The accurate identification of these events remains challenging, particularly because of the characteristics of the real-world streaming data:(1) Cites: Anchors: High-Precision Model-Agnostic Explanations

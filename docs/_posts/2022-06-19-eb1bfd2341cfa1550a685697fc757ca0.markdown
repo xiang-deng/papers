@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Personal Entity, Concept, and Named Entity Linking in Conversations"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "H Joko, F Hasibi - arXiv preprint arXiv:2206.07836, 2022"
----
-Building conversational agents that can have natural and knowledge-grounded interactions with humans requires understanding user utterances. Entity Linking (EL) is an effective and widely used method for understanding natural language text and connecting it to external knowledge. It is, however, shown that existing EL methods developed for annotating documents are suboptimal for conversations, where personal entities (eg,  my cars ) and concepts are essential for understanding user  Cites: Scalable zero-shot entity linking with dense entity retrieval
+--- 
+layout: post 
+title: "Personal Entity, Concept, and Named Entity Linking in Conversations" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "H Joko, F Hasibi - arXiv preprint arXiv:2206.07836, 2022" 
+--- 
+Building conversational agents that can have natural and knowledge-grounded interactions with humans requires understanding user utterances. Entity Linking (EL) is an effective and widely used method for understanding natural language text and connecting it to external knowledge. It is, however, shown that existing EL methods developed for annotating documents are suboptimal for conversations, where personal entities (eg, my cars ) and concepts are essential for understanding user Cites: Scalable zero-shot entity linking with dense entity retrieval

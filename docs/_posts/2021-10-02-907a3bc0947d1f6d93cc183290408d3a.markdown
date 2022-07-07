@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "A Uchendu, Z Ma, T Le, R Zhang, D Lee - arXiv preprint arXiv:2109.13296, 2021"
----
-Recent progress in generative language models has enabled machines to generate astonishingly realistic texts. While there are many legitimate applications of such models, there is also a rising need to distinguish machine-generated texts from human-written ones (eg, fake news detection). However, to our best knowledge, there is currently no benchmark environment with datasets and tasks to systematically study the so-called  Turing Test  problem for neural text generation Cites: Truth of varying shades: Analyzing language in fake news and
+--- 
+layout: post 
+title: "TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "A Uchendu, Z Ma, T Le, R Zhang, D Lee - arXiv preprint arXiv:2109.13296, 2021" 
+--- 
+Recent progress in generative language models has enabled machines to generate astonishingly realistic texts. While there are many legitimate applications of such models, there is also a rising need to distinguish machine-generated texts from human-written ones (eg, fake news detection). However, to our best knowledge, there is currently no benchmark environment with datasets and tasks to systematically study the so-called Turing Test problem for neural text generation Cites: Truth of varying shades: Analyzing language in fake news and

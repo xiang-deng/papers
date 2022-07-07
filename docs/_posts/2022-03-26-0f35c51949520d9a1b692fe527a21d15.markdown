@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning-by-Narrating: Narrative Pre-Training for Zero-Shot Dialogue Comprehension"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "C Zhao, W Yao, D Yu, K Song, D Yu, J Chen - arXiv preprint arXiv:2203.10249, 2022"
----
-Comprehending a dialogue requires a model to capture diverse kinds of key information in the utterances, which are either scattered around or implicitly implied in different turns of conversations. Therefore, dialogue comprehension requires diverse capabilities such as paraphrasing, summarizing, and commonsense reasoning. Towards the objective of pre-training a zero-shot dialogue comprehension model, we develop a novel narrative-guided pre-training strategy Cites: Can NLI Models Verify QA Systems  Predictions?
+--- 
+layout: post 
+title: "Learning-by-Narrating: Narrative Pre-Training for Zero-Shot Dialogue Comprehension" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "C Zhao, W Yao, D Yu, K Song, D Yu, J Chen - arXiv preprint arXiv:2203.10249, 2022" 
+--- 
+Comprehending a dialogue requires a model to capture diverse kinds of key information in the utterances, which are either scattered around or implicitly implied in different turns of conversations. Therefore, dialogue comprehension requires diverse capabilities such as paraphrasing, summarizing, and commonsense reasoning. Towards the objective of pre-training a zero-shot dialogue comprehension model, we develop a novel narrative-guided pre-training strategy Cites: Can NLI Models Verify QA Systems Predictions?

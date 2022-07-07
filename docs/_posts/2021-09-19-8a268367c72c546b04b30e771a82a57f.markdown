@@ -1,8 +1,8 @@
----
-layout: post
-title:  "What s in a Name? Answer Equivalence For Open-Domain Question Answering"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "C Si, C Zhao, J Boyd-Graber - arXiv preprint arXiv:2109.05289, 2021"
----
+--- 
+layout: post 
+title: "What s in a Name? Answer Equivalence For Open-Domain Question Answering" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "C Si, C Zhao, J Boyd-Graber - arXiv preprint arXiv:2109.05289, 2021" 
+--- 
 A flaw in QA evaluation is that annotations often only provide one gold answer. Thus, model predictions semantically equivalent to the answer but superficially different are considered incorrect. This work explores mining alias entities from knowledge bases and using them as additional gold answers (ie, equivalent answers). We incorporate answers for two settings: evaluation with additional answers and model training with equivalent answers. We analyse three QA benchmarks: Natural Questions, TriviaQA Cites: NeurIPS 2020 EfficientQA competition: Systems, analyses and

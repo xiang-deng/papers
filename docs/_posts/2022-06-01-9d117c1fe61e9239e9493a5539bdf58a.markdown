@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Grounding in social media: An approach to building a chit-chat dialogue model"
-date:   2022-06-01 23:51:30 -0400
-categories: jekyll update
-author: "R Choudhary, D Kawahara - 2022"
----
-Building open-domain dialogue systems capable of rich human-like conversational ability is one of the fundamental challenges in language generation. However, even with recent advancements in the field, existing open-domain generative models fail to capture and utilize external knowledge, leading to repetitive or generic responses to unseen utterances. Current work on knowledge-grounded dialogue generation primarily focuses on persona incorporation or searching a fact-based structured  Cites: REALM: Retrieval-Augmented Language Model Pre-Training
+--- 
+layout: post 
+title: "Grounding in social media: An approach to building a chit-chat dialogue model" 
+date: 2022-06-01 23:51:30 -0400 
+categories: jekyll update 
+author: "R Choudhary, D Kawahara - 2022" 
+--- 
+Building open-domain dialogue systems capable of rich human-like conversational ability is one of the fundamental challenges in language generation. However, even with recent advancements in the field, existing open-domain generative models fail to capture and utilize external knowledge, leading to repetitive or generic responses to unseen utterances. Current work on knowledge-grounded dialogue generation primarily focuses on persona incorporation or searching a fact-based structured Cites: REALM: Retrieval-Augmented Language Model Pre-Training

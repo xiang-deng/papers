@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Utilization of Question Categories in Multi-Document Machine Reading Comprehension"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "S Zheng, M Yang, Y Huang, P Lin - 2021 International Joint Conference on Neural , 2021"
----
+--- 
+layout: post 
+title: "Utilization of Question Categories in Multi-Document Machine Reading Comprehension" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "S Zheng, M Yang, Y Huang, P Lin - 2021 International Joint Conference on Neural , 2021" 
+--- 
 Multi-document machine reading comprehension has become a hot topic in natural language processing due to its more realistic setting and wider applications. However, how to effectively exploit the information of multiple documents and the question is still a challenge. In this paper, we propose a new end-to-end reading comprehension model with the utilization of question categories. To compress the search space of the answer and pinpoint it more precisely, we make the best use of Cites: Triviaqa: A large scale distantly supervised challenge dataset for

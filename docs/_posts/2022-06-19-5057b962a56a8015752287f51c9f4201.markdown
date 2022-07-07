@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Inter-Instance and Intra-Temporal Self-Supervised Learning with Few Labeled Data for Fault Diagnosis"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "C Hu, J Wu, C Sun, R Yan, X Chen - IEEE Transactions on Industrial Informatics, 2022"
----
-Recent researches on intelligent fault diagnosis algorithms can achieve great progress. However, considering the practical scenarios, the amount of labeled data is insufficient in face of the difficulty of data annotation, which would raise the risk of overfitting and hinder the model from its industrial applications. To address this problem, we propose an inter-Instance and intra-Temporal Self-Supervised Learning (ITSSL) framework, where self-supervised learning on massive unlabeled data is  Cites: A framework for contrastive self-supervised learning and designing
+--- 
+layout: post 
+title: "Inter-Instance and Intra-Temporal Self-Supervised Learning with Few Labeled Data for Fault Diagnosis" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "C Hu, J Wu, C Sun, R Yan, X Chen - IEEE Transactions on Industrial Informatics, 2022" 
+--- 
+Recent researches on intelligent fault diagnosis algorithms can achieve great progress. However, considering the practical scenarios, the amount of labeled data is insufficient in face of the difficulty of data annotation, which would raise the risk of overfitting and hinder the model from its industrial applications. To address this problem, we propose an inter-Instance and intra-Temporal Self-Supervised Learning (ITSSL) framework, where self-supervised learning on massive unlabeled data is Cites: A framework for contrastive self-supervised learning and designing

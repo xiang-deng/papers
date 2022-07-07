@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Transformers as Neural Augmentors: Class Conditional Sentence Generation via Variational Bayes"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "M Bilici, MF Amasyali - arXiv preprint arXiv:2205.09391, 2022"
----
-Data augmentation methods for Natural Language Processing tasks are explored in recent years, however they are limited and it is hard to capture the diversity on sentence level. Besides, it is not always possible to perform data augmentation on supervised tasks. To address those problems, we propose a neural data augmentation method, which is a combination of Conditional Variational Autoencoder and encoder-decoder Transformer model. While encoding and  Cites: Generative data augmentation for commonsense reasoning
+--- 
+layout: post 
+title: "Transformers as Neural Augmentors: Class Conditional Sentence Generation via Variational Bayes" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "M Bilici, MF Amasyali - arXiv preprint arXiv:2205.09391, 2022" 
+--- 
+Data augmentation methods for Natural Language Processing tasks are explored in recent years, however they are limited and it is hard to capture the diversity on sentence level. Besides, it is not always possible to perform data augmentation on supervised tasks. To address those problems, we propose a neural data augmentation method, which is a combination of Conditional Variational Autoencoder and encoder-decoder Transformer model. While encoding and Cites: Generative data augmentation for commonsense reasoning

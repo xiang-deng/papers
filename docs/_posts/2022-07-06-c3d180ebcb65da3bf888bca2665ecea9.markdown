@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Real Emotion Seeker: Recalibrating Annotation for Facial Expression Recognition"
-date:   2022-07-06 06:18:13 -0400
-categories: jekyll update
-author: "Z Lin, J She, Q Shen - 2022"
----
-Abstract Facial Expression Recognition (FER) is a challenging classification task. Due to the subjectivity and ambiguity of performers and spectators, compound facial expression is hard to be represented by one-hot label. In this paper, a simple but efficient method, named Real Emotion Seeker (RES), is proposed to recalibrate the annotation of sample to latent expression distribution besides one-hot label. In particular, subjective implicit knowledge is transformed into posterior distribution  Cites: Dividemix: Learning with noisy labels as semi-supervised learning
+--- 
+layout: post 
+title: "Real Emotion Seeker: Recalibrating Annotation for Facial Expression Recognition" 
+date: 2022-07-06 06:18:13 -0400 
+categories: jekyll update 
+author: "Z Lin, J She, Q Shen - 2022" 
+--- 
+Abstract Facial Expression Recognition (FER) is a challenging classification task. Due to the subjectivity and ambiguity of performers and spectators, compound facial expression is hard to be represented by one-hot label. In this paper, a simple but efficient method, named Real Emotion Seeker (RES), is proposed to recalibrate the annotation of sample to latent expression distribution besides one-hot label. In particular, subjective implicit knowledge is transformed into posterior distribution Cites: Dividemix: Learning with noisy labels as semi-supervised learning

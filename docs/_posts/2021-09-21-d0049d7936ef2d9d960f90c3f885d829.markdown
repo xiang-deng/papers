@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "S Garg, A Moschitti - arXiv preprint arXiv:2109.07009, 2021"
----
+--- 
+layout: post 
+title: "Will this Question be Answered? Question Filtering via Answer Model Distillation for Efficient Question Answering" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "S Garg, A Moschitti - arXiv preprint arXiv:2109.07009, 2021" 
+--- 
 In this paper we propose a novel approach towards improving the efficiency of Question Answering (QA) systems by filtering out questions that will not be answered by them. This is based on an interesting new finding: the answer confidence scores of state-of-the-art QA systems can be approximated well by models solely using the input question text. This enables preemptive filtering of questions that are not answered by the system due to their answer confidence scores being lower than the Cites: Knowing More About Questions Can Help: Improving Calibration in

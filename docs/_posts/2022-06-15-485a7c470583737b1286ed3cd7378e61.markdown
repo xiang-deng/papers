@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Boosting Search Engines with Interactive Agents"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "B Boerschinger, CCF Buck, LJG Espeholt, L Adolphs - 2022"
----
-This paper presents first successful steps in designing search agents that learn meta-strategies for iterative query refinement in information-seeking tasks. Our approach uses machine reading to guide the selection of refinement terms from aggregated search results. Agents are then empowered with simple but effective search operators to exert fine-grained and transparent control over queries and search results. We develop a novel way of generating synthetic search sessions, which  Cites: Latent retrieval for weakly supervised open domain question
+--- 
+layout: post 
+title: "Boosting Search Engines with Interactive Agents" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "B Boerschinger, CCF Buck, LJG Espeholt, L Adolphs - 2022" 
+--- 
+This paper presents first successful steps in designing search agents that learn meta-strategies for iterative query refinement in information-seeking tasks. Our approach uses machine reading to guide the selection of refinement terms from aggregated search results. Agents are then empowered with simple but effective search operators to exert fine-grained and transparent control over queries and search results. We develop a novel way of generating synthetic search sessions, which Cites: Latent retrieval for weakly supervised open domain question

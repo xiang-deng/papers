@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Training Naturalized Semantic Parsers with Very Little Data"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "S Rongali, K Arkoudas, M Rubino, W Hamza - arXiv preprint arXiv:2204.14243, 2022"
----
+--- 
+layout: post 
+title: "Training Naturalized Semantic Parsers with Very Little Data" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "S Rongali, K Arkoudas, M Rubino, W Hamza - arXiv preprint arXiv:2204.14243, 2022" 
+--- 
 Semantic parsing is an important NLP problem, particularly for voice assistants such as Alexa and Google Assistant. State-of-the-art (SOTA) semantic parsers are seq2seq architectures based on large language models that have been pretrained on vast amounts of text. To better leverage that pretraining, recent work has explored a reformulation of semantic parsing whereby the output sequences are themselves natural language sentences, but in a controlled fragment of natural language. This Cites: Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "Y Zheng, J Zhou, Y Qian, M Ding, J Li, R Salakhutdinov - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "Y Zheng, J Zhou, Y Qian, M Ding, J Li, R Salakhutdinov - arXiv preprint arXiv , 2021" 
+--- 
 The few-shot natural language understanding (NLU) task has attracted much recent attention. However, prior methods have been evaluated under a disparate set of protocols, which hinders fair comparison and measuring progress of the field. To address this issue, we introduce an evaluation framework that improves previous evaluation procedures in three key aspects, ie, test performance, dev-test correlation, and stability. Under this new evaluation framework, we re-evaluate several state-of Cites: Prefix-tuning: Optimizing continuous prompts for generation

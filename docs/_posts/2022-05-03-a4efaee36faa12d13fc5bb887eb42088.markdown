@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving NMF Clustering by Leveraging Contextual Relationships Among Words"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "M Febrissy, A Salah, M Ailem, M Nadif - Neurocomputing, 2022"
----
+--- 
+layout: post 
+title: "Improving NMF Clustering by Leveraging Contextual Relationships Among Words" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "M Febrissy, A Salah, M Ailem, M Nadif - Neurocomputing, 2022" 
+--- 
 Abstract Non-negative Matrix Factorization (NMF) and its variants have been successfully used for clustering text documents. However, NMF approaches like other models do not explicitly account for the contextual dependencies between words. To remedy this limitation, we draw inspiration from neural word embedding and posit that words that frequently co-occur within the same context (eg, sentence or document) are likely related to each other in some semantic aspect. We then Cites: Linguistic regularities in continuous space word representations

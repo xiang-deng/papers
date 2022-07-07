@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Encoding Abstract Syntax Trees (AST) via distance based self-attention mechanism"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "R Dutta - 2021"
----
+--- 
+layout: post 
+title: "Encoding Abstract Syntax Trees (AST) via distance based self-attention mechanism" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "R Dutta - 2021" 
+--- 
 Code summarization and generation are valuable tasks to master for their wide range ofapplications in code readability and code translation to name a few. This research work is an extension of previously conducted research on the use of PLBART, a sequence-tosequence transformer model used for a variety of program and language understanding and generation (PLUG) tasks. The ultimate goal is to improve the performance of PLBART by modifying the noise function of it s denoising Cites: Graphcodebert: Pre-training code representations with data flow

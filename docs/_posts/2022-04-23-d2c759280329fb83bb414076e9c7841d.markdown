@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Polling Latent Opinions: A Method for Computational Sociolinguistics Using Transformer Language Models"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "PF Dant, JR Foulds, S Pan - arXiv preprint arXiv:2204.07483, 2022"
----
+--- 
+layout: post 
+title: "Polling Latent Opinions: A Method for Computational Sociolinguistics Using Transformer Language Models" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "PF Dant, JR Foulds, S Pan - arXiv preprint arXiv:2204.07483, 2022" 
+--- 
 Text analysis of social media for sentiment, topic analysis, and other analysis depends initially on the selection of keywords and phrases that will be used to create the research corpora. However, keywords that researchers choose may occur infrequently, leading to errors that arise from using small samples. In this paper, we use the capacity for memorization, interpolation, and extrapolation of Transformer Language Models such as the GPT series to learn the linguistic behaviors of a Cites: Do neural language representations learn physical commonsense?

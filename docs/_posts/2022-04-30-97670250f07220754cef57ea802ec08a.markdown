@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Self-Attention based Fine-Grained Cross-Media Hybrid Network"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "W Shan, D Huang, J Wang, F Zou, S Li - Pattern Recognition, 2022"
----
+--- 
+layout: post 
+title: "Self-Attention based Fine-Grained Cross-Media Hybrid Network" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "W Shan, D Huang, J Wang, F Zou, S Li - Pattern Recognition, 2022" 
+--- 
 Due to the heterogeneity gap, the data representations of different types of media are inconsistent. It is challenging to measure the fine-grained gap between different media. To this end, we propose a self-attention-based hybrid network to learn the common representations of different media data. Specifically, we first utilize a local self-attention layer to learn the common attention space between different media data. Then we propose a similarity concatenation method to understand the content Cites: Long short-term memory-networks for machine reading

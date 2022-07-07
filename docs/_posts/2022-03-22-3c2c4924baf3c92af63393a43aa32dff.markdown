@@ -1,8 +1,8 @@
----
-layout: post
-title:  "In-Context Learning for Few-Shot Dialogue State Tracking"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "Y Hu, CH Lee, T Xie, T Yu, NA Smith, M Ostendorf - arXiv preprint arXiv:2203.08568, 2022"
----
+--- 
+layout: post 
+title: "In-Context Learning for Few-Shot Dialogue State Tracking" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "Y Hu, CH Lee, T Xie, T Yu, NA Smith, M Ostendorf - arXiv preprint arXiv:2203.08568, 2022" 
+--- 
 Collecting and annotating task-oriented dialogues is time-consuming and costly. Thus, few-shot learning for dialogue tasks presents an exciting opportunity. In this work, we propose an in-context (IC) learning framework for few-shot dialogue state tracking (DST), where a large pre-trained language model (LM) takes a test instance and a few annotated examples as input, and directly decodes the dialogue states without any parameter updates. This makes the LM more flexible and scalable Cites: UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge

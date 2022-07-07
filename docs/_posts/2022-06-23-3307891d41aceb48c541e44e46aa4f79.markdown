@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Data-Centric Framework for Composable NLP Workflows"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "S Zhang, T Mitamura"
----
-Empirical natural language processing (NLP) systems in application domains (eg, healthcare, finance, education) involve interoperation among multiple components, ranging from data ingestion, human annotation, to text retrieval, analysis, generation, and visualization. We establish a unified open-source framework to support fast development of such sophisticated NLP workflows in a composable manner. The framework introduces a uniform data representation to encode heterogeneous  Cites: Generalizing Natural Language Analysis through Span-relation
+--- 
+layout: post 
+title: "A Data-Centric Framework for Composable NLP Workflows" 
+date: 2022-06-23 20:09:31 -0400 
+categories: jekyll update 
+author: "S Zhang, T Mitamura" 
+--- 
+Empirical natural language processing (NLP) systems in application domains (eg, healthcare, finance, education) involve interoperation among multiple components, ranging from data ingestion, human annotation, to text retrieval, analysis, generation, and visualization. We establish a unified open-source framework to support fast development of such sophisticated NLP workflows in a composable manner. The framework introduces a uniform data representation to encode heterogeneous Cites: Generalizing Natural Language Analysis through Span-relation

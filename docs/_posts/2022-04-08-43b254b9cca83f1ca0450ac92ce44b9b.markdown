@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Set Membership Approach to Discovering Feature Relevance and Explaining Neural Classifier Decisions"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "SP Adam, AC Likas - arXiv preprint arXiv:2204.02241, 2022"
----
+--- 
+layout: post 
+title: "A Set Membership Approach to Discovering Feature Relevance and Explaining Neural Classifier Decisions" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "SP Adam, AC Likas - arXiv preprint arXiv:2204.02241, 2022" 
+--- 
 Neural classifiers are non linear systems providing decisions on the classes of patterns, for a given problem they have learned. The output computed by a classifier for each pattern constitutes an approximation of the output of some unknown function, mapping pattern data to their respective classes. The lack of knowledge of such a function along with the complexity of neural classifiers, especially when these are deep learning architectures, do not permit to obtain information on how specific Cites: Anchors: High-Precision Model-Agnostic Explanations

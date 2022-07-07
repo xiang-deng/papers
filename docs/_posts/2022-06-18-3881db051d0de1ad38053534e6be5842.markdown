@@ -1,8 +1,8 @@
----
-layout: post
-title:  "NMT-Based Code Generation for Coding Assistance with Natural Language"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "Y Akinobu, T Kajiura, M Obara, K Kuramitsu - Journal of Information Processing, 2022"
----
- This paper proposes an attempt to realize coding assistance that generates Python code from natural language descriptions using neural machine translation. Although coding assistance with deep learning has recently become a major concern, few applications have used neural machine translation models. One of the major barriers is the shortage of a parallel corpus of natural language descriptions and source code. To overcome the shortage of parallel corpora, we propose a  Cites: Toward Code Generation: A Survey and Lessons from Semantic
+--- 
+layout: post 
+title: "NMT-Based Code Generation for Coding Assistance with Natural Language" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "Y Akinobu, T Kajiura, M Obara, K Kuramitsu - Journal of Information Processing, 2022" 
+--- 
+ This paper proposes an attempt to realize coding assistance that generates Python code from natural language descriptions using neural machine translation. Although coding assistance with deep learning has recently become a major concern, few applications have used neural machine translation models. One of the major barriers is the shortage of a parallel corpus of natural language descriptions and source code. To overcome the shortage of parallel corpora, we propose a Cites: Toward Code Generation: A Survey and Lessons from Semantic

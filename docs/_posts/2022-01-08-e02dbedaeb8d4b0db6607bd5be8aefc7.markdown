@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Word Representation Learning in Multimodal Pre-Trained Transformers: An Intrinsic Evaluation"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "S Pezzelle, E Takmaz, R Fernndez -  of the Association for Computational Linguistics, 2021"
----
+--- 
+layout: post 
+title: "Word Representation Learning in Multimodal Pre-Trained Transformers: An Intrinsic Evaluation" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "S Pezzelle, E Takmaz, R Fernndez - of the Association for Computational Linguistics, 2021" 
+--- 
 This study carries out a systematic intrinsic evaluation of the semantic representations learned by state-of-the-art pre-trained multimodal Transformers. These representations are claimed to be task-agnostic and shown to help on many downstream language-and-vision tasks. However, the extent to which they align with human semantic intuitions remains unclear. We experiment with various models and obtain static word representations from the contextualized ones they learn. We then Cites: Probing contextual language models for common ground with

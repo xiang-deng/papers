@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sparse Oblique Decision Trees: A Tool to Interpret Natural Language Processing Datasets"
-date:   2022-06-01 23:51:30 -0400
-categories: jekyll update
-author: "SS Hada, MA Carreira-Perpinn"
----
-Natural language processing datasets, for example for document classification or sentiment analysis, are characterized by sparse, high-dimensional feature vectors, often based on bag-of-words approaches. Such datasets contain a wealth of information not just about the predictive task in question, but also about the language itself, and it is of interest to do data mining on such data. While one way to do this is to use standard exploratory data analysis techniques such as clustering or  Cites:   Why Should I Trust You? : Explaining the Predictions of Any
+--- 
+layout: post 
+title: "Sparse Oblique Decision Trees: A Tool to Interpret Natural Language Processing Datasets" 
+date: 2022-06-01 23:51:30 -0400 
+categories: jekyll update 
+author: "SS Hada, MA Carreira-Perpinn" 
+--- 
+Natural language processing datasets, for example for document classification or sentiment analysis, are characterized by sparse, high-dimensional feature vectors, often based on bag-of-words approaches. Such datasets contain a wealth of information not just about the predictive task in question, but also about the language itself, and it is of interest to do data mining on such data. While one way to do this is to use standard exploratory data analysis techniques such as clustering or Cites: Why Should I Trust You? : Explaining the Predictions of Any

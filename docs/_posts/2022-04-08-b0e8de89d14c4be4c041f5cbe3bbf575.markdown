@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Structured Pruning Learns Compact and Accurate Models"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "M Xia, Z Zhong, D Chen - arXiv preprint arXiv:2204.00408, 2022"
----
+--- 
+layout: post 
+title: "Structured Pruning Learns Compact and Accurate Models" 
+date: 2022-04-08 14:57:15 -0400 
+categories: jekyll update 
+author: "M Xia, Z Zhong, D Chen - arXiv preprint arXiv:2204.00408, 2022" 
+--- 
 The growing size of neural language models has led to increased attention in model compression. The two predominant approaches are pruning, which gradually removes weights from a pre-trained model, and distillation, which trains a smaller compact model to match a larger one. Pruning methods can significantly reduce the model size but hardly achieve large speedups as distillation. However, distillation methods require large amounts of unlabeled data and are expensive to train. In this Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

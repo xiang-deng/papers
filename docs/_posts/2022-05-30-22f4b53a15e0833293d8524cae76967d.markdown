@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Textual Backdoor Attacks with Iterative Trigger Injection"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "J Yan, V Gupta, X Ren - arXiv preprint arXiv:2205.12700, 2022"
----
-The backdoor attack has become an emerging threat for Natural Language Processing (NLP) systems. A victim model trained on poisoned data can be embedded with a  backdoor , making it predict the adversary-specified output (eg, the positive sentiment label) on inputs satisfying the trigger pattern (eg, containing a certain keyword). In this paper, we demonstrate that it s possible to design an effective and stealthy backdoor attack by iteratively injecting  triggers  into a small set  Cites: Mind the Style of Text! Adversarial and Backdoor Attacks Based on
+--- 
+layout: post 
+title: "Textual Backdoor Attacks with Iterative Trigger Injection" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "J Yan, V Gupta, X Ren - arXiv preprint arXiv:2205.12700, 2022" 
+--- 
+The backdoor attack has become an emerging threat for Natural Language Processing (NLP) systems. A victim model trained on poisoned data can be embedded with a backdoor , making it predict the adversary-specified output (eg, the positive sentiment label) on inputs satisfying the trigger pattern (eg, containing a certain keyword). In this paper, we demonstrate that it s possible to design an effective and stealthy backdoor attack by iteratively injecting triggers into a small set Cites: Mind the Style of Text! Adversarial and Backdoor Attacks Based on

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Aggregation Detection in CSV Files"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "L Jiang, G Vitagliano, M Hameed, F Naumann - 2022"
----
+--- 
+layout: post 
+title: "Aggregation Detection in CSV Files" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "L Jiang, G Vitagliano, M Hameed, F Naumann - 2022" 
+--- 
 Aggregations are an arithmetic relationship between a single number and a set of numbers. Tables in raw CSV files often include various types of aggregations to summarize data therein. Identifying aggregations in tables can help understand file structures, detect data errors, and normalize tables. However, recognizing aggregations in CSV files is not trivial, as these files often organize information in an ad-hoc manner with aggregations appearing in arbitrary positions and displaying Cites: Integrating spreadsheet data via accurate and low-effort extraction

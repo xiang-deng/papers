@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semantic Structure based Query Graph Prediction for Question Answering over Knowledge Graph"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "M Li, JS Ji - arXiv preprint arXiv:2204.10194, 2022"
----
+--- 
+layout: post 
+title: "Semantic Structure based Query Graph Prediction for Question Answering over Knowledge Graph" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "M Li, JS Ji - arXiv preprint arXiv:2204.10194, 2022" 
+--- 
 Building query graphs from natural language questions is an important step in complex question answering over knowledge graph (Complex KGQA). In general, a question can be correctly answered if its query graph is built correctly and the right answer is then retrieved by issuing the query graph against the KG. Therefore, this paper focuses on query graph generation from natural language questions. Existing approaches for query graph generation ignore the semantic structure of a question Cites: The value of semantic parse labeling for knowledge base question

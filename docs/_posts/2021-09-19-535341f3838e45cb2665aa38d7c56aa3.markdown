@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "K Zhou, WX Zhao, S Wang, F Zhang, W Wu, JR Wen - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "K Zhou, WX Zhao, S Wang, F Zhang, W Wu, JR Wen - arXiv preprint arXiv , 2021" 
+--- 
 Recent works have shown that powerful pre-trained language models (PLM) can be fooled by small perturbations or intentional attacks. To solve this issue, various data augmentation techniques are proposed to improve the robustness of PLMs. However, it is still challenging to augment semantically relevant examples with sufficient diversity. In this work, we present Virtual Data Augmentation (VDA), a general framework for robustly fine-tuning PLMs. Based on the original token Cites: Robust encodings: A framework for combating adversarial typos

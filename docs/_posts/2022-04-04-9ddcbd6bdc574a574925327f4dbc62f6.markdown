@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "E Manino, J Rozanova, D Carvalho, A Freitas - 60th Annual Meeting of the , 2022"
----
+--- 
+layout: post 
+title: "Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "E Manino, J Rozanova, D Carvalho, A Freitas - 60th Annual Meeting of the , 2022" 
+--- 
 Metamorphic testing has recently been used to check the safety of neural NLP models. Its main advantage is that it does not rely on a ground truth to generate test cases. However, existing studies are mostly concerned with robustness-like metamorphic relations, limiting the scope of linguistic properties they can test. We propose three new classes of metamorphic relations, which address the properties of systematicity, compositionality and transitivity. Unlike robustness, our relations are Cites: A structural probe for finding syntax in word representations

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Luring Transferable Adversarial Perturbations for Deep Neural Networks"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "R Bernhard, PA Mollic, JM Dutertre - 2021 International Joint Conference on Neural , 2021"
----
+--- 
+layout: post 
+title: "Luring Transferable Adversarial Perturbations for Deep Neural Networks" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "R Bernhard, PA Mollic, JM Dutertre - 2021 International Joint Conference on Neural , 2021" 
+--- 
 The growing interest for adversarial examples, ie maliciously modified examples which fool a classifier, has resulted in many defenses intended to detect them, render them inoffensive or make the model more robust against them. In this paper, we pave the way towards a new approach to improve the robustness of a model against black- box transfer attacks. A removable additional neural network is included in the target model, and is designed to induce the luring effect, which tricks the adversary into Cites: Unlabeled data improves adversarial robustness

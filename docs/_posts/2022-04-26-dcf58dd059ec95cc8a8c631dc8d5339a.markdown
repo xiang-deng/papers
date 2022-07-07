@@ -1,8 +1,8 @@
----
-layout: post
-title:  "COOL, a Context Outlooker, and its Application to Question Answering and other Natural Language Processing Tasks"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "F Zhu, SK Ng, S Bressan - arXiv preprint arXiv:2204.09593, 2022"
----
+--- 
+layout: post 
+title: "COOL, a Context Outlooker, and its Application to Question Answering and other Natural Language Processing Tasks" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "F Zhu, SK Ng, S Bressan - arXiv preprint arXiv:2204.09593, 2022" 
+--- 
 Vision outlookers improve the performance of vision transformers, which implement a self-attention mechanism by adding outlook attention, a form of local attention. In natural language processing, as has been the case in computer vision and other domains, transformer-based models constitute the state-of-the-art for most processing tasks. In this domain, too, many authors have argued and demonstrated the importance of local context. We present and evaluate an outlook attention Cites: Unsupervised question answering by cloze translation

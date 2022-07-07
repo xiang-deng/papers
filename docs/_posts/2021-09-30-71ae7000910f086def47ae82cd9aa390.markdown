@@ -1,8 +1,8 @@
----
-layout: post
-title:  "How Deep is your Learning: the DL-HARD Annotated Deep Learning Dataset"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "J Dalton, I Mackie, A Yates - 2021"
----
+--- 
+layout: post 
+title: "How Deep is your Learning: the DL-HARD Annotated Deep Learning Dataset" 
+date: 2021-09-30 20:19:19 -0400 
+categories: jekyll update 
+author: "J Dalton, I Mackie, A Yates - 2021" 
+--- 
 ABSTRACT Deep Learning Hard (DL-HARD) is a new annotated dataset designed to more effectively evaluate neural ranking models on complex topics. It builds on TREC Deep Learning (DL) topics by extensively annotating them with question intent categories, answer types, wikified entities, topic categories, and result type metadata from a commercial web search engine. Based on this data, we introduce a framework for identifying challenging queries. DL-HARD contains fifty topics from the official DL Cites: Natural questions: a benchmark for question answering research

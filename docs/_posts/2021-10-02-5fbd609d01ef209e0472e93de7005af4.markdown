@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TAGAT: Type-Aware Graph Attention networks for reasoning over knowledge graphs"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "Y Wang, H Wang, J He, W Lu, S Gao - Knowledge-Based Systems, 2021"
----
+--- 
+layout: post 
+title: "TAGAT: Type-Aware Graph Attention networks for reasoning over knowledge graphs" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "Y Wang, H Wang, J He, W Lu, S Gao - Knowledge-Based Systems, 2021" 
+--- 
 With the rapid development of knowledge graphs (KGs), various AI-related applications have been affected positively. However, even though some KGs are relatively large, they still suffer from incompleteness. This has mighty promoted the development of reasoning over KGs to complement them. However, most existing reasoning methods only focus on semantics in the KG, ignoring potential or valuable information hidden in it, the most typical ones are neighborhood information and type Cites: Embedding entities and relations for learning and inference in

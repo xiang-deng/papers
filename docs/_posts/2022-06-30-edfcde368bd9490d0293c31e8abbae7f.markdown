@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Controllable Multi-attribute Dialog Generation with PALs and Grounding Knowledge"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "DA Evseev, MS Nagovitsin, DP Kuznetsov"
----
-Today, neural language models are commonly employed for generation of natural like responses in dialog systems. The main issue that limits wide adoption of neural generation is related to poor predictability of responses in terms of content, as well as dialog attributes such as dialog acts and sentiment. In this paper we propose a method based on projected attention layers (PALs) for controllable multi-attribute knowledge grounded dialog generation. We compared a number of methods for  Cites: Transferable multi-domain state generator for task-oriented
+--- 
+layout: post 
+title: "Controllable Multi-attribute Dialog Generation with PALs and Grounding Knowledge" 
+date: 2022-06-30 03:02:10 -0400 
+categories: jekyll update 
+author: "DA Evseev, MS Nagovitsin, DP Kuznetsov" 
+--- 
+Today, neural language models are commonly employed for generation of natural like responses in dialog systems. The main issue that limits wide adoption of neural generation is related to poor predictability of responses in terms of content, as well as dialog attributes such as dialog acts and sentiment. In this paper we propose a method based on projected attention layers (PALs) for controllable multi-attribute knowledge grounded dialog generation. We compared a number of methods for Cites: Transferable multi-domain state generator for task-oriented

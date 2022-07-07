@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "R Zhang, Y Yu, P Shetty, L Song, C Zhang - arXiv preprint arXiv:2203.09735, 2022"
----
+--- 
+layout: post 
+title: "PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "R Zhang, Y Yu, P Shetty, L Song, C Zhang - arXiv preprint arXiv:2203.09735, 2022" 
+--- 
 Weakly-supervised learning (WSL) has shown promising results in addressing label scarcity on many NLP tasks, but manually designing a comprehensive, high-quality labeling rule set is tedious and difficult. We study interactive weakly-supervised learning--the problem of iteratively and automatically discovering novel labeling rules from data to improve the WSL model. Our proposed model, named PRBoost, achieves this goal via iterative prompt-based rule discovery and model boosting. It Cites: True few-shot learning with language models

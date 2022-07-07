@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Context-Aware Language Modeling for Goal-Oriented Dialogue Systems"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "C Snell, S Yang, J Fu, Y Su, S Levine - arXiv preprint arXiv:2204.10198, 2022"
----
+--- 
+layout: post 
+title: "Context-Aware Language Modeling for Goal-Oriented Dialogue Systems" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "C Snell, S Yang, J Fu, Y Su, S Levine - arXiv preprint arXiv:2204.10198, 2022" 
+--- 
 Goal-oriented dialogue systems face a trade-off between fluent language generation and task-specific control. While supervised learning with large language models is capable of producing realistic text, how to steer such responses towards completing a specific task without sacrificing language quality remains an open question. In this work, we formulate goal-oriented dialogue as a partially observed Markov decision process, interpreting the language model as a representation of both the dynamics Cites: A simple language model for task-oriented dialogue

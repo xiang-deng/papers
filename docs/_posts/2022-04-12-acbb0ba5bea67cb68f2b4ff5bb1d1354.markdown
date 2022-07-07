@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Squeezing Water from a Stone: A Bag of Tricks for Further Improving Cross-Encoder Effectiveness for Reranking"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "R Pradeep, Y Liu, X Zhang, Y Li, A Yates, J Lin - European Conference on , 2022"
----
+--- 
+layout: post 
+title: "Squeezing Water from a Stone: A Bag of Tricks for Further Improving Cross-Encoder Effectiveness for Reranking" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "R Pradeep, Y Liu, X Zhang, Y Li, A Yates, J Lin - European Conference on , 2022" 
+--- 
 While much recent work has demonstrated that hard negative mining can be used to train better bi-encoder models, few have considered it in the context of cross- encoders, which are key ingredients in modern retrieval pipelines due to their high effectiveness. One noteworthy exception comes from Gao et al.[13], who propose to train cross-encoders by adapting the well-known NCE loss and augmenting it with a localized selection of hard negative examples from the first-stage retriever, which Cites: Covidex: Neural ranking models and keyword search infrastructure

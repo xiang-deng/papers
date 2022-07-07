@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Nlbse 22 tool competition"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "R Kallis, O Chaparro, A Di Sorbo, S Panichella - 2022 IEEE/ACM 1st International , 2022"
----
-We report on the organization and results of the first edition of the Tool Competition from the International Workshop on Natural Language-based Software Engineering (NLBSE 22). This year, five teams submitted multiple classification models to automatically classify issue reports as bugs, enhancements, or questions. Most of them are based on BERT (Bidirectional Encoder Representations from Transformers) and were fine-tuned and evaluated on a benchmark dataset of 800k issue reports  Cites: Codebert: A pre-trained model for programming and natural
+--- 
+layout: post 
+title: "Nlbse 22 tool competition" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "R Kallis, O Chaparro, A Di Sorbo, S Panichella - 2022 IEEE/ACM 1st International , 2022" 
+--- 
+We report on the organization and results of the first edition of the Tool Competition from the International Workshop on Natural Language-based Software Engineering (NLBSE 22). This year, five teams submitted multiple classification models to automatically classify issue reports as bugs, enhancements, or questions. Most of them are based on BERT (Bidirectional Encoder Representations from Transformers) and were fine-tuned and evaluated on a benchmark dataset of 800k issue reports Cites: Codebert: A pre-trained model for programming and natural

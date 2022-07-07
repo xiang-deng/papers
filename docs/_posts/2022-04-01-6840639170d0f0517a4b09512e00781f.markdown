@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Enhancing low-resource neural machine translation with syntax-graph guided self-attention"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "L Gong, Y Li, J Guo, Z Yu, S Gao - Knowledge-Based Systems, 2022"
----
+--- 
+layout: post 
+title: "Enhancing low-resource neural machine translation with syntax-graph guided self-attention" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "L Gong, Y Li, J Guo, Z Yu, S Gao - Knowledge-Based Systems, 2022" 
+--- 
 Most neural machine translation (NMT) models only rely on parallel sentence pairs, while the performance drops sharply in low-resource cases, as the models fail to mine the linguistry of the corpus. Incorporating prior monolingual knowledge explicitly, such as syntax, has been shown to be effective for NMT, particularly in low- resource scenarios. However, existing approaches have not exploited the full potential of the NMT architectures. In this paper, we present syntax-graph guided self Cites: Stanza: A python natural language processing toolkit for many

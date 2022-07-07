@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Evaluating model performance under worst-case subpopulations"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "M Li, H Namkoong, S Xia - Advances in Neural Information Processing Systems, 2021"
----
+--- 
+layout: post 
+title: "Evaluating model performance under worst-case subpopulations" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "M Li, H Namkoong, S Xia - Advances in Neural Information Processing Systems, 2021" 
+--- 
 The performance of ML models degrades when the training population is different from that seen under operation. Towards assessing distributional robustness, we study the worst-case performance of a model over all subpopulations of a given size, defined with respect to core attributes $ Z $. This notion of robustness can consider arbitrary (continuous) attributes $ Z $, and automatically accounts for complex intersectionality in disadvantaged groups. We develop a scalable yet principled two Cites: Accuracy on the line: on the strong correlation between out-of

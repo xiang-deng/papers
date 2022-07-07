@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Refining Query Representations for Dense Retrieval at Test Time"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "M Sung, J Park, J Kang, D Chen, J Lee - arXiv preprint arXiv:2205.12680, 2022"
----
-Dense retrieval uses a contrastive learning framework to learn dense representations of queries and contexts. Trained encoders are directly used for each test query, but they often fail to accurately represent out-of-domain queries. In this paper, we introduce a framework that refines instance-level query representations at test time, with only the signals coming from the intermediate retrieval results. We optimize the query representation based on the retrieval result similar to pseudo  Cites: Latent retrieval for weakly supervised open domain question
+--- 
+layout: post 
+title: "Refining Query Representations for Dense Retrieval at Test Time" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "M Sung, J Park, J Kang, D Chen, J Lee - arXiv preprint arXiv:2205.12680, 2022" 
+--- 
+Dense retrieval uses a contrastive learning framework to learn dense representations of queries and contexts. Trained encoders are directly used for each test query, but they often fail to accurately represent out-of-domain queries. In this paper, we introduce a framework that refines instance-level query representations at test time, with only the signals coming from the intermediate retrieval results. We optimize the query representation based on the retrieval result similar to pseudo Cites: Latent retrieval for weakly supervised open domain question

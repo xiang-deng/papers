@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Tiered Reinforcement Learning: Pessimism in the Face of Uncertainty and Constant Regret"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "J Huang, L Zhao, T Qin, W Chen, N Jiang, TY Liu - arXiv preprint arXiv:2205.12418, 2022"
----
-We propose a new learning framework that captures the tiered structure of many real-world user-interaction applications, where the users can be divided into two groups based on their different tolerance on exploration risks and should be treated separately. In this setting, we simultaneously maintain two policies $\pi^{\text {O}} $ and $\pi^{\text {E}} $: $\pi^{\text {O}} $(  O  for  online ) interacts with more risk-tolerant users from the first tier and minimizes regret by balancing exploration and  Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation
+--- 
+layout: post 
+title: "Tiered Reinforcement Learning: Pessimism in the Face of Uncertainty and Constant Regret" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "J Huang, L Zhao, T Qin, W Chen, N Jiang, TY Liu - arXiv preprint arXiv:2205.12418, 2022" 
+--- 
+We propose a new learning framework that captures the tiered structure of many real-world user-interaction applications, where the users can be divided into two groups based on their different tolerance on exploration risks and should be treated separately. In this setting, we simultaneously maintain two policies $\pi^{\text {O}} $ and $\pi^{\text {E}} $: $\pi^{\text {O}} $( O for online ) interacts with more risk-tolerant users from the first tier and minimizes regret by balancing exploration and Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

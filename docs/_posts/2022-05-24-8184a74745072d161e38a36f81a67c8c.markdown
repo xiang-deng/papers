@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "B Hsu, G Horwood"
----
-Identifying related entities and events within and across documents is fundamental to natural language understanding. We present an approach to entity and event coreference resolution utilizing contrastive representation learning. Earlier state-of-the-art methods have formulated this problem as a binary classification problem and leveraged large transformers in a cross-encoder architecture to achieve their results. For large collections of documents and corresponding set of n mentions, the  Cites: Paired representation learning for event and entity coreference
+--- 
+layout: post 
+title: "Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "B Hsu, G Horwood" 
+--- 
+Identifying related entities and events within and across documents is fundamental to natural language understanding. We present an approach to entity and event coreference resolution utilizing contrastive representation learning. Earlier state-of-the-art methods have formulated this problem as a binary classification problem and leveraged large transformers in a cross-encoder architecture to achieve their results. For large collections of documents and corresponding set of n mentions, the Cites: Paired representation learning for event and entity coreference

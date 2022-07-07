@@ -1,8 +1,8 @@
----
-layout: post
-title:  "BARLAT: A Nearly Unsupervised Approach for Aspect Category Detection"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "A Kumar, P Gupta, N Kotak, R Balan, LBM Neti - Neural Processing Letters, 2022"
----
+--- 
+layout: post 
+title: "BARLAT: A Nearly Unsupervised Approach for Aspect Category Detection" 
+date: 2022-04-26 05:34:18 -0400 
+categories: jekyll update 
+author: "A Kumar, P Gupta, N Kotak, R Balan, LBM Neti - Neural Processing Letters, 2022" 
+--- 
 Aspect category detection is an essential task in aspect-based sentiment analysis. Most previous works use labeled data and apply a supervised learning approach to detect the aspect category. However, to avoid the dependency on labeled data, some researchers have also applied unsupervised learning approaches, wherein variants of topic models and neural network-based models have been built for this task. These unsupervised methods focus on co-occurrences of words and ignore the Cites: Summarizing opinions: Aspect extraction meets sentiment

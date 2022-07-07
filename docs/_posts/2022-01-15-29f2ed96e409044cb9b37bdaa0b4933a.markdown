@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Connecting Embeddings Based on Multiplex Relational Graph Attention Networks for Knowledge Graph Entity Typing"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "Y Zhao, H Zhou, A Zhang, R Xie, Q Li, F Zhuang - IEEE Transactions on Knowledge , 2022"
----
+--- 
+layout: post 
+title: "Connecting Embeddings Based on Multiplex Relational Graph Attention Networks for Knowledge Graph Entity Typing" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "Y Zhao, H Zhou, A Zhang, R Xie, Q Li, F Zhuang - IEEE Transactions on Knowledge , 2022" 
+--- 
 Knowledge graph entity typing (KGET) aims to infer missing entity typing instances in KGs, which is a significant subtask of KG completion. Despite of its progress, however, it still faces two non-trivial challenges:(i) most existing KGET methods extract features by encoding the existing entity typing tuples, while ignoring rich relational knowledge.(ii) they typically treat each entity typing tuple in KGs independently, and thus inevitably fail to take account of the inherent and valuable Cites: Complex embeddings for simple link prediction

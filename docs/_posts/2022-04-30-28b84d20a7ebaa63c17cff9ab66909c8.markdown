@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Can Rationalization Improve Robustness?"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "H Chen, J He, K Narasimhan, D Chen - arXiv preprint arXiv:2204.11790, 2022"
----
-A growing line of work has investigated the development of neural NLP models that can produce rationales--subsets of input that can explain their model predictions. In this paper, we ask whether such rationale models can also provide robustness to adversarial attacks in addition to their interpretable nature. Since these models need to first generate rationales (  rationalizer ) before making predictions (  predictor ), they have the potential to ignore noise or adversarially added text by simply masking Cites: An information bottleneck approach for controlling conciseness in
+--- 
+layout: post 
+title: "Can Rationalization Improve Robustness?" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "H Chen, J He, K Narasimhan, D Chen - arXiv preprint arXiv:2204.11790, 2022" 
+--- 
+A growing line of work has investigated the development of neural NLP models that can produce rationales--subsets of input that can explain their model predictions. In this paper, we ask whether such rationale models can also provide robustness to adversarial attacks in addition to their interpretable nature. Since these models need to first generate rationales ( rationalizer ) before making predictions ( predictor ), they have the potential to ignore noise or adversarially added text by simply masking Cites: An information bottleneck approach for controlling conciseness in

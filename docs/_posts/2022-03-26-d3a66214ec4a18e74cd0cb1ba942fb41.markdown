@@ -1,8 +1,8 @@
----
-layout: post
-title:  "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "Z Li, Z Wang, M Tan, R Nallapati, P Bhatia, A Arnold - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "Z Li, Z Wang, M Tan, R Nallapati, P Bhatia, A Arnold - arXiv preprint arXiv , 2022" 
+--- 
 Large-scale pre-trained sequence-to-sequence models like BART and T5 achieve state-of-the-art performance on many generative NLP tasks. However, such models pose a great challenge in resource-constrained scenarios owing to their large

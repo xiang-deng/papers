@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Selectively Contextual Bandits"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "C Roberts, M Dimakopoulou, Q Qiao - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Selectively Contextual Bandits" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "C Roberts, M Dimakopoulou, Q Qiao - arXiv preprint arXiv , 2022" 
+--- 
 Contextual bandits are widely used in industrial personalization systems. These online learning frameworks learn a treatment assignment policy in the presence of treatment effects that vary with the observed contextual features of the users. While personalization creates a rich user experience that reflect individual interests, there are benefits of a shared experience across a community that enable participation in the zeitgeist. Such benefits are emergent through network effects and are not Cites: Provably optimal algorithms for generalized linear contextual bandits

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "S Inoue, T Liu, NH Son, MT Nguyen - arXiv preprint arXiv:2204.03958, 2022"
----
+--- 
+layout: post 
+title: "Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "S Inoue, T Liu, NH Son, MT Nguyen - arXiv preprint arXiv:2204.03958, 2022" 
+--- 
 This paper introduces a model for incomplete utterance restoration (IUR). Different from prior studies that only work on extraction or abstraction datasets, we design a simple but effective model, working for both scenarios of IUR. Our design simulates the nature of IUR, where omitted tokens from the context contribute to restoration. From this, we construct a Picker that identifies the omitted tokens. To support the picker, we design two label creation methods (soft and hard labels), which can work Cites: QuAC: Question answering in context

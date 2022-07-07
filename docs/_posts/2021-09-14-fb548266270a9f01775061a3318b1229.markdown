@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Discovering Conflicts of Interest across Heterogeneous Data Sources with ConnectionLens"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "AC Anadiotis, O Balalau, T Bouganim, F Chimienti -  International Conference on , 2021"
----
+--- 
+layout: post 
+title: "Discovering Conflicts of Interest across Heterogeneous Data Sources with ConnectionLens" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "AC Anadiotis, O Balalau, T Bouganim, F Chimienti - International Conference on , 2021" 
+--- 
 Investigative Journalism (IJ, in short) requires combining highly heterogeneous digital datasets coming from a wide variety of sources. We have developed ConnectionLens, a system that integrates such sources into a single heterogeneous graph and enables users to query the graph using keywords. The first iteration of the system [7] followed a mediator architecture which severely constrained its query scalability. Thus, we fully re-engineered the system, moving it to a warehouse Cites: Finding related tables

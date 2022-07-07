@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Heterogeneous Pseudo-Supervised Learning for Few-shot Person Re-Identification"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "J Zhao, L Lan, D Huang, J Ren, W Yang - Neural Networks, 2022"
----
-How to obtain good retrieval performance in the case of few-shot labeled samples is the current research focus of Person Re-Identification. To facilitate formal analysis, we formally put forward the concept of Pseudo-Supervised Learning (PSL) to represent a series of research works based on label generation under few-shot condition. Through extensive investigations, we find that the main problem that needs to be solved of PSL is how we can improve the quality of pseudo-label. To  Cites: Dividemix: Learning with noisy labels as semi-supervised learning
+--- 
+layout: post 
+title: "Heterogeneous Pseudo-Supervised Learning for Few-shot Person Re-Identification" 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "J Zhao, L Lan, D Huang, J Ren, W Yang - Neural Networks, 2022" 
+--- 
+How to obtain good retrieval performance in the case of few-shot labeled samples is the current research focus of Person Re-Identification. To facilitate formal analysis, we formally put forward the concept of Pseudo-Supervised Learning (PSL) to represent a series of research works based on label generation under few-shot condition. Through extensive investigations, we find that the main problem that needs to be solved of PSL is how we can improve the quality of pseudo-label. To Cites: Dividemix: Learning with noisy labels as semi-supervised learning

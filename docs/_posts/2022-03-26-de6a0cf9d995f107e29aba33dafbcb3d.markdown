@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SLAN: Similarity-aware Aggregation Network for Embedding Out-of-Knowledge-Graph Entities"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "M Li, Z Sun, W Zhang - Neurocomputing, 2022"
----
+--- 
+layout: post 
+title: "SLAN: Similarity-aware Aggregation Network for Embedding Out-of-Knowledge-Graph Entities" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "M Li, Z Sun, W Zhang - Neurocomputing, 2022" 
+--- 
 Abstract Knowledge graph embedding acts as a pivotal role in predicting the missing information in knowledge graphs (KGs). Due to the evolving nature of real-world KGs, one requires the ability to make predictions for newly emerging entities besides those already observed at training time. Current studies have made great efforts to develop a neighborhood aggregator and embed out-of-knowledge-graph (OOKG) entities inductively, with less focus on exploiting the similarity between the existing Cites: Embedding entities and relations for learning and inference in

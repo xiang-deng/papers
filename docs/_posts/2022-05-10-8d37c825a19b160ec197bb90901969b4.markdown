@@ -1,8 +1,8 @@
----
-layout: post
-title:  "On Evaluating the Robustness of Language Models with Tuning"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "C Wang, L Wang, Y Luo"
----
+--- 
+layout: post 
+title: "On Evaluating the Robustness of Language Models with Tuning" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "C Wang, L Wang, Y Luo" 
+--- 
 Prompt tuning and prefix tuning are two effective mechanisms to leverage frozen language models to perform downstream tasks. Robustness reflects models resilience of output under a change or noise in the input. In this paper, we analyze the robustness of natural language models using various tuning methods with respect to a domain shift (ie training on a domain but evaluating on out-of-domain data). We apply both prompt tuning and prefix tuning on T5 models for reading Cites: Xi Victoria Lin, Caiming Xiong, and Richard Socher. 2020

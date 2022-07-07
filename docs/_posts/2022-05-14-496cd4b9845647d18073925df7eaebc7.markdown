@@ -1,8 +1,8 @@
----
-layout: post
-title:  "When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "S Schuster, T Linzen - arXiv preprint arXiv:2205.03472, 2022"
----
+--- 
+layout: post 
+title: "When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "S Schuster, T Linzen - arXiv preprint arXiv:2205.03472, 2022" 
+--- 
 Understanding longer narratives or participating in conversations requires tracking of discourse entities that have been mentioned. Indefinite noun phrases (NPs), such as a dog , frequently introduce discourse entities but this behavior is modulated by sentential operators such as negation. For example, a dog in Arthur doesn t own a dog does not introduce a discourse entity due to the presence of negation. In this work, we adapt the psycholinguistic assessment of language models paradigm to Cites: PlotMachines: Outline-conditioned generation with dynamic plot

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge Graph Question Answering via SPARQL Silhouette Generation"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "S Purkayastha, S Dana, D Garg, D Khandelwal - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Knowledge Graph Question Answering via SPARQL Silhouette Generation" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "S Purkayastha, S Dana, D Garg, D Khandelwal - arXiv preprint arXiv , 2021" 
+--- 
 Knowledge Graph Question Answering (KGQA) has become a prominent area in natural language processing due to the emergence of large-scale Knowledge Graphs (KGs). Recently Neural Machine Translation based approaches are gaining momentum that translates natural language queries to structured query languages thereby solving the KGQA task. However, most of these methods struggle with out-of- vocabulary words where test entities and relations are not seen during training time Cites: TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL

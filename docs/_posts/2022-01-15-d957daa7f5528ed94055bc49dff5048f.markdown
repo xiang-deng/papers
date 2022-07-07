@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semantic-based Data Augmentation for Math Word Problems"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "A Li, J Liang, Y Xiao - arXiv preprint arXiv:2201.02489, 2022"
----
+--- 
+layout: post 
+title: "Semantic-based Data Augmentation for Math Word Problems" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "A Li, J Liang, Y Xiao - arXiv preprint arXiv:2201.02489, 2022" 
+--- 
 It s hard for neural MWP solvers to deal with tiny local variances. In MWP task, some local changes conserve the original semantic while the others may totally change the underlying logic. Currently, existing datasets for MWP task contain limited samples which are key for neural models to learn to disambiguate different kinds of local variances in questions and solve the questions correctly. In this paper, we propose a set of novel data augmentation approaches to supplement existing datasets with Cites: MAWPS: A math word problem repository

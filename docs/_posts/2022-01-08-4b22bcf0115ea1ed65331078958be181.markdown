@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Zero-shot Commonsense Question Answering with Cloze Translation and Consistency Optimization"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "ZY Dou, N Peng - arXiv preprint arXiv:2201.00136, 2022"
----
+--- 
+layout: post 
+title: "Zero-shot Commonsense Question Answering with Cloze Translation and Consistency Optimization" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "ZY Dou, N Peng - arXiv preprint arXiv:2201.00136, 2022" 
+--- 
 Commonsense question answering (CQA) aims to test if models can answer questions regarding commonsense knowledge that everyone knows. Prior works that incorporate external knowledge bases have shown promising results, but knowledge bases are expensive to construct and are often limited to a fixed set of relations. In this paper, we instead focus on better utilizing the textit {implicit knowledge} stored in pre-trained language models. While researchers have found that the knowledge Cites: Graph-based reasoning over heterogeneous external knowledge

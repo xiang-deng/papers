@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Lexical Knowledge Internalization for Neural Dialog Generation"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "Z Wu, W Bi, X Li, L Kong, B Kao - arXiv preprint arXiv:2205.01941, 2022"
----
+--- 
+layout: post 
+title: "Lexical Knowledge Internalization for Neural Dialog Generation" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "Z Wu, W Bi, X Li, L Kong, B Kao - arXiv preprint arXiv:2205.01941, 2022" 
+--- 
 We propose knowledge internalization (KI), which aims to complement the lexical knowledge into neural dialog models. Instead of further conditioning the knowledge- grounded dialog (KGD) models on externally retrieved knowledge, we seek to integrate knowledge about each input token internally into the model s parameters. To tackle the challenge due to the large scale of lexical knowledge, we adopt the contrastive learning approach and create an effective token-level lexical knowledge Cites: How can we know what language models know?

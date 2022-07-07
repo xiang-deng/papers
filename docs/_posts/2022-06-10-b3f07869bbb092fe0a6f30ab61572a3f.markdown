@@ -1,8 +1,8 @@
----
-layout: post
-title:  "CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "Q Yu, H Wang, D Kim, S Qiao, M Collins, Y Zhu - Proceedings of the IEEE , 2022"
----
-Abstract We propose Clustering Mask Transformer (CMT-DeepLab), a transformer-based framework for panoptic segmentation designed around clustering. It rethinks the existing transformer architectures used in segmentation and detection; CMT-DeepLab considers the object queries as cluster centers, which fill the role of grouping the pixels when applied to segmentation. The clustering is computed with an alternating procedure, by first assigning pixels to the clusters by their feature  Cites: Bert: Pre-training of deep bidirectional transformers for language
+--- 
+layout: post 
+title: "CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "Q Yu, H Wang, D Kim, S Qiao, M Collins, Y Zhu - Proceedings of the IEEE , 2022" 
+--- 
+Abstract We propose Clustering Mask Transformer (CMT-DeepLab), a transformer-based framework for panoptic segmentation designed around clustering. It rethinks the existing transformer architectures used in segmentation and detection; CMT-DeepLab considers the object queries as cluster centers, which fill the role of grouping the pixels when applied to segmentation. The clustering is computed with an alternating procedure, by first assigning pixels to the clusters by their feature Cites: Bert: Pre-training of deep bidirectional transformers for language

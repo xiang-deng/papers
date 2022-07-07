@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automated Scoring for Reading Comprehension via In-context BERT Tuning"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "N Fernandez, A Ghosh, N Liu, Z Wang, B Choffin - arXiv preprint arXiv , 2022"
----
-Automated scoring of open-ended student responses has the potential to significantly reduce human grader effort. Recent advances in automated scoring often leverage textual representations based on pre-trained language models such as BERT and GPT as input to scoring models. Most existing approaches train a separate model for each item/question, which is suitable for scenarios such as essay scoring where items can be quite different from one another. However, these  Cites: Metaicl: Learning to learn in context
+--- 
+layout: post 
+title: "Automated Scoring for Reading Comprehension via In-context BERT Tuning" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "N Fernandez, A Ghosh, N Liu, Z Wang, B Choffin - arXiv preprint arXiv , 2022" 
+--- 
+Automated scoring of open-ended student responses has the potential to significantly reduce human grader effort. Recent advances in automated scoring often leverage textual representations based on pre-trained language models such as BERT and GPT as input to scoring models. Most existing approaches train a separate model for each item/question, which is suitable for scenarios such as essay scoring where items can be quite different from one another. However, these Cites: Metaicl: Learning to learn in context

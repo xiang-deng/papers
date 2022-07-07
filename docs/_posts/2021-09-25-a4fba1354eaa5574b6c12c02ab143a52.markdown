@@ -1,8 +1,8 @@
----
-layout: post
-title:  "MRE: A Military Relation Extraction Model Based on BiGRU and Multi-Head Attention"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "Y Lu, R Yang, X Jiang, D Zhou, C Yin, Z Li - Symmetry, 2021"
----
+--- 
+layout: post 
+title: "MRE: A Military Relation Extraction Model Based on BiGRU and Multi-Head Attention" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "Y Lu, R Yang, X Jiang, D Zhou, C Yin, Z Li - Symmetry, 2021" 
+--- 
 A great deal of operational information exists in the form of text. Therefore, extracting operational information from unstructured military text is of great significance for assisting command decision making and operations. Military relation extraction is one of the main tasks of military information extraction, which aims at identifying the relation between two named entities from unstructured military texts. However, the traditional methods of extracting military relations cannot easily resolve problems Cites: Bert: Pre-Training of Deep Bidirectional Transformers for

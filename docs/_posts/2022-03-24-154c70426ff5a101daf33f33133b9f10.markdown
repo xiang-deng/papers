@@ -1,8 +1,8 @@
----
-layout: post
-title:  "An empirical study of the design choices for local citation recommendation systems"
-date:   2022-03-24 01:59:24 -0400
-categories: jekyll update
-author: "Z Medi, J najder - Expert Systems with Applications, 2022"
----
+--- 
+layout: post 
+title: "An empirical study of the design choices for local citation recommendation systems" 
+date: 2022-03-24 01:59:24 -0400 
+categories: jekyll update 
+author: "Z Medi, J najder - Expert Systems with Applications, 2022" 
+--- 
 As the number of published research articles grows on a daily basis, it is becoming increasingly difficult for scientists to keep up with the published work. Local citation recommendation (LCR) systems, which produce a list of relevant articles to be cited in a given text passage, could help alleviate the burden on scientists and facilitate research. While research on LCR is gaining popularity, building such systems involves a number of important design choices that are often overlooked. We present Cites: Multi-task identification of entities, relations, and coreference for

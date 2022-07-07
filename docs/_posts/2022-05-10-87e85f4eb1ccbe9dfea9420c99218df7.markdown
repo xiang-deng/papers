@@ -1,8 +1,8 @@
----
-layout: post
-title:  "The Limits of Word Level Differential Privacy"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "J Mattern, B Weggenmann, F Kerschbaum - arXiv preprint arXiv:2205.02130, 2022"
----
+--- 
+layout: post 
+title: "The Limits of Word Level Differential Privacy" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "J Mattern, B Weggenmann, F Kerschbaum - arXiv preprint arXiv:2205.02130, 2022" 
+--- 
 As the issues of privacy and trust are receiving increasing attention within the research community, various attempts have been made to anonymize textual data. A significant subset of these approaches incorporate differentially private mechanisms to perturb word embeddings, thus replacing individual words in a sentence. While these methods represent very important contributions, have various advantages over other techniques and do show anonymization capabilities, they have several Cites: Large language models can be strong differentially private learners

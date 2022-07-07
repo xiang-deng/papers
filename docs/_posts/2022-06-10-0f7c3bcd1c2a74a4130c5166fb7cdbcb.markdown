@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Shortcomings of Question Answering Based Factuality Frameworks for Error Localization"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "R Kamoi, T Goyal, G Durrett"
----
+--- 
+layout: post 
+title: "Shortcomings of Question Answering Based Factuality Frameworks for Error Localization" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "R Kamoi, T Goyal, G Durrett" 
+--- 
 Despite recent progress in abstractive summarization, models often generate summaries with factual errors. Numerous approaches to detect these errors have been proposed, the most popular of which are question answering (QA)-based

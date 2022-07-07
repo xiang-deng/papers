@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Bellman Residual Orthogonalization for Offline Reinforcement Learning"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "A Zanette, MJ Wainwright - arXiv preprint arXiv:2203.12786, 2022"
----
+--- 
+layout: post 
+title: "Bellman Residual Orthogonalization for Offline Reinforcement Learning" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "A Zanette, MJ Wainwright - arXiv preprint arXiv:2203.12786, 2022" 
+--- 
 We introduce a new reinforcement learning principle that approximates the Bellman equations by enforcing their validity only along an user-defined space of test functions. Focusing on applications to model-free offline RL with function approximation, we exploit this principle to derive confidence intervals for off-policy evaluation, as well as to optimize over policies within a prescribed policy class. We prove an oracle inequality on our policy optimization procedure in terms of a trade-off Cites: Doubly robust bias reduction in infinite horizon off-policy estimation

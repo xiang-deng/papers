@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "Z Wan, F Cheng, Q Liu, Z Mao, H Song, S Kurohashi - arXiv preprint arXiv , 2022"
----
-Contrastive pre-training on distant supervision has shown remarkable effectiveness for improving supervised relation extraction tasks. However, the existing methods ignore the intrinsic noise of distant supervision during the pre-training stage. In this paper, we propose a weighted contrastive learning method by leveraging the supervised data to estimate the reliability of pre-training instances and explicitly reduce the effect of noise. Experimental results on three supervised datasets  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction
+--- 
+layout: post 
+title: "Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "Z Wan, F Cheng, Q Liu, Z Mao, H Song, S Kurohashi - arXiv preprint arXiv , 2022" 
+--- 
+Contrastive pre-training on distant supervision has shown remarkable effectiveness for improving supervised relation extraction tasks. However, the existing methods ignore the intrinsic noise of distant supervision during the pre-training stage. In this paper, we propose a weighted contrastive learning method by leveraging the supervised data to estimate the reliability of pre-training instances and explicitly reduce the effect of noise. Experimental results on three supervised datasets Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

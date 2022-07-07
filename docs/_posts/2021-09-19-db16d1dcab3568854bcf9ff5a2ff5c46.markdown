@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Modular Self-Supervision for Document-Level Relation Extraction"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "S Zhang, C Wong, N Usuyama, S Jain, T Naumann - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Modular Self-Supervision for Document-Level Relation Extraction" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "S Zhang, C Wong, N Usuyama, S Jain, T Naumann - arXiv preprint arXiv , 2021" 
+--- 
 Extracting relations across large text spans has been relatively underexplored in NLP, but it is particularly important for high-value domains such as biomedicine, where obtaining high recall of the latest findings is crucial for practical applications. Compared to conventional information extraction confined to short text spans, document-level relation extraction faces additional challenges in both inference and learning. Given longer text spans, state-of-the-art neural architectures are less Cites: Cross-sentence n-ary relation extraction with graph lstms

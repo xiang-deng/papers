@@ -1,8 +1,8 @@
----
-layout: post
-title:  "QuakerBot: A Household Dialog System Powered by Large Language Models"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "A Panagopoulou, MALZD Cugini, W You, YYL Zhou"
----
+--- 
+layout: post 
+title: "QuakerBot: A Household Dialog System Powered by Large Language Models" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "A Panagopoulou, MALZD Cugini, W You, YYL Zhou" 
+--- 
 We describe QuakerBot, a dialog system that helps users with household tasks and a participant in the Alexa Prize TaskBot Challenge. QuakerBot can process a variety of user requests, search for instructions from web resources such as wikiHow or Whole Foods Market recipes, answer related questions, and so on. Its components simultaneously consist of large language models with an impressive few-shot performance, and rule-based models with robust service. Cites: Analogous process structure induction for sub-event sequence

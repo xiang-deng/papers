@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Optimising Equal Opportunity Fairness in Model Training"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "A Shen, X Han, T Cohn, T Baldwin, L Frermann - arXiv preprint arXiv:2205.02393, 2022"
----
+--- 
+layout: post 
+title: "Optimising Equal Opportunity Fairness in Model Training" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "A Shen, X Han, T Cohn, T Baldwin, L Frermann - arXiv preprint arXiv:2205.02393, 2022" 
+--- 
 Real-world datasets often encode stereotypes and societal biases. Such biases can be implicitly captured by trained models, leading to biased predictions and exacerbating existing societal preconceptions. Existing debiasing methods, such as adversarial training and removing protected information from representations, have been shown to reduce bias. However, a disconnect between fairness criteria and training objectives makes it difficult to reason theoretically about the effectiveness of Cites: Dataset cartography: Mapping and diagnosing datasets with

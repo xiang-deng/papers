@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Simulating and Modeling the Risk of Conversational Search"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "Z Wang, Q Ai - arXiv preprint arXiv:2201.00235, 2022"
----
+--- 
+layout: post 
+title: "Simulating and Modeling the Risk of Conversational Search" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "Z Wang, Q Ai - arXiv preprint arXiv:2201.00235, 2022" 
+--- 
 In conversational search, agents can interact with users by asking clarifying questions to increase their chance to find better results. Many recent works and shared tasks in both NLP and IR communities have focused on identifying the need of asking clarifying questions and methodologies of generating them. These works assume asking clarifying questions is a safe alternative to retrieving results. As existing conversational search models are far from perfect, it s possible and common Cites: Asking clarification questions in knowledge-based question

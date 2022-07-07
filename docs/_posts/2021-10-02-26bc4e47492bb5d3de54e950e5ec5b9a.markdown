@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Optimization-based Causal Estimation from Heterogenous Environments"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "M Yin, Y Wang, DM Blei - arXiv preprint arXiv:2109.11990, 2021"
----
+--- 
+layout: post 
+title: "Optimization-based Causal Estimation from Heterogenous Environments" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "M Yin, Y Wang, DM Blei - arXiv preprint arXiv:2109.11990, 2021" 
+--- 
 This paper presents a new optimization approach to causal estimation. Given data that contains covariates and an outcome, which covariates are causes of the outcome, and what is the strength of the causality? In classical machine learning (ML), the goal of optimization is to maximize predictive accuracy. However, some covariates might exhibit a non-causal association to the outcome. Such spurious associations provide predictive power for classical ML, but they prevent us from Cites: Distributionally robust neural networks for group shifts: On the

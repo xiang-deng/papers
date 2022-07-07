@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "T Schuster, S Chen, S Buthpitiya, A Fabrikant - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "T Schuster, S Chen, S Buthpitiya, A Fabrikant - arXiv preprint arXiv , 2022" 
+--- 
 Natural Language Inference (NLI) has been extensively studied by the NLP community as a framework for estimating the semantic relation between sentence pairs. While early work identified certain biases in NLI models, recent advancements in modeling and datasets demonstrated promising performance. In this work, we further explore the direct zero-shot applicability of NLI models to real applications, beyond the sentence-pair setting they were trained on. First, we analyze the Cites: Summeval: Re-evaluating summarization evaluation

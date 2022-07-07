@@ -1,8 +1,8 @@
----
-layout: post
-title:  "OpenXAI: Towards a Transparent Evaluation of Model Explanations"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "C Agarwal, E Saxena, S Krishna, M Pawelczyk - arXiv preprint arXiv , 2022"
----
-While several types of post hoc explanation methods (eg, feature attribution methods) have been proposed in recent literature, there is little to no work on systematically benchmarking these methods in an efficient and transparent manner. Here, we introduce OpenXAI, a comprehensive and extensible open source framework for evaluating and benchmarking post hoc explanation methods. OpenXAI comprises of the following key components:(i) a flexible synthetic data generator and  Cites: Anchors: High-Precision Model-Agnostic Explanations
+--- 
+layout: post 
+title: "OpenXAI: Towards a Transparent Evaluation of Model Explanations" 
+date: 2022-06-27 23:23:24 -0400 
+categories: jekyll update 
+author: "C Agarwal, E Saxena, S Krishna, M Pawelczyk - arXiv preprint arXiv , 2022" 
+--- 
+While several types of post hoc explanation methods (eg, feature attribution methods) have been proposed in recent literature, there is little to no work on systematically benchmarking these methods in an efficient and transparent manner. Here, we introduce OpenXAI, a comprehensive and extensible open source framework for evaluating and benchmarking post hoc explanation methods. OpenXAI comprises of the following key components:(i) a flexible synthetic data generator and Cites: Anchors: High-Precision Model-Agnostic Explanations

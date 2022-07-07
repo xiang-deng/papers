@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Parameter-Efficient Tuning by Manipulating Hidden States of Pretrained Language Models For Classification Tasks"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "H Yang, P Li, W Lam - arXiv preprint arXiv:2204.04596, 2022"
----
+--- 
+layout: post 
+title: "Parameter-Efficient Tuning by Manipulating Hidden States of Pretrained Language Models For Classification Tasks" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "H Yang, P Li, W Lam - arXiv preprint arXiv:2204.04596, 2022" 
+--- 
 Parameter-efficient tuning aims to distill knowledge for downstream tasks by optimizing a few introduced parameters while freezing the pretrained language models (PLMs). Continuous prompt tuning which prepends a few trainable vectors to the embeddings of input is one of these methods and has drawn much attention due to its effectiveness and efficiency. This family of methods can be illustrated as exerting nonlinear transformations of hidden states inside PLMs. However, a natural Cites: Adapterhub: A framework for adapting transformers

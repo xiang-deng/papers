@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "JPN Schneider, L Kong"
----
-We examine the extent to which, in principle, different syntactic and semantic graph representations can complement and improve neural language modeling. Specifically, by conditioning on a subgraph encapsulating the locally relevant sentence history, can a model make better next-word predictions than a pretrained sequential language model alone? With an ensemble setup consisting of GPT-2 and ground-truth graphs from one of 7 different formalisms, we find that the graph  Cites: Linguistic Knowledge and Transferability of Contextual
+--- 
+layout: post 
+title: "Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "JPN Schneider, L Kong" 
+--- 
+We examine the extent to which, in principle, different syntactic and semantic graph representations can complement and improve neural language modeling. Specifically, by conditioning on a subgraph encapsulating the locally relevant sentence history, can a model make better next-word predictions than a pretrained sequential language model alone? With an ensemble setup consisting of GPT-2 and ground-truth graphs from one of 7 different formalisms, we find that the graph Cites: Linguistic Knowledge and Transferability of Contextual

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LPT: Language-agnostic Prompt Tuning"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "Y Ji, Y Wang, Z Tang - Sci China Inf Sci"
----
+--- 
+layout: post 
+title: "LPT: Language-agnostic Prompt Tuning" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "Y Ji, Y Wang, Z Tang - Sci China Inf Sci" 
+--- 
 Recently, prompt-based learning has achieved remarkable and stable performance on various downstream tasks, especially in the few-shot settings. In prompt-based learning, prompt engineering is a critical factor that primarily affects model performance. It requires a lot of human effort to design prompts manually or training data to search prompts automatically. Thus, it is expensive to manually create languagespecific prompts for each language, while automatically obtaining prompts Cites: True few-shot learning with language models

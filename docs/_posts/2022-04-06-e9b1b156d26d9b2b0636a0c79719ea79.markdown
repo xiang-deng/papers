@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Event Transition Planning for Open-ended Text Generation"
-date:   2022-04-06 16:01:31 -0400
-categories: jekyll update
-author: "Q Li, P Li, W Bi, Z Ren, Y Lai, L Kong"
----
+--- 
+layout: post 
+title: "Event Transition Planning for Open-ended Text Generation" 
+date: 2022-04-06 16:01:31 -0400 
+categories: jekyll update 
+author: "Q Li, P Li, W Bi, Z Ren, Y Lai, L Kong" 
+--- 
 Open-ended text generation tasks, such as dialogue generation and story completion, require models to generate a coherent continuation given limited preceding context. The openended nature of these tasks brings new challenges to the neural auto-regressive text generators nowadays. Despite these neural models are good at producing human-like text, it is difficult for them to arrange causalities and relations between given facts and possible ensuing events. To bridge this gap Cites: Mixout: Effective regularization to finetune large-scale pretrained

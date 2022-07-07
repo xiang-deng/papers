@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Zero-shot Query Contextualization for Conversational Search"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "AM Krasakis, A Yates, E Kanoulas - arXiv preprint arXiv:2204.10613, 2022"
----
+--- 
+layout: post 
+title: "Zero-shot Query Contextualization for Conversational Search" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "AM Krasakis, A Yates, E Kanoulas - arXiv preprint arXiv:2204.10613, 2022" 
+--- 
 Current conversational passage retrieval systems cast conversational search into ad- hoc search by using an intermediate query resolution step that places the user s question in context of the conversation. While the proposed methods have proven effective, they still assume the availability of large-scale question resolution and conversational search datasets. To waive the dependency on the availability of such data, we adapt a pre-trained token-level dense retriever on ad-hoc search data to Cites: KILT: a benchmark for knowledge intensive language tasks

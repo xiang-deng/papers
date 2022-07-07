@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Far-Sighted BiSeNet V2 for Real-time Semantic Segmentation"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "TW Chen, YT Huang, WH Liao - 2021 17th IEEE International Conference on , 2021"
----
+--- 
+layout: post 
+title: "Far-Sighted BiSeNet V2 for Real-time Semantic Segmentation" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "TW Chen, YT Huang, WH Liao - 2021 17th IEEE International Conference on , 2021" 
+--- 
 Real-time semantic segmentation is one of the most investigated areas in the field of computer vision. In this paper, we focus on improving the performance of BiSeNet V2 by modifying its architecture. BiSeNet V2 is a two-branch segmentation model designed to extract semantic information from high-level feature maps and detailed information from low-level feature maps. The proposed enhancement remains lightweight and real-time with two main modifications: enlarging the contextual Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

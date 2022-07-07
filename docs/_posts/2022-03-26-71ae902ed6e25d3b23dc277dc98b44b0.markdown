@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Sequence-to-Sequence Knowledge Graph Completion and Question Answering"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "A Saxena, A Kochsiek, R Gemulla - arXiv preprint arXiv:2203.10321, 2022"
----
+--- 
+layout: post 
+title: "Sequence-to-Sequence Knowledge Graph Completion and Question Answering" 
+date: 2022-03-26 03:19:20 -0400 
+categories: jekyll update 
+author: "A Saxena, A Kochsiek, R Gemulla - arXiv preprint arXiv:2203.10321, 2022" 
+--- 
 Knowledge graph embedding (KGE) models represent each entity and relation of a knowledge graph (KG) with low-dimensional embedding vectors. These methods have recently been applied to KG link prediction and question answering over incomplete KGs (KGQA). KGEs typically create an embedding for each entity in the graph, which results in large model sizes on real-world graphs with millions of entities. For downstream tasks these atomic entity representations often need to be Cites: Autoregressive entity retrieval

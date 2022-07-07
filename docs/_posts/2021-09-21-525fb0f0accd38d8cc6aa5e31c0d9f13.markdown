@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "S Shaar, F Alam, GDS Martino, P Nakov - arXiv preprint arXiv:2109.07410, 2021"
----
+--- 
+layout: post 
+title: "Assisting the Human Fact-Checkers: Detecting All Previously Fact-Checked Claims in a Document" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "S Shaar, F Alam, GDS Martino, P Nakov - arXiv preprint arXiv:2109.07410, 2021" 
+--- 
 Given the recent proliferation of false claims online, there has been a lot of manual fact-checking effort. As this is very time-consuming, human fact-checkers can benefit from tools that can support them and make them more efficient. Here, we focus on building a system that could provide such support. Given an input document, it aims to detect all sentences that contain a claim that can be verified by some previously fact-checked claims (from a given database). The output is a re-ranked list of the Cites: Truth of varying shades: Analyzing language in fake news and

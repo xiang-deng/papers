@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Nibbling at the Hard Core of Word Sense Disambiguation"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "M Maru, S Conia, M Bevilacqua, R Navigli"
----
+--- 
+layout: post 
+title: "Nibbling at the Hard Core of Word Sense Disambiguation" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "M Maru, S Conia, M Bevilacqua, R Navigli" 
+--- 
 With state-of-the-art systems having finally attained estimated human performance, Word Sense Disambiguation (WSD) has now joined the array of Natural Language Processing tasks that have seemingly been solved, thanks to the vast amounts of knowledge encoded into Transformer-based pre-trained language models. And yet, if we look below the surface of raw figures, it is easy to realize that current approaches still make trivial mistakes that a human would never make. In this work Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

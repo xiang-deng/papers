@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SeTransformer: A Transformer-Based Code Semantic Parser for Code Comment Generation"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "Z Li, Y Wu, B Peng, X Chen, Z Sun, Y Liu, D Paul - IEEE Transactions on Reliability, 2022"
----
+--- 
+layout: post 
+title: "SeTransformer: A Transformer-Based Code Semantic Parser for Code Comment Generation" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "Z Li, Y Wu, B Peng, X Chen, Z Sun, Y Liu, D Paul - IEEE Transactions on Reliability, 2022" 
+--- 
 Automated code comment generation technologies can help developers understand code intent, which can significantly reduce the cost of software maintenance and revision. The latest studies in this field mainly depend on deep neural networks, such as convolutional neural networks and recurrent neural network. However, these methods may not generate high-quality and readable code comments due to the long-term dependence problem, which means that the code blocks used to Cites: A syntactic neural model for general-purpose code generation

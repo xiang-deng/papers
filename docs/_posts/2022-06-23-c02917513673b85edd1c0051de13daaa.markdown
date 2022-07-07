@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Measuring Fairness of Rankings under Noisy Sensitive Information"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "A Ghazimatin, M Kleindessner, C Russell, Z Abedjan - 2022"
----
-Metrics commonly used to assess group fairness in ranking require the knowledge of group membership labels (eg, whether a job applicant is male or female). Obtaining accurate group membership labels, however, may be costly, operationally difficult, or even infeasible. Where it is not possible to obtain these labels, one common solution is to use proxy labels in their place, which are typically predicted by machine learning models. Proxy labels are susceptible to systematic biases, and using them  Cites: Fairness without demographics in repeated loss minimization
+--- 
+layout: post 
+title: "Measuring Fairness of Rankings under Noisy Sensitive Information" 
+date: 2022-06-23 20:09:31 -0400 
+categories: jekyll update 
+author: "A Ghazimatin, M Kleindessner, C Russell, Z Abedjan - 2022" 
+--- 
+Metrics commonly used to assess group fairness in ranking require the knowledge of group membership labels (eg, whether a job applicant is male or female). Obtaining accurate group membership labels, however, may be costly, operationally difficult, or even infeasible. Where it is not possible to obtain these labels, one common solution is to use proxy labels in their place, which are typically predicted by machine learning models. Proxy labels are susceptible to systematic biases, and using them Cites: Fairness without demographics in repeated loss minimization

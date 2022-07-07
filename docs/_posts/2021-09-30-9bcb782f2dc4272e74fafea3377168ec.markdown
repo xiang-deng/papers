@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Aspect-based Sentiment Analysis: A Theoretical and Practical Comparison of Different Approaches"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "E Lebmeier - 2021"
----
+--- 
+layout: post 
+title: "Aspect-based Sentiment Analysis: A Theoretical and Practical Comparison of Different Approaches" 
+date: 2021-09-30 20:19:19 -0400 
+categories: jekyll update 
+author: "E Lebmeier - 2021" 
+--- 
 In the last five years, aspect-based sentiment analysis has been a field of great interest within Natural Language Processing. Supported by the Semantic Evaluation Conferences in 2014-2016, a lot of methods have been developed competing in improving performances on benchmark data sets. Exploiting the transformer architecture behind BERT, results were improved and efforts in this direction still continue today. In this thesis, we give a categorization of existing approaches and Cites: Aspect level sentiment classification with deep memory network

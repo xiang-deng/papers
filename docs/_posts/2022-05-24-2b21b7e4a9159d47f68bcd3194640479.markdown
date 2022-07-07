@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Describing Differences between Text Distributions with Natural Language"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "R Zhong, C Snell, D Klein, J Steinhardt - Red"
----
-How do two distributions of text differ? Humans are slow at answering this, since discovering patterns might require tediously reading through hundreds of samples. We propose to automatically describe the differences by learning a natural language hypothesis: given two distributions D0 and D1, we search for a description that is more often true for D1, eg,is military-related. To tackle this problem, we fine-tune GPT-3 to propose descriptions with the prompt:[samples of D0]+[samples of  Cites: Learning To Retrieve Prompts for In-Context Learning
+--- 
+layout: post 
+title: "Describing Differences between Text Distributions with Natural Language" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "R Zhong, C Snell, D Klein, J Steinhardt - Red" 
+--- 
+How do two distributions of text differ? Humans are slow at answering this, since discovering patterns might require tediously reading through hundreds of samples. We propose to automatically describe the differences by learning a natural language hypothesis: given two distributions D0 and D1, we search for a description that is more often true for D1, eg,is military-related. To tackle this problem, we fine-tune GPT-3 to propose descriptions with the prompt:[samples of D0]+[samples of Cites: Learning To Retrieve Prompts for In-Context Learning

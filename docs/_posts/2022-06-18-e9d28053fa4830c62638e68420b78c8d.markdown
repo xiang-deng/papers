@@ -1,8 +1,8 @@
----
-layout: post
-title:  "JRIRD at the NTCIR-16 FinNum-3 Task: Investigating the Effect of Numerical Representations in Manager s Claim Detection"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "S Onuma, K Kadowaki - Proceedings of the 16th NTCIR Conference on , 2022"
----
-This study presents JRIRD s work on the FinNum-3 Manager s Claim Detection subtask. Numeracy is essential in financial documents and some studies have focused on numerical information representations in natural language processing. For the FinNum-3 task, we tried four representations of numerical value in a text and experimented with joint learning using numerical category information. The results showed that the best format of numerical values depended on a pre-trained model  Cites: BERT: Pre-training of Deep Bidirectional Transformers for
+--- 
+layout: post 
+title: "JRIRD at the NTCIR-16 FinNum-3 Task: Investigating the Effect of Numerical Representations in Manager s Claim Detection" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "S Onuma, K Kadowaki - Proceedings of the 16th NTCIR Conference on , 2022" 
+--- 
+This study presents JRIRD s work on the FinNum-3 Manager s Claim Detection subtask. Numeracy is essential in financial documents and some studies have focused on numerical information representations in natural language processing. For the FinNum-3 task, we tried four representations of numerical value in a text and experimented with joint learning using numerical category information. The results showed that the best format of numerical values depended on a pre-trained model Cites: BERT: Pre-training of Deep Bidirectional Transformers for

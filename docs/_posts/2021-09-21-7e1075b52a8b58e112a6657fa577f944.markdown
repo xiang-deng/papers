@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards More Expressive and Usable Types for Dynamic Languages"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "M Kazerounian - 2021"
----
+--- 
+layout: post 
+title: "Towards More Expressive and Usable Types for Dynamic Languages" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "M Kazerounian - 2021" 
+--- 
 Many popular programming languages, including Ruby, JavaScript, and Python, feature dynamic type systems, in which types are not known until runtime. Dynamic typing provides the programmer with flexibility and allows for rapid program development. In contrast, static type systems, found in languages like C++ and Java, help catch errors early during development, enforce invariants as programs evolve, and provide useful documentation via type annotations. Many researchers have Cites: Codebert: A pre-trained model for programming and natural

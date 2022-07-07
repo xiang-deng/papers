@@ -1,8 +1,8 @@
----
-layout: post
-title:  "AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "S Kong, W Cheng, Y Shen, L Huang - IEEE Transactions on Knowledge and Data , 2022"
----
-Prediction over tabular data is often a crucial task in many real-life applications. Recent advances in deep learning give rise to various deep models for tabular data prediction. A common and essential step in these models is to vectorize raw input features in tabular data into dense embeddings. Choosing a suitable dimension for each feature is challenging yet necessary to improve model s performance and reduce memory cost of model parameters. Existing solutions to embedding  Cites: Neural input search for large scale recommendation models
+--- 
+layout: post 
+title: "AutoSrh: An Embedding Dimensionality Search Framework for Tabular Data Prediction" 
+date: 2022-07-02 02:42:16 -0400 
+categories: jekyll update 
+author: "S Kong, W Cheng, Y Shen, L Huang - IEEE Transactions on Knowledge and Data , 2022" 
+--- 
+Prediction over tabular data is often a crucial task in many real-life applications. Recent advances in deep learning give rise to various deep models for tabular data prediction. A common and essential step in these models is to vectorize raw input features in tabular data into dense embeddings. Choosing a suitable dimension for each feature is challenging yet necessary to improve model s performance and reduce memory cost of model parameters. Existing solutions to embedding Cites: Neural input search for large scale recommendation models

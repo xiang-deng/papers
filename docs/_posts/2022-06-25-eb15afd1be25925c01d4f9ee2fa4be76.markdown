@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Analyzing user perspectives on mobile app privacy at scale"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "P Nema, P Anthonysamy, N Taft, ST Peddinti - 2022 IEEE/ACM 44th International , 2022"
----
-In this paper we present a methodology to analyze users  con-cerns and perspectives about privacy at scale. We leverage NLP techniques to process millions of mobile app reviews and extract privacy concerns. Our methodology is composed of a binary clas-sifier that distinguishes between privacy and non-privacy related reviews. We use clustering to gather reviews that discuss similar privacy concerns, and employ summarization metrics to extract representative reviews to summarize  Cites: Bert: Pre-training of deep bidirectional transformers for language
+--- 
+layout: post 
+title: "Analyzing user perspectives on mobile app privacy at scale" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "P Nema, P Anthonysamy, N Taft, ST Peddinti - 2022 IEEE/ACM 44th International , 2022" 
+--- 
+In this paper we present a methodology to analyze users con-cerns and perspectives about privacy at scale. We leverage NLP techniques to process millions of mobile app reviews and extract privacy concerns. Our methodology is composed of a binary clas-sifier that distinguishes between privacy and non-privacy related reviews. We use clustering to gather reviews that discuss similar privacy concerns, and employ summarization metrics to extract representative reviews to summarize Cites: Bert: Pre-training of deep bidirectional transformers for language

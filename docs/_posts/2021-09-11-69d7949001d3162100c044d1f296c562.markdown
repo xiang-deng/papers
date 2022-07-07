@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Utilizing Adversarial Targeted Attacks to Boost Adversarial Robustness"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "U Pesso, K Bibas, M Feder - arXiv preprint arXiv:2109.01945, 2021"
----
+--- 
+layout: post 
+title: "Utilizing Adversarial Targeted Attacks to Boost Adversarial Robustness" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "U Pesso, K Bibas, M Feder - arXiv preprint arXiv:2109.01945, 2021" 
+--- 
 Adversarial attacks have been shown to be highly effective at degrading the performance of deep neural networks (DNNs). The most prominent defense is adversarial training, a method for learning a robust model. Nevertheless, adversarial training does not make DNNs immune to adversarial perturbations. We propose a novel solution by adopting the recently suggested Predictive Normalized Maximum Likelihood. Specifically, our defense performs adversarial targeted attacks according Cites: Unlabeled data improves adversarial robustness

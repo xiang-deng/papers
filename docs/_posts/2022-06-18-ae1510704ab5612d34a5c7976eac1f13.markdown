@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SEbox4DL: A Modular Software Engineering Toolbox for Deep Learning Models"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "Z Wei, H Wang, Z Yang, WK Chan - 2022 IEEE/ACM 44th International Conference on , 2022"
----
-Deep learning (DL) models are widely used in software applications. Novel DL models and datasets are published from time to time. Developers may also tempt to apply new software engineering (SE) techniques on their DL models. However, no existing tool supports the applications of software testing and debugging techniques on new DL models and their datasets without modifying the code. Developers should manually write code to glue every combination of models, datasets, and SE  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
+--- 
+layout: post 
+title: "SEbox4DL: A Modular Software Engineering Toolbox for Deep Learning Models" 
+date: 2022-06-18 03:19:09 -0400 
+categories: jekyll update 
+author: "Z Wei, H Wang, Z Yang, WK Chan - 2022 IEEE/ACM 44th International Conference on , 2022" 
+--- 
+Deep learning (DL) models are widely used in software applications. Novel DL models and datasets are published from time to time. Developers may also tempt to apply new software engineering (SE) techniques on their DL models. However, no existing tool supports the applications of software testing and debugging techniques on new DL models and their datasets without modifying the code. Developers should manually write code to glue every combination of models, datasets, and SE Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

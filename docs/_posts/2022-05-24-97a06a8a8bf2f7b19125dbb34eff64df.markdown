@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Data Augmentation to Address Out-of-Vocabulary Problem in Low-Resource Sinhala-English Neural Machine Translation"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "A Fernando, S Ranathunga - arXiv preprint arXiv:2205.08722, 2022"
----
-Out-of-Vocabulary (OOV) is a problem for Neural Machine Translation (NMT). OOV refers to words with a low occurrence in the training data, or to those that are absent from the training data. To alleviate this, word or phrase-based Data Augmentation (DA) techniques have been used. However, existing DA techniques have addressed only one of these OOV types and limit to considering either syntactic constraints or semantic constraints. We present a word and phrase replacement-based DA  Cites: Neural machine translation with byte-level subwords
+--- 
+layout: post 
+title: "Data Augmentation to Address Out-of-Vocabulary Problem in Low-Resource Sinhala-English Neural Machine Translation" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "A Fernando, S Ranathunga - arXiv preprint arXiv:2205.08722, 2022" 
+--- 
+Out-of-Vocabulary (OOV) is a problem for Neural Machine Translation (NMT). OOV refers to words with a low occurrence in the training data, or to those that are absent from the training data. To alleviate this, word or phrase-based Data Augmentation (DA) techniques have been used. However, existing DA techniques have addressed only one of these OOV types and limit to considering either syntactic constraints or semantic constraints. We present a word and phrase replacement-based DA Cites: Neural machine translation with byte-level subwords

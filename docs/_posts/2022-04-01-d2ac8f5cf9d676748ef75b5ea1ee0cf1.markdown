@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Pyramid-BERT: Reducing Complexity via Successive Core-set based Token Selection"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "X Huang, A Khetan, R Bidart, Z Karnin - arXiv preprint arXiv:2203.14380, 2022"
----
+--- 
+layout: post 
+title: "Pyramid-BERT: Reducing Complexity via Successive Core-set based Token Selection" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "X Huang, A Khetan, R Bidart, Z Karnin - arXiv preprint arXiv:2203.14380, 2022" 
+--- 
 Transformer-based language models such as BERT have achieved the state-of-the- art performance on various NLP tasks, but are computationally prohibitive. A recent line of works use various heuristics to successively shorten sequence length while transforming tokens through encoders, in tasks such as classification and ranking that require a single token embedding for prediction. We present a novel solution to this problem, called Pyramid-BERT where we replace previously used heuristics with Cites: Blockwise Self-Attention for Long Document Understanding

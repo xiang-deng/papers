@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Table-To-Text generation and pre-training with TABT5"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "E Andrejczuk, JM Eisenschlos, F Piccinno, S Krichene"
----
-Encoder-only transformer models have been successfully applied to different table understanding tasks, as in TAPAS (Herzig et al., 2020). A major limitation of these architectures is that they are constrained to classification-like tasks such as cell selection or entailment detection. We present TABT5, an encoder-decoder model that generates natural language text based on tables and textual inputs. TABT5 overcomes the encoder-only limitation by incorporating a decoder component and  Cites: TaBERT: Pretraining for Joint Understanding of Textual and
+--- 
+layout: post 
+title: "Table-To-Text generation and pre-training with TABT5" 
+date: 2022-06-23 20:09:31 -0400 
+categories: jekyll update 
+author: "E Andrejczuk, JM Eisenschlos, F Piccinno, S Krichene" 
+--- 
+Encoder-only transformer models have been successfully applied to different table understanding tasks, as in TAPAS (Herzig et al., 2020). A major limitation of these architectures is that they are constrained to classification-like tasks such as cell selection or entailment detection. We present TABT5, an encoder-decoder model that generates natural language text based on tables and textual inputs. TABT5 overcomes the encoder-only limitation by incorporating a decoder component and Cites: TaBERT: Pretraining for Joint Understanding of Textual and

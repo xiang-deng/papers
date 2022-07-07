@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge Distillation Meets Few-Shot Learning: An Approach for Few-Shot Intent Classification Within and Across Domains"
-date:   2022-04-14 01:14:43 -0400
-categories: jekyll update
-author: "A Sauer, S Asaadi, F Kch"
----
+--- 
+layout: post 
+title: "Knowledge Distillation Meets Few-Shot Learning: An Approach for Few-Shot Intent Classification Within and Across Domains" 
+date: 2022-04-14 01:14:43 -0400 
+categories: jekyll update 
+author: "A Sauer, S Asaadi, F Kch" 
+--- 
 Large Transformer-based natural language understanding models have achieved state-of-the-art performance in dialogue systems. However, scarce labeled data for training, the large model size, and low inference speed hinder their deployment in low-resource scenarios. Few-shot learning and knowledge distillation techniques have been introduced to reduce the need for labeled data and computational resources, respectively. However, these techniques are incompatible because few Cites: Discriminative nearest neighbor few-shot intent detection by

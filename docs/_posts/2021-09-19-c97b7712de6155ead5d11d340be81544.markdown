@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "M Abdou, A Kulmizev, D Hershcovich, S Frank - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "M Abdou, A Kulmizev, D Hershcovich, S Frank - arXiv preprint arXiv , 2021" 
+--- 
 Pretrained language models have been shown to encode relational information, such as the relations between entities or concepts in knowledge-bases--(Paris, Capital, France). However, simple relations of this type can often be recovered heuristically and the extent to which models implicitly reflect topological structure that is grounded in world, such as perceptual structure, is unknown. To explore this question, we conduct a thorough case study on color. Namely, we employ a dataset Cites: Well-Read Students Learn Better: On the Importance of Pre

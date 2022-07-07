@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Aggregated graph convolutional networks for aspect-based sentiment classification"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "M Zhao, J Yang, J Zhang, S Wang - Information Sciences, 2022"
----
+--- 
+layout: post 
+title: "Aggregated graph convolutional networks for aspect-based sentiment classification" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "M Zhao, J Yang, J Zhang, S Wang - Information Sciences, 2022" 
+--- 
 Aspect-based sentiment analysis is a classic fine-grained approach that aims to distinguish sentiment polarities towards a particular aspect target. The majority of research on this topic has been devoted to constructing syntax-based graph convolutional networks (GCNs) for context feature vectors. These approaches perform poorly in terms of node representation and capturing long-distance dependency. In this paper, we focus on the ability of graph convolution and propose Cites: Aspect level sentiment classification with deep memory network

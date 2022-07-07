@@ -1,8 +1,8 @@
----
-layout: post
-title:  "How robust are pre-trained models to distribution shift?"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "Y Shi, I Daunhawer, JE Vogt, PHS Torr, A Sanyal - arXiv preprint arXiv:2206.08871, 2022"
----
-The vulnerability of machine learning models to spurious correlations has mostly been discussed in the context of supervised learning (SL). However, there is a lack of insight on how spurious correlations affect the performance of popular self-supervised learning (SSL) and auto-encoder based models (AE). In this work, we shed light on this by evaluating the performance of these models on both real world and synthetic distribution shift datasets. Following observations that the linear head  Cites: Extending the wilds benchmark for unsupervised adaptation
+--- 
+layout: post 
+title: "How robust are pre-trained models to distribution shift?" 
+date: 2022-06-25 08:25:58 -0400 
+categories: jekyll update 
+author: "Y Shi, I Daunhawer, JE Vogt, PHS Torr, A Sanyal - arXiv preprint arXiv:2206.08871, 2022" 
+--- 
+The vulnerability of machine learning models to spurious correlations has mostly been discussed in the context of supervised learning (SL). However, there is a lack of insight on how spurious correlations affect the performance of popular self-supervised learning (SSL) and auto-encoder based models (AE). In this work, we shed light on this by evaluating the performance of these models on both real world and synthetic distribution shift datasets. Following observations that the linear head Cites: Extending the wilds benchmark for unsupervised adaptation

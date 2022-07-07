@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Does Recommend-Revise Produce Reliable Annotations? An Analysis on Missing Instances in DocRED"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "Q Huang, S Hao, Y Ye, S Zhu, Y Feng, D Zhao - arXiv preprint arXiv:2204.07980, 2022"
----
+--- 
+layout: post 
+title: "Does Recommend-Revise Produce Reliable Annotations? An Analysis on Missing Instances in DocRED" 
+date: 2022-04-23 07:54:44 -0400 
+categories: jekyll update 
+author: "Q Huang, S Hao, Y Ye, S Zhu, Y Feng, D Zhao - arXiv preprint arXiv:2204.07980, 2022" 
+--- 
 DocRED is a widely used dataset for document-level relation extraction. In the large- scale annotation, a textit {recommend-revise} scheme is adopted to reduce the workload. Within this scheme, annotators are provided with candidate relation instances from distant supervision, and they then manually supplement and remove relational facts based on the recommendations. However, when comparing DocRED with a subset relabeled from scratch, we find that this scheme results in a Cites: Cross-sentence n-ary relation extraction with graph lstms

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PANNER: POS-Aware Nested Named Entity Recognition Through Heterogeneous Graph Neural Network"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "L Zhou, J Li, Z Gu, J Qiu, BB Gupta, Z Tian - IEEE Transactions on Computational , 2022"
----
+--- 
+layout: post 
+title: "PANNER: POS-Aware Nested Named Entity Recognition Through Heterogeneous Graph Neural Network" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "L Zhou, J Li, Z Gu, J Qiu, BB Gupta, Z Tian - IEEE Transactions on Computational , 2022" 
+--- 
 Nested named entity recognition (Nested NER) in knowledge graph (KG) aims at obtaining all meaningful entities, including nested entities for sentences in longer text region. Those obtained entities are to facilitate downstream applications, such as relation extraction, entity resolution, and coreference resolution. This task, however, is challenging not only because of the demand to detect the boundary of the entity but also due to the complexity of those hierarchically nested entities. Since a Cites: A General Framework for Information Extraction using Dynamic

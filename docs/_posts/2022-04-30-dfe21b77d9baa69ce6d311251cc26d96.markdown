@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Exploring Robustness Connection between Artificial and Natural Adversarial Examples"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "A Agarwal, N Ratha, M Vatsa, R Singh"
----
+--- 
+layout: post 
+title: "Exploring Robustness Connection between Artificial and Natural Adversarial Examples" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "A Agarwal, N Ratha, M Vatsa, R Singh" 
+--- 
 Although recent deep neural network algorithm has shown tremendous success in several computer vision tasks, their vulnerability against minute adversarial perturbations has raised a serious concern. In the early days of crafting these adversarial examples, artificial noises are optimized through the network and added in the images to decrease the confidence of the classifiers against the true class. However, recent efforts are showcasing the presence of natural adversarial Cites: Adversarial training can hurt generalization

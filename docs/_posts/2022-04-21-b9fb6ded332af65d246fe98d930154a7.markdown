@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Automated Assertion Generation via Information Retrieval and Its Integration with Deep Learning"
-date:   2022-04-21 03:59:43 -0400
-categories: jekyll update
-author: "H Yu, Y Lou, K Sun, D Ran, T Xie, D Hao, Y Li, G Li - 2022"
----
+--- 
+layout: post 
+title: "Automated Assertion Generation via Information Retrieval and Its Integration with Deep Learning" 
+date: 2022-04-21 03:59:43 -0400 
+categories: jekyll update 
+author: "H Yu, Y Lou, K Sun, D Ran, T Xie, D Hao, Y Li, G Li - 2022" 
+--- 
 Unit testing could be used to validate the correctness of basic units of the software system under test. To reduce manual efforts in conducting unit testing, the research community has contributed with tools that automatically generate unit test cases, including test inputs and test oracles (eg, assertions). Recently, ATLAS, a deep learning (DL) based approach, was proposed to generate assertions for a unit test based on other already written unit tests. Despite promising, the effectiveness of Cites: Learning to generate corrective patches using neural machine

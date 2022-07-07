@@ -1,8 +1,8 @@
----
-layout: post
-title:  "ScoreGAN: A Fraud Review Detector BASED on Regulated GAN with Data Augmentation"
-date:   2022-01-06 10:02:50 -0400
-categories: jekyll update
-author: "S Shehnepoor, R Togneri, W Liu, M Bennamoun - IEEE Transactions on Information , 2021"
----
+--- 
+layout: post 
+title: "ScoreGAN: A Fraud Review Detector BASED on Regulated GAN with Data Augmentation" 
+date: 2022-01-06 10:02:50 -0400 
+categories: jekyll update 
+author: "S Shehnepoor, R Togneri, W Liu, M Bennamoun - IEEE Transactions on Information , 2021" 
+--- 
 The promising performance of Deep Neural Networks (DNNs) in text classification has attracted researchers to use them for fraud review detection. However, the lack of trusted labeled data has limited the performance of the current solutions in detecting fraud reviews. The Generative Adversarial Network (GAN) as a semi-supervised method has been demonstrated to be effective for data augmentation purposes. The state-of-the-art solutions utilize GANs to overcome the data scarcity problem Cites: Finding deceptive opinion spam by any stretch of the imagination

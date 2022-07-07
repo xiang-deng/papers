@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semantic Programming by Example with Pre-trained Models"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "G VERBRUGGEN - 2021"
----
+--- 
+layout: post 
+title: "Semantic Programming by Example with Pre-trained Models" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "G VERBRUGGEN - 2021" 
+--- 
 Teaching a machine to write programs that satisfy a given specification is widely regarded as one of the fundamental problems in artificial intelligence. More specifically, the task of inductive synthesis or programming by example, where the specification is given by (partial) examples of the desired output on given input, allows for the automation of repetitive tasks in a variety of domains. Examples of domains in which robust synthesizers have been rapidly adapted in industrial tools Cites: Triviaqa: A large scale distantly supervised challenge dataset for

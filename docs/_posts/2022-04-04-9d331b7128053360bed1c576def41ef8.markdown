@@ -1,8 +1,8 @@
----
-layout: post
-title:  "The High Separation Probability Assumption for Semi-Supervised Learning"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "G Huang, C Du - IEEE Transactions on Systems, Man, and Cybernetics , 2022"
----
+--- 
+layout: post 
+title: "The High Separation Probability Assumption for Semi-Supervised Learning" 
+date: 2022-04-04 16:51:29 -0400 
+categories: jekyll update 
+author: "G Huang, C Du - IEEE Transactions on Systems, Man, and Cybernetics , 2022" 
+--- 
 We propose a novel semi-supervised learning (SSL) assumption--the high separation probability (HSP) assumption--that is complementary to the common low density separation (LDS) assumption, and a highly accurate and efficient SSL algorithm, the transductive minimax probability machine (TMPM). Under the HSP assumption, a preferred classifier should ensure that with high probability the samples are far away from the decision boundary. Similarly, the LDS assumption Cites: Learning with Local and Global Consistency.

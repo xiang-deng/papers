@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge Graph Entity Type Prediction with Relational Aggregation Graph Attention Network"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "C Zou, J An, G Li"
----
-Most of the knowledge graph completion methods focus on inferring missing entities or relations between entities in the knowledge graphs. However, many knowledge graphs are missing entity types. The goal of entity type prediction in the knowledge graph is to infer the missing entity types that belong to entities in the knowledge graph, that is,(entity, entity type=?). At present, most knowledge graph entity type prediction models tend to model entities and entity types, which will cause the  Cites: Inferring missing entity type instances for knowledge base
+--- 
+layout: post 
+title: "Knowledge Graph Entity Type Prediction with Relational Aggregation Graph Attention Network" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "C Zou, J An, G Li" 
+--- 
+Most of the knowledge graph completion methods focus on inferring missing entities or relations between entities in the knowledge graphs. However, many knowledge graphs are missing entity types. The goal of entity type prediction in the knowledge graph is to infer the missing entity types that belong to entities in the knowledge graph, that is,(entity, entity type=?). At present, most knowledge graph entity type prediction models tend to model entities and entity types, which will cause the Cites: Inferring missing entity type instances for knowledge base

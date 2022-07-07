@@ -1,8 +1,8 @@
----
-layout: post
-title:  "An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "S Agrawal, M Carpuat - arXiv preprint arXiv:2203.09486, 2022"
----
+--- 
+layout: post 
+title: "An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "S Agrawal, M Carpuat - arXiv preprint arXiv:2203.09486, 2022" 
+--- 
 We propose a framework for training non-autoregressive sequence-to-sequence models for editing tasks, where the original input sequence is iteratively edited to produce the output. We show that the imitation learning algorithms designed to train such models for machine translation introduces mismatches between training and inference that lead to undertraining and poor generalization in editing scenarios. We address this issue with two complementary strategies: 1) a roll-in policy that exposes Cites: Learning structural edits via incremental tree transformations

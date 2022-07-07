@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Knowledge-enhanced Attributed Multi-Task Learning for Medicine Recommendation"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "Y Zhang, X Wu, Q Fang, S Qian, C Xu - ACM Transactions on Information Systems , 2022"
----
+--- 
+layout: post 
+title: "Knowledge-enhanced Attributed Multi-Task Learning for Medicine Recommendation" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "Y Zhang, X Wu, Q Fang, S Qian, C Xu - ACM Transactions on Information Systems , 2022" 
+--- 
 Medicine recommendation systems target to recommend a set of medicines given a set of symptoms which play a crucial role in assisting doctors in their daily clinics. Existing approaches are either rule-based or supervised. However, the former heavily relies on expert labeling which is time-consuming and costly to collect, and the latter suffers from the data sparse problem. To automate medicine recommendation on sparse data, we propose MedRec which introduces two graphs Cites: Complex embeddings for simple link prediction

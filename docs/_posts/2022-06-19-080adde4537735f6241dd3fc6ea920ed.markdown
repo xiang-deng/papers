@@ -1,8 +1,8 @@
----
-layout: post
-title:  "marginparsep has been altered. topmargin has been altered. marginparwidth has been altered. marginparpush has been altered. The page layout violates the ICML "
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "P Sethi, D Savenkov, F Arabshahi, J Goetz, M Tolliver"
----
-Improving the quality of Natural Language Understanding (NLU) models, and more specifically, task-oriented semantic parsing models, in production is a cumbersome task. In this work, we present a system called AutoNLU, which we designed to scale the NLU quality improvement process. It adds automation to three key steps: detection, attribution, and correction of model errors, ie, bugs. We detected four times more failed tasks than with random sampling, finding that even a simple active  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
+--- 
+layout: post 
+title: "marginparsep has been altered. topmargin has been altered. marginparwidth has been altered. marginparpush has been altered. The page layout violates the ICML " 
+date: 2022-06-19 07:39:02 -0400 
+categories: jekyll update 
+author: "P Sethi, D Savenkov, F Arabshahi, J Goetz, M Tolliver" 
+--- 
+Improving the quality of Natural Language Understanding (NLU) models, and more specifically, task-oriented semantic parsing models, in production is a cumbersome task. In this work, we present a system called AutoNLU, which we designed to scale the NLU quality improvement process. It adds automation to three key steps: detection, attribution, and correction of model errors, ie, bugs. We detected four times more failed tasks than with random sampling, finding that even a simple active Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

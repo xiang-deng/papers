@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Frustratingly Simple Pretraining Alternatives to Masked Language Modeling"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "A Yamaguchi, G Chrysostomou, K Margatina, N Aletras - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Frustratingly Simple Pretraining Alternatives to Masked Language Modeling" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "A Yamaguchi, G Chrysostomou, K Margatina, N Aletras - arXiv preprint arXiv , 2021" 
+--- 
 Masked language modeling (MLM), a self-supervised pretraining objective, is widely used in natural language processing for learning text representations. MLM trains a model to predict a random sample of input tokens that have been replaced by a [MASK] placeholder in a multi-class setting over the entire vocabulary. When pretraining, it is common to use alongside MLM other auxiliary objectives on the token or sequence level to improve downstream performance (eg next sentence Cites: Well-Read Students Learn Better: On the Importance of Pre

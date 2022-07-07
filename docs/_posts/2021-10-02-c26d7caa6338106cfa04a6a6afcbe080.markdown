@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "W Chen, Y Gong, C Xu, H Hu, B Yao, Z Wei, Z Fan - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "W Chen, Y Gong, C Xu, H Hu, B Yao, Z Wei, Z Fan - arXiv preprint arXiv , 2021" 
+--- 
 We study the problem of coarse-grained response selection in retrieval-based dialogue systems. The problem is equally important with fine-grained response selection, but is less explored in existing literature. In this paper, we propose a Contextual Fine-to-Coarse (CFC) distilled model for coarse-grained response selection in open-domain conversations. In our CFC model, dense representations of query, candidate response and corresponding context is learned based on the multi Cites: Dense Passage Retrieval for Open-Domain Question Answering

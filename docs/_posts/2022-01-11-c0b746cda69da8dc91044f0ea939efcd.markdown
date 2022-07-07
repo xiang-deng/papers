@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "Z Liu, E Prud hommeaux - arXiv preprint arXiv:2201.01845, 2022"
----
+--- 
+layout: post 
+title: "Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "Z Liu, E Prud hommeaux - arXiv preprint arXiv:2201.01845, 2022" 
+--- 
 Common designs of model evaluation typically focus on monolingual settings, where different models are compared according to their performance on a single data set that is assumed to be representative of all possible data for the task at hand. While this may be reasonable for a large data set, this assumption is difficult to maintain in low-resource scenarios, where artifacts of the data collection can yield data sets that are outliers, potentially making conclusions about model performance coincidental Cites: Adversarial examples for evaluating reading comprehension systems

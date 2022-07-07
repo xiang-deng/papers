@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Autoregressive Search Engines: Generating Substrings as Document Identifiers"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "M Bevilacqua, G Ottaviano, P Lewis, W Yih, S Riedel - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Autoregressive Search Engines: Generating Substrings as Document Identifiers" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "M Bevilacqua, G Ottaviano, P Lewis, W Yih, S Riedel - arXiv preprint arXiv , 2022" 
+--- 
 Knowledge-intensive language tasks require NLP systems to both provide the correct answer and retrieve supporting evidence for it in a given corpus. Autoregressive language models are emerging as the de-facto standard for generating answers, with newer and more powerful systems emerging at an astonishing pace. In this paper we argue that all this (and future) progress can be directly applied to the retrieval problem with minimal intervention to the models Cites: Efficient passage retrieval with hashing for open-domain question

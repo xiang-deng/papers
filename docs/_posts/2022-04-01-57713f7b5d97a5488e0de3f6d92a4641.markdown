@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SU-NLP at TREC NEWS 2021"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "K Fayoumi, R Yeniterzi"
----
+--- 
+layout: post 
+title: "SU-NLP at TREC NEWS 2021" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "K Fayoumi, R Yeniterzi" 
+--- 
 This paper presents our work and submissions for the TREC 2021 News Track Wikification task. We approach the problem as an entity linking task initially and after identifying the mentions and their corresponding Wikipedia entities, we rank the mentions within the news article based on their usefulness. For the entity linking part, transformer-based architectures are explored for both detecting the mentions, generating the possible candidates and re-ranking them. Finally for the mention Cites: Scalable zero-shot entity linking with dense entity retrieval

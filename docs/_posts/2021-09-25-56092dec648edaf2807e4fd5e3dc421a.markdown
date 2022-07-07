@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Complex Temporal Question Answering on Knowledge Graphs"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "Z Jia, S Pramanik, RS Roy, G Weikum - arXiv preprint arXiv:2109.08935, 2021"
----
+--- 
+layout: post 
+title: "Complex Temporal Question Answering on Knowledge Graphs" 
+date: 2021-09-25 18:07:15 -0400 
+categories: jekyll update 
+author: "Z Jia, S Pramanik, RS Roy, G Weikum - arXiv preprint arXiv:2109.08935, 2021" 
+--- 
 Question answering over knowledge graphs (KG-QA) is a vital topic in IR. Questions with temporal intent are a special class of practical importance, but have not received much attention in research. This work presents EXAQT, the first end-to-end system for answering complex temporal questions that have multiple entities and predicates, and associated temporal conditions. EXAQT answers natural language questions over KGs in two stages, one geared towards high recall, the other towards precision Cites: Semantic parsing via staged query graph generation: Question

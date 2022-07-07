@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TaskSum: Task-Driven Extractive Text Summarization for Long News Documents Based on Reinforcement Learning"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "M Tang, D Cheng, C Chen, Y Liang, Y Luo, W Qian - International Conference on , 2022"
----
+--- 
+layout: post 
+title: "TaskSum: Task-Driven Extractive Text Summarization for Long News Documents Based on Reinforcement Learning" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "M Tang, D Cheng, C Chen, Y Liang, Y Luo, W Qian - International Conference on , 2022" 
+--- 
 A popular and state-of-the-art family of extractive summarization is to explore pre- trained language models through reinforcement learning (RL). Despite gaining promising results, existing RL-based methods suffer from three drawbacks. First, they often adopt sparse reward signal schemes, which only give rewards to some of the extracted sentences, and result in neglecting salient sentences. Second, they often deem summarization as an independent task and neglect the latent connections Cites: Discourse-Aware Neural Extractive Text Summarization

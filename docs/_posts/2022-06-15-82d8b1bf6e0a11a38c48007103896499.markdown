@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Wavelet Regularization Benefits Adversarial Training"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "J Yan, H Yin, X Deng, Z Zhao, W Ge, H Zhang, G Rigoll - arXiv preprint arXiv , 2022"
----
-Adversarial training methods are state-of-the-art (SOTA) empirical defense methods against adversarial examples. Many regularization methods have been proven to be effective with the combination of adversarial training. Nevertheless, such regularization methods are implemented in the time domain. Since adversarial vulnerability can be regarded as a high-frequency phenomenon, it is essential to regulate the adversarially-trained neural network models in the frequency domain  Cites: Understanding and mitigating the tradeoff between robustness and
+--- 
+layout: post 
+title: "Wavelet Regularization Benefits Adversarial Training" 
+date: 2022-06-15 15:55:00 -0400 
+categories: jekyll update 
+author: "J Yan, H Yin, X Deng, Z Zhao, W Ge, H Zhang, G Rigoll - arXiv preprint arXiv , 2022" 
+--- 
+Adversarial training methods are state-of-the-art (SOTA) empirical defense methods against adversarial examples. Many regularization methods have been proven to be effective with the combination of adversarial training. Nevertheless, such regularization methods are implemented in the time domain. Since adversarial vulnerability can be regarded as a high-frequency phenomenon, it is essential to regulate the adversarially-trained neural network models in the frequency domain Cites: Understanding and mitigating the tradeoff between robustness and

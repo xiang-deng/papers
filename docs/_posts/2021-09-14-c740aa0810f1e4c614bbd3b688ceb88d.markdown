@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Contrasting Human-and Machine-Generated Word-Level Adversarial Examples for Text Classification"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "M Mozes, M Bartolo, P Stenetorp, B Kleinberg - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Contrasting Human-and Machine-Generated Word-Level Adversarial Examples for Text Classification" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "M Mozes, M Bartolo, P Stenetorp, B Kleinberg - arXiv preprint arXiv , 2021" 
+--- 
 Research shows that natural language processing models are generally considered to be vulnerable to adversarial attacks; but recent work has drawn attention to the issue of validating these adversarial inputs against certain criteria (eg, the preservation of semantics and grammaticality). Enforcing constraints to uphold such criteria may render attacks unsuccessful, raising the question of whether valid attacks are actually feasible. In this work, we investigate this through the lens of human Cites: Certified robustness to adversarial word substitutions

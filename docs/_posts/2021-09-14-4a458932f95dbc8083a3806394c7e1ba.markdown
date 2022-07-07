@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Label Verbalization and Entailment for Effective Zero-and Few-Shot Relation Extraction"
-date:   2021-09-14 15:58:32 -0400
-categories: jekyll update
-author: "O Sainz, OL de Lacalle, G Labaka, A Barrena, E Agirre - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Label Verbalization and Entailment for Effective Zero-and Few-Shot Relation Extraction" 
+date: 2021-09-14 15:58:32 -0400 
+categories: jekyll update 
+author: "O Sainz, OL de Lacalle, G Labaka, A Barrena, E Agirre - arXiv preprint arXiv , 2021" 
+--- 
 Relation extraction systems require large amounts of labeled examples which are costly to annotate. In this work we reformulate relation extraction as an entailment task, with simple, hand-made, verbalizations of relations produced in less than 15 min per relation. The system relies on a pretrained textual entailment engine which is run as-is (no training examples, zero-shot) or further fine-tuned on labeled examples (few-shot or fully trained). In our experiments on TACRED we attain 63% F1 zero Cites: Zero-shot relation extraction via reading comprehension

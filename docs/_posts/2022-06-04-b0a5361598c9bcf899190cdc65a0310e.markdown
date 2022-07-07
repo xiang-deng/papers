@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Reinforcement Learning for Branch-and-Bound Optimisation using Retrospective Trajectories"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "CWF Parsonson, A Laterre, TD Barrett - arXiv preprint arXiv:2205.14345, 2022"
----
-Combinatorial optimisation problems framed as mixed integer linear programmes (MILPs) are ubiquitous across a range of real-world applications. The canonical branch-and-bound (B&B) algorithm seeks to exactly solve MILPs by constructing a search tree of increasingly constrained sub-problems. In practice, its solving time performance is dependent on heuristics, such as the choice of the next variable to constrain ( branching ). Recently, machine learning (ML) has emerged as a  Cites: Keeping your distance: Solving sparse reward tasks using self
+--- 
+layout: post 
+title: "Reinforcement Learning for Branch-and-Bound Optimisation using Retrospective Trajectories" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "CWF Parsonson, A Laterre, TD Barrett - arXiv preprint arXiv:2205.14345, 2022" 
+--- 
+Combinatorial optimisation problems framed as mixed integer linear programmes (MILPs) are ubiquitous across a range of real-world applications. The canonical branch-and-bound (B&B) algorithm seeks to exactly solve MILPs by constructing a search tree of increasingly constrained sub-problems. In practice, its solving time performance is dependent on heuristics, such as the choice of the next variable to constrain ( branching ). Recently, machine learning (ML) has emerged as a Cites: Keeping your distance: Solving sparse reward tasks using self

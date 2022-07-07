@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semi-supervised Graph Learning with Few Labeled Nodes"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "C Zhang, T Bai, B Wu - International Conference on Database Systems for , 2022"
----
+--- 
+layout: post 
+title: "Semi-supervised Graph Learning with Few Labeled Nodes" 
+date: 2022-05-05 02:23:22 -0400 
+categories: jekyll update 
+author: "C Zhang, T Bai, B Wu - International Conference on Database Systems for , 2022" 
+--- 
 Graph-based semi-supervised learning, utilizing both a few labeled nodes and massive unlabeled nodes, has aroused extensive attention in the research community. However, for the graph with few labeled nodes, the performance of Graph Convolutional Networks (GCNs) will suffer from a catastrophic decline due to its intrinsic shallow architecture limitation and insufficient supervision signals. To accommodate this issue, we propose a novel Self-Training model (ST-LPGCN) Cites: Learning from labeled and unlabeled data on a directed graph

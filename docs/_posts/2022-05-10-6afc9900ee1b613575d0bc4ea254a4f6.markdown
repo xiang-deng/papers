@@ -1,8 +1,8 @@
----
-layout: post
-title:  "EVALUATING THE EFFECTIVENESS OF TOPIC GUIDANCE FOR ABSTRACTIVE SUMMARISATION"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "TH Xi, NSC Gregory, CH Leong, SBC Vincent"
----
+--- 
+layout: post 
+title: "EVALUATING THE EFFECTIVENESS OF TOPIC GUIDANCE FOR ABSTRACTIVE SUMMARISATION" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "TH Xi, NSC Gregory, CH Leong, SBC Vincent" 
+--- 
 Current abstractive summarization models are flexible and can produce fluent summaries, but they can contain unfaithful content and may be unrelated to the content of the document that users are interested in. Although guided summarisation frameworks have been proposed to address these shortcomings, they rely on users providing inputs specific to the document, making them potentially impractical in real applications. Therefore, we propose the use of topic-guided summarisation, allowing Cites: Dont Give Me the Details, Just the Summary!

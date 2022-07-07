@@ -1,8 +1,8 @@
----
-layout: post
-title:  "elBERto: Self-supervised Commonsense Learning for Question Answering"
-date:   2022-03-22 03:39:25 -0400
-categories: jekyll update
-author: "X Zhan, Y Li, X Dong, X Liang, Z Hu, L Carin - arXiv preprint arXiv:2203.09424, 2022"
----
+--- 
+layout: post 
+title: "elBERto: Self-supervised Commonsense Learning for Question Answering" 
+date: 2022-03-22 03:39:25 -0400 
+categories: jekyll update 
+author: "X Zhan, Y Li, X Dong, X Liang, Z Hu, L Carin - arXiv preprint arXiv:2203.09424, 2022" 
+--- 
 Commonsense question answering requires reasoning about everyday situations and causes and effects implicit in context. Typically, existing approaches first retrieve external evidence and then perform commonsense reasoning using these evidence. In this paper, we propose a Self-supervised Bidirectional Encoder Representation Learning of Commonsense (elBERto) framework, which is compatible with off-the- shelf QA model architectures. The framework comprises five self-supervised tasks to Cites: Logic-guided data augmentation and regularization for consistent

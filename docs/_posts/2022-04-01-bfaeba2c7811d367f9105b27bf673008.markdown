@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Masked Language Models as Stereotype Detectors?"
-date:   2022-04-01 17:06:07 -0400
-categories: jekyll update
-author: "Y Gaci, B Benatallah, F Casati, K Benabdeslem - 2022"
----
+--- 
+layout: post 
+title: "Masked Language Models as Stereotype Detectors?" 
+date: 2022-04-01 17:06:07 -0400 
+categories: jekyll update 
+author: "Y Gaci, B Benatallah, F Casati, K Benabdeslem - 2022" 
+--- 
 Pretraining language models led to significant improvements for NLP tasks. However, recent studies confirmed that most language models exhibit a myriad of social biases related to different demographic variables such as gender, race, or religion. In this work, we exploit this implicit knowledge of stereotypes to create an end-to-end stereotype detector using solely a language model. Existing literature on quantifying social biases functions at model-level, evaluating trained models such as Cites: Language models as fact checkers?

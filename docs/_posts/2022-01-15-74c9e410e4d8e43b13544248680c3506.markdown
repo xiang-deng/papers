@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Study of Similarity Measures as Features in Classification for Answer Sentence Selection Task in Hindi Question Answering: Language-Specific v/s Other Measures"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "D Verma, R Joshi, S Joshi, O Susladkar - Proceedings of the 35th Pacific Asia , 2021"
----
+--- 
+layout: post 
+title: "Study of Similarity Measures as Features in Classification for Answer Sentence Selection Task in Hindi Question Answering: Language-Specific v/s Other Measures" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "D Verma, R Joshi, S Joshi, O Susladkar - Proceedings of the 35th Pacific Asia , 2021" 
+--- 
 Answer sentence selection is an important sub-task in Question Answering (QA) that determines the correct answer sentence from a passage. This task can naturally be reduced to the semantic text similarity problem between question and answer candidate. In this work, we investigate the significance of various similarity measures for the answer sentence selection task in Hindi an Indo-Aryan language. Karaka relations is the core of dependency annotation scheme used for Hindi and are crucial Cites: MLQA: Evaluating cross-lingual extractive question answering

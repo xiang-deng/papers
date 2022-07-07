@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Correcting Robot Plans with Natural Language Feedback"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "P Sharma, B Sundaralingam, V Blukis, C Paxton - arXiv preprint arXiv , 2022"
----
-When humans design cost or goal specifications for robots, they often produce specifications that are ambiguous, underspecified, or beyond planners  ability to solve. In these cases, corrections provide a valuable tool for human-in-the-loop robot control. Corrections might take the form of new goal specifications, new constraints (eg to avoid specific objects), or hints for planning algorithms (eg to visit specific waypoints). Existing correction methods (eg using a joystick or direct manipulation of Cites: LILA: Language-Informed Latent Actions
+--- 
+layout: post 
+title: "Correcting Robot Plans with Natural Language Feedback" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "P Sharma, B Sundaralingam, V Blukis, C Paxton - arXiv preprint arXiv , 2022" 
+--- 
+When humans design cost or goal specifications for robots, they often produce specifications that are ambiguous, underspecified, or beyond planners ability to solve. In these cases, corrections provide a valuable tool for human-in-the-loop robot control. Corrections might take the form of new goal specifications, new constraints (eg to avoid specific objects), or hints for planning algorithms (eg to visit specific waypoints). Existing correction methods (eg using a joystick or direct manipulation of Cites: LILA: Language-Informed Latent Actions

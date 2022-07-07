@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Constraint-Based Approach to Learning and Reasoning"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "M Diligenti, F Giannini, M Gori, M Maggini, G Marra -  Intelligence: The State of the Art, 2021"
----
+--- 
+layout: post 
+title: "A Constraint-Based Approach to Learning and Reasoning" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "M Diligenti, F Giannini, M Gori, M Maggini, G Marra - Intelligence: The State of the Art, 2021" 
+--- 
 Neural-symbolic models bridge the gap between sub-symbolic and symbolic approaches, both of which have significant limitations. Sub-symbolic approaches, like neural networks, require a large amount of labeled data to be successful, whereas symbolic approaches, like logic reasoners, require a small amount of prior domain knowledge but do not easily scale to large collections of data. This chapter presents a general approach to integrate learning and reasoning that is based on the Cites: Learning reasoning strategies in end-to-end differentiable proving

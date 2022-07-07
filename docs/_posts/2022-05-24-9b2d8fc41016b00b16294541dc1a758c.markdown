@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Leveraging Transferability and Improved Beam Search in Textual Adversarial Attacks"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "B Zhu, Z Gu, Y Qian, F Lau, Z Tian - Neurocomputing, 2022"
----
-Adversarial attacks in NLP are difficult to ward off because of the discrete and highly abstract nature of human languages. Prior works utilize different word replacement strategies to generate semantic-preserving adversarial texts. These query-based methods, however, have limited exploration of the search space. To fully explore the search space, an improved beam search with multiple random perturbing positions is used. Besides, we use the transferable vulnerability from surrogate models to choose  Cites: Deep contextualized word representations
+--- 
+layout: post 
+title: "Leveraging Transferability and Improved Beam Search in Textual Adversarial Attacks" 
+date: 2022-05-24 00:00:36 -0400 
+categories: jekyll update 
+author: "B Zhu, Z Gu, Y Qian, F Lau, Z Tian - Neurocomputing, 2022" 
+--- 
+Adversarial attacks in NLP are difficult to ward off because of the discrete and highly abstract nature of human languages. Prior works utilize different word replacement strategies to generate semantic-preserving adversarial texts. These query-based methods, however, have limited exploration of the search space. To fully explore the search space, an improved beam search with multiple random perturbing positions is used. Besides, we use the transferable vulnerability from surrogate models to choose Cites: Deep contextualized word representations

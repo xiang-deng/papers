@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Explaining Individual Predictions on Financially Distressed Companies Using Shapley Values"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "HR Dokset, E Vindenes - 2021"
----
+--- 
+layout: post 
+title: "Explaining Individual Predictions on Financially Distressed Companies Using Shapley Values" 
+date: 2022-05-05 02:23:22 -0400 
+categories: jekyll update 
+author: "HR Dokset, E Vindenes - 2021" 
+--- 
 Prediction results from complex machine learning models can be challenging to interpret. Understanding these models is essential when trusting results in decision- making. In this master thesis, we will utilize Shapley values to explain individual predictions from a complex machine learning algorithm. Our aim is to explain why prediction models obtain their results, so people can interpret them better. The chosen case is based on a thesis called Predicting Financial Distress in Norway by Cites: Model-agnostic interpretability of machine learning

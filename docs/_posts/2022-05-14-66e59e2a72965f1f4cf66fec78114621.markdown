@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Dimension Reduction for Efficient Dense Retrieval via Conditional Autoencoder"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "Z Liu, H Zhang, C Xiong, Z Liu, Y Gu, X Li - arXiv preprint arXiv:2205.03284, 2022"
----
+--- 
+layout: post 
+title: "Dimension Reduction for Efficient Dense Retrieval via Conditional Autoencoder" 
+date: 2022-05-14 04:38:21 -0400 
+categories: jekyll update 
+author: "Z Liu, H Zhang, C Xiong, Z Liu, Y Gu, X Li - arXiv preprint arXiv:2205.03284, 2022" 
+--- 
 Dense retrievers encode texts and map them in an embedding space using pre- trained language models. These embeddings are critical to keep high-dimensional for effectively training dense retrievers, but lead to a high cost of storing index and retrieval. To reduce the embedding dimensions of dense retrieval, this paper proposes a Conditional Autoencoder (ConAE) to compress the high-dimensional embeddings to maintain the same embedding distribution and better recover the Cites: Sewon Min, Ledell Wu, Sergey Edunov, Danqi Chen, and Wentau

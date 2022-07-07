@@ -1,8 +1,8 @@
----
-layout: post
-title:  "LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "Y Wang, J Zhao, J Bao, C Duan, Y Wu, X He - arXiv preprint arXiv:2205.02550, 2022"
----
+--- 
+layout: post 
+title: "LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "Y Wang, J Zhao, J Bao, C Duan, Y Wu, X He - arXiv preprint arXiv:2205.02550, 2022" 
+--- 
 Dialogue state tracking (DST) aims to predict the current dialogue state given the dialogue history. Existing methods generally exploit the utterances of all dialogue turns to assign value for each slot. This could lead to suboptimal results due to the information introduced from irrelevant utterances in the dialogue history, which may be useless and can even cause confusion. To address this problem, we propose LUNA, a sLot-tUrN Alignment enhanced approach. It first explicitly aligns each slot Cites: A simple language model for task-oriented dialogue

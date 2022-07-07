@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Fairness-Aware Range Queries for Selecting Unbiased Data"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "S Shetiya, I Swift, A Asudeh, G Das - 2022 IEEE 38th International Conference on , 2022"
----
-We are being constantly judged by automated decision systems that have been widely criticised for being discriminatory and unfair. Since an algorithm is only as good as the data it works with, biases in the data can significantly amplify unfairness issues. In this paper, we take initial steps towards integrating fairness conditions into database query processing and data management systems. Specifically, we focus on selection bias in range queries. We formally define the problem of fairness-aware  Cites: Answering queries using views: A survey
+--- 
+layout: post 
+title: "Fairness-Aware Range Queries for Selecting Unbiased Data" 
+date: 2022-07-02 02:42:16 -0400 
+categories: jekyll update 
+author: "S Shetiya, I Swift, A Asudeh, G Das - 2022 IEEE 38th International Conference on , 2022" 
+--- 
+We are being constantly judged by automated decision systems that have been widely criticised for being discriminatory and unfair. Since an algorithm is only as good as the data it works with, biases in the data can significantly amplify unfairness issues. In this paper, we take initial steps towards integrating fairness conditions into database query processing and data management systems. Specifically, we focus on selection bias in range queries. We formally define the problem of fairness-aware Cites: Answering queries using views: A survey

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Semantic Diversity in Dialogue with Natural Language Inference"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "K Stasaski, MA Hearst - arXiv preprint arXiv:2205.01497, 2022"
----
+--- 
+layout: post 
+title: "Semantic Diversity in Dialogue with Natural Language Inference" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "K Stasaski, MA Hearst - arXiv preprint arXiv:2205.01497, 2022" 
+--- 
 Generating diverse, interesting responses to chitchat conversations is a problem for neural conversational agents. This paper makes two substantial contributions to improving diversity in dialogue generation. First, we propose a novel metric which uses Natural Language Inference (NLI) to measure the semantic diversity of a set of model responses for a conversation. We evaluate this metric using an established framework (Tevet and Berant, 2021) and find strong evidence indicating NLI Diversity Cites: Choose your own adventure: Paired suggestions in collaborative

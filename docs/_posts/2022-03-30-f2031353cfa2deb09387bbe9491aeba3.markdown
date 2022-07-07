@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Tagging terms in text"
-date:   2022-03-30 13:35:09 -0400
-categories: jekyll update
-author: "AR Terryn, V Hoste, E Lefever"
----
+--- 
+layout: post 
+title: "Tagging terms in text" 
+date: 2022-03-30 13:35:09 -0400 
+categories: jekyll update 
+author: "AR Terryn, V Hoste, E Lefever" 
+--- 
 As with many tasks in natural language processing, automatic term extraction (ATE) is increasingly approached as a machine learning problem. So far, most machine learning approaches to ATE broadly follow the traditional hybrid methodology, by rst extracting a list of unique candidate terms, and classifying these candidates based on the predicted probability that they are valid terms. However, with the rise of neural networks and word embeddings, the next development in ATE might be towards Cites: Linguistic regularities in continuous space word representations

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Benign Overfitting in Adversarially Robust Linear Classification"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "J Chen, Y Cao, Q Gu - arXiv preprint arXiv:2112.15250, 2021"
----
+--- 
+layout: post 
+title: "Benign Overfitting in Adversarially Robust Linear Classification" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "J Chen, Y Cao, Q Gu - arXiv preprint arXiv:2112.15250, 2021" 
+--- 
 Benign overfitting , where classifiers memorize noisy training data yet still achieve a good generalization performance, has drawn great attention in the machine learning community. To explain this surprising phenomenon, a series of works have provided theoretical justification in over-parameterized linear regression, classification, and kernel methods. However, it is not clear if benign overfitting still occurs in the presence of adversarial examples, ie, examples with tiny and intentional Cites: Understanding and mitigating the tradeoff between robustness and

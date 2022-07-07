@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Addressing Leakage in Self-Supervised Contextualized Code Retrieval"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "J Villmow, V Campos, A Ulges, U Schwanecke - arXiv preprint arXiv:2204.11594, 2022"
----
+--- 
+layout: post 
+title: "Addressing Leakage in Self-Supervised Contextualized Code Retrieval" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "J Villmow, V Campos, A Ulges, U Schwanecke - arXiv preprint arXiv:2204.11594, 2022" 
+--- 
 We address contextualized code retrieval, the search for code snippets helpful to fill gaps in a partial input program. Our approach facilitates a large-scale self- supervised contrastive training by splitting source code randomly into contexts and targets. To combat leakage between the two, we suggest a novel approach based on mutual identifier masking, dedentation, and the selection of syntax-aligned targets. Our second contribution is a new dataset for direct evaluation of contextualized code Cites: Latent retrieval for weakly supervised open domain question

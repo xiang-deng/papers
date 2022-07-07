@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PoWareMatch: a Quality-aware Deep Learning Approach to Improve Human Schema Matching"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "R Shraga, A Gal - arXiv preprint arXiv:2109.07321, 2021"
----
+--- 
+layout: post 
+title: "PoWareMatch: a Quality-aware Deep Learning Approach to Improve Human Schema Matching" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "R Shraga, A Gal - arXiv preprint arXiv:2109.07321, 2021" 
+--- 
 Schema matching is a core task of any data integration process. Being investigated in the fields of databases, AI, Semantic Web and data mining for many years, the main challenge remains the ability to generate quality matches among data concepts (eg, database attributes). In this work, we examine a novel angle on the behavior of humans as matchers, studying match creation as a process. We analyze the dynamics of common evaluation measures (precision, recall, and f-measure), with Cites: Data integration with uncertainty

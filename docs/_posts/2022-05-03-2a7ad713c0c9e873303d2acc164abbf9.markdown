@@ -1,8 +1,8 @@
----
-layout: post
-title:  "GypSum: Learning Hybrid Representations for Code Summarization"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "Y Wang, Y Dong, X Lu, A Zhou - arXiv preprint arXiv:2204.12916, 2022"
----
+--- 
+layout: post 
+title: "GypSum: Learning Hybrid Representations for Code Summarization" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "Y Wang, Y Dong, X Lu, A Zhou - arXiv preprint arXiv:2204.12916, 2022" 
+--- 
 Code summarization with deep learning has been widely studied in recent years. Current deep learning models for code summarization generally follow the principle in neural machine translation and adopt the encoder-decoder framework, where the encoder learns the semantic representations from source code and the decoder transforms the learnt representations into human-readable text that describes the functionality of code snippets. Despite they achieve the new state-of-the-art Cites: Electra: Pre-training text encoders as discriminators rather than

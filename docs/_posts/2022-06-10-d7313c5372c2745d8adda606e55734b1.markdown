@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Separable Self-attention for Mobile Vision Transformers"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "S Mehta, M Rastegari - arXiv preprint arXiv:2206.02680, 2022"
----
-Mobile vision transformers (MobileViT) can achieve state-of-the-art performance across several mobile vision tasks, including classification and detection. Though these models have fewer parameters, they have high latency as compared to convolutional neural network-based models. The main efficiency bottleneck in MobileViT is the multi-headed self-attention (MHA) in transformers, which requires $ O (k^ 2) $ time complexity with respect to the number of tokens (or patches) $ k  Cites: Blockwise Self-Attention for Long Document Understanding
+--- 
+layout: post 
+title: "Separable Self-attention for Mobile Vision Transformers" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "S Mehta, M Rastegari - arXiv preprint arXiv:2206.02680, 2022" 
+--- 
+Mobile vision transformers (MobileViT) can achieve state-of-the-art performance across several mobile vision tasks, including classification and detection. Though these models have fewer parameters, they have high latency as compared to convolutional neural network-based models. The main efficiency bottleneck in MobileViT is the multi-headed self-attention (MHA) in transformers, which requires $ O (k^ 2) $ time complexity with respect to the number of tokens (or patches) $ k Cites: Blockwise Self-Attention for Long Document Understanding

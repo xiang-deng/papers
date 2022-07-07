@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "F Zhou, M Hu, H Dong, Z Cheng, S Han, D Zhang - arXiv preprint arXiv:2205.12682, 2022"
----
-Existing auto-regressive pre-trained language models (PLMs) like T5 and BART, have been well applied to table question answering by UNIFIEDSKG and TAPEX, respectively, and demonstrated state-of-the-art results on multiple benchmarks. However, auto-regressive PLMs are challenged by recent emerging numerical reasoning datasets, such as TAT-QA, due to the error-prone implicit calculation. In this paper, we present TaCube, to pre-compute aggregation/arithmetic results for the  Cites: Spreadsheetcoder: Formula prediction from semi-structured context
+--- 
+layout: post 
+title: "TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "F Zhou, M Hu, H Dong, Z Cheng, S Han, D Zhang - arXiv preprint arXiv:2205.12682, 2022" 
+--- 
+Existing auto-regressive pre-trained language models (PLMs) like T5 and BART, have been well applied to table question answering by UNIFIEDSKG and TAPEX, respectively, and demonstrated state-of-the-art results on multiple benchmarks. However, auto-regressive PLMs are challenged by recent emerging numerical reasoning datasets, such as TAT-QA, due to the error-prone implicit calculation. In this paper, we present TaCube, to pre-compute aggregation/arithmetic results for the Cites: Spreadsheetcoder: Formula prediction from semi-structured context

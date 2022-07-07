@@ -1,8 +1,8 @@
----
-layout: post
-title:  "KAHAN: Knowledge-Aware Hierarchical Attention Network for Fake News detection on Social Media"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "YW Tseng, HK Yang, WY Wang, WC Peng - 2022"
----
+--- 
+layout: post 
+title: "KAHAN: Knowledge-Aware Hierarchical Attention Network for Fake News detection on Social Media" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "YW Tseng, HK Yang, WY Wang, WC Peng - 2022" 
+--- 
 In recent years, fake news detection has attracted a great deal of attention due to the myriad amounts of misinformation. Some previous methods have focused on modeling the news content, while others have combined user comments and user information on social media. However, existing methods ignore some important clues for detecting fake news, such as temporal information on social media and external knowledge related to the news. To this end, we propose a Knowledge-Aware Cites: Compare to The Knowledge: Graph Neural Fake News Detection

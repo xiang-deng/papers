@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SubTab: Data Exploration with Informative Sub-Tables"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "K Razmadze, Y Amsterdamer, A Somech, SB Davidson"
----
-We demonstrate SubTab, a framework for creating small, informative sub-tables of large data tables to speed up data exploration. Given a table with n rows and m columns where n and m are large, SubTab creates a sub-table Tsub with k<< n rows and l<< m columns, ie a subset of k rows of the table projected over a subset of l columns. The rows and columns are chosen as representatives of prominent data patterns within and across columns in the input table. SubTab can also be used for  Cites: Visualization-aware sampling for very large databases
+--- 
+layout: post 
+title: "SubTab: Data Exploration with Informative Sub-Tables" 
+date: 2022-05-28 02:05:27 -0400 
+categories: jekyll update 
+author: "K Razmadze, Y Amsterdamer, A Somech, SB Davidson" 
+--- 
+We demonstrate SubTab, a framework for creating small, informative sub-tables of large data tables to speed up data exploration. Given a table with n rows and m columns where n and m are large, SubTab creates a sub-table Tsub with k<< n rows and l<< m columns, ie a subset of k rows of the table projected over a subset of l columns. The rows and columns are chosen as representatives of prominent data patterns within and across columns in the input table. SubTab can also be used for Cites: Visualization-aware sampling for very large databases

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Data-to-text generation with neural planning"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "RS Puduppully - 2022"
----
+--- 
+layout: post 
+title: "Data-to-text generation with neural planning" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "RS Puduppully - 2022" 
+--- 
 In this thesis, we consider the task of data-to-text generation, which takes non- linguistic structures as input and produces textual output. The inputs can take the form of database tables, spreadsheets, charts, and so on. The main application of data-to-text generation is to present information in a textual format which makes it accessible to a layperson who may otherwise find it problematic to understand numerical figures. The task can also automate routine document generation jobs Cites: Data-to-text Generation with Variational Sequential Planning

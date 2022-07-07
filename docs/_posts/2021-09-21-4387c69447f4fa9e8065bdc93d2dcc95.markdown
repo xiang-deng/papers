@@ -1,8 +1,8 @@
----
-layout: post
-title:  "{E} fficient {BERT}: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation"
-date:   2021-09-21 13:29:05 -0400
-categories: jekyll update
-author: "C Dong, G Wang, H Xu, J Peng, X Ren, X Liang - arXiv preprint arXiv:2109.07222, 2021"
----
+--- 
+layout: post 
+title: "{E} fficient {BERT}: Progressively Searching Multilayer Perceptron via Warm-up Knowledge Distillation" 
+date: 2021-09-21 13:29:05 -0400 
+categories: jekyll update 
+author: "C Dong, G Wang, H Xu, J Peng, X Ren, X Liang - arXiv preprint arXiv:2109.07222, 2021" 
+--- 
 Pre-trained language models have shown remarkable results on various NLP tasks. Nevertheless, due to their bulky size and slow inference speed, it is hard to deploy them on edge devices. In this paper, we have a critical insight that improving the feed- forward network (FFN) in BERT has a higher gain than improving the multi-head attention (MHA) since the computational cost of FFN is 2$ sim $3 times larger than MHA. Hence, to compact BERT, we are devoted to designing efficient FFN as Cites: Well-Read Students Learn Better: On the Importance of Pre

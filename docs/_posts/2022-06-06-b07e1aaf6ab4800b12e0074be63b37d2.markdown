@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Multi-level Explanation of Deep Reinforcement Learning-based Scheduling"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "S Zhang, C Wang, A Zomaya"
----
-Dependency-aware job scheduling in cluster is NP-hard. Recent work shows that Deep Reinforcement Learning (DRL) is capable of solving it. It is difficult for the administrator to understand the DRL-based policy even though it achieves remarkable performance gain. Therefore the complex modelbased scheduler is not easy to gain the trust in the system where simplicity is favoured. In this paper, we give the multi-level explanation framework to interpret the policy of the DRL-based  Cites: Model-agnostic interpretability of machine learning
+--- 
+layout: post 
+title: "Multi-level Explanation of Deep Reinforcement Learning-based Scheduling" 
+date: 2022-06-06 21:51:57 -0400 
+categories: jekyll update 
+author: "S Zhang, C Wang, A Zomaya" 
+--- 
+Dependency-aware job scheduling in cluster is NP-hard. Recent work shows that Deep Reinforcement Learning (DRL) is capable of solving it. It is difficult for the administrator to understand the DRL-based policy even though it achieves remarkable performance gain. Therefore the complex modelbased scheduler is not easy to gain the trust in the system where simplicity is favoured. In this paper, we give the multi-level explanation framework to interpret the policy of the DRL-based Cites: Model-agnostic interpretability of machine learning

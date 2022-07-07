@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Answer selection using a compare-aggregate model with language model and condensed similarity information from latent clustering"
-date:   2021-09-30 20:19:19 -0400
-categories: jekyll update
-author: "S Yoon, F Dernoncourt, TH Bui, DS Kim, CI Dockhorn - US Patent 11,113,323, 2021"
----
+--- 
+layout: post 
+title: "Answer selection using a compare-aggregate model with language model and condensed similarity information from latent clustering" 
+date: 2021-09-30 20:19:19 -0400 
+categories: jekyll update 
+author: "S Yoon, F Dernoncourt, TH Bui, DS Kim, CI Dockhorn - US Patent 11,113,323, 2021" 
+--- 
 Embodiments of the present invention provide systems, methods, and computer storage media for techniques for identifying textual similarity and performing answer selection. A textual-similarity computing model can use a pre-trained language model to generate vector representations of a question and a candidate answer from a target corpus. The target corpus can be clustered into latent topics (or other latent groupings), and probabilities of a question or candidate answer being in each of the Cites: Squad: 100,000+ questions for machine comprehension of text

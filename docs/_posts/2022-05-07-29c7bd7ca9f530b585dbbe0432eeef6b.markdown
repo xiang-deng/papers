@@ -1,8 +1,8 @@
----
-layout: post
-title:  "BERTops: Studying BERT Representations under a Topological Lens"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "J Chauhan, M Kaul - arXiv preprint arXiv:2205.00953, 2022"
----
-Proposing scoring functions to effectively understand, analyze and learn various properties of high dimensional hidden representations of large-scale transformer models like BERT can be a challenging task. In this work, we explore a new direction by studying the topological features of BERT hidden representations using persistent homology (PH). We propose a novel scoring function named  persistence scoring function (PSF)  which:(i) accurately captures the homology of the high-dimensional Cites: What does BERT look at? An analysis of BERT s attention
+--- 
+layout: post 
+title: "BERTops: Studying BERT Representations under a Topological Lens" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "J Chauhan, M Kaul - arXiv preprint arXiv:2205.00953, 2022" 
+--- 
+Proposing scoring functions to effectively understand, analyze and learn various properties of high dimensional hidden representations of large-scale transformer models like BERT can be a challenging task. In this work, we explore a new direction by studying the topological features of BERT hidden representations using persistent homology (PH). We propose a novel scoring function named persistence scoring function (PSF) which:(i) accurately captures the homology of the high-dimensional Cites: What does BERT look at? An analysis of BERT s attention

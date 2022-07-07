@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Question Generation via Multi-stage Answers Editing Network"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "L Wang, D Sheng, HT Zheng - 2021 International Joint Conference on Neural , 2021"
----
+--- 
+layout: post 
+title: "Question Generation via Multi-stage Answers Editing Network" 
+date: 2021-09-28 14:54:04 -0400 
+categories: jekyll update 
+author: "L Wang, D Sheng, HT Zheng - 2021 International Joint Conference on Neural , 2021" 
+--- 
 Automatic question generation from a sentence or paragraph is a challenging task. Recently, impressive progress has been made, mainly owing to the advance of deep neural networks. However, existing neural approaches tend to simply copy words from the given answer, making the generated question equivocal and informatively redundant. In this work, we propose an edit-based network, named Multi-stage Answers Editing Network (MultiEdit), to generate the question in the three-stage Cites: Question generation for question answering

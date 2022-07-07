@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Optimizing Mixture of Experts using Dynamic Recompilations"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "F Kossmann, Z Jia, A Aiken - arXiv preprint arXiv:2205.01848, 2022"
----
+--- 
+layout: post 
+title: "Optimizing Mixture of Experts using Dynamic Recompilations" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "F Kossmann, Z Jia, A Aiken - arXiv preprint arXiv:2205.01848, 2022" 
+--- 
 The Mixture of Experts architecture allows for outrageously large neural networks by scaling model parameter size independently from computational demand (FLOPs). However, current DNN frameworks cannot effectively support the dynamic data flow in Mixture of Experts, and implementations on top of these frameworks need to use workarounds that introduce significant overheads. To address the limitation of these frameworks, we present DynaMoE, a DNN library that uses dynamic recompilations Cites: Dynet: The dynamic neural network toolkit

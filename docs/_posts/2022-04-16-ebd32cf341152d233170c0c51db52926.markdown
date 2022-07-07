@@ -1,8 +1,8 @@
----
-layout: post
-title:  "That Is a Suspicious Reaction! : Interpreting Logits Variation to Detect NLP Adversarial Attacks"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "E Mosca, S Agarwal, J Rando-Ramirez, G Groh - arXiv preprint arXiv:2204.04636, 2022"
----
+--- 
+layout: post 
+title: "That Is a Suspicious Reaction! : Interpreting Logits Variation to Detect NLP Adversarial Attacks" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "E Mosca, S Agarwal, J Rando-Ramirez, G Groh - arXiv preprint arXiv:2204.04636, 2022" 
+--- 
 Adversarial attacks are a major challenge faced by current machine learning research. These purposely crafted inputs fool even the most advanced models, precluding their deployment in safety-critical applications. Extensive research in computer vision has been carried to develop reliable defense strategies. However, the same issue remains less explored in natural language processing. Our work presents a model-agnostic detector of adversarial text examples. The approach Cites: Certified robustness to adversarial word substitutions

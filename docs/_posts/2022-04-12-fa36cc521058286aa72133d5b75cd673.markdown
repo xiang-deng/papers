@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding"
-date:   2022-04-12 02:42:38 -0400
-categories: jekyll update
-author: "S Wang, Z Chen, Z Ren, H Liang, Q Yan, P Ren - arXiv preprint arXiv:2204.02922, 2022"
----
+--- 
+layout: post 
+title: "Paying More Attention to Self-attention: Improving Pre-trained Language Models via Attention Guiding" 
+date: 2022-04-12 02:42:38 -0400 
+categories: jekyll update 
+author: "S Wang, Z Chen, Z Ren, H Liang, Q Yan, P Ren - arXiv preprint arXiv:2204.02922, 2022" 
+--- 
 Pre-trained language models (PLM) have demonstrated their effectiveness for a broad range of information retrieval and natural language processing tasks. As the core part of PLM, multi-head self-attention is appealing for its ability to jointly attend to information from different positions. However, researchers have found that PLM always exhibits fixed attention patterns regardless of the input (eg, excessively paying attention to [CLS] or [SEP]), which we argue might neglect important Cites: What does BERT look at? An analysis of BERT s attention

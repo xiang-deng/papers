@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "CE Denniston, Y Chang, A Reinke, K Ebadi - arXiv preprint arXiv , 2022"
----
-Multi-robot SLAM systems in GPS-denied environments require loop closures to maintain a drift-free centralized map. With an increasing number of robots and size of the environment, checking and computing the transformation for all the loop closure candidates becomes computationally infeasible. In this work, we describe a loop closure module that is able to prioritize which loop closures to compute based on the underlying pose graph, the proximity to known beacons, and the characteristics of  Cites: Graph neural networks: A review of methods and applications
+--- 
+layout: post 
+title: "Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "CE Denniston, Y Chang, A Reinke, K Ebadi - arXiv preprint arXiv , 2022" 
+--- 
+Multi-robot SLAM systems in GPS-denied environments require loop closures to maintain a drift-free centralized map. With an increasing number of robots and size of the environment, checking and computing the transformation for all the loop closure candidates becomes computationally infeasible. In this work, we describe a loop closure module that is able to prioritize which loop closures to compute based on the underlying pose graph, the proximity to known beacons, and the characteristics of Cites: Graph neural networks: A review of methods and applications

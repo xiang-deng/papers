@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning from Self-Sampled Correct and Partially-Correct Programs"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "A Ni, JP Inala, C Wang, O Polozov, C Meek, D Radev - arXiv preprint arXiv , 2022"
----
-Program synthesis aims to generate executable programs that are consistent with the user specification. While there are often multiple programs that satisfy the same user specification, existing neural program synthesis models are often only learned from one reference program by maximizing its log-likelihood. This causes the model to be overly confident in its predictions as it sees the single solution repeatedly during training. This leads to poor generalization on unseen examples, even when multiple  Cites: A Systematic Evaluation of Large Language Models of Code
+--- 
+layout: post 
+title: "Learning from Self-Sampled Correct and Partially-Correct Programs" 
+date: 2022-06-04 01:43:25 -0400 
+categories: jekyll update 
+author: "A Ni, JP Inala, C Wang, O Polozov, C Meek, D Radev - arXiv preprint arXiv , 2022" 
+--- 
+Program synthesis aims to generate executable programs that are consistent with the user specification. While there are often multiple programs that satisfy the same user specification, existing neural program synthesis models are often only learned from one reference program by maximizing its log-likelihood. This causes the model to be overly confident in its predictions as it sees the single solution repeatedly during training. This leads to poor generalization on unseen examples, even when multiple Cites: A Systematic Evaluation of Large Language Models of Code

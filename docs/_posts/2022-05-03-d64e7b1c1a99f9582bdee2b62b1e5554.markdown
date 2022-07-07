@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Generative Retrieval for Long Sequences"
-date:   2022-05-03 04:46:56 -0400
-categories: jekyll update
-author: "H Lee, S Yang, H Oh, M Seo - arXiv preprint arXiv:2204.13596, 2022"
----
+--- 
+layout: post 
+title: "Generative Retrieval for Long Sequences" 
+date: 2022-05-03 04:46:56 -0400 
+categories: jekyll update 
+author: "H Lee, S Yang, H Oh, M Seo - arXiv preprint arXiv:2204.13596, 2022" 
+--- 
 Text retrieval is often formulated as mapping the query and the target items (eg, passages) to the same vector space and finding the item whose embedding is closest to that of the query. In this paper, we explore a generative approach as an alternative, where we use an encoder-decoder model to memorize the target corpus in a generative manner and then finetune it on query-to-passage generation. As GENRE (Cao et al., 2021) has shown that entities can be retrieved in a generative Cites: HotpotQA: A dataset for diverse, explainable multi-hop question

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Notas Tcnicas CBPF-NT-001/22 maro 2022"
-date:   2022-04-16 01:25:48 -0400
-categories: jekyll update
-author: "V Machado, CR Bom, K Ocana - 2022"
----
+--- 
+layout: post 
+title: "Notas Tcnicas CBPF-NT-001/22 maro 2022" 
+date: 2022-04-16 01:25:48 -0400 
+categories: jekyll update 
+author: "V Machado, CR Bom, K Ocana - 2022" 
+--- 
 O presente estudo objetiva apresentar uma metodologia para identificar, em publicaoes no Twitter, sintomas predefinidos de COVID-19 atravs de tcnicas de Aprendizado Profundo, mais especificamente, redes Transformers. A abordagem proposta foi avaliada em uma base de dados de tweets pblicos em portugus brasileiro usando relatos de sintomas de COVID-19 feitos pelos usurios. Mineramos a base de dados do Twitter para extrair frases com sintomas Cites: Word n-gram attention models for sentence similarity and inference

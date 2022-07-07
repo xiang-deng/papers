@@ -1,8 +1,8 @@
----
-layout: post
-title:  "BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "H Sun, J Bao, Y Wu, X He - arXiv preprint arXiv:2205.02471, 2022"
----
+--- 
+layout: post 
+title: "BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "H Sun, J Bao, Y Wu, X He - arXiv preprint arXiv:2205.02471, 2022" 
+--- 
 A typical end-to-end task-oriented dialog system transfers context into dialog state, and upon which generates a response, which usually faces the problem of error propagation from both previously generated inaccurate dialog states and responses, especially in low-resource scenarios. To alleviate these issues, we propose BORT, a back and denoising reconstruction approach for end-to-end task-oriented dialog system. Squarely, to improve the accuracy of dialog states, back reconstruction is Cites: Detecting formal thought disorder by deep contextualized word

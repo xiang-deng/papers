@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Introducing Neural Bag of Whole-Words with ColBERTer: Contextualized Late Interactions using Enhanced Reduction"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "S Hofsttter, O Khattab, S Althammer, M Sertkan - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "Introducing Neural Bag of Whole-Words with ColBERTer: Contextualized Late Interactions using Enhanced Reduction" 
+date: 2022-03-29 11:43:06 -0400 
+categories: jekyll update 
+author: "S Hofsttter, O Khattab, S Althammer, M Sertkan - arXiv preprint arXiv , 2022" 
+--- 
 Recent progress in neural information retrieval has demonstrated large gains in effectiveness, while often sacrificing the efficiency and interpretability of the neural model compared to classical approaches. This paper proposes ColBERTer, a neural retrieval model using contextualized late interaction (ColBERT) with enhanced reduction. Along the effectiveness Pareto frontier, ColBERTer s reductions dramatically lower ColBERT s storage requirements while simultaneously improving Cites: Boosted Dense Retriever

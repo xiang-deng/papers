@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Orthogonal Multi-view Tensor-based Learning for Clustering"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "S Ma, Y Liu, G Liu, Q Zheng, C Zhang - Neurocomputing, 2022"
----
-Multi-view spectral clustering aims to improve the performance of spectral clustering through multi-view data. Many multi-view spectral clustering methods have been proposed recently and achieved promising performance. Among these methods, most of them are designed to pursue numerical consistency in multi-view similarity matrices. However, each similarity matrix has its unique statistic distribution, which makes it not appropriate to seek numerical consistency in multi-view similarity  Cites: Spectral clustering and transductive learning with multiple views
+--- 
+layout: post 
+title: "Orthogonal Multi-view Tensor-based Learning for Clustering" 
+date: 2022-05-30 22:20:45 -0400 
+categories: jekyll update 
+author: "S Ma, Y Liu, G Liu, Q Zheng, C Zhang - Neurocomputing, 2022" 
+--- 
+Multi-view spectral clustering aims to improve the performance of spectral clustering through multi-view data. Many multi-view spectral clustering methods have been proposed recently and achieved promising performance. Among these methods, most of them are designed to pursue numerical consistency in multi-view similarity matrices. However, each similarity matrix has its unique statistic distribution, which makes it not appropriate to seek numerical consistency in multi-view similarity Cites: Spectral clustering and transductive learning with multiple views

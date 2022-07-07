@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Cross-Domain Deep Code Search with Few-Shot Meta Learning"
-date:   2022-01-08 08:13:01 -0400
-categories: jekyll update
-author: "Y Chai, H Zhang, B Shen, X Gu - arXiv preprint arXiv:2201.00150, 2022"
----
+--- 
+layout: post 
+title: "Cross-Domain Deep Code Search with Few-Shot Meta Learning" 
+date: 2022-01-08 08:13:01 -0400 
+categories: jekyll update 
+author: "Y Chai, H Zhang, B Shen, X Gu - arXiv preprint arXiv:2201.00150, 2022" 
+--- 
 Recently, pre-trained programming language models such as CodeBERT have demonstrated substantial gains in code search. Despite their success, they rely on the availability of large amounts of parallel data to fine-tune the semantic mappings between queries and code. This restricts their practicality in domain-specific languages with relatively scarce and expensive data. In this paper, we propose CDCS, a novel approach for domain-specific code search. CDCS employs a transfer Cites: Codebert: A pre-trained model for programming and natural

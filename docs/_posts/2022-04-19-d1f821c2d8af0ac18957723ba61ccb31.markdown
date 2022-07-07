@@ -1,8 +1,8 @@
----
-layout: post
-title:  "FREDA: Flexible Relation Extraction Data Annotation"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "M Strobl, A Trabelsi, O Zaiane - arXiv preprint arXiv:2204.07150, 2022"
----
+--- 
+layout: post 
+title: "FREDA: Flexible Relation Extraction Data Annotation" 
+date: 2022-04-19 07:59:02 -0400 
+categories: jekyll update 
+author: "M Strobl, A Trabelsi, O Zaiane - arXiv preprint arXiv:2204.07150, 2022" 
+--- 
 To effectively train accurate Relation Extraction models, sufficient and properly labeled data is required. Adequately labeled data is difficult to obtain and annotating such data is a tricky undertaking. Previous works have shown that either accuracy has to be sacrificed or the task is extremely time-consuming, if done accurately. We are proposing an approach in order to produce high-quality datasets for the task of Relation Extraction quickly. Neural models, trained to do Relation Extraction on the Cites: Knowledge enhanced contextual word representations

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning Label Initialization for Time-Dependent Harmonic Extension"
-date:   2022-05-07 02:52:45 -0400
-categories: jekyll update
-author: "A Azad - arXiv preprint arXiv:2205.01358, 2022"
----
+--- 
+layout: post 
+title: "Learning Label Initialization for Time-Dependent Harmonic Extension" 
+date: 2022-05-07 02:52:45 -0400 
+categories: jekyll update 
+author: "A Azad - arXiv preprint arXiv:2205.01358, 2022" 
+--- 
 Node classification on graphs can be formulated as the Dirichlet problem on graphs where the signal is given at the labeled nodes, and the harmonic extension is done on the unlabeled nodes. This paper considers a time-dependent version of the Dirichlet problem on graphs and shows how to improve its solution by learning the proper initialization vector on the unlabeled nodes. Further, we show that the improved solution is at par with state-of-the-art methods used for node classification Cites: Regularization on discrete spaces

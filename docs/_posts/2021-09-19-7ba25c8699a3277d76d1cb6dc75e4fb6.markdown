@@ -1,8 +1,8 @@
----
-layout: post
-title:  "SHAPE: Shifted Absolute Position Embedding for Transformers"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "S Kiyono, S Kobayashi, J Suzuki, K Inui - arXiv preprint arXiv:2109.05644, 2021"
----
+--- 
+layout: post 
+title: "SHAPE: Shifted Absolute Position Embedding for Transformers" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "S Kiyono, S Kobayashi, J Suzuki, K Inui - arXiv preprint arXiv:2109.05644, 2021" 
+--- 
 Position representation is crucial for building position-aware representations in Transformers. Existing position representations suffer from a lack of generalization to test data with unseen lengths or high computational cost. We investigate shifted absolute position embedding (SHAPE) to address both issues. The basic idea of SHAPE is to achieve shift invariance, which is a key property of recent successful position representations, by randomly shifting absolute positions during training. We Cites: The EOS decision and length extrapolation

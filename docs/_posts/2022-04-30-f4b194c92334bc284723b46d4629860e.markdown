@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Entity-Conditioned Question Generation for Robust Attention Distribution in Neural Information Retrieval"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "RG Reddy, MA Sultan, M Franz, A Sil, H Ji - arXiv preprint arXiv:2204.11373, 2022"
----
+--- 
+layout: post 
+title: "Entity-Conditioned Question Generation for Robust Attention Distribution in Neural Information Retrieval" 
+date: 2022-04-30 03:01:01 -0400 
+categories: jekyll update 
+author: "RG Reddy, MA Sultan, M Franz, A Sil, H Ji - arXiv preprint arXiv:2204.11373, 2022" 
+--- 
 We show that supervised neural information retrieval (IR) models are prone to learning sparse attention patterns over passage tokens, which can result in key phrases including named entities receiving low attention weights, eventually leading to model under-performance. Using a novel targeted synthetic data generation method that identifies poorly attended entities and conditions the generation episodes on those, we teach neural IR to attend more uniformly and robustly to all Cites: Question and answer test-train overlap in open-domain question

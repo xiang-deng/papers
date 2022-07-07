@@ -1,8 +1,8 @@
----
-layout: post
-title:  "The inconsistency of documentation: a study of online C standard library documents"
-date:   2022-07-04 12:22:48 -0400
-categories: jekyll update
-author: "R Li, Y Yang, J Liu, P Hu, G Meng - Cybersecurity, 2022"
----
-The C standard libraries are basic function libraries standardized by the C language. Programmers usually refer to their API documentation provided by third-party websites. Unfortunately, these documents are not necessarily complete or accurate, especially for constraint sentences of API usage, which are called Security Specifications (SSs). SS issues can prevent programmers from following obligatory constraints, which results in API misuse vulnerabilities. Previous work studying SS  Cites: AllenNLP: A Deep Semantic Natural Language Processing Platform
+--- 
+layout: post 
+title: "The inconsistency of documentation: a study of online C standard library documents" 
+date: 2022-07-04 12:22:48 -0400 
+categories: jekyll update 
+author: "R Li, Y Yang, J Liu, P Hu, G Meng - Cybersecurity, 2022" 
+--- 
+The C standard libraries are basic function libraries standardized by the C language. Programmers usually refer to their API documentation provided by third-party websites. Unfortunately, these documents are not necessarily complete or accurate, especially for constraint sentences of API usage, which are called Security Specifications (SSs). SS issues can prevent programmers from following obligatory constraints, which results in API misuse vulnerabilities. Previous work studying SS Cites: AllenNLP: A Deep Semantic Natural Language Processing Platform

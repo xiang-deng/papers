@@ -1,8 +1,8 @@
----
-layout: post
-title:  "An Exploration of Consistency Learning with Data Augmentation"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "C Shorten, TM Khoshgoftaar - The International FLAIRS Conference Proceedings, 2022"
----
+--- 
+layout: post 
+title: "An Exploration of Consistency Learning with Data Augmentation" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "C Shorten, TM Khoshgoftaar - The International FLAIRS Conference Proceedings, 2022" 
+--- 
 Deep Learning has achieved remarkable success with Supervised Learning. Nearly all of these successes require very large manually annotated datasets. Data augmentation has enabled Supervised Learning with less labeled data, while avoiding the pitfalls of overfitting. However, Supervised Learning still fails to be Robust, making different predictions for original and augmented data points. We study the addition of a Consistency Loss between representations of original and Cites: Wilds: A benchmark of in-the-wild distribution shifts

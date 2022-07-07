@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Cooperative Lightweight Translation Algorithm Combined with Sparse-ReLU"
-date:   2022-06-01 23:51:30 -0400
-categories: jekyll update
-author: "X Xu, Y Liu, G Chen, J Ye, Z Li, H Lu - Computational Intelligence and Neuroscience, 2022"
----
-In the field of natural language processing (NLP), machine translation algorithm based on Transformer is challenging to deploy on hardware due to a large number of parameters and low parametric sparsity of the network weights. Meanwhile, the accuracy of lightweight machine translation networks also needs to be improved. To solve this problem, we first design a new activation function, Sparse-ReLU, to improve the parametric sparsity of weights and feature maps, which facilitates  Cites: Random feature attention
+--- 
+layout: post 
+title: "A Cooperative Lightweight Translation Algorithm Combined with Sparse-ReLU" 
+date: 2022-06-01 23:51:30 -0400 
+categories: jekyll update 
+author: "X Xu, Y Liu, G Chen, J Ye, Z Li, H Lu - Computational Intelligence and Neuroscience, 2022" 
+--- 
+In the field of natural language processing (NLP), machine translation algorithm based on Transformer is challenging to deploy on hardware due to a large number of parameters and low parametric sparsity of the network weights. Meanwhile, the accuracy of lightweight machine translation networks also needs to be improved. To solve this problem, we first design a new activation function, Sparse-ReLU, to improve the parametric sparsity of weights and feature maps, which facilitates Cites: Random feature attention

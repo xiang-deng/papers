@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Entity Linking and Discovery via Arborescence-based Supervised Clustering"
-date:   2021-09-11 11:24:16 -0400
-categories: jekyll update
-author: "D Agarwal, R Angell, N Monath, A McCallum - arXiv preprint arXiv:2109.01242, 2021"
----
+--- 
+layout: post 
+title: "Entity Linking and Discovery via Arborescence-based Supervised Clustering" 
+date: 2021-09-11 11:24:16 -0400 
+categories: jekyll update 
+author: "D Agarwal, R Angell, N Monath, A McCallum - arXiv preprint arXiv:2109.01242, 2021" 
+--- 
 Previous work has shown promising results in performing entity linking by measuring not only the affinities between mentions and entities but also those amongst mentions. In this paper, we present novel training and inference procedures that fully utilize mention-to-mention affinities by building minimum arborescences (ie, directed spanning trees) over mentions and entities across documents in order to make linking decisions. We also show that this method gracefully extends to entity Cites: Zero-shot entity linking by reading entity descriptions

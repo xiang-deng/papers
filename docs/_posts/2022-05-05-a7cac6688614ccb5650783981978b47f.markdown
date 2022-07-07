@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Reinforcement learning with supervision beyond environmental rewards"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "T Gangwani - 2021"
----
+--- 
+layout: post 
+title: "Reinforcement learning with supervision beyond environmental rewards" 
+date: 2022-05-05 02:23:22 -0400 
+categories: jekyll update 
+author: "T Gangwani - 2021" 
+--- 
 Reinforcement Learning (RL) is an elegant approach to tackle sequential decision- making problems. In the standard setting, the task designer curates a reward function and the RL agent s objective is to take actions in the environment such that the long- term cumulative reward is maximized. Deep RL algorithms---that combine RL principles with deep neural networks---have been successfully used to learn behaviors in complex environments but are generally quite sensitive to the nature of Cites: Decoupling exploration and exploitation for meta-reinforcement

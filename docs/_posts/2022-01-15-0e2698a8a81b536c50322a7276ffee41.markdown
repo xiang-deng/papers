@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Date and time in Universal Dependencies"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "D Zeman - Proceedings of the Fifth Workshop on Universal , 2021"
----
+--- 
+layout: post 
+title: "Date and time in Universal Dependencies" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "D Zeman - Proceedings of the Fifth Workshop on Universal , 2021" 
+--- 
 We attempt to shed some light on the various ways how languages specify date and time, and on the options we have when trying to annotate them uniformly across Universal Dependencies. Examples from several language families are discussed, and their annotation is proposed. Our hope is to eventually make this (or similar) proposal an integral part of the UD annotation guidelines, which would help improve consistency of the UD treebanks. The current annotations are far from consistent, as Cites: Universal dependencies

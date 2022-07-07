@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Prefix-to-SQL: Text-to-SQL Generation from Incomplete User Questions"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "N Deng, S Chang, P Shi, T Yu, R Zhang - arXiv preprint arXiv:2109.13066, 2021"
----
+--- 
+layout: post 
+title: "Prefix-to-SQL: Text-to-SQL Generation from Incomplete User Questions" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "N Deng, S Chang, P Shi, T Yu, R Zhang - arXiv preprint arXiv:2109.13066, 2021" 
+--- 
 Existing text-to-SQL research only considers complete questions as the input, but lay- users might strive to formulate a complete question. To build a smarter natural language interface to database systems (NLIDB) that also processes incomplete questions, we propose a new task, prefix-to-SQL which takes question prefix from users as the input and predicts the intended SQL. We construct a new benchmark called PAGSAS that contains 124K user question prefixes and the intended SQL for Cites: Rat-sql: Relation-aware schema encoding and linking for text-to

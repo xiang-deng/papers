@@ -1,8 +1,8 @@
----
-layout: post
-title:  "A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration"
-date:   2022-05-10 03:22:04 -0400
-categories: jekyll update
-author: "S Jiang, R Zhang, S Vakulenko, M de Rijke - arXiv preprint arXiv:2205.02517, 2022"
----
+--- 
+layout: post 
+title: "A Simple Contrastive Learning Objective for Alleviating Neural Text Degeneration" 
+date: 2022-05-10 03:22:04 -0400 
+categories: jekyll update 
+author: "S Jiang, R Zhang, S Vakulenko, M de Rijke - arXiv preprint arXiv:2205.02517, 2022" 
+--- 
 The cross-entropy objective has proved to be an all-purpose training objective for autoregressive language models (LMs). However, without considering the penalization of problematic tokens, LMs trained using cross-entropy exhibit text degeneration. To address this, unlikelihood training has been proposed to force unlikely tokens to be assigned a low probability by a LM. But unlikelihood does not consider the relationship between the label tokens and the unlikely token Cites: Neural text generation with unlikelihood training

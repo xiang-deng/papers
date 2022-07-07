@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning Structured Neural Semantic Parsers"
-date:   2021-09-16 19:19:30 -0400
-categories: jekyll update
-author: "P Yin - 2021"
----
+--- 
+layout: post 
+title: "Learning Structured Neural Semantic Parsers" 
+date: 2021-09-16 19:19:30 -0400 
+categories: jekyll update 
+author: "P Yin - 2021" 
+--- 
 Semantic parsing, the task of translating user-issued natural language (NL) utterances (eg, Flights from Pittsburgh to New York) into formal meaning representations (MRs, eg, an SQL database query or a Python program), has become an important direction in developing natural language interfaces to computational systems. Recent years have witnessed the burgeoning of applying neural network-based semantic parsers in various tasks and domains. However Cites: Question Generation from SQL Queries Improves Neural Semantic

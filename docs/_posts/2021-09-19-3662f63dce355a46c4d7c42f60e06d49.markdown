@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids  Representations"
-date:   2021-09-19 02:15:47 -0400
-categories: jekyll update
-author: "M Fayyaz, E Aghazadeh, A Modarressi, H Mohebbi - arXiv preprint arXiv , 2021"
----
+--- 
+layout: post 
+title: "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids Representations" 
+date: 2021-09-19 02:15:47 -0400 
+categories: jekyll update 
+author: "M Fayyaz, E Aghazadeh, A Modarressi, H Mohebbi - arXiv preprint arXiv , 2021" 
+--- 
 Most of the recent works on probing representations have focused on BERT, with the presumption that the findings might be similar to the other models. In this work, we extend the probing studies to two other models in the family, namely ELECTRA and XLNet, showing that variations in the pre-training objectives or architectural choices can result in different behaviors in encoding linguistic information in the representations. Most notably, we observe that ELECTRA tends to encode linguistic Cites: Designing and interpreting probes with control tasks

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Learning from substitutable and complementary relations for graph-based sequential product recommendation"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "W Zhang, Z Chen, H Zha, J Wang - ACM Transactions on Information Systems (TOIS), 2021"
----
-Sequential product recommendation, aiming at predicting the products that a target user will interact with soon, has become a hotspot topic. Most of the sequential recommendation models focus on learning from users  interacted product sequences in a purely data-driven manner. However, they largely overlook the knowledgeable substitutable and complementary relations between products. To address this issue, we propose a novel Substitutable and Complementary Graph-based Sequential Cites: Bert: Pre-training of deep bidirectional transformers for language
+--- 
+layout: post 
+title: "Learning from substitutable and complementary relations for graph-based sequential product recommendation" 
+date: 2021-10-02 23:22:46 -0400 
+categories: jekyll update 
+author: "W Zhang, Z Chen, H Zha, J Wang - ACM Transactions on Information Systems (TOIS), 2021" 
+--- 
+Sequential product recommendation, aiming at predicting the products that a target user will interact with soon, has become a hotspot topic. Most of the sequential recommendation models focus on learning from users interacted product sequences in a purely data-driven manner. However, they largely overlook the knowledgeable substitutable and complementary relations between products. To address this issue, we propose a novel Substitutable and Complementary Graph-based Sequential Cites: Bert: Pre-training of deep bidirectional transformers for language

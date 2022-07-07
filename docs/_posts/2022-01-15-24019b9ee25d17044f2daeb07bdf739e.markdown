@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Polish Natural Language Inference and Factivity--an Expert-based Dataset and Benchmarks"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "D Ziembicki, A Wrblewska, K Seweryn - arXiv preprint arXiv:2201.03521, 2022"
----
+--- 
+layout: post 
+title: "Polish Natural Language Inference and Factivity--an Expert-based Dataset and Benchmarks" 
+date: 2022-01-15 10:11:37 -0400 
+categories: jekyll update 
+author: "D Ziembicki, A Wrblewska, K Seweryn - arXiv preprint arXiv:2201.03521, 2022" 
+--- 
 Despite recent breakthroughs in Machine Learning for Natural Language Processing, the Natural Language Inference (NLI) problems still constitute a challenge. To this purpose we contribute a new dataset that focuses exclusively on the factivity phenomenon; however, our task remains the same as other NLI tasks, ie prediction of entailment, contradiction or neutral (ECN). The dataset contains entirely natural language utterances in Polish and gathers 2,432 verb-complement pairs and Cites: Distributionally robust language modeling

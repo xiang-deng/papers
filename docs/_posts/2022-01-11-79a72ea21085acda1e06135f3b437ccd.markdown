@@ -1,8 +1,8 @@
----
-layout: post
-title:  "PARM: A Paragraph Aggregation Retrieval Model for Dense Document-to-Document Retrieval"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "S Althammer, S Hofsttter, M Sertkan, S Verberne - arXiv preprint arXiv , 2022"
----
+--- 
+layout: post 
+title: "PARM: A Paragraph Aggregation Retrieval Model for Dense Document-to-Document Retrieval" 
+date: 2022-01-11 11:24:28 -0400 
+categories: jekyll update 
+author: "S Althammer, S Hofsttter, M Sertkan, S Verberne - arXiv preprint arXiv , 2022" 
+--- 
 Dense passage retrieval (DPR) models show great effectiveness gains in first stage retrieval for the web domain. However in the web domain we are in a setting with large amounts of training data and a query-to-passage or a query-to-document retrieval task. We investigate in this paper dense document-to-document retrieval with limited labelled target data for training, in particular legal case retrieval. In order to use DPR models for document-to-document retrieval, we propose a Paragraph Cites: Dense Passage Retrieval for Open-Domain Question Answering

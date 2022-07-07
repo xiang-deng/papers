@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Is a Modular Architecture Enough?"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "S Mittal, Y Bengio, G Lajoie - arXiv preprint arXiv:2206.02713, 2022"
----
-Inspired from human cognition, machine learning systems are gradually revealing advantages of sparser and more modular architectures. Recent work demonstrates that not only do some modular architectures generalize well, but they also lead to better out-of-distribution generalization, scaling properties, learning speed, and interpretability. A key intuition behind the success of such systems is that the data generating system for most real-world settings is considered to consist of sparsely  Cites: GLaM: Efficient Scaling of Language Models with Mixture-of-Experts
+--- 
+layout: post 
+title: "Is a Modular Architecture Enough?" 
+date: 2022-06-10 22:27:43 -0400 
+categories: jekyll update 
+author: "S Mittal, Y Bengio, G Lajoie - arXiv preprint arXiv:2206.02713, 2022" 
+--- 
+Inspired from human cognition, machine learning systems are gradually revealing advantages of sparser and more modular architectures. Recent work demonstrates that not only do some modular architectures generalize well, but they also lead to better out-of-distribution generalization, scaling properties, learning speed, and interpretability. A key intuition behind the success of such systems is that the data generating system for most real-world settings is considered to consist of sparsely Cites: GLaM: Efficient Scaling of Language Models with Mixture-of-Experts
