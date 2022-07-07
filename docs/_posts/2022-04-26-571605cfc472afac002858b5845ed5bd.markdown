@@ -1,8 +1,0 @@
----
-layout: post
-title:  "EHR Foundation Models Improve Robustness in the Presence of Temporal Distribution Shift"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "LL Guo, E Steinberg, SL Fleming, J Posada, J Lemmon - medRxiv, 2022"
----
-Background: Temporal distribution shift negatively impacts the performance of clinical prediction models over time. Pretraining foundation models using self- supervised learning on electronic health records (EHR) may be effective in acquiring informative global patterns that can improve the robustness of task-specific models. Objective: To evaluate the utility of EHR foundation models in improving the in- distribution (ID) and out-of-distribution (OOD) performance of clinical prediction Cites: On the opportunities and risks of foundation models

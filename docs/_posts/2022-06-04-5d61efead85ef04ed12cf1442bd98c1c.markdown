@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Regularizing Visual Semantic Embedding with Contrastive Learning for Image-Text Matching"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "Y Liu, H Liu, H Wang, M Liu - IEEE Signal Processing Letters, 2022"
----
-Learning visual semantic embedding for image-text matching has achieved high success by using triplet loss to pull positive image-text pairs which share similar semantic meaning and to push negative image-text pairs which share different semantic meaning. Without modeling constraints from image-image or text-text pairs, the generated visual semantic embedding inevitably faces the problem of semantic misalignments among similar images or among similar texts. To solve this problem … Cites: ‪Vinvl: Revisiting visual representations in vision-language models‬

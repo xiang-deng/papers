@@ -1,8 +1,0 @@
----
-layout: post
-title:  "End‐to‐end waveform level receiver with deep learning"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "Z Zhu, H Yu, C Shen - IET Communications, 2022"
----
-Numerous researches on communication receiver design with deep learning algorithms have been implemented effectively recently. In this paper, an innovative scheme is proposed to construct an end‐to‐end neural network (NN) receiver to directly recover information bits from unsynchronized waveform sequences. Considering the correlation between samples, multiple bidirectional long‐short term memory (BiLSTM) layers to process oversampled signals. Then, shifted binary cross … Cites: ‪Aligned cross entropy for non-autoregressive machine translation‬

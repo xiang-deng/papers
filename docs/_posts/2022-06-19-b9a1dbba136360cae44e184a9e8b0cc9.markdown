@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Large-Scale Goodness Polarity Lexicons for Community Question Answering"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "Y Kiprov, I Koychev"
----
-We transfer a key idea from the field of sentiment analysis to a new domain: community question answering (cQA). The cQA task we are interested in is the following: given a question and a thread of comments, we want to re-rank the comments, so that the ones that are good answers to the question would be ranked higher than the bad ones. We notice that good vs. bad comments use specific vocabulary and that one can often predict the goodness/badness of a comment even …
-Cites: ‪Feature-rich part-of-speech tagging with a cyclic dependency …‬  

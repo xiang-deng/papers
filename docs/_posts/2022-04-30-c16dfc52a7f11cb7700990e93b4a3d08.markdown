@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Retrieval-Augmented Diffusion Models"
-date:   2022-04-30 03:01:01 -0400
-categories: jekyll update
-author: "A Blattmann, R Rombach, K Oktay, B Ommer - arXiv preprint arXiv:2204.11824, 2022"
----
-Generative image synthesis with diffusion models has recently achieved excellent visual quality in several tasks such as text-based or class-conditional image synthesis. Much of this success is due to a dramatic increase in the computational capacity invested in training these models. This work presents an alternative approach: inspired by its successful application in natural language processing, we propose to complement the diffusion model with a retrieval-based approach and to Cites: Retrieval augmented language model pre-training

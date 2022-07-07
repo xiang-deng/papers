@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Prompt Distribution Learning"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "Y Lu, J Liu, Y Zhang, Y Liu, X Tian - arXiv preprint arXiv:2205.03340, 2022"
----
-We present prompt distribution learning for effectively adapting a pre-trained vision- language model to address downstream recognition tasks. Our method not only learns low-bias prompts from a few samples but also captures the distribution of diverse prompts to handle the varying visual representations. In this way, we provide high-quality task-related content for facilitating recognition. This prompt distribution learning is realized by an efficient approach that learns the output embeddings of Cites: Contrastive learning of medical visual representations from paired

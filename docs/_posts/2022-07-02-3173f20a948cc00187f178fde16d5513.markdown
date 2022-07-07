@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "K Yu, S Ghosh, Z Liu, C Deible, K Batmanghelich - arXiv preprint arXiv:2206.12704, 2022"
----
-Creating a large-scale dataset of abnormality annotation on medical images is a labor-intensive and costly task. Leveraging weak supervision from readily available data such as radiology reports can compensate lack of large-scale data for anomaly detection methods. However, most of the current methods only use image-level pathological observations, failing to utilize the relevant anatomy mentions in reports. Furthermore, Natural Language Processing (NLP)-mined weak labels are noisy due …
-Cites: ‪Entity, relation, and event extraction with contextualized span …‬  

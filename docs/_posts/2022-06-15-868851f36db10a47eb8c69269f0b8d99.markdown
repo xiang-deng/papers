@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Neural Prompt Search"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "Y Zhang, K Zhou, Z Liu - arXiv preprint arXiv:2206.04673, 2022"
----
-The size of vision models has grown exponentially over the last few years, especially after the emergence of Vision Transformer. This has motivated the development of parameter-efficient tuning methods, such as learning adapter layers or visual prompt tokens, which allow a tiny portion of model parameters to be trained whereas the vast majority obtained from pre-training are frozen. However, designing a proper tuning method is non-trivial: one might need to try out a lengthy list of design choices, not to …
-Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬  

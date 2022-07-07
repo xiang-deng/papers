@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Deciding Whether to Ask Clarifying Questions in Large-Scale Spoken Language Understanding"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "JK Kim, G Wang, S Lee, YB Kim - arXiv preprint arXiv:2109.12451, 2021"
----
-A large-scale conversational agent can suffer from understanding user utterances with various ambiguities such as ASR ambiguity, intent ambiguity, and hypothesis ambiguity. When ambiguities are detected, the agent should engage in a clarifying dialog to resolve the ambiguities before committing to actions. However, asking clarifying questions for all the ambiguity occurrences could lead to asking too many questions, essentially hampering the user experience. To trigger clarifying questions Cites: Asking clarification questions in knowledge-based question

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "GPoeT-2: A GPT-2 Based Poem Generator"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "KL Lo, R Ariss, P Kurz - arXiv preprint arXiv:2205.08847, 2022"
----
-This project aims to produce the next volume of machine-generated poetry, a complex art form that can be structured and unstructured, and carries depth in the meaning between the lines. GPoeT-2 is based on fine-tuning a state of the art natural language model (ie GPT-2) to generate limericks, typically humorous structured poems consisting of five lines with a AABBA rhyming scheme. With a two-stage generation system utilizing both forward and reverse language modeling, GPoeT-2 is … Cites: ‪Chinese poetry generation with recurrent neural networks‬

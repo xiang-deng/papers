@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Revisiting ensemble adversarial attack"
-date:   2022-06-08 12:58:29 -0400
-categories: jekyll update
-author: "Z He, W Wang, J Dong, T Tan - Signal Processing: Image Communication, 2022"
----
-Deep neural networks have shown vulnerability to adversarial attacks. Adversarial examples generated with an ensemble of source models can effectively attack unseen target models, posing a security threat to practical applications. In this paper, we investigate the manner of ensemble adversarial attacks from the viewpoint of network gradients with respect to inputs. We observe that most ensemble adversarial attacks simply average gradients of the source models, ignoring their different …
-Cites: ‪Learning transferable architectures for scalable image recognition‬  

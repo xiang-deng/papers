@@ -1,9 +1,0 @@
----
-layout: post
-title:  "2PESNet: Towards Online Processing of Temporal Action Localization"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "YH Kim, S Nam, SJ Kim - Pattern Recognition, 2022"
----
-Existing online video processing methods such as online action detection focus on a frame-level understanding for high responsiveness. However, it has a fundamental limitation in that it lacks instance-level understanding of videos, making it difficult to be applied to higher-level vision tasks. The instance-level action detection, known as Temporal Action Localization (TAL), have limitations when applying to the online settings. In this work, we introduce a new task that aims to detect action instances of …
-Cites: ‪Startnet: Online detection of action start in untrimmed videos‬  

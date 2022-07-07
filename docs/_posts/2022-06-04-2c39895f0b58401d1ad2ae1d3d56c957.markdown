@@ -1,8 +1,0 @@
----
-layout: post
-title:  "LSRML: A Latent Space Regularization based Meta-Learning Framework for MR Image Segmentation"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "B Zhang, Y Tan, H Wang, Z Zhang, X Zhou, J Wu, Y Mi… - Pattern Recognition, 2022"
----
-Data sources for medical image segmentation can be quite extensive, and models trained with data from a source domain may perform poorly on data from the target domain owing to domain shift issues. To overcome the impact of domain shift, we propose a novel meta-learning-based multi-source domain adaptation framework for medical image segmentation. Specifically, we designed a domain discriminator module to produce category prediction over the latent features, and an image … Cites: ‪Multi-Source Domain Adaptation for Text Classification via …‬

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Named Entity Recognition, Multi-Task Learning, Nested Entities, BERT, Arabic NER Corpus"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "M Jarrar, M Khalilia, S Ghanem - arXiv preprint arXiv:2205.09651, 2022"
----
-This paper presents Wojood, a corpus for Arabic nested Named Entity Recognition (NER). Nested entities occur when one entity mention is embedded inside another entity mention. Wojood consists of about 550K Modern Standard Arabic (MSA) and dialect tokens that are manually annotated with 21 entity types including person, organization, location, event and date. More importantly, the corpus is annotated with nested entities instead of the more common flat annotations. The data contains about … Cites: ‪A language-independent neural network for event detection‬

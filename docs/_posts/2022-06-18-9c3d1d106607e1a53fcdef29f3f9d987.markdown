@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Confident Sinkhorn Allocation for Pseudo-Labeling"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "V Nguyen, S Farfade, A Hengel - arXiv preprint arXiv:2206.05880, 2022"
----
-Semi-supervised learning is a critical tool in reducing machine learning s dependence on labeled data. It has, however, been applied primarily to image and language data, by exploiting the inherent spatial and semantic structure therein. These methods do not apply to tabular data because these domain structures are not available. Existing pseudo-labeling (PL) methods can be effective for tabular data but are vulnerable to noise samples and to greedy assignments given a predefined …
-Cites: ‪Deep learning-enabled medical computer vision‬  

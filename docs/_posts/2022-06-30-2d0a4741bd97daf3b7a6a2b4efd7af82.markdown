@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Disentangled Generative Models and Their Applications"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "B Liu - 2022"
----
-Generative models, such as Auto-Encoders, Generative Adversarial Networks, Generative Flows, and Diffusion Models, are fascinating for their ability to synthesis versatile visual and audio information from merely noise. This generative process usually requires a model to perceive and compress high-dimensional data into a compact, low-dimensional latent space, where each dimension encodes some valuable semantic variations in the original data space.
-Cites: ‪Oscar: Object-semantics aligned pre-training for vision-language …‬  

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Ingredient-enriched Recipe Generation from Cooking Videos"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "J Wu, L Pan, J Chen, YG Jiang - Proceedings of the 2022 International Conference on …, 2022"
----
-Cooking video captioning aims to generate the text instructions that describes the cooking procedures presented in the video. Current approaches tend to use large neural models or use more robust feature extractors to increase the expressive ability of features, ignoring the strong correlation between consecutive cooking steps in the video. However, it is intuitive that previous cooking steps can provide clues for the next cooking step. Specially, consecutive cooking steps tend to share the same …
-Cites: ‪End-to-end dense video captioning with masked transformer‬  

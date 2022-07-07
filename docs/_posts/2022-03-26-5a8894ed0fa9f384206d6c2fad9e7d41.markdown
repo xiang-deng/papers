@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Multi-modal learning for predicting the genotype of glioma"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "Y Wei, X Chen, L Zhu, L Zhang, CB Schnlieb, SJ Price - arXiv preprint arXiv , 2022"
----
-The isocitrate dehydrogenase (IDH) gene mutation is an essential biomarker for the diagnosis and prognosis of glioma. It is promising to better predict glioma genotype by integrating focal tumor image and geometric features with brain network features derived from MRI. Convolutions neural networks show reasonable performance in predicting IDH mutation, which, however, cannot learn from non-Euclidean data, eg, geometric and network data. In this study, we propose a multi-modal learning Cites: Contrastive learning of medical visual representations from paired

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "TURJUMAN: A Public Toolkit for Neural Arabic Machine Translation"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "EMB Nagoudi, AR Elmadany, M Abdul-Mageed - arXiv preprint arXiv:2206.03933, 2022"
----
-We present TURJUMAN, a neural toolkit for translating from 20 languages into Modern Standard Arabic (MSA). TURJUMAN exploits the recently-introduced text-to-text Transformer AraT5 model, endowing it with a powerful ability to decode into Arabic. The toolkit offers the possibility of employing a number of diverse decoding methods, making it suited for acquiring paraphrases for the MSA translations as an added value. To train TURJUMAN, we sample from publicly available parallel data …
-Cites: ‪The curious case of neural text degeneration‬  

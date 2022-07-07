@@ -1,8 +1,0 @@
----
-layout: post
-title:  "An Empirical Investigation of Model-to-Model Distribution Shifts in Trained Convolutional Filters"
-date:   2022-01-06 10:02:50 -0400
-categories: jekyll update
-author: "P Gavrikov, J Keuper - NeurIPS 2021 Workshop on Distribution Shifts , 2021"
----
-We present first empirical results from our ongoing investigation of distribution shifts in image data used for various computer vision tasks. Instead of analyzing the original training and test data, we propose to study shifts in the learned weights of trained models. In this work, we focus on the properties of the distributions of dominantly used 3x3 convolution filter kernels. We collected and publicly provide a data set with over half a billion filters from hundreds of trained CNNs, using a wide Cites: Wilds: A benchmark of in-the-wild distribution shifts

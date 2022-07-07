@@ -1,9 +1,0 @@
----
-layout: post
-title:  "딥러닝을 이용한 매복 정중과잉치의 의미적 분할"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "김현태 - 2022"
----
-1. 연구목적 본 연구의 목적은 소아의 파노라마 방사선사진 (panoramic radiographs) 에서 정중과잉치의 위치와 경계를 학습하고 스스로 진단하는 모델을 딥러닝 (deep learning) 알고리즘을 활용하여 개발하고 그 성능을 평가하는 것이다. 2. 연구재료 및 방법 850 개의 소아 환자의 파노라마 방사선사진을 대상으로 연구를 시행하였다. 의미적 분할 (Semantic segmentation) 기법을 사용하여 정중과잉치를 진단하고 분할하기 위해 U-Net 알고리즘을 사용하였다. 학습 효과를 비교하기 위해 인코더로 …
-Cites: ‪Deep learning-enabled medical computer vision‬  

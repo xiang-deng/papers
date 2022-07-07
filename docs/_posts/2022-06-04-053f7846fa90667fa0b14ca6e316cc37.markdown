@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Benchmarking the Robustness of LiDAR-Camera Fusion for 3D Object Detection"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "K Yu, T Tao, H Xie, Z Lin, Z Wu, Z Xia, T Liang, H Sun… - arXiv preprint arXiv …, 2022"
----
-There are two critical sensors for 3D perception in autonomous driving, the camera and the LiDAR. The camera provides rich semantic information such as color, texture, and the LiDAR reflects the 3D shape and locations of surrounding objects. People discover that fusing these two modalities can significantly boost the performance of 3D perception models as each modality has complementary information to the other. However, we observe that current datasets are captured … Cites: ‪DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object …‬

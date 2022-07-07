@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Neural Token Segmentation for High Token-Internal Complexity"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "I Brusilovsky, R Tsarfaty - arXiv preprint arXiv:2203.10845, 2022"
----
-Tokenizing raw texts into word units is an essential pre-processing step for critical tasks in the NLP pipeline such as tagging, parsing, named entity recognition, and more. For most languages, this tokenization step straightforward. However, for languages with high token-internal complexity, further token-to-word segmentation is required. Previous canonical segmentation studies were based on character-level frameworks, with no contextualised representation involved. Contextualized vectors Cites: Universal dependencies v2: An evergrowing multilingual treebank

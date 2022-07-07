@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Residue-Based Natural Language Adversarial Attack Detection"
-date:   2022-04-23 07:54:44 -0400
-categories: jekyll update
-author: "V Raina, M Gales"
----
-Deep learning based systems are susceptible to adversarial attacks, where a small, imperceptible change at the input alters the model prediction. However, to date the majority of the approaches to detect these attacks have been designed for image processing systems. Many popular image adversarial detection approaches are able to identify adversarial examples from embedding feature spaces, whilst in the NLP domain existing state of the art detection approaches solely focus on input text Cites: Semantically Equivalent Adversarial Rules for Debugging NLP

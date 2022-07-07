@@ -1,9 +1,0 @@
----
-layout: post
-title:  "DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "X Sun, P Hu, K Saenko - arXiv preprint arXiv:2206.09541, 2022"
----
-Solving multi-label recognition (MLR) for images in the low-label regime is a challenging task with many real-world applications. Recent work learns an alignment between textual and visual spaces to compensate for insufficient image labels, but loses accuracy because of the limited amount of available MLR annotations. In this work, we utilize the strong alignment of textual and visual features pretrained with millions of auxiliary image-text pairs and propose Dual Context Optimization …
-Cites: ‪Robust fine-tuning of zero-shot models‬  

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Bayesian Low-rank Matrix Completion with Dual-graph Embedding: Prior Analysis and Tuning-free Inference"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "Y Chen, L Cheng, YC Wu - arXiv preprint arXiv:2203.10044, 2022"
----
-Recently, there is a revival of interest in low-rank matrix completion-based unsupervised learning through the lens of dual-graph regularization, which has significantly improved the performance of multidisciplinary machine learning tasks such as recommendation systems, genotype imputation and image inpainting. While the dual-graph regularization contributes a major part of the success, computational costly hyper-parameter tunning is usually involved. To circumvent such a drawback Cites: Recommender systems with social regularization

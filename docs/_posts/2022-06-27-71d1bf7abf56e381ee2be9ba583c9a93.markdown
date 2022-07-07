@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Jointist: Joint Learning for Multi-instrument Transcription and Its Applications"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "KW Cheuk, K Choi, Q Kong, B Li, M Won, A Hung… - arXiv preprint arXiv …, 2022"
----
-In this paper, we introduce Jointist, an instrument-aware multi-instrument framework that is capable of transcribing, recognizing, and separating multiple musical instruments from an audio clip. Jointist consists of the instrument recognition module that conditions the other modules: the transcription module that outputs instrument-specific piano rolls, and the source separation module that utilizes instrument information and transcription results. The instrument conditioning is designed for an …
-Cites: ‪Codified audio language modeling learns useful representations …‬  

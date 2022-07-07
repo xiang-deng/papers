@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Ensemble learning using individual neonatal data for seizure detection"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "A Borovac, S Gudmundsson, G Thorvardsson - arXiv preprint arXiv , 2022"
----
-Sharing medical data between institutions is difficult in practice due to data protection laws and official procedures within institutions. Therefore, most existing algorithms are trained on relatively small electroencephalogram (EEG) data sets which is likely to be detrimental to prediction accuracy. In this work, we simulate a case when the data can not be shared by splitting the publicly available data set into disjoint sets representing data in individual institutions. We propose to train a (local) detector in Cites: Spectral methods meet EM: A provably optimal algorithm for

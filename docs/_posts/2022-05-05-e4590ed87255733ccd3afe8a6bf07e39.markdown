@@ -1,8 +1,0 @@
----
-layout: post
-title:  "How much context span is enough? Examining context-related issues for document-level MT"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "S Castilho - 2022"
----
-This paper analyses how much context span is necessary to solve different context- related issues, namely, reference, ellipsis, gender, number, lexical ambiguity, and terminology when translating from English into Portuguese. We use the DELA corpus, which consists of 60 documents and six different domains (subtitles, literary, news, reviews, medical, and legislation). We find that the shortest context span to disambiguate issues can appear in different positions in the document including Cites: Do Context-Aware Translation Models Pay the Right Attention?

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "To Find Waldo You Need Contextual Cues: Debiasing Who s Waldo"
-date:   2022-04-04 16:51:29 -0400
-categories: jekyll update
-author: "Y Luo, P Banerjee, T Gokhale, Y Yang, C Baral - arXiv preprint arXiv:2203.16682, 2022"
----
-We present a debiased dataset for the Person-centric Visual Grounding (PCVG) task first proposed by Cui et al.(2021) in the Who s Waldo dataset. Given an image and a caption, PCVG requires pairing up a person s name mentioned in a caption with a bounding box that points to the person in the image. We find that the original Who s Waldo dataset compiled for this task contains a large number of biased samples that are solvable simply by heuristic methods; for instance, in many cases the first name Cites: Adversarial filters of dataset biases

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "uSystolic: Byte-Crawling Unary Systolic Array"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "D Wu, J San Miguel - 2022 IEEE International Symposium on High …, 2022"
----
-General matrix multiply (GEMM) is an important operation in broad applications, especially the thriving deep neural networks. To achieve low power consumption for GEMM, researchers have already leveraged unary computing, which manipulates bitstreams with extremely simple logic. However, existing unary architectures are not well generalizable to varying GEMM configurations in versatile applications and incompatible to the binary computing stack, imposing challenges to execute unary … Cites: ‪Regularized evolution for image classifier architecture search‬

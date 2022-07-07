@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Large Language Models are Zero-Shot Clinical Information Extractors"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "M Agrawal, S Hegselmann, H Lang, Y Kim, D Sontag - arXiv preprint arXiv …, 2022"
----
-We show that large language models, such as GPT-3, perform well at zero-shot information extraction from clinical text despite not being trained specifically for the clinical domain. We present several examples showing how to use these models as tools for the diverse tasks of (i) concept disambiguation,(ii) evidence extraction,(iii) coreference resolution, and (iv) concept extraction, all on clinical text. The key to good performance is the use of simple task-specific programs that map from the … Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Reliable Visual Question Answering: Abstain Rather Than Answer Incorrectly"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "V Shakib, S Whitehead, S Petryk, J Gonzalez, T Darrell… - 2022"
----
-Abstract Machine learning has advanced dramatically, narrowing the accuracy gap to humans in multimodal tasks like visual question answering (VQA). However, while humans can say “I don t know” when they are uncertain (ie, abstain from answering a question), such ability has been largely neglected in multimodal research, despite the importance of this problem to the usage of VQA in real settings. In this work, we promote a problem formulation for reliable VQA, where we prefer abstention over … Cites: ‪Confidence modeling for neural semantic parsing‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "LGST-Drop: label-guided structural dropout for spatial–temporal convolutional neural networks"
-date:   2022-06-20 23:00:52 -0400
-categories: jekyll update
-author: "H Cui, R Huang, R Zhang, C Huang - Journal of Electronic Imaging, 2022"
----
-Region dropout regularization strategies have proven to be highly effective at improving the generalization performance of convolutional neural networks (CNNs) in a variety of computer vision tasks including image classification, object detection, and semantic segmentation because these strategies enable models to focus on a wider range of image region information. However, for action recognition, models need to be able to extract not only useful spatial information but also important …
-Cites: ‪Autodropout: Learning dropout patterns to regularize deep networks‬  

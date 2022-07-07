@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Constraining word alignments with posterior regularization for label transfer"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "KM Jose, T Gueudre"
----
-Unsupervised word alignments offer a lightweight and interpretable method to transfer labels from high-to low-resource languages, as long as semantically related words have the same label across languages. But such an assumption is often not true in industrial NLP pipelines, where multilingual annotation guidelines are complex and deviate from semantic consistency due to various factors (such as annotation difficulty, conflicting ontology, upcoming feature launches etc.); We … Cites: ‪Guiding semi-supervision with constraint-driven learning‬

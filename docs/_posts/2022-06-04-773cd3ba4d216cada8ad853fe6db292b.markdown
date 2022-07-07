@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "Y Wei, H Hu, Z Xie, Z Zhang, Y Cao, J Bao, D Chen… - arXiv preprint arXiv …, 2022"
----
-Masked image modeling (MIM) learns representations with remarkably good fine-tuning performances, overshadowing previous prevalent pre-training approaches such as image classification, instance contrastive learning, and image-text alignment. In this paper, we show that the inferior fine-tuning performance of these pre-training approaches can be significantly improved by a simple post-processing in the form of feature distillation (FD). The feature distillation converts the old … Cites: ‪Robust fine-tuning of zero-shot models‬

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Conditional Supervised Contrastive Learning for Fair Text Classification"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "J Chi, W Shand, Y Yu, KW Chang, H Zhao, Y Tian - arXiv preprint arXiv:2205.11485, 2022"
----
-Contrastive representation learning has gained much attention due to its superior performance in learning representations from both image and sequential data. However, the learned representations could potentially lead to performance disparities in downstream tasks, such as increased silencing of underrepresented groups in toxicity comment classification. In light of this challenge, in this work, we study learning fair representations that satisfy a notion of fairness known as … Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

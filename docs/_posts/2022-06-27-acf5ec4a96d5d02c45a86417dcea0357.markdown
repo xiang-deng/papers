@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Romantic-Computing"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "E Horishny - arXiv preprint arXiv:2206.11864, 2022"
----
-In this paper we compare various text generation models  ability to write poetry in the style of early English Romanticism. These models include: Character-Level Recurrent Neural Networks with Long Short-Term Memory, Hugging Face s GPT-2, OpenAI s GPT-3, and EleutherAI s GPT-NEO. Quality was measured based syllable count and coherence with the automatic evaluation metric GRUEN. Character-Level Recurrent Neural Networks performed far worse compared to transformer models …
-Cites: ‪Chinese poetry generation with recurrent neural networks‬  

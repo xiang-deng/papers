@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Building an Icelandic Entity Linking Corpus"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "SR Friðriksdóttir, VÁ Eggertsson, BG Jóhannesson… - arXiv preprint arXiv …, 2022"
----
-In this paper, we present the first Entity Linking corpus for Icelandic. We describe our approach of using a multilingual entity linking model (mGENRE) in combination with Wikipedia API Search (WAPIS) to label our data and compare it to an approach using WAPIS only. We find that our combined method reaches 53.9% coverage on our corpus, compared to 30.9% using only WAPIS. We analyze our results and explain the value of using a multilingual system when working with Icelandic. Additionally …
-Cites: ‪Multilingual autoregressive entity linking‬  

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Joint learning of morphology and syntax with cross-level contextual information flow"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "B Can Buglalilar, H Aleçakır, S Manandhar, C Bozşahin - 2022"
----
-We propose an integrated deep learning model for morphological segmentation, morpheme tagging, part-of-speech (POS) tagging, and syntactic parsing onto dependencies, using cross-level contextual information flow for every word, from segments to dependencies, with an attention mechanism at horizontal flow. Our model extends the work of Nguyen and Verspoor (2018) on joint POS tagging and dependency parsing to also include morphological segmentation and morphological … Cites: ‪Dynet: The dynamic neural network toolkit‬

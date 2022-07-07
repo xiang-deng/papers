@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Featurizations Matter: A Multiview Contrastive Learning Approach to Molecular Pretraining"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "Y Zhu, D Chen, Y Du, Y Wang, Q Liu, S Wu - ICML 2022 2nd AI for Science Workshop, 2022"
----
-Molecular representation learning, which aims to automate feature learning for molecules, is a vital task in computational chemistry and drug discovery. Despite rapid advances in molecular pretraining models with various types of featurizations, from SMILES strings, 2D graphs to 3D geometry, there is a paucity of research on how to utilize different molecular featurization techniques to obtain better representations. To bridge that gap, we present a novel multiview contrastive …
-Cites: ‪An investigation of why overparameterization exacerbates …‬  

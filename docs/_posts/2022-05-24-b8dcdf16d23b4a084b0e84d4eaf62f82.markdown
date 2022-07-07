@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Fully Automatic MRI Brain Tumor Segmentation Using Efficient Spatial Attention Convolutional Networks with Composite Loss"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "I Mazumdar, J Mukherjee - Neurocomputing, 2022"
----
-Automatically segmenting tumors from brain magnetic resonance imaging scans is crucial for diagnosis and planning treatment. However, brain tumors are highly diverse in location, contrast, size, and shape, making automatic segmentation extremely challenging. Recent techniques for segmenting brain tumors are mostly built using convolutional neural networks (CNNs). However, most of these existing techniques are inefficient, having slow inference speed and high parameter count … Cites: ‪Espnet: Efficient spatial pyramid of dilated convolutions for …‬

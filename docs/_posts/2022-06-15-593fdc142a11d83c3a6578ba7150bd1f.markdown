@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Augmenting Vision Language Pretraining by Learning Codebook with Visual Semantics"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "X Guo, J Duan, CCJ Kuo, JW Gichoya, I Banerjee"
----
-Language modality within the vision language pretraining framework is innately discretized, endowing each word in the language vocabulary a semantic meaning. In contrast, visual modality is inherently continuous and high-dimensional, which potentially prohibits the alignment as well as fusion between vision and language modalities. We therefore propose to “discretize” the visual representation by joint learning a codebook that imbues each visual token a semantic. We then utilize these …
-Cites: ‪Vinvl: Revisiting visual representations in vision-language models‬  

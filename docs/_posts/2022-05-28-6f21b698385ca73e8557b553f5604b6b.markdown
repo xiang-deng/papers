@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Cross-lingual Lifelong Learning"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "M M hamdi, X Ren, J May - arXiv preprint arXiv:2205.11152, 2022"
----
-The longstanding goal of multi-lingual learning has been to develop a universal cross-lingual model that can withstand the changes in multi-lingual data distributions. However, most existing models assume full access to the target languages in advance, whereas in realistic scenarios this is not often the case, as new languages can be incorporated later on. In this paper, we present the Cross-lingual Lifelong Learning (CLL) challenge, where a model is continually fine-tuned to adapt to … Cites: ‪Adapterhub: A framework for adapting transformers‬

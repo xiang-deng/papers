@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Multi-level Context Features Extraction for Named Entity Recognition"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "J Chang, X Han - Computer Speech & Language, 2022"
----
-Bidirectional long short-term memory (Bi-LSTM), as one of the effective networks for sequence labeling tasks, is widely used in named entity recognition (NER). However, the sequential nature of Bi-LSTM and the inability to recognize multiple sentences at the same time make it impossible to obtain overall information. In this paper, to make up for the shortcomings of Bi-LSTM in extracting global information, we propose a hierarchical context model embedded with sentence-level and document-level …
-Cites: ‪Deep contextualized word representations‬  

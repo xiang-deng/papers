@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Fast and accurate variable batch size convolution neural network training on large scale distributed systems"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "Z Hu, J Xiao, N Sun, G Tan - Concurrency and Computation: Practice and …"
----
-Large‐scale distributed convolution neural network (CNN) training brings two performance challenges: model performance and system performance. Large batch size usually leads to model test accuracy loss, which counteracts the benefits of parallel SGD. The existing solutions require massive hyperparameter hand‐tuning. To overcome this difficult, we analyze the training process and find that earlier training stages are more sensitive to batch size. Accordingly, we assert that different …
-Cites: ‪Imagenet: A large-scale hierarchical image database, 2009‬  

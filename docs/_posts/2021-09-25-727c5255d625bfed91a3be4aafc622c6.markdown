@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Continuous Streaming Multi-Talker ASR with Dual-path Transducers"
-date:   2021-09-25 18:07:15 -0400
-categories: jekyll update
-author: "D Raj, L Lu, Z Chen, Y Gaur, J Li - arXiv preprint arXiv:2109.08555, 2021"
----
-Streaming recognition of multi-talker conversations has so far been evaluated only for 2-speaker single-turn sessions. In this paper, we investigate it for multi-turn meetings containing multiple speakers using the Streaming Unmixing and Recognition Transducer (SURT) model, and show that naively extending the single- turn model to this harder setting incurs a performance penalty. As a solution, we propose the dual-path (DP) modeling strategy first used for time-domain speech Cites: Blockwise Self-Attention for Long Document Understanding

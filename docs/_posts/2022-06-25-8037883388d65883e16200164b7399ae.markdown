@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Matrix and Double-Array Representations for Efficient Finite State Tokenization"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "N Diewald"
----
-This paper presents an algorithm and an implementation for efficient tokenization of texts of space-delimited languages based on a deterministic finite state automaton. Two representations of the underlying data structure are presented and a model implementation for German is compared with state-of-the-art approaches. The presented solution is faster than other tools while maintaining comparable quality.
-Cites: ‪Fast wordpiece tokenization‬  

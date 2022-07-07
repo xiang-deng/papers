@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "Y Wang, D Beck, T Baldwin, K Verspoor - Transactions of the Association for …, 2022"
----
-State-of-the-art classification and regression models are often not well calibrated, and cannot reliably provide uncertainty estimates, limiting their utility in safety-critical applications such as clinical decision-making. While recent work has focused on calibration of classifiers, there is almost no work in NLP on calibration in a regression setting. In this paper, we quantify the calibration of pre-trained language models for text regression, both intrinsically and extrinsically. We further apply uncertainty …
-Cites: ‪Calibration of Pre-trained Transformers‬  

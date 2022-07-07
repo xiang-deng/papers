@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Improving Stack Overflow question title generation with copying enhanced CodeBERT model and bi-modal information"
-date:   2021-10-02 23:22:46 -0400
-categories: jekyll update
-author: "F Zhang, J Keung, X Yu, Z Xie, Z Yang, C Ma, Z Zhang - arXiv preprint arXiv , 2021"
----
-Context: Stack Overflow is very helpful for software developers who are seeking answers to programming problems. Previous studies have shown that a growing number of questions are of low-quality and thus obtain less attention from potential answerers. Gao et al. proposed a LSTM-based model (ie, BiLSTM-CC) to automatically generate question titles from the code snippets to improve the question quality. However, only using the code snippets in question body cannot provide Cites: Codebert: A pre-trained model for programming and natural

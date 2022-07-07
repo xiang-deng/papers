@@ -1,8 +1,0 @@
----
-layout: post
-title:  "AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "S Chen, C Ge, Z Tong, J Wang, Y Song, J Wang, P Luo - arXiv preprint arXiv …, 2022"
----
-Although the pre-trained Vision Transformers (ViTs) achieved great success in computer vision, adapting a ViT to various image and video tasks is challenging because of its heavy computation and storage burdens, where each model needs to be independently and comprehensively fine-tuned to different tasks, limiting its transferability in different domains. To address this challenge, we propose an effective adaptation approach for Transformer, namely AdaptFormer, which can … Cites: ‪Towards a unified view of parameter-efficient transfer learning‬

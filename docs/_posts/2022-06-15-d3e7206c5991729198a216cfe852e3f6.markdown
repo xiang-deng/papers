@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Local Spatiotemporal Representation Learning for Longitudinally-consistent Neuroimage Analysis"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "M Ren, N Dey, MA Styner, K Botteron, G Gerig - arXiv preprint arXiv:2206.04281, 2022"
----
-Recent self-supervised advances in medical computer vision exploit global and local anatomical self-similarity for pretraining prior to downstream tasks such as segmentation. However, current methods assume iid image acquisition, which is invalid in clinical study designs where follow-up longitudinal scans track subject-specific temporal changes. Further, existing self-supervised methods for medically-relevant image-to-image architectures exploit only spatial or temporal self-similarity …
-Cites: ‪Connect, not collapse: Explaining contrastive learning for …‬  

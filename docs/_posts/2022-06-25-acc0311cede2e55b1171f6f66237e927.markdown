@@ -1,9 +1,0 @@
----
-layout: post
-title:  "ET tu, CLIP? Addressing Common Object Errors for Unseen Environments"
-date:   2022-06-25 08:25:58 -0400
-categories: jekyll update
-author: "YW Byun, C Jiao, S Noroozizadeh, J Sun, R Vitiello"
----
-We introduce a simple method that employs pre-trained CLIP encoders to enhance model generalization in the ALFRED task. In contrast to previous literature where CLIP replaces the visual encoder, we suggest using CLIP as an additional module through an auxiliary object detection objective. We validate our method on the recently proposed Episodic Transformer architecture and demonstrate that incorporating CLIP improves task performance on the unseen validation set …
-Cites: ‪Language grounding with 3D objects‬  

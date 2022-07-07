@@ -1,9 +1,0 @@
----
-layout: post
-title:  "NAMED ENTITY RECOGNITION EXPLOITING SUBWORD INFORMATION"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "P DOBROVODSKÝ"
----
-The aim of this thesis is the creation of a Named Entity Recognition system based on an older state-of-the-art model and studying how subword information can improve the recognition of out-of-vocabulary words. This proposed system besides English has to support two additional Indo-European languages: German and Hungarian. This work features a named entity tagger based on deep learning using pretrained and custom-trained word embeddings, sparse features, and character embeddings …
-Cites: ‪Deep contextualized word representations‬  

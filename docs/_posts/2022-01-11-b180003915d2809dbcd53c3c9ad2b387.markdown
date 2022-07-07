@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Self-Attention Networks and Adaptive Support Vector Machine for Aspect-Level Sentiment Classification"
-date:   2022-01-11 11:24:28 -0400
-categories: jekyll update
-author: "M Liu, F Zhou, JK He, K Chen, Y Zhao, HC Sun - 2022"
----
-Aspect-level sentiment classification aims to integrating the context to predict the sentiment polarity of aspect-specific in a text, which has been quite useful and popular, eg opinion survey and products  recommending in ecommerce. Many recent studies exploit a Long Short-Term Memory (LSTM) networks to perform aspect-level sentiment classification, but the limitation of long-term dependencies is not solved well, so that the semantic correlations between each two words of the text are Cites: Effective LSTMs for target-dependent sentiment classification

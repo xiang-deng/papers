@@ -1,8 +1,0 @@
----
-layout: post
-title:  "On the Transferability of Pre-trained Language Models for Low-Resource Programming Languages"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "F Chen, F Fard, D Lo, T Bryksin - arXiv preprint arXiv:2204.09653, 2022"
----
-A recent study by Ahmed and Devanbu reported that using a corpus of code written in multilingual datasets to fine-tune multilingual Pre-trained Language Models (PLMs) achieves higher performance as opposed to using a corpus of code written in just one programming language. However, no analysis was made with respect to fine- tuning monolingual PLMs. Furthermore, some programming languages are inherently different and code written in one language usually cannot be interchanged Cites: Incorporating External Knowledge through Pre-training for Natural

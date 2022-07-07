@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A BERT s Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models"
-date:   2022-07-02 02:42:16 -0400
-categories: jekyll update
-author: "A Walsh, T Lynn, J Foster"
----
-This paper reports on the investigation of using pre-trained language models for the identification of Irish verbal multiword expressions (vMWEs), comparing the results with the systems submitted for the PARSEME shared task edition 1.2. We compare the use of a monolingual BERT model for Irish (gaBERT) with multilingual BERT (mBERT), fine-tuned to perform MWE identification, presenting a series of experiments to explore the impact of hyperparameter tuning and dataset optimisation …
-Cites: ‪Recent advances in natural language processing via large pre …‬  

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Evolved Optimizer for Vision"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "X Chen, C Liang, D Huang, E Real, Y Liu, K Wang… - First Conference on …, 2022"
----
-We present an optimizer, LION (EvoLved SIgn MOmeNtum), discovered by evolutionary search from basic math operations for training vision models. It keeps track of only momentum and leverages the sign operation to calculate the update to the weights. Despite the simplicity, LION outperforms the commonly used optimizer, such as AdamW and SGD with momentum, for training a variety of vision models on different tasks. Notably, it improves the accuracy of Vision Transformer for up to 2 … Cites: ‪Randaugment: Practical automated data augmentation with a …‬

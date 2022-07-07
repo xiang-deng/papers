@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Repairing Adversarial Texts through Perturbation"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "G Dong, J Wang, J Sun, S Chattopadhyay, X Wang - arXiv preprint arXiv , 2021"
----
-It is known that neural networks are subject to attacks through adversarial perturbations, ie, inputs which are maliciously crafted through perturbations to induce wrong predictions. Furthermore, such attacks are impossible to eliminate, ie, the adversarial perturbation is still possible after applying mitigation methods such as adversarial training. Multiple approaches have been developed to detect and reject such adversarial inputs, mostly in the image domain. Rejecting suspicious inputs Cites: Document modeling with gated recurrent neural network for

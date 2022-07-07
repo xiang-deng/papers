@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Efficient learning with privileged information in nonlinear time series"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "B Jung - 2022"
----
-In domains where sample sizes are limited, efficient learning algorithms are critical. Learning using privileged information (LuPI) offers increased sample efficiency by allowing prediction models access to information at training time that is unavailable when the models are used. In recent work, it was shown that for prediction in linear-Gaussian dynamical systems, a LuPI learner with access to intermediate time series data is never worse and often better in expectation than any unbiased classical …
-Cites: ‪Representation Learning for Natural Language Processing‬  

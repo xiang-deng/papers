@@ -1,8 +1,0 @@
----
-layout: post
-title:  "基于时间关系的 Bi-LSTM+ GCN 因果关系抽取"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "郑余祥， 左祥麟， 左万利， 梁世宁， 王英 - 吉林大学学报 (理学版), 2021"
----
-针对传统时间关系只应用在机器学习方向关系抽取的问题, 提出一种基于序列标注实体识别的关系抽取方法. 先构建双向长短期记忆网络(Bi-LSTM) 模型进行特征提取, 再输入时间关系作为特征矩阵进行图卷积. 实验结果表明: 时间关系能提高因果关系抽取效果, 并且包含时间关系的Bi-LSTM+ GCN 模型能有效抽取因果事件; 带有时间关系的Bi-LSTM+ GCN 模型获得因果关系的抽取结果优于传统方法因果关系的抽取结果. Cites: ‪Joint reasoning for temporal and causal relations‬

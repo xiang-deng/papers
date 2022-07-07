@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Ore Detection Method Based on YOLOv4"
-date:   2022-07-06 06:18:13 -0400
-categories: jekyll update
-author: "T Wang - 3D Imaging—Multidimensional Signal Processing and …, 2022"
----
-Traditional ore identification methods usually analyze the physical or chemical properties of ore samples and get conclusions, but those methods are not efficient when faced with large quantities of samples. In this paper, the YOLOv4 object detection algorithm is introduced and trained as a classifier of 7 common ores, which can make classification and position prediction for the image of different kinds of ore samples. The model has a high recognition accuracy, and the loss function is easy to …
-Cites: ‪Augmentation for small object detection‬  

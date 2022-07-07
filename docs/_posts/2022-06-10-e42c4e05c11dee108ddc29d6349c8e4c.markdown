@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Simple but effective: Clip embeddings for embodied ai"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "A Khandelwal, L Weihs, R Mottaghi, A Kembhavi - … of the IEEE/CVF Conference on …, 2022"
----
-Contrastive language image pretraining (CLIP) encoders have been shown to be beneficial for a range of visual tasks from classification and detection to captioning and image manipulation. We investigate the effectiveness of CLIP visual backbones for Embodied AI tasks. We build incredibly simple baselines, named EmbCLIP, with no task specific architectures, inductive biases (such as the use of semantic maps), auxiliary tasks during training, or depth maps--yet we find that our improved …
-Cites: ‪Alfred: A benchmark for interpreting grounded instructions for …‬  

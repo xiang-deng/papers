@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Pre-training Data Quality and Quantity for a Low-Resource Language: New Corpus and BERT Models for Maltese"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "K Micallef, A Gatt, M Tanti, L van der Plas, C Borg - arXiv preprint arXiv:2205.10517, 2022"
----
-Multilingual language models such as mBERT have seen impressive cross-lingual transfer to a variety of languages, but many languages remain excluded from these models. In this paper, we analyse the effect of pre-training with monolingual data for a low-resource language that is not included in mBERT--Maltese--with a range of pre-training set ups. We conduct evaluations with the newly pre-trained models on three morphosyntactic tasks--dependency parsing, part-of-speech tagging, and named … Cites: ‪Specializing Multilingual Language Models: An Empirical Study‬

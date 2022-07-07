@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "Z Wang, M Li, R Xu, L Zhou, J Lei, X Lin, S Wang… - arXiv preprint arXiv …, 2022"
----
-The goal of this work is to build flexible video-language models that can generalize to various video-to-text tasks from few examples, such as domain-specific captioning, question answering, and future event prediction. Existing few-shot video-language learners focus exclusively on the encoder, resulting in the absence of a video-to-text decoder to handle generative tasks. Video captioners have been pretrained on large-scale video-language datasets, but they rely heavily on finetuning and lack the ability … Cites: ‪Finetuned language models are zero-shot learners‬

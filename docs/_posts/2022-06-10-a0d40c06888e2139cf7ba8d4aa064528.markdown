@@ -1,8 +1,0 @@
----
-layout: post
-title:  "LegoNN: Building Modular Encoder-Decoder Models"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "S Dalmia, D Okhonko, M Lewis, S Edunov, S Watanabe… - arXiv preprint arXiv …, 2022"
----
-State-of-the-art encoder-decoder models (eg for machine translation (MT) or speech recognition (ASR)) are constructed and trained end-to-end as an atomic unit. No component of the model can be (re-) used without the others. We describe LegoNN …

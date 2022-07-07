@@ -1,9 +1,0 @@
----
-layout: post
-title:  "DRAFT: A Novel Framework to Reduce Domain Shifting in Self-supervised Learning and Its Application to Children s ASR"
-date:   2022-06-19 07:39:02 -0400
-categories: jekyll update
-author: "R Fan, A Alwan - arXiv preprint arXiv:2206.07931, 2022"
----
-Self-supervised learning (SSL) in the pretraining stage using un-annotated speech data has been successful in low-resource automatic speech recognition (ASR) tasks. However, models trained through SSL are biased to the pretraining data which is usually different from the data used in finetuning tasks, causing a domain shifting problem, and thus resulting in limited knowledge transfer. We propose a novel framework, domain responsible adaptation and finetuning (DRAFT), to reduce …
-Cites: ‪Bigssl: Exploring the frontier of large-scale semi-supervised …‬  

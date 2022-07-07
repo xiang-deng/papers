@@ -1,8 +1,0 @@
----
-layout: post
-title:  "HIT&QMUL at SemEval-2022 Task 9: Label-Enclosed Generative Question Answering (LEG-QA)"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "W Zhai, M Feng, A Zubiaga, B Liu"
----
-This paper presents the second place system for the R2VQ: competence-based multimodal question answering shared task. The task consisted in building question answering systems that could process procedural recipes involving both text and image, and enriched with semantic and cooking roles. We tackled the task by using a text-to-text generative model based on the transformer architecture, with the aim of generalising across different question types. Our proposed architecture incorporates … Cites: ‪Jointly predicting predicates and arguments in neural semantic …‬

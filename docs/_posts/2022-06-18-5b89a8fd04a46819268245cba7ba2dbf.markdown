@@ -1,9 +1,0 @@
----
-layout: post
-title:  "TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "D Kang, J Guibas, PD Bailis, T Hashimoto, M Zaharia - Proceedings of the 2022 …, 2022"
----
-Unstructured data (eg, video or text) is now commonly queried by using computationally expensive deep neural networks or human labelers to produce structured information, eg, object types and positions in video. To accelerate queries, many recent systems (eg, BlazeIt, NoScope, Tahoma, SUPG, etc.) train a query-specific proxy model to approximate a large target labelers (ie, these expensive neural networks or human labelers). These models return proxy scores that are then …
-Cites: ‪Miris: Fast object track queries in video‬  

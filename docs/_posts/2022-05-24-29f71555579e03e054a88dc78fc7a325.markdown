@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Masked Autoencoders As Spatiotemporal Learners"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "C Feichtenhofer, H Fan, Y Li, K He - arXiv preprint arXiv:2205.09113, 2022"
----
-This paper studies a conceptually simple extension of Masked Autoencoders (MAE) to spatiotemporal representation learning from videos. We randomly mask out spacetime patches in videos and learn an autoencoder to reconstruct them in pixels. Interestingly, we show that our MAE method can learn strong representations with almost no inductive bias on spacetime (only except for patch and positional embeddings), and spacetime-agnostic random masking performs the best. We … Cites: ‪VIMPAC: Video Pre-Training via Masked Token Prediction and …‬

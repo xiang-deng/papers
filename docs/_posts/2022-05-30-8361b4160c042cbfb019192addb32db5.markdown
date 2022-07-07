@@ -1,8 +1,0 @@
----
-layout: post
-title:  "End-to-End Multimodal Fact-Checking and Explanation Generation: A Challenging Dataset and Models"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "BM Yao, A Shah, L Sun, JH Cho, L Huang - arXiv preprint arXiv:2205.12487, 2022"
----
-We propose the end-to-end multimodal fact-checking and explanation generation, where the input is a claim and a large collection of web sources, including articles, images, videos, and tweets, and the goal is to assess the truthfulness of the claim by retrieving relevant evidence and predicting a truthfulness label (ie, support, refute and not enough information), and generate a rationalization statement to explain the reasoning and ruling process. To support this research, we construct Mocheg, a … Cites: ‪Generating fact checking briefs‬

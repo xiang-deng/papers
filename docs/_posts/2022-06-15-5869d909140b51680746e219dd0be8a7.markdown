@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Supplementary Materials for VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "YL Sung, J Cho, M Bansal"
----
-We perform an extensive hyper-parameter search for our models. See Appendix E for details. We use AdamW to train the model, unless we additionally specify and apply a linear decay scheduler. We train the models for 20/7 epochs for image …

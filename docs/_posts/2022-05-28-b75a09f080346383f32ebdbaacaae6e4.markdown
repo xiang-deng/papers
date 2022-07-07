@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A spatio-temporal LSTM model to forecast across multiple temporal and spatial scales"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "F O Donncha, Y Hu, P Palmes, M Burke, R Filgueira… - Ecological Informatics, 2022"
----
-This paper presents a novel spatio-temporal LSTM (SPATIAL) architecture for time series forecasting applied to environmental datasets. The framework was applied for three different ocean datasets: current speed, temperature, and dissolved oxygen. Network implementation proceeded in two directions that are nominally separated but connected as part of a natural environmental system–across the spatial (between individual sensors) and temporal dimensions of the sensor data. Data from twenty … Cites: ‪AlphaD3M: Machine learning pipeline synthesis‬

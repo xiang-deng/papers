@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Extract Dynamic Information To Improve Time Series Modeling: a Case Study with Scientific Workflow"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "J Kim, M Jin, Y Homma, A Sim, W Kroeger, K Wu - arXiv preprint arXiv:2205.09703, 2022"
----
-In modeling time series data, we often need to augment the existing data records to increase the modeling accuracy. In this work, we describe a number of techniques to extract dynamic information about the current state of a large scientific workflow, which could be generalized to other types of applications. The specific task to be modeled is the time needed for transferring a file from an experimental facility to a data center. The key idea of our approach is to find recent past data transfer events … Cites: ‪Input selection for fast feature engineering‬

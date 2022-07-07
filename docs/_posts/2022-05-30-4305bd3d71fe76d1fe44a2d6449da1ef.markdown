@@ -1,8 +1,0 @@
----
-layout: post
-title:  "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird s-Eye View Representation"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "Z Liu, H Tang, A Amini, X Yang, H Mao, D Rus, S Han - arXiv preprint arXiv …, 2022"
----
-Multi-sensor fusion is essential for an accurate and reliable autonomous driving system. Recent approaches are based on point-level fusion: augmenting the LiDAR point cloud with camera features. However, the camera-to-LiDAR projection throws away the semantic density of camera features, hindering the effectiveness of such methods, especially for semantic-oriented tasks (such as 3D scene segmentation). In this paper, we break this deeply-rooted convention with BEVFusion, an efficient and … Cites: ‪DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object …‬

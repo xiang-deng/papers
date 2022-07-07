@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Coarse-to-Fine Visual Question Answering by Iterative, Conditional Refinement"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "GJ Burghouts, W Huizinga - International Conference on Image Analysis and …, 2022"
----
-Abstract Visual Question Answering (VQA) is a very interesting technique to answer natural language questions about an image. Recent methods have focused on incorporating knowledge into an improved VQA model, by augmenting the training set, representing scene graphs, or including reasoning. We also leverage knowledge to make VQA more robust. Yet we take a different route: we take the VQA model as-is and extend it with a novel algorithm called Guided-VQA that guides the questioning … Cites: ‪GQA: A new dataset for real-world visual reasoning and …‬

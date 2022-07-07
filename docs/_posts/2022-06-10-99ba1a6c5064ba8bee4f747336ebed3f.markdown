@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Heroes, Villains, and Victims, and GPT-3"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "D Stammbach, M Antoniak, E Ash"
----
-This paper shows how to use large-scale pretrained language models to extract character roles from narrative texts without domainspecific training data. Queried with a zero-shot question-answering prompt, GPT-3 can identify the hero, villain, and victim in diverse domains: newspaper articles, movie plot summaries, and political speeches.
-Cites: â€ªPalm: Scaling language modeling with pathwaysâ€¬  

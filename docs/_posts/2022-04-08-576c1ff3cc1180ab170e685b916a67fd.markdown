@@ -1,8 +1,0 @@
----
-layout: post
-title:  "MultiMAE: Multi-modal Multi-task Masked Autoencoders"
-date:   2022-04-08 14:57:15 -0400
-categories: jekyll update
-author: "R Bachmann, D Mizrahi, A Atanov, A Zamir - arXiv preprint arXiv:2204.01678, 2022"
----
-We propose a pre-training strategy called Multi-modal Multi-task Masked Autoencoders (MultiMAE). It differs from standard Masked Autoencoding in two key aspects: I) it can optionally accept additional modalities of information in the input besides the RGB image (hence  multi-modal ), and II) its training objective accordingly includes predicting multiple outputs besides the RGB image (hence multi-task ). We make use of masking (across image patches and input modalities) to Cites: Electra: Pre-training text encoders as discriminators rather than

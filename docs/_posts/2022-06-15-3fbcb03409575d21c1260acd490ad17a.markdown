@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Data-centric serverless cloud architecture"
-date:   2022-06-15 15:55:00 -0400
-categories: jekyll update
-author: "D Ustiugov - 2022"
----
-Serverless has become a new dominant cloud architecture thanks to its high scalability and flexible, pay-as-you-go billing model. In serverless, developers compose their cloud services as a set of functions while providers take responsibility for scaling each function s resources according to traffic changes. Hence, the provider needs to timely spawn, or tear down, function instances (ie, HTTP servers with user-provider handles), which cannot hold state across function invocations …
-Cites: ‪Dbos: A proposal for a data-centric operating system‬  

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Generative design, manufacturing, and molecular modeling of 3D architected materials based on natural language input"
-date:   2022-04-19 07:59:02 -0400
-categories: jekyll update
-author: "YC Hsu, Z Yang, MJ Buehler - APL Materials, 2022"
----
-We describe a method to generate 3D architected materials based on mathematically parameterized human readable word input, offering a direct materialization of language. Our method uses a combination of a vector quantized generative adversarial network and contrastive language-image pre-training neural networks to generate images, which are translated into 3D architectures that are then 3D printed using fused deposition modeling into materials with varying rigidity. The Cites: On the opportunities and risks of foundation models

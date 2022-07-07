@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Learning Advisor Networks for Noisy Image Classification"
-date:   2022-05-25 22:16:33 -0400
-categories: jekyll update
-author: "S Ricci, T Uricchio, AD Bimbo - Image Analysis and Processing–ICIAP 2022: 21st …, 2022"
----
-In this paper, we introduced the novel concept of advisor network to address the problem of noisy labels in image classification. Deep neural networks (DNN) are prone to performance reduction and overfitting problems on training data with noisy annotations. Weighting loss methods aim to mitigate the influence of noisy labels during the training, completely removing their contribution. This discarding process prevents DNNs from learning wrong associations between images and their correct … Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

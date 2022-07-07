@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Large-Scale Graph Neural Architecture Search"
-date:   2022-06-30 03:02:10 -0400
-categories: jekyll update
-author: "C Guan, X Wang, H Chen, Z Zhang, W Zhu"
----
-Abstract Graph Neural Architecture Search (GNAS) has become a powerful method in automatically discovering suitable Graph Neural Network (GNN) architectures for different tasks. However, existing approaches fail to handle large-scale graphs because current performance estimation strategies in GNAS are computationally expensive for largescale graphs and suffer from consistency collapse issues. To tackle these problems, we propose the Graph ArchitectUre Search at Scale (GAUSS) …
-Cites: ‪Regularized evolution for image classifier architecture search‬  

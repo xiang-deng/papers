@@ -1,8 +1,0 @@
----
-layout: post
-title:  "MaChAmp at SemEval-2022 tasks 2, 3, 4, 6, 10, 11, and 12: Multi-task Multi-lingual Learning for a Pre-selected Set of Semantic Datasets"
-date:   2022-06-01 23:51:30 -0400
-categories: jekyll update
-author: "R van der Goot - Proceedings of the 16th International Workshop on …, 2022"
----
-Previous work on multi-task learning in Natural Language Processing (NLP) often incorporated carefully selected tasks as well as carefully tuning of architectures to share information across tasks. Recently, it has shown that for autoregressive language models, a multitask second pre-training step on a wide variety of NLP tasks leads to a set of parameters that more easily adapt for other NLP tasks. In this paper, we examine whether a similar setup can be used in autoencoder language models … Cites: ‪Exploring and predicting transferability across nlp tasks‬

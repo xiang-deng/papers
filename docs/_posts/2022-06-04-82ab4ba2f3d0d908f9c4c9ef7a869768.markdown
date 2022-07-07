@@ -1,8 +1,0 @@
----
-layout: post
-title:  "CyCLIP: Cyclic Contrastive Language-Image Pretraining"
-date:   2022-06-04 01:43:25 -0400
-categories: jekyll update
-author: "S Goel, H Bansal, S Bhatia, RA Rossi, V Vinay… - arXiv preprint arXiv …, 2022"
----
-Recent advances in contrastive representation learning over paired image-text data have led to models such as CLIP that achieve state-of-the-art performance for zero-shot classification and distributional robustness. Such models typically require joint reasoning in the image and text representation spaces for downstream inference tasks. Contrary to prior beliefs, we demonstrate that the image and text representations learned via a standard contrastive objective are not interchangeable … Cites: ‪Combined Scaling for Zero-shot Transfer Learning‬

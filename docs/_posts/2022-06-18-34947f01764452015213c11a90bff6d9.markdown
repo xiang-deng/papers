@@ -1,9 +1,0 @@
----
-layout: post
-title:  "On exploiting Transformers for detecting explicit song lyrics"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "M Rospocher - Entertainment Computing, 2022"
----
-Determining if the lyrics of a given song could be hurtful or inappropriate for children is of utmost importance to prevent the reproduction of songs whose textual content is unsuitable for them. This problem can be computationally tackled as a binary classification task, and in the last couple of years various machine learning approaches have been applied to perform this task automatically. In this work, we investigate the automatic detection of explicit song lyrics by leveraging transformer …
-Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬  

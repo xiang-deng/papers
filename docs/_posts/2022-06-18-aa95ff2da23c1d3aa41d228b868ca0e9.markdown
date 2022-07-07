@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Feature-informed Embedding Space Regularization For Audio Classification"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "YN Hung, A Lerch - arXiv preprint arXiv:2206.04850, 2022"
----
-Feature representations derived from models pre-trained on large-scale datasets have shown their generalizability on a variety of audio analysis tasks. Despite this generalizability, however, task-specific features can outperform if sufficient training data is available, as specific task-relevant properties can be learned. Furthermore, the complex pre-trained models bring considerable computational burdens during inference. We propose to leverage both detailed task-specific features from …
-Cites: ‪Codified audio language modeling learns useful representations …‬  

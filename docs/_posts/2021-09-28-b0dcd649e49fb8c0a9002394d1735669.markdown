@@ -1,8 +1,0 @@
----
-layout: post
-title:  "On the Relationship Between Calibrated Predictors and Unbiased Volume Estimation"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "T Popordanoska, J Bertels, D Vandermeulen, F Maes - International Conference on , 2021"
----
-Abstract Machine learning driven medical image segmentation has become standard in medical image analysis. However, deep learning models are prone to overconfident predictions. This has lead to a renewed focus on calibrated predictions in the medical imaging and broader machine learning communities. Calibrated predictions are estimates of the probability of a label that correspond to the true expected value of the label conditioned on the confidence. Such calibrated Cites: Verified uncertainty calibration

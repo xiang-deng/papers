@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A Multi-Channel Hierarchical Graph Attention Network for Open Event Extraction"
-date:   2022-04-26 05:34:18 -0400
-categories: jekyll update
-author: "Q Wan, C Wan, K Xiao, R Hu, D Liu - ACM Transactions on Information Systems (TOIS , 2022"
----
-Event extraction is an essential task in natural language processing. Although extensively studied, existing work shares issues in three aspects, including (1) the limitations of using original syntactic dependency structure,(2) insufficient consideration of the node level and type information in Graph Attention Network (GAT), and (3) insufficient joint exploitation of the node dependency type and part-of- speech (POS) encoding on the graph structure. To address these issues, we propose Cites: Semi-supervised semantic role labeling with cross-view training

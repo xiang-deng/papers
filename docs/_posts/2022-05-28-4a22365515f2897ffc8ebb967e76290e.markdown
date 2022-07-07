@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Unintended memorisation of unique features in neural networks"
-date:   2022-05-28 02:05:27 -0400
-categories: jekyll update
-author: "J Hartley, SA Tsaftaris - arXiv preprint arXiv:2205.10079, 2022"
----
-Neural networks pose a privacy risk due to their propensity to memorise and leak training data. We show that unique features occurring only once in training data are memorised by discriminative multi-layer perceptrons and convolutional neural networks trained on benchmark imaging datasets. We design our method for settings where sensitive training data is not available, for example medical imaging. Our setting knows the unique feature, but not the training data, model weights or the … Cites: ‪Just train twice: Improving group robustness without training group …‬

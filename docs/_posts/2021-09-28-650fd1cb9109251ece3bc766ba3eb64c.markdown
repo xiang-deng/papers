@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Aspect-Based Sentiment Classification with Background Information and Syntactic Auxiliary Tasks"
-date:   2021-09-28 14:54:04 -0400
-categories: jekyll update
-author: "MF Li, K Zhou, X Li, J Shen - 2021 International Joint Conference on Neural , 2021"
----
-Aspect-based sentiment classification is the task of predicting the sentiment tendency of a text toward a given aspect. Existing works on this task mainly focus on aspect- relevant information. In contrast, we design a model (BAT) which could extract overall Background information as well as Aspect-relevant informaTion. To make the BAT model learn better semantic representation of the given text, we introduce two auxiliary tasks (dependency neighborhood prediction and part-of-speech tagging) Cites: Learning latent opinions for aspect-level sentiment classification

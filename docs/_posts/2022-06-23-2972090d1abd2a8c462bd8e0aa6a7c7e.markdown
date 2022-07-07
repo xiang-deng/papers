@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A Framework for False Negative Detection in NER/NEL"
-date:   2022-06-23 20:09:31 -0400
-categories: jekyll update
-author: "P Chocrón, G de Maeztu - Natural Language Processing and Information Systems"
----
-Finding the false negatives of a NER/NEL system is fundamental to improve it, and is usually done by manual annotation of texts. However, in an environment with a huge volume of unannotated texts (eg a hospital) and a low frequency of positives (eg a mention of a particular disease in the clinical notes) the task becomes very inefficient. This paper presents a framework to tackle this problem: given an existing NER/NEL system, we propose a technique consisting of using text similarity search to rank texts …
-Cites: ‪Towards Universal Paraphrastic Sentence Embeddings‬  

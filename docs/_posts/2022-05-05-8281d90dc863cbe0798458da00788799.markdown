@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Hierarchical Attention Factorization Machine for CTR Prediction"
-date:   2022-05-05 02:23:22 -0400
-categories: jekyll update
-author: "L Long, Y Yin, F Huang - International Conference on Database Systems for , 2022"
----
-Click-through rate (CTR) prediction is a crucial task in recommender systems and online advertising. The most critical step in this task is to perform feature interaction. Factorization machines are proposed to complete the second-order interaction of features to improve the prediction accuracy, but they are not competent for high-order feature interactions. In recent years, many state-of-the-art models employ shallow neural networks to capture high-order feature interactions to improve prediction Cites: Show, Attend and Tell: Neural Image Caption Generation with

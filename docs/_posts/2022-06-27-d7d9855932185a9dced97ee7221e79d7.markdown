@@ -1,9 +1,0 @@
----
-layout: post
-title:  "PSIDP: Unsupervised Deep Hashing with Pretrained Semantic Information Distillation and Preservation"
-date:   2022-06-27 23:23:24 -0400
-categories: jekyll update
-author: "Y Shi, X You, Y Zhao, J Xu, W Ou, F Zheng, Q Peng - Neurocomputing, 2022"
----
-Blending free annotation cost, low memory usage and high query speed into a unity, unsupervised deep hashing has shown extraordinary talents in image retrieval. In order to address the lack of semantic information in unsupervised scenario, related works leverage models pretrained on large-scale datasets (eg, ImageNet) to the estimate semantic similarity for specific datasets (eg, FLICKR-25K). However, most of them discard the original semantic attribute in the pretrained datasets, which results …
-Cites: ‪Ranking on data manifolds.‬  

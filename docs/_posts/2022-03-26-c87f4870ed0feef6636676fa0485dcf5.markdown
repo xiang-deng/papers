@@ -1,8 +1,0 @@
----
-layout: post
-title:  "AraBART: a Pretrained Arabic Sequence-to-Sequence Model for Abstractive Summarization"
-date:   2022-03-26 03:19:20 -0400
-categories: jekyll update
-author: "MK Eddine, N Tomeh, N Habash, JL Roux - arXiv preprint arXiv , 2022"
----
-Like most natural language understanding and generation tasks, state-of-the-art models for summarization are transformer-based sequence-to-sequence architectures that are pretrained on large corpora. While most existing models focused on English, Arabic remained understudied. In this paper we propose AraBART, the first Arabic model in which the encoder and the decoder are pretrained end-to-end, based on BART. We show that AraBART achieves the best performance Cites: Text summarization with pretrained encoders

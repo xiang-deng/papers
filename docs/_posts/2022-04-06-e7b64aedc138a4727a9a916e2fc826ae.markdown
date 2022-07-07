@@ -1,8 +1,0 @@
----
-layout: post
-title:  "TERRAIN SEGMENTATION WITH NEURAL NETWORKS FOR OFF-ROAD APPLICATIONS"
-date:   2022-04-06 16:01:31 -0400
-categories: jekyll update
-author: "E Peltola - 2022"
----
-To successfully move in off-road terrain such as at construction sites or in forests, autonomous mobile machines must be able to identify what they are moving onor at least how challenging it is to move throughand decide if the short way is worth it. Traversability cost maps help in making that decision, and semantic segmentation of images of the terrain help in making the cost maps. It also brings machines more in- depth knowledge about the environments they are in. Semantic image segmentation Cites: Reseg: A recurrent neural network-based model for semantic

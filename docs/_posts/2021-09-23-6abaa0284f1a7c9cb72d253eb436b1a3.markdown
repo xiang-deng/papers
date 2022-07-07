@@ -1,8 +1,0 @@
----
-layout: post
-title:  "To POS Tag or Not to POS Tag: The Impact of POS Tags on Morphological Learning in Low-Resource Settings"
-date:   2021-09-23 17:17:49 -0400
-categories: jekyll update
-author: "SMLL MansHulden"
----
-Abstract Part-of-Speech (POS) tags routinely appear as features in morphological tasks. POS taggers are often one of the first NLP tools developed for low-resource languages. However, as NLP expands to new languages it cannot assume that POS tags will be available to train a POS tagger. This paper empirically examines the impact of POS tags on two morphological tasks with the Transformer architecture. Each task is run twice, once with and once without POS tags, on otherwise identical Cites: Unsupervised morphological segmentation with log-linear models

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Guiding Visual Question Answering with Attention Priors"
-date:   2022-05-30 22:20:45 -0400
-categories: jekyll update
-author: "TM Le, V Le, S Gupta, S Venkatesh, T Tran - arXiv preprint arXiv:2205.12616, 2022"
----
-The current success of modern visual reasoning systems is arguably attributed to cross-modality attention mechanisms. However, in deliberative reasoning such as in VQA, attention is unconstrained at each step, and thus may serve as a statistical pooling mechanism rather than a semantic operation intended to select information relevant to inference. This is because at training time, attention is only guided by a very sparse signal (ie the answer label) at the end of the inference chain. This … Cites: ‪Learning by abstraction: The neural state machine‬

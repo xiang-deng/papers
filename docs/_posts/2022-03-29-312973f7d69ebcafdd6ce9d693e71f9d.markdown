@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Clickbait detection on WeChat: A deep model integrating semantic and syntactic information"
-date:   2022-03-29 11:43:06 -0400
-categories: jekyll update
-author: "T Liu, K Yu, L Wang, X Zhang, H Zhou, X Wu - Knowledge-Based Systems, 2022"
----
-In online social media, there is a large amount of clickbait using various tricks such as curious words and well-designed sentence structures, to attract users to click on hyperlinks for unknown benefits. Clickbait detection aims to detect these hyperlinks through automated algorithms. Previous researches usually focus on the semantic information of the English clickbait corpus. In our paper, we construct a Chinese WeChat clickbait dataset, and propose an effective deep method, ie, multiple Cites: Reasoning over semantic-level graph for fact checking

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "CounterGeDi: A controllable approach to generate polite, detoxified and emotional counterspeech"
-date:   2022-05-14 04:38:21 -0400
-categories: jekyll update
-author: "P Saha, K Singh, A Kumar, B Mathew, A Mukherjee - arXiv preprint arXiv:2205.04304, 2022"
----
-Recently, many studies have tried to create generation models to assist counter speakers by providing counterspeech suggestions for combating the explosive proliferation of online hate. However, since these suggestions are from a vanilla generation model, they might not include the appropriate properties required to counter a particular hate speech instance. In this paper, we propose CounterGeDi-an ensemble of generative discriminators (GeDi) to guide the generation of a DialoGPT Cites: Gedi: Generative discriminator guided sequence generation

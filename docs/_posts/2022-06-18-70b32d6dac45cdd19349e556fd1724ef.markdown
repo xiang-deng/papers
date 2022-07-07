@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Learn2Augment: Learning to Composite Videos for Data Augmentation in Action Recognition"
-date:   2022-06-18 03:19:09 -0400
-categories: jekyll update
-author: "SN Gowda, M Rohrbach, F Keller, L Sevilla-Lara - arXiv preprint arXiv:2206.04790, 2022"
----
-We address the problem of data augmentation for video action recognition. Standard augmentation strategies in video are hand-designed and sample the space of possible augmented data points either at random, without knowing which augmented points will be better, or through heuristics. We propose to learn what makes a good video for action recognition and select only high-quality samples for augmentation. In particular, we choose video compositing of a foreground and a background video as …
-Cites: ‪Randaugment: Practical automated data augmentation with a …‬  

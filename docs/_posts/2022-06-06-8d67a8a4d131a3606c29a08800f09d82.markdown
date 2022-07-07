@@ -1,9 +1,0 @@
----
-layout: post
-title:  "VL-BEiT: Generative Vision-Language Pretraining"
-date:   2022-06-06 21:51:57 -0400
-categories: jekyll update
-author: "H Bao, W Wang, L Dong, F Wei - arXiv preprint arXiv:2206.01127, 2022"
----
-We introduce a vision-language foundation model called VL-BEiT, which is a bidirectional multimodal Transformer learned by generative pretraining. Our minimalist solution conducts masked prediction on both monomodal and multimodal data with a shared Transformer. Specifically, we perform masked vision-language modeling on image-text pairs, masked language modeling on texts, and masked image modeling on images. VL-BEiT is learned from scratch with one unified …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬  

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "The Design of an Oncology Knowledge Base from an Online Health Forum"
-date:   2022-06-01 23:51:30 -0400
-categories: jekyll update
-author: "O Ramadan - 2022"
----
-Knowledge base completion is an important task that allows scientists to reason over knowledge bases and discover new facts. In this thesis, a patient-centric knowledge base is designed and constructed using medical entities and relations extracted from the health forum r/cancer. The knowledge base stores information in binary relation triplets. It is enhanced with an is-a relation that is able to represent the hierarchical relationship between different medical entities. An enhanced Neural Tensor Network … Cites: ‪Learning Entity and Relation Embeddings for Knowledge Graph …‬

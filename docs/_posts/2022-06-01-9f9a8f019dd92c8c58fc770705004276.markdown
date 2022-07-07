@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Face Attribute Analysis from Structured Light: An End-to-End Approach"
-date:   2022-06-01 23:51:30 -0400
-categories: jekyll update
-author: "V Thamizharasan, A Das, D Battaglino, F Bremond…"
----
-In this work we explore the use of structured-light imaging for face analysis. Towards this and due to lack of a publicly available structured-light face dataset, we (a) firstly generate a synthetic structured-light face dataset constructed based on the RGB-dataset London Face and the RGB-D dataset Bosphorus 3D Face. We then (b) propose a conditional adversarial network for depth map estimation from generated synthetic data. Associated quantitative and qualitative results suggest the efficiency … Cites: ‪Convolutional-recursive deep learning for 3d object classification‬

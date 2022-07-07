@@ -1,8 +1,0 @@
----
-layout: post
-title:  "A Vietnamese Answer Extraction Model Based on PhoBERT"
-date:   2022-01-15 10:11:37 -0400
-categories: jekyll update
-author: "CT Nguyen, DT Nguyen - 2021 15th International Conference on Advanced , 2021"
----
-PhoBERT pre-trained models have shown its outperformance in many natural language processing tasks. Fine-tuning PhoBERT models is possibly the efficient way to build Vietnamese deep models for answer extraction. For building a Vietnamese answer extraction model using PhoBERT pre-trained model, we need a large SQuAD style annotated dataset. However, there are existing English annotated datasets for answer extraction task and multilingual BERT models which are possibly Cites: MLQA: Evaluating cross-lingual extractive question answering

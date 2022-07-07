@@ -1,8 +1,0 @@
----
-layout: post
-title:  "The Power of Reuse: A Multi-Scale Transformer Model for Structural Dynamic Segmentation in Symbolic Music Generation"
-date:   2022-05-24 00:00:36 -0400
-categories: jekyll update
-author: "G Wu, S Liu, X Fan - arXiv preprint arXiv:2205.08579, 2022"
----
-Symbolic Music Generation relies on the contextual representation capabilities of the generative model, where the most prevalent approach is the Transformer-based model. Not only that, the learning of long-term context is also related to the dynamic segmentation of musical structures, ie intro, verse and chorus, which is currently overlooked by the research community. In this paper, we propose a multi-scale Transformer, which uses coarse-decoder and fine-decoders to model the contexts at … Cites: ‪Paragraph-level commonsense transformers with recurrent memory‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "cViL: Cross-Lingual Training of Vision-Language Models using Knowledge Distillation"
-date:   2022-06-10 22:27:43 -0400
-categories: jekyll update
-author: "K Gupta, D Gautam, R Mamidi - arXiv preprint arXiv:2206.03354, 2022"
----
-Vision-and-language tasks are gaining popularity in the research community, but the focus is still mainly on English. We propose a pipeline that utilizes English-only vision-language models to train a monolingual model for a target language. We propose to extend OSCAR+, a model which leverages object tags as anchor points for learning image-text alignments, to train on visual question answering datasets in different languages. We propose a novel approach to knowledge distillation to train …
-Cites: ‪The unreasonable effectiveness of data‬  
