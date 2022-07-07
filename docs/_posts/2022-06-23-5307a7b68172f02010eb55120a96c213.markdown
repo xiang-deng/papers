@@ -5,5 +5,4 @@ date:   2022-06-23 20:09:31 -0400
 categories: jekyll update
 author: "C Wang, P Nulty, D Lillis - Natural Language Processing and Information Systems , 2022"
 ---
-Existing Zero-Shot Learning (ZSL) techniques for text classification typically assign a label to a piece of text by building a matching model to capture the semantic similarity between the text and the label descriptor. This is expensive at inference time as it requires the text paired with every label to be passed forward through the matching model. The existing approaches to alleviate this issue are based on exact-word matching between the label surface names and an unlabelled target-domain 
-Cites: Benchmarking zero-shot text classification: Datasets, evaluation
+Existing Zero-Shot Learning (ZSL) techniques for text classification typically assign a label to a piece of text by building a matching model to capture the semantic similarity between the text and the label descriptor. This is expensive at inference time as it requires the text paired with every label to be passed forward through the matching model. The existing approaches to alleviate this issue are based on exact-word matching between the label surface names and an unlabelled target-domain  Cites: Benchmarking zero-shot text classification: Datasets, evaluation

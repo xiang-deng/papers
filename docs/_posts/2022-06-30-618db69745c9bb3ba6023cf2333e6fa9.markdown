@@ -5,5 +5,4 @@ date:   2022-06-30 03:02:10 -0400
 categories: jekyll update
 author: "X You, H Ge, J Han, Y Li, X L - Beijing Da Xue Xue Bao, 2022"
 ---
-Aiming at the characteristics of complex entities in weapons and equipment field, a complex named entity recognition method is proposed which integrates multi-features and mounts the domain knowledge of weapons and equipment. First, we use the BERT model to pre-train on the weapon equipment field data to obtain the data vector, and use the Word2Vec model to learn context features of Zhengma, Wubi, Pinyin, and strokes to obtain the feature vector. Then the data vector and the 
-Cites: Joint mention extraction and classification with mention hypergraphs
+Aiming at the characteristics of complex entities in weapons and equipment field, a complex named entity recognition method is proposed which integrates multi-features and mounts the domain knowledge of weapons and equipment. First, we use the BERT model to pre-train on the weapon equipment field data to obtain the data vector, and use the Word2Vec model to learn context features of Zhengma, Wubi, Pinyin, and strokes to obtain the feature vector. Then the data vector and the  Cites: Joint mention extraction and classification with mention hypergraphs

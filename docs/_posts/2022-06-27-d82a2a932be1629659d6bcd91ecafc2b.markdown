@@ -5,5 +5,4 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "C Snell, I Kostrikov, Y Su, M Yang, S Levine - arXiv preprint arXiv:2206.11871, 2022"
 ---
-Large language models distill broad knowledge from text corpora. However, they can be inconsistent when it comes to completing user specified tasks. This issue can be addressed by finetuning such models via supervised learning on curated datasets, or via reinforcement learning. In this work, we propose a novel offline RL motivated method, implicit language Q-learning (ILQL), designed for use on language models, that combines both the flexible utility optimization framework of traditional RL 
-Cites: Gedi: Generative discriminator guided sequence generation
+Large language models distill broad knowledge from text corpora. However, they can be inconsistent when it comes to completing user specified tasks. This issue can be addressed by finetuning such models via supervised learning on curated datasets, or via reinforcement learning. In this work, we propose a novel offline RL motivated method, implicit language Q-learning (ILQL), designed for use on language models, that combines both the flexible utility optimization framework of traditional RL  Cites: Gedi: Generative discriminator guided sequence generation

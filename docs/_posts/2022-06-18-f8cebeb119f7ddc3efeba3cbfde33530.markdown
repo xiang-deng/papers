@@ -5,5 +5,4 @@ date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
 author: "Y Konforti, A Shpigler, B Lerner, AB Hillel - IEEE Transactions on Pattern Analysis , 2022"
 ---
-Convolutional neural networks (CNNs) have achieved superior accuracy in many visual-related tasks. However, the inference process through a CNN s intermediate layers is opaque, making it difficult to interpret such networks or develop trust in their operation. In this paper, we introduce SIGN method for modeling the network s hidden layer activity using probabilistic models. The activity patterns in layers of interest are modeled as Gaussian mixture models, and transition probabilities 
-Cites: Coatnet: Marrying convolution and attention for all data sizes
+Convolutional neural networks (CNNs) have achieved superior accuracy in many visual-related tasks. However, the inference process through a CNN s intermediate layers is opaque, making it difficult to interpret such networks or develop trust in their operation. In this paper, we introduce SIGN method for modeling the network s hidden layer activity using probabilistic models. The activity patterns in layers of interest are modeled as Gaussian mixture models, and transition probabilities  Cites: Coatnet: Marrying convolution and attention for all data sizes

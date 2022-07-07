@@ -5,5 +5,4 @@ date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
 author: "X Tang, S Wu, M Song, S Ying, F Li, G Chen - Proceedings of the 2022 International , 2022"
 ---
-Recently, the learning-based models are shown to outperform the conventional methods for many database tasks such as cardinality estimation, join order selection and performance tuning. However, most existing learning-based methods adopt the one-hot encoding for SQL query representation, unable to catch complicated semantic context, eg structure of query, database schema definition and distribution variance of columns. To address such above problem, we propose a novel pre 
-Cites: Xlnet: Generalized autoregressive pretraining for language
+Recently, the learning-based models are shown to outperform the conventional methods for many database tasks such as cardinality estimation, join order selection and performance tuning. However, most existing learning-based methods adopt the one-hot encoding for SQL query representation, unable to catch complicated semantic context, eg structure of query, database schema definition and distribution variance of columns. To address such above problem, we propose a novel pre  Cites: Xlnet: Generalized autoregressive pretraining for language

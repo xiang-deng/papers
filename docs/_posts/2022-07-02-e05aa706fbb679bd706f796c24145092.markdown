@@ -5,5 +5,4 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "K Fatras - arXiv preprint arXiv:2206.11988, 2022"
 ---
-Optimal transport (OT) is known to be sensitive against outliers because of its marginal constraints. Outlier robust OT variants have been proposed based on the definition that outliers are samples which are expensive to move. In this paper, we show that this definition is restricted by considering the case where outliers are closer to the target measure than clean samples. We show that outlier robust OT fully transports these outliers leading to poor performances in practice. To tackle these 
-Cites: Dividemix: Learning with noisy labels as semi-supervised learning
+Optimal transport (OT) is known to be sensitive against outliers because of its marginal constraints. Outlier robust OT variants have been proposed based on the definition that outliers are samples which are expensive to move. In this paper, we show that this definition is restricted by considering the case where outliers are closer to the target measure than clean samples. We show that outlier robust OT fully transports these outliers leading to poor performances in practice. To tackle these  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

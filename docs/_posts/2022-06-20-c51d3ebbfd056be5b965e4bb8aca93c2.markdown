@@ -5,5 +5,4 @@ date:   2022-06-20 23:00:52 -0400
 categories: jekyll update
 author: "S Zhang, W Cui, Q Chen, Z Zhang, Y Guan, J Leng - Proceedings of the 36th , 2022"
 ---
-In emerging DNN serving systems, queries are usually batched to fully leverage hardware resources, and all the queries in a batch run through the complete model and return at the same time. According to our findings, some queries only need to pass through a portion of the DNN model to attain sufficient precision in a DNN service. These queries can have shorter latencies if they can return early in the middle of a model. Therefore, we propose precision-aware multi-exit inference 
-Cites: Dynet: The dynamic neural network toolkit
+In emerging DNN serving systems, queries are usually batched to fully leverage hardware resources, and all the queries in a batch run through the complete model and return at the same time. According to our findings, some queries only need to pass through a portion of the DNN model to attain sufficient precision in a DNN service. These queries can have shorter latencies if they can return early in the middle of a model. Therefore, we propose precision-aware multi-exit inference  Cites: Dynet: The dynamic neural network toolkit

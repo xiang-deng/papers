@@ -5,5 +5,4 @@ date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
 author: "T Chen, S Huang, Y Xie, B Jiao, D Jiang, H Zhou, J Li - arXiv preprint arXiv , 2022"
 ---
-The sparse Mixture-of-Experts (MoE) model is powerful for large-scale pre-training and has achieved promising results due to its model capacity. However, with trillions of parameters, MoE is hard to be deployed on cloud or mobile environment. The inference of MoE requires expert parallelism, which is not hardware-friendly and communication expensive. Especially for resource-limited downstream tasks, such sparse structure has to sacrifice a lot of computing efficiency for limited performance 
-Cites: Well-read students learn better: On the importance of pre-training
+The sparse Mixture-of-Experts (MoE) model is powerful for large-scale pre-training and has achieved promising results due to its model capacity. However, with trillions of parameters, MoE is hard to be deployed on cloud or mobile environment. The inference of MoE requires expert parallelism, which is not hardware-friendly and communication expensive. Especially for resource-limited downstream tasks, such sparse structure has to sacrifice a lot of computing efficiency for limited performance  Cites: Well-read students learn better: On the importance of pre-training

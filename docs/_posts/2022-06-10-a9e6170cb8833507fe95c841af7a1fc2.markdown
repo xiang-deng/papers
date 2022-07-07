@@ -5,5 +5,4 @@ date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
 author: "G Kim, W Lee"
 ---
-Leaderless replication allows any replica to handle any type of request to achieve read scalability and high availability for distributed data stores. However, this entails burdensome coordination overhead of replication protocols, degrading write throughput. In addition, the data store still requires coordination for membership changes, making it hard to resolve server failures quickly. To this end, we present NetLR, a replicated data store architecture that supports high performance, fault 
-Cites: Recovering semantics of tables on the web
+Leaderless replication allows any replica to handle any type of request to achieve read scalability and high availability for distributed data stores. However, this entails burdensome coordination overhead of replication protocols, degrading write throughput. In addition, the data store still requires coordination for membership changes, making it hard to resolve server failures quickly. To this end, we present NetLR, a replicated data store architecture that supports high performance, fault  Cites: Recovering semantics of tables on the web

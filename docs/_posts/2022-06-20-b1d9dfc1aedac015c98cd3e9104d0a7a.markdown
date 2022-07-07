@@ -5,5 +5,4 @@ date:   2022-06-20 23:00:52 -0400
 categories: jekyll update
 author: "X Ren, J Chen, F Juefei-Xu, W Xue, Q Guo, L Ma - Pattern Recognition, 2022"
 ---
-Network architecture search (NAS), in particular the differentiable architecture search (DARTS) method, has shown a great power to learn excellent model architectures on the specific dataset of interest. In contrast to using a fixed dataset, in this work, we focus on a different but important scenario for NAS: how to refine a deployed network s model architecture to enhance its robustness with the guidance of a few collected and misclassified examples that are degraded by some real-world 
-Cites: Training EfficientNets at supercomputer scale: 83% ImageNet top
+Network architecture search (NAS), in particular the differentiable architecture search (DARTS) method, has shown a great power to learn excellent model architectures on the specific dataset of interest. In contrast to using a fixed dataset, in this work, we focus on a different but important scenario for NAS: how to refine a deployed network s model architecture to enhance its robustness with the guidance of a few collected and misclassified examples that are degraded by some real-world  Cites: Training EfficientNets at supercomputer scale: 83% ImageNet top

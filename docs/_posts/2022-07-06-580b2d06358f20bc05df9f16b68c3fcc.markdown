@@ -5,5 +5,4 @@ date:   2022-07-06 06:18:13 -0400
 categories: jekyll update
 author: "X Jiang, Q Zhang, C Shi, K Jiang, L Hu, S Wang"
 ---
-Story ending generation aims at generating reasonable endings for a given story context. Most existing studies in this area focus on generating coherent or diversified story endings, while they ignore that different characters may lead to different endings for a given story. In this paper, we propose a Character-oriented Story Ending Generator (CoSEG) to customize an ending for each character in a story. Specifically, we first propose a character modeling module to learn the personalities 
-Cites: Story cloze evaluator: Vector space representation evaluation by
+Story ending generation aims at generating reasonable endings for a given story context. Most existing studies in this area focus on generating coherent or diversified story endings, while they ignore that different characters may lead to different endings for a given story. In this paper, we propose a Character-oriented Story Ending Generator (CoSEG) to customize an ending for each character in a story. Specifically, we first propose a character modeling module to learn the personalities  Cites: Story cloze evaluator: Vector space representation evaluation by

@@ -5,5 +5,4 @@ date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
 author: "C Ferner, S Wegenkittl - Machine Learning and Knowledge Extraction, 2022"
 ---
-Representations from common pre-trained language models have been shown to suffer from the degeneration problem, ie, they occupy a narrow cone in latent space. This problem can be addressed by enforcing isotropy in latent space. In analogy with variational autoencoders, we suggest applying a token-level variational loss to a Transformer architecture and optimizing the standard deviation of the prior distribution in the loss function as the model parameter to increase isotropy. The 
-Cites: Variational Pretraining for Semi-supervised Text Classification
+Representations from common pre-trained language models have been shown to suffer from the degeneration problem, ie, they occupy a narrow cone in latent space. This problem can be addressed by enforcing isotropy in latent space. In analogy with variational autoencoders, we suggest applying a token-level variational loss to a Transformer architecture and optimizing the standard deviation of the prior distribution in the loss function as the model parameter to increase isotropy. The  Cites: Variational Pretraining for Semi-supervised Text Classification

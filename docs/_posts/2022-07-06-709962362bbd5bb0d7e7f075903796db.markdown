@@ -5,5 +5,4 @@ date:   2022-07-06 06:18:13 -0400
 categories: jekyll update
 author: "R Niu, Q Wang -  Conference on Neural Networks, Information, and , 2022"
 ---
-Meaning Representation (AMR) is a kind of semantic representation of natural language, which aims to represent the semantics of a sentence by a rooted, directed, and acyclic graph (DAG). Most existing AMR parsing works are designed under specific dictionary. However, these works make the content length of each node limited, and they mainly need to go through a very complicated post-processing process. In this paper, we propose a novel encoder-decoder framework for AMR 
-Cites: Jointly predicting predicates and arguments in neural semantic
+Meaning Representation (AMR) is a kind of semantic representation of natural language, which aims to represent the semantics of a sentence by a rooted, directed, and acyclic graph (DAG). Most existing AMR parsing works are designed under specific dictionary. However, these works make the content length of each node limited, and they mainly need to go through a very complicated post-processing process. In this paper, we propose a novel encoder-decoder framework for AMR  Cites: Jointly predicting predicates and arguments in neural semantic

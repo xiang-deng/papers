@@ -5,5 +5,4 @@ date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
 author: "H Li, AN Bhagoji, BY Zhao, H Zheng - arXiv preprint arXiv:2206.04677, 2022"
 ---
-Backdoors are powerful attacks against deep neural networks (DNNs). By poisoning training data, attackers can inject hidden rules (backdoors) into DNNs, which only activate on inputs containing attack-specific triggers. While existing work has studied backdoor attacks on a variety of DNN models, they only consider static models, which remain unchanged after initial deployment. In this paper, we study the impact of backdoor attacks on a more realistic scenario of time-varying DNN models, where 
-Cites: Understanding self-training for gradual domain adaptation
+Backdoors are powerful attacks against deep neural networks (DNNs). By poisoning training data, attackers can inject hidden rules (backdoors) into DNNs, which only activate on inputs containing attack-specific triggers. While existing work has studied backdoor attacks on a variety of DNN models, they only consider static models, which remain unchanged after initial deployment. In this paper, we study the impact of backdoor attacks on a more realistic scenario of time-varying DNN models, where  Cites: Understanding self-training for gradual domain adaptation

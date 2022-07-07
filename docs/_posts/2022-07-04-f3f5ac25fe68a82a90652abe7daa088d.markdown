@@ -5,5 +5,4 @@ date:   2022-07-04 12:22:48 -0400
 categories: jekyll update
 author: "Y Han, Z Liang, Z Liang, Y Wang, Y Yao, J Zhang - International Conference on , 2022"
 ---
-Differentially private (DP) stochastic convex optimization (SCO) is ubiquitous in trustworthy machine learning algorithm design. This paper studies the DP-SCO problem with streaming data sampled from a distribution and arrives sequentially. We also consider the continual release model where parameters related to private information are updated and released upon each new data. Numerous algorithms have been developed to achieve optimal excess risks in different lp norm 
-Cites: Provably optimal algorithms for generalized linear contextual bandits
+Differentially private (DP) stochastic convex optimization (SCO) is ubiquitous in trustworthy machine learning algorithm design. This paper studies the DP-SCO problem with streaming data sampled from a distribution and arrives sequentially. We also consider the continual release model where parameters related to private information are updated and released upon each new data. Numerous algorithms have been developed to achieve optimal excess risks in different lp norm  Cites: Provably optimal algorithms for generalized linear contextual bandits

@@ -5,5 +5,4 @@ date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
 author: "R Xu, J Chen, F He - 2022 IEEE/ACM 44th International Conference on , 2022"
 ---
-Termination is a fundamental liveness property for program verification. A loop bound is an upper bound of the number of loop iterations for a given program. The existence of a loop bound evidences the termination of the program. This paper employs a reinforced black-box learning approach for termination proving, consisting of a loop bound learner and a validation checker. We present efficient data-driven algorithms for inferring various kinds of loop bounds, including simple loop bounds 
-Cites: Learning invariants using decision trees and implication
+Termination is a fundamental liveness property for program verification. A loop bound is an upper bound of the number of loop iterations for a given program. The existence of a loop bound evidences the termination of the program. This paper employs a reinforced black-box learning approach for termination proving, consisting of a loop bound learner and a validation checker. We present efficient data-driven algorithms for inferring various kinds of loop bounds, including simple loop bounds  Cites: Learning invariants using decision trees and implication

@@ -5,5 +5,4 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "S Lankford, H Afli, A Way - Information, 2022"
 ---
-In this study, a human evaluation is carried out on how hyperparameter settings impact the quality of Transformer-based Neural Machine Translation (NMT) for the low-resourced EnglishIrish pair. SentencePiece models using both Byte Pair Encoding (BPE) and unigram approaches were appraised. Variations in model architectures included modifying the number of layers, evaluating the optimal number of heads for attention and testing various regularisation techniques. The 
-Cites: A set of recommendations for assessing humanmachine parity in
+In this study, a human evaluation is carried out on how hyperparameter settings impact the quality of Transformer-based Neural Machine Translation (NMT) for the low-resourced EnglishIrish pair. SentencePiece models using both Byte Pair Encoding (BPE) and unigram approaches were appraised. Variations in model architectures included modifying the number of layers, evaluating the optimal number of heads for attention and testing various regularisation techniques. The  Cites: A set of recommendations for assessing humanmachine parity in

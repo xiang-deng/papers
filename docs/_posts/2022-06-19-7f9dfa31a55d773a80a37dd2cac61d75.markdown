@@ -5,5 +5,4 @@ date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
 author: "S Chakraborty, T Ahmed, Y Ding, P Devanbu, B Ray - arXiv preprint arXiv , 2022"
 ---
-Pre-trained Generative Language models (eg PLBART, CodeT5, SPT-Code) for source code yielded strong results on several tasks in the past few years, including code generation and translation. These models have adopted varying pre-training objectives to learn statistics of code construction from very large-scale corpora in a self-supervised fashion; the success of pre-trained models largely hinges on these pre-training objectives. This paper proposes a new pre-training objective,  
-Cites: Codexglue: A machine learning benchmark dataset for code
+Pre-trained Generative Language models (eg PLBART, CodeT5, SPT-Code) for source code yielded strong results on several tasks in the past few years, including code generation and translation. These models have adopted varying pre-training objectives to learn statistics of code construction from very large-scale corpora in a self-supervised fashion; the success of pre-trained models largely hinges on these pre-training objectives. This paper proposes a new pre-training objective,   Cites: Codexglue: A machine learning benchmark dataset for code

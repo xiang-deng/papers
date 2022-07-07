@@ -5,5 +5,4 @@ date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
 author: "X Zhang, M Jiang, H Chen, J Zheng, Z Pan - Knowledge-Based Systems, 2022"
 ---
-Few-shot incremental intent recognition aims at continually identifying users  intents from utterances with limited labeled novel data. To mitigate the effect of catastrophic forgetting inherent in incremental learning, existing methods generally resort to storing informative base exemplars as the model memory that are further replied to when learning novel classes. However, merely preserving these base exemplars and ignoring the relationship between them can easily trigger some concerns in the 
-Cites: Continual Relation Learning via Episodic Memory Activation and
+Few-shot incremental intent recognition aims at continually identifying users  intents from utterances with limited labeled novel data. To mitigate the effect of catastrophic forgetting inherent in incremental learning, existing methods generally resort to storing informative base exemplars as the model memory that are further replied to when learning novel classes. However, merely preserving these base exemplars and ignoring the relationship between them can easily trigger some concerns in the  Cites: Continual Relation Learning via Episodic Memory Activation and

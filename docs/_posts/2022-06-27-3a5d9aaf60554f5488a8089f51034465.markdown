@@ -5,5 +5,4 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "A Mei, A Kabir, R Bapat, J Judge, T Sun, WY Wang"
 ---
-Neural text summarization has shown great potential in recent years. However, current state-of-the-art summarization models are limited by their maximum input length, posing a challenge to summarizing longer texts comprehensively. As part of a layered summarization architecture, we introduce PURETEXT, a simple yet effective pre-processing layer that removes lowquality sentences in articles to improve existing summarization models. When evaluated on popular datasets like WikiHow 
-Cites: Bart: Denoising sequence-to-sequence pre-training for natural
+Neural text summarization has shown great potential in recent years. However, current state-of-the-art summarization models are limited by their maximum input length, posing a challenge to summarizing longer texts comprehensively. As part of a layered summarization architecture, we introduce PURETEXT, a simple yet effective pre-processing layer that removes lowquality sentences in articles to improve existing summarization models. When evaluated on popular datasets like WikiHow  Cites: Bart: Denoising sequence-to-sequence pre-training for natural

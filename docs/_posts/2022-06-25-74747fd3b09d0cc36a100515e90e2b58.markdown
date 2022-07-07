@@ -5,5 +5,4 @@ date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
 author: "R Gummadi, S Kumar, J Wen, D Schuurmans - arXiv preprint arXiv:2206.08499, 2022"
 ---
-Approaches to policy optimization have been motivated from diverse principles, based on how the parametric model is interpreted (eg value versus policy representation) or how the learning objective is formulated, yet they share a common goal of maximizing expected return. To better capture the commonalities and identify key differences between policy optimization methods, we develop a unified perspective that re-expresses the underlying updates in terms of a limited choice of 
-Cites: Memory augmented policy optimization for program synthesis and
+Approaches to policy optimization have been motivated from diverse principles, based on how the parametric model is interpreted (eg value versus policy representation) or how the learning objective is formulated, yet they share a common goal of maximizing expected return. To better capture the commonalities and identify key differences between policy optimization methods, we develop a unified perspective that re-expresses the underlying updates in terms of a limited choice of  Cites: Memory augmented policy optimization for program synthesis and

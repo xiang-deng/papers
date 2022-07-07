@@ -5,5 +5,4 @@ date:   2022-06-06 21:51:57 -0400
 categories: jekyll update
 author: "J Zhang, K Ma - arXiv preprint arXiv:2206.00227, 2022"
 ---
-A data augmentation module is utilized in contrastive learning to transform the given data example into two views, which is considered essential and irreplaceable. However, the predetermined composition of multiple data augmentations brings two drawbacks. First, the artificial choice of augmentation types brings specific representational invariances to the model, which have different degrees of positive and negative effects on different downstream tasks. Treating each type of 
-Cites: Towards domain-agnostic contrastive learning
+A data augmentation module is utilized in contrastive learning to transform the given data example into two views, which is considered essential and irreplaceable. However, the predetermined composition of multiple data augmentations brings two drawbacks. First, the artificial choice of augmentation types brings specific representational invariances to the model, which have different degrees of positive and negative effects on different downstream tasks. Treating each type of  Cites: Towards domain-agnostic contrastive learning

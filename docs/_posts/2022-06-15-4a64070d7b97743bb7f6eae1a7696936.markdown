@@ -5,5 +5,4 @@ date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
 author: "P Skrzewski - Language and Technology Conference, 2022"
 ---
-Detecting emotions from a text can be challenging, especially if we do not have any annotated corpus. We propose to use book dialogue lines and accompanying phrases to obtain utterances annotated with emotion vectors. We describe two different methods of achieving this goal. Then we use neural networks to train models that assign a vector representing emotions for each utterance. These solutions do not need any corpus of texts annotated explicitly with emotions because 
-Cites: Emotions from text: machine learning for text-based emotion
+Detecting emotions from a text can be challenging, especially if we do not have any annotated corpus. We propose to use book dialogue lines and accompanying phrases to obtain utterances annotated with emotion vectors. We describe two different methods of achieving this goal. Then we use neural networks to train models that assign a vector representing emotions for each utterance. These solutions do not need any corpus of texts annotated explicitly with emotions because  Cites: Emotions from text: machine learning for text-based emotion

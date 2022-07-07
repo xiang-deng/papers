@@ -5,5 +5,4 @@ date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
 author: "Y Jiang, H Yang, J Lin, H Zhao, A Yang, C Zhou - arXiv preprint arXiv , 2022"
 ---
-Prompt Learning has recently gained great popularity in bridging the gap between pretraining tasks and various downstream tasks. It freezes Pretrained Language Models (PLMs) and only tunes a few task-related parameters (prompts) for downstream tasks, greatly reducing the cost of tuning giant models. The key enabler of this is the idea of querying PLMs with task-specific knowledge implicated in prompts. This paper reveals a major limitation of existing methods that the 
-Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions
+Prompt Learning has recently gained great popularity in bridging the gap between pretraining tasks and various downstream tasks. It freezes Pretrained Language Models (PLMs) and only tunes a few task-related parameters (prompts) for downstream tasks, greatly reducing the cost of tuning giant models. The key enabler of this is the idea of querying PLMs with task-specific knowledge implicated in prompts. This paper reveals a major limitation of existing methods that the  Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

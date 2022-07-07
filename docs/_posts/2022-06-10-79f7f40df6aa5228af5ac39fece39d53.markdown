@@ -5,5 +5,4 @@ date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
 author: "K Choi, HY Lee, D Hong, J Yu, N Park, Y Kim, J Lee -  of the IEEE/CVF Conference on , 2022"
 ---
-Abstract Model quantization is considered as a promising method to greatly reduce the resource requirements of deep neural networks. To deal with the performance drop induced by quantization errors, a popular method is to use training data to fine-tune quantized networks. In real-world environments, however, such a method is frequently infeasible because training data is unavailable due to security, privacy, or confidentiality concerns. Zero-shot quantization addresses such problems, usually by 
-Cites: Catastrophic fisher explosion: Early phase fisher matrix impacts
+Abstract Model quantization is considered as a promising method to greatly reduce the resource requirements of deep neural networks. To deal with the performance drop induced by quantization errors, a popular method is to use training data to fine-tune quantized networks. In real-world environments, however, such a method is frequently infeasible because training data is unavailable due to security, privacy, or confidentiality concerns. Zero-shot quantization addresses such problems, usually by  Cites: Catastrophic fisher explosion: Early phase fisher matrix impacts

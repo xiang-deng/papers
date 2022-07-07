@@ -5,5 +5,4 @@ date:   2022-06-10 22:27:43 -0400
 categories: jekyll update
 author: "SJ Amouyal, O Rubin, O Yoran, T Wolfson, J Herzig - arXiv e-prints, 2022"
 ---
-Existing benchmarks for open-domain question answering (ODQA) typically focus on questions whose answers can be extracted from a single paragraph. By contrast, many natural questions, such as What players were drafted by the Brooklyn Nets? have a list of answers. Answering such questions requires retrieving and reading from many passages, in a large corpus. We introduce QAMPARI, an ODQA benchmark, where question answers are lists of entities, spread across many 
-Cites: MultiModalQA: Complex Question Answering over Text, Tables
+Existing benchmarks for open-domain question answering (ODQA) typically focus on questions whose answers can be extracted from a single paragraph. By contrast, many natural questions, such as What players were drafted by the Brooklyn Nets? have a list of answers. Answering such questions requires retrieving and reading from many passages, in a large corpus. We introduce QAMPARI, an ODQA benchmark, where question answers are lists of entities, spread across many  Cites: MultiModalQA: Complex Question Answering over Text, Tables

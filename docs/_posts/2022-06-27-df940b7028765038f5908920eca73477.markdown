@@ -5,5 +5,4 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "E Choi, Y Jo, J Jang, M Seo - arXiv preprint arXiv:2206.11349, 2022"
 ---
-Recent works have shown that attaching prompts to the input is effective at conditioning Language Models (LM) to perform specific tasks. However, prompts are always included in the input text during inference, thus incurring substantial computational and memory overhead. Also, there is currently no straightforward method of utilizing prompts that are longer than the maximum input length of the LMs without incurring additional costs during inference. We propose Prompt Injection (PI) 
-Cites: Should You Mask 15% in Masked Language Modeling?
+Recent works have shown that attaching prompts to the input is effective at conditioning Language Models (LM) to perform specific tasks. However, prompts are always included in the input text during inference, thus incurring substantial computational and memory overhead. Also, there is currently no straightforward method of utilizing prompts that are longer than the maximum input length of the LMs without incurring additional costs during inference. We propose Prompt Injection (PI)  Cites: Should You Mask 15% in Masked Language Modeling?

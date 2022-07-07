@@ -5,5 +5,4 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "DS Sachan, M Lewis, D Yogatama, L Zettlemoyer"
 ---
-We introduce ART, a new corpus-level autoencoding approach for training dense retrieval models that does not require any labeled training data. Dense retrieval is a central challenge for open-domain tasks, such as Open QA, where state-of-the-art methods typically require large supervised datasets with custom hard-negative mining and denoising of positive examples. ART, in contrast, only requires access to unpaired inputs and outputs (eg questions and potential answer documents). It uses 
-Cites: Simple Entity-Centric Questions Challenge Dense Retrievers
+We introduce ART, a new corpus-level autoencoding approach for training dense retrieval models that does not require any labeled training data. Dense retrieval is a central challenge for open-domain tasks, such as Open QA, where state-of-the-art methods typically require large supervised datasets with custom hard-negative mining and denoising of positive examples. ART, in contrast, only requires access to unpaired inputs and outputs (eg questions and potential answer documents). It uses  Cites: Simple Entity-Centric Questions Challenge Dense Retrievers

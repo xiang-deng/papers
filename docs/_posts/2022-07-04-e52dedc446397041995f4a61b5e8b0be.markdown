@@ -5,5 +5,4 @@ date:   2022-07-04 12:22:48 -0400
 categories: jekyll update
 author: "K Ahmed, T Li, T Ton, Q Guo, KW Chang - Proceedings of the AAAI , 2022"
 ---
-Deep learning excels at learning task information from large amounts of data, but struggles with learning from declarative high-level knowledge that can be more succinctly expressed directly. In this work, we introduce PYLON, a neuro-symbolic training framework that builds on PyTorch to augment procedurally trained models with declaratively specified knowledge. PYLON lets users programmatically specify constraints as Python functions and compiles them into a differentiable loss, thus 
-Cites: The importance of syntactic parsing and inference in semantic role
+Deep learning excels at learning task information from large amounts of data, but struggles with learning from declarative high-level knowledge that can be more succinctly expressed directly. In this work, we introduce PYLON, a neuro-symbolic training framework that builds on PyTorch to augment procedurally trained models with declaratively specified knowledge. PYLON lets users programmatically specify constraints as Python functions and compiles them into a differentiable loss, thus  Cites: The importance of syntactic parsing and inference in semantic role

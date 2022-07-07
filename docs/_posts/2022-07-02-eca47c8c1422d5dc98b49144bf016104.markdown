@@ -5,5 +5,4 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "D Shrivastava, H Larochelle, D Tarlow - arXiv preprint arXiv:2206.12839, 2022"
 ---
-With the success of large language models (LLMs) of code and their use as code assistants (eg Codex used in GitHub Copilot), techniques for introducing domain-specific knowledge in the prompt design process become important. In this work, we propose a framework called Repo-Level Prompt Generator that learns to generate example-specific prompts using a set of rules. These rules take context from the entire repository, thereby incorporating both the structure of the repository and the 
-Cites: Palm: Scaling language modeling with pathways
+With the success of large language models (LLMs) of code and their use as code assistants (eg Codex used in GitHub Copilot), techniques for introducing domain-specific knowledge in the prompt design process become important. In this work, we propose a framework called Repo-Level Prompt Generator that learns to generate example-specific prompts using a set of rules. These rules take context from the entire repository, thereby incorporating both the structure of the repository and the  Cites: Palm: Scaling language modeling with pathways

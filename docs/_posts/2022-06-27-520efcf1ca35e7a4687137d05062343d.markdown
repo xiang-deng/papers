@@ -5,5 +5,4 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "Y Wang, L Lyu, A Anand - arXiv preprint arXiv:2206.11724, 2022"
 ---
-Contextual ranking models based on BERT are now well established for a wide range of passage and document ranking tasks. However, the robustness of BERT-based ranking models under adversarial inputs is under-explored. In this paper, we argue that BERT-rankers are not immune to adversarial attacks targeting retrieved documents given a query. Firstly, we propose algorithms for adversarial perturbation of both highly relevant and non-relevant documents using gradient-based 
-Cites: Universal adversarial triggers for attacking and analyzing NLP
+Contextual ranking models based on BERT are now well established for a wide range of passage and document ranking tasks. However, the robustness of BERT-based ranking models under adversarial inputs is under-explored. In this paper, we argue that BERT-rankers are not immune to adversarial attacks targeting retrieved documents given a query. Firstly, we propose algorithms for adversarial perturbation of both highly relevant and non-relevant documents using gradient-based  Cites: Universal adversarial triggers for attacking and analyzing NLP

@@ -5,5 +5,4 @@ date:   2022-07-04 12:22:48 -0400
 categories: jekyll update
 author: "Z Zhang, H Zhang, B Shen, X Gu - arXiv preprint arXiv:2206.14390, 2022"
 ---
-Pre-trained code representation models such as CodeBERT have demonstrated superior performance in a variety of software engineering tasks, yet they are often heavy in complexity, quadratically with the length of the input sequence. Our empirical analysis of CodeBERT s attention reveals that CodeBERT pays more attention to certain types of tokens and statements such as keywords and data-relevant statements. Based on these findings, we propose DietCodeBERT, which 
-Cites: Deep unordered composition rivals syntactic methods for text
+Pre-trained code representation models such as CodeBERT have demonstrated superior performance in a variety of software engineering tasks, yet they are often heavy in complexity, quadratically with the length of the input sequence. Our empirical analysis of CodeBERT s attention reveals that CodeBERT pays more attention to certain types of tokens and statements such as keywords and data-relevant statements. Based on these findings, we propose DietCodeBERT, which  Cites: Deep unordered composition rivals syntactic methods for text

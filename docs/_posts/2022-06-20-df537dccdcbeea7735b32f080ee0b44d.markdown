@@ -5,5 +5,4 @@ date:   2022-06-20 23:00:52 -0400
 categories: jekyll update
 author: "CH Nam, KS Jang - Journal of the Korea Institute of Information and , 2022"
 ---
-Semantic role labeling task (SRL) is to extract predicate and arguments such as agent, patient, place, time. In the previously SRL task studies, a pipeline method extracting linguistic features of sentence has been proposed, but in this method, errors of each extraction work in the pipeline affect semantic role labeling performance. Therefore, methods using End-to-End neural network model have recently been proposed. In this paper, we propose a neural network model using the 
-Cites: Jointly predicting predicates and arguments in neural semantic
+Semantic role labeling task (SRL) is to extract predicate and arguments such as agent, patient, place, time. In the previously SRL task studies, a pipeline method extracting linguistic features of sentence has been proposed, but in this method, errors of each extraction work in the pipeline affect semantic role labeling performance. Therefore, methods using End-to-End neural network model have recently been proposed. In this paper, we propose a neural network model using the  Cites: Jointly predicting predicates and arguments in neural semantic

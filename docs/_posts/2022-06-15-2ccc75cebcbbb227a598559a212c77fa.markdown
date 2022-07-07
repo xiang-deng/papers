@@ -5,5 +5,4 @@ date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
 author: "H Li, W Wang, Z Liu, Y Niu, H Wang, S Zhao, Y Liao - Expert Systems with , 2022"
 ---
-Recent efforts adopt interaction-based models to construct the interaction of words between sentences, which aim to predict whether two sentences are semantically equivalent or not in semantic textual similarity (STS) task. However, these methods lack the global semantic awareness, which make it difficult to distinguish syntactic differences and also suffer from the inference time cost, primarily due to the calculation of the pair-interactions of words. A novel model called Locality-Sensitive 
-Cites: Graph convolution over pruned dependency trees improves
+Recent efforts adopt interaction-based models to construct the interaction of words between sentences, which aim to predict whether two sentences are semantically equivalent or not in semantic textual similarity (STS) task. However, these methods lack the global semantic awareness, which make it difficult to distinguish syntactic differences and also suffer from the inference time cost, primarily due to the calculation of the pair-interactions of words. A novel model called Locality-Sensitive  Cites: Graph convolution over pruned dependency trees improves

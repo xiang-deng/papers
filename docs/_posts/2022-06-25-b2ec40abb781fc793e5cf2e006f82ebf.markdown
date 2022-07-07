@@ -5,5 +5,4 @@ date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
 author: "Y Tal, I Magar, R Schwartz - arXiv preprint arXiv:2206.09860, 2022"
 ---
-The size of pretrained models is increasing, and so is their performance on a variety of NLP tasks. However, as their memorization capacity grows, they might pick up more social biases. In this work, we examine the connection between model size and its gender bias (specifically, occupational gender bias). We measure bias in three masked language model families (RoBERTa, DeBERTa, and T5) in two setups: directly using prompt based method, and using a downstream task (Winogender) 
-Cites: Documenting Large Webtext Corpora: A Case Study on the
+The size of pretrained models is increasing, and so is their performance on a variety of NLP tasks. However, as their memorization capacity grows, they might pick up more social biases. In this work, we examine the connection between model size and its gender bias (specifically, occupational gender bias). We measure bias in three masked language model families (RoBERTa, DeBERTa, and T5) in two setups: directly using prompt based method, and using a downstream task (Winogender)  Cites: Documenting Large Webtext Corpora: A Case Study on the

@@ -5,5 +5,4 @@ date:   2022-06-27 23:23:24 -0400
 categories: jekyll update
 author: "Z Xie, H Sun, M Li"
 ---
-In this paper, we address a special scenario of semi-supervised learning, where the label missing is caused by a preceding filtering mechanism, ie, an instance can enter a subsequent process in which its label is revealed if and only if it passes the filtering mechanism. The rejected instances are prohibited to enter the subsequent labeling process due to economical or ethical reasons, making the support of the labeled and unlabeled distributions isolated from each other. In this case, semisupervised 
-Cites: In-n-out: Pre-training and self-training using auxiliary information
+In this paper, we address a special scenario of semi-supervised learning, where the label missing is caused by a preceding filtering mechanism, ie, an instance can enter a subsequent process in which its label is revealed if and only if it passes the filtering mechanism. The rejected instances are prohibited to enter the subsequent labeling process due to economical or ethical reasons, making the support of the labeled and unlabeled distributions isolated from each other. In this case, semisupervised  Cites: In-n-out: Pre-training and self-training using auxiliary information

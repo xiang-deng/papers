@@ -5,5 +5,4 @@ date:   2022-06-19 07:39:02 -0400
 categories: jekyll update
 author: "YL Sung, J Cho, M Bansal - arXiv preprint arXiv:2206.06522, 2022"
 ---
-Fine-tuning large pre-trained models on downstream tasks has been adopted in a variety of domains recently. However, it is costly to update the entire parameter set of large pre-trained models. Although recently proposed parameter-efficient transfer learning (PETL) techniques allow updating a small subset of parameters (eg only using 2% of parameters) inside a pre-trained backbone network for a new task, they only reduce the training memory requirement by up to 30%. This is because the 
-Cites: Towards a unified view of parameter-efficient transfer learning
+Fine-tuning large pre-trained models on downstream tasks has been adopted in a variety of domains recently. However, it is costly to update the entire parameter set of large pre-trained models. Although recently proposed parameter-efficient transfer learning (PETL) techniques allow updating a small subset of parameters (eg only using 2% of parameters) inside a pre-trained backbone network for a new task, they only reduce the training memory requirement by up to 30%. This is because the  Cites: Towards a unified view of parameter-efficient transfer learning

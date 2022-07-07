@@ -5,5 +5,4 @@ date:   2022-06-18 03:19:09 -0400
 categories: jekyll update
 author: "L Flokas, W Wu, Y Liu, J Wang, N Verma, E Wu - Proceedings of the 2022 , 2022"
 ---
-Modern databases support queries that perform model inference (inference queries). Although powerful and widely used, inference queries are susceptible to incorrect results if the model is biased due to training data errors. Recently, prior work Rain proposed complaint-driven data debugging which uses user-specified errors in the output of inference queries (Complaints) to rank erroneous training examples that most likely caused the complaint. This can help users better interpret results and 
-Cites: " Why Should I Trust You?": Explaining the Predictions of Any
+Modern databases support queries that perform model inference (inference queries). Although powerful and widely used, inference queries are susceptible to incorrect results if the model is biased due to training data errors. Recently, prior work Rain proposed complaint-driven data debugging which uses user-specified errors in the output of inference queries (Complaints) to rank erroneous training examples that most likely caused the complaint. This can help users better interpret results and  Cites: " Why Should I Trust You?": Explaining the Predictions of Any

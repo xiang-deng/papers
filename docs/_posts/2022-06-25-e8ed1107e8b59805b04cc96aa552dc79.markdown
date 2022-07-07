@@ -5,5 +5,4 @@ date:   2022-06-25 08:25:58 -0400
 categories: jekyll update
 author: "H Zhang, M Gong, F Nie, X Li - Neurocomputing, 2022"
 ---
-Semi-supervised feature selection alleviates the annotation burden of supervised feature learning by exploiting data under a handful of supervision information. The mainstream technique is to employ a linear regression framework that jointly learns labeled and unlabeled samples. However, existing approaches always encounter the deficiencies in two aspects: 1) the performance of models are severely degenerated once predicted labels are unreliable; 2) the balance of objectives in 
-Cites: Learning with Local and Global Consistency.
+Semi-supervised feature selection alleviates the annotation burden of supervised feature learning by exploiting data under a handful of supervision information. The mainstream technique is to employ a linear regression framework that jointly learns labeled and unlabeled samples. However, existing approaches always encounter the deficiencies in two aspects: 1) the performance of models are severely degenerated once predicted labels are unreliable; 2) the balance of objectives in  Cites: Learning with Local and Global Consistency.

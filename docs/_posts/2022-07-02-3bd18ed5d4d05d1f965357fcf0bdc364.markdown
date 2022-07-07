@@ -5,5 +5,4 @@ date:   2022-07-02 02:42:16 -0400
 categories: jekyll update
 author: "A Chaffin, V Claveau, E Kijak - Traitement Automatique des Langues Naturelles, 2022"
 ---
-Dans cet article, nous explorons comment contrler la gnration de texte au moment du dcodage pour satisfaire certaines contraintes (eg tre non toxique, transmettre certaines motions...), sans ncessiter de r-entrainer le modle de langue. Pour cela, nous formalisons la gnration sous contrainte comme un processus d exploration d arbre guid par un discriminateur qui indique dans quelle mesure la squence associe respecte la contrainte. Nous proposons plusieurs 
-Cites: Gedi: Generative discriminator guided sequence generation
+Dans cet article, nous explorons comment contrler la gnration de texte au moment du dcodage pour satisfaire certaines contraintes (eg tre non toxique, transmettre certaines motions...), sans ncessiter de r-entrainer le modle de langue. Pour cela, nous formalisons la gnration sous contrainte comme un processus d exploration d arbre guid par un discriminateur qui indique dans quelle mesure la squence associe respecte la contrainte. Nous proposons plusieurs  Cites: Gedi: Generative discriminator guided sequence generation

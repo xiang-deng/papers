@@ -5,5 +5,4 @@ date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
 author: "S Maity, S Roy, S Xue, M Yurochkin, Y Sun - arXiv preprint arXiv:2206.03515, 2022"
 ---
-The benefits of overparameterization for the overall performance of modern machine learning (ML) models are well known. However, the effect of overparameterization at a more granular level of data subgroups is less understood. Recent empirical studies demonstrate encouraging results:(i) when groups are not known, overparameterized models trained with empirical risk minimization (ERM) perform better on minority groups;(ii) when groups are known, ERM on data subsampled to equalize group 
-Cites: Just train twice: Improving group robustness without training group
+The benefits of overparameterization for the overall performance of modern machine learning (ML) models are well known. However, the effect of overparameterization at a more granular level of data subgroups is less understood. Recent empirical studies demonstrate encouraging results:(i) when groups are not known, overparameterized models trained with empirical risk minimization (ERM) perform better on minority groups;(ii) when groups are known, ERM on data subsampled to equalize group  Cites: Just train twice: Improving group robustness without training group

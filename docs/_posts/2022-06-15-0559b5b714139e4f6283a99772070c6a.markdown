@@ -5,5 +5,4 @@ date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
 author: "T Mickus, D Paperno, M Constant - arXiv preprint arXiv:2206.03529, 2022"
 ---
-Pretrained embeddings based on the Transformer architecture have taken the NLP community by storm. We show that they can mathematically be reframed as a sum of vector factors and showcase how to use this reframing to study the impact of each component. We provide evidence that multi-head attentions and feed-forwards are not equally useful in all downstream applications, as well as a quantitative overview of the effects of finetuning on the overall embedding space. This approach allows us 
-Cites: Composition in distributional models of semantics
+Pretrained embeddings based on the Transformer architecture have taken the NLP community by storm. We show that they can mathematically be reframed as a sum of vector factors and showcase how to use this reframing to study the impact of each component. We provide evidence that multi-head attentions and feed-forwards are not equally useful in all downstream applications, as well as a quantitative overview of the effects of finetuning on the overall embedding space. This approach allows us  Cites: Composition in distributional models of semantics

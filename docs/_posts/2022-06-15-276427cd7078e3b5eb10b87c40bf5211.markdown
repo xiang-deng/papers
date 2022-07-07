@@ -5,5 +5,4 @@ date:   2022-06-15 15:55:00 -0400
 categories: jekyll update
 author: "C Tan, J Zhang, J Liu - arXiv preprint arXiv:2206.04359, 2022"
 ---
-Despite being tremendously overparameterized, it is appreciated that deep neural networks trained by stochastic gradient descent (SGD) generalize surprisingly well. Based on the Rademacher complexity of a pre-specified hypothesis set, different norm-based generalization bounds have been developed to explain this phenomenon. However, recent studies suggest these bounds might be problematic as they increase with the training set size, which is contrary to empirical evidence. In 
-Cites: The break-even point on optimization trajectories of deep neural
+Despite being tremendously overparameterized, it is appreciated that deep neural networks trained by stochastic gradient descent (SGD) generalize surprisingly well. Based on the Rademacher complexity of a pre-specified hypothesis set, different norm-based generalization bounds have been developed to explain this phenomenon. However, recent studies suggest these bounds might be problematic as they increase with the training set size, which is contrary to empirical evidence. In  Cites: The break-even point on optimization trajectories of deep neural
