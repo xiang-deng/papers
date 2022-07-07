@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Quality versus Quantity: Building Catalan-English MT Resources"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "O de Gibert, K Kharitonova, BC Figueras…"
+---
+In this work, we make the case of quality over quantity when training a MT system for a medium-to-low-resource language pair, namely Catalan-English. We compile our training corpus out of existing resources of varying quality and a new high-quality corpus. We also provide new evaluation translation datasets in three different domains. In the process of building Catalan-English parallel resources, we evaluate the impact of drastically filtering alignments in the resulting MT engines. Our results …
+Cites: ‪Multilingual denoising pre-training for neural machine translation‬  

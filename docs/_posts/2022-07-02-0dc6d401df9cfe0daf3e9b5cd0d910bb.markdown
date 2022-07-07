@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Wav2Vec-Aug: Improved self-supervised training with limited data"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "A Sriram, M Auli, A Baevski - arXiv preprint arXiv:2206.13654, 2022"
+---
+Self-supervised learning (SSL) of speech representations has received much attention over the last few years but most work has focused on languages and domains with an abundance of unlabeled data. However, for many languages there is a shortage even in the unlabeled data which limits the effectiveness of SSL. In this work, we focus on the problem of applying SSL to domains with limited available data by leveraging data augmentation for Wav2Vec 2.0 pretraining. Further, we …
+Cites: ‪Pushing the limits of semi-supervised learning for automatic …‬  

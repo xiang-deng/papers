@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Analytical range query acceleration"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "Z Li - 2022"
+---
+With the ever-increasing data amount in daily business operations, efficiently retrieving query results has gotten considerably more difficult. This is especially true for analytical range queries that need to process a large portion of data to generate analytical results. In this thesis, we identify three analytical range queries, each of which is a read-only query containing a range parameter to limit the scope of the dataset or the output result size. We provide efficient algorithms to reduce their query …
+Cites: ‪DBExplorer: Exploratory Search in Databases.‬  

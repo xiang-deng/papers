@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Entwicklung eines Korrekturmodells für BioNER"
+date:   2022-07-06 06:18:13 -0400
+categories: jekyll update
+author: "J Hoffschulte"
+---
+NER ist ein weit untersuchtes Feld und aktuell dominieren transformer-basierte Modelle, die vortrainierte Sprachmodelle benutzen [3, 6]. In der Regel wird ein BioNER-Modell auf einem Korpus trainiert und auf dem gleichen Korpus evaluiert. Es existieren eine Reihe von Arbeiten, die versuchen die Generalisierbarkeit von BioNER-Modellen mit unterschiedlichen Ansätzen zu verbessern [5]. Im Rahmen von Cross-corpus-Evaluationen werden BioNER-Modelle trainiert und auf einem …
+Cites: ‪Biomedical and clinical English model packages in the Stanza …‬  

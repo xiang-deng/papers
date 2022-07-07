@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient in-hardware compression of on-chip data"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "A Ghasemazar - 2021"
+---
+The past decade has seen tremendous growth in how much data is collected and stored, and consequently in the sizes of application working sets. Onchip memory capacities, however, have not kept up: average CPU last-level cache capacity per core (thread) has stagnated at 1MB. Similar trends exist in special-purpose computing systems, with only up to tens of megabytes of on-chip memory available in most recent AI accelerators. In this dissertation, we explore hardware-friendly online …
+Cites: ‪Sparse networks from scratch: Faster training without losing …‬  

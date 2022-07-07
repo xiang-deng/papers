@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deep Neural Sequence to Sequence Lexical Substitution for the Polish Language"
+date:   2022-06-30 03:02:10 -0400
+categories: jekyll update
+author: "M Pogoda, K Gawron, N Ropiak, M Swędrowski… - International Conference on …, 2022"
+---
+The aim of this paper is to investigate the applicability of language models to the problem of lexical substitution in a strongly inflected language. For this purpose, we focus on pre-trained models based on transformer architectures, in particular BERT and BART. We present a solution in the form of the BART-based sequence-to-sequence model. Then we propose and explore a number of approaches to generate an artificial dataset for lexical substitution, using the adapted PLEWiC …
+Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬  

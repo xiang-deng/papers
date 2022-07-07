@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semi-supervised Grounding Alignment for Multi-modal Feature Learning"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "SH Chou, Z Fan, JJ Little, L Sigal"
+---
+Self-supervised transformer-based architectures, such as ViLBERT [1] and others, have recently emerged as dominant paradigms for multi-modal feature learning. Such architectures leverage large-scale datasets (eg, Conceptual Captions [2]) and, typically, image-sentence pairings, for selfsupervision. However, conventional multi-modal feature learning requires huge datasets and computing for both pre-training and fine-tuning to the target task. In this paper, we illustrate that more granular semi …
+Cites: ‪LXMERT: Learning Cross-Modality Encoder Representations from …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic Optimizations in Modern Hybrid Stores"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "R Alotaibi - 2022"
+---
+In recent years, big data applications often involve dealing with diverse datasets in terms of structure: relations flat or nested, complex-structure graphs, documents (JSON or XML), poorly structured logs, or even text data. To handle the heterogeneity of the data, application designers usually rely on several data stores used side-by-side, each supporting a different data model, associated query language (or data access API), and very efficient for some, but not all, kinds of processing on the data …
+Cites: ‪Constraint-based XML query rewriting for data integration‬  

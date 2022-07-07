@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "J Huang, Y Meng, J Han - arXiv preprint arXiv:2206.13746, 2022"
+---
+We study the problem of few-shot Fine-grained Entity Typing (FET), where only a few annotated entity mentions with contexts are given for each entity type. Recently, prompt-based tuning has demonstrated superior performance to standard fine-tuning in few-shot scenarios by formulating the entity type classification task as a  fill-in-the-blank  problem. This allows effective utilization of the strong language modeling capability of Pre-trained Language Models (PLMs). Despite the success of current …
+Cites: ‪PPT: Pre-trained Prompt Tuning for Few-shot Learning‬  

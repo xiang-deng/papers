@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SIRe-Networks: Convolutional neural networks architectural extension for information preservation via skip/residual connections and interlaced auto-encoders"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "D Avola, L Cinque, A Fagioli, GL Foresti - Neural Networks, 2022"
+---
+Improving existing neural network architectures can involve several design choices such as manipulating the loss functions, employing a diverse learning strategy, exploiting gradient evolution at training time, optimizing the network hyper-parameters, or increasing the architecture depth. The latter approach is a straightforward solution, since it directly enhances the representation capabilities of a network; however, the increased depth generally incurs in the well-known vanishing …
+Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Radar HRRP recognition of ship targets based on R-MLPs"
+date:   2022-07-06 06:18:13 -0400
+categories: jekyll update
+author: "Z Yue, J Lu, L Wan - … Conference on Neural Networks, Information, and …, 2022"
+---
+To improve the capability of mining the deep features of the target in the recognition process of the high-resolution distance image (HRRP) of the ship targets, based on multiple perceptron (MLP), the R-MLPs model is proposed. The model is constructed by recurrent neural network (RNN) and MLP, and the signal is encoded by RNN using the characteristics of the ship targets HRRP time-series signal. The encoded signal is further processed using an MLP with a spatial gate mechanism to extract …
+Cites: ‪Pay attention to mlps‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Graph Neural Networks as Gradient Flows"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "F Di Giovanni, J Rowbottom, BP Chamberlain… - arXiv preprint arXiv …, 2022"
+---
+Dynamical systems minimizing an energy are ubiquitous in geometry and physics. We propose a gradient flow framework for GNNs where the equations follow the direction of steepest descent of a learnable energy. This approach allows to explain the GNN evolution from a multi-particle perspective as learning attractive and repulsive forces in feature space via the positive and negative eigenvalues of a symmetric  channel-mixing  matrix. We perform spectral analysis of the solutions and …
+Cites: ‪Regularization on discrete spaces‬  

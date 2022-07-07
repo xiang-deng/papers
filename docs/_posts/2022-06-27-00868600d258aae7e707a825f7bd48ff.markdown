@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Lessons Learned from GPT-SW3: Building the First Large-Scale Generative Language Model for Swedish"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "A Ekgren, AC Gyllensten, E Gogoulou, A Heiman…"
+---
+We present GPT-SW3, a 3.5 billion parameter autoregressive language model, trained on a newly created 100 GB Swedish corpus. This paper provides insights with regard to data collection and training process, and discusses the challenges of proper evaluation. The results of quantitive evaluation using perplexity indicate that GPT-SW3 is a competent model in comparison with existing autoregressive models of similar size. Additionally, we perform an extensive prompting study which reveals …
+Cites: ‪Documenting Large Webtext Corpora: A Case Study on the …‬  

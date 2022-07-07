@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MATQA: Microservice-based Architecture for Temporal Question Answering on Knowledge Graph Embeddings"
+date:   2022-07-06 06:18:13 -0400
+categories: jekyll update
+author: "K Otte, KS Vestermark"
+---
+In this project we design and implement a microservice-based architecture for building temporal question answering systems on knowledge graph embedding models. We use a microservicebased architecture, as it provides us with the inherent scalability that comes with microservices, where load-balancing, combined with pod-management, means that a developer will not have to spend a lot of effort to upscale a system to encompass more simultaneous users. Furthermore, this type of …
+Cites: ‪Complex embeddings for simple link prediction‬  

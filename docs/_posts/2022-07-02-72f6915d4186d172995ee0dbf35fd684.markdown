@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Attention-based conditioning methods using variable frame rate for style-robust speaker verification"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "A Afshan, A Alwan - arXiv preprint arXiv:2206.13680, 2022"
+---
+We propose an approach to extract speaker embeddings that are robust to speaking style variations in text-independent speaker verification. Typically, speaker embedding extraction includes training a DNN for speaker classification and using the bottleneck features as speaker representations. Such a network has a pooling layer to transform frame-level to utterance-level features by calculating statistics over all utterance frames, with equal weighting. However, self-attentive embeddings …
+Cites: ‪Long short-term memory-networks for machine reading‬  

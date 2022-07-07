@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FL-Tuning: Layer Tuning for Feed-Forward Network in Transformer"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "J Liu, Y Song, K Xue, H Sun, C Wang, L Chen, H Jiang… - arXiv preprint arXiv …, 2022"
+---
+Prompt tuning is an emerging way of adapting pre-trained language models to downstream tasks. However, the existing studies are mainly to add prompts to the input sequence. This way would not work as expected due to the intermediate multi-head self-attention and feed-forward network computation, making model optimization not very smooth. Hence, we propose a novel tuning way called layer tuning, aiming to add learnable parameters in Transformer layers. Specifically, we …
+Cites: ‪Prefix-tuning: Optimizing continuous prompts for generation‬  

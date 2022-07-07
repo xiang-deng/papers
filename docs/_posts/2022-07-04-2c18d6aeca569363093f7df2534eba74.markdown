@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Recursive Reasoning Graph for Multi-Agent Reinforcement Learning"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "X Ma, D Isele, JK Gupta, K Fujimura, MJ Kochenderfer - Proceedings of the AAAI …, 2022"
+---
+Multi-agent reinforcement learning (MARL) provides an efficient way for simultaneously learning policies for multiple agents interacting with each other. However, in scenarios requiring complex interactions, existing algorithms can suffer from an inability to accurately anticipate the influence of self-actions on other agents. Incorporating an ability to reason about other agents  potential responses can allow an agent to formulate more effective strategies. This paper adopts a recursive …
+Cites: ‪Opponent modeling in deep reinforcement learning‬  

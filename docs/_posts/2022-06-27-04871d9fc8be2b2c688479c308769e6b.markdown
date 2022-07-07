@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FPGA-Optimized Neural Network for Cloud Detection from Satellite Images"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "S Hong - 2022"
+---
+This thesis presents a highly compact neural network model optimized for FPGAimplementations, targeting real-time cloud detection from RGB satellite images. Our model uses an encoder and decoder structure without skip connections, and uses piecewise linear activation functions for low-resource hardware implementations. Detecting Clouds from images using deep learning has made a lot of progress with image recognition and computer vision, at the cost of intensive …
+Cites: ‪Espnet: Efficient spatial pyramid of dilated convolutions for …‬  

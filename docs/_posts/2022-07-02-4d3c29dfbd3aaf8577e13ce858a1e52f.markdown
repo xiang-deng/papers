@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MFSE: a meta-fusion model for polypharmacy side-effect prediction with graph neural networks"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "Ά Ραγκούσης - 2022"
+---
+The purpose of this thesis is to design MFSE, a meta-fusion model using graph neural networks for combining multi-modal information effectively for the task of polypharmacy side-effect prediction. To the best of our knowledge, this approach is the first that fuses three important information sources (molecular, target and drug-drug interaction information) depicted as separate graphs, and outperforms previous state-of-the-art approaches, reaching an AUROC score of 0.95 and an AUPRC score …
+Cites: ‪Dynet: The dynamic neural network toolkit‬  

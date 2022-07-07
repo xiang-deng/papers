@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TPU-KNN: K Nearest Neighbor Search at Peak FLOP/s"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "F Chern, B Hechtman, A Davis, R Guo, D Majnemer… - arXiv preprint arXiv …, 2022"
+---
+This paper presents a novel nearest neighbor search algorithm achieving TPU (Google Tensor Processing Unit) peak performance, outperforming state-of-the-art GPU algorithms with similar level of recall. The design of the proposed algorithm is motivated by an accurate accelerator performance model that takes into account both the memory and instruction bottlenecks. Our algorithm comes with an analytical guarantee of recall in expectation and does not require maintaining sophisticated …
+Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬  

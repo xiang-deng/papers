@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On Structural Explanation of Bias in Graph Neural Networks"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "Y Dong, S Wang, Y Wang, T Derr, J Li - arXiv preprint arXiv:2206.12104, 2022"
+---
+Graph Neural Networks (GNNs) have shown satisfying performance in various graph analytical problems. Hence, they have become the\emph {de facto} solution in a variety of decision-making scenarios. However, GNNs could yield biased results against certain demographic subgroups. Some recent works have empirically shown that the biased structure of the input network is a significant source of bias for GNNs. Nevertheless, no studies have systematically scrutinized which part of the input …
+Cites: ‪Graph neural networks: A review of methods and applications‬  

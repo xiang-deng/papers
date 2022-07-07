@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Évaluation réaliste de l apprentissage Few-Shot transductif"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "O Veilleux - 2022"
+---
+La communauté de l apprentissage Few-Shot porte un grand intérêt de recherche pour les méthodes transductives. Ces méthodes posent leur inférence en exploitant à la fois les données annotées de la base de support et celles non-annotées de la base de query. Elles ont su surpassé de manière significative les performances des méthodes inductives. Nous remettons en question les performances de ces méthodes par le fait que le processus d évaluation actuel n est pas adéquat. Les …
+Cites: ‪Learning with Local and Global Consistency.‬  

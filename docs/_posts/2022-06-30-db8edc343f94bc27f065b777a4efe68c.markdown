@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Lightweight and accurate system for entity extraction and linking"
+date:   2022-06-30 03:02:10 -0400
+categories: jekyll update
+author: "DA Evseev"
+---
+Entity extraction and linking components in dialogue assistants should meet the requirements of low resource consumption and high accuracy. In this paper we present lightweight system which extracts entity mentions from the text and finds corresponding Wikidata ids and Wikipedia pages links. Entity extraction and linking is performed into the following steps: extraction of entity substrings from the text, retrieval of candidate entities from Wikidata knowledge base and entity …
+Cites: ‪Autoregressive entity retrieval‬  

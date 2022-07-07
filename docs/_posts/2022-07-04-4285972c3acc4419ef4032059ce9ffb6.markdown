@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "日本語物語文を対象とする空所穴埋め問題データセット Dataset of Cloze Questions for Japanese Narrative Text"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "土屋雅稔， 渡会拓人 - 人工知能学会論文誌, 2022"
+---
+抄録 This paper describes our dataset of Japanese cloze questions designed for the evaluation of machine reading comprehension. The dataset consists of questions automatically generated from Aozora Bunko, and each question is defined as a 4-tuple: a context passage, a query holding a slot, an answer character, and a set of possible answer characters. The query is generated from the original sentence, which appears immediately after the context passage on the target book, by …
+Cites: ‪Are we modeling the task or the annotator? an investigation of …‬  

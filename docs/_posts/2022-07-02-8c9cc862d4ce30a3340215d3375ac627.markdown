@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Endowing Language Models with Multimodal Knowledge Graph Representations"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "N Huang, YR Deshpande, Y Liu, H Alberts, K Cho… - arXiv preprint arXiv …, 2022"
+---
+We propose a method to make natural language understanding models more parameter efficient by storing knowledge in an external knowledge graph (KG) and retrieving from this KG using a dense index. Given (possibly multilingual) downstream task data, eg, sentences in German, we retrieve entities from the KG and use their multimodal representations to improve downstream task performance. We use the recently released VisualSem KG as our external knowledge repository …
+Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬  

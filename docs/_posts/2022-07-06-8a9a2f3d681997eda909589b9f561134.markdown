@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring Approaches for a Question Answering System"
+date:   2022-07-06 06:18:13 -0400
+categories: jekyll update
+author: "L Dupont, N Echo - 2022"
+---
+In a previous blog post, we described the experiments that were conducted to implement such a system with Dialogflow ES [1]. Since then, Nu Echo has explored new approaches to implement a question answering system that could eventually be integrated into a conversational agent in production. This article aims to summarize the steps that led to the choice of the final solution, namely a system using Google s Universal Sentence Encoder (USE) model combined with a neural network.
+Cites: ‪Deep Unordered Composition Rivals Syntactic Methods for Text …‬  

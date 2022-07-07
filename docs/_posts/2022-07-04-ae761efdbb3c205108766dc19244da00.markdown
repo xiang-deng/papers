@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Regularized Fine-tuning Strategies for Neural Language Models: Application of entropy regularization on GPT-2"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "JE Hong - 2022"
+---
+Deep neural language models like GPT-2 is undoubtedly strong at text generation, but often requires special decoding strategies to prevent producing degenerate output-namely repetition. The use of maximum likelihood training objective results in a peaked probability distribution, leading to the overconfidence of neural networks. In this thesis, we explore entropy regularization for a neural language model that can easily smooth peaked output distribution during the fine-tuning process employing …
+Cites: ‪Neural text generation with unlikelihood training‬  

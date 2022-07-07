@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Out-of-Distribution Detection in High-Dimensional Data Using Mahalanobis Distance-Critical Analysis"
+date:   2022-06-30 03:02:10 -0400
+categories: jekyll update
+author: "H Maciejewski, T Walkowiak, K Szyc - International Conference on Computational …, 2022"
+---
+Convolutional neural networks used in real-world recognition must be able to detect inputs that are Out-of-Distribution (OoD) with respect to the known or training data. A popular, simple method is to detect OoD inputs using confidence scores based on the Mahalanobis distance from known data. However, this procedure involves estimating the multivariate normal (MVN) density of high dimensional data using the insufficient number of observations (eg, the dimensionality of features at the last two …
+Cites: ‪Meta pseudo labels‬  

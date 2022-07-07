@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semi-supervised and personalized federated activity recognition based on active learning and label propagation"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "R Presotto, G Civitarese, C Bettini - Personal and Ubiquitous Computing, 2022"
+---
+One of the major open problems in sensor-based Human Activity Recognition (HAR) is the scarcity of labeled data. Among the many solutions to address this challenge, semi-supervised learning approaches represent a promising direction. However, their centralized architecture incurs in the scalability and privacy problems that arise when the process involves a large number of users. Federated learning (FL) is a promising paradigm to address these problems. However, the FL methods that have …
+Cites: ‪Learning with Local and Global Consistency.‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "D-Terminer: Online Demo for Monolingual and Bilingual Automatic Term Extraction"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "A Rigouts Terryn, V Hoste, E Lefever - Proceedings of the TERM21 Workshop, 2022"
+---
+This contribution presents D-Terminer: an open access, online demo for monolingual and multilingual automatic term extraction from parallel corpora. The monolingual term extraction is based on a recurrent neural network, with a supervised methodology that relies on pretrained embeddings. Candidate terms can be tagged in their original context and there is no need for a large corpus, as the methodology will work even for single sentences. With the bilingual term extraction from parallel …
+Cites: ‪Word Alignment by Fine-tuning Embeddings on Parallel Corpora‬  

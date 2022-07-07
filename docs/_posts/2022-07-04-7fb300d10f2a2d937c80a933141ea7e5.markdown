@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Investigating the Quality of Static Anchor Embeddings from Transformers for Under-Resourced Languages"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "P Singh, O De Clercq, E Lefever - The 1st Annual Meeting of the ELRA/ISCA Special …, 2022"
+---
+This paper reports on experiments for cross-lingual transfer using the anchor-based approach of Schuster et al.(2019) for English and a low-resourced language, namely Hindi. For the sake of comparison, we also evaluate the approach on three very different higher-resourced languages, viz. Dutch, Russian and Chinese. Initially designed for ELMo embeddings, we analyze the approach for the more recent BERT family of transformers for a variety of tasks, both mono and cross-lingual. The results …
+Cites: ‪Cross-lingual Sentiment Transfer with Limited Resources‬  

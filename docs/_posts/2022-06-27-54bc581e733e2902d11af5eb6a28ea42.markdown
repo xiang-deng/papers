@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Langevin Monte Carlo for Contextual Bandits"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "P Xu, H Zheng, E Mazumdar, K Azizzadenesheli… - arXiv preprint arXiv …, 2022"
+---
+We study the efficiency of Thompson sampling for contextual bandits. Existing Thompson sampling-based algorithms need to construct a Laplace approximation (ie, a Gaussian distribution) of the posterior distribution, which is inefficient to sample in high dimensional applications for general covariance matrices. Moreover, the Gaussian approximation may not be a good surrogate for the posterior distribution for general reward generating functions. We propose an efficient posterior sampling …
+Cites: ‪Provably optimal algorithms for generalized linear contextual bandits‬  

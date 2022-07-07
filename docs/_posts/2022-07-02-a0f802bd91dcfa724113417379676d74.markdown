@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unified BERT for Few-shot Natural Language Understanding"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "JY Lu, P Yang, JX Zhang, RY Gan, J Yang - arXiv preprint arXiv:2206.12094, 2022"
+---
+Even as pre-trained language models share a semantic encoder, natural language understanding suffers from a diversity of output schemas. In this paper, we propose UBERT, a unified bidirectional language understanding model based on BERT framework, which can universally model the training objects of different NLU tasks through a biaffine network. Specifically, UBERT encodes prior knowledge from various aspects, uniformly constructing learning representations across multiple NLU …
+Cites: ‪Muppet: Massive multi-task representations with pre-finetuning‬  

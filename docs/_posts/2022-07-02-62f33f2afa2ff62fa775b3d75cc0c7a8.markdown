@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Classification of Pull Requests using Transformers"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "O Fridh, S Stypa"
+---
+Pull-based development is a widespread paradigm in both open source and proprietary software projects. Since pull requests are a central piece of this workflow, their natural language descriptions are often key to ensuring an organized project progression. This thesis explores the usage of BERT based models for automatic pull request classification, and compares how models pre-trained on code and natural language react to different components of a pull request. We extended an existing …
+Cites: ‪Palm: Scaling language modeling with pathways‬  

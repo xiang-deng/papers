@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving deliberation by text-only and semi-supervised training"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "K Hu, TN Sainath, Y He, R Prabhavalkar, T Strohman… - arXiv preprint arXiv …, 2022"
+---
+Text-only and semi-supervised training based on audio-only data has gained popularity recently due to the wide availability of unlabeled text and speech data. In this work, we propose incorporating text-only and semi-supervised training into an attention-based deliberation model. By incorporating text-only data in training a bidirectional encoder representation from transformer (BERT) for the deliberation text encoder, and large-scale text-to-speech and audio-only utterances using joint …
+Cites: ‪Bigssl: Exploring the frontier of large-scale semi-supervised …‬  

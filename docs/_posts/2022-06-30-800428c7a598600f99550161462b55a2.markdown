@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transformer with Tree-order Encoding for Neural Program Generation"
+date:   2022-06-30 03:02:10 -0400
+categories: jekyll update
+author: "KD Thellmann, B Stadler, R Usbeck, J Lehmann"
+---
+While a considerable amount of semantic parsing approaches have employed RNN architectures for code generation tasks, there have been only few attempts to investigate the applicability of Transformers for this task. Including hierarchical information of the underlying programming language syntax has proven to be effective for code generation. Since the positional encoding of the Transformer can only represent positions in a flat sequence, we have extended the encoding scheme …
+Cites: ‪Data recombination for neural semantic parsing‬  

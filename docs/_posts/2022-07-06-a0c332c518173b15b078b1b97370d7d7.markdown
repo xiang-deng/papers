@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Forget-me-not! Contrastive Critics for Mitigating Posterior Collapse"
+date:   2022-07-06 06:18:13 -0400
+categories: jekyll update
+author: "S Menon, D Blei, C Vondrick"
+---
+Variational autoencoders (VAEs) suffer from posterior collapse, where the powerful neural networks used for modeling and inference optimize the objective without meaningfully using the latent representation. We introduce inference critics that detect and incentivize against posterior collapse by requiring correspondence between latent variables and the observations. By connecting the critic s objective to the literature in self-supervised contrastive representation learning, we show both …
+Cites: ‪Lagging Inference Networks and Posterior Collapse in Variational …‬  

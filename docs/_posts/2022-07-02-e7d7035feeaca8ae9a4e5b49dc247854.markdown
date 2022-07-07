@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "L Wang, B Qin, B Hui, B Li, M Yang, B Wang, B Li… - arXiv preprint arXiv …, 2022"
+---
+The importance of building text-to-SQL parsers which can be applied to new databases has long been acknowledged, and a critical step to achieve this goal is schema linking, ie, properly recognizing mentions of unseen columns or tables when generating SQLs. In this work, we propose a novel framework to elicit relational structures from large-scale pre-trained language models (PLMs) via a probing procedure based on Poincar\ e distance metric, and use the induced relations to …
+Cites: ‪Meta-learning for domain generalization in semantic parsing‬  

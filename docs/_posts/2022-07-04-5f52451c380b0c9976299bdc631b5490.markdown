@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations"
+date:   2022-07-04 12:22:48 -0400
+categories: jekyll update
+author: "Z Yang, K Kafle, F Dernoncourt, VO Román - arXiv preprint arXiv:2206.15462, 2022"
+---
+We propose a margin-based loss for vision-language model pretraining that encourages gradient-based explanations that are consistent with region-level annotations. We refer to this objective as Attention Mask Consistency (AMC) and demonstrate that it produces superior visual grounding performance compared to models that rely instead on region-level annotations for explicitly training an object detector such as Faster R-CNN. AMC works by encouraging gradient-based …
+Cites: ‪MAttNet: Modular Attention Network for Referring Expression …‬  

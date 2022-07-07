@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Ensemble learning for the partial label ranking problem"
+date:   2022-06-27 23:23:24 -0400
+categories: jekyll update
+author: "JC Alfaro, JA Aledo, JA Gámez - Mathematical Methods in the Applied Sciences, 2022"
+---
+The partial label ranking problem is a general interpretation of the preference learning scenario known as the label ranking problem, the goal of which is to learn preference classifiers able to predict a complete ranking with ties over the finite set of labels of the class variable. In this paper, we use unsupervised discretization techniques (equal‐frequency and equal‐width binning) to heuristically select the threshold for the numerical features in the algorithms based on induction of decision …
+Cites: ‪Constraint classification for multiclass classification and ranking‬  

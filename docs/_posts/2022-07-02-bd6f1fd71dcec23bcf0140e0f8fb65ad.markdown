@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Bandwagon Effect: Not Just Another Bias"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "N Knyazev, H Oosterhuis - arXiv preprint arXiv:2206.12701, 2022"
+---
+Optimizing recommender systems based on user interaction data is mainly seen as a problem of dealing with selection bias, where most existing work assumes that interactions from different users are independent. However, it has been shown that in reality user feedback is often influenced by earlier interactions of other users, eg via average ratings, number of views or sales per item, etc. This phenomenon is known as the bandwagon effect. In contrast with previous literature, we argue that the …
+Cites: ‪User modeling with neural network for review rating prediction‬  

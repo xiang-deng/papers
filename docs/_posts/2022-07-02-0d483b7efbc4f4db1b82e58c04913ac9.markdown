@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MGAD: Learning Descriptional Representation Distilled from Distributional Semantics for Unseen Entities"
+date:   2022-07-02 02:42:16 -0400
+categories: jekyll update
+author: "Y Wang, X Cheng, Y Fan, X Zhu, H Liang, Q Yan, J Guo"
+---
+Entity representation plays a central role in building effective entity retrieval models. Recent works propose to learn entity representations based on entity-centric contexts, which achieve SOTA performances on many tasks. However, these methods lead to poor representations for unseen entities since they rely on a multitude of occurrences for each entity to enable accurate representations. To address this issue, we propose to learn enhanced descriptional representations for …
+Cites: ‪Zero-Shot Entity Linking by Reading Entity Descriptions‬  
