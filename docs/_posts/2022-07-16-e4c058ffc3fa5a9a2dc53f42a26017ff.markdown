@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Topology-Aware Network Pruning using Multi-stage Graph Embedding and Reinforcement Learning"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "S Yu, A Mazaheri, A Jannesari - International Conference on Machine Learning, 2022"
+---
+Abstract Model compression is an essential technique for deploying deep neural networks (DNNs) on power and memory-constrained resources. However, existing model-compression methods often rely on human expertise and focus on parameters  local importance, ignoring the rich topology information within DNNs. In this paper, we propose a novel multi-stage graph embedding technique based on graph neural networks (GNNs) to identify DNN topologies and use reinforcement …
+Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "視覚言語融合タスクにおける Transformer の自動構造探索"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "菅沼雅徳 - 人工知能学会全国大会論文集 第 36 回 (2022), 2022"
+---
+抄録 Transformer が提案されて以来, 画像認識, 自然言語処理, それらの融合タスクなど幅広い分野でその優れた性能を示している. 一般的に, 深層学習モデルのネットワーク構造が性能に与える影響は大きく, Transformer もその例外ではない. しかし, 学習コストの高さから, 十分に Transformer の構造探索が実施されておらず, その潜在能力を最大限に発揮しているとは言えないのが現状である. そこで本論文では, まず多種多様な Transformer が構築可能な探索空間を設計し, そしてその膨大な探索空間 …
+Cites: ‪Searching for Efficient Transformers for Language Modeling‬  

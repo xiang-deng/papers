@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Multi Resolution Analysis (MRA) for Approximate Self-Attention"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "Z Zeng, S Pal, J Kline, GM Fung, V Singh - International Conference on Machine …, 2022"
+---
+Transformers have emerged as a preferred model for many tasks in natural langugage processing and vision. Recent efforts on training and deploying Transformers more efficiently have identified many strategies to approximate the self-attention matrix, a key module in a Transformer architecture. Effective ideas include various prespecified sparsity patterns, low-rank basis expansions and combinations thereof. In this paper, we revisit classical Multiresolution Analysis (MRA) concepts …
+Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬  

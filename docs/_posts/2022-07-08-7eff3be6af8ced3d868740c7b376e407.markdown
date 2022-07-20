@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Log-Precision Transformers are Constant-Depth Uniform Threshold Circuits"
+date:   2022-07-08 09:39:49 -0400
+categories: jekyll update
+author: "W Merrill, A Sabharwal - arXiv preprint arXiv:2207.00729, 2022"
+---
+We prove that transformer neural networks with logarithmic precision in the input length (and where the feedforward subnetworks are computable using linear space in their input length) can be simulated by constant-depth uniform threshold circuits. Thus, such transformers only recognize formal languages in $\mathsf {TC}^ 0$, the class of languages defined by constant-depth, poly-size threshold circuits. This demonstrates a connection between a practical claim in NLP and a theoretical …
+Cites: ‪Saturated Transformers are Constant-Depth Threshold Circuits‬  

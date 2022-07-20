@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Subspace Learning for Effective Meta-Learning"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "W Jiang, J Kwok, Y Zhang - International Conference on Machine Learning, 2022"
+---
+Meta-learning aims to extract meta-knowledge from historical tasks to accelerate learning on new tasks. Typical meta-learning algorithms like MAML learn a globally-shared meta-model for all tasks. However, when the task environments are complex, task model parameters are diverse and a common meta-model is insufficient to capture all the meta-knowledge. To address this challenge, in this paper, task model parameters are structured into multiple subspaces, and each subspace represents …
+Cites: ‪Meta-Learning for Low-Resource Neural Machine Translation‬  

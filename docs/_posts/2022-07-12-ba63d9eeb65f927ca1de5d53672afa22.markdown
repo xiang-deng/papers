@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improved Computation of Database Operators via Vector Processing Near-Data"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "SR dos Santos, TR Kepe, MAZ Alves - 2022"
+---
+Data-centric applications are increasingly more common, causing issues brought on by the discrepancy between processor and memory technologies to be increasingly more apparent. Near-Data Processing (NDP) is an approach to mitigate this issue. It proposes moving some of the computation close to the memory, thus allowing for reduced data movement and aiding data-intensive workloads. Analytical database queries are very commonly used in NDP research due to their intrinsics usage of …
+Cites: ‪Challenges and opportunities with Big Data 2011-1‬  

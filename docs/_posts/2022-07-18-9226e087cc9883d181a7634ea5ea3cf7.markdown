@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parameter-Efficient Prompt Tuning Makes Generalized and Calibrated Neural Text Retrievers"
+date:   2022-07-18 23:00:30 -0400
+categories: jekyll update
+author: "WL Tam, X Liu, K Ji, L Xue, X Zhang, Y Dong, J Liu… - arXiv preprint arXiv …, 2022"
+---
+Prompt tuning attempts to update few task-specific parameters in pre-trained models. It has achieved comparable performance to fine-tuning of the full parameter set on both language understanding and generation tasks. In this work, we study the problem of prompt tuning for neural text retrievers. We introduce parameter-efficient prompt tuning for text retrieval across in-domain, cross-domain, and cross-topic settings. Through an extensive analysis, we show that the strategy can mitigate the …
+Cites: ‪Adapterhub: A framework for adapting transformers‬  

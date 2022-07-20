@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Matching Structure for Dual Learning"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "H Fei, S Wu, Y Ren, M Zhang - International Conference on Machine Learning, 2022"
+---
+Many natural language processing (NLP) tasks appear in dual forms, which are generally solved by dual learning technique that models the dualities between the coupled tasks. In this work, we propose to further enhance dual learning with structure matching that explicitly builds structural connections in between. Starting with the dual text $\leftrightarrow $ text generation, we perform dually-syntactic structure co-echoing of the region of interest (RoI) between the task pair, together …
+Cites: ‪Neural Semantic Parsing‬  

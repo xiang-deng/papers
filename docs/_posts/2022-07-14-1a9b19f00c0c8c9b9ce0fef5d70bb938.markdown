@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "LZ Guo, YF Li - International Conference on Machine Learning, 2022"
+---
+Semi-supervised learning (SSL) has proven to be successful in overcoming labeling difficulties by leveraging unlabeled data. Previous SSL algorithms typically assume a balanced class distribution. However, real-world datasets are usually class-imbalanced, causing the performance of existing SSL algorithms to be seriously decreased. One essential reason is that pseudo-labels for unlabeled data are selected based on a fixed confidence threshold, resulting in low performance on …
+Cites: ‪Unsupervised data augmentation for consistency training‬  

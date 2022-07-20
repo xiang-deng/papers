@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Customised Text Privatisation Mechanism with Differential Privacy"
+date:   2022-07-08 09:39:49 -0400
+categories: jekyll update
+author: "H Chen, F Mo, C Chen, J Cui, JY Nie - arXiv preprint arXiv:2207.01193, 2022"
+---
+In Natural Language Understanding (NLU) applications, training an effective model often requires a massive amount of data. However, text data in the real world are scattered in different institutions or user devices. Directly sharing them with NLU service provider brings huge privacy risks, as text data often contains sensitive information, leading to potential privacy leakage. A typical way to protect privacy is to directly privatize raw text and leverage Differential Privacy (DP) to quantify the …
+Cites: ‪Large language models can be strong differentially private learners‬  

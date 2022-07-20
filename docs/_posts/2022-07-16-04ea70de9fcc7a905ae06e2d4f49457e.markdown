@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Specializing Pre-trained Language Models for Better Relational Reasoning via Network Pruning"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "S Ren, K Zhu - Findings of the Association for Computational …, 2022"
+---
+Pretrained masked language models (PLMs) were shown to be inheriting a considerable amount of relational knowledge from the source corpora. In this paper, we present an in-depth and comprehensive study concerning specializing PLMs into relational models from the perspective of network pruning. We show that it is possible to find subnetworks capable of representing grounded commonsense relations at non-trivial sparsity while being more generalizable than original PLMs in scenarios …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬  

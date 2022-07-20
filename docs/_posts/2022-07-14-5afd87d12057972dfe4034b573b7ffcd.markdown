@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Nameling: Creative Neologism Generation with Transfer Learning"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "GR Lencione, RF Nogueira, PY Pasqualini"
+---
+This work proposes the adoption of deep pre-trained models to generate neologisms, approaching the word generation problem as a supervised summarization task in which we provide the definition of the topic as input and expect a new summarized word as output. We explore subword (T5) and character-level (ByT5) models for this task, fine-tuning them with two different datasets and assessing the quality of the outcomes. We demonstrate the success of the proposals …
+Cites: ‪Sentence compression beyond word deletion‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to Diversify for Product Question Generation"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "H Roitman, U Singer, Y Eshel, A Nus, E Kiperwasser - arXiv preprint arXiv …, 2022"
+---
+We address the product question generation task. For a given product description, our goal is to generate questions that reflect potential user information needs that are either missing or not well covered in the description. Moreover, we wish to cover diverse user information needs that may span a multitude of product types. To this end, we first show how the T5 pre-trained Transformer encoder-decoder model can be fine-tuned for the task. Yet, while the T5 generated questions have a reasonable …
+Cites: ‪Generating diverse translations with sentence codes‬  

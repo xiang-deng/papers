@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Robust and distributionally robust optimization models for Linear Support Vector Machine"
+date:   2022-07-08 09:39:49 -0400
+categories: jekyll update
+author: "D Faccini, F Maggioni, FA Potra - Computers & Operations Research, 2022"
+---
+In this paper we present novel data-driven optimization models for Support Vector Machines (SVM), with the aim of linearly separating two sets of points that have non-disjoint convex closures. Traditional classification algorithms assume that the training data points are always known exactly. However, real-life data are often subject to noise. To handle such uncertainty, we formulate robust models with uncertainty sets in the form of hyperrectangles or hyperellipsoids, and propose a moment-based …
+Cites: ‪Fairness without demographics in repeated loss minimization‬  

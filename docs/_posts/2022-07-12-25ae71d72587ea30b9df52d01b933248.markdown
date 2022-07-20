@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Gender Biases and Where to Find Them: Exploring Gender Bias in Pre-Trained Transformer-based Language Models Using Movement Pruning"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "P Joniak, A Aizawa - arXiv preprint arXiv:2207.02463, 2022"
+---
+Language model debiasing has emerged as an important field of study in the NLP community. Numerous debiasing techniques were proposed, but bias ablation remains an unaddressed issue. We demonstrate a novel framework for inspecting bias in pre-trained transformer-based language models via movement pruning. Given a model and a debiasing objective, our framework finds a subset of the model containing less bias than the original model. We implement our framework by …
+Cites: ‪PowerTransformer: Unsupervised controllable revision for biased …‬  

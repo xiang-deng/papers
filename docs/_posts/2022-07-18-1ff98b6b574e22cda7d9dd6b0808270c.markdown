@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Context-aware Sentiment Analysis on Refined Word Embeddings Word2Vec Model"
+date:   2022-07-18 23:00:30 -0400
+categories: jekyll update
+author: "D Sharma - 2022"
+---
+This paper proposes a model for the refining of word vectors that does not require a labelled corpus and may be applied to any pre-trained word vectors. The suggested technique employs a sentiment intensity lexicon that may offer realvalued sentiment data to rank a collection of semantically and emotionally related nearest neighbors for each word. The ranking nearest neighbors is then utilized to control the direction and distance of the refinement technique, which iteratively enhances the word vector …
+Cites: ‪Sentiment embeddings with applications to sentiment analysis‬  

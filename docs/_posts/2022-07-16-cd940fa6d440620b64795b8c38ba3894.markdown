@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sparse Distillation: Speeding Up Text Classification by Using Bigger Student Models"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "Q Ye, M Khabsa, M Lewis, S Wang, X Ren, A Jaech - … of the 2022 Conference of the …, 2022"
+---
+Distilling state-of-the-art transformer models into lightweight student models is an effective way to reduce computation cost at inference time. The student models are typically compact transformers with fewer parameters, while expensive operations such as self-attention persist. Therefore, the improved inference speed may still be unsatisfactory for real-time or high-volume use cases. In this paper, we aim to further push the limit of inference speed by distilling teacher models into bigger, sparser …
+Cites: ‪Hard-Coded Gaussian Attention for Neural Machine Translation‬  

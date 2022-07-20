@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "N Bansal, P Ji, J Yuan, Y Xu - arXiv preprint arXiv:2206.10562, 2022"
+---
+Multi-task learning (MTL) paradigm focuses on jointly learning two or more tasks, aiming for significant improvement wrt model s generalizability, performance, and training/inference memory footprint. The aforementioned benefits become ever so indispensable in the case of joint training for vision-related {\bf dense} prediction tasks. In this work, we tackle the MTL problem of two dense tasks,\ie, semantic segmentation and depth estimation, and present a novel attention module called …
+Cites: ‪Unsupervised data augmentation for consistency training‬  

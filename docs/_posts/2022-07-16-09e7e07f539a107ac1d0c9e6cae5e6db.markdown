@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Crowdsourcing with Contextual Uncertainty"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "VA Nguyen, P Shi, J Ramakrishnan, N Torabi… - 2022"
+---
+We study a crowdsourcing setting where we need to infer the latent truth about a task given observed labels together with context in the form of a classifier score. We present Theodon, a hierarchical nonparametric Bayesian model, developed and deployed at Meta, that captures both the prevalence of label categories and the accuracy of labelers as functions of the classifier score. Theodon uses Gaussian processes to model the non-uniformity of mistakes over the range of classifier scores …
+Cites: ‪Learning from the Wisdom of Crowds by Minimax Entropy.‬  

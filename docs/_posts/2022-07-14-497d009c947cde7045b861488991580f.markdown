@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ButterflyFlow: Building Invertible Layers with Butterfly Matrices"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "C Meng, L Zhou, K Choi, T Dao, S Ermon - International Conference on Machine …, 2022"
+---
+Normalizing flows model complex probability distributions using maps obtained by composing invertible layers. Special linear layers such as masked and 1 {\texttimes} 1 convolutions play a key role in existing architectures because they increase expressive power while having tractable Jacobians and inverses. We propose a new family of invertible linear layers based on butterfly layers, which are known to theoretically capture complex linear structures including permutations and …
+Cites: ‪Palm: Scaling language modeling with pathways‬  

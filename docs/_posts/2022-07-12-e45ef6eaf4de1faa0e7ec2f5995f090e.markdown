@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CoQAR: Question Rewriting on CoQA"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "Q Brabant, G Lecorve, LM Rojas-Barahona - arXiv preprint arXiv:2207.03240, 2022"
+---
+Questions asked by humans during a conversation often contain contextual dependencies, ie, explicit or implicit references to previous dialogue turns. These dependencies take the form of coreferences (eg, via pronoun use) or ellipses, and can make the understanding difficult for automated systems. One way to facilitate the understanding and subsequent treatments of a question is to rewrite it into an out-of-context form, ie, a form that can be understood without the conversational context …
+Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬  

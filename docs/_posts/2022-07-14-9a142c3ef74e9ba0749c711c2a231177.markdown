@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Start Small, Think Big: On Hyperparameter Optimization for Large-Scale Knowledge Graph Embeddings"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "A Kochsiek, F Niesel, R Gemulla"
+---
+Knowledge graph embedding (KGE) models are an effective and popular approach to represent and reason with multi-relational data. Prior studies have shown that KGE models are sensitive to hyperparameter settings, however, and that suitable choices are dataset-dependent. In this paper, we explore hyperparameter optimization (HPO) for very large knowledge graphs, where the cost of evaluating individual hyperparameter configurations is excessive. Prior studies often avoided this cost by …
+Cites: ‪Observed Versus Latent Features for Knowledge Base and Text …‬  

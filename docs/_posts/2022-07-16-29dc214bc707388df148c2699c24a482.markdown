@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "JBNU-CCLab at SemEval-2022 Task 12: Machine Reading Comprehension and Span Pair Classification for Linking Mathematical Symbols to Their Descriptions"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "SM Lee, SH Na - Proceedings of the 16th International Workshop on …, 2022"
+---
+This paper describes our system in the SemEval-2022 Task 12: linking mathematical symbols to their descriptions , achieving first on the leaderboard for all the subtasks comprising named entity extraction (NER) and relation extraction (RE). Our system is a two-stage pipeline model based on SciBERT that detects symbols, descriptions, and their relationships in scientific documents. The system consists of 1) machine reading comprehension (MRC)-based NER model, where each entity type is …
+Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An MLP-based Algorithm for Efficient Contrastive Graph Recommendations"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "S Liu, I Ounis, C Macdonald - Proceedings of the 45th International ACM SIGIR …, 2022"
+---
+Graph-based recommender systems (GBRSs) have achieved promising performance by incorporating the user-item bipartite graph using the Graph Neural Network (GNN). Among GBRSs, the information from each user and item s multi-hop neighbours is effectively conveyed between nodes through neighbourhood aggregation and message passing. Although effective, existing neighbourhood information aggregation and passing functions are usually computationally …
+Cites: ‪So, and Quoc V Le. Pay attention to mlps‬  

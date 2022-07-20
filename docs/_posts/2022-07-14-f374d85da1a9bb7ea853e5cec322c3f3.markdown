@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Variational Inference for Infinitely Deep Neural Networks"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "A Nazaret, D Blei - International Conference on Machine Learning, 2022"
+---
+We introduce the unbounded depth neural network (UDN), an infinitely deep probabilistic model that adapts its complexity to the training data. The UDN contains an infinite sequence of hidden layers and places an unbounded prior on a truncation L, the layer from which it produces its data. Given a dataset of observations, the posterior UDN provides a conditional distribution of both the parameters of the infinite neural network and its truncation. We develop a novel variational inference …
+Cites: ‪Online latent Dirichlet allocation with infinite vocabulary‬  

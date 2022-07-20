@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "Y Li, S Qi, C Gao, Y Peng, D Lo, Z Xu, MR Lyu - arXiv preprint arXiv:2207.04285, 2022"
+---
+Transformer-based models have demonstrated state-of-the-art performance in many intelligent coding tasks such as code comment generation and code completion. Previous studies show that deep learning models are sensitive to the input variations, but few studies have systematically studied the robustness of Transformer under perturbed input code. In this work, we empirically study the effect of semantic-preserving code transformation on the performance of Transformer. Specifically, 24 …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬  

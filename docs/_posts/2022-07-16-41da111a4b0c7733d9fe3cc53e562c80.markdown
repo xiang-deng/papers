@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On Synthetic Data for Back Translation"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "J Xu, Y Ruan, W Bi, G Huang, S Shi, L Chen, L Liu - … of the 2022 Conference of the …, 2022"
+---
+Back translation (BT) is one of the most significant technologies in NMT research fields. Existing attempts on BT share a common characteristic: they employ either beam search or random sampling to generate synthetic data with a backward model but seldom work studies the role of synthetic data in the performance of BT. This motivates us to ask a fundamental question: what kind of synthetic data contributes to BT performance? Through both theoretical and empirical studies, we identify two key …
+Cites: ‪Decoding and Diversity in Machine Translation‬  

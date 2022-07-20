@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "Y Wang, S Mukherjee, X Liu, J Gao, A Awadallah… - Findings of the Association …, 2022"
+---
+We present a new method LiST for efficient fine-tuning of large pre-trained language models (PLMs) in few-shot learning settings. LiST improves over recent methods that adopt prompt-based fine-tuning (FN) using two key techniques. The first is the use of self-training to leverage large amounts of unlabeled data for prompt-based FN in few-shot settings. We use self-training in conjunction with meta-learning for re-weighting noisy pseudo-prompt labels. Traditionally, self-training is expensive as it requires …
+Cites: ‪Strata: Self-training with task augmentation for better few-shot …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploiting Numerical-Contextual Knowledge to Improve Numerical Reasoning in Question Answering"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "J Kim, J Kang, K Kim, G Hong, SH Myaeng - Findings of the Association for …, 2022"
+---
+Numerical reasoning over text is a challenging subtask in question answering (QA) that requires both the understanding of texts and numbers. However, existing language models in these numerical reasoning QA models tend to overly rely on the pre-existing parametric knowledge at inference time, which commonly causes hallucination in interpreting numbers. Our work proposes a novel attention masked reasoning model, the NC-BERT, that learns to leverage the number-related …
+Cites: ‪Giving BERT a Calculator: Finding Operations and Arguments with …‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Win-Win Cooperation: Bundling Sequence and Span Models for Named Entity Recognition"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "B Ji, S Li, J Yu, J Ma, H Liu - arXiv preprint arXiv:2207.03300, 2022"
+---
+For Named Entity Recognition (NER), sequence labeling-based and span-based paradigms are quite different. Previous research has demonstrated that the two paradigms have clear complementary advantages, but few models have attempted to leverage these advantages in a single NER model as far as we know. In our previous work, we proposed a paradigm known as Bundling Learning (BL) to address the above problem. The BL paradigm bundles the two NER paradigms, enabling NER …
+Cites: ‪LinkBERT: Pretraining Language Models with Document Links‬  

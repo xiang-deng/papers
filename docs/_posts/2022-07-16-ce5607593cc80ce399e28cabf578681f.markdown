@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Discriminative Representations for Open Relation Extraction with Instance Ranking and Label Calibration"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "S Wang, B Duan, Y Wu, Y Xu - Findings of the Association for Computational …, 2022"
+---
+Open relation extraction is the task to extract relational facts without pre-defined relation types from open-domain corpora. However, since there are some hard or semi-hard instances sharing similar context and entity information but belonging to different underlying relation, current OpenRE methods always cluster them into the same relation type. In this paper, we propose a novel method based on Instance Ranking and Label Calibration strategies (IRLC) to learn discriminative …
+Cites: ‪Open information extraction from the web‬  

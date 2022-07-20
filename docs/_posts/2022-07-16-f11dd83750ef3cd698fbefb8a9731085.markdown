@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sparse Pairwise Re-ranking with Pre-trained Transformers"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "L Gienapp, M Fröbe, M Hagen, M Potthast - arXiv preprint arXiv:2207.04470, 2022"
+---
+Pairwise re-ranking models predict which of two documents is more relevant to a query and then aggregate a final ranking from such preferences. This is often more effective than pointwise re-ranking models that directly predict a relevance value for each document. However, the high inference overhead of pairwise models limits their practical application: usually, for a set of $ k $ documents to be re-ranked, preferences for all $ k^ 2-k $ comparison pairs excluding self-comparisons are …
+Cites: ‪Multi-stage document ranking with BERT‬  

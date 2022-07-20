@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Ensemble Is What We Need: Isolated Sign Recognition Edition"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "M Hrúz, I Gruber, J Kanis, M Boháček, M Hlaváč… - Sensors, 2022"
+---
+In this paper, we dive into sign language recognition, focusing on the recognition of isolated signs. The task is defined as a classification problem, where a sequence of frames (ie, images) is recognized as one of the given sign language glosses. We analyze two appearance-based approaches, I3D and TimeSformer, and one pose-based approach, SPOTER. The appearance-based approaches are trained on a few different data modalities, whereas the performance of SPOTER is evaluated on …
+Cites: ‪On the opportunities and risks of foundation models‬  

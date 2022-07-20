@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SimLM: Pre-training with Representation Bottleneck for Dense Passage Retrieval"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "L Wang, N Yang, X Huang, B Jiao, L Yang, D Jiang… - arXiv preprint arXiv …, 2022"
+---
+In this paper, we propose SimLM (Similarity matching with Language Model pre-training), a simple yet effective pre-training method for dense passage retrieval. It employs a simple bottleneck architecture that learns to compress the passage information into a dense vector through self-supervised pre-training. We use a replaced language modeling objective, which is inspired by ELECTRA, to improve the sample efficiency and reduce the mismatch of the input distribution between pre …
+Cites: ‪Natural questions: a benchmark for question answering research‬  

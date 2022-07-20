@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adversarial Robustness of Visual Dialog"
+date:   2022-07-12 02:15:42 -0400
+categories: jekyll update
+author: "L Yu, V Rieser - arXiv preprint arXiv:2207.02639, 2022"
+---
+Adversarial robustness evaluates the worst-case performance scenario of a machine learning model to ensure its safety and reliability. This study is the first to investigate the robustness of visually grounded dialog models towards textual attacks. These attacks represent a worst-case scenario where the input question contains a synonym which causes the previously correct model to return a wrong answer. Using this scenario, we first aim to understand how multimodal input components contribute …
+Cites: ‪Adversarial Example Generation with Syntactically Controlled …‬  

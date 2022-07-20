@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Counterfactual Misleading Inference Generation via Reinforced Proximal Policy Optimization"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "HY Peng, HL Chung, YH Chan, YC Fan - 2022"
+---
+In this paper, we propose to investigate Misleading Inference Generation, a new natural language generation task. The goal is to generate a counterfactual sentence for a context and a factual sentence. This paper proposes a framework based on BART and reinforcement learning for the misleading inference generation task. The experiment results show our model significantly outperforms the compared models, making our solution a necessary and strong baseline for future research toward …
+Cites: ‪Evaluating models’ local decision boundaries via contrast sets‬  

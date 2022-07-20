@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Explaining Dialogue Evaluation Metrics using Adversarial Behavioral Analysis"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "B Khalid, S Lee - Proceedings of the 2022 Conference of the North …, 2022"
+---
+There is an increasing trend in using neural methods for dialogue model evaluation. Lack of a framework to investigate these metrics can cause dialogue models to reflect their biases and cause unforeseen problems during interactions. In this work, we propose an adversarial test-suite which generates problematic variations of various dialogue aspects, eg logical entailment, using automatic heuristics. We show that dialogue metrics for both open-domain and task-oriented settings are biased in …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬  

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Models of Automated Documentation Generation for Source Code"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "A LeClair - 2022"
+---
+Source code summarization is the task of writing a short natural language summary for a section of source code. The most common targets for summarization are a program s subroutines. For example, a Java method with its accompanying JavaDoc string. Summaries help programmers more quickly understand code. The backbone of current code summarization techniques is the attentional encoder-decoder neural architecture, such as a seq2seq-like model. The research frontier is in improving …
+Cites: ‪A C-LSTM Neural Network for Text Classification‬  

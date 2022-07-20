@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Auxiliary Learning with Joint Task and Data Scheduling"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "H Chen, X Wang, C Guan, Y Liu, W Zhu - International Conference on Machine …, 2022"
+---
+Existing auxiliary learning approaches only consider the relationships between the target task and the auxiliary tasks, ignoring the fact that data samples within an auxiliary task could contribute differently to the target task, which results in inefficient auxiliary information usage and non-robustness to data noise. In this paper, we propose to learn a joint task and data schedule for auxiliary learning, which captures the importance of different data samples in each auxiliary task to the target task …
+Cites: ‪Optimizing Data Usage via Differentiable Rewards‬  

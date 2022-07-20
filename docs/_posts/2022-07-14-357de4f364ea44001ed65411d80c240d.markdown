@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Understanding the cost of fitness evaluation for subset selection: Markov chain analysis of stochastic local search"
+date:   2022-07-14 01:37:31 -0400
+categories: jekyll update
+author: "OJ Mengshoel, EL Flogard, T Yu, J Riege - Proceedings of the Genetic and …, 2022"
+---
+With a focus on both the fitness and cost of subset selection, we study stochastic local search (SLS) heuristics in this paper. In particular, we consider subset selection problems where the cost of fitness function evaluation needs to be accounted for. Here, cost can be fitness evaluation s computation time or energy cost. We propose and study an SLS method, SLS4CFF, tailored to such problems. SLS4CFF (  SLS for costly fitness functions ) is an amalgamation of several existing heuristics. We …
+Cites: ‪Portfolios in stochastic local search: Efficiently computing most …‬  

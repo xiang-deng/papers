@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Beyond characters: Subword-level morpheme segmentation"
+date:   2022-07-16 11:01:18 -0400
+categories: jekyll update
+author: "B Peters, AFT Martins - Proceedings of the 19th SIGMORPHON Workshop on …, 2022"
+---
+This paper presents DeepSPIN s submissions to the SIGMORPHON 2022 Shared Task on Morpheme Segmentation. We make three submissions, all to the word-level subtask. First, we show that entmax-based sparse sequence-tosequence models deliver large improvements over conventional softmax-based models, echoing results from other tasks. Then, we challenge the assumption that models for morphological tasks should be trained at the character level by building a …
+Cites: ‪Byte Pair Encoding is Suboptimal for Language Model Pretraining‬  

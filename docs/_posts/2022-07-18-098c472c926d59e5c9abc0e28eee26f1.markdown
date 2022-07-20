@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural text summarization with fine-grained control"
+date:   2022-07-18 23:00:30 -0400
+categories: jekyll update
+author: "J Xu - 2022"
+---
+Recently, neural network-based approaches have pushed the performance of both extractive and abstractive text summarization models to new heights. Despite these advances, the black-box nature of neural network based text summarization models makes them hard to interpret and control. We cannot force a model to include or exclude certain pieces of information, nor can we even guarantee that everything it includes is factual. Understanding the model s mechanism and designing methods to …
+Cites: ‪Adversarial Example Generation with Syntactically Controlled …‬  
