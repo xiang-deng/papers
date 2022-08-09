@@ -1,9 +1,8 @@
----
-layout: post
-title:  "longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks."
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "V Kovatchev, T Chatterjee, VS Govindarajan, J Chen… - Proceedings of the First …, 2022"
----
-Developing methods to adversarially challenge NLP systems is a promising avenue for improving both model performance and interpretability. Here, we describe the approach of the team “longhorns” on Task 1 of the The First Workshop on Dynamic Adversarial Data Collection (DADC), which asked teams to manually fool a model on an Extractive Question Answering task. Our team finished first (pending validation), with a model error rate of 62%. We advocate for a systematic, linguistically informed …
-Cites: ‪Trick me if you can: Human-in-the-loop generation of adversarial …‬  
+--- 
+layout: post 
+title: "longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks." 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "V Kovatchev, T Chatterjee, VS Govindarajan, J Chen - Proceedings of the First , 2022" 
+--- 
+Developing methods to adversarially challenge NLP systems is a promising avenue for improving both model performance and interpretability. Here, we describe the approach of the team longhorns on Task 1 of the The First Workshop on Dynamic Adversarial Data Collection (DADC), which asked teams to manually fool a model on an Extractive Question Answering task. Our team finished first (pending validation), with a model error rate of 62%. We advocate for a systematic, linguistically informed  Cites: Trick me if you can: Human-in-the-loop generation of adversarial

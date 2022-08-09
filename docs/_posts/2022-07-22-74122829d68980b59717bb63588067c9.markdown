@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Block-SCL: Blocking Matters for Supervised Contrastive Learning in Product Matching" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "M Almagro, D Jimnez, D Ortego, E Almazn - arXiv e-prints, 2022" 
+--- 
+Product matching is a fundamental step for the global understanding of consumer behavior in e-commerce. In practice, product matching refers to the task of deciding if two product offers from different data sources (eg retailers) represent the same product. Standard pipelines use a previous stage called blocking, where for a given product offer a set of potential matching candidates are retrieved based on similar characteristics (eg same brand, category, flavor, etc.). From these similar product  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

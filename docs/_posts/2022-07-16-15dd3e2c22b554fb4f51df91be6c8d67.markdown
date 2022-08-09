@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "C Lee, Y Seonwoo, A Oh - Proceedings of the 2022 Conference of the North …, 2022"
----
-We introduce CS1QA, a dataset for code-based question answering in the programming education domain. CS1QA consists of 9,237 question-answer pairs gathered from chat logs in an introductory programming class using Python, and 17,698 unannotated chat data with code. Each question is accompanied with the student s code, and the portion of the code relevant to answering the question. We carefully design the annotation process to construct CS1QA, and analyze the …
-Cites: ‪Graph-based, self-supervised program repair from diagnostic …‬  
+--- 
+layout: post 
+title: "CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "C Lee, Y Seonwoo, A Oh - Proceedings of the 2022 Conference of the North , 2022" 
+--- 
+We introduce CS1QA, a dataset for code-based question answering in the programming education domain. CS1QA consists of 9,237 question-answer pairs gathered from chat logs in an introductory programming class using Python, and 17,698 unannotated chat data with code. Each question is accompanied with the student s code, and the portion of the code relevant to answering the question. We carefully design the annotation process to construct CS1QA, and analyze the  Cites: Graph-based, self-supervised program repair from diagnostic

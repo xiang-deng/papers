@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Disentangling Indirect Answers to Yes-No Questions in Real Conversations"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "K Sanagavarapu, J Singaraju, A Kakileti, A Kaza… - Proceedings of the 2022 …, 2022"
----
-In this paper, we explore the task of determining indirect answers to yes-no questions in real conversations. We work with transcripts of phone conversations in the Switchboard Dialog Act (SwDA) corpus and create SwDA-IndirectAnswers (SwDA-IA), a subset of SwDA consisting of all conversations containing a yes-no question with an indirect answer. We annotate the underlying direct answers to the yes-no questions (yes, probably yes, middle, probably no, or no). We show that doing so …
-Cites: ‪TOD-BERT: Pre-trained natural language understanding for task …‬  
+--- 
+layout: post 
+title: "Disentangling Indirect Answers to Yes-No Questions in Real Conversations" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "K Sanagavarapu, J Singaraju, A Kakileti, A Kaza - Proceedings of the 2022 , 2022" 
+--- 
+In this paper, we explore the task of determining indirect answers to yes-no questions in real conversations. We work with transcripts of phone conversations in the Switchboard Dialog Act (SwDA) corpus and create SwDA-IndirectAnswers (SwDA-IA), a subset of SwDA consisting of all conversations containing a yes-no question with an indirect answer. We annotate the underlying direct answers to the yes-no questions (yes, probably yes, middle, probably no, or no). We show that doing so  Cites: TOD-BERT: Pre-trained natural language understanding for task

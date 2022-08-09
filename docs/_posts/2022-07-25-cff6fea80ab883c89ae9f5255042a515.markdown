@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Deep Generative Crowdsourcing Learning with Worker Correlation Utilization." 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "S Li, M Wei, S Huang - International Journal of Software & Informatics, 2022" 
+--- 
+Traditional supervised learning requires the groundtruth labels for the training data, which can be difficult to collect in many cases. In contrast, crowdsourcing learning collects noisy annotations from multiple non-expertworkers and infers the latent true labels through some aggregation approach. In this paper, we notice that existing deep crowdsourcing work does not sufficiently model worker correlations, which is, however, shown to be helpful for learning by previous non-deep learning  Cites: Learning from the Wisdom of Crowds by Minimax Entropy.

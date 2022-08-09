@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MultiSpanQA: A Dataset for Multi-Span Question Answering"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "H Li, M Tomko, M Vasardani, T Baldwin - Proceedings of the 2022 Conference of the …, 2022"
----
-Most existing reading comprehension datasets focus on single-span answers, which can be extracted as a single contiguous span from a given text passage. Multi-span questions, ie, questions whose answer is a series of multiple discontiguous spans in the text, are common real life but are less studied. In this paper, we present MultiSpanQA, a new dataset that focuses on multi-span questions. Raw questions and contexts are extracted from the Natural Questions dataset. After multi-span re …
-Cites: ‪Natural questions: a benchmark for question answering research‬  
+--- 
+layout: post 
+title: "MultiSpanQA: A Dataset for Multi-Span Question Answering" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "H Li, M Tomko, M Vasardani, T Baldwin - Proceedings of the 2022 Conference of the , 2022" 
+--- 
+Most existing reading comprehension datasets focus on single-span answers, which can be extracted as a single contiguous span from a given text passage. Multi-span questions, ie, questions whose answer is a series of multiple discontiguous spans in the text, are common real life but are less studied. In this paper, we present MultiSpanQA, a new dataset that focuses on multi-span questions. Raw questions and contexts are extracted from the Natural Questions dataset. After multi-span re  Cites: Natural questions: a benchmark for question answering research

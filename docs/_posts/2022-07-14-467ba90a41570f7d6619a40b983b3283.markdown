@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Detecting corrupted labels without training a model to predict"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "Z Zhu, Z Dong, Y Liu - International Conference on Machine Learning, 2022"
----
-Label noise in real-world datasets encodes wrong correlation patterns and impairs the generalization of deep neural networks (DNNs). It is critical to find efficient ways to detect corrupted patterns. Current methods primarily focus on designing robust training techniques to prevent DNNs from memorizing corrupted patterns. These approaches often require customized training processes and may overfit corrupted patterns, leading to a performance drop in detection. In this paper, from a more data …
-Cites: ‪Just train twice: Improving group robustness without training group …‬  
+--- 
+layout: post 
+title: "Detecting corrupted labels without training a model to predict" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "Z Zhu, Z Dong, Y Liu - International Conference on Machine Learning, 2022" 
+--- 
+Label noise in real-world datasets encodes wrong correlation patterns and impairs the generalization of deep neural networks (DNNs). It is critical to find efficient ways to detect corrupted patterns. Current methods primarily focus on designing robust training techniques to prevent DNNs from memorizing corrupted patterns. These approaches often require customized training processes and may overfit corrupted patterns, leading to a performance drop in detection. In this paper, from a more data  Cites: Just train twice: Improving group robustness without training group

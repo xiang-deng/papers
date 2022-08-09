@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Modeling Subjective Affect Annotations with Multi-Task Learning" 
+date: 2022-07-20 21:56:55 -0400 
+categories: jekyll update 
+author: "H Hayat, C Ventura, A Lapedriza - Sensors, 2022" 
+--- 
+In supervised learning, the generalization capabilities of trained models are based on the available annotations. Usually, multiple annotators are asked to annotate the dataset samples and, then, the common practice is to aggregate the different annotations by computing average scores or majority voting, and train and test models on these aggregated annotations. However, this practice is not suitable for all types of problems, especially when the subjective information of each annotator  Cites: Bert: Pre-training of deep bidirectional transformers for language

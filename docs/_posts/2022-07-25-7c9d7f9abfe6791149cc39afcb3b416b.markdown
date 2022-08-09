@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Classification of Heads in Multi-head Attention Mechanisms" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "F Huang, M Jiang, F Liu, D Xu, Z Fan, Y Wang - International Conference on , 2022" 
+--- 
+Transformer model has become the dominant modeling paradigm in deep learning, of which multi-head attention is a critical component. While increasing Transformer effect, it also has some issues. When the number of heads reaches a point, some attention heads have remarkably similar attention graphs, which indicates that these heads are doing repetitive calculations. Some heads may even focus on extraneous things, affecting the final result. After analyzing the multi-head attention mechanism  Cites: Bert: Pre-training of deep bidirectional transformers for language

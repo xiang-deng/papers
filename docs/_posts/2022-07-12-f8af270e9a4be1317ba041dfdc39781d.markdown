@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to Rank Knowledge Subgraph Nodes for Entity Retrieval"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "P Jafarzadeh, Z Amirmahani, F Ensan - Proceedings of the 45th International ACM …, 2022"
----
-The importance of entity retrieval, the task of retrieving a ranked list of related entities from big knowledge bases given a textual query, has been widely acknowledged in the literature. In this paper, we propose a novel entity retrieval method that addresses the important challenge that revolves around the need to effectively represent and model context in which entities relate to each other. Based on our proposed method, a model is firstly trained to retrieve and prune a subgraph of a textual knowledge …
-Cites: ‪Complex factoid question answering with a free-text knowledge …‬  
+--- 
+layout: post 
+title: "Learning to Rank Knowledge Subgraph Nodes for Entity Retrieval" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "P Jafarzadeh, Z Amirmahani, F Ensan - Proceedings of the 45th International ACM , 2022" 
+--- 
+The importance of entity retrieval, the task of retrieving a ranked list of related entities from big knowledge bases given a textual query, has been widely acknowledged in the literature. In this paper, we propose a novel entity retrieval method that addresses the important challenge that revolves around the need to effectively represent and model context in which entities relate to each other. Based on our proposed method, a model is firstly trained to retrieve and prune a subgraph of a textual knowledge  Cites: Complex factoid question answering with a free-text knowledge

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Explainable Search Results: A Listwise Explanation Generator"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "P Yu, R Rahimi, J Allan - Proceedings of the 45th International ACM SIGIR …, 2022"
----
-It has been shown that the interpretability of search results is enhanced when query aspects covered by documents are explicitly provided. However, existing work on aspect-oriented explanation of search results explains each document independently. These explanations thus cannot describe the differences between documents. This issue is also true for existing models on query aspect generation. Furthermore, these models provide a single query aspect for each document, even …
-Cites: ‪Coarse-to-fine query focused multi-document summarization‬  
+--- 
+layout: post 
+title: "Towards Explainable Search Results: A Listwise Explanation Generator" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "P Yu, R Rahimi, J Allan - Proceedings of the 45th International ACM SIGIR , 2022" 
+--- 
+It has been shown that the interpretability of search results is enhanced when query aspects covered by documents are explicitly provided. However, existing work on aspect-oriented explanation of search results explains each document independently. These explanations thus cannot describe the differences between documents. This issue is also true for existing models on query aspect generation. Furthermore, these models provide a single query aspect for each document, even  Cites: Coarse-to-fine query focused multi-document summarization

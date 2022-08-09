@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Supervised Contrastive Learning Approach for Contextual Ranking"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "A Anand, J Leonhardt, K Rudra, A Anand - arXiv preprint arXiv:2207.03153, 2022"
----
-Contextual ranking models have delivered impressive performance improvements over classical models in the document ranking task. However, these highly over-parameterized models tend to be data-hungry and require large amounts of data even for fine tuning. This paper proposes a simple yet effective method to improve ranking performance on smaller datasets using supervised contrastive learning for the document ranking problem. We perform data augmentation by creating training …
-Cites: ‪Fine-tuning pretrained language models: Weight initializations …‬  
+--- 
+layout: post 
+title: "Supervised Contrastive Learning Approach for Contextual Ranking" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "A Anand, J Leonhardt, K Rudra, A Anand - arXiv preprint arXiv:2207.03153, 2022" 
+--- 
+Contextual ranking models have delivered impressive performance improvements over classical models in the document ranking task. However, these highly over-parameterized models tend to be data-hungry and require large amounts of data even for fine tuning. This paper proposes a simple yet effective method to improve ranking performance on smaller datasets using supervised contrastive learning for the document ranking problem. We perform data augmentation by creating training  Cites: Fine-tuning pretrained language models: Weight initializations

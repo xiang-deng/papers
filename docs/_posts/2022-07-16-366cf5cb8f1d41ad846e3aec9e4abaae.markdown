@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "Y Yu, L Kong, J Zhang, R Zhang, C Zhang - Proceedings of the 2022 Conference of …, 2022"
----
-Although fine-tuning pre-trained language models (PLMs) renders strong performance in many NLP tasks, it relies on excessive labeled data. Recently, researchers have resorted to active fine-tuning for enhancing the label efficiency of PLM fine-tuning, but existing methods of this type usually ignore the potential of unlabeled data. We develop AcTune, a new framework that improves the label efficiency of active PLM fine-tuning by unleashing the power of unlabeled data via …
-Cites: ‪Cold-start active learning through self-supervised language …‬  
+--- 
+layout: post 
+title: "AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "Y Yu, L Kong, J Zhang, R Zhang, C Zhang - Proceedings of the 2022 Conference of , 2022" 
+--- 
+Although fine-tuning pre-trained language models (PLMs) renders strong performance in many NLP tasks, it relies on excessive labeled data. Recently, researchers have resorted to active fine-tuning for enhancing the label efficiency of PLM fine-tuning, but existing methods of this type usually ignore the potential of unlabeled data. We develop AcTune, a new framework that improves the label efficiency of active PLM fine-tuning by unleashing the power of unlabeled data via  Cites: Cold-start active learning through self-supervised language

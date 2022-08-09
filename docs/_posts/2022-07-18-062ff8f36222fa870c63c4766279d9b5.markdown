@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Deep Learning with Noisy Samples"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "T Yu - 2022"
----
-The remarkable success of deep learning is largely attributed to the collection of large datasets with human-annotated labels. However, it is extremely expensive and time-consuming to label extensive data with high-quality annotations. In other words, noisy samples are inevitable in large datasets. In this thesis, we aim to tackle the issues caused by noisy training samples under two noise-sensitive practical settings: instance recognition task and few-shot classification task. Three contributions are …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬  
+--- 
+layout: post 
+title: "Deep Learning with Noisy Samples" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "T Yu - 2022" 
+--- 
+The remarkable success of deep learning is largely attributed to the collection of large datasets with human-annotated labels. However, it is extremely expensive and time-consuming to label extensive data with high-quality annotations. In other words, noisy samples are inevitable in large datasets. In this thesis, we aim to tackle the issues caused by noisy training samples under two noise-sensitive practical settings: instance recognition task and few-shot classification task. Three contributions are  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "K Chowdhury, VV Meduri, M Sarwat"
----
-Spatial datasets are used extensively to train machine learning (ML) models for applications such as spatial regression, classification, clustering, and deep learning. Most of the real-world spatial datasets are often too large, and many spatial ML algorithms represent the geographical region as a grid consisting of several spatial cells. If the granularity of the grid is too fine, that results in a large number of grid cells leading to long training time and high memory consumption issues during the model …
-Cites: ‪Visualization-aware sampling for very large databases‬  
+--- 
+layout: post 
+title: "A Machine Learning-Aware Data Re-partitioning Framework for Spatial Datasets" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "K Chowdhury, VV Meduri, M Sarwat" 
+--- 
+Spatial datasets are used extensively to train machine learning (ML) models for applications such as spatial regression, classification, clustering, and deep learning. Most of the real-world spatial datasets are often too large, and many spatial ML algorithms represent the geographical region as a grid consisting of several spatial cells. If the granularity of the grid is too fine, that results in a large number of grid cells leading to long training time and high memory consumption issues during the model  Cites: Visualization-aware sampling for very large databases

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semi-Supervised Federated Heterogeneous Transfer Learning"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "S Feng, B Li, H Yu, Y Liu, Q Yang - Knowledge-Based Systems, 2022"
----
-Federated learning (FL) is a privacy-preserving paradigm that collaboratively train machine learning models with distributed data stored in different silos without exposing sensitive information. Different from most existing FL approaches requiring data from different parties share either the same feature space or sample ID space, federated transfer learning (FTL), which is a recently proposed FL concept, is designed for situations where data from different parties differ not only in samples but …
-Cites: ‪Learning with Local and Global Consistency.‬  
+--- 
+layout: post 
+title: "Semi-Supervised Federated Heterogeneous Transfer Learning" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "S Feng, B Li, H Yu, Y Liu, Q Yang - Knowledge-Based Systems, 2022" 
+--- 
+Federated learning (FL) is a privacy-preserving paradigm that collaboratively train machine learning models with distributed data stored in different silos without exposing sensitive information. Different from most existing FL approaches requiring data from different parties share either the same feature space or sample ID space, federated transfer learning (FTL), which is a recently proposed FL concept, is designed for situations where data from different parties differ not only in samples but  Cites: Learning with Local and Global Consistency.

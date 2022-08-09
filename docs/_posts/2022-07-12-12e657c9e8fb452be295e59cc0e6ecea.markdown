@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Translation-Based Implicit Annotation Projection for Zero-Shot Cross-Lingual Event Argument Extraction"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "C Lou, J Gao, C Yu, W Wang, H Zhao, W Tu, R Xu - Proceedings of the 45th …, 2022"
----
-Zero-shot cross-lingual event argument extraction (EAE) is a challenging yet practical problem in Information Extraction. Most previous works heavily rely on external structured linguistic features, which are not easily accessible in real-world scenarios. This paper investigates a translation-based method to implicitly project annotations from the source language to the target language. With the use of translation-based parallel corpora, no additional linguistic features are required …
-Cites: ‪Word Alignment by Fine-tuning Embeddings on Parallel Corpora‬  
+--- 
+layout: post 
+title: "Translation-Based Implicit Annotation Projection for Zero-Shot Cross-Lingual Event Argument Extraction" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "C Lou, J Gao, C Yu, W Wang, H Zhao, W Tu, R Xu - Proceedings of the 45th , 2022" 
+--- 
+Zero-shot cross-lingual event argument extraction (EAE) is a challenging yet practical problem in Information Extraction. Most previous works heavily rely on external structured linguistic features, which are not easily accessible in real-world scenarios. This paper investigates a translation-based method to implicitly project annotations from the source language to the target language. With the use of translation-based parallel corpora, no additional linguistic features are required  Cites: Word Alignment by Fine-tuning Embeddings on Parallel Corpora

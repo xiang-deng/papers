@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-Hop Open-Domain Question Answering over Structured and Unstructured Knowledge"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "Y Feng, Z Han, M Sun, P Li - Findings of the Association for Computational …, 2022"
----
-Open-domain question answering systems need to answer question of our interests with structured and unstructured information. However, existing approaches only select one source to generate answer or only conduct reasoning on structured information. In this paper, we pro-pose a Document-Entity Heterogeneous Graph Network, referred to as DEHG, to effectively integrate different sources of information, and conduct reasoning on heterogeneous information. DEHG employs a graph …
-Cites: ‪The web as a knowledge-base for answering complex questions‬  
+--- 
+layout: post 
+title: "Multi-Hop Open-Domain Question Answering over Structured and Unstructured Knowledge" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "Y Feng, Z Han, M Sun, P Li - Findings of the Association for Computational , 2022" 
+--- 
+Open-domain question answering systems need to answer question of our interests with structured and unstructured information. However, existing approaches only select one source to generate answer or only conduct reasoning on structured information. In this paper, we pro-pose a Document-Entity Heterogeneous Graph Network, referred to as DEHG, to effectively integrate different sources of information, and conduct reasoning on heterogeneous information. DEHG employs a graph  Cites: The web as a knowledge-base for answering complex questions

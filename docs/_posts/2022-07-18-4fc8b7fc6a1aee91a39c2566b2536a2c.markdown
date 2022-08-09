@@ -1,9 +1,8 @@
----
-layout: post
-title:  "E2-AEN: End-to-End Incremental Learning with Adaptively Expandable Network"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "G Cao, Z Cheng, Y Xu, D Li, S Pu, Y Niu, F Wu - arXiv preprint arXiv:2207.06754, 2022"
----
-Expandable networks have demonstrated their advantages in dealing with catastrophic forgetting problem in incremental learning. Considering that different tasks may need different structures, recent methods design dynamic structures adapted to different tasks via sophisticated skills. Their routine is to search expandable structures first and then train on the new tasks, which, however, breaks tasks into multiple training stages, leading to suboptimal or overmuch computational …
-Cites: ‪Learn to grow: A continual structure learning framework for …‬  
+--- 
+layout: post 
+title: "E2-AEN: End-to-End Incremental Learning with Adaptively Expandable Network" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "G Cao, Z Cheng, Y Xu, D Li, S Pu, Y Niu, F Wu - arXiv preprint arXiv:2207.06754, 2022" 
+--- 
+Expandable networks have demonstrated their advantages in dealing with catastrophic forgetting problem in incremental learning. Considering that different tasks may need different structures, recent methods design dynamic structures adapted to different tasks via sophisticated skills. Their routine is to search expandable structures first and then train on the new tasks, which, however, breaks tasks into multiple training stages, leading to suboptimal or overmuch computational  Cites: Learn to grow: A continual structure learning framework for

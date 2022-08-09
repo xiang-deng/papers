@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Deep learning approaches for predicting pathogenic potentials of novel DNA and RNA sequences"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "JM Bartoszewicz - 2022"
----
-Regular emergence of novel pathogens is one of the greatest threats to global health. DNA and RNA sequencing enable detection of new viruses and microbes, but standard approaches for computational analysis of sequencing data rely on predefined lists of known agents. New pathogens, with genomes highly divergent from available references, remain difficult to recognize. This problem can be alleviated by training classifiers predicting whether a given sequencing read …
-Cites: ‪Structure-based protein function prediction using graph …‬  
+--- 
+layout: post 
+title: "Deep learning approaches for predicting pathogenic potentials of novel DNA and RNA sequences" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "JM Bartoszewicz - 2022" 
+--- 
+Regular emergence of novel pathogens is one of the greatest threats to global health. DNA and RNA sequencing enable detection of new viruses and microbes, but standard approaches for computational analysis of sequencing data rely on predefined lists of known agents. New pathogens, with genomes highly divergent from available references, remain difficult to recognize. This problem can be alleviated by training classifiers predicting whether a given sequencing read  Cites: Structure-based protein function prediction using graph

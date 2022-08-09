@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Contextual Graph Attention Network for Aspect-Level Sentiment Classification" 
+date: 2022-07-20 21:56:55 -0400 
+categories: jekyll update 
+author: "Y Miao, R Luo, L Zhu, T Liu, W Zhang, G Cai, M Zhou - Mathematics, 2022" 
+--- 
+Aspect-level sentiment classification aims to predict the sentiment polarities towards the target aspects given in sentences. To address the issues of insufficient semantic information extraction and high computational complexity of attention mechanisms in existing aspect-level sentiment classification models based on deep learning, a contextual graph attention network (CGAT) is proposed. The proposed model adopts two graph attention networks to aggregate syntactic structure information into target  Cites: Deep biaffine attention for neural dependency parsing

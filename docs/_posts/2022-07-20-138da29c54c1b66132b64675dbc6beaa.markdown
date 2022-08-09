@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Are Hitting Formulas Hard for Resolution?" 
+date: 2022-07-20 21:56:55 -0400 
+categories: jekyll update 
+author: "T Peitl, S Szeider - arXiv preprint arXiv:2206.15225, 2022" 
+--- 
+Hitting formulas, introduced by Iwama, are an unusual class of propositional CNF formulas. Not only is their satisfiability decidable in polynomial time, but even their models can be counted in closed form. This stands in stark contrast with other polynomial-time decidable classes, which usually have algorithms based on backtracking and resolution and for which model counting remains hard, like 2-SAT and Horn-SAT. However, those resolution-based algorithms usually easily imply an  Cites: On the hardness of approximate reasoning

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Survival of the Fastest: Adaptive Indexing in MapReduce" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "EAEM Adapt" 
+--- 
+Several research works have focused on supporting index access in MapReduce systems. These works have allowed users to significantly speed up selective MapReduce jobs by orders of magnitude. However, all these proposals require users to create indexes upfront, which might be a difficult task in certain applications (such as in scientific and social applications) where workloads are evolving or hard to predict. To overcome this problem, we propose LIAH (Lazy Indexing and Adaptivity in  Cites: Automatic optimization for MapReduce programs

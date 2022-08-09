@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Discourse-Aware Graph Networks for Textual Logical Reasoning"
-date:   2022-07-08 09:39:49 -0400
-categories: jekyll update
-author: "Y Huang, L Liu, K Xu, M Fang, L Lin, X Liang - arXiv preprint arXiv:2207.01450, 2022"
----
-Textual logical reasoning, especially question answering (QA) tasks with logical reasoning, requires awareness of particular logical structures. The passage-level logical relations represent entailment or contradiction between propositional units (eg, a concluding sentence). However, such structures are unexplored as current QA systems focus on entity-based relations. In this work, we propose logic structural-constraint modeling to solve the logical reasoning QA and introduce discourse …
-Cites: ‪Neural symbolic reader: Scalable integration of distributed and …‬  
+--- 
+layout: post 
+title: "Discourse-Aware Graph Networks for Textual Logical Reasoning" 
+date: 2022-07-08 09:39:49 -0400 
+categories: jekyll update 
+author: "Y Huang, L Liu, K Xu, M Fang, L Lin, X Liang - arXiv preprint arXiv:2207.01450, 2022" 
+--- 
+Textual logical reasoning, especially question answering (QA) tasks with logical reasoning, requires awareness of particular logical structures. The passage-level logical relations represent entailment or contradiction between propositional units (eg, a concluding sentence). However, such structures are unexplored as current QA systems focus on entity-based relations. In this work, we propose logic structural-constraint modeling to solve the logical reasoning QA and introduce discourse  Cites: Neural symbolic reader: Scalable integration of distributed and

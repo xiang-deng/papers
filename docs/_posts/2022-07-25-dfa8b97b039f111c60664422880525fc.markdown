@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Efficient Sparsely Activated Transformers" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "S Latifi, S Muralidharan, M Garland" 
+--- 
+Transformer-based neural networks have achieved state-of-the-art task performance in a number of machine learning domains including natural language processing and computer vision. To further improve their accuracy, recent work has explored the integration of dynamic behavior into these networks in the form of mixture-of-expert (MoE) layers. In this paper, we explore the introduction of such layers to optimize a different metric: inference latency. We introduce a novel system named PLANER that  Cites: Improving transformer models by reordering their sublayers

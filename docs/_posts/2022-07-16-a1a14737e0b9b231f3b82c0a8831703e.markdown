@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "M Van Nguyen, B Min, F Dernoncourt, T Nguyen - … of the 2022 Conference of the …, 2022"
----
-Event trigger detection, entity mention recognition, event argument extraction, and relation extraction are the four important tasks in information extraction that have been performed jointly (Joint Information Extraction-JointIE) to avoid error propagation and leverage dependencies between the task instances (ie, event triggers, entity mentions, relations, and event arguments). However, previous JointIE models often assume heuristic manually-designed dependency between the task …
-Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬  
+--- 
+layout: post 
+title: "Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "M Van Nguyen, B Min, F Dernoncourt, T Nguyen - of the 2022 Conference of the , 2022" 
+--- 
+Event trigger detection, entity mention recognition, event argument extraction, and relation extraction are the four important tasks in information extraction that have been performed jointly (Joint Information Extraction-JointIE) to avoid error propagation and leverage dependencies between the task instances (ie, event triggers, entity mentions, relations, and event arguments). However, previous JointIE models often assume heuristic manually-designed dependency between the task  Cites: Bart: Denoising sequence-to-sequence pre-training for natural

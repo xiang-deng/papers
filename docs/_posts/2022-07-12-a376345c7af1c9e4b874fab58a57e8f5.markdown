@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "P Wang, J Wu, X Chen - Proceedings of the 45th International ACM SIGIR …, 2022"
----
-Previous entity linking methods in knowledge graphs (KGs) mostly link the textual mentions to corresponding entities. However, they have deficiencies in processing numerous multimodal data, when the text is too short to provide enough context. Consequently, we conceive the idea of introducing valuable information of other modalities, and propose a novel multimodal entity linking method with gated hierarchical multimodal fusion and contrastive training (GHMFC). Firstly, in order to …
-Cites: ‪Autoregressive entity retrieval‬  
+--- 
+layout: post 
+title: "Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "P Wang, J Wu, X Chen - Proceedings of the 45th International ACM SIGIR , 2022" 
+--- 
+Previous entity linking methods in knowledge graphs (KGs) mostly link the textual mentions to corresponding entities. However, they have deficiencies in processing numerous multimodal data, when the text is too short to provide enough context. Consequently, we conceive the idea of introducing valuable information of other modalities, and propose a novel multimodal entity linking method with gated hierarchical multimodal fusion and contrastive training (GHMFC). Firstly, in order to  Cites: Autoregressive entity retrieval

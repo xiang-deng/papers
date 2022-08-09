@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Using Transformer-based Models for Taxonomy Enrichment and Sentence Classification"
-date:   2022-07-08 09:39:49 -0400
-categories: jekyll update
-author: "P Dakle, S Patil, SK Rallabandi, C Hegde, P Raghavan"
----
-In this paper, we present a system that addresses the taxonomy enrichment problem for “Environment, Social and Governance” issues in the financial domain, as well as classifying sentences as sustainable or unsustainable, for FinSim4-ESG, a shared task for the FinNLP workshop at IJCAI-2022. We first created a derived dataset for taxonomy enrichment by using a sentence-BERT-based paraphrase detector [Reimers and Gurevych, 2019](on the train set) to create positive and negative term …
-Cites: ‪Deep contextualized word representations. arXiv preprint‬  
+--- 
+layout: post 
+title: "Using Transformer-based Models for Taxonomy Enrichment and Sentence Classification" 
+date: 2022-07-08 09:39:49 -0400 
+categories: jekyll update 
+author: "P Dakle, S Patil, SK Rallabandi, C Hegde, P Raghavan" 
+--- 
+In this paper, we present a system that addresses the taxonomy enrichment problem for Environment, Social and Governance issues in the financial domain, as well as classifying sentences as sustainable or unsustainable, for FinSim4-ESG, a shared task for the FinNLP workshop at IJCAI-2022. We first created a derived dataset for taxonomy enrichment by using a sentence-BERT-based paraphrase detector [Reimers and Gurevych, 2019](on the train set) to create positive and negative term  Cites: Deep contextualized word representations. arXiv preprint

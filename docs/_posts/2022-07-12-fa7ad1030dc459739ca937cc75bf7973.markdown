@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dialogue Topic Segmentation via Parallel Extraction Network with Neighbor Smoothing"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "J Xia, C Liu, J Chen, Y Li, F Yang, X Cai, G Wan… - Proceedings of the 45th …, 2022"
----
-Dialogue topic segmentation is a challenging task in which dialogues are split into segments with pre-defined topics. Existing works on topic segmentation adopt a two-stage paradigm, including text segmentation and segment labeling. However, such methods tend to focus on the local context in segmentation, and the inter-segment dependency is not well captured. Besides, the ambiguity and labeling noise in dialogue segment bounds bring further challenges to existing models. In this work …
-Cites: ‪Text segmentation as a supervised learning task‬  
+--- 
+layout: post 
+title: "Dialogue Topic Segmentation via Parallel Extraction Network with Neighbor Smoothing" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "J Xia, C Liu, J Chen, Y Li, F Yang, X Cai, G Wan - Proceedings of the 45th , 2022" 
+--- 
+Dialogue topic segmentation is a challenging task in which dialogues are split into segments with pre-defined topics. Existing works on topic segmentation adopt a two-stage paradigm, including text segmentation and segment labeling. However, such methods tend to focus on the local context in segmentation, and the inter-segment dependency is not well captured. Besides, the ambiguity and labeling noise in dialogue segment bounds bring further challenges to existing models. In this work  Cites: Text segmentation as a supervised learning task

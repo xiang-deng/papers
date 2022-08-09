@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Extractive-Abstractive: A Two-Stage Model for Long Text Summarization" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "R Liang, J Li, L Huang, R Lin, Y Lai, D Xiong - CCF Conference on Computer , 2022" 
+--- 
+Currently, the mainstream text summarization techniques are divided into extractive and abstractive methods. Extractive method is suitable for long texts with a clear structure, while abstractive method is suitable for short texts. In this paper, we aim to address the problems of missing key words and incomplete overview that are usually caused by abstractive method in the face of long texts. To solve this problem, we propose a two-stage model that uses both extractive and abstractive methods for  Cites: Neural summarization by extracting sentences and words

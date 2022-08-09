@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Neural Data-to-Text Generation Based on Small Datasets: Comparing the Added Value of Two Semi-Supervised Learning Approaches on Top of a Large Language …"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "C van der Lee, TC Ferreira, C Emmery, T Wiltshire… - arXiv preprint arXiv …, 2022"
----
-This study discusses the effect of semi-supervised learning in combination with pretrained language models for data-to-text generation. It is not known whether semi-supervised learning is still helpful when a large-scale language model is also supplemented. This study aims to answer this question by comparing a data-to-text system only supplemented with a language model, to two data-to-text systems that are additionally enriched by a data augmentation or a pseudo-labeling semi …
-Cites: ‪Data-to-text generation with entity modeling‬  
+--- 
+layout: post 
+title: "Neural Data-to-Text Generation Based on Small Datasets: Comparing the Added Value of Two Semi-Supervised Learning Approaches on Top of a Large Language " 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "C van der Lee, TC Ferreira, C Emmery, T Wiltshire - arXiv preprint arXiv , 2022" 
+--- 
+This study discusses the effect of semi-supervised learning in combination with pretrained language models for data-to-text generation. It is not known whether semi-supervised learning is still helpful when a large-scale language model is also supplemented. This study aims to answer this question by comparing a data-to-text system only supplemented with a language model, to two data-to-text systems that are additionally enriched by a data augmentation or a pseudo-labeling semi  Cites: Data-to-text generation with entity modeling

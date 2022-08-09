@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "BreakingBERT@ IITK at SemEval-2021 Task 9: Statement Verification and Evidence Finding with Tables" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "A Modi" 
+--- 
+Recently, there has been an interest in factual verification and prediction over structured data like tables and graphs. To circumvent any false news incident, it is necessary to not only model and predict over structured data efficiently but also to explain those predictions. In this paper, as part of the SemEval-2021 Task 9, we tackle the problem of fact verification and evidence finding over tabular data. There are two subtasks. Given a table and a statement/fact, subtask A determines whether  Cites: Neural symbolic machines: Learning semantic parsers on freebase

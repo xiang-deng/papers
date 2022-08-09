@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Contextual Answer Validation" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "A Baksi - 2022" 
+--- 
+Answer generation for a question, given a context has gained tremendous popularity in the NLP research space. Benchmark datasets like SQuAD [9] have propelled the research and recent years have seen many transformer based models achieving state of the art (SOTA) results on Question Answering tasks even beating human level accuracy. However the second step to a Question Answering System that Contextual Answer Validation is a much less attempted space in NLP. For the past  Cites: Natural questions: a benchmark for question answering research

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Lost in Distillation: A Case Study in Toxicity Modeling"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "A Chvasta, A Lees, J Sorensen, L Vasserman, N Goyal - Proceedings of the Sixth …, 2022"
----
-In an era of increasingly large pre-trained language models, knowledge distillation is a powerful tool for transferring information from a large model to a smaller one. In particular, distillation is of tremendous benefit when it comes to real-world constraints such as serving latency or serving at scale. However, a loss of robustness in language understanding may be hidden in the process and not immediately revealed when looking at high-level evaluation metrics. In this work, we investigate …
-Cites: ‪Well-read students learn better: The impact of student initialization …‬  
+--- 
+layout: post 
+title: "Lost in Distillation: A Case Study in Toxicity Modeling" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "A Chvasta, A Lees, J Sorensen, L Vasserman, N Goyal - Proceedings of the Sixth , 2022" 
+--- 
+In an era of increasingly large pre-trained language models, knowledge distillation is a powerful tool for transferring information from a large model to a smaller one. In particular, distillation is of tremendous benefit when it comes to real-world constraints such as serving latency or serving at scale. However, a loss of robustness in language understanding may be hidden in the process and not immediately revealed when looking at high-level evaluation metrics. In this work, we investigate  Cites: Well-read students learn better: The impact of student initialization

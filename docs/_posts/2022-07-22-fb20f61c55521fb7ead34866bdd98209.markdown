@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "When Sparse Neural Network Meets Label Noise Learning: A Multistage Learning Framework" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "R Jiang, Y Yan, JH Xue, B Wang, H Wang - IEEE Transactions on Neural Networks , 2022" 
+--- 
+Recent methods in network pruning have indicated that a dense neural network involves a sparse subnetwork (called a winning ticket), which can achieve similar test accuracy to its dense counterpart with much fewer network parameters. Generally, these methods search for the winning tickets on well-labeled data. Unfortunately, in many real-world applications, the training data are unavoidably contaminated with noisy labels, thereby leading to performance deterioration of these methods. To  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

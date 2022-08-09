@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Marginal Distribution Adaptation for Discrete Sets via Module-Oriented Divergence Minimization"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "H Dai, M Yang, Y Xue, D Schuurmans, B Dai - International Conference on Machine …, 2022"
----
-Distributions over discrete sets capture the essential statistics including the high-order correlation among elements. Such information provides powerful insight for decision making across various application domains, eg, product assortment based on product distribution in shopping carts. While deep generative models trained on pre-collected data can capture existing distributions, such pre-trained models are usually not capable of aligning with a target domain in the presence of distribution …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬  
+--- 
+layout: post 
+title: "Marginal Distribution Adaptation for Discrete Sets via Module-Oriented Divergence Minimization" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "H Dai, M Yang, Y Xue, D Schuurmans, B Dai - International Conference on Machine , 2022" 
+--- 
+Distributions over discrete sets capture the essential statistics including the high-order correlation among elements. Such information provides powerful insight for decision making across various application domains, eg, product assortment based on product distribution in shopping carts. While deep generative models trained on pre-collected data can capture existing distributions, such pre-trained models are usually not capable of aligning with a target domain in the presence of distribution  Cites: Bert: Pre-training of deep bidirectional transformers for language

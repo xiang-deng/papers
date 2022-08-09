@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Improving extractive document summarization with sentence centrality" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "S Gong, Z Zhu, J Qi, C Tong, Q Lu, W Wu - PloS one, 2022" 
+--- 
+Extractive document summarization (EDS) is usually seen as a sequence labeling task, which extracts sentences from a document one by one to form a summary. However, extracting sentences separately ignores the relationship between the sentences and documents. One solution is to use sentence position information to enhance sentence representation, but this will cause the sentence-leading bias problem, especially in news datasets. In this paper, we propose a novel sentence  Cites: Discourse-Aware Neural Extractive Text Summarization

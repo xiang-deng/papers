@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Leveraging attribute latent features for addressing new item cold-start issue"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "MT Hsieh, SJ Lee, CH Wu, CL Hou, CS Ouyang, ZP Lin - … Commerce Research and …, 2022"
----
-A recommender system employs an information filtering technology aiming to recommend items that are likely to be of interest to users, based on user behavior, rating feedback of items, or item characteristics. The cold-start problem occurs when the recommender system has difficulties in drawing any recommendations due to lack of information. In this paper, we focus on the item cold-start problem. When new items are added to the catalogue, they can easily be overlooked because no …
-Cites: ‪Recommender systems with social regularization‬  
+--- 
+layout: post 
+title: "Leveraging attribute latent features for addressing new item cold-start issue" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "MT Hsieh, SJ Lee, CH Wu, CL Hou, CS Ouyang, ZP Lin - Commerce Research and , 2022" 
+--- 
+A recommender system employs an information filtering technology aiming to recommend items that are likely to be of interest to users, based on user behavior, rating feedback of items, or item characteristics. The cold-start problem occurs when the recommender system has difficulties in drawing any recommendations due to lack of information. In this paper, we focus on the item cold-start problem. When new items are added to the catalogue, they can easily be overlooked because no  Cites: Recommender systems with social regularization

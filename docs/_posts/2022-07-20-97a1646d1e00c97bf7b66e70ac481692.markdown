@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Regularized Meta-Learning for Neural Architecture Search" 
+date: 2022-07-20 21:56:55 -0400 
+categories: jekyll update 
+author: "R van Gastel, J Vanschoren" 
+--- 
+Neural architecture search (NAS) methods have successfully enabled the automated search of neural architectures in various domains. However, most techniques start from scratch with every new task. Techniques have been proposed that generalize across tasks, but don t always adapt well to new tasks. In this work, we consider meta-learning approaches that effectively leverage prior experience to adapt to unseen tasks. We analyze different regularization and training methods to improve the  Cites: Continual and Multi-Task Architecture Search

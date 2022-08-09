@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Corpus Statistics Empowered Document Classification"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "F Uddin, Y Chen, Z Zhang, X Huang - Electronics, 2022"
----
-In natural language processing (NLP), document classification is an important task that relies on the proper thematic representation of the documents. Gaussian mixture-based clustering is widespread for capturing rich thematic semantics but ignores emphasizing potential terms in the corpus. Moreover, the soft clustering approach causes long-tail noise by putting every word into every cluster, which affects the natural thematic representation of documents and their proper classification. It is …
-Cites: ‪Applications of topic models‬  
+--- 
+layout: post 
+title: "Corpus Statistics Empowered Document Classification" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "F Uddin, Y Chen, Z Zhang, X Huang - Electronics, 2022" 
+--- 
+In natural language processing (NLP), document classification is an important task that relies on the proper thematic representation of the documents. Gaussian mixture-based clustering is widespread for capturing rich thematic semantics but ignores emphasizing potential terms in the corpus. Moreover, the soft clustering approach causes long-tail noise by putting every word into every cluster, which affects the natural thematic representation of documents and their proper classification. It is  Cites: Applications of topic models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sparse Invariant Risk Minimization"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "X Zhou, Y Lin, W Zhang, T Zhang - International Conference on Machine Learning, 2022"
----
-Abstract Invariant Risk Minimization (IRM) is an emerging invariant feature extracting technique to help generalization with distributional shift. However, we find that there exists a basic and intractable contradiction between the model trainability and generalization ability in IRM. On one hand, recent studies on deep learning theory indicate the importance of large-sized or even overparameterized neural networks to make the model easy to train. On the other hand, unlike empirical risk minimization …
-Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬  
+--- 
+layout: post 
+title: "Sparse Invariant Risk Minimization" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "X Zhou, Y Lin, W Zhang, T Zhang - International Conference on Machine Learning, 2022" 
+--- 
+Abstract Invariant Risk Minimization (IRM) is an emerging invariant feature extracting technique to help generalization with distributional shift. However, we find that there exists a basic and intractable contradiction between the model trainability and generalization ability in IRM. On one hand, recent studies on deep learning theory indicate the importance of large-sized or even overparameterized neural networks to make the model easy to train. On the other hand, unlike empirical risk minimization  Cites: RoBERTa: A Robustly Optimized BERT Pretraining Approach

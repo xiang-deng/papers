@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning from Knowledge Graphs: Neural Fine-Grained Entity Typing with Copy-Generation Networks"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "Z Yu, A Zhang, H Feng, H Du, S Wei, Y Zhao - Entropy, 2022"
----
-Fine-grained entity typing (FET) aims to identify the semantic type of an entity in a plain text, which is a significant task for downstream natural language processing applications. However, most existing methods neglect rich known typing information about these entities in knowledge graphs. To address this issue, we take advantage of knowledge graphs to improve fine-grained entity typing through the use of a copy mechanism. Specifically, we propose a novel deep neural model called CopyFet for …
-Cites: ‪Modeling fine-grained entity types with box embeddings‬  
+--- 
+layout: post 
+title: "Learning from Knowledge Graphs: Neural Fine-Grained Entity Typing with Copy-Generation Networks" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "Z Yu, A Zhang, H Feng, H Du, S Wei, Y Zhao - Entropy, 2022" 
+--- 
+Fine-grained entity typing (FET) aims to identify the semantic type of an entity in a plain text, which is a significant task for downstream natural language processing applications. However, most existing methods neglect rich known typing information about these entities in knowledge graphs. To address this issue, we take advantage of knowledge graphs to improve fine-grained entity typing through the use of a copy mechanism. Specifically, we propose a novel deep neural model called CopyFet for  Cites: Modeling fine-grained entity types with box embeddings

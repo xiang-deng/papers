@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dual-Channel Evidence Fusion for Fact Verification over Texts and Tables"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "N Hu, Z Wu, Y Lai, X Liu, Y Feng - Proceedings of the 2022 Conference of the North …, 2022"
----
-Different from previous fact extraction and verification tasks that only consider evidence of a single format, FEVEROUS brings further challenges by extending the evidence format to both plain text and tables. Existing works convert all candidate evidence into either sentences or tables, thus often failing to fully capture the rich context in their original format from the converted evidence, let alone the context information lost during conversion. In this paper, we propose a Dual Channel Unified …
-Cites: ‪GEAR: Graph-based Evidence Aggregating and Reasoning for …‬  
+--- 
+layout: post 
+title: "Dual-Channel Evidence Fusion for Fact Verification over Texts and Tables" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "N Hu, Z Wu, Y Lai, X Liu, Y Feng - Proceedings of the 2022 Conference of the North , 2022" 
+--- 
+Different from previous fact extraction and verification tasks that only consider evidence of a single format, FEVEROUS brings further challenges by extending the evidence format to both plain text and tables. Existing works convert all candidate evidence into either sentences or tables, thus often failing to fully capture the rich context in their original format from the converted evidence, let alone the context information lost during conversion. In this paper, we propose a Dual Channel Unified  Cites: GEAR: Graph-based Evidence Aggregating and Reasoning for

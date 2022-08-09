@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hierarchical Symbolic Reasoning in Hyperbolic Space for Deep Discriminative Models"
-date:   2022-07-08 09:39:49 -0400
-categories: jekyll update
-author: "A Santhirasekaram, A Kori, A Rockall, M Winkler… - arXiv preprint arXiv …, 2022"
----
-Explanations for\emph {black-box} models help us understand model decisions as well as provide information on model biases and inconsistencies. Most of the current explainability techniques provide a single level of explanation, often in terms of feature importance scores or feature attention maps in input space. Our focus is on explaining deep discriminative models at\emph {multiple levels of abstraction}, from fine-grained to fully abstract explanations. We achieve this by using the natural …
-Cites: ‪Learning by abstraction: The neural state machine‬  
+--- 
+layout: post 
+title: "Hierarchical Symbolic Reasoning in Hyperbolic Space for Deep Discriminative Models" 
+date: 2022-07-08 09:39:49 -0400 
+categories: jekyll update 
+author: "A Santhirasekaram, A Kori, A Rockall, M Winkler - arXiv preprint arXiv , 2022" 
+--- 
+Explanations for\emph {black-box} models help us understand model decisions as well as provide information on model biases and inconsistencies. Most of the current explainability techniques provide a single level of explanation, often in terms of feature importance scores or feature attention maps in input space. Our focus is on explaining deep discriminative models at\emph {multiple levels of abstraction}, from fine-grained to fully abstract explanations. We achieve this by using the natural  Cites: Learning by abstraction: The neural state machine

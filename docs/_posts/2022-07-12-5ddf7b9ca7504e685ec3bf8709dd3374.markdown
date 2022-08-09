@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Back to the Source: Diffusion-Driven Test-Time Adaptation"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "J Gao, J Zhang, X Liu, T Darrell, E Shelhamer, D Wang - arXiv preprint arXiv …, 2022"
----
-Test-time adaptation harnesses test inputs to improve the accuracy of a model trained on source data when tested on shifted target data. Existing methods update the source model by (re-) training on each target domain. While effective, re-training is sensitive to the amount and order of the data and the hyperparameters for optimization. We instead update the target data, by projecting all test inputs toward the source domain with a generative diffusion model. Our diffusion-driven adaptation …
-Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬  
+--- 
+layout: post 
+title: "Back to the Source: Diffusion-Driven Test-Time Adaptation" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "J Gao, J Zhang, X Liu, T Darrell, E Shelhamer, D Wang - arXiv preprint arXiv , 2022" 
+--- 
+Test-time adaptation harnesses test inputs to improve the accuracy of a model trained on source data when tested on shifted target data. Existing methods update the source model by (re-) training on each target domain. While effective, re-training is sensitive to the amount and order of the data and the hyperparameters for optimization. We instead update the target data, by projecting all test inputs toward the source domain with a generative diffusion model. Our diffusion-driven adaptation  Cites: Wilds: A benchmark of in-the-wild distribution shifts

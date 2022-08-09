@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Stop Overcomplicating Selective Classification: Use Max-Logit" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "L Feng, MO Ahmed, H Hajimirsadeghi, A Abdi - arXiv preprint arXiv:2206.09034, 2022" 
+--- 
+We tackle the problem of Selective Classification where the goal is to achieve the best performance on the desired coverages of the dataset. Recent state-of-the-art selective methods come with architectural changes either via introducing a separate selection head or an extra abstention logit. In this paper, we present surprising results for Selective Classification by confirming that the superior performance of state-of-the-art methods is owed to training a more generalizable classifier; however  Cites: Selective classification can magnify disparities across groups

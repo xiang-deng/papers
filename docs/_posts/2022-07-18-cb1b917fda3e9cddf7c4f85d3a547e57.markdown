@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards A Holistic View of Bias in Machine Learning: Bridging Algorithmic Fairness and Imbalanced Learning"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "D Dablain, B Krawczyk, N Chawla - arXiv preprint arXiv:2207.06084, 2022"
----
-Machine learning (ML) is playing an increasingly important role in rendering decisions that affect a broad range of groups in society. ML models inform decisions in criminal justice, the extension of credit in banking, and the hiring practices of corporations. This posits the requirement of model fairness, which holds that automated decisions should be equitable with respect to protected features (eg, gender, race, or age) that are often under-represented in the data. We postulate that …
-Cites: ‪The unreasonable effectiveness of data‬  
+--- 
+layout: post 
+title: "Towards A Holistic View of Bias in Machine Learning: Bridging Algorithmic Fairness and Imbalanced Learning" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "D Dablain, B Krawczyk, N Chawla - arXiv preprint arXiv:2207.06084, 2022" 
+--- 
+Machine learning (ML) is playing an increasingly important role in rendering decisions that affect a broad range of groups in society. ML models inform decisions in criminal justice, the extension of credit in banking, and the hiring practices of corporations. This posits the requirement of model fairness, which holds that automated decisions should be equitable with respect to protected features (eg, gender, race, or age) that are often under-represented in the data. We postulate that  Cites: The unreasonable effectiveness of data

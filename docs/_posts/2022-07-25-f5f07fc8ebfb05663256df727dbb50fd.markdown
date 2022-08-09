@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning knowledge graph embeddings by deep relational roto-reflection" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "A Zeb, S Saif, J Chen, D Zhang - Knowledge-Based Systems, 2022" 
+--- 
+Embedding methods map entities and relations to low-dimensional vectors and then use a scoring function to predict missing entities for knowledge graph completion. Most of the existing deep embedding methods are primarily based on planner convolution, which generates less expressive feature maps that limit the predictive performance. In this paper, we propose a group convolution and hypernetwork-based neural embedding model named, DeepER for knowledge graph completion  Cites: Observed Versus Latent Features for Knowledge Base and Text

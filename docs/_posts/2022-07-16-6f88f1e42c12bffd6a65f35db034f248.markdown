@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Lightweight transformers for conversational ai"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "D Pressel, W Liu, M Johnston, M Chen - Proceedings of the 2022 Conference of the …, 2022"
----
-To understand how training on conversational language impacts performance of pre-trained models on downstream dialogue tasks, we build compact Transformer-based Language Models from scratch on several large corpora of conversational data. We compare the performance and characteristics of these models against BERT and other strong baselines on dialogue probing tasks. Commercial dialogue systems typically require a small footprint and fast execution time, but recent trends are in the …
-Cites: ‪A simple language model for task-oriented dialogue‬  
+--- 
+layout: post 
+title: "Lightweight transformers for conversational ai" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "D Pressel, W Liu, M Johnston, M Chen - Proceedings of the 2022 Conference of the , 2022" 
+--- 
+To understand how training on conversational language impacts performance of pre-trained models on downstream dialogue tasks, we build compact Transformer-based Language Models from scratch on several large corpora of conversational data. We compare the performance and characteristics of these models against BERT and other strong baselines on dialogue probing tasks. Commercial dialogue systems typically require a small footprint and fast execution time, but recent trends are in the  Cites: A simple language model for task-oriented dialogue

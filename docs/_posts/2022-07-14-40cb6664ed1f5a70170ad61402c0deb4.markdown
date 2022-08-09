@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meaningfully debugging model mistakes using conceptual counterfactual explanations"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "A Abid, M Yuksekgonul, J Zou - International Conference on Machine Learning, 2022"
----
-Understanding and explaining the mistakes made by trained models is critical to many machine learning objectives, such as improving robustness, addressing concept drift, and mitigating biases. However, this is often an ad hoc process that involves manually looking at the model s mistakes on many test samples and guessing at the underlying reasons for those incorrect predictions. In this paper, we propose a systematic approach, conceptual counterfactual explanations (CCE), that …
-Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬  
+--- 
+layout: post 
+title: "Meaningfully debugging model mistakes using conceptual counterfactual explanations" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "A Abid, M Yuksekgonul, J Zou - International Conference on Machine Learning, 2022" 
+--- 
+Understanding and explaining the mistakes made by trained models is critical to many machine learning objectives, such as improving robustness, addressing concept drift, and mitigating biases. However, this is often an ad hoc process that involves manually looking at the model s mistakes on many test samples and guessing at the underlying reasons for those incorrect predictions. In this paper, we propose a systematic approach, conceptual counterfactual explanations (CCE), that  Cites: Wilds: A benchmark of in-the-wild distribution shifts

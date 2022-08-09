@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain Adaptation with Data Uncertainty Measure Based on Evidence Theory"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "Y Lv, B Zhang, G Zou, X Yue, Z Xu, H Li - Entropy, 2022"
----
-Abstract Domain adaptation aims to learn a classifier for a target domain task by using related labeled data from the source domain. Because source domain data and target domain task may be mismatched, there is an uncertainty of source domain data with respect to the target domain task. Ignoring the uncertainty may lead to models with unreliable and suboptimal classification results for the target domain task. However, most previous works focus on reducing the gap in data distribution …
-Cites: ‪Multi-Source Domain Adaptation for Text Classification via …‬  
+--- 
+layout: post 
+title: "Domain Adaptation with Data Uncertainty Measure Based on Evidence Theory" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "Y Lv, B Zhang, G Zou, X Yue, Z Xu, H Li - Entropy, 2022" 
+--- 
+Abstract Domain adaptation aims to learn a classifier for a target domain task by using related labeled data from the source domain. Because source domain data and target domain task may be mismatched, there is an uncertainty of source domain data with respect to the target domain task. Ignoring the uncertainty may lead to models with unreliable and suboptimal classification results for the target domain task. However, most previous works focus on reducing the gap in data distribution  Cites: Multi-Source Domain Adaptation for Text Classification via

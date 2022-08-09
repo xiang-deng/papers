@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MCoM: A Semi-Supervised Method for Imbalanced Tabular Security Data"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "KW Hamlen, B Thuraisingham - Data and Applications Security and Privacy XXXVI …, 2022"
----
-MCoM (Mixup Contrastive Mixup) is a new semi-supervised learning methodology that innovates a triplet mixup data augmentation approach to address the imbalanced data problem in tabular security data sets. Tabular data sets in cybersecurity domains are widely known to pose challenges for machine learning because of their heavily imbalanced data (eg, a small number of labeled attack samples buried in a sea of mostly benign, unlabeled data). Semi-supervised learning …
-Cites: ‪Learning with Local and Global Consistency.‬  
+--- 
+layout: post 
+title: "MCoM: A Semi-Supervised Method for Imbalanced Tabular Security Data" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "KW Hamlen, B Thuraisingham - Data and Applications Security and Privacy XXXVI , 2022" 
+--- 
+MCoM (Mixup Contrastive Mixup) is a new semi-supervised learning methodology that innovates a triplet mixup data augmentation approach to address the imbalanced data problem in tabular security data sets. Tabular data sets in cybersecurity domains are widely known to pose challenges for machine learning because of their heavily imbalanced data (eg, a small number of labeled attack samples buried in a sea of mostly benign, unlabeled data). Semi-supervised learning  Cites: Learning with Local and Global Consistency.

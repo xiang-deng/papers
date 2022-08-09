@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The DLCC Node Classification Benchmark for Analyzing Knowledge Graph Embeddings"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "J Portisch, H Paulheim - arXiv preprint arXiv:2207.06014, 2022"
----
-Knowledge graph embedding is a representation learning technique that projects entities and relations in a knowledge graph to continuous vector spaces. Embeddings have gained a lot of uptake and have been heavily used in link prediction and other downstream prediction tasks. Most approaches are evaluated on a single task or a single group of tasks to determine their overall performance. The evaluation is then assessed in terms of how well the embedding approach …
-Cites: ‪Observed versus latent features for knowledge base and text …‬  
+--- 
+layout: post 
+title: "The DLCC Node Classification Benchmark for Analyzing Knowledge Graph Embeddings" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "J Portisch, H Paulheim - arXiv preprint arXiv:2207.06014, 2022" 
+--- 
+Knowledge graph embedding is a representation learning technique that projects entities and relations in a knowledge graph to continuous vector spaces. Embeddings have gained a lot of uptake and have been heavily used in link prediction and other downstream prediction tasks. Most approaches are evaluated on a single task or a single group of tasks to determine their overall performance. The evaluation is then assessed in terms of how well the embedding approach  Cites: Observed versus latent features for knowledge base and text

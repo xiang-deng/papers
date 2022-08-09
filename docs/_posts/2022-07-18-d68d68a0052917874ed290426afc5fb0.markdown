@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DnD: A Cross-Architecture Deep Neural Network Decompiler"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "R Wu, T Kim, DJ Tian, A Bianchi, D Xu"
----
-Abstract The usage of Deep Neural Networks (DNNs) has steadily increased in recent years. Especially when used in edge devices, dedicated DNN compilers are used to compile DNNs into binaries. Many security applications (such as DNN model extraction, white-box adversarial sample generation, and DNN model patching and hardening) are possible when a DNN model is accessible. However, these techniques cannot be applied to compiled DNNs. Unfortunately, no dedicated …
-Cites: ‪Dire: A neural approach to decompiled identifier naming‬  
+--- 
+layout: post 
+title: "DnD: A Cross-Architecture Deep Neural Network Decompiler" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "R Wu, T Kim, DJ Tian, A Bianchi, D Xu" 
+--- 
+Abstract The usage of Deep Neural Networks (DNNs) has steadily increased in recent years. Especially when used in edge devices, dedicated DNN compilers are used to compile DNNs into binaries. Many security applications (such as DNN model extraction, white-box adversarial sample generation, and DNN model patching and hardening) are possible when a DNN model is accessible. However, these techniques cannot be applied to compiled DNNs. Unfortunately, no dedicated  Cites: Dire: A neural approach to decompiled identifier naming

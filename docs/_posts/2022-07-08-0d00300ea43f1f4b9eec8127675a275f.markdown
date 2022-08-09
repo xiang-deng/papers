@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A systematic approach to parameter optimization and its application to flight schedule simulation software"
-date:   2022-07-08 09:39:49 -0400
-categories: jekyll update
-author: "AEI Brownlee, MG Epitropakis, J Mulder, M Paelinck… - Journal of Heuristics, 2022"
----
-Industrial software often has many parameters that critically impact performance. Frequently, these are left in a sub-optimal configuration for a given application because searching over possible configurations is costly and, except for developer instinct, the relationships between parameters and performance are often unclear and complex. While there have been significant advances in automated parameter tuning approaches recently, they are typically black-box. The high-quality solutions …
-Cites: ‪" Why Should I Trust You?": Explaining the Predictions of Any …‬  
+--- 
+layout: post 
+title: "A systematic approach to parameter optimization and its application to flight schedule simulation software" 
+date: 2022-07-08 09:39:49 -0400 
+categories: jekyll update 
+author: "AEI Brownlee, MG Epitropakis, J Mulder, M Paelinck - Journal of Heuristics, 2022" 
+--- 
+Industrial software often has many parameters that critically impact performance. Frequently, these are left in a sub-optimal configuration for a given application because searching over possible configurations is costly and, except for developer instinct, the relationships between parameters and performance are often unclear and complex. While there have been significant advances in automated parameter tuning approaches recently, they are typically black-box. The high-quality solutions  Cites: " Why Should I Trust You?": Explaining the Predictions of Any

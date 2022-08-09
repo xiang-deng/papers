@@ -1,9 +1,8 @@
----
-layout: post
-title:  "KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "M Tahaei, E Charlaix, V Nia, A Ghodsi… - Proceedings of the 2022 …, 2022"
----
-The development of over-parameterized pre-trained language models has made a significant contribution toward the success of natural language processing. While over-parameterization of these models is the key to their generalization power, it makes them unsuitable for deployment on low-capacity devices. We push the limits of state-of-the-art Transformer-based pre-trained language model compression using Kronecker decomposition. We present our KroneckerBERT, a compressed version of …
-Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬  
+--- 
+layout: post 
+title: "KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "M Tahaei, E Charlaix, V Nia, A Ghodsi - Proceedings of the 2022 , 2022" 
+--- 
+The development of over-parameterized pre-trained language models has made a significant contribution toward the success of natural language processing. While over-parameterization of these models is the key to their generalization power, it makes them unsuitable for deployment on low-capacity devices. We push the limits of state-of-the-art Transformer-based pre-trained language model compression using Kronecker decomposition. We present our KroneckerBERT, a compressed version of  Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

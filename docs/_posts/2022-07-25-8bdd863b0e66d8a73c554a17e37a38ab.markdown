@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Modernizing Topic Models: Accounting for Noise, Time, and Domain Knowledge" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "R Churchill - 2021" 
+--- 
+Data has evolved rapidly since the inception of topic models over twenty years ago. The most popular topic models perform poorly on large contemporary data sets that contain short, noisy texts. This dissertation aims to produce a suite of topic models capable of accurately modeling these new types of data. We begin by tracking the evolution of topic models from inception to modern days. We then propose a flexible preprocessing pipeline that can be adjusted for different levels of noise in the data  Cites: Reading tea leaves: How humans interpret topic models

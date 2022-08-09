@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficient Constituency Tree based Encoding for Natural Language to Bash Translation"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "S Bharadwaj, S Shevade - Proceedings of the 2022 Conference of the North …, 2022"
----
-Bash is a Unix command language used for interacting with the Operating System. Recent works on natural language to Bash translation have made significant advances, but none of the previous methods utilize the problem s inherent structure. We identify this structure andpropose a Segmented Invocation Transformer (SIT) that utilizes the information from the constituency parse tree of the natural language text. Our method is motivated by the alignment between segments in the natural language …
-Cites: ‪Tree-structured attention with hierarchical accumulation‬  
+--- 
+layout: post 
+title: "Efficient Constituency Tree based Encoding for Natural Language to Bash Translation" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "S Bharadwaj, S Shevade - Proceedings of the 2022 Conference of the North , 2022" 
+--- 
+Bash is a Unix command language used for interacting with the Operating System. Recent works on natural language to Bash translation have made significant advances, but none of the previous methods utilize the problem s inherent structure. We identify this structure andpropose a Segmented Invocation Transformer (SIT) that utilizes the information from the constituency parse tree of the natural language text. Our method is motivated by the alignment between segments in the natural language  Cites: Tree-structured attention with hierarchical accumulation

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "InPars: Unsupervised Dataset Generation for Information Retrieval"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "L Bonifacio, H Abonizio, M Fadaee, R Nogueira - … of the 45th International ACM SIGIR …, 2022"
----
-ABSTRACT The Information Retrieval (IR) community has recently witnessed a revolution due to large pretrained transformer models. Another key ingredient for this revolution was the MS MARCO dataset, whose scale and diversity has enabled zero-shot transfer learning to various tasks. However, not all IR tasks and domains can benefit from one single dataset equally. Extensive research in various NLP tasks has shown that using domain-specific training data, as opposed to a general-purpose …
-Cites: ‪Large dual encoders are generalizable retrievers‬  
+--- 
+layout: post 
+title: "InPars: Unsupervised Dataset Generation for Information Retrieval" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "L Bonifacio, H Abonizio, M Fadaee, R Nogueira - of the 45th International ACM SIGIR , 2022" 
+--- 
+ABSTRACT The Information Retrieval (IR) community has recently witnessed a revolution due to large pretrained transformer models. Another key ingredient for this revolution was the MS MARCO dataset, whose scale and diversity has enabled zero-shot transfer learning to various tasks. However, not all IR tasks and domains can benefit from one single dataset equally. Extensive research in various NLP tasks has shown that using domain-specific training data, as opposed to a general-purpose  Cites: Large dual encoders are generalizable retrievers

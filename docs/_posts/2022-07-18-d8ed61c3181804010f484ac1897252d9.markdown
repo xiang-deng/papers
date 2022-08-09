@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prototypical networks relation classification model based on entity convolution"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "J Feng, Q Wei, J Cui - Computer Speech & Language, 2022"
----
-Sentence-level relation classification is a technique for classifying the relation between the head entity and the tail entity in a sentence. Currently, it is popularly used to realize relation classification based on deep learning methods. However, these methods rely heavily on large-scale annotated data, and the role of head and tail entities  information is not fully explored. In response to the above problems, we propose a prototypical networks model based on entity convolution for relation …
-Cites: ‪Benefits of Intermediate Annotations in Reading Comprehension‬  
+--- 
+layout: post 
+title: "Prototypical networks relation classification model based on entity convolution" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "J Feng, Q Wei, J Cui - Computer Speech & Language, 2022" 
+--- 
+Sentence-level relation classification is a technique for classifying the relation between the head entity and the tail entity in a sentence. Currently, it is popularly used to realize relation classification based on deep learning methods. However, these methods rely heavily on large-scale annotated data, and the role of head and tail entities information is not fully explored. In response to the above problems, we propose a prototypical networks model based on entity convolution for relation  Cites: Benefits of Intermediate Annotations in Reading Comprehension

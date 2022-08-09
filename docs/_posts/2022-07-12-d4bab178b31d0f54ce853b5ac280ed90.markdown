@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Building knowledge subgraphs in question answering over knowledge graphs"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "S Aghaei, K Angele, A Fensel - International Conference on Web Engineering, 2022"
----
-Question answering over knowledge graphs targets to leverage facts in knowledge graphs to answer natural language questions. The presence of large number of facts, particularly in huge and well-known knowledge graphs such as DBpedia, makes it difficult to access the knowledge graph for each given question. This paper describes a generic solution based on Personal Page Rank for extracting a small subset from the knowledge graph as a knowledge subgraph which is likely to capture the answer …
-Cites: ‪The value of semantic parse labeling for knowledge base question …‬  
+--- 
+layout: post 
+title: "Building knowledge subgraphs in question answering over knowledge graphs" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "S Aghaei, K Angele, A Fensel - International Conference on Web Engineering, 2022" 
+--- 
+Question answering over knowledge graphs targets to leverage facts in knowledge graphs to answer natural language questions. The presence of large number of facts, particularly in huge and well-known knowledge graphs such as DBpedia, makes it difficult to access the knowledge graph for each given question. This paper describes a generic solution based on Personal Page Rank for extracting a small subset from the knowledge graph as a knowledge subgraph which is likely to capture the answer  Cites: The value of semantic parse labeling for knowledge base question

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "時間的常識理解へ向けた言語モデル構築への取り組み"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "木村麻友子， 浅原正幸， 越智綾子， 小林一郎 - 人工知能学会全国大会論文集 第 36 回 …, 2022"
----
-抄録 文章中に表現される時間に関するイベントに対して, 常識的な時間関係を捉えることができるようにすることは, 自然言語理解においてとても重要な課題である. 一方で, 近年, 幅広い自然言語処理 (NLP) タスクで大きな成果を上げている BERT などの事前学習済み言語モデルは, 時間推論においてはまだ性能が低いと言われている. そこで, 本研究では, 時間的常識推論に対する言語モデルの開発に焦点を当て, 複数のコーパスを用いたマルチステップのファインチューニングや, ファインチューニングの前に, 時間的常識を問う対象の …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬  
+--- 
+layout: post 
+title: "" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: " - 36 , 2022" 
+--- 
+ , , . , , (NLP) BERT , . , , , , ,  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

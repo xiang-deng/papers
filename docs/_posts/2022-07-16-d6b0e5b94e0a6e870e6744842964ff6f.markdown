@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "J Hu, X Yi, W Li, M Sun, X Xie - Proceedings of the 2022 Conference of the North …, 2022"
----
-The past several years have witnessed Variational Auto-Encoder s superiority in various text generation tasks. However, due to the sequential nature of the text, auto-regressive decoders tend to ignore latent variables and then reduce to simple language models, known as the\textit {KL vanishing} problem, which would further deteriorate when VAE is combined with Transformer-based structures. To ameliorate this problem, we propose Della, a novel variational Transformer framework. Della …
-Cites: ‪A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text‬  
+--- 
+layout: post 
+title: "Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "J Hu, X Yi, W Li, M Sun, X Xie - Proceedings of the 2022 Conference of the North , 2022" 
+--- 
+The past several years have witnessed Variational Auto-Encoder s superiority in various text generation tasks. However, due to the sequential nature of the text, auto-regressive decoders tend to ignore latent variables and then reduce to simple language models, known as the\textit {KL vanishing} problem, which would further deteriorate when VAE is combined with Transformer-based structures. To ameliorate this problem, we propose Della, a novel variational Transformer framework. Della  Cites: A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Is My Model Using The Right Evidence? Systematic Probes for Examining Evidence-Based Tabular Reasoning" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "IH LTRC" 
+--- 
+While neural models routinely report state-of-the-art performance across NLP tasks involving reasoning, their outputs are often observed to not properly use and reason on the evidence presented to them in the inputs. A model that reasons properly is expected to attend to the right parts of the input, be self-consistent in its predictions across examples, avoid spurious patterns in inputs, and to ignore biasing from its underlying pretrained language model in a nuanced, context-sensitive fashion (eg  Cites: TaBERT: Pretraining for Joint Understanding of Textual and

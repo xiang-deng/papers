@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph representation-based machine learning framework for predicting electronic band structures of quantum-confined nanostructures"
-date:   2022-07-08 09:39:49 -0400
-categories: jekyll update
-author: "Z Wang, S Ye, H Wang, Q Huang, J He, S Chang - Science China Materials, 2022"
----
-The application of machine learning (ML) to electronic structure theory enables electronic property prediction with ab initio accuracy. However, most previous ML models predict one or several properties of intrinsic materials. The prediction of electronic band structure, which embeds all the main electronic information, has yet to be deeply studied. This is a challenging task due to the highly variable inputs and outputs; the input materials may have different sizes and compositions, and the …
-Cites: ‪Graph neural networks: A review of methods and applications‬  
+--- 
+layout: post 
+title: "Graph representation-based machine learning framework for predicting electronic band structures of quantum-confined nanostructures" 
+date: 2022-07-08 09:39:49 -0400 
+categories: jekyll update 
+author: "Z Wang, S Ye, H Wang, Q Huang, J He, S Chang - Science China Materials, 2022" 
+--- 
+The application of machine learning (ML) to electronic structure theory enables electronic property prediction with ab initio accuracy. However, most previous ML models predict one or several properties of intrinsic materials. The prediction of electronic band structure, which embeds all the main electronic information, has yet to be deeply studied. This is a challenging task due to the highly variable inputs and outputs; the input materials may have different sizes and compositions, and the  Cites: Graph neural networks: A review of methods and applications

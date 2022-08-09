@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Effective Few-Shot Named Entity Linking by Meta-Learning"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "X Li, Z Li, Z Zhang, N Liu, H Yuan, W Zhang, Z Liu… - arXiv preprint arXiv …, 2022"
----
-Entity linking aims to link ambiguous mentions to their corresponding entities in a knowledge base, which is significant and fundamental for various downstream applications, eg, knowledge base completion, question answering, and information extraction. While great efforts have been devoted to this task, most of these studies follow the assumption that large-scale labeled data is available. However, when the labeled data is insufficient for specific domains due to labor-intensive annotation …
-Cites: ‪Zero-shot entity linking by reading entity descriptions‬  
+--- 
+layout: post 
+title: "Effective Few-Shot Named Entity Linking by Meta-Learning" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "X Li, Z Li, Z Zhang, N Liu, H Yuan, W Zhang, Z Liu - arXiv preprint arXiv , 2022" 
+--- 
+Entity linking aims to link ambiguous mentions to their corresponding entities in a knowledge base, which is significant and fundamental for various downstream applications, eg, knowledge base completion, question answering, and information extraction. While great efforts have been devoted to this task, most of these studies follow the assumption that large-scale labeled data is available. However, when the labeled data is insufficient for specific domains due to labor-intensive annotation  Cites: Zero-shot entity linking by reading entity descriptions

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Cache Optimization Based on Linear Regression and Directed Acyclic Task Graph" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "L Wan, B Dai, H Jiang, W Luan, F Ye, X Zhu - CCF Conference on Computer , 2022" 
+--- 
+Based on the principle of locality, the current Cache hit rate has reached a high level. At the same time, its replacement algorithm has also encountered a bottleneck. The current algorithms show poor results on large-scale datasets. In this paper, machine learning technology is applied to the hit strategy of Cache. The calculation task is converted into a DAG graph, and then the DAG graph is represented by an adjacency matrix, and the multiple linear regression model is input to predict the  Cites: Challenges and opportunities with Big Data 2011-1

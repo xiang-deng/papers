@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding Dataset Difficulty with $\mathcalV $-Usable Information"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "K Ethayarajh, Y Choi, S Swayamdipta - International Conference on Machine …, 2022"
----
-Estimating the difficulty of a dataset typically involves comparing state-of-the-art models to humans; the bigger the performance gap, the harder the dataset is said to be. However, this comparison provides little understanding of how difficult each instance in a given distribution is, or what attributes make the dataset difficult for a given model. To address these questions, we frame dataset difficulty—wrt a model $\mathcal {V} $—as the lack of $\mathcal {V} $-usable information (Xu et al., 2019) …
-Cites: ‪Roberta: a robustly optimized BERT pretraining approach (2019)‬  
+--- 
+layout: post 
+title: "Understanding Dataset Difficulty with V-Usable Information" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "K Ethayarajh, Y Choi, S Swayamdipta - International Conference on Machine , 2022" 
+--- 
+Estimating the difficulty of a dataset typically involves comparing state-of-the-art models to humans; the bigger the performance gap, the harder the dataset is said to be. However, this comparison provides little understanding of how difficult each instance in a given distribution is, or what attributes make the dataset difficult for a given model. To address these questions, we frame dataset difficultywrt a model V as the lack of V-usable information (Xu et al., 2019)  Cites: Roberta: a robustly optimized BERT pretraining approach (2019)

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Label Refinement via Contrastive Learning for Distantly-Supervised Named Entity Recognition"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "H Ying, S Luo, T Dang, S Yu - Findings of the Association for Computational …, 2022"
----
-Distantly-supervised named entity recognition (NER) locates and classifies entities using only knowledge bases and unlabeled corpus to mitigate the reliance on human-annotated labels. The distantly annotated data suffer from the noise in labels, and previous works on DSNER have proved the importance of pre-refining distant labels with hand-crafted rules and extra existing semantic information. In this work, we explore the way to directly learn the distant label refinement knowledge by …
-Cites: ‪Learning to Denoise Distantly-Labeled Data for Entity Typing‬  
+--- 
+layout: post 
+title: "Label Refinement via Contrastive Learning for Distantly-Supervised Named Entity Recognition" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "H Ying, S Luo, T Dang, S Yu - Findings of the Association for Computational , 2022" 
+--- 
+Distantly-supervised named entity recognition (NER) locates and classifies entities using only knowledge bases and unlabeled corpus to mitigate the reliance on human-annotated labels. The distantly annotated data suffer from the noise in labels, and previous works on DSNER have proved the importance of pre-refining distant labels with hand-crafted rules and extra existing semantic information. In this work, we explore the way to directly learn the distant label refinement knowledge by  Cites: Learning to Denoise Distantly-Labeled Data for Entity Typing

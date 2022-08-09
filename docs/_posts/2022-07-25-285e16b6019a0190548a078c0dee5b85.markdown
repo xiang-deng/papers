@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Rebuild and Ensemble: Exploring Defense Against Text Adversaries" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "LLD Song, JZR Ma, X Qiu" 
+--- 
+Adversarial attacks can mislead strong neural models; as such, in NLP tasks, substitution-based attacks are difficult to defend. Current defense methods usually assume that the substitution candidates are accessible, which cannot be widely applied against adversarial attacks unless knowing the mechanism of the attacks. In this paper, we propose a Rebuild and Ensemble Framework to defend against adversarial attacks in texts without knowing the candidates. We propose a rebuild  Cites: Better Robustness by More Coverage: Adversarial Training with

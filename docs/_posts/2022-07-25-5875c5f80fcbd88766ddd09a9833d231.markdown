@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Adversarial example generation via genetic algorithm: a preliminary result" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "S Zhou, K Li, G Min - Proceedings of the Genetic and Evolutionary , 2022" 
+--- 
+In recent years, some studies showed that deep neural networks (DNNs) are vulnerable to being attacked by small perturbated examples. To satisfy the lexical, grammatical, and semantic constrain, some works proposed using black-box population-based optimization algorithms to attack neural networks in natural language processing. However, they are inefficient enough because they do not consider the characteristics of the text itself. Also, they are slow to close to the  Cites: Certified robustness to adversarial word substitutions

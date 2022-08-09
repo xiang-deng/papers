@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learned Token Pruning in Contextualized Late Interaction over BERT (ColBERT)"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "C Lassance, M Maachou, J Park, S Clinchant - … of the 45th International ACM SIGIR …, 2022"
----
-ABSTRACT BERT-based rankers have been shown very effective as rerankers in information retrieval tasks. In order to extend these models to full-ranking scenarios, the ColBERT model has been recently proposed, which adopts a late interaction mechanism. This mechanism allows for the representation of documents to be precomputed in advance. However, the late-interaction mechanism leads to large index size, as one needs to save a representation for each token of every document …
-Cites: ‪Length-adaptive transformer: Train once with length drop, use …‬  
+--- 
+layout: post 
+title: "Learned Token Pruning in Contextualized Late Interaction over BERT (ColBERT)" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "C Lassance, M Maachou, J Park, S Clinchant - of the 45th International ACM SIGIR , 2022" 
+--- 
+ABSTRACT BERT-based rankers have been shown very effective as rerankers in information retrieval tasks. In order to extend these models to full-ranking scenarios, the ColBERT model has been recently proposed, which adopts a late interaction mechanism. This mechanism allows for the representation of documents to be precomputed in advance. However, the late-interaction mechanism leads to large index size, as one needs to save a representation for each token of every document  Cites: Length-adaptive transformer: Train once with length drop, use

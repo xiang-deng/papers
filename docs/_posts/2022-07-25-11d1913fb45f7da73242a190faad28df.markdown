@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learn From All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "Y Zhang, C Wang, X Ling, W Deng - arXiv preprint arXiv:2207.10299, 2022" 
+--- 
+Noisy label Facial Expression Recognition (FER) is more challenging than traditional noisy label classification tasks due to the inter-class similarity and the annotation ambiguity. Recent works mainly tackle this problem by filtering out large-loss samples. In this paper, we explore dealing with noisy labels from a new feature-learning perspective. We find that FER models remember noisy samples by focusing on a part of the features that can be considered related to the noisy labels instead of  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

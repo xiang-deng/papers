@@ -1,9 +1,8 @@
----
-layout: post
-title:  "T5 Encoder Based Acronym Disambiguation with Weak Supervision"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "G Song, H Lee, K Shim - SDU@ AAAI-22, 2022"
----
-An acronym is a word formed by abbreviating a phrase by combining certain letters of words in the phrase into a single term. Acronym disambiguation task selects the correct expansion of an ambiguous acronym in a sentence among the candidate expansions in a dictionary. Although it is convenient to use acronyms, identifying the appropriate expansions of an acronym in a sentence is a difficult task in natural language processing. Based on the recent success of the large-scale pre-trained …
-Cites: ‪Roberta: A robustly optimized bert pretraining approach‬  
+--- 
+layout: post 
+title: "T5 Encoder Based Acronym Disambiguation with Weak Supervision" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "G Song, H Lee, K Shim - SDU@ AAAI-22, 2022" 
+--- 
+An acronym is a word formed by abbreviating a phrase by combining certain letters of words in the phrase into a single term. Acronym disambiguation task selects the correct expansion of an ambiguous acronym in a sentence among the candidate expansions in a dictionary. Although it is convenient to use acronyms, identifying the appropriate expansions of an acronym in a sentence is a difficult task in natural language processing. Based on the recent success of the large-scale pre-trained  Cites: Roberta: A robustly optimized bert pretraining approach

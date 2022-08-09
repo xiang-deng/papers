@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ELECTRA is a Zero-Shot Learner, Too" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "S Ni, HY Kao - arXiv preprint arXiv:2207.08141, 2022" 
+--- 
+Recently, for few-shot or even zero-shot learning, the new paradigm pre-train, prompt, and predict has achieved remarkable achievements compared with the pre-train, fine-tune paradigm. After the success of prompt-based GPT-3, a series of masked language model (MLM)-based (eg, BERT, RoBERTa) prompt learning methods became popular and widely used. However, another efficient pre-trained discriminative model, ELECTRA, has probably been neglected. In this paper, we  Cites: Pre-train, prompt, and predict: A systematic survey of prompting

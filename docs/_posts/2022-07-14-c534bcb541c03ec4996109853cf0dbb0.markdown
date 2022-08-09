@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Convergence Rates of Non-Convex Stochastic Gradient Descent Under a Generic Lojasiewicz Condition and Local Smoothness"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "K Scaman, C Malherbe, L Dos Santos - International Conference on Machine …, 2022"
----
-Training over-parameterized neural networks involves the empirical minimization of highly non-convex objective functions. Recently, a large body of works provided theoretical evidence that, despite this non-convexity, properly initialized over-parameterized networks can converge to a zero training loss through the introduction of the Polyak-Lojasiewicz condition. However, these analyses are restricted to quadratic losses such as mean square error, and tend to indicate fast exponential …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬  
+--- 
+layout: post 
+title: "Convergence Rates of Non-Convex Stochastic Gradient Descent Under a Generic Lojasiewicz Condition and Local Smoothness" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "K Scaman, C Malherbe, L Dos Santos - International Conference on Machine , 2022" 
+--- 
+Training over-parameterized neural networks involves the empirical minimization of highly non-convex objective functions. Recently, a large body of works provided theoretical evidence that, despite this non-convexity, properly initialized over-parameterized networks can converge to a zero training loss through the introduction of the Polyak-Lojasiewicz condition. However, these analyses are restricted to quadratic losses such as mean square error, and tend to indicate fast exponential  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

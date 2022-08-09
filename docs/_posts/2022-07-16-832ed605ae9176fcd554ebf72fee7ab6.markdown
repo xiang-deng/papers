@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Estimating Instance-dependent Bayes-label Transition Matrix using a Deep Neural Network"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "S Yang, E Yang, B Han, Y Liu, M Xu, G Niu, T Liu - International Conference on …, 2022"
----
-In label-noise learning, estimating the transition matrix is a hot topic as the matrix plays an important role in building statistically consistent classifiers. Traditionally, the transition from clean labels to noisy labels (ie, clean-label transition matrix (CLTM)) has been widely exploited to learn a clean label classifier by employing the noisy data. Motivated by that classifiers mostly output Bayes optimal labels for prediction, in this paper, we study to directly model the transition from Bayes optimal labels to …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬  
+--- 
+layout: post 
+title: "Estimating Instance-dependent Bayes-label Transition Matrix using a Deep Neural Network" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "S Yang, E Yang, B Han, Y Liu, M Xu, G Niu, T Liu - International Conference on , 2022" 
+--- 
+In label-noise learning, estimating the transition matrix is a hot topic as the matrix plays an important role in building statistically consistent classifiers. Traditionally, the transition from clean labels to noisy labels (ie, clean-label transition matrix (CLTM)) has been widely exploited to learn a clean label classifier by employing the noisy data. Motivated by that classifiers mostly output Bayes optimal labels for prediction, in this paper, we study to directly model the transition from Bayes optimal labels to  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

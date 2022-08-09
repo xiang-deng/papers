@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Latent graph learning with dual-channel attention for relation extraction" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "G Tang, P Li, Y He, Y Chen, Y Zhong, F Gan - Knowledge-Based Systems, 2022" 
+--- 
+As a building block of information retrieval, relation extraction aims at predicting the relation type between two given entities in a piece of text. This task becomes challenging when it is confronted with long text that contains many task-unrelated tokens. Recent attempts to solve this problem have resorted to learning the relatedness among tokens. However, how to obtain appropriate graph for better relatedness representation still remains outstanding, while existing methods have  Cites: Spanbert: Improving pre-training by representing and predicting

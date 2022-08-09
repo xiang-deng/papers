@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Beyond confusion matrix: learning from multiple annotators with awareness of instance features"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "J Li, H Sun, J Li - Machine Learning, 2022"
----
-Learning from multiple annotators aims to induce a high-quality classifier from training instances, where each of them is associated with a set of observed labels provided by multiple annotators under the impact of their varying abilities and own biases. When modeling the probability transition process from latent true labels to observed labels, most existing methods adopt class-level confusion matrices of annotators which assume that observed labels do not depend on the instance …
-Cites: ‪Exact exponent in optimal rates for crowdsourcing‬  
+--- 
+layout: post 
+title: "Beyond confusion matrix: learning from multiple annotators with awareness of instance features" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "J Li, H Sun, J Li - Machine Learning, 2022" 
+--- 
+Learning from multiple annotators aims to induce a high-quality classifier from training instances, where each of them is associated with a set of observed labels provided by multiple annotators under the impact of their varying abilities and own biases. When modeling the probability transition process from latent true labels to observed labels, most existing methods adopt class-level confusion matrices of annotators which assume that observed labels do not depend on the instance  Cites: Exact exponent in optimal rates for crowdsourcing

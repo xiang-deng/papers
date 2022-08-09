@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Extractive Elementary Discourse Units for Improving Abstractive Summarization"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "Y Xiong, T Racharak, ML Nguyen - Proceedings of the 45th International ACM SIGIR …, 2022"
----
-Abstractive summarization focuses on generating concise and fluent text from an original document while maintaining the original intent and containing the new words that do not appear in the original document. Recent studies point out that rewriting extractive summaries help improve the performance with a more concise and comprehensible output summary, which uses a sentence as a textual unit. However, a single document sentence normally cannot supply sufficient information. In this …
-Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬  
+--- 
+layout: post 
+title: "Extractive Elementary Discourse Units for Improving Abstractive Summarization" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "Y Xiong, T Racharak, ML Nguyen - Proceedings of the 45th International ACM SIGIR , 2022" 
+--- 
+Abstractive summarization focuses on generating concise and fluent text from an original document while maintaining the original intent and containing the new words that do not appear in the original document. Recent studies point out that rewriting extractive summaries help improve the performance with a more concise and comprehensible output summary, which uses a sentence as a textual unit. However, a single document sentence normally cannot supply sufficient information. In this  Cites: Discourse-Aware Neural Extractive Text Summarization

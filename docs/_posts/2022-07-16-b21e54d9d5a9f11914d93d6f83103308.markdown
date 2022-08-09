@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SemEval-2022 Task 3: PreTENS-Evaluating Neural Networks on Presuppositional Semantic Knowledge"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "R Zamparelli, S Chowdhury, D Brunato, C Chesi… - Proceedings of the 16th …, 2022"
----
-We report the results of the SemEval 2022 Task 3, PreTENS, on evaluation the acceptability of simple sentences containing constructions whose two arguments are presupposed to be or not to be in an ordered taxonomic relation. The task featured two sub-tasks articulated as:(i) binary prediction task and (ii) regression task, predicting the acceptability in a continuous scale. The sentences were artificially generated in three languages (English, Italian and French). 21 systems, with 8 …
-Cites: ‪Unsupervised cross-lingual representation learning at scale‬  
+--- 
+layout: post 
+title: "SemEval-2022 Task 3: PreTENS-Evaluating Neural Networks on Presuppositional Semantic Knowledge" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "R Zamparelli, S Chowdhury, D Brunato, C Chesi - Proceedings of the 16th , 2022" 
+--- 
+We report the results of the SemEval 2022 Task 3, PreTENS, on evaluation the acceptability of simple sentences containing constructions whose two arguments are presupposed to be or not to be in an ordered taxonomic relation. The task featured two sub-tasks articulated as:(i) binary prediction task and (ii) regression task, predicting the acceptability in a continuous scale. The sentences were artificially generated in three languages (English, Italian and French). 21 systems, with 8  Cites: Unsupervised cross-lingual representation learning at scale

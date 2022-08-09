@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A case study of utilizing YOLOT based quantitative detection algorithm for marine benthos"
-date:   2022-07-08 09:39:49 -0400
-categories: jekyll update
-author: "X Fu, Y Liu, Y Liu - Ecological Informatics, 2022"
----
-Current object detection algorithms suffer from low accuracy and poor robustness when used to detect marine benthos due to the complex environment and low light levels on the seabed. To solve these problems, the YOLOT (You Only Look Once with Transformer) algorithm, a quantitative detection algorithm based on the improved YOLOv4, is proposed for marine benthos in this paper. To improve the feature extraction capability of the neural network, the transformer mechanism is …
-Cites: ‪Augmentation for small object detection‬  
+--- 
+layout: post 
+title: "A case study of utilizing YOLOT based quantitative detection algorithm for marine benthos" 
+date: 2022-07-08 09:39:49 -0400 
+categories: jekyll update 
+author: "X Fu, Y Liu, Y Liu - Ecological Informatics, 2022" 
+--- 
+Current object detection algorithms suffer from low accuracy and poor robustness when used to detect marine benthos due to the complex environment and low light levels on the seabed. To solve these problems, the YOLOT (You Only Look Once with Transformer) algorithm, a quantitative detection algorithm based on the improved YOLOv4, is proposed for marine benthos in this paper. To improve the feature extraction capability of the neural network, the transformer mechanism is  Cites: Augmentation for small object detection

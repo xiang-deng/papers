@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Application of Graph Document Model for Classification of Agricultural Scientific Papers in Polish" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "W Karwowski, P Wrzeciono - Conference on Computer Information Systems and , 2022" 
+--- 
+In the paper, the problem of classification of texts in the Polish language based on graph document model is discussed. A set of agricultural scientific texts in the Polish language are normalized and converted into directed graphs with words as vertices. Paths in the graph are assigned weights depending on how often words appear next to each other. The phrases with the highest weight are selected to represent the particular text in every graph. Only phrases with nouns, a verb, or an adjective were  Cites: Sentence centrality revisited for unsupervised summarization

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "REFACTOR GNNS: Revisiting Factorisation-based Models from a Message-Passing Perspective" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "Y Chen, P Mishra, L Franceschi, P Minervini - arXiv preprint arXiv , 2022" 
+--- 
+Factorisation-based Models (FMs), such as DistMult, have enjoyed enduring success for Knowledge Graph Completion (KGC) tasks, often outperforming Graph Neural Networks (GNNs). However, unlike GNNs, FMs struggle to incorporate node features

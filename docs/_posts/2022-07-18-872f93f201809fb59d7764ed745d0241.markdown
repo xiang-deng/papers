@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cubic-cross convolutional attention and count prior embedding for smoke segmentation"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "F Yuan, Z Dong, L Zhang, X Xia, J Shi - Pattern Recognition, 2022"
----
-It is very challenging to accurately segment smoke images because smoke has some adverse properties, such as semi-transparency and blurry boundary. Aiming at solving these problems, we first fuse convolutional results along different axes to equivalently produce a cubic-cross convolutional kernel, which enlarges receptive fields at affordable computational costs for capturing long-range dependency of smoke pixels, and then we propose a Cubic-cross Convolutional Attention (CCA). To …
-Cites: ‪Espnet: Efficient spatial pyramid of dilated convolutions for …‬  
+--- 
+layout: post 
+title: "Cubic-cross convolutional attention and count prior embedding for smoke segmentation" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "F Yuan, Z Dong, L Zhang, X Xia, J Shi - Pattern Recognition, 2022" 
+--- 
+It is very challenging to accurately segment smoke images because smoke has some adverse properties, such as semi-transparency and blurry boundary. Aiming at solving these problems, we first fuse convolutional results along different axes to equivalently produce a cubic-cross convolutional kernel, which enlarges receptive fields at affordable computational costs for capturing long-range dependency of smoke pixels, and then we propose a Cubic-cross Convolutional Attention (CCA). To  Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

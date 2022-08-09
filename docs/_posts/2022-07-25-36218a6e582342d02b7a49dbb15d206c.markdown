@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Handling negative samples problems in span-based nested named entity recognition" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "C Liu, H Fan, J Liu - Neurocomputing, 2022" 
+--- 
+Abstract Named Entity Recognition (NER) is generally regarded as a sequence labeling task, and faces a serious problem when the named entities are nested. Span-based model, which enumerates all possible spans as potential entity mentions in a sentence and classifies them, is straightforward for nested NER but faces negative samples problems. In this paper, we propose a span-based nested NER model with BERT and try to solve the negative samples problems. In view of the  Cites: Detecting formal thought disorder by deep contextualized word

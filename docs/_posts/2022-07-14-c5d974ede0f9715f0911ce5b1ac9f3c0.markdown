@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TSPipe: Learn from Teacher Faster with Pipelines"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "H Lim, Y Kim, S Yun, J Shin, D Han - International Conference on Machine Learning, 2022"
----
-The teacher-student (TS) framework, training a (student) network by utilizing an auxiliary superior (teacher) network, has been adopted as a popular training paradigm in many machine learning schemes, since the seminal work—Knowledge distillation (KD) for model compression and transfer learning. Many recent self-supervised learning (SSL) schemes also adopt the TS framework, where teacher networks are maintained as the moving average of student networks, called the …
-Cites: ‪Meta pseudo labels‬  
+--- 
+layout: post 
+title: "TSPipe: Learn from Teacher Faster with Pipelines" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "H Lim, Y Kim, S Yun, J Shin, D Han - International Conference on Machine Learning, 2022" 
+--- 
+The teacher-student (TS) framework, training a (student) network by utilizing an auxiliary superior (teacher) network, has been adopted as a popular training paradigm in many machine learning schemes, since the seminal workKnowledge distillation (KD) for model compression and transfer learning. Many recent self-supervised learning (SSL) schemes also adopt the TS framework, where teacher networks are maintained as the moving average of student networks, called the  Cites: Meta pseudo labels

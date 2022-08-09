@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Transformers discover an elementary calculation system exploiting local attention and grid-like problem representation"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "S Cognolato, A Testolin - arXiv preprint arXiv:2207.02536, 2022"
----
-Mathematical reasoning is one of the most impressive achievements of human intellect but remains a formidable challenge for artificial intelligence systems. In this work we explore whether modern deep learning architectures can learn to solve a symbolic addition task by discovering effective arithmetic procedures. Although the problem might seem trivial at first glance, generalizing arithmetic knowledge to operations involving a higher number of terms, possibly composed by longer …
-Cites: ‪Injecting Numerical Reasoning Skills into Language Models‬  
+--- 
+layout: post 
+title: "Transformers discover an elementary calculation system exploiting local attention and grid-like problem representation" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "S Cognolato, A Testolin - arXiv preprint arXiv:2207.02536, 2022" 
+--- 
+Mathematical reasoning is one of the most impressive achievements of human intellect but remains a formidable challenge for artificial intelligence systems. In this work we explore whether modern deep learning architectures can learn to solve a symbolic addition task by discovering effective arithmetic procedures. Although the problem might seem trivial at first glance, generalizing arithmetic knowledge to operations involving a higher number of terms, possibly composed by longer  Cites: Injecting Numerical Reasoning Skills into Language Models

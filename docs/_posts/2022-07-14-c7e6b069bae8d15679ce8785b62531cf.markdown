@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AUTOMATIC KEY PHRASE EXTRACTION FOR MULTI DOCUMENT"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "AB REDDY, DRVM MOHAN, DRK DURGA"
----
-Key phrase extraction only consider the connections between words in a document, ignoring the impact of the sentence. Motivated by the fact that a word must be important if it appears in many important sentences, we propose to take full advantage of the reinforcement between words and sentences by melting three kinds of relationships between them. Moreover, a document is grouped with many topics. The extracted key phrases should be synthetic in the sense that they should deal …
-Cites: ‪Automatic keyphrase extraction via topic decomposition‬  
+--- 
+layout: post 
+title: "AUTOMATIC KEY PHRASE EXTRACTION FOR MULTI DOCUMENT" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "AB REDDY, DRVM MOHAN, DRK DURGA" 
+--- 
+Key phrase extraction only consider the connections between words in a document, ignoring the impact of the sentence. Motivated by the fact that a word must be important if it appears in many important sentences, we propose to take full advantage of the reinforcement between words and sentences by melting three kinds of relationships between them. Moreover, a document is grouped with many topics. The extracted key phrases should be synthetic in the sense that they should deal  Cites: Automatic keyphrase extraction via topic decomposition

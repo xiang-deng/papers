@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "On the Robustness of Dialogue History Representation in Conversational Question Answering: A Comprehensive Study and a New Prompt-based Method" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "Z Gekhman, N Oved, O Keller, I Szpektor, R Reichart - arXiv preprint arXiv , 2022" 
+--- 
+Most works on modeling the conversation history in Conversational Question Answering (CQA) report a single main result on a common CQA benchmark. While existing models show impressive results on CQA leaderboards, it remains unclear whether they are robust to shifts in setting (sometimes to more realistic ones), training data size (eg from large to small sets) and domain. In this work, we design and conduct the first large-scale robustness study of history modeling approaches for  Cites: Can you unpack that? learning to rewrite questions-in-context

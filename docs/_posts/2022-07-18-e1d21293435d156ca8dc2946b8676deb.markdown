@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Complex Relative Position Encoding for Improving Joint Extraction of Entities and Relations"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "H Cai, Q Xu, W Shen - INTERNATIONAL CONFERENCE ON WIRELESS …, 2022"
----
-Relative position encoding (RPE) is important for transformer based pretrained language model to capture sequence ordering of input tokens. Transformer based model can detect entity pairs along with their relation for joint extraction of entities and relations. However, prior works suffer from the redundant entity pairs, or ignore the important inner structure in the process of extracting entities and relations. To address these limitations, in this paper, we first use BERT with complex relative …
-Cites: ‪A linear programming formulation for global inference in natural …‬  
+--- 
+layout: post 
+title: "Complex Relative Position Encoding for Improving Joint Extraction of Entities and Relations" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "H Cai, Q Xu, W Shen - INTERNATIONAL CONFERENCE ON WIRELESS , 2022" 
+--- 
+Relative position encoding (RPE) is important for transformer based pretrained language model to capture sequence ordering of input tokens. Transformer based model can detect entity pairs along with their relation for joint extraction of entities and relations. However, prior works suffer from the redundant entity pairs, or ignore the important inner structure in the process of extracting entities and relations. To address these limitations, in this paper, we first use BERT with complex relative  Cites: A linear programming formulation for global inference in natural

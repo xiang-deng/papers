@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "FashionViL: Fashion-Focused Vision-and-Language Representation Learning" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "X Han, L Yu, X Zhu, L Zhang, YZ Song, T Xiang - arXiv preprint arXiv:2207.08150, 2022" 
+--- 
+Large-scale Vision-and-Language (V+ L) pre-training for representation learning has proven to be effective in boosting various downstream V+ L tasks. However, when it comes to the fashion domain, existing V+ L methods are inadequate as they overlook the unique characteristics of both the fashion V+ L data and downstream tasks. In this work, we propose a novel fashion-focused V+ L representation learning framework, dubbed as FashionViL. It contains two novel fashion-specific pre-training tasks  Cites: Vinvl: Revisiting visual representations in vision-language models

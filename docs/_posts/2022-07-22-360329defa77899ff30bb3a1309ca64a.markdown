@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Deep-to-Bottom Weights Decay: A Systemic Knowledge Review Learning Technique for Transformer Layers in Knowledge Distillation" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "A Wang, F Liu, Z Huang, M Hu, D Li, Y Chen, X Xie - International Conference on , 2022" 
+--- 
+There are millions of parameters and huge computational power consumption behind the outstanding performance of pre-trained language models in natural language processing tasks. Knowledge distillation is considered as a compression strategy to address this problem. However, previous works have the following shortcomings:(i) distill partial transformer layers of the teacher model, which not only do not make full use of the teacher-side information. But also break the coherence of  Cites: Are Sixteen Heads Really Better than One?

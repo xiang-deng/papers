@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "R Kumar, M Patidar, V Varshney, L Vig, G Shroff - … of the 2022 Conference of the …, 2022"
----
-Intent Detection is a crucial component of Dialogue Systems wherein the objective is to classify a user utterance into one of multiple pre-defined intents. A pre-requisite for developing an effective intent identifier is a training dataset labeled with all possible user intents. However, even skilled domain experts are often unable to foresee all possible user intents at design time and for practical applications, novel intents may have to be inferred incrementally on-the-fly from user utterances. Therefore, for any …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬  
+--- 
+layout: post 
+title: "Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "R Kumar, M Patidar, V Varshney, L Vig, G Shroff - of the 2022 Conference of the , 2022" 
+--- 
+Intent Detection is a crucial component of Dialogue Systems wherein the objective is to classify a user utterance into one of multiple pre-defined intents. A pre-requisite for developing an effective intent identifier is a training dataset labeled with all possible user intents. However, even skilled domain experts are often unable to foresee all possible user intents at design time and for practical applications, novel intents may have to be inferred incrementally on-the-fly from user utterances. Therefore, for any  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

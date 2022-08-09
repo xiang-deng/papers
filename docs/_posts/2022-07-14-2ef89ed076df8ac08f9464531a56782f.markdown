@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ConDef: Automated Context-Aware Lexicography Using Large Online Encyclopedias"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "H Liu, Z Sayyah - Science and Information Conference, 2022"
----
-Current automated lexicography (term definition) techniques cannot include contextual or new term information as a part of their synthesis. Our work proposes a novel data-harvesting scheme that leverages lead paragraphs in Wikipedia to create a dataset used to train automated, context-aware lexicographical models. Furthermore, in order to validate the harvested dataset, we present ConDef, a fine-tuned BART model trained on the harvested data which defines vocabulary terms …
-Cites: ‪Muppet: Massive multi-task representations with pre-finetuning‬  
+--- 
+layout: post 
+title: "ConDef: Automated Context-Aware Lexicography Using Large Online Encyclopedias" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "H Liu, Z Sayyah - Science and Information Conference, 2022" 
+--- 
+Current automated lexicography (term definition) techniques cannot include contextual or new term information as a part of their synthesis. Our work proposes a novel data-harvesting scheme that leverages lead paragraphs in Wikipedia to create a dataset used to train automated, context-aware lexicographical models. Furthermore, in order to validate the harvested dataset, we present ConDef, a fine-tuned BART model trained on the harvested data which defines vocabulary terms  Cites: Muppet: Massive multi-task representations with pre-finetuning

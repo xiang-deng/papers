@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Evaluating Pre-training Objectives for Low-Resource Translation into Morphologically Rich Languages" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "P Dhar, A Bisazza, G van Noord" 
+--- 
+The scarcity of parallel data is a major limitation for Neural Machine Translation (NMT) systems, in particular for translation into morphologically rich languages (MRLs). An important way to overcome the lack of parallel data is to leverage target monolingual data, which is typically more abundant and easier to collect. We evaluate a number of techniques to achieve this, ranging from back-translation to random token masking, on the challenging task of translating English into four  Cites: Overview of the 6th workshop on Asian translation

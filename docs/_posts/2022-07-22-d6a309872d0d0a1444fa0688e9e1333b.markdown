@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning Flexible Translation between Robot Actions and Language Descriptions" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "O zdemir, M Kerzel, C Weber, JH Lee, S Wermter - arXiv preprint arXiv:2207.07437, 2022" 
+--- 
+Handling various robot action-language translation tasks flexibly is an essential requirement for natural interaction between a robot and a human. Previous approaches require change in the configuration of the model architecture per task during inference, which undermines the premise of multi-task learning. In this work, we propose the paired gated autoencoders (PGAE) for flexible translation between robot actions and language descriptions in a tabletop object manipulation scenario  Cites: Crossmodal language grounding in an embodied neurocognitive

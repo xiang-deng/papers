@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Auto Encoder-based Dimensionality Reduction Technique for Efficient Entity Linking in Business Phone Conversations"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "MTR Laskar, C Chen, J Johnston, XY Fu… - Proceedings of the 45th …, 2022"
----
-An entity linking system links named entities in a text to their corresponding entries in a knowledge base. In recent years, building an entity linking system that leverages the transformer architecture has gained lots of attention. However, deploying a transformer-based neural entity linking system in industrial production environments in a limited resource setting is a challenging task. In this work, we present an entity linking system that leverages a transformer-based BERT encoder (the BLINK model) …
-Cites: ‪Fine-grained entity typing for domain independent entity linking‬  
+--- 
+layout: post 
+title: "An Auto Encoder-based Dimensionality Reduction Technique for Efficient Entity Linking in Business Phone Conversations" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "MTR Laskar, C Chen, J Johnston, XY Fu - Proceedings of the 45th , 2022" 
+--- 
+An entity linking system links named entities in a text to their corresponding entries in a knowledge base. In recent years, building an entity linking system that leverages the transformer architecture has gained lots of attention. However, deploying a transformer-based neural entity linking system in industrial production environments in a limited resource setting is a challenging task. In this work, we present an entity linking system that leverages a transformer-based BERT encoder (the BLINK model)  Cites: Fine-grained entity typing for domain independent entity linking

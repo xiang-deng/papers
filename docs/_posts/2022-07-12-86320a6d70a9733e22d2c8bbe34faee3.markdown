@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FC-HAT: Hypergraph Attention Network for Functional Brain Network Classification"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "J Ji, Y Ren, M Lei - Information Sciences, 2022"
----
-Recently, functional brain network analysis via graph neural networks has achieved state-of-the-art results as it can directly extract information from irregular graphs without any approximation. However, current methods remain limited in exploring the high-order structural information of brain networks. To address this issue, we propose a hypergraph attention network for functional brain network classification (FC-HAT). First, we build a dynamic hypergraph generation phase and model each …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬  
+--- 
+layout: post 
+title: "FC-HAT: Hypergraph Attention Network for Functional Brain Network Classification" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "J Ji, Y Ren, M Lei - Information Sciences, 2022" 
+--- 
+Recently, functional brain network analysis via graph neural networks has achieved state-of-the-art results as it can directly extract information from irregular graphs without any approximation. However, current methods remain limited in exploring the high-order structural information of brain networks. To address this issue, we propose a hypergraph attention network for functional brain network classification (FC-HAT). First, we build a dynamic hypergraph generation phase and model each  Cites: Learning with hypergraphs: Clustering, classification, and

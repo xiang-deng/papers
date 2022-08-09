@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Probing Semantic Grounding in Language Models of Code with Representational Similarity Analysis" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "S Naik, R Patil, S Agarwal, V Baths - arXiv preprint arXiv:2207.07706, 2022" 
+--- 
+Representational Similarity Analysis is a method from cognitive neuroscience, which helps in comparing representations from two different sources of data. In this paper, we propose using Representational Similarity Analysis to probe the semantic grounding in language models of code. We probe representations from the CodeBERT model for semantic grounding by using the data from the IBM CodeNet dataset. Through our experiments, we show that current pre-training methods do not  Cites: Codebert: A pre-trained model for programming and natural

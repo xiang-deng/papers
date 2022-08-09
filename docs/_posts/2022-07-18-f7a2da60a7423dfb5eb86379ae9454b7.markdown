@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "XT Vo, KH Jo - Neurocomputing, 2022"
----
-Deep learning-based object detection is a fundamental but challenging problem in computer vision field, has attracted a lot of study in recent years. State-of-the-art object detection methods rely on the selection of positive samples and negative samples, ie, called sample assignment, and the definition of a useful set for training, ie, called sample sampling heuristics. This paper presents a comprehensive review of the advanced anchor assignment and sampling approaches in deep learning …
-Cites: ‪Learning from noisy anchors for one-stage object detection‬  
+--- 
+layout: post 
+title: "A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "XT Vo, KH Jo - Neurocomputing, 2022" 
+--- 
+Deep learning-based object detection is a fundamental but challenging problem in computer vision field, has attracted a lot of study in recent years. State-of-the-art object detection methods rely on the selection of positive samples and negative samples, ie, called sample assignment, and the definition of a useful set for training, ie, called sample sampling heuristics. This paper presents a comprehensive review of the advanced anchor assignment and sampling approaches in deep learning  Cites: Learning from noisy anchors for one-stage object detection

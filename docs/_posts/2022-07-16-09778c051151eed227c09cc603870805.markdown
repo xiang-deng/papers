@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "P Delobelle, E Tokpo, T Calders, B Berendt - Proceedings of the 2022 Conference of …, 2022"
----
-An increasing awareness of biased patterns in natural language processing resources such as BERT has motivated many metrics to quantify  bias  and  fairness  in these resources. However, comparing the results of different metrics and the works that evaluate with such metrics remains difficult, if not outright impossible. We survey the literature on fairness metrics for pre-trained language models and experimentally evaluate compatibility, including both biases in language models and in their …
-Cites: ‪Fantastically ordered prompts and where to find them: Overcoming …‬  
+--- 
+layout: post 
+title: "Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "P Delobelle, E Tokpo, T Calders, B Berendt - Proceedings of the 2022 Conference of , 2022" 
+--- 
+An increasing awareness of biased patterns in natural language processing resources such as BERT has motivated many metrics to quantify bias and fairness in these resources. However, comparing the results of different metrics and the works that evaluate with such metrics remains difficult, if not outright impossible. We survey the literature on fairness metrics for pre-trained language models and experimentally evaluate compatibility, including both biases in language models and in their  Cites: Fantastically ordered prompts and where to find them: Overcoming

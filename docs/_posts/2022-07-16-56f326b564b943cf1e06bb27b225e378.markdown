@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Can Language Models perform Abductive Commonsense Reasoning?"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "S Kim - arXiv preprint arXiv:2207.05155, 2022"
----
-Abductive Reasoning is a task of inferring the most plausible hypothesis given a set of observations. In literature, the community has approached to solve this challenge by classifying/generating a likely hypothesis that does not contradict with a past observation and future observation. Some of the most well-known benchmarks that tackle this problem are aNLI and aNLG (pronounced as alpha-NLI and alpha-NLG). In this report, I review over some of the methodologies that were attempted to solve …
-Cites: ‪COLD decoding: Energy-based constrained text generation with …‬  
+--- 
+layout: post 
+title: "Can Language Models perform Abductive Commonsense Reasoning?" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "S Kim - arXiv preprint arXiv:2207.05155, 2022" 
+--- 
+Abductive Reasoning is a task of inferring the most plausible hypothesis given a set of observations. In literature, the community has approached to solve this challenge by classifying/generating a likely hypothesis that does not contradict with a past observation and future observation. Some of the most well-known benchmarks that tackle this problem are aNLI and aNLG (pronounced as alpha-NLI and alpha-NLG). In this report, I review over some of the methodologies that were attempted to solve  Cites: COLD decoding: Energy-based constrained text generation with

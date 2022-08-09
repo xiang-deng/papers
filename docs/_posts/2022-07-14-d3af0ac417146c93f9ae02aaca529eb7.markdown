@@ -1,9 +1,8 @@
----
-layout: post
-title:  "VLUE: A Multi-Task Multi-Dimension Benchmark for Evaluating Vision-Language Pre-training"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "W Zhou, Y Zeng, S Diao, X Zhang - International Conference on Machine Learning, 2022"
----
-Recent advances in vision-language pre-training (VLP) have demonstrated impressive performance in a range of vision-language (VL) tasks. However, there exist several challenges for measuring the community s progress in building general multi-modal intelligence. First, most of the downstream VL datasets are annotated using raw images that are already seen during pre-training, which may result in an overestimation of current VLP models  generalization ability. Second, recent VLP …
-Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬  
+--- 
+layout: post 
+title: "VLUE: A Multi-Task Multi-Dimension Benchmark for Evaluating Vision-Language Pre-training" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "W Zhou, Y Zeng, S Diao, X Zhang - International Conference on Machine Learning, 2022" 
+--- 
+Recent advances in vision-language pre-training (VLP) have demonstrated impressive performance in a range of vision-language (VL) tasks. However, there exist several challenges for measuring the community s progress in building general multi-modal intelligence. First, most of the downstream VL datasets are annotated using raw images that are already seen during pre-training, which may result in an overestimation of current VLP models generalization ability. Second, recent VLP  Cites: RoBERTa: A Robustly Optimized BERT Pretraining Approach

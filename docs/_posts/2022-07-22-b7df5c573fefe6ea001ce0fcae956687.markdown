@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Parameterization of Cross-Token Relations with Relative Positional Encoding for Vision MLP" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "Z Wang, Y Hao, X Gao, H Zhang, S Wang, T Mu, X He - arXiv preprint arXiv , 2022" 
+--- 
+Vision multi-layer perceptrons (MLPs) have shown promising performance in computer vision tasks, and become the main competitor of CNNs and vision Transformers. They use token-mixing layers to capture cross-token interactions, as opposed to the multi-head self-attention mechanism used by Transformers. However, the heavily parameterized token-mixing layers naturally lack mechanisms to capture local information and multi-granular non-local relations, thus their discriminative  Cites: Coatnet: Marrying convolution and attention for all data sizes

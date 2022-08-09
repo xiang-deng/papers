@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain Confused Contrastive Learning for Unsupervised Domain Adaptation"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "Q Long, T Luo, W Wang, SJ Pan - arXiv preprint arXiv:2207.04564, 2022"
----
-In this work, we study Unsupervised Domain Adaptation (UDA) in a challenging self-supervised approach. One of the difficulties is how to learn task discrimination in the absence of target labels. Unlike previous literature which directly aligns cross-domain distributions or leverages reverse gradient, we propose Domain Confused Contrastive Learning (DCCL) to bridge the source and the target domains via domain puzzles, and retain discriminative representations after adaptation …
-Cites: ‪Multi-Source Domain Adaptation for Text Classification via …‬  
+--- 
+layout: post 
+title: "Domain Confused Contrastive Learning for Unsupervised Domain Adaptation" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "Q Long, T Luo, W Wang, SJ Pan - arXiv preprint arXiv:2207.04564, 2022" 
+--- 
+In this work, we study Unsupervised Domain Adaptation (UDA) in a challenging self-supervised approach. One of the difficulties is how to learn task discrimination in the absence of target labels. Unlike previous literature which directly aligns cross-domain distributions or leverages reverse gradient, we propose Domain Confused Contrastive Learning (DCCL) to bridge the source and the target domains via domain puzzles, and retain discriminative representations after adaptation  Cites: Multi-Source Domain Adaptation for Text Classification via

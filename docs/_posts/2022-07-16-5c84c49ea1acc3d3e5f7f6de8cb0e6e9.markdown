@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enhancing Self-Attention with Knowledge-Assisted Attention Maps"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "J Bai, Y Wang, H Sun, R Wu, T Yang, P Tang, D Cao… - Proceedings of the 2022 …, 2022"
----
-Large-scale pre-trained language models have attracted extensive attentions in the research community and shown promising results on various tasks of natural language processing. However, the attention maps, which record the attention scores between tokens in self-attention mechanism, are sometimes ineffective as they are learned implicitly without the guidance of explicit semantic knowledge. Thus, we aim to infuse explicit external knowledge into pre-trained language models to …
-Cites: ‪KEPLER: A Unified Model for Knowledge Embedding and Pre …‬  
+--- 
+layout: post 
+title: "Enhancing Self-Attention with Knowledge-Assisted Attention Maps" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "J Bai, Y Wang, H Sun, R Wu, T Yang, P Tang, D Cao - Proceedings of the 2022 , 2022" 
+--- 
+Large-scale pre-trained language models have attracted extensive attentions in the research community and shown promising results on various tasks of natural language processing. However, the attention maps, which record the attention scores between tokens in self-attention mechanism, are sometimes ineffective as they are learned implicitly without the guidance of explicit semantic knowledge. Thus, we aim to infuse explicit external knowledge into pre-trained language models to  Cites: KEPLER: A Unified Model for Knowledge Embedding and Pre

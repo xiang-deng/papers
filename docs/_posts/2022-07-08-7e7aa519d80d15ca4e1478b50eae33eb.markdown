@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-Train: Self-Supervised On-Device Training for Post-Deployment Adaptation"
-date:   2022-07-08 09:39:49 -0400
-categories: jekyll update
-author: "J Liu, X Yu, T Rosing"
----
-Recent years have witnessed a significant increase in deploying lightweight machine learning (ML) on embedded systems. The list of applications range from self-driving vehicles to smart environmental monitoring. However, the performance of ML models after the deployment degrades because of potential drifting of the device or the environment. In this paper, we propose Self-Train, a self-supervised on-device training method for ML models to adapt to post-deployment drifting without labels …
-Cites: ‪Connect, not collapse: Explaining contrastive learning for …‬  
+--- 
+layout: post 
+title: "Self-Train: Self-Supervised On-Device Training for Post-Deployment Adaptation" 
+date: 2022-07-08 09:39:49 -0400 
+categories: jekyll update 
+author: "J Liu, X Yu, T Rosing" 
+--- 
+Recent years have witnessed a significant increase in deploying lightweight machine learning (ML) on embedded systems. The list of applications range from self-driving vehicles to smart environmental monitoring. However, the performance of ML models after the deployment degrades because of potential drifting of the device or the environment. In this paper, we propose Self-Train, a self-supervised on-device training method for ML models to adapt to post-deployment drifting without labels  Cites: Connect, not collapse: Explaining contrastive learning for

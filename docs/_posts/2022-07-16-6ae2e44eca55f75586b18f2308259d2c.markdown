@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Overconfidence in the Face of Ambiguity with Adversarial Data"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "M Li, J Michael - Proceedings of the First Workshop on Dynamic …, 2022"
----
-Adversarial data collection has shown promise as a method for building models which are more robust to the spurious correlations that generally appear in naturalistic data. However, adversarially-collected data may itself be subject to biases, particularly with regard to ambiguous or arguable labeling judgments. Searching for examples where an annotator disagrees with a model might over-sample ambiguous inputs, and filtering the results for high inter-annotator agreement …
-Cites: ‪Wanli: Worker and ai collaboration for natural language inference …‬  
+--- 
+layout: post 
+title: "Overconfidence in the Face of Ambiguity with Adversarial Data" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "M Li, J Michael - Proceedings of the First Workshop on Dynamic , 2022" 
+--- 
+Adversarial data collection has shown promise as a method for building models which are more robust to the spurious correlations that generally appear in naturalistic data. However, adversarially-collected data may itself be subject to biases, particularly with regard to ambiguous or arguable labeling judgments. Searching for examples where an annotator disagrees with a model might over-sample ambiguous inputs, and filtering the results for high inter-annotator agreement  Cites: Wanli: Worker and ai collaboration for natural language inference

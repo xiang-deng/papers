@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improved OOD Generalization via Conditional Invariant Regularizer"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "M Yi, R Wang, J Sun, Z Li, ZM Ma - arXiv preprint arXiv:2207.06687, 2022"
----
-Recently, generalization on out-of-distribution (OOD) data with correlation shift has attracted great attention. The correlation shift is caused by the spurious attributes that correlate to the class label, as the correlation between them may vary in training and test data. For such a problem, we show that given the class label, the conditionally independent models of spurious attributes are OOD generalizable. Based on this, a metric Conditional Spurious Variation (CSV) which controls OOD generalization …
-Cites: ‪Just train twice: Improving group robustness without training group …‬  
+--- 
+layout: post 
+title: "Improved OOD Generalization via Conditional Invariant Regularizer" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "M Yi, R Wang, J Sun, Z Li, ZM Ma - arXiv preprint arXiv:2207.06687, 2022" 
+--- 
+Recently, generalization on out-of-distribution (OOD) data with correlation shift has attracted great attention. The correlation shift is caused by the spurious attributes that correlate to the class label, as the correlation between them may vary in training and test data. For such a problem, we show that given the class label, the conditionally independent models of spurious attributes are OOD generalizable. Based on this, a metric Conditional Spurious Variation (CSV) which controls OOD generalization  Cites: Just train twice: Improving group robustness without training group

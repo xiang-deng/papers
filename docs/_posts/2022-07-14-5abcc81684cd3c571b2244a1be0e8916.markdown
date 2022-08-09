@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DRAGONN: Distributed Randomized Approximate Gradients of Neural Networks"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "Z Wang, Z Xu, X Wu, A Shrivastava, TSE Ng - International Conference on Machine …, 2022"
----
-Data-parallel distributed training (DDT) has become the de-facto standard for accelerating the training of most deep learning tasks on massively parallel hardware. In the DDT paradigm, the communication overhead of gradient synchronization is the major efficiency bottleneck. A widely adopted approach to tackle this issue is gradient sparsification (GS). However, the current GS methods introduce significant new overhead in compressing the gradients, outweighing the communication …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬  
+--- 
+layout: post 
+title: "DRAGONN: Distributed Randomized Approximate Gradients of Neural Networks" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "Z Wang, Z Xu, X Wu, A Shrivastava, TSE Ng - International Conference on Machine , 2022" 
+--- 
+Data-parallel distributed training (DDT) has become the de-facto standard for accelerating the training of most deep learning tasks on massively parallel hardware. In the DDT paradigm, the communication overhead of gradient synchronization is the major efficiency bottleneck. A widely adopted approach to tackle this issue is gradient sparsification (GS). However, the current GS methods introduce significant new overhead in compressing the gradients, outweighing the communication  Cites: Bert: Pre-training of deep bidirectional transformers for language

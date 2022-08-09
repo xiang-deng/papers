@@ -1,9 +1,8 @@
----
-layout: post
-title:  "R2D2 at SemEval-2022 Task 5: Attention is only as good as its Values! A multimodal system for identifying misogynist memes"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "M Sharma, I Kandasamy, WB Vasantha - … of the 16th International Workshop on …, 2022"
----
-This paper describes the multimodal deep learning system proposed for SemEval 2022 Task 5: MAMI-Multimedia Automatic Misogyny Identification. We participated in both Subtasks, ie Subtask A: Misogynous meme identification, and Subtask B: Identifying type of misogyny among potential overlapping categories (stereotype, shaming, objectification, violence). The proposed architecture uses pre-trained models as feature extractors for text and images. We use these features to learn …
-Cites: ‪Self-training with noisy student improves imagenet classification‬  
+--- 
+layout: post 
+title: "R2D2 at SemEval-2022 Task 5: Attention is only as good as its Values! A multimodal system for identifying misogynist memes" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "M Sharma, I Kandasamy, WB Vasantha - of the 16th International Workshop on , 2022" 
+--- 
+This paper describes the multimodal deep learning system proposed for SemEval 2022 Task 5: MAMI-Multimedia Automatic Misogyny Identification. We participated in both Subtasks, ie Subtask A: Misogynous meme identification, and Subtask B: Identifying type of misogyny among potential overlapping categories (stereotype, shaming, objectification, violence). The proposed architecture uses pre-trained models as feature extractors for text and images. We use these features to learn  Cites: Self-training with noisy student improves imagenet classification

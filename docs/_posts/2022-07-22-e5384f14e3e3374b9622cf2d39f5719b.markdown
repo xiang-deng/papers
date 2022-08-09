@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Algorithms to estimate Shapley value feature attributions" 
+date: 2022-07-22 21:48:17 -0400 
+categories: jekyll update 
+author: "H Chen, IC Covert, SM Lundberg, SI Lee - arXiv preprint arXiv:2207.07605, 2022" 
+--- 
+Feature attributions based on the Shapley value are popular for explaining machine learning models; however, their estimation is complex from both a theoretical and computational standpoint. We disentangle this complexity into two factors:(1)~ the approach to removing feature information, and (2)~ the tractable estimation strategy. These two factors provide a natural lens through which we can better understand and compare 24 distinct algorithms. Based on the various feature removal  Cites: " Why Should I Trust You?": Explaining the Predictions of Any

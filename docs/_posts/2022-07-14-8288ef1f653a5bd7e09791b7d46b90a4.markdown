@@ -1,9 +1,8 @@
----
-layout: post
-title:  "POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "SG Patil, P Jain, P Dutta, I Stoica, J Gonzalez - International Conference on Machine …, 2022"
----
-Fine-tuning models on edge devices like mobile phones would enable privacy-preserving personalization over sensitive data. However, edge training has historically been limited to relatively small models with simple architectures because training is both memory and energy intensive. We present POET, an algorithm to enable training large neural networks on memory-scarce battery-operated edge devices. POET jointly optimizes the integrated search search spaces of …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬  
+--- 
+layout: post 
+title: "POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "SG Patil, P Jain, P Dutta, I Stoica, J Gonzalez - International Conference on Machine , 2022" 
+--- 
+Fine-tuning models on edge devices like mobile phones would enable privacy-preserving personalization over sensitive data. However, edge training has historically been limited to relatively small models with simple architectures because training is both memory and energy intensive. We present POET, an algorithm to enable training large neural networks on memory-scarce battery-operated edge devices. POET jointly optimizes the integrated search search spaces of  Cites: Bert: Pre-training of deep bidirectional transformers for language

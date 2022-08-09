@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Global Entity Disambiguation with BERT"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "I Yamada, K Washio, H Shindo, Y Matsumoto - … of the 2022 Conference of the North …, 2022"
----
-We propose a global entity disambiguation (ED) model based on BERT. To capture global contextual information for ED, our model treats not only words but also entities as input tokens, and solves the task by sequentially resolving mentions to their referent entities and using resolved entities as inputs at each step. We train the model using a large entity-annotated corpus obtained from Wikipedia. We achieve new state-of-the-art results on five standard ED datasets: AIDA-CoNLL, MSNBC …
-Cites: ‪Autoregressive entity retrieval‬  
+--- 
+layout: post 
+title: "Global Entity Disambiguation with BERT" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "I Yamada, K Washio, H Shindo, Y Matsumoto - of the 2022 Conference of the North , 2022" 
+--- 
+We propose a global entity disambiguation (ED) model based on BERT. To capture global contextual information for ED, our model treats not only words but also entities as input tokens, and solves the task by sequentially resolving mentions to their referent entities and using resolved entities as inputs at each step. We train the model using a large entity-annotated corpus obtained from Wikipedia. We achieve new state-of-the-art results on five standard ED datasets: AIDA-CoNLL, MSNBC  Cites: Autoregressive entity retrieval

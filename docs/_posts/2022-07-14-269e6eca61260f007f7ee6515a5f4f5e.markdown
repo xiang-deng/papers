@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data-Driven Approaches for Differential Equation Governing Systems"
-date:   2022-07-14 01:37:31 -0400
-categories: jekyll update
-author: "Y Hu - 2022"
----
-Applying deep learning methods to solve high-dimensional and nonlinear differential equations (DE) has raised much attention recently. A goal of using machine learning in systems of differential equations is to train a surrogate model with prior physics information and generate predictions with stability and accuracy. However, training such models for high-dimensional/nonlinear multi-scale ODE or PDE systems with limited or labeled data is a grant challenge; and the proper design of the architecture …
-Cites: ‪AlphaD3M: Machine learning pipeline synthesis‬  
+--- 
+layout: post 
+title: "Data-Driven Approaches for Differential Equation Governing Systems" 
+date: 2022-07-14 01:37:31 -0400 
+categories: jekyll update 
+author: "Y Hu - 2022" 
+--- 
+Applying deep learning methods to solve high-dimensional and nonlinear differential equations (DE) has raised much attention recently. A goal of using machine learning in systems of differential equations is to train a surrogate model with prior physics information and generate predictions with stability and accuracy. However, training such models for high-dimensional/nonlinear multi-scale ODE or PDE systems with limited or labeled data is a grant challenge; and the proper design of the architecture  Cites: AlphaD3M: Machine learning pipeline synthesis

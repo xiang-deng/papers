@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Grand Unification of Object Tracking"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "B Yan, Y Jiang, P Sun, D Wang, Z Yuan, P Luo, H Lu - arXiv preprint arXiv …, 2022"
----
-We present a unified method, termed Unicorn, that can simultaneously solve four tracking problems (SOT, MOT, VOS, MOTS) with a single network using the same model parameters. Due to the fragmented definitions of the object tracking problem itself, most existing trackers are developed to address a single or part of tasks and overspecialize on the characteristics of specific tasks. By contrast, Unicorn provides a unified solution, adopting the same input, backbone, embedding, and head across …
-Cites: ‪Multi-task self-training for learning general representations‬  
+--- 
+layout: post 
+title: "Towards Grand Unification of Object Tracking" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "B Yan, Y Jiang, P Sun, D Wang, Z Yuan, P Luo, H Lu - arXiv preprint arXiv , 2022" 
+--- 
+We present a unified method, termed Unicorn, that can simultaneously solve four tracking problems (SOT, MOT, VOS, MOTS) with a single network using the same model parameters. Due to the fragmented definitions of the object tracking problem itself, most existing trackers are developed to address a single or part of tasks and overspecialize on the characteristics of specific tasks. By contrast, Unicorn provides a unified solution, adopting the same input, backbone, embedding, and head across  Cites: Multi-task self-training for learning general representations

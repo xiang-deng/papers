@@ -1,9 +1,8 @@
----
-layout: post
-title:  "End-to-end Distantly Supervised Information Extraction with Retrieval Augmentation"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "Y Zhang, H Fei, P Li - Proceedings of the 45th International ACM SIGIR …, 2022"
----
-Distant supervision (DS) has been a prevalent approach to generating labeled data for information extraction (IE) tasks. However, DS often suffers from noisy label problems, where the labels are extracted from the knowledge base (KB), regardless of the input context. Many efforts have been devoted to designing denoising mechanisms. However, most strategies are only designed for one specific task and cannot be directly adapted to other tasks. We propose a general paradigm (Dasiera) …
-Cites: ‪Learning to Denoise Distantly-Labeled Data for Entity Typing‬  
+--- 
+layout: post 
+title: "End-to-end Distantly Supervised Information Extraction with Retrieval Augmentation" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "Y Zhang, H Fei, P Li - Proceedings of the 45th International ACM SIGIR , 2022" 
+--- 
+Distant supervision (DS) has been a prevalent approach to generating labeled data for information extraction (IE) tasks. However, DS often suffers from noisy label problems, where the labels are extracted from the knowledge base (KB), regardless of the input context. Many efforts have been devoted to designing denoising mechanisms. However, most strategies are only designed for one specific task and cannot be directly adapted to other tasks. We propose a general paradigm (Dasiera)  Cites: Learning to Denoise Distantly-Labeled Data for Entity Typing

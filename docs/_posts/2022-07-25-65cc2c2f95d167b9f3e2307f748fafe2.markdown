@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Invariant Feature Learning for Generalized Long-Tailed Classification" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "K Tang, M Tao, J Qi, Z Liu, H Zhang - arXiv preprint arXiv:2207.09504, 2022" 
+--- 
+Existing long-tailed classification (LT) methods only focus on tackling the class-wise imbalance that head classes have more samples than tail classes, but overlook the attribute-wise imbalance. In fact, even if the class is balanced, samples within each class may still be long-tailed due to the varying attributes. Note that the latter is fundamentally more ubiquitous and challenging than the former because attributes are not just implicit for most datasets, but also combinatorially complex, thus  Cites: Wilds: A benchmark of in-the-wild distribution shifts

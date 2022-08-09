@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A two-stage LDA algorithm for ranking induced topic readability"
-date:   2022-07-18 23:00:30 -0400
-categories: jekyll update
-author: "M Sciandra, A Albano - JADT 2022 proceedings book, 2022"
----
-Probabilistic topic models, such as LDA, are standard text analysis algorithms that provide predictive and latent topic representation for a corpus. However, due to the unsupervised training process, it is difficult to verify the assumption that the latent space discovered by these models is generally meaningful and valuable. This paper introduces a two-stage LDA algorithm to estimate latent topics in text documents and use readability scores to link the identified topics to a linguistically motivated latent …
-Cites: ‪Applications of topic models‬  
+--- 
+layout: post 
+title: "A two-stage LDA algorithm for ranking induced topic readability" 
+date: 2022-07-18 23:00:30 -0400 
+categories: jekyll update 
+author: "M Sciandra, A Albano - JADT 2022 proceedings book, 2022" 
+--- 
+Probabilistic topic models, such as LDA, are standard text analysis algorithms that provide predictive and latent topic representation for a corpus. However, due to the unsupervised training process, it is difficult to verify the assumption that the latent space discovered by these models is generally meaningful and valuable. This paper introduces a two-stage LDA algorithm to estimate latent topics in text documents and use readability scores to link the identified topics to a linguistically motivated latent  Cites: Applications of topic models

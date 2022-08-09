@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "Y Liu, Q Jia, K Zhu - Proceedings of the 2022 Conference of the North …, 2022"
----
-A document can be summarized in a number of ways. Reference-based evaluation of summarization has been criticized for its inflexibility. The more sufficient the number of abstracts, the more accurate the evaluation results. However, it is difficult to collect sufficient reference summaries. In this paper, we propose a new automatic reference-free evaluation metric that compares semantic distribution between source document and summary by pretrained language models and considers summary …
-Cites: ‪Summeval: Re-evaluating summarization evaluation‬  
+--- 
+layout: post 
+title: "Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "Y Liu, Q Jia, K Zhu - Proceedings of the 2022 Conference of the North , 2022" 
+--- 
+A document can be summarized in a number of ways. Reference-based evaluation of summarization has been criticized for its inflexibility. The more sufficient the number of abstracts, the more accurate the evaluation results. However, it is difficult to collect sufficient reference summaries. In this paper, we propose a new automatic reference-free evaluation metric that compares semantic distribution between source document and summary by pretrained language models and considers summary  Cites: Summeval: Re-evaluating summarization evaluation

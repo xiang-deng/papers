@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "DKBERT: An Efficient and Effective Ranking Model via Weight Sharing Decoupling and Kernel Matching" 
+date: 2022-07-20 21:56:55 -0400 
+categories: jekyll update 
+author: "X Li, D Li - 2022 5th International Conference on Artificial , 2022" 
+--- 
+Recently, the use of BERT has remarkably improved the performance of Information Retrieval (IR) tasks. However, the BERT model needs to take each concatenation of queries and documents in the collection as input, and its computational cost makes it less practical to use in real-time ranking scenarios. Some methods try to reduce the time cost but may suffer from the partial matching problem due to the max-sum mechanism. This paper proposes a new model named DKBERT, it first uses two  Cites: End-to-end neural ad-hoc ranking with kernel pooling

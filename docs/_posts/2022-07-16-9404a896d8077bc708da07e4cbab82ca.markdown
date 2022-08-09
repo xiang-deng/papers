@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "M Zhu, J Wang, C Yan - Proceedings of the 2022 Conference of the North …, 2022"
----
-Variational Autoencoder (VAE) is an effective framework to model the interdependency for non-autoregressive neural machine translation (NAT). One of the prominent VAE-based NAT frameworks, LaNMT, achieves great improvements to vanilla models, but still suffers from two main issues which lower down the translation quality:(1) mismatch between training and inference circumstances and (2) inadequacy of latent representations. In this work, we target on addressing these …
-Cites: ‪Latent-variable non-autoregressive neural machine translation …‬  
+--- 
+layout: post 
+title: "Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "M Zhu, J Wang, C Yan - Proceedings of the 2022 Conference of the North , 2022" 
+--- 
+Variational Autoencoder (VAE) is an effective framework to model the interdependency for non-autoregressive neural machine translation (NAT). One of the prominent VAE-based NAT frameworks, LaNMT, achieves great improvements to vanilla models, but still suffers from two main issues which lower down the translation quality:(1) mismatch between training and inference circumstances and (2) inadequacy of latent representations. In this work, we target on addressing these  Cites: Latent-variable non-autoregressive neural machine translation

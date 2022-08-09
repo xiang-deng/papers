@@ -1,9 +1,8 @@
----
-layout: post
-title:  "深層学習モデルの数量推論能力の評価とメタ学習活用の試み"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "工藤慧音， 青木洋一， 栗林樹生， 吉川将司， 乾健太郎 - 人工知能学会全国大会論文集 …, 2022"
----
-抄録 今日, 自然言語処理の様々なタスクにおいて Transformer を初めとする深層学習モデルが大きな成果を上げており, 数量推論等の推論タスクにおいても高い性能に到達できることが示されている. しかしながら現状の深層学習モデルが問題の構成性を捉えて, その構造に応じた推論を行ってタスクを解いているのかについては定かではない. 実際は表面的な手がかりを利用した何らかのショートカットラーニングを行なっている恐れがある. そこで本研究では, 数量推論タスクを抽象化した形式言語を用いて既存の深層学習 …
-Cites: ‪Meta-learning for domain generalization in semantic parsing‬  
+--- 
+layout: post 
+title: "" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: " - , 2022" 
+--- 
+ , Transformer , . , . . ,  Cites: Meta-learning for domain generalization in semantic parsing

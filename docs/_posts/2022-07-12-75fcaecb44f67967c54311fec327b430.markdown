@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Contrastive Active Learning Under Class Distribution Mismatch"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "P Du, H Chen, S Zhao, S Chai, H Chen, C Li - IEEE Transactions on Pattern Analysis …, 2022"
----
-Active learning (AL) has been successful based on the premise that labeled and unlabeled data come from the same class distribution. However, its performance undergoes a severe deterioration under class distribution mismatch, wherein the unlabeled data contain numerous instances out of the class distribution of labeled data. In this work, we solve this practical yet rarely studied problem by minimizing the AL error, which is formally defined and decomposed as the valid query error and …
-Cites: ‪Margin-based active learning for structured output spaces‬  
+--- 
+layout: post 
+title: "Contrastive Active Learning Under Class Distribution Mismatch" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "P Du, H Chen, S Zhao, S Chai, H Chen, C Li - IEEE Transactions on Pattern Analysis , 2022" 
+--- 
+Active learning (AL) has been successful based on the premise that labeled and unlabeled data come from the same class distribution. However, its performance undergoes a severe deterioration under class distribution mismatch, wherein the unlabeled data contain numerous instances out of the class distribution of labeled data. In this work, we solve this practical yet rarely studied problem by minimizing the AL error, which is formally defined and decomposed as the valid query error and  Cites: Margin-based active learning for structured output spaces

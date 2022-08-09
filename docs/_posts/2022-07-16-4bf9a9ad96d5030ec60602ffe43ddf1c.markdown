@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Label Definitions Improve Semantic Role Labeling"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "L Zhang, I Jindal, Y Li - Proceedings of the 2022 Conference of the North …, 2022"
----
-Argument classification is at the core of Semantic Role Labeling. Given a sentence and the predicate, a semantic role label is assigned to each argument of the predicate. While semantic roles come with meaningful definitions, existing work has treated them as symbolic. Learning symbolic labels usually requires ample training data, which is frequently unavailable due to the cost of annotation. We instead propose to retrieve and leverage the definitions of these labels from the annotation …
-Cites: ‪Zero-shot Label-Aware Event Trigger and Argument Classification‬  
+--- 
+layout: post 
+title: "Label Definitions Improve Semantic Role Labeling" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "L Zhang, I Jindal, Y Li - Proceedings of the 2022 Conference of the North , 2022" 
+--- 
+Argument classification is at the core of Semantic Role Labeling. Given a sentence and the predicate, a semantic role label is assigned to each argument of the predicate. While semantic roles come with meaningful definitions, existing work has treated them as symbolic. Learning symbolic labels usually requires ample training data, which is frequently unavailable due to the cost of annotation. We instead propose to retrieve and leverage the definitions of these labels from the annotation  Cites: Zero-shot Label-Aware Event Trigger and Argument Classification

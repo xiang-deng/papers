@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Structured data transformation algebra (SDTA) and its applications" 
+date: 2022-07-25 21:58:40 -0400 
+categories: jekyll update 
+author: "J Song, G Alter, HV Jagadish - Distributed and Parallel Databases, 2022" 
+--- 
+Statistical analysis is a crucial component of many data science analytic pipelines, and preparing data for such analysis is a large part of the data ingestion step. This task is generally accomplished by writing transformation scripts in languages such as SPSS, Stata, SAS, R, Python (Pandas) etc. The disparate data models, language representations and transformation operations supported by these tools make it hard for end users to understand and document the transformations performed, and for  Cites: Foofah: Transforming data by example

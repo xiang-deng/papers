@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "M Xu, Y Wang, Y Liu, Y Qiao - arXiv preprint arXiv:2207.05359, 2022"
----
-Point cloud completion aims to predict complete shape from its partial observation. Current approaches mainly consist of generation and refinement stages in a coarse-to-fine style. However, the generation stage often lacks robustness to tackle different incomplete variations, while the refinement stage blindly recovers point clouds without the semantic awareness. To tackle these challenges, we unify point cloud Completion by a generic Pretrain-Prompt-Predict paradigm, namely CP3. Inspired by …
-Cites: ‪Finetuned language models are zero-shot learners‬  
+--- 
+layout: post 
+title: "CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "M Xu, Y Wang, Y Liu, Y Qiao - arXiv preprint arXiv:2207.05359, 2022" 
+--- 
+Point cloud completion aims to predict complete shape from its partial observation. Current approaches mainly consist of generation and refinement stages in a coarse-to-fine style. However, the generation stage often lacks robustness to tackle different incomplete variations, while the refinement stage blindly recovers point clouds without the semantic awareness. To tackle these challenges, we unify point cloud Completion by a generic Pretrain-Prompt-Predict paradigm, namely CP3. Inspired by  Cites: Finetuned language models are zero-shot learners

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring Length Generalization in Large Language Models"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "C Anil, Y Wu, A Andreassen, A Lewkowycz, V Misra… - arXiv preprint arXiv …, 2022"
----
-The ability to extrapolate from short problem instances to longer ones is an important form of out-of-distribution generalization in reasoning tasks, and is crucial when learning from datasets where longer problem instances are rare. These include theorem proving, solving quantitative mathematics problems, and reading/summarizing novels. In this paper, we run careful empirical studies exploring the length generalization capabilities of transformer-based language models. We first …
-Cites: ‪Train short, test long: Attention with linear biases enables input …‬  
+--- 
+layout: post 
+title: "Exploring Length Generalization in Large Language Models" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "C Anil, Y Wu, A Andreassen, A Lewkowycz, V Misra - arXiv preprint arXiv , 2022" 
+--- 
+The ability to extrapolate from short problem instances to longer ones is an important form of out-of-distribution generalization in reasoning tasks, and is crucial when learning from datasets where longer problem instances are rare. These include theorem proving, solving quantitative mathematics problems, and reading/summarizing novels. In this paper, we run careful empirical studies exploring the length generalization capabilities of transformer-based language models. We first  Cites: Train short, test long: Attention with linear biases enables input

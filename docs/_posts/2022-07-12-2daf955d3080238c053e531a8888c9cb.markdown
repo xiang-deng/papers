@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Machine learning classification system"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "X Chen - US Patent App. 17/386,706, 2021"
----
-A computing device classifies unclassified observations. A first batch of unclassified observation vectors and a first batch of classified observation vectors are selected. A prior regularization error value and a decoder reconstruction error value are computed. A first batch of noise observation vectors is generated. An evidence lower bound (ELBO) value is computed. A gradient of an encoder neural network model is computed, and the ELBO value is updated. A decoder neural network model and an …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬  
+--- 
+layout: post 
+title: "Machine learning classification system" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "X Chen - US Patent App. 17/386,706, 2021" 
+--- 
+A computing device classifies unclassified observations. A first batch of unclassified observation vectors and a first batch of classified observation vectors are selected. A prior regularization error value and a decoder reconstruction error value are computed. A first batch of noise observation vectors is generated. An evidence lower bound (ELBO) value is computed. A gradient of an encoder neural network model is computed, and the ELBO value is updated. A decoder neural network model and an  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

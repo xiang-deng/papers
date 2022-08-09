@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta-ADD: A meta-learning based pre-trained model for concept drift active detection"
-date:   2022-07-12 02:15:42 -0400
-categories: jekyll update
-author: "H Yu, Q Zhang, T Liu, J Lu, Y Wen, G Zhang - Information Sciences, 2022"
----
-Abstract Concept drift is a phenomenon that commonly happened in data streams and need to be detected, because it means the statistical properties of a target variable, which the model is trying to predict, change over time in an unseen way. Most current detection methods are based on a hypothesis test framework. As a result, in these detection methods, a hypothesis test is need to be set, and more importantly, cannot obtain the type of drift. The setting of a hypothesis test requires an …
-Cites: ‪Pre-Trained Models: Past, Present and Future‬  
+--- 
+layout: post 
+title: "Meta-ADD: A meta-learning based pre-trained model for concept drift active detection" 
+date: 2022-07-12 02:15:42 -0400 
+categories: jekyll update 
+author: "H Yu, Q Zhang, T Liu, J Lu, Y Wen, G Zhang - Information Sciences, 2022" 
+--- 
+Abstract Concept drift is a phenomenon that commonly happened in data streams and need to be detected, because it means the statistical properties of a target variable, which the model is trying to predict, change over time in an unseen way. Most current detection methods are based on a hypothesis test framework. As a result, in these detection methods, a hypothesis test is need to be set, and more importantly, cannot obtain the type of drift. The setting of a hypothesis test requires an  Cites: Pre-Trained Models: Past, Present and Future

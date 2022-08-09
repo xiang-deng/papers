@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cooperative Self-training of Machine Reading Comprehension"
-date:   2022-07-16 11:01:18 -0400
-categories: jekyll update
-author: "H Luo, SW Li, M Gao, S Yu, J Glass - Proceedings of the 2022 Conference of the …, 2022"
----
-Pretrained language models have significantly improved the performance of downstream language understanding tasks, including extractive question answering, by providing high-quality contextualized word embeddings. However, training question answering models still requires large amounts of annotated data for specific domains. In this work, we propose a cooperative self-training framework, RGX, for automatically generating more non-trivial question-answer pairs to improve model …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬  
+--- 
+layout: post 
+title: "Cooperative Self-training of Machine Reading Comprehension" 
+date: 2022-07-16 11:01:18 -0400 
+categories: jekyll update 
+author: "H Luo, SW Li, M Gao, S Yu, J Glass - Proceedings of the 2022 Conference of the , 2022" 
+--- 
+Pretrained language models have significantly improved the performance of downstream language understanding tasks, including extractive question answering, by providing high-quality contextualized word embeddings. However, training question answering models still requires large amounts of annotated data for specific domains. In this work, we propose a cooperative self-training framework, RGX, for automatically generating more non-trivial question-answer pairs to improve model  Cites: MRQA 2019 Shared Task: Evaluating Generalization in Reading
