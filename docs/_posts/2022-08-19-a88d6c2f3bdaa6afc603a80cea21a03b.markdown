@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Teacher Guided Training: An Efficient Framework for Knowledge Transfer" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "M Zaheer, AS Rawat, S Kim, C You, H Jain, A Veit - arXiv preprint arXiv , 2022" 
+--- 
+The remarkable performance gains realized by large pretrained models, eg, GPT-3, hinge on the massive amounts of data they are exposed to during training. Analogously, distilling such large models to compact models for efficient deployment also necessitates a large amount of (labeled or unlabeled) training data. In this paper, we propose the teacher-guided training (TGT) framework for training a high-quality compact model that leverages the knowledge acquired by pretrained Cites: Latent Retrieval for Weakly Supervised Open Domain Question

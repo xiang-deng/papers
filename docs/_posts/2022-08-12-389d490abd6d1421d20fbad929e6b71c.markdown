@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning Entity Linking Features for Emerging Entities" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "C Ran, W Shen, J Gao, Y Li, J Wang, Y Jia - IEEE Transactions on Knowledge and , 2022" 
+--- 
+Entity linking (EL) is the process of linking entity mentions appearing in text with their corresponding entities in a knowledge base. EL features of entities (eg, prior probability, relatedness score, and entity embedding) are usually estimated based on Wikipedia. However, for newly emerging entities (EEs) which have just been discovered in news, they may still not be included in Wikipedia yet. As a consequence, it is unable to obtain required EL features for those EEs from Cites: Scalable zero-shot entity linking with dense entity retrieval

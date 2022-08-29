@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "H Chen, R Tao, H Zhang, Y Wang, W Ye, J Wang, G Hu - arXiv preprint arXiv , 2022" 
+--- 
+While parameter efficient tuning (PET) methods have shown great potential with transformer architecture on Natural Language Processing (NLP) tasks, their effectiveness is still under-studied with large-scale ConvNets on Computer Vision (CV) tasks. This paper proposes Conv-Adapter, a PET module designed for ConvNets. Conv-Adapter is light-weight, domain-transferable, and architecture-agnostic with generalized performance on different tasks. When transferring on Cites: AdapterFusion: Non-destructive task composition for transfer learning

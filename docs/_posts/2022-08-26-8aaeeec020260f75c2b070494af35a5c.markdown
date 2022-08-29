@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "DAFT: Distilling Adversarially Fine-tuned Models for Better OOD Generalization" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "A Nasery, S Addepalli, P Netrapalli, P Jain - arXiv preprint arXiv:2208.09139, 2022" 
+--- 
+We consider the problem of OOD generalization, where the goal is to train a model that performs well on test distributions that are different from the training distribution. Deep learning models are known to be fragile to such shifts and can suffer large accuracy drops even for slightly different test distributions. We propose a new method-DAFT-based on the intuition that adversarially robust combination of a large number of rich features should provide OOD robustness. Our method carefully distills Cites: Fine-tuning can distort pretrained features and underperform out-of

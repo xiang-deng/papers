@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ConTextual Mask Auto-Encoder for Dense Passage Retrieval" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "X Wu, G Ma, M Lin, Z Lin, Z Wang, S Hu - arXiv preprint arXiv:2208.07670, 2022" 
+--- 
+Dense passage retrieval aims to retrieve the relevant passages of a query from a large corpus based on dense representations (ie, vectors) of the query and the passages. Recent studies have explored improving pre-trained language models to boost dense retrieval performance. This paper proposes CoT-MAE (ConTextual Masked Auto-Encoder), a simple yet effective generative pre-training method for dense passage retrieval. CoT-MAE employs an asymmetric encoder-decoder Cites: Few-shot conversational dense retrieval

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Learning Fair Representations without Demographics" 
-date: 2022-05-12 04:06:18 -0400 
-categories: jekyll update 
-author: "X Wang - 2022" 
---- 
-Due to hard accessibility, real-world adoption of fair representation learning algorithms lacks the prior knowledge of the sensitive attributes that we wish to be fair with. To address the challenge in fairness without explicit demographics, our solution is based on the idea of maximally randomizing the representation while being as informative as possible about the target task. We operationalize this goal through the concept of maximizing the entropy of the learned representation. For this purpose Cites: Fairness without demographics in repeated loss minimization

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Meta-Causal Feature Learning for Out-of-Distribution Generalization" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Wang, X Li, Z Qi, J Li, X Li, X Meng, L Meng - arXiv preprint arXiv:2208.10156, 2022" 
+--- 
+Causal inference has become a powerful tool to handle the out-of-distribution (OOD) generalization problem, which aims to extract the invariant features. However, conventional methods apply causal learners from multiple data splits, which may incur biased representation learning from imbalanced data distributions and difficulty in invariant feature learning from heterogeneous sources. To address these issues, this paper presents a balanced meta-causal learner (BMCL), which includes a Cites: Don t take the easy way out: Ensemble based methods for avoiding

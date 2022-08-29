@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Dropout is NOT All You Need to Prevent Gradient Leakage" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "D Scheliga, P Mder, M Seeland - arXiv preprint arXiv:2208.06163, 2022" 
+--- 
+Gradient inversion attacks on federated learning systems reconstruct client training data from exchanged gradient information. To defend against such attacks, a variety of defense mechanisms were proposed. However, they usually lead to an unacceptable trade-off between privacy and model utility. Recent observations suggest that dropout could mitigate gradient leakage and improve model utility if added to neural networks. Unfortunately, this phenomenon has not been Cites: Texthide: Tackling Data Privacy in Language Understanding Tasks

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Variational Graph Author Topic Modeling" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "DC Zhang, HW Lauw - Proceedings of the 28th ACM SIGKDD Conference on , 2022" 
+--- 
+While Variational Graph Auto-Encoder (VGAE) has presented promising ability to learn representations for documents, most existing VGAE methods do not model a latent topic structure and therefore lack semantic interpretability. Exploring hidden topics within documents and discovering key words associated with each topic allow us to develop a semantic interpretation of the corpus. Moreover, documents are usually associated with authors. For example, news reports have journalists Cites: Citation author topic model in expert search

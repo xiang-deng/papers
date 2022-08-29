@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Mutual match for semi-supervised online evolutive learning" 
-date: 2022-06-01 23:51:30 -0400 
-categories: jekyll update 
-author: "D Li, X Zhu, L Song - Applied Intelligence, 2022" 
---- 
-Semi-supervised learning (SSL) can utilize a large amount of unlabeled data for self-training and continuous evolution with only a few annotations. This feature makes SSL a potential candidate for dealing with data from changing and real-time environments, where deep-learning models need to be adapting to evolving and nonstable (non-iid) data streams from the real world, ie, online evolutive scenarios. However, state-of-the-art SSL methods often have complex model design Cites: Meta pseudo labels

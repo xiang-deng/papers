@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Conformal Risk Control" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "AN Angelopoulos, S Bates, A Fisch, L Lei, T Schuster - arXiv preprint arXiv , 2022" 
+--- 
+We extend conformal prediction to control the expected value of any monotone loss function. The algorithm generalizes split conformal prediction together with its coverage guarantee. Like conformal prediction, the conformal risk control procedure is tight up to an $\mathcal {O}(1/n) $ factor. Worked examples from computer vision and natural language processing demonstrate the usage of our algorithm to bound the false negative rate, graph distance, and token-level F1-score. Cites: Dense Passage Retrieval for Open-Domain Question Answering

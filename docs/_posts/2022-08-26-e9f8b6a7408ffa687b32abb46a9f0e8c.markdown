@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Task reformulation and data-centric approach for Twitter medication name extraction" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Zhang, JK Lee, JC Han, RTH Tsai - Database, 2022" 
+--- 
+Automatically extracting medication names from tweets is challenging in the real world. There are many tweets; however, only a small proportion mentions medications. Thus, datasets are usually highly imbalanced. Moreover, the length of tweets is very short, which makes it hard to recognize medication names from the limited context. This paper proposes a data-centric approach for extracting medications in the BioCreative VII Track 3 (Automatic Extraction of Medication Cites: Few-Shot Question Answering by Pretraining Span Selection

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning from data in the mixed adversarial non-adversarial case: Finding the helpers and ignoring the trolls" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "D Ju, J Xu, YL Boureau, J Weston - arXiv preprint arXiv:2208.03295, 2022" 
+--- 
+The promise of interaction between intelligent conversational agents and humans is that models can learn from such feedback in order to improve. Unfortunately, such exchanges in the wild will not always involve human utterances that are benign or of high quality, and will include a mixture of engaged (helpers) and unengaged or even malicious users (trolls). In this work we study how to perform robust learning in such an environment. We introduce a benchmark evaluation, SafetyMix, which can Cites: Dynabench: Rethinking Benchmarking in NLP

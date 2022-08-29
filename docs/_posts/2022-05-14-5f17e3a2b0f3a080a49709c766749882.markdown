@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Hierarchical Heterogeneous Graph Attention Network for Syntax-Aware Summarization" 
-date: 2022-05-14 04:38:21 -0400 
-categories: jekyll update 
-author: "Z Song, I King - 2022" 
---- 
-The task of summarization often requires a non-trivial understanding of the given text at the semantic level. In this work, we essentially incorporate the constituent structure into the single document summarization via the Graph Neural Networks to learn the semantic meaning of tokens. More specifically, we propose a novel hierarchical heterogeneous graph attention network over constituency-based parse trees for syntax-aware summarization. This approach reflects psychological findings that Cites: Discourse-Aware Neural Extractive Text Summarization

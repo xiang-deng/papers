@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "An automatic descriptors recognizer customized for materials science literature" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "Y Liu, X Ge, Z Yang, S Sun, D Liu, M Avdeev, S Shi - Journal of Power Sources, 2022" 
+--- 
+Materials science literature contains domain knowledge about numerous descriptors, which play a critical role in data-driven materials design. However, automatically extracting descriptors from literature remains challenging. Here, we develop an automatic descriptors recognizer based on natural language processing (NLP) to mine latent descriptors, which consists of a conditional data augmentation model incorporating materials domain knowledge (cDA-DK), coarse-and fine-grained Cites: Bert: Pre-training of deep bidirectional transformers for language

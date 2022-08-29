@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "PANDA: Prompt Transfer Meets Knowledge Distillation for Efficient Model Adaptation" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Q Zhong, L Ding, J Liu, B Du, D Tao - arXiv preprint arXiv:2208.10160, 2022" 
+--- 
+Prompt-tuning, which freezes pretrained language models (PLMs) and only fine-tunes few parameters of additional soft prompt, shows competitive performance against full-parameter fine-tuning (ie model-tuning) when the PLM has billions of parameters, but still performs poorly in the case of smaller PLMs. Hence, prompt transfer (PoT), which initializes the target prompt with the trained prompt of similar source tasks, is recently proposed to improve over prompt-tuning. However, such a Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

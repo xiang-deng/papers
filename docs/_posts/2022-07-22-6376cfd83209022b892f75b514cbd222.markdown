@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Knowledge Graph Population with Out-of-KG Entities" 
-date: 2022-07-22 21:48:17 -0400 
-categories: jekyll update 
-author: "C Mller - European Semantic Web Conference, 2022" 
---- 
-Existing knowledge graphs are incomplete. A lot of unstructured documents are hiding valuable information. But extracting and structuring that information is expensive. To help, the knowledge graphs can be populated (semi-) automatically. But knowledge graph population methods often assumes existing entities, yet, this is not the reality. To solve this, missing entities need to be detected and distinguished. To support an incoming stream of documents the out-of-KG entities are incrementally  Cites: Scalable zero-shot entity linking with dense entity retrieval

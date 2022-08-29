@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "CausalNLP: A Practical Toolkit for Causal Inference with Text" 
-date: 2022-06-18 03:19:09 -0400 
-categories: jekyll update 
-author: "AS Maiya - arXiv preprint arXiv:2106.08043, 2021" 
---- 
-The vast majority of existing methods and systems for causal inference assume that all variables under consideration are categorical or numerical (eg, gender, price, blood pressure, enrollment). In this paper, we present CausalNLP, a toolkit for inferring causality from observational data that includes text in addition to traditional numerical and categorical variables. CausalNLP employs the use of meta-learners for treatment effect estimation and supports using raw text and its linguistic properties Cites: Benchmarking zero-shot text classification: Datasets, evaluation

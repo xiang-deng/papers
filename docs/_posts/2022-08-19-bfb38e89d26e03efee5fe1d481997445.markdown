@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Invariant Inference With Provable Complexity From the Monotone Theory" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "YMY Feldman, S Shoham - arXiv preprint arXiv:2208.07451, 2022" 
+--- 
+Invariant inference algorithms such as interpolation-based inference and IC3/PDR show that it is feasible, in practice, to find inductive invariants for many interesting systems, but non-trivial upper bounds on the computational complexity of such algorithms are scarce, and limited to simple syntactic forms of invariants. In this paper we achieve invariant inference algorithms, in the domain of propositional transition systems, with provable upper bounds on the number of SAT calls. We do this by Cites: Learning invariants using decision trees and implication

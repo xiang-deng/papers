@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Generating Coherent Narratives by Learning Dynamic and Discrete Entity States with a Contrastive Framework" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Guan, Z Yang, R Zhang, Z Hu, M Huang - arXiv preprint arXiv:2208.03985, 2022" 
+--- 
+Despite advances in generating fluent texts, existing pretraining models tend to attach incoherent event sequences to involved entities when generating narratives such as stories and news. We conjecture that such issues result from representing entities as static embeddings of superficial words, while neglecting to model their ever-changing states, ie, the information they carry, as the text unfolds. Therefore, we extend the Transformer model to dynamically conduct entity state updates and Cites: Mauve: Measuring the gap between neural text and human text

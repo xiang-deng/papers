@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Supervised Advantage Actor-Critic for Recommender Systems" 
-date: 2022-07-16 11:01:18 -0400 
-categories: jekyll update 
-author: "J Jose - 2021" 
---- 
-Casting session-based or sequential recommendation as reinforcement learning (RL) through reward signals is a promising research direction towards recommender systems (RS) that maximize cumulative profits. However, the direct use of RL algorithms in the RS setting is impractical due to challenges like off-policy training, huge action spaces and lack of sufficient reward signals. Recent RL approaches for RS attempt to tackle these challenges by combining RL and (self-) supervised  Cites: Multiobjective pareto-efficient approaches for recommender systems

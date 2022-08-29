@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Nonconvex multi-view subspace clustering via simultaneously learning the representation tensor and anity matrix" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "M Li, W Li, M Xiao - Inverse Problems, 2022" 
+--- 
+Multi-view subspace clustering, which aims to partition a dataset into its relevant subspaces based on their multi-view features, has been widely applied to identify various characteristics of datasets. The typical model of multi-view subspace clustering in literature often makes use of the nuclear norm to seek the underlying low-rank representation. However, due to the sum property of the singular values dened by tensor nuclear norm, the existing multi-view subspace clustering does not Cites: Learning with hypergraphs: Clustering, classification, and

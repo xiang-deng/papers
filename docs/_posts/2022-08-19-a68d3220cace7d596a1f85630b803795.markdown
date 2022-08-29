@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Sentiment knowledge-induced neural network for aspect-level sentiment analysis" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "H Yan, B Yi, H Li, D Wu - Neural Computing and Applications, 2022" 
+--- 
+Aspect-based sentiment analysis has been a popular topic in natural language processing in recent years that aims to determine the sentiment polarity of a specific aspect in one context. However, most existing models only focus on feature extraction and ignore the significant role of words with sentiment tendency (eg good, terrible), which results in low classification accuracy. In this paper, a sentiment knowledge-based bidirectional encoder representation from transformers (SK-BERT) Cites: Aspect level sentiment classification with deep memory network

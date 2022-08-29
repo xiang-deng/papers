@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Convergence of gradient descent for deep neural networks" 
-date: 2022-04-04 16:51:29 -0400 
-categories: jekyll update 
-author: "S Chatterjee - arXiv preprint arXiv:2203.16462, 2022" 
---- 
-Optimization by gradient descent has been one of main drivers of the deep learning revolution . Yet, despite some recent progress for extremely wide networks, it remains an open problem to understand why gradient descent often converges to global minima when training deep neural networks. This article presents a new criterion for convergence of gradient descent to a global minimum, which is provably more powerful than the best available criteria from the literature, namely, the Cites: Spectral methods meet EM: A provably optimal algorithm for

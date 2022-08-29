@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Going Beyond Approximation: Encoding Constraints for Explainable Multi-hop Inference via Differentiable Combinatorial Solvers" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "M Thayaparan, M Valentino, A Freitas - arXiv preprint arXiv:2208.03339, 2022" 
+--- 
+Integer Linear Programming (ILP) provides a viable mechanism to encode explicit and controllable assumptions about explainable multi-hop inference with natural language. However, an ILP formulation is non-differentiable and cannot be integrated into broader deep learning architectures. Recently, Thayaparan et al.(2021a) proposed a novel methodology to integrate ILP with Transformers to achieve end-to-end differentiability for complex multi-hop inference. While this hybrid Cites: Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter

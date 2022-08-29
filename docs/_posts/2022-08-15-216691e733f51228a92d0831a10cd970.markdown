@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "CoditT5: Pretraining for Source Code and Natural Language Editing" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "J Zhang, S Panthaplackel, P Nie, JJ Li, M Gligoric - arXiv preprint arXiv:2208.05446, 2022" 
+--- 
+Pretrained language models have been shown to be effective in many software-related generation tasks; however, they are not well-suited for editing tasks as they are not designed to reason about edits. To address this, we propose a novel pretraining objective which explicitly models edits and use it to build CoditT5, a large language model for software-related editing tasks that is pretrained on large amounts of source code and natural language comments. We fine-tune it on various Cites: Learning Structural Edits via Incremental Tree Transformations

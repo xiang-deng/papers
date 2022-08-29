@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Improving performance and efficiency of Graph Neural Networks by injective aggregation" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "W Dong, J Wu, X Zhang, Z Bai, P Wang, M Woniak - Knowledge-Based Systems, 2022" 
+--- 
+Aggregation functions are regarded as the multiplication between an aggregation matrix and node embeddings, based on which a full rank matrix can enhance representation capacity of Graph Neural Networks (GNNs). In this work, we fill this research gap based on the full rank aggregation matrix and its functional form, ie, the injective aggregation function, and state that injectivity is necessary to guarantee the rich representation capacity to GNNs. To this end, we conduct theoretical injectivity Cites: Graph neural networks: A review of methods and applications

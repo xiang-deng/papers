@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "CompoSuite: A Compositional Reinforcement Learning Benchmark" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "JA Mendez, M Hussing, M Gummadi, E Eaton - arXiv preprint arXiv:2207.04136, 2022" 
+--- 
+We present CompoSuite, an open-source simulated robotic manipulation benchmark for compositional multi-task reinforcement learning (RL). Each CompoSuite task requires a particular robot arm to manipulate one individual object to achieve a task objective while avoiding an obstacle. This compositional definition of the tasks endows CompoSuite with two remarkable properties. First, varying the robot/object/objective/obstacle elements leads to hundreds of RL tasks, each of which requires a Cites: Compositional attention networks for machine reasoning

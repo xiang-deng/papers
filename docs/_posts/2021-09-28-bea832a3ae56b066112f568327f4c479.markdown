@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Towards Universal Dense Retrieval for Open-domain Question Answering" 
-date: 2021-09-28 14:54:04 -0400 
-categories: jekyll update 
-author: "C Sciavolino - arXiv preprint arXiv:2109.11085, 2021" 
---- 
-In open-domain question answering, a model receives a text question as input and searches for the correct answer using a large evidence corpus. The retrieval step is especially difficult as typical evidence corpora have textit {millions} of documents, each of which may or may not have the correct answer to the question. Very recently, dense models have replaced sparse methods as the de facto retrieval method. Rather than focusing on lexical overlap to determine similarity, dense methods build Cites: Latent retrieval for weakly supervised open domain question

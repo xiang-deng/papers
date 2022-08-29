@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Position Distribution Matters: A Graph-based Binary Function Similarity Analysis Method" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "Z Pan, T Wang, L Yu, Y Yan - Electronics, 2022" 
+--- 
+Binary function similarity analysis evaluates the similarity of functions at the binary level to aid program analysis, which is popular in many fields, such as vulnerability detection, binary clone detection, and malware detection. Graph-based methods have relatively good performance in practice, but currently, they cannot capture similarity in the aspect of the graph position distribution and lose information in graph processing, which leads to low accuracy. This paper presents PDM, a graph-based Cites: Bert: Pre-training of deep bidirectional transformers for language

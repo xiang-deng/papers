@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Task-Adaptive Pre-Training for Boosting Learning With Noisy Labels: A Study on Text Classification for African Languages" 
-date: 2022-04-21 03:59:43 -0400 
-categories: jekyll update 
-author: "D Zhu, MA Hedderich, F Zhai, DI Adelani, D Klakow - 3rd Workshop on African , 2022" 
---- 
-For high-resource languages like English, text classification is a well-studied task. The performance of modern NLP models easily achieves an accuracy of more than 90 % in many standard datasets for text classification in English citep { xie2019unsupervised, Yang2019, Zaheer2020}. However, text classification in low- resource languages is still challenging due to the lack of annotated data. Although methods like weak supervision and crowdsourcing can help ease the annotation Cites: Don t stop pretraining: adapt language models to domains and tasks

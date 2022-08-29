@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Optimizing Anchor-based Detectors for Autonomous Driving Scenes" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "X Du, WC Hung, TY Lin - arXiv preprint arXiv:2208.06062, 2022" 
+--- 
+This paper summarizes model improvements and inference-time optimizations for the popular anchor-based detectors in the scenes of autonomous driving. Based on the high-performing RCNN-RS and RetinaNet-RS detection frameworks designed for common detection scenes, we study a set of framework improvements to adapt the detectors to better detect small objects in crowd scenes. Then, we propose a model scaling strategy by scaling input resolution and model size to achieve a better speed Cites: Efficient scale-permuted backbone with learned resource distribution

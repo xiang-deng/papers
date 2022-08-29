@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Domain-Specific Risk Minimization" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "YF Zhang, H Zhang, J Wang, Z Zhang, B Yu, L Wang - arXiv preprint arXiv , 2022" 
+--- 
+Learning a domain-invariant representation has become one of the most popular approaches for domain adaptation/generalization. In this paper, we show that the invariant representation may not be sufficient to guarantee a good generalization, where the labeling function shift should be taken into consideration. Inspired by this, we first derive a new generalization upper bound on the empirical risk that explicitly considers the labeling function shift. We then propose Domain-specific Risk Cites: Modeling the Second Player in Distributionally Robust Optimization

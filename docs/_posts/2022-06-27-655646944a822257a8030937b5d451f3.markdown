@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "valuation raliste de l apprentissage Few-Shot transductif" 
-date: 2022-06-27 23:23:24 -0400 
-categories: jekyll update 
-author: "O Veilleux - 2022" 
---- 
-La communaut de l apprentissage Few-Shot porte un grand intrt de recherche pour les mthodes transductives. Ces mthodes posent leur infrence en exploitant la fois les donnes annotes de la base de support et celles non-annotes de la base de query. Elles ont su surpass de manire significative les performances des mthodes inductives. Nous remettons en question les performances de ces mthodes par le fait que le processus d valuation actuel n est pas adquat. Les Cites: Learning with Local and Global Consistency.

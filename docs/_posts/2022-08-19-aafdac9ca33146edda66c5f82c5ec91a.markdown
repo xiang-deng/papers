@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "R\ enyiCL: Contrastive Representation Learning with Skew R\ enyi Divergence" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "K Lee, J Shin - arXiv preprint arXiv:2208.06270, 2022" 
+--- 
+Contrastive representation learning seeks to acquire useful representations by estimating the shared information between multiple views of data. Here, the choice of data augmentation is sensitive to the quality of learned representations: as harder the data augmentations are applied, the views share more task-relevant information, but also task-irrelevant one that can hinder the generalization capability of representation. Motivated by this, we present a new robust contrastive learning Cites: Divergence Frontiers for Generative Models: Sample Complexity

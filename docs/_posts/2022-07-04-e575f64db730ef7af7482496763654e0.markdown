@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Using antipatterns to improve database code fragments, and utilizing knowledge graphs and NLP patterns to extract standardized data element names" 
-date: 2022-07-04 12:22:48 -0400 
-categories: jekyll update 
-author: "B Alshemaimri - 2022" 
---- 
-Database code fragments exist in software systems by using SQL as the stan-dard language for relational databases. Traditionally, developers bind databases as backends to software systems for supporting user applications. However, these bind-ings are low-level code and implemented to persist user data, so Object Relational Mapping (ORM) frameworks take place to abstract database access details. These approaches are prone to problematic database code fragments that negatively im Cites: Open information extraction from the web

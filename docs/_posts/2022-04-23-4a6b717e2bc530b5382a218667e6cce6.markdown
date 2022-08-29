@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Unsupervised Ensemble Learning for Genome Sequencing" 
-date: 2022-04-23 07:54:44 -0400 
-categories: jekyll update 
-author: "A Pags-Zamora, I Ochoa, GR Cavero - Pattern Recognition, 2022" 
---- 
-Unsupervised ensemble learning refers to methods devised for a particular task that combine data provided by decision learners taking into account their reliability, which is usually inferred from the data. Here, the variant calling step of the next generation sequencing technologies is formulated as an unsupervised ensemble classification problem. A variant calling algorithm based on the expectation-maximization algorithm is further proposed that estimates the maximum-a-posteriori decision Cites: Spectral methods meet EM: A provably optimal algorithm for

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ACE: Adaptive Constraint-aware Early Stopping in Hyperparameter Optimization" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "YW Chen, C Wang, A Saied, R Zhuang - arXiv preprint arXiv:2208.02922, 2022" 
+--- 
+Deploying machine learning models requires high model quality and needs to comply with application constraints. That motivates hyperparameter optimization (HPO) to tune model configurations under deployment constraints. The constraints often require additional computation cost to evaluate, and training ineligible configurations can waste a large amount of tuning cost. In this work, we propose an Adaptive Constraint-aware Early stopping (ACE) method to incorporate constraint Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Unit Testing for Concepts in Neural Networks" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "C Lovering, E Pavlick - arXiv preprint arXiv:2208.10244, 2022" 
+--- 
+Many complex problems are naturally understood in terms of symbolic concepts. For example, our concept of cat is related to our concepts of ears and whiskers in a non-arbitrary way. Fodor (1998) proposes one theory of concepts, which emphasizes symbolic representations related via constituency structures. Whether neural networks are consistent with such a theory is open for debate. We propose unit tests for evaluating whether a system s behavior is consistent with several key aspects of Cites: Provable Limitations of Acquiring Meaning from Ungrounded Form

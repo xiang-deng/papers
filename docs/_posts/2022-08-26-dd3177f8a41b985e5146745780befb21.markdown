@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Locate Then Ask: Interpretable Stepwise Reasoning for Multi-hop Question Answering" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "S Wang, Z Wei, Z Fan, Q Zhang, X Huang - arXiv preprint arXiv:2208.10297, 2022" 
+--- 
+Multi-hop reasoning requires aggregating multiple documents to answer a complex question. Existing methods usually decompose the multi-hop question into simpler single-hop questions to solve the problem for illustrating the explainable reasoning process. However, they ignore grounding on the supporting facts of each reasoning step, which tends to generate inaccurate decompositions. In this paper, we propose an interpretable stepwise reasoning framework to incorporate both single-hop Cites: Multi-hop reading comprehension through question decomposition

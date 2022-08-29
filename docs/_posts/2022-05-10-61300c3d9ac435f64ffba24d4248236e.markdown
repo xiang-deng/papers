@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "MULTIMODAL SENTIMENT ANALYSIS OF MEMES" 
-date: 2022-05-10 03:22:04 -0400 
-categories: jekyll update 
-author: "J Lim, A Kuek" 
---- 
-Memes are a popular form of conveying information online. However, due to their multimodal nature, they can be hard to analyse. We explore some methods of analysis, focusing on the specific case of detecting hateful memes from the Facebook Hateful Memes Dataset. Namely, BERT, BERT with RAG, VGG19, VGG19 with pretraining and UNITER are tested. We find that overall, BERT with RAG performs best at 0.842 AUC and 0.788 accuracy. This is possibly due to the additional Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "HAPTR2: Improved Haptic Transformer for legged robots terrain classification" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "M Bednarek, MR Nowicki, K Walas - Robotics and Autonomous Systems, 2022" 
+--- 
+The haptic terrain classification is an essential component of a mobile walking robot control system, ensuring proper gait adaptation to the changing environmental conditions. In practice, such components are a part of an autonomous system and thus have to be lightweight, provide fast inference time, and guarantee robustness to minor changes in recorded sensory data. We propose transformer-based HAPTR and HAPTR2 terrain classification methods that use force and torque measurements Cites: Efficientnetv2: Smaller models and faster training

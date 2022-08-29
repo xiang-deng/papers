@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "Y Jian, E Kruus, MR Min - Proceedings of the 28th ACM SIGKDD Conference on , 2022" 
+--- 
+Predicting the interactions between T-cell receptors (TCRs) and peptides is crucial for the development of personalized medicine and targeted vaccine in immunotherapy. Current datasets for training deep learning models of this purpose remain constrained without diverse TCRs and peptides. To combat the data scarcity issue presented in the current datasets, we propose to extend the training dataset by physical modeling of TCR-peptide pairs. Specifically, we compute the docking Cites: Meta pseudo labels

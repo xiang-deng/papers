@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Courage at checkthat! 2022: Harmful tweet detection using graph neural networks and electra" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "F Lomonaco, G Donabauer, M Siino - Working Notes of CLEF, 2022" 
+--- 
+In this paper we propose a deep learning model based on graph machine learning (ie Graph Attention Convolution) and a pretrained transformer language model (ie ELECTRA). Our model was developed to detect harmful tweets about COVID-19 and was used to tackle subtask 1C (harmful tweet detection) at the CheckThat! Lab shared task organized as part of CLEF 2022. In this binary classification task, our proposed model reaches a binary F1 score (positive class label, ie harmful tweet) of Cites: Electra: Pre-training text encoders as discriminators rather than

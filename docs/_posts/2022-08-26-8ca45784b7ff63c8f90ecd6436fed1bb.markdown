@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Coarse-to-Fine: Hierarchical Multi-task Learning for Natural Language Understanding" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Z Fei, Y Tian, Y Wu, X Zhang, Y Zhu, Z Liu, J Wu - arXiv preprint arXiv , 2022" 
+--- 
+Generalized text representations are the foundation of many natural language understanding tasks. To fully utilize the different corpus, it is inevitable that models need to understand the relevance among them. However, many methods ignore the relevance and adopt a single-channel model (a coarse paradigm) directly for all tasks, which lacks enough rationality and interpretation. In addition, some existing works learn downstream tasks by stitches skill block (a fine paradigm), which might Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

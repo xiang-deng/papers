@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Causal Attention for Interpretable and Generalizable Graph Classification" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "Y Sui, X Wang, J Wu, M Lin, X He, TS Chua - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+In graph classification, attention-and pooling-based graph neural networks (GNNs) prevail to extract the critical features from the input graph and support the prediction. They mostly follow the paradigm of learning to attend, which maximizes the mutual information between the attended graph and the ground-truth label. However, this paradigm makes GNN classifiers recklessly absorb all the statistical correlations between input features and labels in the training data, without distinguishing the Cites: Distributionally robust neural networks for group shifts: On the

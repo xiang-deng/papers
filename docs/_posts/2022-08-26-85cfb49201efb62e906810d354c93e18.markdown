@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Type-enriched Hierarchical Contrastive Strategy for Fine-Grained Entity Typing" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "X Zuo, H Liang, N Jing, S Zeng, Z Fang, Y Luo - arXiv preprint arXiv:2208.10081, 2022" 
+--- 
+Fine-grained entity typing (FET) aims to deduce specific semantic types of the entity mentions in text. Modern methods for FET mainly focus on learning what a certain type looks like. And few works directly model the type differences, that is, let models know the extent that one type is different from others. To alleviate this problem, we propose a type-enriched hierarchical contrastive strategy for FET. Our method can directly model the differences between hierarchical types and improve the ability to Cites: Modeling fine-grained entity types with box embeddings

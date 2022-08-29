@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Trust, but Verify: Using Self-Supervised Probing to Improve Trustworthiness" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "A Deng, S Li, M Xiong, Z Chen, B Hooi" 
+--- 
+Trustworthy machine learning is of primary importance to the practical deployment of deep learning models. While state-of-the-art models achieve astonishingly good performance in terms of accuracy, recent literature reveals that their predictive confidence scores unfortunately cannot be trusted: eg, they are often overconfident when wrong predictions are made, or so even for obvious outliers. In this paper, we introduce a new approach of self-supervised probing, which enables us to check and Cites: Designing and interpreting probes with control tasks

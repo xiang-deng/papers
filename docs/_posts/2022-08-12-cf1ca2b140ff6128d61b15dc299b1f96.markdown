@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "N Karalias, J Robinson, A Loukas, S Jegelka - arXiv preprint arXiv:2208.04055, 2022" 
+--- 
+Integrating functions on discrete domains into neural networks is key to developing their capability to reason about discrete objects. But, discrete domains are (1) not naturally amenable to gradient-based optimization, and (2) incompatible with deep learning architectures that rely on representations in high-dimensional vector spaces. In this work, we address both difficulties for set functions, which capture many important discrete problems. First, we develop a framework for extending set Cites: Action-depedent Control Variates for Policy Optimization via Stein s

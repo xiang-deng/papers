@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Demystify Hyperparameters for Stochastic Optimization with Transferable Representations" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "J Sun, M Huai, K Jha, A Zhang - Proceedings of the 28th ACM SIGKDD Conference , 2022" 
+--- 
+This paper studies the convergence and generalization of a large class of Stochastic Gradient Descent (SGD) momentum schemes, in both learning from scratch and transferring representations with fine-tuning. Momentum-based acceleration of SGD is the default optimizer for many deep learning models. However, there is a lack of general convergence guarantees for many existing momentum variants in conjunction withstochastic gradient. It is also unclear how the momentum methods Cites: BERT: Pre-training of Deep Bidirectional Transformers for

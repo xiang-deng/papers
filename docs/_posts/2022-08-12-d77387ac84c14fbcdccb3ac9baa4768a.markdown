@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "How Adversarial Robustness Transfers from Pre-training to Downstream Tasks" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "LF Nern, Y Sharma - arXiv preprint arXiv:2208.03835, 2022" 
+--- 
+Given the rise of large-scale training regimes, adapting pre-trained models to a wide range of downstream tasks has become a standard approach in machine learning. While large benefits in empirical performance have been observed, it is not yet well understood how robustness properties transfer from a pre-trained model to a downstream task. We prove that the robustness of a predictor on downstream tasks can be bound by the robustness of its underlying representation, irrespective of the Cites: Universal adversarial triggers for attacking and analyzing NLP

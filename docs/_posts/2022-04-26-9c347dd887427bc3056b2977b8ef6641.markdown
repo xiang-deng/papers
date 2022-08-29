@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Anomaly Detection of Calcifications in Mammography Based on 11,000 Negative Cases" 
-date: 2022-04-26 05:34:18 -0400 
-categories: jekyll update 
-author: "R Hou, Y Peng, LJ Grimm, Y Ren, M Mazurowski - IEEE Transactions on , 2021" 
---- 
-In mammography, calcifications are one of the most common signs of breast cancer. Detection of such lesions is an active area of research for computer-aided diagnosis and machine learning algorithms. Due to limited numbers of positive cases, many supervised detection models suffer from overfitting and fail to generalize. We present a one-class, semi-supervised framework using a deep convolutional autoencoder trained with over 50,000 images from 11,000 negative-only cases. Since the model Cites: Evaluation of combined artificial intelligence and radiologist

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "Z Tan, Z Chen, S Feng, Q Zhang, Q Zheng, J Li, M Luo - arXiv preprint arXiv , 2022" 
+--- 
+Knowledge Graph Embeddings (KGE) aim to map entities and relations to low dimensional spaces and have become the\textit {de-facto} standard for knowledge graph completion. Most existing KGE methods suffer from the sparsity challenge, where it is harder to predict entities that appear less frequently in knowledge graphs. In this work, we propose a novel framework KRACL to alleviate the widespread sparsity in KGs with graph context and contrastive learning. Firstly, we propose the Cites: Multi-hop knowledge graph reasoning with reward shaping

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "ListBERT: Learning to Rank E-commerce products with Listwise BERT" 
-date: 2022-07-22 21:48:17 -0400 
-categories: jekyll update 
-author: "L Kumar, S Sarkar - arXiv preprint arXiv:2206.15198, 2022" 
---- 
-Efficient search is a critical component for an e-commerce platform with an innumerable number of products. Every day millions of users search for products pertaining to their needs. Thus, showing the relevant products on the top will enhance the user experience. In this work, we propose a novel approach of fusing a transformer-based model with various listwise loss functions for ranking e-commerce products, given a user query. We pre-train a RoBERTa model over a fashion e  Cites: Dense Passage Retrieval for Open-Domain Question Answering

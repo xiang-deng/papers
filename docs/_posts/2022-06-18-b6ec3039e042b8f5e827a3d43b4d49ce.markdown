@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "First insights on deceiving language models" 
-date: 2022-06-18 03:19:09 -0400 
-categories: jekyll update 
-author: "J Rando - 2022" 
---- 
- Experimental setup. This is probably the part in which feedback might be the most valuable. How do we define a compelling example? What is the best technique to tackle this problem (regular causal language modelling or Deep Reinforcement Learning)? For DRL, how could we build an extensive reward function for the agent? Cites: How can we know when language models know? on the

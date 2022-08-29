@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "From Easy to Hard: A Dual Curriculum Learning Framework for Context-Aware Document Ranking" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Zhu, JY Nie, Y Su, H Chen, X Zhang, Z Dou - arXiv preprint arXiv:2208.10226, 2022" 
+--- 
+Contextual information in search sessions is important for capturing users search intents. Various approaches have been proposed to model user behavior sequences to improve document ranking in a session. Typically, training samples of (search context, document) pairs are sampled randomly in each training epoch. In reality, the difficulty to understand user s search intent and to judge document s relevance varies greatly from one search context to another. Mixing up training samples of different Cites: Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter

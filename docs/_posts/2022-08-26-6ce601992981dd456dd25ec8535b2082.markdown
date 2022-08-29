@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "The Value of Out-of-Distribution Data" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "A De Silva, R Ramesh, CE Priebe, P Chaudhari - arXiv preprint arXiv , 2022" 
+--- 
+More data helps us generalize to a task. But real datasets can contain out-of-distribution (OOD) data; this can come in the form of heterogeneity such as intra-class variability but also in the form of temporal shifts or concept drifts. We demonstrate a counter-intuitive phenomenon for such problems: generalization error of the task can be a non-monotonic function of the number of OOD samples; a small number of OOD samples can improve generalization but if the number of OOD Cites: Beyond the Imitation Game: Quantifying and extrapolating the

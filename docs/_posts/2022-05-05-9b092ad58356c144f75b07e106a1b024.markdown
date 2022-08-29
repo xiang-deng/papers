@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: ":" 
-date: 2022-05-05 02:23:22 -0400 
-categories: jekyll update 
-author: "- , 2022" 
---- 
-Generation-base dialogue system tends to produce generic response sentences. In order to improve the diversity of response sentences by the generation- base dialogue system, the response text retrieved by the retrieval-base model can be input to the generation-base model as reference response text, so that the generation-base model can generate highly diverse response sentences. However, the prior works show that the generation-base dialogue system often ignores the Cites: Enabling language models to fill in the blanks

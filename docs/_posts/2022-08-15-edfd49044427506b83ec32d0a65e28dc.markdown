@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "Q Huang, Z Yuan, Z Xing, X Xu, L Zhu, Q Lu - arXiv preprint arXiv:2208.05361, 2022" 
+--- 
+Partial code usually involves non-fully-qualified type names (non-FQNs) and undeclared receiving objects. Resolving the FQNs of these non-FQN types and undeclared receiving objects (referred to as type inference) is the prerequisite to effective search and reuse of partial code. Existing dictionary-lookup based methods build a symbolic knowledge base of API names and code contexts, which involve significant compilation overhead and are sensitive to unseen API names and code Cites: Pre-train, prompt, and predict: A systematic survey of prompting

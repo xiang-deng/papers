@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "AGNAS: Attention-Guided Micro and Macro-Architecture Search" 
-date: 2022-07-14 01:37:31 -0400 
-categories: jekyll update 
-author: "Z Sun, Y Hu, S Lu, L Yang, J Mei, Y Han, X Li - International Conference on Machine , 2022" 
---- 
-Micro-and macro-architecture search have emerged as two popular NAS paradigms recently. Existing methods leverage different search strategies for searching micro-and macro-architectures. When using architecture parameters to search for micro-structure such as normal cell and reduction cell, the architecture parameters can not fully reflect the corresponding operation importance. When searching for the macro-structure chained by pre-defined blocks, many sub-networks need to be sampled for  Cites: Regularized evolution for image classifier architecture search

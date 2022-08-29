@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ZLPR: A Novel Loss for Multi-label Classification" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Su, M Zhu, A Murtadha, S Pan, B Wen, Y Liu - arXiv preprint arXiv:2208.02955, 2022" 
+--- 
+In the era of deep learning, loss functions determine the range of tasks available to models and algorithms. To support the application of deep learning in multi-label classification (MLC) tasks, we propose the ZLPR (zero-bounded log-sum-exp\& pairwise rank-based) loss in this paper. Compared to other rank-based losses for MLC, ZLPR can handel problems that the number of target labels is uncertain, which, in this point of view, makes it equally capable with the other two strategies often used Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

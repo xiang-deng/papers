@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "MRFDCNet: Multireceptive Field Dense Connection Network for Real-Time Semantic Segmentation" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "X Wang, W Cao - Mobile Information Systems, 2022" 
+--- 
+Semantic segmentation is widely used in automatic driving systems. To quickly and accurately classify objects in emergency situations, a large number of images need to be processed per second. To make a semantic segmentation model run on hardware with low memory and limited computing capacity, this paper proposes a real-time semantic segmentation network called MRFDCNet. This architecture is based on our proposed multireceptive field dense connection (MRFDC) module. The Cites: ESPNetv2: A Light-weight, Power Efficient, and General Purpose

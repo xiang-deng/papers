@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Probabilistic Transformer: Modelling Ambiguities and Distributions for RNA Folding and Molecule Design" 
-date: 2022-06-04 01:43:25 -0400 
-categories: jekyll update 
-author: "JKH Franke, F Runge, F Hutter - arXiv preprint arXiv:2205.13927, 2022" 
---- 
-Our world is ambiguous and this is reflected in the data we use to train our algorithms. This is especially true when we try to model natural processes where collected data is affected by noisy measurements and differences in measurement techniques. Sometimes, the process itself can be ambiguous, such as in the case of RNA folding, where a single nucleotide sequence can fold into multiple structures. This ambiguity suggests that a predictive model should have similar probabilistic Cites: Palm: Scaling language modeling with pathways

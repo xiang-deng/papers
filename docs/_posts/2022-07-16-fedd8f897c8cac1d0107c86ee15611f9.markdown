@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Instance-based dynamic label assignment for object detection" 
-date: 2022-07-16 11:01:18 -0400 
-categories: jekyll update 
-author: "Z Peng, M Shao, Y Sun, Z Liu, C Li - Journal of Electronic Imaging, 2022" 
---- 
-Existing label assignment strategies have achieved promising performance for providing learning targets, typically rely on statistical information and location characteristics. However, classical label assignment strategies usually lack a comprehensive quality evaluation criterion. As a result, the quality of positive samples is not reliable, which weakens the performance of detectors. We propose a dynamic label assignment strategy to provide higher quality positive samples for  Cites: Learning from noisy anchors for one-stage object detection

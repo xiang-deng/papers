@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Do large language models know chemistry?" 
-date: 2022-07-12 02:15:42 -0400 
-categories: jekyll update 
-author: "AD White, GM Hocky, HA Gandhi, M Ansari, S Cox - 2022" 
---- 
-Mostly yes. We systematically evaluate machine learning large language models (LLMs) that generate code in the context of chemistry. We produce a benchmark set of problems, and evaluate these models based on correctness of code by automated testing and evaluation by experts. We find recent LLMs are able to write correct code across a variety of topics in chemistry and their accuracy can be increased by 30 percentage points via prompt engineering strategies, like putting copyright notices at  Cites: Chain of thought prompting elicits reasoning in large language

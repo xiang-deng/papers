@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Few-Shot Table-to-Text Generation with Prefix-Controlled Generator" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Luo, M Lu, G Liu, S Wang - arXiv preprint arXiv:2208.10709, 2022" 
+--- 
+Neural table-to-text generation approaches are data-hungry, limiting their adaptation for low-resource real-world applications. Previous works mostly resort to Pre-trained Language Models (PLMs) to generate fluent summaries of a table. However, they often contain hallucinated contents due to the uncontrolled nature of PLMs. Moreover, the topological differences between tables and sequences are rarely studied. Last but not least, fine-tuning on PLMs with a handful of instances may lead Cites: Handling divergent reference texts when evaluating table-to-text

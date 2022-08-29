@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Equivariant Disentangled Transformation for Domain Generalization under Combination Shift" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "Y Zhang, J Wang, X Xie, M Sugiyama - arXiv preprint arXiv:2208.02011, 2022" 
+--- 
+Machine learning systems may encounter unexpected problems when the data distribution changes in the deployment environment. A major reason is that certain combinations of domains and labels are not observed during training but appear in the test environment. Although various invariance-based algorithms can be applied, we find that the performance gain is often marginal. To formally analyze this issue, we provide a unique algebraic formulation of the combination shift problem based on Cites: Distributionally robust neural networks for group shifts: On the

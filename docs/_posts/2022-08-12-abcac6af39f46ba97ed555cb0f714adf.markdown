@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "SimBa at CheckThat! 2022: lexical and semantic similarity based detection of verified claims in an unsupervised and supervised way" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "A Hvelmeyer, K Boland, S Dietze - Working Notes of CLEF, 2022" 
+--- 
+One step in many automated fact-checking pipelines is verified claim retrieval, ie checking whether a claim has been fact-checked before. We approach this task as a semantic textual similarity problem. For this, we examine the extent to which an input claim and a verified claim are similar at semantic, textual, lexical and referential levels using a variety of NLP tools. We rank similar pairs based on these features using a supervised and an unsupervised model. We participate in two subtasks and Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

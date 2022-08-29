@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "LLM. int8 (): 8-bit Matrix Multiplication for Transformers at Scale" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "T Dettmers, M Lewis, Y Belkada, L Zettlemoyer - arXiv preprint arXiv:2208.07339, 2022" 
+--- 
+Large language models have been widely adopted but require significant GPU memory for inference. We develop a procedure for Int8 matrix multiplication for feed-forward and attention projection layers in transformers, which cut the memory

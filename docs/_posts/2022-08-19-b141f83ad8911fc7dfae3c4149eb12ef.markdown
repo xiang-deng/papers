@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Continuous Active Learning Using Pretrained Transformers" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "N Sadri, GV Cormack - arXiv preprint arXiv:2208.06955, 2022" 
+--- 
+Pre-trained and fine-tuned transformer models like BERT and T5 have improved the state of the art in ad-hoc retrieval and question-answering, but not as yet in high-recall information retrieval, where the objective is to retrieve substantially all relevant documents. We investigate whether the use of transformer-based models for reranking and/or featurization can improve the Baseline Model Implementation of the TREC Total Recall Track, which represents the current state of the art for high-recall Cites: Towards unsupervised dense information retrieval with contrastive

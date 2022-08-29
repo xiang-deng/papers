@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "RUCIR at the NTCIR-16 Session Search (SS) Task" 
-date: 2022-06-18 03:19:09 -0400 
-categories: jekyll update 
-author: "H Chen, Z Dou" 
---- 
-This paper presents the participation of the RUCIR group, an information retrieval research group in Renmin University of China, in the NTCIR-16 Session Search Task. We will discuss the approach we used to generate the session search runs, and introduce the main experimental results. More specifically, we use the state-of-the-art context-aware ranking model COCA, which is based on BERT and contrastive learning, to generate the runs we submitted to the task. In addition, we use the BM25 Cites: Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter

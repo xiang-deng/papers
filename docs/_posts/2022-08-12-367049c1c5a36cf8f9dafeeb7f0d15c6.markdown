@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "M Li, S Gururangan, T Dettmers, M Lewis, T Althoff - arXiv preprint arXiv , 2022" 
+--- 
+We present Branch-Train-Merge (BTM), a communication-efficient algorithm for embarrassingly parallel training of large language models (LLMs). We show it is possible to independently train subparts of a new class of LLMs on different subsets of the data, eliminating the massive multi-node synchronization currently required to train LLMs. BTM learns a set of independent expert LMs (ELMs), each specialized to a different textual domain, such as scientific or legal text. These ELMs can be added Cites: Ctrl: A conditional transformer language model for controllable

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "SYSTEM AND METHOD FOR STRUCTURE LEARNING FOR GRAPH NEURAL NETWORKS" 
-date: 2022-04-14 01:14:43 -0400 
-categories: jekyll update 
-author: "B Fatemi, SM Kazemi, AL EL - US Patent App. 17/484,363, 2022" 
---- 
-A graph structure having nodes and edges is represented as an adjacency matrix, and nodes of the graph structure have node features. A computer-implemented method and system for generating a graph structure are provided, the method comprising: generating an adjacency matrix based on a plurality of node features; generating a plurality of noisy node features based on the plurality of node features; generating a plurality of denoised node features using a neural network based on Cites: Strategies for pre-training graph neural networks

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Syntactic Inductive Biases for Deep Learning Methods" 
-date: 2022-06-18 03:19:09 -0400 
-categories: jekyll update 
-author: "Y Shen - arXiv preprint arXiv:2206.04806, 2022" 
---- 
-In this thesis, we try to build a connection between the two schools by introducing syntactic inductive biases for deep learning models. We propose two families of inductive biases, one for constituency structure and another one for dependency structure. The constituency inductive bias encourages deep learning models to use different units (or neurons) to separately process long-term and short-term information. This separation provides a way for deep learning models to build the Cites: Dependency parsing as head selection

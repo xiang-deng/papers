@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "MultiVerS: Improving scientific claim verification with weak supervision and full-document context" 
-date: 2022-07-16 11:01:18 -0400 
-categories: jekyll update 
-author: "D Wadden, K Lo, L Wang, A Cohan, I Beltagy - Findings of the Association , 2022" 
---- 
-The scientific claim verification task requires an NLP system to label scientific documents which Support or Refute an input claim, and to select evidentiary sentences (or rationales) justifying each predicted label. In this work, we present MultiVerS, which predicts a fact-checking label and identifies rationales in a multitask fashion based on a shared encoding of the claim and full document context. This approach accomplishes two key modeling goals. First, it ensures that all relevant  Cites: Climate-fever: A dataset for verification of real-world climate claims

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Reactive Exploration to Cope with Non-Stationarity in Lifelong Reinforcement Learning" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "C Steinparz, T Schmied, F Paischer, MC Dinu, V Patil - arXiv preprint arXiv , 2022" 
+--- 
+In lifelong learning, an agent learns throughout its entire life without resets, in a constantly changing environment, as we humans do. Consequently, lifelong learning comes with a plethora of research problems such as continual domain shifts, which result in non-stationary rewards and environment dynamics. These non-stationarities are difficult to detect and cope with due to their continuous nature. Therefore, exploration strategies and learning methods are required that are capable of tracking Cites: Never-ending learning

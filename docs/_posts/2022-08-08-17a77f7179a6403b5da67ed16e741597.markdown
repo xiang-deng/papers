@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Transferable Multi-Agent Reinforcement Learning with Dynamic Participating Agents" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "X Tang, J Xu, S Wang - arXiv preprint arXiv:2208.02424, 2022" 
+--- 
+We study multi-agent reinforcement learning (MARL) with centralized training and decentralized execution. During the training, new agents may join, and existing agents may unexpectedly leave the training. In such situations, a standard deep MARL model must be trained again from scratch, which is very time-consuming. To tackle this problem, we propose a special network architecture with a few-shot learning algorithm that allows the number of agents to vary during centralized Cites: Long short-term memory-networks for machine reading

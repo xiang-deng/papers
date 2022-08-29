@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Muformer: A long sequence time-series forecasting model based on modified multi-head attention" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "P Zeng, G Hu, X Zhou, S Li, P Liu, S Liu - Knowledge-Based Systems, 2022" 
+--- 
+Long sequence time-series forecasting (LSTF) problems are widespread in the real world, such as weather forecasting, stock market forecasting, and power resource management. LSTF demands the model to have a high prediction accuracy. Recent studies have shown that transformers have the potential to improve predictive accuracy. However, we found that Transformer still has severe problems preventing it from directly applying to LSTF, such as redundant input information, which makes it Cites: Delight: Deep and light-weight transformer

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "A benchmark dataset for Turkish data-to-text generation" 
-date: 2022-07-18 23:00:30 -0400 
-categories: jekyll update 
-author: "S Demir, S Oktem - Computer Speech & Language, 2022" 
---- 
-In the last decades, data-to-text (D2T) systems that directly learn from data have gained a lot of attention in natural language generation. These systems need data with high quality and large volume, but unfortunately some natural languages suffer from the lack of readily available generation datasets. This article describes our efforts to create a new Turkish dataset (Tr-D2T) that consists of meaning representation and reference sentence pairs without fine-grained word alignments  Cites: Data-to-text generation with content selection and planning

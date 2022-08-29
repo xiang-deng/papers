@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Effects of Target Words and Their Locations in Prompts" 
-date: 2022-06-20 23:00:52 -0400 
-categories: jekyll update 
-author: "T Bers - 2022" 
---- 
-Few and zero-shot learning with prompt-tuned models has recently been shown to be very successful. Prompt-tuned models require prompt engineering where the model is trained on many different prompts. A prompt is some text that is added to an input example in order to convert it into a language modeling task. For example instead of just training on pairs of hypotheses and premises, the prompted input text would be:Given 1premisel, does this follow: 1hypothesisl? A challenge is figuring Cites: Rethinking the Role of Demonstrations: What Makes In-Context

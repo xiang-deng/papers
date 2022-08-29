@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "On Computing Relevant Features for Explaining NBCs" 
+date: 2022-08-24 22:33:05 -0400 
+categories: jekyll update 
+author: "Y Izza, J Marques-Silva - arXiv preprint arXiv:2207.04748, 2022" 
+--- 
+Despite the progress observed with model-agnostic explainable AI (XAI), it is the case that model-agnostic XAI can produce incorrect explanations. One alternative are the so-called formal approaches to XAI, that include PI-explanations. Unfortunately, PI-explanations also exhibit important drawbacks, the most visible of which is arguably their size. The computation of relevant features serves to trade off probabilistic precision for the number of features in an explanation. However, even Cites: Anchors: High-Precision Model-Agnostic Explanations

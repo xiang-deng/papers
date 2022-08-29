@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Active PETs: Active Data Annotation Prioritisation for Few-Shot Claim Verification with Pattern Exploiting Training" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "X Zeng, A Zubiaga - arXiv preprint arXiv:2208.08749, 2022" 
+--- 
+To mitigate the impact of data scarcity on fact-checking systems, we focus on few-shot claim verification. Despite recent work on few-shot classification by proposing advanced language models, there is a dearth of research in data annotation prioritisation that improves the selection of the few shots to be labelled for optimal model performance. We propose Active PETs, a novel weighted approach that utilises an ensemble of Pattern Exploiting Training (PET) models based on various Cites: Electra: Pre-training text encoders as discriminators rather than

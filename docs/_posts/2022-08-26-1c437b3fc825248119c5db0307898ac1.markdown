@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Using Multi-Encoder Fusion Strategies to Improve Personalized Response Selection" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "S Das, S Saha, RK Srihari - arXiv preprint arXiv:2208.09601, 2022" 
+--- 
+Personalized response selection systems are generally grounded on persona. However, there exists a co-relation between persona and empathy, which is not explored well in these systems. Also, faithfulness to the conversation context plunges when a contradictory or an off-topic response is selected. This paper attempts to address these issues by proposing a suite of fusion strategies that capture the interaction between persona, emotion, and entailment information of the utterances Cites: Improving faithfulness in abstractive summarization with contrast

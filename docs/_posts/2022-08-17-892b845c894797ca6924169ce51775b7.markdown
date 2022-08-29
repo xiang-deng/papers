@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "External Knowledge Infusion for Tabular Pre-training Models with Dual-adapters" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "C Qin, S Kim, H Zhao, T Yu, RA Rossi, Y Fu - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+Tabular pre-training models have received increasing attention due to the wide-ranging applications for tabular data analysis. However, most of the existing solutions are directly built upon the tabular data with a mixture of non-semantic and semantic contents. According to the statistics, only 30% of tabular data in wikitables are semantic entities that are surrounded and isolated by enormous irregular characters such as numbers, strings, symbols, etc. Despite the small portion, such Cites: TABBIE: Pretrained Representations of Tabular Data

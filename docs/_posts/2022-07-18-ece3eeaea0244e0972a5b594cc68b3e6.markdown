@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Does GNN Pretraining Help Molecular Representation?" 
-date: 2022-07-18 23:00:30 -0400 
-categories: jekyll update 
-author: "R Sun - arXiv preprint arXiv:2207.06010, 2022" 
---- 
-Extracting informative representations of molecules using Graph neural networks (GNNs) is crucial in AI-driven drug discovery. Recently, the graph research community has been trying to replicate the success of self-supervised pretraining in natural language processing, with several successes claimed. However, we find the benefit brought by self-supervised pretraining on molecular data can be negligible in many cases. We conduct thorough ablation studies on the key components of GNN  Cites: Finetuned language models are zero-shot learners

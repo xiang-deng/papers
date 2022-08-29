@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Where s the Learning in Representation Learning for Compositional Semantics and the Case of Thematic Fit" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "M Muthupari, S Halder, A Sayeed, Y Marton - arXiv preprint arXiv:2208.04749, 2022" 
+--- 
+Observing that for certain NLP tasks, such as semantic role prediction or thematic fit estimation, random embeddings perform as well as pretrained embeddings, we explore what settings allow for this and examine where most of the learning is encoded: the word embeddings, the semantic role embeddings, or``the network . We find nuanced answers, depending on the task and its relation to the training objective. We examine these representation learning aspects in multi-task learning Cites: Jointly predicting predicates and arguments in neural semantic

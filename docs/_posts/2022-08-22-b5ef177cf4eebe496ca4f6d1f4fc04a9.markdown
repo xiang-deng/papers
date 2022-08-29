@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Mere Contrastive Learning for Cross-Domain Sentiment Analysis" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "Y Luo, F Guo, Z Liu, Y Zhang - arXiv preprint arXiv:2208.08678, 2022" 
+--- 
+Cross-domain sentiment analysis aims to predict the sentiment of texts in the target domain using the model trained on the source domain to cope with the scarcity of labeled data. Previous studies are mostly cross-entropy-based methods for the task, which suffer from instability and poor generalization. In this paper, we explore contrastive learning on the cross-domain sentiment analysis task. We propose a modified contrastive objective with in-batch negative samples so that the sentence Cites: Nearest neighbor machine translation

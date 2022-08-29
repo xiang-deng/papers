@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Enhancing Machine Learning Approaches for Graph Optimization Problems with Diversifying Graph Augmentation" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "CH Yang, CY Shen - Proceedings of the 28th ACM SIGKDD Conference on , 2022" 
+--- 
+Recently, many machine learning-based approaches that effectively solve graph optimization problems have been proposed. These approaches are usually trained on graphs randomly generated with graph generators or sampled from existing datasets. However, we observe that such training graphs lead to poor testing performance if the testing graphs are not generated analogously, ie, the generalibility of the models trained on those randomly generated training graphs are very limited Cites: Learning a SAT solver from single-bit supervision

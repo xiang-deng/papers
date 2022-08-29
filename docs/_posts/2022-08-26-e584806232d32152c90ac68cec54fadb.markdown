@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Lost in Context? On the Sense-wise Variance of Contextualized Word Embeddings" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Wang, Y Zhang - arXiv preprint arXiv:2208.09669, 2022" 
+--- 
+Contextualized word embeddings in language models have given much advance to NLP. Intuitively, sentential information is integrated into the representation of words, which can help model polysemy. However, context sensitivity also leads to the variance of representations, which may break the semantic consistency for synonyms. We quantify how much the contextualized embeddings of each word sense vary across contexts in typical pre-trained models. Results show that Cites: Linguistic Knowledge and Transferability of Contextual

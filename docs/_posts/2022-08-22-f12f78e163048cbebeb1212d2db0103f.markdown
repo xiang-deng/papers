@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Optimizing Partial Area Under the Top-K Curve: Theory and Practice" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "Z Wang, Q Xu, Z Yang, Y He, X Cao, Q Huang - IEEE Transactions on Pattern , 2022" 
+--- 
+Top-$ k $ error has become a popular metric for large-scale classification benchmarks due to the inevitable semantic ambiguity among classes. Existing literature on top-$ k $ optimization generally focuses on the optimization method of the top-$ k $ objective, while ignoring the limitations of the metric itself. In this paper, we point out that the top-$ k $ objective lacks enough discrimination such that the induced predictions may give a totally irrelevant label a top rank. To fix this issue, we Cites: Generalization Bounds for the Area Under the ROC Curve.

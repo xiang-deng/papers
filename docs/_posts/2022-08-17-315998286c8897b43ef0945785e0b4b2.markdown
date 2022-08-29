@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Improving Relevance Modeling via Heterogeneous Behavior Graph Learning in Bing Ads" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "B Pang, C Li, Y Liu, J Lian, J Zhao, H Sun, W Deng - Proceedings of the 28th , 2022" 
+--- 
+As the fundamental basis of sponsored search, relevance modeling measures the closeness between the input queries and the candidate ads. Conventional relevance models solely rely on the textual data, which suffer from the scarce semantic signals within the short queries. Recently, user historical click behaviors are incorporated in the format of click graphs to provide additional correlations beyond pure textual semantics, which contributes to advancing the relevance modeling performance Cites: Clickthrough-based latent semantic models for web search

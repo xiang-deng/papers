@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Preliminary Study of Interpreting CNNs Using Soft Decision Trees" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "Q Zhao, Y Wang - of Pioneering Computer Scientists, Engineers and , 2022" 
+--- 
+Decision trees can be used to enhance the interpretability of neural networks. In this work, we compare the classification and interpretability performance of the normal decision tree and a type of soft decision tree when they are used to interpret the decision paths of CNN networks. With the help of feature visualization and human-labeled features, we demonstrate that the soft decision trees identify more consistent features while maintaining much higher classification performance than the normal Cites: Anchors: High-Precision Model-Agnostic Explanations

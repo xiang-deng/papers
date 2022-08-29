@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Snort Rule Generation for Malware Detection Using the GPT2 Transformer" 
-date: 2022-07-08 09:39:49 -0400 
-categories: jekyll update 
-author: "ENA Laryea - 2022" 
---- 
-Natural Language machine learning methods are applied to rules generated to identify malware at the network level. These rules use a computer-based signature specification language called Snort. Using Natural Language processing techniques and other machine learning methods, new rules are generated based on a training set of existing Snort rule signatures for a specific type of malware family. The performance is then measured, in terms of the detection of existing types of  Cites: Opt: Open pre-trained transformer language models

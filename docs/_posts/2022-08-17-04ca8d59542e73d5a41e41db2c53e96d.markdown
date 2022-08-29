@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "Q Yue, J Liang, J Cui, L Bai - Proceedings of the 28th ACM SIGKDD Conference on , 2022" 
+--- 
+Zero-shot node classification is a very important challenge for classical semi-supervised node classification algorithms, such as Graph Convolutional Network (GCN) which has been widely applied to node classification. In order to predict the unlabeled nodes from unseen classes, zero-shot node classification needs to transfer knowledge from seen classes to unseen classes. It is crucial to consider the relations between the classes in zero-shot node classification. However, the GCN Cites: Benchmarking zero-shot text classification: Datasets, evaluation

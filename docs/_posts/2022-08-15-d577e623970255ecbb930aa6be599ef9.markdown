@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Multi-View Pre-Trained Model for Code Vulnerability Identification" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "X Jiang, Y Xiao, J Wang, W Zhang - arXiv preprint arXiv:2208.05227, 2022" 
+--- 
+Vulnerability identification is crucial for cyber security in the software-related industry. Early identification methods require significant manual efforts in crafting features or annotating vulnerable code. Although the recent pre-trained models alleviate this issue, they overlook the multiple rich structural information contained in the code itself. In this paper, we propose a novel Multi-View Pre-Trained Model (MV-PTM) that encodes both sequential and multi-type structural information of the source code and Cites: Graphcodebert: Pre-training code representations with data flow

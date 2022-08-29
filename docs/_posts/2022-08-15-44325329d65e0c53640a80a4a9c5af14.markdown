@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "LSNet: Real-time Attention Semantic Segmentation Network with Linear Complexity" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "P Sheng, Y Shi, X Liu, H Jin - Neurocomputing, 2022" 
+--- 
+From high-resolution images to get context information remains a challenge in real-time semantic segmentation. Despite recent advances in context information acquisition based on Self-Attention, the Self-Attention module will cause the calculation degree to increase exponentially when facing the semantic segmentation task. In this article, we propose a real-time semantic segmentation network (LSNet) which strikes a balance between segmentation accuracy and inference speed Cites: Random feature attention

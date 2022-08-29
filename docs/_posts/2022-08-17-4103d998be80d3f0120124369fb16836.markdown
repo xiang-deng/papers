@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Graph Mixed Random Network Based on PageRank" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "Q Ma, Z Fan, C Wang, H Tan - Symmetry, 2022" 
+--- 
+In recent years, graph neural network algorithm (GNN) for graph semi-supervised classification has made great progress. However, in the task of node classification, the neighborhood size is often difficult to expand. The propagation of nodes always only considers the nearest neighbor nodes. Some algorithms usually approximately classify by message passing between direct (single-hop) neighbors. This paper proposes a simple and effective method, named Graph Mixed Random Network Cites: Unsupervised data augmentation for consistency training

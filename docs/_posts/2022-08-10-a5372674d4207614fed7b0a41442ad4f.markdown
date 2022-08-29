@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Green, Quantized Federated Learning over Wireless Networks: An Energy-Efficient Design" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "M Kim, W Saad, M Mozaffari, M Debbah - arXiv preprint arXiv:2207.09387, 2022" 
+--- 
+In this paper, a green, quantized FL framework, which represents data with a finite precision level in both local training and uplink transmission, is proposed. Here, the finite precision level is captured through the use of quantized neural networks (QNNs) that quantize weights and activations in fixed-precision format. In the considered FL model, each device trains its QNN and transmits a quantized training result to the base station. Energy models for the local training and the transmission Cites: Green AI

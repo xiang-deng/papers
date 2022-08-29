@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "How to pretrain an efficient cross-disciplinary language model: The ScilitBERT use case" 
-date: 2022-01-08 08:13:01 -0400 
-categories: jekyll update 
-author: "JB de la Broise, N Bernard, JP Dubuc, A Perlato - 2021 6th International , 2021" 
---- 
-Transformer based models are widely used in various text processing tasks, such as classification, named entity recognition. The representation of scientific texts is a complicated task, and the utilization of general English BERT models for this task is suboptimal. We observe the lack of models for multidisciplinary academic texts representation, and on a broader scale, a lack of specialized models pretrained on specific domains, for which general English BERT models are suboptimal. This Cites: Neural machine translation with byte-level subwords

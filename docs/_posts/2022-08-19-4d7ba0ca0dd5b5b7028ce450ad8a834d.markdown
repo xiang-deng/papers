@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Compressing Pre-trained Models of Code into 3 MB" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "J Shi, Z Yang, B Xu, HJ Kang, D Lo - arXiv preprint arXiv:2208.07120, 2022" 
+--- 
+Although large pre-trained models of code have delivered significant advancements in various code processing tasks, there is an impediment to the wide and fluent adoption of these powerful models in software developers daily workflow: these large models consume hundreds of megabytes of memory and run slowly on personal devices, which causes problems in model deployment and greatly degrades the user experience. It motivates us to propose Compressor, a novel Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

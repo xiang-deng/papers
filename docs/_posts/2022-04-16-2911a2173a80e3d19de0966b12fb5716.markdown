@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Improving Tokenisation by Alternative Treatment of Spaces" 
-date: 2022-04-16 01:25:48 -0400 
-categories: jekyll update 
-author: "E Gow-Smith, HT Madabushi, C Scarton - arXiv preprint arXiv , 2022" 
---- 
-Tokenisation is the first step in almost all NLP tasks, and state-of-the-art transformer- based language models all use subword tokenisation algorithms to process input text. Existing algorithms have problems, often producing tokenisations of limited linguistic validity, and representing equivalent strings differently depending on their position within a word. We hypothesise that these problems hinder the ability of transformer-based models to handle complex words, and suggest that these Cites: Byte Pair Encoding is Suboptimal for Language Model Pretraining

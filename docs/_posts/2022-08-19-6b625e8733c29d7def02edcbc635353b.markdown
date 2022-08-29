@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "J Chen, R Zhang, J Guo, Y Liu, Y Fan, X Cheng - arXiv preprint arXiv:2208.07652, 2022" 
+--- 
+Knowledge-intensive language tasks (KILT) usually require a large body of information to provide correct answers. A popular paradigm to solve this problem is to combine a search system with a machine reader, where the former retrieves supporting evidences and the latter examines them to produce answers. Recently, the reader component has witnessed significant advances with the help of large-scale pre-trained generative models. Meanwhile most existing solutions in the Cites: Convolutional Neural Networks for Soft-Matching N-Grams in Ad

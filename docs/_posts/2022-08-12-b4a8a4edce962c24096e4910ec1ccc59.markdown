@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Applying Structural and Dense Semantic Matching for the ARQMath Lab 2022, CLEF" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "W Zhong, Y Xie, J Lin - Proceedings of the Working Notes of CLEF 2022, 2022" 
+--- 
+This work describes the participation of our team in the ARQMath 2022 Lab, where we have applied two highly complementary methods for effective math answer and formula retrieval. More specifically, a lexical sparse retriever (Approach Zero) capable of first-stage structure matching is combined with a fine-tuned bi-encoder dense retriever (ColBERT) to capture contextual similarity and semantic matching. The dense retrieval model is further pretrained to adapt to math domain content Cites: Self-consistency improves chain of thought reasoning in language

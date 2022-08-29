@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Analyzing Bagging Methods for Language Models" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "P Islam, S Khosla, A Lok, M Saxena - arXiv preprint arXiv:2207.09099, 2022" 
+--- 
+Modern language models leverage increasingly large numbers of parameters to achieve performance on natural language understanding tasks. Ensembling these models in specific configurations for downstream tasks show even further performance improvements. In this paper, we perform an analysis of bagging language models and compare single language models to bagged ensembles that are roughly equivalent in terms of final model size. We explore an array of model Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

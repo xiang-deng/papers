@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "HC Moon, S Joty, X Chi - Proceedings of the 28th ACM SIGKDD Conference on , 2022" 
+--- 
+We present GradMask, a simple adversarial example detection scheme for natural language processing (NLP) models. It uses gradient signals to detect adversarially perturbed tokens in an input sequence and occludes such tokens by a masking process. GradMask provides several advantages over existing methods including improved detection performance and an interpretation of its decision with a only moderate computational cost. Its approximated inference cost is no more than a Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Neural Embeddings for Text" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "O Vasilyev, J Bohannon - arXiv preprint arXiv:2208.08386, 2022" 
+--- 
+We propose a new kind of embedding for natural language text that deeply represents semantic meaning. Standard text embeddings use the vector output of a pretrained language model. In our method, we let a language model learn from the text and then literally pick its brain, taking the actual weights of the model s neurons to generate a vector. We call this representation of the text a neural embedding. The technique may generalize beyond text and language models, but we first explore its Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

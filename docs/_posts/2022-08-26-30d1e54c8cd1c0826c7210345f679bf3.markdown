@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Query-Response Interactions by Multi-tasks in Semantic Search for Chatbot Candidate Retrieval" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "L Shi, K Zhang, W Rong - arXiv preprint arXiv:2208.11018, 2022" 
+--- 
+Semantic search for candidate retrieval is an important yet neglected problem in retrieval-based Chatbots, which aims to select a bunch of candidate responses efficiently from a large pool. The existing bottleneck is to ensure the model architecture having two points: 1) rich interactions between a query and a response to produce query-relevant responses; 2) ability of separately projecting the query and the response into latent spaces to apply efficiently in semantic search during online Cites: Cross-sentence n-ary relation extraction with graph lstms

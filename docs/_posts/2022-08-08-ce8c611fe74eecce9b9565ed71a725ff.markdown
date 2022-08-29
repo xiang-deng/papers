@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Benchmarking zero-shot and few-shot approaches for tokenization, tagging, and dependency parsing of Tagalog text" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "A Aquino, F de Leon - arXiv preprint arXiv:2208.01814, 2022" 
+--- 
+The grammatical analysis of texts in any human language typically involves a number of basic processing tasks, such as tokenization, morphological tagging, and dependency parsing. State-of-the-art systems can achieve high accuracy on these tasks for languages with large datasets, but yield poor results for languages such as Tagalog which have little to no annotated data. To address this issue for the Tagalog language, we investigate the use of auxiliary data sources for creating task-specific Cites: Universal dependency parsing from scratch

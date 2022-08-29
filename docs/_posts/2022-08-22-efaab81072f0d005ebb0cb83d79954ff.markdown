@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Contrastive label correction for noisy label learning" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "B Huang, Y Lin, C Xu - Information Sciences, 2022" 
+--- 
+Noisy label learning is an important process that facilitates the collection of noisy label data for training accurate deep neural networks. The latest label correction methods are effective approaches that focus on identifying label errors in datasets for training. However, existing approaches to identify noise generally rely on model predictions that are not scalable and are error-prone. In this study, a new noisy label learning framework is proposed by leveraging supervised contrastive learning for Cites: Dividemix: Learning with noisy labels as semi-supervised learning

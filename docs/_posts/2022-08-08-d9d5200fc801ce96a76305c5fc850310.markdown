@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Graph-assisted Matrix Completion in a Multi-clustered Graph Model" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "G Suh, C Suh - 2022 IEEE International Symposium on Information , 2022" 
+--- 
+We consider a matrix completion problem that exploits social graph as side information. We develop a computationally efficient algorithm that achieves the optimal sample complexity for the entire regime of graph information under the multiple cluster setting (to be detailed). The key idea is to incorporate a switching mechanism which selects the information employed in the first clustering step, between the following two types: graph & matrix ratings. Our experimental results on Cites: Recommender systems with social regularization

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Domain Adaptive Multi-Task Transformer for Low-resource Machine Reading Comprehension" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "Z Bai, B Wang, Z Wang, C Yuan, X Wang - Neurocomputing, 2022" 
+--- 
+In recent years, low-resource Machine Reading Comprehension (MRC) attracts increasing attention. Due to the difficulty in data collecting, current low-resource MRC approaches often suffer from poor generalizing capability: the model only learns limited task-aware and domain-aware knowledge from a small-scale training dataset. Previous works generally address such deficiency by learning the required knowledge from out-of-domain MRC datasets and in-domain self-supervised Cites: Spanbert: Improving pre-training by representing and predicting

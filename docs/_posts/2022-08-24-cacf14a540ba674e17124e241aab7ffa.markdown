@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data" 
+date: 2022-08-24 22:33:05 -0400 
+categories: jekyll update 
+author: "T ValizadehAslani, Y Shi, J Wang, P Ren, Y Zhang - arXiv preprint arXiv , 2022" 
+--- 
+Classification on long-tailed distributed data is a challenging problem, which suffers from serious class-imbalance and hence poor performance on tail classes with only a few samples. Owing to this paucity of samples, learning on the tail classes is especially challenging for the fine-tuning when transferring a pretrained model to a downstream task. In this work, we present a simple modification of standard fine-tuning to cope with these challenges. Specifically, we propose a two-stage fine Cites: Extreme language model compression with optimal subwords and

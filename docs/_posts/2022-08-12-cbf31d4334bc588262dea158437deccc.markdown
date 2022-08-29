@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "High Recall Data-to-text Generation with Progressive Edit" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "C Kim, GG Lee - arXiv preprint arXiv:2208.04558, 2022" 
+--- 
+Data-to-text (D2T) generation is the task of generating texts from structured inputs. We observed that when the same target sentence was repeated twice, Transformer (T5) based model generates an output made up of asymmetric sentences from structured inputs. In other words, these sentences were different in length and quality. We call this phenomenon Asymmetric Generation and we exploit this in D2T generation. Once asymmetric sentences are generated, we add the first part of Cites: Handling divergent reference texts when evaluating table-to-text

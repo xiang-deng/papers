@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "An Embarrassingly Easy but Strong Baseline for Nested Named Entity Recognition" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "H Yan, Y Sun, X Li, X Qiu - arXiv preprint arXiv:2208.04534, 2022" 
+--- 
+Named entity recognition (NER) is the task to detect and classify the entity spans in the text. When entity spans overlap between each other, this problem is named as nested NER. Span-based methods have been widely used to tackle the nested NER. Most of these methods will get a score $ n\times n $ matrix, where $ n $ means the length of sentence, and each entry corresponds to a span. However, previous work ignores spatial relations in the score matrix. In this paper, we propose using Cites: Joint mention extraction and classification with mention hypergraphs

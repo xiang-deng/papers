@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Differentiable Inductive Logic Programming in High-Dimensional Space" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "SJ Purga, DM Cerna, C Kaliszyk - arXiv preprint arXiv:2208.06652, 2022" 
+--- 
+Synthesizing large logic programs through Inductive Logic Programming (ILP) typically requires intermediate definitions. However, cluttering the hypothesis space with intensional predicates often degrades performance. In contrast, gradient descent provides an efficient way to find solutions within such high-dimensional spaces. Neuro-symbolic ILP approaches have not fully exploited this so far. We propose an approach to ILP-based synthesis benefiting from large-scale predicate Cites: Neural logic machines

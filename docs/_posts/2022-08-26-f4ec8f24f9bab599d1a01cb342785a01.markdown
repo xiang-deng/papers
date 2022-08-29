@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "An MRC and adaptive positiveunlabeled learning framework for incompletely labeled named entity recognition" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "F Zhang, L Ma, J Wang, J Cheng - International Journal of Intelligent Systems" 
+--- 
+Currently, named entity recognition (NER) is mainly evaluated on standard and wellannotated data sets. However, the construction of a wellannotated data set will consume a lot of manpower and time. In lots of applications of NER, data sets may contain a lot of noise, and a large part of noise comes from unlabeled entities. At present, the training process of most models treat unlabeled entities as nonentities, which causes these models to lean toward predicting most words of an input context Cites: Deep contextualized word representations

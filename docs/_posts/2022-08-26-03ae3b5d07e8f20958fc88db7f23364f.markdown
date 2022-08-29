@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "SimLDA: A tool for topic model evaluation" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "R Taylor, JA Preez - arXiv preprint arXiv:2208.09299, 2022" 
+--- 
+Variational Bayes (VB) applied to latent Dirichlet allocation (LDA) has become the most popular algorithm for aspect modeling. While sufficiently successful in text topic extraction from large corpora, VB is less successful in identifying aspects in the presence of limited data. We present a novel variational message passing algorithm as applied to Latent Dirichlet Allocation (LDA) and compare it with the gold standard VB and collapsed Gibbs sampling. In situations where marginalisation leads to non Cites: Reading tea leaves: How humans interpret topic models

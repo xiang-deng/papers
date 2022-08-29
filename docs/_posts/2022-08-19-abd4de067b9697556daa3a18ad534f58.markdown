@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "CodeBERT-nt: code naturalness via CodeBERT" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "A Khanfir, M Jimenez, M Papadakis, YL Traon - arXiv preprint arXiv:2208.06042, 2022" 
+--- 
+Much of software-engineering research relies on the naturalness of code, the fact that code, in small code snippets, is repetitive and can be predicted using statistical language models like n-gram. Although powerful, training such models on large code corpus is tedious, time-consuming and sensitive to code patterns (and practices) encountered during training. Consequently, these models are often trained on a small corpora and estimate the language naturalness that is relative to a Cites: Codebert: A pre-trained model for programming and natural

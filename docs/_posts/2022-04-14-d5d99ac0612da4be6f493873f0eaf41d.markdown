@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Boosting Adversarial Attacks with Transformed Gradient" 
-date: 2022-04-14 01:14:43 -0400 
-categories: jekyll update 
-author: "Z He, Y Duan, W Zhang, J Zou, Z He, Y Wang, Z Pan - Computers & Security, 2022" 
---- 
-Deep neural networks (DNNs) are vulnerable to adversarial examples, which are crafted by adding imperceptible perturbations to benign examples. Increasing the attack success rate usually requires a larger noise magnitude, which leads to noticeable noise. To this end, we propose a Transformed Gradient method (TG), which achieves a higher attack success rate with lower perturbations against the target model, ie an ensemble of black-box defense models. It consists of three steps Cites: Bert: Pre-training of deep bidirectional transformers for language

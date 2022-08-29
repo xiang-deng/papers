@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Bidirectional Transformer with absolute-position aware relative position encoding for encoding sentences" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "L Qi, Y Zhang, T Liu - Frontiers of Computer Science, 2023" 
+--- 
+Transformers have been widely studied in many natural language processing (NLP) tasks, which can capture the dependency from the whole sentence with a high parallelizability thanks to the multi-head attention and the position-wise feed-forward network. However, the above two components of transformers are position-independent, which causes transformers to be weak in modeling sentence structures. Existing studies commonly utilized positional encoding or mask strategies Cites: A structural probe for finding syntax in word representations

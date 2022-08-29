@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Automatically Finding Optimal Index Structure" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "S Chockchowwat, W Liu, Y Park - arXiv preprint arXiv:2208.03823, 2022" 
+--- 
+Existing learned indexes (eg, RMI, ALEX, PGM) optimize the internal regressor of each node, not the overall structure such as index height, the size of each layer, etc. In this paper, we share our recent findings that we can achieve significantly faster lookup speed by optimizing the structure as well as internal regressors. Specifically, our approach (called AirIndex) expresses the end-to-end lookup time as a novel objective function, and searches for optimal design decisions using a purpose-built Cites: Database learning: Toward a database that becomes smarter

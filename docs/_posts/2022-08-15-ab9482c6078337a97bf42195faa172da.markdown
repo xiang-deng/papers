@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "TagRec++: Hierarchical Label Aware Attention Network for Question Categorization" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "V Viswanathan, M Mohania, V Goyal - arXiv preprint arXiv:2208.05152, 2022" 
+--- 
+Online learning systems have multiple data repositories in the form of transcripts, books and questions. To enable ease of access, such systems organize the content according to a well defined taxonomy of hierarchical nature (subject-chapter-topic). The task of categorizing inputs to the hierarchical labels is usually cast as a flat multi-class classification problem. Such approaches ignore the semantic relatedness between the terms in the input and the tokens in the hierarchical labels. Alternate Cites: REALM: Retrieval-Augmented Language Model Pre-Training

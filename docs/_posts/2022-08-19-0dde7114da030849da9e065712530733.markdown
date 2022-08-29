@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Combating Label Distribution Shift for Active Domain Adaptation" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "S Hwang, S Lee, S Kim, J Ok, S Kwak - arXiv preprint arXiv:2208.06604, 2022" 
+--- 
+We consider the problem of active domain adaptation (ADA) to unlabeled target data, of which subset is actively selected and labeled given a budget constraint. Inspired by recent analysis on a critical issue from label distribution mismatch between source and target in domain adaptation, we devise a method that addresses the issue for the first time in ADA. At its heart lies a novel sampling strategy, which seeks target data that best approximate the entire target distribution as well as being representative Cites: Margin-based active learning for structured output spaces

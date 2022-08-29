@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Careful What You Wish For: on the Extraction of Adversarially Trained Models" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "K Khaled, G Nicolescu, FG de Magalhes - arXiv preprint arXiv:2207.10561, 2022" 
+--- 
+Recent attacks on Machine Learning (ML) models such as evasion attacks with adversarial examples and models stealing through extraction attacks pose several security and privacy threats. Prior work proposes to use adversarial training to secure models from adversarial examples that can evade the classification of a model and deteriorate its performance. However, this protection technique affects the model s decision boundary and its prediction probabilities, hence it might raise model privacy Cites: BERT: Pre-training of Deep Bidirectional Transformers for

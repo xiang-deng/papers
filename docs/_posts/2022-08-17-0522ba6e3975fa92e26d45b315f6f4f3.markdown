@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Graph-Flashback Network for Next Location Recommendation" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "X Rao, L Chen, Y Liu, S Shang, B Yao, P Han - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+Next Point-of Interest (POI) recommendation plays an important role in location-based applications, which aims to recommend the next POIs to users that they are most likely to visit based on their historical trajectories. Existing methods usually use rich side information, or customized POI graphs to capture the sequential patterns among POIs. However, the graphs only focus on connectivity between POIs. Few studies propose to explicitly learn a weighted POI graph, which could reflect the Cites: Embedding entities and relations for learning and inference in

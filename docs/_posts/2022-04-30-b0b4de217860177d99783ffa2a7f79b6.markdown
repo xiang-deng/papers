@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "AR-BERT: Aspect-relation enhanced Aspect-level Sentiment Classification with Multi-modal Explanations" 
-date: 2022-04-30 03:01:01 -0400 
-categories: jekyll update 
-author: "SM Islam, S Bhattacharya - Proceedings of the ACM Web Conference 2022, 2022" 
---- 
-Aspect level sentiment classification (ALSC) is a difficult problem with state-of-the-art models showing less than 80% macro-F1 score on benchmark datasets. Existing models do not incorporate information on aspect-aspect relations in knowledge graphs (KGs), eg DBpedia. Two main challenges stem from inaccurate disambiguation of aspects to KG entities, and the inability to learn aspect representations from the large KGs in joint training with ALSC models. We propose Cites: Aspect level sentiment classification with deep memory network

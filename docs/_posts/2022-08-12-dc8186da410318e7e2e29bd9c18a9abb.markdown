@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Simplified State Space Layers for Sequence Modeling" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "JTH Smith, A Warrington, SW Linderman - arXiv preprint arXiv:2208.04933, 2022" 
+--- 
+Efficiently modeling long-range dependencies is an important goal in sequence modeling. Recently, models using structured state space sequence (S4) layers achieved state-of-the-art performance on many long-range tasks. The S4 layer combines linear state space models (SSMs) with deep learning techniques and leverages the HiPPO framework for online function approximation to achieve high performance. However, this framework led to architectural constraints and Cites: Luna: Linear unified nested attention

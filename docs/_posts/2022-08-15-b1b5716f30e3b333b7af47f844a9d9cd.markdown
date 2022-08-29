@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Attention Hijacking in Trojan Transformers" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "W Lyu, S Zheng, T Ma, H Ling, C Chen - arXiv preprint arXiv:2208.04946, 2022" 
+--- 
+Trojan attacks pose a severe threat to AI systems. Recent works on Transformer models received explosive popularity and the self-attentions are now indisputable. This raises a central question: Can we reveal the Trojans through attention mechanisms in BERTs and ViTs? In this paper, we investigate the attention hijacking pattern in Trojan AIs,\ie, the trigger token``kidnaps the attention weights when a specific trigger is present. We observe the consistent attention hijacking pattern in Cites: What does BERT look at? An analysis of BERT s attention

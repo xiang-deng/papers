@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "BERT (s) to Detect Multiword Expressions" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "D Premasiri, T Ranasinghe - arXiv preprint arXiv:2208.07832, 2022" 
+--- 
+Multiword expressions (MWEs) present groups of words in which the meaning of the whole is not derived from the meaning of its parts. The task of processing MWEs is crucial in many natural language processing (NLP) applications, including machine translation and terminology extraction. Therefore, detecting MWEs is a popular research theme. In this paper, we explore state-of-the-art neural transformers in the task of detecting MWEs. We empirically evaluate several transformer models in the Cites: Bert: Pre-training of deep bidirectional transformers for language

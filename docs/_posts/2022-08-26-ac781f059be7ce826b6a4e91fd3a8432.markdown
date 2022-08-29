@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Z-Code++: A Pre-trained Language Model Optimized for Abstractive Summarization" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "P He, B Peng, L Lu, S Wang, J Mei, Y Liu, R Xu - arXiv preprint arXiv , 2022" 
+--- 
+This paper presents Z-Code++, a new pre-trained language model optimized for abstractive text summarization. The model extends the state of the art encoder-decoder model using three techniques. First, we use a two-phase pre-training process to improve model s performance on low-resource summarization tasks. The model is first pre-trained using text corpora for language understanding, and then is continually pre-trained on summarization corpora for grounded text generation Cites: Muppet: Massive multi-task representations with pre-finetuning

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Tree-structured Transformer for Program Representation Learning" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "W Wang, K Zhang, G Li, S Liu, Z Jin, Y Liu - arXiv preprint arXiv:2208.08643, 2022" 
+--- 
+When using deep learning techniques to model program languages, neural networks with tree or graph structures are widely adopted to capture the rich structural information within program abstract syntax trees (AST). However, long-term/global dependencies widely exist in programs, and most of these neural architectures fail to capture these dependencies. In this paper, we propose Tree-Transformer, a novel recursive tree-structured neural network which aims to overcome the above Cites: Learning Structural Edits via Incremental Tree Transformations

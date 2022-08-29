@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Adapting Task-Oriented Dialogue Models for Email Conversations" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "S Deshmukh, C Lee - arXiv preprint arXiv:2208.09439, 2022" 
+--- 
+Intent detection is a key part of any Natural Language Understanding (NLU) system of a conversational assistant. Detecting the correct intent is essential yet difficult for email conversations where multiple directives and intents are present. In such settings, conversation context can become a key disambiguating factor for detecting the user s request from the assistant. One prominent way of incorporating context is modeling past conversation history like task-oriented dialogue models. However, the Cites: A simple language model for task-oriented dialogue

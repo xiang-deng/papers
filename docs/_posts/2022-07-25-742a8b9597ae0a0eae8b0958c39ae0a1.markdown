@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Leveraging Natural Supervision for Language Representation Learning and Generation" 
-date: 2022-07-25 21:58:40 -0400 
-categories: jekyll update 
-author: "M Chen - arXiv preprint arXiv:2207.10617, 2022" 
---- 
-Recent breakthroughs in Natural Language Processing (NLP) have been driven by language models trained on a massive amount of plain text. While powerful, deriving supervision from textual resources is still an open question. For example, language model pretraining often neglects the rich, freely-available structures in textual data. In this thesis, we describe three lines of work that seek to improve the training and evaluation of neural models using naturally-occurring supervision. We first  Cites: Prefix-tuning: Optimizing continuous prompts for generation

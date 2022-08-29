@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Self-supervised Spectral Clustering with Exemplar Constraints" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "L Bai, Y Zhao, J Liang - Pattern Recognition, 2022" 
+--- 
+As a leading graph clustering technique, spectral clustering is one of the most widely used clustering methods that captures complex clusters in data. However, some of its deficiencies, such as the high computational complexity in eigen decomposition and the guidance without supervised information, limit its real applications. To get rid of the deficiencies, we propose a self-supervised spectral clustering algorithm. In this algorithm, we define an exemplar constraint which reflects the relations between Cites: Learning with Local and Global Consistency.

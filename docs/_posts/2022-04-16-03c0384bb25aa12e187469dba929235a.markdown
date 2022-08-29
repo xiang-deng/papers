@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis" 
-date: 2022-04-16 01:25:48 -0400 
-categories: jekyll update 
-author: "E Hosseini-Asl, W Liu, C Xiong - arXiv preprint arXiv:2204.05356, 2022" 
---- 
-Sentiment analysis is an important task in natural language processing. In recent works, pre-trained language models are often used to achieve state-of-the-art results, especially when training data is scarce. It is common to fine-tune on the downstream task, usually by adding task-specific layers on top of the model. In this paper, we focus on aspect-based sentiment analysis, which involves extracting aspect term, category, and predicting their corresponding polarities. In particular, we are Cites: TOD-BERT: Pre-trained natural language understanding for task

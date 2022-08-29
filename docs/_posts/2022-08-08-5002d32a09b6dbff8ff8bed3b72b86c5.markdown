@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "In Situ Augmentation for Defending Against Adversarial Attacks on Text Classifiers" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "L Xu, L Berti-Equille, A Cuesta-Infante - 2022" 
+--- 
+In text classification, recent research shows that adversarial attack methods can generate sentences that dramatically decrease the classification accuracy of state-of-the-art neural text classifiers. However, very few defense methods have been proposed against these generated high-quality adversarial sentences. In this paper, we propose LMAg (Language-Model-based Augmentation using Gradient Guidance), an in situ data augmentation method as a defense mechanism effective Cites: Certified robustness to adversarial word substitutions

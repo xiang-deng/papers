@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Unsupervised statistical text simplification using pre-trained language modeling for initialization" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Qiang, F Zhang, Y Li, Y Yuan, Y Zhu, X Wu - Frontiers of Computer Science, 2023" 
+--- 
+Unsupervised text simplification has attracted much attention due to the scarcity of high-quality parallel text simplification corpora. Recent an unsupervised statistical text simplification based on phrase-based machine translation system (UnsupPBMT) achieved good performance, which initializes the phrase tables using the similar words obtained by word embedding modeling. Since word embedding modeling only considers the relevance between words, the phrase table in UnsupPBMT Cites: Transomcs: From linguistic graphs to commonsense knowledge

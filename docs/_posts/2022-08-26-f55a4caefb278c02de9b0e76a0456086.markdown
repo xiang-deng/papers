@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Antecedent Predictions Are Dominant for Tree-Based Code Generation" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Dong, G Li, Z Jin - arXiv preprint arXiv:2208.09998, 2022" 
+--- 
+Code generation focuses on the automatic conversion of natural language (NL) utterances into code snippets. The sequence-to-tree (Seq2Tree) methods, eg, TRANX, are proposed for code generation, with the guarantee of the compilability of the generated code, which generate the subsequent Abstract Syntax Tree (AST) node relying on antecedent predictions of AST nodes. Existing Seq2Tree methods tend to treat both antecedent predictions and subsequent predictions equally Cites: Incorporating external knowledge through pre-training for natural

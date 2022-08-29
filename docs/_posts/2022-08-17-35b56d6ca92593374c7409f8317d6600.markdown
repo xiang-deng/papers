@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "LG-FAL: Federated Active Learning Strategy using Local and Global Models" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "SM Kim, SM Bae, SY Yun, H Song" 
+--- 
+Recently, using unlabeled data points of each client in federated learning is attracting attention. Federated active learning is a framework that annotates and utilizes informative unlabeled instances at the client level. In FAL, we observe that there are two types of query selectors, namely global and local only models, and their performance dominance differs across datasets. In this paper, we analyze the advantages of the two query selectors and then propose a new FAL strategy, named Cites: Margin-based active learning for structured output spaces

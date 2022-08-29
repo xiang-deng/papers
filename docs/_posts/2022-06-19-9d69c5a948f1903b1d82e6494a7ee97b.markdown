@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "On the Knowledge Transfer via Pretraining, Distillation and Federated Learning" 
-date: 2022-06-19 07:39:02 -0400 
-categories: jekyll update 
-author: "W Hao - 2022" 
---- 
-Modern machine learning technology based on a revival of deep neural networks has been successfully applied in many pragmatic domains such as computer vision (CV) and natural language processing (NLP). The very standard paradigm is\emph {pre-training}: a large model with billions of parameters is trained on a surrogate task and then adapted to the downstream task of interest via fine-tuning. Knowledge transfer is what makes the pre-training possible, but the scale is what makes it Cites: Well-Read Students Learn Better: On the Importance of Pre

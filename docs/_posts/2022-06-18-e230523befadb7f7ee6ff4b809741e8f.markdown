@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Transition-based Abstract Meaning Representation Parsing with Contextual Embeddings" 
-date: 2022-06-18 03:19:09 -0400 
-categories: jekyll update 
-author: "Y Liang - arXiv preprint arXiv:2206.06229, 2022" 
---- 
-The ability to understand and generate languages sets human cognition apart from other known life forms . We study a way of combing two of the most successful routes to meaning of language--statistical language models and symbolic semantics formalisms--in the task of semantic parsing. Building on a transition-based, Abstract Meaning Representation (AMR) parser, AmrEager, we explore the utility of incorporating pretrained context-aware word embeddings--such as BERT and Cites: Linguistic Knowledge and Transferability of Contextual

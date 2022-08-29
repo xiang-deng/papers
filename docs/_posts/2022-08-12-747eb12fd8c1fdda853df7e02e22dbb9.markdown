@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "More Interpretable Graph Similarity Computation via Maximum Common Subgraph Inference" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "Z Lan, B Hong, Y Ma, F Ma - arXiv preprint arXiv:2208.04580, 2022" 
+--- 
+Graph similarity measurement, which computes the distance/similarity between two graphs, arises in various graph-related tasks. Recent learning-based methods lack interpretability, as they directly transform interaction information between two graphs into one hidden vector and then map it to similarity. To cope with this problem, this study proposes a more interpretable end-to-end paradigm for graph similarity learning, named Similarity Computation via Maximum Common Subgraph Inference Cites: Learning structured text representations

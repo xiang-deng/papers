@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "MENLI: Robust Evaluation Metrics from Natural Language Inference" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "Y Chen, S Eger - arXiv preprint arXiv:2208.07316, 2022" 
+--- 
+Recently proposed BERT-based evaluation metrics perform well on standard evaluation benchmarks but are vulnerable to adversarial attacks, eg, relating to factuality errors. We argue that this stems (in part) from the fact that they are models of semantic similarity. In contrast, we develop evaluation metrics based on Natural Language Inference (NLI), which we deem a more appropriate modeling. We design a preference-based adversarial attack framework and show that our NLI based Cites: Summeval: Re-evaluating summarization evaluation

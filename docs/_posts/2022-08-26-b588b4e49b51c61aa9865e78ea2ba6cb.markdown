@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "GRETEL: Graph Contrastive Topic Enhanced Language Model for Long Document Extractive Summarization" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Q Xie, J Huang, T Saha, S Ananiadou - arXiv preprint arXiv:2208.09982, 2022" 
+--- 
+Recently, neural topic models (NTMs) have been incorporated into pre-trained language models (PLMs), to capture the global semantic information for text summarization. However, in these methods, there remain limitations in the way they capture and integrate the global semantic information. In this paper, we propose a novel model, the graph contrastive topic enhanced language model (GRETEL), that incorporates the graph contrastive topic model with the pre-trained language model Cites: Discourse-Aware Neural Extractive Text Summarization

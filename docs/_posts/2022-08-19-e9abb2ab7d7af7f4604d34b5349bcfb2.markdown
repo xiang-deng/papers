@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "X Xie, P Zhou, H Li, Z Lin, S Yan - arXiv preprint arXiv:2208.06677, 2022" 
+--- 
+Adaptive gradient algorithms borrow the moving average idea of heavy ball acceleration to estimate accurate first-and second-order moments of gradient for accelerating convergence. However, Nesterov acceleration which converges faster than heavy ball acceleration in theory and also in many empirical cases is much less investigated under the adaptive gradient setting. In this work, we propose the ADAptive Nesterov momentum algorithm, Adan for short, to effectively speedup the Cites: Bert: Pre-training of deep bidirectional transformers for language

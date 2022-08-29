@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Cross-domain knowledge distillation for text classification" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "S Zhang, L Jiang, J Tan - Neurocomputing, 2022" 
+--- 
+Most text classification methods achieve great success based on the large-scale annotated data and the pre-trained language models. However, the labeled data is insufficient in practice, and the pre-trained language models are difficult to deploy due to their high computing resources and slow inference speed. In this paper, we propose cross-domain knowledge distillation, where the teacher and student tasks belong to different domains. It not only acquires knowledge from multiple teachers Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

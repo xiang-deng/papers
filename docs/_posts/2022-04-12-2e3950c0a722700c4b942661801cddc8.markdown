@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Incorporating rich syntax information in Grammatical Error Correction" 
-date: 2022-04-12 02:42:38 -0400 
-categories: jekyll update 
-author: "Z Li, K Parnow, H Zhao - Information Processing & Management, 2022" 
---- 
-Abstract Syntax parse trees are a method of representing sentence structure and are often used to provide models with syntax information and enhance downstream task performance. Because grammar and syntax are inherently linked, the incorporation of syntax parse trees in GEC is a natural solution. In this work, we present a method of incorporating syntax parse trees for Grammatical Error Correction (GEC). Building off a strong sequence-to-sequence Transformer baseline, we present a unified parse Cites: A structural probe for finding syntax in word representations

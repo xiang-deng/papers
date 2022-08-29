@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Investigating Monotone Abstractions" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "G Cima, M Console, M Lenzerini, A Poggi - 2022" 
+--- 
+Abstract In Ontology-based Data Management (OBDM), an abstraction of a source query q is a query over the ontology capturing the semantics of q in terms of the concepts and the relations available in the ontology. Since a perfect characterisation of a source query may not exist, the notions of best sound and complete approximations of an abstraction have been introduced and studied in the typical OBDM context, ie, in the case where the ontology is expressed in DL-Lite, and Cites: Combining Horn rules and description logics in CARIN

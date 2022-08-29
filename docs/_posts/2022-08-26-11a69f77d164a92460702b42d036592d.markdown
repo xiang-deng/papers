@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "R Movva, J Lei, S Longpre, A Gupta, C DuBois - arXiv preprint arXiv:2208.09684, 2022" 
+--- 
+Quantization, knowledge distillation, and magnitude pruning are among the most popular methods for neural network compression in NLP. Independently, these methods reduce model size and can accelerate inference, but their relative benefit and combinatorial interactions have not been rigorously studied. For each of the eight possible subsets of these techniques, we compare accuracy vs. model size tradeoffs across six BERT architecture sizes and eight GLUE tasks. We find that Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

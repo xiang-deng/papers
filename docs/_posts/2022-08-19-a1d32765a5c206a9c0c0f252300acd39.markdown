@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Progressive Voronoi Diagram Subdivision: Towards A Holistic Geometric Framework for Exemplar-free Class-Incremental Learning" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "C Ma, Z Ji, Z Huang, Y Shen, M Gao, J Xu - arXiv preprint arXiv:2207.14202, 2022" 
+--- 
+Exemplar-free Class-incremental Learning (CIL) is a challenging problem because rehearsing data from previous phases is strictly prohibited, causing catastrophic forgetting of Deep Neural Networks (DNNs). In this paper, we present iVoro, a holistic framework for CIL, derived from computational geometry. We found Voronoi Diagram (VD), a classical model for space subdivision, is especially powerful for solving the CIL problem, because VD itself can be constructed favorably in an incremental Cites: Learn to grow: A continual structure learning framework for

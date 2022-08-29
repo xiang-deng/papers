@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Interactive Code Generation via Test-Driven User-Intent Formalization" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "SK Lahiri, A Naik, G Sakkas, P Choudhury, C von Veh - arXiv preprint arXiv , 2022" 
+--- 
+Pre-trained large language models (LLMs) such as OpenAI Codex have shown immense potential in automating significant aspects of coding by producing natural code from informal natural language (NL) intent. However, the code produced does not have any correctness guarantees around satisfying user s intent. In fact, it is hard to define a notion of correctness since natural language can be ambiguous and lacks a formal semantics. In this paper, we take a first step towards addressing the problem Cites: A Systematic Evaluation of Large Language Models of Code

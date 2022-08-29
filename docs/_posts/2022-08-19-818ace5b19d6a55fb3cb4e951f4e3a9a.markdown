@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "JAWS: Predictive Inference Under Covariate Shift" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "D Prinster, A Liu, S Saria - arXiv preprint arXiv:2207.10716, 2022" 
+--- 
+We propose\textbf {JAWS}, a series of wrapper methods for distribution-free uncertainty quantification tasks under covariate shift, centered on our core method\textbf {JAW}, the\textbf {JA} ckknife+\textbf {W} eighted with likelihood-ratio weights. JAWS also includes computationally efficient\textbf {A} pproximations of JAW using higher-order influence functions:\textbf {JAWA}. Theoretically, we show that JAW relaxes the jackknife+ s assumption of data exchangeability to achieve the Cites: Understanding black-box predictions via influence functions

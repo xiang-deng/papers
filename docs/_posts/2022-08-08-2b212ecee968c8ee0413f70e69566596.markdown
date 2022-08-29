@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "X Liu, S Zhao, K Su, Y Cen, J Qiu, M Zhang, W Wu - 2022" 
+--- 
+Abstract Knowledge graph (KG) embeddings have been a mainstream approach for reasoning over incomplete KGs. However, limited by their inherently shallow and static architectures, they can hardly deal with the rising focus on complex logical queries, which comprise logical operators, imputed edges, multiple source entities, and unknown intermediate entities. In this work, we present the Knowledge Graph Transformer (kgTransformer) 1 with masked pre-training and fine-tuning strategies Cites: BERT: Pre-training of Deep Bidirectional Transformers for

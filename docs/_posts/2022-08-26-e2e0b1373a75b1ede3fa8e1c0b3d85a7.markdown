@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Incorporating Domain Knowledge through Task Augmentation for Front-End JavaScript Code Generation" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "S Shen, X Zhu, Y Dong, Q Guo, Y Zhen, G Li - arXiv preprint arXiv:2208.10091, 2022" 
+--- 
+Code generation aims to generate a code snippet automatically from natural language descriptions. Generally, the mainstream code generation methods rely on a large amount of paired training data, including both the natural language description and the code. However, in some domain-specific scenarios, building such a large paired corpus for code generation is difficult because there is no directly available pairing data, and a lot of effort is required to manually write the code Cites: Coarse-to-fine decoding for neural semantic parsing

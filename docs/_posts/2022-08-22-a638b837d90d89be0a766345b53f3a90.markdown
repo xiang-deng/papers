@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Exploiting Sentiment and Common Sense for Zero-shot Stance Detection" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "Y Luo, Z Liu, Y Shi, Y Zhang - arXiv preprint arXiv:2208.08797, 2022" 
+--- 
+The stance detection task aims to classify the stance toward given documents and topics. Since the topics can be implicit in documents and unseen in training data for zero-shot settings, we propose to boost the transferability of the stance detection model by using sentiment and commonsense knowledge, which are seldom considered in previous studies. Our model includes a graph autoencoder module to obtain commonsense knowledge and a stance detection module with sentiment and Cites: Knowledge enhanced contextual word representations

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Consistent Dual-MRC Framework for Emotion-Cause Pair Extraction" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Z Cheng, Z Jiang, Y Yin, C Wang, S Ge, Q Gu - ACM Transactions on Information Systems " 
+--- 
+Emotion-cause pair extraction (ECPE) is a recently proposed task that aims to extract the potential clause pairs of emotions and its corresponding causes in a document. In this paper, we propose a new paradigm for the ECPE task. We cast the task as a two-turn machine reading comprehension (MRC) task, ie, the extraction of emotions and causes is transformed to the task of identifying answer clauses from the input document specific to a query. This two-turn MRC formalization brings several key Cites: Neural Reading Comprehension and Beyond

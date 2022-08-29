@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Proximal Gradient Methods for General Smooth Graph Total Variation Model in Unsupervised Learning" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "B Sun, H Chang - Journal of Scientific Computing, 2022" 
+--- 
+Graph total variation methods have been proved to be powerful tools for unstructured data classification. The existing algorithms, such as MBO (short for M erriman, B ence, and O sher) algorithm, can solve such problems very efficiently with the help of Nystrm approximation. However, the strictly theoretical convergence is still unclear due to such approximation. In this paper, we aim at designing a fast operator-splitting algorithm with a low memory footprint and strict convergence guarantee for two Cites: Regularization on discrete spaces

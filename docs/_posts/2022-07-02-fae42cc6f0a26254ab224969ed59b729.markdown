@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Monitoring Shortcut Learning using Mutual Information" 
-date: 2022-07-02 02:42:16 -0400 
-categories: jekyll update 
-author: "M Adnan, Y Ioannou, CY Tsai, A Galloway - arXiv preprint arXiv , 2022" 
---- 
-The failure of deep neural networks to generalize to out-of-distribution data is a well-known problem and raises concerns about the deployment of trained networks in safety-critical domains such as healthcare, finance and autonomous vehicles. We study a particular kind of distribution shift $\unicode {x2013} $ shortcuts or spurious correlations in the training data. Shortcut learning is often only exposed when models are evaluated on real-world data that does not contain the same spurious Cites: Wilds: A benchmark of in-the-wild distribution shifts

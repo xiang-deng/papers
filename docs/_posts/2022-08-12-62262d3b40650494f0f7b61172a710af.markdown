@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Few-shot Learning with Retrieval Augmented Language Models" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "G Izacard, P Lewis, M Lomeli, L Hosseini, F Petroni - arXiv preprint arXiv , 2022" 
+--- 
+Large language models have shown impressive few-shot results on a wide range of tasks. However, when knowledge is key for such results, as is the case for tasks such as question answering and fact checking, massive parameter counts to store knowledge seem to be needed. Retrieval augmented models are known to excel at knowledge intensive tasks without the need for as many parameters, but it is unclear whether they work in few-shot settings. In this work we present Atlas, a carefully Cites: Autoregressive search engines: Generating substrings as

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "GCT: Graph Co-Training for Semi-Supervised Few-Shot Learning" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "R Xu, L Xing, S Shao, L Zhao, B Liu, W Liu, Y Zhou - IEEE Transactions on Circuits , 2022" 
+--- 
+Few-shot learning (FSL), purposing to resolve the problem of data-scarce, has attracted considerable attention in recent years. A popular FSL framework contains two phases:(i) the pre-train phase employs the base data to train a CNN-based feature extractor.(ii) the meta-test phase applies the frozen feature extractor to novel data (novel data has different categories from base data) and designs a classifier for recognition. To correct few-shot data distribution, researchers propose Semi Cites: Learning with Local and Global Consistency.

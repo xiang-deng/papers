@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Affine Loop Invariant Generation via Matrix Algebra" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "Y Ji, H Fu, B Fang, H Chen - International Conference on Computer Aided , 2022" 
+--- 
+Loop invariant generation, which automates the generation of assertions that always hold at the entry of a while loop, has many important applications in program analysis and formal verification. In this work, we target an important category of while loops, namely affine while loops, that are unnested while loops with affine loop guards and variable updates. Such a class of loops widely exists in many programs yet still lacks a general but efficient approach to invariant generation. We propose a Cites: A data driven approach for algebraic loop invariants

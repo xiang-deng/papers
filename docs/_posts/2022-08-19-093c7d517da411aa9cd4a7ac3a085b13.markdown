@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Parallel Hierarchical Transformer with Attention Alignment for Abstractive Multi-Document Summarization" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "Y Ma, L Zong - arXiv preprint arXiv:2208.07845, 2022" 
+--- 
+In comparison to single-document summarization, abstractive Multi-Document Summarization (MDS) brings challenges on the representation and coverage of its lengthy and linked sources. This study develops a Parallel Hierarchical Transformer (PHT) with attention alignment for MDS. By incorporating word-and paragraph-level multi-head attentions, the hierarchical architecture of PHT allows better processing of dependencies at both token and document levels. To guide the decoding towards a Cites: Fast Abstractive Summarization with Reinforce-Selected Sentence

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "2 Related Work" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "M Kasri, M Birjali, M Nabil, A Beni-Hssane, A El-Ansari" 
+--- 
+Word embedding aims to learn distributed vector representations of words by exploiting the existence of a huge amount of contextual information in a large text corpus using different techniques. This idea starts with [30]. They proposed a neural network language model that learns word embeddings by predicting each word based on its preceding contexts. Because this model is not based on a fixed-size context window, it requires more computation. This problem was solved by the C&W Cites: Learning sentiment-specific word embedding for twitter sentiment

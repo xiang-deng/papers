@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Efficient Long-Text Understanding with Short-Text Models" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "M Ivgi, U Shaham, J Berant - arXiv preprint arXiv:2208.00748, 2022" 
+--- 
+Transformer-based pretrained language models (LMs) are ubiquitous across natural language understanding, but cannot be applied to long sequences such as stories, scientific articles and long documents, due to their quadratic complexity. While a myriad of efficient transformer variants have been proposed, they are typically based on custom implementations that require expensive pretraining from scratch. In this work, we propose SLED: SLiding-Encoder and Decoder, a simple approach for Cites: ContractNLI: A dataset for document-level natural language

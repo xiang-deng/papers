@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Hybrid Model of Classification and Generation for Spatial Relation Extraction" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "FWP Li, Q Zhu - arXiv preprint arXiv:2208.06961, 2022" 
+--- 
+Extracting spatial relations from texts is a fundamental task for natural language understanding and previous studies only regard it as a classification task, ignoring those spatial relations with null roles due to their poor information. To address the above issue, we first view spatial relation extraction as a generation task and propose a novel hybrid model HMCGR for this task. HMCGR contains a generation and a classification model, while the former can generate those null-role relations Cites: Understanding spatial relations through multiple modalities

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Are Neighbors Enough? Multi-Head Neural n-gram can be Alternative to Self-attention" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "M Loem, S Takase, M Kaneko, N Okazaki - arXiv preprint arXiv:2207.13354, 2022" 
+--- 
+Impressive performance of Transformer has been attributed to self-attention, where dependencies between entire input in a sequence are considered at every position. In this work, we reform the neural $ n $-gram model, which focuses on only several surrounding representations of each position, with the multi-head mechanism as in Vaswani et al.(2017). Through experiments on sequence-to-sequence tasks, we show that replacing self-attention in Transformer with multi-head neural $ n $-gram Cites: Revisiting Simple Neural Probabilistic Language Models

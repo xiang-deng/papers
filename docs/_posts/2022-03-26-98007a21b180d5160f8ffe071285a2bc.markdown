@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel $ k $-means, and Heat Kernel" 
-date: 2022-03-26 03:19:20 -0400 
-categories: jekyll update 
-author: "S Saito - arXiv preprint arXiv:2203.09888, 2022" 
---- 
-We propose a theoretical framework of multi-way similarity to model real-valued data into hypergraphs for clustering via spectral embedding. For graph cut based spectral clustering, it is common to model real-valued data into graph by modeling pairwise similarities using kernel function. This is because the kernel function has a theoretical connection to the graph cut. For problems where using multi-way similarities are more suitable than pairwise ones, it is natural to model as a Cites: Learning with hypergraphs: Clustering, classification, and

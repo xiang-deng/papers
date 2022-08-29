@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Adversarial Training Methods for Deep Learning: A Systematic Review" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "W Zhao, S Alwidian, QH Mahmoud - Algorithms, 2022" 
+--- 
+Deep neural networks are exposed to the risk of adversarial attacks via the fast gradient sign method (FGSM), projected gradient descent (PGD) attacks, and other attack algorithms. Adversarial training is one of the methods used to defend against the threat of adversarial attacks. It is a training schema that utilizes an alternative objective function to provide model generalization for both adversarial data and clean data. In this systematic review, we focus particularly on adversarial training as Cites: Unlabeled data improves adversarial robustness

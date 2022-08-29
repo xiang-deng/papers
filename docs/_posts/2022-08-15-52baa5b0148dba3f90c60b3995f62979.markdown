@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A General Contextualized Rewriting Framework for Text Summarization" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "G Bao, Y Zhang - arXiv preprint arXiv:2207.05948, 2022" 
+--- 
+The rewriting method for text summarization combines extractive and abstractive approaches, improving the conciseness and readability of extractive summaries using an abstractive model. Exiting rewriting systems take each extractive sentence as the only input, which is relatively focused but can lose necessary background knowledge and discourse context. In this paper, we investigate contextualized rewriting, which consumes the entire document and considers the summary context Cites: Can you unpack that? learning to rewrite questions-in-context

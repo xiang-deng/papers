@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Bag of Tricks and a Strong Baseline for FGVC" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Yu, H Chang, K Lu, G Xie, L Zhang, Z Cai, S Du - Working Notes of CLEF, 2022" 
+--- 
+Fine-grained visual classification (FGVC), as a subclass classification task under the superclass, brings more challenges. However, in addition to fine-grained features, the FungiCLEF 2022 dataset is also characterized by imbalance and rich meta-information. This motivates us to explore the impact of different methods and components in fine-grained classification on FungiCLEF 2022. We explore the impact of different data augmentations, backbones, loss functions, and attention Cites: Randaugment: Practical automated data augmentation with a

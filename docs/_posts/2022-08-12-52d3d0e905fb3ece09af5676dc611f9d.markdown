@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "BUM at CheckThat! 2022: a composite deep learning approach to fake news detection using evidence retrieval" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "D La Barbera, K Roitero, J Mackenzie, D Spina - Working Notes of CLEF, 2022" 
+--- 
+We detail a deep learning approach based on the transformer architecture for performing fake news detection. The proposed approach is composed of a deep learning network which receives as input the claim to be verified, a series of predictions made by other models, and supporting evidence in the form of ranked passages. We validate our approach participating as the BrisbaneUdineMelbourne (BUM) Team in the CLEF2022-CheckThat! Lab (Task 3: Fake News Cites: HoVer: A Dataset for Many-Hop Fact Extraction And Claim

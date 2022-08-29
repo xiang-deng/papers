@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Interpreting Text Classification with Human-Understandable Counterfactual Instances" 
-date: 2022-03-22 03:39:25 -0400 
-categories: jekyll update 
-author: "T Li - 2022" 
---- 
-As the omnipresent machine learning models play increasingly important roles in our society, powerful interpretation tools to uncover their black boxes are needed. On the other hand, proven by psychological study, we humans are more likely to learn new concepts presented with contrastive instances. Therefore, interpreting ML models using the contrast between the original data instance and its counterfactuals has become a popular problem. Traditional counterfactual interpretation approaches Cites: Anchors: High-Precision Model-Agnostic Explanations

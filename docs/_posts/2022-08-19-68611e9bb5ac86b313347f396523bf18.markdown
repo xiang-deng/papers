@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Game for Crowdsourcing Adversarial Examples for False Information Detection" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "J Cegin, J Simko, P Brusilovsky - 2022" 
+--- 
+False information detection models are susceptible to adversarial attacks. Such susceptibility is a critical weakness of detection models. Automated creation of adversarial samples can ultimately help to augment training sets and create more robust detection models. However, automatically generated adversarial samples often do not preserve the information contained in the original text, leading to information loss. There is a need for adversarial sample generators that can preserve Cites: Trick me if you can: Human-in-the-loop generation of adversarial

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Preventing Oversmoothing in VAE via Generalized Variance Parameterization" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "Y Takida, WH Liao, CH Lai, T Uesaka, S Takahashi - Neurocomputing, 2022" 
+--- 
+Variational autoencoders (VAEs) often suffer from posterior collapse, which is a phenomenon in which the learned latent space becomes uninformative. This is often related to the hyperparameter resembling the data variance. It can be shown that an inappropriate choice of this hyperparameter causes the oversmoothness in the linearly approximated case and can be empirically verified for the general cases. Moreover, determining such appropriate choice becomes infeasible if the data Cites: Spherical Latent Spaces for Stable Variational Autoencoders

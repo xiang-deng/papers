@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Representing Knowledge by Spans: A Knowledge-Enhanced Model for Information Extraction" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "J Li, Y Katsis, T Baldwin, HC Kim, A Bartko, J McAuley - arXiv preprint arXiv , 2022" 
+--- 
+Knowledge-enhanced pre-trained models for language representation have been shown to be more effective in knowledge base construction tasks (ie,~ relation extraction) than language models such as BERT. These knowledge-enhanced language models incorporate knowledge into pre-training to generate representations of entities or relationships. However, existing methods typically represent each entity with a separate embedding. As a result, these methods Cites: Entity, relation, and event extraction with contextualized span

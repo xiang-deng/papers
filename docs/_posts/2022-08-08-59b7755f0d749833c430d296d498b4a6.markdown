@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Success of Uncertainty-Aware Deep Models Depends on Data Manifold Geometry" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "M Penrod, H Termotto, V Reddy, J Yao, F Doshi-Velez - arXiv preprint arXiv , 2022" 
+--- 
+For responsible decision making in safety-critical settings, machine learning models must effectively detect and process edge-case data. Although existing works show that predictive uncertainty is useful for these tasks, it is not evident from literature which uncertainty-aware models are best suited for a given dataset. Thus, we compare six uncertainty-aware deep learning models on a set of edge-case tasks: robustness to adversarial attacks as well as out-of-distribution and adversarial Cites: Wilds: A benchmark of in-the-wild distribution shifts

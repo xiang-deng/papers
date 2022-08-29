@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Harnessing noise to enhance robustness vs. efficiency trade-off in machine learning" 
-date: 2022-05-05 02:23:22 -0400 
-categories: jekyll update 
-author: "AD Patil - 2021" 
---- 
-While deep nets have achieved human-comparable accuracy in various classification tasks, they fall short significantly in terms of the robustness and cost metrics. For example, tiny engineered corruptions in deep net inputs can reduce their accuracy to zero. Furthermore, deep nets also require millions of trainable parameters, resulting in significant training and inference costs. These robustness and cost challenges are well recognized today. In response, there have been a Cites: Understanding and mitigating the tradeoff between robustness and

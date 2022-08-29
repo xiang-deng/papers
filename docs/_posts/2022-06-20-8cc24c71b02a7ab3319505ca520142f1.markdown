@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Solar: Science of Entity Loss Attribution" 
-date: 2022-06-20 23:00:52 -0400 
-categories: jekyll update 
-author: "A Mourya, P Sircar, A Majumder, D Gupta - 2022" 
---- 
-The ability to accurately pinpoint the location of an event (eg loss, fault or bug) is of fundamental requirement in many systems. While we have state-of-the-art models to predict likelihood of an outcome, being able to pinpoint to the entity responsible for the outcome is also important. For example, in an e-commerce setup, a lost package detection system needs to infer the reason or location (delivery station, sort center, trucks) in case of a missing item, a network management system would like to Cites: Graph-based, self-supervised program repair from diagnostic

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ASTRO: An AST-Assisted Approach for Generalizable Neural Clone Detection" 
+date: 2022-08-22 23:37:16 -0400 
+categories: jekyll update 
+author: "Y Zhang, J Yang, H Dong, Q Wang, H Shao, K Leach - arXiv preprint arXiv , 2022" 
+--- 
+Neural clone detection has attracted the attention of software engineering researchers and practitioners. However, most neural clone detection methods do not generalize beyond the scope of clones that appear in the training dataset. This results in poor model performance, especially in terms of model recall. In this paper, we present an Abstract Syntax Tree (AST) assisted approach for generalizable neural clone detection, or ASTRO, a framework for finding clones in codebases Cites: Codebert: A pre-trained model for programming and natural

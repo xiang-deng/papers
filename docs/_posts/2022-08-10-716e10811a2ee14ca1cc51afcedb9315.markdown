@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Styler: learning formatting conventions to repair Checkstyle violations" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "B Loriot, F Madeiral, M Monperrus - Empirical Software Engineering, 2022" 
+--- 
+Ensuring the consistent usage of formatting conventions is an important aspect of modern software quality assurance. To do so, the source code of a project should be checked against the formatting conventions (or rules) adopted by its development team, and then the detected violations should be repaired if any. While the former task can be automatically done by format checkers implemented in linters, there is no satisfactory solution for the latter. Manually fixing formatting convention violations is a Cites: Graph-based, self-supervised program repair from diagnostic

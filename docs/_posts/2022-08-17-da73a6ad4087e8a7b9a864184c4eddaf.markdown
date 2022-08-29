@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "M Sun, K Zhou, X He, Y Wang, X Wang - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+Despite the promising representation learning of graph neural networks (GNNs), the supervised training of GNNs notoriously requires large amounts of labeled data from each application. An effective solution is to apply the transfer learning in graph: using easily accessible information to pre-train GNNs, and fine-tuning them to optimize the downstream task with only a few labels. Recently, many efforts have been paid to design the self-supervised pretext tasks, and encode the universal graph knowledge Cites: Universal adversarial triggers for attacking and analyzing NLP

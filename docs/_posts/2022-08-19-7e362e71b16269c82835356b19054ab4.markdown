@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Efficient Task-Oriented Dialogue Systems with Response Selection as an Auxiliary Task" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "R Cholakov, T Kolev - arXiv preprint arXiv:2208.07097, 2022" 
+--- 
+The adoption of pre-trained language models in task-oriented dialogue systems has resulted in significant enhancements of their text generation abilities. However, these architectures are slow to use because of the large number of trainable parameters and can sometimes fail to generate diverse responses. To address these limitations, we propose two models with auxiliary tasks for response selection-(1) distinguishing distractors from ground truth responses and (2) distinguishing synthetic responses Cites: A simple language model for task-oriented dialogue

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "AdaFS: Adaptive Feature Selection in Deep Recommender System" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "W Lin, X Zhao, Y Wang, T Xu, X Wu - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+Feature selection plays an impactful role in deep recommender systems, which selects a subset of the most predictive features, so as to boost the recommendation performance and accelerate model optimization. The majority of existing feature selection methods, however, aim to select only a fixed subset of features. This setting cannot fit the dynamic and complex environments of practical recommender systems, where the contribution of a specific feature varies significantly across user-item Cites: Neural input search for large scale recommendation models

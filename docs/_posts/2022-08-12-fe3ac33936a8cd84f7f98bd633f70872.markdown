@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "T Chen, R Zhang, G Hinton - arXiv preprint arXiv:2208.04202, 2022" 
+--- 
+We present Bit Diffusion: a simple and generic approach for generating discrete data with continuous diffusion models. The main idea behind our approach is to first represent the discrete data as binary bits, and then train a continuous diffusion model to model these bits as real numbers which we call analog bits. To generate samples, the model first generates the analog bits, which are then thresholded to obtain the bits that represent the discrete variables. We further propose two simple techniques Cites: Boundary Seeking GANs

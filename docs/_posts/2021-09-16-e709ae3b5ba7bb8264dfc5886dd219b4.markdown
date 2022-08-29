@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Uncertainty Estimation Toward Safe AI" 
-date: 2021-09-16 19:19:30 -0400 
-categories: jekyll update 
-author: "S Park - 2021" 
---- 
-Safety critical AI systems interact with environments based on inductively learned predictors, which may not be always correct. To complement the incorrect predictions, quantifying uncertainty on predictions is crucial to guarantee the safety of the AI systems. The major challenge of uncertainty quantification is making theoretical guarantees for the correctness of uncertainty estimation in various environments. In this thesis, we propose novel approaches on quantifying Cites: Verified uncertainty calibration

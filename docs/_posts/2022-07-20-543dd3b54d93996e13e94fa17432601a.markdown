@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Graph Attention Neural Network Distributed Model Training" 
-date: 2022-07-20 21:56:55 -0400 
-categories: jekyll update 
-author: "A Esmaeilzadeh, MEZN Kambar, M Heidari - 2022 IEEE World AI IoT Congress (AIIoT , 2022" 
---- 
-The scale of neural language models has been increasing significantly over recent years. As a result, the time complexity of training larger language models and resource utilization has been increasing at a higher rate as well. In this research, we propose a distributed implementation of a Graph Attention Neural Network model with 120 million parameters and train it on a cluster of eight GPUs. We demonstrate three times speedup in model training while keeping the stability of accuracy and  Cites: Bert: Pre-training of deep bidirectional transformers for language

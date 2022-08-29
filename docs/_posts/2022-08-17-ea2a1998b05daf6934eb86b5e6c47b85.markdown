@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Adapting Pretrained Representations for Text Mining" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "Y Meng, J Huang, Y Zhang, J Han - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+Pretrained text representations, evolving from context-free word embeddings to contextualized language models, have brought text mining into a new era: By pretraining neural models on large-scale text corpora and then adapting them to task-specific data, generic linguistic features and knowledge can be effectively transferred to the target applications and remarkable performance has been achieved on many text mining tasks. Unfortunately, a formidable challenge exists in such a prominent Cites: Language models as knowledge bases?

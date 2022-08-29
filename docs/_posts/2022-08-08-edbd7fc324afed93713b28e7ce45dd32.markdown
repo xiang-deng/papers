@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Hidden Schema Networks" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "RJ Snchez, L Conrads, P Welke, K Cvejoski, C Ojeda - arXiv preprint arXiv , 2022" 
+--- 
+Most modern language models infer representations that, albeit powerful, lack both compositionality and semantic interpretability. Starting from the assumption that a large proportion of semantic content is necessarily relational, we introduce a neural language model that discovers networks of symbols (schemata) from text datasets. Using a variational autoencoder (VAE) framework, our model encodes sentences into sequences of symbols (composed representation), which correspond to the Cites: Vector-based models of semantic composition

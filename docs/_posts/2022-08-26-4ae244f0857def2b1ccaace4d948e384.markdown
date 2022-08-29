@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Unsupervised Question Answering via Answer Diversifying" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Nie, H Huang, Z Chi, XL Mao - arXiv preprint arXiv:2208.10813, 2022" 
+--- 
+Unsupervised question answering is an attractive task due to its independence on labeled data. Previous works usually make use of heuristic rules as well as pre-trained models to construct data and train QA models. However, most of these works regard named entity (NE) as the only answer type, which ignores the high diversity of answers in the real world. To tackle this problem, we propose a novel unsupervised method by diversifying answers, named DiverseQA. Specifically, the proposed Cites: Bidirectional Attention Flow for Machine Comprehension

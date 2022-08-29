@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Sibylvariant Transformations for Robust Text Classification" 
-date: 2022-05-07 02:52:45 -0400 
-categories: jekyll update 
-author: "F Harel-Canada, MA Gulzar, N Peng, M Kim" 
---- 
-The vast majority of text transformation techniques in NLP are inherently limited in their ability to expand input space coverage due to an implicit constraint to preserve the original class label. In this work, we propose the notion of sibylvariance (SIB) to describe the broader set of transforms that relax the labelpreserving constraint, knowably vary the expected class, and lead to significantly more diverse input distributions. We offer a unified framework to organize all data transformations Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

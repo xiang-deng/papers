@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Whitened gradient descent, a new updating method for optimizers in deep neural networks" 
+date: 2022-08-24 22:33:05 -0400 
+categories: jekyll update 
+author: "H Gholamalinejad, H Khosravi - Journal of AI and Data Mining, 2022" 
+--- 
+Optimizers are the vital components of deep neural networks that perform weight updates. This paper introduces a new updating method for optimizers based on a gradient descent called the whitened gradient descent (WGD). This method is easy to implement, and can be used in every optimizer based on the gradient descent algorithm. It does not increase the training time of the network significantly. This method smooths the training curve, and improves the classification metrics. In order Cites: How to Construct Deep Recurrent Neural Networks

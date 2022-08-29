@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "A Liu, X Hu, L Lin, L Wen - arXiv preprint arXiv:2208.03903, 2022" 
+--- 
+The generalizability to new databases is of vital importance to Text-to-SQL systems which aim to parse human utterances into SQL statements. Existing works achieve this goal by leveraging the exact matching method to identify the lexical matching between the question words and the schema items. However, these methods fail in other challenging scenarios, such as the synonym substitution in which the surface form differs between the corresponding question words and schema items. In this Cites: Structure-Grounded Pretraining for Text-to-SQL

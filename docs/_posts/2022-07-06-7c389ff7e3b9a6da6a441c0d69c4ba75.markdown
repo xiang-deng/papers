@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Formalizing Methods for Propositional Model Counting and Enumeration/submitted by Dipl.-Inform. Sibylle Rosa Natalina Mhle-Rotondi" 
-date: 2022-07-06 06:18:13 -0400 
-categories: jekyll update 
-author: "SRN Mhle-Rotondi - 2022" 
---- 
-Many real-world problems, such as probabilistic reasoning, can be formulated as the task of counting the models of a propositional formula, called# SAT. A model of a formula is an assignment to its variables such that the formula evaluates to true. Related to model counting is model enumeration, or All-SAT, in which the models of a formula are recorded. It is applied, eg, in model checking and verification. Both# SAT and All-SAT are therefore of practical relevance. Cites: On the hardness of approximate reasoning

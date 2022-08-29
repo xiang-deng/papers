@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Constrained Language Models for Interactive Poem Generation" 
-date: 2022-07-18 23:00:30 -0400 
-categories: jekyll update 
-author: "A Popescu-Belis, AR Atrio, V Minder, A Xanthos" 
---- 
-This paper describes a system for interactive poem generation, which combines neural language models (LMs) for poem generation with explicit constraints that can be set by users on form, topic, emotion, and rhyming scheme. LMs cannot learn such constraints from the data, which is scarce with respect to their needs even for a well-resourced language such as French. We propose a method to generate verses and stanzas by combining LMs with rule-based algorithms, and compare several  Cites: Chinese poetry generation with recurrent neural networks

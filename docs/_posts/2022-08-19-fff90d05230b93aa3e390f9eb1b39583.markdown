@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Gradual Test-Time Adaptation by Self-Training and Style Transfer" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "RA Marsden, M Dbler, B Yang - arXiv preprint arXiv:2208.07736, 2022" 
+--- 
+Domain shifts at test-time are inevitable in practice. Test-time adaptation addresses this problem by adapting the model during deployment. Recent work theoretically showed that self-training can be a strong method in the setting of gradual domain shifts. In this work we show the natural connection between gradual domain adaptation and test-time adaptation. We publish a new synthetic dataset called CarlaTTA that allows to explore gradual domain shifts during test-time and evaluate Cites: Understanding self-training for gradual domain adaptation

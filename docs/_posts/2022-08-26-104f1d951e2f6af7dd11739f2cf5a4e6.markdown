@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "X Tang, Y Zhou, D Bollegala - arXiv preprint arXiv:2208.10734, 2022" 
+--- 
+Dynamic contextualised word embeddings represent the temporal semantic variations of words. We propose a method for learning dynamic contextualised word embeddings by time-adapting a pretrained Masked Language Model (MLM) using time-sensitive templates. Given two snapshots $ C_1 $ and $ C_2 $ of a corpora taken respectively at two distinct timestamps $ T_1 $ and $ T_2 $, we first propose an unsupervised method to select (a) pivot terms related to both $ C_1 $ and $ C_2 Cites: Making Pre-trained Language Models Better Few-shot Learners

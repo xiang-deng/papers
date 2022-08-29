@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Underwater Robotics Semantic Parser Assistant" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Imyak, P Parekh, C McGuire" 
+--- 
+Semantic parsing is a means of taking natural language and putting it in a form that a computer can understand. There has been a multitude of approaches that take natural language utterances and form them into lambda calculus expressions-mathematical functions to describe logic. Here, we experiment with a sequence to sequence model to take natural language utterances, convert those to lambda calculus expressions, when can then be parsed, and place them in an XML format Cites: An Imitation Game for Learning Semantic Parsers from User

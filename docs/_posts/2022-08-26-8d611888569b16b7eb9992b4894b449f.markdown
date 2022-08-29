@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning Better Masking for Better Language Model Pre-training" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "D Yang, Z Zhang, H Zhao - arXiv preprint arXiv:2208.10806, 2022" 
+--- 
+Masked Language Modeling (MLM) has been widely used as the denoising objective in pre-training language models (PrLMs). Existing PrLMs commonly adopt a random-token masking strategy where a fixed masking ratio is applied and different contents are masked by an equal probability throughout the entire training. However, the model may receive complicated impact from pre-training status, which changes accordingly as training time goes on. In this paper, we show that such time-invariant Cites: Should You Mask 15% in Masked Language Modeling?

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "Q Lin, WJ Zhou, Y Wang, Q Da, QG Chen, B Wang - arXiv preprint arXiv:2208.04022, 2022" 
+--- 
+Sequential recommendation predicts users next behaviors with their historical interactions. Recommending with longer sequences improves recommendation accuracy and increases the degree of personalization. As sequences get longer, existing works have not yet addressed the following two main challenges. Firstly, modeling long-range intra-sequence dependency is difficult with increasing sequence lengths. Secondly, it requires efficient memory and computational speeds Cites: Ask me anything: Dynamic memory networks for natural language

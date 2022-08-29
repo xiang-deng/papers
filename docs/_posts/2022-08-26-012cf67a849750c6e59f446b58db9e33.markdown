@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "R Meng, T Wang, X Yuan, Y Zhou, D He - arXiv preprint arXiv:2208.09606, 2022" 
+--- 
+Training keyphrase generation (KPG) models requires a large amount of annotated data, which can be prohibitively expensive and often limited to specific domains. In this study, we first demonstrate that large distribution shifts among different domains severely hinder the transferability of KPG models. We then propose a three-stage pipeline, which gradually guides KPG models learning focus from general syntactical features to domain-related semantics, in a data-efficient manner. With Cites: Phrase-bert: Improved phrase embeddings from bert with an

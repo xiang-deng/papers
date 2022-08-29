@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "BenchPress: A Deep Active Benchmark Genertor" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "F Tsimpourlas, P Petoumenos, M Xu, C Cummins - arXiv preprint arXiv , 2022" 
+--- 
+We develop BenchPress, the first ML benchmark generator for compilers that is steerable within feature space representations of source code. BenchPress synthesizes compiling functions by adding new code in any part of an empty or existing sequence by jointly observing its left and right context, achieving excellent compilation rate. BenchPress steers benchmark generation towards desired target features that has been impossible for state of the art synthesizers (or indeed humans) Cites: Codebert: A pre-trained model for programming and natural

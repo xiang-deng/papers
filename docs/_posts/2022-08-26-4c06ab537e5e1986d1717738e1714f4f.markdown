@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Security Implications of Large Language Model Code Assistants: A User Study" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "G Sandoval, H Pearce, T Nys, R Karri, B Dolan-Gavitt - arXiv preprint arXiv , 2022" 
+--- 
+Advances in Deep Learning have led to the emergence of Large Language Models (LLMs) such as OpenAI Codex which powers GitHub Copilot. LLMs have been fine tuned and packaged so that programmers can use them in an Integrated Development Environment (IDE) to write code. An emerging line of work is assessing the code quality of code written with the help of these LLMs, with security studies warning that LLMs do not fundamentally have any understanding of the code they Cites: Codebert: A pre-trained model for programming and natural

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Policy Evaluation in Batch Reinforcement Learning" 
-date: 2022-07-04 12:22:48 -0400 
-categories: jekyll update 
-author: "Y Duan - 2022" 
---- 
-Policy evaluation is a central problem in batch reinforcement learning. It refers to the assessment of a given decision policy using logged data. Practical methods for policy evaluation typically involve some form of function approximation so as to relieve issues caused by the enormous scales of real-world systems and the length of planning horizons. The thesis is primarily concerned with statistical analysis of policy evaluation and show how function approximation improves the efficacy of Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

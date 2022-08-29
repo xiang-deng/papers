@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Tuning the Geometry of Graph Neural Networks" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "S Jeong, C Donnat - arXiv preprint arXiv:2207.05887, 2022" 
+--- 
+By recursively summing node features over entire neighborhoods, spatial graph convolution operators have been heralded as key to the success of Graph Neural Networks (GNNs). Yet, despite the multiplication of GNN methods across tasks and applications, the impact of this aggregation operation on their performance still has yet to be extensively analysed. In fact, while efforts have mostly focused on optimizing the architecture of the neural network, fewer works have attempted to Cites: Strategies for pre-training graph neural networks

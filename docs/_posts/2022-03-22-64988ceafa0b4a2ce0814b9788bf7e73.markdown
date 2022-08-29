@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Self-Supervised Deep Learning to Enhance Breast Cancer Detection on Screening Mammography" 
-date: 2022-03-22 03:39:25 -0400 
-categories: jekyll update 
-author: "JD Miller, VA Arasu, AX Pu, LR Margolies, W Sieh - arXiv preprint arXiv , 2022" 
---- 
-A major limitation in applying deep learning to artificial intelligence (AI) systems is the scarcity of high-quality curated datasets. We investigate strong augmentation based self-supervised learning (SSL) techniques to address this problem. Using breast cancer detection as an example, we first identify a mammogram-specific transformation paradigm and then systematically compare four recent SSL methods representing a diversity of approaches. We develop a method to convert a pretrained Cites: Meta-repository of screening mammography classifiers

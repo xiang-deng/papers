@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning Semantic Correspondence with Sparse Annotations" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "S Huang, L Yang, B He, S Zhang, X He, A Shrivastava - arXiv preprint arXiv , 2022" 
+--- 
+Finding dense semantic correspondence is a fundamental problem in computer vision, which remains challenging in complex scenes due to background clutter, extreme intra-class variation, and a severe lack of ground truth. In this paper, we aim to address the challenge of label sparsity in semantic correspondence by enriching supervision signals from sparse keypoint annotations. To this end, we first propose a teacher-student learning paradigm for generating dense pseudo-labels and then Cites: Self-training with noisy student improves imagenet classification

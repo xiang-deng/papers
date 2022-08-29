@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "NLytics at CheckThat! 2022: hierarchical multi-class fake news detection of news articles exploiting the topic structure" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "A Pritzkau, O Blanc, M Geierhos, U Schade - Working Notes of CLEF, 2022" 
+--- 
+The following system description presents our approach to the detection of fake news in texts. The given task has been framed as a multi-class classification problem. In a multi-class classification problem, each input chunk is assigned one of several class labels. To dissect content patterns in the training data, we made use of topic modeling. Topic modeling techniques such as Latent Dirichlet Allocation (LDA) are unsupervised algorithms that pick up on patterns and provide an estimate of what the Cites: Detecting formal thought disorder by deep contextualized word

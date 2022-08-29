@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Semi-supervised Vision Transformers at Scale" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "Z Cai, A Ravichandran, P Favaro, M Wang, D Modolo - arXiv preprint arXiv , 2022" 
+--- 
+We study semi-supervised learning (SSL) for vision transformers (ViT), an under-explored topic despite the wide adoption of the ViT architectures to different tasks. To tackle this problem, we propose a new SSL pipeline, consisting of first un/self-supervised pre-training, followed by supervised fine-tuning, and finally semi-supervised fine-tuning. At the semi-supervised fine-tuning stage, we adopt an exponential moving average (EMA)-Teacher framework instead of the popular Cites: Meta pseudo labels

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Z-BERT-A: a zero-shot Pipeline for Unknown Intent detection" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "D Comi, D Christofidellis, PF Piazza, M Manica - arXiv preprint arXiv:2208.07084, 2022" 
+--- 
+Intent discovery is a fundamental task in NLP, and it is increasingly relevant for a variety of industrial applications (Quarteroni 2018). The main challenge resides in the need to identify from input utterances novel unseen in-tents. Herein, we propose Z-BERT-A, a two-stage method for intent discovery relying on a Transformer architecture (Vaswani et al. 2017; Devlin et al. 2018), fine-tuned with Adapters (Pfeiffer et al. 2020), initially trained for Natural Language Inference (NLI), and later Cites: Adapterhub: A framework for adapting transformers

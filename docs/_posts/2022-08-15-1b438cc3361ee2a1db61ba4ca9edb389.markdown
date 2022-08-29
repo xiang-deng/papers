@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Differential Testing of Pushdown Reachability with a Formally Verified Oracle" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "A Schlichtkrull, MK Schou, J Srba, D Traytel" 
+--- 
+Pushdown automata are an essential model of recursive computation. In model checking and static analysis, numerous problems can be reduced to reachability questions about pushdown automata and several efficient libraries implement automata-theoretic algorithms for answering these questions. These libraries are often used as core components in other tools, and therefore it is instrumental that the used algorithms and their implementations are correct. We present a method that Cites: Learning invariants using decision trees and implication

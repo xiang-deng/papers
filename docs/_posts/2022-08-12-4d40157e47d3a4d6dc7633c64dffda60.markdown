@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Out of the BLEU: how should we assess quality of the Code Generation models?" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "M Evtikhiev, E Bogomolov, Y Sokolov, T Bryksin - arXiv preprint arXiv:2208.03133, 2022" 
+--- 
+In recent years, researchers have created and introduced a significant number of various code generation models. As human evaluation of every new model version is unfeasible, the community adopted automatic evaluation metrics such as BLEU to approximate the results of human judgement. These metrics originate from the machine translation domain and it is unclear whether they are applicable for the code generation tasks and how well do they agree with the human evaluation on this Cites: Codexglue: A machine learning benchmark dataset for code

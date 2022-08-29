@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "An Interpretable Deep Reinforcement Learning Approach to Autonomous Driving" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "Z Song, Y Jiang, J Zhang, P Weng, D Li, W Liu, J Hao" 
+--- 
+This paper investigates a deep reinforcement learning (RL) approach for autonomous driving. Since interpretability is essential for such a high-stake domain, in contrast to previous deep RL work, we exploit a recent neuro-symbolic model called differentiable logic machine to learn an interpretable controller in the form of a first-order logic program. As a proof of concept, we demonstrate the feasibility of our approach on two classical decision-making scenarios in autonomous driving: lane Cites: Neural logic machines

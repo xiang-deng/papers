@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-Of-Distribution Generalization" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Qi, K Tang, Q Sun, XS Hua, H Zhang - arXiv preprint arXiv:2208.03462, 2022" 
+--- 
+Out-Of-Distribution generalization (OOD) is all about learning invariance against environmental changes. If the context in every class is evenly distributed, OOD would be trivial because the context can be easily removed due to an underlying principle: class is invariant to context. However, collecting such a balanced dataset is impractical. Learning on imbalanced data makes the model bias to context and thus hurts OOD. Therefore, the key to OOD is context balance. We argue that the widely Cites: Distributionally robust neural networks for group shifts: On the

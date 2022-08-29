@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models" 
-date: 2022-06-20 23:00:52 -0400 
-categories: jekyll update 
-author: "S Sarsa, P Denny, A Hellas, J Leinonen - education, 2022" 
---- 
-This article explores the natural language generation capabilities of large language models with application to the production of two types of learning resources common in programming courses. Using OpenAI Codex as the large language model, we create programming exercises (including sample solutions and test cases) and code explanations, assessing these qualitatively and quantitatively. Our results suggest that the majority of the automatically generated content is both novel and sensible Cites: Codebert: A pre-trained model for programming and natural

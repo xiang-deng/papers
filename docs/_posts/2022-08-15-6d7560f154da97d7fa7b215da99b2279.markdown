@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Exploiting Syntactic Information to Boost the Fine-tuning of Pre-trained Models" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "C Liu, W Zhu, X Zhang, Q Zhai - 2022 IEEE 46th Annual Computers, Software, and , 2022" 
+--- 
+Recently, pre-trained language models have achieved great success in the field of natural language processing (NLP). NLP downstream tasks have also seen remarkable improvement with the help of pre-trained models. However, syntactic information, such as dependency trees, is ignored in the process of fine-tuning, even though this prior information naturally exists in sentences. In this paper, we propose a model to exploit syntactic information to boost the fine-tuning of pre-trained models Cites: SLM: Learning a discourse language representation with sentence

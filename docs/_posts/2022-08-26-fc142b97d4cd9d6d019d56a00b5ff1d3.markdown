@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Efficient Data-Driven Network Functions" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Z Yao, Y Desmouceaux, JA Cordero-Fuertes" 
+--- 
+Cloud environments require dynamic and adaptive networking policies. It is preferred to use heuristics over advanced learning algorithms in Virtual Network Functions (VNFs) in production becuase of high-performance constraints. This paper proposes Aquarius to passively yet efficiently gather observations and enable the use of machine learning to collect, infer, and supply accurate networking state informationwithout incurring additional signalling and management overhead. This paper Cites: Mvfst-rl: An asynchronous rl framework for congestion control with

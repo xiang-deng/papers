@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "CSSAM: Code Search via Attention Matching of Code Semantics and Structures" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "Y Hu, B Cai, Y Yu - arXiv preprint arXiv:2208.03922, 2022" 
+--- 
+Despite the continuous efforts in improving both the effectiveness and efficiency of code search, two issues remained unsolved. First, programming languages have inherent strong structural linkages, and feature mining of code as text form would omit the structural information contained inside it. Second, there is a potential semantic relationship between code and query, it is challenging to align code and text across sequences so that vectors are spatially consistent during similarity Cites: Codebert: A pre-trained model for programming and natural

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Reducing Conversational Agents Overconfidence Through Linguistic Calibration" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "SJ Mielke, A Szlam, E Dinan, YL Boureau - Transactions of the Association for , 2022" 
+--- 
+While improving neural dialogue agents factual accuracy is the object of much research, another important aspect of communication, less studied in the setting of neural dialogue, is transparency about ignorance. In this work, we analyze to what extent state-of-the-art chit-chat models are linguistically calibrated in the sense that their verbalized expression of doubt (or confidence) matches the likelihood that the model s responses are factually incorrect (or correct). We find that these models are Cites: Ctrl: A conditional transformer language model for controllable

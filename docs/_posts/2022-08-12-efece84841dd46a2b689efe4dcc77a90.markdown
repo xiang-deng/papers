@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Transformer-Encoder and Decoder Models for Questions on Math" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "A Reusch, M Thiele, W Lehner - Proceedings of the Working Notes of CLEF 2022, 2022" 
+--- 
+This work summarizes our submission to ARQMath-3. We pre-trained Transformer-Encoder-based Language Models for the task of mathematical answer retrieval and employed a Transformer-Decoder Model for the generation of answers given a question from a mathematical domain. In comparison to our submission to ARQmath-2, we could improve the performance of our models regarding all three metrics nDGC , mAP and p @ 10 by refined pre-training and enlarged fine-tuning data. In Cites: Codebert: A pre-trained model for programming and natural

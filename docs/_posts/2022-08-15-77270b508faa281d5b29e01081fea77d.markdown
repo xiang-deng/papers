@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Continual Prune-and-Select: Class-incremental learning with specialized subnetworks" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "A Dekhovich, DMJ Tax, MHF Sluiter, MA Bessa - arXiv preprint arXiv:2208.04952, 2022" 
+--- 
+The human brain is capable of learning tasks sequentially mostly without forgetting. However, deep neural networks (DNNs) suffer from catastrophic forgetting when learning one task after another. We address this challenge considering a class-incremental learning scenario where the DNN sees test data without knowing the task from which this data originates. During training, Continual-Prune-and-Select (CP&S) finds a subnetwork within the DNN that is responsible for solving a given Cites: Continual learning via neural pruning

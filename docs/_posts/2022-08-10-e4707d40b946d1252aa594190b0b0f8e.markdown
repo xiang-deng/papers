@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Information flow in Deep Restricted Boltzmann Machines: An analysis of mutual information between inputs and outputs" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "M Vera, LR Vega, P Piantanida - Neurocomputing, 2022" 
+--- 
+Empirical evidence suggests the existence of an entangled relationship between the information flow from inputs features to hidden representations of a deep neural network and its ability to generalize from training samples to unobserved data. For instance, regularization techniques often used to control statistical generalization, are expected to impact this information flow. In this work, we study MI (mutual information) between inputs and representation outputs, and its relationship with Cites: Measuring the usefulness of hidden units in Boltzmann machines

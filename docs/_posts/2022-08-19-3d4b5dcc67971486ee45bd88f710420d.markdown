@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Library for Representing Python Programs as Graphs for Machine Learning" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "D Bieber, K Shi, P Maniatis, C Sutton, V Hellendoorn - arXiv preprint arXiv , 2022" 
+--- 
+Graph representations of programs are commonly a central element of machine learning for code research. We introduce an open source Python library python_graphs that applies static analysis to construct graph representations of Python programs suitable for training machine learning models. Our library admits the construction of control-flow graphs, data-flow graphs, and composite``program graphs that combine control-flow, data-flow, syntactic, and lexical information about a Cites: Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming

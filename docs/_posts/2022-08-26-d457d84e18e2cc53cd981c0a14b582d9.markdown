@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning from Noisy Labels with Coarse-to-Fine Sample Credibility Modeling" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "B Zhang, Y Li, Y Tu, J Peng, Y Wang, C Wu, Y Xiao - arXiv preprint arXiv , 2022" 
+--- 
+Training deep neural network (DNN) with noisy labels is practically challenging since inaccurate labels severely degrade the generalization ability of DNN. Previous efforts tend to handle part or full data in a unified denoising flow via identifying noisy data with a coarse small-loss criterion to mitigate the interference from noisy labels, ignoring the fact that the difficulties of noisy samples are different, thus a rigid and unified data selection pipeline cannot tackle this problem well. In this paper, we first Cites: Dividemix: Learning with noisy labels as semi-supervised learning

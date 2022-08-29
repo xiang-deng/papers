@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "Y Zhou, J Yao, Z Dou, L Wu, P Zhang, JR Wen - arXiv preprint arXiv:2208.09257, 2022" 
+--- 
+Document retrieval has been extensively studied within the index-retrieve framework for decades, which has withstood the test of time. Unfortunately, such a pipelined framework limits the optimization of the final retrieval quality, because indexing and retrieving are separated stages that can not be jointly optimized in an end-to-end manner. In order to unify these two stages, we explore a model-based indexer for document retrieval. Concretely, we propose Ultron, which encodes the knowledge of Cites: Autoregressive search engines: Generating substrings as

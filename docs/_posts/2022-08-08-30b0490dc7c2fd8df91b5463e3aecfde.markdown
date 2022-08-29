@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Towards Understanding Mixture of Experts in Deep Learning" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "Z Chen, Y Deng, Y Wu, Q Gu, Y Li - arXiv preprint arXiv:2208.02813, 2022" 
+--- 
+The Mixture-of-Experts (MoE) layer, a sparsely-activated model controlled by a router, has achieved great success in deep learning. However, the understanding of such architecture remains elusive. In this paper, we formally study how the MoE layer improves the performance of neural network learning and why the mixture model will not collapse into a single model. Our empirical results suggest that the cluster structure of the underlying problem and the non-linearity of the expert are pivotal to Cites: Base layers: Simplifying training of large, sparse models

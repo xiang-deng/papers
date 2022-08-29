@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Boring-yet-effective Approach for the Product Ranking Task of the Amazon KDD Cup 2022" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "V Jeronymo, G Rosa, S Kallumadi, R Lotufo - arXiv preprint arXiv , 2022" 
+--- 
+In this work we describe our submission to the product ranking task of the Amazon KDD Cup 2022. We rely on a receipt that showed to be effective in previous competitions: we focus our efforts towards efficiently training and deploying large language odels, such as mT5, while reducing to a minimum the number of task-specific adaptations. Despite the simplicity of our approach, our best model was less than 0.004 nDCG@ 20 below the top submission. As the top 20 teams achieved an Cites: Rapidly deploying a neural search engine for the covid-19 open

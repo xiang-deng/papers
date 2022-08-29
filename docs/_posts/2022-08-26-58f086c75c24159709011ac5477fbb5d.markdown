@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "MentorGNN: Deriving Curriculum for Pre-Training GNNs" 
+date: 2022-08-26 23:24:20 -0400 
+categories: jekyll update 
+author: "D Zhou, L Zheng, D Fu, J Han, J He - arXiv preprint arXiv:2208.09905, 2022" 
+--- 
+Graph pre-training strategies have been attracting a surge of attention in the graph mining community, due to their flexibility in parameterizing graph neural networks (GNNs) without any label information. The key idea lies in encoding valuable information into the backbone GNNs, by predicting the masked graph signals extracted from the input graphs. In order to balance the importance of diverse graph signals (eg, nodes, edges, subgraphs), the existing approaches are mostly hand Cites: Graph Policy Network for Transferable Active Learning on Graphs

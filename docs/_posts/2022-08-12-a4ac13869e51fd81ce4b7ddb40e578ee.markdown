@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Context aware Named Entity Recognition and Relation Extraction with Domain-specific language model" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "Y Jang, H Song, J Lee, G Kim, Y Kim, SJ Choi, H Lee - 2022" 
+--- 
+ChEMU 2022 tasks 1a and 1b aim to NER (Named Entity Recognition) and EE (Event Extraction) benchmarks. EE is RE (relation extraction) between trigger word and entity. We develop context-aware NER and RE models based on the domain-specific language model and achieve the state-of-the-art performance in ChEMU 2022, the public exact match f1 score of tasks 1a is 96.33, and task 1b is 92.82. For the domain-specific language model, we post-train the Bio-linkBert model with Cites: Analyzing the forgetting problem in pretrain-finetuning of open

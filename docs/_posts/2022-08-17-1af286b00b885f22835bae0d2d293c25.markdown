@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based Optimization" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "M Ye, J Chen, C Miao, T Wang, F Ma - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+Generating text adversarial examples in the hard-label setting is a more realistic and challenging black-box adversarial attack problem, whose challenge comes from the fact that gradient cannot be directly calculated from discrete word replacements. Consequently, the effectiveness of gradient-based methods for this problem still awaits improvement. In this paper, we propose a gradient-based optimization method named LeapAttack to craft high-quality text adversarial examples in the hard Cites: On Evaluation of Adversarial Perturbations for Sequence-to

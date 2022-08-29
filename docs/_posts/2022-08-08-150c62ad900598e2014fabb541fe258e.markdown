@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Improving adversarial robustness via joint classification and multiple explicit detection classes" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "S Baharlouei, F Sheikholeslami, M Razaviyayn" 
+--- 
+This work concerns the development of deep networks that are certifiably robust to adversarial attacks. Joint robust classification-detection was recently introduced as a certified defense mechanism, where adversarial examples are either correctly classified or assigned to the abstain class. In this work, we show that such provable framework can be extended to networks with multiple explicit abstain classes, where the adversarial examples are adaptively assigned to those. While navely adding Cites: Enabling certification of verification-agnostic networks via memory

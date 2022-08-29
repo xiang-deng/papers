@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Adaptive Learning for Weakly Labeled Streams" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "ZY Zhang, YY Qian, YJ Zhang, Y Jiang, ZH Zhou - Proceedings of the 28th ACM , 2022" 
+--- 
+In plenty of real-world applications, data are collected in a streaming fashion, and their accurate labels are hard to obtain. For instance, in the environmental monitoring task, sensors are collecting the data all the time. Still, their labels are scarce because the labeling process requires human effort and can conceal annotation errors. This paper investigates the problem of learning with weakly labeled data streams, in which data are continuously collected, and only a limited subset of streaming data is Cites: Dividemix: Learning with noisy labels as semi-supervised learning

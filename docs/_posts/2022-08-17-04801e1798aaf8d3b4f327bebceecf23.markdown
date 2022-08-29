@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "DeepSumm: Exploiting topic models and sequence to sequence networks for extractive text summarization" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "A Joshi, E Fidalgo, E Alegre, L Fernndez-Robles - Expert Systems with Applications, 2022" 
+--- 
+In this paper, we propose DeepSumm, a novel method based on topic modeling and word embeddings for the extractive summarization of single documents. Recent summarization methods based on sequence networks fail to capture the long range semantics of the document which are encapsulated in the topic vectors of the document. In DeepSumm, our aim is to utilize the latent information in the document estimated via topic vectors and sequence networks to improve the quality and Cites: DeepChannel: Salience Estimation by Contrastive Learning for

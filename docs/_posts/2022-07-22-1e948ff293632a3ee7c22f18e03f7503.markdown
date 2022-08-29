@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Simple, Practical, and Fast Dynamic Truncation Kernel Multiplication" 
-date: 2022-07-22 21:48:17 -0400 
-categories: jekyll update 
-author: "L Qin, S Sarkhel, Z Song, D Zhuo" 
---- 
-Computing the product of a kernel matrix and a vector is the most basic and important operation in high-performance machine learning and scientific computing. The speed for this calculation determines plays a critical role in the overall performance of machine learning training and inference. As dataset sizes rapidly increase, the dimension of the kernel matrix also increase accordingly, and this product computation is increasingly a performance bottleneck. In the meantime, our  Cites: Semi-supervised protein classification using cluster kernels

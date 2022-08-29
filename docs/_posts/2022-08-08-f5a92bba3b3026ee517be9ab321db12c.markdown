@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Graph relation embedding network for click-through rate prediction" 
+date: 2022-08-08 22:47:49 -0400 
+categories: jekyll update 
+author: "Y Wu, Y Hu, X Xiong, X Li, R Guo, S Deng - Knowledge and Information Systems, 2022" 
+--- 
+Most deep click-through rate (CTR) prediction models utilize a mainstream framework, which consists of the embedding layer and the feature interaction layer. Embeddings rich in semantic information directly benefit the downstream frameworks to mine potential information and achieve better performance. However, the embedding layer is rarely optimized in the CTR field. Although mapped into a low-dimensional embedding space, discrete features are still sparse. To solve this Cites: Adaptive Graph Encoder for Attributed Graph Embedding

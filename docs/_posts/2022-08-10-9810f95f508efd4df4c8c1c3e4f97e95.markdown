@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "HULAT-UC3M at SimpleText@ CLEF-2022: Scientific text simplification using BART" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "A Rubio, P Martnez - 2022" 
+--- 
+This paper describes the proposed system developed by HULAT-UC3M research group from Universidad Carlos III de Madrid to solve Task 3 of SimpleText@ CLEF-2022 on scientific text simplification. We present an abstractive approach implemented with BART. BART is a sequence-to-sequence model trained as a denoising autoencoder. In order to fulfill this specific task proposed, it has been fine-tuned to simplify text passages provided by the task organizers. The proposed Cites: Bart: Denoising sequence-to-sequence pre-training for natural

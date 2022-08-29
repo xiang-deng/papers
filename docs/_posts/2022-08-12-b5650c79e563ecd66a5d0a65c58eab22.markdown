@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Neighborhood Collective Estimation for Noisy Label Identification and Correction" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Li, G Li, F Liu, Y Yu - arXiv preprint arXiv:2208.03207, 2022" 
+--- 
+Learning with noisy labels (LNL) aims at designing strategies to improve model performance and generalization by mitigating the effects of model overfitting to noisy labels. The key success of LNL lies in identifying as many clean samples as possible from massive noisy data, while rectifying the wrongly assigned noisy labels. Recent advances employ the predicted label distributions of individual samples to perform noise verification and noisy label correction, easily giving rise to confirmation bias Cites: Dividemix: Learning with noisy labels as semi-supervised learning

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Court Judgement Labeling on HKLII" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "Y Liu, B Kao, MMK Cheung, TH Wu - arXiv preprint arXiv:2208.04225, 2022" 
+--- 
+HKLII has served as the repository of legal documents in Hong Kong for a decade. Our team aims to incorporate NLP techniques into the website to make it more intelligent. To achieve this goal, this individual task is to label each court judgement by some tags. These tags are legally important to summarize the judgement and can guide the user to similar judgements. We introduce a heuristic system to solve the problem, which starts from Aspect-driven Topic Modeling and uses Dependency Cites: Universal dependencies

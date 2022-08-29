@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Unifying local and global model explanations by functional decomposition of low dimensional structures" 
+date: 2022-08-19 23:50:45 -0400 
+categories: jekyll update 
+author: "M Hiabu, JT Meyer, MN Wright - arXiv preprint arXiv:2208.06151, 2022" 
+--- 
+We consider a global explanation of a regression or classification function by decomposing it into the sum of main components and interaction components of arbitrary order. When adding an identification constraint that is motivated by a causal interpretation, we find q-interaction SHAP to be the unique solution to that constraint. Here, q denotes the highest order of interaction present in the decomposition. Our result provides a new perspective on SHAP values with various practical and Cites: Why Should I Trust You? : Explaining the Predictions of Any

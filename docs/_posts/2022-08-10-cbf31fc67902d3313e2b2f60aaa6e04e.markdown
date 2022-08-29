@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "LGLNN: Label Guided Graph Learning-Neural Network for few-shot learning" 
+date: 2022-08-10 23:14:27 -0400 
+categories: jekyll update 
+author: "K Zhao, Z Zhang, B Jiang, J Tang - Neural Networks, 2022" 
+--- 
+Abstract Graph Neural Networks (GNNs) have been employed for few-shot learning (FSL) tasks. The aim of GNN based FSL is to transform the few-shot learning problem into a graph node classification or edge labeling tasks, which can thus fully explore the relationships among samples in support and query sets. However, existing works generally consider the graph learned by node features which ignore the initial pairwise label constraints and thus are generally not guaranteed to be optimal for Cites: Learning with Local and Global Consistency.

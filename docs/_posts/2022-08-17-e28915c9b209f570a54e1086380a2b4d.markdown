@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "User-tag Profile Modeling in Recommendation System via Contrast Weighted Tag Masking" 
+date: 2022-08-17 23:30:16 -0400 
+categories: jekyll update 
+author: "C Zhu, P Du, X Zhu, W Zhang, Y Yu, Y Cao - Proceedings of the 28th ACM SIGKDD , 2022" 
+--- 
+User-tag profile modeling has become one of the novel and significant trends for the future development of industrial recommendation systems, which can be divided into two fundamental tasks: User Preferred Tag (UPT) and Tag Preferred User (TPU) in practical scenarios. In most existing deep learning models for user-tag profiling, the network inputs all the combined tags of the item with the user features when training but inputs only one tag with the user feature to evaluate the user s preference on a Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

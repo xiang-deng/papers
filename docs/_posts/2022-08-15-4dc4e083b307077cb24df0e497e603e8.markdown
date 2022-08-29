@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Rank List Sensitivity of Recommender Systems to Interaction Perturbations" 
+date: 2022-08-15 23:52:26 -0400 
+categories: jekyll update 
+author: "S Oh, B Ustun, J McAuley, S Kumar - 2022" 
+--- 
+Prediction models can exhibit sensitivity with respect to training data: small changes in the training data can produce models that assign conflicting predictions to individual data points during test time. In this work, we study this sensitivity in recommender systems, where users recommendations are drastically altered by minor perturbations in other unrelated users interactions. We introduce a measure of stability for recommender systems, called Rank List Sensitivity (RLS), which Cites: Weight Poisoning Attacks on Pre-trained Models

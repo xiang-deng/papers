@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Global Pointer: Novel Efficient Span-based Approach for Named Entity Recognition" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "J Su, A Murtadha, S Pan, J Hou, J Sun, W Huang - arXiv preprint arXiv , 2022" 
+--- 
+Named entity recognition (NER) task aims at identifying entities from a piece of text that belong to predefined semantic types such as person, location, organization, etc. The state-of-the-art solutions for flat entities NER commonly suffer from capturing the fine-grained semantic information in underlying texts. The existing span-based approaches overcome this limitation, but the computation time is still a concern. In this work, we propose a novel span-based NER framework, namely Global Pointer Cites: Entity, relation, and event extraction with contextualized span

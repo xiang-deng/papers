@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning to Learn to Predict Performance Regressions in Production at Meta" 
+date: 2022-08-12 06:55:03 -0400 
+categories: jekyll update 
+author: "M Beller, H Li, V Nair, V Murali, I Ahmad, J Cito - arXiv preprint arXiv , 2022" 
+--- 
+Catching and attributing code change-induced performance regressions in production is hard; predicting them beforehand, even harder. A primer on automatically learning to predict performance regressions in software, this article gives an account of the experiences we gained when researching and deploying an ML-based regression prediction pipeline at Meta. In this paper, we report on a comparative study with four ML models of increasing complexity, from (1) code Cites: What does BERT look at? An analysis of BERT s attention
