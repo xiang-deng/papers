@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Automatic Index Selection with Learned Cost Estimator" 
+date: 2022-08-31 18:07:14 -0400 
+categories: jekyll update 
+author: "J Gao, N Zhao, N Wang, S Hao, H Wu - Information Sciences, 2022" 
+--- 
+Choosing useful indexes for a relational database is important for efficient query optimization. However, current methods tend to use the cost estimated by the optimizer in the database management system (DBMS) to measure the benefits of the index and, due to inaccurate cost estimates, do not bring to the most optimal solution. In addition, existing reinforcement learning methods treat the creation of different indexes as independent actions, ignoring the relationships among indexes  Cites: Bert: Pre-training of deep bidirectional transformers for language

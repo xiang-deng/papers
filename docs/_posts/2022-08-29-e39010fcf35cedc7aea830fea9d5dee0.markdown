@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Encoding edge type information in graphlets" 
+date: 2022-08-29 19:44:55 -0400 
+categories: jekyll update 
+author: "M Jia, M Van Alboom, L Goubert, P Bracke, B Gabrys - PLOS ONE, 2022" 
+--- 
+Graph embedding approaches have been attracting increasing attention in recent years mainly due to their universal applicability. They convert network data into a vector space in which the graph structural information and properties are maximumly preserved. Most existing approaches, however, ignore the rich information about interactions between nodes, ie, edge attribute or edge type. Moreover, the learned embeddings suffer from a lack of explainability, and cannot be used to study the  Cites: Adaptive Graph Encoder for Attributed Graph Embedding

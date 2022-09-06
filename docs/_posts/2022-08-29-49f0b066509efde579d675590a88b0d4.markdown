@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "SimCGE: Simple Contrastive Learning of Graph Embeddings for Cross-Version Binary Code Similarity Detection" 
+date: 2022-08-29 19:44:55 -0400 
+categories: jekyll update 
+author: "F Xia, G Wu, G Zhao, X Li - International Conference on Information and , 2022" 
+--- 
+Binary code similarity detection (BCSD) has many applications in computer security, whose task is to detect the similarity of two binary functions without having access to the source code. Recently deep learning methods have shown better efficiency, accuracy, and potential in BCSD. Most of them reduce losses by the Siamese network, and they ignore some shortcomings of the Siamese network. In this paper, we introduce the idea of contrastive learning into graph neural networks and  Cites: BERT: pre-training of deep bidirectional transformers for language

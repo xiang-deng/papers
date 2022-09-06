@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "GOLD-FACTUAL: Learning to Generate Faithful Summaries from Models Generations" 
+date: 2022-08-29 19:44:55 -0400 
+categories: jekyll update 
+author: "L Tang, Z Xu" 
+--- 
+In this paper, we propose GOLD-FACTUAL, a new training framework for text summarization that addresses the hallucination problem in abstractive summarization. The framework is built upon GOLD (Pang and He, 2021), an existing offline reinforcement learning training framework that is originally designed to alleviate long-standing problems in conventional maximum likelihood estimation (MLE) training. Instead, GOLD-FACTUAL leverges the offline training of GOLD and  Cites: Optimizing the factual correctness of a summary: A study of

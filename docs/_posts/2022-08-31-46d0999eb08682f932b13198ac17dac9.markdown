@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Efficient Inference for Dynamic Topic Modeling with Large Vocabularies (Supplementary Material)" 
+date: 2022-08-31 18:07:14 -0400 
+categories: jekyll update 
+author: "F Tomasi, M Lalmas, Z Dai" 
+--- 
+To approximate this derivative, we consider a random sample of M words from the vocabulary and use those to approximate the normalisation constant. Consider a sample vector s{1,..., P} M+ Nd, which represents a sample of words in the vocabulary and stores the index of the Nd positive (words appearing in document d) and the index of the M sampled words. Let d, i:= d, i ln (Qdi/P) if yi= 0 (ie, word i does not appear in document d), d, i:= d, i ln (Qdi) otherwise, with Qdi proposal  Cites: Detecting formal thought disorder by deep contextualized word

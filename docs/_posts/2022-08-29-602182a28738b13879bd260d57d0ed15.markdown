@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Continuous Decomposition of Granularity for Neural Paraphrase Generation" 
+date: 2022-08-29 19:44:55 -0400 
+categories: jekyll update 
+author: "X Gu, Z Zhang, SW Lee, KM Yoo, JW Ha" 
+--- 
+While Transformers have had significant success in paragraph generation, they treat sentences as linear sequences of tokens and often neglect their hierarchical information. Prior work has shown that decomposing the levels of granularity (eg, word, phrase, or sentence) for input tokens has produced substantial improvements, suggesting the possibility of enhancing Transformers via more fine-grained modeling of granularity. In this work, we present continuous decomposition of granularity for  Cites: Hierarchical Sketch Induction for Paraphrase Generation

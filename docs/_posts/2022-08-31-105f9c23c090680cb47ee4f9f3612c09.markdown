@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Uncertainty-aware non-autoregressive neural machine translation" 
+date: 2022-08-31 18:07:14 -0400 
+categories: jekyll update 
+author: "C Liu, J Yu - Computer Speech & Language, 2022" 
+--- 
+Most existing non-autoregressive neural machine translation (NAT) models generally employ the posterior probability to indicate the model confidence during training, which seems to lag behind the novel uncertainty estimations (UEs) methods successfully deployed in other natural language processing (NLP) tasks. Previous research has practically ignored the large-scale exploration of UE methods in the NAT problem. In this paper, we propose a strategy based on Active Learning  Cites: Non-autoregressive neural machine translation

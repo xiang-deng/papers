@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "AxFormer: Accuracy-driven Approximation of Transformers for Faster, Smaller and more Accurate NLP Models" 
+date: 2022-08-31 18:07:14 -0400 
+categories: jekyll update 
+author: "A Nagarajan, S Sen, JR Stevens, A Raghunathan" 
+--- 
+Transformers have greatly advanced the state-ofthe-art in Natural Language Processing (NLP) in recent years, but present very large computation and storage requirements. We observe that the design process of Transformers (pre-train a foundation model on a large dataset in a self-supervised manner, and subsequently fine-tune it for different downstream tasks) leads to task-specific models that are highly over-parameterized, adversely impacting both accuracy and inference  Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

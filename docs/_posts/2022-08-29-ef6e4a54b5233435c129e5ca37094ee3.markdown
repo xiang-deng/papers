@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "DPTDR: Deep Prompt Tuning for Dense Passage Retrieval" 
+date: 2022-08-29 19:44:55 -0400 
+categories: jekyll update 
+author: "Z Tang, B Wang, T Yao - arXiv preprint arXiv:2208.11503, 2022" 
+--- 
+Deep prompt tuning (DPT) has gained great success in most natural language processing~(NLP) tasks. However, it is not well-investigated in dense retrieval where fine-tuning~(FT) still dominates. When deploying multiple retrieval tasks using the same backbone model~(eg, RoBERTa), FT-based methods are unfriendly in terms of deployment cost: each new retrieval model needs to repeatedly deploy the backbone model without reuse. To reduce the deployment cost in such a scenario, this work  Cites: Prefix-tuning: Optimizing continuous prompts for generation

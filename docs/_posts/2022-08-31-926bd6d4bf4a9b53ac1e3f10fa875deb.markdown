@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Tensor-based Multi-view Spectral Clustering via Shared Latent Space" 
+date: 2022-08-31 18:07:14 -0400 
+categories: jekyll update 
+author: "Q Tao, F Tonin, P Patrinos, JAK Suykens - arXiv preprint arXiv:2207.11559, 2022" 
+--- 
+Multi-view Spectral Clustering (MvSC) attracts increasing attention due to diverse data sources. However, most existing works are prohibited in out-of-sample predictions and overlook model interpretability and exploration of clustering results. In this paper, a new method for MvSC is proposed via a shared latent space from the Restricted Kernel Machine framework. Through the lens of conjugate feature duality, we cast the weighted kernel principal component analysis problem for MvSC and  Cites: Spectral clustering and transductive learning with multiple views

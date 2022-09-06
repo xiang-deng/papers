@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Predicting Guiding Entities for Entity Aspect Linking" 
+date: 2022-08-31 18:07:14 -0400 
+categories: jekyll update 
+author: "S Chatterjee, L Dietz - 2022" 
+--- 
+Entity linking can disambiguate mentions of an entity in text. However, there are many different aspects of an entity that could be discussed but are not differentiable by entity links, for example, the entity oyster in the context of food or ecosystems. Entity aspect linking provides such fine-grained explicit semantics for entity links by identifying the most relevant aspect of an entity in the given context. We propose a novel entity aspect linking approach that outperforms several neural and non-neural  Cites: OpenMatch: An Open Source Library for Neu-IR Research

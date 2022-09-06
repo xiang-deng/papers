@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Direct Relation Detection for Knowledge-based Question Answering" 
+date: 2022-08-29 19:44:55 -0400 
+categories: jekyll update 
+author: "AS Shamsabadi, R Ramezani, HK Farsani - Expert Systems with , 2022" 
+--- 
+This study addresses the problem of relation detection for answering single-relation factoid questions over knowledge bases (KBs). In this kind of questions, the answer is obtained from a single KB fact in the form of subject-predicate-object. Conventional fact extraction methods have two steps: entity linking and relation detection, in which the output of the entity linking is used by the relation detection step to first find candidate relations, and then choose the best relation from candidate relations. Such  Cites: Semantic Parsing via Staged Query Graph Generation: Question

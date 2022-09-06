@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Auditing Membership Leakages of Multi-Exit Networks" 
+date: 2022-08-29 19:44:55 -0400 
+categories: jekyll update 
+author: "Z Li, Y Liu, X He, N Yu, M Backes, Y Zhang - arXiv preprint arXiv:2208.11180, 2022" 
+--- 
+Relying on the fact that not all inputs require the same amount of computation to yield a confident prediction, multi-exit networks are gaining attention as a prominent approach for pushing the limits of efficient deployment. Multi-exit networks endow a backbone model with early exits, allowing to obtain predictions at intermediate layers of the model and thus save computation time and/or energy. However, current various designs of multi-exit networks are only considered to achieve the best trade  Cites: Green AI
