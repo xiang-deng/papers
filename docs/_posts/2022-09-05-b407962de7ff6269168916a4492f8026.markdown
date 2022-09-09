@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ID and OOD Performance Are Sometimes Inversely Correlated on Real-world Datasets" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "D Teney, SJ Oh, E Abbasnejad - arXiv preprint arXiv:2209.00613, 2022" 
+--- 
+Several studies have empirically compared in-distribution (ID) and out-of-distribution (OOD) performance of various models. They report frequent positive correlations on benchmarks in computer vision and NLP. Surprisingly, they never observe inverse correlations suggesting necessary trade-offs. This matters to determine whether ID performance can serve as a proxy for OOD generalization. This short paper shows that inverse correlations between ID and OOD performance do happen in real-world  Cites: Accuracy on the line: on the strong correlation between out-of

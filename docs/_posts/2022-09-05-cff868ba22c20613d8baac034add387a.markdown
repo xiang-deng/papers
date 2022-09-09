@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Predicting Flaky Tests Categories using Few-Shot Learning" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "A Akli, G Haben, S Habchi, M Papadakis, YL Traon - arXiv preprint arXiv:2208.14799, 2022" 
+--- 
+Flaky tests are tests that yield different outcomes when run on the same version of a program. This non-deterministic behaviour plagues continuous integration with false signals, wasting developers time and reducing their trust in test suites. Studies highlighted the importance of keeping tests flakiness-free. Recently, the research community has been pushing forward the detection of flaky tests by suggesting many static and dynamic approaches. While promising, those approaches mainly focus on  Cites: Codebert: A pre-trained model for programming and natural

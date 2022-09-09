@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Let Me Check the Examples: Enhancing Demonstration Learning via Explicit Imitation" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "S Wang, K Wei, H Zhang, Y Li, W Wu - arXiv preprint arXiv:2209.00455, 2022" 
+--- 
+Demonstration learning aims to guide the prompt prediction via providing answered demonstrations in the few shot settings. Despite achieving promising results, existing work only concatenates the answered examples as demonstrations to the prompt template (including the raw context) without any additional operation, neglecting the prompt-demonstration dependencies. Besides, prior research found that randomly replacing the labels of demonstrations marginally hurts performance, illustrating that  Cites: Rethinking the Role of Demonstrations: What Makes In-Context

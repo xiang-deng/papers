@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "SecurityEval Dataset: Mining Vulnerability Examples to Evaluate Machine Learning-Based Code Generation Techniques" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "ML Siddiq, JCS Santos - 2022" 
+--- 
+Automated source code generation is currently a popular machinelearning-based task. It can be helpful for software developers to write functionally correct code from a given context. However, just like human developers, a code generation model can produce vulnerable code, which the developers can mistakenly use. For this reason, evaluating the security of a code generation model is a must. In this paper, we describe SecurityEval, an evaluation dataset to fulfill this purpose. It contains 130  Cites: Incoder: A generative model for code infilling and synthesis

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Generating Intermediate Steps for NLI with Next-Step Supervision" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "D Ghosal, S Aditya, M Choudhury - arXiv preprint arXiv:2208.14641, 2022" 
+--- 
+The Natural Language Inference (NLI) task often requires reasoning over multiple steps to reach the conclusion. While the necessity of generating such intermediate steps (instead of a summary explanation) has gained popular support, it is unclear how to generate such steps without complete end-to-end supervision and how such generated steps can be further utilized. In this work, we train a sequence-to-sequence model to generate only the next step given an NLI premise and hypothesis  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

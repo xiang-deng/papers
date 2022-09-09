@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Membership Inference Attacks by Exploiting Loss Trajectory" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "Y Liu, Z Zhao, M Backes, Y Zhang - arXiv preprint arXiv:2208.14933, 2022" 
+--- 
+Machine learning models are vulnerable to membership inference attacks in which an adversary aims to predict whether or not a particular sample was contained in the target model s training dataset. Existing attack methods have commonly exploited the output information (mostly, losses) solely from the given target model. As a result, in practical scenarios where both the member and non-member samples yield similarly small losses, these methods are naturally unable to differentiate between them. To  Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

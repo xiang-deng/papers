@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "The Fellowship of the Authors: Disambiguating Names from Social Network Context" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "R Muther, D Smith - arXiv preprint arXiv:2209.00133, 2022" 
+--- 
+Most NLP approaches to entity linking and coreference resolution focus on retrieving similar mentions using sparse or dense text representations. The common Wikification task, for instance, retrieves candidate Wikipedia articles for each entity mention. For many domains, such as bibliographic citations, authority lists with extensive textual descriptions for each entity are lacking and ambiguous named entities mostly occur in the context of other named entities. Unlike prior work  Cites: Effective Use of Context in Noisy Entity Linking

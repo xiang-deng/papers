@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Improved Transformer With Multi-Head Dense Collaboration" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "H Wang, X Shen, M Tu, Y Zhuang, Z Liu - IEEE/ACM Transactions on Audio, Speech , 2022" 
+--- 
+Recently, the attention mechanism boosts the performance of many neural network models in Natural Language Processing (NLP). Among the various attention mechanisms, Multi-Head Attention (MHA) is a powerful and popular variant. MHA helps the model to attend to different feature subspaces independently which is an essential component of Transformer. Despite its success, we conjecture that the different heads of the existing MHA may not collaborate properly. To validate this  Cites: A Mixture of $ h-1$ Heads is Better than $ h $ Heads

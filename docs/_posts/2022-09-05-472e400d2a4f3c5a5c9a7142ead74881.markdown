@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Multi-Scale Contrastive Co-Training for Event Temporal Relation Extraction" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "HR Yao, L Breitfeller, A Naik, C Zhou, C Rose - arXiv preprint arXiv:2209.00568, 2022" 
+--- 
+Extracting temporal relationships between pairs of events in texts is a crucial yet challenging problem for natural language understanding. Depending on the distance between the events, models must learn to differently balance information from local and global contexts surrounding the event pair for temporal relation prediction. Learning how to fuse this information has proved challenging for transformer-based language models. Therefore, we present MulCo: Multi-Scale Contrastive Co  Cites: Joint constrained learning for event-event relation extraction

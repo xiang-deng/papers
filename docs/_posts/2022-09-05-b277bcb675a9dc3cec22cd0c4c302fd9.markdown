@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A multi-head adjacent attention-based pyramid layered model for nested named entity recognition" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "S Cui, I Joe - Neural Computing and Applications, 2022" 
+--- 
+Named entity recognition (NER) is one of the widely studied natural language processing tasks in recent years. Conventional solutions treat the NER as a sequence labeling problem, but these approaches cannot handle nested NER. This is due to the fact that nested NER refers to the case where one entity contains another entity and it is not feasible to tag each token with a single tag. The pyramid model stacks L flat NER layers for prediction, which subtly enumerates all spans with  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

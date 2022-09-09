@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Features Based Adaptive Augmentation for Graph Contrastive Learning" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "A Ali, J Li - arXiv preprint arXiv:2207.01792, 2022" 
+--- 
+Self-Supervised learning aims to eliminate the need for expensive annotation in graph representation learning, where graph contrastive learning (GCL) is trained with the self-supervision signals containing data-data pairs. These data-data pairs are generated with augmentation employing stochastic functions on the original graph. We argue that some features can be more critical than others depending on the downstream task, and applying stochastic function uniformly, will vandalize the  Cites: Pre-training graph neural networks

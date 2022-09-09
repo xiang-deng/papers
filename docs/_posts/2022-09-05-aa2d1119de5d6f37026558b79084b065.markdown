@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "A Novel Gradient Accumulation Method for Calibration of Named Entity Recognition Models" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "G Jouet, C Duhart, J Staiano, F Rousseaux, C de Runz" 
+--- 
+The adoption of deep learning models has brought significant performance improvements across several research fields, such as computer vision and natural language processing. However, their black-box nature yields the downside of poor explainability: in particular, several real-world applications requireto varying extentsreliable confidence scores associated to a model s prediction. The relation between a model s accuracy and confidence is typically referred to as calibration. In this work  Cites: Calibration of Pre-trained Transformers

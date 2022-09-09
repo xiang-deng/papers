@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Incremental Learning, Incremental Backdoor Threats" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "W Jiang, T Zhang, H Qiu, H Li, G Xu - IEEE Transactions on Dependable and Secure , 2022" 
+--- 
+Class incremental learning from a pre-trained DNN model is gaining lots of popularity. Unfortunately, the pre-trained model also introduces a new attack vector, which enables an adversary to inject a backdoor into it and further compromise the downstream models learned from it. Prior works proposed backdoor attacks against the pre-trained models in the transfer learning scenario. However, they become less effective when the adversary does not have the knowledge of the downstream tasks  Cites: Red Alarm for Pre-trained Models: Universal Vulnerability to

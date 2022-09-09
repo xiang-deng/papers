@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Stable Contrastive Learning for Self-Supervised Sentence Embeddings with Pseudo-Siamese Mutual Learning" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "Y Xie, Q Wu, W Chen, T Wang - IEEE/ACM Transactions on Audio, Speech, and , 2022" 
+--- 
+Learning semantic sentence embeddings is beneficial to a variety of natural language processing tasks. Recently, methods using the contrastive learning framework to fine-tune pre-trained language models have been proposed and have achieved significant performance on sentence embeddings. However, sentence embeddings are easy to overfit to the contrastive learning goal. With the training of contrastive learning, the gap between contrastive learning and test tasks leads to  Cites: Whiteningbert: An easy unsupervised sentence embedding

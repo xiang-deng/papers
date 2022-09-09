@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Prompt-Based Prototypical Framework for Continual Relation Extraction" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "H Zhang, B Liang, M Yang, H Wang, R Xu - IEEE/ACM Transactions on Audio, Speech , 2022" 
+--- 
+Continual relation extraction (CRE) is an important task of continual learning, which aims to learn incessantly emerging new relations between entities from texts. To avoid catastrophically forgetting old relations, some existing research efforts have focused on exploring memory replayed methods by storing typical historical learned instances or embedding all observed relations as prototypes in the episodic memory and replaying them in the subsequent training process. However, they generally fail  Cites: Continual Relation Learning via Episodic Memory Activation and

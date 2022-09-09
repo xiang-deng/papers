@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Contrastive Learning with Heterogeneous Graph Attention Networks on Short Text Classification" 
+date: 2022-09-05 21:46:44 -0400 
+categories: jekyll update 
+author: "Z Sun, A Harit, AI Cristea, J Yu, L Shi, N Al Moubayed - 2022" 
+--- 
+Graph neural networks (GNNs) have attracted extensive interest in text classification tasks due to their expected superior performance in representation learning. However, most existing studies adopted the same semi-supervised learning setting as the vanilla Graph Convolution Network (GCN), which requires a large amount of labelled data during training and thus is less robust when dealing with large-scale graph data with fewer labels. Additionally, graph structure information is normally  Cites: A framework for contrastive self-supervised learning and designing
