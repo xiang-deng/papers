@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Selective Text Augmentation with Word Roles for Low-Resource Text Classification" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "B Guo, S Han, H Huang - arXiv preprint arXiv:2209.01560, 2022" 
+--- 
+Data augmentation techniques are widely used in text classification tasks to improve the performance of classifiers, especially in low-resource scenarios. Most previous methods conduct text augmentation without considering the different functionalities of the words in the text, which may generate unsatisfactory samples. Different words may play different roles in text classification, which inspires us to strategically select the proper roles for text augmentation. In this work, we first identify the relationships  Cites: An Empirical Survey of Data Augmentation for Limited Data

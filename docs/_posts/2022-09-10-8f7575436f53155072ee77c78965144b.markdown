@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Inferring Tabular Analysis Metadata by Infusing Distribution and Knowledge Information" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "X He, M Zhou, J Xu, X Lv, T Li, Y Shao, S Han, Z Yuan - arXiv preprint arXiv , 2022" 
+--- 
+Many data analysis tasks heavily rely on a deep understanding of tables (multi-dimensional data). Across the tasks, there exist comonly used metadata attributes of table fields/columns. In this paper, we identify four such analysis metadata: Measure/dimension dichotomy, common field roles, semantic field type, and default aggregation function. While those metadata face challenges of insufficient supervision signals, utilizing existing knowledge and understanding distribution. To  Cites: TABBIE: Pretrained Representations of Tabular Data

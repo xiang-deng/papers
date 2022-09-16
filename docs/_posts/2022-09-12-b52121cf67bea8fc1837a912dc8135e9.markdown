@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "AARGH! End-to-end Retrieval-Generation for Task-Oriented Dialog" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "T Nekvinda, O Duek - arXiv preprint arXiv:2209.03632, 2022" 
+--- 
+We introduce AARGH, an end-to-end task-oriented dialog system combining retrieval and generative approaches in a single model, aiming at improving dialog management and lexical diversity of outputs. The model features a new response selection method based on an action-aware training objective and a simplified single-encoder retrieval architecture which allow us to build an end-to-end retrieval-enhanced generation model where retrieval and generation share most of the  Cites: A simple language model for task-oriented dialogue

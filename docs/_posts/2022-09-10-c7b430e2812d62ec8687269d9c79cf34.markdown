@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Automatic Code Documentation Generation Using GPT-3" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "JY Khan, G Uddin - arXiv preprint arXiv:2209.02235, 2022" 
+--- 
+Source code documentation is an important artifact for efficient software development. Code documentation could greatly benefit from automation since manual documentation is often labouring, resource and time-intensive. In this paper, we employed Codex for automatic code documentation creation. Codex is a GPT-3 based model pre-trained on both natural and programming languages. We find that Codex outperforms existing techniques even with basic settings like one-shot  Cites: Codexglue: A machine learning benchmark dataset for code

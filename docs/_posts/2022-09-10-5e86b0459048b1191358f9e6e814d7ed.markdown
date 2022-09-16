@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Tree-Based Learning in RNNs for Power Consumption Forecasting" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "R Baviera, P Manzoni - arXiv preprint arXiv:2209.01378, 2022" 
+--- 
+A Recurrent Neural Network that operates on several time lags, called an RNN (p), is the natural generalization of an Autoregressive ARX (p) model. It is a powerful forecasting tool when different time scales can influence a given phenomenon, as it happens in the energy sector where hourly, daily, weekly and yearly interactions coexist. The cost-effective BPTT is the industry standard as learning algorithm for RNNs. We prove that, when training RNN (p) models, other learning algorithms turn  Cites: A unified framework of online learning algorithms for training

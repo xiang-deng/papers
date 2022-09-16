@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Towards Robust Uncertainty Estimation in the Presence of Noisy Labels" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "C Pan, B Yuan, W Zhou, X Yao - International Conference on Artificial Neural , 2022" 
+--- 
+In security-critical applications, it is essential to know how confident the model is in its predictions. Many uncertainty estimation methods have been proposed recently, and these methods are reliable when the training data do not contain labeling errors. However, we find that the quality of these uncertainty estimation methods decreases dramatically when noisy labels are present in the training data. In some datasets, the uncertainty estimates would become completely absurd, even though these labeling  Cites: No True State-of-the-Art? OOD Detection Methods are Inconsistent

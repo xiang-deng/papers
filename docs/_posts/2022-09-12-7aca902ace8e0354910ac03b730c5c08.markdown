@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "IDIAPers@ Causal News Corpus 2022: Extracting Cause-Effect-Signal Triplets via Pre-trained Autoregressive Language Model" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "M Fajcik, M Singh, J Zuluaga-Gomez, E Villatoro-Tello - arXiv preprint arXiv , 2022" 
+--- 
+In this paper, we describe our shared task submissions for Subtask 2 in CASE-2022, Event Causality Identification with Casual News Corpus. The challenge focused on the automatic detection of all cause-effect-signal spans present in the sentence from news-media. We detect cause-effect-signal spans in a sentence using T5--a pre-trained autoregressive language model. We iteratively identify all cause-effect-signal span triplets, always conditioning the prediction of the next triplet on the previously  Cites: Minimally supervised event causality identification

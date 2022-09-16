@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Adam Mickiewicz University at WMT 2022: NER-Assisted and Quality-Aware Neural Machine Translation" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "A Nowakowski, G Paka, K Guttmann, M Pokrywka - arXiv preprint arXiv:2209.02962, 2022" 
+--- 
+This paper presents Adam Mickiewicz University s (AMU) submissions to the constrained track of the WMT 2022 General MT Task. We participated in the Ukrainian $\leftrightarrow $ Czech translation directions. The systems are a weighted ensemble of four models based on the Transformer (big) architecture. The models use source factors to utilize the information about named entities present in the input. Each of the models in the ensemble was trained using only the data provided by the  Cites: Stanza: A python natural language processing toolkit for many

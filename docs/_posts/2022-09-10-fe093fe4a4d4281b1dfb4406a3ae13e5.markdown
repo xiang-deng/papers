@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Layer or Representation Space: What makes BERT-based Evaluation Metrics Robust?" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "DNL Vu, NS Moosavi, S Eger - arXiv preprint arXiv:2209.02317, 2022" 
+--- 
+The evaluation of recent embedding-based evaluation metrics for text generation is primarily based on measuring their correlation with human evaluations on standard benchmarks. However, these benchmarks are mostly from similar domains to those used for pretraining word embeddings. This raises concerns about the (lack of) generalization of embedding-based metrics to new and noisy domains that contain a different vocabulary than the pretraining data. In this paper, we examine the  Cites: BARTScore: Evaluating Generated Text as Text Generation

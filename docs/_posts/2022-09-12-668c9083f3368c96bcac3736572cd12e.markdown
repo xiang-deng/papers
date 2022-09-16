@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "X Liu, C Gong, Q Liu - arXiv preprint arXiv:2209.03003, 2022" 
+--- 
+We present rectified flow, a surprisingly simple approach to learning (neural) ordinary differential equation (ODE) models to transport between two empirically observed distributions\pi_0 and\pi_1, hence providing a unified solution to generative modeling and domain transfer, among various other tasks involving distribution transport. The idea of rectified flow is to learn the ODE to follow the straight paths connecting the points drawn from\pi_0 and\pi_1 as much as possible  Cites: Diffusion-LM Improves Controllable Text Generation

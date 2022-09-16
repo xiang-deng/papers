@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Zero-shot Aspect-level Sentiment Classification via Explicit Utilization of Aspect-to-Document Sentiment Composition" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "P Deng, J Yuan, Y Zhao, B Qin - arXiv preprint arXiv:2209.02276, 2022" 
+--- 
+As aspect-level sentiment labels are expensive and labor-intensive to acquire, zero-shot aspect-level sentiment classification is proposed to learn classifiers applicable to new domains without using any annotated aspect-level data. In contrast, document-level sentiment data with ratings are more easily accessible. In this work, we achieve zero-shot aspect-level sentiment classification by only using document-level reviews. Our key intuition is that the sentiment representation of a document is composed of  Cites: Universal natural language processing with limited annotations

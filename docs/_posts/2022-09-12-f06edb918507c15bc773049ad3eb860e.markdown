@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "VulCurator: A Vulnerability-Fixing Commit Detector" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "TG Nguyen, T Le-Cong, HJ Kang, XBD Le, D Lo - arXiv preprint arXiv:2209.03260, 2022" 
+--- 
+Open-source software (OSS) vulnerability management process is important nowadays, as the number of discovered OSS vulnerabilities is increasing over time. Monitoring vulnerability-fixing commits is a part of the standard process to prevent vulnerability exploitation. Manually detecting vulnerability-fixing commits is, however, time consuming due to the possibly large number of commits to review. Recently, many techniques have been proposed to automatically detect vulnerability-fixing  Cites: Codebert: A pre-trained model for programming and natural

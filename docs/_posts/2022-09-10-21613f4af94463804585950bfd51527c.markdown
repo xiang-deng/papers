@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Low precision decentralized distributed training over IID and non-IID data" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "SA Aketi, S Kodge, K Roy - Neural Networks, 2022" 
+--- 
+Decentralized distributed learning is the key to enabling large-scale machine learning (training) on the edge devices utilizing private user-generated local data, without relying on the cloud. However, practical realization of such on-device training is limited by the communication and compute bottleneck. In this paper, we propose and show the convergence of low precision decentralized training that aims to reduce the computational complexity and communication cost of decentralized  Cites: Evolving normalization-activation layers

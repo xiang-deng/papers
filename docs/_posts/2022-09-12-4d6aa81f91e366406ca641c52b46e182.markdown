@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ReX: A Framework for Generating Local Explanations to Recurrent Neural Networks" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "J Liu, X Zhang - arXiv preprint arXiv:2209.03798, 2022" 
+--- 
+We propose a general framework to adapt various local explanation techniques to recurrent neural networks. In particular, our explanations add temporal information, which expand explanations generated from existing techniques to cover data points that have different lengths compared to the original input data point. Our approach is general as it only modifies the perturbation model and feature representation of existing techniques without touching their core algorithms. We have instantiated our  Cites: Anchors: High-Precision Model-Agnostic Explanations

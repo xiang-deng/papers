@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Bi-objective Trade-off with Dynamic Barrier Gradient Descent" 
+date: 2022-09-15 00:14:14 -0400 
+categories: jekyll update 
+author: "C Gong, X Liu, Q Liu - Advances in neural information processing systems, 2021" 
+--- 
+Many machine learning tasks have to make a trade-off between two loss functions, typically the main data-fitness loss and an auxiliary loss. The most widely used approach is to optimize the linear combination of the objectives, which, however, requires manual tuning of the combination coefficient and is theoretically unsuitable for non-convex functions. In this work, we consider constrained optimization as a more principled approach for trading off two losses, with a special emphasis on  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

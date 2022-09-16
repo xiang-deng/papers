@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "HQLgen: deep learning based HQL query generation from program context" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "Z Zhou, H Yu, G Fan, Z Huang, K Yang, J Zhang - Automated Software Engineering, 2022" 
+--- 
+Abstract To facilitate Object-Oriented Programming (OOP) in data persistence, practitioners use Object Relational-Mapping (ORM) framework to map data bidirectionally between data classes and tables of Relational Database Management System (RDBMS). In terms of Java applications, the most trending ORM solution is Hibernate, where Hibernate Query Language (HQL) is proposed to perform customizable queries in an OOP style. However, HQL queries are hard to implement  Cites: Global Reasoning over Database Structures for Text-to-SQL Parsing

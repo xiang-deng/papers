@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Semi-Supervised Clustering via Dynamic Graph Structure Learning" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "H Ling, C Bao, X Liang, Z Shi - arXiv preprint arXiv:2209.02513, 2022" 
+--- 
+Most existing semi-supervised graph-based clustering methods exploit the supervisory information by either refining the affinity matrix or directly constraining the low-dimensional representations of data points. The affinity matrix represents the graph structure and is vital to the performance of semi-supervised graph-based clustering. However, existing methods adopt a static affinity matrix to learn the low-dimensional representations of data points and do not optimize the affinity matrix  Cites: Learning with hypergraphs: Clustering, classification, and

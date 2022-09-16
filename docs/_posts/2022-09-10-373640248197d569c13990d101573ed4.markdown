@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "GRASP: A Goodness-of-Fit Test for Classification Learning" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "A Javanmard, M Mehrabi - arXiv preprint arXiv:2209.02064, 2022" 
+--- 
+Performance of classifiers is often measured in terms of average accuracy on test data. Despite being a standard measure, average accuracy fails in characterizing the fit of the model to the underlying conditional law of labels given the features vector ($ Y| X $), eg due to model misspecification, over fitting, and high-dimensionality. In this paper, we consider the fundamental problem of assessing the goodness-of-fit for a general binary classifier. Our framework does not make any parametric assumption  Cites: Verified uncertainty calibration

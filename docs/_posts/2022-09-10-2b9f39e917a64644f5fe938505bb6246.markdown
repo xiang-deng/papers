@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Hypergraph convolutional neural network-based clustering technique" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "LH Tran, N Trinh, LH Tran - arXiv preprint arXiv:2209.01391, 2022" 
+--- 
+This paper constitutes the novel hypergraph convolutional neural networkbased clustering technique. This technique is employed to solve the clustering problem for the Citeseer dataset and the Cora dataset. Each dataset contains the feature matrix and the incidence matrix of the hypergraph (ie, constructed from the feature matrix). This novel clustering method utilizes both matrices. Initially, the hypergraph auto-encoders are employed to transform both the incidence matrix and the feature matrix  Cites: Learning with hypergraphs: Clustering, classification, and

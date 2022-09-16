@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Improving sequence labeling with labeled clue sentences" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "Q Wang, Z Wen, K Ding, Q Zhao, M Yang, X Yu, R Xu - Knowledge-Based Systems, 2022" 
+--- 
+Pre-trained language models (PLMs) have achieved noticeable success on a variety of natural language processing tasks, such as sequence labeling. In particular, the existing sequence labeling methods fine-tune PLMs on large-scale labeled data, which can avoid training the sequence labeling models from scratch. The fine-tuning process still requires large amounts of labeled training data so as to be effective. However, obtaining rich annotated data for sequence labeling is a time-consuming  Cites: Fine-tuning pretrained language models: Weight initializations

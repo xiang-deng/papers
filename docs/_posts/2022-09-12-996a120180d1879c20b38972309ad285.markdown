@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Neural Network Accelerated Tuple Search For Relational Data" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "L Ma, KQ Pu - 2022 IEEE 23rd International Conference on , 2022" 
+--- 
+In this paper, we study the relational data search problem in which users can issue semi-structured keyword queries to search through a database of multiple relations. Traditional text indexes suffer from performance issues when we allow search queries with fuzzy text matching. Using NLP inspired neural networks, we are able to overcome the performance issues by a predictive index access optimization. The neural network that performs the query optimization is learned in an unsupervised  Cites: TaBERT: Pretraining for Joint Understanding of Textual and

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Speeding up neural network robustness verification via algorithm configuration and an optimised mixed integer linear programming solver portfolio" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "M Knig, HH Hoos, JN Rijn - Machine Learning, 2022" 
+--- 
+Despite their great success in recent years, neural networks have been found to be vulnerable to adversarial attacks. These attacks are often based on slight perturbations of given inputs that cause them to be misclassified. Several methods have been proposed to formally prove robustness of a given network against such attacks. However, these methods typically give rise to high computational demands, which severely limit their scalability. Recent state-of-the-art approaches state the  Cites: Certified defenses against adversarial examples

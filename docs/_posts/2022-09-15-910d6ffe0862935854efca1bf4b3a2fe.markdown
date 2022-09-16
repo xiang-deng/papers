@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Kelpie: an Explainability Framework for Embedding-based Link Prediction Models" 
+date: 2022-09-15 00:14:14 -0400 
+categories: jekyll update 
+author: "A Rossi, D Firmani, P Merialdo, T Teofili" 
+--- 
+The latest generations of Link Prediction (LP) models rely on embeddings to tackle incompleteness in Knowledge Graphs, achieving great performance at the cost of interpretability. Their opaqueness limits the trust that users can place in them, hindering their adoption in real-world applications. We have recently introduced Kelpie, an explainability framework tailored specifically for embeddingbased LP models. Kelpie can be applied to any embedding-based LP model, and supports two  Cites: Observed versus latent features for knowledge base and text

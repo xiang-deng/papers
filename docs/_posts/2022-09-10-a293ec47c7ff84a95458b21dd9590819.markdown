@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Explanation Guided Contrastive Learning for Sequential Recommendation" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "L Wang, EP Lim, Z Liu, T Zhao - arXiv preprint arXiv:2209.01347, 2022" 
+--- 
+Recently, contrastive learning has been applied to the sequential recommendation task to address data sparsity caused by users with few item interactions and items with few user adoptions. Nevertheless, the existing contrastive learning-based methods fail to ensure that the positive (or negative) sequence obtained by some random augmentation (or sequence sampling) on a given anchor user sequence remains to be semantically similar (or different). When the positive and negative  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

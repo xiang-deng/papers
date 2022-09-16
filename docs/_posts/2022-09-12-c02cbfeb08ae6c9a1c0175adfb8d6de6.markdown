@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "IDIAPers@ Causal News Corpus 2022: Efficient Causal Relation Identification Through a Prompt-based Few-shot Approach" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "S Burdisso, J Zuluaga-Gomez, E Villatoro-Tello - arXiv preprint arXiv , 2022" 
+--- 
+In this paper, we describe our participation in the subtask 1 of CASE-2022, Event Causality Identification with Casual News Corpus. We address the Causal Relation Identification (CRI) task by exploiting a set of simple yet complementary techniques for fine-tuning language models (LMs) on a small number of annotated examples (ie, a few-shot configuration). We follow a prompt-based prediction approach for fine-tuning LMs in which the CRI task is treated as a masked language modeling problem  Cites: Pre-train, prompt, and predict: A systematic survey of prompting

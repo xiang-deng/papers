@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ReasonFuse: Reason Path Driven and Global-Local Fusion Network for Numerical Table-Text Question Answering" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "Y Xia, F Li, Q Liu, L Jin, Z Zhang, X Sun, L Shao - Neurocomputing, 2022" 
+--- 
+Abstract Numerical Table-Text Question Answering aims to predict the program over heterogeneous tabular and textual information, which has recently attracted strong attention in the NLP research community. Current state-of-the-art methods typically use a Seq2Seq-based model to predict programs, which may suffer from the inherent limitations of error propagation. Also, existing models just combine table-text context information and previously predicted operation when reasoning. This approach may  Cites: Neural symbolic reader: Scalable integration of distributed and

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "EnergonAI: An Inference System for 10-100 Billion Parameter Transformer Models" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "J Du, Z Liu, J Fang, S Li, Y Li, Y Lu, Y You - arXiv preprint arXiv:2209.02341, 2022" 
+--- 
+Large transformer models display promising performance on a wide range of natural language processing (NLP) tasks. Although the AI community has expanded the model scale to the trillion parameter level, the practical deployment of 10-100 billion parameter models is still uncertain due to the latency, throughput, and memory constraints. In this paper, we proposed EnergonAI to solve the challenges of the efficient deployment of 10-100 billion parameter transformer models on single-or  Cites: BMInf: An Efficient Toolkit for Big Model Inference and Tuning

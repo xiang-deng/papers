@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Knowledge-enhanced Iterative Instruction Generation and Reasoning for Knowledge Base Question Answering" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "H Du, Q Huang, C Zhang, D Zhao - arXiv preprint arXiv:2209.03005, 2022" 
+--- 
+Multi-hop Knowledge Base Question Answering (KBQA) aims to find the answer entity in a knowledge base which is several hops from the topic entity mentioned in the question. Existing Retrieval-based approaches first generate instructions from the question and then use them to guide the multi-hop reasoning on the knowledge graph. As the instructions are fixed during the whole reasoning procedure and the knowledge graph is not considered in instruction generation, the model cannot  Cites: Semantic Parsing via Staged Query Graph Generation: Question

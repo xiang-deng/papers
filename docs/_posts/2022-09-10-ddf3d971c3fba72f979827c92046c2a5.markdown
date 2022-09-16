@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Evaluation of methods for question answering data generation: Using large language models" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "D Bissessar, A Bois - 2022" 
+--- 
+One of the largest challenges in the field of artificial intelligence and machine learning is the acquisition of a large quantity of quality data to train models on. This thesis investigates and evaluates approaches to data generation in a telecom domain for the task of extractive QA. To do this a pipeline was built using a combination of BERT-like models and T5 models for data generation. We then evaluated our generated data using the downstream task of QA on a telecom domain  Cites: Symbolic knowledge distillation: from general language models to

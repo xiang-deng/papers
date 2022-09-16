@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Lotus: Scalable Multi-Partition Transactions on Single-Threaded Partitioned Databases" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "X Zhou, X Yu, G Graefe, M Stonebraker" 
+--- 
+This paper revisits the H-Store/VoltDB concurrency control scheme for partitioned main-memory databases, which we term run-tocompletion-single-thread (RCST), with an eye toward improving its poor performance on multi-partition (MP) workloads. The original scheme focused on maximizing single partition (SP) performance, producing results in millions of transactions per second on modest clusters, but at the expense of dismal MP performance. In this paper, we show that original RCST  Cites: DBOS: a DBMS-oriented Operating System

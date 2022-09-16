@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Low-Resource Similar Case Matching in Legal Domain" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "J Fang, X Li, Y Liu - International Conference on Artificial Neural Networks, 2022" 
+--- 
+Automatically finding similar cases in legal domain plays can benefit the legal system a lot. However, the annotation of legal document similarities can be time-consuming and expensive. In this study, we focus on low-resource similar case matching in the legal domain, checking which two cases are more similar among a triplet. We propose specifically designed data augmentation techniques for contrastive learning including Truncation, Double-dropout and Prompt, and consider document-level  Cites: CAIL2019-SCM: A Dataset of Similar Case Matching in Legal

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Investigating Reasons for Disagreement in Natural Language Inference" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "NJ Jiang, MC de Marneffe - arXiv preprint arXiv:2209.03392, 2022" 
+--- 
+We investigate how disagreement in natural language inference (NLI) annotation arises. We developed a taxonomy of disagreement sources with 10 categories spanning 3 high-level classes. We found that some disagreements are due to uncertainty in the sentence meaning, others to annotator biases and task artifacts, leading to different interpretations of the label distribution. We explore two modeling approaches for detecting items with potential disagreement: a 4-way classification  Cites: Distributed NLI: Learning to Predict Human Opinion Distributions

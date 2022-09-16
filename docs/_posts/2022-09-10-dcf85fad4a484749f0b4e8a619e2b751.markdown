@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Sentiment interaction and multi-graph perception with graph convolutional networks for aspect-based sentiment analysis" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "Q Lu, X Sun, R Sutcliffe, Y Xing, H Zhang - Knowledge-Based Systems, 2022" 
+--- 
+Graph convolutional networks have been successfully applied to aspect-based sentiment analysis, due to their ability to flexibly capture syntactic information and word dependencies. However, most existing graph network-based models only consider the syntactic dependencies between specific aspects and contexts. These cannot capture the internal semantic correlations within aspect-specific phrases and ignore the sentiment interaction relations between different aspects of a sentence. In  Cites: Aspect level sentiment classification with deep memory network

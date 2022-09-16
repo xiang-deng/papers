@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "PromptAttack: Prompt-based Attack for Language Models via Gradient Search" 
+date: 2022-09-10 00:05:49 -0400 
+categories: jekyll update 
+author: "Y Shi, P Li, C Yin, Z Han, L Zhou, Z Liu - arXiv preprint arXiv:2209.01882, 2022" 
+--- 
+As the pre-trained language models (PLMs) continue to grow, so do the hardware and data requirements for fine-tuning PLMs. Therefore, the researchers have come up with a lighter method called\textit {Prompt Learning}. However, during the investigations, we observe that the prompt learning methods are vulnerable and can easily be attacked by some illegally constructed prompts, resulting in classification errors, and serious security problems for PLMs. Most of the current research ignores  Cites: Exploring the Universal Vulnerability of Prompt-based Learning

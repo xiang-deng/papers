@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Late Breaking Results: Flexible Chip Placement via Reinforcement Learning" 
+date: 2022-09-15 00:14:14 -0400 
+categories: jekyll update 
+author: "FC Chang, YW Tseng, YW Yu, SR Lee, A Cioba - 2022" 
+--- 
+Recently, successful applications of reinforcement learning to chip placement have emerged. Pretrained models are necessary to improve efficiency and effectiveness. Currently, the weights of objective metrics (eg, wirelength, congestion, and timing) are fixed during pretraining. However, fixed-weighed models cannot generate the diversity of placements required for engineers to accommodate changing requirements as they arise. This paper proposes flexible multiple-objective  Cites: A graph placement methodology for fast chip design

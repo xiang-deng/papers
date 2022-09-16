@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "ASCL: Adversarial Supervised Contrastive Learning for Defense Against Word Substitution Attacks" 
+date: 2022-09-12 23:50:28 -0400 
+categories: jekyll update 
+author: "J Shi, L Li, D Zeng - Neurocomputing, 2022" 
+--- 
+Attacks with adversarial examples can tremendously worsen the performance of deep neural networks (DNNs). Hence, defending against such adversarial attacks is crucial for nearly all DNN-based applications. Adversarial training is an effective and extensively adopted approach for increasing the robustness of DNNs in which benign examples and their adversarial counterparts are considered together in the training stage. However, this may result in a decrease in accuracy on benign  Cites: Adversarial Example Generation with Syntactically Controlled
