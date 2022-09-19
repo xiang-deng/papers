@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Enhancing Pre-trained Models with Text Structure Knowledge for Question Generation" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "Z Wu, X Jia, F Qu, Y Wu - arXiv preprint arXiv:2209.04179, 2022" 
+--- 
+Today the pre-trained language models achieve great success for question generation (QG) task and significantly outperform traditional sequence-to-sequence approaches. However, the pre-trained models treat the input passage as a flat sequence and are thus not aware of the text structure of input passage. For QG task, we model text structure as answer position and syntactic dependency, and propose answer localness modeling and syntactic mask attention to address these limitations  Cites: Question generation for question answering

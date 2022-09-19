@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Document-aware Positional Encoding and Linguistic-guided Encoding for Abstractive Multi-document Summarization" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "C Ma, WE Zhang, PDD Pitawela, Y Qu, H Zhuang - arXiv preprint arXiv , 2022" 
+--- 
+One key challenge in multi-document summarization is to capture the relations among input documents that distinguish between single document summarization (SDS) and multi-document summarization (MDS). Few existing MDS works address this issue. One effective way is to encode document positional information to assist models in capturing cross-document relations. However, existing MDS models, such as Transformer-based models, only consider token-level positional information  Cites: Hierarchical transformers for multi-document summarization

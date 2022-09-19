@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender Systems" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "H Chen, X Li, K Zhou, X Hu, CCM Yeh, Y Zheng - Proceedings of the 16th , 2022" 
+--- 
+There has been an explosion of interest in designing various Knowledge Graph Neural Networks (KGNNs), which achieve state-of-the-art performance and provide great explainability for recommendation. The promising performance is mainly resulting from their capability of capturing high-order proximity messages over the knowledge graphs. However, training KGNNs at scale is challenging due to the high memory usage. In the forward pass, the automatic differentiation engines (eg  Cites: Smore: Knowledge graph completion and multi-hop reasoning in

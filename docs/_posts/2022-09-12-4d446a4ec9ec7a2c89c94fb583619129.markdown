@@ -5,4 +5,4 @@ date: 2022-09-12 23:50:28 -0400
 categories: jekyll update 
 author: "H Werner, AP De Vries - 2022" 
 --- 
-Tokenizers convert between heterogeneous natural text and homogeneous sequences of tokens. They are essential components in the pipelines of established NLP models, yet are typically developed as independent artifacts. This is not ideal, because different pipelines components have to be optimized separately. Great success has been archieved with end-to-end learning, where all components are differentiable, and are optimized in unison. Token-free models have been  Cites: Deep contextualized word representations. arXiv
+Tokenizers convert between heterogeneous natural text and homogeneous sequences of tokens. They are essential components in the pipelines of established NLP models, yet are typically developed as independent artifacts. This is not ideal, because different pipelines components have to be optimized separately. Great success has been archieved with end-to-end learning, where all components are differentiable, and are optimized in unison. Token-free models have been Cites: Deep contextualized word representations. arXiv

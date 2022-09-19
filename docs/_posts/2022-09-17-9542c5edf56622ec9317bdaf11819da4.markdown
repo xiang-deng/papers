@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "FP8 Formats for Deep Learning" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "P Micikevicius, D Stosic, N Burgess, M Cornea - arXiv preprint arXiv , 2022" 
+--- 
+FP8 is a natural progression for accelerating deep learning training inference beyond the 16-bit formats common in modern processors. In this paper we propose an 8-bit floating point (FP8) binary interchange format consisting of two encodings-E4M3 (4-bit exponent and 3-bit mantissa) and E5M2 (5-bit exponent and 2-bit mantissa). While E5M2 follows IEEE 754 conventions for representatio of special values, E4M3 s dynamic range is extended by not representing infinities and having  Cites: Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt

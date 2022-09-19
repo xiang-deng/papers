@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "DoubleMix: Simple Interpolation-Based Data Augmentation for Text Classification" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "H Chen, W Han, D Yang, S Poria - arXiv preprint arXiv:2209.05297, 2022" 
+--- 
+This paper proposes a simple yet effective interpolation-based data augmentation approach termed DoubleMix, to improve the robustness of models in text classification. DoubleMix first leverages a couple of simple augmentation operations to generate several perturbed samples for each training data, and then uses the perturbed data and original data to carry out a two-step interpolation in the hidden space of neural models. Concretely, it first mixes up the perturbed data to a synthetic  Cites: Learning question classifiers

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Learning to Prevent Profitless Neural Code Completion" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "Z Sun, X Du, F Song, S Wang, M Ni, L Li - arXiv preprint arXiv:2209.05948, 2022" 
+--- 
+Currently, large pre-trained models are widely applied in neural code completion systems, such as Github Copilot, aiXcoder, and TabNine. Though large models significantly outperform their smaller counterparts, a survey with 2,631 participants reveals that around 70\% displayed code completions from Copilot are not accepted by developers. Being reviewed but not accepted, these completions bring a threat to productivity. Besides, considering the high cost of the large models, it is a huge  Cites: Codexglue: A machine learning benchmark dataset for code

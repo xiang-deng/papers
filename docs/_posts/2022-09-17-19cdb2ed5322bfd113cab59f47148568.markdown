@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Bayesian Opponent Exploitation by Inferring the Opponent s Policy Selection Pattern" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "KT Lee, SJ Wang" 
+--- 
+In a multi-agent competitive domain, the agent needs to anticipate the opponent s behavior and select a suitable policy to exploit the opponent. In this work, based on the BPR (Bayesian Policy Reuse) framework, we further assume the opponent may determine its policy depending on its previous observation. To deal with opponents of this kind, we discuss three different approaches for the agent, including learning from scratch, reasoning from experience, and reasoning accompanied by learning  Cites: Opponent modeling in deep reinforcement learning

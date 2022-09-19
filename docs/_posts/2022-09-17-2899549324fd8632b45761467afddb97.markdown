@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "SpaDE: Improving Sparse Representations using a Dual Document Encoder for First-stage Retrieval" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "E Choi, S Lee, M Choi, H Ko, YI Song, J Lee - arXiv preprint arXiv:2209.05917, 2022" 
+--- 
+Sparse document representations have been widely used to retrieve relevant documents via exact lexical matching. Owing to the pre-computed inverted index, it supports fast ad-hoc search but incurs the vocabulary mismatch problem. Although recent neural ranking models using pre-trained language models can address this problem, they usually require expensive query inference costs, implying the trade-off between effectiveness and efficiency. Tackling the trade-off, we propose a novel uni  Cites: Salient Phrase Aware Dense Retrieval: Can a Dense Retriever

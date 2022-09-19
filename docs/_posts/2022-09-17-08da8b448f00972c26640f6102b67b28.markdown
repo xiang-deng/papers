@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Towards Sparsification of Graph Neural Networks" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "H Peng, D Gurevin, S Huang, T Geng, W Jiang, O Khan - arXiv preprint arXiv , 2022" 
+--- 
+As real-world graphs expand in size, larger GNN models with billions of parameters are deployed. High parameter count in such models makes training and inference on graphs expensive and challenging. To reduce the computational and memory costs of GNNs, optimization methods such as pruning the redundant nodes and edges in input graphs have been commonly adopted. However, model compression, which directly targets the sparsification of model layers, has been mostly limited to  Cites: Multi-Channel Graph Neural Network for Entity Alignment

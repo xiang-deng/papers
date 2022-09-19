@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Improving aspect-based neural sentiment classification with lexicon enhancement, attention regularization and sentiment induction" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "L Bao, P Lambert, T Badia - Natural Language Engineering, 2022" 
+--- 
+Deep neural networks as an end-to-end approach lack robustness from an application point of view, as it is very difficult to fix an obvious problem without retraining the model, for example, when a model consistently predicts positive when seeing the word terrible. Meanwhile, it is less stressed that the commonly used attention mechanism is likely to over-fit by being overly sparse, so that some key positions in the input sequence could be overlooked by the network. To address  Cites: Effective LSTMs for target-dependent sentiment classification

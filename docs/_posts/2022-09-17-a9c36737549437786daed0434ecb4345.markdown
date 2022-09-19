@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: "Entity Tagging: Extracting Entities in Text Without Mention Supervision" 
+date: 2022-09-17 00:49:30 -0400 
+categories: jekyll update 
+author: "C Du, K Popat, L Martin, F Petroni - arXiv preprint arXiv:2209.06148, 2022" 
+--- 
+Detection and disambiguation of all entities in text is a crucial task for a wide range of applications. The typical formulation of the problem involves two stages: detect mention boundaries and link all mentions to a knowledge base. For a long time, mention detection has been considered as a necessary step for extracting all entities in a piece of text, even if the information about mention spans is ignored by some downstream applications that merely focus on the set of extracted entities. In this  Cites: Efficient One-Pass End-to-End Entity Linking for Questions
