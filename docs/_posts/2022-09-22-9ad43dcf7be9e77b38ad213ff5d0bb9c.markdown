@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Distributionally Robust Survival Analysis: A Novel Fairness Loss Without Demographics"
+date:   2022-09-22 02:02:39 -0400
+categories: jekyll update
+author: "S Hu, GH Chen"
+---
+We propose a new method for training survival analysis models that minimizes a worst-case error across all subpopulations that are large enough (occurring with at least a user-specified minimum probability). Our method uses a loss function that does not know any demographic information to treat as sensitive. Despite this, we demonstrate that our proposed method often scores better on recently established fairness metrics (without a significant drop in prediction accuracy) compared to …
+Cites: ‪Distributionally robust neural networks for group shifts: On the …‬

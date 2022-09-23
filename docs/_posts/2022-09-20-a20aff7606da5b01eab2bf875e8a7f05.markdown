@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Risk-aware linear bandits with convex loss"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "P Saux, OA Maillard - arXiv preprint arXiv:2209.07154, 2022"
+---
+In decision-making problems such as the multi-armed bandit, an agent learns sequentially by optimizing a certain feedback. While the mean reward criterion has been extensively studied, other measures that reflect an aversion to adverse outcomes, such as mean-variance or conditional value-at-risk (CVaR), can be of interest for critical applications (healthcare, agriculture). Algorithms have been proposed for such risk-aware measures under bandit feedback without contextual …
+Cites: ‪Provably optimal algorithms for generalized linear contextual bandits‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Text generation for small data regimes"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "H Quteineh - 2022"
+---
+In Natural Language Processing (NLP), applications trained on downstream tasks for text classification usually require enormous amounts of data to perform well. Neural Network (NN) models are among the applications that can always be trained to produce better results. Yet, a huge factor in improving results is the ability to scale over large datasets. Given that Deep NNs are known to be data hungry, having more training samples can always be beneficial. For a classification model to perform well …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

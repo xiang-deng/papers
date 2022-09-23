@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test-Time Training with Masked Autoencoders"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "Y Gandelsman, Y Sun, X Chen, AA Efros - arXiv preprint arXiv:2209.07522, 2022"
+---
+Test-time training adapts to a new test distribution on the fly by optimizing a model for each test input using self-supervision. In this paper, we use masked autoencoders for this one-sample learning problem. Empirically, our simple method improves generalization on many visual benchmarks for distribution shifts. Theoretically, we characterize this improvement in terms of the bias-variance trade-off.
+Cites: ‪Randaugment: Practical data augmentation with no separate search‬

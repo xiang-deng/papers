@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning from Future: A Novel Self-Training Framework for Semantic Segmentation"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "Y Du, Y Shen, H Wang, J Fei, W Li, L Wu, R Zhao, Z Fu… - arXiv preprint arXiv …, 2022"
+---
+Self-training has shown great potential in semi-supervised learning. Its core idea is to use the model learned on labeled data to generate pseudo-labels for unlabeled samples, and in turn teach itself. To obtain valid supervision, active attempts typically employ a momentum teacher for pseudo-label prediction yet observe the confirmation bias issue, where the incorrect predictions may provide wrong supervision signals and get accumulated in the training process. The primary cause …
+Cites: ‪Self-training with noisy student improves imagenet classification‬

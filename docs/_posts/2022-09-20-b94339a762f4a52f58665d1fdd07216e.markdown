@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Foveated Neural Computation"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "M Tiezzi, S Marullo, A Betti, E Meloni, L Faggi, M Gori…"
+---
+The classic computational scheme of convolutional layers leverages filter banks that are shared over all the spatial coordinates of the input, independently on external information on what is specifically under observation and without any distinctions between what is closer to the observed area and what is peripheral. In this paper we propose to go beyond such a scheme, introducing the notion of Foveated Convolutional Layer (FCL), that formalizes the idea of location-dependent …
+Cites: ‪Distributionally robust neural networks for group shifts: On the …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Intent-Aware Data Visualization Recommendation"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "A Maruta, MP Kato - Data Science and Engineering, 2022"
+---
+This paper proposes a visualization recommender system for tabular data given visualization intents (eg,“population trends in Italy” and “smartphone market share”). The proposed method predicts the most suitable visualization type (eg, line, pie, or bar chart) and visualized columns (columns used for visualization) based on statistical features extracted from the tabular data as well as semantic features derived from the visualization intent. To predict the appropriate visualization type, we …
+Cites: ‪Multi-stage document ranking with BERT‬

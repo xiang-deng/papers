@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "C Chen, Y Wang, B Li, KY Lam - arXiv preprint arXiv:2209.07299, 2022"
+---
+Knowledge Graph Completion (KGC) has been recently extended to multiple knowledge graph (KG) structures, initiating new research directions, eg static KGC, temporal KGC and few-shot KGC. Previous works often design KGC models closely coupled with specific graph structures, which inevitably results in two drawbacks: 1) structure-specific KGC models are mutually incompatible; 2) existing KGC methods are not adaptable to emerging KGs. In this paper, we propose KG-S2S, a Seq2Seq …
+Cites: ‪Do Pre-trained Models Benefit Knowledge Graph Completion? A …‬

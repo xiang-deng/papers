@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Balancing the Style-Content Trade-Off in Sentiment Transfer Using Polarity-Aware Denoising"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "S Mukherjee, Z Kasner, O Dušek - International Conference on Text, Speech, and …, 2022"
+---
+Text sentiment transfer aims to flip the sentiment polarity of a sentence (positive to negative or vice versa) while preserving its sentiment-independent content. Although current models show good results at changing the sentiment, content preservation in transferred sentences is insufficient. In this paper, we present a sentiment transfer model based on polarity-aware denoising, which accurately controls the sentiment attributes in generated text, preserving the content to a great extent and helping to …
+Cites: ‪A Probabilistic Formulation of Unsupervised Text Style Transfer‬

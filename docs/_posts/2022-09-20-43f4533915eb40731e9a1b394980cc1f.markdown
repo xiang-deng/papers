@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Evaluating Attribution Methods for Explainable NLP with Transformers"
+date:   2022-09-20 01:42:47 -0400
+categories: jekyll update
+author: "V Bartička, O Pražák, M Konopík, J Sido - … Conference on Text, Speech, and Dialogue, 2022"
+---
+This paper describes the experimental evaluation of several attribution methods on two NLP tasks: Sentiment analysis and multi-label document classification. Our motivation is to find the best method to use with Transformers to interpret model decisions. For this purpose, we introduce two new evaluation datasets. The first one is derived from Stanford Sentiment Treebank, where the sentiment of individual words is annotated along with the sentiment of the whole sentence. The second …
+Cites: ‪Well-Read Students Learn Better: On the Importance of Pre …‬

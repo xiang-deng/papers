@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Understanding Systematic Miscalibration in Machine Learning Classifiers"
+date:   2022-09-22 02:02:39 -0400
+categories: jekyll update
+author: "M Kelly, P Smyth"
+---
+The deployment of machine learning classifiers in high-stakes domains requires well-calibrated confidence scores for model predictions. In this paper we show that standard calibration measurement approaches used in machine learning can obscure significant systematic miscalibration with respect to variables of interest. We demonstrate this phenomenon on multiple well-known datasets, and show that it can persist after the application of widely-used recalibration methods. To mitigate this …
+Cites: ‪Verified uncertainty calibration‬
