@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Explicit Tradeoffs between Adversarial and Natural Distributional Robustness"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "M Moayeri, K Banihashem, S Feizi - arXiv preprint arXiv:2209.07592, 2022"
+---
+Several existing works study either adversarial or natural distributional robustness of deep neural networks separately. In practice, however, models need to enjoy both types of robustness to ensure reliability. In this work, we bridge this gap and show that in fact, explicit tradeoffs exist between adversarial and natural distributional robustness. We first consider a simple linear regression setting on Gaussian data with disjoint sets of core and spurious features. In this setting, through theoretical and …
+Cites: ‪Just train twice: Improving group robustness without training group …‬

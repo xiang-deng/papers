@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Peek Into the Memory of T5: Investigating the Factual Knowledge Memory in a Closed-Book QA Setting and Finding Responsible Parts"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "T Alkhaldi, C Chu, S Kurohashi - Journal of Natural Language Processing, 2022"
----
-Recent research shows that Transformer-based language models (LMs) store considerable factual knowledge from the unstructured text datasets on which they are pre-trained. The existence and amount of such knowledge have been investigated by probing pre-trained Transformers to answer questions without accessing any external context or knowledge (also called closed-book question answering (QA)). However, this factual knowledge is spread over the parameters …
-Cites: ‪Factual Probing Is [MASK]: Learning vs. Learning to Recall‬
+--- 
+layout: post 
+title: "A Peek Into the Memory of T5: Investigating the Factual Knowledge Memory in a Closed-Book QA Setting and Finding Responsible Parts" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "T Alkhaldi, C Chu, S Kurohashi - Journal of Natural Language Processing, 2022" 
+--- 
+Recent research shows that Transformer-based language models (LMs) store considerable factual knowledge from the unstructured text datasets on which they are pre-trained. The existence and amount of such knowledge have been investigated by probing pre-trained Transformers to answer questions without accessing any external context or knowledge (also called closed-book question answering (QA)). However, this factual knowledge is spread over the parameters  Cites: Factual Probing Is [MASK]: Learning vs. Learning to Recall

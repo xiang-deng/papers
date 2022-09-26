@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking Knowledge Graph Evaluation Under the Open-World Assumption"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "H Yang, Z Lin, M Zhang - arXiv preprint arXiv:2209.08858, 2022"
+---
+Most knowledge graphs (KGs) are incomplete, which motivates one important research topic on automatically complementing knowledge graphs. However, evaluation of knowledge graph completion (KGC) models often ignores the incompleteness--facts in the test set are ranked against all unknown triplets which may contain a large number of missing facts not included in the KG yet. Treating all unknown triplets as false is called the closed-world assumption. This closed-world …
+Cites: ‪Observed Versus Latent Features for Knowledge Base and Text …‬

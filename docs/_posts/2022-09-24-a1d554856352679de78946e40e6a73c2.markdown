@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sub-second photon dose prediction via transformer neural networks"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "O Pastor-Serrano, P Dong, C Huang, L Xing, Z Perkó - arXiv preprint arXiv …, 2022"
+---
+Fast dose calculation is critical for online and real time adaptive therapy workflows. While modern physics-based dose algorithms must compromise accuracy to achieve low computation times, deep learning models can potentially perform dose prediction tasks with both high fidelity and speed. We present a deep learning algorithm that, exploiting synergies between Transformer and convolutional layers, accurately predicts broad photon beam dose distributions in few milliseconds. The proposed …
+Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Offline Reinforcement Learning with Instrumental Variables in Confounded Markov Decision Processes"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "Z Fu, Z Qi, Z Wang, Z Yang, Y Xu, MR Kosorok - arXiv preprint arXiv:2209.08666, 2022"
+---
+We study the offline reinforcement learning (RL) in the face of unmeasured confounders. Due to the lack of online interaction with the environment, offline RL is facing the following two significant challenges:(i) the agent may be confounded by the unobserved state variables;(ii) the offline data collected a prior does not provide sufficient coverage for the environment. To tackle the above challenges, we study the policy learning in the confounded MDPs with the aid of instrumental variables …
+Cites: ‪Doubly robust bias reduction in infinite horizon off-policy estimation‬

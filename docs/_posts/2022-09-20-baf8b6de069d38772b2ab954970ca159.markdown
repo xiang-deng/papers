@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distribution Aware Metrics for Conditional Natural Language Generation"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "DM Chan, Y Ni, A Myers, S Vijayanarasimhan… - arXiv preprint arXiv …, 2022"
----
-Traditional automated metrics for evaluating conditional natural language generation use pairwise comparisons between a single generated text and the best-matching gold-standard ground truth text. When multiple ground truths are available, scores are aggregated using an average or max operation across references. While this approach works well when diversity in the ground truth data (ie dispersion of the distribution of conditional texts) can be ascribed to noise, such as in automated …
-Cites: ‪Lamda: Language models for dialog applications‬
+--- 
+layout: post 
+title: "Distribution Aware Metrics for Conditional Natural Language Generation" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "DM Chan, Y Ni, A Myers, S Vijayanarasimhan - arXiv preprint arXiv , 2022" 
+--- 
+Traditional automated metrics for evaluating conditional natural language generation use pairwise comparisons between a single generated text and the best-matching gold-standard ground truth text. When multiple ground truths are available, scores are aggregated using an average or max operation across references. While this approach works well when diversity in the ground truth data (ie dispersion of the distribution of conditional texts) can be ascribed to noise, such as in automated  Cites: Lamda: Language models for dialog applications

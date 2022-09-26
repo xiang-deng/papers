@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Symbolic Model-Agnostic Loss Functions via Meta-Learning"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "C Raymond, Q Chen, B Xue, M Zhang - arXiv preprint arXiv:2209.08907, 2022"
+---
+In this paper, we develop upon the emerging topic of loss function learning, which aims to learn loss functions that significantly improve the performance of the models trained under them. Specifically, we propose a new meta-learning framework for learning model-agnostic loss functions via a hybrid neuro-symbolic search approach. The framework first uses evolution-based methods to search the space of primitive mathematical operations to find a set of symbolic loss functions. Second, the set of …
+Cites: ‪Generalized inner loop meta-learning‬

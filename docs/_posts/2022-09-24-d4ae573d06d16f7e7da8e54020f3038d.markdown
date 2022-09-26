@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scene Graph Modification as Incremental Structure Expanding"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "X Hu, Z Guo, Y Fu, L Wen, PS Yu - arXiv preprint arXiv:2209.09093, 2022"
+---
+A scene graph is a semantic representation that expresses the objects, attributes, and relationships between objects in a scene. Scene graphs play an important role in many cross modality tasks, as they are able to capture the interactions between images and texts. In this paper, we focus on scene graph modification (SGM), where the system is required to learn how to update an existing scene graph based on a natural language query. Unlike previous approaches that rebuilt the entire scene …
+Cites: ‪AllenNLP: A Deep Semantic Natural Language Processing Platform‬

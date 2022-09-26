@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Trade-off between Fidelity and Teaching Complexity"
-date:   2022-09-22 02:02:39 -0400
-categories: jekyll update
-author: "BAT Håvardstun, C Ferri, J Hernández-Orallo…"
----
-In explainable AI there is usually a trade-off between the fidelity and the complexity of the explanation. In exemplar-based explanation systems, this complexity can be measured by the number or size of the examples needed for the human to grasp a concept that has sufficient fidelity with the AI system to be explained. In this paper we analyse a concept class of Boolean functions that is learned by AI systems (CNN) as bitmaps of possibly rotated and resized letters. We assume the human learner …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "On the Trade-off between Fidelity and Teaching Complexity" 
+date: 2022-09-22 02:02:39 -0400 
+categories: jekyll update 
+author: "BAT Hvardstun, C Ferri, J Hernndez-Orallo" 
+--- 
+In explainable AI there is usually a trade-off between the fidelity and the complexity of the explanation. In exemplar-based explanation systems, this complexity can be measured by the number or size of the examples needed for the human to grasp a concept that has sufficient fidelity with the AI system to be explained. In this paper we analyse a concept class of Boolean functions that is learned by AI systems (CNN) as bitmaps of possibly rotated and resized letters. We assume the human learner  Cites: Anchors: High-Precision Model-Agnostic Explanations

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sample-based Hardness Scores in Deep Learning Curricula: A new Perspective on Learning with Noisy Labels"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "T Burgert"
+---
+Large auto-generated datasets with imperfect labels have sparked interest in developing methods for training deep neural networks (DNN) robust to label noise. In this context, this thesis hypothesizes that the distinction of hard and noisy-labeled samples plays a crucial role for stateof-the-art performance. It follows the common assumption in deep learning that more diverse samples are harder to learn from, but are of higher informative value for generalization. In order to identify globally hard …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "Y Song, N Sebe, W Wang - arXiv preprint arXiv:2209.08590, 2022"
+---
+The task of out-of-distribution (OOD) detection is crucial for deploying machine learning models in real-world settings. In this paper, we observe that the singular value distributions of the in-distribution (ID) and OOD features are quite different: the OOD feature matrix tends to have a larger dominant singular value than the ID feature, and the class predictions of OOD samples are largely determined by it. This observation motivates us to propose\texttt {RankFeat}, a simple yet effective\texttt …
+Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬

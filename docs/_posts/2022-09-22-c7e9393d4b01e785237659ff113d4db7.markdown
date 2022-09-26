@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ORIENT: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift"
-date:   2022-09-22 02:02:39 -0400
-categories: jekyll update
-author: "A Karanam, K Killamsetty, H Kokel, RK Iyer"
----
-Real-world machine-learning applications require robust models that generalize well to distribution shift settings, which is typical in real-world situations. Domain adaptation techniques aim to address this issue of distribution shift by minimizing the disparities between domains to ensure that the model trained on the source domain performs well on the target domain. Nevertheless, the existing domain adaptation methods are computationally very expensive. In this work, we aim to improve the …
-Cites: ‪Green AI‬
+--- 
+layout: post 
+title: "ORIENT: Submodular Mutual Information Measures for Data Subset Selection under Distribution Shift" 
+date: 2022-09-22 02:02:39 -0400 
+categories: jekyll update 
+author: "A Karanam, K Killamsetty, H Kokel, RK Iyer" 
+--- 
+Real-world machine-learning applications require robust models that generalize well to distribution shift settings, which is typical in real-world situations. Domain adaptation techniques aim to address this issue of distribution shift by minimizing the disparities between domains to ensure that the model trained on the source domain performs well on the target domain. Nevertheless, the existing domain adaptation methods are computationally very expensive. In this work, we aim to improve the  Cites: Green AI

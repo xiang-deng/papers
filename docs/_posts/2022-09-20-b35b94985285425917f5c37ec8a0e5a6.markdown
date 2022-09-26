@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "X Ma, Z Liang, L Xia, J Zhang, J Blanchet, M Liu… - arXiv preprint arXiv …, 2022"
----
-Among the reasons that hinder the application of reinforcement learning (RL) to real-world problems, two factors are critical: limited data and the mismatch of the testing environment compared to training one. In this paper, we attempt to address these issues simultaneously with the problem setup of distributionally robust offline RL. Particularly, we learn an RL agent with the historical data obtained from the source environment and optimize it to perform well in the perturbed one. Moreover, we …
-Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬
+--- 
+layout: post 
+title: "Distributionally Robust Offline Reinforcement Learning with Linear Function Approximation" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "X Ma, Z Liang, L Xia, J Zhang, J Blanchet, M Liu - arXiv preprint arXiv , 2022" 
+--- 
+Among the reasons that hinder the application of reinforcement learning (RL) to real-world problems, two factors are critical: limited data and the mismatch of the testing environment compared to training one. In this paper, we attempt to address these issues simultaneously with the problem setup of distributionally robust offline RL. Particularly, we learn an RL agent with the historical data obtained from the source environment and optimize it to perform well in the perturbed one. Moreover, we  Cites: Wilds: A benchmark of in-the-wild distribution shifts

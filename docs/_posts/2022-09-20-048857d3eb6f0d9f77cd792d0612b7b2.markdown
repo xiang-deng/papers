@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "B Qin, L Wang, B Hui, B Li, X Wei, B Li, F Huang, L Si… - arXiv preprint arXiv …, 2022"
----
-This paper aims to improve the performance of text-to-SQL parsing by exploring the intrinsic uncertainties in the neural network based approaches (called SUN). From the data uncertainty perspective, it is indisputable that a single SQL can be learned from multiple semantically-equivalent questions. Different from previous methods that are limited to one-to-one mapping, we propose a data uncertainty constraint to explore the underlying complementary semantic information among multiple …
-Cites: ‪Grounded adaptation for zero-shot executable semantic parsing‬
+--- 
+layout: post 
+title: "SUN: Exploring Intrinsic Uncertainties in Text-to-SQL Parsers" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "B Qin, L Wang, B Hui, B Li, X Wei, B Li, F Huang, L Si - arXiv preprint arXiv , 2022" 
+--- 
+This paper aims to improve the performance of text-to-SQL parsing by exploring the intrinsic uncertainties in the neural network based approaches (called SUN). From the data uncertainty perspective, it is indisputable that a single SQL can be learned from multiple semantically-equivalent questions. Different from previous methods that are limited to one-to-one mapping, we propose a data uncertainty constraint to explore the underlying complementary semantic information among multiple  Cites: Grounded adaptation for zero-shot executable semantic parsing

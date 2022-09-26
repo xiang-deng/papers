@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Code as Policies: Language Model Programs for Embodied Control"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "J Liang, W Huang, F Xia, P Xu, K Hausman, B Ichter… - arXiv preprint arXiv …, 2022"
+---
+Large language models (LLMs) trained on code completion have been shown to be capable of synthesizing simple Python programs from docstrings [1]. We find that these code-writing LLMs can be re-purposed to write robot policy code, given natural language commands. Specifically, policy code can express functions or feedback loops that process perception outputs (eg, from object detectors [2],[3]) and parameterize control primitive APIs. When provided as input several example …
+Cites: ‪Least-to-Most Prompting Enables Complex Reasoning in Large …‬

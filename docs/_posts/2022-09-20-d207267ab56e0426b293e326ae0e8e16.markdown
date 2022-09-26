@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Reuse Bias in Off-Policy Reinforcement Learning"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "C Ying, Z Hao, X Zhou, H Su, D Yan, J Zhu - arXiv preprint arXiv:2209.07074, 2022"
----
-Importance sampling (IS) is a popular technique in off-policy evaluation, which re-weights the return of trajectories in the replay buffer to boost sample efficiency. However, training with IS can be unstable and previous attempts to address this issue mainly focus on analyzing the variance of IS. In this paper, we reveal that the instability is also related to a new notion of Reuse Bias of IS--the bias in off-policy evaluation caused by the reuse of the replay buffer for evaluation and optimization …
-Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬
+--- 
+layout: post 
+title: "On the Reuse Bias in Off-Policy Reinforcement Learning" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "C Ying, Z Hao, X Zhou, H Su, D Yan, J Zhu - arXiv preprint arXiv:2209.07074, 2022" 
+--- 
+Importance sampling (IS) is a popular technique in off-policy evaluation, which re-weights the return of trajectories in the replay buffer to boost sample efficiency. However, training with IS can be unstable and previous attempts to address this issue mainly focus on analyzing the variance of IS. In this paper, we reveal that the instability is also related to a new notion of Reuse Bias of IS--the bias in off-policy evaluation caused by the reuse of the replay buffer for evaluation and optimization  Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ESPnet-ONNX: Bridging a Gap Between Research and Production"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "M Someki, Y Higuchi, T Hayashi, S Watanabe - arXiv preprint arXiv:2209.09756, 2022"
+---
+In the field of deep learning, researchers often focus on inventing novel neural network models and improving benchmarks. In contrast, application developers are interested in making models suitable for actual products, which involves optimizing a model for faster inference and adapting a model to various platforms (eg, C++ and Python). In this work, to fill the gap between the two, we establish an effective procedure for optimizing a PyTorch-based research-oriented model for deployment …
+Cites: ‪CMU’s IWSLT 2022 Dialect Speech Translation System‬

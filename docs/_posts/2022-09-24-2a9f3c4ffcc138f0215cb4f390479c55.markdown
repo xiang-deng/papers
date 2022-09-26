@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic-based Pre-training for Dialogue Understanding"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "X Bai, L Song, Y Zhang - arXiv preprint arXiv:2209.09146, 2022"
+---
+Pre-trained language models have made great progress on dialogue tasks. However, these models are typically trained on surface dialogue text, thus are proven to be weak in understanding the main semantic meaning of a dialogue context. We investigate Abstract Meaning Representation (AMR) as explicit semantic knowledge for pre-training models to capture the core semantic information in dialogues during pre-training. In particular, we propose a semantic-based pre …
+Cites: ‪TOD-BERT: Pre-trained natural language understanding for task …‬

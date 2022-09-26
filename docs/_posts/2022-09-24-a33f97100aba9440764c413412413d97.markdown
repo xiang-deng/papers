@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "From Disfluency Detection to Intent Detection and Slot Filling"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "MH Dao, TH Truong, DQ Nguyen - arXiv preprint arXiv:2209.08359, 2022"
+---
+We present the first empirical study investigating the influence of disfluency detection on downstream tasks of intent detection and slot filling. We perform this study for Vietnamese--a low-resource language that has no previous study as well as no public dataset available for disfluency detection. First, we extend the fluent Vietnamese intent detection and slot filling dataset PhoATIS by manually adding contextual disfluencies and annotating them. Then, we conduct experiments using …
+Cites: ‪Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in …‬

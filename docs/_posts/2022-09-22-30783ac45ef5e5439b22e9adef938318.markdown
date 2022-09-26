@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dual-position Features Fusion for Head Pose Estimation for Complex Scene"
-date:   2022-09-22 02:02:39 -0400
-categories: jekyll update
-author: "X Zhu, Q Yang, L Zhao, Z Dai, ZL He, W Rong - Optik, 2022"
----
-Head pose estimation (HPE) is widely used in attention detection, behavior analysis, and expression recognition. Nevertheless, in some complex scenes (such as facial occlusion, large head deflection angle, and multi-person in one scene), HPE still has the problem of low estimation accuracy. To solve this problem, we propose a dual position feature fusion method for estimating head pose. First, the RGB input is replaced with a standard luminance, which reduces the effect of extraneous light …
-Cites: ‪Nas-fpn: Learning scalable feature pyramid architecture for object …‬
+--- 
+layout: post 
+title: "Dual-position Features Fusion for Head Pose Estimation for Complex Scene" 
+date: 2022-09-22 02:02:39 -0400 
+categories: jekyll update 
+author: "X Zhu, Q Yang, L Zhao, Z Dai, ZL He, W Rong - Optik, 2022" 
+--- 
+Head pose estimation (HPE) is widely used in attention detection, behavior analysis, and expression recognition. Nevertheless, in some complex scenes (such as facial occlusion, large head deflection angle, and multi-person in one scene), HPE still has the problem of low estimation accuracy. To solve this problem, we propose a dual position feature fusion method for estimating head pose. First, the RGB input is replaced with a standard luminance, which reduces the effect of extraneous light  Cites: Nas-fpn: Learning scalable feature pyramid architecture for object

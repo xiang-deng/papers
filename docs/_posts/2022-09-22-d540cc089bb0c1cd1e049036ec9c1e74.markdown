@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluation of XAI on ALS 6-months mortality prediction"
-date:   2022-09-22 02:02:39 -0400
-categories: jekyll update
-author: "TM Buonocore, G Nicora, A Dagliati, E Parimbelli - CLEF, 2022"
----
-In the article we present a comparative evaluation study of three different model agnostic XAI methods, namely SHAP, LIME and AraucanaXAI. The prediction task considered consists in predicting mortality for ALS patients based on observations carried out during a period of 6-months. The different XAI approaches are compared according to four quantitative evaluation metrics consisting in identity, fidelity, separability and time to compute an explanation. Furthermore, a qualitative …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Evaluation of XAI on ALS 6-months mortality prediction" 
+date: 2022-09-22 02:02:39 -0400 
+categories: jekyll update 
+author: "TM Buonocore, G Nicora, A Dagliati, E Parimbelli - CLEF, 2022" 
+--- 
+In the article we present a comparative evaluation study of three different model agnostic XAI methods, namely SHAP, LIME and AraucanaXAI. The prediction task considered consists in predicting mortality for ALS patients based on observations carried out during a period of 6-months. The different XAI approaches are compared according to four quantitative evaluation metrics consisting in identity, fidelity, separability and time to compute an explanation. Furthermore, a qualitative  Cites: Why Should I Trust You? : Explaining the Predictions of Any

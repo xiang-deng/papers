@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dynamic Sparse Attention for Scalable Transformer Acceleration"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "L Liu, Z Qu, Z Chen, F Tu, Y Ding, Y Xie - IEEE Transactions on Computers, 2022"
+---
+Transformers are the mainstream of NLP applications and are becoming increasingly popular in other domains such as Computer Vision. Despite the improvements in model quality, the enormous computation costs make Transformers difficult at deployment, especially when the sequence length is large in emerging applications. Processing attention mechanism as the essential component of Transformer is the bottleneck of execution due to the quadratic complexity. Prior art explores sparse …
+Cites: ‪Blockwise Self-Attention for Long Document Understanding‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AutoUpdate: Automatically Recommend Code Updates for Android Apps"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "Y Liu, C Tantithamthavorn, Y Liu, P Thongtanunam… - arXiv preprint arXiv …, 2022"
----
-Android developers frequently update source code to improve the performance, security, or maintainability of Android apps. Such Android code updating activities are intuitively repetitive, manual, and time-consuming. In this paper, we propose AutoUpdate, a Transformer-based automated code update recommendation approach for Android Apps, which takes advantage of code abstraction (Abs) and Byte-Pair Encoding (BPE) techniques to represent source code. Since this is the first …
-Cites: ‪Codebleu: a method for automatic evaluation of code synthesis‬
+--- 
+layout: post 
+title: "AutoUpdate: Automatically Recommend Code Updates for Android Apps" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "Y Liu, C Tantithamthavorn, Y Liu, P Thongtanunam - arXiv preprint arXiv , 2022" 
+--- 
+Android developers frequently update source code to improve the performance, security, or maintainability of Android apps. Such Android code updating activities are intuitively repetitive, manual, and time-consuming. In this paper, we propose AutoUpdate, a Transformer-based automated code update recommendation approach for Android Apps, which takes advantage of code abstraction (Abs) and Byte-Pair Encoding (BPE) techniques to represent source code. Since this is the first  Cites: Codebleu: a method for automatic evaluation of code synthesis

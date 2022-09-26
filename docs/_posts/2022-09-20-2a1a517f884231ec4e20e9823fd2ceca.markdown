@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "W He, Y Dai, B Hui, M Yang, Z Cao, J Dong, F Huang… - arXiv preprint arXiv …, 2022"
----
-Pre-training methods with contrastive learning objectives have shown remarkable success in dialog understanding tasks. However, current contrastive learning solely considers the self-augmented dialog samples as positive samples and treats all other dialog samples as negative ones, which enforces dissimilar representations even for dialogs that are semantically related. In this paper, we propose SPACE-2, a tree-structured pre-trained conversation model, which learns dialog representations …
-Cites: ‪Discriminative nearest neighbor few-shot intent detection by …‬
+--- 
+layout: post 
+title: "SPACE-2: Tree-Structured Semi-Supervised Contrastive Pre-training for Task-Oriented Dialog Understanding" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "W He, Y Dai, B Hui, M Yang, Z Cao, J Dong, F Huang - arXiv preprint arXiv , 2022" 
+--- 
+Pre-training methods with contrastive learning objectives have shown remarkable success in dialog understanding tasks. However, current contrastive learning solely considers the self-augmented dialog samples as positive samples and treats all other dialog samples as negative ones, which enforces dissimilar representations even for dialogs that are semantically related. In this paper, we propose SPACE-2, a tree-structured pre-trained conversation model, which learns dialog representations  Cites: Discriminative nearest neighbor few-shot intent detection by

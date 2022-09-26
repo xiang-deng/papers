@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Detecting and Measuring Misconfigured Manifest in Android Apps"
+date:   2022-09-24 00:16:11 -0400
+categories: jekyll update
+author: "Y Yang, M Elsabagh, C Zuo, R Johnson, A Stavrou… - 2022"
+---
+The manifest file of an Android app is crucial for app security as it declares sensitive app configurations, such as access permissions required to access app components. Surprisingly, we noticed a number of widely-used apps (some with over 500 million downloads) containing misconfigurations in their manifest files that can result in severe security issues. This paper presents ManiScope, a tool to automatically detect misconfigurations of manifest files when given an Android APK. The key idea is to …
+Cites: ‪Identifying Products in Online Cybercrime Marketplaces: A Dataset …‬

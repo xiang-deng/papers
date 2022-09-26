@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Identificación de tópicos en un corpus utilizando Transformers"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "JV Carrera-Trejo, RC Martínez - Computación y Sistemas, 2022"
----
-Clasificar un corpus de textos con un base en un conjunto de clases utilizando Transformers permite construir un modelo basado en las palabras que contiene la información, sin embargo, el modelo utiliza todas las palabras con que se entrena y el orden en que se encuentran, pero¿ cuáles de éstas palabras se encuentran relacionadas directamente con la temática de los textos?, este trabajo se enfoca en proponer una metodología que permita, utilizando un corpus multi etiquetado que …
-Cites: ‪Stanza: A python natural language processing toolkit for many …‬

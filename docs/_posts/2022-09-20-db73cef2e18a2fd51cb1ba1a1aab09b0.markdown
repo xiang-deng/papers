@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Self-Supervised Learning by Characterizing Idealized Representations"
-date:   2022-09-20 01:42:47 -0400
-categories: jekyll update
-author: "Y Dubois, T Hashimoto, S Ermon, P Liang - arXiv preprint arXiv:2209.06235, 2022"
----
-Despite the empirical successes of self-supervised learning (SSL) methods, it is unclear what characteristics of their representations lead to high downstream accuracies. In this work, we characterize properties that SSL representations should ideally satisfy. Specifically, we prove necessary and sufficient conditions such that for any task invariant to given data augmentations, desired probes (eg, linear or MLP) trained on that representation attain perfect accuracy. These requirements lead to a …
-Cites: ‪On the opportunities and risks of foundation models‬
+--- 
+layout: post 
+title: "Improving Self-Supervised Learning by Characterizing Idealized Representations" 
+date: 2022-09-20 01:42:47 -0400 
+categories: jekyll update 
+author: "Y Dubois, T Hashimoto, S Ermon, P Liang - arXiv preprint arXiv:2209.06235, 2022" 
+--- 
+Despite the empirical successes of self-supervised learning (SSL) methods, it is unclear what characteristics of their representations lead to high downstream accuracies. In this work, we characterize properties that SSL representations should ideally satisfy. Specifically, we prove necessary and sufficient conditions such that for any task invariant to given data augmentations, desired probes (eg, linear or MLP) trained on that representation attain perfect accuracy. These requirements lead to a  Cites: On the opportunities and risks of foundation models
