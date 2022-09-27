@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Neural NIL-linking"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "A Iurshina"
----
-Neural NIL-linking Page 1 Contribution 2: Typing for Entity Linking and NIL-linking   Entity Typing is a powerful mechanism that can be helpful for both Entity Linking and   NIL-linking tasks. Currently we are working on an model for mentions type prediction.   • Mention representation: vector from the encoder • Entity representation: average of   categories vectors • Linking: find the closest entity vector to the mention • BERT-based   mention encoder • Self-attention for merging mention tokens into one token In addition …
-Cites: ‪Scalable zero-shot entity linking with dense entity retrieval‬
