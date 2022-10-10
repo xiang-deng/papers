@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Evolution of Cloud Data Architectures: Storage, Compute, and Migration"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "G Liao - 2022"
+---
+Recent advances in data architectures have shifted from on-premises to the cloud. However, new challenges emerge as data explosion continues to expand at an exponential rate. As a result, my Ph. D. research focuses on addressing the following challenges. First, cloud data-warehouses such as Snowflake, BigQuery, and Redshift often rely on storage systems such as distributed file systems or object stores to store massive amounts of data. The growth of data volumes is accompanied by an …
+Cites: ‪Dbos: A proposal for a data-centric operating system‬

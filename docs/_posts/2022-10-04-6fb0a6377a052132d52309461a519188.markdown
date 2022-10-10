@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Taxonomy-Guided Classification"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "J Shen, J Han - Automated Taxonomy Discovery and Exploration, 2022"
+---
+After obtaining an enriched up-to-date taxonomy, we can leverage it to facilitate many downstream applications such as search query understanding, online product recommendation, literature semantic indexing, etc. One important step towards those taxonomy-enhanced applications is to associate the text unit (either an entire document or an in-context text span) with a set of classes in the corresponding taxonomy. In this chapter, we discuss such a taxonomy-guided classification task …
+Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬

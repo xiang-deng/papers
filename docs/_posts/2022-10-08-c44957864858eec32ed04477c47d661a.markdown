@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Recitation-Augmented Language Models"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "Z Sun, X Wang, Y Tay, Y Yang, D Zhou - arXiv preprint arXiv:2210.01296, 2022"
+---
+We propose a new paradigm to help Large Language Models (LLMs) generate more accurate factual knowledge without retrieving from an external corpus, called RECITation-augmented gEneration (RECITE). Different from retrieval-augmented language models that retrieve relevant documents before generating the outputs, given an input, RECITE first recites one or several relevant passages from LLMs  own memory via sampling, and then produces the final answers. We show that RECITE is …
+Cites: ‪Natural questions: a benchmark for question answering research‬

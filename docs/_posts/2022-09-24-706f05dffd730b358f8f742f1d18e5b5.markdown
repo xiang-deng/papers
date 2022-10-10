@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Language Model Prompting in Support of Semi-autonomous Task Learning"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "JR Kirk, RE Wray, P Lindes, JE Laird - arXiv preprint arXiv:2209.07636, 2022"
----
-Language models (LLMs) offer potential as a source of knowledge for agents that need to acquire new task competencies within a performance environment. We describe efforts toward a novel agent capability that can construct cues (or  prompts ) that result in useful LLM responses for an agent learning a new task. Importantly, responses must not only be  reasonable (a measure used commonly in research on knowledge extraction from LLMs) but also specific to the agent s task context and in a …
-Cites: ‪On the opportunities and risks of foundation models‬
+--- 
+layout: post 
+title: "Improving Language Model Prompting in Support of Semi-autonomous Task Learning" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "JR Kirk, RE Wray, P Lindes, JE Laird - arXiv preprint arXiv:2209.07636, 2022" 
+--- 
+Language models (LLMs) offer potential as a source of knowledge for agents that need to acquire new task competencies within a performance environment. We describe efforts toward a novel agent capability that can construct cues (or prompts ) that result in useful LLM responses for an agent learning a new task. Importantly, responses must not only be reasonable (a measure used commonly in research on knowledge extraction from LLMs) but also specific to the agent s task context and in a  Cites: On the opportunities and risks of foundation models

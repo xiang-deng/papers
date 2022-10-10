@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Architectures for Aggregating Sequence Labels from Multiple Annotators"
+date:   2022-09-27 02:04:52 -0400
+categories: jekyll update
+author: "M Li, S Ananiadou - Neurocomputing, 2022"
+---
+Labelled data for training sequence labelling models can be collected from multiple annotators or workers in crowdsourcing. However, these labels could be noisy because of the varying expertise and reliability of annotators. In order to ensure high quality of data, it is crucial to infer the correct labels by aggregating noisy labels. Although label aggregation is a well-studied topic, only a number of studies have investigated how to aggregate sequence labels. Recently, neural network models …
+Cites: ‪A Joint Model for Entity Analysis: Coreference, Typing, and Linking‬

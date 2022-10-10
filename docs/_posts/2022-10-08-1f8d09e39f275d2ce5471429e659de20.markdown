@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Gradient Gating for Deep Multi-Rate Learning on Graphs"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "TK Rusch, BP Chamberlain, MW Mahoney… - arXiv preprint arXiv …, 2022"
+---
+We present Gradient Gating (G $^ 2$), a novel framework for improving the performance of Graph Neural Networks (GNNs). Our framework is based on gating the output of GNN layers with a mechanism for multi-rate flow of message passing information across nodes of the underlying graph. Local gradients are harnessed to further modulate message passing updates. Our framework flexibly allows one to use any basic GNN layer as a wrapper around which the multi-rate gradient gating …
+Cites: ‪Graph neural networks: A review of methods and applications‬

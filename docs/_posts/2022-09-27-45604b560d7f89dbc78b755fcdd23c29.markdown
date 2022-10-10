@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Beyond Instance-Dependent Noise: Generalizing Noisy Label Modeling to Multiple Labeler Dependence"
+date:   2022-09-27 02:04:52 -0400
+categories: jekyll update
+author: "G Dawson, R Polikar - 2022"
+---
+Most studies on learning from noisy labels rely on unrealistic models of iid label noise, such as class-conditional transition matrices. More recent work on instance-dependent noise models are more realistic; however, these models assume a single generative process for label noise across the entire dataset, which does not accurately capture the real-world labeling dynamics observed in modern dataset collection. We propose a new model of label noise, which we call  labeler-dependent …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

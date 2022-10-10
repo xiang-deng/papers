@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Context-Free Word Importance Scores for Attacking Neural Networks"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "S Nimrah, S Saifullah - Journal of Computational and Cognitive Engineering, 2022"
+---
+Abstract Leave-One-Out (LOO) scores provide estimates of feature importance in neural networks, for adversarial attacks. In this work, we present context-free word scores as a query-efficient alternative. Experiments show that these approximations are quite effective for black box attacks on neural networks trained for text classification, particularly for CNNs. The model query count for this method scales as 0 (vocan_size* model_input_length). It is independent of the number of examples …
+Cites: ‪Achieving Model Robustness through Discrete Adversarial Training‬

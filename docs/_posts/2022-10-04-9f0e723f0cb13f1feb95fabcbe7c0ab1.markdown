@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "YATO: Yet Another deep learning based Text analysis Open toolkit"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "Z Wang, Y Wang, J Wu, Z Teng, J Yang - arXiv preprint arXiv:2209.13877, 2022"
+---
+We introduce YATO, an open-source toolkit for text analysis with deep learning. It focuses on fundamental sequence labeling and sequence classification tasks on text. Designed in a hierarchical structure, YATO supports free combinations of three types of features including 1) traditional neural networks (CNN, RNN, etc.); 2) pre-trained language models (BERT, RoBERTa, ELECTRA, etc.); and 3) user-customed neural features via a simple configurable file. Benefiting from the advantages of …
+Cites: ‪MarkBERT: Marking Word Boundaries Improves Chinese BERT‬

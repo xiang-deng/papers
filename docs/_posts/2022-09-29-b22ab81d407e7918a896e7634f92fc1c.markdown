@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Defending against Poisoning Backdoor Attacks on Federated Meta-learning"
+date:   2022-09-29 01:10:17 -0400
+categories: jekyll update
+author: "CL Chen, S Babakniya, M Paolieri, L Golubchik - ACM Transactions on Intelligent …, 2022"
+---
+Federated learning allows multiple users to collaboratively train a shared classification model while preserving data privacy. This approach, where model updates are aggregated by a central server, was shown to be vulnerable to poisoning backdoor attacks: a malicious user can alter the shared model to arbitrarily classify specific inputs from a given class. In this article, we analyze the effects of backdoor attacks on federated meta-learning, where users train a model that can be …
+Cites: ‪Neural machine translation by jointly learning to align and translate‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CodeDSI: Differentiable Code Search"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "U Nadeem, N Ziems, S Wu - arXiv preprint arXiv:2210.00328, 2022"
+---
+Reimplementing solutions to previously solved software engineering problems is not only inefficient but also introduces inadequate and error-prone code. Many existing methods achieve impressive performance on this issue by using autoregressive text-generation models trained on code. However, these methods are not without their flaws. The generated code from these models can be buggy, lack documentation, and introduce vulnerabilities that may go unnoticed by developers. An alternative to …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

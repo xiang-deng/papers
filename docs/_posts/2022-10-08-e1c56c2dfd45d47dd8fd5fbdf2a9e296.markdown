@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "I Speak, You Verify: Toward Trustworthy Neural Program Synthesis"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "D Key, WD Li, K Ellis - arXiv preprint arXiv:2210.00848, 2022"
+---
+We develop an approach for improving the trustworthiness and overall accuracy of program synthesizers based on large language models for source code. Given a natural language description of a programming problem, our method samples both candidate programs as well as candidate predicates specifying how the program should behave. We learn to analyze the agreement between programs and predicates to judge both which program is most likely to be correct, and also judge …
+Cites: ‪Chain of thought prompting elicits reasoning in large language …‬

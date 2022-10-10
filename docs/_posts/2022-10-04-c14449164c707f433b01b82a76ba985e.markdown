@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An embedding model for knowledge graph completion based on graph sub-hop convolutional network"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "H He, H Niu, J Feng, J Nie, Y Zhang, J Ren - Big Data Research, 2022"
+---
+The research on knowledge graph completion based on representation learning is increasingly dependent on the node structural feature in the graph. However, a large number of nodes have few immediate neighbors, resulting in the node features unable to be fully expressed. Hence, multi-hop structure features are crucial to the representation learning of nodes. GCN (Graph Convolutional Network) is a graph embedding model that can introduce the multi-hop structure. However, the multi-hop …
+Cites: ‪Observed versus latent features for knowledge base and text …‬

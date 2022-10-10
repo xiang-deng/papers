@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "F Lei, S He, X Li, J Zhao, K Liu - arXiv preprint arXiv:2209.07692, 2022"
----
-In the real-world question answering scenarios, hybrid form combining both tabular and textual contents has attracted more and more attention, among which numerical reasoning problem is one of the most typical and challenging problems. Existing methods usually adopt encoder-decoder framework to represent hybrid contents and generate answers. However, it can not capture the rich relationship among numerical value, table schema, and text information on the encoder side. The decoder uses a …
-Cites: ‪The value of semantic parse labeling for knowledge base question …‬
+--- 
+layout: post 
+title: "Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "F Lei, S He, X Li, J Zhao, K Liu - arXiv preprint arXiv:2209.07692, 2022" 
+--- 
+In the real-world question answering scenarios, hybrid form combining both tabular and textual contents has attracted more and more attention, among which numerical reasoning problem is one of the most typical and challenging problems. Existing methods usually adopt encoder-decoder framework to represent hybrid contents and generate answers. However, it can not capture the rich relationship among numerical value, table schema, and text information on the encoder side. The decoder uses a  Cites: The value of semantic parse labeling for knowledge base question

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Cost-based Optimization of Multistore Query Plans"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "C Forresi, M Francia, E Gallinucci, M Golfarelli - Information Systems Frontiers, 2022"
+---
+Multistores are data management systems that enable query processing across different and heterogeneous databases; besides the distribution of data, complexity factors like schema heterogeneity and data replication must be resolved through integration and data fusion activities. Our multistore solution relies on a dataspace to provide the user with an integrated view of the available data and enables the formulation and execution of GPSJ queries. In this paper, we propose a technique to …
+Cites: ‪From databases to dataspaces: a new abstraction for information …‬

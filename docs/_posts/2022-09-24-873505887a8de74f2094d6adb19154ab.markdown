@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A joint model for entity boundary detection and entity span recognition"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "N Yongming, C Yanping, Q Yongbin, H Ruizhang… - Journal of King Saud …, 2022"
----
-Named entity recognition is a task to extract named entities with predefined entity types. Span classification is a popular method to support this task. It has the advantage to solve nested structures and make full use of token features in a span. The problem is that exhaustively enumerating and verifying all entity spans suffer from high computational complexity and data imbalance. Furthermore, spans with a high overlapping ratio share the same contextual features in a sentence, which is …
-Cites: ‪Semantic parsing via staged query graph generation: Question …‬
+--- 
+layout: post 
+title: "A joint model for entity boundary detection and entity span recognition" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "N Yongming, C Yanping, Q Yongbin, H Ruizhang - Journal of King Saud , 2022" 
+--- 
+Named entity recognition is a task to extract named entities with predefined entity types. Span classification is a popular method to support this task. It has the advantage to solve nested structures and make full use of token features in a span. The problem is that exhaustively enumerating and verifying all entity spans suffer from high computational complexity and data imbalance. Furthermore, spans with a high overlapping ratio share the same contextual features in a sentence, which is  Cites: Semantic parsing via staged query graph generation: Question

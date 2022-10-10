@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generalized Parametric Contrastive Learning"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "J Cui, Z Zhong, Z Tian, S Liu, B Yu, J Jia - arXiv preprint arXiv:2209.12400, 2022"
+---
+In this paper, we propose the Generalized Parametric Contrastive Learning (GPaCo/PaCo) which works well on both imbalanced and balanced data. Based on theoretical analysis, we observe that supervised contrastive loss tends to bias high-frequency classes and thus increases the difficulty of imbalanced learning. We introduce a set of parametric class-wise learnable centers to rebalance from an optimization perspective. Further, we analyze our GPaCo/PaCo loss under a …
+Cites: ‪Randaugment: Practical automated data augmentation with a …‬

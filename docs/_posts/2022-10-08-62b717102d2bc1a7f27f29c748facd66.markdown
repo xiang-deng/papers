@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Improving Faithfulness in Abstractive Summarization"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "X Chen, M Li, X Gao, X Zhang - arXiv preprint arXiv:2210.01877, 2022"
+---
+Despite the success achieved in neural abstractive summarization based on pre-trained language models, one unresolved issue is that the generated summaries are not always faithful to the input document. There are two possible causes of the unfaithfulness problem:(1) the summarization model fails to understand or capture the gist of the input text, and (2) the model over-relies on the language model to generate fluent but inadequate words. In this work, we propose a Faithfulness …
+Cites: ‪Evaluating the factual consistency of abstractive text summarization‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adapting Pretrained Models for Machine Translation"
+date:   2022-09-27 02:04:52 -0400
+categories: jekyll update
+author: "A Kurniawan - 2022"
+---
+Pre-trained language models received extensive attention in recent years. However, it is still challenging to incorporate a pre-trained model such as BERT into natural language generation tasks. This work investigates a recent method called adapters as an alternative to fine-tuning the whole model in machine translation. Adapters are a promising approach that allows fine-tuning only a tiny fraction of a pre-trained network. We show that with proper initialization, adapters can help achieve better …
+Cites: ‪Lifting the Curse of Multilinguality by Pre-training Modular …‬

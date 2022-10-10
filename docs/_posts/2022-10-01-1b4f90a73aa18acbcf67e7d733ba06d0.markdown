@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Graph Convolutional Networks Using Node Addition and Edge Reweighting"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "WY Lee - … Symposium on Methodologies for Intelligent Systems, 2022"
+---
+Graph convolutional networks (GCNs) provide a promising way to explore datasets that have graph structures in nature. The presence of corrupted or incomplete graphs, however, dramatically decreases the performance of GCNs. To improve the performance, recent works on GCNs reweighted edges or added missing edges on the given graphs. On top of that, this paper further explores the domain of node addition. This paper presents a simple but effective extension of GCNs by combining …
+Cites: ‪Sch&ouml; ölkopf, B.(2004). Learning with local and global …‬

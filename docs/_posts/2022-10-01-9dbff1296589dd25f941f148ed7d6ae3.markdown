@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Robust Domain Adaptation for Machine Reading Comprehension"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "L Jiang, Z Huang, J Liu, Z Wen, X Peng - arXiv preprint arXiv:2209.11615, 2022"
+---
+Most domain adaptation methods for machine reading comprehension (MRC) use a pre-trained question-answer (QA) construction model to generate pseudo QA pairs for MRC transfer. Such a process will inevitably introduce mismatched pairs (ie, noisy correspondence) due to i) the unavailable QA pairs in target documents, and ii) the domain shift during applying the QA construction model to the target domain. Undoubtedly, the noisy correspondence will degenerate the performance of MRC …
+Cites: ‪Unsupervised question answering by cloze translation‬

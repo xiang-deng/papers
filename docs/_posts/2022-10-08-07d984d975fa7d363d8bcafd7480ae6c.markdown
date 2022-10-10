@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Understanding Influence Functions and Datamodels via Harmonic Analysis"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "N Saunshi, A Gupta, M Braverman, S Arora - arXiv preprint arXiv:2210.01072, 2022"
+---
+Influence functions estimate effect of individual data points on predictions of the model on test data and were adapted to deep learning in Koh and Liang [2017]. They have been used for detecting data poisoning, detecting helpful and harmful examples, influence of groups of datapoints, etc. Recently, Ilyas et al.[2022] introduced a linear regression method they termed datamodels to predict the effect of training points on outputs on test data. The current paper seeks to provide a better …
+Cites: ‪FastIF: Scalable Influence Functions for Efficient Model …‬

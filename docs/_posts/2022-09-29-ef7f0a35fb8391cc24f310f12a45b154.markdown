@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompt-Based Generative Multi-label Emotion Prediction with Label Contrastive Learning"
+date:   2022-09-29 01:10:17 -0400
+categories: jekyll update
+author: "Y Chai, C Teng, H Fei, S Wu, J Li, M Cheng, D Ji, F Li - CCF International Conference …, 2022"
+---
+Multi-label emotion prediction, which aims to predict emotion labels from text, attracts increasing attention recently. It is ubiquitous that emotion labels are highly correlated in this task. Existing state-of-the-art models solve multi-label emotion prediction in sequence-to-sequence (Seq2Seq) manner, while such label correlations are merely leveraged in decoding side. In this work, we propose an emotion prediction framework to jointly generate emotion labels and template sentences via Seq2Seq …
+Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬

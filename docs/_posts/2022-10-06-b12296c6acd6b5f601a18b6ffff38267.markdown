@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "XMD: An End-to-End Framework for Interactive Explanation-Based Debugging of NLP Models"
+date:   2022-10-06 01:25:19 -0400
+categories: jekyll update
+author: "DH Lee, A Kadakia, BJACZ Liu, TSRMT Sekiya…"
+---
+NLP models are susceptible to learning spurious biases (ie, bugs) that work on some datasets but do not properly reflect the underlying task. Explanation-based model debugging aims to resolve spurious biases by showing human users explanations of model behavior, asking users to give feedback on the behavior, then using the feedback to update the model. While existing model debugging methods have shown promise, their prototype-level implementations provide limited practical utility …
+Cites: ‪Adversarial filters of dataset biases‬

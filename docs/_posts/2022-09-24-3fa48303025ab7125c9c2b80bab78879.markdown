@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Robust Fairness via Balance Adversarial Training"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "C Sun, C Xu, C Yao, S Liang, Y Wu, D Liang, XL Liu… - arXiv preprint arXiv …, 2022"
----
-Adversarial training (AT) methods are effective against adversarial attacks, yet they introduce severe disparity of accuracy and robustness between different classes, known as the robust fairness problem. Previously proposed Fair Robust Learning (FRL) adaptively reweights different classes to improve fairness. However, the performance of the better-performed classes decreases, leading to a strong performance drop. In this paper, we observed two unfair phenomena during …
-Cites: ‪An investigation of why overparameterization exacerbates …‬
+--- 
+layout: post 
+title: "Improving Robust Fairness via Balance Adversarial Training" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "C Sun, C Xu, C Yao, S Liang, Y Wu, D Liang, XL Liu - arXiv preprint arXiv , 2022" 
+--- 
+Adversarial training (AT) methods are effective against adversarial attacks, yet they introduce severe disparity of accuracy and robustness between different classes, known as the robust fairness problem. Previously proposed Fair Robust Learning (FRL) adaptively reweights different classes to improve fairness. However, the performance of the better-performed classes decreases, leading to a strong performance drop. In this paper, we observed two unfair phenomena during  Cites: An investigation of why overparameterization exacerbates

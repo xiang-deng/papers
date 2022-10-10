@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Perturbations and Subpopulations for Testing Robustness in Token-Based Argument Unit Recognition"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "J Kamp, L Beinborn, A Fokkens - arXiv preprint arXiv:2209.14780, 2022"
+---
+Argument Unit Recognition and Classification aims at identifying argument units from text and classifying them as pro or against. One of the design choices that need to be made when developing systems for this task is what the unit of classification should be: segments of tokens or full sentences. Previous research suggests that fine-tuning language models on the token-level yields more robust results for classifying sentences compared to training on sentences directly. We reproduce the study that …
+Cites: ‪Evaluating models’ local decision boundaries via contrast sets‬

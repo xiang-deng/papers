@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "T5QL: Taming language models for SQL generation"
+date:   2022-09-27 02:04:52 -0400
+categories: jekyll update
+author: "S Arcadinho, D Aparício, H Veiga, A Alegria - arXiv preprint arXiv:2209.10254, 2022"
+---
+Automatic SQL generation has been an active research area, aiming at streamlining the access to databases by writing natural language with the given intent instead of writing SQL. Current SOTA methods for semantic parsing depend on LLMs to achieve high predictive accuracy on benchmark datasets. This reduces their applicability, since LLMs requires expensive GPUs. Furthermore, SOTA methods are ungrounded and thus not guaranteed to always generate valid SQL. Here we …
+Cites: ‪SmBoP: Semi-autoregressive Bottom-up Semantic Parsing‬

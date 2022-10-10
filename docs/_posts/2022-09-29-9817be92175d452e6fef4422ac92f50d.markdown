@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Faster and Better Grammar-Based Text-to-SQL Parsing via Clause-Level Parallel Decoding and Alignment Loss"
+date:   2022-09-29 01:10:17 -0400
+categories: jekyll update
+author: "K Wu, L Wang, Z Li, X Xiao - CCF International Conference on Natural Language …, 2022"
+---
+As a mainstream approach, grammar-based models have achieved high performance in text-to-SQL parsing task, but suffer from low decoding efficiency since the number of actions for building SQL trees are much larger than the number of tokens in SQL queries. Meanwhile, intuitively it is beneficial from the parsing performance perspective to incorporate alignment information between SQL clauses and question segments. This paper proposes clause-level parallel decoding and …
+Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬

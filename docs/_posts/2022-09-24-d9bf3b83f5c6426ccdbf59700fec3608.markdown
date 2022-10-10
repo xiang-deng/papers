@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PTab: Using the Pre-trained Language Model for Modeling Tabular Data"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "G Liu, J Yang, L Wu - arXiv preprint arXiv:2209.08060, 2022"
----
-Tabular data is the foundation of the information age and has been extensively studied. Recent studies show that neural-based models are effective in learning contextual representation for tabular data. The learning of an effective contextual representation requires meaningful features and a large amount of data. However, current methods often fail to properly learn a contextual representation from the features without semantic information. In addition, it s intractable to enlarge the …
-Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬
+--- 
+layout: post 
+title: "PTab: Using the Pre-trained Language Model for Modeling Tabular Data" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "G Liu, J Yang, L Wu - arXiv preprint arXiv:2209.08060, 2022" 
+--- 
+Tabular data is the foundation of the information age and has been extensively studied. Recent studies show that neural-based models are effective in learning contextual representation for tabular data. The learning of an effective contextual representation requires meaningful features and a large amount of data. However, current methods often fail to properly learn a contextual representation from the features without semantic information. In addition, it s intractable to enlarge the  Cites: TaBERT: Pretraining for joint understanding of textual and tabular

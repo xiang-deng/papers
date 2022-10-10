@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Downstream Datasets Make Surprisingly Good Pretraining Corpora"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "K Krishna, S Garg, JP Bigham, ZC Lipton - arXiv preprint arXiv:2209.14389, 2022"
+---
+For most natural language processing tasks, the dominant practice is to finetune large pretrained transformer models (eg, BERT) using smaller downstream datasets. Despite the success of this approach, it remains unclear to what extent these gains are attributable to the massive background corpora employed for pretraining versus to the pretraining objectives themselves. This paper introduces a large-scale study of self-pretraining, where the same (downstream) training data is used for both …
+Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬

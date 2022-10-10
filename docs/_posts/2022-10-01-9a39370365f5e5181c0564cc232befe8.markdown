@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Abstractive Summarization Model with Adaptive Sparsemax"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "S Guo, Y Si, J Zhao - CCF International Conference on Natural Language …, 2022"
+---
+Abstractive summarization models mostly rely on Sequence-to-Sequence architectures, in which the softmax function is widely used to transform the model output to simplex. However, softmax s output probability distribution often has the long-tail effect especially when the vocabulary size is large. Many unrelated tokens occupy too many probabilities so they will reduce the training efficiency and effect. More recently, some work has begun to design mapping functions to gain sparse …
+Cites: ‪Understanding Neural Abstractive Summarization Models via …‬

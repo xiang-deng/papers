@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "J Jang, S Ye, M Seo - arXiv preprint arXiv:2209.12711, 2022"
+---
+Previous work has shown that there exists a scaling law between the size of Language Models (LMs) and their zero-shot performance on different downstream NLP tasks. In this work, we show that this phenomenon does not hold when evaluating large LMs on tasks with negated prompts, but instead shows an inverse scaling law. We evaluate 9 different tasks with negated prompts on (1) pretrained LMs (OPT & GPT-3) of varying sizes (125M-175B),(2) LMs further pretrained to …
+Cites: ‪Semantic parsing on freebase from question-answer pairs‬

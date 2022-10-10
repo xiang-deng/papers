@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning by Distilling Context"
+date:   2022-10-06 01:25:19 -0400
+categories: jekyll update
+author: "C Snell, D Klein, R Zhong - arXiv preprint arXiv:2209.15189, 2022"
+---
+Language models significantly benefit from context tokens, such as prompts or scratchpads. They perform better when prompted with informative instructions, and they acquire new reasoning capabilities by generating a scratch-pad before predicting the final answers. However, they do not\textit {internalize} these performance gains, which disappear when the context tokens are gone. Our work proposes to apply context distillation so that a language model can improve itself by …
+Cites: ‪Least-to-Most Prompting Enables Complex Reasoning in Large …‬

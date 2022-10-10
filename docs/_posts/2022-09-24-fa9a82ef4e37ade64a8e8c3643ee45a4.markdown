@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Topic Segmentation by Injecting Discourse Dependencies"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "L Xing, P Huber, G Carenini - arXiv preprint arXiv:2209.08626, 2022"
----
-Recent neural supervised topic segmentation models achieve distinguished superior effectiveness over unsupervised methods, with the availability of large-scale training corpora sampled from Wikipedia. These models may, however, suffer from limited robustness and transferability caused by exploiting simple linguistic cues for prediction, but overlooking more important inter-sentential topical consistency. To address this issue, we present a discourse-aware neural topic segmentation model …
-Cites: ‪Learning structured text representations‬
+--- 
+layout: post 
+title: "Improving Topic Segmentation by Injecting Discourse Dependencies" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "L Xing, P Huber, G Carenini - arXiv preprint arXiv:2209.08626, 2022" 
+--- 
+Recent neural supervised topic segmentation models achieve distinguished superior effectiveness over unsupervised methods, with the availability of large-scale training corpora sampled from Wikipedia. These models may, however, suffer from limited robustness and transferability caused by exploiting simple linguistic cues for prediction, but overlooking more important inter-sentential topical consistency. To address this issue, we present a discourse-aware neural topic segmentation model  Cites: Learning structured text representations

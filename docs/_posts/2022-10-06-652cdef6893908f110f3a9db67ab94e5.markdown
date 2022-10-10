@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Online task-space trajectory planning using real-time estimations of robot motion capabilities"
+date:   2022-10-06 01:25:19 -0400
+categories: jekyll update
+author: "A Skuric, NT Alberto, L Joseph, V Padois, D Daney - 2022"
+---
+Planning a robot s task-space movement according to its actual capacity is a difficult problem because this capacity depends on its state and thus can evolve significantly during the execution of the movement. This paper proposes a method for real-time trajectory planning based on time-optimal Trapezoidal acceleration profile (TAP) trajectories, that adapts to the real-time evolution of the robot s capacity. The method is based on an efficient approach for projecting the robot s kinematic limits in the …
+Cites: ‪Legibility and predictability of robot motion‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Android Malware Detection Using BERT"
+date:   2022-09-29 01:10:17 -0400
+categories: jekyll update
+author: "B Souani, A Khanfir, A Bartel, K Allix, Y Le Traon - International Conference on …, 2022"
+---
+In this paper, we propose two empirical studies to (1) detect Android malware and (2) classify Android malware into families. We first (1) reproduce the results of MalBERT using BERT models learning with Android application s manifests obtained from 265k applications (vs. 22k for MalBERT) from the AndroZoo dataset in order to detect malware. The results of the MalBERT paper are excellent and hard to believe as a manifest only roughly represents an application, we therefore try to answer the …
+Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

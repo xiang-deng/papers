@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Serverless Datacenter: Hardware and Software Techniques for Resource Disaggregation"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "NT Pemberton - 2022"
+---
+Datacenters have grown beyond a simple collection of independent computers. They are now a complex and interconnected ecosystem of heterogeneous hardware and software services: a warehouse-scale computer. These computers are wildly expensive to provision and operate, yet we struggle to effectively utilize them. It is not uncommon to have half of allocated resources unused, while other resources cannot be allocated at all. Resource needs vary widely, both between jobs, and even over …
+Cites: ‪DBOS: a DBMS-oriented Operating System‬

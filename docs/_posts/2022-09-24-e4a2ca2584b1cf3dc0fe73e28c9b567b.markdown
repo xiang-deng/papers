@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Two Programs, one Distribution?-On Distinguishing Structures of Probabilistic Logic Programs"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "K Rückschloß, F Weitkämper"
----
-We present a criterion for two structures of probabilistic logic programs, ie programs with unspecified probabilities, to induce different sets of distributions. To this end we associate to each program structure a Datalog program, which we call the Pearl identifier. We then obtain that faithfully indistinguishable program structures yield equivalent Pearl identifiers. Moreover, we argue that the notion of faithful indistinguishability is sufficiently close to the notion of two program structures …
-Cites: ‪Static analysis in datalog extensions‬
+--- 
+layout: post 
+title: "Two Programs, one Distribution?-On Distinguishing Structures of Probabilistic Logic Programs" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "K Rckschlo, F Weitkmper" 
+--- 
+We present a criterion for two structures of probabilistic logic programs, ie programs with unspecified probabilities, to induce different sets of distributions. To this end we associate to each program structure a Datalog program, which we call the Pearl identifier. We then obtain that faithfully indistinguishable program structures yield equivalent Pearl identifiers. Moreover, we argue that the notion of faithful indistinguishability is sufficiently close to the notion of two program structures  Cites: Static analysis in datalog extensions

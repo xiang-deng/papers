@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to Drop Out: An Adversarial Approach to Training Sequence VAEs"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "Đ Miladinović, K Shridhar, K Jain, MB Paulus… - arXiv preprint arXiv …, 2022"
+---
+In principle, applying variational autoencoders (VAEs) to sequential data offers a method for controlled sequence generation, manipulation, and structured representation learning. However, training sequence VAEs is challenging: autoregressive decoders can often explain the data without utilizing the latent space, known as posterior collapse. To mitigate this, state-of-the-art models weaken the powerful decoder by applying uniformly random dropout to the decoder input. We …
+Cites: ‪Palm: Scaling language modeling with pathways‬

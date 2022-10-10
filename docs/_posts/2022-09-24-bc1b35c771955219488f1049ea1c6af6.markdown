@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Confidence-Guided Data Augmentation for Deep Semi-Supervised Training"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "F Khmaissia, H Frigui - arXiv preprint arXiv:2209.08174, 2022"
----
-We propose a new data augmentation technique for semi-supervised learning settings that emphasizes learning from the most challenging regions of the feature space. Starting with a fully supervised reference model, we first identify low confidence predictions. These samples are then used to train a Variational AutoEncoder (VAE) that can generate an infinite number of additional images with similar distribution. Finally, using the originally labeled data and the synthetically …
-Cites: ‪A framework for contrastive self-supervised learning and designing …‬
+--- 
+layout: post 
+title: "Confidence-Guided Data Augmentation for Deep Semi-Supervised Training" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "F Khmaissia, H Frigui - arXiv preprint arXiv:2209.08174, 2022" 
+--- 
+We propose a new data augmentation technique for semi-supervised learning settings that emphasizes learning from the most challenging regions of the feature space. Starting with a fully supervised reference model, we first identify low confidence predictions. These samples are then used to train a Variational AutoEncoder (VAE) that can generate an infinite number of additional images with similar distribution. Finally, using the originally labeled data and the synthetically  Cites: A framework for contrastive self-supervised learning and designing

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Robust and Explainable Fault Diagnosis with Power-Perturbation-Based Decision Boundary Analysis of Deep Learning Models"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "M Gwak, MS Kim, JP Yun, PG Park - IEEE Transactions on Industrial Informatics, 2022"
----
-Robustness of neural network models is important in fault diagnosis (FD) because uncertainty in operating conditions varies the power spectral densities of vibration data; however, it is unknown to users due to the limited explainability of the models. This paper proposes an FD framework with a POwer-perturbation-based decision Boundary Analysis (POBA) to explain the decision boundaries of vibration classification models. In the POBA, perturbed data are obtained from training data by …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Robust and Explainable Fault Diagnosis with Power-Perturbation-Based Decision Boundary Analysis of Deep Learning Models" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "M Gwak, MS Kim, JP Yun, PG Park - IEEE Transactions on Industrial Informatics, 2022" 
+--- 
+Robustness of neural network models is important in fault diagnosis (FD) because uncertainty in operating conditions varies the power spectral densities of vibration data; however, it is unknown to users due to the limited explainability of the models. This paper proposes an FD framework with a POwer-perturbation-based decision Boundary Analysis (POBA) to explain the decision boundaries of vibration classification models. In the POBA, perturbed data are obtained from training data by  Cites: Why Should I Trust You? : Explaining the Predictions of Any

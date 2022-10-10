@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Augmented Topic-Specific Summarization for Domain Dialogue Text"
+date:   2022-09-29 01:10:17 -0400
+categories: jekyll update
+author: "Z Rao, D Wei, Z Li, H Shang, J Yang, Z Yu, S Li, Z Wu… - … International Conference on …, 2022"
+---
+This paper describes HW-TSC s submission to the NLPCC 2022 dialogue text summarization task. We convert it into a sub-summary generation and a topic detection task. A sequence-to-sequence model Transformer is adopted as the foundational structure of our generation model. An ensemble topic detection model is used to filter uninformative summaries. On the other hand, we utilize multiple data processing and data augmentation methods to improve the effectiveness of the …
+Cites: ‪Multilingual denoising pre-training for neural machine translation‬

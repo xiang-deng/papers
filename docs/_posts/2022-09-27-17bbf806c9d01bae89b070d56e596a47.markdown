@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees"
+date:   2022-09-27 02:04:52 -0400
+categories: jekyll update
+author: "S Saha, S Zhang, P Hase, M Bansal - arXiv preprint arXiv:2209.10492, 2022"
+---
+Current abstractive summarization models either suffer from a lack of clear interpretability or provide incomplete rationales by only highlighting parts of the source document. To this end, we propose the Summarization Program (SP), an interpretable modular framework consisting of an (ordered) list of binary trees, each encoding the step-by-step generative process of an abstractive summary sentence from the source document. A Summarization Program contains one root node per …
+Cites: ‪Obtaining Faithful Interpretations from Compositional Neural …‬

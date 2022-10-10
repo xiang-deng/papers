@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Conversational QA Dataset Generation with Answer Revision"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "S Hwang, GG Lee - arXiv preprint arXiv:2209.11396, 2022"
+---
+Conversational question--answer generation is a task that automatically generates a large-scale conversational question answering dataset based on input passages. In this paper, we introduce a novel framework that extracts question-worthy phrases from a passage and then generates corresponding questions considering previous conversations. In particular, our framework revises the extracted answers after generating questions so that answers exactly match paired questions. Experimental …
+Cites: ‪Stay hungry, stay focused: Generating informative and specific …‬

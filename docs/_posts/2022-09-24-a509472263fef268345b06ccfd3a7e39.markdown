@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Stateful Memory-Augmented Transformers for Dialogue Modeling"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "Q Wu, Z Yu - arXiv preprint arXiv:2209.07634, 2022"
----
-Transformer encoder-decoder models have shown impressive performance in dialogue modeling. However, as Transformers are inefficient in processing long sequences, dialogue history length often needs to be truncated. To address this problem, we propose a new memory-augmented Transformer that is compatible with existing pre-trained encoder-decoder models and enables efficient preservation of history information. It incorporates a separate memory module alongside the pre …
-Cites: ‪Transformer quality in linear time‬
+--- 
+layout: post 
+title: "Stateful Memory-Augmented Transformers for Dialogue Modeling" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "Q Wu, Z Yu - arXiv preprint arXiv:2209.07634, 2022" 
+--- 
+Transformer encoder-decoder models have shown impressive performance in dialogue modeling. However, as Transformers are inefficient in processing long sequences, dialogue history length often needs to be truncated. To address this problem, we propose a new memory-augmented Transformer that is compatible with existing pre-trained encoder-decoder models and enables efficient preservation of history information. It incorporates a separate memory module alongside the pre  Cites: Transformer quality in linear time

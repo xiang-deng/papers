@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to Answer Semantic Queries over Code"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "SP Sahu, M Mandal, S Bharadwaj, A Kanade… - arXiv preprint arXiv …, 2022"
----
-During software development, developers need answers to queries about semantic aspects of code. Even though extractive question-answering using neural approaches has been studied widely in natural languages, the problem of answering semantic queries over code using neural networks has not yet been explored. This is mainly because there is no existing dataset with extractive question and answer pairs over code involving complex concepts and long chains of reasoning. We bridge …
-Cites: ‪Chi, Quoc Le, and Denny Zhou‬
+--- 
+layout: post 
+title: "Learning to Answer Semantic Queries over Code" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "SP Sahu, M Mandal, S Bharadwaj, A Kanade - arXiv preprint arXiv , 2022" 
+--- 
+During software development, developers need answers to queries about semantic aspects of code. Even though extractive question-answering using neural approaches has been studied widely in natural languages, the problem of answering semantic queries over code using neural networks has not yet been explored. This is mainly because there is no existing dataset with extractive question and answer pairs over code involving complex concepts and long chains of reasoning. We bridge  Cites: Chi, Quoc Le, and Denny Zhou

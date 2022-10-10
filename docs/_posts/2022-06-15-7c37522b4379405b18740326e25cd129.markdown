@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Narrowing the Coordinate-frame Gap in Behavior Prediction Models: Distillation for Efficient and Accurate Scene-centric Motion Forecasting" 
-date: 2022-06-15 15:55:00 -0400 
-categories: jekyll update 
-author: "DJ Su, B Douillard, R Al-Rfou, C Park, B Sapp - arXiv preprint arXiv:2206.03970, 2022" 
---- 
-Behavior prediction models have proliferated in recent years, especially in the popular real-world robotics application of autonomous driving, where representing the distribution over possible futures of moving agents is essential for safe and comfortable motion planning. In these models, the choice of coordinate frames to represent inputs and outputs has crucial trade offs which broadly fall into one of two categories. Agent-centric models transform inputs and perform inference in agent Cites: Understanding Knowledge Distillation in Non-autoregressive

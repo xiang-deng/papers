@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generate-and-Retrieve: use your predictions to improve retrieval for semantic parsing"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "Y Zemlyanskiy, M de Jong, J Ainslie, P Pasupat… - arXiv preprint arXiv …, 2022"
+---
+A common recent approach to semantic parsing augments sequence-to-sequence models by retrieving and appending a set of training samples, called exemplars. The effectiveness of this recipe is limited by the ability to retrieve informative exemplars that help produce the correct parse, which is especially challenging in low-resource settings. Existing retrieval is commonly based on similarity of query and exemplar inputs. We propose GandR, a retrieval procedure that retrieves exemplars for which …
+Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬

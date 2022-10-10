@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GM-VAE: Representation Learning with VAE on Gaussian Manifold"
+date:   2022-10-06 01:25:19 -0400
+categories: jekyll update
+author: "S Cho, J Lee, D Kim - arXiv preprint arXiv:2209.15217, 2022"
+---
+We propose a Gaussian manifold variational auto-encoder (GM-VAE) whose latent space consists of a set of diagonal Gaussian distributions. It is known that the set of the diagonal Gaussian distributions with the Fisher information metric forms a product hyperbolic space, which we call a Gaussian manifold. To learn the VAE endowed with the Gaussian manifold, we first propose a pseudo Gaussian manifold normal distribution based on the Kullback-Leibler divergence, a local approximation …
+Cites: ‪Fully Hyperbolic Neural Networks‬

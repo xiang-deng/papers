@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Model Soups for Various Training and Validation Data"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "K Suzuki, T Matsuzawa - AI, 2022"
+---
+Model soups synthesize multiple models after fine-tuning them with different hyperparameters based on the accuracy of the validation data. They train different models on the same training and validation data sets. In this study, we maximized the model fine-tuning accuracy using the inference time and memory cost of a single model. We extended the model soups to create subsets of k training and validation data using a method similar to k-fold cross-validation and trained models on these …
+Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬

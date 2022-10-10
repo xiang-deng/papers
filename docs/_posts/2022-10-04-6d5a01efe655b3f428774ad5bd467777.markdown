@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modeling function-level interactions for file-level bug localization"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "H Liang, D Hang, X Li - Empirical Software Engineering, 2022"
+---
+Automatic bug localization, ie, automatically locating potential buggy source files given a bug report, plays an essential role in software engineering. For instance, bug localization helps developers fix bugs quickly. Although information retrieval-based bug localization methods are simple and easy to understand, it is difficult for them to bridge the lexical gap between bug reports and programs and capture the rich structural information in programs. Deep learning-based bug localization (DLBL) …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards a Modular Data Management System Framework"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "H Gavriilidis, L Behme, S Papadopoulos, S Bortoli…"
+---
+Today s data management systems (DMSes) are implemented using monolithic architectures. This is explained by the fact that, historically, the DMS market was dominated by commercial solutions. However, with the advent of open source, lots of alternative DMSes and DMS components have emerged. Yet, they cannot be easily integrated because DMSes are still designed as monoliths. We propose PolyDMS, our vision towards composable DMSes. The core idea of PolyDMS is to split up and …
+Cites: ‪The Beckman report on database research‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Autoregressive Entity Generation for End-to-End Task-Oriented Dialog"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "G Huang, X Quan, Q Wang - arXiv preprint arXiv:2209.08708, 2022"
----
-Task-oriented dialog (TOD) systems often require interaction with an external knowledge base to retrieve necessary entity (eg, restaurant) information to support the response generation. Most current end-to-end TOD systems either retrieve the KB information explicitly or embed it into model parameters for implicit access.~ While the former approach demands scanning the KB at each turn of response generation, which is inefficient when the KB scales up, the latter approach shows …
-Cites: ‪A simple language model for task-oriented dialogue‬
+--- 
+layout: post 
+title: "Autoregressive Entity Generation for End-to-End Task-Oriented Dialog" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "G Huang, X Quan, Q Wang - arXiv preprint arXiv:2209.08708, 2022" 
+--- 
+Task-oriented dialog (TOD) systems often require interaction with an external knowledge base to retrieve necessary entity (eg, restaurant) information to support the response generation. Most current end-to-end TOD systems either retrieve the KB information explicitly or embed it into model parameters for implicit access.~ While the former approach demands scanning the KB at each turn of response generation, which is inefficient when the KB scales up, the latter approach shows  Cites: A simple language model for task-oriented dialogue

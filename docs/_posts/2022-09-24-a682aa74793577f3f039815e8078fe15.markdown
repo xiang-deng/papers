@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pruning Neural Networks via Coresets and Convex Geometry: Towards No Assumptions"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "M Tukan, L Mualem, A Maalouf - arXiv preprint arXiv:2209.08554, 2022"
----
-Pruning is one of the predominant approaches for compressing deep neural networks (DNNs). Lately, coresets (provable data summarizations) were leveraged for pruning DNNs, adding the advantage of theoretical guarantees on the trade-off between the compression rate and the approximation error. However, coresets in this domain were either data-dependent or generated under restrictive assumptions on both the model s weights and inputs. In real-world scenarios, such assumptions are …
-Cites: ‪Maximum Margin Coresets for Active and Noise Tolerant Learning.‬
+--- 
+layout: post 
+title: "Pruning Neural Networks via Coresets and Convex Geometry: Towards No Assumptions" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "M Tukan, L Mualem, A Maalouf - arXiv preprint arXiv:2209.08554, 2022" 
+--- 
+Pruning is one of the predominant approaches for compressing deep neural networks (DNNs). Lately, coresets (provable data summarizations) were leveraged for pruning DNNs, adding the advantage of theoretical guarantees on the trade-off between the compression rate and the approximation error. However, coresets in this domain were either data-dependent or generated under restrictive assumptions on both the model s weights and inputs. In real-world scenarios, such assumptions are  Cites: Maximum Margin Coresets for Active and Noise Tolerant Learning.

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Few-Shot Learning Without Prompts"
+date:   2022-09-27 02:04:52 -0400
+categories: jekyll update
+author: "L Tunstall, N Reimers, UES Jo, L Bates, D Korat… - arXiv preprint arXiv …, 2022"
+---
+Recent few-shot methods, such as parameter-efficient fine-tuning (PEFT) and pattern exploiting training (PET), have achieved impressive results in label-scarce settings. However, they are difficult to employ since they are subject to high variability from manually crafted prompts, and typically require billion-parameter language models to achieve high accuracy. To address these shortcomings, we propose SetFit (Sentence Transformer Fine-tuning), an efficient and prompt-free framework for few …
+Cites: ‪Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper …‬

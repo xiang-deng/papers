@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Item Categorization Algorithm Based on Improved Text Representation"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "T Zhenchao, M Jing - Data Analysis and Knowledge Discovery, 2022"
+---
+[Objective] This paper proposes a new model to improve the traditional text classifiers which tend to misclassify commodity titles with different labels and similar modifiers.[Methods] First, we designed the text discriminator as an auxiliary task, which took the normalized Euclidean distance of different label text vectors as the loss function. Then, we utilized the cross-entropy loss function of the traditional text classification to the new text encoder. Finally, we generated text representation with …
+Cites: ‪Document modeling with gated recurrent neural network for …‬

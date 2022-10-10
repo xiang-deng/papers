@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Dynamic of Consensus in Deep Networks and the Identification of Noisy Labels"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "D Shwartz, U Stern, D Weinshall - arXiv preprint arXiv:2210.00583, 2022"
+---
+Deep neural networks have incredible capacity and expressibility, and can seemingly memorize any training set. This introduces a problem when training in the presence of noisy labels, as the noisy examples cannot be distinguished from clean examples by the end of training. Recent research has dealt with this challenge by utilizing the fact that deep networks seem to memorize clean examples much earlier than noisy examples. Here we report a new empirical result: for each example, when …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

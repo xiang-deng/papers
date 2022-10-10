@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Neural-Symbolic Entangled Framework for Complex Query Answering"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "Z Xu, W Zhang, P Ye, H Chen, H Chen - arXiv preprint arXiv:2209.08779, 2022"
----
-Answering complex queries over knowledge graphs (KG) is an important yet challenging task because of the KG incompleteness issue and cascading errors during reasoning. Recent query embedding (QE) approaches to embed the entities and relations in a KG and the first-order logic (FOL) queries into a low dimensional space, answering queries by dense similarity search. However, previous works mainly concentrate on the target answers, ignoring intermediate entities  usefulness …
-Cites: ‪Representing Text for Joint Embedding of Text and Knowledge …‬
+--- 
+layout: post 
+title: "Neural-Symbolic Entangled Framework for Complex Query Answering" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "Z Xu, W Zhang, P Ye, H Chen, H Chen - arXiv preprint arXiv:2209.08779, 2022" 
+--- 
+Answering complex queries over knowledge graphs (KG) is an important yet challenging task because of the KG incompleteness issue and cascading errors during reasoning. Recent query embedding (QE) approaches to embed the entities and relations in a KG and the first-order logic (FOL) queries into a low dimensional space, answering queries by dense similarity search. However, previous works mainly concentrate on the target answers, ignoring intermediate entities usefulness  Cites: Representing Text for Joint Embedding of Text and Knowledge

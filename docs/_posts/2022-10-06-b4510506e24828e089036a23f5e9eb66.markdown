@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Simple yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition"
+date:   2022-10-06 01:25:19 -0400
+categories: jekyll update
+author: "M Rojas, F Bravo-Marquez, J Dunstan"
+---
+Abstract Named Entity Recognition (NER) is an important task in Natural Language Processing that aims to identify text spans belonging to predefined categories. Traditional NER systems ignore nested entities, which are entities contained in other entity mentions. Although several methods have been proposed to address this case, most of them rely on complex taskspecific structures and ignore potentially useful baselines for the task. We argue that this creates an overly optimistic impression of …
+Cites: ‪Joint mention extraction and classification with mention hypergraphs‬

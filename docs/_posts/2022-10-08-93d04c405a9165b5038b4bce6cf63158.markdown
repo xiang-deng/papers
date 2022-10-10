@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring Parameter-Efficient Fine-tuning for Improving Communication Efficiency in Federated Learning"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "G Sun, M Mendieta, T Yang, C Chen - arXiv preprint arXiv:2210.01708, 2022"
+---
+Federated learning (FL) has emerged as a promising paradigm for enabling the collaborative training of models without centralized access to the raw data on local devices. In the typical FL paradigm (eg, FedAvg), model weights are sent to and from the server each round to participating clients. However, this can quickly put a massive communication burden on the system, especially if more capable models beyond very small MLPs are employed. Recently, the use of pre-trained models has …
+Cites: ‪Adapterhub: A framework for adapting transformers‬

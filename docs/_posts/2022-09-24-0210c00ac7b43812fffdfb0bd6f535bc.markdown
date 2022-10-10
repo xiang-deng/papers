@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GAPX: Generalized Autoregressive Paraphrase-Identification X"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "Y Zhou, R Li, H Housen, S Lim, AI Meta"
----
-Paraphrase Identification is a fundamental task in Natural Language Processing. While much progress has been made in the field, the performance of many state-ofthe-art models often suffer from distribution shift during inference time. We verify that a major source of this performance drop comes from biases introduced by negative examples. To overcome these biases, we propose in this paper to train two separate models, one that only utilizes the positive pairs and the other the negative …
-Cites: ‪Compositional Questions Do Not Necessitate Multi-hop Reasoning‬
+--- 
+layout: post 
+title: "GAPX: Generalized Autoregressive Paraphrase-Identification X" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "Y Zhou, R Li, H Housen, S Lim, AI Meta" 
+--- 
+Paraphrase Identification is a fundamental task in Natural Language Processing. While much progress has been made in the field, the performance of many state-ofthe-art models often suffer from distribution shift during inference time. We verify that a major source of this performance drop comes from biases introduced by negative examples. To overcome these biases, we propose in this paper to train two separate models, one that only utilizes the positive pairs and the other the negative  Cites: Compositional Questions Do Not Necessitate Multi-hop Reasoning

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "XFL: Naming Functions in Binaries with Extreme Multi-label Learning"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "J Patrick-Evans, M Dannehl, J Kinder"
+---
+Reverse engineers benefit from the presence of identifiers such as function names in a binary, but usually these are removed for release. Training a machine learning model to predict function names automatically is promising but fundamentally hard: unlike words in natural language, most function names occur only once. In this paper, we address this problem by introducing eXtreme Function Labeling (XFL), an extreme multi-label learning approach to selecting appropriate labels for binary …
+Cites: ‪Dire: A neural approach to decompiled identifier naming‬

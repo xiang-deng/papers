@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Document-level event argument extraction with self-augmentation and a cross-domain joint training mechanism"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "J Liu, C Liang, J Xu - Knowledge-Based Systems, 2022"
----
-Document-level event argument extraction (EAE), a critical task for event knowledge acquisition, seeks to find event arguments beyond the sentence level. Previous approaches for this task adopt supervised learning, which suffers from the data scarcity issue, especially in low-resource situations. To address this challenge, we propose a new method for document-level EAE that addresses the data scarcity from two perspectives: self-augmentation and cross-domain joint training. On the one …
-Cites: ‪Dynamic Data Selection and Weighting for Iterative Back-Translation‬
+--- 
+layout: post 
+title: "Document-level event argument extraction with self-augmentation and a cross-domain joint training mechanism" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "J Liu, C Liang, J Xu - Knowledge-Based Systems, 2022" 
+--- 
+Document-level event argument extraction (EAE), a critical task for event knowledge acquisition, seeks to find event arguments beyond the sentence level. Previous approaches for this task adopt supervised learning, which suffers from the data scarcity issue, especially in low-resource situations. To address this challenge, we propose a new method for document-level EAE that addresses the data scarcity from two perspectives: self-augmentation and cross-domain joint training. On the one  Cites: Dynamic Data Selection and Weighting for Iterative Back-Translation

@@ -1,8 +1,0 @@
---- 
-layout: post 
-title: "Shifts 2.0: Extending The Dataset of Real Distributional Shifts" 
-date: 2022-07-04 12:22:48 -0400 
-categories: jekyll update 
-author: "A Malinin, A Athanasopoulos, M Barakovic, MB Cuadra - arXiv preprint arXiv , 2022" 
---- 
-Distributional shift, or the mismatch between training and deployment data, is a significant obstacle to the usage of machine learning in high-stakes industrial applications, such as autonomous driving and medicine. This creates a need to be able to assess how robustly ML models generalize as well as the quality of their uncertainty estimates. Standard ML baseline datasets do not allow these properties to be assessed, as the training, validation and test data are often identically Cites: Extending the wilds benchmark for unsupervised adaptation

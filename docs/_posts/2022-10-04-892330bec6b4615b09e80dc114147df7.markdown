@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fusing Syntactic Structure Information and Lexical Semantic Information for End-to-End Aspect-Based Sentiment Analysis"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "Y Bie, Y Yang, Y Zhang - Tsinghua Science and Technology, 2022"
+---
+The aspect-based sentiment analysis (ABSA) consists of two subtasks-aspect term extraction and aspect sentiment prediction. Most methods conduct the ABSA task by handling the subtasks in a pipeline manner, whereby problems in performance and real application emerge. In this study, we propose an end-to-end ABSA model, namely, SSi-LSi, which fuses the syntactic structure information and the lexical semantic information, to address the limitation that existing end-to-end methods do …
+Cites: ‪AllenNLP: A Deep Semantic Natural Language Processing Platform‬

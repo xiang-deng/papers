@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mega: Moving Average Equipped Gated Attention"
+date:   2022-09-27 02:04:52 -0400
+categories: jekyll update
+author: "X Ma, C Zhou, X Kong, J He, L Gui, G Neubig, J May… - arXiv preprint arXiv …, 2022"
+---
+The design choices in the Transformer attention mechanism, including weak inductive bias and quadratic computational complexity, have limited its application for modeling long sequences. In this paper, we introduce Mega, a simple, theoretically grounded, single-head gated attention mechanism equipped with (exponential) moving average to incorporate inductive bias of position-aware local dependencies into the position-agnostic attention mechanism. We further propose a …
+Cites: ‪Progen: Language modeling for protein generation‬

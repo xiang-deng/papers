@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enabling Conversational Interaction with Mobile UI using Large Language Models"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "B Wang, G Li, Y Li - arXiv preprint arXiv:2209.08655, 2022"
----
-Conversational agents show the promise to allow users to interact with mobile devices using language. However, to perform diverse UI tasks with natural language, developers typically need to create separate datasets and models for each specific task, which is expensive and effort-consuming. Recently, pre-trained large language models (LLMs) have been shown capable of generalizing to various downstream tasks when prompted with a handful of examples from the target task. This paper …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Enabling Conversational Interaction with Mobile UI using Large Language Models" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "B Wang, G Li, Y Li - arXiv preprint arXiv:2209.08655, 2022" 
+--- 
+Conversational agents show the promise to allow users to interact with mobile devices using language. However, to perform diverse UI tasks with natural language, developers typically need to create separate datasets and models for each specific task, which is expensive and effort-consuming. Recently, pre-trained large language models (LLMs) have been shown capable of generalizing to various downstream tasks when prompted with a handful of examples from the target task. This paper  Cites: Palm: Scaling language modeling with pathways

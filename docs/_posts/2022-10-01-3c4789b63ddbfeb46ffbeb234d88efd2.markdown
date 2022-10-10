@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "KNOT: Knowledge Distillation using Optimal Transport for Solving NLP Tasks"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "RBT Vaidya, S PoriaDeCLaRe"
+---
+We propose a new approach, Knowledge Distillation using Optimal Transport (KNOT), to distill the natural language semantic knowledge from multiple teacher networks to a student network. KNOT aims to train a (global) student model by learning to minimize the optimal transport cost of its assigned probability distribution over the labels to the weighted sum of probabilities predicted by the (local) teacher models, under the constraints that the student model does not have access to …
+Cites: ‪Adversarial NLI: A New Benchmark for Natural Language …‬

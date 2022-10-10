@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "N Weir, B Van Durme - arXiv preprint arXiv:2209.07662, 2022"
----
-We present an approach for systematic reasoning that produces human interpretable proof trees grounded in a factbase. Our solution resembles the style of a classic Prolog-based inference engine, where we replace handcrafted rules through a combination of neural language modeling, guided generation, and semiparametric dense retrieval. This novel reasoning engine, NELLIE, dynamically instantiates interpretable inference rules that capture and score entailment (de) compositions …
-Cites: ‪Chain of thought prompting elicits reasoning in large language …‬
+--- 
+layout: post 
+title: "Dynamic Generation of Interpretable Inference Rules in a Neuro-Symbolic Expert System" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "N Weir, B Van Durme - arXiv preprint arXiv:2209.07662, 2022" 
+--- 
+We present an approach for systematic reasoning that produces human interpretable proof trees grounded in a factbase. Our solution resembles the style of a classic Prolog-based inference engine, where we replace handcrafted rules through a combination of neural language modeling, guided generation, and semiparametric dense retrieval. This novel reasoning engine, NELLIE, dynamically instantiates interpretable inference rules that capture and score entailment (de) compositions  Cites: Chain of thought prompting elicits reasoning in large language

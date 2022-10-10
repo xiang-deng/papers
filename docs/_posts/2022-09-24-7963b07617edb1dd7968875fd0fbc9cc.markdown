@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automatic Label Sequence Generation for Prompting Sequence-to-sequence Models"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "Z Yu, T Gao, Z Zhang, Y Lin, Z Liu, M Sun, J Zhou - arXiv preprint arXiv:2209.09401, 2022"
----
-Prompting, which casts downstream applications as language modeling tasks, has shown to be sample efficient compared to standard fine-tuning with pre-trained models. However, one pitfall of prompting is the need of manually-designed patterns, whose outcome can be unintuitive and requires large validation sets to tune. To tackle the challenge, we propose AutoSeq, a fully automatic prompting method:(1) We adopt natural language prompts on sequence-to-sequence models, enabling …
-Cites: ‪Looking beyond the surface: A challenge set for reading …‬
+--- 
+layout: post 
+title: "Automatic Label Sequence Generation for Prompting Sequence-to-sequence Models" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "Z Yu, T Gao, Z Zhang, Y Lin, Z Liu, M Sun, J Zhou - arXiv preprint arXiv:2209.09401, 2022" 
+--- 
+Prompting, which casts downstream applications as language modeling tasks, has shown to be sample efficient compared to standard fine-tuning with pre-trained models. However, one pitfall of prompting is the need of manually-designed patterns, whose outcome can be unintuitive and requires large validation sets to tune. To tackle the challenge, we propose AutoSeq, a fully automatic prompting method:(1) We adopt natural language prompts on sequence-to-sequence models, enabling  Cites: Looking beyond the surface: A challenge set for reading

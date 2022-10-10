@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Frustratingly Easy Performance Improvements for Low-resource Setups: A Tale on BERT and Segment Embeddings"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "R van der Goot, M Müller-Eberstein, B Plank - Proceedings of the Thirteenth …, 2022"
+---
+As input representation for each sub-word, the original BERT architecture proposes the sum of the sub-word embedding, position embedding and a segment embedding. Sub-word and position embeddings are well-known and studied, and encode lexical information and word position, respectively. In contrast, segment embeddings are less known and have so far received no attention, despite being ubiquitous in large pre-trained language models. The key idea of segment …
+Cites: ‪SpanBERT: Improving Pre-training by Representing and Predicting …‬

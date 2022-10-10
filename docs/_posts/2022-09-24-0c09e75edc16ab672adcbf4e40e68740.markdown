@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Modeling Multiple Views via Implicitly Preserving Global Consistency and Local Complementarity"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "J Li, W Qiang, C Zheng, B Su, F Razzak, JR Wen… - IEEE Transactions on …, 2022"
----
-While self-supervised learning techniques are often used to mine hidden knowledge from unlabeled data via modeling multiple views, it is unclear how to perform effective representation learning in a complex and inconsistent context. To this end, we propose a new multi-view self-supervised learning method, namely consistency and complementarity network (CoCoNet), to comprehensively learn global inter-view consistent and local cross-view complementarity-preserving representations from …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Modeling Multiple Views via Implicitly Preserving Global Consistency and Local Complementarity" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "J Li, W Qiang, C Zheng, B Su, F Razzak, JR Wen - IEEE Transactions on , 2022" 
+--- 
+While self-supervised learning techniques are often used to mine hidden knowledge from unlabeled data via modeling multiple views, it is unclear how to perform effective representation learning in a complex and inconsistent context. To this end, we propose a new multi-view self-supervised learning method, namely consistency and complementarity network (CoCoNet), to comprehensively learn global inter-view consistent and local cross-view complementarity-preserving representations from  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

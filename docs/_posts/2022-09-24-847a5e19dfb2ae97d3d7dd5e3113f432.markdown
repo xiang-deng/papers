@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Less is Better: Recovering Intended-Feature Subspace to Robustify NLU Models"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "T Wu, T Gui - arXiv preprint arXiv:2209.07879, 2022"
----
-Datasets with significant proportions of bias present threats for training a trustworthy model on NLU tasks. Despite yielding great progress, current debiasing methods impose excessive reliance on the knowledge of bias attributes. Definition of the attributes, however, is elusive and varies across different datasets. Furthermore, leveraging these attributes at input level to bias mitigation may leave a gap between intrinsic properties and the underlying decision rule. To narrow down this gap and …
-Cites: ‪Well-Read Students Learn Better: On the Importance of Pre …‬
+--- 
+layout: post 
+title: "Less is Better: Recovering Intended-Feature Subspace to Robustify NLU Models" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "T Wu, T Gui - arXiv preprint arXiv:2209.07879, 2022" 
+--- 
+Datasets with significant proportions of bias present threats for training a trustworthy model on NLU tasks. Despite yielding great progress, current debiasing methods impose excessive reliance on the knowledge of bias attributes. Definition of the attributes, however, is elusive and varies across different datasets. Furthermore, leveraging these attributes at input level to bias mitigation may leave a gap between intrinsic properties and the underlying decision rule. To narrow down this gap and  Cites: Well-Read Students Learn Better: On the Importance of Pre

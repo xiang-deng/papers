@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection"
+date:   2022-10-08 00:45:41 -0400
+categories: jekyll update
+author: "S Wold - arXiv preprint arXiv:2210.00907, 2022"
+---
+This paper studies the problem of injecting factual knowledge into large pre-trained language models. We train adapter modules on parts of the ConceptNet knowledge graph using the masked language modeling objective and evaluate the success of the method by a series of probing experiments on the LAMA probe. Mean P@ K curves for different configurations indicate that the technique is effective, increasing the performance on subsets of the LAMA probe for large values of k by adding as …
+Cites: ‪K-adapter: Infusing knowledge into pre-trained models with adapters‬

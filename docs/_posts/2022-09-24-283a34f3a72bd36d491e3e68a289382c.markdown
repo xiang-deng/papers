@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Relation between Sensitivity and Accuracy in In-context Learning"
-date:   2022-09-24 00:16:11 -0400
-categories: jekyll update
-author: "Y Chen, C Zhao, Z Yu, K McKeown, H He - arXiv preprint arXiv:2209.07661, 2022"
----
-In-context learning (ICL) suffers from oversensitivity to the prompt, which makes it unreliable in real-world scenarios. We study the sensitivity of ICL with respect to multiple types of perturbations. First, we find that label bias obscures true ICL sensitivity, and hence prior work may have significantly underestimated the true ICL sensitivity. Second, we observe a strong negative correlation between ICL sensitivity and accuracy, with sensitive predictions less likely to be correct. Motivated by these …
-Cites: ‪WikiQA: A challenge dataset for open-domain question answering‬
+--- 
+layout: post 
+title: "On the Relation between Sensitivity and Accuracy in In-context Learning" 
+date: 2022-09-24 00:16:11 -0400 
+categories: jekyll update 
+author: "Y Chen, C Zhao, Z Yu, K McKeown, H He - arXiv preprint arXiv:2209.07661, 2022" 
+--- 
+In-context learning (ICL) suffers from oversensitivity to the prompt, which makes it unreliable in real-world scenarios. We study the sensitivity of ICL with respect to multiple types of perturbations. First, we find that label bias obscures true ICL sensitivity, and hence prior work may have significantly underestimated the true ICL sensitivity. Second, we observe a strong negative correlation between ICL sensitivity and accuracy, with sensitive predictions less likely to be correct. Motivated by these  Cites: WikiQA: A challenge dataset for open-domain question answering

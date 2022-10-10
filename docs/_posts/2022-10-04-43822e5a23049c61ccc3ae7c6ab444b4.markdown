@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Human-in-the-loop Robotic Grasping using BERT Scene Representation"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "Y Song, P Sun, P Fang, L Yang, Y Xiao, Y Zhang - arXiv preprint arXiv:2209.14026, 2022"
+---
+Current NLP techniques have been greatly applied in different domains. In this paper, we propose a human-in-the-loop framework for robotic grasping in cluttered scenes, investigating a language interface to the grasping process, which allows the user to intervene by natural language commands. This framework is constructed on a state-of-the-art rasping baseline, where we substitute a scene-graph representation with a text representation of the scene using BERT. Experiments on both simulation …
+Cites: ‪PIGLeT: Language grounding through neuro-symbolic interaction …‬

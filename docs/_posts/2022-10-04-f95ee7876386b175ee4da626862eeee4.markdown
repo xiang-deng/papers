@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RUNTIME AUDIT OF NEURAL SEQUENCE MODELS FOR NLP"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "S Ding - 2022"
+---
+Neural network sequence models have become a fundamental building block for natural language processing (NLP) applications. However, with the increasing performance and widespread adoption of these models, the social effects caused by errors in these models  outputs are also amplified. This thesis aims to mitigate such adverse effects by studying different methods that generate user-interpretable auxiliary signals along with model predictions, thus enabling efficient audits of the …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

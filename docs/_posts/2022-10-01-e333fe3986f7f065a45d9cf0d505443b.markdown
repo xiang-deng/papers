@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fast-FNet: Accelerating Transformer Encoder Models via Efficient Fourier Layers"
+date:   2022-10-01 01:08:34 -0400
+categories: jekyll update
+author: "N Sevim, EO Özyedek, F Şahinuç, A Koç - arXiv preprint arXiv:2209.12816, 2022"
+---
+Transformer-based language models utilize the attention mechanism for substantial performance improvements in almost all natural language processing (NLP) tasks. Similar attention structures are also extensively studied in several other areas. Although the attention mechanism enhances the model performances significantly, its quadratic complexity prevents efficient processing of long sequences. Recent works focused on eliminating the disadvantages of computational inefficiency and …
+Cites: ‪Hard-Coded Gaussian Attention for Neural Machine Translation‬

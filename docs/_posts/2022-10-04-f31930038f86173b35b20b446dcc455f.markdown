@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Virtual prompt pre-training for prototype-based few-shot relation extraction"
+date:   2022-10-04 00:49:37 -0400
+categories: jekyll update
+author: "K He, Y Huang, R Mao, T Gong, C Li, E Cambria - Expert Systems with Applications, 2022"
+---
+Prompt tuning with pre-trained language models (PLM) has exhibited outstanding performance by reducing the gap between pre-training tasks and various downstream applications, which requires additional labor efforts in label word mappings and prompt template engineering. However, in a label intensive research domain, eg, few-shot relation extraction (RE), manually defining label word mappings is particularly challenging, because the number of utilized relation label …
+Cites: ‪Deep contextualized word representations‬

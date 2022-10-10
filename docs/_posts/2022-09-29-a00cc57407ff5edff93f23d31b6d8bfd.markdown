@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Entity Linking with Contextualized Entity Embeddings"
+date:   2022-09-29 01:10:17 -0400
+categories: jekyll update
+author: "Z Xu, Y Chen, S Shi, B Hu - CCF International Conference on Natural Language …, 2022"
+---
+Entity linking (EL) in written language domains has been extensively studied, but EL of spoken language is still unexplored. We propose a conceptually simple and highly effective two-stage approach to tackle this issue. The first stage retrieves candidates with a dual encoder, which independently encodes mention context and entity descriptions. Each candidate is then reranked by a LUKE-based cross-encoder, which concatenates the mention and entity description. Different from previous cross …
+Cites: ‪Zero-Shot Entity Linking by Reading Entity Descriptions‬
