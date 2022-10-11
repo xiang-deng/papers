@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Waveformer: Linear-Time Attention with Forward and Backward Wavelet Transform"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "Y Zhuang, Z Wang, F Tao, J Shang - arXiv preprint arXiv:2210.01989, 2022"
----
-We propose Waveformer that learns attention mechanism in the wavelet coefficient space, requires only linear time complexity, and enjoys universal approximating power. Specifically, we first apply forward wavelet transform to project the input sequences to multi-resolution orthogonal wavelet bases, then conduct nonlinear transformations (in this case, a random feature kernel) in the wavelet coefficient space, and finally reconstruct the representation in input space via backward wavelet …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Waveformer: Linear-Time Attention with Forward and Backward Wavelet Transform" 
+date: 2022-10-08 00:45:41 -0400 
+categories: jekyll update 
+author: "Y Zhuang, Z Wang, F Tao, J Shang - arXiv preprint arXiv:2210.01989, 2022" 
+--- 
+We propose Waveformer that learns attention mechanism in the wavelet coefficient space, requires only linear time complexity, and enjoys universal approximating power. Specifically, we first apply forward wavelet transform to project the input sequences to multi-resolution orthogonal wavelet bases, then conduct nonlinear transformations (in this case, a random feature kernel) in the wavelet coefficient space, and finally reconstruct the representation in input space via backward wavelet  Cites: Codexglue: A machine learning benchmark dataset for code

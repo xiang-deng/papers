@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Deep manifold embedding of attributed graphs"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "Z Zang, S Li, D Wu, J Guo, Y Xu, SZ Li - Neurocomputing, 2022"
----
-Unsupervised attribution graph embedding is challenging because structure and attribute information must be represented in the latent space. Existing reconstruction-based approaches optimize the latent space indirectly through decoders and thus may corrupt the manifold structure of the attributed graph and ultimately affect the performance of downstream tasks. Due to the difficulties of current approaches, we propose a novel graph embedding framework called Deep Manifold Embedding of …
-Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬
+--- 
+layout: post 
+title: "Deep manifold embedding of attributed graphs" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "Z Zang, S Li, D Wu, J Guo, Y Xu, SZ Li - Neurocomputing, 2022" 
+--- 
+Unsupervised attribution graph embedding is challenging because structure and attribute information must be represented in the latent space. Existing reconstruction-based approaches optimize the latent space indirectly through decoders and thus may corrupt the manifold structure of the attributed graph and ultimately affect the performance of downstream tasks. Due to the difficulties of current approaches, we propose a novel graph embedding framework called Deep Manifold Embedding of  Cites: Adaptive Graph Encoder for Attributed Graph Embedding

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "X Wei, Y Zhang, X Zhang, R Gong, S Zhang, Q Zhang… - arXiv preprint arXiv …, 2022"
----
-Transformer architecture has become the fundamental element of the widespread natural language processing~(NLP) models. With the trends of large NLP models, the increasing memory and computation costs hinder their efficient deployment on resource-limited devices. Therefore, transformer quantization attracts wide research interest. Recent work recognizes that structured outliers are the critical bottleneck for quantization performance. However, their proposed methods increase the …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬
+--- 
+layout: post 
+title: "Outlier Suppression: Pushing the Limit of Low-bit Transformer Language Models" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "X Wei, Y Zhang, X Zhang, R Gong, S Zhang, Q Zhang - arXiv preprint arXiv , 2022" 
+--- 
+Transformer architecture has become the fundamental element of the widespread natural language processing~(NLP) models. With the trends of large NLP models, the increasing memory and computation costs hinder their efficient deployment on resource-limited devices. Therefore, transformer quantization attracts wide research interest. Recent work recognizes that structured outliers are the critical bottleneck for quantization performance. However, their proposed methods increase the  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

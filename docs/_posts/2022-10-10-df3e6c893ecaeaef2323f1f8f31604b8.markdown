@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dataset Augmentation Using Back-Translation to Improve Early Stage Dialog Systems"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "M Queudot, L Marceau, R Belbahar, É Charton…"
+---
+As dialog systems are increasingly used, a major challenge for building new ones is the lack of annotated training data. The necessary data collection and annotation efforts are laborious and time-consuming. A potential solution is to augment initial seed data by automatically paraphrasing existing samples. In this paper, we propose a novel dataefficient approach towards this goal. Our method can kick-start a dialog system with minimum human effort while delivering a performance strong enough to …
+Cites: ‪Paraphrasing revisited with neural machine translation‬

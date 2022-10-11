@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PipeBERT: High-throughput BERT Inference for ARM Big. LITTLE Multi-core Processors"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "HY Chang, SH Mozafari, C Chen, JJ Clark, BH Meyer… - Journal of Signal …, 2022"
+---
+Transformer-based models such as BERT model have achieved state-of-the-art accuracy in the natural language processing (NLP) tasks. Nevertheless, these models are extremely cumbersome and have low throughput in NLP inference. This is more challenging for edge inference due to the limited memory size and computational power of edge devices. Therefore, we aim to improve the edge inference throughput of transformer-based models, which is critical for real-life …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

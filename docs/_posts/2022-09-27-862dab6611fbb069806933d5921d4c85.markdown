@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BART-Reader: Predicting Relations Between Entities via Reading Their Document-Level Context Information"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "H Yan, Y Sun, J Dai, X Hu, Q Guo, X Qiu, X Huang - CCF International Conference on …, 2022"
----
-Document-level relation extraction (Doc-RE) aims to classify relations between entities spread over multiple sentences. When one entity is paired with separate entities, the importance of its mentions varies, which means the entity representation should be different. However, most of the previous RE models failed to make the relation classification entity-pair aware effectively. To that end, we propose a novel adaptation to simultaneously utilize the encoder and decoder of the sequence-to …
-Cites: ‪Coreferential reasoning learning for language representation‬
+--- 
+layout: post 
+title: "BART-Reader: Predicting Relations Between Entities via Reading Their Document-Level Context Information" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "H Yan, Y Sun, J Dai, X Hu, Q Guo, X Qiu, X Huang - CCF International Conference on , 2022" 
+--- 
+Document-level relation extraction (Doc-RE) aims to classify relations between entities spread over multiple sentences. When one entity is paired with separate entities, the importance of its mentions varies, which means the entity representation should be different. However, most of the previous RE models failed to make the relation classification entity-pair aware effectively. To that end, we propose a novel adaptation to simultaneously utilize the encoder and decoder of the sequence-to  Cites: Coreferential reasoning learning for language representation

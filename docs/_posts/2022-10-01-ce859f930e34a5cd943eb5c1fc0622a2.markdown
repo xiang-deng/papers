@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PROD: Progressive Distillation for Dense Retrieval"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "Z Lin, Y Gong, X Liu, H Zhang, C Lin, A Dong, J Jiao… - arXiv preprint arXiv …, 2022"
----
-Knowledge distillation is an effective way to transfer knowledge from a strong teacher to an efficient student model. Ideally, we expect the better the teacher is, the better the student. However, this expectation does not always come true. It is common that a better teacher model results in a bad student via distillation due to the nonnegligible gap between teacher and student. To bridge the gap, we propose PROD, a PROgressive Distillation method, for dense retrieval. PROD consists of a …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "PROD: Progressive Distillation for Dense Retrieval" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "Z Lin, Y Gong, X Liu, H Zhang, C Lin, A Dong, J Jiao - arXiv preprint arXiv , 2022" 
+--- 
+Knowledge distillation is an effective way to transfer knowledge from a strong teacher to an efficient student model. Ideally, we expect the better the teacher is, the better the student. However, this expectation does not always come true. It is common that a better teacher model results in a bad student via distillation due to the nonnegligible gap between teacher and student. To bridge the gap, we propose PROD, a PROgressive Distillation method, for dense retrieval. PROD consists of a  Cites: Dataset cartography: Mapping and diagnosing datasets with

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "Q Lina, R Maob, J Liuc, F Xua, E Cambriab"
----
-Abstract Knowledge graph completion (KGC) aims to infer missing facts based on the observed ones, which is significant for many downstream applications. Given the success of deep learning and pre-trained language models (LMs), some LM-based methods are proposed for the KGC task. However, most of them focus on modeling the text of fact triples and ignore the deeper semantic information (eg, topology contexts and logical rules) that is significant for KG modeling. For such a reason, we …
-Cites: ‪GreaseLM: Graph REASoning Enhanced Language Models for …‬
+--- 
+layout: post 
+title: "Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "Q Lina, R Maob, J Liuc, F Xua, E Cambriab" 
+--- 
+Abstract Knowledge graph completion (KGC) aims to infer missing facts based on the observed ones, which is significant for many downstream applications. Given the success of deep learning and pre-trained language models (LMs), some LM-based methods are proposed for the KGC task. However, most of them focus on modeling the text of fact triples and ignore the deeper semantic information (eg, topology contexts and logical rules) that is significant for KG modeling. For such a reason, we  Cites: GreaseLM: Graph REASoning Enhanced Language Models for

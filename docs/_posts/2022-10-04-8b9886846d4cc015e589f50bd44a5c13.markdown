@@ -1,9 +1,0 @@
----
-layout: post
-title:  "通过 N-gram 增强局部上下文视野感知的中文生成式摘要"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "尹宝生， 安鹏飞 - 中文信息学报, 2022"
----
-基于序列到序列模型的生成式文档摘要算法已经取得了良好的效果. 鉴于中文N-gram 蕴含着丰富的局部上下文信息, 该文提出将N-gram 信息整合到现有模型的神经框架NgramSum, 即利用N-gram 信息增强神经模型局部上下文语义感知能力. 该框架以现有的神经模型为主干, 从本地语料库提取N-gram 信息, 提出了一个局部上下文视野感知增强模块和一个门模块, 并来分别对这些信息进行编码和聚合. 在NLPCC2017 中文单文档摘要评测数据集上的实验结果表明: 该框架有效增强了基于 …
-Cites: ‪Exploring explainable selection to control abstractive summarization‬

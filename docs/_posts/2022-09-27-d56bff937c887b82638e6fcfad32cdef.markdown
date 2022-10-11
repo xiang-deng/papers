@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Decision Boundary Visualization for Counterfactual Reasoning"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "JT Sohns, C Garth, H Leitte - Computer Graphics Forum, 2022"
----
-Abstract Machine learning algorithms are widely applied to create powerful prediction models. With increasingly complex models, humans  ability to understand the decision function (that maps from a high‐dimensional input space) is quickly exceeded. To explain a model s decisions, black‐box methods have been proposed that provide either non‐linear maps of the global topology of the decision boundary, or samples that allow approximating it locally. The former loses information about …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Decision Boundary Visualization for Counterfactual Reasoning" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "JT Sohns, C Garth, H Leitte - Computer Graphics Forum, 2022" 
+--- 
+Abstract Machine learning algorithms are widely applied to create powerful prediction models. With increasingly complex models, humans ability to understand the decision function (that maps from a highdimensional input space) is quickly exceeded. To explain a model s decisions, blackbox methods have been proposed that provide either nonlinear maps of the global topology of the decision boundary, or samples that allow approximating it locally. The former loses information about  Cites: Anchors: High-Precision Model-Agnostic Explanations

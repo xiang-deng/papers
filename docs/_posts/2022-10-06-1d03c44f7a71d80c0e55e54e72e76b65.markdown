@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A controlled experiment of different code representations for learning-based program repair"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "M Namavar, N Nashid, A Mesbah - Empirical Software Engineering, 2022"
----
-Training a deep learning model on source code has gained significant traction recently. Since such models reason about vectors of numbers, source code needs to be converted to a code representation before vectorization. Numerous approaches have been proposed to represent source code, from sequences of tokens to abstract syntax trees. However, there is no systematic study to understand the effect of code representation on learning performance. Through a controlled experiment, we …
-Cites: ‪Detecting formal thought disorder by deep contextualized word …‬
+--- 
+layout: post 
+title: "A controlled experiment of different code representations for learning-based program repair" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "M Namavar, N Nashid, A Mesbah - Empirical Software Engineering, 2022" 
+--- 
+Training a deep learning model on source code has gained significant traction recently. Since such models reason about vectors of numbers, source code needs to be converted to a code representation before vectorization. Numerous approaches have been proposed to represent source code, from sequences of tokens to abstract syntax trees. However, there is no systematic study to understand the effect of code representation on learning performance. Through a controlled experiment, we  Cites: Detecting formal thought disorder by deep contextualized word

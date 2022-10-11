@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Text-to-SQL Semantic Parsing with Fine-grained Query Understanding"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "J Wang, P Ng, AH Li, J Jiang, Z Wang, R Nallapati… - arXiv preprint arXiv …, 2022"
----
-Most recent research on Text-to-SQL semantic parsing relies on either parser itself or simple heuristic based approach to understand natural language query (NLQ). When synthesizing a SQL query, there is no explicit semantic information of NLQ available to the parser which leads to undesirable generalization performance. In addition, without lexical-level fine-grained query understanding, linking between query and database can only rely on fuzzy string match which leads to suboptimal performance …
-Cites: ‪Improving Compositional Generalization in Semantic Parsing‬
+--- 
+layout: post 
+title: "Improving Text-to-SQL Semantic Parsing with Fine-grained Query Understanding" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "J Wang, P Ng, AH Li, J Jiang, Z Wang, R Nallapati - arXiv preprint arXiv , 2022" 
+--- 
+Most recent research on Text-to-SQL semantic parsing relies on either parser itself or simple heuristic based approach to understand natural language query (NLQ). When synthesizing a SQL query, there is no explicit semantic information of NLQ available to the parser which leads to undesirable generalization performance. In addition, without lexical-level fine-grained query understanding, linking between query and database can only rely on fuzzy string match which leads to suboptimal performance  Cites: Improving Compositional Generalization in Semantic Parsing

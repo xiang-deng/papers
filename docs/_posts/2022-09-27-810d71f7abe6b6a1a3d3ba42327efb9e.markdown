@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "S Chen, J Zhou, Y Sun, L He - arXiv preprint arXiv:2209.10951, 2022"
----
-Unsupervised sentence embeddings learning has been recently dominated by contrastive learning methods (eg, SimCSE), which keep positive pairs similar and push negative pairs apart. The contrast operation aims to keep as much information as possible by maximizing the mutual information between positive instances, which leads to redundant information in sentence embedding. To address this problem, we present an information minimization based contrastive learning (InforMin-CL) model …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "An Information Minimization Based Contrastive Learning Model for Unsupervised Sentence Embeddings Learning" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "S Chen, J Zhou, Y Sun, L He - arXiv preprint arXiv:2209.10951, 2022" 
+--- 
+Unsupervised sentence embeddings learning has been recently dominated by contrastive learning methods (eg, SimCSE), which keep positive pairs similar and push negative pairs apart. The contrast operation aims to keep as much information as possible by maximizing the mutual information between positive instances, which leads to redundant information in sentence embedding. To address this problem, we present an information minimization based contrastive learning (InforMin-CL) model  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

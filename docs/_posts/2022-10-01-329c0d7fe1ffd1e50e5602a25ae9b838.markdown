@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Informative Text Generation from Knowledge Triples"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "Z Fu, YR Dong, L Bing, W Lam - arXiv preprint arXiv:2209.12733, 2022"
----
-As the development of the encoder-decoder architecture, researchers are able to study the text generation tasks with broader types of data. Among them, KB-to-text aims at converting a set of knowledge triples into human readable sentences. In the original setting, the task assumes that the input triples and the text are exactly aligned in the perspective of the embodied knowledge/information. In this paper, we extend this setting and explore how to facilitate the trained model to generate more …
-Cites: ‪Ranking sentences for extractive summarization with reinforcement …‬
+--- 
+layout: post 
+title: "Informative Text Generation from Knowledge Triples" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "Z Fu, YR Dong, L Bing, W Lam - arXiv preprint arXiv:2209.12733, 2022" 
+--- 
+As the development of the encoder-decoder architecture, researchers are able to study the text generation tasks with broader types of data. Among them, KB-to-text aims at converting a set of knowledge triples into human readable sentences. In the original setting, the task assumes that the input triples and the text are exactly aligned in the perspective of the embodied knowledge/information. In this paper, we extend this setting and explore how to facilitate the trained model to generate more  Cites: Ranking sentences for extractive summarization with reinforcement

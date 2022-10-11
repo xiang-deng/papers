@@ -1,9 +1,8 @@
----
-layout: post
-title:  "JSMix: a holistic algorithm for learning with label noise"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "Z Wen, H Xu, S Ying - Neural Computing and Applications, 2022"
----
-The success of deep learning is mainly dependent on large-scale and accurately labeled datasets. However, real-world datasets are marked with much noise. Directly training on datasets with label noise may lead to the overfitting. Recent research is under the spotlight on how to design algorithms that can learn robust models from noisy datasets, via designing the loss function and integrating the idea of Semi-supervised learning (SSL). This paper proposes a robust algorithm for learning with …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "JSMix: a holistic algorithm for learning with label noise" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "Z Wen, H Xu, S Ying - Neural Computing and Applications, 2022" 
+--- 
+The success of deep learning is mainly dependent on large-scale and accurately labeled datasets. However, real-world datasets are marked with much noise. Directly training on datasets with label noise may lead to the overfitting. Recent research is under the spotlight on how to design algorithms that can learn robust models from noisy datasets, via designing the loss function and integrating the idea of Semi-supervised learning (SSL). This paper proposes a robust algorithm for learning with  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

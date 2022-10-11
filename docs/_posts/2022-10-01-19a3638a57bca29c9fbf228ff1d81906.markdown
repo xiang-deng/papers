@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Representation Learning Method with Semantic Propagation on Text-Augmented Knowledge Graphs"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "L Wang, J Lu, G Zhou, H Pan, T Zhu, N Huang, P He - Computational Intelligence …, 2022"
----
-Knowledge graph representation learning aims to provide accurate entity and relation representations for tasks such as intelligent question answering and recommendation systems. Existing representation learning methods, which only consider triples, are not sufficiently accurate, so some methods use external auxiliary information such as text, type, and time to improve performance. However, they often encode this information independently, which makes it challenging to fully integrate …
-Cites: ‪Text-Graph Enhanced Knowledge Graph Representation Learning‬
+--- 
+layout: post 
+title: "Representation Learning Method with Semantic Propagation on Text-Augmented Knowledge Graphs" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "L Wang, J Lu, G Zhou, H Pan, T Zhu, N Huang, P He - Computational Intelligence , 2022" 
+--- 
+Knowledge graph representation learning aims to provide accurate entity and relation representations for tasks such as intelligent question answering and recommendation systems. Existing representation learning methods, which only consider triples, are not sufficiently accurate, so some methods use external auxiliary information such as text, type, and time to improve performance. However, they often encode this information independently, which makes it challenging to fully integrate  Cites: Text-Graph Enhanced Knowledge Graph Representation Learning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Entity Linking Algorithm Derived from Graph Convolutional Network and Contextualized Semantic Relevance"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "B Jia, C Wang, H Zhao, L Shi - Symmetry, 2022"
----
-In the era of big data, a large amount of unstructured text data springs up every day. Entity linking involves relating the mentions found in the texts to the corresponding entities, which stand for objective things in the real world, in a knowledge base. This task can help computers understand semantics in the texts correctly. Although there have been numerous approaches employed in research such as this, some challenges are still unresolved. Most current approaches utilize neural models to …
-Cites: ‪To link or not to link? a study on end-to-end tweet entity linking‬
+--- 
+layout: post 
+title: "An Entity Linking Algorithm Derived from Graph Convolutional Network and Contextualized Semantic Relevance" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "B Jia, C Wang, H Zhao, L Shi - Symmetry, 2022" 
+--- 
+In the era of big data, a large amount of unstructured text data springs up every day. Entity linking involves relating the mentions found in the texts to the corresponding entities, which stand for objective things in the real world, in a knowledge base. This task can help computers understand semantics in the texts correctly. Although there have been numerous approaches employed in research such as this, some challenges are still unresolved. Most current approaches utilize neural models to  Cites: To link or not to link? a study on end-to-end tweet entity linking

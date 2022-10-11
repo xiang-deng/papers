@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adversarial Fine-Grained Fact Graph for Factuality-Oriented Abstractive Summarization"
-date:   2022-09-29 01:10:17 -0400
-categories: jekyll update
-author: "Z Gao, F Jiang, X Chu, P Li - CCF International Conference on Natural Language …, 2022"
----
-Although neural abstractive summarization models can generate text with significant fluency and coherence, controlling the correctness of facts in generation remains a challenge. Recent work simply classifies factuality into two categories: factual or non-factual, which is coarse-grained and lacks a deep understanding of the linguistic typology of factual errors. In this paper, we present insights into two main and common factual errors (Semantic Frame Errors and Coreference Error) and propose …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "Adversarial Fine-Grained Fact Graph for Factuality-Oriented Abstractive Summarization" 
+date: 2022-09-29 01:10:17 -0400 
+categories: jekyll update 
+author: "Z Gao, F Jiang, X Chu, P Li - CCF International Conference on Natural Language , 2022" 
+--- 
+Although neural abstractive summarization models can generate text with significant fluency and coherence, controlling the correctness of facts in generation remains a challenge. Recent work simply classifies factuality into two categories: factual or non-factual, which is coarse-grained and lacks a deep understanding of the linguistic typology of factual errors. In this paper, we present insights into two main and common factual errors (Semantic Frame Errors and Coreference Error) and propose  Cites: Text summarization with pretrained encoders

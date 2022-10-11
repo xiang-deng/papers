@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "To Softmax, or not to Softmax: that is the question when applying Active Learning for Transformer Models"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "J Gonsior, C Falkenberg, S Magino, A Reusch… - arXiv preprint arXiv …, 2022"
+---
+Despite achieving state-of-the-art results in nearly all Natural Language Processing applications, fine-tuning Transformer-based language models still requires a significant amount of labeled data to work. A well known technique to reduce the amount of human effort in acquiring a labeled dataset is\textit {Active Learning}(AL): an iterative process in which only the minimal amount of samples is labeled. AL strategies require access to a quantified confidence measure of the model …
+Cites: ‪Mind your outliers! Investigating the negative impact of outliers on …‬

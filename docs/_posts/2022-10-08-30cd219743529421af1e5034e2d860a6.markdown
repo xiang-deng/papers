@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "L Nie, J Sun, Y Wang, L Du, S Han, D Zhang, L Hou… - arXiv preprint arXiv …, 2022"
----
-The recent prevalence of pretrained language models (PLMs) has dramatically shifted the paradigm of semantic parsing, where the mapping from natural language utterances to structured logical forms is now formulated as a Seq2Seq task. Despite the promising performance, previous PLM-based approaches often suffer from hallucination problems due to their negligence of the structural information contained in the sentence, which essentially constitutes the key semantics of the logical forms …
-Cites: ‪Lego: Latent execution-guided reasoning for multi-hop question …‬
+--- 
+layout: post 
+title: "Guiding the PLMs with Semantic Anchors as Intermediate Supervision: Towards Interpretable Semantic Parsing" 
+date: 2022-10-08 00:45:41 -0400 
+categories: jekyll update 
+author: "L Nie, J Sun, Y Wang, L Du, S Han, D Zhang, L Hou - arXiv preprint arXiv , 2022" 
+--- 
+The recent prevalence of pretrained language models (PLMs) has dramatically shifted the paradigm of semantic parsing, where the mapping from natural language utterances to structured logical forms is now formulated as a Seq2Seq task. Despite the promising performance, previous PLM-based approaches often suffer from hallucination problems due to their negligence of the structural information contained in the sentence, which essentially constitutes the key semantics of the logical forms  Cites: Lego: Latent execution-guided reasoning for multi-hop question

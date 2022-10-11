@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Domain Generalisation for Robust Model-Based Offline Reinforcement Learning"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "A Clark"
----
-In many industries it is too dangerous or expensive to learn via online interaction with the real-world. The goal of offline reinforcement learning (RL) is therefore to learn a policy solely from collected data. Using this data, offline model-based RL (MBRL) methods employ supervised learning to train a model of the world (a dynamics model), against which a learning agent can safely interact. In our work, we define domain generalisation with reference to the logging/behavioural policies employed …
-Cites: ‪Annotation artifacts in natural language inference data‬

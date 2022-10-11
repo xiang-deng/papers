@@ -1,9 +1,0 @@
----
-layout: post
-title:  "MOAT: Alternating Mobile Convolution and Attention Brings Strong Vision Models"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "C Yang, S Qiao, Q Yu, X Yuan, Y Zhu, A Yuille, H Adam… - arXiv preprint arXiv …, 2022"
----
-This paper presents MOAT, a family of neural networks that build on top of MObile convolution (ie, inverted residual blocks) and ATtention. Unlike the current works that stack separate mobile convolution and transformer blocks, we effectively merge them into a MOAT block. Starting with a standard Transformer block, we replace its multi-layer perceptron with a mobile convolution block, and further reorder it before the self-attention operation. The mobile convolution block not only enhances the network …
-Cites: ‪A simple single-scale vision transformer for object localization and …‬

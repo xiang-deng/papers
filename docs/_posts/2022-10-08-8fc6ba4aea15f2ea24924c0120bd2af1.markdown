@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Decomposed Prompting: A Modular Approach for Solving Complex Tasks"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "T Khot, H Trivedi, M Finlayson, Y Fu, K Richardson… - arXiv preprint arXiv …, 2022"
----
-Few-shot prompting is a surprisingly powerful way to use Large Language Models (LLMs) to solve various tasks. However, this approach struggles as the task complexity increases or when the individual reasoning steps of the task themselves are hard to learn, especially when embedded in more complex tasks. To address this, we propose Decomposed Prompting, a new approach to solve complex tasks by decomposing them (via prompting) into simpler sub-tasks that can be delegated to a …
-Cites: ‪Least-to-Most Prompting Enables Complex Reasoning in Large …‬
+--- 
+layout: post 
+title: "Decomposed Prompting: A Modular Approach for Solving Complex Tasks" 
+date: 2022-10-08 00:45:41 -0400 
+categories: jekyll update 
+author: "T Khot, H Trivedi, M Finlayson, Y Fu, K Richardson - arXiv preprint arXiv , 2022" 
+--- 
+Few-shot prompting is a surprisingly powerful way to use Large Language Models (LLMs) to solve various tasks. However, this approach struggles as the task complexity increases or when the individual reasoning steps of the task themselves are hard to learn, especially when embedded in more complex tasks. To address this, we propose Decomposed Prompting, a new approach to solve complex tasks by decomposing them (via prompting) into simpler sub-tasks that can be delegated to a  Cites: Least-to-Most Prompting Enables Complex Reasoning in Large

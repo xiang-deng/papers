@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Structured Summarization: Unified Text Segmentation and Segment Labeling as a Generation Task"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "H Inan, R Rungta, Y Mehdad - arXiv preprint arXiv:2209.13759, 2022"
----
-Text segmentation aims to divide text into contiguous, semantically coherent segments, while segment labeling deals with producing labels for each segment. Past work has shown success in tackling segmentation and labeling for documents and conversations. This has been possible with a combination of task-specific pipelines, supervised and unsupervised learning objectives. In this work, we propose a single encoder-decoder neural network that can handle long documents and …
-Cites: ‪Unsupervised dense information retrieval with contrastive learning‬
+--- 
+layout: post 
+title: "Structured Summarization: Unified Text Segmentation and Segment Labeling as a Generation Task" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "H Inan, R Rungta, Y Mehdad - arXiv preprint arXiv:2209.13759, 2022" 
+--- 
+Text segmentation aims to divide text into contiguous, semantically coherent segments, while segment labeling deals with producing labels for each segment. Past work has shown success in tackling segmentation and labeling for documents and conversations. This has been possible with a combination of task-specific pipelines, supervised and unsupervised learning objectives. In this work, we propose a single encoder-decoder neural network that can handle long documents and  Cites: Unsupervised dense information retrieval with contrastive learning

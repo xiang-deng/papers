@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Compositional Semantic Parsing with Large Language Models"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "A Drozdov, N Schärli, E Akyuürek, N Scales, X Song… - arXiv preprint arXiv …, 2022"
----
-Humans can reason compositionally when presented with new tasks. Previous research shows that appropriate prompting techniques enable large language models (LLMs) to solve artificial compositional generalization tasks such as SCAN. In this work, we identify additional challenges in more realistic semantic parsing tasks with larger vocabulary and refine these prompting techniques to address them. Our best method is based on least-to-most prompting: it decomposes the problem using …
-Cites: ‪Compositional generalization via neural-symbolic stack machines‬
+--- 
+layout: post 
+title: "Compositional Semantic Parsing with Large Language Models" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "A Drozdov, N Schrli, E Akyurek, N Scales, X Song - arXiv preprint arXiv , 2022" 
+--- 
+Humans can reason compositionally when presented with new tasks. Previous research shows that appropriate prompting techniques enable large language models (LLMs) to solve artificial compositional generalization tasks such as SCAN. In this work, we identify additional challenges in more realistic semantic parsing tasks with larger vocabulary and refine these prompting techniques to address them. Our best method is based on least-to-most prompting: it decomposes the problem using  Cites: Compositional generalization via neural-symbolic stack machines

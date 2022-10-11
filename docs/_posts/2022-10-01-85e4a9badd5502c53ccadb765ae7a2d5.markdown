@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Do ever larger octopi still amplify reporting biases? Evidence from judgments of typical colour"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "F Liu, JM Eisenschlos, JR Cole, N Collier - arXiv preprint arXiv:2209.12786, 2022"
----
-Language models (LMs) trained on raw texts have no direct access to the physical world. Gordon and Van Durme (2013) point out that LMs can thus suffer from reporting bias: texts rarely report on common facts, instead focusing on the unusual aspects of a situation. If LMs are only trained on text corpora and naively memorise local co-occurrence statistics, they thus naturally would learn a biased view of the physical world. While prior studies have repeatedly verified that LMs of smaller …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Do ever larger octopi still amplify reporting biases? Evidence from judgments of typical colour" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "F Liu, JM Eisenschlos, JR Cole, N Collier - arXiv preprint arXiv:2209.12786, 2022" 
+--- 
+Language models (LMs) trained on raw texts have no direct access to the physical world. Gordon and Van Durme (2013) point out that LMs can thus suffer from reporting bias: texts rarely report on common facts, instead focusing on the unusual aspects of a situation. If LMs are only trained on text corpora and naively memorise local co-occurrence statistics, they thus naturally would learn a biased view of the physical world. While prior studies have repeatedly verified that LMs of smaller  Cites: Palm: Scaling language modeling with pathways

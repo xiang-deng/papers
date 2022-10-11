@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Where Should I Spend My FLOPS? Efficiency Evaluations of Visual Pre-training Methods"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "S Koppula, Y Li, E Shelhamer, A Jaegle… - arXiv preprint arXiv …, 2022"
----
-Self-supervised methods have achieved remarkable success in transfer learning, often achieving the same or better accuracy than supervised pre-training. Most prior work has done so by increasing pre-training computation by adding complex data augmentation, multiple views, or lengthy training schedules. In this work, we investigate a related, but orthogonal question: given a\textit {fixed} FLOP budget, what are the best datasets, models, and (self-) supervised training methods for …
-Cites: ‪Randaugment: Practical automated data augmentation with a …‬
+--- 
+layout: post 
+title: "Where Should I Spend My FLOPS? Efficiency Evaluations of Visual Pre-training Methods" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "S Koppula, Y Li, E Shelhamer, A Jaegle - arXiv preprint arXiv , 2022" 
+--- 
+Self-supervised methods have achieved remarkable success in transfer learning, often achieving the same or better accuracy than supervised pre-training. Most prior work has done so by increasing pre-training computation by adding complex data augmentation, multiple views, or lengthy training schedules. In this work, we investigate a related, but orthogonal question: given a\textit {fixed} FLOP budget, what are the best datasets, models, and (self-) supervised training methods for  Cites: Randaugment: Practical automated data augmentation with a

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigating annotation noise for named entity recognition"
-date:   2022-09-29 01:10:17 -0400
-categories: jekyll update
-author: "Y Zhu, Y Ye, M Li, J Zhang, O Wu - Neural Computing and Applications, 2022"
----
-Recent studies revealed that even the most widely used benchmark dataset still contains more than 5% sample-level annotation noise in Named Entity Recognition (NER). Hence, we investigate annotation noise in terms of noise detection and noise-robust learning. First, considering that noisy labels usually occur when few or vague annotation cues appear in annotated texts and their contexts, an annotation noise detection model is constructed based on self-context contrastive loss. Second, an …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Investigating annotation noise for named entity recognition" 
+date: 2022-09-29 01:10:17 -0400 
+categories: jekyll update 
+author: "Y Zhu, Y Ye, M Li, J Zhang, O Wu - Neural Computing and Applications, 2022" 
+--- 
+Recent studies revealed that even the most widely used benchmark dataset still contains more than 5% sample-level annotation noise in Named Entity Recognition (NER). Hence, we investigate annotation noise in terms of noise detection and noise-robust learning. First, considering that noisy labels usually occur when few or vague annotation cues appear in annotated texts and their contexts, an annotation noise detection model is constructed based on self-context contrastive loss. Second, an  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

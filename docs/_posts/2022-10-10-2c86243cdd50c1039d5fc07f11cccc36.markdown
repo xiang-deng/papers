@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bi-graph attention network for aspect category sentiment classification"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "Y Shan, C Che, X Wei, X Wang, Y Zhu, B Jin - Knowledge-Based Systems, 2022"
+---
+Aspect category sentiment classification (ACSC) aims to determine the sentiment polarities of sentences under given aspect categories, which can be used to infer finer-grained information in text sequences. It is widely used in consumer services, healthcare, and elections. Most models ignore the interaction of global sequence context and syntactic structure information in sentences and fail to fully learn the rich relations between word nodes related to specific aspect categories. To tackle these …
+Cites: ‪Effective LSTMs for target-dependent sentiment classification‬

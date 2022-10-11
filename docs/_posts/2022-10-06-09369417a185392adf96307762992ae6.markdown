@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Global Attention-Based Graph Neural Networks for Node Classification"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "J Chen, C Fang, X Zhang - Neural Processing Letters, 2022"
----
-Graph attention networks (GATs) is an important method for processing graph data. The traditional GAT method can extract features from neighboring nodes, but the abilities of obtaining features from distant nodes and learning the global structure of the graph are insufficient. To tackle this issue, a new model Global Attention-based Graph Neural Networks (GA-GNN) has been proposed, with two improvements aimed at improving the global feature learning ability. Firstly, in order to improve the …
-Cites: ‪Graph neural networks: A review of methods and applications‬
+--- 
+layout: post 
+title: "Global Attention-Based Graph Neural Networks for Node Classification" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "J Chen, C Fang, X Zhang - Neural Processing Letters, 2022" 
+--- 
+Graph attention networks (GATs) is an important method for processing graph data. The traditional GAT method can extract features from neighboring nodes, but the abilities of obtaining features from distant nodes and learning the global structure of the graph are insufficient. To tackle this issue, a new model Global Attention-based Graph Neural Networks (GA-GNN) has been proposed, with two improvements aimed at improving the global feature learning ability. Firstly, in order to improve the  Cites: Graph neural networks: A review of methods and applications

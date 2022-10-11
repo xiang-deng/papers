@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Out-of-Distribution Detection and Selective Generation for Conditional Language Models"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "J Ren, J Luo, Y Zhao, K Krishna, M Saleh… - arXiv preprint arXiv …, 2022"
----
-Machine learning algorithms typically assume independent and identically distributed samples in training and at test time. Much work has shown that high-performing ML classifiers can degrade significantly and provide overly-confident, wrong classification predictions, particularly for out-of-distribution (OOD) inputs. Conditional language models (CLMs) are predominantly trained to classify the next token in an output sequence, and may suffer even worse degradation on OOD inputs …
-Cites: ‪Don t give me the details, just the summary! topic-aware …‬
+--- 
+layout: post 
+title: "Out-of-Distribution Detection and Selective Generation for Conditional Language Models" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "J Ren, J Luo, Y Zhao, K Krishna, M Saleh - arXiv preprint arXiv , 2022" 
+--- 
+Machine learning algorithms typically assume independent and identically distributed samples in training and at test time. Much work has shown that high-performing ML classifiers can degrade significantly and provide overly-confident, wrong classification predictions, particularly for out-of-distribution (OOD) inputs. Conditional language models (CLMs) are predominantly trained to classify the next token in an output sequence, and may suffer even worse degradation on OOD inputs  Cites: Don t give me the details, just the summary! topic-aware

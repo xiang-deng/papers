@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Subsampling for Knowledge Graph Embedding Explained"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "H Kamigaito, K Hayashi - arXiv preprint arXiv:2209.12801, 2022"
----
-arXiv:2209.12801v1 [cs.AI] 13 Sep 2022 Page 1 arXiv:2209.12801v1 [cs.AI] 13 Sep   2022 Subsampling for Knowledge Graph Embedding Explained Hidetaka Kamigaito∗   and Katsuhiko Hayashi† Abstract In this article, we explain the recent advance of   subsampling methods in knowledge graph embedding (KGE) starting from the original   one used in word2vec. 1 Negative Sampling Loss Knowledge graph completion (KGC)   is a research topic for automatically inferring new links in a KG that are likely but not yet …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Subsampling for Knowledge Graph Embedding Explained" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "H Kamigaito, K Hayashi - arXiv preprint arXiv:2209.12801, 2022" 
+--- 
+arXiv:2209.12801v1 [cs.AI] 13 Sep 2022 Page 1 arXiv:2209.12801v1 [cs.AI] 13 Sep 2022 Subsampling for Knowledge Graph Embedding Explained Hidetaka Kamigaito and Katsuhiko Hayashi Abstract In this article, we explain the recent advance of subsampling methods in knowledge graph embedding (KGE) starting from the original one used in word2vec. 1 Negative Sampling Loss Knowledge graph completion (KGC) is a research topic for automatically inferring new links in a KG that are likely but not yet  Cites: Observed versus latent features for knowledge base and text

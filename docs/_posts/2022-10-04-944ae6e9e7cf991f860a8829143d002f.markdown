@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Improved Algorithms and Upper Bounds in Differential Privacy"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "A Ganesh - 2022"
----
-Differential privacy is the now de facto industry standard for ensuring privacy while publicly releasing statistics about a sensitive database. At a high level, differentially private algorithms add noise to the statistics they compute, so an adversary cannot with high confidence guess if any individual is in the database as any individual s effect on the statistics can be replicated by the noise. The fundamental paradigm in differential privacy is the privacy-accuracy trade-off: A differentially private algorithm s …
-Cites: ‪Large language models can be strong differentially private learners‬

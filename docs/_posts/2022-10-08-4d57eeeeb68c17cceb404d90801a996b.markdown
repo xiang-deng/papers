@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards a Unified View on Visual Parameter-Efficient Transfer Learning"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "BXB Yu, J Chang, L Liu, Q Tian, CW Chen - arXiv preprint arXiv:2210.00788, 2022"
----
-Since the release of various large-scale natural language processing (NLP) pre-trained models, parameter efficient transfer learning (PETL) has become a popular paradigm capable of achieving impressive performance on various downstream tasks. PETL aims at making good use of the representation knowledge in the pre-trained large models by fine-tuning a small number of parameters. Recently, it has also attracted increasing attention to developing various PETL techniques for vision …
-Cites: ‪VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and …‬
+--- 
+layout: post 
+title: "Towards a Unified View on Visual Parameter-Efficient Transfer Learning" 
+date: 2022-10-08 00:45:41 -0400 
+categories: jekyll update 
+author: "BXB Yu, J Chang, L Liu, Q Tian, CW Chen - arXiv preprint arXiv:2210.00788, 2022" 
+--- 
+Since the release of various large-scale natural language processing (NLP) pre-trained models, parameter efficient transfer learning (PETL) has become a popular paradigm capable of achieving impressive performance on various downstream tasks. PETL aims at making good use of the representation knowledge in the pre-trained large models by fine-tuning a small number of parameters. Recently, it has also attracted increasing attention to developing various PETL techniques for vision  Cites: VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and

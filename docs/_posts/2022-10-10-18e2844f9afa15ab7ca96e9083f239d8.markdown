@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Distributional Lens for Multi-Aspect Controllable Text Generation"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "Y Gu, X Feng, S Ma, L Zhang, H Gong, B Qin - arXiv preprint arXiv:2210.02889, 2022"
+---
+Multi-aspect controllable text generation is a more challenging and practical task than single-aspect control. Existing methods achieve complex multi-aspect control by fusing multiple controllers learned from single-aspect, but suffer from attribute degeneration caused by the mutual interference of these controllers. To address this, we provide observations on attribute fusion from a distributional perspective and propose to directly search for the intersection areas of multiple attribute distributions …
+Cites: ‪COLD decoding: Energy-based constrained text generation with …‬

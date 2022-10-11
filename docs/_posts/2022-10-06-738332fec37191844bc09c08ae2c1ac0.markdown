@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sparsity-Constrained Optimal Transport"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "T Liu, J Puigcerver, M Blondel - arXiv preprint arXiv:2209.15466, 2022"
----
-Regularized optimal transport (OT) is now increasingly used as a loss or as a matching layer in neural networks. Entropy-regularized OT can be computed using the Sinkhorn algorithm but it leads to fully-dense transportation plans, meaning that all sources are (fractionally) matched with all targets. To address this issue, several works have investigated quadratic regularization instead. This regularization preserves sparsity and leads to unconstrained and smooth (semi) dual objectives …
-Cites: ‪Base layers: Simplifying training of large, sparse models‬
+--- 
+layout: post 
+title: "Sparsity-Constrained Optimal Transport" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "T Liu, J Puigcerver, M Blondel - arXiv preprint arXiv:2209.15466, 2022" 
+--- 
+Regularized optimal transport (OT) is now increasingly used as a loss or as a matching layer in neural networks. Entropy-regularized OT can be computed using the Sinkhorn algorithm but it leads to fully-dense transportation plans, meaning that all sources are (fractionally) matched with all targets. To address this issue, several works have investigated quadratic regularization instead. This regularization preserves sparsity and leads to unconstrained and smooth (semi) dual objectives  Cites: Base layers: Simplifying training of large, sparse models

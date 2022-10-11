@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "S Hofstätter, J Chen, K Raman, H Zamani - arXiv preprint arXiv:2209.14290, 2022"
----
-Retrieval-augmented generation models offer many benefits over standalone language models: besides a textual answer to a given query they provide provenance items retrieved from an updateable knowledge base. However, they are also more complex systems and need to handle long inputs. In this work, we introduce FiD-Light to strongly increase the efficiency of the state-of-the-art retrieval-augmented FiD model, while maintaining the same level of effectiveness. Our FiD …
-Cites: ‪Few-shot Learning with Retrieval Augmented Language Models‬
+--- 
+layout: post 
+title: "FiD-Light: Efficient and Effective Retrieval-Augmented Text Generation" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "S Hofsttter, J Chen, K Raman, H Zamani - arXiv preprint arXiv:2209.14290, 2022" 
+--- 
+Retrieval-augmented generation models offer many benefits over standalone language models: besides a textual answer to a given query they provide provenance items retrieved from an updateable knowledge base. However, they are also more complex systems and need to handle long inputs. In this work, we introduce FiD-Light to strongly increase the efficiency of the state-of-the-art retrieval-augmented FiD model, while maintaining the same level of effectiveness. Our FiD  Cites: Few-shot Learning with Retrieval Augmented Language Models

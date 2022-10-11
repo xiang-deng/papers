@@ -1,9 +1,0 @@
----
-layout: post
-title:  "大数据处理系统中面向 GPU 加速 DNN 推理的模型共享"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "丁光耀， 陈启航， 徐辰， 钱卫宁， 周傲英 - 2022"
----
-近年来, 学术和工业界广泛利用大数据处理系统来处理视频分析等领域基于深度神经网络(deep neural networks, DNN) 的推理负载. 在这种场景下, 因大数据系统中多个并行推理任务重复加载相同且只读的DNN 模型, 导致系统无法充分利用GPU 资源, 成为了推理性能提升的瓶颈. 针对该问题, 该文提出了一个面向单GPU 卡的模型共享技术, 在DNN 推理任务之间共享同一份模型数据. 在此基础上, 为了使模型共享技术作用于分布式环境下的每一块GPU, 该文还设计了支持多GPU …
-Cites: ‪Physical representation-based predicate optimization for a visual …‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Theatre play generation"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "P Schmidtová - 2022"
----
-This thesis explores different ways of improving theatre play script gen-eration. To generate a theatre play script, we fine-tune the GPT-2 medium language model on a mixture of theatre plays, movies, and TV show scripts, training it to continue a human-written script start. As plain language-model generation is not sufficient for generating a coherent full-length theatre play, we propose a two step hierarchical generation approach: first generating a plot summary and then conditioning the script …
-Cites: ‪Story cloze evaluator: Vector space representation evaluation by …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CorefDiffs: Co-referential and Differential Knowledge Flow in Document Grounded Conversations"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "L Xu, Q Zhou, J Fu, MY Kan, SK Ng"
----
-Abstract Knowledge-grounded dialog systems need to incorporate smooth transitions among knowledge selected for generating responses, to ensure that dialog flows naturally. For documentgrounded dialog systems, the inter-and intradocument knowledge relations can be used to model such conversational flows. We develop a novel Multi-Document Co-Referential Graph (Coref-MDG) to effectively capture the interdocument relationships based on commonsense and similarity and …
-Cites: ‪Enhanced Knowledge Selection for Grounded Dialogues via …‬
+--- 
+layout: post 
+title: "CorefDiffs: Co-referential and Differential Knowledge Flow in Document Grounded Conversations" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "L Xu, Q Zhou, J Fu, MY Kan, SK Ng" 
+--- 
+Abstract Knowledge-grounded dialog systems need to incorporate smooth transitions among knowledge selected for generating responses, to ensure that dialog flows naturally. For documentgrounded dialog systems, the inter-and intradocument knowledge relations can be used to model such conversational flows. We develop a novel Multi-Document Co-Referential Graph (Coref-MDG) to effectively capture the interdocument relationships based on commonsense and similarity and  Cites: Enhanced Knowledge Selection for Grounded Dialogues via

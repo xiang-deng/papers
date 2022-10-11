@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hard-style Selective Context Utilization for dialogue generation based on what user just said"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "Y Ling, Z Liang, T Wang, F Cai, H Chen - Knowledge-Based Systems, 2022"
----
-Dialogue is a process of information exchanging, where global background is stable while local focuses are transiting. Thus, at the ongoing dialogue turn, there are both relevant and irrelevant semantics existing in dialogue contexts. How to filter out noises and selectively utilize context can pave the way to successful dialogue generation. Current work on dialogue context utilization either processes contexts as vanilla monologue text ignoring dynamic conversation flows, or depends on …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Hard-style Selective Context Utilization for dialogue generation based on what user just said" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "Y Ling, Z Liang, T Wang, F Cai, H Chen - Knowledge-Based Systems, 2022" 
+--- 
+Dialogue is a process of information exchanging, where global background is stable while local focuses are transiting. Thus, at the ongoing dialogue turn, there are both relevant and irrelevant semantics existing in dialogue contexts. How to filter out noises and selectively utilize context can pave the way to successful dialogue generation. Current work on dialogue context utilization either processes contexts as vanilla monologue text ignoring dynamic conversation flows, or depends on  Cites: Deep contextualized word representations

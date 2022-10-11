@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Concept Set Expansion"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "J Shen, J Han - Automated Taxonomy Discovery and Exploration, 2022"
----
-The first step toward automated taxonomy discovery is to identify important concepts. In this chapter, we discuss how to obtain high-quality concepts via concept set expansion techniques. Specifically, we first layout general approaches toward the concept set expansion task and then present an iterative expansion framework with thorough experiment analysis. After that, we discuss how to extend this expansion framework by exploiting automatically discovered negative sets and incorporating …
-Cites: ‪Long-tail vocabulary dictionary extraction from the web‬
+--- 
+layout: post 
+title: "Concept Set Expansion" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "J Shen, J Han - Automated Taxonomy Discovery and Exploration, 2022" 
+--- 
+The first step toward automated taxonomy discovery is to identify important concepts. In this chapter, we discuss how to obtain high-quality concepts via concept set expansion techniques. Specifically, we first layout general approaches toward the concept set expansion task and then present an iterative expansion framework with thorough experiment analysis. After that, we discuss how to extend this expansion framework by exploiting automatically discovered negative sets and incorporating  Cites: Long-tail vocabulary dictionary extraction from the web

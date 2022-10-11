@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sarcasm Detection with External Entity Information"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "X Xufei, K Shimada - Proceedings of 11th International Congress, 2022"
----
-Sarcasm is generally characterized as ironic or satirical that is intended to blame, mock, or amuse in an implied way. Recently, pre-trained language models, such as BERT, have achieved remarkable success in sarcasm detection. However, there are many problems that cannot be solved by using such state-of-the-art models. One problem is attribute information of entities in sentences. This work investigates the potential of external knowledge about entities in knowledge bases to improve BERT …
-Cites: ‪Barack’s Wife Hillary: Using Knowledge Graphs for Fact-Aware …‬
+--- 
+layout: post 
+title: "Sarcasm Detection with External Entity Information" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "X Xufei, K Shimada - Proceedings of 11th International Congress, 2022" 
+--- 
+Sarcasm is generally characterized as ironic or satirical that is intended to blame, mock, or amuse in an implied way. Recently, pre-trained language models, such as BERT, have achieved remarkable success in sarcasm detection. However, there are many problems that cannot be solved by using such state-of-the-art models. One problem is attribute information of entities in sentences. This work investigates the potential of external knowledge about entities in knowledge bases to improve BERT  Cites: Baracks Wife Hillary: Using Knowledge Graphs for Fact-Aware

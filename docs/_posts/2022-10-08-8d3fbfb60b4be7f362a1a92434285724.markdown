@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semantic Sentence Matching via Interacting Syntax Graphs"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "C Xu, J Xu, Z Dong, JR Wen"
----
-Studies have shown that the sentence s syntactic structures are important for semantic sentence matching. A typical approach is encoding each sentence s syntactic structure into an embedding vector, which can be combined with other features to predict the final matching scores. Though successes have been observed, embedding the whole syntactic structures as one vector inevitably overlooks the fine-grained syntax matching patterns, eg the alignment of specific …
-Cites: ‪Structured alignment networks for matching sentences‬
+--- 
+layout: post 
+title: "Semantic Sentence Matching via Interacting Syntax Graphs" 
+date: 2022-10-08 00:45:41 -0400 
+categories: jekyll update 
+author: "C Xu, J Xu, Z Dong, JR Wen" 
+--- 
+Studies have shown that the sentence s syntactic structures are important for semantic sentence matching. A typical approach is encoding each sentence s syntactic structure into an embedding vector, which can be combined with other features to predict the final matching scores. Though successes have been observed, embedding the whole syntactic structures as one vector inevitably overlooks the fine-grained syntax matching patterns, eg the alignment of specific  Cites: Structured alignment networks for matching sentences

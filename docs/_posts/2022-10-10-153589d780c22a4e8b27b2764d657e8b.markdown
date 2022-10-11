@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Code Classification by Mixup-Based Data Augmentation"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "Z Dong, Q Hu, Y Guo, M Cordy, M Papadakis, YL Traon… - arXiv preprint arXiv …, 2022"
+---
+Recently, deep neural networks (DNNs) have been widely applied in programming language understanding. Generally, training a DNN model with competitive performance requires massive and high-quality labeled training data. However, collecting and labeling such data is time-consuming and labor-intensive. To tackle this issue, data augmentation has been a popular solution, which delicately increases the training data size, eg, adversarial example generation. However, few …
+Cites: ‪Graphcodebert: Pre-training code representations with data flow‬

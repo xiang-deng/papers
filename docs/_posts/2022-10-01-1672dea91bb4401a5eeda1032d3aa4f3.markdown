@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "S Shree, J Chandrasekaran, Y Lei, RN Kacker… - 2022 IEEE International …, 2022"
----
-The profound black-box nature of Machine Learning (ML) based Artificial Intelligence (AI) systems leads to the problem of interpretability. Explainable Artificial Intelligence (XAI) tries to provide explanations to human users to understand the decisions made by ML-based systems. In this paper, we propose a software debugging-based approach called DeltaExplainer for generating counterfactual explanations for predictions made by ML models. The key insight of our approach is that the problem …
-Cites: ‪Model-agnostic interpretability of machine learning‬
+--- 
+layout: post 
+title: "DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "S Shree, J Chandrasekaran, Y Lei, RN Kacker - 2022 IEEE International , 2022" 
+--- 
+The profound black-box nature of Machine Learning (ML) based Artificial Intelligence (AI) systems leads to the problem of interpretability. Explainable Artificial Intelligence (XAI) tries to provide explanations to human users to understand the decisions made by ML-based systems. In this paper, we propose a software debugging-based approach called DeltaExplainer for generating counterfactual explanations for predictions made by ML models. The key insight of our approach is that the problem  Cites: Model-agnostic interpretability of machine learning

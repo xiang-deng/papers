@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficient graph neural architecture search using Monte Carlo Tree search and prediction network"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "TJ Deng, J Wu - Expert Systems with Applications, 2022"
----
-Abstract Graph Neural Networks (GNNs) have emerged recently as a powerful way of dealing with non-Euclidean data on graphs, such as social networks and citation networks. Despite their success, obtaining optimal graph neural networks requires immense manual work and domain knowledge. Inspired by the strong searching capability of neural architecture search in CNN, a few attempts automatically search optimal GNNs that rival the best human-invented architectures. However, existing …
-Cites: ‪Graph neural networks: A review of methods and applications‬
+--- 
+layout: post 
+title: "Efficient graph neural architecture search using Monte Carlo Tree search and prediction network" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "TJ Deng, J Wu - Expert Systems with Applications, 2022" 
+--- 
+Abstract Graph Neural Networks (GNNs) have emerged recently as a powerful way of dealing with non-Euclidean data on graphs, such as social networks and citation networks. Despite their success, obtaining optimal graph neural networks requires immense manual work and domain knowledge. Inspired by the strong searching capability of neural architecture search in CNN, a few attempts automatically search optimal GNNs that rival the best human-invented architectures. However, existing  Cites: Graph neural networks: A review of methods and applications

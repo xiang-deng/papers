@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Simple and Efficient Task-Adaptive Pre-training for Text Classification"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "A Ladkat, A Miyajiwala, S Jagadale, R Kulkarni… - arXiv preprint arXiv …, 2022"
----
-Language models are pre-trained using large corpora of generic data like book corpus, common crawl and Wikipedia, which is essential for the model to understand the linguistic characteristics of the language. New studies suggest using Domain Adaptive Pre-training (DAPT) and Task-Adaptive Pre-training (TAPT) as an intermediate step before the final finetuning task. This step helps cover the target domain vocabulary and improves the model performance on the downstream task. In …
-Cites: ‪Linguistic Knowledge and Transferability of Contextual …‬
+--- 
+layout: post 
+title: "Towards Simple and Efficient Task-Adaptive Pre-training for Text Classification" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "A Ladkat, A Miyajiwala, S Jagadale, R Kulkarni - arXiv preprint arXiv , 2022" 
+--- 
+Language models are pre-trained using large corpora of generic data like book corpus, common crawl and Wikipedia, which is essential for the model to understand the linguistic characteristics of the language. New studies suggest using Domain Adaptive Pre-training (DAPT) and Task-Adaptive Pre-training (TAPT) as an intermediate step before the final finetuning task. This step helps cover the target domain vocabulary and improves the model performance on the downstream task. In  Cites: Linguistic Knowledge and Transferability of Contextual

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SANTOS: Relationship-based Semantic Table Union Search"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "A Khatiwada, G Fan, R Shraga, Z Chen, W Gatterbauer… - arXiv preprint arXiv …, 2022"
----
-Existing techniques for unionable table search define unionability using metadata (tables must have the same or similar schemas) or column-based metrics (for example, the values in a table should be drawn from the same domain). In this work, we introduce the use of semantic relationships between pairs of columns in a table to improve the accuracy of union search. Consequently, we introduce a new notion of unionability that considers relationships between columns, together with the …
-Cites: ‪TURL: Table Understanding through Representation Learning‬
+--- 
+layout: post 
+title: "SANTOS: Relationship-based Semantic Table Union Search" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "A Khatiwada, G Fan, R Shraga, Z Chen, W Gatterbauer - arXiv preprint arXiv , 2022" 
+--- 
+Existing techniques for unionable table search define unionability using metadata (tables must have the same or similar schemas) or column-based metrics (for example, the values in a table should be drawn from the same domain). In this work, we introduce the use of semantic relationships between pairs of columns in a table to improve the accuracy of union search. Consequently, we introduce a new notion of unionability that considers relationships between columns, together with the  Cites: TURL: Table Understanding through Representation Learning

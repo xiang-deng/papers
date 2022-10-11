@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hierarchical Planning of Topic-Comment Structure for Paper Abstract Writing"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "M Han, R He, H Wang - CCF International Conference on Natural Language …, 2022"
----
-Paper abstract writing aims to generate medium-long content with the given paper title. It is challenging to generate coherent and accurate paper abstract. Previous work utilize graph data for assistance, while they cannot perform well in long-term coherence due to the lack of efficient text planning, or simply utilize the knowledge graph without distinguishing, thus introducing redundant information which may impair the quality of generated abstract. To this end, we propose a hierarchical …
-Cites: ‪Data-to-text generation with macro planning‬
+--- 
+layout: post 
+title: "Hierarchical Planning of Topic-Comment Structure for Paper Abstract Writing" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "M Han, R He, H Wang - CCF International Conference on Natural Language , 2022" 
+--- 
+Paper abstract writing aims to generate medium-long content with the given paper title. It is challenging to generate coherent and accurate paper abstract. Previous work utilize graph data for assistance, while they cannot perform well in long-term coherence due to the lack of efficient text planning, or simply utilize the knowledge graph without distinguishing, thus introducing redundant information which may impair the quality of generated abstract. To this end, we propose a hierarchical  Cites: Data-to-text generation with macro planning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Named Entity Recognition in Industrial Tables using Tabular Language Models"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "A Koleva, M Ringsquandl, M Buckley, R Hasan… - arXiv preprint arXiv …, 2022"
----
-Specialized transformer-based models for encoding tabular data have gained interest in academia. Although tabular data is omnipresent in industry, applications of table transformers are still missing. In this paper, we study how these models can be applied to an industrial Named Entity Recognition (NER) problem where the entities are mentioned in tabular-structured spreadsheets. The highly technical nature of spreadsheets as well as the lack of labeled data present major challenges for fine …
-Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬
+--- 
+layout: post 
+title: "Named Entity Recognition in Industrial Tables using Tabular Language Models" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "A Koleva, M Ringsquandl, M Buckley, R Hasan - arXiv preprint arXiv , 2022" 
+--- 
+Specialized transformer-based models for encoding tabular data have gained interest in academia. Although tabular data is omnipresent in industry, applications of table transformers are still missing. In this paper, we study how these models can be applied to an industrial Named Entity Recognition (NER) problem where the entities are mentioned in tabular-structured spreadsheets. The highly technical nature of spreadsheets as well as the lack of labeled data present major challenges for fine  Cites: TaBERT: Pretraining for joint understanding of textual and tabular

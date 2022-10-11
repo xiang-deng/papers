@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta-HGT: Metapath-aware Hypergraph Transformer for heterogeneous information network embedding"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "J Liu, L Song, G Wang, X Shang - Neural Networks, 2022"
----
-Heterogeneous information network embedding aims to learn low-dimensional node vectors in heterogeneous information networks (HINs), concerning not only structural information but also heterogeneity of diverse node and relation types. Most existing HIN embedding models mainly rely on metapath to define composite relations between node pairs and thus extract substructures from the original HIN. However, due to the pairwise structure of metapath, these models fail to capture the high-order …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬
+--- 
+layout: post 
+title: "Meta-HGT: Metapath-aware Hypergraph Transformer for heterogeneous information network embedding" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "J Liu, L Song, G Wang, X Shang - Neural Networks, 2022" 
+--- 
+Heterogeneous information network embedding aims to learn low-dimensional node vectors in heterogeneous information networks (HINs), concerning not only structural information but also heterogeneity of diverse node and relation types. Most existing HIN embedding models mainly rely on metapath to define composite relations between node pairs and thus extract substructures from the original HIN. However, due to the pairwise structure of metapath, these models fail to capture the high-order  Cites: Learning with hypergraphs: Clustering, classification, and

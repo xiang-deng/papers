@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Repairing Bugs in Python Assignments Using Large Language Models"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "J Zhang, J Cambronero, S Gulwani, V Le, R Piskac… - arXiv preprint arXiv …, 2022"
----
-Students often make mistakes on their introductory programming assignments as part of their learning process. Unfortunately, providing custom repairs for these mistakes can require a substantial amount of time and effort from class instructors. Automated program repair (APR) techniques can be used to synthesize such fixes. Prior work has explored the use of symbolic and neural techniques for APR in the education domain. Both types of approaches require either substantial engineering …
-Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬
+--- 
+layout: post 
+title: "Repairing Bugs in Python Assignments Using Large Language Models" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "J Zhang, J Cambronero, S Gulwani, V Le, R Piskac - arXiv preprint arXiv , 2022" 
+--- 
+Students often make mistakes on their introductory programming assignments as part of their learning process. Unfortunately, providing custom repairs for these mistakes can require a substantial amount of time and effort from class instructors. Automated program repair (APR) techniques can be used to synthesize such fixes. Prior work has explored the use of symbolic and neural techniques for APR in the education domain. Both types of approaches require either substantial engineering  Cites: Pre-train, prompt, and predict: A systematic survey of prompting

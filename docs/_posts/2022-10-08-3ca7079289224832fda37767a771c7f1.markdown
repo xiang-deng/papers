@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Policy Learning via Language Dynamics Distillation"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "V Zhong, J Mu, L Zettlemoyer, E Grefenstette… - arXiv preprint arXiv …, 2022"
----
-Recent work has shown that augmenting environments with language descriptions improves policy learning. However, for environments with complex language abstractions, learning how to ground language to observations is difficult due to …
+--- 
+layout: post 
+title: "Improving Policy Learning via Language Dynamics Distillation" 
+date: 2022-10-08 00:45:41 -0400 
+categories: jekyll update 
+author: "V Zhong, J Mu, L Zettlemoyer, E Grefenstette - arXiv preprint arXiv , 2022" 
+--- 
+Recent work has shown that augmenting environments with language descriptions improves policy learning. However, for environments with complex language abstractions, learning how to ground language to observations is difficult due to

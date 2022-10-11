@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TERMinator: A system for scientific texts processing"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "E Bruches, O Tikhobaeva, Y Dementyeva, T Batura - arXiv preprint arXiv:2209.14854, 2022"
----
-This paper is devoted to the extraction of entities and semantic relations between them from scientific texts, where we consider scientific terms as entities. In this paper, we present a dataset that includes annotations for two tasks and develop a system called TERMinator for the study of the influence of language models on term recognition and comparison of different approaches for relation extraction. Experiments show that language models pre-trained on the target language are not …
-Cites: ‪A linear programming formulation for global inference in natural …‬
+--- 
+layout: post 
+title: "TERMinator: A system for scientific texts processing" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "E Bruches, O Tikhobaeva, Y Dementyeva, T Batura - arXiv preprint arXiv:2209.14854, 2022" 
+--- 
+This paper is devoted to the extraction of entities and semantic relations between them from scientific texts, where we consider scientific terms as entities. In this paper, we present a dataset that includes annotations for two tasks and develop a system called TERMinator for the study of the influence of language models on term recognition and comparison of different approaches for relation extraction. Experiments show that language models pre-trained on the target language are not  Cites: A linear programming formulation for global inference in natural

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "A Saparov, H He - arXiv preprint arXiv:2210.01240, 2022"
----
-Large language models (LLMs) have shown remarkable reasoning capabilities given chain-of-thought prompts (examples with intermediate reasoning steps). Existing benchmarks measure reasoning ability indirectly, by evaluating accuracy on downstream tasks such as mathematical reasoning. However, it is unclear how these models obtain the answers and whether they rely on simple heuristics rather than the generated chain-of-thought. To enable systematic exploration of the reasoning ability …
-Cites: ‪Saturated transformers are constant-depth threshold circuits‬
+--- 
+layout: post 
+title: "Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought" 
+date: 2022-10-08 00:45:41 -0400 
+categories: jekyll update 
+author: "A Saparov, H He - arXiv preprint arXiv:2210.01240, 2022" 
+--- 
+Large language models (LLMs) have shown remarkable reasoning capabilities given chain-of-thought prompts (examples with intermediate reasoning steps). Existing benchmarks measure reasoning ability indirectly, by evaluating accuracy on downstream tasks such as mathematical reasoning. However, it is unclear how these models obtain the answers and whether they rely on simple heuristics rather than the generated chain-of-thought. To enable systematic exploration of the reasoning ability  Cites: Saturated transformers are constant-depth threshold circuits

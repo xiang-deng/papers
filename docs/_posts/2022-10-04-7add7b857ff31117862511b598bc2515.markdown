@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reasoning over Multi-view Knowledge Graphs"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "Z Xi, R Pang, C Li, T Du, S Ji, F Ma, T Wang - arXiv preprint arXiv:2209.13702, 2022"
----
-Recently, knowledge representation learning (KRL) is emerging as the state-of-the-art approach to process queries over knowledge graphs (KGs), wherein KG entities and the query are embedded into a latent space such that entities that answer the query are embedded close to the query. Yet, despite the intensive research on KRL, most existing studies either focus on homogenous KGs or assume KG completion tasks (ie, inference of missing facts), while answering complex logical queries over …
-Cites: ‪Lego: Latent execution-guided reasoning for multi-hop question …‬
+--- 
+layout: post 
+title: "Reasoning over Multi-view Knowledge Graphs" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "Z Xi, R Pang, C Li, T Du, S Ji, F Ma, T Wang - arXiv preprint arXiv:2209.13702, 2022" 
+--- 
+Recently, knowledge representation learning (KRL) is emerging as the state-of-the-art approach to process queries over knowledge graphs (KGs), wherein KG entities and the query are embedded into a latent space such that entities that answer the query are embedded close to the query. Yet, despite the intensive research on KRL, most existing studies either focus on homogenous KGs or assume KG completion tasks (ie, inference of missing facts), while answering complex logical queries over  Cites: Lego: Latent execution-guided reasoning for multi-hop question

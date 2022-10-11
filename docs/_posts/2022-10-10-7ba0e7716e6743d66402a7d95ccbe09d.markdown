@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "NEUDEP: Neural Binary Memory Dependence Analysis"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "K Pei, D She, M Wang, S Geng, Z Xuan, Y David… - arXiv preprint arXiv …, 2022"
+---
+Determining whether multiple instructions can access the same memory location is a critical task in binary analysis. It is challenging as statically computing precise alias information is undecidable in theory. The problem aggravates at the binary level due to the presence of compiler optimizations and the absence of symbols and types. Existing approaches either produce significant spurious dependencies due to conservative analysis or scale poorly to complex binaries. We present a new …
+Cites: ‪Learning python code suggestion with a sparse pointer network‬

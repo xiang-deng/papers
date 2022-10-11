@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hybrid Fine-Tuning Strategy for Few-Shot Classification"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "L Zhao, Z Ou, L Zhang, S Li - Computational Intelligence and Neuroscience, 2022"
+---
+Few-shot classification aims to enable the network to acquire the ability of feature extraction and label prediction for the target categories given a few numbers of labeled samples. Current few-shot classification methods focus on the pretraining stage while fine-tuning by experience or not at all. No fine-tuning or insufficient fine-tuning may get low accuracy for the given tasks, while excessive fine-tuning will lead to poor generalization for unseen samples. To solve the above problems, this study …
+Cites: ‪Accuracy on the line: on the strong correlation between out-of …‬

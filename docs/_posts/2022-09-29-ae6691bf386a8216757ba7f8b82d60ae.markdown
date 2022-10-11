@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Entity Difference Modeling Based Entity Linking for Question Answering over Knowledge Graphs"
-date:   2022-09-29 01:10:17 -0400
-categories: jekyll update
-author: "M Wang, M Li, K Sun, Z Hou - CCF International Conference on Natural Language …, 2022"
----
-Entity linking plays a vital role in Question Answering over Knowledge Graphs (KGQA), and the representation of entities is a fundamental component of entity linking for user questions. In order to alleviate the problem of entity descriptions that unrelated texts obfuscate similar entities, we present a new entity linking framework, which refines the encodings of entity descriptions based on entity difference modeling, so that entity linking s ability to distinguish among similar entities is …
-Cites: ‪Scalable zero-shot entity linking with dense entity retrieval‬
+--- 
+layout: post 
+title: "Entity Difference Modeling Based Entity Linking for Question Answering over Knowledge Graphs" 
+date: 2022-09-29 01:10:17 -0400 
+categories: jekyll update 
+author: "M Wang, M Li, K Sun, Z Hou - CCF International Conference on Natural Language , 2022" 
+--- 
+Entity linking plays a vital role in Question Answering over Knowledge Graphs (KGQA), and the representation of entities is a fundamental component of entity linking for user questions. In order to alleviate the problem of entity descriptions that unrelated texts obfuscate similar entities, we present a new entity linking framework, which refines the encodings of entity descriptions based on entity difference modeling, so that entity linking s ability to distinguish among similar entities is  Cites: Scalable zero-shot entity linking with dense entity retrieval

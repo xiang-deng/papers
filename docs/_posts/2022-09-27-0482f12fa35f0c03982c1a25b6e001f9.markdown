@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dynamic Relevance Graph Network for Knowledge-Aware Question Answering"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "C Zheng, P Kordjamshidi - arXiv preprint arXiv:2209.09947, 2022"
----
-This work investigates the challenge of learning and reasoning for Commonsense Question Answering given an external source of knowledge in the form of a knowledge graph (KG). We propose a novel graph neural network architecture, called Dynamic Relevance Graph Network (DRGN). DRGN operates on a given KG subgraph based on the question and answers entities and uses the relevance scores between the nodes to establish new edges dynamically for learning node …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Dynamic Relevance Graph Network for Knowledge-Aware Question Answering" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "C Zheng, P Kordjamshidi - arXiv preprint arXiv:2209.09947, 2022" 
+--- 
+This work investigates the challenge of learning and reasoning for Commonsense Question Answering given an external source of knowledge in the form of a knowledge graph (KG). We propose a novel graph neural network architecture, called Dynamic Relevance Graph Network (DRGN). DRGN operates on a given KG subgraph based on the question and answers entities and uses the relevance scores between the nodes to establish new edges dynamically for learning node  Cites: CommonsenseQA: A Question Answering Challenge Targeting

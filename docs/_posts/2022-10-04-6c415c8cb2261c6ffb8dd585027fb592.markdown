@@ -1,9 +1,8 @@
----
-layout: post
-title:  "COLO: A Contrastive Learning based Re-ranking Framework for One-Stage Summarization"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "C An, M Zhong, Z Wu, Q Zhu, X Huang, X Qiu - arXiv preprint arXiv:2209.14569, 2022"
----
-Traditional training paradigms for extractive and abstractive summarization systems always only use token-level or sentence-level training objectives. However, the output summary is always evaluated from summary-level which leads to the inconsistency in training and evaluation. In this paper, we propose a Contrastive Learning based re-ranking framework for one-stage summarization called COLO. By modeling a contrastive objective, we show that the summarization model is able to …
-Cites: ‪Better fine-tuning by reducing representational collapse‬
+--- 
+layout: post 
+title: "COLO: A Contrastive Learning based Re-ranking Framework for One-Stage Summarization" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "C An, M Zhong, Z Wu, Q Zhu, X Huang, X Qiu - arXiv preprint arXiv:2209.14569, 2022" 
+--- 
+Traditional training paradigms for extractive and abstractive summarization systems always only use token-level or sentence-level training objectives. However, the output summary is always evaluated from summary-level which leads to the inconsistency in training and evaluation. In this paper, we propose a Contrastive Learning based re-ranking framework for one-stage summarization called COLO. By modeling a contrastive objective, we show that the summarization model is able to  Cites: Better fine-tuning by reducing representational collapse

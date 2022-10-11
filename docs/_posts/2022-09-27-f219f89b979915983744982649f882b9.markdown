@@ -1,9 +1,8 @@
----
-layout: post
-title:  "INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "Y Xu, L Fu, Z Lin, J Qi, X Wang - arXiv preprint arXiv:2209.10754, 2022"
----
-Graph-to-text (G2T) generation and text-to-graph (T2G) triple extraction are two essential tasks for constructing and applying knowledge graphs. Existing unsupervised approaches turn out to be suitable candidates for jointly learning the two tasks due to their avoidance of using graph-text parallel data. However, they are composed of multiple modules and still require both entity information and relation type in the training process. To this end, we propose INFINITY, a simple yet effective …
-Cites: ‪Text generation from knowledge graphs with graph transformers‬
+--- 
+layout: post 
+title: "INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "Y Xu, L Fu, Z Lin, J Qi, X Wang - arXiv preprint arXiv:2209.10754, 2022" 
+--- 
+Graph-to-text (G2T) generation and text-to-graph (T2G) triple extraction are two essential tasks for constructing and applying knowledge graphs. Existing unsupervised approaches turn out to be suitable candidates for jointly learning the two tasks due to their avoidance of using graph-text parallel data. However, they are composed of multiple modules and still require both entity information and relation type in the training process. To this end, we propose INFINITY, a simple yet effective  Cites: Text generation from knowledge graphs with graph transformers

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FinBERT: A Large Language Model for Extracting Information from Financial Text"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "AH Huang, H Wang, Y Yang - Contemporary Accounting Research, 2022"
----
-We develop FinBERT, a state‐of‐the‐art large language model that adapts to the finance domain. We show that FinBERT incorporates finance knowledge and can better summarize contextual information in financial texts. Using a sample of researcher‐labeled sentences from analyst reports, we document that FinBERT substantially outperforms the Loughran and McDonald dictionary and other machine learning algorithms, including naïve Bayes, support vector machine, random forest …
-Cites: ‪Detecting formal thought disorder by deep contextualized word …‬
+--- 
+layout: post 
+title: "FinBERT: A Large Language Model for Extracting Information from Financial Text" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "AH Huang, H Wang, Y Yang - Contemporary Accounting Research, 2022" 
+--- 
+We develop FinBERT, a stateoftheart large language model that adapts to the finance domain. We show that FinBERT incorporates finance knowledge and can better summarize contextual information in financial texts. Using a sample of researcherlabeled sentences from analyst reports, we document that FinBERT substantially outperforms the Loughran and McDonald dictionary and other machine learning algorithms, including nave Bayes, support vector machine, random forest  Cites: Detecting formal thought disorder by deep contextualized word

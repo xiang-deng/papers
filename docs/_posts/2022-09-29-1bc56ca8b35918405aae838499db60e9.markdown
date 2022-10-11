@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Human-in-the-loop pipelines for Hatespeech detection"
-date:   2022-09-29 01:10:17 -0400
-categories: jekyll update
-author: "J Balhar, TE Ajdari, A Hrín"
----
-While the performance gains of deep learning methods in NLP are indisputable there have been raising concerns about the noninterpretability of the models, especially when deployed in high impact settings. In our work we try to address these issues in a setting of Hatespeech detection in social media platforms. For this task we use the HateXplain dataset and a pretrained BERT model. The focus of this project is experimenting with human-inthe-loop (HITL) approaches and debiasing specific …
-Cites: ‪Adapterhub: A framework for adapting transformers‬
+--- 
+layout: post 
+title: "Human-in-the-loop pipelines for Hatespeech detection" 
+date: 2022-09-29 01:10:17 -0400 
+categories: jekyll update 
+author: "J Balhar, TE Ajdari, A Hrn" 
+--- 
+While the performance gains of deep learning methods in NLP are indisputable there have been raising concerns about the noninterpretability of the models, especially when deployed in high impact settings. In our work we try to address these issues in a setting of Hatespeech detection in social media platforms. For this task we use the HateXplain dataset and a pretrained BERT model. The focus of this project is experimenting with human-inthe-loop (HITL) approaches and debiasing specific  Cites: Adapterhub: A framework for adapting transformers

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Final Ascent: When Bigger Models Generalize Worse on Noisy-Labeled Data"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "Y Xue, K Whitecross, B Mirzasoleiman - arXiv preprint arXiv:2208.08003, 2022"
----
-Increasing the size of overparameterized neural networks has been shown to improve their generalization performance. However, real-world datasets often contain a significant fraction of noisy labels, which can drastically harm the performance of the models trained on them. In this work, we study how neural networks  test loss changes with model size when the training set contains noisy labels. We show that under a sufficiently large noise-to-sample size ratio …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "The Final Ascent: When Bigger Models Generalize Worse on Noisy-Labeled Data" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "Y Xue, K Whitecross, B Mirzasoleiman - arXiv preprint arXiv:2208.08003, 2022" 
+--- 
+Increasing the size of overparameterized neural networks has been shown to improve their generalization performance. However, real-world datasets often contain a significant fraction of noisy labels, which can drastically harm the performance of the models trained on them. In this work, we study how neural networks test loss changes with model size when the training set contains noisy labels. We show that under a sufficiently large noise-to-sample size ratio  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

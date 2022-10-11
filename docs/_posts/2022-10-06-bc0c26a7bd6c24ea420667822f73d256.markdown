@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Logic tensor network with massive learned knowledge for aspect-based sentiment analysis"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "H Huang, B Zhang, L Jing, X Fu, X Chen, J Shi - Knowledge-Based Systems, 2022"
----
-Aspect-based sentiment analysis assists service providers to better understand users  opinions expressed in massive amounts of online posts, because it automatically infers users  sentiments towards the aspect terms of interest. Recently, several researchers have attempted to apply first-order logic (FOL) rules to deep neural networks via the posterior constraint method. However, existing methods simply apply a priori constraints to represent the FOL with coefficients selected by …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Logic tensor network with massive learned knowledge for aspect-based sentiment analysis" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "H Huang, B Zhang, L Jing, X Fu, X Chen, J Shi - Knowledge-Based Systems, 2022" 
+--- 
+Aspect-based sentiment analysis assists service providers to better understand users opinions expressed in massive amounts of online posts, because it automatically infers users sentiments towards the aspect terms of interest. Recently, several researchers have attempted to apply first-order logic (FOL) rules to deep neural networks via the posterior constraint method. However, existing methods simply apply a priori constraints to represent the FOL with coefficients selected by  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

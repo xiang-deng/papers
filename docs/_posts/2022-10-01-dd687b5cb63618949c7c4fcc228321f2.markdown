@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Curse of Unrolling: Rate of Differentiating Through Optimization"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "D Scieur, Q Bertrand, G Gidel, F Pedregosa - arXiv preprint arXiv:2209.13271, 2022"
----
-Computing the Jacobian of the solution of an optimization problem is a central problem in machine learning, with applications in hyperparameter optimization, meta-learning, optimization as a layer, and dataset distillation, to name a few. Unrolled differentiation is a popular heuristic that approximates the solution using an iterative solver and differentiates it through the computational path. This work provides a non-asymptotic convergence-rate analysis of this approach on quadratic objectives for …
-Cites: ‪Stochastic variance reduction methods for policy evaluation‬
+--- 
+layout: post 
+title: "The Curse of Unrolling: Rate of Differentiating Through Optimization" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "D Scieur, Q Bertrand, G Gidel, F Pedregosa - arXiv preprint arXiv:2209.13271, 2022" 
+--- 
+Computing the Jacobian of the solution of an optimization problem is a central problem in machine learning, with applications in hyperparameter optimization, meta-learning, optimization as a layer, and dataset distillation, to name a few. Unrolled differentiation is a popular heuristic that approximates the solution using an iterative solver and differentiates it through the computational path. This work provides a non-asymptotic convergence-rate analysis of this approach on quadratic objectives for  Cites: Stochastic variance reduction methods for policy evaluation

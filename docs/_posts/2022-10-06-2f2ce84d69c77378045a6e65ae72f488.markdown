@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Improved Sequential Recommendation Algorithm based on Short-Sequence Enhancement and Temporal Self-Attention Mechanism"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "J Ni, G Tang, T Shen, Y Cai, W Cao - 2022"
----
-Sequential recommendation algorithm can predict the next action of a user by modeling the user s interaction sequence with an item. However, most sequential recommendation models only consider the absolute positions of items in the sequence, ignoring the time interval information between items, and cannot effectively mine user preference changes. In addition, existing models perform poorly on sparse data sets, which make a poor prediction effect for short sequences. To …
-Cites: ‪Word n-gram attention models for sentence similarity and inference‬
+--- 
+layout: post 
+title: "An Improved Sequential Recommendation Algorithm based on Short-Sequence Enhancement and Temporal Self-Attention Mechanism" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "J Ni, G Tang, T Shen, Y Cai, W Cao - 2022" 
+--- 
+Sequential recommendation algorithm can predict the next action of a user by modeling the user s interaction sequence with an item. However, most sequential recommendation models only consider the absolute positions of items in the sequence, ignoring the time interval information between items, and cannot effectively mine user preference changes. In addition, existing models perform poorly on sparse data sets, which make a poor prediction effect for short sequences. To  Cites: Word n-gram attention models for sentence similarity and inference

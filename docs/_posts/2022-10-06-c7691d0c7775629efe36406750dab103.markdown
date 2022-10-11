@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-Shot Retrieval with Search Agents and Hybrid Environments"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "MC Huebscher, C Buck, M Ciaramita, S Rothe - arXiv preprint arXiv:2209.15469, 2022"
----
-Learning to search is the task of building artificial agents that learn to autonomously use a search box to find information. So far, it has been shown that current language models can learn symbolic query reformulation policies, in combination with traditional term-based retrieval, but fall short of outperforming neural retrievers. We extend the previous learning to search setup to a hybrid environment, which accepts discrete query refinement operations, after a first-pass retrieval step performed by a …
-Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬
+--- 
+layout: post 
+title: "Zero-Shot Retrieval with Search Agents and Hybrid Environments" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "MC Huebscher, C Buck, M Ciaramita, S Rothe - arXiv preprint arXiv:2209.15469, 2022" 
+--- 
+Learning to search is the task of building artificial agents that learn to autonomously use a search box to find information. So far, it has been shown that current language models can learn symbolic query reformulation policies, in combination with traditional term-based retrieval, but fall short of outperforming neural retrievers. We extend the previous learning to search setup to a hybrid environment, which accepts discrete query refinement operations, after a first-pass retrieval step performed by a  Cites: REALM: Retrieval-Augmented Language Model Pre-Training

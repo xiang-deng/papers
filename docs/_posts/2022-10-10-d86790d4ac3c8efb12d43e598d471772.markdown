@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Retrieval of Soft Prompt Enhances Zero-Shot Task Generalization"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "S Ye, J Jang, D Kim, Y Jo, M Seo - arXiv preprint arXiv:2210.03029, 2022"
+---
+During zero-shot inference with language models (LMs), using hard prompts alone may not be able to fully describe the target task. In this paper, we explore how the retrieval of soft prompts obtained through prompt tuning can assist hard prompts in zero-shot task generalization. Specifically, we train soft prompt embeddings for each prompt through prompt tuning, store the samples of the training instances (hard prompt+ input instances) mapped with the prompt embeddings, and retrieve the …
+Cites: ‪PPT: Pre-trained Prompt Tuning for Few-shot Learning‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "The Vendi Score: A Diversity Evaluation Metric for Machine Learning"
-date:   2022-10-08 00:45:41 -0400
-categories: jekyll update
-author: "D Friedman, AB Dieng - arXiv preprint arXiv:2210.02410, 2022"
----
-Diversity is an important criterion for many areas of machine learning (ML), including generative modeling and dataset curation. Yet little work has gone into understanding, formalizing, and measuring diversity in ML. In this paper, we address the diversity evaluation problem by proposing the Vendi Score, which connects and extends ideas from ecology and quantum statistical mechanics to ML. The Vendi Score is defined as the exponential of the Shannon entropy of the eigenvalues of a …
-Cites: ‪The multilingual Amazon reviews corpus‬

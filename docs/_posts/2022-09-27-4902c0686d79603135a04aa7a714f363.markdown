@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Succinct Graph Representations as Distance Oracles: An Experimental Evaluation"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "A Merchant, A Gionis, M Mathioudakis - International Conference on Very Large Data …, 2022"
----
-Distance oracles answer shortest-path queries between any pair of nodes in a graph. They are often built using succinct graph representations such as spanners, sketches, and compressors to minimize oracle size and query answering latency. Node embeddings, in particular, o er graph representations that place adjacent nodes nearby each other in a low-rank space. However, their use in the design of distance oracles has not been su ciently studied. In this paper, we empirically …
-Cites: ‪Graph neural networks: A review of methods and applications‬
+--- 
+layout: post 
+title: "Succinct Graph Representations as Distance Oracles: An Experimental Evaluation" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "A Merchant, A Gionis, M Mathioudakis - International Conference on Very Large Data , 2022" 
+--- 
+Distance oracles answer shortest-path queries between any pair of nodes in a graph. They are often built using succinct graph representations such as spanners, sketches, and compressors to minimize oracle size and query answering latency. Node embeddings, in particular, o er graph representations that place adjacent nodes nearby each other in a low-rank space. However, their use in the design of distance oracles has not been su ciently studied. In this paper, we empirically  Cites: Graph neural networks: A review of methods and applications

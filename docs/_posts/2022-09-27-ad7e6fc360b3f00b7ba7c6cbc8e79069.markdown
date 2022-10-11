@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Temporal Relation Extraction on Time Anchoring and Negative Denoising"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "L Wang, P Li, Q Zhu - CCF International Conference on Natural Language …, 2022"
----
-Identifying temporal relationship between events is crucial to text understanding. Recent work on temporal relation extraction only focuses on single Event-Event (EE) relations, ignoring the other Event-DCT (ED) and Event-Timex (ET) relations and suffering from imbalanced annotation. Moreover, few previous work can directly learn time intervals of events, a critical temporal clue, because the intervals are rarely occur in real-world texts. In this paper, we propose a novel Time interval Anchoring …
-Cites: ‪Joint constrained learning for event-event relation extraction‬
+--- 
+layout: post 
+title: "Temporal Relation Extraction on Time Anchoring and Negative Denoising" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "L Wang, P Li, Q Zhu - CCF International Conference on Natural Language , 2022" 
+--- 
+Identifying temporal relationship between events is crucial to text understanding. Recent work on temporal relation extraction only focuses on single Event-Event (EE) relations, ignoring the other Event-DCT (ED) and Event-Timex (ET) relations and suffering from imbalanced annotation. Moreover, few previous work can directly learn time intervals of events, a critical temporal clue, because the intervals are rarely occur in real-world texts. In this paper, we propose a novel Time interval Anchoring  Cites: Joint constrained learning for event-event relation extraction

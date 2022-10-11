@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How Far Are We from Real Synonym Substitution Attacks?"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "CH Chiang, H Lee - arXiv preprint arXiv:2210.02844, 2022"
+---
+In this paper, we explore the following question: how far are we from real synonym substitution attacks (SSAs). We approach this question by examining how SSAs replace words in the original sentence and show that there are still unresolved obstacles that make current SSAs generate invalid adversarial samples. We reveal that four widely used word substitution methods generate a large fraction of invalid substitution words that are ungrammatical or do not preserve the original sentence s …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

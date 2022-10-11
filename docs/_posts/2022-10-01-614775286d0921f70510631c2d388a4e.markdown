@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Extending Word-Level Quality Estimation for Post-Editing Assistance"
-date:   2022-10-01 01:08:34 -0400
-categories: jekyll update
-author: "Y Wei, T Utsuro, M Nagata - arXiv preprint arXiv:2209.11378, 2022"
----
-We define a novel concept called extended word alignment in order to improve post-editing assistance efficiency. Based on extended word alignment, we further propose a novel task called refined word-level QE that outputs refined tags and word-level correspondences. Compared to original word-level QE, the new task is able to directly point out editing operations, thus improves efficiency. To extract extended word alignment, we adopt a supervised method based on mBERT. To solve refined …
-Cites: ‪Word Alignment by Fine-tuning Embeddings on Parallel Corpora‬
+--- 
+layout: post 
+title: "Extending Word-Level Quality Estimation for Post-Editing Assistance" 
+date: 2022-10-01 01:08:34 -0400 
+categories: jekyll update 
+author: "Y Wei, T Utsuro, M Nagata - arXiv preprint arXiv:2209.11378, 2022" 
+--- 
+We define a novel concept called extended word alignment in order to improve post-editing assistance efficiency. Based on extended word alignment, we further propose a novel task called refined word-level QE that outputs refined tags and word-level correspondences. Compared to original word-level QE, the new task is able to directly point out editing operations, thus improves efficiency. To extract extended word alignment, we adopt a supervised method based on mBERT. To solve refined  Cites: Word Alignment by Fine-tuning Embeddings on Parallel Corpora

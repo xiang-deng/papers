@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An analogy based approach for solving target sense verification"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "G Zervakis, E Vincent, M Couceiro, M Schoenauer… - 6th International Conference …, 2022"
----
-Contextualized language models have emerged as a de facto standard in natural language processing due to the vast amount of knowledge they acquire during pretraining. Nonetheless, their ability to solve tasks that require reasoning over this knowledge is limited. Certain tasks can be improved by analogical reasoning over concepts, eg, understanding the underlying relations in  Man is to Woman as King is to Queen . In this work, we propose a way to formulate target sense verification as an …
-Cites: ‪oLMpics-on what language model pre-training captures‬
+--- 
+layout: post 
+title: "An analogy based approach for solving target sense verification" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "G Zervakis, E Vincent, M Couceiro, M Schoenauer - 6th International Conference , 2022" 
+--- 
+Contextualized language models have emerged as a de facto standard in natural language processing due to the vast amount of knowledge they acquire during pretraining. Nonetheless, their ability to solve tasks that require reasoning over this knowledge is limited. Certain tasks can be improved by analogical reasoning over concepts, eg, understanding the underlying relations in Man is to Woman as King is to Queen . In this work, we propose a way to formulate target sense verification as an  Cites: oLMpics-on what language model pre-training captures

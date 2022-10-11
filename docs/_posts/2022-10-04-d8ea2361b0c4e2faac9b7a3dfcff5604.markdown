@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Architecting a Flash-Based Storage System for Low-Cost Inference of Extreme-Scale DNNs"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "Y Jin, S Kim, TJ Ham, JW Lee - IEEE Transactions on Computers, 2022"
----
-The size of deep neural network (DNN) models has been exploding rapidly, demanding a colossal amount of memory capacity. For example, Google has recently scaled its Switch Transformer to have a parameter size of up to 6.4 TB. However, today s HBM DRAM-based memory system for GPUs and DNN accelerators is suboptimal for these extreme-scale DNNs as it fails to provide enough capacity while its massive bandwidth is poorly utilized. Thus, we propose Leviathan …
-Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬
+--- 
+layout: post 
+title: "Architecting a Flash-Based Storage System for Low-Cost Inference of Extreme-Scale DNNs" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "Y Jin, S Kim, TJ Ham, JW Lee - IEEE Transactions on Computers, 2022" 
+--- 
+The size of deep neural network (DNN) models has been exploding rapidly, demanding a colossal amount of memory capacity. For example, Google has recently scaled its Switch Transformer to have a parameter size of up to 6.4 TB. However, today s HBM DRAM-based memory system for GPUs and DNN accelerators is suboptimal for these extreme-scale DNNs as it fails to provide enough capacity while its massive bandwidth is poorly utilized. Thus, we propose Leviathan  Cites: Bart: Denoising sequence-to-sequence pre-training for natural

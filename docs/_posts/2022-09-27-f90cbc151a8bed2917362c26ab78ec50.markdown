@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PePe: Personalized Post-editing Model utilizing User-generated Post-edits"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "J Lee, T Kim, Y Tae, C Park, J Choo - arXiv preprint arXiv:2209.10139, 2022"
----
-Incorporating personal preference is crucial in advanced machine translation tasks. Despite the recent advancement of machine translation, it remains a demanding task to properly reflect personal style. In this paper, we introduce a personalized automatic post-editing framework to address this challenge, which effectively generates sentences considering distinct personal behaviors. To build this framework, we first collect post-editing data that connotes the user preference from a …
-Cites: ‪Don t stop pretraining: adapt language models to domains and tasks‬
+--- 
+layout: post 
+title: "PePe: Personalized Post-editing Model utilizing User-generated Post-edits" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "J Lee, T Kim, Y Tae, C Park, J Choo - arXiv preprint arXiv:2209.10139, 2022" 
+--- 
+Incorporating personal preference is crucial in advanced machine translation tasks. Despite the recent advancement of machine translation, it remains a demanding task to properly reflect personal style. In this paper, we introduce a personalized automatic post-editing framework to address this challenge, which effectively generates sentences considering distinct personal behaviors. To build this framework, we first collect post-editing data that connotes the user preference from a  Cites: Don t stop pretraining: adapt language models to domains and tasks

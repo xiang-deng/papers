@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Lightweight Contextual Logical Structure Recovery"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "PW Huang, AR Kashyap, Y Qin, Y Yang, MY Kan"
----
-Logical structure recovery in scientific articles associates text with a semantic section of the article. Although previous work has disregarded the surrounding context of a line, we model this important information by employing line-level attention on top of a transformer-based scientific document processing pipeline. With the addition of loss function engineering and data augmentation techniques with semi-supervised learning, our method improves classification performance by 10% compared to a …
-Cites: ‪Capturing Logical Structure of Visually Structured Documents with …‬
+--- 
+layout: post 
+title: "Lightweight Contextual Logical Structure Recovery" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "PW Huang, AR Kashyap, Y Qin, Y Yang, MY Kan" 
+--- 
+Logical structure recovery in scientific articles associates text with a semantic section of the article. Although previous work has disregarded the surrounding context of a line, we model this important information by employing line-level attention on top of a transformer-based scientific document processing pipeline. With the addition of loss function engineering and data augmentation techniques with semi-supervised learning, our method improves classification performance by 10% compared to a  Cites: Capturing Logical Structure of Visually Structured Documents with

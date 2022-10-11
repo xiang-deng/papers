@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Weakly Supervised Disentangled Generative Causal Representation Learning"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "X Shen, F Liu, H Dong, Q Lian, Z Chen, T Zhang - Journal of Machine Learning …, 2022"
----
-This paper proposes a Disentangled gEnerative cAusal Representation (DEAR) learning method under appropriate supervised information. Unlike existing disentanglement methods that enforce independence of the latent variables, we consider the general case where the underlying factors of interests can be causally related. We show that previous methods with independent priors fail to disentangle causally related factors even under supervision. Motivated by this finding, we …
-Cites: ‪Distributionally robust neural networks for group shifts: On the …‬
+--- 
+layout: post 
+title: "Weakly Supervised Disentangled Generative Causal Representation Learning" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "X Shen, F Liu, H Dong, Q Lian, Z Chen, T Zhang - Journal of Machine Learning , 2022" 
+--- 
+This paper proposes a Disentangled gEnerative cAusal Representation (DEAR) learning method under appropriate supervised information. Unlike existing disentanglement methods that enforce independence of the latent variables, we consider the general case where the underlying factors of interests can be causally related. We show that previous methods with independent priors fail to disentangle causally related factors even under supervision. Motivated by this finding, we  Cites: Distributionally robust neural networks for group shifts: On the

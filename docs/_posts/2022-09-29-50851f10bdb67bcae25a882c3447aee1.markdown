@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Stepwise Masking: A Masking Strategy Based on Stepwise Regression for Pre-training"
-date:   2022-09-29 01:10:17 -0400
-categories: jekyll update
-author: "J Pan, S Ren, D Rao, Z Zhao, W Xue - … on Natural Language Processing and Chinese …, 2022"
----
-Recently, capturing task-specific and domain-specific patterns during pre-training has been shown to help models better adapt to downstream tasks. Existing methods usually use large-scale domain corpus and downstream supervised data to further pre-train pre-trained language models, which often brings a large computational burden and these data are difficult to obtain in most cases. To address these issues, we propose a pre-training method with a novel masking strategy called stepwise …
-Cites: ‪On the influence of masking policies in intermediate pre-training‬
+--- 
+layout: post 
+title: "Stepwise Masking: A Masking Strategy Based on Stepwise Regression for Pre-training" 
+date: 2022-09-29 01:10:17 -0400 
+categories: jekyll update 
+author: "J Pan, S Ren, D Rao, Z Zhao, W Xue - on Natural Language Processing and Chinese , 2022" 
+--- 
+Recently, capturing task-specific and domain-specific patterns during pre-training has been shown to help models better adapt to downstream tasks. Existing methods usually use large-scale domain corpus and downstream supervised data to further pre-train pre-trained language models, which often brings a large computational burden and these data are difficult to obtain in most cases. To address these issues, we propose a pre-training method with a novel masking strategy called stepwise  Cites: On the influence of masking policies in intermediate pre-training

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Revisiting Few-Shot Learning from a Causal Perspective"
-date:   2022-10-04 00:49:37 -0400
-categories: jekyll update
-author: "G Lin, H Lai - arXiv preprint arXiv:2209.13816, 2022"
----
-Few-shot learning with N-way K-shot scheme is an open challenge in machine learning. Many approaches have been proposed to tackle this problem, eg, the Matching Networks and CLIP-Adapter. Despite that these approaches have shown significant progress, the mechanism of why these methods succeed has not been well explored. In this paper, we interpret these few-shot learning methods via causal mechanism. We show that the existing approaches can be viewed as specific forms …
-Cites: ‪VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and …‬
+--- 
+layout: post 
+title: "Revisiting Few-Shot Learning from a Causal Perspective" 
+date: 2022-10-04 00:49:37 -0400 
+categories: jekyll update 
+author: "G Lin, H Lai - arXiv preprint arXiv:2209.13816, 2022" 
+--- 
+Few-shot learning with N-way K-shot scheme is an open challenge in machine learning. Many approaches have been proposed to tackle this problem, eg, the Matching Networks and CLIP-Adapter. Despite that these approaches have shown significant progress, the mechanism of why these methods succeed has not been well explored. In this paper, we interpret these few-shot learning methods via causal mechanism. We show that the existing approaches can be viewed as specific forms  Cites: VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and

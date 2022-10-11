@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generalization Properties of Retrieval-based Models"
+date:   2022-10-10 14:05:52 -0400
+categories: jekyll update
+author: "S Basu, AS Rawat, M Zaheer - arXiv preprint arXiv:2210.02617, 2022"
+---
+Many modern high-performing machine learning models such as GPT-3 primarily rely on scaling up models, eg, transformer networks. Simultaneously, a parallel line of work aims to improve the model performance by augmenting an input instance with other (labeled) instances during inference. Examples of such augmentations include task-specific prompts and similar examples retrieved from the training data by a nonparametric component. Remarkably, retrieval-based methods have enjoyed …
+Cites: ‪Few-shot learning with retrieval augmented language models‬

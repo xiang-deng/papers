@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Design of PSyKI: A Platform for Symbolic Knowledge Injection into Sub-symbolic Predictors"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "M Magnini, G Ciatto, A Omicini - … , Transparent Autonomous Agents and Multi-Agent …, 2022"
----
-A long-standing ambition in artificial intelligence is to integrate predictors  inductive features (ie, learning from examples) with deductive capabilities (ie, drawing inferences from symbolic knowledge). Many methods in the literature support injection of symbolic knowledge into predictors, generally following the purpose of attaining better (ie, more effective or efficient wrt predictive performance) predictors. However, to the best of our knowledge, running implementations of these algorithms …
-Cites: ‪Guiding semi-supervision with constraint-driven learning‬
+--- 
+layout: post 
+title: "On the Design of PSyKI: A Platform for Symbolic Knowledge Injection into Sub-symbolic Predictors" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "M Magnini, G Ciatto, A Omicini - , Transparent Autonomous Agents and Multi-Agent , 2022" 
+--- 
+A long-standing ambition in artificial intelligence is to integrate predictors inductive features (ie, learning from examples) with deductive capabilities (ie, drawing inferences from symbolic knowledge). Many methods in the literature support injection of symbolic knowledge into predictors, generally following the purpose of attaining better (ie, more effective or efficient wrt predictive performance) predictors. However, to the best of our knowledge, running implementations of these algorithms  Cites: Guiding semi-supervision with constraint-driven learning

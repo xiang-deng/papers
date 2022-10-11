@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CodnNet: A lightweight CNN architecture for detection of COVID-19 infection"
-date:   2022-09-29 01:10:17 -0400
-categories: jekyll update
-author: "J Yang, L Zhang, X Tang, M Han - Applied Soft Computing, 2022"
----
-Abstract The application of Convolutional Neural Network (CNN) on the detection of COVID-19 infection has yielded favorable results. However, with excessive model parameters, the CNN detection of COVID-19 is low in recall, highly complex in computation. In this paper, a novel lightweight CNN model, CodnNet is proposed for quick detection of COVID-19 infection. CodnNet builds a more effective dense connections based on DenseNet network to make features highly reusable and …
-Cites: ‪Searching for mobilenetv3‬
+--- 
+layout: post 
+title: "CodnNet: A lightweight CNN architecture for detection of COVID-19 infection" 
+date: 2022-09-29 01:10:17 -0400 
+categories: jekyll update 
+author: "J Yang, L Zhang, X Tang, M Han - Applied Soft Computing, 2022" 
+--- 
+Abstract The application of Convolutional Neural Network (CNN) on the detection of COVID-19 infection has yielded favorable results. However, with excessive model parameters, the CNN detection of COVID-19 is low in recall, highly complex in computation. In this paper, a novel lightweight CNN model, CodnNet is proposed for quick detection of COVID-19 infection. CodnNet builds a more effective dense connections based on DenseNet network to make features highly reusable and  Cites: Searching for mobilenetv3

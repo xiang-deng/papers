@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain Generalization--A Causal Perspective"
-date:   2022-10-06 01:25:19 -0400
-categories: jekyll update
-author: "P Sheth, R Moraffah, KS Candan, A Raglin, H Liu - arXiv preprint arXiv:2209.15177, 2022"
----
-Machine learning models have gained widespread success, from healthcare to personalized recommendations. One of the preliminary assumptions of these models is the independent and identical distribution. Therefore, the train and test data are sampled from the same observation per this assumption. However, this assumption seldom holds in the real world due to distribution shifts. Since the models rely heavily on this assumption, they exhibit poor generalization capabilities. Over the recent …
-Cites: ‪Robustness to spurious correlations via human annotations‬
+--- 
+layout: post 
+title: "Domain Generalization--A Causal Perspective" 
+date: 2022-10-06 01:25:19 -0400 
+categories: jekyll update 
+author: "P Sheth, R Moraffah, KS Candan, A Raglin, H Liu - arXiv preprint arXiv:2209.15177, 2022" 
+--- 
+Machine learning models have gained widespread success, from healthcare to personalized recommendations. One of the preliminary assumptions of these models is the independent and identical distribution. Therefore, the train and test data are sampled from the same observation per this assumption. However, this assumption seldom holds in the real world due to distribution shifts. Since the models rely heavily on this assumption, they exhibit poor generalization capabilities. Over the recent  Cites: Robustness to spurious correlations via human annotations

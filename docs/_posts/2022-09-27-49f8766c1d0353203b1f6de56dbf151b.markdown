@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adapting Pretrained Text-to-Text Models for Long Text Sequences"
-date:   2022-09-27 02:04:52 -0400
-categories: jekyll update
-author: "W Xiong, A Gupta, S Toshniwal, Y Mehdad, W Yih - arXiv preprint arXiv:2209.10052, 2022"
----
-We present an empirical study of adapting an existing pretrained text-to-text model for long-sequence inputs. Through a comprehensive study along three axes of the pretraining pipeline--model architecture, optimization objective, and pretraining corpus, we propose an effective recipe to build long-context models from existing short-context models. Specifically, we replace the full attention in transformers with pooling-augmented blockwise attention, and pretrain the model with a masked-span …
-Cites: ‪Simple Local Attentions Remain Competitive for Long-Context Tasks‬
+--- 
+layout: post 
+title: "Adapting Pretrained Text-to-Text Models for Long Text Sequences" 
+date: 2022-09-27 02:04:52 -0400 
+categories: jekyll update 
+author: "W Xiong, A Gupta, S Toshniwal, Y Mehdad, W Yih - arXiv preprint arXiv:2209.10052, 2022" 
+--- 
+We present an empirical study of adapting an existing pretrained text-to-text model for long-sequence inputs. Through a comprehensive study along three axes of the pretraining pipeline--model architecture, optimization objective, and pretraining corpus, we propose an effective recipe to build long-context models from existing short-context models. Specifically, we replace the full attention in transformers with pooling-augmented blockwise attention, and pretrain the model with a masked-span  Cites: Simple Local Attentions Remain Competitive for Long-Context Tasks
