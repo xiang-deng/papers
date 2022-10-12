@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "X Guo, B Li, H Yu - arXiv preprint arXiv:2210.02952, 2022"
----
-Prompt tuning, or the conditioning of a frozen pretrained language model (PLM) with soft prompts learned from data, has demonstrated impressive performance on a wide range of NLP tasks. However, prompt tuning requires a large training dataset to be effective and is outperformed by finetuning the entire PLM in data-scarce regimes. Previous work\citep {gu-etal-2022-ppt, vu-etal-2022-spot} proposed to transfer soft prompts pretrained on the source domain to the target domain. In this paper, we …
-Cites: ‪Delta Tuning: A Comprehensive Study of Parameter Efficient …‬
+--- 
+layout: post 
+title: "Improving the Sample Efficiency of Prompt Tuning with Domain Adaptation" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "X Guo, B Li, H Yu - arXiv preprint arXiv:2210.02952, 2022" 
+--- 
+Prompt tuning, or the conditioning of a frozen pretrained language model (PLM) with soft prompts learned from data, has demonstrated impressive performance on a wide range of NLP tasks. However, prompt tuning requires a large training dataset to be effective and is outperformed by finetuning the entire PLM in data-scarce regimes. Previous work\citep {gu-etal-2022-ppt, vu-etal-2022-spot} proposed to transfer soft prompts pretrained on the source domain to the target domain. In this paper, we  Cites: Delta Tuning: A Comprehensive Study of Parameter Efficient

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Revisiting Syllables in Language Modelling and their Application on Low-Resource Machine Translation"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "A Oncevay, KDR Rojas, LKC Sanchez, R Zariquiey - arXiv preprint arXiv:2210.02509, 2022"
----
-Language modelling and machine translation tasks mostly use subword or character inputs, but syllables are seldom used. Syllables provide shorter sequences than characters, require less-specialised extracting rules than morphemes, and their segmentation is not impacted by the corpus size. In this study, we first explore the potential of syllables for open-vocabulary language modelling in 21 languages. We use rule-based syllabification methods for six languages and address the rest with …
-Cites: ‪Universal dependencies v2: An evergrowing multilingual treebank …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "U3E: Unsupervised and Erasure-based Evidence Extraction for Machine Reading Comprehension"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "S He, S Shi, C Wu - arXiv preprint arXiv:2210.02621, 2022"
----
-More tasks in Machine Reading Comprehension (MRC) require, in addition to answer prediction, the extraction of evidence sentences that support the answer. However, the annotation of supporting evidence sentences is usually time-consuming and labor-intensive. In this paper, to address this issue and considering that most of the existing extraction methods are semi-supervised, we propose an unsupervised evidence extraction method (U3E). U3E takes the changes after …
-Cites: ‪BoolQ: Exploring the Surprising Difficulty of Natural Yes/No …‬
+--- 
+layout: post 
+title: "U3E: Unsupervised and Erasure-based Evidence Extraction for Machine Reading Comprehension" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "S He, S Shi, C Wu - arXiv preprint arXiv:2210.02621, 2022" 
+--- 
+More tasks in Machine Reading Comprehension (MRC) require, in addition to answer prediction, the extraction of evidence sentences that support the answer. However, the annotation of supporting evidence sentences is usually time-consuming and labor-intensive. In this paper, to address this issue and considering that most of the existing extraction methods are semi-supervised, we propose an unsupervised evidence extraction method (U3E). U3E takes the changes after  Cites: BoolQ: Exploring the Surprising Difficulty of Natural Yes/No

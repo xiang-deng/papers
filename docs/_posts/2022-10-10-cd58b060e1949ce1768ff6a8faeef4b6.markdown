@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generative Entity Typing with Curriculum Learning"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "S Yuan, D Yang, J Liang, Z Li, J Liu, J Huang, Y Xiao - arXiv preprint arXiv …, 2022"
----
-Entity typing aims to assign types to the entity mentions in given texts. The traditional classification-based entity typing paradigm has two unignorable drawbacks: 1) it fails to assign an entity to the types beyond the predefined type set, and 2) it can hardly handle few-shot and zero-shot situations where many long-tail types only have few or even no training instances. To overcome these drawbacks, we propose a novel generative entity typing (GET) paradigm: given a text with an entity mention, the …
-Cites: ‪Modeling fine-grained entity types with box embeddings‬
+--- 
+layout: post 
+title: "Generative Entity Typing with Curriculum Learning" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "S Yuan, D Yang, J Liang, Z Li, J Liu, J Huang, Y Xiao - arXiv preprint arXiv , 2022" 
+--- 
+Entity typing aims to assign types to the entity mentions in given texts. The traditional classification-based entity typing paradigm has two unignorable drawbacks: 1) it fails to assign an entity to the types beyond the predefined type set, and 2) it can hardly handle few-shot and zero-shot situations where many long-tail types only have few or even no training instances. To overcome these drawbacks, we propose a novel generative entity typing (GET) paradigm: given a text with an entity mention, the  Cites: Modeling fine-grained entity types with box embeddings

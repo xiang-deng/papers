@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Teaching Neural Module Networks to Do Arithmetic"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "J Chen, XY Guo, YF Li, G Haffari - arXiv preprint arXiv:2210.02703, 2022"
----
-Answering complex questions that require multi-step multi-type reasoning over raw text is challenging, especially when conducting numerical reasoning. Neural Module Networks (NMNs), follow the programmer-interpreter framework and design trainable modules to learn different reasoning skills. However, NMNs only have limited reasoning abilities, and lack numerical reasoning capability. We up-grade NMNs by:(a) bridging the gap between its interpreter and the complex questions;(b) …
-Cites: ‪Neural module networks for reasoning over text‬
+--- 
+layout: post 
+title: "Teaching Neural Module Networks to Do Arithmetic" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "J Chen, XY Guo, YF Li, G Haffari - arXiv preprint arXiv:2210.02703, 2022" 
+--- 
+Answering complex questions that require multi-step multi-type reasoning over raw text is challenging, especially when conducting numerical reasoning. Neural Module Networks (NMNs), follow the programmer-interpreter framework and design trainable modules to learn different reasoning skills. However, NMNs only have limited reasoning abilities, and lack numerical reasoning capability. We up-grade NMNs by:(a) bridging the gap between its interpreter and the complex questions;(b)  Cites: Neural module networks for reasoning over text

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ARS2: Adaptive Ranking-based Sample Selection for Weakly supervised Class-imbalanced Text Classification"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "L Song, J Zhang, T Yang, M Goto - arXiv preprint arXiv:2210.03092, 2022"
----
-To obtain a large amount of training labels inexpensively, researchers have recently adopted the weak supervision (WS) paradigm, which leverages labeling rules to synthesize training labels rather than using individual annotations to achieve competitive results for natural language processing (NLP) tasks. However, data imbalance is often overlooked in applying the WS paradigm, despite being a common issue in a variety of NLP tasks. To address this challenge, we propose …
-Cites: ‪Fine-tuning pretrained language models: Weight initializations …‬
+--- 
+layout: post 
+title: "ARS2: Adaptive Ranking-based Sample Selection for Weakly supervised Class-imbalanced Text Classification" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "L Song, J Zhang, T Yang, M Goto - arXiv preprint arXiv:2210.03092, 2022" 
+--- 
+To obtain a large amount of training labels inexpensively, researchers have recently adopted the weak supervision (WS) paradigm, which leverages labeling rules to synthesize training labels rather than using individual annotations to achieve competitive results for natural language processing (NLP) tasks. However, data imbalance is often overlooked in applying the WS paradigm, despite being a common issue in a variety of NLP tasks. To address this challenge, we propose  Cites: Fine-tuning pretrained language models: Weight initializations

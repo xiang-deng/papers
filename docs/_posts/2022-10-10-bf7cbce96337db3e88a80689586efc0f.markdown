@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Topic Modeling for Tracking COVID-19 Communication on Twitter"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "PK Bogović, A Meštrović, S Martinčić-Ipšić - International Conference on Information …, 2022"
----
-In this study, we analyze the trends of COVID-19 related communication in Croatian language on Twitter. First, we prepare a dataset of 147,028 tweets about COVID-19 posted during the first three waves of the pandemic, and then perform an analysis in three steps. In the first step, we train the LDA model and calculate the coherence values of the topics. We identify seven topics and report the ten most frequent words for each topic. In the second step, we analyze the proportion of tweets in each topic …
-Cites: ‪Stanza: A python natural language processing toolkit for many …‬
+--- 
+layout: post 
+title: "Topic Modeling for Tracking COVID-19 Communication on Twitter" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "PK Bogovi, A Metrovi, S Martini-Ipi - International Conference on Information , 2022" 
+--- 
+In this study, we analyze the trends of COVID-19 related communication in Croatian language on Twitter. First, we prepare a dataset of 147,028 tweets about COVID-19 posted during the first three waves of the pandemic, and then perform an analysis in three steps. In the first step, we train the LDA model and calculate the coherence values of the topics. We identify seven topics and report the ten most frequent words for each topic. In the second step, we analyze the proportion of tweets in each topic  Cites: Stanza: A python natural language processing toolkit for many

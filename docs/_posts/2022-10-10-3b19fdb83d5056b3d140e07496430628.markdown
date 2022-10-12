@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Join-Chain Network: A Logical Reasoning View of the Multi-head Attention in Transformer"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "J Zhang, Y Chen, J Chen - arXiv preprint arXiv:2210.02729, 2022"
----
-Developing neural architectures that are capable of logical reasoning has become increasingly important for a wide range of applications (eg, natural language processing). Towards this grand objective, we first propose a symbolic reasoning architecture that chain FOET, which is particularly useful for modeling natural languages. To endow it with differentiable learning capability, we closely examine various neural operators for approximating the symbolic join-chains. Interestingly, we …
-Cites: ‪Neural logic machines‬
+--- 
+layout: post 
+title: "Join-Chain Network: A Logical Reasoning View of the Multi-head Attention in Transformer" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "J Zhang, Y Chen, J Chen - arXiv preprint arXiv:2210.02729, 2022" 
+--- 
+Developing neural architectures that are capable of logical reasoning has become increasingly important for a wide range of applications (eg, natural language processing). Towards this grand objective, we first propose a symbolic reasoning architecture that chain FOET, which is particularly useful for modeling natural languages. To endow it with differentiable learning capability, we closely examine various neural operators for approximating the symbolic join-chains. Interestingly, we  Cites: Neural logic machines

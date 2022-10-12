@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distilling Task-specific Logical Rules from Large Pre-trained Models"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "T Chen, L Liu, X Jia, B Cui, H Tang, S Tang - arXiv preprint arXiv:2210.02768, 2022"
----
-Logical rules, both transferable and explainable, are widely used as weakly supervised signals for many downstream tasks such as named entity tagging. To reduce the human effort of writing rules, previous researchers adopt an iterative approach to automatically learn logical rules from several seed rules. However, obtaining more seed rules can only be accomplished by extra human annotation with heavy costs. Limited by the size and quality of the seed rules, the model performance …
-Cites: ‪Generalizing Natural Language Analysis through Span-relation …‬
+--- 
+layout: post 
+title: "Distilling Task-specific Logical Rules from Large Pre-trained Models" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "T Chen, L Liu, X Jia, B Cui, H Tang, S Tang - arXiv preprint arXiv:2210.02768, 2022" 
+--- 
+Logical rules, both transferable and explainable, are widely used as weakly supervised signals for many downstream tasks such as named entity tagging. To reduce the human effort of writing rules, previous researchers adopt an iterative approach to automatically learn logical rules from several seed rules. However, obtaining more seed rules can only be accomplished by extra human annotation with heavy costs. Limited by the size and quality of the seed rules, the model performance  Cites: Generalizing Natural Language Analysis through Span-relation

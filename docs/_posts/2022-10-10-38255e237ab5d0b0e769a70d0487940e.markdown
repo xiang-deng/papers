@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "S Siriwardhana, R Weerasekera, E Wen… - arXiv preprint arXiv …, 2022"
----
-Retrieval Augment Generation (RAG) is a recent advancement in Open-Domain Question Answering (ODQA). RAG has only been trained and explored with a Wikipedia-based external knowledge base and is not optimized for use in other specialized domains such as healthcare and news. In this paper, we evaluate the impact of joint training of the retriever and generator components of RAG for the task of domain adaptation in ODQA. We propose\textit {RAG-end2end}, an extension to …
-Cites: ‪NeurIPS 2020 EfficientQA competition: Systems, Analyses and …‬
+--- 
+layout: post 
+title: "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "S Siriwardhana, R Weerasekera, E Wen - arXiv preprint arXiv , 2022" 
+--- 
+Retrieval Augment Generation (RAG) is a recent advancement in Open-Domain Question Answering (ODQA). RAG has only been trained and explored with a Wikipedia-based external knowledge base and is not optimized for use in other specialized domains such as healthcare and news. In this paper, we evaluate the impact of joint training of the retriever and generator components of RAG for the task of domain adaptation in ODQA. We propose\textit {RAG-end2end}, an extension to  Cites: NeurIPS 2020 EfficientQA competition: Systems, Analyses and

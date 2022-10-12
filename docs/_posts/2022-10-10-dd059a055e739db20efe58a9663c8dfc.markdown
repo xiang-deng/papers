@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Conversational Semantic Role Labeling with Predicate-Oriented Latent Graph"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "H Fei, S Wu, M Zhang, Y Ren, D Ji - arXiv preprint arXiv:2210.03037, 2022"
----
-Conversational semantic role labeling (CSRL) is a newly proposed task that uncovers the shallow semantic structures in a dialogue text. Unfortunately several important characteristics of the CSRL task have been overlooked by the existing works, such as the structural information integration, near-neighbor influence. In this work, we investigate the integration of a latent graph for CSRL. We propose to automatically induce a predicate-oriented latent graph (POLar) with a predicate …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Conversational Semantic Role Labeling with Predicate-Oriented Latent Graph" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "H Fei, S Wu, M Zhang, Y Ren, D Ji - arXiv preprint arXiv:2210.03037, 2022" 
+--- 
+Conversational semantic role labeling (CSRL) is a newly proposed task that uncovers the shallow semantic structures in a dialogue text. Unfortunately several important characteristics of the CSRL task have been overlooked by the existing works, such as the structural information integration, near-neighbor influence. In this work, we investigate the integration of a latent graph for CSRL. We propose to automatically induce a predicate-oriented latent graph (POLar) with a predicate  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

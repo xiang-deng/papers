@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aspect-based sentiment analysis with attention-assisted graph and variational sentence representation"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "S Feng, B Wang, Z Yang, J Ouyang - Knowledge-Based Systems, 2022"
----
-Aspect-based sentiment analysis (ABSA) is a fine-grained task that detects the sentiment polarities of particular aspect words in a sentence. With the rise of graph convolution networks (GCNs), current ABSA models mostly use graph-based methods. These methods construct a dependency tree for each sentence, and regard each word as a unique node. To be more specific, they conduct classification using aspect representations instead of sentence representations, and update them with …
-Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬
+--- 
+layout: post 
+title: "Aspect-based sentiment analysis with attention-assisted graph and variational sentence representation" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "S Feng, B Wang, Z Yang, J Ouyang - Knowledge-Based Systems, 2022" 
+--- 
+Aspect-based sentiment analysis (ABSA) is a fine-grained task that detects the sentiment polarities of particular aspect words in a sentence. With the rise of graph convolution networks (GCNs), current ABSA models mostly use graph-based methods. These methods construct a dependency tree for each sentence, and regard each word as a unique node. To be more specific, they conduct classification using aspect representations instead of sentence representations, and update them with  Cites: RoBERTa: A Robustly Optimized BERT Pretraining Approach

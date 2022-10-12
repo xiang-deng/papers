@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Log-related Coding Patterns to Conduct Postmortems of Attacks in Supervised Learning-based Projects"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "FA BHUIYAN, A RAHMAN - 2022"
----
-We apply qualitative analysis on 3,004 Python files used to implement 103 supervised learning-based software projects. We identify a list of 54 log-related coding patterns that map to 6 attacks related to supervised learning algorithms. Using Log Assistant to conduct Postmortems for Supervised Learning (LOPSUL), we quantify the frequency of the identified log-related coding patterns with 278 open source software projects that use supervised learning. We observe log-related …
-Cites: ‪Thieves on Sesame Street! Model Extraction of BERT-based APIs‬
+--- 
+layout: post 
+title: "Log-related Coding Patterns to Conduct Postmortems of Attacks in Supervised Learning-based Projects" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "FA BHUIYAN, A RAHMAN - 2022" 
+--- 
+We apply qualitative analysis on 3,004 Python files used to implement 103 supervised learning-based software projects. We identify a list of 54 log-related coding patterns that map to 6 attacks related to supervised learning algorithms. Using Log Assistant to conduct Postmortems for Supervised Learning (LOPSUL), we quantify the frequency of the identified log-related coding patterns with 278 open source software projects that use supervised learning. We observe log-related  Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

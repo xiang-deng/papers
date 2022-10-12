@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Multi-Gate Encoder for Joint Entity and Relation Extraction"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "X Xiong, Y Liu, A Liu, S Gong, S Li - China National Conference on Chinese …, 2022"
----
-Named entity recognition and relation extraction are core sub-tasks of relational triple extraction. Recent studies have used parameter sharing or joint decoding to create interaction between these two tasks. However, ensuring the specificity of task-specific traits while the two tasks interact properly is a huge difficulty. We propose a multi-gate encoder that models bidirectional task interaction while keeping sufficient feature specificity based on gating mechanism in this paper. Precisely, we design …
-Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬
+--- 
+layout: post 
+title: "A Multi-Gate Encoder for Joint Entity and Relation Extraction" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "X Xiong, Y Liu, A Liu, S Gong, S Li - China National Conference on Chinese , 2022" 
+--- 
+Named entity recognition and relation extraction are core sub-tasks of relational triple extraction. Recent studies have used parameter sharing or joint decoding to create interaction between these two tasks. However, ensuring the specificity of task-specific traits while the two tasks interact properly is a huge difficulty. We propose a multi-gate encoder that models bidirectional task interaction while keeping sufficient feature specificity based on gating mechanism in this paper. Precisely, we design  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

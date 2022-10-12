@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data Synthesis and Iterative Refinement for Neural Semantic Parsing without Annotated Logical Forms"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "S Wu, B Chen, X Han, L Sun - China National Conference on Chinese Computational …, 2022"
----
-Semantic parsing aims to convert natural language utterances to logical forms. A critical challenge for constructing semantic parsers is the lack of labeled data. In this paper, we propose a data synthesis and iterative refinement framework for neural semantic parsing, which can build semantic parsers without annotated logical forms. We first generate a naive corpus by sampling logic forms from knowledge bases and synthesizing their canonical utterances. Then, we further propose a bootstrapping …
-Cites: ‪Search-based Neural Structured Learning for Sequential Question …‬
+--- 
+layout: post 
+title: "Data Synthesis and Iterative Refinement for Neural Semantic Parsing without Annotated Logical Forms" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "S Wu, B Chen, X Han, L Sun - China National Conference on Chinese Computational , 2022" 
+--- 
+Semantic parsing aims to convert natural language utterances to logical forms. A critical challenge for constructing semantic parsers is the lack of labeled data. In this paper, we propose a data synthesis and iterative refinement framework for neural semantic parsing, which can build semantic parsers without annotated logical forms. We first generate a naive corpus by sampling logic forms from knowledge bases and synthesizing their canonical utterances. Then, we further propose a bootstrapping  Cites: Search-based Neural Structured Learning for Sequential Question

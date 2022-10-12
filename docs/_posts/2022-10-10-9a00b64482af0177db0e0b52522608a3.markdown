@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Event Temporal Relation Classification via Auxiliary Label-Aware Contrastive Learning"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "T Sun, L Li - China National Conference on Chinese Computational …, 2022"
----
-Abstract Event Temporal Relation Classification (ETRC) is crucial to natural language understanding. In recent years, the mainstream ETRC methods may not take advantage of lots of semantic information contained in golden temporal relation labels, which is lost by the discrete one-hot labels. To alleviate the loss of semantic information, we propose learning Temporal semantic information of the golden labels by Auxiliary Contrastive Learning (TempACL). Different from traditional contrastive …
-Cites: ‪Joint constrained learning for event-event relation extraction‬
+--- 
+layout: post 
+title: "Improving Event Temporal Relation Classification via Auxiliary Label-Aware Contrastive Learning" 
+date: 2022-10-10 14:05:52 -0400 
+categories: jekyll update 
+author: "T Sun, L Li - China National Conference on Chinese Computational , 2022" 
+--- 
+Abstract Event Temporal Relation Classification (ETRC) is crucial to natural language understanding. In recent years, the mainstream ETRC methods may not take advantage of lots of semantic information contained in golden temporal relation labels, which is lost by the discrete one-hot labels. To alleviate the loss of semantic information, we propose learning Temporal semantic information of the golden labels by Auxiliary Contrastive Learning (TempACL). Different from traditional contrastive  Cites: Joint constrained learning for event-event relation extraction

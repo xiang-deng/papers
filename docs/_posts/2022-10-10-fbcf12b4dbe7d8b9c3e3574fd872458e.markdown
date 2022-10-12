@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Geodesic Graph Neural Network for Efficient Graph Representation Learning"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "L Kong, Y Chen, M Zhang - arXiv preprint arXiv:2210.02636, 2022"
----
-Recently, Graph Neural Networks (GNNs) have been applied to graph learning tasks and achieved state-of-the-art results. However, many competitive methods employ preprocessing on the target nodes, such as subgraph extraction and customized labeling, to capture some information that is hard to be learned by normal GNNs. Such operations are time-consuming and do not scale to large graphs. In this paper, we propose an efficient GNN framework called Geodesic GNN (GDGNN). It injects …
-Cites: ‪Convolutional 2d knowledge graph embeddings‬

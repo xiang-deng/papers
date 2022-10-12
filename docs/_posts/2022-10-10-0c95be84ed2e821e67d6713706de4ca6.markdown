@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Content-Based Search for Deep Generative Models"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "D Lu, SY Wang, N Kumari, R Agarwal, D Bau, JY Zhu - arXiv preprint arXiv …, 2022"
----
-The growing proliferation of pretrained generative models has made it infeasible for a user to be fully cognizant of every model in existence. To address this need, we introduce the task of content-based model search: given a query and a large set of generative models, find the models that best match the query. Because each generative model produces a distribution of images, we formulate the search problem as an optimization to maximize the probability of generating a query match …
-Cites: ‪Scaling up visual and vision-language representation learning with …‬

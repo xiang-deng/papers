@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Self-Distillation for Further Pre-training of Transformers"
-date:   2022-10-10 14:05:52 -0400
-categories: jekyll update
-author: "S Lee, M Kang, J Lee, SJ Hwang, K Kawaguchi - arXiv preprint arXiv:2210.02871, 2022"
----
-Pre-training a large transformer model on a massive amount of unlabeled data and fine-tuning it on labeled datasets for diverse downstream tasks has proven to be a successful strategy, for a variety of vision and natural language processing tasks. However, direct fine-tuning of the pre-trained model may be suboptimal if there exist large discrepancies across data domains for pre-training and fine-tuning. To tackle this issue, several previous studies have proposed further pre-training strategies …
-Cites: ‪Combined Scaling for Open-Vocabulary Image Classification‬
