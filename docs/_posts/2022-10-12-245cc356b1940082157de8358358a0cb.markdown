@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "生成模型在层次结构极限多标签文本分类中的应用 (Generation Model for Hierarchical Extreme Multi-label Text Classification)"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "L Chen, D He, Y Xiao, Y Liu, J Lu, W Wang - … of the 21st Chinese National Conference …, 2022"
+---
+Abstract “层次结构极限多标签文本分类是自然语言处理研究领域中一个重要而又具有挑战性的课题. 该任务类别标签数量巨大且自成体系, 标签与标签之间还具有不同层级间的依赖关系或同层次间的相关性, 这些特性进一步增加了任务难度. 该文提出将层次结构极限多标签文本分类任务视为序列转换问题, 将输出标签视为序列, 从而可以直接从数十万标签中生成与文本相关的类别标签. 通过软约束机制和词表复合映射在解码过程中利用标签之间的层次结构与相关信息. 实验结果表明, 该文提出的方法与基线模型相比 …
+Cites: ‪Autoregressive entity retrieval‬

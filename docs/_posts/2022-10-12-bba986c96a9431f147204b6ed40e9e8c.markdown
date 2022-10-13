@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "基于框架语义映射和类型感知的篇章事件抽取 (Document-Level Event Extraction Based on Frame Semantic Mapping and Type Awareness)"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "J Lu, R Li, X Su, Z Yan, J Chen - Proceedings of the 21st Chinese National …, 2022"
+---
+Abstract “篇章事件抽取是从给定的文本中识别其事件类型和事件论元. 目前篇章事件普遍存在数据稀疏和多值论元耦合的问题. 基于此, 本文将汉语框架网(CFN) 与中文篇章事件建立映射, 同时引入滑窗机制和触发词释义改善了事件检测的数据稀疏问题; 使用基于类型感知标签的多事件分离策略缓解了论元耦合问题. 为了提升模型的鲁棒性, 进一步引入对抗训练. 本文提出的方法在DuEE-Fin 和CCKS2021 数据集上实验结果显著优于现有方法.”
+Cites: ‪NAACL‐HLT‬

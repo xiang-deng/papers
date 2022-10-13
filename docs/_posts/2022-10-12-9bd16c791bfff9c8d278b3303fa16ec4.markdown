@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Unified Encoder-Decoder Framework with Entity Memory"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "Z Zhang, W Yu, C Zhu, M Jiang - arXiv preprint arXiv:2210.03273, 2022"
+---
+Entities, as important carriers of real-world knowledge, play a key role in many NLP tasks. We focus on incorporating entity knowledge into an encoder-decoder framework for informative text generation. Existing approaches tried to index, retrieve, and read external documents as evidence, but they suffered from a large computational overhead. In this work, we propose an encoder-decoder framework with an entity memory, namely EDMem. The entity knowledge is stored in the …
+Cites: ‪Question and answer test-train overlap in open-domain question …‬

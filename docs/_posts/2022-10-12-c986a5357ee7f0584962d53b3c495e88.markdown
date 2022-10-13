@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Understanding Edge-of-Stability Training Dynamics with a Minimalist Example"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "X Zhu, Z Wang, X Wang, M Zhou, R Ge - arXiv preprint arXiv:2210.03294, 2022"
+---
+Recently, researchers observed that gradient descent for deep neural networks operates in an``edge-of-stability  (EoS) regime: the sharpness (maximum eigenvalue of the Hessian) is often larger than stability threshold 2/$\eta $(where $\eta $ is the step size). Despite this, the loss oscillates and converges in the long run, and the sharpness at the end is just slightly below $2/\eta $. While many other well-understood nonconvex objectives such as matrix factorization or two-layer networks …
+Cites: ‪The break-even point on optimization trajectories of deep neural …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "融合提示学习的故事生成方法 (A Story Generation Method Incorporating Prompt Learning)"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "X Ni, P Li - Proceedings of the 21st Chinese National Conference …, 2022"
+---
+Abstract “开放式自动故事生成通过输入故事的开头, 大纲, 主线等, 得到具有一致性, 连贯性和逻辑性的故事. 现有的方法想要提升生成故事的质量, 往往需要大量训练数据和更多参数的模型. 针对以上问题, 该文利用提示学习在零样本与少样本场景下的优势, 同时使用外部常识推理知识, 提出了一种故事生成方法. 该方法将故事生成分为三个阶段: 输入故事的开头, 常识推理模型生成可能的事件; 根据类型不同, 将事件填入问题模板中, 构建引导模型生成合理回答的问题; 问答模型产生对应问题的答案, 并选择困惑度最小的 …
+Cites: ‪Paragraph-level commonsense transformers with recurrent memory‬

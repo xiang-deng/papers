@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Extending Joint Entity and Event Coreference Resolution across Documents"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "L Nelissen"
+---
+Detecting corefering events and entities in texts is an important task in NLP, where it plays a role in many other tasks and applications. In this work, we build on a joint approach of entity and event coreference resolution, pioneered by H. Lee, Recasens, et al. 2012 and matured by Barhom et al. 2019 using a neural architecture. In particular we look at coreference resolution across documents, more complicated and less researched than coreference resolution within documents. Using Barhom et …
+Cites: ‪Pairwise Representation Learning for Event Coreference‬

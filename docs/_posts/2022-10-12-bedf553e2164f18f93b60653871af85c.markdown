@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "D Jambor, D Bahdanau - arXiv preprint arXiv:2110.07572, 2021"
+---
+Semantic parsing is the task of producing a structured meaning representation for natural language utterances or questions. Recent research has pointed out that the commonly-used sequence-to-sequence (seq2seq) semantic parsers struggle to generalize systematically, ie to handle examples that require recombining known knowledge in novel settings. In this work, we show that better systematic generalization can be achieved by producing the meaning representation (MR) …
+Cites: ‪Meta-Learning to Compositionally Generalize‬

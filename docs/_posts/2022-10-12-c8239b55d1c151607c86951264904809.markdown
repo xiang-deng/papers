@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "基于知识监督的标签降噪实体对齐 (Refined De-noising for Labeled Entity Alignment from Auxiliary Evidence Knowledge)"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "F Su, N Jing - Proceedings of the 21st Chinese National Conference …, 2022"
+---
+Abstract “大多数现有的实体对齐解决方案都依赖于干净的标记数据来训练模型, 很少关注种子噪声. 为了解决实体对齐中的噪声问题, 本文提出了一个标签降噪框架, 在实体对齐中注入辅助知识和附带监督, 以纠正标记和引导过程中的种子错误. 特别是, 考虑到以前基于邻域嵌入方法的弱点, 本文应用了一种新的对偶关系注意力匹配编码器来加速知识图谱的结构学习, 同时使用辅助知识来弥补结构表征的不足. 然后, 通过对抗训练来执行弱监督标签降噪. 对于误差累积的问题, 本文进一步使用对齐精化 …
+Cites: ‪Convolutional 2d knowledge graph embeddings‬

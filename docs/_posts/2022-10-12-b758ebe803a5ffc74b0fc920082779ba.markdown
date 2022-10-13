@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "融合知识的多目标词联合框架语义分析模型 (Knowledge-integrated Joint Model For Multi-target Frame Semantic Parsing)"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "X Chen, C Zheng, B Chang - Proceedings of the 21st Chinese National Conference …, 2022"
+---
+Abstract “框架语义分析任务是自然语言处理领域的一项基础性任务. 先前的研究工作大多针对单目标词进行模型设计, 无法一次性完成多个目标词的框架语义结构提取. 本文提出了一个面向多目标的框架语义分析模型, 实现对多目标词的联合预测. 该模型对框架语义分析的各项子任务进行交互性建模, 实现子任务间的双向交互. 此外, 本文利用关系图网络对框架关系信息进行编码, 将其作为框架语义学知识融入模型中. 实验表明, 本文模型在不借助额外语料的情况下相比之前模型都有不同程度的提高 …
+Cites: ‪Context-aware frame-semantic role labeling‬

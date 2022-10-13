@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "YC Liu, CY Ma, J Tian, Z He, Z Kira - arXiv preprint arXiv:2210.03265, 2022"
+---
+Adapting large-scale pretrained models to various downstream tasks via fine-tuning is a standard method in machine learning. Recently, parameter-efficient fine-tuning methods show promise in adapting a pretrained model to different tasks while training only a few parameters. Despite their success, most existing methods are proposed in Natural Language Processing tasks with language Transformers, and adaptation to Computer Vision tasks with Vision Transformers remains under …
+Cites: ‪Palm: Scaling language modeling with pathways‬

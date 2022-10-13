@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Reinforcement Learning Approach for Single Redundant View Co-Training Text Classification"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "BMP Paiva, ER Nascimento, MA Gonçalves, F Belém - Information Sciences, 2022"
+---
+We tackle the problem of learning classification models with very small amounts of labeled data (eg, less than 10% of the dataset) by introducing a novel Single View Co-Training strategy supported by Reinforcement Learning (CoRL). CoRL is a novel semi-supervised learning framework that can be used with a single view (representation). Differently from traditional co-training that requires at least two sufficient and independent data views (eg, modes), our solution is applicable to any …
+Cites: ‪BERT: pre-training of deep bidirectional transformers for language …‬

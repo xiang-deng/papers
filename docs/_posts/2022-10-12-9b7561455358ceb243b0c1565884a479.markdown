@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "基于动态网络的简答题答案标注方法"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "洪旭东， 严梅， 莫媛媛 - Computer Science and Application, 2022"
+---
+阅读理解问答是当前自然语言处理的研究热点之一. 针对阅读理解问答中的简答题, 由于其答案往往有多个, 分布在阅读材料的不同位置, 现有方法大多难以有效获取. 本论文面向简答题的答案标注方法开展研究, 将简答题答案标注问题看作是序列标注问题, 考虑到问句焦点词对于寻找答案具有重要作用, 提出基于动态网络的简答题答案标注方法, 实现了简答题答案的端到端标注, 实验表明提出的方法在F1 和EM 值上效果都有所提升. Abstract: Reading comprehension style question answering is …
+Cites: ‪Coarse-to-fine question answering for long documents‬

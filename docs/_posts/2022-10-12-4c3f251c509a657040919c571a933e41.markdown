@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Calibrating Factual Knowledge in Pretrained Language Models"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "Q Dong, D Dai, Y Song, J Xu, Z Sui, L Li - arXiv preprint arXiv:2210.03329, 2022"
+---
+Previous literature has proved that Pretrained Language Models (PLMs) can store factual knowledge. However, we find that facts stored in the PLMs are not always correct. It motivates us to explore a fundamental question: How do we calibrate factual knowledge in PLMs without re-training from scratch? In this work, we propose a simple and lightweight method CaliNet to achieve this goal. To be specific, we first detect whether PLMs can learn the right facts via a contrastive score between right …
+Cites: ‪Fast model editing at scale‬

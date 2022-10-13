@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Regularizing Scale-Adaptive Central Moment Sharpness for Neural Networks"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "J Chen, Z Guo, H Li, CLP Chen - IEEE Transactions on Neural Networks and …, 2022"
+---
+In deep learning, finding flat minima of loss function is a hot research topic in improving generalization. The existing methods usually find flat minima by sharpness minimization algorithms. However, these methods suffer from insufficient flexibility for optimization and generalization due to their ignorance of loss value. This article theoretically and experimentally explores the sharpness minimization algorithms for neural networks. First, a novel scale-invariant sharpness which is called scale …
+Cites: ‪Identifying generalization properties in neural networks‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BiodivTab: Semantic Table Annotation Benchmark Construction, Analysis, and New Additions"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "N Abdelmageed, S Schindler, B König-Ries"
+---
+Systems that annotate tabular data semantically have witnessed increasing attention from the community in recent years; this process is commonly known as Semantic Table Annotation (STA). Its objective is to map individual table elements to their counterparts from a Knowledge Graph (KG). Individual cells and columns are assigned to KG entities and classes to disambiguate their meaning. STA-systems achieve high scores on the existing, synthetic benchmarks but often struggle on real …
+Cites: ‪Webtables: exploring the power of tables on the web‬

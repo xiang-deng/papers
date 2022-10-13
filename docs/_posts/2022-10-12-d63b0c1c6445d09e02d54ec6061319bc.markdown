@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Automatic Chain of Thought Prompting in Large Language Models"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "Z Zhang, A Zhang, M Li, A Smola - arXiv preprint arXiv:2210.03493, 2022"
+---
+Large language models (LLMs) can perform complex reasoning by generating intermediate reasoning steps. Providing these steps for prompting demonstrations is called chain-of-thought (CoT) prompting. CoT prompting has two major paradigms. One leverages a simple prompt like  Let s think step by step  to facilitate step-by-step thinking before answering a question. The other uses a few manual demonstrations one by one, each composed of a question and a reasoning chain that leads to an …
+Cites: ‪Learning To Retrieve Prompts for In-Context Learning‬

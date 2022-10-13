@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Community Topic: Topic model inference by consecutive word community discovery"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "E Austin, OR Zaïane, C Largeron"
+---
+We present our novel, hyperparameter-free topic modelling algorithm, Community Topic. Our algorithm is based on mining communities from term co-occurrence networks. We empirically evaluate and compare Community Topic with Latent Dirichlet Allocation and the recently developed top2vec algorithm. We find that Community Topic runs faster than the competitors and produces topics that achieve higher coherence scores. Community Topic can discover coherent topics at various …
+Cites: ‪Is automated topic model evaluation broken? the incoherence of …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TestAug: A Framework for Augmenting Capability-based NLP Tests"
+date:   2022-10-12 20:42:55 -0400
+categories: jekyll update
+author: "G Yang, M Haque, Q Song, W Yang, X Liu"
+---
+The recently proposed capability-based NLP testing allows model developers to test the functional capabilities of NLP models, revealing functional failures that cannot be detected by the traditional heldout mechanism. However, existing work on capability-based testing requires extensive manual efforts and domain expertise in creating the test cases. In this paper, we investigate a low-cost approach for the test case generation by leveraging the GPT-3 engine. We further propose to use a classifier to …
+Cites: ‪Are we modeling the task or the annotator? an investigation of …‬
