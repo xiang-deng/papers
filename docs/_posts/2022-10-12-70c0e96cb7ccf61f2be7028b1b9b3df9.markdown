@@ -1,9 +1,8 @@
----
-layout: post
-title:  "基于实体信息增强及多粒度融合的多文档摘要 (Multi-Document Summarization Based on Entity Information Enhancement and Multi-Granularity Fusion)"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "J Tang, L Meiling, T Zhao, J Zhou - Proceedings of the 21st Chinese National …, 2022"
----
-Abstract “神经网络模型的快速发展使得多文档摘要可以获得人类可读的流畅的摘要, 对大规模的数据进行预训练可以更好的从自然语言文本中捕捉更丰富的语义信息, 并更好的作用于下游任务. 目前很多的多文档摘要的工作也应用了预训练模型(如BERT) 并取得了一定的效果, 但是这些预训练模型不能更好的从文本中捕获事实性知识, 没有考虑到多文档文本的结构化的实体-关系信息, 本文提出了基于实体信息增强和多粒度融合的多文档摘要模型MGNIE, 将实体关系信息融入预训练模型ERNIE 中 …
-Cites: ‪Multi-document summarization with determinantal point process …‬
+--- 
+layout: post 
+title: " (Multi-Document Summarization Based on Entity Information Enhancement and Multi-Granularity Fusion)" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "J Tang, L Meiling, T Zhao, J Zhou - Proceedings of the 21st Chinese National , 2022" 
+--- 
+Abstract , , . (BERT) , , -, MGNIE, ERNIE  Cites: Multi-document summarization with determinantal point process

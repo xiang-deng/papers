@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge-Grounded Reinforcement Learning"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "ZY Chiu, YL Tuan, WY Wang, MC Yip - arXiv preprint arXiv:2210.03729, 2022"
----
-Receiving knowledge, abiding by laws, and being aware of regulations are common behaviors in human society. Bearing in mind that reinforcement learning (RL) algorithms benefit from mimicking humanity, in this work, we propose that an RL agent can act on external guidance in both its learning process and model deployment, making the agent more socially acceptable. We introduce the concept, Knowledge-Grounded RL (KGRL), with a formal definition that an agent learns to …
-Cites: ‪Taming maml: Efficient unbiased meta-reinforcement learning‬
+--- 
+layout: post 
+title: "Knowledge-Grounded Reinforcement Learning" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "ZY Chiu, YL Tuan, WY Wang, MC Yip - arXiv preprint arXiv:2210.03729, 2022" 
+--- 
+Receiving knowledge, abiding by laws, and being aware of regulations are common behaviors in human society. Bearing in mind that reinforcement learning (RL) algorithms benefit from mimicking humanity, in this work, we propose that an RL agent can act on external guidance in both its learning process and model deployment, making the agent more socially acceptable. We introduce the concept, Knowledge-Grounded RL (KGRL), with a formal definition that an agent learns to  Cites: Taming maml: Efficient unbiased meta-reinforcement learning

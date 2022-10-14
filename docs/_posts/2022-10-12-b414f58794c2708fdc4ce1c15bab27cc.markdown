@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Novice Type Error Diagnosis with Natural Language Models"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "C Geng, H Ye, Y Li, T Han, B Pientka, X Si - arXiv preprint arXiv:2210.03682, 2022"
----
-Strong static type systems help programmers eliminate many errors without much burden of supplying type annotations. However, this flexibility makes it highly non-trivial to diagnose ill-typed programs, especially for novice programmers. Compared to classic constraint solving and optimization-based approaches, the data-driven approach has shown great promise in identifying the root causes of type errors with higher accuracy. Instead of relying on hand-engineered features, this work explores …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "Novice Type Error Diagnosis with Natural Language Models" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "C Geng, H Ye, Y Li, T Han, B Pientka, X Si - arXiv preprint arXiv:2210.03682, 2022" 
+--- 
+Strong static type systems help programmers eliminate many errors without much burden of supplying type annotations. However, this flexibility makes it highly non-trivial to diagnose ill-typed programs, especially for novice programmers. Compared to classic constraint solving and optimization-based approaches, the data-driven approach has shown great promise in identifying the root causes of type errors with higher accuracy. Instead of relying on hand-engineered features, this work explores  Cites: Codebert: A pre-trained model for programming and natural

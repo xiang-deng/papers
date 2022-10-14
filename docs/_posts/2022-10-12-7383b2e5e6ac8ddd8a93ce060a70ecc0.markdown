@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pre-trained Adversarial Perturbations"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "Y Ban, Y Dong - arXiv preprint arXiv:2210.03372, 2022"
----
-Self-supervised pre-training has drawn increasing attention in recent years due to its superior performance on numerous downstream tasks after fine-tuning. However, it is well-known that deep learning models lack the robustness to adversarial examples, which can also invoke security issues to pre-trained models, despite being less explored. In this paper, we delve into the robustness of pre-trained models by introducing Pre-trained Adversarial Perturbations (PAPs), which are universal …
-Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬
+--- 
+layout: post 
+title: "Pre-trained Adversarial Perturbations" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "Y Ban, Y Dong - arXiv preprint arXiv:2210.03372, 2022" 
+--- 
+Self-supervised pre-training has drawn increasing attention in recent years due to its superior performance on numerous downstream tasks after fine-tuning. However, it is well-known that deep learning models lack the robustness to adversarial examples, which can also invoke security issues to pre-trained models, despite being less explored. In this paper, we delve into the robustness of pre-trained models by introducing Pre-trained Adversarial Perturbations (PAPs), which are universal  Cites: Fine-tuning can distort pretrained features and underperform out-of

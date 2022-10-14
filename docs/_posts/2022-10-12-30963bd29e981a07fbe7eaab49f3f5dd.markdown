@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automated blue whale photo-identification using local feature matching"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "M Lalonde, D Landry, R Sears"
----
-Automated photo-identification of blue whale individuals has received little attention over the years compared to humpback and right whales, most likely because of the difficulty of the task: blue whales are identified using the low-contrast pigmentation of their skin (light and dark shades of grey displayed in patches of varying sizes). This paper explores the use of three local feature matching techniques (SIFT, L2-Net and LoFTR) for blue whale photo-identification and compares their performance to that of …
-Cites: ‪Removing spurious features can hurt accuracy and affect groups …‬
+--- 
+layout: post 
+title: "Automated blue whale photo-identification using local feature matching" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "M Lalonde, D Landry, R Sears" 
+--- 
+Automated photo-identification of blue whale individuals has received little attention over the years compared to humpback and right whales, most likely because of the difficulty of the task: blue whales are identified using the low-contrast pigmentation of their skin (light and dark shades of grey displayed in patches of varying sizes). This paper explores the use of three local feature matching techniques (SIFT, L2-Net and LoFTR) for blue whale photo-identification and compares their performance to that of  Cites: Removing spurious features can hurt accuracy and affect groups

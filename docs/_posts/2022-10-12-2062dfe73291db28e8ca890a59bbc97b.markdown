@@ -1,9 +1,8 @@
----
-layout: post
-title:  "基于相似度进行句子选择的机器阅读理解数据增强 (Machine reading comprehension data Augmentation for sentence selection based on similarity)"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "S Nie, Z Ye, J Qin, J Liu - Proceedings of the 21st Chinese National Conference …, 2022"
----
-Abstract “目前常见的机器阅读理解数据增强方法如回译, 单独对文章或者问题进行数据增强, 没有考虑文章, 问题和选项三元组之间的联系. 因此, 本文探索了一种利用三元组联系进行文章句子筛选的数据增强方法, 通过比较文章与问题以及选项的相似度, 选取文章中与二者联系紧密的句子. 同时为了使不同选项的三元组区别增大, 我们选用了正则化Dropout 的策略. 实验结果表明, 在RACE 数据集上的准确率可提高3.8%.”
-Cites: ‪Bidirectional Attention Flow for Machine Comprehension‬
+--- 
+layout: post 
+title: " (Machine reading comprehension data Augmentation for sentence selection based on similarity)" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "S Nie, Z Ye, J Qin, J Liu - Proceedings of the 21st Chinese National Conference , 2022" 
+--- 
+Abstract , , , . , , , . , Dropout . , RACE 3.8%.  Cites: Bidirectional Attention Flow for Machine Comprehension

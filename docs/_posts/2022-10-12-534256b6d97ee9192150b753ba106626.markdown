@@ -1,9 +1,0 @@
----
-layout: post
-title:  "改进 YOLOX-S 模型的施工场景目标检测"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "胡皓， 郭放， 刘钊 - 计算机科学与探索"
----
-现有YOLOX-S 模型在施工环境干扰下目标检测平均精准率(Average Precision, AP) 偏低, 不能较好满足实际应用需要. 针对上述问题, 从引入结构重参数化模块, 引入卷积注意力模块, 引入AdamW 优化算法三个方面对YOLOX-S 模型进行改进. 第一, 利用RepVGGBlock 解耦训练阶段与测试阶段的模型结构, 在训练阶段模型的Backbone 与Neck 中构建更多残差结构, 提高模型的特征提取能力. 第二, 利用LKA 模块提取局部特征信息与长距离依赖关系, 为后续计算目标边界框位置与大小提供更加 …
-Cites: ‪BERT: pre-training of deep bidirectional transformers for language …‬

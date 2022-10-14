@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Generating Quizzes to Support Training on Quality Management and Assurance in Space Science and Engineering"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "A García-Silva, C Berrío, JM Gómez-Pérez - arXiv preprint arXiv:2210.03427, 2022"
----
-Quality management and assurance is key for space agencies to guarantee the success of space missions, which are high-risk and extremely costly. In this paper, we present a system to generate quizzes, a common resource to evaluate the effectiveness of training sessions, from documents about quality assurance procedures in the Space domain. Our system leverages state of the art auto-regressive models like T5 and BART to generate questions, and a RoBERTa model …
-Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬

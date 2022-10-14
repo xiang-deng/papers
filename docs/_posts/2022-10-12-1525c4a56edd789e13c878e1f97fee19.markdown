@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data Synthesis and Iterative Refinement for Neural Semantic Parsing without Annotated Logical Forms"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "W Shan, C Bo, H Xianpei, S Le - Proceedings of the 21st Chinese National …, 2022"
----
-Abstract “Semantic parsing aims to convert natural language utterances to logical forms. A critical challenge for constructing semantic parsers is the lack of labeled data. In this paper, we propose a data synthesis and iterative refinement framework for neural semantic parsing, which can build semantic parsers without annotated logical forms. We first generate a naive corpus by sampling logic forms from knowledge bases and synthesizing their canonical utterances. Then, we further …
-Cites: ‪StructVAE: Tree-structured latent variable models for semi …‬
+--- 
+layout: post 
+title: "Data Synthesis and Iterative Refinement for Neural Semantic Parsing without Annotated Logical Forms" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "W Shan, C Bo, H Xianpei, S Le - Proceedings of the 21st Chinese National , 2022" 
+--- 
+Abstract Semantic parsing aims to convert natural language utterances to logical forms. A critical challenge for constructing semantic parsers is the lack of labeled data. In this paper, we propose a data synthesis and iterative refinement framework for neural semantic parsing, which can build semantic parsers without annotated logical forms. We first generate a naive corpus by sampling logic forms from knowledge bases and synthesizing their canonical utterances. Then, we further  Cites: StructVAE: Tree-structured latent variable models for semi

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Large-scale Paraphrase Acquisition and Generation"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "Y Dou, C Jiang, W Xu - arXiv preprint arXiv:2210.03235, 2022"
----
-This paper addresses the quality issues in existing Twitter-based paraphrase datasets, and discusses the necessity of using two separate definitions of paraphrase for identification and generation tasks. We present a new Multi-Topic Paraphrase in Twitter (MultiPIT) corpus that consists of a total of 130k sentence pairs with crowdsoursing (MultiPIT_crowd) and expert (MultiPIT_expert) annotations using two different paraphrase definitions for paraphrase identification, in addition to a …
-Cites: ‪On Learning Text Style Transfer with Direct Rewards‬
+--- 
+layout: post 
+title: "Improving Large-scale Paraphrase Acquisition and Generation" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "Y Dou, C Jiang, W Xu - arXiv preprint arXiv:2210.03235, 2022" 
+--- 
+This paper addresses the quality issues in existing Twitter-based paraphrase datasets, and discusses the necessity of using two separate definitions of paraphrase for identification and generation tasks. We present a new Multi-Topic Paraphrase in Twitter (MultiPIT) corpus that consists of a total of 130k sentence pairs with crowdsoursing (MultiPIT_crowd) and expert (MultiPIT_expert) annotations using two different paraphrase definitions for paraphrase identification, in addition to a  Cites: On Learning Text Style Transfer with Direct Rewards

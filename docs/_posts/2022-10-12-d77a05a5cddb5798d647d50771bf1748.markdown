@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Not another Negation Benchmark: The NaN-NLI Test Suite for Sub-clausal Negation"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "HT Truong, Y Otmakhova, T Baldwin, T Cohn… - arXiv preprint arXiv …, 2022"
----
-Negation is poorly captured by current language models, although the extent of this problem is not widely understood. We introduce a natural language inference (NLI) test suite to enable probing the capabilities of NLP methods, with the aim of understanding sub-clausal negation. The test suite contains premise--hypothesis pairs where the premise contains sub-clausal negation and the hypothesis is constructed by making minimal modifications to the premise in order to reflect …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Not another Negation Benchmark: The NaN-NLI Test Suite for Sub-clausal Negation" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "HT Truong, Y Otmakhova, T Baldwin, T Cohn - arXiv preprint arXiv , 2022" 
+--- 
+Negation is poorly captured by current language models, although the extent of this problem is not widely understood. We introduce a natural language inference (NLI) test suite to enable probing the capabilities of NLP methods, with the aim of understanding sub-clausal negation. The test suite contains premise--hypothesis pairs where the premise contains sub-clausal negation and the hypothesis is constructed by making minimal modifications to the premise in order to reflect  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

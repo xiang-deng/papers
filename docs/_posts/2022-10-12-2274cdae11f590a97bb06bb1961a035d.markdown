@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ClassSum: a deep learning model for class-level code summarization"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "M Li, H Yu, G Fan, Z Zhou, J Huang - Neural Computing and Applications, 2022"
----
-Code summaries are clear and concise natural language descriptions of program entities. Meaningful code summaries assist developers in better understanding. Code summarization refers to the task of generating a natural language summary from a code snippet. Most researches on code summarization focus on automatically generating summaries for methods or functions. However, in an object-oriented language such as Java, class is the basic programming unit rather than method. To …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "ClassSum: a deep learning model for class-level code summarization" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "M Li, H Yu, G Fan, Z Zhou, J Huang - Neural Computing and Applications, 2022" 
+--- 
+Code summaries are clear and concise natural language descriptions of program entities. Meaningful code summaries assist developers in better understanding. Code summarization refers to the task of generating a natural language summary from a code snippet. Most researches on code summarization focus on automatically generating summaries for methods or functions. However, in an object-oriented language such as Java, class is the basic programming unit rather than method. To  Cites: Codebert: A pre-trained model for programming and natural

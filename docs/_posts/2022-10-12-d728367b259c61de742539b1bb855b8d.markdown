@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Out-of-Distribution Adversarial Robustness"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "A Ibrahim, C Guille-Escuret, I Mitliagkas, I Rish… - arXiv preprint arXiv …, 2022"
----
-Adversarial robustness continues to be a major challenge for deep learning. A core issue is that robustness to one type of attack often fails to transfer to other attacks. While prior work establishes a theoretical trade-off in robustness against different $ L_p $ norms, we show that there is potential for improvement against many commonly used attacks by adopting a domain generalisation approach. Concretely, we treat each type of attack as a domain, and apply the Risk Extrapolation method …
-Cites: ‪Distributionally robust neural networks for group shifts: On the …‬
+--- 
+layout: post 
+title: "Towards Out-of-Distribution Adversarial Robustness" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "A Ibrahim, C Guille-Escuret, I Mitliagkas, I Rish - arXiv preprint arXiv , 2022" 
+--- 
+Adversarial robustness continues to be a major challenge for deep learning. A core issue is that robustness to one type of attack often fails to transfer to other attacks. While prior work establishes a theoretical trade-off in robustness against different $ L_p $ norms, we show that there is potential for improvement against many commonly used attacks by adopting a domain generalisation approach. Concretely, we treat each type of attack as a domain, and apply the Risk Extrapolation method  Cites: Distributionally robust neural networks for group shifts: On the

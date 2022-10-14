@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Extending Word2Vec with Domain-Specific Labels"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "M Švaňa - 2022 17th Conference on Computer Science and …, 2022"
----
-Choosing a proper representation of textual data is an important part of natural language processing. One option is using Word2Vec embeddings, ie, dense vectors whose properties can to a degree capture the  meaning  of each word. One of the main disadvantages of Word2Vec is its inability to distinguish between antonyms. Motivated by this deficiency, this paper presents a Word2Vec extension for incorporating domain-specific labels. The goal is to improve the ability to differentiate …
-Cites: ‪Deep contextualized word representations‬

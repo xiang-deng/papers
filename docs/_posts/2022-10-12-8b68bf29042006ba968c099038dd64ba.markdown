@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aspect-Level Sentiment Analysis with Multi-Channel and Graph Convolutional Networks"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "J Wang, X Li - International Journal of Cognitive and Language …, 2022"
----
-The purpose of the aspect-level sentiment analysis task is to identify the sentiment polarity of aspects in a sentence. Currently, most methods mainly focus on using neural networks and attention mechanisms to model the relationship between aspects and context, but they ignore the dependence of words in different ranges in the sentence, resulting in deviation when assigning relationship weight to other words other than aspect words. To solve these problems, we propose an aspect …
-Cites: ‪Effective LSTMs for target-dependent sentiment classification‬
+--- 
+layout: post 
+title: "Aspect-Level Sentiment Analysis with Multi-Channel and Graph Convolutional Networks" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "J Wang, X Li - International Journal of Cognitive and Language , 2022" 
+--- 
+The purpose of the aspect-level sentiment analysis task is to identify the sentiment polarity of aspects in a sentence. Currently, most methods mainly focus on using neural networks and attention mechanisms to model the relationship between aspects and context, but they ignore the dependence of words in different ranges in the sentence, resulting in deviation when assigning relationship weight to other words other than aspect words. To solve these problems, we propose an aspect  Cites: Effective LSTMs for target-dependent sentiment classification

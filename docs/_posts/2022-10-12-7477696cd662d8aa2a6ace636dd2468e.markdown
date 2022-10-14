@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DABERT: Dual Attention Enhanced BERT for Semantic Matching"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "S Wang, D Liang, J Song, Y Li, W Wu - arXiv preprint arXiv:2210.03454, 2022"
----
-Transformer-based pre-trained language models such as BERT have achieved remarkable results in Semantic Sentence Matching. However, existing models still suffer from insufficient ability to capture subtle differences. Minor noise like word addition, deletion, and modification of sentences may cause flipped predictions. To alleviate this problem, we propose a novel Dual Attention Enhanced BERT (DABERT) to enhance the ability of BERT to capture fine-grained differences in …
-Cites: ‪Explainaboard: An explainable leaderboard for nlp‬
+--- 
+layout: post 
+title: "DABERT: Dual Attention Enhanced BERT for Semantic Matching" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "S Wang, D Liang, J Song, Y Li, W Wu - arXiv preprint arXiv:2210.03454, 2022" 
+--- 
+Transformer-based pre-trained language models such as BERT have achieved remarkable results in Semantic Sentence Matching. However, existing models still suffer from insufficient ability to capture subtle differences. Minor noise like word addition, deletion, and modification of sentences may cause flipped predictions. To alleviate this problem, we propose a novel Dual Attention Enhanced BERT (DABERT) to enhance the ability of BERT to capture fine-grained differences in  Cites: Explainaboard: An explainable leaderboard for nlp

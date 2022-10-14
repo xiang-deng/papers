@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Compositional Generalisation with Structured Reordering and Fertility Layers"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "M Lindemann, A Koller, I Titov - arXiv preprint arXiv:2210.03183, 2022"
----
-Seq2seq models have been shown to struggle with compositional generalisation, ie generalising to new and potentially more complex structures than seen during training. Taking inspiration from grammar-based models that excel at compositional generalisation, we present a flexible end-to-end differentiable neural model that composes two structural operations: a fertility step, which we introduce in this work, and a reordering step based on previous work (Wang et al., 2021). Our model …
-Cites: ‪Meta-Learning to Compositionally Generalize‬
+--- 
+layout: post 
+title: "Compositional Generalisation with Structured Reordering and Fertility Layers" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "M Lindemann, A Koller, I Titov - arXiv preprint arXiv:2210.03183, 2022" 
+--- 
+Seq2seq models have been shown to struggle with compositional generalisation, ie generalising to new and potentially more complex structures than seen during training. Taking inspiration from grammar-based models that excel at compositional generalisation, we present a flexible end-to-end differentiable neural model that composes two structural operations: a fertility step, which we introduce in this work, and a reordering step based on previous work (Wang et al., 2021). Our model  Cites: Meta-Learning to Compositionally Generalize

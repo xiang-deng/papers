@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "F Chalumeau, R Boige, B Lim, V Macé, M Allard… - arXiv preprint arXiv …, 2022"
----
-Deep Reinforcement Learning (RL) has emerged as a powerful paradigm for training neural policies to solve complex control tasks. However, these policies tend to be overfit to the exact specifications of the task and environment they were trained on, and thus do not perform well when conditions deviate slightly or when composed hierarchically to solve even more complex tasks. Recent work has shown that training a mixture of policies, as opposed to a single one, that are driven to explore …
-Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬
+--- 
+layout: post 
+title: "Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "F Chalumeau, R Boige, B Lim, V Mac, M Allard - arXiv preprint arXiv , 2022" 
+--- 
+Deep Reinforcement Learning (RL) has emerged as a powerful paradigm for training neural policies to solve complex control tasks. However, these policies tend to be overfit to the exact specifications of the task and environment they were trained on, and thus do not perform well when conditions deviate slightly or when composed hierarchically to solve even more complex tasks. Recent work has shown that training a mixture of policies, as opposed to a single one, that are driven to explore  Cites: Explore, discover and learn: Unsupervised discovery of state

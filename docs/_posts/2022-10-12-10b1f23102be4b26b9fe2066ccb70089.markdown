@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distillation-Resistant Watermarking for Model Protection in NLP"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "X Zhao, L Li, YX Wang - arXiv preprint arXiv:2210.03312, 2022"
----
-How can we protect the intellectual property of trained NLP models? Modern NLP models are prone to stealing by querying and distilling from their publicly exposed APIs. However, existing protection methods such as watermarking only work for images but are not applicable to text. We propose Distillation-Resistant Watermarking (DRW), a novel technique to protect NLP models from being stolen via distillation. DRW protects a model by injecting watermarks into the victim s prediction …
-Cites: ‪Thieves on Sesame Street! Model Extraction of BERT-based APIs‬
+--- 
+layout: post 
+title: "Distillation-Resistant Watermarking for Model Protection in NLP" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "X Zhao, L Li, YX Wang - arXiv preprint arXiv:2210.03312, 2022" 
+--- 
+How can we protect the intellectual property of trained NLP models? Modern NLP models are prone to stealing by querying and distilling from their publicly exposed APIs. However, existing protection methods such as watermarking only work for images but are not applicable to text. We propose Distillation-Resistant Watermarking (DRW), a novel technique to protect NLP models from being stolen via distillation. DRW protects a model by injecting watermarks into the victim s prediction  Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

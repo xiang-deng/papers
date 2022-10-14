@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SynShine: Improved Fixing of Syntax Errors"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "T Ahmed, NR Ledesma, P Devanbu - IEEE Transactions on Software Engineering, 2022"
----
-Novice programmers struggle with the complex syntax of modern programming languages like Java, and make lot of syntax errors. The diagnostic syntax error messages from compilers and IDEs are sometimes useful, but often the messages are cryptic and puzzling. Novices could be helped, and instructors  time saved, by automated repair suggestions when dealing with syntax errors. Large samples of novice errors and fixes are now available, offering the possibility of data-driven …
-Cites: ‪Break-it-fix-it: Unsupervised learning for program repair‬
+--- 
+layout: post 
+title: "SynShine: Improved Fixing of Syntax Errors" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "T Ahmed, NR Ledesma, P Devanbu - IEEE Transactions on Software Engineering, 2022" 
+--- 
+Novice programmers struggle with the complex syntax of modern programming languages like Java, and make lot of syntax errors. The diagnostic syntax error messages from compilers and IDEs are sometimes useful, but often the messages are cryptic and puzzling. Novices could be helped, and instructors time saved, by automated repair suggestions when dealing with syntax errors. Large samples of novice errors and fixes are now available, offering the possibility of data-driven  Cites: Break-it-fix-it: Unsupervised learning for program repair

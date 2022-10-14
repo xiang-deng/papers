@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Private and Efficient Meta-Learning with Low Rank and Sparse Decomposition"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "S Pal, P Varshney, P Jain, AG Thakurta, G Madan… - arXiv preprint arXiv …, 2022"
----
-Meta-learning is critical for a variety of practical ML systems--like personalized recommendations systems--that are required to generalize to new tasks despite a small number of task-specific training points. Existing meta-learning techniques use two complementary approaches of either learning a low-dimensional representation of points for all tasks, or task-specific fine-tuning of a global model trained using all the tasks. In this work, we propose a novel meta-learning framework that combines …
-Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬
+--- 
+layout: post 
+title: "Private and Efficient Meta-Learning with Low Rank and Sparse Decomposition" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "S Pal, P Varshney, P Jain, AG Thakurta, G Madan - arXiv preprint arXiv , 2022" 
+--- 
+Meta-learning is critical for a variety of practical ML systems--like personalized recommendations systems--that are required to generalize to new tasks despite a small number of task-specific training points. Existing meta-learning techniques use two complementary approaches of either learning a low-dimensional representation of points for all tasks, or task-specific fine-tuning of a global model trained using all the tasks. In this work, we propose a novel meta-learning framework that combines  Cites: Pre-train, prompt, and predict: A systematic survey of prompting

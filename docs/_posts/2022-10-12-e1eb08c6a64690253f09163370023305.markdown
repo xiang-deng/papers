@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ReAct: Synergizing Reasoning and Acting in Language Models"
-date:   2022-10-12 20:42:55 -0400
-categories: jekyll update
-author: "S Yao, J Zhao, D Yu, N Du, I Shafran, K Narasimhan… - arXiv preprint arXiv …, 2022"
----
-While large language models (LLMs) have demonstrated impressive capabilities across tasks in language understanding and interactive decision making, their abilities for reasoning (eg chain-of-thought prompting) and acting (eg action plan generation) have primarily been studied as separate topics. In this paper, we explore the use of LLMs to generate both reasoning traces and task-specific actions in an interleaved manner, allowing for greater synergy between the two: reasoning traces …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "ReAct: Synergizing Reasoning and Acting in Language Models" 
+date: 2022-10-12 20:42:55 -0400 
+categories: jekyll update 
+author: "S Yao, J Zhao, D Yu, N Du, I Shafran, K Narasimhan - arXiv preprint arXiv , 2022" 
+--- 
+While large language models (LLMs) have demonstrated impressive capabilities across tasks in language understanding and interactive decision making, their abilities for reasoning (eg chain-of-thought prompting) and acting (eg action plan generation) have primarily been studied as separate topics. In this paper, we explore the use of LLMs to generate both reasoning traces and task-specific actions in an interleaved manner, allowing for greater synergy between the two: reasoning traces  Cites: Palm: Scaling language modeling with pathways
