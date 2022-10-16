@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "Z Li, C You, S Bhojanapalli, D Li, AS Rawat, SJ Reddi… - arXiv preprint arXiv …, 2022"
+---
+This paper studies the curious phenomenon for machine learning models with Transformer architectures that their activation maps are sparse. By activation map we refer to the intermediate output of the multi-layer perceptrons (MLPs) after a ReLU activation function, and by  sparse  we mean that on average very few entries (eg, 3.0% for T5-Base and 6.3% for ViT-B16) are nonzero for each input to MLP. Moreover, larger Transformers with more layers and wider MLP hidden dimensions …
+Cites: ‪Glam: Efficient scaling of language models with mixture-of-experts‬

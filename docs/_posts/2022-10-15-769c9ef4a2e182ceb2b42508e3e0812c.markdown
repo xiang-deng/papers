@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Meta-Principled Family of Hyperparameter Scaling Strategies"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "S Yaida - arXiv preprint arXiv:2210.04909, 2022"
+---
+In this note, we first derive a one-parameter family of hyperparameter scaling strategies that interpolates between the neural-tangent scaling and mean-field/maximal-update scaling. We then calculate the scalings of dynamical observables--network outputs, neural tangent kernels, and differentials of neural tangent kernels--for wide and deep neural networks. These calculations in turn reveal a proper way to scale depth with width such that resultant large-scale models …
+Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬

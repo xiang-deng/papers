@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "End-to-end neural bridging resolution"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "H Kobayashi, Y Hou, V Ng - Proceedings of the 29th International Conference on …, 2022"
+---
+The state of bridging resolution research is rather unsatisfactory: not only are state-of-the-art resolvers evaluated in unrealistic settings, but the neural models underlying these resolvers are weaker than those used for entity coreference resolution. In light of these problems, we evaluate bridging resolvers in an end-to-end setting, strengthen them with better encoders, and attempt to gain a better understanding of them via perturbation experiments and a manual analysis of their outputs.
+Cites: ‪SpanBERT: Improving Pre-training by Representing and Predicting …‬

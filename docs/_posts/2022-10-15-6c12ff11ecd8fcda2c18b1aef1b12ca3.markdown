@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "World Models with an Entity-Based Representation"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "NY Khameneh, M Guzdial - Proceedings of the AAAI Conference on Artificial …, 2022"
+---
+Reinforcement learning (RL) is a powerful way to solve sequential decision-making tasks. However training an RL agent in a complex environment requires a large amount of interactions, which is non-ideal when acting in an environment is costly or dangerous. One alternative is to learn an approximation of the real environment, referred to as a world model. This simulator can be used to train an agent and transfer the learned policy to the real environment. Unfortunately, training world …
+Cites: ‪The unreasonable effectiveness of data‬

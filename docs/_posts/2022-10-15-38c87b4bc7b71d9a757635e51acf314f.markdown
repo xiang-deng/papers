@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Exploration of Hierarchical Attention Transformers for Efficient Long Document Classification"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "I Chalkidis, X Dai, M Fergadiotis, P Malakasiotis… - arXiv preprint arXiv …, 2022"
+---
+Non-hierarchical sparse attention Transformer-based models, such as Longformer and Big Bird, are popular approaches to working with long documents. There are clear benefits to these approaches compared to the original Transformer in terms of efficiency, but Hierarchical Attention Transformer (HAT) models are a vastly understudied alternative. We develop and release fully pre-trained HAT models that use segment-wise followed by cross-segment encoders and compare them with …
+Cites: ‪ContractNLI: A dataset for document-level natural language …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Where Does Linguistic Information Emerge in Neural Language Models? Measuring Gains and Contributions across Layers"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "J Kunz, M Kuhlmann - Proceedings of the 29th International Conference on …, 2022"
+---
+Probing studies have extensively explored where in neural language models linguistic information is located. The standard approach to interpreting the results of a probing classifier is to focus on the layers whose representations give the highest performance on the probing task. We propose an alternative method that asks where the task-relevant information emerges in the model. Our framework consists of a family of metrics that explicitly model local information gain relative to the previous …
+Cites: ‪oLMpics - On what Language Model Pre-training Captures‬

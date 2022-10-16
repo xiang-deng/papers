@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Investigating Metric Diversity for Evaluating Long Document Summarisation"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "C Yang, S Wan - Proceedings of the Third Workshop on Scholarly …, 2022"
+---
+Long document summarisation, a challenging summarisation scenario, is the focus of the recently proposed LongSumm shared task. One of the limitations of this shared task has been its use of a single family of metrics for evaluation (the ROUGE metrics). In contrast, other fields, like text generation, employ multiple metrics. We replicated the LongSumm evaluation using multiple test set samples (vs. the single test set of the official shared task) and investigated how different metrics might complement …
+Cites: ‪Bidimensional leaderboards: Generate and evaluate language …‬

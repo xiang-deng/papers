@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contrastive Representation Learning for Conversational Question Answering over Knowledge Graphs"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "E Kacupaj, K Singh, M Maleshkova, J Lehmann - arXiv preprint arXiv:2210.04373, 2022"
+---
+This paper addresses the task of conversational question answering (ConvQA) over knowledge graphs (KGs). The majority of existing ConvQA methods rely on full supervision signals with a strict assumption of the availability of gold logical forms of queries to extract answers from the KG. However, creating such a gold logical form is not viable for each potential question in a real-world scenario. Hence, in the case of missing gold logical forms, the existing information retrieval-based approaches use …
+Cites: ‪Towards unsupervised dense information retrieval with contrastive …‬

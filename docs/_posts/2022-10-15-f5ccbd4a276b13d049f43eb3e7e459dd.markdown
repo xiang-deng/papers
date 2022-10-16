@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Unified Framework for Alternating Offline Model Training and Policy Learning"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "S Yang, S Zhang, Y Feng, M Zhou - arXiv preprint arXiv:2210.05922, 2022"
+---
+In offline model-based reinforcement learning (offline MBRL), we learn a dynamic model from historically collected data, and subsequently utilize the learned model and fixed datasets for policy learning, without further interacting with the environment. Offline MBRL algorithms can improve the efficiency and stability of policy learning over the model-free algorithms. However, in most of the existing offline MBRL algorithms, the learning objectives for the dynamic models and the …
+Cites: ‪Black-box off-policy estimation for infinite-horizon reinforcement …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Kevin: A knowledge enhanced validity and novelty classifier for arguments"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "A Saadat-Yazdi, X Li, S Chausson, V Belle, B Ross… - Proceedings of the 9th …, 2022"
+---
+Abstract The ArgMining 2022 Shared Task is concerned with predicting the validity and novelty of an inference for a given premise and conclusion pair. We propose two feed-forward network based models (KEViN1 and KEViN2), which combine features generated from several pretrained transformers and the WikiData knowledge graph. The transformers are used to predict entailment and semantic similarity, while WikiData is used to provide a semantic measure between concepts in the premise …
+Cites: ‪QA-GNN: Reasoning with language models and knowledge …‬

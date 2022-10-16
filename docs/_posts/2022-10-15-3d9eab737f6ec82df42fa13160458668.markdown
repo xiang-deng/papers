@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Retrieval Augmentation for T5 Re-ranker using External Sources"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "K Hui, T Chen, Z Qin, H Zhuang, F Diaz, M Bendersky… - arXiv preprint arXiv …, 2022"
+---
+Retrieval augmentation has shown promising improvements in different tasks. However, whether such augmentation can assist a large language model based re-ranker remains unclear. We investigate how to augment T5-based re-rankers using high-quality information retrieved from two external corpora--a commercial web search engine and Wikipedia. We empirically demonstrate how retrieval augmentation can substantially improve the effectiveness of T5-based re-rankers for …
+Cites: ‪LaMDA: Language Models for Dialog Applications‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimizing Tensor Programs on Flexible Storage"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "M Schleich, A Shaikhha, D Suciu - arXiv preprint arXiv:2210.06267, 2022"
+---
+Tensor programs often need to process large tensors (vectors, matrices, or higher order tensors) that require a specialized storage format for their memory layout. Several such layouts have been proposed in the literature, such as the Coordinate Format, the Compressed Sparse Row format, and many others, that were especially designed to optimally store tensors with specific sparsity properties. However, existing tensor processing systems require specialized extensions in order to take …
+Cites: ‪Answering queries using views: A survey‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unsupervised Partial Sentence Matching for Cited Text Identification"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "K Ricci, HS Chang, P Goyal, A McCallum - Proceedings of the Third Workshop on …, 2022"
+---
+Given a citation in the body of a research paper, cited text identification aims to find the sentences in the cited paper that are most relevant to the citing sentence. The task is fundamentally one of sentence matching, where affinity is often assessed by a cosine similarity between sentence embeddings. However,(a) sentences may not be well-represented by a single embedding because they contain multiple distinct semantic aspects, and (b) good matches may not require a strong match in all …
+Cites: ‪Learning to Retrieve Passages without Supervision‬

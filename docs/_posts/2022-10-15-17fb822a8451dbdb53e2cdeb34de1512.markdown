@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Ncuee-nlp@ smm4h 22: Classification of self-reported chronic stress on twitter using ensemble pre-trained transformer models"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "TM Lin, CY Chen, YW Tzeng, LH Lee - Proceedings of The Seventh Workshop on …, 2022"
+---
+This study describes our proposed system design for the SMM4H 2022 Task 8. We fine-tune the BERT, RoBERTa, ALBERT, XLNet and ELECTRA transformers and their connecting classifiers. Each transformer model is regarded as a standalone method to detect tweets that self-reported chronic stress. The final output classification result is then combined using the majority voting ensemble mechanism. Experimental results indicate that our approach achieved a best F1-score of 0.73 …
+Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Kernel-Based View of Language Model Fine-Tuning"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "S Malladi, A Wettig, D Yu, D Chen, S Arora - arXiv preprint arXiv:2210.05643, 2022"
+---
+It has become standard to solve NLP tasks by fine-tuning pre-trained language models (LMs), especially in low-data settings. There is minimal theoretical understanding of empirical success, eg, why fine-tuning a model with $10^ 8$ or …

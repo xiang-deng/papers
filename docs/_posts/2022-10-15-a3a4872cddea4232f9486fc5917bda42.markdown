@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SilverAlign: MT-Based Silver Data Algorithm For Evaluating Word Alignment"
+date:   2022-10-15 02:59:22 -0400
+categories: jekyll update
+author: "A Köksal, S Severini, H Schütze - arXiv preprint arXiv:2210.06207, 2022"
+---
+Word alignments are essential for a variety of NLP tasks. Therefore, choosing the best approaches for their creation is crucial. However, the scarce availability of gold evaluation data makes the choice difficult. We propose SilverAlign, a new method to automatically create silver data for the evaluation of word aligners by exploiting machine translation and minimal pairs. We show that performance on our silver data correlates well with gold benchmarks for 9 language pairs, making our approach a …
+Cites: ‪Expanding Pretrained Models to Thousands More Languages via …‬
