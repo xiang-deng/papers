@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Task-Aware Specialization for Efficient and Robust Dense Retrieval for Open-Domain Question Answering"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "H Cheng, H Fang, X Liu, J Gao - arXiv preprint arXiv:2210.05156, 2022"
----
-Given its effectiveness on knowledge-intensive natural language processing tasks, dense retrieval models have become increasingly popular. Specifically, the de-facto architecture for open-domain question answering uses two isomorphic encoders that are initialized from the same pretrained model but separately parameterized for questions and passages. This bi-encoder architecture is parameter-inefficient in that there is no parameter sharing between encoders. Further, recent studies show that …
-Cites: ‪Simple Entity-Centric Questions Challenge Dense Retrievers‬
+--- 
+layout: post 
+title: "Task-Aware Specialization for Efficient and Robust Dense Retrieval for Open-Domain Question Answering" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "H Cheng, H Fang, X Liu, J Gao - arXiv preprint arXiv:2210.05156, 2022" 
+--- 
+Given its effectiveness on knowledge-intensive natural language processing tasks, dense retrieval models have become increasingly popular. Specifically, the de-facto architecture for open-domain question answering uses two isomorphic encoders that are initialized from the same pretrained model but separately parameterized for questions and passages. This bi-encoder architecture is parameter-inefficient in that there is no parameter sharing between encoders. Further, recent studies show that  Cites: Simple Entity-Centric Questions Challenge Dense Retrievers

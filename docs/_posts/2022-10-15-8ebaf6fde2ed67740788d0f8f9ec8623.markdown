@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Boosting Code Summarization by Embedding Code Structures"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "J Son, J Hahn, HT Seo, YS Han - Proceedings of the 29th International Conference on …, 2022"
----
-Recent research on code summarization relies on the structural information from the abstract syntax tree (AST) of source codes. It is, however, questionable whether it is the most effective to use AST for expressing the structural information. We find that a program dependency graph (PDG) can represent the structure of a code more effectively. We propose PDG Boosting Module (PBM) that encodes PDG into graph embedding and the framework to implement the proposed PBM with the existing …
-Cites: ‪Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming …‬
+--- 
+layout: post 
+title: "Boosting Code Summarization by Embedding Code Structures" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "J Son, J Hahn, HT Seo, YS Han - Proceedings of the 29th International Conference on , 2022" 
+--- 
+Recent research on code summarization relies on the structural information from the abstract syntax tree (AST) of source codes. It is, however, questionable whether it is the most effective to use AST for expressing the structural information. We find that a program dependency graph (PDG) can represent the structure of a code more effectively. We propose PDG Boosting Module (PBM) that encodes PDG into graph embedding and the framework to implement the proposed PBM with the existing  Cites: Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming

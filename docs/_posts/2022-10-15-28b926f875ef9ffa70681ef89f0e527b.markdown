@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Continual Few-shot Intent Detection"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "G Li, Y Zhai, Q Chen, X Gao, J Zhang, Y Zhang - Proceedings of the 29th International …, 2022"
----
-Intent detection is at the core of task-oriented dialogue systems. Existing intent detection systems are typically trained with a large amount of data over a predefined set of intent classes. However, newly emerged intents in multiple domains are commonplace in the real world. And it is time-consuming and impractical for dialogue systems to re-collect enough annotated data and re-train the model. These limitations call for an intent detection system that could continually recognize new …
-Cites: ‪Towards a unified view of parameter-efficient transfer learning‬
+--- 
+layout: post 
+title: "Continual Few-shot Intent Detection" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "G Li, Y Zhai, Q Chen, X Gao, J Zhang, Y Zhang - Proceedings of the 29th International , 2022" 
+--- 
+Intent detection is at the core of task-oriented dialogue systems. Existing intent detection systems are typically trained with a large amount of data over a predefined set of intent classes. However, newly emerged intents in multiple domains are commonplace in the real world. And it is time-consuming and impractical for dialogue systems to re-collect enough annotated data and re-train the model. These limitations call for an intent detection system that could continually recognize new  Cites: Towards a unified view of parameter-efficient transfer learning

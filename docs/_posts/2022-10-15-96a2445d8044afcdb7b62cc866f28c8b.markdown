@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SimSCOOD: Systematic Analysis of Out-of-Distribution Behavior of Source Code Models"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "H Hajipour, N Yu, CA Staicu, M Fritz - arXiv preprint arXiv:2210.04802, 2022"
----
-While large code datasets have become available in recent years, acquiring representative training data with full coverage of general code distribution remains challenging due to the compositional nature of code and the complexity of software. This leads to the out-of-distribution (OOD) issues with unexpected model inference behaviors that have not been systematically studied yet. We contribute the first systematic approach that simulates various OOD scenarios along different …
-Cites: ‪Dawn Drain‬
+--- 
+layout: post 
+title: "SimSCOOD: Systematic Analysis of Out-of-Distribution Behavior of Source Code Models" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "H Hajipour, N Yu, CA Staicu, M Fritz - arXiv preprint arXiv:2210.04802, 2022" 
+--- 
+While large code datasets have become available in recent years, acquiring representative training data with full coverage of general code distribution remains challenging due to the compositional nature of code and the complexity of software. This leads to the out-of-distribution (OOD) issues with unexpected model inference behaviors that have not been systematically studied yet. We contribute the first systematic approach that simulates various OOD scenarios along different  Cites: Dawn Drain

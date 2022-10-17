@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LFKQG: A Controlled Generation Framework with Local Fine-tuning for Question Generation over Knowledge Bases"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Z Fei, X Zhou, T Gui, Q Zhang, XJ Huang - … of the 29th International Conference on …, 2022"
----
-Question generation over knowledge bases (KBQG) aims at generating natural questions about a subgraph, which can be answered by a given answer entity. Existing KBQG models still face two main challenges:(1) Most models often focus on the most relevant part of the answer entity, while neglecting the rest of the subgraph.(2) There are a large number of out-of-vocabulary (OOV) predicates in real-world scenarios, which are hard to adapt for most KBQG models. To address these …
-Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬
+--- 
+layout: post 
+title: "LFKQG: A Controlled Generation Framework with Local Fine-tuning for Question Generation over Knowledge Bases" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Z Fei, X Zhou, T Gui, Q Zhang, XJ Huang - of the 29th International Conference on , 2022" 
+--- 
+Question generation over knowledge bases (KBQG) aims at generating natural questions about a subgraph, which can be answered by a given answer entity. Existing KBQG models still face two main challenges:(1) Most models often focus on the most relevant part of the answer entity, while neglecting the rest of the subgraph.(2) There are a large number of out-of-vocabulary (OOV) predicates in real-world scenarios, which are hard to adapt for most KBQG models. To address these  Cites: Fine-tuning can distort pretrained features and underperform out-of

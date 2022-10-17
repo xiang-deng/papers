@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Translate First Reorder Later: Leveraging Monotonicity in Semantic Parsing"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "F Cazzaro, D Locatelli, A Quattoni, X Carreras - arXiv preprint arXiv:2210.04878, 2022"
----
-Prior work in semantic parsing has shown that conventional seq2seq models fail at compositional generalization tasks. This limitation led to a resurgence of methods that model alignments between sentences and their corresponding meaning representations, either implicitly through latent variables or explicitly by taking advantage of alignment annotations. We take the second direction and propose TPol, a two-step approach that first translates input sentences monotonically and …
-Cites: ‪Compositional generalization and natural language variation: Can …‬
+--- 
+layout: post 
+title: "Translate First Reorder Later: Leveraging Monotonicity in Semantic Parsing" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "F Cazzaro, D Locatelli, A Quattoni, X Carreras - arXiv preprint arXiv:2210.04878, 2022" 
+--- 
+Prior work in semantic parsing has shown that conventional seq2seq models fail at compositional generalization tasks. This limitation led to a resurgence of methods that model alignments between sentences and their corresponding meaning representations, either implicitly through latent variables or explicitly by taking advantage of alignment annotations. We take the second direction and propose TPol, a two-step approach that first translates input sentences monotonically and  Cites: Compositional generalization and natural language variation: Can

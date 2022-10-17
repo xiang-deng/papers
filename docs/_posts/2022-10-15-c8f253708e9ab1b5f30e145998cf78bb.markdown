@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "J Huang, W Zhong, Q Liu, M Gong, D Jiang, N Duan - arXiv preprint arXiv:2210.05197, 2022"
----
-Retrieving evidences from tabular and textual resources is essential for open-domain question answering (OpenQA), which provides more comprehensive information. However, training an effective dense table-text retriever is difficult due to the challenges of table-text discrepancy and data sparsity problem. To address the above challenges, we introduce an optimized OpenQA Table-Text Retriever (OTTeR) to jointly retrieve tabular and textual evidences. Firstly, we propose to enhance mixed …
-Cites: ‪Open question answering over tables and text‬
+--- 
+layout: post 
+title: "Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "J Huang, W Zhong, Q Liu, M Gong, D Jiang, N Duan - arXiv preprint arXiv:2210.05197, 2022" 
+--- 
+Retrieving evidences from tabular and textual resources is essential for open-domain question answering (OpenQA), which provides more comprehensive information. However, training an effective dense table-text retriever is difficult due to the challenges of table-text discrepancy and data sparsity problem. To address the above challenges, we introduce an optimized OpenQA Table-Text Retriever (OTTeR) to jointly retrieve tabular and textual evidences. Firstly, we propose to enhance mixed  Cites: Open question answering over tables and text

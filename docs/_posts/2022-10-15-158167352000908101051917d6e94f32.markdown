@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SISER: Semantic-Infused Selective Graph Reasoning for Fact Verification"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "E Park, JH Lee, JD Hyeon, S Kim, I Kang, SH Na - Proceedings of the 29th …, 2022"
----
-Abstract This study proposes Semantic-Infused SElective Graph Reasoning (SISER) for fact verification, which newly presents semantic-level graph reasoning and injects its reasoning-enhanced representation into other types of graph-based and sequence-based reasoning methods. SISER combines three reasoning types: 1) semantic-level graph reasoning, which uses a semantic graph from evidence sentences, whose nodes are elements of a triple–< Subject, Verb, Object> …
-Cites: ‪P $^ 3$ Ranker: Mitigating the Gaps between Pre-training and …‬
+--- 
+layout: post 
+title: "SISER: Semantic-Infused Selective Graph Reasoning for Fact Verification" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "E Park, JH Lee, JD Hyeon, S Kim, I Kang, SH Na - Proceedings of the 29th , 2022" 
+--- 
+Abstract This study proposes Semantic-Infused SElective Graph Reasoning (SISER) for fact verification, which newly presents semantic-level graph reasoning and injects its reasoning-enhanced representation into other types of graph-based and sequence-based reasoning methods. SISER combines three reasoning types: 1) semantic-level graph reasoning, which uses a semantic graph from evidence sentences, whose nodes are elements of a triple< Subject, Verb, Object>  Cites: P $^ 3$ Ranker: Mitigating the Gaps between Pre-training and

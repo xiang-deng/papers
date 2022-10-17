@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross-dataset COVID-19 Transfer Learning with Cough Detection, Cough Segmentation, and Data Augmentation"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "BT Atmaja, A Sasou - arXiv preprint arXiv:2210.05843, 2022"
----
-This paper addresses issues on cough-based COVID-19 detection. We propose a cross-dataset transfer learning approach to improve the performance of COVID-19 detection by incorporating cough detection, cough segmentation, and data augmentation. The first aimed at removing non-cough signals and cough signals with low probability. The second aimed at segregating several coughs in a waveform into individual coughs. The third aimed at increasing the number of samples for the deep …
-Cites: ‪The unreasonable effectiveness of data‬
+--- 
+layout: post 
+title: "Cross-dataset COVID-19 Transfer Learning with Cough Detection, Cough Segmentation, and Data Augmentation" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "BT Atmaja, A Sasou - arXiv preprint arXiv:2210.05843, 2022" 
+--- 
+This paper addresses issues on cough-based COVID-19 detection. We propose a cross-dataset transfer learning approach to improve the performance of COVID-19 detection by incorporating cough detection, cough segmentation, and data augmentation. The first aimed at removing non-cough signals and cough signals with low probability. The second aimed at segregating several coughs in a waveform into individual coughs. The third aimed at increasing the number of samples for the deep  Cites: The unreasonable effectiveness of data

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Measuring and Improving Semantic Diversity of Dialogue Generation"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "S Han, B Kim, B Chang - arXiv preprint arXiv:2210.05725, 2022"
----
-Response diversity has become an important criterion for evaluating the quality of open-domain dialogue generation models. However, current evaluation metrics for response diversity often fail to capture the semantic diversity of generated responses, as they mainly consider lexical aspects of the generated responses. In this paper, we introduce a new automatic evaluation metric to measure the semantic diversity of generated responses. Through human evaluation, we demonstrate that our …
-Cites: ‪Evaluating the evaluation of diversity in natural language generation‬
+--- 
+layout: post 
+title: "Measuring and Improving Semantic Diversity of Dialogue Generation" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "S Han, B Kim, B Chang - arXiv preprint arXiv:2210.05725, 2022" 
+--- 
+Response diversity has become an important criterion for evaluating the quality of open-domain dialogue generation models. However, current evaluation metrics for response diversity often fail to capture the semantic diversity of generated responses, as they mainly consider lexical aspects of the generated responses. In this paper, we introduce a new automatic evaluation metric to measure the semantic diversity of generated responses. Through human evaluation, we demonstrate that our  Cites: Evaluating the evaluation of diversity in natural language generation

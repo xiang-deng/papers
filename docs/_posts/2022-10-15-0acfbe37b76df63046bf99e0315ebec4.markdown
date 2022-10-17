@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Devil is in the Details: On Models and Training Regimes for Few-Shot Intent Classification"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "M Mesgar, TT Tran, G Glavas, I Gurevych - arXiv preprint arXiv:2210.06440, 2022"
----
-Few-shot Intent Classification (FSIC) is one of the key challenges in modular task-oriented dialog systems. While advanced FSIC methods are similar in using pretrained language models to encode texts and nearest neighbour-based inference for classification, these methods differ in details. They start from different pretrained text encoders, use different encoding architectures with varying similarity functions, and adopt different training regimes. Coupling these mostly independent design …
-Cites: ‪Label semantic aware pre-training for few-shot text classification‬
+--- 
+layout: post 
+title: "The Devil is in the Details: On Models and Training Regimes for Few-Shot Intent Classification" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "M Mesgar, TT Tran, G Glavas, I Gurevych - arXiv preprint arXiv:2210.06440, 2022" 
+--- 
+Few-shot Intent Classification (FSIC) is one of the key challenges in modular task-oriented dialog systems. While advanced FSIC methods are similar in using pretrained language models to encode texts and nearest neighbour-based inference for classification, these methods differ in details. They start from different pretrained text encoders, use different encoding architectures with varying similarity functions, and adopt different training regimes. Coupling these mostly independent design  Cites: Label semantic aware pre-training for few-shot text classification

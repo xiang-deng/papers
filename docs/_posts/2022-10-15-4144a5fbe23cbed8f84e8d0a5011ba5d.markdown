@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Are Sample-Efficient NLP Models More Robust?"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "NF Liu, A Kumar, P Liang, R Jia - arXiv preprint arXiv:2210.06456, 2022"
----
-Recent work has observed that pre-trained models have higher out-of-distribution (OOD) robustness when they are exposed to less in-distribution (ID) training data (Radford et al., 2021). In particular, zero-shot models (eg, GPT-3 and CLIP) have …
+--- 
+layout: post 
+title: "Are Sample-Efficient NLP Models More Robust?" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "NF Liu, A Kumar, P Liang, R Jia - arXiv preprint arXiv:2210.06456, 2022" 
+--- 
+Recent work has observed that pre-trained models have higher out-of-distribution (OOD) robustness when they are exposed to less in-distribution (ID) training data (Radford et al., 2021). In particular, zero-shot models (eg, GPT-3 and CLIP) have

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Masked Metaphor Modeling To Transfer Literal to Metaphorical Text"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "G Ottolina, J Pavlopoulos - arXiv preprint arXiv:2210.04756, 2022"
----
-This study presents a new approach to metaphorical paraphrase generation by masking literal tokens of literal sentences and unmasking them with metaphorical language models. Unlike similar studies, the proposed algorithm is not limited to the replacement of verbs, but also of nouns and adjectives. Despite the fact that the transfer rate for the former is the highest (56%), the transfer of the latter is feasible (24% and 31%). Human evaluation showed that our system-generated metaphors …
-Cites: ‪It’s not Rocket Science: Interpreting Figurative Language in …‬
+--- 
+layout: post 
+title: "Masked Metaphor Modeling To Transfer Literal to Metaphorical Text" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "G Ottolina, J Pavlopoulos - arXiv preprint arXiv:2210.04756, 2022" 
+--- 
+This study presents a new approach to metaphorical paraphrase generation by masking literal tokens of literal sentences and unmasking them with metaphorical language models. Unlike similar studies, the proposed algorithm is not limited to the replacement of verbs, but also of nouns and adjectives. Despite the fact that the transfer rate for the former is the highest (56%), the transfer of the latter is feasible (24% and 31%). Human evaluation showed that our system-generated metaphors  Cites: Its not Rocket Science: Interpreting Figurative Language in

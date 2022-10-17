@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Categorizing Semantic Representations for Neural Machine Translation"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Y Yin, Y Li, F Meng, J Zhou, Y Zhang - … of the 29th International Conference on …, 2022"
----
-Modern neural machine translation (NMT) models have achieved competitive performance in standard benchmarks. However, they have recently been shown to suffer limitation in compositional generalization, failing to effectively learn the translation of atoms (eg, words) and their semantic composition (eg, modification) from seen compounds (eg, phrases), and thus suffering from significantly weakened translation performance on unseen compounds during inference. We address this …
-Cites: ‪Compositional generalization via neural-symbolic stack machines‬
+--- 
+layout: post 
+title: "Categorizing Semantic Representations for Neural Machine Translation" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Y Yin, Y Li, F Meng, J Zhou, Y Zhang - of the 29th International Conference on , 2022" 
+--- 
+Modern neural machine translation (NMT) models have achieved competitive performance in standard benchmarks. However, they have recently been shown to suffer limitation in compositional generalization, failing to effectively learn the translation of atoms (eg, words) and their semantic composition (eg, modification) from seen compounds (eg, phrases), and thus suffering from significantly weakened translation performance on unseen compounds during inference. We address this  Cites: Compositional generalization via neural-symbolic stack machines

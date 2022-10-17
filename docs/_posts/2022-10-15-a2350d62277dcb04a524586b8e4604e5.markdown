@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generating Temporally-ordered Event Sequences via Event Optimal Transport"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "B Zhou, Y Chen, K Liu, J Zhao, J Xu, X Jiang, Q Li - Proceedings of the 29th …, 2022"
----
-Generating temporally-ordered event sequences in texts is important to natural language processing. Two emerging tasks in this direction are temporal event ordering (rearranging the set of events to correct order) and event infilling (generating an event at a specified position). To tackle the two related tasks, the existing method adopts a vanilla sequence-to-sequence model via maximum likelihood estimation (MLE). However, applying this approach to these tasks will …
-Cites: ‪Conditional Generation of Temporally-ordered Event Sequences‬
+--- 
+layout: post 
+title: "Generating Temporally-ordered Event Sequences via Event Optimal Transport" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "B Zhou, Y Chen, K Liu, J Zhao, J Xu, X Jiang, Q Li - Proceedings of the 29th , 2022" 
+--- 
+Generating temporally-ordered event sequences in texts is important to natural language processing. Two emerging tasks in this direction are temporal event ordering (rearranging the set of events to correct order) and event infilling (generating an event at a specified position). To tackle the two related tasks, the existing method adopts a vanilla sequence-to-sequence model via maximum likelihood estimation (MLE). However, applying this approach to these tasks will  Cites: Conditional Generation of Temporally-ordered Event Sequences

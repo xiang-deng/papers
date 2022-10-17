@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Type-dependent Prompt CycleQAG: Cycle Consistency for Multi-hop Question Generation"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "S Lee, M Lee - Proceedings of the 29th International Conference on …, 2022"
----
-Multi-hop question generation (QG) is the process of generating answer related questions, which requires aggregating multiple pieces of information and reasoning from different parts of the texts. This is opposed to single-hop QG which generates questions from sentences containing an answer in a given paragraph. Single-hop QG requires no reasoning or complexity, while multi-hop QG often requires logical reasoning to derive an answer related question, making it a dual task. Not enough …
-Cites: ‪MultiModalQA: Complex Question Answering over Text, Tables …‬
+--- 
+layout: post 
+title: "Type-dependent Prompt CycleQAG: Cycle Consistency for Multi-hop Question Generation" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "S Lee, M Lee - Proceedings of the 29th International Conference on , 2022" 
+--- 
+Multi-hop question generation (QG) is the process of generating answer related questions, which requires aggregating multiple pieces of information and reasoning from different parts of the texts. This is opposed to single-hop QG which generates questions from sentences containing an answer in a given paragraph. Single-hop QG requires no reasoning or complexity, while multi-hop QG often requires logical reasoning to derive an answer related question, making it a dual task. Not enough  Cites: MultiModalQA: Complex Question Answering over Text, Tables

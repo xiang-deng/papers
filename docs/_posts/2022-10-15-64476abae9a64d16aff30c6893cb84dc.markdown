@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "T Yang, J Deng, X Quan, Q Wang, S Nie - arXiv preprint arXiv:2210.05883, 2022"
----
-Fine-tuning large pre-trained language models on downstream tasks is apt to suffer from overfitting when limited training data is available. While dropout proves to be an effective antidote by randomly dropping a proportion of units, existing research has not examined its effect on the self-attention mechanism. In this paper, we investigate this problem through self-attention attribution and find that dropping attention positions with low attribution scores can accelerate training and increase the risk of …
-Cites: ‪Pathologies of neural models make interpretations difficult‬
+--- 
+layout: post 
+title: "AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "T Yang, J Deng, X Quan, Q Wang, S Nie - arXiv preprint arXiv:2210.05883, 2022" 
+--- 
+Fine-tuning large pre-trained language models on downstream tasks is apt to suffer from overfitting when limited training data is available. While dropout proves to be an effective antidote by randomly dropping a proportion of units, existing research has not examined its effect on the self-attention mechanism. In this paper, we investigate this problem through self-attention attribution and find that dropping attention positions with low attribution scores can accelerate training and increase the risk of  Cites: Pathologies of neural models make interpretations difficult

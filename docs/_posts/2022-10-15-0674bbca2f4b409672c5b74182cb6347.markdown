@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Noise-Robust De-Duplication at Scale"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "E Silcock, L D Amico-Wong, J Yang, M Dell - arXiv preprint arXiv:2210.04261, 2022"
----
-Identifying near duplicates within large, noisy text corpora has a myriad of applications that range from de-duplicating training datasets, reducing privacy risk, and evaluating test set leakage, to identifying reproduced news articles and literature within large corpora. Across these diverse applications, the overwhelming majority of work relies on N-grams. Limited efforts have been made to evaluate how well N-gram methods perform, in part because it is unclear how one could create an …
-Cites: ‪Documenting Large Webtext Corpora: A Case Study on the …‬
+--- 
+layout: post 
+title: "Noise-Robust De-Duplication at Scale" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "E Silcock, L D Amico-Wong, J Yang, M Dell - arXiv preprint arXiv:2210.04261, 2022" 
+--- 
+Identifying near duplicates within large, noisy text corpora has a myriad of applications that range from de-duplicating training datasets, reducing privacy risk, and evaluating test set leakage, to identifying reproduced news articles and literature within large corpora. Across these diverse applications, the overwhelming majority of work relies on N-grams. Limited efforts have been made to evaluate how well N-gram methods perform, in part because it is unclear how one could create an  Cites: Documenting Large Webtext Corpora: A Case Study on the

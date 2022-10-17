@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interactive Language: Talking to Robots in Real Time"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "C Lynch, A Wahid, J Tompson, T Ding, J Betker… - arXiv preprint arXiv …, 2022"
----
-We present a framework for building interactive, real-time, natural language-instructable robots in the real world, and we open source related assets (dataset, environment, benchmark, and policies). Trained with behavioral cloning on a dataset of hundreds of thousands of language-annotated trajectories, a produced policy can proficiently execute an order of magnitude more commands than previous works: specifically we estimate a 93.5% success rate on a set of 87,000 unique natural …
-Cites: ‪LILA: Language-Informed Latent Actions‬
+--- 
+layout: post 
+title: "Interactive Language: Talking to Robots in Real Time" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "C Lynch, A Wahid, J Tompson, T Ding, J Betker - arXiv preprint arXiv , 2022" 
+--- 
+We present a framework for building interactive, real-time, natural language-instructable robots in the real world, and we open source related assets (dataset, environment, benchmark, and policies). Trained with behavioral cloning on a dataset of hundreds of thousands of language-annotated trajectories, a produced policy can proficiently execute an order of magnitude more commands than previous works: specifically we estimate a 93.5% success rate on a set of 87,000 unique natural  Cites: LILA: Language-Informed Latent Actions

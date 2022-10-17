@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unified Detoxifying and Debiasing in Language Generation via Inference-time Adaptive Optimization"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Z Yang, X Yi, P Li, Y Liu, X Xie - arXiv preprint arXiv:2210.04492, 2022"
----
-Warning: this paper contains model outputs exhibiting offensiveness and biases. Recently pre-trained language models (PLMs) have prospered in various natural language generation (NLG) tasks due to their ability to generate fairly fluent text. Nevertheless, these models are observed to capture and reproduce harmful contents in training corpora, typically toxic language and social biases, raising severe moral issues. Prior works on ethical NLG tackle detoxifying and debiasing separately …
-Cites: ‪Annotators with attitudes: How annotator beliefs and identities bias …‬
+--- 
+layout: post 
+title: "Unified Detoxifying and Debiasing in Language Generation via Inference-time Adaptive Optimization" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Z Yang, X Yi, P Li, Y Liu, X Xie - arXiv preprint arXiv:2210.04492, 2022" 
+--- 
+Warning: this paper contains model outputs exhibiting offensiveness and biases. Recently pre-trained language models (PLMs) have prospered in various natural language generation (NLG) tasks due to their ability to generate fairly fluent text. Nevertheless, these models are observed to capture and reproduce harmful contents in training corpora, typically toxic language and social biases, raising severe moral issues. Prior works on ethical NLG tackle detoxifying and debiasing separately  Cites: Annotators with attitudes: How annotator beliefs and identities bias

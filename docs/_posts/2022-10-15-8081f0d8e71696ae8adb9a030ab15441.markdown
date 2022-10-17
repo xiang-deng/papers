@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Survey on Extreme Multi-label Learning"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "T Wei, Z Mao, JX Shi, YF Li, ML Zhang - arXiv preprint arXiv:2210.03968, 2022"
----
-Multi-label learning has attracted significant attention from both academic and industry field in recent decades. Although existing multi-label learning algorithms achieved good performance in various tasks, they implicitly assume the size of target label space is not huge, which can be restrictive for real-world scenarios. Moreover, it is infeasible to directly adapt them to extremely large label space because of the compute and memory overhead. Therefore, eXtreme Multi-label Learning (XML) is …
-Cites: ‪Open Vocabulary Extreme Classification Using Generative Models‬
+--- 
+layout: post 
+title: "A Survey on Extreme Multi-label Learning" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "T Wei, Z Mao, JX Shi, YF Li, ML Zhang - arXiv preprint arXiv:2210.03968, 2022" 
+--- 
+Multi-label learning has attracted significant attention from both academic and industry field in recent decades. Although existing multi-label learning algorithms achieved good performance in various tasks, they implicitly assume the size of target label space is not huge, which can be restrictive for real-world scenarios. Moreover, it is infeasible to directly adapt them to extremely large label space because of the compute and memory overhead. Therefore, eXtreme Multi-label Learning (XML) is  Cites: Open Vocabulary Extreme Classification Using Generative Models

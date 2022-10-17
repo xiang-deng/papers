@@ -1,9 +1,8 @@
----
-layout: post
-title:  "InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "X Wu, C Gao, Z Lin, J Han, Z Wang, S Hu - arXiv preprint arXiv:2210.06432, 2022"
----
-Contrastive learning has been extensively studied in sentence embedding learning, which assumes that the embeddings of different views of the same sentence are closer. The constraint brought by this assumption is weak, and a good sentence representation should also be able to reconstruct the original sentence fragments. Therefore, this paper proposes an information-aggregated contrastive learning framework for learning unsupervised sentence embeddings, termed InfoCSE …
-Cites: ‪Should You Mask 15% in Masked Language Modeling?‬
+--- 
+layout: post 
+title: "InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "X Wu, C Gao, Z Lin, J Han, Z Wang, S Hu - arXiv preprint arXiv:2210.06432, 2022" 
+--- 
+Contrastive learning has been extensively studied in sentence embedding learning, which assumes that the embeddings of different views of the same sentence are closer. The constraint brought by this assumption is weak, and a good sentence representation should also be able to reconstruct the original sentence fragments. Therefore, this paper proposes an information-aggregated contrastive learning framework for learning unsupervised sentence embeddings, termed InfoCSE  Cites: Should You Mask 15% in Masked Language Modeling?

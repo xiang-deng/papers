@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The COVID That Wasn t: Counterfactual Journalism Using GPT"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "S Hamilton, A Piper - Proceedings of the 6th Joint SIGHUM Workshop on …, 2022"
----
-In this paper, we explore the use of large language models to assess human interpretations of real world events. To do so, we use a language model trained prior to 2020 to artificially generate news articles concerning COVID-19 given the headlines of actual articles written during the pandemic. We then compare stylistic qualities of our artificially generated corpus with a news corpus, in this case 5,082 articles produced by CBC News between January 23 and May 5, 2020. We find our …
-Cites: ‪A Systematic Evaluation of Large Language Models of Code‬
+--- 
+layout: post 
+title: "The COVID That Wasn t: Counterfactual Journalism Using GPT" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "S Hamilton, A Piper - Proceedings of the 6th Joint SIGHUM Workshop on , 2022" 
+--- 
+In this paper, we explore the use of large language models to assess human interpretations of real world events. To do so, we use a language model trained prior to 2020 to artificially generate news articles concerning COVID-19 given the headlines of actual articles written during the pandemic. We then compare stylistic qualities of our artificially generated corpus with a news corpus, in this case 5,082 articles produced by CBC News between January 23 and May 5, 2020. We find our  Cites: A Systematic Evaluation of Large Language Models of Code

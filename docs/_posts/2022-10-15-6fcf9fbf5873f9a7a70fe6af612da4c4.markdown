@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DALE: Differential Accumulated Local Effects for efficient and accurate global explanations"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "V Gkolemis, T Dalamagas, C Diou - arXiv preprint arXiv:2210.04542, 2022"
----
-Accumulated Local Effect (ALE) is a method for accurately estimating feature effects, overcoming fundamental failure modes of previously-existed methods, such as Partial Dependence Plots. However, ALE s approximation, ie the method for estimating ALE from the limited samples of the training set, faces two weaknesses. First, it does not scale well in cases where the input has high dimensionality, and, second, it is vulnerable to out-of-distribution (OOD) sampling when the training set is …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "DALE: Differential Accumulated Local Effects for efficient and accurate global explanations" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "V Gkolemis, T Dalamagas, C Diou - arXiv preprint arXiv:2210.04542, 2022" 
+--- 
+Accumulated Local Effect (ALE) is a method for accurately estimating feature effects, overcoming fundamental failure modes of previously-existed methods, such as Partial Dependence Plots. However, ALE s approximation, ie the method for estimating ALE from the limited samples of the training set, faces two weaknesses. First, it does not scale well in cases where the input has high dimensionality, and, second, it is vulnerable to out-of-distribution (OOD) sampling when the training set is  Cites: Anchors: High-Precision Model-Agnostic Explanations

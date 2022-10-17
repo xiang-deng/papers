@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Zero-Shot Entity Linking Candidate Generation with Ultra-Fine Entity Type Information"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "X Sui, Y Zhang, K Song, B Zhou, G Zhao, X Wei… - Proceedings of the 29th …, 2022"
----
-Entity linking, which aims at aligning ambiguous entity mentions to their referent entities in a knowledge base, plays a key role in multiple natural language processing tasks. Recently, zero-shot entity linking task has become a research hotspot, which links mentions to unseen entities to challenge the generalization ability. For this task, the training set and test set are from different domains, and thus entity linking models tend to be overfitting due to the tendency of memorizing the …
-Cites: ‪Modeling fine-grained entity types with box embeddings‬
+--- 
+layout: post 
+title: "Improving Zero-Shot Entity Linking Candidate Generation with Ultra-Fine Entity Type Information" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "X Sui, Y Zhang, K Song, B Zhou, G Zhao, X Wei - Proceedings of the 29th , 2022" 
+--- 
+Entity linking, which aims at aligning ambiguous entity mentions to their referent entities in a knowledge base, plays a key role in multiple natural language processing tasks. Recently, zero-shot entity linking task has become a research hotspot, which links mentions to unseen entities to challenge the generalization ability. For this task, the training set and test set are from different domains, and thus entity linking models tend to be overfitting due to the tendency of memorizing the  Cites: Modeling fine-grained entity types with box embeddings

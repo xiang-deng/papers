@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Controllable Dialogue Simulation with In-Context Learning"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Z Li, W Chen, S Li, H Wang, J Qian, X Yan - arXiv preprint arXiv:2210.04185, 2022"
----
-Building dialogue systems requires a large corpus of annotated dialogues. Such datasets are usually created via crowdsourcing, which is expensive and time-consuming. In this paper, we propose a novel method for dialogue simulation based on language model in-context learning, dubbed as\textsc {Dialogic}. Seeded with a few annotated dialogues,\textsc {Dialogic} automatically selects in-context examples for demonstration and prompts GPT-3 to generate new dialogues and their …
-Cites: ‪In-Context Learning for Few-Shot Dialogue State Tracking‬
+--- 
+layout: post 
+title: "Controllable Dialogue Simulation with In-Context Learning" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Z Li, W Chen, S Li, H Wang, J Qian, X Yan - arXiv preprint arXiv:2210.04185, 2022" 
+--- 
+Building dialogue systems requires a large corpus of annotated dialogues. Such datasets are usually created via crowdsourcing, which is expensive and time-consuming. In this paper, we propose a novel method for dialogue simulation based on language model in-context learning, dubbed as\textsc {Dialogic}. Seeded with a few annotated dialogues,\textsc {Dialogic} automatically selects in-context examples for demonstration and prompts GPT-3 to generate new dialogues and their  Cites: In-Context Learning for Few-Shot Dialogue State Tracking

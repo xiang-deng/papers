@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unifying Diffusion Models  Latent Space, with Applications to CycleDiffusion and Guidance"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "CH Wu, F De la Torre - arXiv preprint arXiv:2210.05559, 2022"
----
-Diffusion models have achieved unprecedented performance in generative modeling. The commonly-adopted formulation of the latent code of diffusion models is a sequence of gradually denoised samples, as opposed to the simpler (eg, Gaussian) latent space of GANs, VAEs, and normalizing flows. This paper provides an alternative, Gaussian formulation of the latent space of various diffusion models, as well as an invertible DPM-Encoder that maps images into the latent space. While …
-Cites: ‪Diffusion-LM Improves Controllable Text Generation‬
+--- 
+layout: post 
+title: "Unifying Diffusion Models Latent Space, with Applications to CycleDiffusion and Guidance" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "CH Wu, F De la Torre - arXiv preprint arXiv:2210.05559, 2022" 
+--- 
+Diffusion models have achieved unprecedented performance in generative modeling. The commonly-adopted formulation of the latent code of diffusion models is a sequence of gradually denoised samples, as opposed to the simpler (eg, Gaussian) latent space of GANs, VAEs, and normalizing flows. This paper provides an alternative, Gaussian formulation of the latent space of various diffusion models, as well as an invertible DPM-Encoder that maps images into the latent space. While  Cites: Diffusion-LM Improves Controllable Text Generation

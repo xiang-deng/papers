@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Making Parameter-efficient Tuning More Efficient: A Unified Framework for Classification Tasks"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "X Zhou, R Ma, Y Zou, X Chen, T Gui, Q Zhang… - Proceedings of the 29th …, 2022"
----
-Large pre-trained language models (PLMs) have demonstrated superior performance in industrial applications. Recent studies have explored parameter-efficient PLM tuning, which only updates a small amount of task-specific parameters while achieving both high efficiency and comparable performance against standard fine-tuning. However, all these methods ignore the inefficiency problem caused by the task-specific output layers, which is inflexible for us to re-use PLMs and …
-Cites: ‪Delta Tuning: A Comprehensive Study of Parameter Efficient …‬
+--- 
+layout: post 
+title: "Making Parameter-efficient Tuning More Efficient: A Unified Framework for Classification Tasks" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "X Zhou, R Ma, Y Zou, X Chen, T Gui, Q Zhang - Proceedings of the 29th , 2022" 
+--- 
+Large pre-trained language models (PLMs) have demonstrated superior performance in industrial applications. Recent studies have explored parameter-efficient PLM tuning, which only updates a small amount of task-specific parameters while achieving both high efficiency and comparable performance against standard fine-tuning. However, all these methods ignore the inefficiency problem caused by the task-specific output layers, which is inflexible for us to re-use PLMs and  Cites: Delta Tuning: A Comprehensive Study of Parameter Efficient

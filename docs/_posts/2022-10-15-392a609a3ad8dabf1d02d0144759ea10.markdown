@@ -1,8 +1,8 @@
----
-layout: post
-title:  "CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "T Dixit, B Paranjape, H Hajishirzi, L Zettlemoyer - arXiv preprint arXiv:2210.04873, 2022"
----
-Counterfactual data augmentation (CDA)--ie, adding minimally perturbed inputs during training--helps reduce model reliance on spurious correlations and improves generalization to out-of-distribution (OOD) data. Prior work on generating …
+--- 
+layout: post 
+title: "CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "T Dixit, B Paranjape, H Hajishirzi, L Zettlemoyer - arXiv preprint arXiv:2210.04873, 2022" 
+--- 
+Counterfactual data augmentation (CDA)--ie, adding minimally perturbed inputs during training--helps reduce model reliance on spurious correlations and improves generalization to out-of-distribution (OOD) data. Prior work on generating

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain Generalization for Text Classification with Memory-Based Supervised Contrastive Learning"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Q Tan, R He, L Bing, HT Ng - Proceedings of the 29th International Conference on …, 2022"
----
-While there is much research on cross-domain text classification, most existing approaches focus on one-to-one or many-to-one domain adaptation. In this paper, we tackle the more challenging task of domain generalization, in which domain-invariant representations are learned from multiple source domains, without access to any data from the target domains, and classification decisions are then made on test documents in unseen target domains. We propose a novel framework based on …
-Cites: ‪Meta-Learning for Domain Generalization in Semantic Parsing‬
+--- 
+layout: post 
+title: "Domain Generalization for Text Classification with Memory-Based Supervised Contrastive Learning" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Q Tan, R He, L Bing, HT Ng - Proceedings of the 29th International Conference on , 2022" 
+--- 
+While there is much research on cross-domain text classification, most existing approaches focus on one-to-one or many-to-one domain adaptation. In this paper, we tackle the more challenging task of domain generalization, in which domain-invariant representations are learned from multiple source domains, without access to any data from the target domains, and classification decisions are then made on test documents in unseen target domains. We propose a novel framework based on  Cites: Meta-Learning for Domain Generalization in Semantic Parsing

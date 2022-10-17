@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Robustness Evaluation Framework for Argument Mining"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "M Sofi, M Fortier, O Cocarascu - Proceedings of the 9th Workshop on Argument …, 2022"
----
-Standard practice for evaluating the performance of machine learning models for argument mining is to report different metrics such as accuracy or F1. However, little is usually known about the model s stability and consistency when deployed in real-world settings. In this paper, we propose a robustness evaluation framework to guide the design of rigorous argument mining models. As part of the framework, we introduce several novel robustness tests tailored specifically to argument mining …
-Cites: ‪Polyjuice: Generating counterfactuals for explaining, evaluating …‬
+--- 
+layout: post 
+title: "A Robustness Evaluation Framework for Argument Mining" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "M Sofi, M Fortier, O Cocarascu - Proceedings of the 9th Workshop on Argument , 2022" 
+--- 
+Standard practice for evaluating the performance of machine learning models for argument mining is to report different metrics such as accuracy or F1. However, little is usually known about the model s stability and consistency when deployed in real-world settings. In this paper, we propose a robustness evaluation framework to guide the design of rigorous argument mining models. As part of the framework, we introduce several novel robustness tests tailored specifically to argument mining  Cites: Polyjuice: Generating counterfactuals for explaining, evaluating

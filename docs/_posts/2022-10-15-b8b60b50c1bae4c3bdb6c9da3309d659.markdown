@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Attribute Injection for Pretrained Language Models: A New Benchmark and an Efficient Method"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "RK Amplayo, KM Yoo, SW Lee - Proceedings of the 29th International Conference on …, 2022"
----
-Metadata attributes (eg, user and product IDs from reviews) can be incorporated as additional inputs to neural-based NLP models, by expanding the architecture of the models to improve performance. However, recent models rely on pretrained language models (PLMs), in which previously used techniques for attribute injection are either nontrivial or cost-ineffective. In this paper, we introduce a benchmark for evaluating attribute injection models, which comprises eight datasets across a …
-Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬
+--- 
+layout: post 
+title: "Attribute Injection for Pretrained Language Models: A New Benchmark and an Efficient Method" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "RK Amplayo, KM Yoo, SW Lee - Proceedings of the 29th International Conference on , 2022" 
+--- 
+Metadata attributes (eg, user and product IDs from reviews) can be incorporated as additional inputs to neural-based NLP models, by expanding the architecture of the models to improve performance. However, recent models rely on pretrained language models (PLMs), in which previously used techniques for attribute injection are either nontrivial or cost-ineffective. In this paper, we introduce a benchmark for evaluating attribute injection models, which comprises eight datasets across a  Cites: Unipelt: A unified framework for parameter-efficient language

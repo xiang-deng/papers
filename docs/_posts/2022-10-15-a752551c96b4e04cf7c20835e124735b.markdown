@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Virtual Knowledge Graph Construction for Zero-Shot Domain-Specific Document Retrieval"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Y Seonwoo, S Yoon, F Dernoncourt, T Bui, A Oh - Proceedings of the 29th …, 2022"
----
-Abstract Domain-specific documents cover terminologies and specialized knowledge. This has been the main challenge of domain-specific document retrieval systems. Previous approaches propose domain-adaptation and transfer learning methods to alleviate this problem. However, these approaches still follow the same document representation method in previous approaches; a document is embedded into a single vector. In this study, we propose VKGDR. VKGDR represents a given …
-Cites: ‪The web as a knowledge-base for answering complex questions‬
+--- 
+layout: post 
+title: "Virtual Knowledge Graph Construction for Zero-Shot Domain-Specific Document Retrieval" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Y Seonwoo, S Yoon, F Dernoncourt, T Bui, A Oh - Proceedings of the 29th , 2022" 
+--- 
+Abstract Domain-specific documents cover terminologies and specialized knowledge. This has been the main challenge of domain-specific document retrieval systems. Previous approaches propose domain-adaptation and transfer learning methods to alleviate this problem. However, these approaches still follow the same document representation method in previous approaches; a document is embedded into a single vector. In this study, we propose VKGDR. VKGDR represents a given  Cites: The web as a knowledge-base for answering complex questions

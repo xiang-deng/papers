@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Calibration: A Simple Trick for Wide-table Delta Analytics"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Z Huang, E Wu - arXiv preprint arXiv:2210.03851, 2022"
----
-Data analytics over normalized databases typically requires computing and materializing expensive joins (wide-tables). Factorized query execution models execution as message passing between relations in the join graph and pushes aggregations through joins to reduce intermediate result sizes. Although this accelerates query execution, it only optimizes a single wide-table query. In contrast, wide-table analytics is usually interactive and users want to apply delta to the initial …
-Cites: ‪Google fusion tables: web-centered data management and …‬
+--- 
+layout: post 
+title: "Calibration: A Simple Trick for Wide-table Delta Analytics" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Z Huang, E Wu - arXiv preprint arXiv:2210.03851, 2022" 
+--- 
+Data analytics over normalized databases typically requires computing and materializing expensive joins (wide-tables). Factorized query execution models execution as message passing between relations in the join graph and pushes aggregations through joins to reduce intermediate result sizes. Although this accelerates query execution, it only optimizes a single wide-table query. In contrast, wide-table analytics is usually interactive and users want to apply delta to the initial  Cites: Google fusion tables: web-centered data management and

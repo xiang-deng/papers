@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HEGEL: Hypergraph Transformer for Long Document Summarization"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "H Zhang, X Liu, J Zhang - arXiv preprint arXiv:2210.04126, 2022"
----
-Extractive summarization for long documents is challenging due to the extended structured input context. The long-distance sentence dependency hinders cross-sentence relations modeling, the critical step of extractive summarization. This paper proposes HEGEL, a hypergraph neural network for long document summarization by capturing high-order cross-sentence relations. HEGEL updates and learns effective sentence representations with hypergraph transformer layers and fuses different …
-Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬
+--- 
+layout: post 
+title: "HEGEL: Hypergraph Transformer for Long Document Summarization" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "H Zhang, X Liu, J Zhang - arXiv preprint arXiv:2210.04126, 2022" 
+--- 
+Extractive summarization for long documents is challenging due to the extended structured input context. The long-distance sentence dependency hinders cross-sentence relations modeling, the critical step of extractive summarization. This paper proposes HEGEL, a hypergraph neural network for long document summarization by capturing high-order cross-sentence relations. HEGEL updates and learns effective sentence representations with hypergraph transformer layers and fuses different  Cites: Discourse-Aware Neural Extractive Text Summarization

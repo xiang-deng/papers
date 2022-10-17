@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Copner: Contrastive learning with prompt guiding for few-shot named entity recognition"
-date:   2022-10-15 02:59:22 -0400
-categories: jekyll update
-author: "Y Huang, K He, Y Wang, X Zhang, T Gong, R Mao, C Li - Proceedings of the 29th …, 2022"
----
-Distance metric learning has become a popular solution for few-shot Named Entity Recognition (NER). The typical setup aims to learn a similarity metric for measuring the semantic similarity between test samples and referents, where each referent represents an entity class. The effect of this setup may, however, be compromised for two reasons. First, there is typically a limited optimization exerted on the representations of entity tokens after initing by pre-trained language models. Second …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "Copner: Contrastive learning with prompt guiding for few-shot named entity recognition" 
+date: 2022-10-15 02:59:22 -0400 
+categories: jekyll update 
+author: "Y Huang, K He, Y Wang, X Zhang, T Gong, R Mao, C Li - Proceedings of the 29th , 2022" 
+--- 
+Distance metric learning has become a popular solution for few-shot Named Entity Recognition (NER). The typical setup aims to learn a similarity metric for measuring the semantic similarity between test samples and referents, where each referent represents an entity class. The effect of this setup may, however, be compromised for two reasons. First, there is typically a limited optimization exerted on the representations of entity tokens after initing by pre-trained language models. Second  Cites: Making Pre-trained Language Models Better Few-shot Learners
