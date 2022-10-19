@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Iterative Document-level Information Extraction via Imitation Learning"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "Y Chen, W Gantt, W Gu, T Chen, AS White… - arXiv preprint arXiv …, 2022"
+---
+We present a novel iterative extraction (IterX) model for extracting complex relations, or templates, ie, N-tuples representing a mapping from named slots to spans of text contained within a document. Documents may support zero or more instances of a template of any particular type, leading to the tasks of identifying the templates in a document, and extracting each template s slot values. Our imitation learning approach relieves the need to use predefined template orders to train an extractor …
+Cites: ‪Scirex: A challenge dataset for document-level information extraction‬

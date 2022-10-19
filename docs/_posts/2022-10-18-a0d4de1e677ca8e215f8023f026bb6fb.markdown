@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PARROT: pattern-based correlation exploitation in big partitioned data series"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "L Zhang, N Alghamdi, H Zhang, MY Eltabakh… - The VLDB Journal, 2022"
+---
+Data series approximate similarity search is a basic building block operation essential for almost all analytical tasks. To speed up this important operation, the prevalent approach is to construct indexes directly on the data series objects. This suffers from very high construction time and storage cost due to the inherent complexity of indexing these high-dimensional data series objects. We instead design a promising new approach that leverages the unique property of correlations …
+Cites: ‪Neighbor-sensitive hashing‬

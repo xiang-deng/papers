@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Benchmarking Long-tail Generalization with Likelihood Splits"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "A Godbole, R Jia - arXiv preprint arXiv:2210.06799, 2022"
+---
+In order to reliably process natural language, NLP systems must generalize to the long tail of rare utterances. We propose a method to create challenging benchmarks that require generalizing to the tail of the distribution by re-splitting existing datasets. We create Likelihood splits  where examples that are assigned lower likelihood by a pre-trained language model (LM) are placed in the test set, and more likely examples are in the training set. This simple approach can be customized to construct …
+Cites: ‪Winogrande: An adversarial winograd schema challenge at scale‬

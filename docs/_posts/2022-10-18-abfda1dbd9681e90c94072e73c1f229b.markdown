@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Large Language Models are few (1)-shot Table Reasoners"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "W Chen - arXiv preprint arXiv:2210.06710, 2022"
+---
+Recent literature has shown that large language models (LLMs) are generally excellent few-shot reasoners to solve text reasoning tasks. However, the capability of LLMs on table reasoning tasks is yet to be explored. In this paper, we aim at understanding how well LLMs can perform on these table tasks with few-shot in-context learning. Specifically, we evaluate LLMs on popular table QA and fact verification datasets like WikiTableQuestion, FetaQA, TabFact, and FEVEROUS and …
+Cites: ‪Compositional Semantic Parsing with Large Language Models‬

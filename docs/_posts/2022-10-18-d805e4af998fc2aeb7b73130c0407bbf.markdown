@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompt-based Connective Prediction Method for Fine-grained Implicit Discourse Relation Recognition"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "H Zhou, M Lan, Y Wu, Y Chen, M Ma - arXiv preprint arXiv:2210.07032, 2022"
+---
+Due to the absence of connectives, implicit discourse relation recognition (IDRR) is still a challenging and crucial task in discourse analysis. Most of the current work adopted multitask learning to aid IDRR through explicit discourse relation recognition (EDRR) or utilized dependencies between discourse relation labels to constrain model predictions. But these methods still performed poorly on fine-grained IDRR and even utterly misidentified on most of the few-shot discourse relation classes. To …
+Cites: ‪Knowledgeable Prompt-tuning: Incorporating Knowledge into …‬

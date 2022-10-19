@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Re3: Generating Longer Stories With Recursive Reprompting and Revision"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "K Yang, N Peng, Y Tian, D Klein - arXiv preprint arXiv:2210.06774, 2022"
+---
+We consider the problem of automatically generating longer stories of over two thousand words. Compared to prior work on shorter stories, long-range plot coherence and relevance are more central challenges here. We propose the Recursive Reprompting and Revision framework (Re3) to address these challenges by (a) prompting a general-purpose language model to construct a structured overarching plan, and (b) generating story passages by repeatedly injecting …
+Cites: ‪Plotmachines: Outline-conditioned generation with dynamic plot …‬

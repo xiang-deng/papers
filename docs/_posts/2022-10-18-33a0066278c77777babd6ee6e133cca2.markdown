@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Searching for Better Database Queries in the Outputs of Semantic Parsers"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "A Osokin, I Saparina, R Yarullin - arXiv preprint arXiv:2210.07201, 2022"
+---
+The task of generating a database query from a question in natural language suffers from ambiguity and insufficiently precise description of the goal. The problem is amplified when the system needs to generalize to databases unseen at training. In this paper, we consider the case when, at the test time, the system has access to an external criterion that evaluates the generated queries. The criterion can vary from checking that a query executes without errors to verifying the query on a set of tests …
+Cites: ‪Weakly Supervised Text-to-SQL Parsing through Question …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Joint semantic embedding with structural knowledge and entity description for knowledge representation learning"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "X Wei, Y Zhang, H Wang - Neural Computing and Applications, 2022"
+---
+Previous works mainly employ triple structural information in learning representations for knowledge graph, which results in poor performance of link prediction especially when it predicts new or few-fact entities. It is intuitive to introduce text information to supplement the missing semantic information for knowledge representation. However, existing methods only make alignment on the level of word or score function, and have not yet considered textual and structural …
+Cites: ‪KEPLER: A Unified Model for Knowledge Embedding and Pre …‬

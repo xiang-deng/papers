@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "QualityAdapt: an Automatic Dialogue Quality Estimation Framework"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "J Mendonca, A Lavie, I Trancoso - Proceedings of the 23rd Annual Meeting of the …, 2022"
+---
+Despite considerable advances in open-domain neural dialogue systems, their evaluation remains a bottleneck. Several automated metrics have been proposed to evaluate these systems, however, they mostly focus on a single notion of quality, or, when they do combine several sub-metrics, they are computationally expensive. This paper attempts to solve the latter: QualityAdapt leverages the Adapter framework for the task of Dialogue Quality Estimation. Using well defined semi-supervised tasks …
+Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬

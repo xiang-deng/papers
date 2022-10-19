@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AttCAT: Explaining Transformers via Attentive Class Activation Tokens"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "YQD Pan, CLXLR Jang, D Zhu"
+---
+Transformers have improved the state-of-the-art in various natural language processing and computer vision tasks. However, the success of the Transformer model has not yet been duly explained. Current explanation techniques, which dissect either the self-attention mechanism or gradient-based attribution, do not necessarily provide a faithful explanation of the inner workings of Transformers due to the following reasons: first, attention weights alone without considering the …
+Cites: ‪AllenNLP Interpret: A Framework for Explaining Predictions of NLP …‬

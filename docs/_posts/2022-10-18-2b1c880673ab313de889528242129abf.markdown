@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Incorporating Context into Subword Vocabularies"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "S Yehezkel, Y Pinter - arXiv preprint arXiv:2210.07095, 2022"
+---
+Most current popular subword tokenizers are trained based on word frequency statistics over a corpus, without considering information about co-occurrence or context. Nevertheless, the resulting vocabularies are used in language models  highly contextualized settings. We present SaGe, a tokenizer that tailors subwords for their downstream use by baking in the contextualized signal at the vocabulary creation phase. We show that SaGe does a better job than current widespread …
+Cites: ‪Byte Pair Encoding is Suboptimal for Language Model Pretraining‬

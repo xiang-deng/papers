@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A weighted distance-based approach with boosted decision trees for label ranking"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "A Albano, M Sciandra, A Plaia - Expert Systems with Applications, 2022"
+---
+Label Ranking (LR) is an emerging non-standard supervised classification problem with practical applications in different research fields. The Label Ranking task aims at building preference models that learn to order a finite set of labels based on a set of predictor features. One of the most successful approaches to tackling the LR problem consists of using decision tree ensemble models, such as bagging, random forest, and boosting. However, these approaches, coming from the classical unweighted …
+Cites: ‪Constraint classification: A new approach to multiclass classification‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Mixture of Surprises for Unsupervised Reinforcement Learning"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "A Zhao, MG Lin, Y Li, YJ Liu, G Huang - arXiv preprint arXiv:2210.06702, 2022"
+---
+Unsupervised reinforcement learning aims at learning a generalist policy in a reward-free manner for fast adaptation to downstream tasks. Most of the existing methods propose to provide an intrinsic reward based on surprise. Maximizing or minimizing surprise drives the agent to either explore or gain control over its environment. However, both strategies rely on a strong assumption: the entropy of the environment s dynamics is either high or low. This assumption may not always hold …
+Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬

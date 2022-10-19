@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ComSearch: Equation Searching with Combinatorial Strategy for Solving Math Word Problems with Weak Supervision"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "Q Liu, W Guan, J Shen, F Cheng, S Kurohashi - arXiv preprint arXiv:2210.07017, 2022"
+---
+Previous studies have introduced a weakly-supervised paradigm for solving math word problems requiring only the answer value annotation. While these methods search for correct value equation candidates as pseudo labels, they search among a narrow sub-space of the enormous equation space. To address this problem, we propose a novel search algorithm with combinatorial strategy\textbf {ComSearch}, which can compress the search space by excluding mathematically equivalent …
+Cites: ‪Mapping to declarative knowledge for word problem solving‬

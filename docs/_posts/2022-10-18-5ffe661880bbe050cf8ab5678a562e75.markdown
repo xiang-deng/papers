@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Evaluating N-best Calibration of Natural Language Understanding for Dialogue Systems"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "R Khojah, A Berman, S Larsson - Proceedings of the 23rd Annual Meeting of the …, 2022"
+---
+Abstract A Natural Language Understanding (NLU) component can be used in a dialogue system to perform intent classification, returning an N-best list of hypotheses with corresponding confidence estimates. We perform an in-depth evaluation of 5 NLUs, focusing on confidence estimation. We measure and visualize calibration for the 10 best hypotheses on model level and rank level, and also measure classification performance. The results indicate a trade-off between …
+Cites: ‪Confidence modeling for neural semantic parsing‬

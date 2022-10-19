@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Low-resource Neural Machine Translation with Cross-modal Alignment"
+date:   2022-10-18 02:49:27 -0400
+categories: jekyll update
+author: "Z Yang, Q Fang, Y Feng - arXiv preprint arXiv:2210.06716, 2022"
+---
+How to achieve neural machine translation with limited parallel data? Existing techniques often rely on large-scale monolingual corpora, which is impractical for some low-resource languages. In this paper, we turn to connect several low-resource languages to a particular high-resource one by additional visual modality. Specifically, we propose a cross-modal contrastive learning method to learn a shared space for all languages, where both a coarse-grained sentence-level …
+Cites: ‪Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual …‬
