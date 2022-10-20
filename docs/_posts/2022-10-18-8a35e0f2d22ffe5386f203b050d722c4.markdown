@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Feature-Proxy Transformer for Few-Shot Segmentation"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "JW Zhang, Y Sun, Y Yang, W Chen - arXiv preprint arXiv:2210.06908, 2022"
----
-Few-shot segmentation (FSS) aims at performing semantic segmentation on novel classes given a few annotated support samples. With a rethink of recent advances, we find that the current FSS framework has deviated far from the supervised segmentation framework: Given the deep features, FSS methods typically use an intricate decoder to perform sophisticated pixel-wise matching, while the supervised segmentation methods use a simple linear classification head. Due to the intricacy of …
-Cites: ‪Towards a unified view of parameter-efficient transfer learning‬
+--- 
+layout: post 
+title: "Feature-Proxy Transformer for Few-Shot Segmentation" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "JW Zhang, Y Sun, Y Yang, W Chen - arXiv preprint arXiv:2210.06908, 2022" 
+--- 
+Few-shot segmentation (FSS) aims at performing semantic segmentation on novel classes given a few annotated support samples. With a rethink of recent advances, we find that the current FSS framework has deviated far from the supervised segmentation framework: Given the deep features, FSS methods typically use an intricate decoder to perform sophisticated pixel-wise matching, while the supervised segmentation methods use a simple linear classification head. Due to the intricacy of  Cites: Towards a unified view of parameter-efficient transfer learning

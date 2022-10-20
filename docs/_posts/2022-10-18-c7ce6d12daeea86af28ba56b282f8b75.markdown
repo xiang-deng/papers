@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Language Model Decoding as Likelihood-Utility Alignment"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "M Josifoski, M Peyrard, F Rajic, J Wei, D Paul… - arXiv preprint arXiv …, 2022"
----
-A critical component of a successful language generation pipeline is the decoding algorithm. However, the general principles that should guide the choice of decoding algorithm remain unclear. Previous works only compare decoding algorithms in narrow scenarios and their findings do not generalize across tasks. To better structure the discussion, we introduce a taxonomy that groups decoding strategies based on their implicit assumptions about how well the model s likelihood is aligned …
-Cites: ‪Neurologic a* esque decoding: Constrained text generation with …‬
+--- 
+layout: post 
+title: "Language Model Decoding as Likelihood-Utility Alignment" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "M Josifoski, M Peyrard, F Rajic, J Wei, D Paul - arXiv preprint arXiv , 2022" 
+--- 
+A critical component of a successful language generation pipeline is the decoding algorithm. However, the general principles that should guide the choice of decoding algorithm remain unclear. Previous works only compare decoding algorithms in narrow scenarios and their findings do not generalize across tasks. To better structure the discussion, we introduce a taxonomy that groups decoding strategies based on their implicit assumptions about how well the model s likelihood is aligned  Cites: Neurologic a* esque decoding: Constrained text generation with

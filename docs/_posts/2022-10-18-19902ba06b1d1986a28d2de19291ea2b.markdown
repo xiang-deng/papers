@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Virtual Assistant for Querying Databases in Natural Language"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "D Deksne, R Skadiņš - Proceedings of the Future Technologies Conference, 2023"
----
-This paper reports on creating virtual assistants (VA) that enable users to query a database in the natural language. Building SQL queries from the natural language is a complicated task. We build the query via a conversation between the user and the virtual assistant allowing the users to describe their needs during a more detailed conversation. The VA uses information about the schema of the data source to guide the user. The query is built incrementally. To test the proposed method, we …
-Cites: ‪Semantic parsing with syntax-and table-aware sql generation‬
+--- 
+layout: post 
+title: "Virtual Assistant for Querying Databases in Natural Language" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "D Deksne, R Skadi - Proceedings of the Future Technologies Conference, 2023" 
+--- 
+This paper reports on creating virtual assistants (VA) that enable users to query a database in the natural language. Building SQL queries from the natural language is a complicated task. We build the query via a conversation between the user and the virtual assistant allowing the users to describe their needs during a more detailed conversation. The VA uses information about the schema of the data source to guide the user. The query is built incrementally. To test the proposed method, we  Cites: Semantic parsing with syntax-and table-aware sql generation

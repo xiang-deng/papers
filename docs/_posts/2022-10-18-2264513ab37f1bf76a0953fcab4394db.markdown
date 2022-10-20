@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Subword Segmental Language Modelling for Nguni Languages"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "F Meyer, J Buys - arXiv preprint arXiv:2210.06525, 2022"
----
-Subwords have become the standard units of text in NLP, enabling efficient open-vocabulary models. With algorithms like byte-pair encoding (BPE), subword segmentation is viewed as a preprocessing step applied to the corpus before training. This can lead to sub-optimal segmentations for low-resource languages with complex morphologies. We propose a subword segmental language model (SSLM) that learns how to segment words while being trained for autoregressive language …
-Cites: ‪Sequence modeling via segmentations‬
+--- 
+layout: post 
+title: "Subword Segmental Language Modelling for Nguni Languages" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "F Meyer, J Buys - arXiv preprint arXiv:2210.06525, 2022" 
+--- 
+Subwords have become the standard units of text in NLP, enabling efficient open-vocabulary models. With algorithms like byte-pair encoding (BPE), subword segmentation is viewed as a preprocessing step applied to the corpus before training. This can lead to sub-optimal segmentations for low-resource languages with complex morphologies. We propose a subword segmental language model (SSLM) that learns how to segment words while being trained for autoregressive language  Cites: Sequence modeling via segmentations

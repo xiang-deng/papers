@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Closed-book Question Generation via Contrastive Learning"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "X Dong, J Lu, J Wang, J Caverlee - arXiv preprint arXiv:2210.06781, 2022"
----
-Question Generation (QG) is a fundamental NLP task for many downstream applications. Recent studies on open-book QG, where supportive question-context pairs are provided to models, have achieved promising progress. However, generating natural questions under a more practical closed-book setting that lacks these supporting documents still remains a challenge. In this work, to learn better representations from semantic information hidden in question-answer pairs under …
-Cites: ‪GooAQ: Open question answering with diverse answer types‬
+--- 
+layout: post 
+title: "Closed-book Question Generation via Contrastive Learning" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "X Dong, J Lu, J Wang, J Caverlee - arXiv preprint arXiv:2210.06781, 2022" 
+--- 
+Question Generation (QG) is a fundamental NLP task for many downstream applications. Recent studies on open-book QG, where supportive question-context pairs are provided to models, have achieved promising progress. However, generating natural questions under a more practical closed-book setting that lacks these supporting documents still remains a challenge. In this work, to learn better representations from semantic information hidden in question-answer pairs under  Cites: GooAQ: Open question answering with diverse answer types

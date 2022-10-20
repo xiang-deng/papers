@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Constructing Natural Language Explanations via Saliency Map Verbalization"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "N Feldhus, L Hennig, MD Nasert, C Ebert… - arXiv preprint arXiv …, 2022"
----
-Saliency maps can explain a neural model s prediction by identifying important input features. While they excel in being faithful to the explained model, saliency maps in their entirety are difficult to interpret for humans, especially for instances with many input features. In contrast, natural language explanations (NLEs) are flexible and can be tuned to a recipient s expectations, but are costly to generate: Rationalization models are usually trained on specific tasks and require high-quality and diverse …
-Cites: ‪ERASER: A benchmark to evaluate rationalized NLP models‬
+--- 
+layout: post 
+title: "Constructing Natural Language Explanations via Saliency Map Verbalization" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "N Feldhus, L Hennig, MD Nasert, C Ebert - arXiv preprint arXiv , 2022" 
+--- 
+Saliency maps can explain a neural model s prediction by identifying important input features. While they excel in being faithful to the explained model, saliency maps in their entirety are difficult to interpret for humans, especially for instances with many input features. In contrast, natural language explanations (NLEs) are flexible and can be tuned to a recipient s expectations, but are costly to generate: Rationalization models are usually trained on specific tasks and require high-quality and diverse  Cites: ERASER: A benchmark to evaluate rationalized NLP models

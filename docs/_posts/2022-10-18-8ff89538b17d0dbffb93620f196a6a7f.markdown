@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Entity-based De-noising Modeling for Controllable Dialogue Summarization"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "Z Liu, N Chen - Proceedings of the 23rd Annual Meeting of the Special …, 2022"
----
-Although fine-tuning pre-trained backbones produces fluent and grammatically-correct text in various language generation tasks, factual consistency in abstractive summarization remains challenging. This challenge is especially thorny for dialogue summarization, where neural models often make inaccurate associations between personal named entities and their respective actions. To tackle this type of hallucination, we present an entity-based de-noising model via text perturbation on …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "Entity-based De-noising Modeling for Controllable Dialogue Summarization" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "Z Liu, N Chen - Proceedings of the 23rd Annual Meeting of the Special , 2022" 
+--- 
+Although fine-tuning pre-trained backbones produces fluent and grammatically-correct text in various language generation tasks, factual consistency in abstractive summarization remains challenging. This challenge is especially thorny for dialogue summarization, where neural models often make inaccurate associations between personal named entities and their respective actions. To tackle this type of hallucination, we present an entity-based de-noising model via text perturbation on  Cites: Text summarization with pretrained encoders

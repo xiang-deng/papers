@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Real-time neural network inference on extremely weak devices: agile offloading with explainable AI"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "K Huang, W Gao - Proceedings of the 28th Annual International …, 2022"
----
-With the wide adoption of AI applications, there is a pressing need of enabling real-time neural network (NN) inference on small embedded devices, but deploying NNs and achieving high performance of NN inference on these small devices is challenging due to their extremely weak capabilities. Although NN partitioning and offloading can contribute to such deployment, they are incapable of minimizing the local costs at embedded devices. Instead, we suggest to address this challenge via …
-Cites: ‪Model-agnostic interpretability of machine learning‬
+--- 
+layout: post 
+title: "Real-time neural network inference on extremely weak devices: agile offloading with explainable AI" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "K Huang, W Gao - Proceedings of the 28th Annual International , 2022" 
+--- 
+With the wide adoption of AI applications, there is a pressing need of enabling real-time neural network (NN) inference on small embedded devices, but deploying NNs and achieving high performance of NN inference on these small devices is challenging due to their extremely weak capabilities. Although NN partitioning and offloading can contribute to such deployment, they are incapable of minimizing the local costs at embedded devices. Instead, we suggest to address this challenge via  Cites: Model-agnostic interpretability of machine learning

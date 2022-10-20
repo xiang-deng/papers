@@ -1,9 +1,8 @@
----
-layout: post
-title:  "OpenCQA: Open-ended Question Answering with Charts"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "S Kantharaj, XL Do, RTK Leong, JQ Tan, E Hoque… - arXiv preprint arXiv …, 2022"
----
-Charts are very popular to analyze data and convey important insights. People often analyze visualizations to answer open-ended questions that require explanatory answers. Answering such questions are often difficult and time-consuming as it requires a lot of cognitive and perceptual efforts. To address this challenge, we introduce a new task called OpenCQA, where the goal is to answer an open-ended question about a chart with descriptive texts. We present the annotation process and …
-Cites: ‪MultiModalQA: Complex Question Answering over Text, Tables …‬
+--- 
+layout: post 
+title: "OpenCQA: Open-ended Question Answering with Charts" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "S Kantharaj, XL Do, RTK Leong, JQ Tan, E Hoque - arXiv preprint arXiv , 2022" 
+--- 
+Charts are very popular to analyze data and convey important insights. People often analyze visualizations to answer open-ended questions that require explanatory answers. Answering such questions are often difficult and time-consuming as it requires a lot of cognitive and perceptual efforts. To address this challenge, we introduce a new task called OpenCQA, where the goal is to answer an open-ended question about a chart with descriptive texts. We present the annotation process and  Cites: MultiModalQA: Complex Question Answering over Text, Tables

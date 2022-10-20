@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards End-to-End Open Conversational Machine Reading"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "S Zhou, S Ouyang, Z Zhang, H Zhao - arXiv preprint arXiv:2210.07113, 2022"
----
-In open-retrieval conversational machine reading (OR-CMR) task, machines are required to do multi-turn question answering given dialogue history and a textual knowledge base. Existing works generally utilize two independent modules to approach this problem s two successive sub-tasks: first with a hard-label decision making and second with a question generation aided by various entailment reasoning methods. Such usual cascaded modeling is vulnerable to error …
-Cites: ‪QuAC: Question Answering in Context‬
+--- 
+layout: post 
+title: "Towards End-to-End Open Conversational Machine Reading" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "S Zhou, S Ouyang, Z Zhang, H Zhao - arXiv preprint arXiv:2210.07113, 2022" 
+--- 
+In open-retrieval conversational machine reading (OR-CMR) task, machines are required to do multi-turn question answering given dialogue history and a textual knowledge base. Existing works generally utilize two independent modules to approach this problem s two successive sub-tasks: first with a hard-label decision making and second with a question generation aided by various entailment reasoning methods. Such usual cascaded modeling is vulnerable to error  Cites: QuAC: Question Answering in Context

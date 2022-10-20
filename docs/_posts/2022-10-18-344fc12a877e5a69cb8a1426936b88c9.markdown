@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Adaptive Methods for Parameter-agnostic Nonconvex Minimax Optimization"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "X Li - 2022"
----
-In optimization, one notable gap between theoretical analyses and practice is that converging algorithms in theory usually requires prior knowledge of problem-dependent parameters, which are often unavailable in practice. A prominent example is the stepsize used in gradient descent in nonconvex minimization problems. Compared to vanilla gradient descent, adaptive gradient methods have shown their ability to adjust the stepsizes on the fly in a parameter-agnostic manner …
-Cites: ‪Opponent modeling in deep reinforcement learning‬

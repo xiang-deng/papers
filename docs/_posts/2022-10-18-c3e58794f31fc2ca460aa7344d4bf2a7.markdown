@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised Domain Adaptation on Question-Answering System with Conversation Data"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "A Adiba, T Homma, Y Sogawa - Proceedings of the 23rd Annual Meeting of the …, 2022"
----
-Abstract Machine reading comprehension (MRC) is a task for question answering that finds answers to questions from documents of knowledge. Most studies on the domain adaptation of MRC require documents describing knowledge of the target domain. However, it is sometimes difficult to prepare such documents. The goal of this study was to transfer an MRC model to another domain without documents in an unsupervised manner. Therefore, unlike previous studies, we propose a domain …
-Cites: ‪QuAC: Question Answering in Context‬
+--- 
+layout: post 
+title: "Unsupervised Domain Adaptation on Question-Answering System with Conversation Data" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "A Adiba, T Homma, Y Sogawa - Proceedings of the 23rd Annual Meeting of the , 2022" 
+--- 
+Abstract Machine reading comprehension (MRC) is a task for question answering that finds answers to questions from documents of knowledge. Most studies on the domain adaptation of MRC require documents describing knowledge of the target domain. However, it is sometimes difficult to prepare such documents. The goal of this study was to transfer an MRC model to another domain without documents in an unsupervised manner. Therefore, unlike previous studies, we propose a domain  Cites: QuAC: Question Answering in Context

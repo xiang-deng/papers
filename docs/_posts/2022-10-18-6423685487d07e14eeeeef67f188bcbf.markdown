@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Getting Better Dialogue Context for Knowledge Identification by Leveraging Document-level Topic Shift"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "N Tran, D Litman - Proceedings of the 23rd Annual Meeting of the Special …, 2022"
----
-To build a goal-oriented dialogue system that can generate responses given a knowledge base, identifying the relevant pieces of information to be grounded in is vital. When the number of documents in the knowledge base is large, retrieval approaches are typically used to identify the top relevant documents. However, most prior work simply uses an entire dialogue history to guide retrieval, rather than exploiting a dialogue s topical structure. In this work, we examine the importance of …
-Cites: ‪DIALKI: Knowledge Identification in Conversational Systems …‬
+--- 
+layout: post 
+title: "Getting Better Dialogue Context for Knowledge Identification by Leveraging Document-level Topic Shift" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "N Tran, D Litman - Proceedings of the 23rd Annual Meeting of the Special , 2022" 
+--- 
+To build a goal-oriented dialogue system that can generate responses given a knowledge base, identifying the relevant pieces of information to be grounded in is vital. When the number of documents in the knowledge base is large, retrieval approaches are typically used to identify the top relevant documents. However, most prior work simply uses an entire dialogue history to guide retrieval, rather than exploiting a dialogue s topical structure. In this work, we examine the importance of  Cites: DIALKI: Knowledge Identification in Conversational Systems

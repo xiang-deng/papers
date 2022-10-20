@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bidirectional Relation Attention for Entity Alignment Based on Graph Convolutional Network"
-date:   2022-10-18 02:49:27 -0400
-categories: jekyll update
-author: "Y Zuo, M Zhan, Y Zhou, P Zhan - … Modeling: 41st International Conference, ER 2022 …, 2022"
----
-Entity alignment is an effective solution to integrate resources from different knowledge graphs (KGs). It aims to establish link between entities in different KGs that refer to the same object in the real world. Most of the existing embedding-based methods embed entities and relations into the same vector space or utilize a graph neural network (GNN) for nodes aggregation to learn the topology of the KG. However, these approaches do not sufficiently distinguish the effects of different …
-Cites: ‪Exploring and Evaluating Attributes, Values, and Structures for …‬
+--- 
+layout: post 
+title: "Bidirectional Relation Attention for Entity Alignment Based on Graph Convolutional Network" 
+date: 2022-10-18 02:49:27 -0400 
+categories: jekyll update 
+author: "Y Zuo, M Zhan, Y Zhou, P Zhan - Modeling: 41st International Conference, ER 2022 , 2022" 
+--- 
+Entity alignment is an effective solution to integrate resources from different knowledge graphs (KGs). It aims to establish link between entities in different KGs that refer to the same object in the real world. Most of the existing embedding-based methods embed entities and relations into the same vector space or utilize a graph neural network (GNN) for nodes aggregation to learn the topology of the KG. However, these approaches do not sufficiently distinguish the effects of different  Cites: Exploring and Evaluating Attributes, Values, and Structures for
