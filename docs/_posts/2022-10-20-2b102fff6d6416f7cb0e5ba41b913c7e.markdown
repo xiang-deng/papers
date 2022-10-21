@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Solver-Free Framework for Scalable Learning in Neural ILP Architectures"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "Y Nandwani, R Ranjan, P Singla - arXiv preprint arXiv:2210.09082, 2022"
+---
+There is a recent focus on designing architectures that have an Integer Linear Programming (ILP) layer within a neural model (referred to as Neural ILP in this paper). Neural ILP architectures are suitable for pure reasoning tasks that require data-driven constraint learning or for tasks requiring both perception (neural) and reasoning (ILP). A recent SOTA approach for end-to-end training of Neural ILP explicitly defines gradients through the ILP black box (Paulus et al. 2021)-this trains …
+Cites: ‪Neural logic machines‬

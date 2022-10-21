@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mention Annotations Alone Enable Efficient Domain Adaptation for Coreference Resolution"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "N Gandhi, A Field, E Strubell - arXiv preprint arXiv:2210.07602, 2022"
+---
+Although, recent advances in neural network models for coreference resolution have led to substantial improvements on benchmark datasets, it remains a challenge to successfully transfer those models to new target domains containing many out-of-vocabulary spans and requiring differing annotation schemes. Typical approaches for domain adaptation involve continued training on coreference annotations in the target domain, but obtaining those annotations is costly and time-consuming. In this …
+Cites: ‪Easy victories and uphill battles in coreference resolution‬

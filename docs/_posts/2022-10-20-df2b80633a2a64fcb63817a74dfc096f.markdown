@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving generalization in federated learning by seeking flat minima"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "D Caldarola, B Caputo, M Ciccone - arXiv preprint arXiv:2203.11834, 2022"
+---
+Models trained in federated settings often suffer from degraded performances and fail at generalizing, especially when facing heterogeneous scenarios. In this work, we investigate such behavior through the lens of geometry of the loss and Hessian eigenspectrum, linking the model s lack of generalization capacity to the sharpness of the solution. Motivated by prior studies connecting the sharpness of the loss surface and the generalization gap, we show that i) training clients locally with …
+Cites: ‪The break-even point on optimization trajectories of deep neural …‬

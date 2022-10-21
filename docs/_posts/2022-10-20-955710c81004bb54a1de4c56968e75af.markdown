@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mind the Labels: Describing Relations in Knowledge Graphs With Pretrained Models"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "Z Kasner, I Konstas, O Dušek - arXiv preprint arXiv:2210.07373, 2022"
+---
+Pretrained language models (PLMs) for data-to-text (D2T) generation can use human-readable data labels such as column headings, keys, or relation names to generalize to out-of-domain examples. However, the models are well-known in producing semantically inaccurate outputs if these labels are ambiguous or incomplete, which is often the case in D2T datasets. In this paper, we expose this issue on the task of descibing a relation between two entities. For our experiments …
+Cites: ‪Text generation from knowledge graphs with graph transformers‬

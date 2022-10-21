@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pretrained Transformers Do not Always Improve Robustness"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "S Mishra, BS Sachdeva, C Baral - arXiv preprint arXiv:2210.07663, 2022"
+---
+Pretrained Transformers (PT) have been shown to improve Out of Distribution (OOD) robustness than traditional models such as Bag of Words (BOW), LSTMs, Convolutional Neural Networks (CNN) powered by Word2Vec and Glove embeddings. How does the robustness comparison hold in a real world setting where some part of the dataset can be noisy? Do PT also provide more robust representation than traditional models on exposure to noisy data? We perform a …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "M Valipour, M Rezagholizadeh, I Kobyzev, A Ghodsi - arXiv preprint arXiv …, 2022"
+---
+With the ever-growing size of pre-trained models (PMs), fine-tuning them has become more expensive and resource-hungry. As a remedy, low-rank adapters (LoRA) keep the main pre-trained weights of the model frozen and just introduce some learnable truncated SVD modules (so-called LoRA blocks) to the model. While LoRA blocks are parameter efficient, they suffer from two major problems: first, the size of these blocks is fixed and cannot be modified after training (for example, if we …
+Cites: ‪Towards a unified view of parameter-efficient transfer learning‬

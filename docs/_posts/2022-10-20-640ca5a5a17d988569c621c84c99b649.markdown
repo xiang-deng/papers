@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bootstrapping the Relationship Between Images and Their Clean and Noisy Labels"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "B Smart, G Carneiro - arXiv preprint arXiv:2210.08826, 2022"
+---
+Many state-of-the-art noisy-label learning methods rely on learning mechanisms that estimate the samples  clean labels during training and discard their original noisy labels. However, this approach prevents the learning of the relationship between images, noisy labels and clean labels, which has been shown to be useful when dealing with instance-dependent label noise problems. Furthermore, methods that do aim to learn this relationship require cleanly annotated subsets of data, as well as …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

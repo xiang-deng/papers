@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "Y Gu, P Ke, X Zhu, M Huang - arXiv preprint arXiv:2210.09175, 2022"
+---
+Training language models to learn from human instructions for zero-shot cross-task generalization has attracted much attention in NLP communities. Recently, instruction tuning (IT), which fine-tunes a pre-trained language model on a massive collection of tasks described via human-craft instructions, has been shown effective in instruction learning for unseen tasks. However, IT relies on a large amount of human-annotated samples, which restricts its generalization. Unlike labeled data …
+Cites: ‪Prompt Consistency for Zero-Shot Task Generalization‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Temporal Contrastive Pre-Training for Sequential Recommendation"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "C Tian, Z Lin, S Bian, J Wang, WX Zhao - Proceedings of the 31st ACM International …, 2022"
+---
+Recently, pre-training based approaches are proposed to leverage self-supervised signals for improving the performance of sequential recommendation. However, most of existing pre-training recommender systems simply model the historical behavior of a user as a sequence, while lack of sufficient consideration on temporal interaction patterns that are useful for modeling user behavior. In order to better model temporal characteristics of user behavior sequences, we propose a T emporal C ontrastive P …
+Cites: ‪UPRec: User-Aware Pre-training for Recommender Systems‬

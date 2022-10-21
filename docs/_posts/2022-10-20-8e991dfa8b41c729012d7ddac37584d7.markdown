@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ConEntail: An Entailment-based Framework for Universal Zero and Few Shot Classification with Supervised Contrastive Pretraining"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "H Zhang, AX Fan, R Zhang - arXiv preprint arXiv:2210.07587, 2022"
+---
+A universal classification model aims to generalize to diverse classification tasks in both zero and few shot settings. A promising way toward universal classification is to cast heterogeneous data formats into a dataset-agnostic  meta-task (eg, textual entailment, question answering) then pretrain a model on the combined meta dataset. The existing work is either pretrained on specific subsets of classification tasks, or pretrained on both classification and generation data but the model could …
+Cites: ‪Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter …‬

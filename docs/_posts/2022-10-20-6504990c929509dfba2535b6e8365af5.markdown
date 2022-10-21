@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dense Retrieval with Entity Views"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "HD Tran, A Yates - Proceedings of the 31st ACM International Conference …, 2022"
+---
+Pre-trained language models like BERT have been demonstrated to be both effective and efficient ranking methods when combined with approximate nearest neighbor search, which can quickly match dense representations of queries and documents. However, pretrained language models alone do not fully capture information about uncommon entities. In this work, we investigate methods for enriching dense query and document representations with entity information from an external source. Our …
+Cites: ‪Sparse, dense, and attentional representations for text retrieval‬

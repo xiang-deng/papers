@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SpCQL: A Semantic Parsing Dataset for Converting Natural Language into Cypher"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "A Guo, X Li, G Xiao, Z Tan, X Zhao - Proceedings of the 31st ACM International …, 2022"
+---
+The Neo4j query language Cypher enables efficient querying for graphs and has become the most popular graph database language. Due to its complexities, semantic parsing (similar to Text-to-SQL) that translates natural language queries to Cypher becomes highly desirable. We propose the first Text-to-CQL dataset, SpCQL, which contains one Neo4j graph database, 10,000 manually annotated natural language queries and the matching Cypher queries (CQL). Correspondingly, based …
+Cites: ‪Rat-sql: Relation-aware schema encoding and linking for text-to …‬

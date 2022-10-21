@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Interactive Contrastive Learning for Self-Supervised Entity Alignment"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "K Zeng, Z Dong, L Hou, Y Cao, M Hu, J Yu, X Lv, L Cao… - Proceedings of the 31st …, 2022"
+---
+Self-supervised entity alignment (EA) aims to link equivalent entities across different knowledge graphs (KGs) without the use of pre-aligned entity pairs. The current state-of-the-art (SOTA) self-supervised EA approach draws inspiration from contrastive learning, originally designed in computer vision based on instance discrimination and contrastive loss, and suffers from two shortcomings. Firstly, it puts unidirectional emphasis on pushing sampled negative entities far away rather than pulling …
+Cites: ‪Visual pivoting for (unsupervised) entity alignment‬

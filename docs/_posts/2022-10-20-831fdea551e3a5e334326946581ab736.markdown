@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can We Have Both Fish and Bear s Paw? Improving Performance, Reliability, and both of them for Relation Extraction under Label Shift"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "Y Hong, Z Li, J Qu, J Liang, Y Luo, M Zhang, Y Xiao… - Proceedings of the 31st …, 2022"
+---
+Neural Relation Extraction (RE) models need large amounts of labeled data for effective training, which mainly comes from automatically labeling by Distant Supervision (DS). Though fast and easy, the label shift problem inevitably happens, ie, the label distribution of DS-generated training set is quite different from that of the real world (ie test set). According to our observations, label shift not only leads to performance diminishment, but also hinders the reliability of DS-RE models by …
+Cites: ‪Calibration of Pre-trained Transformers‬

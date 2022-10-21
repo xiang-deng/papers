@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Modeling Context With Linear Attention for Scalable Document-Level Translation"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "Z Wu, H Peng, N Pappas, NA Smith - arXiv preprint arXiv:2210.08431, 2022"
+---
+Document-level machine translation leverages inter-sentence dependencies to produce more coherent and consistent translations. However, these models, predominantly based on transformers, are difficult to scale to long documents as their …

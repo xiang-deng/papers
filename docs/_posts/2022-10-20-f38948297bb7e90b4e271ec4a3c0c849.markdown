@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BidH: A Bidirectional Hierarchical Model for Nested Named Entity Recognition"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "W Xu, W Li, J Guan, S Zhou - Proceedings of the 31st ACM International Conference …, 2022"
+---
+Nested Name Entity Recognition is to identify the entities with nested relationships from sentences, which has various applications ranging from relation extraction to semantic understanding. However, existing methods have two drawbacks, ie, 1) error propagation when identifying entities at different nesting levels and 2) unable to uncover and utilize the complex correlations between the inner and outer entities. To address these two defects, we propose a bidirectional hierarchical (BidH) model for …
+Cites: ‪Neural segmental hypergraphs for overlapping mention recognition‬

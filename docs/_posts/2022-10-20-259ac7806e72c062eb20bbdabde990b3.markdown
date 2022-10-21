@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transparency Helps Reveal When Language Models Learn Meaning"
+date:   2022-10-20 02:20:28 -0400
+categories: jekyll update
+author: "Z Wu, W Merrill, H Peng, I Beltagy, NA Smith - arXiv preprint arXiv:2210.07468, 2022"
+---
+Many current NLP systems are built from language models trained to optimize unsupervised objectives on large amounts of raw text. Under what conditions might such a procedure acquire meaning? Our systematic experiments with synthetic data reveal that, with languages where all expressions have context-independent denotations (ie, languages with strong transparency), both autoregressive and masked language models successfully learn to emulate semantic relations between …
+Cites: ‪How can we know what language models know?‬
