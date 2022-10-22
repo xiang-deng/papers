@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MultPAX: Keyphrase Extraction Using Language Models and Knowledge Graphs"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "HM Zahera, D Vollmers, MA Sherif, ACN Ngomo - International Semantic Web …, 2022"
----
-Keyphrase extraction aims to identify a small set of phrases that best describe the content of text. The automatic generation of keyphrases has become essential for many natural language applications such as text categorization, indexing, and summarization. In this paper, we propose MultPAX, a multitask framework for extracting present and absent keyphrases using pre-trained language models and knowledge graphs. In particular, our framework contains three components: first …
-Cites: ‪Fast wordpiece tokenization‬
+--- 
+layout: post 
+title: "MultPAX: Keyphrase Extraction Using Language Models and Knowledge Graphs" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "HM Zahera, D Vollmers, MA Sherif, ACN Ngomo - International Semantic Web , 2022" 
+--- 
+Keyphrase extraction aims to identify a small set of phrases that best describe the content of text. The automatic generation of keyphrases has become essential for many natural language applications such as text categorization, indexing, and summarization. In this paper, we propose MultPAX, a multitask framework for extracting present and absent keyphrases using pre-trained language models and knowledge graphs. In particular, our framework contains three components: first  Cites: Fast wordpiece tokenization

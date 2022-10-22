@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Inductive Logical Query Answering in Knowledge Graphs"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "M Galkin, Z Zhu, H Ren, J Tang - arXiv preprint arXiv:2210.08008, 2022"
----
-Formulating and answering logical queries is a standard communication interface for knowledge graphs (KGs). Alleviating the notorious incompleteness of real-world KGs, neural methods achieved impressive results in link prediction and complex query answering tasks by learning representations of entities, relations, and queries. Still, most existing query answering methods rely on transductive entity embeddings and cannot generalize to KGs containing new entities without retraining the entity …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Inductive Logical Query Answering in Knowledge Graphs" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "M Galkin, Z Zhu, H Ren, J Tang - arXiv preprint arXiv:2210.08008, 2022" 
+--- 
+Formulating and answering logical queries is a standard communication interface for knowledge graphs (KGs). Alleviating the notorious incompleteness of real-world KGs, neural methods achieved impressive results in link prediction and complex query answering tasks by learning representations of entities, relations, and queries. Still, most existing query answering methods rely on transductive entity embeddings and cannot generalize to KGs containing new entities without retraining the entity  Cites: Observed versus latent features for knowledge base and text

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Survey of Parameters Associated with the Quality of Benchmarks in NLP"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "S Mishra, A Arunkumar, C Bryan, C Baral - arXiv preprint arXiv:2210.07566, 2022"
----
-Several benchmarks have been built with heavy investment in resources to track our progress in NLP. Thousands of papers published in response to those benchmarks have competed to top leaderboards, with models often surpassing human performance. However, recent studies have shown that models triumph over several popular benchmarks just by overfitting on spurious biases, without truly learning the desired task. Despite this finding, benchmarking, while trying to tackle bias, still relies …
-Cites: ‪oLMpics - On what Language Model Pre-training Captures‬
+--- 
+layout: post 
+title: "A Survey of Parameters Associated with the Quality of Benchmarks in NLP" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "S Mishra, A Arunkumar, C Bryan, C Baral - arXiv preprint arXiv:2210.07566, 2022" 
+--- 
+Several benchmarks have been built with heavy investment in resources to track our progress in NLP. Thousands of papers published in response to those benchmarks have competed to top leaderboards, with models often surpassing human performance. However, recent studies have shown that models triumph over several popular benchmarks just by overfitting on spurious biases, without truly learning the desired task. Despite this finding, benchmarking, while trying to tackle bias, still relies  Cites: oLMpics - On what Language Model Pre-training Captures

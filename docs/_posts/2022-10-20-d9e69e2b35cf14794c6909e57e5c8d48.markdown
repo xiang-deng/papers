@@ -1,9 +1,8 @@
----
-layout: post
-title:  "John is 50 years old, can his son be 65?  Evaluating NLP Models  Understanding of Feasibility"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "H Gupta, N Varshney, S Mishra, KK Pal, SA Sawant… - arXiv preprint arXiv …, 2022"
----
-In current NLP research, large-scale language models and their abilities are widely being discussed. Some recent works have also found notable failures of these models. Often these failure examples involve complex reasoning abilities. This work focuses on a simple commonsense ability, reasoning about when an action (or its effect) is feasible. We introduce FeasibilityQA, a question-answering dataset involving binary classification (BCQ) and multi-choice multi-correct questions (MCQ) …
-Cites: ‪Benchmarking generalization via in-context instructions on 1,600+ …‬
+--- 
+layout: post 
+title: "John is 50 years old, can his son be 65? Evaluating NLP Models Understanding of Feasibility" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "H Gupta, N Varshney, S Mishra, KK Pal, SA Sawant - arXiv preprint arXiv , 2022" 
+--- 
+In current NLP research, large-scale language models and their abilities are widely being discussed. Some recent works have also found notable failures of these models. Often these failure examples involve complex reasoning abilities. This work focuses on a simple commonsense ability, reasoning about when an action (or its effect) is feasible. We introduce FeasibilityQA, a question-answering dataset involving binary classification (BCQ) and multi-choice multi-correct questions (MCQ)  Cites: Benchmarking generalization via in-context instructions on 1,600+

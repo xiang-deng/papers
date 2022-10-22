@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Match-Prompt: Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "S Xu, L Pang, H Shen, X Cheng - Proceedings of the 31st ACM International …, 2022"
----
-Text matching is a fundamental technique in both information retrieval and natural language processing. Text matching tasks share the same paradigm that determines the relationship between two given texts. The relationships vary from task to task, eg relevance in document retrieval, semantic alignment in paraphrase identification and answerable judgment in question answering. However, the essential signals for text matching remain in a finite scope, ie exact matching, semantic matching, and …
-Cites: ‪Multi-task retrieval for knowledge-intensive tasks‬
+--- 
+layout: post 
+title: "Match-Prompt: Improving Multi-task Generalization Ability for Neural Text Matching via Prompt Learning" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "S Xu, L Pang, H Shen, X Cheng - Proceedings of the 31st ACM International , 2022" 
+--- 
+Text matching is a fundamental technique in both information retrieval and natural language processing. Text matching tasks share the same paradigm that determines the relationship between two given texts. The relationships vary from task to task, eg relevance in document retrieval, semantic alignment in paraphrase identification and answerable judgment in question answering. However, the essential signals for text matching remain in a finite scope, ie exact matching, semantic matching, and  Cites: Multi-task retrieval for knowledge-intensive tasks

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Interpolation and Extrapolation Performance of Neural Retrieval Models"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "J Zhan, X Xie, J Mao, Y Liu, J Guo, M Zhang, S Ma - Proceedings of the 31st ACM …, 2022"
----
-A retrieval model should not only interpolate the training data but also extrapolate well to the queries that are different from the training data. While neural retrieval models have demonstrated impressive performance on ad-hoc search benchmarks, we still know little about how they perform in terms of interpolation and extrapolation. In this paper, we demonstrate the importance of separately evaluating the two capabilities of neural retrieval models. Firstly, we examine existing ad-hoc search …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "Evaluating Interpolation and Extrapolation Performance of Neural Retrieval Models" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "J Zhan, X Xie, J Mao, Y Liu, J Guo, M Zhang, S Ma - Proceedings of the 31st ACM , 2022" 
+--- 
+A retrieval model should not only interpolate the training data but also extrapolate well to the queries that are different from the training data. While neural retrieval models have demonstrated impressive performance on ad-hoc search benchmarks, we still know little about how they perform in terms of interpolation and extrapolation. In this paper, we demonstrate the importance of separately evaluating the two capabilities of neural retrieval models. Firstly, we examine existing ad-hoc search  Cites: Dense Passage Retrieval for Open-Domain Question Answering

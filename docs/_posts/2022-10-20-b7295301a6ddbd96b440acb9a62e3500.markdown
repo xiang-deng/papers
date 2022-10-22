@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "D Lian, D Zhou, J Feng, X Wang - arXiv preprint arXiv:2210.08823, 2022"
----
-Existing fine-tuning methods either tune all parameters of the pre-trained model (full fine-tuning), which is not efficient, or only tune the last linear layer (linear probing), which suffers a significant accuracy drop compared to the full fine-tuning. In this paper, we propose a new parameter-efficient fine-tuning method termed as SSF, representing that researchers only need to Scale and Shift the deep Features extracted by a pre-trained model to catch up with the performance of full fine-tuning …
-Cites: ‪Prefix-tuning: Optimizing continuous prompts for generation‬
+--- 
+layout: post 
+title: "Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "D Lian, D Zhou, J Feng, X Wang - arXiv preprint arXiv:2210.08823, 2022" 
+--- 
+Existing fine-tuning methods either tune all parameters of the pre-trained model (full fine-tuning), which is not efficient, or only tune the last linear layer (linear probing), which suffers a significant accuracy drop compared to the full fine-tuning. In this paper, we propose a new parameter-efficient fine-tuning method termed as SSF, representing that researchers only need to Scale and Shift the deep Features extracted by a pre-trained model to catch up with the performance of full fine-tuning  Cites: Prefix-tuning: Optimizing continuous prompts for generation

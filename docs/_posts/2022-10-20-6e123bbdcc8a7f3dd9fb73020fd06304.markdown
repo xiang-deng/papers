@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bayes risk CTC: Controllable CTC alignment in Sequence-to-Sequence tasks"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "J Tian, B Yan, J Yu, C Weng, D Yu, S Watanabe - arXiv preprint arXiv:2210.07499, 2022"
----
-Sequence-to-Sequence (seq2seq) tasks transcribe the input sequence to a target sequence. The Connectionist Temporal Classification (CTC) criterion is widely used in multiple seq2seq tasks. Besides predicting the target sequence, a side product of CTC is to predict the alignment, which is the most probable input-long sequence that specifies a hard aligning relationship between the input and target units. As there are multiple potential aligning sequences (called paths) that are equally considered in …
-Cites: ‪LegoNN: Building Modular Encoder-Decoder Models‬
+--- 
+layout: post 
+title: "Bayes risk CTC: Controllable CTC alignment in Sequence-to-Sequence tasks" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "J Tian, B Yan, J Yu, C Weng, D Yu, S Watanabe - arXiv preprint arXiv:2210.07499, 2022" 
+--- 
+Sequence-to-Sequence (seq2seq) tasks transcribe the input sequence to a target sequence. The Connectionist Temporal Classification (CTC) criterion is widely used in multiple seq2seq tasks. Besides predicting the target sequence, a side product of CTC is to predict the alignment, which is the most probable input-long sequence that specifies a hard aligning relationship between the input and target units. As there are multiple potential aligning sequences (called paths) that are equally considered in  Cites: LegoNN: Building Modular Encoder-Decoder Models

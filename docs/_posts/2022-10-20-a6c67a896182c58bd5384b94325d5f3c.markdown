@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Energy-Efficient Mixed-Bitwidth Systolic Accelerator for NAS-Optimized Deep Neural Networks"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "W Mao, L Dai, K Li, Q Cheng, Y Wang, L Du, S Luo… - IEEE Transactions on Very …, 2022"
----
-Optimized deep neural network (DNN) models and energy-efficient hardware designs are of great importance in edge-computing applications. The neural architecture search (NAS) methods are employed for DNN model optimization with mixed-bitwidth networks. To satisfy the computation requirements, mixed-bitwidth convolution accelerators are highly desired for low-power and high-throughput performance. There exist several methods to support mixed-bitwidth multiply …
-Cites: ‪Transformer quality in linear time‬
+--- 
+layout: post 
+title: "An Energy-Efficient Mixed-Bitwidth Systolic Accelerator for NAS-Optimized Deep Neural Networks" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "W Mao, L Dai, K Li, Q Cheng, Y Wang, L Du, S Luo - IEEE Transactions on Very , 2022" 
+--- 
+Optimized deep neural network (DNN) models and energy-efficient hardware designs are of great importance in edge-computing applications. The neural architecture search (NAS) methods are employed for DNN model optimization with mixed-bitwidth networks. To satisfy the computation requirements, mixed-bitwidth convolution accelerators are highly desired for low-power and high-throughput performance. There exist several methods to support mixed-bitwidth multiply  Cites: Transformer quality in linear time

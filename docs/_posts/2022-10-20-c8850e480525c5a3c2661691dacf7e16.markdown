@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CTCBERT: Advancing Hidden-unit BERT with CTC Objectives"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "R Fan, Y Wang, Y Gaur, J Li - arXiv preprint arXiv:2210.08603, 2022"
----
-In this work, we present a simple but effective method, CTCBERT, for advancing hidden-unit BERT (HuBERT). HuBERT applies a frame-level cross-entropy (CE) loss, which is similar to most acoustic model training. However, CTCBERT performs the model training with the Connectionist Temporal Classification (CTC) objective after removing duplicated IDs in each masked region. The idea stems from the observation that there can be significant errors in alignments when using clustered or …
-Cites: ‪Bigssl: Exploring the frontier of large-scale semi-supervised …‬
+--- 
+layout: post 
+title: "CTCBERT: Advancing Hidden-unit BERT with CTC Objectives" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "R Fan, Y Wang, Y Gaur, J Li - arXiv preprint arXiv:2210.08603, 2022" 
+--- 
+In this work, we present a simple but effective method, CTCBERT, for advancing hidden-unit BERT (HuBERT). HuBERT applies a frame-level cross-entropy (CE) loss, which is similar to most acoustic model training. However, CTCBERT performs the model training with the Connectionist Temporal Classification (CTC) objective after removing duplicated IDs in each masked region. The idea stems from the observation that there can be significant errors in alignments when using clustered or  Cites: Bigssl: Exploring the frontier of large-scale semi-supervised

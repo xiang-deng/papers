@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Summary Candidates Fusion"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "M Ravaut, S Joty, NF Chen - arXiv preprint arXiv:2210.08779, 2022"
----
-Sequence-to-sequence deep neural models fine-tuned for abstractive summarization can achieve great performance on datasets with enough human annotations. Yet, it has been shown that they have not reached their full potential, with a wide gap between the top beam search output and the oracle beam. Recently, re-ranking methods have been proposed, to learn to select a better summary candidate. However, such methods are limited by the summary quality aspects captured by the …
-Cites: ‪BRIO: Bringing Order to Abstractive Summarization‬
+--- 
+layout: post 
+title: "Towards Summary Candidates Fusion" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "M Ravaut, S Joty, NF Chen - arXiv preprint arXiv:2210.08779, 2022" 
+--- 
+Sequence-to-sequence deep neural models fine-tuned for abstractive summarization can achieve great performance on datasets with enough human annotations. Yet, it has been shown that they have not reached their full potential, with a wide gap between the top beam search output and the oracle beam. Recently, re-ranking methods have been proposed, to learn to select a better summary candidate. However, such methods are limited by the summary quality aspects captured by the  Cites: BRIO: Bringing Order to Abstractive Summarization

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "P Yang, J Wang, R Gan, X Zhu, L Zhang, Z Wu, X Gao… - arXiv preprint arXiv …, 2022"
----
-We propose a new paradigm for zero-shot learners that is format agnostic, ie, it is compatible with any format and applicable to a list of language tasks, such as text classification, commonsense reasoning, coreference resolution, and sentiment analysis. Zero-shot learning aims to train a model on a given task such that it can address new learning tasks without any additional training. Our approach converts zero-shot learning into multiple-choice tasks, avoiding problems in commonly used …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "P Yang, J Wang, R Gan, X Zhu, L Zhang, Z Wu, X Gao - arXiv preprint arXiv , 2022" 
+--- 
+We propose a new paradigm for zero-shot learners that is format agnostic, ie, it is compatible with any format and applicable to a list of language tasks, such as text classification, commonsense reasoning, coreference resolution, and sentiment analysis. Zero-shot learning aims to train a model on a given task such that it can address new learning tasks without any additional training. Our approach converts zero-shot learning into multiple-choice tasks, avoiding problems in commonly used  Cites: CommonsenseQA: A Question Answering Challenge Targeting

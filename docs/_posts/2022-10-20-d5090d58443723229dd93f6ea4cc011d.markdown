@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "P Howard, A Ma, V Lal, AP Simoes, D Korat, O Pereg… - Proceedings of the 31st …, 2022"
----
-The extraction of aspect terms is a critical step in fine-grained sentiment analysis of text. Existing approaches for this task have yielded impressive results when the training and testing data are from the same domain. However, these methods show a drastic decrease in performance when applied to cross-domain settings where the domain of the testing data differs from that of the training data. To address this lack of extensibility and robustness, we propose a novel approach for automatically …
-Cites: ‪Neurips 2020 efficientqa competition: Systems, analyses and …‬
+--- 
+layout: post 
+title: "Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "P Howard, A Ma, V Lal, AP Simoes, D Korat, O Pereg - Proceedings of the 31st , 2022" 
+--- 
+The extraction of aspect terms is a critical step in fine-grained sentiment analysis of text. Existing approaches for this task have yielded impressive results when the training and testing data are from the same domain. However, these methods show a drastic decrease in performance when applied to cross-domain settings where the domain of the testing data differs from that of the training data. To address this lack of extensibility and robustness, we propose a novel approach for automatically  Cites: Neurips 2020 efficientqa competition: Systems, analyses and

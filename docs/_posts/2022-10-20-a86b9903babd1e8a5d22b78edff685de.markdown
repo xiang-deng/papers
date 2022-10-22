@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hardness of Samples Need to be Quantified for a Reliable Evaluation System: Exploring Potential Opportunities with a New Task"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "S Mishra, A Arunkumar, C Bryan, C Baral - arXiv preprint arXiv:2210.07631, 2022"
----
-Evaluation of models on benchmarks is unreliable without knowing the degree of sample hardness; this subsequently overestimates the capability of AI systems and limits their adoption in real world applications. We propose a Data Scoring task that requires assignment of each unannotated sample in a benchmark a score between 0 to 1, where 0 signifies easy and 1 signifies hard. Use of unannotated samples in our task design is inspired from humans who can determine a question difficulty without …
-Cites: ‪MultiQA: An Empirical Investigation of Generalization and Transfer …‬
+--- 
+layout: post 
+title: "Hardness of Samples Need to be Quantified for a Reliable Evaluation System: Exploring Potential Opportunities with a New Task" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "S Mishra, A Arunkumar, C Bryan, C Baral - arXiv preprint arXiv:2210.07631, 2022" 
+--- 
+Evaluation of models on benchmarks is unreliable without knowing the degree of sample hardness; this subsequently overestimates the capability of AI systems and limits their adoption in real world applications. We propose a Data Scoring task that requires assignment of each unannotated sample in a benchmark a score between 0 to 1, where 0 signifies easy and 1 signifies hard. Use of unannotated samples in our task design is inspired from humans who can determine a question difficulty without  Cites: MultiQA: An Empirical Investigation of Generalization and Transfer

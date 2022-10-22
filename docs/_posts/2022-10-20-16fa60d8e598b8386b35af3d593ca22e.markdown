@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pseudo-OOD training for robust language models"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "D Sundararaman, N Mehta, L Carin - arXiv preprint arXiv:2210.09132, 2022"
----
-While pre-trained large-scale deep models have garnered attention as an important topic for many downstream natural language processing (NLP) tasks, such models often make unreliable predictions on out-of-distribution (OOD) inputs. As such, OOD detection is a key component of a reliable machine-learning model for any industry-scale application. Common approaches often assume access to additional OOD samples during the training stage, however, outlier distribution is often unknown in …
-Cites: ‪Task-oriented dialogue as dataflow synthesis‬
+--- 
+layout: post 
+title: "Pseudo-OOD training for robust language models" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "D Sundararaman, N Mehta, L Carin - arXiv preprint arXiv:2210.09132, 2022" 
+--- 
+While pre-trained large-scale deep models have garnered attention as an important topic for many downstream natural language processing (NLP) tasks, such models often make unreliable predictions on out-of-distribution (OOD) inputs. As such, OOD detection is a key component of a reliable machine-learning model for any industry-scale application. Common approaches often assume access to additional OOD samples during the training stage, however, outlier distribution is often unknown in  Cites: Task-oriented dialogue as dataflow synthesis

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Disentangled Representation for Long-tail Senses of Word Sense Disambiguation"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "J Zhang, R He, F Guo, J Ma, M Xiao - Proceedings of the 31st ACM International …, 2022"
----
-The long-tailed distribution, also called the heavy-tailed distribution, is common in nature. Since both words and their senses in natural language have long-tailed phenomenon in usage frequency, the Word Sense Disambiguation (WSD) task faces serious data imbalance. The existing learning strategies or data augmentation methods are difficult to deal with the lack of training samples caused by the single application scenario of long-tail senses, and the word sense representations caused …
-Cites: ‪Moving down the long tail of word sense disambiguation with gloss …‬
+--- 
+layout: post 
+title: "Disentangled Representation for Long-tail Senses of Word Sense Disambiguation" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "J Zhang, R He, F Guo, J Ma, M Xiao - Proceedings of the 31st ACM International , 2022" 
+--- 
+The long-tailed distribution, also called the heavy-tailed distribution, is common in nature. Since both words and their senses in natural language have long-tailed phenomenon in usage frequency, the Word Sense Disambiguation (WSD) task faces serious data imbalance. The existing learning strategies or data augmentation methods are difficult to deal with the lack of training samples caused by the single application scenario of long-tail senses, and the word sense representations caused  Cites: Moving down the long tail of word sense disambiguation with gloss

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Reinforcement Learning Approach to Estimating Long-term Treatment Effects"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "Z Tang, Y Duan, S Zhang, L Li - arXiv preprint arXiv:2210.07536, 2022"
----
-Randomized experiments (aka A/B tests) are a powerful tool for estimating treatment effects, to inform decisions making in business, healthcare and other applications. In many problems, the treatment has a lasting effect that evolves over time. A limitation with randomized experiments is that they do not easily extend to measure long-term effects, since running long experiments is time-consuming and expensive. In this paper, we take a reinforcement learning (RL) approach that estimates the average …
-Cites: ‪Doubly robust bias reduction in infinite horizon off-policy estimation‬
+--- 
+layout: post 
+title: "A Reinforcement Learning Approach to Estimating Long-term Treatment Effects" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "Z Tang, Y Duan, S Zhang, L Li - arXiv preprint arXiv:2210.07536, 2022" 
+--- 
+Randomized experiments (aka A/B tests) are a powerful tool for estimating treatment effects, to inform decisions making in business, healthcare and other applications. In many problems, the treatment has a lasting effect that evolves over time. A limitation with randomized experiments is that they do not easily extend to measure long-term effects, since running long experiments is time-consuming and expensive. In this paper, we take a reinforcement learning (RL) approach that estimates the average  Cites: Doubly robust bias reduction in infinite horizon off-policy estimation

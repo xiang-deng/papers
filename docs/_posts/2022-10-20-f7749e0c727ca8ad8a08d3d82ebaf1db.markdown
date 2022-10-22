@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Test-Time Training for Graph Neural Networks"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "Y Wang, C Li, W Jin, R Li, J Zhao, J Tang, X Xie - arXiv preprint arXiv:2210.08813, 2022"
----
-Graph Neural Networks (GNNs) have made tremendous progress in the graph classification task. However, a performance gap between the training set and the test set has often been noticed. To bridge such gap, in this work we introduce the first test-time training framework for GNNs to enhance the model generalization capacity for the graph classification task. In particular, we design a novel test-time training strategy with self-supervised learning to adjust the GNN model for each test graph …
-Cites: ‪Structure-based protein function prediction using graph …‬

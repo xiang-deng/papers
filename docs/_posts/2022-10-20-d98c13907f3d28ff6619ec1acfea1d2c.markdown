@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "S Lee, BC Song - arXiv preprint arXiv:2203.02651, 2022"
----
-Conventional NAS-based pruning algorithms aim to find the sub-network with the best validation performance. However, validation performance does not successfully represent test performance, ie, potential performance. Also, although fine-tuning the pruned network to restore the performance drop is an inevitable process, few studies have handled this issue. This paper provides a novel Ensemble Knowledge Guidance (EKG) to solve both problems at once. First, we experimentally prove that …
-Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬
+--- 
+layout: post 
+title: "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "S Lee, BC Song - arXiv preprint arXiv:2203.02651, 2022" 
+--- 
+Conventional NAS-based pruning algorithms aim to find the sub-network with the best validation performance. However, validation performance does not successfully represent test performance, ie, potential performance. Also, although fine-tuning the pruned network to restore the performance drop is an inevitable process, few studies have handled this issue. This paper provides a novel Ensemble Knowledge Guidance (EKG) to solve both problems at once. First, we experimentally prove that  Cites: Good subnetworks provably exist: Pruning via greedy forward

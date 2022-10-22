@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Efficiently Controlling Multiple Risks with Pareto Testing"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "B Laufer-Goldshtein, A Fisch, R Barzilay, T Jaakkola - arXiv preprint arXiv …, 2022"
----
-Machine learning applications frequently come with multiple diverse objectives and constraints that can change over time. Accordingly, trained models can be tuned with sets of hyper-parameters that affect their predictive behavior (eg, their run-time efficiency versus error rate). As the number of constraints and hyper-parameter dimensions grow, naively selected settings may lead to sub-optimal and/or unreliable results. We develop an efficient method for calibrating models such that …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

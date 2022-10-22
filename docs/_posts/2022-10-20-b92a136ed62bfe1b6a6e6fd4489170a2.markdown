@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Beyond Model Interpretability: On the Faithfulness and Adversarial Robustness of Contrastive Textual Explanations"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "JE Zini, M Awad - arXiv preprint arXiv:2210.08902, 2022"
----
-Contrastive explanation methods go beyond transparency and address the contrastive aspect of explanations. Such explanations are emerging as an attractive option to provide actionable change to scenarios adversely impacted by classifiers  decisions. However, their extension to textual data is under-explored and there is little investigation on their vulnerabilities and limitations. This work motivates textual counterfactuals by laying the ground for a novel evaluation scheme inspired by the …
-Cites: ‪Polyjuice: Generating Counterfactuals for Explaining, Evaluating …‬
+--- 
+layout: post 
+title: "Beyond Model Interpretability: On the Faithfulness and Adversarial Robustness of Contrastive Textual Explanations" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "JE Zini, M Awad - arXiv preprint arXiv:2210.08902, 2022" 
+--- 
+Contrastive explanation methods go beyond transparency and address the contrastive aspect of explanations. Such explanations are emerging as an attractive option to provide actionable change to scenarios adversely impacted by classifiers decisions. However, their extension to textual data is under-explored and there is little investigation on their vulnerabilities and limitations. This work motivates textual counterfactuals by laying the ground for a novel evaluation scheme inspired by the  Cites: Polyjuice: Generating Counterfactuals for Explaining, Evaluating

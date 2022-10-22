@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Can Adversarial Training benefit Trajectory Representation? An Investigation on Robustness for Trajectory Similarity Computation"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "Q Jing, S Liu, X Fan, J Li, D Yao, B Wang, J Bi - Proceedings of the 31st ACM …, 2022"
----
-Trajectory similarity computation as the fundamental problem for various downstream analytic tasks, such as trajectory classification and clustering, has been extensively studied in recent years. However, how to infer an accurate and robust similarity over two trajectories is difficult due to the some trajectory characteristics in practice, eg non-uniform sampling rate, nonmalignant fluctuation, and noise points, etc. To circumvent such challenges, we in this paper introduce the adversarial training idea …
-Cites: ‪Semantically Equivalent Adversarial Rules for Debugging NLP …‬
+--- 
+layout: post 
+title: "Can Adversarial Training benefit Trajectory Representation? An Investigation on Robustness for Trajectory Similarity Computation" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "Q Jing, S Liu, X Fan, J Li, D Yao, B Wang, J Bi - Proceedings of the 31st ACM , 2022" 
+--- 
+Trajectory similarity computation as the fundamental problem for various downstream analytic tasks, such as trajectory classification and clustering, has been extensively studied in recent years. However, how to infer an accurate and robust similarity over two trajectories is difficult due to the some trajectory characteristics in practice, eg non-uniform sampling rate, nonmalignant fluctuation, and noise points, etc. To circumvent such challenges, we in this paper introduce the adversarial training idea  Cites: Semantically Equivalent Adversarial Rules for Debugging NLP

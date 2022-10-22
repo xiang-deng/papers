@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "Y Zhao, Y Zheng, Z Tian, C Gao, B Yu, H Yu, Y Li… - arXiv preprint arXiv …, 2022"
----
-Lifelong learning (LL) is vital for advanced task-oriented dialogue (ToD) systems. To address the catastrophic forgetting issue of LL, generative replay methods are widely employed to consolidate past knowledge with generated pseudo samples. However, most existing generative replay methods use only a single task-specific token to control their models. This scheme is usually not strong enough to constrain the generative model due to insufficient information involved. In this paper, we propose a …
-Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬
+--- 
+layout: post 
+title: "Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "Y Zhao, Y Zheng, Z Tian, C Gao, B Yu, H Yu, Y Li - arXiv preprint arXiv , 2022" 
+--- 
+Lifelong learning (LL) is vital for advanced task-oriented dialogue (ToD) systems. To address the catastrophic forgetting issue of LL, generative replay methods are widely employed to consolidate past knowledge with generated pseudo samples. However, most existing generative replay methods use only a single task-specific token to control their models. This scheme is usually not strong enough to constrain the generative model due to insufficient information involved. In this paper, we propose a  Cites: Pre-train, prompt, and predict: A systematic survey of prompting

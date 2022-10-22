@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A new method to promptly evaluate spatial earthquake probability mapping using an explainable artificial intelligence (XAI) model"
-date:   2022-10-20 02:20:28 -0400
-categories: jekyll update
-author: "R Jena, B Pradhan, S Gite, A Alamri, HJ Park - Gondwana Research, 2022"
----
-Abstract Machine learning (ML) models have been extensively used in several geological applications. Owing to the increase in model complexity, interpreting the outputs becomes quite challenging. Shapley additive explanation (SHAP) measures the importance of each input attribute on the model s output. This study implemented SHAP to estimate earthquake probability using two different types of ML approaches, namely, artificial neural network (ANN) and random forest (RF). The two algorithms …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "A new method to promptly evaluate spatial earthquake probability mapping using an explainable artificial intelligence (XAI) model" 
+date: 2022-10-20 02:20:28 -0400 
+categories: jekyll update 
+author: "R Jena, B Pradhan, S Gite, A Alamri, HJ Park - Gondwana Research, 2022" 
+--- 
+Abstract Machine learning (ML) models have been extensively used in several geological applications. Owing to the increase in model complexity, interpreting the outputs becomes quite challenging. Shapley additive explanation (SHAP) measures the importance of each input attribute on the model s output. This study implemented SHAP to estimate earthquake probability using two different types of ML approaches, namely, artificial neural network (ANN) and random forest (RF). The two algorithms  Cites: Why Should I Trust You? : Explaining the Predictions of Any
