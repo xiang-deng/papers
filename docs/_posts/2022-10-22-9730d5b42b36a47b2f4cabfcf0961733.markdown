@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ROSE: Robust Selective Fine-tuning for Pre-trained Language Models"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "L Jiang, H Zhou, Y Lin, P Li, J Zhou, R Jiang - arXiv preprint arXiv:2210.09658, 2022"
+---
+Even though the large-scale language models have achieved excellent performances, they suffer from various adversarial attacks. A large body of defense methods has been proposed. However, they are still limited due to redundant attack search spaces and the inability to defend against various types of attacks. In this work, we present a novel fine-tuning approach called\textbf {RO} bust\textbf {SE} letive fine-tuning (\textbf {ROSE}) to address this issue. ROSE conducts selective …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

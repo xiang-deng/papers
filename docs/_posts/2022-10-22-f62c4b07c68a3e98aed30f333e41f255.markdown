@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Stability of Fine-Tuning Pretrained Language Models via Component-Wise Gradient Norm Clipping"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "C Yang, X Ma - arXiv preprint arXiv:2210.10325, 2022"
+---
+Fine-tuning over large pretrained language models (PLMs) has established many state-of-the-art results. Despite its superior performance, such fine-tuning can be unstable, resulting in significant variance in performance and potential risks for practical applications. Previous works have attributed such instability to the catastrophic forgetting problem in the top layers of PLMs, which indicates iteratively that fine-tuning layers in a top-down manner is a promising solution. In this paper, we …
+Cites: ‪Fine-tuning pretrained language models: Weight initializations …‬

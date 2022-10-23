@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Robustness meets accuracy in adversarial training for graph autoencoder"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "X Zhou, K Hu, H Wang - Neural Networks, 2022"
+---
+Graph autoencoder (GAE) is an effective deep method for graph embedding, while it is vulnerable to the graph adversarial attacks. Adversarial training, which generates adversarial examples in the adversarial scope (neighborhood of natural examples), is effective to improve the robustness of GAE. However, it may lead to degradation of natural accuracy (accuracy on natural examples) due to the extra training examples generated in the adversarial scope (the reasonable scope of adversarial examples) …
+Cites: ‪Understanding and mitigating the tradeoff between robustness and …‬

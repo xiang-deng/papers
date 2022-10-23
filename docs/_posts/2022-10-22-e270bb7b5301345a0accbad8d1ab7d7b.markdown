@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deep multiagent reinforcement learning: Challenges and directions"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "A Wong, T Bäck, AV Kononova, A Plaat - Artificial Intelligence Review, 2022"
+---
+This paper surveys the field of deep multiagent reinforcement learning (RL). The combination of deep neural networks with RL has gained increased traction in recent years and is slowly shifting the focus from single-agent to multiagent environments. Dealing with multiple agents is inherently more complex as (a) the future rewards depend on multiple players  joint actions and (b) the computational complexity increases. We present the most common multiagent problem representations and …
+Cites: ‪Opponent modeling in deep reinforcement learning‬

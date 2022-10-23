@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MuGER $^ 2$: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "Y Wang, J Bao, C Duan, Y Wu, X He, T Zhao - arXiv preprint arXiv:2210.10350, 2022"
+---
+Hybrid question answering (HQA) aims to answer questions over heterogeneous data, including tables and passages linked to table cells. The heterogeneous data can provide different granularity evidence to HQA models, et, column, row, cell, and link. Conventional HQA models usually retrieve coarse-or fine-grained evidence to reason the answer. Through comparison, we find that coarse-grained evidence is easier to retrieve but contributes less to the reasoner, while fine-grained evidence is …
+Cites: ‪Representations for question answering from documents with …‬

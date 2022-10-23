@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Uncertainty estimation for out-of-distribution detection in computational histopathology"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "L Goetz - arXiv preprint arXiv:2210.09909, 2022"
+---
+In computational histopathology algorithms now outperform humans on a range of tasks, but to date none are employed for automated diagnoses in the clinic. Before algorithms can be involved in such high-stakes decisions they need to  know when they don t know , ie, they need to estimate their predictive uncertainty. This allows them to defer potentially erroneous predictions to a human pathologist, thus increasing their safety. Here, we evaluate the predictive performance and calibration …
+Cites: ‪Deep learning-enabled breast cancer hormonal receptor status …‬

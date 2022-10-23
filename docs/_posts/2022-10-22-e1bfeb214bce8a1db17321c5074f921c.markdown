@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Targeted Adversarial Self-Supervised Learning"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "M Kim, H Ha, S Son, SJ Hwang - arXiv preprint arXiv:2210.10482, 2022"
+---
+Recently, unsupervised adversarial training (AT) has been extensively studied to attain robustness with the models trained upon unlabeled data. To this end, previous studies have applied existing supervised adversarial training techniques to self-supervised learning (SSL) frameworks. However, all have resorted to untargeted adversarial learning as obtaining targeted adversarial examples is unclear in the SSL setting lacking of label information. In this paper, we propose a novel targeted …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

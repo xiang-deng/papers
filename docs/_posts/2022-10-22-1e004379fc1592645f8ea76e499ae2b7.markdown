@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transformers Learn Shortcuts to Automata"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "B Liu, JT Ash, S Goel, A Krishnamurthy, C Zhang - arXiv preprint arXiv:2210.10749, 2022"
+---
+Algorithmic reasoning requires capabilities which are most naturally understood through recurrent models of computation, like the Turing machine. However, Transformer models, while lacking recurrence, are able to perform such reasoning using far fewer layers than the number of reasoning steps. This raises the question: what solutions are these shallow and non-recurrent models finding? We investigate this question in the setting of learning automata, discrete dynamical systems …
+Cites: ‪Train short, test long: Attention with linear biases enables input …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Global Memory Transformer for Processing Long Documents"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "A Al Adel - International Conference on Neuroinformatics, 2023"
+---
+Transformer variants dominate the state of the art in different natural language processing tasks such as translation, reading comprehension and summarization. Our paper is more directed to use general memory slots added to the inputs and studying the results of adding these slots. This paper is a go on study of general memory slots rule that were added to the input of the proposed model in previous work. We have two main tasks; 1) pretraining task using masked language modeling …
+Cites: ‪Gmat: Global memory augmentation for transformers‬

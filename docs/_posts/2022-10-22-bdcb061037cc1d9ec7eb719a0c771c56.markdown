@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TabLLM: Few-shot Classification of Tabular Data with Large Language Models"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "S Hegselmann, A Buendia, H Lang, M Agrawal… - arXiv preprint arXiv …, 2022"
+---
+We study the application of large language models to zero-shot and few-shot classification of tabular data. We prompt the large language model with a serialization of the tabular data to a natural-language string, together with a short description of the classification problem. In the few-shot setting, we fine-tune the large language model using some labeled examples. We evaluate several serialization methods including templates, table-to-text models, and large language …
+Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬

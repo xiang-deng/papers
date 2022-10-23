@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Controllable Fake Document Infilling for Cyber Deception"
+date:   2022-10-22 02:20:44 -0400
+categories: jekyll update
+author: "Y Hu, Y Lin, ES Parolin, L Khan, K Hamlen - arXiv preprint arXiv:2210.09917, 2022"
+---
+Recent works in cyber deception study how to deter malicious intrusion by generating multiple fake versions of a critical document to impose costs on adversaries who need to identify the correct information. However, existing approaches are context-agnostic, resulting in sub-optimal and unvaried outputs. We propose a novel context-aware model, Fake Document Infilling (FDI), by converting the problem to a controllable mask-then-infill procedure. FDI masks important …
+Cites: ‪Polyjuice: Generating counterfactuals for explaining, evaluating …‬
