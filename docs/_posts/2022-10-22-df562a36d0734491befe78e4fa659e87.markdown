@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Forging Multiple Training Objectives for Pre-trained Language Models via Meta-Learning"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "H Wu, R Ding, H Zhao, B Chen, P Xie, F Huang… - arXiv preprint arXiv …, 2022"
----
-Multiple pre-training objectives fill the vacancy of the understanding capability of single-objective language modeling, which serves the ultimate purpose of pre-trained language models (PrLMs), generalizing well on a mass of scenarios. However, learning multiple training objectives in a single model is challenging due to the unknown relative significance as well as the potential contrariety between them. Empirical studies have shown that the current objective sampling in an ad-hoc …
-Cites: ‪Pre-training text representations as meta learning‬
+--- 
+layout: post 
+title: "Forging Multiple Training Objectives for Pre-trained Language Models via Meta-Learning" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "H Wu, R Ding, H Zhao, B Chen, P Xie, F Huang - arXiv preprint arXiv , 2022" 
+--- 
+Multiple pre-training objectives fill the vacancy of the understanding capability of single-objective language modeling, which serves the ultimate purpose of pre-trained language models (PrLMs), generalizing well on a mass of scenarios. However, learning multiple training objectives in a single model is challenging due to the unknown relative significance as well as the potential contrariety between them. Empirical studies have shown that the current objective sampling in an ad-hoc  Cites: Pre-training text representations as meta learning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Longitudinal analysis of sentiment and emotion in news media headlines using automated labelling with Transformer language models"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "D Rozado, R Hughes, J Halberstadt - Plos one, 2022"
----
-This work describes a chronological (2000–2019) analysis of sentiment and emotion in 23 million headlines from 47 news media outlets popular in the United States. We use Transformer language models fine-tuned for detection of sentiment (positive, negative) and Ekman s six basic emotions (anger, disgust, fear, joy, sadness, surprise) plus neutral to automatically label the headlines. Results show an increase of sentiment negativity in headlines across written news media since the year 2000 …
-Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬
+--- 
+layout: post 
+title: "Longitudinal analysis of sentiment and emotion in news media headlines using automated labelling with Transformer language models" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "D Rozado, R Hughes, J Halberstadt - Plos one, 2022" 
+--- 
+This work describes a chronological (20002019) analysis of sentiment and emotion in 23 million headlines from 47 news media outlets popular in the United States. We use Transformer language models fine-tuned for detection of sentiment (positive, negative) and Ekman s six basic emotions (anger, disgust, fear, joy, sadness, surprise) plus neutral to automatically label the headlines. Results show an increase of sentiment negativity in headlines across written news media since the year 2000  Cites: RoBERTa: A Robustly Optimized BERT Pretraining Approach

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "S Xie, J Qiu, A Pasad, L Du, Q Qu, H Mei - arXiv preprint arXiv:2210.10041, 2022"
----
-While transferring a pretrained language model, common approaches conventionally attach their task-specific classifiers to the top layer and adapt all the pretrained layers. We investigate whether one could make a task-specific selection on which subset of the layers to adapt and where to place the classifier. The goal is to reduce the computation cost of transfer learning methods (eg fine-tuning or adapter-tuning) without sacrificing its performance. We propose to select layers based on the …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Hidden State Variability of Pretrained Language Models Can Guide Computation Reduction for Transfer Learning" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "S Xie, J Qiu, A Pasad, L Du, Q Qu, H Mei - arXiv preprint arXiv:2210.10041, 2022" 
+--- 
+While transferring a pretrained language model, common approaches conventionally attach their task-specific classifiers to the top layer and adapt all the pretrained layers. We investigate whether one could make a task-specific selection on which subset of the layers to adapt and where to place the classifier. The goal is to reduce the computation cost of transfer learning methods (eg fine-tuning or adapter-tuning) without sacrificing its performance. We propose to select layers based on the  Cites: Deep contextualized word representations

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How to Boost Face Recognition with StyleGAN?"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "A Sevastopolsky, Y Malkov, N Durasov, L Verdoliva… - arXiv preprint arXiv …, 2022"
----
-State-of-the-art face recognition systems require huge amounts of labeled training data. Given the priority of privacy in face recognition applications, the data is limited to celebrity web crawls, which have issues such as skewed distributions of ethnicities and limited numbers of identities. On the other hand, the self-supervised revolution in the industry motivates research on adaptation of the related techniques to facial recognition. One of the most popular practical tricks is to augment the dataset by the …
-Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬
+--- 
+layout: post 
+title: "How to Boost Face Recognition with StyleGAN?" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "A Sevastopolsky, Y Malkov, N Durasov, L Verdoliva - arXiv preprint arXiv , 2022" 
+--- 
+State-of-the-art face recognition systems require huge amounts of labeled training data. Given the priority of privacy in face recognition applications, the data is limited to celebrity web crawls, which have issues such as skewed distributions of ethnicities and limited numbers of identities. On the other hand, the self-supervised revolution in the industry motivates research on adaptation of the related techniques to facial recognition. One of the most popular practical tricks is to augment the dataset by the  Cites: Electra: Pre-training text encoders as discriminators rather than

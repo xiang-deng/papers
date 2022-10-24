@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exclusive Supermask Subnetwork Training for Continual Learning"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "P Yadav, M Bansal - arXiv preprint arXiv:2210.10209, 2022"
----
-Continual Learning (CL) methods mainly focus on avoiding catastrophic forgetting and learning representations that are transferable to new tasks. Recently, Wortsman et al.(2020) proposed a CL method, SupSup, which uses a randomly initialized, fixed base network (model) and finds a supermask for each new task that selectively keeps or removes each weight to produce a subnetwork. They prevent forgetting as the network weights are not being updated. Although there is no forgetting, the …
-Cites: ‪Prefix-tuning: Optimizing continuous prompts for generation‬
+--- 
+layout: post 
+title: "Exclusive Supermask Subnetwork Training for Continual Learning" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "P Yadav, M Bansal - arXiv preprint arXiv:2210.10209, 2022" 
+--- 
+Continual Learning (CL) methods mainly focus on avoiding catastrophic forgetting and learning representations that are transferable to new tasks. Recently, Wortsman et al.(2020) proposed a CL method, SupSup, which uses a randomly initialized, fixed base network (model) and finds a supermask for each new task that selectively keeps or removes each weight to produce a subnetwork. They prevent forgetting as the network weights are not being updated. Although there is no forgetting, the  Cites: Prefix-tuning: Optimizing continuous prompts for generation

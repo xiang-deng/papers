@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised Inference of Data-Driven Discourse Structures using a Tree Auto-Encoder"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "P Huber, G Carenini - arXiv preprint arXiv:2210.09559, 2022"
----
-With a growing need for robust and general discourse structures in many downstream tasks and real-world applications, the current lack of high-quality, high-quantity discourse trees poses a severe shortcoming. In order the alleviate this limitation, we propose a new strategy to generate tree structures in a task-agnostic, unsupervised fashion by extending a latent tree induction framework with an auto-encoding objective. The proposed approach can be applied to any tree-structured …
-Cites: ‪Document modeling with gated recurrent neural network for …‬
+--- 
+layout: post 
+title: "Unsupervised Inference of Data-Driven Discourse Structures using a Tree Auto-Encoder" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "P Huber, G Carenini - arXiv preprint arXiv:2210.09559, 2022" 
+--- 
+With a growing need for robust and general discourse structures in many downstream tasks and real-world applications, the current lack of high-quality, high-quantity discourse trees poses a severe shortcoming. In order the alleviate this limitation, we propose a new strategy to generate tree structures in a task-agnostic, unsupervised fashion by extending a latent tree induction framework with an auto-encoding objective. The proposed approach can be applied to any tree-structured  Cites: Document modeling with gated recurrent neural network for

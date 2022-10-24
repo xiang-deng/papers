@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tempo: Accelerating Transformer-Based Model Training through Memory Footprint Reduction"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "M Andoorveedu, Z Zhu, B Zheng, G Pekhimenko - arXiv preprint arXiv:2210.10246, 2022"
----
-Training deep learning models can be computationally expensive. Prior works have shown that increasing the batch size can potentially lead to better overall throughput. However, the batch size is frequently limited by the accelerator memory capacity due to the activations/feature maps stored for the training backward pass, as larger batch sizes require larger feature maps to be stored. Transformer-based models, which have recently seen a surge in popularity due to their good performance and …
-Cites: ‪Jingfei Du‬
+--- 
+layout: post 
+title: "Tempo: Accelerating Transformer-Based Model Training through Memory Footprint Reduction" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "M Andoorveedu, Z Zhu, B Zheng, G Pekhimenko - arXiv preprint arXiv:2210.10246, 2022" 
+--- 
+Training deep learning models can be computationally expensive. Prior works have shown that increasing the batch size can potentially lead to better overall throughput. However, the batch size is frequently limited by the accelerator memory capacity due to the activations/feature maps stored for the training backward pass, as larger batch sizes require larger feature maps to be stored. Transformer-based models, which have recently seen a surge in popularity due to their good performance and  Cites: Jingfei Du

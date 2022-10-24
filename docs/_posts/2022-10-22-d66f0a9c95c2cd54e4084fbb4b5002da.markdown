@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Variational Model Perturbation for Source-Free Domain Adaptation"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "M Jing, X Zhen, J Li, CGM Snoek - arXiv preprint arXiv:2210.10378, 2022"
----
-We aim for source-free domain adaptation, where the task is to deploy a model pre-trained on source domains to target domains. The challenges stem from the distribution shift from the source to the target domain, coupled with the unavailability of any source data and labeled target data for optimization. Rather than fine-tuning the model by updating the parameters, we propose to perturb the source model to achieve adaptation to target domains. We introduce perturbations into the model …
-Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬
+--- 
+layout: post 
+title: "Variational Model Perturbation for Source-Free Domain Adaptation" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "M Jing, X Zhen, J Li, CGM Snoek - arXiv preprint arXiv:2210.10378, 2022" 
+--- 
+We aim for source-free domain adaptation, where the task is to deploy a model pre-trained on source domains to target domains. The challenges stem from the distribution shift from the source to the target domain, coupled with the unavailability of any source data and labeled target data for optimization. Rather than fine-tuning the model by updating the parameters, we propose to perturb the source model to achieve adaptation to target domains. We introduce perturbations into the model  Cites: Fine-tuning can distort pretrained features and underperform out-of

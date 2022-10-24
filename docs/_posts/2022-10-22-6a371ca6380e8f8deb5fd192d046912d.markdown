@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Deep Bidirectional Language-Knowledge Graph Pretraining"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "M Yasunaga, A Bosselut, H Ren, X Zhang… - arXiv preprint arXiv …, 2022"
----
-Pretraining a language model (LM) on text has been shown to help various downstream NLP tasks. Recent works show that a knowledge graph (KG) can complement text data, offering structured background knowledge that provides a useful scaffold for reasoning. However, these works are not pretrained to learn a deep fusion of the two modalities at scale, limiting the potential to acquire fully joint representations of text and KG. Here we propose DRAGON (Deep Bidirectional …
-Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬
+--- 
+layout: post 
+title: "Deep Bidirectional Language-Knowledge Graph Pretraining" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "M Yasunaga, A Bosselut, H Ren, X Zhang - arXiv preprint arXiv , 2022" 
+--- 
+Pretraining a language model (LM) on text has been shown to help various downstream NLP tasks. Recent works show that a knowledge graph (KG) can complement text data, offering structured background knowledge that provides a useful scaffold for reasoning. However, these works are not pretrained to learn a deep fusion of the two modalities at scale, limiting the potential to acquire fully joint representations of text and KG. Here we propose DRAGON (Deep Bidirectional  Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in

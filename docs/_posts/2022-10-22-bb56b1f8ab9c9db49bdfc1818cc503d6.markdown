@@ -1,9 +1,8 @@
----
-layout: post
-title:  "N-Best Hypotheses Reranking for Text-To-SQL Systems"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "L Zeng, SHK Parthasarathi, D Hakkani-Tur - arXiv preprint arXiv:2210.10668, 2022"
----
-Text-to-SQL task maps natural language utterances to structured queries that can be issued to a database. State-of-the-art (SOTA) systems rely on finetuning large, pre-trained language models in conjunction with constrained decoding applying a SQL parser. On the well established Spider dataset, we begin with Oracle studies: specifically, choosing an Oracle hypothesis from a SOTA model s 10-best list, yields a $7.7\% $ absolute improvement in both exact match (EM) and execution (EX) …
-Cites: ‪Unifiedskg: Unifying and multi-tasking structured knowledge …‬
+--- 
+layout: post 
+title: "N-Best Hypotheses Reranking for Text-To-SQL Systems" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "L Zeng, SHK Parthasarathi, D Hakkani-Tur - arXiv preprint arXiv:2210.10668, 2022" 
+--- 
+Text-to-SQL task maps natural language utterances to structured queries that can be issued to a database. State-of-the-art (SOTA) systems rely on finetuning large, pre-trained language models in conjunction with constrained decoding applying a SQL parser. On the well established Spider dataset, we begin with Oracle studies: specifically, choosing an Oracle hypothesis from a SOTA model s 10-best list, yields a $7.7\% $ absolute improvement in both exact match (EM) and execution (EX)  Cites: Unifiedskg: Unifying and multi-tasking structured knowledge

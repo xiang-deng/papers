@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Fair Classification against Poisoning Attacks"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "H Xu, X Liu, Y Wan, J Tang - arXiv preprint arXiv:2210.09503, 2022"
----
-Fair classification aims to stress the classification models to achieve the equality (treatment or prediction quality) among different sensitive groups. However, fair classification can be under the risk of poisoning attacks that deliberately insert malicious training samples to manipulate the trained classifiers  performance. In this work, we study the poisoning scenario where the attacker can insert a small fraction of samples into training data, with arbitrary sensitive attributes as well as other …
-Cites: ‪Stronger data poisoning attacks break data sanitization defenses‬
+--- 
+layout: post 
+title: "Towards Fair Classification against Poisoning Attacks" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "H Xu, X Liu, Y Wan, J Tang - arXiv preprint arXiv:2210.09503, 2022" 
+--- 
+Fair classification aims to stress the classification models to achieve the equality (treatment or prediction quality) among different sensitive groups. However, fair classification can be under the risk of poisoning attacks that deliberately insert malicious training samples to manipulate the trained classifiers performance. In this work, we study the poisoning scenario where the attacker can insert a small fraction of samples into training data, with arbitrary sensitive attributes as well as other  Cites: Stronger data poisoning attacks break data sanitization defenses

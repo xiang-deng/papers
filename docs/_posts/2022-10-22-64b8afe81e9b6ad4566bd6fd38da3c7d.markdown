@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Transformer based named entity recognition for place name extraction from unstructured text"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "C Berragan, A Singleton, A Calafiore, J Morley - International Journal of Geographical …, 2022"
----
-Place names embedded in online natural language text present a useful source of geographic information. Despite this, many methods for the extraction of place names from text use pre-trained models that were not explicitly designed for this task. Our paper builds five custom-built Named Entity Recognition (NER) models and evaluates them against three popular pre-built models for place name extraction. The models are evaluated using a set of manually annotated Wikipedia articles with …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Transformer based named entity recognition for place name extraction from unstructured text" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "C Berragan, A Singleton, A Calafiore, J Morley - International Journal of Geographical , 2022" 
+--- 
+Place names embedded in online natural language text present a useful source of geographic information. Despite this, many methods for the extraction of place names from text use pre-trained models that were not explicitly designed for this task. Our paper builds five custom-built Named Entity Recognition (NER) models and evaluates them against three popular pre-built models for place name extraction. The models are evaluated using a set of manually annotated Wikipedia articles with  Cites: Deep contextualized word representations

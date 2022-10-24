@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Deceptive Defense in Software Security with Chaff Bugs"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "Z Hu, Y Hu, B Dolan-Gavitt - 25th International Symposium on Research in Attacks …, 2022"
----
-Sophisticated attackers find bugs in software, evaluate their exploitability, and then create and launch exploits for bugs found to be exploitable. Most efforts to secure software attempt either to eliminate bugs or to add mitigations that make exploitation more difficult. In this paper, we propose a new defensive technique called chaff bugs, which instead targets the bug discovery and exploit creation stages of this process. Rather than eliminating bugs, we instead add large numbers of bugs that are non …
-Cites: ‪Program Synthesis with Large Language Models‬
+--- 
+layout: post 
+title: "Towards Deceptive Defense in Software Security with Chaff Bugs" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "Z Hu, Y Hu, B Dolan-Gavitt - 25th International Symposium on Research in Attacks , 2022" 
+--- 
+Sophisticated attackers find bugs in software, evaluate their exploitability, and then create and launch exploits for bugs found to be exploitable. Most efforts to secure software attempt either to eliminate bugs or to add mitigations that make exploitation more difficult. In this paper, we propose a new defensive technique called chaff bugs, which instead targets the bug discovery and exploit creation stages of this process. Rather than eliminating bugs, we instead add large numbers of bugs that are non  Cites: Program Synthesis with Large Language Models

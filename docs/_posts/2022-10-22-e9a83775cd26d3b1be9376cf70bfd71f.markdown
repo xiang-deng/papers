@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Tail Wagging the Dog: Dataset Construction Biases of Social Bias Benchmarks"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "NR Selvam, S Dev, D Khashabi, T Khot, KW Chang - arXiv preprint arXiv:2210.10040, 2022"
----
-How reliably can we trust the scores obtained from social bias benchmarks as faithful indicators of problematic social biases in a given language model? In this work, we study this question by contrasting social biases with non-social biases stemming from choices made during dataset construction that might not even be discernible to the human eye. To do so, we empirically simulate various alternative constructions for a given benchmark based on innocuous modifications (such as paraphrasing or …
-Cites: ‪Wanli: Worker and ai collaboration for natural language inference …‬
+--- 
+layout: post 
+title: "The Tail Wagging the Dog: Dataset Construction Biases of Social Bias Benchmarks" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "NR Selvam, S Dev, D Khashabi, T Khot, KW Chang - arXiv preprint arXiv:2210.10040, 2022" 
+--- 
+How reliably can we trust the scores obtained from social bias benchmarks as faithful indicators of problematic social biases in a given language model? In this work, we study this question by contrasting social biases with non-social biases stemming from choices made during dataset construction that might not even be discernible to the human eye. To do so, we empirically simulate various alternative constructions for a given benchmark based on innocuous modifications (such as paraphrasing or  Cites: Wanli: Worker and ai collaboration for natural language inference

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "H Zhuang, Z Qin, R Jagerman, K Hui, J Ma, J Lu, J Ni… - arXiv preprint arXiv …, 2022"
----
-Recently, substantial progress has been made in text ranking based on pretrained language models such as BERT. However, there are limited studies on how to leverage more powerful sequence-to-sequence models such as T5. Existing attempts usually formulate text ranking as classification and rely on postprocessing to obtain a ranked list. In this paper, we propose RankT5 and study two T5-based ranking model structures, an encoder-decoder and an encoder-only one, so that they …
-Cites: ‪Multi-stage document ranking with BERT‬
+--- 
+layout: post 
+title: "RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "H Zhuang, Z Qin, R Jagerman, K Hui, J Ma, J Lu, J Ni - arXiv preprint arXiv , 2022" 
+--- 
+Recently, substantial progress has been made in text ranking based on pretrained language models such as BERT. However, there are limited studies on how to leverage more powerful sequence-to-sequence models such as T5. Existing attempts usually formulate text ranking as classification and rely on postprocessing to obtain a ranked list. In this paper, we propose RankT5 and study two T5-based ranking model structures, an encoder-decoder and an encoder-only one, so that they  Cites: Multi-stage document ranking with BERT

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "Z Han, XJ Gui, H Sun, Y Yin, S Li - IEEE Transactions on Pattern Analysis and …, 2022"
----
-In many non-stationary environments, machine learning algorithms usually confront the distribution shift scenarios. Previous domain adaptation methods have achieved great success. However, they would lose algorithm robustness in multiple noisy environments where the examples of source domain become corrupted by label noise, feature noise, or open-set noise. In this paper, we report our attempt toward achieving noise-robust domain adaptation. We first give a theoretical analysis and …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "Z Han, XJ Gui, H Sun, Y Yin, S Li - IEEE Transactions on Pattern Analysis and , 2022" 
+--- 
+In many non-stationary environments, machine learning algorithms usually confront the distribution shift scenarios. Previous domain adaptation methods have achieved great success. However, they would lose algorithm robustness in multiple noisy environments where the examples of source domain become corrupted by label noise, feature noise, or open-set noise. In this paper, we report our attempt toward achieving noise-robust domain adaptation. We first give a theoretical analysis and  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

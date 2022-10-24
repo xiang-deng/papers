@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Devil in Linear Transformer"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "Z Qin, XD Han, W Sun, D Li, L Kong, N Barnes… - arXiv preprint arXiv …, 2022"
----
-Linear transformers aim to reduce the quadratic space-time complexity of vanilla transformers. However, they usually suffer from degraded performances on various tasks and corpus. In this paper, we examine existing kernel-based linear transformers and identify two key issues that lead to such performance gaps: 1) unbounded gradients in the attention computation adversely impact the convergence of linear transformer models; 2) attention dilution which trivially distributes attention …
-Cites: ‪Transformer quality in linear time‬
+--- 
+layout: post 
+title: "The Devil in Linear Transformer" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "Z Qin, XD Han, W Sun, D Li, L Kong, N Barnes - arXiv preprint arXiv , 2022" 
+--- 
+Linear transformers aim to reduce the quadratic space-time complexity of vanilla transformers. However, they usually suffer from degraded performances on various tasks and corpus. In this paper, we examine existing kernel-based linear transformers and identify two key issues that lead to such performance gaps: 1) unbounded gradients in the attention computation adversely impact the convergence of linear transformer models; 2) attention dilution which trivially distributes attention  Cites: Transformer quality in linear time

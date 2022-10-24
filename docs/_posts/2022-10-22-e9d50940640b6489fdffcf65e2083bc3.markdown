@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Adversarial Robustness of Mixture of Experts"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "J Puigcerver, R Jenatton, C Riquelme, P Awasthi… - arXiv preprint arXiv …, 2022"
----
-Adversarial robustness is a key desirable property of neural networks. It has been empirically shown to be affected by their sizes, with larger networks being typically more robust. Recently, Bubeck and Sellke proved a lower bound on the Lipschitz constant of functions that fit the training data in terms of their number of parameters. This raises an interesting open question, do--and can--functions with more parameters, but not necessarily more computational cost, have better robustness …
-Cites: ‪Glam: Efficient scaling of language models with mixture-of-experts‬
+--- 
+layout: post 
+title: "On the Adversarial Robustness of Mixture of Experts" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "J Puigcerver, R Jenatton, C Riquelme, P Awasthi - arXiv preprint arXiv , 2022" 
+--- 
+Adversarial robustness is a key desirable property of neural networks. It has been empirically shown to be affected by their sizes, with larger networks being typically more robust. Recently, Bubeck and Sellke proved a lower bound on the Lipschitz constant of functions that fit the training data in terms of their number of parameters. This raises an interesting open question, do--and can--functions with more parameters, but not necessarily more computational cost, have better robustness  Cites: Glam: Efficient scaling of language models with mixture-of-experts

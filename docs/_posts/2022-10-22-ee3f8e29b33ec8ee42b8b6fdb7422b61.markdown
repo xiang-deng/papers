@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Reliable Baselines for Document-Level Sentiment Analysis in the Czech and Slovak Languages"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "J Mojžiš, P Krammer, M Kvassay, L Skovajsová… - Future Internet, 2022"
----
-This article helps establish reliable baselines for document-level sentiment analysis in highly inflected languages like Czech and Slovak. We revisit an earlier study representing the first comprehensive formulation of such baselines in Czech and show that some of its reported results need to be significantly revised. More specifically, we show that its online product review dataset contained more than 18% of non-trivial duplicates, which incorrectly inflated its macro F1-measure results by …
-Cites: ‪A structural probe for finding syntax in word representations‬
+--- 
+layout: post 
+title: "Towards Reliable Baselines for Document-Level Sentiment Analysis in the Czech and Slovak Languages" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "J Moji, P Krammer, M Kvassay, L Skovajsov - Future Internet, 2022" 
+--- 
+This article helps establish reliable baselines for document-level sentiment analysis in highly inflected languages like Czech and Slovak. We revisit an earlier study representing the first comprehensive formulation of such baselines in Czech and show that some of its reported results need to be significantly revised. More specifically, we show that its online product review dataset contained more than 18% of non-trivial duplicates, which incorrectly inflated its macro F1-measure results by  Cites: A structural probe for finding syntax in word representations

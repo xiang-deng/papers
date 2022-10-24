@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge graph completion using topological correlation and multi-perspective independence"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "M Yu, Q Zhang, J Yu, M Zhao, X Li, D Jin, M Yang, R Yu - Knowledge-Based Systems, 2022"
----
-Abstract Knowledge graphs (KGs) are large-scale semantic networks designed to describe real-world facts. Existing KGs contain only a fraction of what is really happening in the real life. Knowledge graph completion (KGC) has attracted attention because it can automatically infer and predict missing links in the KGs. The classical geometric, tensor decomposition and convolutional neural network (CNN) based models generate expressive feature embeddings, but these models treat …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Knowledge graph completion using topological correlation and multi-perspective independence" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "M Yu, Q Zhang, J Yu, M Zhao, X Li, D Jin, M Yang, R Yu - Knowledge-Based Systems, 2022" 
+--- 
+Abstract Knowledge graphs (KGs) are large-scale semantic networks designed to describe real-world facts. Existing KGs contain only a fraction of what is really happening in the real life. Knowledge graph completion (KGC) has attracted attention because it can automatically infer and predict missing links in the KGs. The classical geometric, tensor decomposition and convolutional neural network (CNN) based models generate expressive feature embeddings, but these models treat  Cites: Observed versus latent features for knowledge base and text

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Integrating external knowledge into aspect-based sentiment analysis using graph neural network"
-date:   2022-10-22 02:20:44 -0400
-categories: jekyll update
-author: "T Gu, H Zhao, Z He, M Li, D Ying - Knowledge-Based Systems, 2022"
----
-Aspect-based sentiment analysis aims to analyze the sentiment polarity of a given aspect. The graph convolutional neural network model is widely used. However, most existing research focuses on mining the context-word-to-aspect-word dependencies of dependency trees based on the sentence itself without using much text-related external knowledge. In addition, the problem of reasonably capturing words outside the multihop grammatical distance and edge label hinders the effect of …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "Integrating external knowledge into aspect-based sentiment analysis using graph neural network" 
+date: 2022-10-22 02:20:44 -0400 
+categories: jekyll update 
+author: "T Gu, H Zhao, Z He, M Li, D Ying - Knowledge-Based Systems, 2022" 
+--- 
+Aspect-based sentiment analysis aims to analyze the sentiment polarity of a given aspect. The graph convolutional neural network model is widely used. However, most existing research focuses on mining the context-word-to-aspect-word dependencies of dependency trees based on the sentence itself without using much text-related external knowledge. In addition, the problem of reasonably capturing words outside the multihop grammatical distance and edge label hinders the effect of  Cites: Aspect level sentiment classification with deep memory network
