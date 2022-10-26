@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Introducing Gradient-Based Methods and Diagnostic Benchmarks to Trace Errors Back to the Training Data"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "P Pezeshkpour - 2022"
+---
+Deep neural networks that dominate NLP rely on an immense amount of parameters and require large text corpora for training. As these models are increasingly being deployed in the real world, there is an accompanying need to characterize potential failure modes of such models to avoid harms. In particular, it is now widely appreciated that training such models over large corpora commonly introduces biases into model predictions and other undesirable behaviors. Moreover, many of …
+Cites: ‪Compositional learning of embeddings for relation paths in …‬

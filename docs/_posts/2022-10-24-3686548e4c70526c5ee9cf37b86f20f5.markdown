@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Recommendations with residual connections and negative sampling based on knowledge graphs"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "Y Liu, Z Zhong, C Che, Y Zhu - Knowledge-Based Systems, 2022"
+---
+A knowledge graph (KG) contains a large amount of well-structured external triple information that can effectively solve the problems of poor interpretability in collaborative filtering. Recently, recommendation system (RS) models relying on graph neural networks (GNNs) have been widely developed, but the increase of GNN layers inevitably leads to over-smoothing problems. Meanwhile, most of the current KG-based negative sampling strategies randomly collect negative samples …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬

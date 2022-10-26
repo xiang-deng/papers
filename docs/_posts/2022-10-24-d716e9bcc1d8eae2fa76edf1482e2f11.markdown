@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Plausibility of Sampling as an Algorithmic Theory of Sentence Processing"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "JL Hoover, M Sonderegger, ST Piantadosi… - 2022"
+---
+Abstract Words that are more surprising given context take longer to process. However, no incremental parsing algorithm has been shown to directly predict this phenomenon. In this work, we focus on a class of algorithms whose runtime does naturally scale in surprisal—sampling algorithms. Our first contribution is to show that simple examples of such algorithms predict runtime to increase superlinearly with surprisal, and also predict variance in runtime to increase. These two predictions …
+Cites: ‪Syntactic and semantic factors in processing difficulty: An …‬

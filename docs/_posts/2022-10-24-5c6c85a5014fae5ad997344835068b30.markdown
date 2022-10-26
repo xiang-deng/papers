@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Detecting Backdoors in Deep Text Classifiers"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "Y Guo, J Wang, T Cohn - arXiv preprint arXiv:2210.11264, 2022"
+---
+Deep neural networks are vulnerable to adversarial attacks, such as backdoor attacks in which a malicious adversary compromises a model during training such that specific behaviour can be triggered at test time by attaching a specific word or phrase to an input. This paper considers the problem of diagnosing whether a model has been compromised and if so, identifying the backdoor trigger. We present the first robust defence mechanism that generalizes to several backdoor attacks against …
+Cites: ‪Weight Poisoning Attacks on Pre-trained Models‬

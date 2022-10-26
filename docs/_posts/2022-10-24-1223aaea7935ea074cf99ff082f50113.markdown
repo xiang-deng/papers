@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Data Quality with Training Dynamics of Gradient Boosting Decision Trees"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "MA Ponti, LA Oliveira, JM Román, L Argerich - arXiv preprint arXiv:2210.11327, 2022"
+---
+Real world datasets contain incorrectly labeled instances that hamper the performance of the model and, in particular, the ability to generalize out of distribution. Also, each example might have different contribution towards learning. This motivates studies to better understanding of the role of data instances with respect to their contribution in good metrics in models. In this paper we propose a method based on metrics computed from training dynamics of Gradient Boosting …
+Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬

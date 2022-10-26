@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pre-trained Language Model based Retrieval and Ranking for Web Search"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "L Zou, W Lu, Y Liu, H Cai, X Chu, D Ma, D Shi, Y Sun… - ACM Transactions on the …, 2022"
+---
+Pre-trained language representation models (PLMs) such as BERT and ERNIE have been integral to achieving recent improvements on various downstream tasks, including information retrieval. However, it is nontrivial to directly utilize these models for the large-scale web search due to the following challenging issues:(1) the prohibitively expensive computations of massive neural PLMs, especially for long texts in the web document, prohibit their deployments in the web search system that …
+Cites: ‪Latent retrieval for weakly supervised open domain question …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Continuum of Generation Tasks for Investigating Length Bias and Degenerate Repetition"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "D Riley, D Chiang - arXiv preprint arXiv:2210.10817, 2022"
+---
+Language models suffer from various degenerate behaviors. These differ between tasks: machine translation (MT) exhibits length bias, while tasks like story generation exhibit excessive repetition. Recent work has attributed the difference to task constrainedness, but evidence for this claim has always involved many confounding variables. To study this question directly, we introduce a new experimental framework that allows us to smoothly vary task constrainedness, from MT at one end …
+Cites: ‪Characterizing and addressing the issue of oversmoothing in …‬

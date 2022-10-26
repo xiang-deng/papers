@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DialogUSR: Complex Dialogue Utterance Splitting and Reformulation for Multiple Intent Detection"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "H Meng, Z Xin, T Liu, Z Wang, H Feng, B Lin, X Zhao… - arXiv preprint arXiv …, 2022"
+---
+While interacting with chatbots, users may elicit multiple intents in a single dialogue utterance. Instead of training a dedicated multi-intent detection model, we propose DialogUSR, a dialogue utterance splitting and reformulation task that first splits multi-intent user query into several single-intent sub-queries and then recovers all the coreferred and omitted information in the sub-queries. DialogUSR can serve as a plug-in and domain-agnostic module that empowers the multi-intent detection for the …
+Cites: ‪Can you unpack that? learning to rewrite questions-in-context‬

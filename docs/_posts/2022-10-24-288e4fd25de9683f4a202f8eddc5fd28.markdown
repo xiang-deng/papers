@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Out-of-Distribution Detection in Natural Language Understanding via Implicit Layer Ensemble"
+date:   2022-10-24 23:22:19 -0400
+categories: jekyll update
+author: "H Cho, C Park, J Kang, KM Yoo, T Kim, S Lee - arXiv preprint arXiv:2210.11034, 2022"
+---
+Out-of-distribution (OOD) detection aims to discern outliers from the intended data distribution, which is crucial to maintaining high reliability and a good user experience. Most recent studies in OOD detection utilize the information from a single representation that resides in the penultimate layer to determine whether the input is anomalous or not. Although such a method is straightforward, the potential of diverse information in the intermediate layers is overlooked. In this paper, we propose a …
+Cites: ‪SLM: Learning a discourse language representation with sentence …‬
