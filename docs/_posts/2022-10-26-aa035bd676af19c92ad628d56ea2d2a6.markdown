@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Are Deep Sequence Classifiers Good at Non-Trivial Generalization?"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "F Cazzaro, A Quattoni, X Carreras - arXiv preprint arXiv:2210.13082, 2022"
+---
+Recent advances in deep learning models for sequence classification have greatly improved their classification accuracy, specially when large training sets are available. However, several works have suggested that under some settings the predictions made by these models are poorly calibrated. In this work we study binary sequence classification problems and we look at model calibration from a different perspective by asking the question: Are deep learning models capable of learning …
+Cites: ‪Calibration of Pre-trained Transformers‬

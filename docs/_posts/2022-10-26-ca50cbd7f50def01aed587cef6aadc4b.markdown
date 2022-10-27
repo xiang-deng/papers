@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Discriminative Language Model as Semantic Consistency Scorer for Prompt-based Few-Shot Text Classification"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "Z Xie, Y Li - arXiv preprint arXiv:2210.12763, 2022"
+---
+This paper proposes a novel prompt-based finetuning method (called DLM-SCS) for few-shot text classification by utilizing the discriminative language model ELECTRA that is pretrained to distinguish whether a token is original or generated. The underlying idea is that the prompt instantiated with the true label should have higher semantic consistency score than other prompts with false labels. Since a prompt usually consists of several components (or parts), its semantic consistency can be …
+Cites: ‪Prompt Tuning for Discriminative Pre-trained Language Models‬

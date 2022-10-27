@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Transformer-based Entity Typing in Knowledge Graphs"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "Z Hu, V Gutiérrez-Basulto, Z Xiang, R Li, JZ Pan - arXiv preprint arXiv:2210.11151, 2022"
----
-We investigate the knowledge graph entity typing task which aims at inferring plausible entity types. In this paper, we propose a novel Transformer-based Entity Typing (TET) approach, effectively encoding the content of neighbors of an entity. More precisely, TET is composed of three different mechanisms: a local transformer allowing to infer missing types of an entity by independently encoding the information provided by each of its neighbors; a global transformer aggregating the information …
-Cites: ‪Entity linking via joint encoding of types, descriptions, and context‬
+--- 
+layout: post 
+title: "Transformer-based Entity Typing in Knowledge Graphs" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "Z Hu, V Gutirrez-Basulto, Z Xiang, R Li, JZ Pan - arXiv preprint arXiv:2210.11151, 2022" 
+--- 
+We investigate the knowledge graph entity typing task which aims at inferring plausible entity types. In this paper, we propose a novel Transformer-based Entity Typing (TET) approach, effectively encoding the content of neighbors of an entity. More precisely, TET is composed of three different mechanisms: a local transformer allowing to infer missing types of an entity by independently encoding the information provided by each of its neighbors; a global transformer aggregating the information  Cites: Entity linking via joint encoding of types, descriptions, and context

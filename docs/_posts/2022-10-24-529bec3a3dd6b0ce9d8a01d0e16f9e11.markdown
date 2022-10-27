@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding Stereotypes in Language Models: Towards Robust Measurement and Zero-Shot Debiasing"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "J Mattern, Z Jin, M Sachan, R Mihalcea, B Schölkopf"
----
-Generated texts from large pretrained language models have been shown to exhibit a variety of harmful, human-like biases about various demographics. These findings prompted large efforts aiming to understand and measure such effects, with the goal of providing benchmarks that can guide the development of techniques mitigating these stereotypical associations. However, as recent research has pointed out, the current benchmarks lack a robust experimental setup, consequently hindering the …
-Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬
+--- 
+layout: post 
+title: "Understanding Stereotypes in Language Models: Towards Robust Measurement and Zero-Shot Debiasing" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "J Mattern, Z Jin, M Sachan, R Mihalcea, B Schlkopf" 
+--- 
+Generated texts from large pretrained language models have been shown to exhibit a variety of harmful, human-like biases about various demographics. These findings prompted large efforts aiming to understand and measure such effects, with the goal of providing benchmarks that can guide the development of techniques mitigating these stereotypical associations. However, as recent research has pointed out, the current benchmarks lack a robust experimental setup, consequently hindering the  Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in

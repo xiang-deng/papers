@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Probing with Noise: Unpicking the Warp and Weft of Embeddings"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "F Klubička, JD Kelleher - arXiv preprint arXiv:2210.12206, 2022"
+---
+Improving our understanding of how information is encoded in vector space can yield valuable interpretability insights. Alongside vector dimensions, we argue that it is possible for the vector norm to also carry linguistic information. We develop a method to test this: an extension of the probing framework which allows for relative intrinsic interpretations of probing results. It relies on introducing noise that ablates information encoded in embeddings, grounded in random baselines and confidence …
+Cites: ‪Everything happens for a reason: Discovering the purpose of …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HT-Net: Hierarchical Transformer based Operator Learning Model for Multiscale PDEs"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "X Liu, B Xu, L Zhang - arXiv preprint arXiv:2210.10890, 2022"
----
-Complex nonlinear interplays of multiple scales give rise to many interesting physical phenomena and pose major difficulties for the computer simulation of multiscale PDE models in areas such as reservoir simulation, high frequency scattering and turbulence modeling. In this paper, we introduce a hierarchical transformer (HT) scheme to efficiently learn the solution operator for multiscale PDEs. We construct a hierarchical architecture with scale adaptive interaction range, such that the features …
-Cites: ‪Random feature attention‬
+--- 
+layout: post 
+title: "HT-Net: Hierarchical Transformer based Operator Learning Model for Multiscale PDEs" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "X Liu, B Xu, L Zhang - arXiv preprint arXiv:2210.10890, 2022" 
+--- 
+Complex nonlinear interplays of multiple scales give rise to many interesting physical phenomena and pose major difficulties for the computer simulation of multiscale PDE models in areas such as reservoir simulation, high frequency scattering and turbulence modeling. In this paper, we introduce a hierarchical transformer (HT) scheme to efficiently learn the solution operator for multiscale PDEs. We construct a hierarchical architecture with scale adaptive interaction range, such that the features  Cites: Random feature attention

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Scaling Instruction-Finetuned Language Models"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "HW Chung, L Hou, S Longpre, B Zoph, Y Tay, W Fedus… - arXiv preprint arXiv …, 2022"
----
-Finetuning language models on a collection of datasets phrased as instructions has been shown to improve model performance and generalization to unseen tasks. In this paper we explore instruction finetuning with a particular focus on (1) scaling the number of tasks,(2) scaling the model size, and (3) finetuning on chain-of-thought data. We find that instruction finetuning with the above aspects dramatically improves performance on a variety of model classes (PaLM, T5, U-PaLM), prompting setups …
-Cites: ‪Metaicl: Learning to learn in context‬
+--- 
+layout: post 
+title: "Scaling Instruction-Finetuned Language Models" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "HW Chung, L Hou, S Longpre, B Zoph, Y Tay, W Fedus - arXiv preprint arXiv , 2022" 
+--- 
+Finetuning language models on a collection of datasets phrased as instructions has been shown to improve model performance and generalization to unseen tasks. In this paper we explore instruction finetuning with a particular focus on (1) scaling the number of tasks,(2) scaling the model size, and (3) finetuning on chain-of-thought data. We find that instruction finetuning with the above aspects dramatically improves performance on a variety of model classes (PaLM, T5, U-PaLM), prompting setups  Cites: Metaicl: Learning to learn in context

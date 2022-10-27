@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On the Limitations of Reference-Free Evaluations of Generated Text"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "D Deutsch, R Dror, D Roth - arXiv preprint arXiv:2210.12563, 2022"
+---
+There is significant interest in developing evaluation metrics which accurately estimate the quality of generated text without the aid of a human-written reference text, which can be time consuming and expensive to collect or entirely unavailable in online applications. However, in this work, we demonstrate that these reference-free metrics are inherently biased and limited in their ability to evaluate generated text, and we argue that they should not be used to measure progress on tasks like …
+Cites: ‪Re-evaluating Evaluation in Text Summarization‬

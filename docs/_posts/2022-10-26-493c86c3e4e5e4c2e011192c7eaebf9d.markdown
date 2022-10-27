@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring Representation-Level Augmentation for Code Search"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "H Li, C Miao, C Leung, Y Huang, Y Huang, H Zhang… - arXiv preprint arXiv …, 2022"
+---
+Code search, which aims at retrieving the most relevant code fragment for a given natural language query, is a common activity in software development practice. Recently, contrastive learning is widely used in code search research, where many data augmentation approaches for source code (eg, semantic-preserving program transformation) are proposed to learn better representations. However, these augmentations are at the raw-data level, which requires additional code analysis in …
+Cites: ‪Cosqa: 20,000+ web queries for code search and question …‬

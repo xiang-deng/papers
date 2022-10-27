@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On Learning Fairness and Accuracy on Multiple Subgroups"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "C Shui, G Xu, Q Chen, J Li, C Ling, T Arbel, B Wang… - arXiv preprint arXiv …, 2022"
----
-We propose an analysis in fair learning that preserves the utility of the data while reducing prediction disparities under the criteria of group sufficiency. We focus on the scenario where the data contains multiple or even many subgroups, each with limited number of samples. As a result, we present a principled method for learning a fair predictor for all subgroups via formulating it as a bilevel objective. Specifically, the subgroup specific predictors are learned in the lower-level through a small …
-Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬
+--- 
+layout: post 
+title: "On Learning Fairness and Accuracy on Multiple Subgroups" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "C Shui, G Xu, Q Chen, J Li, C Ling, T Arbel, B Wang - arXiv preprint arXiv , 2022" 
+--- 
+We propose an analysis in fair learning that preserves the utility of the data while reducing prediction disparities under the criteria of group sufficiency. We focus on the scenario where the data contains multiple or even many subgroups, each with limited number of samples. As a result, we present a principled method for learning a fair predictor for all subgroups via formulating it as a bilevel objective. Specifically, the subgroup specific predictors are learned in the lower-level through a small  Cites: Wilds: A benchmark of in-the-wild distribution shifts

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Overlapping Community Detection using Dynamic Dilated Aggregation in Deep Residual GCN"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "MN Muttakin, MI Hossain, MS Rahman - arXiv preprint arXiv:2210.11174, 2022"
----
-Overlapping community detection is a key problem in graph mining. Some research has considered applying graph convolutional networks (GCN) to tackle the problem. However, it is still challenging to incorporate deep graph convolutional networks in the case of general irregular graphs. In this study, we design a deep dynamic residual graph convolutional network (DynaResGCN) based on our novel dynamic dilated aggregation mechanisms and a unified end-to-end encoder-decoder-based …
-Cites: ‪Cross-sentence n-ary relation extraction with graph lstms‬
+--- 
+layout: post 
+title: "Overlapping Community Detection using Dynamic Dilated Aggregation in Deep Residual GCN" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "MN Muttakin, MI Hossain, MS Rahman - arXiv preprint arXiv:2210.11174, 2022" 
+--- 
+Overlapping community detection is a key problem in graph mining. Some research has considered applying graph convolutional networks (GCN) to tackle the problem. However, it is still challenging to incorporate deep graph convolutional networks in the case of general irregular graphs. In this study, we design a deep dynamic residual graph convolutional network (DynaResGCN) based on our novel dynamic dilated aggregation mechanisms and a unified end-to-end encoder-decoder-based  Cites: Cross-sentence n-ary relation extraction with graph lstms

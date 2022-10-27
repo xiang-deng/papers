@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Boosting Natural Language Generation from Instructions with Meta-Learning"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "B Deb, G Zheng, AH Awadallah - arXiv preprint arXiv:2210.11617, 2022"
+---
+Recent work has shown that language models (LMs) trained with multi-task\textit {instructional learning}(MTIL) can solve diverse NLP tasks in zero-and few-shot settings with improved performance compared to prompt tuning. MTIL illustrates that LMs can extract and use information about the task from instructions beyond the surface patterns of the inputs and outputs. This suggests that meta-learning may further enhance the utilization of instructions for effective task transfer. In this paper …
+Cites: ‪Metaicl: Learning to learn in context‬

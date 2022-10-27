@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Improved Partition Filter Network for Entity-Relation Joint Extraction"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "Z Huang, L Liang, X Zhu, H Weng, J Yan, T Hao - International Conference on Neural …, 2022"
----
-The purpose of a joint entity-relation extraction task is to extract entity-relation triples from unstructured text to assist text analysis, knowledge graph construction, etc. The existing sequence-to-sequence or sequence-to-non-sequence models treat the joint extraction task as a triple generation task, sharing the feature space of entity and relation extraction in the same structure. However, fusing the information of both subtasks may cause the problem of feature conflicts and thus decrease model …
-Cites: ‪Exploiting syntactico-semantic structures for relation extraction‬
+--- 
+layout: post 
+title: "An Improved Partition Filter Network for Entity-Relation Joint Extraction" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "Z Huang, L Liang, X Zhu, H Weng, J Yan, T Hao - International Conference on Neural , 2022" 
+--- 
+The purpose of a joint entity-relation extraction task is to extract entity-relation triples from unstructured text to assist text analysis, knowledge graph construction, etc. The existing sequence-to-sequence or sequence-to-non-sequence models treat the joint extraction task as a triple generation task, sharing the feature space of entity and relation extraction in the same structure. However, fusing the information of both subtasks may cause the problem of feature conflicts and thus decrease model  Cites: Exploiting syntactico-semantic structures for relation extraction

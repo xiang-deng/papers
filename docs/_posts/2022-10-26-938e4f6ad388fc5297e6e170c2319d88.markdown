@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Conformal Predictor for Improving Zero-shot Text Classification Efficiency"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "PK Choubey, Y Bai, CS Wu, W Liu, N Rajani - arXiv preprint arXiv:2210.12619, 2022"
+---
+Pre-trained language models (PLMs) have been shown effective for zero-shot (0shot) text classification. 0shot models based on natural language inference (NLI) and next sentence prediction (NSP) employ cross-encoder architecture and infer by making a forward pass through the model for each label-text pair separately. This increases the computational cost to make inferences linearly in the number of labels. In this work, we improve the efficiency of such cross-encoder-based 0shot models by …
+Cites: ‪Prompt-free and Efficient Few-shot Learning with Language Models‬

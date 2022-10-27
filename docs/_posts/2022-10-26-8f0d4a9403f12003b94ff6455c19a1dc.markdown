@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "X He, Y Gong, A Jin, W Qi, H Zhang, J Jiao, B Zhou… - arXiv preprint arXiv …, 2022"
+---
+Commonsense generation aims to generate a realistic sentence describing a daily scene under the given concepts, which is very challenging, since it requires models to have relational reasoning and compositional generalization capabilities. Previous work focuses on retrieving prototype sentences for the provided concepts to assist generation. They first use a sparse retriever to retrieve candidate sentences, then re-rank the candidates with a ranker. However, the candidates returned by their ranker …
+Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬

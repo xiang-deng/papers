@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Virtual-Memory Assisted Buffer Management"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "V Leis, A Alhomssi, T Ziegler, Y Loeck, C Dietrich - 2022"
----
-Most database management systems cache pages from storage in a main memory buffer pool. To do this, they either rely on a hash table that translates page identifiers into pointers, or on pointer swizzling which avoids this translation. In this work, we propose vmcache, a buffer manager design that instead uses hardware-supported virtual memory to translate page identifiers to virtual memory addresses. In contrast to existing mmap-based approaches, the DBMS retains control over page faulting …
-Cites: ‪DBOS: a DBMS-oriented Operating System‬
+--- 
+layout: post 
+title: "Virtual-Memory Assisted Buffer Management" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "V Leis, A Alhomssi, T Ziegler, Y Loeck, C Dietrich - 2022" 
+--- 
+Most database management systems cache pages from storage in a main memory buffer pool. To do this, they either rely on a hash table that translates page identifiers into pointers, or on pointer swizzling which avoids this translation. In this work, we propose vmcache, a buffer manager design that instead uses hardware-supported virtual memory to translate page identifiers to virtual memory addresses. In contrast to existing mmap-based approaches, the DBMS retains control over page faulting  Cites: DBOS: a DBMS-oriented Operating System

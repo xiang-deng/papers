@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Does Decentralized Learning with Non-IID Unlabeled Data Benefit from Self Supervision?"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "L Wang, K Zhang, Y Li, Y Tian, R Tedrake - arXiv preprint arXiv:2210.10947, 2022"
----
-Decentralized learning has been advocated and widely deployed to make efficient use of distributed datasets, with an extensive focus on supervised learning (SL) problems. Unfortunately, the majority of real-world data are unlabeled and can be highly heterogeneous across sources. In this work, we carefully study decentralized learning with unlabeled data through the lens of self-supervised learning (SSL), specifically contrastive visual representation learning. We study the effectiveness of a …
-Cites: ‪On the opportunities and risks of foundation models‬
+--- 
+layout: post 
+title: "Does Decentralized Learning with Non-IID Unlabeled Data Benefit from Self Supervision?" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "L Wang, K Zhang, Y Li, Y Tian, R Tedrake - arXiv preprint arXiv:2210.10947, 2022" 
+--- 
+Decentralized learning has been advocated and widely deployed to make efficient use of distributed datasets, with an extensive focus on supervised learning (SL) problems. Unfortunately, the majority of real-world data are unlabeled and can be highly heterogeneous across sources. In this work, we carefully study decentralized learning with unlabeled data through the lens of self-supervised learning (SSL), specifically contrastive visual representation learning. We study the effectiveness of a  Cites: On the opportunities and risks of foundation models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MBTI Personality Prediction for Fictional Characters Using Movie Scripts"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "Y Sang, X Mou, M Yu, D Wang, J Li, J Stanton - arXiv preprint arXiv:2210.10994, 2022"
----
-An NLP model that understands stories should be able to understand the characters in them. To support the development of neural models for this purpose, we construct a benchmark, Story2Personality. The task is to predict a movie character s MBTI or Big 5 personality types based on the narratives of the character. Experiments show that our task is challenging for the existing text classification models, as none is able to largely outperform random guesses. We further proposed a multi-view model for …
-Cites: ‪Feuding Families and Former Friends: Unsupervised Learning for …‬
+--- 
+layout: post 
+title: "MBTI Personality Prediction for Fictional Characters Using Movie Scripts" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "Y Sang, X Mou, M Yu, D Wang, J Li, J Stanton - arXiv preprint arXiv:2210.10994, 2022" 
+--- 
+An NLP model that understands stories should be able to understand the characters in them. To support the development of neural models for this purpose, we construct a benchmark, Story2Personality. The task is to predict a movie character s MBTI or Big 5 personality types based on the narratives of the character. Experiments show that our task is challenging for the existing text classification models, as none is able to largely outperform random guesses. We further proposed a multi-view model for  Cites: Feuding Families and Former Friends: Unsupervised Learning for

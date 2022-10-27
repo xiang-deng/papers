@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Event-Centric Question Answering via Contrastive Learning and Invertible Event Transformation"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "J Lu, X Tan, G Pergola, L Gui, Y He - arXiv preprint arXiv:2210.12902, 2022"
+---
+Human reading comprehension often requires reasoning of event semantic relations in narratives, represented by Event-centric Question-Answering (QA). To address event-centric QA, we propose a novel QA model with contrastive learning and invertible event transformation, call TranCLR. Our proposed model utilizes an invertible transformation matrix to project semantic vectors of events into a common event embedding space, trained with contrastive learning, and thus naturally inject …
+Cites: ‪Learning with Instance Bundles for Reading Comprehension‬

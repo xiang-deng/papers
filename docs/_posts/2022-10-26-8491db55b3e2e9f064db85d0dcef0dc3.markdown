@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unsupervised Text Deidentification"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "JX Morris, JT Chiu, R Zabih, AM Rush - arXiv preprint arXiv:2210.11528, 2022"
+---
+Deidentification seeks to anonymize textual data prior to distribution. Automatic deidentification primarily uses supervised named entity recognition from human-labeled data points. We propose an unsupervised deidentification method that masks words that leak personally-identifying information. The approach utilizes a specially trained reidentification model to identify individuals from redacted personal documents. Motivated by K-anonymity based privacy, we generate redactions that …
+Cites: ‪Large language models can be strong differentially private learners‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Addressing Heterogeneity in Federated Learning via Distributional Transformation"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "H Yuan, B Hui, Y Yang, P Burlina, NZ Gong, Y Cao - European Conference on …, 2022"
----
-Federated learning (FL) allows multiple clients to collaboratively train a deep learning model. One major challenge of FL is when data distribution is heterogeneous, ie, differs from one client to another. Existing personalized FL algorithms are only applicable to narrow cases, eg, one or two data classes per client, and therefore they do not satisfactorily address FL under varying levels of data heterogeneity. In this paper, we propose a novel framework, called DisTrans, to …
-Cites: ‪Adversarial examples improve image recognition‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Apple of Sodom: Hidden Backdoors in Superior Sentence Embeddings via Contrastive Learning"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "X Chen, B Xin, S Zhai, S Ma, Q Shen, Z Wu - arXiv preprint arXiv:2210.11082, 2022"
----
-This paper finds that contrastive learning can produce superior sentence embeddings for pre-trained models but is also vulnerable to backdoor attacks. We present the first backdoor attack framework, BadCSE, for state-of-the-art sentence embeddings under supervised and unsupervised learning settings. The attack manipulates the construction of positive and negative pairs so that the backdoored samples have a similar embedding with the target sample (targeted attack) or the …
-Cites: ‪Red alarm for pre-trained models: Universal vulnerability to neuron …‬
+--- 
+layout: post 
+title: "Apple of Sodom: Hidden Backdoors in Superior Sentence Embeddings via Contrastive Learning" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "X Chen, B Xin, S Zhai, S Ma, Q Shen, Z Wu - arXiv preprint arXiv:2210.11082, 2022" 
+--- 
+This paper finds that contrastive learning can produce superior sentence embeddings for pre-trained models but is also vulnerable to backdoor attacks. We present the first backdoor attack framework, BadCSE, for state-of-the-art sentence embeddings under supervised and unsupervised learning settings. The attack manipulates the construction of positive and negative pairs so that the backdoored samples have a similar embedding with the target sample (targeted attack) or the  Cites: Red alarm for pre-trained models: Universal vulnerability to neuron

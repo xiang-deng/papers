@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enhancing N-Gram Based Metrics with Semantics for Better Evaluation of Abstractive Text Summarization"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "JW He, WJ Jiang, GB Chen, YQ Le, XF Ding - Journal of Computer Science and …, 2022"
----
-Text summarization is an important task in natural language processing and it has been applied in many applications. Recently, abstractive summarization has attracted many attentions. However, the traditional evaluation metrics that consider little semantic information, are unsuitable for evaluating the quality of deep learning based abstractive summarization models, since these models may generate new words that do not exist in the original text. Moreover, the out-of-vocabulary (OOV) …
-Cites: ‪Learning sentiment-specific word embedding for twitter sentiment …‬
+--- 
+layout: post 
+title: "Enhancing N-Gram Based Metrics with Semantics for Better Evaluation of Abstractive Text Summarization" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "JW He, WJ Jiang, GB Chen, YQ Le, XF Ding - Journal of Computer Science and , 2022" 
+--- 
+Text summarization is an important task in natural language processing and it has been applied in many applications. Recently, abstractive summarization has attracted many attentions. However, the traditional evaluation metrics that consider little semantic information, are unsuitable for evaluating the quality of deep learning based abstractive summarization models, since these models may generate new words that do not exist in the original text. Moreover, the out-of-vocabulary (OOV)  Cites: Learning sentiment-specific word embedding for twitter sentiment

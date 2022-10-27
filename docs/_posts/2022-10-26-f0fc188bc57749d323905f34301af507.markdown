@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "A Ferber, T Huang, D Zha, M Schubert, B Steiner… - arXiv preprint arXiv …, 2022"
+---
+Optimization problems with expensive nonlinear cost functions and combinatorial constraints appear in many real-world applications, but remain challenging to solve efficiently. Existing combinatorial solvers like Mixed Integer Linear Programming can be fast in practice but cannot readily optimize nonlinear cost functions, while general nonlinear optimizers like gradient descent often do not handle complex combinatorial structures, may require many queries of the cost function, and are …
+Cites: ‪A graph placement methodology for fast chip design‬

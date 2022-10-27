@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automatic Document Selection for Efficient Encoder Pretraining"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "Y Feng, P Xia, B Van Durme, J Sedoc - arXiv preprint arXiv:2210.10951, 2022"
----
-Building pretrained language models is considered expensive and data-intensive, but must we increase dataset size to achieve better performance? We propose an alternative to larger training sets by automatically identifying smaller yet domain-representative subsets. We extend Cynical Data Selection, a statistical sentence scoring method that conditions on a representative target domain corpus. As an example, we treat the OntoNotes corpus as a target domain and pretrain a RoBERTa …
-Cites: ‪Quantifying Adaptability in Pre-trained Language Models with 500 …‬
+--- 
+layout: post 
+title: "Automatic Document Selection for Efficient Encoder Pretraining" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "Y Feng, P Xia, B Van Durme, J Sedoc - arXiv preprint arXiv:2210.10951, 2022" 
+--- 
+Building pretrained language models is considered expensive and data-intensive, but must we increase dataset size to achieve better performance? We propose an alternative to larger training sets by automatically identifying smaller yet domain-representative subsets. We extend Cynical Data Selection, a statistical sentence scoring method that conditions on a representative target domain corpus. As an example, we treat the OntoNotes corpus as a target domain and pretrain a RoBERTa  Cites: Quantifying Adaptability in Pre-trained Language Models with 500

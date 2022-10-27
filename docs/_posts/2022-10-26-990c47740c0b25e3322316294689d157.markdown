@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Performance-efficiency trade-offs in adapting language models to text classification tasks"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "L Aina, N Voskarides, R Blanco - arXiv preprint arXiv:2210.12022, 2022"
+---
+Pre-trained language models (LMs) obtain state-of-the-art performance when adapted to text classification tasks. However, when using such models in real-world applications, efficiency considerations are paramount. In this paper, we study how different training procedures that adapt LMs to text classification perform, as we vary model and train set size. More specifically, we compare standard fine-tuning, prompting, and knowledge distillation (KD) when the teacher was trained with either …
+Cites: ‪Well-read students learn better: On the importance of pre-training …‬

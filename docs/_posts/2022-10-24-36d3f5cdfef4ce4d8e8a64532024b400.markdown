@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Global contextually guided lightweight network for RGB-thermal urban scene understanding"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "T Gong, W Zhou, X Qian, J Lei, L Yu - Engineering Applications of Artificial …, 2023"
----
-Recent achievements in scene understanding have benefited considerably from the rapid development of convolutional neural networks. However, improvements of scene understanding methods have been restricted in terms of practical deployment, especially in mobile devices, owing to their high computational costs and memory consumption. Existing networks can integrate RGB and thermal (RGB-T) cues for sample fusion, resulting in insufficient exploitation of the complicated correlations …
-Cites: ‪Espnet: Efficient spatial pyramid of dilated convolutions for …‬
+--- 
+layout: post 
+title: "Global contextually guided lightweight network for RGB-thermal urban scene understanding" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "T Gong, W Zhou, X Qian, J Lei, L Yu - Engineering Applications of Artificial , 2023" 
+--- 
+Recent achievements in scene understanding have benefited considerably from the rapid development of convolutional neural networks. However, improvements of scene understanding methods have been restricted in terms of practical deployment, especially in mobile devices, owing to their high computational costs and memory consumption. Existing networks can integrate RGB and thermal (RGB-T) cues for sample fusion, resulting in insufficient exploitation of the complicated correlations  Cites: Espnet: Efficient spatial pyramid of dilated convolutions for

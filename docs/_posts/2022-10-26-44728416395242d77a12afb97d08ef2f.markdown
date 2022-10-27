@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Open-Domain Conversational Question Answering with Historical Answers"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "HC Fang, KH Hung, CWHYN Chen"
+---
+Open-domain conversational question answering can be viewed as two tasks: passage retrieval and conversational question answering, where the former relies on selecting candidate passages from a large corpus and the latter requires better understanding of a question with contexts to predict the answers. This paper proposes ConvADR-QA that leverages historical answers to boost retrieval performance and further achieves better answering performance. Our experiments …
+Cites: ‪Open-Retrieval Conversational Question Answering‬

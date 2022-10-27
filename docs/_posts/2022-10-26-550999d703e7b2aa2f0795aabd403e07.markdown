@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Eigenfunctions Are Structured Representation Learners"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "Z Deng, J Shi, H Zhang, P Cui, C Lu, J Zhu - arXiv preprint arXiv:2210.12637, 2022"
+---
+In this paper, we introduce a scalable method for learning structured, adaptive-length deep representations. Our approach is to train neural networks such that they approximate the principal eigenfunctions of a kernel. We show that, when the kernel is derived from positive relations in a contrastive learning setup, our method outperforms a number of competitive baselines in visual representation learning and transfer learning benchmarks, and importantly, produces structured representations …
+Cites: ‪Palm: Scaling language modeling with pathways‬

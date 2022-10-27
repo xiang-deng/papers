@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tele-Knowledge Pre-training for Fault Analysis"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "Z Chen, W Zhang, Y Huang, M Chen, Y Geng, H Yu… - arXiv preprint arXiv …, 2022"
----
-In this work, we share our experience on tele-knowledge pre-training for fault analysis. Fault analysis is a vital task for tele-application, which should be timely and properly handled. Fault analysis is also a complex task, that has many sub-tasks. Solving each task requires diverse tele-knowledge. Machine log data and product documents contain part of the tele-knowledge. We create a Tele-KG to organize other tele-knowledge from experts uniformly. With these valuable tele-knowledge …
-Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬
+--- 
+layout: post 
+title: "Tele-Knowledge Pre-training for Fault Analysis" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "Z Chen, W Zhang, Y Huang, M Chen, Y Geng, H Yu - arXiv preprint arXiv , 2022" 
+--- 
+In this work, we share our experience on tele-knowledge pre-training for fault analysis. Fault analysis is a vital task for tele-application, which should be timely and properly handled. Fault analysis is also a complex task, that has many sub-tasks. Solving each task requires diverse tele-knowledge. Machine log data and product documents contain part of the tele-knowledge. We create a Tele-KG to organize other tele-knowledge from experts uniformly. With these valuable tele-knowledge  Cites: TaBERT: Pretraining for joint understanding of textual and tabular

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generative Prompt Tuning for Relation Classification"
+date:   2022-10-26 13:20:27 -0400
+categories: jekyll update
+author: "J Han, S Zhao, B Cheng, S Ma, W Lu - arXiv preprint arXiv:2210.12435, 2022"
+---
+Using prompts to explore the knowledge contained within pre-trained language models for downstream tasks has now become an active topic. Current prompt tuning methods mostly convert the downstream tasks to masked language modeling problems by adding cloze-style phrases and mapping all labels to verbalizations with fixed length, which has proven effective for tasks with simple label spaces. However, when applied to relation classification exhibiting complex label spaces, vanilla …
+Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬

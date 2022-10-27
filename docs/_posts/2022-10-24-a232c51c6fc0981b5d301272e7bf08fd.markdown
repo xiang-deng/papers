@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Language Model Predictions via Prompts Enriched with Knowledge Graphs"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "R Brate, MH Dang, F Hoppe, Y He, A Meroño-Peñuela… - Workshop on Deep …, 2022"
----
-Despite advances in deep learning and knowledge graphs (KGs), using language models for natural language understanding and question answering remains a challenging task. Pre-trained language models (PLMs) have shown to be able to leverage contextual information, to complete cloze prompts, next sentence completion and question answering tasks in various domains. Unlike structured data querying in eg KGs, mapping an input question to data that may or may not be stored …
-Cites: ‪Noisy channel language model prompting for few-shot text …‬
+--- 
+layout: post 
+title: "Improving Language Model Predictions via Prompts Enriched with Knowledge Graphs" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "R Brate, MH Dang, F Hoppe, Y He, A Meroo-Peuela - Workshop on Deep , 2022" 
+--- 
+Despite advances in deep learning and knowledge graphs (KGs), using language models for natural language understanding and question answering remains a challenging task. Pre-trained language models (PLMs) have shown to be able to leverage contextual information, to complete cloze prompts, next sentence completion and question answering tasks in various domains. Unlike structured data querying in eg KGs, mapping an input question to data that may or may not be stored  Cites: Noisy channel language model prompting for few-shot text

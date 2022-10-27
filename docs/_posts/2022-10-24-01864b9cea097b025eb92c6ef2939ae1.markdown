@@ -1,9 +1,0 @@
----
-layout: post
-title:  "In pursuit of the hidden features of GNN s internal representations"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "L Veyrin-Forrer, A Kamal, S Duffner, M Plantevit… - Data & Knowledge …, 2022"
----
-We consider the problem of explaining Graph Neural Networks (GNNs). While most attempts aim at explaining the final decision of the model, we focus on the hidden layers to examine what the GNN actually captures and shed light on the hidden features built by the GNN. To that end, we first extract activation rules that identify sets of exceptionally co-activated neurons when classifying graphs in the same category. These rules define internal representations having a strong impact in the …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NL2SQL enhancement through semantic representation aggregation"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "L Long, Y Zhu, J Shao, Z Kong, J Li, Z Liu, X Zhang - 5th International Conference on …, 2022"
----
-Natural Language to SQL (NL2SQL) is a technology that converts natural language into executable SQL statements. For single table tasks, the dominant approach is a slot-filling-based model which actually performs multi-objective prediction. However, in existing multi-objective models, it is difficult to optimize multiple objectives simultaneously. Low correlation or conflict between various objectives can result in the model not being able to learn the parameters effectively. To effectively address …
-Cites: ‪GraPPa: Grammar-Augmented Pre-Training for Table Semantic …‬
+--- 
+layout: post 
+title: "NL2SQL enhancement through semantic representation aggregation" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "L Long, Y Zhu, J Shao, Z Kong, J Li, Z Liu, X Zhang - 5th International Conference on , 2022" 
+--- 
+Natural Language to SQL (NL2SQL) is a technology that converts natural language into executable SQL statements. For single table tasks, the dominant approach is a slot-filling-based model which actually performs multi-objective prediction. However, in existing multi-objective models, it is difficult to optimize multiple objectives simultaneously. Low correlation or conflict between various objectives can result in the model not being able to learn the parameters effectively. To effectively address  Cites: GraPPa: Grammar-Augmented Pre-Training for Table Semantic

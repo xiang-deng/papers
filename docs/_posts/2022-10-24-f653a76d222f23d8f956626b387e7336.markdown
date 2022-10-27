@@ -1,9 +1,8 @@
----
-layout: post
-title:  "$$\mathrm {D^ 2ADA} $$: Dynamic Density-Aware Active Domain Adaptation for Semantic Segmentation"
-date:   2022-10-24 23:22:19 -0400
-categories: jekyll update
-author: "TH Wu, YS Liou, SJ Yuan, HY Lee, TI Chen, KC Huang… - European Conference on …, 2022"
----
-In the field of domain adaptation, a trade-off exists between the model performance and the number of target domain annotations. Active learning, maximizing model performance with few informative labeled data, comes in handy for such a scenario. In this work, we present D 2 ADA, a general active domain adaptation framework for semantic segmentation. To adapt the model to the target domain with minimum queried labels, we propose acquiring labels of the samples with high probability …
-Cites: ‪Margin-based active learning for structured output spaces‬
+--- 
+layout: post 
+title: "$$\mathrm {D^ 2ADA} $$: Dynamic Density-Aware Active Domain Adaptation for Semantic Segmentation" 
+date: 2022-10-24 23:22:19 -0400 
+categories: jekyll update 
+author: "TH Wu, YS Liou, SJ Yuan, HY Lee, TI Chen, KC Huang - European Conference on , 2022" 
+--- 
+In the field of domain adaptation, a trade-off exists between the model performance and the number of target domain annotations. Active learning, maximizing model performance with few informative labeled data, comes in handy for such a scenario. In this work, we present D 2 ADA, a general active domain adaptation framework for semantic segmentation. To adapt the model to the target domain with minimum queried labels, we propose acquiring labels of the samples with high probability  Cites: Margin-based active learning for structured output spaces
