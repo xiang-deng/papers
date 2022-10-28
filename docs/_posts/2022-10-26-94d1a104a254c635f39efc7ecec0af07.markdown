@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "V Balachandran, H Hajishirzi, W Cohen, Y Tsvetkov - arXiv preprint arXiv:2210.12378, 2022"
----
-Abstractive summarization models often generate inconsistent summaries containing factual errors or hallucinated content. Recent works focus on correcting factual errors in generated summaries via post-editing. Such correction models are trained using adversarial non-factual summaries constructed using heuristic rules for injecting errors. However, generating non-factual summaries using heuristics often does not generalize well to actual model errors. In this work, we propose to generate hard …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "V Balachandran, H Hajishirzi, W Cohen, Y Tsvetkov - arXiv preprint arXiv:2210.12378, 2022" 
+--- 
+Abstractive summarization models often generate inconsistent summaries containing factual errors or hallucinated content. Recent works focus on correcting factual errors in generated summaries via post-editing. Such correction models are trained using adversarial non-factual summaries constructed using heuristic rules for injecting errors. However, generating non-factual summaries using heuristics often does not generalize well to actual model errors. In this work, we propose to generate hard  Cites: Text summarization with pretrained encoders

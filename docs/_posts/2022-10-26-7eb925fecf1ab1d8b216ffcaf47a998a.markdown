@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Scaling Heterogeneous Databases and the Design of Disco"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "L Raschid"
----
-Access to large numbers of data sources introduces new problems for users of heterogeneous distributed databases. End users and application programmers must deal with unavailable data sources. Database administrators must deal with incorporating new sources into the model. Database implementors must deal with the translation of queries between query languages and schemas. The Distributed Information Search COmponent (Disco) 1 addresses these problems. Query …
-Cites: ‪Data model and query evaluation in global information systems‬

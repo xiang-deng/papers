@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Empirical Revisiting of Linguistic Knowledge Fusion in Language Understanding Tasks"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "C Yu, T Xiao, L Kong, Y Song, W Ng - arXiv preprint arXiv:2210.13002, 2022"
----
-Though linguistic knowledge emerges during large-scale language model pretraining, recent work attempt to explicitly incorporate human-defined linguistic priors into task-specific fine-tuning. Infusing language models with syntactic or semantic knowledge from parsers has shown improvements on many language understanding tasks. To further investigate the effectiveness of structural linguistic priors, we conduct empirical study of replacing parsed graphs or trees with trivial …
-Cites: ‪Tree-structured attention with hierarchical accumulation‬
+--- 
+layout: post 
+title: "An Empirical Revisiting of Linguistic Knowledge Fusion in Language Understanding Tasks" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "C Yu, T Xiao, L Kong, Y Song, W Ng - arXiv preprint arXiv:2210.13002, 2022" 
+--- 
+Though linguistic knowledge emerges during large-scale language model pretraining, recent work attempt to explicitly incorporate human-defined linguistic priors into task-specific fine-tuning. Infusing language models with syntactic or semantic knowledge from parsers has shown improvements on many language understanding tasks. To further investigate the effectiveness of structural linguistic priors, we conduct empirical study of replacing parsed graphs or trees with trivial  Cites: Tree-structured attention with hierarchical accumulation

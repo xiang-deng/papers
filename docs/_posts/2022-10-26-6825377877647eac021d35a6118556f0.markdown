@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Structural generalization is hard for sequence-to-sequence models"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "Y Yao, A Koller - arXiv preprint arXiv:2210.13050, 2022"
----
-Sequence-to-sequence (seq2seq) models have been successful across many NLP tasks, including ones that require predicting linguistic structure. However, recent work on compositional generalization has shown that seq2seq models achieve very low accuracy in generalizing to linguistic structures that were not seen in training. We present new evidence that this is a general limitation of seq2seq models that is present not just in semantic parsing, but also in syntactic parsing and in text-to-text …
-Cites: ‪Disentangled sequence to sequence learning for compositional …‬
+--- 
+layout: post 
+title: "Structural generalization is hard for sequence-to-sequence models" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "Y Yao, A Koller - arXiv preprint arXiv:2210.13050, 2022" 
+--- 
+Sequence-to-sequence (seq2seq) models have been successful across many NLP tasks, including ones that require predicting linguistic structure. However, recent work on compositional generalization has shown that seq2seq models achieve very low accuracy in generalizing to linguistic structures that were not seen in training. We present new evidence that this is a general limitation of seq2seq models that is present not just in semantic parsing, but also in syntactic parsing and in text-to-text  Cites: Disentangled sequence to sequence learning for compositional

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "lo-fi: distributed fine-tuning without communication"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "M Wortsman, S Gururangan, S Li, A Farhadi, L Schmidt… - arXiv preprint arXiv …, 2022"
----
-When fine-tuning large neural networks, it is common to use multiple nodes and to communicate gradients at each optimization step. By contrast, we investigate completely local fine-tuning, which we refer to as lo-fi. During lo-fi, each node is fine-tuned independently without any communication. Then, the weights are averaged across nodes at the conclusion of fine-tuning. When fine-tuning DeiT-base and DeiT-large on ImageNet, this procedure matches accuracy in-distribution and improves …
-Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬
+--- 
+layout: post 
+title: "lo-fi: distributed fine-tuning without communication" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "M Wortsman, S Gururangan, S Li, A Farhadi, L Schmidt - arXiv preprint arXiv , 2022" 
+--- 
+When fine-tuning large neural networks, it is common to use multiple nodes and to communicate gradients at each optimization step. By contrast, we investigate completely local fine-tuning, which we refer to as lo-fi. During lo-fi, each node is fine-tuned independently without any communication. Then, the weights are averaged across nodes at the conclusion of fine-tuning. When fine-tuning DeiT-base and DeiT-large on ImageNet, this procedure matches accuracy in-distribution and improves  Cites: Branch-train-merge: Embarrassingly parallel training of expert

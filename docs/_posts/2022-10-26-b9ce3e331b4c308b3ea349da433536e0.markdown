@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "Y Hou, Z He, J McAuley, WX Zhao - arXiv preprint arXiv:2210.12316, 2022"
----
-Recently, the generality of natural language text has been leveraged to develop transferable recommender systems. The basic idea is to employ pre-trained language model (PLM) to encode item text into item representations. Despite the promising transferability, the binding between item text and item representations might be too tight, leading to potential problems such as over-emphasizing text similarity and exaggerating domain gaps. To address this issue, this paper proposes …
-Cites: ‪UPRec: User-Aware Pre-training for Recommender Systems‬
+--- 
+layout: post 
+title: "Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "Y Hou, Z He, J McAuley, WX Zhao - arXiv preprint arXiv:2210.12316, 2022" 
+--- 
+Recently, the generality of natural language text has been leveraged to develop transferable recommender systems. The basic idea is to employ pre-trained language model (PLM) to encode item text into item representations. Despite the promising transferability, the binding between item text and item representations might be too tight, leading to potential problems such as over-emphasizing text similarity and exaggerating domain gaps. To address this issue, this paper proposes  Cites: UPRec: User-Aware Pre-training for Recommender Systems

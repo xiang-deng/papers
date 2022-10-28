@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Composing Ensembles of Pre-trained Models via Iterative Consensus"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "S Li, Y Du, JB Tenenbaum, A Torralba, I Mordatch - arXiv preprint arXiv:2210.11522, 2022"
----
-Large pre-trained models exhibit distinct and complementary capabilities dependent on the data they are trained on. Language models such as GPT-3 are capable of textual reasoning but cannot understand visual information, while vision models such as DALL-E can generate photorealistic photos but fail to understand complex language descriptions. In this work, we propose a unified framework for composing ensembles of different pre-trained models--combining the strengths of each …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Composing Ensembles of Pre-trained Models via Iterative Consensus" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "S Li, Y Du, JB Tenenbaum, A Torralba, I Mordatch - arXiv preprint arXiv:2210.11522, 2022" 
+--- 
+Large pre-trained models exhibit distinct and complementary capabilities dependent on the data they are trained on. Language models such as GPT-3 are capable of textual reasoning but cannot understand visual information, while vision models such as DALL-E can generate photorealistic photos but fail to understand complex language descriptions. In this work, we propose a unified framework for composing ensembles of different pre-trained models--combining the strengths of each  Cites: Palm: Scaling language modeling with pathways

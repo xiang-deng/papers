@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MetaASSIST: Robust Dialogue State Tracking with Meta Learning"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "F Ye, X Wang, J Huang, S Li, S Stern, E Yilmaz - arXiv preprint arXiv:2210.12397, 2022"
----
-Existing dialogue datasets contain lots of noise in their state annotations. Such noise can hurt model training and ultimately lead to poor generalization performance. A general framework named ASSIST has recently been proposed to train robust dialogue state tracking (DST) models. It introduces an auxiliary model to generate pseudo labels for the noisy training set. These pseudo labels are combined with vanilla labels by a common fixed weighting parameter to train the primary DST …
-Cites: ‪In-Context Learning for Few-Shot Dialogue State Tracking‬
+--- 
+layout: post 
+title: "MetaASSIST: Robust Dialogue State Tracking with Meta Learning" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "F Ye, X Wang, J Huang, S Li, S Stern, E Yilmaz - arXiv preprint arXiv:2210.12397, 2022" 
+--- 
+Existing dialogue datasets contain lots of noise in their state annotations. Such noise can hurt model training and ultimately lead to poor generalization performance. A general framework named ASSIST has recently been proposed to train robust dialogue state tracking (DST) models. It introduces an auxiliary model to generate pseudo labels for the noisy training set. These pseudo labels are combined with vanilla labels by a common fixed weighting parameter to train the primary DST  Cites: In-Context Learning for Few-Shot Dialogue State Tracking

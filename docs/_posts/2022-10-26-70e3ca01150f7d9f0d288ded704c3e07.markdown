@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "VS Bursztyn, D Demeter, D Downey, L Birnbaum - arXiv preprint arXiv:2210.12607, 2022"
----
-How to usefully encode compositional task structure has long been a core challenge in AI. Recent work in chain of thought prompting has shown that for very large neural language models (LMs), explicitly demonstrating the inferential steps involved in a target task may improve performance over end-to-end learning that focuses on the target task alone. However, chain of thought prompting has significant limitations due to its dependency on huge pretrained LMs. In this work, we present compositional …
-Cites: ‪Unsupervised question decomposition for question answering‬
+--- 
+layout: post 
+title: "Learning to Perform Complex Tasks through Compositional Fine-Tuning of Language Models" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "VS Bursztyn, D Demeter, D Downey, L Birnbaum - arXiv preprint arXiv:2210.12607, 2022" 
+--- 
+How to usefully encode compositional task structure has long been a core challenge in AI. Recent work in chain of thought prompting has shown that for very large neural language models (LMs), explicitly demonstrating the inferential steps involved in a target task may improve performance over end-to-end learning that focuses on the target task alone. However, chain of thought prompting has significant limitations due to its dependency on huge pretrained LMs. In this work, we present compositional  Cites: Unsupervised question decomposition for question answering

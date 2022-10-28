@@ -5,4 +5,4 @@ date: 2022-10-24 23:22:19 -0400
 categories: jekyll update 
 author: "LF Cunha, JC Ramalho - 2022" 
 --- 
-In recent works, several NER models were developed to extract named entities from Portuguese Archival Finding Aids. In this paper, we are complementing the work already done by presenting a different NER model with a new architecture, Bidirectional Encoding Representation from Transformers (BERT). In order to do so, we used a BERT model that was pre-trained in Portuguese vocabulary and fine-tuned it to our concrete classification problem, NER. In the end, we compared the  Cites: Kristina, Toutanova
+In recent works, several NER models were developed to extract named entities from Portuguese Archival Finding Aids. In this paper, we are complementing the work already done by presenting a different NER model with a new architecture, Bidirectional Encoding Representation from Transformers (BERT). In order to do so, we used a BERT model that was pre-trained in Portuguese vocabulary and fine-tuned it to our concrete classification problem, NER. In the end, we compared the Cites: Kristina, Toutanova

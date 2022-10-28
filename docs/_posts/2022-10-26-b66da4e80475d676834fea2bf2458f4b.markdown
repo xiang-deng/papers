@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "X Wang, S Li, H Ji - arXiv preprint arXiv:2210.12810, 2022"
----
-Large Language Model (LLM) trained on the mixture of text and code has demonstrated impressive capability in translating natural language (NL) into structured code. In this work, we propose Code4Struct to leverage such text-to-structure translation capability to tackle structured prediction tasks in NLP. For example, Event Argument Extraction (EAE) aims to convert text into event-argument structures that can be represented as a class object using code. This alignment …
-Cites: ‪Language Models of Code are Few-Shot Commonsense Learners‬
+--- 
+layout: post 
+title: "Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "X Wang, S Li, H Ji - arXiv preprint arXiv:2210.12810, 2022" 
+--- 
+Large Language Model (LLM) trained on the mixture of text and code has demonstrated impressive capability in translating natural language (NL) into structured code. In this work, we propose Code4Struct to leverage such text-to-structure translation capability to tackle structured prediction tasks in NLP. For example, Event Argument Extraction (EAE) aims to convert text into event-argument structures that can be represented as a class object using code. This alignment  Cites: Language Models of Code are Few-Shot Commonsense Learners

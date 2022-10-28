@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge Transfer from Answer Ranking to Answer Generation"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "M Gabburo, R Koncel-Kedziorski, S Garg, L Soldaini… - arXiv preprint arXiv …, 2022"
----
-Recent studies show that Question Answering (QA) based on Answer Sentence Selection (AS2) can be improved by generating an improved answer from the top-k ranked answer sentences (termed GenQA). This allows for synthesizing the information from multiple candidates into a concise, natural-sounding answer. However, creating large-scale supervised training data for GenQA models is very challenging. In this paper, we propose to train a GenQA model by transferring …
-Cites: ‪Retrieval-augmented generation for knowledge-intensive NLP tasks‬
+--- 
+layout: post 
+title: "Knowledge Transfer from Answer Ranking to Answer Generation" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "M Gabburo, R Koncel-Kedziorski, S Garg, L Soldaini - arXiv preprint arXiv , 2022" 
+--- 
+Recent studies show that Question Answering (QA) based on Answer Sentence Selection (AS2) can be improved by generating an improved answer from the top-k ranked answer sentences (termed GenQA). This allows for synthesizing the information from multiple candidates into a concise, natural-sounding answer. However, creating large-scale supervised training data for GenQA models is very challenging. In this paper, we propose to train a GenQA model by transferring  Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

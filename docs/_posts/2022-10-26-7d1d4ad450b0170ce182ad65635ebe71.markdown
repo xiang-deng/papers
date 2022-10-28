@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text Editing as Imitation Game"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "N Shi, B Tang, B Yuan, L Huang, Y Pu, J Fu, Z Lin - arXiv preprint arXiv:2210.12276, 2022"
----
-Text editing, such as grammatical error correction, arises naturally from imperfect textual data. Recent works frame text editing as a multi-round sequence tagging task, where operations--such as insertion and substitution--are represented as a sequence of tags. While achieving good results, this encoding is limited in flexibility as all actions are bound to token-level tags. In this work, we reformulate text editing as an imitation game using behavioral cloning. Specifically, we convert conventional …
-Cites: ‪Learning structural edits via incremental tree transformations‬
+--- 
+layout: post 
+title: "Text Editing as Imitation Game" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "N Shi, B Tang, B Yuan, L Huang, Y Pu, J Fu, Z Lin - arXiv preprint arXiv:2210.12276, 2022" 
+--- 
+Text editing, such as grammatical error correction, arises naturally from imperfect textual data. Recent works frame text editing as a multi-round sequence tagging task, where operations--such as insertion and substitution--are represented as a sequence of tags. While achieving good results, this encoding is limited in flexibility as all actions are bound to token-level tags. In this work, we reformulate text editing as an imitation game using behavioral cloning. Specifically, we convert conventional  Cites: Learning structural edits via incremental tree transformations

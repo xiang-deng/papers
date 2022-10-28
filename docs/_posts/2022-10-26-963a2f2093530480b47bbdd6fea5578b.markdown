@@ -1,9 +1,8 @@
----
-layout: post
-title:  "WikiWhy: Answering and Explaining Cause-and-Effect Questions"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "M Ho, A Sharma, J Chang, M Saxon, S Levy, Y Lu… - arXiv preprint arXiv …, 2022"
----
-As large language models (LLMs) grow larger and more sophisticated, assessing their  reasoning  capabilities in natural language grows more challenging. Recent question answering (QA) benchmarks that attempt to assess reasoning are often limited by a narrow scope of covered situations and subject matters. We introduce WikiWhy, a QA dataset built around a novel auxiliary task: explaining why an answer is true in natural language. WikiWhy contains over 9,000  why  question-answer …
-Cites: ‪The abduction of sherlock holmes: A dataset for visual abductive …‬
+--- 
+layout: post 
+title: "WikiWhy: Answering and Explaining Cause-and-Effect Questions" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "M Ho, A Sharma, J Chang, M Saxon, S Levy, Y Lu - arXiv preprint arXiv , 2022" 
+--- 
+As large language models (LLMs) grow larger and more sophisticated, assessing their reasoning capabilities in natural language grows more challenging. Recent question answering (QA) benchmarks that attempt to assess reasoning are often limited by a narrow scope of covered situations and subject matters. We introduce WikiWhy, a QA dataset built around a novel auxiliary task: explaining why an answer is true in natural language. WikiWhy contains over 9,000 why question-answer  Cites: The abduction of sherlock holmes: A dataset for visual abductive

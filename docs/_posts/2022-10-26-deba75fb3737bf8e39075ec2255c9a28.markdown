@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Controlled Text Reduction"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "A Slobodkin, P Roit, E Hirsch, O Ernst, I Dagan - arXiv preprint arXiv:2210.13449, 2022"
----
-Producing a reduced version of a source text, as in generic or focused summarization, inherently involves two distinct subtasks: deciding on targeted content and generating a coherent text conveying it. While some popular approaches address summarization as a single end-to-end task, prominent works support decomposed modeling for individual subtasks. Further, semi-automated text reduction is also very appealing, where users may identify targeted content while …
-Cites: ‪Text summarization with latent queries‬
+--- 
+layout: post 
+title: "Controlled Text Reduction" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "A Slobodkin, P Roit, E Hirsch, O Ernst, I Dagan - arXiv preprint arXiv:2210.13449, 2022" 
+--- 
+Producing a reduced version of a source text, as in generic or focused summarization, inherently involves two distinct subtasks: deciding on targeted content and generating a coherent text conveying it. While some popular approaches address summarization as a single end-to-end task, prominent works support decomposed modeling for individual subtasks. Further, semi-automated text reduction is also very appealing, where users may identify targeted content while  Cites: Text summarization with latent queries

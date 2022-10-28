@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Varifocal Question Generation for Fact-checking"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "N Ousidhoum, Z Yuan, A Vlachos - arXiv preprint arXiv:2210.12400, 2022"
----
-Fact-checking requires retrieving evidence related to a claim under investigation. The task can be formulated as question generation based on a claim, followed by question answering. However, recent question generation approaches assume that the answer is known and typically contained in a passage given as input, whereas such passages are what is being sought when verifying a claim. In this paper, we present {\it Varifocal}, a method that generates questions based on different focal …
-Cites: ‪Paq: 65 million probably-asked questions and what you can do …‬
+--- 
+layout: post 
+title: "Varifocal Question Generation for Fact-checking" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "N Ousidhoum, Z Yuan, A Vlachos - arXiv preprint arXiv:2210.12400, 2022" 
+--- 
+Fact-checking requires retrieving evidence related to a claim under investigation. The task can be formulated as question generation based on a claim, followed by question answering. However, recent question generation approaches assume that the answer is known and typically contained in a passage given as input, whereas such passages are what is being sought when verifying a claim. In this paper, we present {\it Varifocal}, a method that generates questions based on different focal  Cites: Paq: 65 million probably-asked questions and what you can do

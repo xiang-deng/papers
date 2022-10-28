@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Analysis of Fusion Functions for Hybrid Retrieval"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "S Bruch, S Gai, A Ingber - arXiv preprint arXiv:2210.11934, 2022"
----
-We study hybrid search in text retrieval where lexical and semantic search are fused together with the intuition that the two are complementary in how they model relevance. In particular, we examine fusion by a convex combination (CC) of lexical and semantic scores, as well as the Reciprocal Rank Fusion (RRF) method, and identify their advantages and potential pitfalls. Contrary to existing studies, we find RRF to be sensitive to its parameters; that the learning of a CC fusion is generally …
-Cites: ‪Sparse, dense, and attentional representations for text retrieval‬
+--- 
+layout: post 
+title: "An Analysis of Fusion Functions for Hybrid Retrieval" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "S Bruch, S Gai, A Ingber - arXiv preprint arXiv:2210.11934, 2022" 
+--- 
+We study hybrid search in text retrieval where lexical and semantic search are fused together with the intuition that the two are complementary in how they model relevance. In particular, we examine fusion by a convex combination (CC) of lexical and semantic scores, as well as the Reciprocal Rank Fusion (RRF) method, and identify their advantages and potential pitfalls. Contrary to existing studies, we find RRF to be sensitive to its parameters; that the learning of a CC fusion is generally  Cites: Sparse, dense, and attentional representations for text retrieval

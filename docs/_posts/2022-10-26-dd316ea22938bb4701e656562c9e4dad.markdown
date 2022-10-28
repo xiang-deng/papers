@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Identifying Human Strategies for Generating Word-Level Adversarial Examples"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "M Mozes, B Kleinberg, LD Griffin - arXiv preprint arXiv:2210.11598, 2022"
----
-Adversarial examples in NLP are receiving increasing research attention. One line of investigation is the generation of word-level adversarial examples against fine-tuned Transformer models that preserve naturalness and grammaticality. Previous work found that human-and machine-generated adversarial examples are comparable in their naturalness and grammatical correctness. Most notably, humans were able to generate adversarial examples much more effortlessly than automated attacks. In …
-Cites: ‪Semantically Equivalent Adversarial Rules for Debugging NLP …‬
+--- 
+layout: post 
+title: "Identifying Human Strategies for Generating Word-Level Adversarial Examples" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "M Mozes, B Kleinberg, LD Griffin - arXiv preprint arXiv:2210.11598, 2022" 
+--- 
+Adversarial examples in NLP are receiving increasing research attention. One line of investigation is the generation of word-level adversarial examples against fine-tuned Transformer models that preserve naturalness and grammaticality. Previous work found that human-and machine-generated adversarial examples are comparable in their naturalness and grammatical correctness. Most notably, humans were able to generate adversarial examples much more effortlessly than automated attacks. In  Cites: Semantically Equivalent Adversarial Rules for Debugging NLP

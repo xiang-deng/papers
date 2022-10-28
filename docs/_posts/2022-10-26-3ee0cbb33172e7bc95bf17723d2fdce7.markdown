@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interactive inference: a multi-agent model of cooperative joint actions"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "D Maisto, F Donnarumma, G Pezzulo - arXiv preprint arXiv:2210.13113, 2022"
----
-We advance a novel computational model of multi-agent, cooperative joint actions that is grounded in the cognitive framework of active inference. The model assumes that to solve a joint task, such as pressing together a red or blue button, two (or more) agents engage in a process of interactive inference. Each agent maintains probabilistic beliefs about the goal of the joint task (eg, should we press the red or blue button?) and updates them by observing the other agent s movements, while in …
-Cites: ‪Legibility and predictability of robot motion‬
+--- 
+layout: post 
+title: "Interactive inference: a multi-agent model of cooperative joint actions" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "D Maisto, F Donnarumma, G Pezzulo - arXiv preprint arXiv:2210.13113, 2022" 
+--- 
+We advance a novel computational model of multi-agent, cooperative joint actions that is grounded in the cognitive framework of active inference. The model assumes that to solve a joint task, such as pressing together a red or blue button, two (or more) agents engage in a process of interactive inference. Each agent maintains probabilistic beliefs about the goal of the joint task (eg, should we press the red or blue button?) and updates them by observing the other agent s movements, while in  Cites: Legibility and predictability of robot motion

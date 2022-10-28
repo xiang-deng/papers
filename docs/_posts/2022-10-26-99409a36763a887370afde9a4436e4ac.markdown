@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Extracted BERT Model Leaks More Information than You Think!"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "X He, C Chen, L Lyu, Q Xu - arXiv preprint arXiv:2210.11735, 2022"
----
-The collection and availability of big data, combined with advances in pre-trained models (eg BERT), have revolutionized the predictive performance of natural language processing tasks. This allows corporations to provide machine learning as a service (MLaaS) by encapsulating fine-tuned BERT-based models as APIs. Due to significant commercial interest, there has been a surge of attempts to steal re mote services via model extraction. Although previous works have made progress in …
-Cites: ‪Thieves on Sesame Street! Model Extraction of BERT-based APIs‬
+--- 
+layout: post 
+title: "Extracted BERT Model Leaks More Information than You Think!" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "X He, C Chen, L Lyu, Q Xu - arXiv preprint arXiv:2210.11735, 2022" 
+--- 
+The collection and availability of big data, combined with advances in pre-trained models (eg BERT), have revolutionized the predictive performance of natural language processing tasks. This allows corporations to provide machine learning as a service (MLaaS) by encapsulating fine-tuned BERT-based models as APIs. Due to significant commercial interest, there has been a surge of attempts to steal re mote services via model extraction. Although previous works have made progress in  Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

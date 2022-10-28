@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PATS: Sensitivity-aware Noisy Learning for Pretrained Language Models"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "Y Zhang, H Zhang, S Wang, W Wu, Z Li - arXiv preprint arXiv:2210.12403, 2022"
----
-A wide range of NLP tasks benefit from the fine-tuning of pretrained language models (PLMs). However, a number of redundant parameters which contribute less to the downstream task are observed in a directly fine-tuned model. We consider the gap between pretraining and downstream tasks hinders the training of these redundant parameters, and results in a suboptimal performance of the overall model. In this paper, we present PATS (Perturbation According To Sensitivity), a noisy …
-Cites: ‪Pre-Training Transformers as Energy-Based Cloze Models‬
+--- 
+layout: post 
+title: "PATS: Sensitivity-aware Noisy Learning for Pretrained Language Models" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "Y Zhang, H Zhang, S Wang, W Wu, Z Li - arXiv preprint arXiv:2210.12403, 2022" 
+--- 
+A wide range of NLP tasks benefit from the fine-tuning of pretrained language models (PLMs). However, a number of redundant parameters which contribute less to the downstream task are observed in a directly fine-tuned model. We consider the gap between pretraining and downstream tasks hinders the training of these redundant parameters, and results in a suboptimal performance of the overall model. In this paper, we present PATS (Perturbation According To Sensitivity), a noisy  Cites: Pre-Training Transformers as Energy-Based Cloze Models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Different Tunes Played with Equal Skill: Exploring a Unified Optimization Subspace for Delta Tuning"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "J Yi, W Chen, Y Qin, Y Lin, N Ding, X Han, Z Liu, M Sun… - arXiv preprint arXiv …, 2022"
----
-Delta tuning (DET, also known as parameter-efficient tuning) is deemed as the new paradigm for using pre-trained language models (PLMs). Up to now, various DETs with distinct design elements have been proposed, achieving performance on par with fine-tuning. However, the mechanisms behind the above success are still under-explored, especially the connections among various DETs. To fathom the mystery, we hypothesize that the adaptations of different DETs could all be reparameterized …
-Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬
+--- 
+layout: post 
+title: "Different Tunes Played with Equal Skill: Exploring a Unified Optimization Subspace for Delta Tuning" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "J Yi, W Chen, Y Qin, Y Lin, N Ding, X Han, Z Liu, M Sun - arXiv preprint arXiv , 2022" 
+--- 
+Delta tuning (DET, also known as parameter-efficient tuning) is deemed as the new paradigm for using pre-trained language models (PLMs). Up to now, various DETs with distinct design elements have been proposed, achieving performance on par with fine-tuning. However, the mechanisms behind the above success are still under-explored, especially the connections among various DETs. To fathom the mystery, we hypothesize that the adaptations of different DETs could all be reparameterized  Cites: Unipelt: A unified framework for parameter-efficient language

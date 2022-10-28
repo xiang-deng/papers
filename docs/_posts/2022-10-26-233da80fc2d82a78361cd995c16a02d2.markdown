@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "O Tafjord, BD Mishra, P Clark - arXiv preprint arXiv:2210.12217, 2022"
----
-Our goal is a question-answering (QA) system that can show how its answers are implied by its own internal beliefs via a systematic chain of reasoning. Such a capability would allow better understanding of why a model produced the answer it did. Our approach is to recursively combine a trained backward-chaining model, capable of generating a set of premises entailing an answer hypothesis, with a verifier that checks that the model itself believes those premises (and the entailment …
-Cites: ‪Fast model editing at scale‬
+--- 
+layout: post 
+title: "Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "O Tafjord, BD Mishra, P Clark - arXiv preprint arXiv:2210.12217, 2022" 
+--- 
+Our goal is a question-answering (QA) system that can show how its answers are implied by its own internal beliefs via a systematic chain of reasoning. Such a capability would allow better understanding of why a model produced the answer it did. Our approach is to recursively combine a trained backward-chaining model, capable of generating a set of premises entailing an answer hypothesis, with a verifier that checks that the model itself believes those premises (and the entailment  Cites: Fast model editing at scale

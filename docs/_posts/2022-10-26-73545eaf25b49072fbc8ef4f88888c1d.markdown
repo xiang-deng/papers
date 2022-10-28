@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "Q Liu, Z Ye, T Yu, P Blunsom, L Song - arXiv preprint arXiv:2210.12096, 2022"
----
-The task of context-dependent text-to-SQL aims to convert multi-turn user utterances to formal SQL queries. This is a challenging task due to both the scarcity of training data from which to learn complex contextual dependencies and to generalize to unseen databases. In this paper we explore augmenting the training datasets using self-play, which leverages contextual information to synthesize new interactions to adapt the model to new databases. We first design a SQL-to-text model conditioned …
-Cites: ‪Lingpeng Kong, Rui Zhang, Noah A‬
+--- 
+layout: post 
+title: "Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "Q Liu, Z Ye, T Yu, P Blunsom, L Song - arXiv preprint arXiv:2210.12096, 2022" 
+--- 
+The task of context-dependent text-to-SQL aims to convert multi-turn user utterances to formal SQL queries. This is a challenging task due to both the scarcity of training data from which to learn complex contextual dependencies and to generalize to unseen databases. In this paper we explore augmenting the training datasets using self-play, which leverages contextual information to synthesize new interactions to adapt the model to new databases. We first design a SQL-to-text model conditioned  Cites: Lingpeng Kong, Rui Zhang, Noah A

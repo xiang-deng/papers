@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Is Encoder-Decoder Redundant for Neural Machine Translation?"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "Y Gao, C Herold, Z Yang, H Ney - arXiv preprint arXiv:2210.11807, 2022"
----
-Encoder-decoder architecture is widely adopted for sequence-to-sequence modeling tasks. For machine translation, despite the evolution from long short-term memory networks to Transformer networks, plus the introduction and development of attention mechanism, encoder-decoder is still the de facto neural network architecture for state-of-the-art models. While the motivation for decoding information from some hidden space is straightforward, the strict separation of the encoding and decoding steps …
-Cites: ‪Should You Mask 15% in Masked Language Modeling?‬
+--- 
+layout: post 
+title: "Is Encoder-Decoder Redundant for Neural Machine Translation?" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "Y Gao, C Herold, Z Yang, H Ney - arXiv preprint arXiv:2210.11807, 2022" 
+--- 
+Encoder-decoder architecture is widely adopted for sequence-to-sequence modeling tasks. For machine translation, despite the evolution from long short-term memory networks to Transformer networks, plus the introduction and development of attention mechanism, encoder-decoder is still the de facto neural network architecture for state-of-the-art models. While the motivation for decoding information from some hidden space is straightforward, the strict separation of the encoding and decoding steps  Cites: Should You Mask 15% in Masked Language Modeling?

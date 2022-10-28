@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "K Ma, H Cheng, X Liu, E Nyberg, J Gao - arXiv preprint arXiv:2210.12338, 2022"
----
-We propose a novel open-domain question answering (ODQA) framework for answering single/multi-hop questions across heterogeneous knowledge sources. The key novelty of our method is the introduction of the intermediary modules into the current retriever-reader pipeline. Unlike previous methods that solely rely on the retriever for gathering all evidence in isolation, our intermediary performs a chain of reasoning over the retrieved set. Specifically, our method links the retrieved evidence …
-Cites: ‪Answering Open-Domain Questions of Varying Reasoning Steps …‬
+--- 
+layout: post 
+title: "Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "K Ma, H Cheng, X Liu, E Nyberg, J Gao - arXiv preprint arXiv:2210.12338, 2022" 
+--- 
+We propose a novel open-domain question answering (ODQA) framework for answering single/multi-hop questions across heterogeneous knowledge sources. The key novelty of our method is the introduction of the intermediary modules into the current retriever-reader pipeline. Unlike previous methods that solely rely on the retriever for gathering all evidence in isolation, our intermediary performs a chain of reasoning over the retrieved set. Specifically, our method links the retrieved evidence  Cites: Answering Open-Domain Questions of Varying Reasoning Steps

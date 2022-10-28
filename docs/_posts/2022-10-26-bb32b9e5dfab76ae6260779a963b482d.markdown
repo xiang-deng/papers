@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "C Yang, Q Wu, J Yan - arXiv preprint arXiv:2210.13014, 2022"
----
-We study a new paradigm of knowledge transfer that aims at encoding graph topological information into graph neural networks (GNNs) by distilling knowledge from a teacher GNN model trained on a complete graph to a student GNN model operating on a smaller or sparser graph. To this end, we revisit the connection between thermodynamics and the behavior of GNN, based on which we propose Neural Heat Kernel (NHK) to encapsulate the geometric property of the underlying …
-Cites: ‪Recommender systems with social regularization‬
+--- 
+layout: post 
+title: "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "C Yang, Q Wu, J Yan - arXiv preprint arXiv:2210.13014, 2022" 
+--- 
+We study a new paradigm of knowledge transfer that aims at encoding graph topological information into graph neural networks (GNNs) by distilling knowledge from a teacher GNN model trained on a complete graph to a student GNN model operating on a smaller or sparser graph. To this end, we revisit the connection between thermodynamics and the behavior of GNN, based on which we propose Neural Heat Kernel (NHK) to encapsulate the geometric property of the underlying  Cites: Recommender systems with social regularization

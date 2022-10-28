@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FCM: Forgetful Causal Masking Makes Causal Language Models Better Zero-Shot Learners"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "H Liu, X Geng, L Lee, I Mordatch, S Levine, S Narang… - arXiv preprint arXiv …, 2022"
----
-Large language models (LLM) trained using the next-token-prediction objective, such as GPT3 and PaLM, have revolutionized natural language processing in recent years by showing impressive zero-shot and few-shot capabilities across a wide range of tasks. In this work, we propose a simple technique that significantly boosts the performance of LLMs without adding computational cost. Our key observation is that, by performing the next token prediction task with randomly selected past tokens …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "FCM: Forgetful Causal Masking Makes Causal Language Models Better Zero-Shot Learners" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "H Liu, X Geng, L Lee, I Mordatch, S Levine, S Narang - arXiv preprint arXiv , 2022" 
+--- 
+Large language models (LLM) trained using the next-token-prediction objective, such as GPT3 and PaLM, have revolutionized natural language processing in recent years by showing impressive zero-shot and few-shot capabilities across a wide range of tasks. In this work, we propose a simple technique that significantly boosts the performance of LLMs without adding computational cost. Our key observation is that, by performing the next token prediction task with randomly selected past tokens  Cites: Palm: Scaling language modeling with pathways

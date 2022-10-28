@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Diffuser: Efficient Transformers with Multi-hop Attention Diffusion for Long Sequences"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "A Feng, I Li, Y Jiang, R Ying - arXiv preprint arXiv:2210.11794, 2022"
----
-Efficient Transformers have been developed for long sequence modeling, due to their subquadratic memory and time complexity. Sparse Transformer is a popular approach to improving the efficiency of Transformers by restricting self-attention to locations specified by the predefined sparse patterns. However, leveraging sparsity may sacrifice expressiveness compared to full-attention, when important token correlations are multiple hops away. To combine advantages of both the efficiency of …
-Cites: ‪Random feature attention‬
+--- 
+layout: post 
+title: "Diffuser: Efficient Transformers with Multi-hop Attention Diffusion for Long Sequences" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "A Feng, I Li, Y Jiang, R Ying - arXiv preprint arXiv:2210.11794, 2022" 
+--- 
+Efficient Transformers have been developed for long sequence modeling, due to their subquadratic memory and time complexity. Sparse Transformer is a popular approach to improving the efficiency of Transformers by restricting self-attention to locations specified by the predefined sparse patterns. However, leveraging sparsity may sacrifice expressiveness compared to full-attention, when important token correlations are multiple hops away. To combine advantages of both the efficiency of  Cites: Random feature attention

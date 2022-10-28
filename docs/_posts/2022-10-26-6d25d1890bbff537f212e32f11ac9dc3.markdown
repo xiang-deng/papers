@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts"
-date:   2022-10-26 13:20:27 -0400
-categories: jekyll update
-author: "R Mukherjee, A Bohra, A Banerjee, S Sharma… - arXiv preprint arXiv …, 2022"
----
-Despite tremendous progress in automatic summarization, state-of-the-art methods are predominantly trained to excel in summarizing short newswire articles, or documents with strong layout biases such as scientific articles or government reports. Efficient techniques to summarize financial documents, including facts and figures, have largely been unexplored, majorly due to the unavailability of suitable datasets. In this work, we present ECTSum, a new dataset with transcripts of earnings calls …
-Cites: ‪Aspect-controllable opinion summarization‬
+--- 
+layout: post 
+title: "ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts" 
+date: 2022-10-26 13:20:27 -0400 
+categories: jekyll update 
+author: "R Mukherjee, A Bohra, A Banerjee, S Sharma - arXiv preprint arXiv , 2022" 
+--- 
+Despite tremendous progress in automatic summarization, state-of-the-art methods are predominantly trained to excel in summarizing short newswire articles, or documents with strong layout biases such as scientific articles or government reports. Efficient techniques to summarize financial documents, including facts and figures, have largely been unexplored, majorly due to the unavailability of suitable datasets. In this work, we present ECTSum, a new dataset with transcripts of earnings calls  Cites: Aspect-controllable opinion summarization
