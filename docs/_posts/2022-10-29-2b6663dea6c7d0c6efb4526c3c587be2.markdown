@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BERTPerf: Inference Latency Predictor for BERT on ARM big. LITTLE Multi-Core Processors"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "M Abdelgawad, SH Mozafari, JJ Clark, BH Meyer… - 2022 IEEE Workshop on …, 2022"
+---
+Hardware-aware Neural Architecture Search (NAS) and mapping & scheduling optimization methods are being used to find efficient implementations of computationally-intense language models such as BERT. This requires measuring real hardware inference latency: good design decisions simply cannot be made with proxy metrics such as FLOPs or the number of parameters. However, the time required to perform on-device latency measurements is prohibitive (eg, a few days to …
+Cites: ‪Well-read students learn better: On the importance of pre-training …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "V Zhong, W Shi, W Yih, L Zettlemoyer - arXiv preprint arXiv:2210.14353, 2022"
+---
+We introduce RoMQA, the first benchmark for robust, multi-evidence, multi-answer question answering (QA). RoMQA contains clusters of questions that are derived from related constraints mined from the Wikidata knowledge graph. RoMQA evaluates robustness of QA models to varying constraints by measuring worst-case performance within each question cluster. Compared to prior QA datasets, RoMQA has more human-written questions that require reasoning over more evidence text …
+Cites: ‪Noisy channel language model prompting for few-shot text …‬

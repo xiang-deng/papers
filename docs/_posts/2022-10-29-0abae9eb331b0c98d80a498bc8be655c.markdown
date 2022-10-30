@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Categorical SDEs with Simplex Diffusion"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "PH Richemond, S Dieleman, A Doucet - arXiv preprint arXiv:2210.14784, 2022"
+---
+Diffusion models typically operate in the standard framework of generative modelling by producing continuously-valued datapoints. To this end, they rely on a progressive Gaussian smoothing of the original data distribution, which admits an SDE interpretation involving increments of a standard Brownian motion. However, some applications such as text generation or reinforcement learning might naturally be better served by diffusing categorical-valued data, ie, lifting the diffusion to a space of …
+Cites: ‪Diffusion-LM Improves Controllable Text Generation‬

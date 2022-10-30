@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "E Mitchell, JJ Noh, S Li, WS Armstrong, A Agarwal…"
+---
+While large pre-trained language models are powerful, their predictions often lack logical consistency across test inputs. For example, a state-of-the-art Macaw question-answering (QA) model answers Yes to Is a sparrow a bird? and Does a bird have feet? but answers No to Does a sparrow have feet?. To address this failure mode, we propose a framework, Consistency Correction through Relation Detection, or ConCoRD, for boosting the consistency and accuracy of pre-trained NLP models …
+Cites: ‪Can NLI Models Verify QA Systems  Predictions?‬

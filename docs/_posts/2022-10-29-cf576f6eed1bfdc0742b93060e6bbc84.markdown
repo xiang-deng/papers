@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Interpretable hierarchical symbolic regression for safety-critical systems with an application to highway crash prediction"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "T Veran, PE Portier, F Fouquet - Engineering Applications of Artificial Intelligence, 2023"
+---
+We introduce a framework to discover interpretable regression models for high-stakes decision making in the context of safety-critical systems. The core of our proposal is a multi-objective hierarchical symbolic regression algorithm able to compute cluster-specific rankings of regression models ordered by increasing complexity. We discover the hierarchical structure by clustering the features  importances of a post-hoc explainability framework (viz., SHAP) applied to a highly …
+Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬

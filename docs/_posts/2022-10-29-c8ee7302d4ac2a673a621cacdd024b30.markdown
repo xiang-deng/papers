@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dual global-aware propagation for few-shot learning"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "Z Cui, N Lu, W Wang, G Guo - Image and Vision Computing, 2022"
+---
+Few-shot learning remains a challenging problem because it needs to classify unseen categories with only a few samples as limited supervision. The tasks and samples can be extremely different in various few-shot problems, which makes it even more difficult. Due to the local connectivity in CNN, it can not capture the global description of the samples and the features are not discriminative enough from a global viewpoint. Meanwhile, a sample usually reveals similar features in different …
+Cites: ‪Learning with Local and Global Consistency.‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "C Wang, X Liu, D Song - arXiv preprint arXiv:2210.14128, 2022"
+---
+We introduce a new open information extraction (OIE) benchmark for pre-trained language models (LM). Recent studies have demonstrated that pre-trained LMs, such as BERT and GPT, may store linguistic and relational knowledge. In particular, LMs are able to answer``fill-in-the-blank  questions when given a pre-defined relation category. Instead of focusing on pre-defined relations, we create an OIE benchmark aiming to fully examine the open relational information present in the pre-trained …
+Cites: ‪How can we know what language models know?‬

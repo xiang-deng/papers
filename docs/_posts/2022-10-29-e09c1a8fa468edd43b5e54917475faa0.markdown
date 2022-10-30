@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Inducer-tuning: Connecting Prefix-tuning and Adapter-tuning"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "Y Chen, D Hazarika, M Namazifar, Y Liu, D Jin… - arXiv preprint arXiv …, 2022"
+---
+Prefix-tuning, or more generally continuous prompt tuning, has become an essential paradigm of parameter-efficient transfer learning. Using a large pre-trained language model (PLM), prefix-tuning can obtain strong performance by training only a small portion of parameters. In this paper, we propose to understand and further develop prefix-tuning through the kernel lens. Specifically, we make an analogy between\textit {prefixes} and\textit {inducing variables} in kernel methods and …
+Cites: ‪Deep contextualized word representations‬

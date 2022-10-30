@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generation Probabilities are Not Enough: Improving Error Highlighting for AI Code Suggestions"
+date:   2022-10-29 01:49:44 -0400
+categories: jekyll update
+author: "H Vasconcelos, G Bansal, A Fourney, QV Liao…"
+---
+Large-scale generative models are increasingly being used in tooling applications. As one prominent example, code generation models, such as Copilot [8], CodeWhisperer [1], and AlphaCode [7], recommend code completions within an IDE to help programmers author software. However, since these models are imperfect, their erroneous recommendations can introduce bugs or even security vulnerabilities into a code base if not overridden by a human user [14]. In order to override such …
+Cites: ‪Does the whole exceed its parts? the effect of ai explanations on …‬
