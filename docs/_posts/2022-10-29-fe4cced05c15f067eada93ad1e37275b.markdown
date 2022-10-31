@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Benchmarking Language Models for Code Syntax Understanding"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "D Shen, X Chen, C Wang, K Sen, D Song - arXiv preprint arXiv:2210.14473, 2022"
----
-Pre-trained language models have demonstrated impressive performance in both natural language processing and program understanding, which represent the input as a token sequence without explicitly modeling its structure. Some prior works show that pre-trained language models can capture the syntactic rules of natural languages without finetuning on syntax understanding tasks. However, there is limited understanding of how well pre-trained models understand the code structure …
-Cites: ‪Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming …‬
+--- 
+layout: post 
+title: "Benchmarking Language Models for Code Syntax Understanding" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "D Shen, X Chen, C Wang, K Sen, D Song - arXiv preprint arXiv:2210.14473, 2022" 
+--- 
+Pre-trained language models have demonstrated impressive performance in both natural language processing and program understanding, which represent the input as a token sequence without explicitly modeling its structure. Some prior works show that pre-trained language models can capture the syntactic rules of natural languages without finetuning on syntax understanding tasks. However, there is limited understanding of how well pre-trained models understand the code structure  Cites: Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming

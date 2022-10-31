@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Formal Approximated Minimal Explanations of Neural Networks"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "S Bassan, G Katz - arXiv preprint arXiv:2210.13915, 2022"
----
-With the rapid growth of machine learning, deep neural networks (DNNs) are now being used in numerous domains. Unfortunately, DNNs are  black-boxes , and cannot be interpreted by humans, which is a substantial concern in safety-critical systems. To mitigate this issue, researchers have begun working on explainable AI (XAI) methods, which can identify a subset of input features that are the cause of a DNN s decision for a given input. Most existing techniques are heuristic, and cannot …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Towards Formal Approximated Minimal Explanations of Neural Networks" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "S Bassan, G Katz - arXiv preprint arXiv:2210.13915, 2022" 
+--- 
+With the rapid growth of machine learning, deep neural networks (DNNs) are now being used in numerous domains. Unfortunately, DNNs are black-boxes , and cannot be interpreted by humans, which is a substantial concern in safety-critical systems. To mitigate this issue, researchers have begun working on explainable AI (XAI) methods, which can identify a subset of input features that are the cause of a DNN s decision for a given input. Most existing techniques are heuristic, and cannot  Cites: Anchors: High-Precision Model-Agnostic Explanations

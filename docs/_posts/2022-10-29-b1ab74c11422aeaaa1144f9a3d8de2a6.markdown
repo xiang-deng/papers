@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ReSel: N-ary Relation Extraction from Scientific Text and Tables by Learning to Retrieve and Select"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "Y Zhuang, Y Li, JJ Cheung, Y Yu, Y Mou, X Chen… - arXiv preprint arXiv …, 2022"
----
-We study the problem of extracting N-ary relation tuples from scientific articles. This task is challenging because the target knowledge tuples can reside in multiple parts and modalities of the document. Our proposed method ReSel decomposes this task into a two-stage procedure that first retrieves the most relevant paragraph/table and then selects the target entity from the retrieved component. For the high-level retrieval stage, ReSel designs a simple and effective feature set, which captures …
-Cites: ‪TaBERT: Pretraining for Joint Understanding of Textual and …‬
+--- 
+layout: post 
+title: "ReSel: N-ary Relation Extraction from Scientific Text and Tables by Learning to Retrieve and Select" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "Y Zhuang, Y Li, JJ Cheung, Y Yu, Y Mou, X Chen - arXiv preprint arXiv , 2022" 
+--- 
+We study the problem of extracting N-ary relation tuples from scientific articles. This task is challenging because the target knowledge tuples can reside in multiple parts and modalities of the document. Our proposed method ReSel decomposes this task into a two-stage procedure that first retrieves the most relevant paragraph/table and then selects the target entity from the retrieved component. For the high-level retrieval stage, ReSel designs a simple and effective feature set, which captures  Cites: TaBERT: Pretraining for Joint Understanding of Textual and

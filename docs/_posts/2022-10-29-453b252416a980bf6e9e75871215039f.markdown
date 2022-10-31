@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Eeny, meeny, miny, moe. How to choose data for morphological inflection"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "S Muradoglu, M Hulden - arXiv preprint arXiv:2210.14465, 2022"
----
-Data scarcity is a widespread problem in numerous natural language processing (NLP) tasks for low-resource languages. Within morphology, the labour-intensive work of tagging/glossing data is a serious bottleneck for both NLP and language documentation. Active learning (AL) aims to reduce the cost of data annotation by selecting data that is most informative for improving the model. In this paper, we explore four sampling strategies for the task of morphological inflection using a …
-Cites: ‪Cold-start active learning through self-supervised language …‬
+--- 
+layout: post 
+title: "Eeny, meeny, miny, moe. How to choose data for morphological inflection" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "S Muradoglu, M Hulden - arXiv preprint arXiv:2210.14465, 2022" 
+--- 
+Data scarcity is a widespread problem in numerous natural language processing (NLP) tasks for low-resource languages. Within morphology, the labour-intensive work of tagging/glossing data is a serious bottleneck for both NLP and language documentation. Active learning (AL) aims to reduce the cost of data annotation by selecting data that is most informative for improving the model. In this paper, we explore four sampling strategies for the task of morphological inflection using a  Cites: Cold-start active learning through self-supervised language

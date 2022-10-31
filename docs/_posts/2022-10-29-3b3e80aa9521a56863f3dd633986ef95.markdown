@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Parameter Efficient Learning for Generation"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "P Xu, M Patwary, S Prabhumoye, V Adams, RJ Prenger… - arXiv preprint arXiv …, 2022"
----
-Parameter efficient learning methods (PERMs) have recently gained significant attention as they provide an efficient way for pre-trained language models (PLMs) to adapt to a downstream task. However, these conclusions are mostly drawn from in-domain evaluations over the full training set. In this paper, we present comparisons between PERMs and finetuning from three new perspectives:(1) the effect of sample and model size to in-domain evaluations,(2) generalization to unseen domains and …
-Cites: ‪BRIO: Bringing Order to Abstractive Summarization‬
+--- 
+layout: post 
+title: "Evaluating Parameter Efficient Learning for Generation" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "P Xu, M Patwary, S Prabhumoye, V Adams, RJ Prenger - arXiv preprint arXiv , 2022" 
+--- 
+Parameter efficient learning methods (PERMs) have recently gained significant attention as they provide an efficient way for pre-trained language models (PLMs) to adapt to a downstream task. However, these conclusions are mostly drawn from in-domain evaluations over the full training set. In this paper, we present comparisons between PERMs and finetuning from three new perspectives:(1) the effect of sample and model size to in-domain evaluations,(2) generalization to unseen domains and  Cites: BRIO: Bringing Order to Abstractive Summarization

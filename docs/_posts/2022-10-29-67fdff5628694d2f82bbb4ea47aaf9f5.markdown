@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Broken Neural Scaling Laws"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "E Caballero, K Gupta, I Rish, D Krueger - arXiv preprint arXiv:2210.14891, 2022"
----
-We present a smoothly broken power law functional form that accurately models and extrapolates the scaling behaviors of deep neural networks (ie how the evaluation metric of interest varies as the amount of compute used for training, number of model parameters, or training dataset size varies) for each task within a large and diverse set of upstream and downstream tasks, in zero-shot, prompted, and fine-tuned settings. This set includes large-scale vision and unsupervised language tasks …
-Cites: ‪Chain of thought prompting elicits reasoning in large language …‬
+--- 
+layout: post 
+title: "Broken Neural Scaling Laws" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "E Caballero, K Gupta, I Rish, D Krueger - arXiv preprint arXiv:2210.14891, 2022" 
+--- 
+We present a smoothly broken power law functional form that accurately models and extrapolates the scaling behaviors of deep neural networks (ie how the evaluation metric of interest varies as the amount of compute used for training, number of model parameters, or training dataset size varies) for each task within a large and diverse set of upstream and downstream tasks, in zero-shot, prompted, and fine-tuned settings. This set includes large-scale vision and unsupervised language tasks  Cites: Chain of thought prompting elicits reasoning in large language

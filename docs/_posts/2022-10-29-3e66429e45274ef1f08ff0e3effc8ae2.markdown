@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Interpretable Summary Evaluation via Allocation of Contextual Embeddings to Reference Text Topics"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "B Schaper, C Lohse, M Streile, A Giovannini, R Osuala - arXiv preprint arXiv …, 2022"
----
-Despite extensive recent advances in summary generation models, evaluation of auto-generated summaries still widely relies on single-score systems insufficient for transparent assessment and in-depth qualitative analysis. Towards bridging this gap, we propose the multifaceted interpretable summary evaluation method (MISEM), which is based on allocation of a summary s contextual token embeddings to semantic topics identified in the reference text. We further contribute an …
-Cites: ‪Sentence centrality revisited for unsupervised summarization‬
+--- 
+layout: post 
+title: "Towards Interpretable Summary Evaluation via Allocation of Contextual Embeddings to Reference Text Topics" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "B Schaper, C Lohse, M Streile, A Giovannini, R Osuala - arXiv preprint arXiv , 2022" 
+--- 
+Despite extensive recent advances in summary generation models, evaluation of auto-generated summaries still widely relies on single-score systems insufficient for transparent assessment and in-depth qualitative analysis. Towards bridging this gap, we propose the multifaceted interpretable summary evaluation method (MISEM), which is based on allocation of a summary s contextual token embeddings to semantic topics identified in the reference text. We further contribute an  Cites: Sentence centrality revisited for unsupervised summarization

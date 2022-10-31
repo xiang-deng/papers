@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Boosting the Cycle Counting Power of Graph Neural Networks with I $^ 2$-GNNs"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "Y Huang, X Peng, J Ma, M Zhang - arXiv preprint arXiv:2210.13978, 2022"
----
-Message Passing Neural Networks (MPNNs) are a widely used class of Graph Neural Networks (GNNs). The limited representational power of MPNNs inspires the study of provably powerful GNN architectures. However, knowing one model is more powerful than another gives little insight about what functions they can or cannot express. It is still unclear whether these models are able to approximate specific functions such as counting certain graph substructures, which is essential for …
-Cites: ‪Graph neural networks: A review of methods and applications‬
+--- 
+layout: post 
+title: "Boosting the Cycle Counting Power of Graph Neural Networks with I $^ 2$-GNNs" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "Y Huang, X Peng, J Ma, M Zhang - arXiv preprint arXiv:2210.13978, 2022" 
+--- 
+Message Passing Neural Networks (MPNNs) are a widely used class of Graph Neural Networks (GNNs). The limited representational power of MPNNs inspires the study of provably powerful GNN architectures. However, knowing one model is more powerful than another gives little insight about what functions they can or cannot express. It is still unclear whether these models are able to approximate specific functions such as counting certain graph substructures, which is essential for  Cites: Graph neural networks: A review of methods and applications

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FocusQA: Open-domain question answering with a context in focus"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "G Barlacchi, I Lauriola, A Moschitti, M Del Tredici… - 2022"
----
-We introduce question answering with a context in focus, a task that simulates a free interaction with a QA system. The user reads on a screen some information about a topic and they can follow-up with questions that can be either related or not to the topic; and the answer can be found in the document containing the screen content or from other pages. We call such information context. To study the task, we construct FOCUSQA, a dataset for answer sentence selection (AS2) with 12,165 unique〈 …
-Cites: ‪Open-Retrieval Conversational Question Answering‬
+--- 
+layout: post 
+title: "FocusQA: Open-domain question answering with a context in focus" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "G Barlacchi, I Lauriola, A Moschitti, M Del Tredici - 2022" 
+--- 
+We introduce question answering with a context in focus, a task that simulates a free interaction with a QA system. The user reads on a screen some information about a topic and they can follow-up with questions that can be either related or not to the topic; and the answer can be found in the document containing the screen content or from other pages. We call such information context. To study the task, we construct FOCUSQA, a dataset for answer sentence selection (AS2) with 12,165 unique  Cites: Open-Retrieval Conversational Question Answering

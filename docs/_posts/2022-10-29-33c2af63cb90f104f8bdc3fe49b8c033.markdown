@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Abductive Action Inference"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "C Tan, CK Yeo, C Tan, B Fernando - arXiv preprint arXiv:2210.13984, 2022"
----
-Abductive reasoning aims to make the most likely inference for a given set of incomplete observations. In this work, given a situation or a scenario, we aim to answer the question what is the set of actions that were executed by the human in order to come to this current state? , which we coin as abductive action inference. We provide a solution based on the human-object relations and their states in the given scene. Specifically, we first detect objects and humans in the scene, and then …
-Cites: ‪The abduction of sherlock holmes: A dataset for visual abductive …‬
+--- 
+layout: post 
+title: "Abductive Action Inference" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "C Tan, CK Yeo, C Tan, B Fernando - arXiv preprint arXiv:2210.13984, 2022" 
+--- 
+Abductive reasoning aims to make the most likely inference for a given set of incomplete observations. In this work, given a situation or a scenario, we aim to answer the question what is the set of actions that were executed by the human in order to come to this current state? , which we coin as abductive action inference. We provide a solution based on the human-object relations and their states in the given scene. Specifically, we first detect objects and humans in the scene, and then  Cites: The abduction of sherlock holmes: A dataset for visual abductive

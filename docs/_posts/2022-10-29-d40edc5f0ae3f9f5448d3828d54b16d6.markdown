@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Question-Interlocutor Scope Realized Graph Modeling over Key Utterances for Dialogue Reading Comprehension"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "J Li, M Yu, F Meng, Z Lin, P Fu, W Wang, J Zhou - arXiv preprint arXiv:2210.14456, 2022"
----
-In this work, we focus on dialogue reading comprehension (DRC), a task extracting answer spans for questions from dialogues. Dialogue context modeling in DRC is tricky due to complex speaker information and noisy dialogue context. To solve the two problems, previous research proposes two self-supervised tasks respectively: guessing who a randomly masked speaker is according to the dialogue and predicting which utterance in the dialogue contains the answer. Although these tasks …
-Cites: ‪QuAC: Question Answering in Context‬
+--- 
+layout: post 
+title: "Question-Interlocutor Scope Realized Graph Modeling over Key Utterances for Dialogue Reading Comprehension" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "J Li, M Yu, F Meng, Z Lin, P Fu, W Wang, J Zhou - arXiv preprint arXiv:2210.14456, 2022" 
+--- 
+In this work, we focus on dialogue reading comprehension (DRC), a task extracting answer spans for questions from dialogues. Dialogue context modeling in DRC is tricky due to complex speaker information and noisy dialogue context. To solve the two problems, previous research proposes two self-supervised tasks respectively: guessing who a randomly masked speaker is according to the dialogue and predicting which utterance in the dialogue contains the answer. Although these tasks  Cites: QuAC: Question Answering in Context

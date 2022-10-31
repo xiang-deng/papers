@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Network"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "E Cohen-Karlik, I Menuhin-Gruman, N Cohen, R Giryes… - arXiv preprint arXiv …, 2022"
----
-Overparameterization in deep learning typically refers to settings where a trained Neural Network (NN) has representational capacity to fit the training data in many ways, some of which generalize well, while others do not. In the case of Recurrent Neural Networks (RNNs), there exists an additional layer of overparameterization, in the sense that a model may exhibit many solutions that generalize well for sequence lengths seen in training, some of which extrapolate to longer sequences, while …
-Cites: ‪Train short, test long: Attention with linear biases enables input …‬

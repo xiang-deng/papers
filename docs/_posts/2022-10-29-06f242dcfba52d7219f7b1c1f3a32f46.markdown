@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "N Joshi, X Pan, H He - arXiv preprint arXiv:2210.14011, 2022"
----
-The termspurious correlations  has been used in NLP to informally denote any undesirable feature-label correlations. However, a correlation can be undesirable because (i) the feature is irrelevant to the label (eg punctuation in a review), or (ii) the feature s effect on the label depends on the context (eg negation words in a review), which is ubiquitous in language tasks. In case (i), we want the model to be invariant to the feature, which is neither necessary nor sufficient for prediction. But in case (ii) …
-Cites: ‪Competency Problems: On Finding and Removing Artifacts in …‬
+--- 
+layout: post 
+title: "Are All Spurious Features in Natural Language Alike? An Analysis through a Causal Lens" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "N Joshi, X Pan, H He - arXiv preprint arXiv:2210.14011, 2022" 
+--- 
+The termspurious correlations has been used in NLP to informally denote any undesirable feature-label correlations. However, a correlation can be undesirable because (i) the feature is irrelevant to the label (eg punctuation in a review), or (ii) the feature s effect on the label depends on the context (eg negation words in a review), which is ubiquitous in language tasks. In case (i), we want the model to be invariant to the feature, which is neither necessary nor sufficient for prediction. But in case (ii)  Cites: Competency Problems: On Finding and Removing Artifacts in

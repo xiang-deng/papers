@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring Mode Connectivity for Pre-trained Language Models"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "Y Qin, C Qian, J Yi, W Chen, Y Lin, X Han, Z Liu, M Sun… - arXiv preprint arXiv …, 2022"
----
-Recent years have witnessed the prevalent application of pre-trained language models (PLMs) in NLP. From the perspective of parameter space, PLMs provide generic initialization, starting from which high-performance minima could be found. Although plenty of works have studied how to effectively and efficiently adapt PLMs to high-performance minima, little is known about the connection of various minima reached under different adaptation configurations. In this paper, we investigate the …
-Cites: ‪Linguistic Knowledge and Transferability of Contextual …‬
+--- 
+layout: post 
+title: "Exploring Mode Connectivity for Pre-trained Language Models" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "Y Qin, C Qian, J Yi, W Chen, Y Lin, X Han, Z Liu, M Sun - arXiv preprint arXiv , 2022" 
+--- 
+Recent years have witnessed the prevalent application of pre-trained language models (PLMs) in NLP. From the perspective of parameter space, PLMs provide generic initialization, starting from which high-performance minima could be found. Although plenty of works have studied how to effectively and efficiently adapt PLMs to high-performance minima, little is known about the connection of various minima reached under different adaptation configurations. In this paper, we investigate the  Cites: Linguistic Knowledge and Transferability of Contextual

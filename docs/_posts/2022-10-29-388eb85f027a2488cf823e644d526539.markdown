@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adaptive Label Smoothing with Self-Knowledge in Natural Language Generation"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "D Lee, KC Cheung, NL Zhang - arXiv preprint arXiv:2210.13459, 2022"
----
-Overconfidence has been shown to impair generalization and calibration of a neural network. Previous studies remedy this issue by adding a regularization term to a loss function, preventing a model from making a peaked distribution. Label smoothing smoothes target labels with a pre-defined prior label distribution; as a result, a model is learned to maximize the likelihood of predicting the soft label. Nonetheless, the amount of smoothing is the same in all samples and remains fixed in training. In …
-Cites: ‪Noisy self-knowledge distillation for text summarization‬
+--- 
+layout: post 
+title: "Adaptive Label Smoothing with Self-Knowledge in Natural Language Generation" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "D Lee, KC Cheung, NL Zhang - arXiv preprint arXiv:2210.13459, 2022" 
+--- 
+Overconfidence has been shown to impair generalization and calibration of a neural network. Previous studies remedy this issue by adding a regularization term to a loss function, preventing a model from making a peaked distribution. Label smoothing smoothes target labels with a pre-defined prior label distribution; as a result, a model is learned to maximize the likelihood of predicting the soft label. Nonetheless, the amount of smoothing is the same in all samples and remains fixed in training. In  Cites: Noisy self-knowledge distillation for text summarization

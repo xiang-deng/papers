@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Look to the Right: Mitigating Relative Position Bias in Extractive Question Answering"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "K Shinoda, S Sugawara, A Aizawa - arXiv preprint arXiv:2210.14541, 2022"
----
-Extractive question answering (QA) models tend to exploit spurious correlations to make predictions when a training set has unintended biases. This tendency results in models not being generalizable to examples where the correlations do not hold. Determining the spurious correlations QA models can exploit is crucial in building generalizable QA models in real-world applications; moreover, a method needs to be developed that prevents these models from learning the spurious correlations even …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬
+--- 
+layout: post 
+title: "Look to the Right: Mitigating Relative Position Bias in Extractive Question Answering" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "K Shinoda, S Sugawara, A Aizawa - arXiv preprint arXiv:2210.14541, 2022" 
+--- 
+Extractive question answering (QA) models tend to exploit spurious correlations to make predictions when a training set has unintended biases. This tendency results in models not being generalizable to examples where the correlations do not hold. Determining the spurious correlations QA models can exploit is crucial in building generalizable QA models in real-world applications; moreover, a method needs to be developed that prevents these models from learning the spurious correlations even  Cites: MRQA 2019 Shared Task: Evaluating Generalization in Reading

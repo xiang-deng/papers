@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "J Shen, C Wang, Y Yuan, J Han, H Ji, K Sen, M Zhang… - arXiv preprint arXiv …, 2022"
----
-This paper presents a parameter-lite transfer learning approach of pretrained language models (LM) for knowledge graph (KG) completion. Instead of finetuning, which modifies all LM parameters, we only tune a few new parameters while keeping the original LM parameters fixed. We establish this via reformulating KG completion as a  fill-in-the-blank  task, and introducing a parameter-lite encoder on top of the original LMs. We show that, by tuning far fewer parameters than finetuning, LMs …
-Cites: ‪K-adapter: Infusing knowledge into pre-trained models with adapters‬
+--- 
+layout: post 
+title: "PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "J Shen, C Wang, Y Yuan, J Han, H Ji, K Sen, M Zhang - arXiv preprint arXiv , 2022" 
+--- 
+This paper presents a parameter-lite transfer learning approach of pretrained language models (LM) for knowledge graph (KG) completion. Instead of finetuning, which modifies all LM parameters, we only tune a few new parameters while keeping the original LM parameters fixed. We establish this via reformulating KG completion as a fill-in-the-blank task, and introducing a parameter-lite encoder on top of the original LMs. We show that, by tuning far fewer parameters than finetuning, LMs  Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

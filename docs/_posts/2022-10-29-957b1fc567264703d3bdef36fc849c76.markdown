@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Parameter-Efficient Legal Domain Adaptation"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "J Li, R Bhambhoria, X Zhu - arXiv preprint arXiv:2210.13712, 2022"
----
-Seeking legal advice is often expensive. Recent advancement in machine learning for solving complex problems can be leveraged to help make legal services more accessible to the public. However, real-life applications encounter significant challenges. State-of-the-art language models are growing increasingly large, making parameter-efficient learning increasingly important. Unfortunately, parameter-efficient methods perform poorly with small amounts of data, which are common in the legal …
-Cites: ‪PPT: Pre-trained Prompt Tuning for Few-shot Learning‬
+--- 
+layout: post 
+title: "Parameter-Efficient Legal Domain Adaptation" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "J Li, R Bhambhoria, X Zhu - arXiv preprint arXiv:2210.13712, 2022" 
+--- 
+Seeking legal advice is often expensive. Recent advancement in machine learning for solving complex problems can be leveraged to help make legal services more accessible to the public. However, real-life applications encounter significant challenges. State-of-the-art language models are growing increasingly large, making parameter-efficient learning increasingly important. Unfortunately, parameter-efficient methods perform poorly with small amounts of data, which are common in the legal  Cites: PPT: Pre-trained Prompt Tuning for Few-shot Learning

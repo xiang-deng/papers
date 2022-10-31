@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding Domain Learning in Language Models Through Subpopulation Analysis"
-date:   2022-10-29 01:49:44 -0400
-categories: jekyll update
-author: "Z Zhao, Y Ziser, SB Cohen - arXiv preprint arXiv:2210.12553, 2022"
----
-We investigate how different domains are encoded in modern neural network architectures. We analyze the relationship between natural language domains, model size, and the amount of training data used. The primary analysis tool we develop is based on subpopulation analysis with Singular Vector Canonical Correlation Analysis (SVCCA), which we apply to Transformer-based language models (LMs). We compare the latent representations of such a language model at …
-Cites: ‪BERT is not an interlingua and the bias of tokenization‬
+--- 
+layout: post 
+title: "Understanding Domain Learning in Language Models Through Subpopulation Analysis" 
+date: 2022-10-29 01:49:44 -0400 
+categories: jekyll update 
+author: "Z Zhao, Y Ziser, SB Cohen - arXiv preprint arXiv:2210.12553, 2022" 
+--- 
+We investigate how different domains are encoded in modern neural network architectures. We analyze the relationship between natural language domains, model size, and the amount of training data used. The primary analysis tool we develop is based on subpopulation analysis with Singular Vector Canonical Correlation Analysis (SVCCA), which we apply to Transformer-based language models (LMs). We compare the latent representations of such a language model at  Cites: BERT is not an interlingua and the bias of tokenization
