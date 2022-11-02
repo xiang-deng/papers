@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "COCO-DR: Combating Distribution Shifts in Zero-Shot Dense Retrieval with Contrastive and Distributionally Robust Learning"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "Y Yu, C Xiong, S Sun, C Zhang, A Overwijk - arXiv preprint arXiv:2210.15212, 2022"
+---
+We present a new zero-shot dense retrieval (ZeroDR) method, COCO-DR, to improve the generalization ability of dense retrieval by combating the distribution shifts between source training tasks and target scenarios. To mitigate the impact of document differences, COCO-DR continues pretraining the language model on the target corpora to adapt the model to target distributions via COtinuous COtrastive learning. To prepare for unseen target queries, COCO-DR leverages implicit …
+Cites: ‪Climate-fever: A dataset for verification of real-world climate claims‬

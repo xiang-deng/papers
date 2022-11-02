@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "D Yang, P Qing, Y Li, H Lu, X Lin - arXiv preprint arXiv:2210.15578, 2022"
+---
+Embedding knowledge graphs (KGs) for multi-hop logical reasoning is a challenging problem due to massive and complicated structures in many KGs. Recently, many promising works projected entities and queries into a geometric space to efficiently find answers. However, it remains challenging to model the negation and union operator. The negation operator has no strict boundaries, which generates overlapped embeddings and leads to obtaining ambiguous answers. An additional …
+Cites: ‪Smore: Knowledge graph completion and multi-hop reasoning in …‬

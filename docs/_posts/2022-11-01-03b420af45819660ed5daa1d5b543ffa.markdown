@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Text2Model: Model Induction for Zero-shot Generalization Using Task Descriptions"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "O Amosy, T Volk, E Ben-David, R Reichart, G Chechik - arXiv preprint arXiv …, 2022"
+---
+We study the problem of generating a training-free task-dependent visual classifier from text descriptions without visual samples. This\textit {Text-to-Model}(T2M) problem is closely related to zero-shot learning, but unlike previous work, a T2M model infers a model tailored to a task, taking into account all classes in the task. We analyze the symmetries of T2M, and characterize the equivariance and invariance properties of corresponding models. In light of these properties, we design an …
+Cites: ‪Mapping images to scene graphs with permutation-invariant …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Conversation Disentanglement with Bi-Level Contrastive Learning"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "C Huang, Z Zhang, H Fei, L Liao - arXiv preprint arXiv:2210.15265, 2022"
+---
+Conversation disentanglement aims to group utterances into detached sessions, which is a fundamental task in processing multi-party conversations. Existing methods have two main drawbacks. First, they overemphasize pairwise utterance relations but pay inadequate attention to the utterance-to-context relation modeling. Second, huge amount of human annotated data is required for training, which is expensive to obtain in practice. To address these issues, we propose a general …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

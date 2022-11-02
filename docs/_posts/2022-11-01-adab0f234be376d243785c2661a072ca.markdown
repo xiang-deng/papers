@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can language models handle recursively nested grammatical structures? A case study on comparing models and humans"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "AK Lampinen - arXiv preprint arXiv:2210.15303, 2022"
+---
+How should we compare the capabilities of language models and humans? Here, I consider a case study: processing of recursively nested grammatical structures. Prior work has suggested that language models cannot handle these structures as reliably as humans can. However, the humans were provided with instructions and training before being evaluated, while the language models were evaluated zero-shot. I therefore attempt to more closely match the evaluation paradigms by providing …
+Cites: ‪Prompting GPT-3 To Be Reliable‬

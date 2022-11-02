@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tabular machine learning using conjunctive threshold neural networks"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "W Wang, L Qiao, B Lin - Machine Learning with Applications, 2022"
+---
+We propose a novel three-layer neural network architecture with threshold activations for tabular data classification problems. The hidden layer units correspond to trainable neurons with arbitrary weights and biases and a step activation. These neurons are logically equivalent to threshold logic functions. The output layer neuron is also a threshold function that implements a conjunction of the hidden layer threshold functions. This neural network architecture can leverage state …
+Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Balanced softmax cross-entropy for incremental learning with and without memory"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "Q Jodelet, X Liu, T Murata - Computer Vision and Image Understanding, 2022"
+---
+When incrementally trained on new classes, deep neural networks are subject to catastrophic forgetting which leads to an extreme deterioration of their performance on the old classes while learning the new ones. Using a small memory containing few samples from past classes has shown to be an effective method to mitigate catastrophic forgetting. However, due to the limited size of the replay memory, there is a large imbalance between the number of samples for the new and the old classes …
+Cites: ‪Generalized inner loop meta-learning‬

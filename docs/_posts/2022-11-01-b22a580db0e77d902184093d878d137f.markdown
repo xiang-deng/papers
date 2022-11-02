@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Retrieval Oriented Masking Pre-training Language Model for Dense Passage Retrieval"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "D Long, Y Zhang, G Xu, P Xie - arXiv preprint arXiv:2210.15133, 2022"
+---
+Pre-trained language model (PTM) has been shown to yield powerful text representations for dense passage retrieval task. The Masked Language Modeling (MLM) is a major sub-task of the pre-training process. However, we found that the conventional random masking strategy tend to select a large number of tokens that have limited effect on the passage retrieval task (e, g. stop-words and punctuation). By noticing the term importance weight can provide valuable information for passage …
+Cites: ‪Sparse, dense, and attentional representations for text retrieval‬

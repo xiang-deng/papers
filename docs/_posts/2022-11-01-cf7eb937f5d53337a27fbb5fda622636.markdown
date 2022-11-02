@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Chasing the tail with domain generalization: A case study on frequency-enriched datasets"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "M Kumar, A Rumshisky, R Gupta - 2022"
+---
+Natural language understanding (NLU) tasks are typically defined by creating an annotated dataset in which each utterance is encountered once. Such data does not resemble real-world natural language interactions in which certain utterances are encountered frequently, others rarely. For deployed NLU systems, this is a vital problem, since the underlying machine learning (ML) models are often fine-tuned on typical NLU data, in which utterance frequency is never factored in, and then applied …
+Cites: ‪Meta-learning for domain generalization in semantic parsing‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DyREx: Dynamic Query Representation for Extractive Question Answering"
+date:   2022-11-01 03:49:43 -0400
+categories: jekyll update
+author: "U Zaratiana, NE Khbir, D Núñez, P Holat, N Tomeh… - arXiv preprint arXiv …, 2022"
+---
+Extractive question answering (ExQA) is an essential task for Natural Language Processing. The dominant approach to ExQA is one that represents the input sequence tokens (question and passage) with a pre-trained transformer, then uses two learned query vectors to compute distributions over the start and end answer span positions. These query vectors lack the context of the inputs, which can be a bottleneck for the model performance. To address this problem, we propose\textit …
+Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬
