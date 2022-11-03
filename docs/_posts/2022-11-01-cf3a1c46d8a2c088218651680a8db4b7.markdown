@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Attacking neural machine translations via hybrid attention learning"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "M Ni, C Wang, T Zhu, S Yu, W Liu - Machine Learning, 2022"
----
-Deep-learning based natural language processing (NLP) models are proven vulnerable to adversarial attacks. However, there is currently insufficient research that studies attacks to neural machine translations (NMTs) and examines the robustness of deep-learning based NMTs. In this paper, we aim to fill this critical research gap. When generating word-level adversarial examples in NLP attacks, there is a conventional trade-off in existing methods between the attacking …
-Cites: ‪Semantic parsing on freebase from question-answer pairs‬
+--- 
+layout: post 
+title: "Attacking neural machine translations via hybrid attention learning" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "M Ni, C Wang, T Zhu, S Yu, W Liu - Machine Learning, 2022" 
+--- 
+Deep-learning based natural language processing (NLP) models are proven vulnerable to adversarial attacks. However, there is currently insufficient research that studies attacks to neural machine translations (NMTs) and examines the robustness of deep-learning based NMTs. In this paper, we aim to fill this critical research gap. When generating word-level adversarial examples in NLP attacks, there is a conventional trade-off in existing methods between the attacking  Cites: Semantic parsing on freebase from question-answer pairs

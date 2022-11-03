@@ -1,9 +1,8 @@
----
-layout: post
-title:  "COST-EFF: Collaborative Optimization of Spatial and Temporal Efficiency with Slenderized Multi-exit Language Models"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "B Shen, Z Lin, Y Liu, Z Liu, L Wang, W Wang - arXiv preprint arXiv:2210.15523, 2022"
----
-Transformer-based pre-trained language models (PLMs) mostly suffer from excessive overhead despite their advanced capacity. For resource-constrained devices, there is an urgent need for a spatially and temporally efficient model which retains the major capacity of PLMs. However, existing statically compressed models are unaware of the diverse complexities between input instances, potentially resulting in redundancy and inadequacy for simple and complex inputs. Also …
-Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬
+--- 
+layout: post 
+title: "COST-EFF: Collaborative Optimization of Spatial and Temporal Efficiency with Slenderized Multi-exit Language Models" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "B Shen, Z Lin, Y Liu, Z Liu, L Wang, W Wang - arXiv preprint arXiv:2210.15523, 2022" 
+--- 
+Transformer-based pre-trained language models (PLMs) mostly suffer from excessive overhead despite their advanced capacity. For resource-constrained devices, there is an urgent need for a spatially and temporally efficient model which retains the major capacity of PLMs. However, existing statically compressed models are unaware of the diverse complexities between input instances, potentially resulting in redundancy and inadequacy for simple and complex inputs. Also  Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

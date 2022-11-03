@@ -1,9 +1,8 @@
----
-layout: post
-title:  "sem2vec: Semantics-Aware Assembly Tracelet Embedding"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "H Wang, P Ma, S Wang, Q Tang, S Nie, S Wu - ACM Transactions on Software …, 2022"
----
-Binary code similarity is the foundation of many security and software engineering applications. Recent works leverage deep neural networks (DNN) to learn a numeric vector representation (namely embeddings) of assembly functions, enabling similarity analysis in the numeric space. However, existing DNN-based techniques capture syntactic-, control flow-, or data flow-level information of assembly code, which is too coarse-grained to represent program functionality. These methods can …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬
+--- 
+layout: post 
+title: "sem2vec: Semantics-Aware Assembly Tracelet Embedding" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "H Wang, P Ma, S Wang, Q Tang, S Nie, S Wu - ACM Transactions on Software , 2022" 
+--- 
+Binary code similarity is the foundation of many security and software engineering applications. Recent works leverage deep neural networks (DNN) to learn a numeric vector representation (namely embeddings) of assembly functions, enabling similarity analysis in the numeric space. However, existing DNN-based techniques capture syntactic-, control flow-, or data flow-level information of assembly code, which is too coarse-grained to represent program functionality. These methods can  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

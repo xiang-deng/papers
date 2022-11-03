@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RulE: Neural-Symbolic Knowledge Graph Reasoning with Rule Embedding"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "X Tang, SC Zhu, Y Liang, M Zhang - arXiv preprint arXiv:2210.14905, 2022"
----
-Knowledge graph (KG) reasoning is an important problem for knowledge graphs. It predicts missing links by reasoning on existing facts. Knowledge graph embedding (KGE) is one of the most popular methods to address this problem. It embeds entities and relations into low-dimensional vectors and uses the learned entity/relation embeddings to predict missing facts. However, KGE only uses zeroth-order (propositional) logic to encode existing triplets (eg,``Alice is Bob s wife. ); it is unable …
-Cites: ‪Neuro-symbolic program synthesis‬
+--- 
+layout: post 
+title: "RulE: Neural-Symbolic Knowledge Graph Reasoning with Rule Embedding" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "X Tang, SC Zhu, Y Liang, M Zhang - arXiv preprint arXiv:2210.14905, 2022" 
+--- 
+Knowledge graph (KG) reasoning is an important problem for knowledge graphs. It predicts missing links by reasoning on existing facts. Knowledge graph embedding (KGE) is one of the most popular methods to address this problem. It embeds entities and relations into low-dimensional vectors and uses the learned entity/relation embeddings to predict missing facts. However, KGE only uses zeroth-order (propositional) logic to encode existing triplets (eg,``Alice is Bob s wife. ); it is unable  Cites: Neuro-symbolic program synthesis

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Contrastive Decoding: Open-ended Text Generation as Optimization"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "XL Li, A Holtzman, D Fried, P Liang, J Eisner… - arXiv preprint arXiv …, 2022"
----
-Likelihood, although useful as a training loss, is a poor search objective for guiding open-ended generation from language models (LMs). Existing generation algorithms must avoid both unlikely strings, which are incoherent, and highly likely ones, which are short and repetitive. We propose contrastive decoding (CD), a more reliable search objective that returns the difference between likelihood under a large LM (called the expert, eg OPT-13b) and a small LM (called the amateur, eg OPT-125m) …
-Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬
+--- 
+layout: post 
+title: "Contrastive Decoding: Open-ended Text Generation as Optimization" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "XL Li, A Holtzman, D Fried, P Liang, J Eisner - arXiv preprint arXiv , 2022" 
+--- 
+Likelihood, although useful as a training loss, is a poor search objective for guiding open-ended generation from language models (LMs). Existing generation algorithms must avoid both unlikely strings, which are incoherent, and highly likely ones, which are short and repetitive. We propose contrastive decoding (CD), a more reliable search objective that returns the difference between likelihood under a large LM (called the expert, eg OPT-13b) and a small LM (called the amateur, eg OPT-125m)  Cites: DExperts: Decoding-time controlled text generation with experts

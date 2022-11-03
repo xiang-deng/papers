@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Phrase-level Attention Network for Few-shot Inverse Relation Classification in Knowledge Graph"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "S Wu, C Dou, D Wang, J Li, X Zhang, Z Feng, K Wang… - 2022"
----
-Relation classification is to recognize semantic relation between two given entities mentioned in the given text in Knowledge Graph. Existing models have performed well on the inverse relation classification with large-scale datasets, but their performance drops significantly for few-shot learning. In this paper, we propose a novel method, function words adaptively enhanced attention framework (FAEA+), to capture class-related function words by the designed hybrid attention for fewshot …
-Cites: ‪Meta-Information Guided Meta-Learning for Few-Shot Relation …‬
+--- 
+layout: post 
+title: "Phrase-level Attention Network for Few-shot Inverse Relation Classification in Knowledge Graph" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "S Wu, C Dou, D Wang, J Li, X Zhang, Z Feng, K Wang - 2022" 
+--- 
+Relation classification is to recognize semantic relation between two given entities mentioned in the given text in Knowledge Graph. Existing models have performed well on the inverse relation classification with large-scale datasets, but their performance drops significantly for few-shot learning. In this paper, we propose a novel method, function words adaptively enhanced attention framework (FAEA+), to capture class-related function words by the designed hybrid attention for fewshot  Cites: Meta-Information Guided Meta-Learning for Few-Shot Relation

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph attention network based detection of causality for textual emotion-cause pair"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "Q Cao, X Hao, H Ren, W Xu, S Xu, CJ Asiedu - World Wide Web, 2022"
----
-To solve the problem that the existing model cannot adequately express inter-sentence structural information, this paper proposes a textual Emotion-Cause Pair (ECP) causal relationship detection method (GAT-ECP-CD) fused with graph attention network (GAT). A structural relationship graph directly propagates causal features from the context to integrate syntactic dependency information between different sentences in a document. First, using a word-level Bidirectional Long Short …
-Cites: ‪Joint reasoning for temporal and causal relations‬
+--- 
+layout: post 
+title: "Graph attention network based detection of causality for textual emotion-cause pair" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "Q Cao, X Hao, H Ren, W Xu, S Xu, CJ Asiedu - World Wide Web, 2022" 
+--- 
+To solve the problem that the existing model cannot adequately express inter-sentence structural information, this paper proposes a textual Emotion-Cause Pair (ECP) causal relationship detection method (GAT-ECP-CD) fused with graph attention network (GAT). A structural relationship graph directly propagates causal features from the context to integrate syntactic dependency information between different sentences in a document. First, using a word-level Bidirectional Long Short  Cites: Joint reasoning for temporal and causal relations

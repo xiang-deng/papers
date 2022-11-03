@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Malign Overfitting: Interpolation and Invariance are Fundamentally at Odds"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "Y Wald, G Yona, U Shalit, Y Carmon - NeurIPS 2022 Workshop on Distribution Shifts …, 2022"
----
-Learned classifiers should often possess certain invariance properties meant to encourage fairness, robustness, or out-of-distribution generalization. However, multiple recent works empirically demonstrate that common invariance-inducing regularizers are ineffective in the over-parameterized regime, in which classifiers perfectly fit (ie interpolate) the training data. This suggests that the phenomenon of “benign overfitting”, in which models generalize well despite interpolating, might not …
-Cites: ‪Calibrated ensembles can mitigate accuracy tradeoffs under …‬
+--- 
+layout: post 
+title: "Malign Overfitting: Interpolation and Invariance are Fundamentally at Odds" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "Y Wald, G Yona, U Shalit, Y Carmon - NeurIPS 2022 Workshop on Distribution Shifts , 2022" 
+--- 
+Learned classifiers should often possess certain invariance properties meant to encourage fairness, robustness, or out-of-distribution generalization. However, multiple recent works empirically demonstrate that common invariance-inducing regularizers are ineffective in the over-parameterized regime, in which classifiers perfectly fit (ie interpolate) the training data. This suggests that the phenomenon of benign overfitting, in which models generalize well despite interpolating, might not  Cites: Calibrated ensembles can mitigate accuracy tradeoffs under

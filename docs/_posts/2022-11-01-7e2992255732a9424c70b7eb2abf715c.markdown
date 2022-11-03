@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Truncation Sampling as Language Model Desmoothing"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "J Hewitt, CD Manning, P Liang - arXiv preprint arXiv:2210.15191, 2022"
----
-Long samples of text from neural language models can be of poor quality. Truncation sampling algorithms--like top-$ p $ or top-$ k $--address this by setting some words  probabilities to zero at each step. This work provides framing for the aim of truncation, and an improved algorithm for that aim. We propose thinking of a neural language model as a mixture of a true distribution and a smoothing distribution that avoids infinite perplexity. In this light, truncation algorithms aim to perform …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Truncation Sampling as Language Model Desmoothing" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "J Hewitt, CD Manning, P Liang - arXiv preprint arXiv:2210.15191, 2022" 
+--- 
+Long samples of text from neural language models can be of poor quality. Truncation sampling algorithms--like top-$ p $ or top-$ k $--address this by setting some words probabilities to zero at each step. This work provides framing for the aim of truncation, and an improved algorithm for that aim. We propose thinking of a neural language model as a mixture of a true distribution and a smoothing distribution that avoids infinite perplexity. In this light, truncation algorithms aim to perform  Cites: Palm: Scaling language modeling with pathways

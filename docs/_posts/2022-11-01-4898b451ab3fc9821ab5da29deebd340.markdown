@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TriCo—Triple Co-piloting of Implementation, Specification and Tests"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "W Ahrendt, D Gurov, M Johansson, P Rümmer - International Symposium on …, 2022"
----
-This white paper presents the vision of a novel methodology for developing safety-critical software, which is inspired by late developments in learning based co-piloting of implementations. The methodology, called TriCo, integrates formal methods with learning based approaches to co-pilot the agile, simultaneous development of three artefacts: implementation, specification, and tests. Whenever the user changes any of these, a TriCo empowered IDE would suggest changes to the other two artefacts in …
-Cites: ‪Program Synthesis with Large Language Models.(2021)‬
+--- 
+layout: post 
+title: "TriCoTriple Co-piloting of Implementation, Specification and Tests" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "W Ahrendt, D Gurov, M Johansson, P Rmmer - International Symposium on , 2022" 
+--- 
+This white paper presents the vision of a novel methodology for developing safety-critical software, which is inspired by late developments in learning based co-piloting of implementations. The methodology, called TriCo, integrates formal methods with learning based approaches to co-pilot the agile, simultaneous development of three artefacts: implementation, specification, and tests. Whenever the user changes any of these, a TriCo empowered IDE would suggest changes to the other two artefacts in  Cites: Program Synthesis with Large Language Models.(2021)

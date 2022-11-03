@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring Predictive Uncertainty and Calibration in NLP: A Study on the Impact of Method & Data Scarcity"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "D Ulmer, J Frellsen, C Hardmeier - arXiv preprint arXiv:2210.15452, 2022"
----
-We investigate the problem of determining the predictive confidence (or, conversely, uncertainty) of a neural classifier through the lens of low-resource languages. By training models on sub-sampled datasets in three different languages, we assess the quality of estimates from a wide array of approaches and their dependence on the amount of available data. We find that while approaches based on pre-trained models and ensembles achieve the best results overall, the quality of uncertainty …
-Cites: ‪On the Effects of Transformer Size on In-and Out-of-Domain …‬
+--- 
+layout: post 
+title: "Exploring Predictive Uncertainty and Calibration in NLP: A Study on the Impact of Method & Data Scarcity" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "D Ulmer, J Frellsen, C Hardmeier - arXiv preprint arXiv:2210.15452, 2022" 
+--- 
+We investigate the problem of determining the predictive confidence (or, conversely, uncertainty) of a neural classifier through the lens of low-resource languages. By training models on sub-sampled datasets in three different languages, we assess the quality of estimates from a wide array of approaches and their dependence on the amount of available data. We find that while approaches based on pre-trained models and ensembles achieve the best results overall, the quality of uncertainty  Cites: On the Effects of Transformer Size on In-and Out-of-Domain

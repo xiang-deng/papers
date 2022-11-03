@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving abstractive summarization with energy-based re-ranking"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "D Pernes, A Mendes, AFT Martins - arXiv preprint arXiv:2210.15553, 2022"
----
-Current abstractive summarization systems present important weaknesses which prevent their deployment in real-world applications, such as the omission of relevant information and the generation of factual inconsistencies (also known as hallucinations). At the same time, automatic evaluation metrics such as CTC scores have been recently proposed that exhibit a higher correlation with human judgments than traditional lexical-overlap metrics such as ROUGE. In this work, we intend to …
-Cites: ‪Energy-based reranking: Improving neural machine translation …‬
+--- 
+layout: post 
+title: "Improving abstractive summarization with energy-based re-ranking" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "D Pernes, A Mendes, AFT Martins - arXiv preprint arXiv:2210.15553, 2022" 
+--- 
+Current abstractive summarization systems present important weaknesses which prevent their deployment in real-world applications, such as the omission of relevant information and the generation of factual inconsistencies (also known as hallucinations). At the same time, automatic evaluation metrics such as CTC scores have been recently proposed that exhibit a higher correlation with human judgments than traditional lexical-overlap metrics such as ROUGE. In this work, we intend to  Cites: Energy-based reranking: Improving neural machine translation

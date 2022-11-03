@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fractional Fourier Transform Meets Transformer Encoder"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "F Sahinuc, A Koc - IEEE Signal Processing Letters, 2022"
----
-Utilizing signal processing tools in deep learning models has been drawing increasing attention. Fourier transform (FT), one of the most popular signal processing tools, is employed in many deep learning models. Transformer-based sequential input processing models have also started to make use of FT. In the existing FNet model, it is shown that replacing the attention layer, which is computationally expensive, with FT accelerates model training without sacrificing …
-Cites: ‪Hard-Coded Gaussian Attention for Neural Machine Translation‬
+--- 
+layout: post 
+title: "Fractional Fourier Transform Meets Transformer Encoder" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "F Sahinuc, A Koc - IEEE Signal Processing Letters, 2022" 
+--- 
+Utilizing signal processing tools in deep learning models has been drawing increasing attention. Fourier transform (FT), one of the most popular signal processing tools, is employed in many deep learning models. Transformer-based sequential input processing models have also started to make use of FT. In the existing FNet model, it is shown that replacing the attention layer, which is computationally expensive, with FT accelerates model training without sacrificing  Cites: Hard-Coded Gaussian Attention for Neural Machine Translation

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving imbalanced learning by pre-finetuning with data augmentation"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "Y Shi, T ValizadehAslani, J Wang, P Ren, Y Zhang… - … International Workshop on …, 2022"
----
-Imbalanced data is ubiquitous in the real world, where there is an uneven distribution of classes in the datasets. Such class imbalance poses a major challenge for modern deep learning, even with the typical class-balanced approaches such as re-sampling and re-weighting. In this work, we introduced a simple training strategy, namely pre-finetuning, as a new intermediate training stage in between the pretrained model and finetuning. We leveraged the idea of data augmentation to learn an initial …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Improving imbalanced learning by pre-finetuning with data augmentation" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "Y Shi, T ValizadehAslani, J Wang, P Ren, Y Zhang - International Workshop on , 2022" 
+--- 
+Imbalanced data is ubiquitous in the real world, where there is an uneven distribution of classes in the datasets. Such class imbalance poses a major challenge for modern deep learning, even with the typical class-balanced approaches such as re-sampling and re-weighting. In this work, we introduced a simple training strategy, namely pre-finetuning, as a new intermediate training stage in between the pretrained model and finetuning. We leveraged the idea of data augmentation to learn an initial  Cites: Bert: Pre-training of deep bidirectional transformers for language

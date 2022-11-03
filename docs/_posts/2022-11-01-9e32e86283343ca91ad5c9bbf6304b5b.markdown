@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised Knowledge Graph Construction and Event-centric Knowledge Infusion for Scientific NLI"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "C Wang, Y Zhou, G Long, X Wang, X Xu - arXiv preprint arXiv:2210.15248, 2022"
----
-With the advance of natural language inference (NLI), a rising demand for NLI is to handle scientific texts. Existing methods depend on pre-trained models (PTM) which lack domain-specific knowledge. To tackle this drawback, we introduce a scientific knowledge graph to generalize PTM to scientific domain. However, existing knowledge graph construction approaches suffer from some drawbacks, ie, expensive labeled data, failure to apply in other domains, long inference time and …
-Cites: ‪Semeval 2017 task 10: Scienceie-extracting keyphrases and …‬
+--- 
+layout: post 
+title: "Unsupervised Knowledge Graph Construction and Event-centric Knowledge Infusion for Scientific NLI" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "C Wang, Y Zhou, G Long, X Wang, X Xu - arXiv preprint arXiv:2210.15248, 2022" 
+--- 
+With the advance of natural language inference (NLI), a rising demand for NLI is to handle scientific texts. Existing methods depend on pre-trained models (PTM) which lack domain-specific knowledge. To tackle this drawback, we introduce a scientific knowledge graph to generalize PTM to scientific domain. However, existing knowledge graph construction approaches suffer from some drawbacks, ie, expensive labeled data, failure to apply in other domains, long inference time and  Cites: Semeval 2017 task 10: Scienceie-extracting keyphrases and

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Single-Index Models with Shallow Neural Networks"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "A Bietti, J Bruna, C Sanford, MJ Song - arXiv preprint arXiv:2210.15651, 2022"
----
-Single-index models are a class of functions given by an unknown univariate``link  function applied to an unknown one-dimensional projection of the input. These models are particularly relevant in high dimension, when the data might present low-dimensional structure that learning algorithms should adapt to. While several statistical aspects of this model, such as the sample complexity of recovering the relevant (one-dimensional) subspace, are well-understood, they rely on tailored …
-Cites: ‪Towards understanding hierarchical learning: Benefits of neural …‬
+--- 
+layout: post 
+title: "Learning Single-Index Models with Shallow Neural Networks" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "A Bietti, J Bruna, C Sanford, MJ Song - arXiv preprint arXiv:2210.15651, 2022" 
+--- 
+Single-index models are a class of functions given by an unknown univariate``link function applied to an unknown one-dimensional projection of the input. These models are particularly relevant in high dimension, when the data might present low-dimensional structure that learning algorithms should adapt to. While several statistical aspects of this model, such as the sample complexity of recovering the relevant (one-dimensional) subspace, are well-understood, they rely on tailored  Cites: Towards understanding hierarchical learning: Benefits of neural

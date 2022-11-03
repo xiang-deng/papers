@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data-Driven Approach for Spellchecking and Autocorrection"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "A Toleu, G Tolegen, R Mussabayev, A Krassovitskiy… - Symmetry, 2022"
----
-This article presents an approach for spellchecking and autocorrection using web data for morphologically complex languages (in the case of Kazakh language), which can be considered an end-to-end approach that does not require any manually annotated word–error pairs. A sizable web of noisy data is crawled and used as a base to infer the knowledge of misspellings with their correct forms. Using the extracted corpus, a sub-string error model with a context model for …
-Cites: ‪NeuSpell: A Neural Spelling Correction Toolkit‬
+--- 
+layout: post 
+title: "Data-Driven Approach for Spellchecking and Autocorrection" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "A Toleu, G Tolegen, R Mussabayev, A Krassovitskiy - Symmetry, 2022" 
+--- 
+This article presents an approach for spellchecking and autocorrection using web data for morphologically complex languages (in the case of Kazakh language), which can be considered an end-to-end approach that does not require any manually annotated worderror pairs. A sizable web of noisy data is crawled and used as a base to infer the knowledge of misspellings with their correct forms. Using the extracted corpus, a sub-string error model with a context model for  Cites: NeuSpell: A Neural Spelling Correction Toolkit

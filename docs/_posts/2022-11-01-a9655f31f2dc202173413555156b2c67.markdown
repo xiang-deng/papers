@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LSG Attention: Extrapolation of pretrained Transformers to long sequences"
-date:   2022-11-01 03:49:43 -0400
-categories: jekyll update
-author: "C Condevaux, S Harispe - arXiv preprint arXiv:2210.15497, 2022"
----
-Transformer models achieve state-of-the-art performance on a wide range of NLP tasks. They however suffer from a prohibitive limitation due to the self-attention mechanism, inducing $ O (n^ 2) $ complexity with regard to sequence length. To answer this limitation we introduce the LSG architecture which relies on Local, Sparse and Global attention. We show that LSG attention is fast, efficient and competitive in classification and summarization tasks on long documents …
-Cites: ‪Train short, test long: Attention with linear biases enables input …‬
+--- 
+layout: post 
+title: "LSG Attention: Extrapolation of pretrained Transformers to long sequences" 
+date: 2022-11-01 03:49:43 -0400 
+categories: jekyll update 
+author: "C Condevaux, S Harispe - arXiv preprint arXiv:2210.15497, 2022" 
+--- 
+Transformer models achieve state-of-the-art performance on a wide range of NLP tasks. They however suffer from a prohibitive limitation due to the self-attention mechanism, inducing $ O (n^ 2) $ complexity with regard to sequence length. To answer this limitation we introduce the LSG architecture which relies on Local, Sparse and Global attention. We show that LSG attention is fast, efficient and competitive in classification and summarization tasks on long documents  Cites: Train short, test long: Attention with linear biases enables input
