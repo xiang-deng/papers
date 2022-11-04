@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Two is Better than Many? Binary Classification as an Effective Approach to Multi-Choice Question Answering"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "D Ghosal, N Majumder, R Mihalcea, S Poria - arXiv preprint arXiv:2210.16495, 2022"
+---
+We propose a simple refactoring of multi-choice question answering (MCQA) tasks as a series of binary classifications. The MCQA task is generally performed by scoring each (question, answer) pair normalized over all the pairs, and then selecting the answer from the pair that yield the highest score. For n answer choices, this is equivalent to an n-class classification setup where only one class (true answer) is correct. We instead show that classifying (question, true answer) as …
+Cites: ‪CommonsenseQA 2.0: Exposing the Limits of AI through Gamification‬

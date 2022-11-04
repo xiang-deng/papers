@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CodeEditor: Learning to Edit Source Code with Pre-trained Models"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "J Li, G Li, Z Li, Z Jin, X Hu, K Zhang, Z Fu - arXiv preprint arXiv:2210.17040, 2022"
+---
+Developers often perform repetitive code editing activities for various reasons (eg, code refactor) during software development. Many deep learning models are applied to automate code editing by learning from the code editing history. Recently, pre-trained code editing models have achieved the state-of-the-art (SOTA) results. Pre-trained models are first pre-trained with pre-training tasks and fine-tuned with the code editing task. Existing pre-training tasks mainly are code infilling tasks (eg …
+Cites: ‪Tranx: A transition-based neural abstract syntax parser for …‬

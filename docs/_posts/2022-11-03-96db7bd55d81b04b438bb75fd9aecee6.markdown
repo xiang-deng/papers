@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BEBERT: Efficient and robust binary ensemble BERT"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "J Tian, C Fang, H Wang, Z Wang - arXiv preprint arXiv:2210.15976, 2022"
+---
+Pre-trained BERT models have achieved impressive accuracy on natural language processing (NLP) tasks. However, their excessive amount of parameters hinders them from efficient deployment on edge devices. Binarization of the BERT models can significantly alleviate this issue but comes with a severe accuracy drop compared with their full-precision counterparts. In this paper, we propose an efficient and robust binary ensemble BERT (BEBERT) to bridge the accuracy gap. To the best …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

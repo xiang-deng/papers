@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Distributionally Robust Domain Adaptation"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "AS Awad, GK Atia - arXiv preprint arXiv:2210.16894, 2022"
+---
+Domain Adaptation (DA) has recently received significant attention due to its potential to adapt a learning model across source and target domains with mismatched distributions. Since DA methods rely exclusively on the given source and target domain samples, they generally yield models that are vulnerable to noise and unable to adapt to unseen samples from the target domain, which calls for DA methods that guarantee the robustness and generalization of the learned models. In …
+Cites: ‪Multi-Source Domain Adaptation for Text Classification via …‬

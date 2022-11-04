@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Coverage-centric Coreset Selection for High Pruning Rates"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "H Zheng, R Liu, F Lai, A Prakash - arXiv preprint arXiv:2210.15809, 2022"
+---
+One-shot coreset selection aims to select a subset of the training data, given a pruning rate, that can achieve high accuracy for models that are subsequently trained only with that subset. State-of-the-art coreset selection methods typically assign an importance score to each example and select the most important examples to form a coreset. These methods perform well at low pruning rates; but at high pruning rates, they have been found to suffer a catastrophic accuracy drop …
+Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬

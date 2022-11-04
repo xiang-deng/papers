@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Reliable Zero Shot Classification in Self-Supervised Models with Conformal Prediction"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "B Kumar, A Palepu, R Tuwani, A Beam - arXiv preprint arXiv:2210.15805, 2022"
+---
+Self-supervised models trained with a contrastive loss such as CLIP have shown to be very powerful in zero-shot classification settings. However, to be used as a zero-shot classifier these models require the user to provide new captions over a fixed set of labels at test time. In many settings, it is hard or impossible to know if a new query caption is compatible with the source captions used to train the model. We address these limitations by framing the zero-shot classification task as an outlier detection …
+Cites: ‪Contrastive learning of medical visual representations from paired …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Nearest Neighbor Language Models for Stylistic Controllable Generation"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "S Trotta, L Flek, C Welch - arXiv preprint arXiv:2210.15762, 2022"
+---
+Recent language modeling performance has been greatly improved by the use of external memory. This memory encodes the context so that similar contexts can be recalled during decoding. This similarity depends on how the model learns to encode context, which can be altered to include other attributes, such as style. We construct and evaluate an architecture for this purpose, using corpora annotated for politeness, formality, and toxicity. Through extensive experiments and human …
+Cites: ‪Neuro-symbolic language modeling with automaton-augmented …‬

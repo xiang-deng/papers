@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "QuaLA-MiniLM: a Quantized Length Adaptive MiniLM"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "S Guskin, M Wasserblat, C Wang, H Shen - arXiv preprint arXiv:2210.17114, 2022"
+---
+Limited computational budgets often prevent transformers from being used in production and from having their high accuracy utilized. A knowledge distillation approach addresses the computational efficiency by self-distilling BERT into a smaller transformer representation having fewer layers and smaller internal embedding. However, the performance of these models drops as we reduce the number of layers, notably in advanced NLP tasks such as span question answering …
+Cites: ‪Length-adaptive transformer: Train once with length drop, use …‬

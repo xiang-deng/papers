@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reduce Catastrophic Forgetting of Dense Retrieval Training with Teleportation Negatives"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "S Sun, C Xiong, Y Yu, A Overwijk, Z Liu, J Bao - arXiv preprint arXiv:2210.17167, 2022"
+---
+In this paper, we investigate the instability in the standard dense retrieval training, which iterates between model training and hard negative selection using the being-trained model. We show the catastrophic forgetting phenomena behind the training instability, where models learn and forget different negative groups during training iterations. We then propose ANCE-Tele, which accumulates momentum negatives from past iterations and approximates future iterations using lookahead negatives …
+Cites: ‪Sparse, dense, and attentional representations for text retrieval‬

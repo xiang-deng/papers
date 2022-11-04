@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Radically Lower Data-Labeling Costs for Visually Rich Document Extraction Models"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "Y Zhou, JB Wendt, N Potti, J Xie, S Tata - arXiv preprint arXiv:2210.16391, 2022"
+---
+A key bottleneck in building automatic extraction models for visually rich documents like invoices is the cost of acquiring the several thousand high-quality labeled documents that are needed to train a model with acceptable accuracy. We propose Selective Labeling to simplify the labeling task to provide  yes/no  labels for candidate extractions predicted by a model trained on partially labeled documents. We combine this with a custom active learning strategy to find the predictions that the …
+Cites: ‪Cold-start active learning through self-supervised language …‬

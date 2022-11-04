@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Elastic Weight Consolidation Improves the Robustness of Self-Supervised Learning Methods under Transfer"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "A Ovsianas, J Ramapuram, D Busbridge, EG Dhekane… - arXiv preprint arXiv …, 2022"
+---
+Self-supervised representation learning (SSL) methods provide an effective label-free initial condition for fine-tuning downstream tasks. However, in numerous realistic scenarios, the downstream task might be biased with respect to the target label distribution. This in turn moves the learned fine-tuned model posterior away from the initial (label) bias-free self-supervised model posterior. In this work, we re-interpret SSL fine-tuning under the lens of Bayesian continual learning and consider …
+Cites: ‪Just train twice: Improving group robustness without training group …‬

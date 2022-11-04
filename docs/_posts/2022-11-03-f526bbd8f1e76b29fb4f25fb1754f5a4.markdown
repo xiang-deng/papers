@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Lita: Accelerating Distributed Training of Sparsely Activated Models"
+date:   2022-11-03 01:42:13 -0400
+categories: jekyll update
+author: "J Li, Y Jiang, Y Zhu, C Wang, H Xu - arXiv preprint arXiv:2210.17223, 2022"
+---
+Scaling model parameters usually improves model quality, but at the price of high computation overhead. Sparsely activated models, usually in the form of Mixture of Experts (MoE) architecture, have constant computation cost over their dense counterparts, thus providing opportunities to train and serve a large model at a reasonable cost. However, the distributed training of an MoE model is prone to low efficiency, mainly due to the interleaved all-to-all communication during model …
+Cites: ‪Glam: Efficient scaling of language models with mixture-of-experts‬
