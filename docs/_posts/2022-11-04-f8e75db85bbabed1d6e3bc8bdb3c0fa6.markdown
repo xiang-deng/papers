@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "What is my math transformer doing?--Three results on interpretability and generalization"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "F Charton - arXiv preprint arXiv:2211.00170, 2022"
+---
+This paper investigates the failure cases and out-of-distribution behavior of transformers trained on matrix inversion and eigenvalue decomposition. I show that incorrect model predictions still retain deep mathematical properties of the solution (eg correct eigenvalues, unit norm of eigenvectors), and that almost all model failures can be attributed to, and predicted from, properties of the problem or solution. This demonstrates that, when in doubt, math transformers do not hallucinate absurd …
+Cites: ‪Symbolic brittleness in sequence models: on systematic …‬

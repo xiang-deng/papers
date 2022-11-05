@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Collaborative Filtering Recommendation Algorithm Based on Restricted Random Walk"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "C Bin - ICT Systems and Sustainability, 2023"
+---
+Traditional collaborative filtering disregards the granularity of users  preference drifting and item popularity bias in modeling, thus diminished the accuracy of recommendation. This paper proposes a new collaborative filtering algorithm based on constrained random walk. Two new trust network: user-based and item-based are proposed, with Restricted Random Walk (RW) to adaptively track the change of users  preference drifting and item popularity bias. Experimental results on social …
+Cites: ‪Recommender systems with social regularization‬

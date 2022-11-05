@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Controllable Factuality in Document-Grounded Dialog Systems Using a Noisy Channel Model"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "N Daheim, D Thulke, C Dugast, H Ney - arXiv preprint arXiv:2210.17418, 2022"
----
-In this work, we present a model for document-grounded response generation in dialog that is decomposed into two components according to Bayes theorem. One component is a traditional ungrounded response generation model and the other component models the reconstruction of the grounding document based on the dialog context and generated response. We propose different approximate decoding schemes and evaluate our approach on multiple open-domain and task-oriented …
-Cites: ‪Noisy channel language model prompting for few-shot text …‬
+--- 
+layout: post 
+title: "Controllable Factuality in Document-Grounded Dialog Systems Using a Noisy Channel Model" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "N Daheim, D Thulke, C Dugast, H Ney - arXiv preprint arXiv:2210.17418, 2022" 
+--- 
+In this work, we present a model for document-grounded response generation in dialog that is decomposed into two components according to Bayes theorem. One component is a traditional ungrounded response generation model and the other component models the reconstruction of the grounding document based on the dialog context and generated response. We propose different approximate decoding schemes and evaluate our approach on multiple open-domain and task-oriented  Cites: Noisy channel language model prompting for few-shot text

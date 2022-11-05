@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "R Pan, TA Ghaleb, L Briand - arXiv preprint arXiv:2210.16269, 2022"
----
-Executing large test suites is time and resource consuming, sometimes impossible, and such test suites typically contain many redundant test cases. Hence, test case minimization is used to remove redundant test cases that are unlikely to detect new faults. However, most test case minimization techniques rely on code coverage (white-box), model-based features, or requirements specifications, which are not always accessible by test engineers. Recently, a set of novel techniques was …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "R Pan, TA Ghaleb, L Briand - arXiv preprint arXiv:2210.16269, 2022" 
+--- 
+Executing large test suites is time and resource consuming, sometimes impossible, and such test suites typically contain many redundant test cases. Hence, test case minimization is used to remove redundant test cases that are unlikely to detect new faults. However, most test case minimization techniques rely on code coverage (white-box), model-based features, or requirements specifications, which are not always accessible by test engineers. Recently, a set of novel techniques was  Cites: Codebert: A pre-trained model for programming and natural

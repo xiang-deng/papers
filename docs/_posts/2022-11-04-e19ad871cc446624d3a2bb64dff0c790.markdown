@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards More Informative List Verbalisations"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "L Krause, P Sommerauer, P Vossen - 2022"
+---
+In this paper we propose the task of list verbalisation within a Knowledge Graph Question Answering system. Inspired by the Gricean Maxims of Quantity, Relation, and Manner we show a proof of concept ranking answer candidates through graph-based and language model-based measurements for on the one hand popularity and on the other hand a more pragmatically informed context. Our finding show that in our current set-up graph-based measures work best, while language model-based …
+Cites: ‪Text generation from knowledge graphs with graph transformers‬

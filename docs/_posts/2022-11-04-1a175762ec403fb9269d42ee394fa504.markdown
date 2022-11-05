@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Evaluation of Word Embeddings for Toxic Span Prediction"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "N Kiran Babu, K Hima Bindu - Proceedings of the International Conference on …, 2022"
+---
+Toxic span prediction task is to predict the span of toxic content in social media posts, to identify objectionable parts of them. This task is dependent on word embeddings that represent the tokens as vectors and the model used for span prediction. This paper describes our experiment to evaluate word embeddings ranging from static and contextual to transformer-based embeddings for toxic span detection. Motivated by the top performers of SemEval 2021 Task 5, we chose to follow the sequence …
+Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬

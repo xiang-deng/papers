@@ -1,9 +1,8 @@
----
-layout: post
-title:  "StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "Y Liu, J Jia, H Liu, NZ Gong - 2022"
----
-Pre-trained encoders are general-purpose feature extractors that can be used for many downstream tasks. Recent progress in selfsupervised learning can pre-train highly effective encoders using a large volume of unlabeled data, leading to the emerging encoder as a service (EaaS). A pre-trained encoder may be deemed confidential because its training requires lots of data and computation resources as well as its public release may facilitate misuse of AI, eg, for deepfakes generation. In …
-Cites: ‪Thieves on Sesame Street! Model Extraction of BERT-based APIs‬
+--- 
+layout: post 
+title: "StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "Y Liu, J Jia, H Liu, NZ Gong - 2022" 
+--- 
+Pre-trained encoders are general-purpose feature extractors that can be used for many downstream tasks. Recent progress in selfsupervised learning can pre-train highly effective encoders using a large volume of unlabeled data, leading to the emerging encoder as a service (EaaS). A pre-trained encoder may be deemed confidential because its training requires lots of data and computation resources as well as its public release may facilitate misuse of AI, eg, for deepfakes generation. In  Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

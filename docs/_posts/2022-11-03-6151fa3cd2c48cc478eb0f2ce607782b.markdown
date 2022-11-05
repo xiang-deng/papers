@@ -1,9 +1,8 @@
----
-layout: post
-title:  "When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "W Shi, E Dinan, K Shuster, J Weston, J Xu - arXiv preprint arXiv:2210.15893, 2022"
----
-Deployed dialogue agents have the potential to integrate human feedback to continuously improve themselves. However, humans may not always provide explicit signals when the chatbot makes mistakes during interactions. In this work, we propose Juicer, a framework to make use of both binary and free-form textual human feedback. It works by:(i) extending sparse binary feedback by training a satisfaction classifier to label the unlabeled data; and (ii) training a reply corrector to map the bad …
-Cites: ‪I like fish, especially dolphins: Addressing Contradictions in …‬
+--- 
+layout: post 
+title: "When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "W Shi, E Dinan, K Shuster, J Weston, J Xu - arXiv preprint arXiv:2210.15893, 2022" 
+--- 
+Deployed dialogue agents have the potential to integrate human feedback to continuously improve themselves. However, humans may not always provide explicit signals when the chatbot makes mistakes during interactions. In this work, we propose Juicer, a framework to make use of both binary and free-form textual human feedback. It works by:(i) extending sparse binary feedback by training a satisfaction classifier to label the unlabeled data; and (ii) training a reply corrector to map the bad  Cites: I like fish, especially dolphins: Addressing Contradictions in

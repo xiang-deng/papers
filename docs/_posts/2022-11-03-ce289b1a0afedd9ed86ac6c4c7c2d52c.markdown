@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-Shot Text Classification with Self-Training"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "A Gera, A Halfon, E Shnarch, Y Perlitz, L Ein-Dor… - arXiv preprint arXiv …, 2022"
----
-Recent advances in large pretrained language models have increased attention to zero-shot text classification. In particular, models finetuned on natural language inference datasets have been widely adopted as zero-shot classifiers due to their promising results and off-the-shelf availability. However, the fact that such models are unfamiliar with the target task can lead to instability and performance issues. We propose a plug-and-play method to bridge this gap using a simple self-training …
-Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬
+--- 
+layout: post 
+title: "Zero-Shot Text Classification with Self-Training" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "A Gera, A Halfon, E Shnarch, Y Perlitz, L Ein-Dor - arXiv preprint arXiv , 2022" 
+--- 
+Recent advances in large pretrained language models have increased attention to zero-shot text classification. In particular, models finetuned on natural language inference datasets have been widely adopted as zero-shot classifiers due to their promising results and off-the-shelf availability. However, the fact that such models are unfamiliar with the target task can lead to instability and performance issues. We propose a plug-and-play method to bridge this gap using a simple self-training  Cites: Benchmarking zero-shot text classification: Datasets, evaluation

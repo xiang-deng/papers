@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "D Mamakas, P Tsotsi, I Androutsopoulos, I Chalkidis - arXiv preprint arXiv …, 2022"
+---
+Pre-trained Transformers currently dominate most NLP tasks. They impose, however, limits on the maximum input length (512 sub-words in BERT), which are too restrictive in the legal domain. Even sparse-attention models, such as Longformer and BigBird, which increase the maximum input length to 4,096 sub-words, severely truncate texts in three of the six datasets of LexGLUE. Simpler linear classifiers with TF-IDF features can handle texts of any length, require far less resources to train and …
+Cites: ‪Lawformer: A pre-trained language model for chinese legal long …‬

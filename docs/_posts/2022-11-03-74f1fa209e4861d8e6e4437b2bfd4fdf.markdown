@@ -1,9 +1,0 @@
----
-layout: post
-title:  "DiffusER: Discrete Diffusion via Edit-based Reconstruction"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "M Reid, VJ Hellendoorn, G Neubig - arXiv preprint arXiv:2210.16886, 2022"
----
-In text generation, models that generate text from scratch one token at a time are currently the dominant paradigm. Despite being performant, these models lack the ability to revise existing text, which limits their usability in many practical scenarios. We look to address this, with DiffusER (Diffusion via Edit-based Reconstruction), a new edit-based generative model for text based on denoising diffusion models--a class of models that use a Markov chain of denoising steps to incrementally generate …
-Cites: ‪Cm3: A causal masked multimodal model of the internet‬

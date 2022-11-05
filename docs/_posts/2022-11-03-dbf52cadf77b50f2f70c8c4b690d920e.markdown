@@ -1,9 +1,8 @@
----
-layout: post
-title:  "QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "K Srinivasan, K Raman, A Samanta, L Liao, L Bertelli… - arXiv preprint arXiv …, 2022"
----
-Large Language Models (LLMs) have shown impressive results on a variety of text understanding tasks. Search queries though pose a unique challenge, given their short-length and lack of nuance or context. Complicated feature engineering efforts do not always lead to downstream improvements as their performance benefits may be offset by increased complexity of knowledge distillation. Thus, in this paper we make the following contributions:(1) We demonstrate that Retrieval Augmentation of …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "K Srinivasan, K Raman, A Samanta, L Liao, L Bertelli - arXiv preprint arXiv , 2022" 
+--- 
+Large Language Models (LLMs) have shown impressive results on a variety of text understanding tasks. Search queries though pose a unique challenge, given their short-length and lack of nuance or context. Complicated feature engineering efforts do not always lead to downstream improvements as their performance benefits may be offset by increased complexity of knowledge distillation. Thus, in this paper we make the following contributions:(1) We demonstrate that Retrieval Augmentation of  Cites: Palm: Scaling language modeling with pathways

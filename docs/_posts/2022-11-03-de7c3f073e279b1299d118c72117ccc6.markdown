@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Accelerating RNN-T Training and Inference Using CTC guidance"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "Y Wang, Z Chen, C Zheng, Y Zhang, W Han… - arXiv preprint arXiv …, 2022"
----
-We propose a novel method to accelerate training and inference process of recurrent neural network transducer (RNN-T) based on the guidance from a co-trained connectionist temporal classification (CTC) model. We made a key assumption that if an encoder embedding frame is classified as a blank frame by the CTC model, it is likely that this frame will be aligned to blank for all the partial alignments or hypotheses in RNN-T and it can be discarded from the decoder input. We also show …
-Cites: ‪LegoNN: Building Modular Encoder-Decoder Models‬
+--- 
+layout: post 
+title: "Accelerating RNN-T Training and Inference Using CTC guidance" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "Y Wang, Z Chen, C Zheng, Y Zhang, W Han - arXiv preprint arXiv , 2022" 
+--- 
+We propose a novel method to accelerate training and inference process of recurrent neural network transducer (RNN-T) based on the guidance from a co-trained connectionist temporal classification (CTC) model. We made a key assumption that if an encoder embedding frame is classified as a blank frame by the CTC model, it is likely that this frame will be aligned to blank for all the partial alignments or hypotheses in RNN-T and it can be discarded from the decoder input. We also show  Cites: LegoNN: Building Modular Encoder-Decoder Models

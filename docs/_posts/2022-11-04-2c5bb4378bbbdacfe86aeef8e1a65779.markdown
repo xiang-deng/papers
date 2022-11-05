@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Active Learning on Heteroskedastic Distributions"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "S Khosla, CK Whye, JT Ash, C Zhang, K Kawaguchi… - arXiv preprint arXiv …, 2022"
+---
+Models that can actively seek out the best quality training data hold the promise of more accurate, adaptable, and efficient machine learning. State-of-the-art active learning techniques tend to prefer examples that are the most difficult to classify. While this works well on homogeneous datasets, we find that it can lead to catastrophic failures when performed on multiple distributions with different degrees of label noise or heteroskedasticity. These active learning algorithms strongly prefer …
+Cites: ‪Margin-based active learning for structured output spaces‬

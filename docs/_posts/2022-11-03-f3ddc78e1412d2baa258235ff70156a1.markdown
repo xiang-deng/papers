@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Poison Attack and Defense on Deep Source Code Processing Models"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "J Li, Z Li, H Zhang, G Li, Z Jin, X Hu, X Xia - arXiv preprint arXiv:2210.17029, 2022"
----
-In the software engineering community, deep learning (DL) has recently been applied to many source code processing tasks. Due to the poor interpretability of DL models, their security vulnerabilities require scrutiny. Recently, researchers have identified an emergent security threat, namely poison attack. The attackers aim to inject insidious backdoors into models by poisoning the training data with poison samples. Poisoned models work normally with clean inputs but produce targeted …
-Cites: ‪Turn the combination lock: Learnable textual backdoor attacks via …‬
+--- 
+layout: post 
+title: "Poison Attack and Defense on Deep Source Code Processing Models" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "J Li, Z Li, H Zhang, G Li, Z Jin, X Hu, X Xia - arXiv preprint arXiv:2210.17029, 2022" 
+--- 
+In the software engineering community, deep learning (DL) has recently been applied to many source code processing tasks. Due to the poor interpretability of DL models, their security vulnerabilities require scrutiny. Recently, researchers have identified an emergent security threat, namely poison attack. The attackers aim to inject insidious backdoors into models by poisoning the training data with poison samples. Poisoned models work normally with clean inputs but produce targeted  Cites: Turn the combination lock: Learnable textual backdoor attacks via

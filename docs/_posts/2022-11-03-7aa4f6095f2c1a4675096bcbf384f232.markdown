@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A 64TOPS Energy-Efficient Tensor Accelerator in 14nm with Reconfigurable Fetch Network and Processing Fusion for Maximal Data Reuse"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "Y Choi, M Kim, C Park, K Jang, Y Kim, Y Kim"
----
-For energy-efficient accelerators in data centers that leverage advances in the performance and energy efficiency of recent algorithms, flexible architectures are critical to support state-of-the-art algorithms for various deep learning tasks. Due to the matrix multiplication units at the core of tensor operations, most recent programmable architectures lack flexibility for layers with diminished dimensions, especially for inferences where a large batch axis is rarely allowed. In addition …
-Cites: ‪A full-stack search technique for domain optimized deep learning …‬
+--- 
+layout: post 
+title: "A 64TOPS Energy-Efficient Tensor Accelerator in 14nm with Reconfigurable Fetch Network and Processing Fusion for Maximal Data Reuse" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "Y Choi, M Kim, C Park, K Jang, Y Kim, Y Kim" 
+--- 
+For energy-efficient accelerators in data centers that leverage advances in the performance and energy efficiency of recent algorithms, flexible architectures are critical to support state-of-the-art algorithms for various deep learning tasks. Due to the matrix multiplication units at the core of tensor operations, most recent programmable architectures lack flexibility for layers with diminished dimensions, especially for inferences where a large batch axis is rarely allowed. In addition  Cites: A full-stack search technique for domain optimized deep learning

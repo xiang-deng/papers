@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How Far are We from Robust Long Abstractive Summarization?"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "HY Koh, J Ju, H Zhang, M Liu, S Pan - arXiv preprint arXiv:2210.16732, 2022"
----
-Abstractive summarization has made tremendous progress in recent years. In this work, we perform fine-grained human annotations to evaluate long document abstractive summarization systems (ie, models and metrics) with the aim of implementing them to generate reliable summaries. For long document abstractive models, we show that the constant strive for state-of-the-art ROUGE results can lead us to generate more relevant summaries but not factual ones. For long document …
-Cites: ‪Annotating and Modeling Fine-grained Factuality in Summarization‬
+--- 
+layout: post 
+title: "How Far are We from Robust Long Abstractive Summarization?" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "HY Koh, J Ju, H Zhang, M Liu, S Pan - arXiv preprint arXiv:2210.16732, 2022" 
+--- 
+Abstractive summarization has made tremendous progress in recent years. In this work, we perform fine-grained human annotations to evaluate long document abstractive summarization systems (ie, models and metrics) with the aim of implementing them to generate reliable summaries. For long document abstractive models, we show that the constant strive for state-of-the-art ROUGE results can lead us to generate more relevant summaries but not factual ones. For long document  Cites: Annotating and Modeling Fine-grained Factuality in Summarization

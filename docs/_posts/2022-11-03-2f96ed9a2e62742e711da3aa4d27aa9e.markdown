@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Transfer Learning with Synthetic Corpora for Spatial Role Labeling and Reasoning"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "R Mirzaee, P Kordjamshidi - arXiv preprint arXiv:2210.16952, 2022"
----
-Recent research shows synthetic data as a source of supervision helps pretrained language models (PLM) transfer learning to new target tasks/domains. However, this idea is less explored for spatial language. We provide two new data resources on multiple spatial language processing tasks. The first dataset is synthesized for transfer learning on spatial question answering (SQA) and spatial role labeling (SpRL). Compared to previous SQA datasets, we include a larger variety of spatial …
-Cites: ‪Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter …‬
+--- 
+layout: post 
+title: "Transfer Learning with Synthetic Corpora for Spatial Role Labeling and Reasoning" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "R Mirzaee, P Kordjamshidi - arXiv preprint arXiv:2210.16952, 2022" 
+--- 
+Recent research shows synthetic data as a source of supervision helps pretrained language models (PLM) transfer learning to new target tasks/domains. However, this idea is less explored for spatial language. We provide two new data resources on multiple spatial language processing tasks. The first dataset is synthesized for transfer learning on spatial question answering (SQA) and spatial role labeling (SpRL). Compared to previous SQA datasets, we include a larger variety of spatial  Cites: Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter

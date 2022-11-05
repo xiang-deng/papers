@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Gradient Knowledge Distillation for Pre-trained Language Models"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "L Wang, L Li, X Sun - arXiv preprint arXiv:2211.01071, 2022"
+---
+Knowledge distillation (KD) is an effective framework to transfer knowledge from a large-scale teacher to a compact yet well-performing student. Previous KD practices for pre-trained language models mainly transfer knowledge by aligning instance-wise outputs between the teacher and student, while neglecting an important knowledge source, ie, the gradient of the teacher. The gradient characterizes how the teacher responds to changes in inputs, which we assume is beneficial for the …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

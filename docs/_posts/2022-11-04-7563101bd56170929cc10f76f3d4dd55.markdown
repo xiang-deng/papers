@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scalable linear invariant generation with Farkas  lemma"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "H Liu, H Fu, Z Yu, J Song, G Li - Proceedings of the ACM on Programming …, 2022"
+---
+Invariant generation is a classical problem to automatically generate invariants to aid the formal analysis of programs. In this work, we consider the problem of generating tight linear-invariants over affine programs (ie, programs with affine guards and updates) without a prescribed goal property. In the literature, the only known sound and complete characterization to solve this problem is via Farkas  Lemma (FL), and has been implemented through either quantifier elimination or reasonable heuristics …
+Cites: ‪Learning invariants using decision trees and implication …‬

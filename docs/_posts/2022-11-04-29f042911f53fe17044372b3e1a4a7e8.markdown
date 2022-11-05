@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FRSUM: Towards Faithful Abstractive Summarization via Enhancing Factual Robustness"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "W Wu, W Li, J Liu, X Xiao, Z Cao, S Li, H Wu - arXiv preprint arXiv:2211.00294, 2022"
+---
+Despite being able to generate fluent and grammatical text, current Seq2Seq summarization models still suffering from the unfaithful generation problem. In this paper, we study the faithfulness of existing systems from a new perspective of factual robustness which is the ability to correctly generate factual information over adversarial unfaithful information. We first measure a model s factual robustness by its success rate to defend against adversarial attacks when generating factual …
+Cites: ‪Adversarially regularising neural NLI models to integrate logical …‬

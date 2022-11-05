@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LegoNet: A Fast and Exact Unlearning Architecture"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "S Yu, F Sun, J Guo, R Zhang, X Cheng - arXiv preprint arXiv:2210.16023, 2022"
----
-Machine unlearning aims to erase the impact of specific training samples upon deleted requests from a trained model. Re-training the model on the retained data after deletion is an effective but not efficient way due to the huge number of model parameters and re-training samples. To speed up, a natural way is to reduce such parameters and samples. However, such a strategy typically leads to a loss in model performance, which poses the challenge that increasing the unlearning efficiency …
-Cites: ‪K-adapter: Infusing knowledge into pre-trained models with adapters‬
+--- 
+layout: post 
+title: "LegoNet: A Fast and Exact Unlearning Architecture" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "S Yu, F Sun, J Guo, R Zhang, X Cheng - arXiv preprint arXiv:2210.16023, 2022" 
+--- 
+Machine unlearning aims to erase the impact of specific training samples upon deleted requests from a trained model. Re-training the model on the retained data after deletion is an effective but not efficient way due to the huge number of model parameters and re-training samples. To speed up, a natural way is to reduce such parameters and samples. However, such a strategy typically leads to a loss in model performance, which poses the challenge that increasing the unlearning efficiency  Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

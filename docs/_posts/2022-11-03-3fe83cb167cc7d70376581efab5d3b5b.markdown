@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Goal Exploration Augmentation via Pre-trained Skills for Sparse-Reward Long-Horizon Goal-Conditioned Reinforcement Learning"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "L Wu, K Chen - arXiv preprint arXiv:2210.16058, 2022"
----
-Reinforcement learning (RL) often struggles to accomplish a sparse-reward long-horizon task in a complex environment. Goal-conditioned reinforcement learning (GCRL) has been employed to tackle this difficult problem via a curriculum of easy-to-reach sub-goals. In GCRL, exploring novel sub-goals is essential for the agent to ultimately find the pathway to the desired goal. How to explore novel sub-goals efficiently is one of the most challenging issues in GCRL. Several goal exploration …
-Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬
+--- 
+layout: post 
+title: "Goal Exploration Augmentation via Pre-trained Skills for Sparse-Reward Long-Horizon Goal-Conditioned Reinforcement Learning" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "L Wu, K Chen - arXiv preprint arXiv:2210.16058, 2022" 
+--- 
+Reinforcement learning (RL) often struggles to accomplish a sparse-reward long-horizon task in a complex environment. Goal-conditioned reinforcement learning (GCRL) has been employed to tackle this difficult problem via a curriculum of easy-to-reach sub-goals. In GCRL, exploring novel sub-goals is essential for the agent to ultimately find the pathway to the desired goal. How to explore novel sub-goals efficiently is one of the most challenging issues in GCRL. Several goal exploration  Cites: Explore, discover and learn: Unsupervised discovery of state

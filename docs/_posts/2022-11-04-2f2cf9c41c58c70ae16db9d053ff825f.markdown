@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Reduce Catastrophic Forgetting of Dense Retrieval Training with Teleportation Negatives"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "S Sun, C Xiong, Y Yu, A Overwijk, Z Liu, J Bao - arXiv preprint arXiv:2210.17167, 2022"
+---
+In this paper, we investigate the instability in the standard dense retrieval training, which iterates between model training and hard negative selection using the being-trained model. We show the catastrophic forgetting phenomena behind the training …

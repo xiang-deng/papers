@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Models with Conditional Computation Learn Suboptimal Solutions"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "M Muqeeth, H Liu, C Raffel"
+---
+Sparsely-activated neural networks with conditional computation learn to route their inputs through different subnetworks, providing a strong structural prior and reducing computational costs. Despite their possible benefits, models with learned routing often underperform their parameter-matched densely-activated counterparts as well as models that use non-learned heuristic routing strategies. In this paper, we hypothesize that these shortcomings stem from the gradient estimation techniques …
+Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬

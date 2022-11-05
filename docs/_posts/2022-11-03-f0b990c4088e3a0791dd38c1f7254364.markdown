@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "Y Fei, P Nie, Z Meng, R Wattenhofer, M Sachan - arXiv preprint arXiv:2210.16637, 2022"
----
-Recent work has demonstrated that pre-trained language models (PLMs) are zero-shot learners. However, most existing zero-shot methods involve heavy human engineering or complicated self-training pipelines, hindering their application to new situations. In this work, we show that zero-shot text classification can be improved simply by clustering texts in the embedding spaces of PLMs. Specifically, we fit the unlabeled texts with a Bayesian Gaussian Mixture Model after initializing cluster …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "Y Fei, P Nie, Z Meng, R Wattenhofer, M Sachan - arXiv preprint arXiv:2210.16637, 2022" 
+--- 
+Recent work has demonstrated that pre-trained language models (PLMs) are zero-shot learners. However, most existing zero-shot methods involve heavy human engineering or complicated self-training pipelines, hindering their application to new situations. In this work, we show that zero-shot text classification can be improved simply by clustering texts in the embedding spaces of PLMs. Specifically, we fit the unlabeled texts with a Bayesian Gaussian Mixture Model after initializing cluster  Cites: Palm: Scaling language modeling with pathways

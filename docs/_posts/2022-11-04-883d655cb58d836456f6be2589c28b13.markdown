@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Variational Autoencoders with Density Gap-based Regularization"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "J Zhang, J Bai, C Lin, Y Wang, W Rong - arXiv preprint arXiv:2211.00321, 2022"
+---
+Variational autoencoders (VAEs) are one of the powerful unsupervised learning frameworks in NLP for latent representation learning and latent-directed generation. The classic optimization goal of VAEs is to maximize the Evidence Lower Bound (ELBo), which consists of a conditional likelihood for generation and a negative Kullback-Leibler (KL) divergence for regularization. In practice, optimizing ELBo often leads the posterior distribution of all samples converge to the same …
+Cites: ‪Spherical Latent Spaces for Stable Variational Autoencoders‬

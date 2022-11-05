@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Feature Necessity & Relevancy in ML Classifier Explanations"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "X Huang, MC Cooper, A Morgado, J Planes… - arXiv preprint arXiv …, 2022"
----
-Given a machine learning (ML) model and a prediction, explanations can be defined as sets of features which are sufficient for the prediction. In some applications, and besides asking for an explanation, it is also critical to understand whether sensitive features can occur in some explanation, or whether a non-interesting feature must occur in all explanations. This paper starts by relating such queries respectively with the problems of relevancy and necessity in logic-based abduction. The paper then …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Feature Necessity & Relevancy in ML Classifier Explanations" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "X Huang, MC Cooper, A Morgado, J Planes - arXiv preprint arXiv , 2022" 
+--- 
+Given a machine learning (ML) model and a prediction, explanations can be defined as sets of features which are sufficient for the prediction. In some applications, and besides asking for an explanation, it is also critical to understand whether sensitive features can occur in some explanation, or whether a non-interesting feature must occur in all explanations. This paper starts by relating such queries respectively with the problems of relevancy and necessity in logic-based abduction. The paper then  Cites: Anchors: High-Precision Model-Agnostic Explanations

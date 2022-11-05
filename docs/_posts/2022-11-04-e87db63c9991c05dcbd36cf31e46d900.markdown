@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Numerical Stability of Hyperbolic Representation Learning"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "G Mishne, Z Wan, Y Wang, S Yang - arXiv preprint arXiv:2211.00181, 2022"
+---
+Given the exponential growth of the volume of the ball wrt its radius, the hyperbolic space is capable of embedding trees with arbitrarily small distortion and hence has received wide attention for representing hierarchical datasets. However, this exponential growth property comes at a price of numerical instability such that training hyperbolic learning models will sometimes lead to catastrophic NaN problems, encountering unrepresentable values in floating point arithmetic. In this …
+Cites: ‪Fully Hyperbolic Neural Networks‬

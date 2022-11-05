@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Deep Learning Method for Sentence Embeddings Based on Hadamard Matrix Encodings"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "M Trifan, B Ionescu, D Ionescu"
----
-Sentence Embedding is recently getting an accrued attention from the Natural Language Processing (NLP) community. An embedding maps a sentence to a vector of real numbers with applications to similarity and inference tasks. Our method uses: word embeddings, dependency parsing, Hadamard matrix with spread spectrum algorithm and a deep learning neural network trained on the Sentences Involving Compositional Knowledge (SICK) corpus. The dependency parsing labels are …
-Cites: ‪Deep Unordered Composition Rivals Syntactic Methods for Text …‬
+--- 
+layout: post 
+title: "A Deep Learning Method for Sentence Embeddings Based on Hadamard Matrix Encodings" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "M Trifan, B Ionescu, D Ionescu" 
+--- 
+Sentence Embedding is recently getting an accrued attention from the Natural Language Processing (NLP) community. An embedding maps a sentence to a vector of real numbers with applications to similarity and inference tasks. Our method uses: word embeddings, dependency parsing, Hadamard matrix with spread spectrum algorithm and a deep learning neural network trained on the Sentences Involving Compositional Knowledge (SICK) corpus. The dependency parsing labels are  Cites: Deep Unordered Composition Rivals Syntactic Methods for Text

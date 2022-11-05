@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Validity Assessment of Legal Will Statements as Natural Language Inference"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "AS Kwak, JO Israelsen, CT Morrison, DE Bambauer… - arXiv preprint arXiv …, 2022"
----
-This work introduces a natural language inference (NLI) dataset that focuses on the validity of statements in legal wills. This dataset is unique because:(a) each entailment decision requires three inputs: the statement from the will, the law, and the conditions that hold at the time of the testator s death; and (b) the included texts are longer than the ones in current NLI datasets. We trained eight neural NLI models in this dataset. All the models achieve more than 80% macro F1 and accuracy, which …
-Cites: ‪Back to square one: Artifact detection, training and commonsense …‬
+--- 
+layout: post 
+title: "Validity Assessment of Legal Will Statements as Natural Language Inference" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "AS Kwak, JO Israelsen, CT Morrison, DE Bambauer - arXiv preprint arXiv , 2022" 
+--- 
+This work introduces a natural language inference (NLI) dataset that focuses on the validity of statements in legal wills. This dataset is unique because:(a) each entailment decision requires three inputs: the statement from the will, the law, and the conditions that hold at the time of the testator s death; and (b) the included texts are longer than the ones in current NLI datasets. We trained eight neural NLI models in this dataset. All the models achieve more than 80% macro F1 and accuracy, which  Cites: Back to square one: Artifact detection, training and commonsense

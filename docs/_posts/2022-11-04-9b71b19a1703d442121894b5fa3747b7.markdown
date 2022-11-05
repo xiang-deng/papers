@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unknown-Oriented Learning for Open Set Domain Adaptation"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "J Liu, X Guo, Y Yuan - European Conference on Computer Vision, 2022"
+---
+Open set domain adaptation (OSDA) aims to tackle the distribution shift of partially shared categories between the source and target domains, meanwhile identifying target samples non-appeared in source domain. The key issue behind this problem is to classify these various unseen samples as unknown category with the absent of relevant knowledge from the source domain. Though impressing performance, existing works neglect the complex semantic information and huge intra-category …
+Cites: ‪Learning with Local and Global Consistency.‬

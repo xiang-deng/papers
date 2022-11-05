@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "Y Wu, Y Zhao, B Hu, P Minervini, P Stenetorp, S Riedel - arXiv preprint arXiv …, 2022"
----
-Access to external knowledge is essential for many natural language processing tasks, such as question answering and dialogue. Existing methods often rely on a parametric model that stores knowledge in its parameters, or use a retrieval-augmented model that has access to an external knowledge source. Parametric and retrieval-augmented models have complementary strengths in terms of computational efficiency and predictive accuracy. To combine the strength of both …
-Cites: ‪Neurips 2020 efficientqa competition: Systems, analyses and …‬
+--- 
+layout: post 
+title: "An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "Y Wu, Y Zhao, B Hu, P Minervini, P Stenetorp, S Riedel - arXiv preprint arXiv , 2022" 
+--- 
+Access to external knowledge is essential for many natural language processing tasks, such as question answering and dialogue. Existing methods often rely on a parametric model that stores knowledge in its parameters, or use a retrieval-augmented model that has access to an external knowledge source. Parametric and retrieval-augmented models have complementary strengths in terms of computational efficiency and predictive accuracy. To combine the strength of both  Cites: Neurips 2020 efficientqa competition: Systems, analyses and

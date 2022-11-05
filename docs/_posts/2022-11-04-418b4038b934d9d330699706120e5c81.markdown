@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Question Generation and Answering in the Electrical Power System Components Domain"
+date:   2022-11-04 15:58:33 -0400
+categories: jekyll update
+author: "A Malik - 2022"
+---
+Obtaining training data for the Question Answering (QA) task is time-consuming and resource-intensive. While there are some domains for which such datasets exist, there are no such datasets for Electric Power System Components domain. Siemens has use cases where they can use QA models to extract relevant information from the manuals of such components. In this work, we explore the possibility of synthetically generating Question and Answer pairs using an unsupervised NMT model in a low …
+Cites: ‪Unsupervised question answering by cloze translation‬

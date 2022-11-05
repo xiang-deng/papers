@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Progressive Multigranularity Information Propagation for Coupled Aspect-Opinion Extraction"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "F Lv, T Liang, Z Fei, W Wang - IEEE Transactions on Neural Networks and Learning …, 2022"
----
-Coupled aspect-opinion extraction aims to identify aspect-opinion pairs in the form of (aspect term, opinion term) or triplets in the form of (aspect term, opinion term, sentiment polarity) from user-generated texts. Compared to the traditional aspect-based sentiment prediction or extraction tasks, coupled aspect-opinion extraction needs to associate aspects with their corresponding opinions and organize opinion-related information into structured outputs. The existing works either divide this task …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "Progressive Multigranularity Information Propagation for Coupled Aspect-Opinion Extraction" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "F Lv, T Liang, Z Fei, W Wang - IEEE Transactions on Neural Networks and Learning , 2022" 
+--- 
+Coupled aspect-opinion extraction aims to identify aspect-opinion pairs in the form of (aspect term, opinion term) or triplets in the form of (aspect term, opinion term, sentiment polarity) from user-generated texts. Compared to the traditional aspect-based sentiment prediction or extraction tasks, coupled aspect-opinion extraction needs to associate aspects with their corresponding opinions and organize opinion-related information into structured outputs. The existing works either divide this task  Cites: Aspect level sentiment classification with deep memory network

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "Z Su, Z Tang, X Guan, J Li, L Wu, M Zhang - arXiv preprint arXiv:2210.17127, 2022"
----
-Recent research has revealed that neural language models at scale suffer from poor temporal generalization capability, ie, the language model pre-trained on static data from past years performs worse over time on emerging data. Existing methods mainly perform continual training to mitigate such a misalignment. While effective to some extent but is far from being addressed on both the language modeling and downstream tasks. In this paper, we empirically observe that temporal generalization …
-Cites: ‪Time waits for no one! analysis and challenges of temporal …‬
+--- 
+layout: post 
+title: "Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "Z Su, Z Tang, X Guan, J Li, L Wu, M Zhang - arXiv preprint arXiv:2210.17127, 2022" 
+--- 
+Recent research has revealed that neural language models at scale suffer from poor temporal generalization capability, ie, the language model pre-trained on static data from past years performs worse over time on emerging data. Existing methods mainly perform continual training to mitigate such a misalignment. While effective to some extent but is far from being addressed on both the language modeling and downstream tasks. In this paper, we empirically observe that temporal generalization  Cites: Time waits for no one! analysis and challenges of temporal

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Diverse Parallel Data Synthesis for Cross-Database Adaptation of Text-to-SQL Parsers"
-date:   2022-11-03 01:42:13 -0400
-categories: jekyll update
-author: "A Awasthi, A Sathe, S Sarawagi - arXiv preprint arXiv:2210.16613, 2022"
----
-Text-to-SQL parsers typically struggle with databases unseen during the train time. Adapting parsers to new databases is a challenging problem due to the lack of natural language queries in the new schemas. We present ReFill, a framework for synthesizing high-quality and textually diverse parallel datasets for adapting a Text-to-SQL parser to a target schema. ReFill learns to retrieve-and-edit text queries from the existing schemas and transfers them to the target schema. We show that …
-Cites: ‪Weakly Supervised Mapping of Natural Language to SQL through …‬
+--- 
+layout: post 
+title: "Diverse Parallel Data Synthesis for Cross-Database Adaptation of Text-to-SQL Parsers" 
+date: 2022-11-03 01:42:13 -0400 
+categories: jekyll update 
+author: "A Awasthi, A Sathe, S Sarawagi - arXiv preprint arXiv:2210.16613, 2022" 
+--- 
+Text-to-SQL parsers typically struggle with databases unseen during the train time. Adapting parsers to new databases is a challenging problem due to the lack of natural language queries in the new schemas. We present ReFill, a framework for synthesizing high-quality and textually diverse parallel datasets for adapting a Text-to-SQL parser to a target schema. ReFill learns to retrieve-and-edit text queries from the existing schemas and transfers them to the target schema. We show that  Cites: Weakly Supervised Mapping of Natural Language to SQL through
