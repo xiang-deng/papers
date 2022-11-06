@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "S Zhang, C Gong, X Liu - arXiv preprint arXiv:2211.00915, 2022"
----
-Retriever-reader models achieve competitive performance across many different NLP tasks such as open question answering and dialogue conversations. In this work, we notice these models easily overfit the top-rank retrieval passages and standard training fails to reason over the entire retrieval passages. We introduce a learnable passage mask mechanism which desensitizes the impact from the top-rank retrieval passages and prevents the model from overfitting. Controlling the gradient …
-Cites: ‪KILT: a benchmark for knowledge intensive language tasks‬
+--- 
+layout: post 
+title: "Passage-Mask: A Learnable Regularization Strategy for Retriever-Reader Models" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "S Zhang, C Gong, X Liu - arXiv preprint arXiv:2211.00915, 2022" 
+--- 
+Retriever-reader models achieve competitive performance across many different NLP tasks such as open question answering and dialogue conversations. In this work, we notice these models easily overfit the top-rank retrieval passages and standard training fails to reason over the entire retrieval passages. We introduce a learnable passage mask mechanism which desensitizes the impact from the top-rank retrieval passages and prevents the model from overfitting. Controlling the gradient  Cites: KILT: a benchmark for knowledge intensive language tasks

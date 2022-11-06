@@ -1,9 +1,8 @@
----
-layout: post
-title:  "VISTOT: Vision-Augmented Table-to-Text Generation"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "P Gatti, A Mishra, M Gupta, MD Gupta"
----
-Table-to-text generation has been widely studied in the Natural Language Processing community in the recent years. We give a new perspective to this problem by incorporating signals from both tables as well as associated images to generate relevant text. While tables contain a structured list of facts, images are a rich source of unstructured visual information. For example, in the tourism domain, images can be used to infer knowledge such as the type of landmark (eg, church), its …
-Cites: ‪Table-to-text: Describing table region with natural language‬
+--- 
+layout: post 
+title: "VISTOT: Vision-Augmented Table-to-Text Generation" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "P Gatti, A Mishra, M Gupta, MD Gupta" 
+--- 
+Table-to-text generation has been widely studied in the Natural Language Processing community in the recent years. We give a new perspective to this problem by incorporating signals from both tables as well as associated images to generate relevant text. While tables contain a structured list of facts, images are a rich source of unstructured visual information. For example, in the tourism domain, images can be used to infer knowledge such as the type of landmark (eg, church), its  Cites: Table-to-text: Describing table region with natural language

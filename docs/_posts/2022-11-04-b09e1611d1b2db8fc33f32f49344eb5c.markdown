@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adversarial Auto-Augment with Label Preservation: A Representation Learning Principle Guided Approach"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "K Yang, Y Sun, J Su, F He, X Tian, F Huang, T Zhou… - arXiv preprint arXiv …, 2022"
----
-Data augmentation is a critical contributing factor to the success of deep learning but heavily relies on prior domain knowledge which is not always available. Recent works on automatic data augmentation learn a policy to form a sequence of augmentation operations, which are still pre-defined and restricted to limited options. In this paper, we show that a prior-free autonomous data augmentation s objective can be derived from a representation learning principle that aims to preserve the …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "Adversarial Auto-Augment with Label Preservation: A Representation Learning Principle Guided Approach" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "K Yang, Y Sun, J Su, F He, X Tian, F Huang, T Zhou - arXiv preprint arXiv , 2022" 
+--- 
+Data augmentation is a critical contributing factor to the success of deep learning but heavily relies on prior domain knowledge which is not always available. Recent works on automatic data augmentation learn a policy to form a sequence of augmentation operations, which are still pre-defined and restricted to limited options. In this paper, we show that a prior-free autonomous data augmentation s objective can be derived from a representation learning principle that aims to preserve the  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

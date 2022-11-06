@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Consistent Training via Energy-Based GFlowNets for Modeling Discrete Joint Distributions"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "C Ekbote, M Jain, P Das, Y Bengio - arXiv preprint arXiv:2211.00568, 2022"
----
-Generative Flow Networks (GFlowNets) have demonstrated significant performance improvements for generating diverse discrete objects $ x $ given a reward function $ R (x) $, indicating the utility of the object and trained independently from the GFlowNet by supervised learning to predict a desirable property $ y $ given $ x $. We hypothesize that this can lead to\textit {incompatibility} between the inductive optimization biases in training $ R $ and in training the GFlowNet, potentially leading …
-Cites: ‪Conditional molecular design with deep generative models‬

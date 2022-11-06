@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Boosting Supervised Dehazing Methods via Bi-level Patch Reweighting"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "X Jiang, H Dou, C Fu, B Dai, T Xu, Y Deng - European Conference on Computer …, 2022"
----
-Natural images can suffer from non-uniform haze distributions in different regions. However, this important fact is hardly considered in existing supervised dehazing methods, in which all training patches are accounted for equally in the loss design. These supervised methods may fail in making promising recoveries on some regions contaminated by heavy hazes. Therefore, for a more reasonable dehazing losses design, the varying importance of different training patches should be taken into …
-Cites: ‪Optimizing Data Usage via Differentiable Rewards‬
+--- 
+layout: post 
+title: "Boosting Supervised Dehazing Methods via Bi-level Patch Reweighting" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "X Jiang, H Dou, C Fu, B Dai, T Xu, Y Deng - European Conference on Computer , 2022" 
+--- 
+Natural images can suffer from non-uniform haze distributions in different regions. However, this important fact is hardly considered in existing supervised dehazing methods, in which all training patches are accounted for equally in the loss design. These supervised methods may fail in making promising recoveries on some regions contaminated by heavy hazes. Therefore, for a more reasonable dehazing losses design, the varying importance of different training patches should be taken into  Cites: Optimizing Data Usage via Differentiable Rewards

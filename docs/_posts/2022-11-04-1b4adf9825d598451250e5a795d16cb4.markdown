@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "P Rashidinejad, H Zhu, K Yang, S Russell, J Jiao - arXiv preprint arXiv:2211.00716, 2022"
----
-Offline reinforcement learning (RL), which refers to decision-making from a previously-collected dataset of interactions, has received significant attention over the past years. Much effort has focused on improving offline RL practicality by addressing the prevalent issue of partial data coverage through various forms of conservative policy learning. While the majority of algorithms do not have finite-sample guarantees, several provable conservative offline RL algorithms are …
-Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬
+--- 
+layout: post 
+title: "Optimal Conservative Offline RL with General Function Approximation via Augmented Lagrangian" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "P Rashidinejad, H Zhu, K Yang, S Russell, J Jiao - arXiv preprint arXiv:2211.00716, 2022" 
+--- 
+Offline reinforcement learning (RL), which refers to decision-making from a previously-collected dataset of interactions, has received significant attention over the past years. Much effort has focused on improving offline RL practicality by addressing the prevalent issue of partial data coverage through various forms of conservative policy learning. While the majority of algorithms do not have finite-sample guarantees, several provable conservative offline RL algorithms are  Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

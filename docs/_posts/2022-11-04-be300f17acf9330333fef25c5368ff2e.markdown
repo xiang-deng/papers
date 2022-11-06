@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Leveraging Data Recasting to Enhance Tabular Reasoning"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "A Jena, V Gupta, M Shrivastava, JM Eisenschlos"
----
-Creating challenging tabular inference data is essential for learning complex reasoning. Prior work has mostly relied on two data generation strategies. The first is human annotation, which yields linguistically diverse data but is difficult to scale. The second category for creation is synthetic generation, which is scalable and cost effective but lacks inventiveness. In this research, we present a framework for semiautomatically recasting existing tabular data to make use of the benefits of both …
-Cites: ‪Evaluating Models  Local Decision Boundaries via Contrast Sets‬
+--- 
+layout: post 
+title: "Leveraging Data Recasting to Enhance Tabular Reasoning" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "A Jena, V Gupta, M Shrivastava, JM Eisenschlos" 
+--- 
+Creating challenging tabular inference data is essential for learning complex reasoning. Prior work has mostly relied on two data generation strategies. The first is human annotation, which yields linguistically diverse data but is difficult to scale. The second category for creation is synthetic generation, which is scalable and cost effective but lacks inventiveness. In this research, we present a framework for semiautomatically recasting existing tabular data to make use of the benefits of both  Cites: Evaluating Models Local Decision Boundaries via Contrast Sets

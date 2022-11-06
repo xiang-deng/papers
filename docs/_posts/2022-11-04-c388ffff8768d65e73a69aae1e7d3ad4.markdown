@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "K Wang, A Variengien, A Conmy, B Shlegeris… - arXiv preprint arXiv …, 2022"
----
-Research in mechanistic interpretability seeks to explain behaviors of machine learning models in terms of their internal components. However, most previous work either focuses on simple behaviors in small models, or describes complicated behaviors in larger models with broad strokes. In this work, we bridge this gap by presenting an explanation for how GPT-2 small performs a natural language task called indirect object identification (IOI). Our explanation encompasses 26 attention …
-Cites: ‪Transformer feed-forward layers are key-value memories‬
+--- 
+layout: post 
+title: "Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "K Wang, A Variengien, A Conmy, B Shlegeris - arXiv preprint arXiv , 2022" 
+--- 
+Research in mechanistic interpretability seeks to explain behaviors of machine learning models in terms of their internal components. However, most previous work either focuses on simple behaviors in small models, or describes complicated behaviors in larger models with broad strokes. In this work, we bridge this gap by presenting an explanation for how GPT-2 small performs a natural language task called indirect object identification (IOI). Our explanation encompasses 26 attention  Cites: Transformer feed-forward layers are key-value memories

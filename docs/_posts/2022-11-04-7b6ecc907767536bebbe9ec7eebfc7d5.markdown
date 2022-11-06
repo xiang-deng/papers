@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Compositionality in Computational Linguistics"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "L Donatelli, A Koller - 2022"
----
-Neural models greatly outperform grammar-based models across many tasks in modern computational linguistics. This raises the question of whether linguistic principles, such as the Principle of Compositionality, still have value as modeling tools. We review the recent literature and find that while an overly strict interpretation of compositionality makes it hard to achieve broad coverage in semantic parsing tasks, compositionality is still necessary for a model to learn the correct linguistic …
-Cites: ‪Task-oriented dialogue as dataflow synthesis‬
+--- 
+layout: post 
+title: "Compositionality in Computational Linguistics" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "L Donatelli, A Koller - 2022" 
+--- 
+Neural models greatly outperform grammar-based models across many tasks in modern computational linguistics. This raises the question of whether linguistic principles, such as the Principle of Compositionality, still have value as modeling tools. We review the recent literature and find that while an overly strict interpretation of compositionality makes it hard to achieve broad coverage in semantic parsing tasks, compositionality is still necessary for a model to learn the correct linguistic  Cites: Task-oriented dialogue as dataflow synthesis

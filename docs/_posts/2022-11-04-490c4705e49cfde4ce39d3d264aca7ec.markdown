@@ -1,9 +1,0 @@
----
-layout: post
-title:  "저성능 자원에서 멀티 에이전트 운영을 위한 의도 분류 모델 경량화"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "윤용선， 강진범 - 지능정보연구, 2022"
----
-최근 자연어 처리 분야에서 대규모 사전학습 언어모델 (Large-scale pretrained language model, LPLM) 이 발전함에 따라 이를 미세조정 (Fine-tuning) 한 의도 분류 모델의 성능도 개선되었다. 하지만 실시간 응답을 요하는 대화 시스템에서 대규모 모델을 미세조정하는 방법은 많은 운영 비용을 필요로 한다. 이를 해결하기 위해 본 연구는 저성능 자원에서도 멀티 에이전트 운영이 가능한 의도 분류 모델 경량화 방법을 제안한다. 제안 방법은 경량화된 문장 인코더를 학습하는 과제 독립적 (Task-agnostic) …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

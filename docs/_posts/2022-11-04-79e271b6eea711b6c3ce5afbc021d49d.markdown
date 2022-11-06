@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A robust estimator of mutual information for deep learning interpretability"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "D Piras, HV Peiris, A Pontzen, L Lucie-Smith, N Guo… - arXiv preprint arXiv …, 2022"
----
-We develop the use of mutual information (MI), a well-established metric in information theory, to interpret the inner workings of deep learning models. To accurately estimate MI from a finite number of samples, we present GMM-MI (pronounced $``$ Jimmie $  $), an algorithm based on Gaussian mixture models that can be applied to both discrete and continuous settings. GMM-MI is computationally efficient, robust to the choice of hyperparameters and provides the uncertainty on the …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "A robust estimator of mutual information for deep learning interpretability" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "D Piras, HV Peiris, A Pontzen, L Lucie-Smith, N Guo - arXiv preprint arXiv , 2022" 
+--- 
+We develop the use of mutual information (MI), a well-established metric in information theory, to interpret the inner workings of deep learning models. To accurately estimate MI from a finite number of samples, we present GMM-MI (pronounced $``$ Jimmie $ $), an algorithm based on Gaussian mixture models that can be applied to both discrete and continuous settings. GMM-MI is computationally efficient, robust to the choice of hyperparameters and provides the uncertainty on the  Cites: Why Should I Trust You? : Explaining the Predictions of Any

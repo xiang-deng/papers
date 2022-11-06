@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distributed Graph Neural Network Training: A Survey"
-date:   2022-11-04 15:58:33 -0400
-categories: jekyll update
-author: "Y Shao, H Li, X Gu, H Yin, Y Li, X Miao, W Zhang, B Cui… - arXiv preprint arXiv …, 2022"
----
-Graph neural networks (GNNs) are a type of deep learning models that learning over graphs, and have been successfully applied in many domains. Despite the effectiveness of GNNs, it is still challenging for GNNs to efficiently scale to large graphs. As a remedy, distributed computing becomes a promising solution of training large-scale GNNs, since it is able to provide abundant computing resources. However, the dependency of graph structure increases the difficulty of achieving high …
-Cites: ‪Reasoning over semantic-level graph for fact checking‬
+--- 
+layout: post 
+title: "Distributed Graph Neural Network Training: A Survey" 
+date: 2022-11-04 15:58:33 -0400 
+categories: jekyll update 
+author: "Y Shao, H Li, X Gu, H Yin, Y Li, X Miao, W Zhang, B Cui - arXiv preprint arXiv , 2022" 
+--- 
+Graph neural networks (GNNs) are a type of deep learning models that learning over graphs, and have been successfully applied in many domains. Despite the effectiveness of GNNs, it is still challenging for GNNs to efficiently scale to large graphs. As a remedy, distributed computing becomes a promising solution of training large-scale GNNs, since it is able to provide abundant computing resources. However, the dependency of graph structure increases the difficulty of achieving high  Cites: Reasoning over semantic-level graph for fact checking
