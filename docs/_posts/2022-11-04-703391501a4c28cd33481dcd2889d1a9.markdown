@@ -5,4 +5,4 @@ date: 2022-11-04 15:58:33 -0400
 categories: jekyll update 
 author: "J vec, L mdl, J Leheka - arXiv preprint arXiv:2211.01089, 2022" 
 --- 
-The paper presents a method for spoken term detection based on the Transformer architecture. We propose the encoder-encoder architecture employing two BERT-like encoders with additional modifications, including convolutional and upsampling layers, attention masking, and shared parameters. The encoders project a recognized hypothesis and a searched term into a shared embedding space, where the score of the putative hit is computed using the calibrated dot product. In the  Cites: Jingfei Du
+The paper presents a method for spoken term detection based on the Transformer architecture. We propose the encoder-encoder architecture employing two BERT-like encoders with additional modifications, including convolutional and upsampling layers, attention masking, and shared parameters. The encoders project a recognized hypothesis and a searched term into a shared embedding space, where the score of the putative hit is computed using the calibrated dot product. In the Cites: Jingfei Du
