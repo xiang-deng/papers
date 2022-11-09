@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FedGen: Generalizable Federated Learning"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "P Venkateswaran, V Isahagian, V Muthusamy… - arXiv preprint arXiv …, 2022"
+---
+Existing federated learning models that follow the standard risk minimization paradigm of machine learning often fail to generalize in the presence of spurious correlations in the training data. In many real-world distributed settings, spurious correlations exist due to biases and data sampling issues on distributed devices or clients that can erroneously influence models. Current generalization approaches are designed for centralized training and attempt to identify features that have an …
+Cites: ‪Robustness to spurious correlations via human annotations‬

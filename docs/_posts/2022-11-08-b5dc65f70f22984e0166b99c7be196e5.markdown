@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fine-grained relational learning for few-shot knowledge graph completion"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "X Yuan, Q Lei, S Yu, C Xu, Z Chen - ACM SIGAPP Applied Computing Review, 2022"
+---
+Few-shot knowledge graph completion (FKGC) task aims to infer missing entities or relations by using few-shot support instances in the knowledge graph. Existing FKGC methods focus on the learning of few-shot relation representations, which are obtained by aggregating the neighbor information of each entity. However, most of these models take the entity s neighbor relations and entities as the same hierarchy and do not make fine-grained distinctions, resulting in entity embeddings with low …
+Cites: ‪Representing Text for Joint Embedding of Text and Knowledge …‬

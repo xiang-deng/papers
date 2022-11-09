@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "H Zhang, G Li, J Li, Z Zhang, Y Zhu, Z Jin - arXiv preprint arXiv:2211.01642, 2022"
+---
+Large-scale pre-trained language models have achieved impressive results on a wide range of downstream tasks recently. However, fine-tuning an extremely large-scale pre-trained language model on limited target datasets is often plagued by overfitting and representation degradation. In this paper, we propose a Dynamic Parameter Selection (DPS) algorithm for the large-scale pre-trained models during fine-tuning, which adaptively selects a more promising subnetwork to perform …
+Cites: ‪Better fine-tuning by reducing representational collapse‬

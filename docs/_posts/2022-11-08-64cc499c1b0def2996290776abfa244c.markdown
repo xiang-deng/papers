@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Entity Similarity-Based Negative Sampling for Knowledge Graph Embedding"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "N Yao, Q Liu, X Li, Y Yang, Q Bai - Pacific Rim International Conference on Artificial …, 2022"
+---
+Abstract Knowledge graph embedding (KGE) models optimize loss functions to maximize the total plausibility of positive triples and minimize the plausibility of negative triples. Negative samples are essential in KGE training since they are not as observable as positive samples. Currently, most negative sampling methods apply different techniques to keep track of negative samples with high scores that are regarded as quality negative samples. While, we found entities with similar semantic …
+Cites: ‪Observed versus latent features for knowledge base and text …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "H Zhao, H Tan, H Mei - arXiv preprint arXiv:2211.01979, 2022"
+---
+Adapter-tuning is a paradigm that transfers a pretrained language model to downstream tasks by adding and tuning a small number of new parameters. Previously proposed adapter architectures are all feed-forward neural networks. In this paper, we investigate the effectiveness of using tiny-attention--ie, attention with extremely small per-head dimensionality--as adapters. Our tiny-attention adapter learns to modify the hidden states at each position directly conditioned on the hidden …
+Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Cross-stitching Text and Knowledge Graph Encoders for Distantly Supervised Relation Extraction"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "Q Dai, B Heinzerling, K Inui - arXiv preprint arXiv:2211.01432, 2022"
+---
+Bi-encoder architectures for distantly-supervised relation extraction are designed to make use of the complementary information found in text and knowledge graphs (KG). However, current architectures suffer from two drawbacks. They either do not allow any sharing between the text encoder and the KG encoder at all, or, in case of models with KG-to-text attention, only share information in one direction. Here, we introduce cross-stitch bi-encoders, which allow full interaction between the text …
+Cites: ‪Leveraging 2-hop Distant Supervision from Table Entity Pairs for …‬

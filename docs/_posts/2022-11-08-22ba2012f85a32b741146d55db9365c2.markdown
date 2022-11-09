@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RQUGE: Reference-Free Metric for Evaluating Question Generation by Answering the Question"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "A Mohammadshahi, T Scialom, M Yazdani, P Yanki… - arXiv preprint arXiv …, 2022"
+---
+Existing metrics for evaluating the quality of automatically generated questions such as BLEU, ROUGE, BERTScore, and BLEURT compare the reference and predicted questions, providing a high score when there is a considerable lexical overlap or semantic similarity between the candidate and the reference questions. This approach has two major shortcomings. First, we need expensive human-provided reference questions. Second, it penalises valid questions that may not have high …
+Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬

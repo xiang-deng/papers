@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "一种面向长文本小数据集自动摘要任务的数据增强策略"
+date:   2022-11-08 00:47:36 -0400
+categories: jekyll update
+author: "皮洲， 奚雪峰， 崔志明， 周国栋 - 中文信息学报, 2022"
+---
+当前长文本自动摘要任务缺乏充足的数据集, 限制了该领域相关算法, 模型的研究. 数据增强是在不直接补充训练数据的情况下增加训练数据的方法. 针对上述长文本自动摘要数据缺乏问题, 基于CogLTX 框架, 该文提出了一种面向长文本自动摘要任务的数据增强方法EMDAM (Extract-MergeDataAugmentation Method). EMDAM 主要分为抽取和归并两个核心环节. 首先, 从原有长文本数据集中“抽取” 得到若干短句; 其次, 将抽取出的短句按照定义顺序“归并” 为长文本; 最终形成满足限定条件的新增长 …
+Cites: ‪Data Augmentation for Abstractive Query-Focused Multi-Document …‬
