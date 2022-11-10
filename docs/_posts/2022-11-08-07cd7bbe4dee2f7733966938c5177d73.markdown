@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Composite Relationship Fields with Transformers for Scene Graph Generation"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "G Adaimi, D Mizrahi, A Alahi - 2023"
----
-Scene graph generation (SGG) methods extract relationships between objects. While most methods focus on improving top-down approaches, which build a scene graph based on detected objects from an off-the-shelf object detector, there is a limited amount of work on bottom-up approaches, which jointly detect objects and their relationships in a single stage. In this work, we present a novel bottom-up SGG approach by representing relationships using Composite Relationship Fields …
-Cites: ‪Mapping images to scene graphs with permutation-invariant …‬
+--- 
+layout: post 
+title: "Composite Relationship Fields with Transformers for Scene Graph Generation" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "G Adaimi, D Mizrahi, A Alahi - 2023" 
+--- 
+Scene graph generation (SGG) methods extract relationships between objects. While most methods focus on improving top-down approaches, which build a scene graph based on detected objects from an off-the-shelf object detector, there is a limited amount of work on bottom-up approaches, which jointly detect objects and their relationships in a single stage. In this work, we present a novel bottom-up SGG approach by representing relationships using Composite Relationship Fields  Cites: Mapping images to scene graphs with permutation-invariant

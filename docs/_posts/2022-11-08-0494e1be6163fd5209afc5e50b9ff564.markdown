@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generative Entity-to-Entity Stance Detection with Knowledge Graph Augmentation"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "XF Zhang, N Beauchamp, L Wang - arXiv preprint arXiv:2211.01467, 2022"
----
-Stance detection is typically framed as predicting the sentiment in a given text towards a target entity. However, this setup overlooks the importance of the source entity, ie, who is expressing the opinion. In this paper, we emphasize the need for studying interactions among entities when inferring stances. We first introduce a new task, entity-to-entity (E2E) stance detection, which primes models to identify entities in their canonical names and discern stances jointly. To support this study, we curate …
-Cites: ‪Seeing things from a different angle: Discovering diverse …‬
+--- 
+layout: post 
+title: "Generative Entity-to-Entity Stance Detection with Knowledge Graph Augmentation" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "XF Zhang, N Beauchamp, L Wang - arXiv preprint arXiv:2211.01467, 2022" 
+--- 
+Stance detection is typically framed as predicting the sentiment in a given text towards a target entity. However, this setup overlooks the importance of the source entity, ie, who is expressing the opinion. In this paper, we emphasize the need for studying interactions among entities when inferring stances. We first introduce a new task, entity-to-entity (E2E) stance detection, which primes models to identify entities in their canonical names and discern stances jointly. To support this study, we curate  Cites: Seeing things from a different angle: Discovering diverse

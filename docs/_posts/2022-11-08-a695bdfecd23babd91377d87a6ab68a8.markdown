@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query-based Instance Discrimination Network for Relational Triple Extraction"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "Z Tan, Y Shen, X Hu, W Zhang, X Cheng, W Lu… - arXiv preprint arXiv …, 2022"
----
-Joint entity and relation extraction has been a core task in the field of information extraction. Recent approaches usually consider the extraction of relational triples from a stereoscopic perspective, either learning a relation-specific tagger or separate classifiers for each relation type. However, they still suffer from error propagation, relation redundancy and lack of high-level connections between triples. To address these issues, we propose a novel query-based approach to construct instance-level …
-Cites: ‪ERICA: Improving Entity and Relation Understanding for Pre …‬
+--- 
+layout: post 
+title: "Query-based Instance Discrimination Network for Relational Triple Extraction" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "Z Tan, Y Shen, X Hu, W Zhang, X Cheng, W Lu - arXiv preprint arXiv , 2022" 
+--- 
+Joint entity and relation extraction has been a core task in the field of information extraction. Recent approaches usually consider the extraction of relational triples from a stereoscopic perspective, either learning a relation-specific tagger or separate classifiers for each relation type. However, they still suffer from error propagation, relation redundancy and lack of high-level connections between triples. To address these issues, we propose a novel query-based approach to construct instance-level  Cites: ERICA: Improving Entity and Relation Understanding for Pre

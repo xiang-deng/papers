@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-label Classification using BERT and Knowledge Graphs with a Limited Training Dataset"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "M Ebiele, L McKenna, M Bendechache, R Brennan - 2022"
----
-This paper provides a new approach combining BERT and Knowledge Graphs (KGs) to solve a multi-label classification problem with limited training data. The paper introduces a method of using taxonomies and a dataset with 518 entries and 340 concepts to fine-tune BERT. It also introduces a new data augmentation technique called Perfect Binary Tree (PBT)-Flow to deal with limited or imbalanced training data. The proposed approach obtained a recall@ 10 of 61.12%, a precision@ 10 of …
-Cites: ‪BERT: pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Multi-label Classification using BERT and Knowledge Graphs with a Limited Training Dataset" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "M Ebiele, L McKenna, M Bendechache, R Brennan - 2022" 
+--- 
+This paper provides a new approach combining BERT and Knowledge Graphs (KGs) to solve a multi-label classification problem with limited training data. The paper introduces a method of using taxonomies and a dataset with 518 entries and 340 concepts to fine-tune BERT. It also introduces a new data augmentation technique called Perfect Binary Tree (PBT)-Flow to deal with limited or imbalanced training data. The proposed approach obtained a recall@ 10 of 61.12%, a precision@ 10 of  Cites: BERT: pre-training of deep bidirectional transformers for language

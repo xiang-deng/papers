@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Contextual information integration for stance detection via cross-attention"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "T Beck, A Waldis, I Gurevych - arXiv preprint arXiv:2211.01874, 2022"
----
-Stance detection deals with the identification of an author s stance towards a target and is applied on various text domains like social media and news. In many cases, inferring the stance is challenging due to insufficient access to contextual information. Complementary context can be found in knowledge bases but integrating the context into pretrained language models is non-trivial due to their graph structure. In contrast, we explore an approach to integrate contextual …
-Cites: ‪K-adapter: Infusing knowledge into pre-trained models with adapters‬
+--- 
+layout: post 
+title: "Contextual information integration for stance detection via cross-attention" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "T Beck, A Waldis, I Gurevych - arXiv preprint arXiv:2211.01874, 2022" 
+--- 
+Stance detection deals with the identification of an author s stance towards a target and is applied on various text domains like social media and news. In many cases, inferring the stance is challenging due to insufficient access to contextual information. Complementary context can be found in knowledge bases but integrating the context into pretrained language models is non-trivial due to their graph structure. In contrast, we explore an approach to integrate contextual  Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Spec guidance for engineering design based on data mining and neural networks"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "S Park, J Joung, H Kim - Computers in Industry, 2023"
----
-Recently, many studies on product design have been utilizing online data. They analyze user-generated online data and draw design implications. However, most of them provide customers  tendency for feature categories rather than spec ranges for sub-features, which are crucial in industrial applications. This paper proposes an approach based on data mining and neural networks to extract spec guidance for engineering design from online data. First, product sub-features are extracted from …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Spec guidance for engineering design based on data mining and neural networks" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "S Park, J Joung, H Kim - Computers in Industry, 2023" 
+--- 
+Recently, many studies on product design have been utilizing online data. They analyze user-generated online data and draw design implications. However, most of them provide customers tendency for feature categories rather than spec ranges for sub-features, which are crucial in industrial applications. This paper proposes an approach based on data mining and neural networks to extract spec guidance for engineering design from online data. First, product sub-features are extracted from  Cites: Bert: Pre-training of deep bidirectional transformers for language

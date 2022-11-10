@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "P Wang, A Chan, F Ilievski, M Chen, X Ren - arXiv preprint arXiv:2211.01562, 2022"
----
-Neural language models (LMs) have achieved impressive results on various language-based reasoning tasks by utilizing latent knowledge encoded in their own pretrained parameters. To make this reasoning process more explicit, recent works retrieve a rationalizing LM s internal knowledge by training or prompting it to generate free-text rationales, which can be used to guide task predictions made by either the same LM or a separate reasoning LM. However, rationalizing LMs require …
-Cites: ‪Measuring association between labels and free-text rationales‬
+--- 
+layout: post 
+title: "PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "P Wang, A Chan, F Ilievski, M Chen, X Ren - arXiv preprint arXiv:2211.01562, 2022" 
+--- 
+Neural language models (LMs) have achieved impressive results on various language-based reasoning tasks by utilizing latent knowledge encoded in their own pretrained parameters. To make this reasoning process more explicit, recent works retrieve a rationalizing LM s internal knowledge by training or prompting it to generate free-text rationales, which can be used to guide task predictions made by either the same LM or a separate reasoning LM. However, rationalizing LMs require  Cites: Measuring association between labels and free-text rationales

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross-domain Transfer of Defect Features in Technical Domains based on Partial Target Data"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "T Schlagenhauf, T Scheurenbrand - 2022"
----
-A common challenge in real-world classification scenarios with sequentially appending target domain data is insufficient training datasets during the training phase. Therefore, conventional deep learning and transfer learning classifiers are not applicable especially when individual classes are not represented or are severely underrepresented at the outset. Domain Generalization approaches reach their limits when domain shifts become too large, making them occasionally …
-Cites: ‪Connect, not collapse: Explaining contrastive learning for …‬
+--- 
+layout: post 
+title: "Cross-domain Transfer of Defect Features in Technical Domains based on Partial Target Data" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "T Schlagenhauf, T Scheurenbrand - 2022" 
+--- 
+A common challenge in real-world classification scenarios with sequentially appending target domain data is insufficient training datasets during the training phase. Therefore, conventional deep learning and transfer learning classifiers are not applicable especially when individual classes are not represented or are severely underrepresented at the outset. Domain Generalization approaches reach their limits when domain shifts become too large, making them occasionally  Cites: Connect, not collapse: Explaining contrastive learning for

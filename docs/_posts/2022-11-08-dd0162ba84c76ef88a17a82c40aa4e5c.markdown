@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An online continual object detector on VHR remote sensing images with class imbalance"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "X Chen, J Jiang, Z Li, H Qi, Q Li, J Liu, L Zheng, M Liu… - Engineering Applications of …, 2023"
----
-It is a great challenge for traditional offline detectors to learn from continuous data streams, remember previous tasks and adapt to new-coming tasks in dynamic environments. To meet the challenge, online continual learning has recently attracted increasing attention, while the overwhelming majority of works focus only on classification with a balanced class distribution assumption. In this paper, we propose a replay-based approach called an online continual object detector (OCOD) …
-Cites: ‪Simple copy-paste is a strong data augmentation method for …‬
+--- 
+layout: post 
+title: "An online continual object detector on VHR remote sensing images with class imbalance" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "X Chen, J Jiang, Z Li, H Qi, Q Li, J Liu, L Zheng, M Liu - Engineering Applications of , 2023" 
+--- 
+It is a great challenge for traditional offline detectors to learn from continuous data streams, remember previous tasks and adapt to new-coming tasks in dynamic environments. To meet the challenge, online continual learning has recently attracted increasing attention, while the overwhelming majority of works focus only on classification with a balanced class distribution assumption. In this paper, we propose a replay-based approach called an online continual object detector (OCOD)  Cites: Simple copy-paste is a strong data augmentation method for

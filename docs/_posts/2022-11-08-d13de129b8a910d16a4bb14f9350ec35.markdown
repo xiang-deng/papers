@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semi-HFL: semi-supervised federated learning for heterogeneous devices"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "Z Zhong, J Wang, W Bao, J Zhou, X Zhu, X Zhang - Complex & Intelligent Systems, 2022"
----
-In the vanilla federated learning (FL) framework, the central server distributes a globally unified model to each client and uses labeled samples for training. However, in most cases, clients are equipped with different devices and are exposed to a variety of situations. There are great differences between clients in storage, computing, communication, and other resources, which makes unified deep models used in traditional FL cannot fit clients  personalized resource conditions …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "Semi-HFL: semi-supervised federated learning for heterogeneous devices" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "Z Zhong, J Wang, W Bao, J Zhou, X Zhu, X Zhang - Complex & Intelligent Systems, 2022" 
+--- 
+In the vanilla federated learning (FL) framework, the central server distributes a globally unified model to each client and uses labeled samples for training. However, in most cases, clients are equipped with different devices and are exposed to a variety of situations. There are great differences between clients in storage, computing, communication, and other resources, which makes unified deep models used in traditional FL cannot fit clients personalized resource conditions  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

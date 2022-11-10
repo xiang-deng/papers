@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficient structuring of the latent space for controllable data reconstruction and compression"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "E Trunz, M Weinmann, S Merzbach, R Klein - Graphics and Visual Computing, 2022"
----
-Explainable neural models have gained a lot of attention in recent years. However, conventional encoder–decoder models do not capture information regarding the importance of the involved latent variables and rely on a heuristic a-priori specification of the dimensionality of the latent space or its selection based on multiple trainings. In this paper, we focus on the efficient structuring of the latent space of encoder–decoder approaches for explainable data reconstruction and …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Efficient structuring of the latent space for controllable data reconstruction and compression" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "E Trunz, M Weinmann, S Merzbach, R Klein - Graphics and Visual Computing, 2022" 
+--- 
+Explainable neural models have gained a lot of attention in recent years. However, conventional encoderdecoder models do not capture information regarding the importance of the involved latent variables and rely on a heuristic a-priori specification of the dimensionality of the latent space or its selection based on multiple trainings. In this paper, we focus on the efficient structuring of the latent space of encoderdecoder approaches for explainable data reconstruction and  Cites: Why Should I Trust You? : Explaining the Predictions of Any

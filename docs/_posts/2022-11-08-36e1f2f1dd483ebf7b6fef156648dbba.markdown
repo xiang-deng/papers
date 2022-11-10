@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving and evaluating complex question answering over knowledge bases by constructing strongly supervised data"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "X Cao, Y Zhao, B Shen - Neural Computing and Applications, 2022"
----
-Complex question answering (CQA) is widely used in real-world tasks such as search engines and intelligent customer service. With the development of large-scale knowledge bases, CQA over knowledge bases has attracted considerable attention in recent years. However, there are many types of complex questions, and few works deeply focus on the performance analysis of models for different types of questions. Another major challenge is the lack of complete supervised labels due to the …
-Cites: ‪The web as a knowledge-base for answering complex questions‬
+--- 
+layout: post 
+title: "Improving and evaluating complex question answering over knowledge bases by constructing strongly supervised data" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "X Cao, Y Zhao, B Shen - Neural Computing and Applications, 2022" 
+--- 
+Complex question answering (CQA) is widely used in real-world tasks such as search engines and intelligent customer service. With the development of large-scale knowledge bases, CQA over knowledge bases has attracted considerable attention in recent years. However, there are many types of complex questions, and few works deeply focus on the performance analysis of models for different types of questions. Another major challenge is the lack of complete supervised labels due to the  Cites: The web as a knowledge-base for answering complex questions

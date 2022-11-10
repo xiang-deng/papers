@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Inverse scaling can become U-shaped"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "J Wei, Y Tay, QV Le - arXiv preprint arXiv:2211.02011, 2022"
----
-Although scaling language models improves performance on a range of tasks, there are apparently some scenarios where scaling hurts performance. For instance, the Inverse Scaling Prize Round 1 identified four  inverse scaling  tasks, for which performance gets worse for larger models. These tasks were evaluated on models of up to 280B parameters, trained up to 500 zettaFLOPs of compute. This paper takes a closer look at these four tasks. We evaluate models of up to 540B parameters …
-Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬
+--- 
+layout: post 
+title: "Inverse scaling can become U-shaped" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "J Wei, Y Tay, QV Le - arXiv preprint arXiv:2211.02011, 2022" 
+--- 
+Although scaling language models improves performance on a range of tasks, there are apparently some scenarios where scaling hurts performance. For instance, the Inverse Scaling Prize Round 1 identified four inverse scaling tasks, for which performance gets worse for larger models. These tasks were evaluated on models of up to 280B parameters, trained up to 500 zettaFLOPs of compute. This paper takes a closer look at these four tasks. We evaluate models of up to 540B parameters  Cites: Beyond the Imitation Game: Quantifying and extrapolating the

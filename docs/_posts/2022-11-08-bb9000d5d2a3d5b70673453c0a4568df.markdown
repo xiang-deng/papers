@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploration of Approaches for In-Database ML"
-date:   2022-11-08 00:47:36 -0400
-categories: jekyll update
-author: "S Kläbe, S Hagedorn, KU Sattler - 2023"
----
-Database systems are no longer used only for the storage of plain structured data and basic analyses. An increasing role is also played by the integration of ML models, eg, neural networks with specialized frameworks, and their use for classification or prediction. However, using such models on data stored in a database system might require downloading the data and performing the computations outside. In this paper, we evaluate approaches for integrating the ML …
-Cites: ‪From natural language processing to neural databases‬
+--- 
+layout: post 
+title: "Exploration of Approaches for In-Database ML" 
+date: 2022-11-08 00:47:36 -0400 
+categories: jekyll update 
+author: "S Klbe, S Hagedorn, KU Sattler - 2023" 
+--- 
+Database systems are no longer used only for the storage of plain structured data and basic analyses. An increasing role is also played by the integration of ML models, eg, neural networks with specialized frameworks, and their use for classification or prediction. However, using such models on data stored in a database system might require downloading the data and performing the computations outside. In this paper, we evaluate approaches for integrating the ML  Cites: From natural language processing to neural databases
