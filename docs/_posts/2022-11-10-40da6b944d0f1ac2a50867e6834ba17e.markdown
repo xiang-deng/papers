@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "KC-GEE: Knowledge-based Conditioning for Generative Event Extraction"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "T Wu, F Shiri, J Kang, G Qi, G Haffari, YF Li - 2022"
+---
+Event extraction is an important but challenging task. Many existing techniques decompose it into event and argument detection/classification subtasks, which are complex structured prediction problems. Generation-based extraction techniques lessen the complexity of the problem formulation and are able to leverage the reasoning capabilities of large pretrained language models. However, they still suffer from poor zero-shot generalizability and are ineffective in handling long contexts …
+Cites: ‪Zero-shot event extraction via transfer learning: Challenges and …‬

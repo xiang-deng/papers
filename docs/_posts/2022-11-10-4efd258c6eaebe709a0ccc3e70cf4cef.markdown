@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Technical Report on Web-based Visual Corpus Construction for Visual Document Understanding"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "D Kim, T Hong, M Yim, Y Kim, G Kim - arXiv preprint arXiv:2211.03256, 2022"
+---
+We present a dataset generator engine named Web-based Visual Corpus Builder (Webvicob). Webvicob can readily construct a large-scale visual corpus (ie, images with text annotations) from a raw Wikipedia HTML dump. In this report, we validate that Webvicob-generated data can cover a wide range of context and knowledge and helps practitioners to build a powerful Visual Document Understanding (VDU) backbone. The proposed engine is publicly available at https://github. com/clovaai …
+Cites: ‪Pix2Struct: Screenshot Parsing as Pretraining for Visual Language …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompter: Utilizing Large Language Model Prompting for a Data Efficient Embodied Instruction Following"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "Y Inoue, H Ohashi - arXiv preprint arXiv:2211.03267, 2022"
+---
+Embodied Instruction Following (EIF) studies how mobile manipulator robots should be controlled to accomplish long-horizon tasks specified by natural language instructions. While most research on EIF are conducted in simulators, the ultimate goal of the field is to deploy the agents in real life. As such, it is important to minimize the data cost required for training an agent, to help the transition from sim to real. However, many studies only focus on the performance and overlook the data cost …
+Cites: ‪Alfred: A benchmark for interpreting grounded instructions for …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Complex Reading Comprehension Through Question Decomposition"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "XY Guo, YF Li, G Haffari - arXiv preprint arXiv:2211.03277, 2022"
+---
+Multi-hop reading comprehension requires not only the ability to reason over raw text but also the ability to combine multiple evidence. We propose a novel learning approach that helps language models better understand difficult multi-hop questions and perform  complex, compositional  reasoning. Our model first learns to decompose each multi-hop question into several sub-questions by a trainable question decomposer. Instead of answering these sub-questions, we directly …
+Cites: ‪Least-to-Most Prompting Enables Complex Reasoning in Large …‬

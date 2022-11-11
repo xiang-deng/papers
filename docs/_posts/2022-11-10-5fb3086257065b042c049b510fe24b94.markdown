@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ViT-CX: Causal Explanation of Vision Transformers"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "W Xie, XH Li, CC Cao, NL Zhang - arXiv preprint arXiv:2211.03064, 2022"
+---
+Despite the popularity of Vision Transformers (ViTs) and eXplainable AI (XAI), only a few explanation methods have been proposed for ViTs thus far. They use attention weights of the classification token on patch embeddings and often produce unsatisfactory saliency maps. In this paper, we propose a novel method for explaining ViTs called ViT-CX. It is based on patch embeddings, rather than attentions paid to them, and their causal impacts on the model output. ViT-CX can be …
+Cites: ‪Is Attention Interpretable?‬

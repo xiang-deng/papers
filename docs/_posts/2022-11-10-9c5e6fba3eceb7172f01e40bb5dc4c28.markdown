@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Comparison of SVM against Pre-trained Language Models (PLMs) for Text Classification Tasks"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "Y Wahba, N Madhavji, J Steinbacher - arXiv preprint arXiv:2211.02563, 2022"
+---
+The emergence of pre-trained language models (PLMs) has shown great success in many Natural Language Processing (NLP) tasks including text classification. Due to the minimal to no feature engineering required when using these models, PLMs are becoming the de facto choice for any NLP task. However, for domain-specific corpora (eg, financial, legal, and industrial), fine-tuning a pre-trained model for a specific task has shown to provide a performance improvement. In this paper, we compare the …
+Cites: ‪Deep contextualized word representations‬

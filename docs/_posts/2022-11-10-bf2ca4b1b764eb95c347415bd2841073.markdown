@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Suffix Retrieval-Augmented Language Modeling"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "Z Wang, YC Tam - arXiv preprint arXiv:2211.03053, 2022"
+---
+Causal language modeling (LM) uses word history to predict the next word. BERT, on the other hand, makes use of bi-directional word information in a sentence to predict words at masked positions. While BERT is effective in sequence encoding, it is non-causal by nature and is not designed for sequence generation. In this paper, we propose a novel language model, SUffix REtrieval-Augmented LM (SUREALM), that simulates a bi-directional contextual effect in an autoregressive manner …
+Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬

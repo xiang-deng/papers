@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Noisy Channel for Automatic Text Simplification"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "OM Cumbicus-Pineda, I Gutiérrez-Fandiño… - arXiv preprint arXiv …, 2022"
+---
+In this paper we present a simple re-ranking method for Automatic Sentence Simplification based on the noisy channel scheme. Instead of directly computing the best simplification given a complex text, the re-ranking method also considers the probability of the simple sentence to produce the complex counterpart, as well as the probability of the simple text itself, according to a language model. Our experiments show that combining these scores outperform the original system in three different …
+Cites: ‪Sentence simplification with deep reinforcement learning‬

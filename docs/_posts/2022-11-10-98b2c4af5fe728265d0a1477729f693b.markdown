@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Computing and Exploiting Document Structure to Improve Unsupervised Extractive Summarization of Legal Case Decisions"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "Y Zhong, D Litman - arXiv preprint arXiv:2211.03229, 2022"
+---
+Though many algorithms can be used to automatically summarize legal case decisions, most fail to incorporate domain knowledge about how important sentences in a legal decision relate to a representation of its document structure. For example, analysis of a legal case summarization dataset demonstrates that sentences serving different types of argumentative roles in the decision appear in different sections of the document. In this work, we propose an unsupervised graph …
+Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬

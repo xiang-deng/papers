@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Promptdet: Towards open-vocabulary detection using uncurated images"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "C Feng, Y Zhong, Z Jie, X Chu, H Ren, X Wei, W Xie… - European Conference on …, 2022"
+---
+The goal of this work is to establish a scalable pipeline for expanding an object detector towards novel/unseen categories, using zero manual annotations. To achieve that, we make the following four contributions:(i) in pursuit of generalisation, we propose a two-stage open-vocabulary object detector, where the class-agnostic object proposals are classified with a text encoder from pre-trained visual-language model;(ii) To pair the visual latent space (of RPN box proposals) with that of the pre …
+Cites: ‪Scaling up visual and vision-language representation learning with …‬

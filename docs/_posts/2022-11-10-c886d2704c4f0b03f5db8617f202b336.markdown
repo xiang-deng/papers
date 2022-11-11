@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transformer-based multi-hop question generation"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "JR Emerson - 2022"
+---
+Question generation is the parallel task of question answering, where given an input context and, optionally, an answer, the goal is to generate a relevant and fluent natural language question. Although recent works on question generation have experienced success by utilizing sequence-to-sequence models, there is a need for question generation models to handle increasingly complex input contexts to produce increasingly detailed questions. Multi-hop question generation is a more …
+Cites: ‪Question Generation from SQL Queries Improves Neural Semantic …‬

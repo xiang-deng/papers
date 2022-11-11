@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Computing efficient data summaries"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "S Mair - 2022"
+---
+Extracting meaningful representations of data is a fundamental problem in machine learning. Those representations can be viewed from two different perspectives. First, there is the representation of data in terms of the number of data points. Representative subsets that compactly summarize the data without superfluous redundancies help to reduce the data size. Those subsets allow for scaling existing learning algorithms up without approximating their solution. Second, there is the …
+Cites: ‪Spherical latent spaces for stable variational autoencoders‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On minimal variations for unsupervised representation learning"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "V Cabannes, A Bietti, R Balestriero - arXiv preprint arXiv:2211.03782, 2022"
+---
+Unsupervised representation learning aims at describing raw data efficiently to solve various downstream tasks. It has been approached with many techniques, such as manifold learning, diffusion maps, or more recently self-supervised learning. Those techniques are arguably all based on the underlying assumption that target functions, associated with future downstream tasks, have low variations in densely populated regions of the input space. Unveiling minimal variations as a guiding …
+Cites: ‪Palm: Scaling language modeling with pathways‬

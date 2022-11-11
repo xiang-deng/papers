@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reconciliation of Pre-trained Models and Prototypical Neural Networks in Few-shot Named Entity Recognition"
+date:   2022-11-10 01:14:02 -0400
+categories: jekyll update
+author: "Y Huang, W Lei, J Fu, J Lv - arXiv preprint arXiv:2211.03270, 2022"
+---
+Incorporating large-scale pre-trained models with the prototypical neural networks is a de-facto paradigm in few-shot named entity recognition. Existing methods, unfortunately, are not aware of the fact that embeddings from pre-trained models contain a prominently large amount of information regarding word frequencies, biasing prototypical neural networks against learning word entities. This discrepancy constrains the two models  synergy. Thus, we propose a one-line-code normalization …
+Cites: ‪Few-NERD: A Few-Shot Named Entity Recognition Dataset‬
