@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AAN+: Generalized Average Attention Network for Accelerating Neural Transformer"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "B Zhang, D Xiong, Y Ge, J Yao, H Yue, J Su - Journal of Artificial Intelligence …, 2022"
----
-Transformer benefits from the high parallelization of attention networks in fast training, but it still suffers from slow decoding partially due to the linear dependency O (m) of the decoder self-attention on previous target words at inference. In this paper, we propose a generalized average attention network (AAN+) aiming at speeding up decoding by reducing the dependency from O (m) to O (1). We find that the learned self-attention weights in the decoder follow some patterns which can be …
-Cites: ‪Random feature attention‬
+--- 
+layout: post 
+title: "AAN+: Generalized Average Attention Network for Accelerating Neural Transformer" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "B Zhang, D Xiong, Y Ge, J Yao, H Yue, J Su - Journal of Artificial Intelligence , 2022" 
+--- 
+Transformer benefits from the high parallelization of attention networks in fast training, but it still suffers from slow decoding partially due to the linear dependency O (m) of the decoder self-attention on previous target words at inference. In this paper, we propose a generalized average attention network (AAN+) aiming at speeding up decoding by reducing the dependency from O (m) to O (1). We find that the learned self-attention weights in the decoder follow some patterns which can be  Cites: Random feature attention

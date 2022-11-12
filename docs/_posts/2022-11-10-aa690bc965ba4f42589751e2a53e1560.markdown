@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dealing with Drift of Adaptation Spaces in Learning-based Self-Adaptive Systems using Lifelong Self-Adaptation"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "O Gheibi, D Weyns - arXiv preprint arXiv:2211.02658, 2022"
----
-Recently, machine learning (ML) has become a popular approach to support self-adaptation. ML has been used to deal with several problems in self-adaptation, such as maintaining an up-to-date runtime model under uncertainty and scalable decision-making. Yet, exploiting ML comes with inherent challenges. In this paper, we focus on a particularly important challenge for learning-based self-adaptive systems: drift in adaptation spaces. With adaptation space we refer to the set of adaptation options a …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Dealing with Drift of Adaptation Spaces in Learning-based Self-Adaptive Systems using Lifelong Self-Adaptation" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "O Gheibi, D Weyns - arXiv preprint arXiv:2211.02658, 2022" 
+--- 
+Recently, machine learning (ML) has become a popular approach to support self-adaptation. ML has been used to deal with several problems in self-adaptation, such as maintaining an up-to-date runtime model under uncertainty and scalable decision-making. Yet, exploiting ML comes with inherent challenges. In this paper, we focus on a particularly important challenge for learning-based self-adaptive systems: drift in adaptation spaces. With adaptation space we refer to the set of adaptation options a  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

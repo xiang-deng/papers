@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SelecMix: Debiased Learning by Contradicting-pair Sampling"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "I Hwang, S Lee, Y Kwak, SJ Oh, D Teney, JH Kim… - arXiv preprint arXiv …, 2022"
----
-Neural networks trained with ERM (empirical risk minimization) sometimes learn unintended decision rules, in particular when their training data is biased, ie, when training labels are strongly correlated with undesirable features. To prevent a network from learning such features, recent methods augment training data such that examples displaying spurious correlations (ie, bias-aligned examples) become a minority, whereas the other, bias-conflicting examples become prevalent. However …
-Cites: ‪Just train twice: Improving group robustness without training group …‬
+--- 
+layout: post 
+title: "SelecMix: Debiased Learning by Contradicting-pair Sampling" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "I Hwang, S Lee, Y Kwak, SJ Oh, D Teney, JH Kim - arXiv preprint arXiv , 2022" 
+--- 
+Neural networks trained with ERM (empirical risk minimization) sometimes learn unintended decision rules, in particular when their training data is biased, ie, when training labels are strongly correlated with undesirable features. To prevent a network from learning such features, recent methods augment training data such that examples displaying spurious correlations (ie, bias-aligned examples) become a minority, whereas the other, bias-conflicting examples become prevalent. However  Cites: Just train twice: Improving group robustness without training group

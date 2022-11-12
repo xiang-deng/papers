@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "Y Meng, M Michalski, J Huang, Y Zhang, T Abdelzaher… - arXiv preprint arXiv …, 2022"
----
-Recent studies have revealed the intriguing few-shot learning ability of pretrained language models (PLMs): They can quickly adapt to a new task when fine-tuned on a small amount of labeled data formulated as prompts, without requiring abundant task-specific annotations. Despite their promising performance, most existing few-shot approaches that only learn from the small training set still underperform fully supervised training by nontrivial margins. In this work, we study few-shot learning …
-Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬
+--- 
+layout: post 
+title: "Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "Y Meng, M Michalski, J Huang, Y Zhang, T Abdelzaher - arXiv preprint arXiv , 2022" 
+--- 
+Recent studies have revealed the intriguing few-shot learning ability of pretrained language models (PLMs): They can quickly adapt to a new task when fine-tuned on a small amount of labeled data formulated as prompts, without requiring abundant task-specific annotations. Despite their promising performance, most existing few-shot approaches that only learn from the small training set still underperform fully supervised training by nontrivial margins. In this work, we study few-shot learning  Cites: DExperts: Decoding-time controlled text generation with experts

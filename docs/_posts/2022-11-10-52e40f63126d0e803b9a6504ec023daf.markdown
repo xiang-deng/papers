@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "HN Van, D Nguyen, PM Nguyen, ML Nguyen - arXiv preprint arXiv:2211.02200, 2022"
----
-We introduce efficient deep learning-based methods for legal document processing including Legal Document Retrieval and Legal Question Answering tasks in the Automated Legal Question Answering Competition (ALQAC 2022). In this competition, we achieve 1\textsuperscript {st} place in the first task and 3\textsuperscript {rd} place in the second task. Our method is based on the XLM-RoBERTa model that is pre-trained from a large amount of unlabeled corpus before …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Miko Team: Deep Learning Approach for Legal Question Answering in ALQAC 2022" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "HN Van, D Nguyen, PM Nguyen, ML Nguyen - arXiv preprint arXiv:2211.02200, 2022" 
+--- 
+We introduce efficient deep learning-based methods for legal document processing including Legal Document Retrieval and Legal Question Answering tasks in the Automated Legal Question Answering Competition (ALQAC 2022). In this competition, we achieve 1\textsuperscript {st} place in the first task and 3\textsuperscript {rd} place in the second task. Our method is based on the XLM-RoBERTa model that is pre-trained from a large amount of unlabeled corpus before  Cites: Deep contextualized word representations

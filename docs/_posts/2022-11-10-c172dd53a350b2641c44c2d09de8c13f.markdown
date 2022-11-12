@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-Shot Classification by Logical Reasoning on Natural Language Explanations"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "C Han, H Pei, X Du, H Ji - arXiv preprint arXiv:2211.03252, 2022"
----
-Humans can classify an unseen category by reasoning on its language explanations. This ability is owing to the compositional nature of language: we can combine previously seen concepts to describe the new category. For example, we might describe mavens as  a kind of large birds with black feathers , so that others can use their knowledge of concepts  large birds  and  black feathers  to recognize a maven. Inspired by this observation, in this work we tackle zero-shot classification task by …
-Cites: ‪Improving and Simplifying Pattern Exploiting Training‬
+--- 
+layout: post 
+title: "Zero-Shot Classification by Logical Reasoning on Natural Language Explanations" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "C Han, H Pei, X Du, H Ji - arXiv preprint arXiv:2211.03252, 2022" 
+--- 
+Humans can classify an unseen category by reasoning on its language explanations. This ability is owing to the compositional nature of language: we can combine previously seen concepts to describe the new category. For example, we might describe mavens as a kind of large birds with black feathers , so that others can use their knowledge of concepts large birds and black feathers to recognize a maven. Inspired by this observation, in this work we tackle zero-shot classification task by  Cites: Improving and Simplifying Pattern Exploiting Training

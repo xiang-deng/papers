@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Time-aware Prompting for Text Generation"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "S Cao, L Wang - arXiv preprint arXiv:2211.02162, 2022"
----
-In this paper, we study the effects of incorporating timestamps, such as document creation dates, into generation systems. Two types of time-aware prompts are investigated:(1) textual prompts that encode document timestamps in natural language sentences; and (2) linear prompts that convert timestamps into continuous vectors. To explore extrapolation to future data points, we further introduce a new data-to-text generation dataset, TempWikiBio, containing more than 4 millions of …
-Cites: ‪Handling divergent reference texts when evaluating table-to-text …‬
+--- 
+layout: post 
+title: "Time-aware Prompting for Text Generation" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "S Cao, L Wang - arXiv preprint arXiv:2211.02162, 2022" 
+--- 
+In this paper, we study the effects of incorporating timestamps, such as document creation dates, into generation systems. Two types of time-aware prompts are investigated:(1) textual prompts that encode document timestamps in natural language sentences; and (2) linear prompts that convert timestamps into continuous vectors. To explore extrapolation to future data points, we further introduce a new data-to-text generation dataset, TempWikiBio, containing more than 4 millions of  Cites: Handling divergent reference texts when evaluating table-to-text

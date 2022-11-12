@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Weakly Supervised Named Entity Recognition for Carbon Storage Using Deep Neural Networks"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "RG Londoño, S Wlodarczyk, M Arman, F Bugiotti… - International Conference on …, 2022"
----
-Abstract Applying Transfer-Learning based on pre-trained language models has become popular in Natural Language Processing. In this paper, we present a weakly supervised Named Entity Recognition system that uses a pre-trained BERT model and applies two consecutive fine tuning steps. We aim to reduce the amount of human labour required for annotating data by proposing a framework which starts by creating a data set that uses lexicons and pattern recognition on documents. This first …
-Cites: ‪Semi-supervised sequence modeling with cross-view training‬
+--- 
+layout: post 
+title: "Weakly Supervised Named Entity Recognition for Carbon Storage Using Deep Neural Networks" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "RG Londoo, S Wlodarczyk, M Arman, F Bugiotti - International Conference on , 2022" 
+--- 
+Abstract Applying Transfer-Learning based on pre-trained language models has become popular in Natural Language Processing. In this paper, we present a weakly supervised Named Entity Recognition system that uses a pre-trained BERT model and applies two consecutive fine tuning steps. We aim to reduce the amount of human labour required for annotating data by proposing a framework which starts by creating a data set that uses lexicons and pattern recognition on documents. This first  Cites: Semi-supervised sequence modeling with cross-view training

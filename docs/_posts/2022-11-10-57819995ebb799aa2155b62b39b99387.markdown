@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Faithful Knowledge Graph Explanations in Commonsense Question Answering"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "G Aglionby, S Teufel"
----
-Abstract Knowledge graphs are commonly used as sources of information in commonsense question answering, and can also be used to express explanations for the model s answer choice. A common way of incorporating facts from the graph is to encode them separately from the question, and then combine the two representations to select an answer. In this paper, we argue that highly faithful graph-based explanations cannot be extracted from existing models of this type. Such …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Faithful Knowledge Graph Explanations in Commonsense Question Answering" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "G Aglionby, S Teufel" 
+--- 
+Abstract Knowledge graphs are commonly used as sources of information in commonsense question answering, and can also be used to express explanations for the model s answer choice. A common way of incorporating facts from the graph is to encode them separately from the question, and then combine the two representations to select an answer. In this paper, we argue that highly faithful graph-based explanations cannot be extracted from existing models of this type. Such  Cites: CommonsenseQA: A Question Answering Challenge Targeting

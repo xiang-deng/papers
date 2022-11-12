@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Boosting Binary Neural Networks via Dynamic Thresholds Learning"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "J Zhang, X Zhang, Z Su, Z Yu, Y Feng, X Lu… - arXiv preprint arXiv …, 2022"
----
-Developing lightweight Deep Convolutional Neural Networks (DCNNs) and Vision Transformers (ViTs) has become one of the focuses in vision research since the low computational cost is essential for deploying vision models on edge devices. Recently, researchers have explored highly computational efficient Binary Neural Networks (BNNs) by binarizing weights and activations of Full-precision Neural Networks. However, the binarization process leads to an enormous accuracy gap …
-Cites: ‪BiT: Robustly Binarized Multi-distilled Transformer‬
+--- 
+layout: post 
+title: "Boosting Binary Neural Networks via Dynamic Thresholds Learning" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "J Zhang, X Zhang, Z Su, Z Yu, Y Feng, X Lu - arXiv preprint arXiv , 2022" 
+--- 
+Developing lightweight Deep Convolutional Neural Networks (DCNNs) and Vision Transformers (ViTs) has become one of the focuses in vision research since the low computational cost is essential for deploying vision models on edge devices. Recently, researchers have explored highly computational efficient Binary Neural Networks (BNNs) by binarizing weights and activations of Full-precision Neural Networks. However, the binarization process leads to an enormous accuracy gap  Cites: BiT: Robustly Binarized Multi-distilled Transformer

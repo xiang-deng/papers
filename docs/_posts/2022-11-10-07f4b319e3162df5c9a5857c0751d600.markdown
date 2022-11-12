@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Textual Manifold-based Defense Against Natural Language Adversarial Examples"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "DM Nguyen, LA Tuan - arXiv preprint arXiv:2211.02878, 2022"
----
-Recent studies on adversarial images have shown that they tend to leave the underlying low-dimensional data manifold, making them significantly more challenging for current models to make correct predictions. This so-called off-manifold conjecture has inspired a novel line of defenses against adversarial attacks on images. In this study, we find a similar phenomenon occurs in the contextualized embedding space induced by pretrained language models, in which adversarial …
-Cites: ‪Better Robustness by More Coverage: Adversarial and Mixup Data …‬
+--- 
+layout: post 
+title: "Textual Manifold-based Defense Against Natural Language Adversarial Examples" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "DM Nguyen, LA Tuan - arXiv preprint arXiv:2211.02878, 2022" 
+--- 
+Recent studies on adversarial images have shown that they tend to leave the underlying low-dimensional data manifold, making them significantly more challenging for current models to make correct predictions. This so-called off-manifold conjecture has inspired a novel line of defenses against adversarial attacks on images. In this study, we find a similar phenomenon occurs in the contextualized embedding space induced by pretrained language models, in which adversarial  Cites: Better Robustness by More Coverage: Adversarial and Mixup Data

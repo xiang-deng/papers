@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CLSE: Corpus of Linguistically Significant Entities"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "A Chuklin, J Zhao, M Kale - arXiv preprint arXiv:2211.02423, 2022"
----
-One of the biggest challenges of natural language generation (NLG) is the proper handling of named entities. Named entities are a common source of grammar mistakes such as wrong prepositions, wrong article handling, or incorrect entity inflection. Without factoring linguistic representation, such errors are often underrepresented when evaluating on a small set of arbitrarily picked argument values, or when translating a dataset from a linguistically simpler language, like …
-Cites: ‪NL-Augmenter: A Framework for Task-Sensitive Natural Language …‬
+--- 
+layout: post 
+title: "CLSE: Corpus of Linguistically Significant Entities" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "A Chuklin, J Zhao, M Kale - arXiv preprint arXiv:2211.02423, 2022" 
+--- 
+One of the biggest challenges of natural language generation (NLG) is the proper handling of named entities. Named entities are a common source of grammar mistakes such as wrong prepositions, wrong article handling, or incorrect entity inflection. Without factoring linguistic representation, such errors are often underrepresented when evaluating on a small set of arbitrarily picked argument values, or when translating a dataset from a linguistically simpler language, like  Cites: NL-Augmenter: A Framework for Task-Sensitive Natural Language

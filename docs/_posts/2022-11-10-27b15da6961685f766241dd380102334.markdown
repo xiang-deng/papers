@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficient Multi-order Gated Aggregation Network"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "S Li, Z Wang, Z Liu, C Tan, H Lin, D Wu, Z Chen… - arXiv preprint arXiv …, 2022"
----
-Since the recent success of Vision Transformers (ViTs), explorations toward transformer-style architectures have triggered the resurgence of modern ConvNets. In this work, we explore the representation ability of DNNs through the lens of interaction complexities. We empirically show that interaction complexity is an overlooked but essential indicator for visual recognition. Accordingly, a new family of efficient ConvNets, named MogaNet, is presented to pursue informative context …
-Cites: ‪Transformer quality in linear time‬
+--- 
+layout: post 
+title: "Efficient Multi-order Gated Aggregation Network" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "S Li, Z Wang, Z Liu, C Tan, H Lin, D Wu, Z Chen - arXiv preprint arXiv , 2022" 
+--- 
+Since the recent success of Vision Transformers (ViTs), explorations toward transformer-style architectures have triggered the resurgence of modern ConvNets. In this work, we explore the representation ability of DNNs through the lens of interaction complexities. We empirically show that interaction complexity is an overlooked but essential indicator for visual recognition. Accordingly, a new family of efficient ConvNets, named MogaNet, is presented to pursue informative context  Cites: Transformer quality in linear time

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A marker collaborating model for entity and relation extraction"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "Y Wu, Y Chen, Y Qin, R Huang, R Tang - Journal of King Saud University-Computer …, 2022"
----
-Recognizing entities and extracting their relations are significant tasks for information extraction. Many recent works focus on leveraging entity markers for better span (pair) representations, which have achieved promising performance. Nevertheless, existing works have two shortcomings:(1) previous markers are randomly embedded into distributed representations, which ignores semantic information relevant to the targeted tokens that we want to highlight.(2) most works simply implant markers into …
-Cites: ‪PTR: Prompt Tuning with Rules for Text Classification‬
+--- 
+layout: post 
+title: "A marker collaborating model for entity and relation extraction" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "Y Wu, Y Chen, Y Qin, R Huang, R Tang - Journal of King Saud University-Computer , 2022" 
+--- 
+Recognizing entities and extracting their relations are significant tasks for information extraction. Many recent works focus on leveraging entity markers for better span (pair) representations, which have achieved promising performance. Nevertheless, existing works have two shortcomings:(1) previous markers are randomly embedded into distributed representations, which ignores semantic information relevant to the targeted tokens that we want to highlight.(2) most works simply implant markers into  Cites: PTR: Prompt Tuning with Rules for Text Classification

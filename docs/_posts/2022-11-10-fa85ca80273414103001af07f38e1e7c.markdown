@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hierarchical temporal slot interactions for dialogue state tracking"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "J Qiu, Z Lin, H Zhang, Y Yang - Neural Computing and Applications, 2022"
----
-Dialogue state tracking (DST), as an essential component of task-oriented dialogue systems, refers to keeping track of the user s intentions as a conversation progresses. Typical methods formulate it as a classification task with fixed pre-defined slot-value pairs, or generate slot-value candidates given the dialogue history. Most of them have limitations on considering interactions of slots with utterance sentences and other slots progressively. To tackle this problem, we propose a Dialogue State …
-Cites: ‪A simple language model for task-oriented dialogue‬
+--- 
+layout: post 
+title: "Hierarchical temporal slot interactions for dialogue state tracking" 
+date: 2022-11-10 01:14:02 -0400 
+categories: jekyll update 
+author: "J Qiu, Z Lin, H Zhang, Y Yang - Neural Computing and Applications, 2022" 
+--- 
+Dialogue state tracking (DST), as an essential component of task-oriented dialogue systems, refers to keeping track of the user s intentions as a conversation progresses. Typical methods formulate it as a classification task with fixed pre-defined slot-value pairs, or generate slot-value candidates given the dialogue history. Most of them have limitations on considering interactions of slots with utterance sentences and other slots progressively. To tackle this problem, we propose a Dialogue State  Cites: A simple language model for task-oriented dialogue

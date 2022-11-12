@@ -1,9 +1,0 @@
----
-layout: post
-title:  "The Problem of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation"
-date:   2022-11-10 01:14:02 -0400
-categories: jekyll update
-author: "B Plank - arXiv preprint arXiv:2211.02570, 2022"
----
-Human variation in labeling is often considered noise. Annotation projects for machine learning (ML) aim at minimizing human label variation, with the assumption to maximize data quality and in turn optimize and maximize machine learning metrics. However, this conventional practice assumes that there exists a ground truth, and neglects that there exists genuine human variation in labeling due to disagreement, subjectivity in annotation or multiple plausible answers. In this …
-Cites: ‪Annotators with attitudes: How annotator beliefs and identities bias …‬
