@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Titan: a scheduler for foundation model fine-tuning workloads"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "W Gao, P Sun, Y Wen, T Zhang - Proceedings of the 13th Symposium on Cloud …, 2022"
+---
+The recent breakthrough of foundation model (FM) research raises a new trend to acquire efficient DL models by fine-tuning FMs with low-resource datasets. Current GPU clusters are mainly established to develop DL models by training from scratch. How to tailor a GPU cluster scheduler for FM fine-tuning workloads is still not explored. We propose Titan, a scheduler to improve the efficiency of FM fine-tuning workloads based on their three distinct features.(1) It takes full advantage of the fixed …
+Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬

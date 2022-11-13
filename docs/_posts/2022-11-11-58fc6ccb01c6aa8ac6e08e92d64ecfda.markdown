@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mask More and Mask Later: Efficient Pre-training of Masked Language Models by Disentangling the [MASK] Token"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "B Liao, D Thulke, S Hewavitharana, H Ney, C Monz - arXiv preprint arXiv:2211.04898, 2022"
+---
+The pre-training of masked language models (MLMs) consumes massive computation to achieve good results on downstream NLP tasks, resulting in a large carbon footprint. In the vanilla MLM, the virtual tokens,[MASK] s, act as placeholders and gather the contextualized information from unmasked tokens to restore the corrupted information. It raises the question of whether we can append [MASK] s at a later layer, to reduce the sequence length for earlier layers and make the pre-training …
+Cites: ‪Should You Mask 15% in Masked Language Modeling?‬

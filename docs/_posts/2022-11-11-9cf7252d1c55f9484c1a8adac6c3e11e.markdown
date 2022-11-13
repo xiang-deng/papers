@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "H Iida, N Okazaki - arXiv preprint arXiv:2211.03988, 2022"
+---
+IR models using a pretrained language model significantly outperform lexical approaches like BM25. In particular, SPLADE, which encodes texts to sparse vectors, is an effective model for practical use because it shows robustness to out-of-domain datasets. However, SPLADE still struggles with exact matching of low-frequency words in training data. In addition, domain shifts in vocabulary and word frequencies deteriorate the IR performance of SPLADE. Because supervision data are scarce in …
+Cites: ‪Fact or fiction: Verifying scientific claims‬

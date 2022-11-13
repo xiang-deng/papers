@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generating effective label description for label-aware sentiment classification"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "X Zhu, Z Peng, J Guo, S Dietze - Expert Systems with Applications, 2022"
+---
+Sentiment classification aims to predict the sentiment label for a given text. Recently, several research efforts have been devoted to incorporate matching clues between text words and class labels into the learning process of text representation. However, these methods heavily rely on the availability of label content. Moreover, they simply capture the label-specific signals to measure each word s contribution by either implicitly employing a learnable label representation or explicitly leveraging the …
+Cites: ‪Document modeling with gated recurrent neural network for …‬

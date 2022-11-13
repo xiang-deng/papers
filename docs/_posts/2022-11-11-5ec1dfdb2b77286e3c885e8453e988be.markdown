@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Accelerating Adversarial Perturbation by 50% with Semi-backward Propagation"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "Z Bu - arXiv preprint arXiv:2211.04973, 2022"
+---
+Adversarial perturbation plays a significant role in the field of adversarial robustness, which solves a maximization problem over the input data. We show that the backward propagation of such optimization can accelerate $2\times $(and thus the overall optimization including the forward propagation can accelerate $1.5\times $), without any utility drop, if we only compute the output gradient but not the parameter gradient during the backward propagation.
+Cites: ‪Openattack: An open-source textual adversarial attack toolkit‬

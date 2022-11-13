@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Looking at the Overlooked: An Analysis on the Word-Overlap Bias in Natural Language Inference"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "S Rajaee, Y Yaghoobzadeh, MT Pilehvar - arXiv preprint arXiv:2211.03862, 2022"
+---
+It has been shown that NLI models are usually biased with respect to the word-overlap between premise and hypothesis; they take this feature as a primary cue for predicting the entailment label. In this paper, we focus on an overlooked aspect of the overlap bias in NLI models: the reverse word-overlap bias. Our experimental results demonstrate that current NLI models are highly biased towards the non-entailment label on instances with low overlap, and the existing debiasing methods …
+Cites: ‪Towards Robustifying NLI Models Against Lexical Dataset Biases‬

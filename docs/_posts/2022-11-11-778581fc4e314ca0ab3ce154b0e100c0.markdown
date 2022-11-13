@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deep Explainable Learning with Graph Based Data Assessing and Rule Reasoning"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "Y Li, G Huang, M Zhou, C Fu, H Qiao, Y He - arXiv preprint arXiv:2211.04693, 2022"
+---
+Learning an explainable classifier often results in low accuracy model or ends up with a huge rule set, while learning a deep model is usually more capable of handling noisy data at scale, but with the cost of hard to explain the result and weak at generalization. To mitigate this gap, we propose an end-to-end deep explainable learning approach that combines the advantage of deep model in noise handling and expert rule-based interpretability. Specifically, we propose to learn a deep data …
+Cites: ‪Learning reasoning strategies in end-to-end differentiable proving‬

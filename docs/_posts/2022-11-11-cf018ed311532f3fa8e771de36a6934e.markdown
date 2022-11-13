@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Preserving Semantics in Textual Adversarial Attacks"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "D Herel, H Cisneros, T Mikolov - arXiv preprint arXiv:2211.04205, 2022"
+---
+Adversarial attacks in NLP challenge the way we look at language models. The goal of this kind of adversarial attack is to modify the input text to fool a classifier while maintaining the original meaning of the text. Although most existing adversarial attacks claim to fulfill the constraint of semantics preservation, careful scrutiny shows otherwise. We show that the problem lies in the text encoders used to determine the similarity of adversarial examples, specifically in the way they are trained …
+Cites: ‪Robust encodings: A framework for combating adversarial typos‬

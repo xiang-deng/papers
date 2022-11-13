@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "KAMEL: Knowledge Analysis with Multitoken Entities in Language Models"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "JC Kalo, L Fichtel"
+---
+Large language models (LMs) have been shown to capture large amounts of relational knowledge from the pre-training corpus. These models can be probed for this factual knowledge by using cloze-style prompts as demonstrated on the LAMA benchmark. However, recent studies have uncovered that results only perform well, because the models are good at performing educated guesses or recalling facts from the training data. We present a novel Wikidata-based benchmark dataset, KAMEL …
+Cites: ‪BERTese: Learning to Speak to BERT‬

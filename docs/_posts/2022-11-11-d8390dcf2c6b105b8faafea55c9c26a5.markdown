@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "T Klein, M Nabi - arXiv preprint arXiv:2211.04928, 2022"
+---
+This paper presents miCSE, a mutual information-based Contrastive learning framework that significantly advances the state-of-the-art in few-shot sentence embedding. The proposed approach imposes alignment between the attention pattern of different views during contrastive learning. Learning sentence embeddings with miCSE entails enforcing the syntactic consistency across augmented views for every single sentence, making contrastive self-supervised learning more sample …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

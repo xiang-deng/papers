@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimal Decoding of Hidden Markov Models with Consistency Constraints"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "P Schaus"
+---
+Hidden Markov Models (HMM) are interpretable statistical models that specify distributions over sequences of symbols by assuming these symbols are generated from hidden states. Once learned, these models can be used to determine the most likely sequence of hidden states for unseen observable sequences. This is done in practice by solving the shortest path problem in a layered directed acyclic graph using dynamic programming. In some applications, although the hidden states are …
+Cites: ‪Integer linear programming inference for conditional random fields‬

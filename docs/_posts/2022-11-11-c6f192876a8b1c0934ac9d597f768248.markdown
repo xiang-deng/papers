@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Estimating Treatment Effects using Neurosymbolic Program Synthesis"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "AG Reddy, VN Balasubramanian - arXiv preprint arXiv:2211.04370, 2022"
+---
+Estimating treatment effects from observational data is a central problem in causal inference. Methods to solve this problem exploit inductive biases and heuristics from causal inference to design multi-head neural network architectures and regularizers. In this work, we propose to use neurosymbolic program synthesis, a data-efficient, and interpretable technique, to solve the treatment effect estimation problem. We theoretically show that neurosymbolic programming can solve the treatment effect …
+Cites: ‪Neuro-symbolic program synthesis‬

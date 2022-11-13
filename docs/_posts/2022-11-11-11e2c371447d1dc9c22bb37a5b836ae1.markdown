@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SelectQ: Calibration Data Selection for Post-Training Quantization"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "Z Zhang, Y Gao, J Fan, Z Zhao, Y Yang, S Yan - 2022"
+---
+Post-training quantization (PTQ) can reduce the memory footprint and latency for deep model inference, while still preserving the accuracy of the model, with only a small unlabeled calibration set and without the retraining on full training set. To calibrate a quantized model, current PTQ methods usually randomly select some unlabeled data from the training set as calibration data. However, we prove that the random data selection would result in performance instability and degradation for the …
+Cites: ‪Deepfusion: Lidar-camera deep fusion for multi-modal 3d object …‬

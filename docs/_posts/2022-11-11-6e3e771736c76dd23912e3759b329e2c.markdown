@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Multi-Head Adapter Routing for Data-Efficient Fine-Tuning"
+date:   2022-11-11 23:39:32 -0400
+categories: jekyll update
+author: "L Caccia, E Ponti, L Liu, M Pereira, NL Roux, A Sordoni - arXiv preprint arXiv …, 2022"
+---
+Parameter-efficient fine-tuning (PEFT) methods can adapt large language models to downstream tasks by training a small amount of newly added parameters. In multi-task settings, PEFT adapters typically train on each task independently, inhibiting transfer across tasks, or on the concatenation of all tasks, which can lead to negative interference. To address this, Polytropon (Ponti et al.) jointly learns an inventory of PEFT adapters and a routing function to share variable-size sets of adapters across …
+Cites: ‪Exploring and predicting transferability across nlp tasks‬
