@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distributional Shift Adaptation using Domain-Specific Features"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "A Tahir, L Cheng, R Guo, H Liu - arXiv preprint arXiv:2211.04670, 2022"
----
-Machine learning algorithms typically assume that the training and test samples come from the same distributions, ie, in-distribution. However, in open-world scenarios, streaming big data can be Out-Of-Distribution (OOD), rendering these algorithms ineffective. Prior solutions to the OOD challenge seek to identify invariant features across different training domains. The underlying assumption is that these invariant features should also work reasonably well in the unlabeled target domain …
-Cites: ‪Extending the wilds benchmark for unsupervised adaptation‬
+--- 
+layout: post 
+title: "Distributional Shift Adaptation using Domain-Specific Features" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "A Tahir, L Cheng, R Guo, H Liu - arXiv preprint arXiv:2211.04670, 2022" 
+--- 
+Machine learning algorithms typically assume that the training and test samples come from the same distributions, ie, in-distribution. However, in open-world scenarios, streaming big data can be Out-Of-Distribution (OOD), rendering these algorithms ineffective. Prior solutions to the OOD challenge seek to identify invariant features across different training domains. The underlying assumption is that these invariant features should also work reasonably well in the unlabeled target domain  Cites: Extending the wilds benchmark for unsupervised adaptation

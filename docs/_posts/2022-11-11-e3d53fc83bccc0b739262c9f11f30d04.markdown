@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Detecting Security Patches in Java Projects Using NLP Technology"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "A Stefanoni, Š Girdzijauskas, C Jenkins, ZT Kefato… - Proceedings of The Fifth …, 2022"
----
-Known vulnerabilities in software are solved through security patches; thus, applying such patches as soon as they are released is crucial to protect from cyber-attacks. The diffusion of open source software allowed to inspect the patches to understand whether they are security related or not. In this paper, we propose some solutions based on state-of-the-art deep learn-ing technologies for Natural Language Process-ing for security patches detection. In the exper-iments, we benchmarked our …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "Detecting Security Patches in Java Projects Using NLP Technology" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "A Stefanoni, Girdzijauskas, C Jenkins, ZT Kefato - Proceedings of The Fifth , 2022" 
+--- 
+Known vulnerabilities in software are solved through security patches; thus, applying such patches as soon as they are released is crucial to protect from cyber-attacks. The diffusion of open source software allowed to inspect the patches to understand whether they are security related or not. In this paper, we propose some solutions based on state-of-the-art deep learn-ing technologies for Natural Language Process-ing for security patches detection. In the exper-iments, we benchmarked our  Cites: Codebert: A pre-trained model for programming and natural

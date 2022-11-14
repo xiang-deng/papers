@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DeepE: a deep neural network for knowledge graph embedding"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "Z Danhao, S Si, H Shujian, Y Chang, D Ziqi - arXiv preprint arXiv:2211.04620, 2022"
----
-Recently, neural network based methods have shown their power in learning more expressive features on the task of knowledge graph embedding (KGE). However, the performance of deep methods often falls behind the shallow ones on simple graphs. One possible reason is that deep models are difficult to train, while shallow models might suffice for accurately representing the structure of the simple KGs. In this paper, we propose a neural network based model, named DeepE, to address the problem …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "DeepE: a deep neural network for knowledge graph embedding" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "Z Danhao, S Si, H Shujian, Y Chang, D Ziqi - arXiv preprint arXiv:2211.04620, 2022" 
+--- 
+Recently, neural network based methods have shown their power in learning more expressive features on the task of knowledge graph embedding (KGE). However, the performance of deep methods often falls behind the shallow ones on simple graphs. One possible reason is that deep models are difficult to train, while shallow models might suffice for accurately representing the structure of the simple KGs. In this paper, we propose a neural network based model, named DeepE, to address the problem  Cites: Observed versus latent features for knowledge base and text

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Example Selection for In-Context Learning"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "Y Zhang, S Feng, C Tan - arXiv preprint arXiv:2211.04486, 2022"
----
-With a handful of demonstration examples, large-scale language models show strong capability to perform various tasks by in-context learning from these examples, without any fine-tuning. We demonstrate that in-context learning performance can be highly unstable across samples of examples, indicating the idiosyncrasies of how language models acquire information. We formulate example selection for in-context learning as a sequential decision problem, and propose a reinforcement learning …
-Cites: ‪Reframing Instructional Prompts to GPTk s Language‬
+--- 
+layout: post 
+title: "Active Example Selection for In-Context Learning" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "Y Zhang, S Feng, C Tan - arXiv preprint arXiv:2211.04486, 2022" 
+--- 
+With a handful of demonstration examples, large-scale language models show strong capability to perform various tasks by in-context learning from these examples, without any fine-tuning. We demonstrate that in-context learning performance can be highly unstable across samples of examples, indicating the idiosyncrasies of how language models acquire information. We formulate example selection for in-context learning as a sequential decision problem, and propose a reinforcement learning  Cites: Reframing Instructional Prompts to GPTk s Language

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prompt-Based Metric Learning for Few-Shot NER"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "Y Chen, Y Zheng, Z Yang - arXiv preprint arXiv:2211.04337, 2022"
----
-Few-shot named entity recognition (NER) targets generalizing to unseen labels and/or domains with few labeled examples. Existing metric learning methods compute token-level similarities between query and support sets, but are not able to fully incorporate label semantics into modeling. To address this issue, we propose a simple method to largely improve metric learning for NER: 1) multiple prompt schemas are designed to enhance label semantics; 2) we propose a novel …
-Cites: ‪Label Semantics for Few Shot Named Entity Recognition‬
+--- 
+layout: post 
+title: "Prompt-Based Metric Learning for Few-Shot NER" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "Y Chen, Y Zheng, Z Yang - arXiv preprint arXiv:2211.04337, 2022" 
+--- 
+Few-shot named entity recognition (NER) targets generalizing to unseen labels and/or domains with few labeled examples. Existing metric learning methods compute token-level similarities between query and support sets, but are not able to fully incorporate label semantics into modeling. To address this issue, we propose a simple method to largely improve metric learning for NER: 1) multiple prompt schemas are designed to enhance label semantics; 2) we propose a novel  Cites: Label Semantics for Few Shot Named Entity Recognition

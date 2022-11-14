@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dealing with textual noise for robust and effective BERT re-ranking"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "X Chen, B He, K Hui, L Sun, Y Sun - Information Processing & Management, 2023"
----
-The pre-trained language models (PLMs), such as BERT, have been successfully employed in two-phases ranking pipeline for information retrieval (IR). Meanwhile, recent studies have reported that BERT model is vulnerable to imperceptible textual perturbations on quite a few natural language processing (NLP) tasks. As for IR tasks, current established BERT re-ranker is mainly trained on large-scale and relatively clean dataset, such as MS MARCO, but actually noisy text is more common …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "Dealing with textual noise for robust and effective BERT re-ranking" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "X Chen, B He, K Hui, L Sun, Y Sun - Information Processing & Management, 2023" 
+--- 
+The pre-trained language models (PLMs), such as BERT, have been successfully employed in two-phases ranking pipeline for information retrieval (IR). Meanwhile, recent studies have reported that BERT model is vulnerable to imperceptible textual perturbations on quite a few natural language processing (NLP) tasks. As for IR tasks, current established BERT re-ranker is mainly trained on large-scale and relatively clean dataset, such as MS MARCO, but actually noisy text is more common  Cites: Dense Passage Retrieval for Open-Domain Question Answering

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bias-Based Soft Label Learning for Facial Expression Recognition"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "S Wang, H Shuai, C Liu, Q Liu - IEEE Transactions on Affective Computing, 2022"
----
-Abstract Facial Expression Recognition (FER) suffers from misrecognition due to the similarities between expressions. To address this issue, popular works replace original annotations with soft labels to reflect expression similarities. However, existing soft label learning (SLL) modules are independent of FER modules. In this paper, inspired by automatic control theory, we propose a bias-based soft label learning network for FER named EC-Net. For optimizing FER and SLL modules …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "Bias-Based Soft Label Learning for Facial Expression Recognition" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "S Wang, H Shuai, C Liu, Q Liu - IEEE Transactions on Affective Computing, 2022" 
+--- 
+Abstract Facial Expression Recognition (FER) suffers from misrecognition due to the similarities between expressions. To address this issue, popular works replace original annotations with soft labels to reflect expression similarities. However, existing soft label learning (SLL) modules are independent of FER modules. In this paper, inspired by automatic control theory, we propose a bias-based soft label learning network for FER named EC-Net. For optimizing FER and SLL modules  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

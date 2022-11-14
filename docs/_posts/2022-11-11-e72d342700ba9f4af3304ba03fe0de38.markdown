@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Novel Chapter Abstractive Summarization using Spinal Tree Aware Sub-Sentential Content Selection"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "H Hardy, M Ballesteros, F Ladhak, M Khalifa, V Castelli… - arXiv preprint arXiv …, 2022"
----
-Summarizing novel chapters is a difficult task due to the input length and the fact that sentences that appear in the desired summaries draw content from multiple places throughout the chapter. We present a pipelined extractive-abstractive approach where the extractive step filters the content that is passed to the abstractive component. Extremely lengthy input also results in a highly skewed dataset towards negative instances for extractive summarization; we thus adopt a margin ranking loss …
-Cites: ‪Crowdsourcing Lightweight Pyramids for Manual Summary …‬
+--- 
+layout: post 
+title: "Novel Chapter Abstractive Summarization using Spinal Tree Aware Sub-Sentential Content Selection" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "H Hardy, M Ballesteros, F Ladhak, M Khalifa, V Castelli - arXiv preprint arXiv , 2022" 
+--- 
+Summarizing novel chapters is a difficult task due to the input length and the fact that sentences that appear in the desired summaries draw content from multiple places throughout the chapter. We present a pipelined extractive-abstractive approach where the extractive step filters the content that is passed to the abstractive component. Extremely lengthy input also results in a highly skewed dataset towards negative instances for extractive summarization; we thus adopt a margin ranking loss  Cites: Crowdsourcing Lightweight Pyramids for Manual Summary

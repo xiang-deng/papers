@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distribution-Aligned Fine-Tuning for Efficient Neural Retrieval"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "J Leonhardt, M Jahnke, A Anand - arXiv preprint arXiv:2211.04942, 2022"
----
-Dual-encoder-based neural retrieval models achieve appreciable performance and complement traditional lexical retrievers well due to their semantic matching capabilities, which makes them a common choice for hybrid IR systems. However, these models exhibit a performance bottleneck in the online query encoding step, as the corresponding query encoders are usually large and complex Transformer models. In this paper we investigate heterogeneous dual-encoder models, where the …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "Distribution-Aligned Fine-Tuning for Efficient Neural Retrieval" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "J Leonhardt, M Jahnke, A Anand - arXiv preprint arXiv:2211.04942, 2022" 
+--- 
+Dual-encoder-based neural retrieval models achieve appreciable performance and complement traditional lexical retrievers well due to their semantic matching capabilities, which makes them a common choice for hybrid IR systems. However, these models exhibit a performance bottleneck in the online query encoding step, as the corresponding query encoders are usually large and complex Transformer models. In this paper we investigate heterogeneous dual-encoder models, where the  Cites: Dense Passage Retrieval for Open-Domain Question Answering

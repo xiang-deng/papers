@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Wall Street Tree Search: Risk-Aware Planning for Offline Reinforcement Learning"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "D Elbaz, G Novik, O Salzman - arXiv preprint arXiv:2211.04583, 2022"
----
-Offline reinforcement-learning (RL) algorithms learn to make decisions using a given, fixed training dataset without the possibility of additional online data collection. This problem setting is captivating because it holds the promise of utilizing previously collected datasets without any costly or risky interaction with the environment. However, this promise also bears the drawback of this setting. The restricted dataset induces subjective uncertainty because the agent can encounter unfamiliar …
-Cites: ‪Calibration of Pre-trained Transformers‬
+--- 
+layout: post 
+title: "Wall Street Tree Search: Risk-Aware Planning for Offline Reinforcement Learning" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "D Elbaz, G Novik, O Salzman - arXiv preprint arXiv:2211.04583, 2022" 
+--- 
+Offline reinforcement-learning (RL) algorithms learn to make decisions using a given, fixed training dataset without the possibility of additional online data collection. This problem setting is captivating because it holds the promise of utilizing previously collected datasets without any costly or risky interaction with the environment. However, this promise also bears the drawback of this setting. The restricted dataset induces subjective uncertainty because the agent can encounter unfamiliar  Cites: Calibration of Pre-trained Transformers

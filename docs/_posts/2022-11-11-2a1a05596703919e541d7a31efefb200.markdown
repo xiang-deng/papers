@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pretraining in Deep Reinforcement Learning: A Survey"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "Z Xie, Z Lin, J Li, S Li, D Ye - arXiv preprint arXiv:2211.03959, 2022"
----
-The past few years have seen rapid progress in combining reinforcement learning (RL) with deep learning. Various breakthroughs ranging from games to robotics have spurred the interest in designing sophisticated RL algorithms and systems. However, the prevailing workflow in RL is to learn tabula rasa, which may incur computational inefficiency. This precludes continuous deployment of RL algorithms and potentially excludes researchers without large-scale computing resources. In many other areas …
-Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬
+--- 
+layout: post 
+title: "Pretraining in Deep Reinforcement Learning: A Survey" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "Z Xie, Z Lin, J Li, S Li, D Ye - arXiv preprint arXiv:2211.03959, 2022" 
+--- 
+The past few years have seen rapid progress in combining reinforcement learning (RL) with deep learning. Various breakthroughs ranging from games to robotics have spurred the interest in designing sophisticated RL algorithms and systems. However, the prevailing workflow in RL is to learn tabula rasa, which may incur computational inefficiency. This precludes continuous deployment of RL algorithms and potentially excludes researchers without large-scale computing resources. In many other areas  Cites: Explore, discover and learn: Unsupervised discovery of state

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Syntax-Aware On-the-Fly Code Completion"
-date:   2022-11-11 23:39:32 -0400
-categories: jekyll update
-author: "W Takerngsaksiri, C Tantithamthavorn, YF Li - arXiv preprint arXiv:2211.04673, 2022"
----
-Code completion aims to help improve developers  productivity by suggesting the next code tokens from a given context. Various approaches have been proposed to incorporate abstract syntax tree (AST) information for model training, ensuring that code completion is aware of the syntax of the programming languages. However, existing syntax-aware code completion approaches are not on-the-fly, as we found that for every two-thirds of characters that developers type, AST fails to be extracted …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Syntax-Aware On-the-Fly Code Completion" 
+date: 2022-11-11 23:39:32 -0400 
+categories: jekyll update 
+author: "W Takerngsaksiri, C Tantithamthavorn, YF Li - arXiv preprint arXiv:2211.04673, 2022" 
+--- 
+Code completion aims to help improve developers productivity by suggesting the next code tokens from a given context. Various approaches have been proposed to incorporate abstract syntax tree (AST) information for model training, ensuring that code completion is aware of the syntax of the programming languages. However, existing syntax-aware code completion approaches are not on-the-fly, as we found that for every two-thirds of characters that developers type, AST fails to be extracted  Cites: Codexglue: A machine learning benchmark dataset for code
