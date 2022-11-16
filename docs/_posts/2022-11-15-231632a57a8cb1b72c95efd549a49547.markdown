@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database"
+date:   2022-11-15 00:38:37 -0400
+categories: jekyll update
+author: "Y Liu, S Yavuz, R Meng, D Radev, C Xiong, Y Zhou - arXiv preprint arXiv:2211.05165, 2022"
+---
+Parsing natural language questions into executable logical forms is a useful and interpretable way to perform question answering on structured data such as knowledge bases (KB) or databases (DB). However, existing approaches on semantic parsing cannot adapt to both modalities, as they suffer from the exponential growth of the logical form candidates and can hardly generalize to unseen data. In this work, we propose Uni-Parser, a unified semantic parser for question answering …
+Cites: ‪Compositional generalization and natural language variation: Can …‬

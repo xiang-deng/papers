@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ADEPT: A DEbiasing PrompT Framework"
+date:   2022-11-15 00:38:37 -0400
+categories: jekyll update
+author: "K Yang, C Yu, Y Fung, M Li, H Ji - arXiv preprint arXiv:2211.05414, 2022"
+---
+Several works have proven that finetuning is an applicable approach for debiasing contextualized word embeddings. Similarly, discrete prompts with semantic meanings have shown to be effective in debiasing tasks. With unfixed mathematical representation at the token level, continuous prompts usually surpass discrete ones at providing a pre-trained language model (PLM) with additional task-specific information. Despite this, relatively few efforts have been made to debias PLMs by …
+Cites: ‪Prefix-tuning: Optimizing continuous prompts for generation‬

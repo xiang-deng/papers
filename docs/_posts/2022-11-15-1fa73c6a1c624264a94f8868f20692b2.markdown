@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "HilMeMe: A Human-in-the-Loop Machine Translation Evaluation Metric Looking into Multi-Word Expressions"
+date:   2022-11-15 00:38:37 -0400
+categories: jekyll update
+author: "L Han - arXiv preprint arXiv:2211.05201, 2022"
+---
+With the fast development of Machine Translation (MT) systems, especially the new boost from Neural MT (NMT) models, the MT output quality has reached a new level of accuracy. However, many researchers criticised that the current popular evaluation metrics such as BLEU can not correctly distinguish the state-of-the-art NMT systems regarding quality differences. In this short paper, we describe the design and implementation of a linguistically motivated human-in-the-loop …
+Cites: ‪A set of recommendations for assessing human–machine parity in …‬

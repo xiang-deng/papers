@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking"
+date:   2022-11-15 00:38:37 -0400
+categories: jekyll update
+author: "H Zhang, J Bao, H Sun, Y Wu, W Li, S Cui, X He - arXiv preprint arXiv:2211.05503, 2022"
+---
+Dialogue state tracking (DST) aims to convert the dialogue history into dialogue states which consist of slot-value pairs. As condensed structural information memorizing all history information, the dialogue state in the last turn is typically adopted as the input for predicting the current state by DST models. However, these models tend to keep the predicted slot values unchanged, which is defined as state momentum in this paper. Specifically, the models struggle to update slot values that …
+Cites: ‪Detecting formal thought disorder by deep contextualized word …‬

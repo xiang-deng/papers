@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RecD: Deduplication for End-to-End Deep Learning Recommendation Model Training Infrastructure"
+date:   2022-11-15 00:38:37 -0400
+categories: jekyll update
+author: "M Zhao, D Choudhary, D Tyagi, A Somani, M Kaplan… - arXiv preprint arXiv …, 2022"
+---
+We present RecD (Recommendation Deduplication), a suite of end-to-end infrastructure optimizations across the Deep Learning Recommendation Model (DLRM) training pipeline. RecD addresses immense storage, preprocessing, and training overheads caused by feature duplication inherent in industry-scale DLRM training datasets. Feature duplication arises because DLRM datasets are generated from interactions. While each user session can generate multiple training samples …
+Cites: ‪The carbon footprint of machine learning training will plateau, then …‬

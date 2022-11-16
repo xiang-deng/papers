@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Evaluation Beyond Task Performance: Analyzing Concepts in AlphaZero in Hex"
+date:   2022-11-15 00:38:37 -0400
+categories: jekyll update
+author: "C Lovering, JZ Forde, GKE Pavlick, ML Littman"
+---
+AlphaZero, an approach to reinforcement learning that couples neural networks and Monte Carlo tree search (MCTS), has produced state-of-the-art strategies for traditional board games like chess, Go, shogi, and Hex. While researchers and game commentators have suggested that AlphaZero uses concepts that humans consider important, it is unclear how these concepts are captured in the network. We investigate AlphaZero s internal representations in the game of Hex using two …
+Cites: ‪A structural probe for finding syntax in word representations‬

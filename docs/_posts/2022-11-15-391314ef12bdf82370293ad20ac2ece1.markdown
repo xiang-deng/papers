@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Comprehensive Survey on Distributed Training of Graph Neural Networks"
+date:   2022-11-15 00:38:37 -0400
+categories: jekyll update
+author: "H Lin, M Yan, X Ye, D Fan, S Pan, W Chen, Y Xie - arXiv preprint arXiv:2211.05368, 2022"
+---
+Graph neural networks (GNNs) have been demonstrated to be a powerful algorithmic model in broad application fields for their effectiveness in learning over graphs. To scale GNN training up for large-scale and ever-growing graphs, the most promising solution is distributed training which distributes the workload of training across multiple computing nodes. However, the workflows, computational patterns, communication patterns, and optimization techniques of distributed GNN training …
+Cites: ‪A graph placement methodology for fast chip design‬
