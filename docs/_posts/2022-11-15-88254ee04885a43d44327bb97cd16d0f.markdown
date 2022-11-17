@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Estimating Soft Labels for Out-of-Domain Intent Detection"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "H Lang, Y Zheng, J Sun, F Huang, L Si, Y Li - arXiv preprint arXiv:2211.05561, 2022"
----
-Out-of-Domain (OOD) intent detection is important for practical dialog systems. To alleviate the issue of lacking OOD training samples, some works propose synthesizing pseudo OOD samples and directly assigning one-hot OOD labels to these pseudo samples. However, these one-hot labels introduce noises to the training process because some hard pseudo OOD samples may coincide with In-Domain (IND) intents. In this paper, we propose an adaptive soft pseudo labeling …
-Cites: ‪SSMBA: Self-supervised manifold based data augmentation for …‬
+--- 
+layout: post 
+title: "Estimating Soft Labels for Out-of-Domain Intent Detection" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "H Lang, Y Zheng, J Sun, F Huang, L Si, Y Li - arXiv preprint arXiv:2211.05561, 2022" 
+--- 
+Out-of-Domain (OOD) intent detection is important for practical dialog systems. To alleviate the issue of lacking OOD training samples, some works propose synthesizing pseudo OOD samples and directly assigning one-hot OOD labels to these pseudo samples. However, these one-hot labels introduce noises to the training process because some hard pseudo OOD samples may coincide with In-Domain (IND) intents. In this paper, we propose an adaptive soft pseudo labeling  Cites: SSMBA: Self-supervised manifold based data augmentation for

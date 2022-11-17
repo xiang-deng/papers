@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge Base Construction from Pre-trained Language Models by Prompt learning"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "X Ning, R Celebi - 2022"
----
-Pre-trained language models (LMs) have advanced the state-of-the-art for many semantic tasks and have also been proven effective for extracting knowledge from the models itself. Although several works have explored the capability of the LMs for constructing knowledge bases, including prompt learning, this potential has not yet been fully explored. In this work, we propose a method of extracting factual knowledge from LMs for given subject-relation pairs and explore the most effective …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "Knowledge Base Construction from Pre-trained Language Models by Prompt learning" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "X Ning, R Celebi - 2022" 
+--- 
+Pre-trained language models (LMs) have advanced the state-of-the-art for many semantic tasks and have also been proven effective for extracting knowledge from the models itself. Although several works have explored the capability of the LMs for constructing knowledge bases, including prompt learning, this potential has not yet been fully explored. In this work, we propose a method of extracting factual knowledge from LMs for given subject-relation pairs and explore the most effective  Cites: Making Pre-trained Language Models Better Few-shot Learners

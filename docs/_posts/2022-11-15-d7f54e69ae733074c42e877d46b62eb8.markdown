@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Equivariant Contrastive Learning for Sequential Recommendation"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "P Zhou, J Gao, Y Xie, Q Ye, Y Hua, S Kim - arXiv preprint arXiv:2211.05290, 2022"
----
-Contrastive learning (CL) benefits the training of sequential recommendation models with informative self-supervision signals. Existing solutions apply general sequential data augmentation strategies to generate positive pairs and encourage their representations to be invariant. However, due to the inherent properties of user behavior sequences, some augmentation strategies, such as item substitution, can lead to changes in user intent. Learning indiscriminately invariant representations for …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "Equivariant Contrastive Learning for Sequential Recommendation" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "P Zhou, J Gao, Y Xie, Q Ye, Y Hua, S Kim - arXiv preprint arXiv:2211.05290, 2022" 
+--- 
+Contrastive learning (CL) benefits the training of sequential recommendation models with informative self-supervision signals. Existing solutions apply general sequential data augmentation strategies to generate positive pairs and encourage their representations to be invariant. However, due to the inherent properties of user behavior sequences, some augmentation strategies, such as item substitution, can lead to changes in user intent. Learning indiscriminately invariant representations for  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

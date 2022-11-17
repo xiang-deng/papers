@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Okapi: Generalising Better by Making Statistical Matches Match"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "M Bartlett, S Romiti, V Sharmanska, N Quadrianto - arXiv preprint arXiv:2211.05236, 2022"
----
-We propose Okapi, a simple, efficient, and general method for robust semi-supervised learning based on online statistical matching. Our method uses a nearest-neighbours-based matching procedure to generate cross-domain views for a consistency loss, while eliminating statistical outliers. In order to perform the online matching in a runtime-and memory-efficient way, we draw upon the self-supervised literature and combine a memory bank with a slow-moving momentum encoder. The …
-Cites: ‪Extending the wilds benchmark for unsupervised adaptation‬
+--- 
+layout: post 
+title: "Okapi: Generalising Better by Making Statistical Matches Match" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "M Bartlett, S Romiti, V Sharmanska, N Quadrianto - arXiv preprint arXiv:2211.05236, 2022" 
+--- 
+We propose Okapi, a simple, efficient, and general method for robust semi-supervised learning based on online statistical matching. Our method uses a nearest-neighbours-based matching procedure to generate cross-domain views for a consistency loss, while eliminating statistical outliers. In order to perform the online matching in a runtime-and memory-efficient way, we draw upon the self-supervised literature and combine a memory bank with a slow-moving momentum encoder. The  Cites: Extending the wilds benchmark for unsupervised adaptation

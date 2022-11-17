@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Syntax-Guided Domain Adaptation for Aspect-based Sentiment Analysis"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "A Dong, C Gao, Y Jia, Q Liao, X Wang, L Wang, J Xiao - arXiv preprint arXiv …, 2022"
----
-Aspect-based sentiment analysis (ABSA) aims at extracting opinionated aspect terms in review texts and determining their sentiment polarities, which is widely studied in both academia and industry. As a fine-grained classification task, the annotation cost is extremely high. Domain adaptation is a popular solution to alleviate the data deficiency issue in new domains by transferring common knowledge across domains. Most cross-domain ABSA studies are based on structure correspondence …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "Syntax-Guided Domain Adaptation for Aspect-based Sentiment Analysis" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "A Dong, C Gao, Y Jia, Q Liao, X Wang, L Wang, J Xiao - arXiv preprint arXiv , 2022" 
+--- 
+Aspect-based sentiment analysis (ABSA) aims at extracting opinionated aspect terms in review texts and determining their sentiment polarities, which is widely studied in both academia and industry. As a fine-grained classification task, the annotation cost is extremely high. Domain adaptation is a popular solution to alleviate the data deficiency issue in new domains by transferring common knowledge across domains. Most cross-domain ABSA studies are based on structure correspondence  Cites: Aspect level sentiment classification with deep memory network

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NL2Viz: natural language to visualization via constrained syntax-guided synthesis"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "Z Wu, V Le, A Tiwari, S Gulwani, A Radhakrishna… - Proceedings of the 30th …, 2022"
----
-Recent development in NL2CODE (Natural Language to Code) research allows end-users, especially novice programmers to create a concrete implementation of their ideas such as data visualization by providing natural language (NL) instructions. An NL2CODE system often fails to achieve its goal due to three major challenges: the user s words have contextual semantics, the user may not include all details needed for code generation, and the system results are imperfect and require further …
-Cites: ‪Extrapolation in NLP‬
+--- 
+layout: post 
+title: "NL2Viz: natural language to visualization via constrained syntax-guided synthesis" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "Z Wu, V Le, A Tiwari, S Gulwani, A Radhakrishna - Proceedings of the 30th , 2022" 
+--- 
+Recent development in NL2CODE (Natural Language to Code) research allows end-users, especially novice programmers to create a concrete implementation of their ideas such as data visualization by providing natural language (NL) instructions. An NL2CODE system often fails to achieve its goal due to three major challenges: the user s words have contextual semantics, the user may not include all details needed for code generation, and the system results are imperfect and require further  Cites: Extrapolation in NLP

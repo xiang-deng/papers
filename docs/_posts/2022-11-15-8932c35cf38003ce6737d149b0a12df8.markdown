@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Accurate and Robust Text-to-SQL Parsing using Intermediate Representation"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "Y Gan - 2022"
----
-Text-to-SQL studies how to translate natural language descriptions into SQL queries. The key challenge is addressing the mismatch between natural language and SQL queries. To bridge this gap, we propose an SQL intermediate representation (IR) called Natural SQL (NatSQL), which makes inferring SQL easier for models and improves the performance of existing models. We also study the robustness of existing models in light of schema linking and compositional generalization …
-Cites: ‪Compositional generalization and natural language variation: Can …‬

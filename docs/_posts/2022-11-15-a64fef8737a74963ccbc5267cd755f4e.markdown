@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-phase invariant synthesis"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "D Riley, G Fedyukovich - Proceedings of the 30th ACM Joint European Software …, 2022"
----
-Loops with multiple phases are challenging to verify because they require disjunctive invariants. Invariants could also have the form of implication between a precondition for the phase and a lemma that is valid throughout the phase. Such invariant structure is however not widely supported in state-of-the-art verification. We present a novel SMT-based approach to synthesize implication invariants for multi-phase loops. Our technique computes Model Based Projections to discover the program s …
-Cites: ‪Learning invariants using decision trees and implication …‬
+--- 
+layout: post 
+title: "Multi-phase invariant synthesis" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "D Riley, G Fedyukovich - Proceedings of the 30th ACM Joint European Software , 2022" 
+--- 
+Loops with multiple phases are challenging to verify because they require disjunctive invariants. Invariants could also have the form of implication between a precondition for the phase and a lemma that is valid throughout the phase. Such invariant structure is however not widely supported in state-of-the-art verification. We present a novel SMT-based approach to synthesize implication invariants for multi-phase loops. Our technique computes Model Based Projections to discover the program s  Cites: Learning invariants using decision trees and implication

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "When is Realizability Sufficient for Off-Policy Reinforcement Learning?"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "A Zanette - arXiv preprint arXiv:2211.05311, 2022"
----
-Model-free algorithms for reinforcement learning typically require a condition called Bellman completeness in order to successfully operate off-policy with function approximation, unless additional conditions are met. However, Bellman completeness is a requirement that is much stronger than realizability and that is deemed to be too strong to hold in practice. In this work, we relax this structural assumption and analyze the statistical complexity of off-policy reinforcement learning …
-Cites: ‪Doubly robust bias reduction in infinite horizon off-policy estimation‬

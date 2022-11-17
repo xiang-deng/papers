@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unbiased Supervised Contrastive Learning"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "CA Barbano, B Dufumier, E Tartaglione, M Grangetto… - arXiv preprint arXiv …, 2022"
----
-Many datasets are biased, namely they contain easy-to-learn features that are highly correlated with the target class only in the dataset but not in the true underlying distribution of the data. For this reason, learning unbiased models from biased data has become a very relevant research topic in the last years. In this work, we tackle the problem of learning representations that are robust to biases. We first present a margin-based theoretical framework that allows us to clarify why recent contrastive …
-Cites: ‪Distributionally robust neural networks for group shifts: On the …‬
+--- 
+layout: post 
+title: "Unbiased Supervised Contrastive Learning" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "CA Barbano, B Dufumier, E Tartaglione, M Grangetto - arXiv preprint arXiv , 2022" 
+--- 
+Many datasets are biased, namely they contain easy-to-learn features that are highly correlated with the target class only in the dataset but not in the true underlying distribution of the data. For this reason, learning unbiased models from biased data has become a very relevant research topic in the last years. In this work, we tackle the problem of learning representations that are robust to biases. We first present a margin-based theoretical framework that allows us to clarify why recent contrastive  Cites: Distributionally robust neural networks for group shifts: On the

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "W Wang, J Dai, Z Chen, Z Huang, Z Li, X Zhu, X Hu… - arXiv preprint arXiv …, 2022"
----
-Compared to the great progress of large-scale vision transformers (ViTs) in recent years, large-scale models based on convolutional neural networks (CNNs) are still in an early state. This work presents a new large-scale CNN-based foundation model, termed InternImage, which can obtain the gain from increasing parameters and training data like ViTs. Different from the recent CNNs that focus on large dense kernels, InternImage takes deformable convolution as the core operator, so that our …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "W Wang, J Dai, Z Chen, Z Huang, Z Li, X Zhu, X Hu - arXiv preprint arXiv , 2022" 
+--- 
+Compared to the great progress of large-scale vision transformers (ViTs) in recent years, large-scale models based on convolutional neural networks (CNNs) are still in an early state. This work presents a new large-scale CNN-based foundation model, termed InternImage, which can obtain the gain from increasing parameters and training data like ViTs. Different from the recent CNNs that focus on large dense kernels, InternImage takes deformable convolution as the core operator, so that our  Cites: Palm: Scaling language modeling with pathways

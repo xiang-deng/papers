@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficiently Scaling Transformer Inference"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "R Pope, S Douglas, A Chowdhery, J Devlin, J Bradbury… - arXiv preprint arXiv …, 2022"
----
-We study the problem of efficient generative inference for Transformer models, in one of its most challenging settings: large deep models, with tight latency targets and long sequence lengths. Better understanding of the engineering tradeoffs for inference for large Transformer-based models is important as use cases of these models are growing rapidly throughout application areas. We develop a simple analytical model for inference efficiency to select the best multi-dimensional …
-Cites: ‪Lamda: Language models for dialog applications‬
+--- 
+layout: post 
+title: "Efficiently Scaling Transformer Inference" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "R Pope, S Douglas, A Chowdhery, J Devlin, J Bradbury - arXiv preprint arXiv , 2022" 
+--- 
+We study the problem of efficient generative inference for Transformer models, in one of its most challenging settings: large deep models, with tight latency targets and long sequence lengths. Better understanding of the engineering tradeoffs for inference for large Transformer-based models is important as use cases of these models are growing rapidly throughout application areas. We develop a simple analytical model for inference efficiency to select the best multi-dimensional  Cites: Lamda: Language models for dialog applications

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding Text Classification Data and Models Using Aggregated Input Salience"
-date:   2022-11-15 00:38:37 -0400
-categories: jekyll update
-author: "S Ebert, AS Jakobovits, K Filippova - arXiv preprint arXiv:2211.05485, 2022"
----
-Realizing when a model is right for a wrong reason is not trivial and requires a significant effort by model developers. In some cases, an input salience method, which highlights the most important parts of the input, may reveal problematic reasoning. But scrutinizing highlights over many data instances is tedious and often infeasible. Furthermore, analyzing examples in isolation does not reveal general patterns in the data or in the model s behavior. In this paper we aim to address these …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Understanding Text Classification Data and Models Using Aggregated Input Salience" 
+date: 2022-11-15 00:38:37 -0400 
+categories: jekyll update 
+author: "S Ebert, AS Jakobovits, K Filippova - arXiv preprint arXiv:2211.05485, 2022" 
+--- 
+Realizing when a model is right for a wrong reason is not trivial and requires a significant effort by model developers. In some cases, an input salience method, which highlights the most important parts of the input, may reveal problematic reasoning. But scrutinizing highlights over many data instances is tedious and often infeasible. Furthermore, analyzing examples in isolation does not reveal general patterns in the data or in the model s behavior. In this paper we aim to address these  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
