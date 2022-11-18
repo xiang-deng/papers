@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FPT: Improving Prompt Tuning Efficiency via Progressive Training"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "Y Huang, Y Qin, H Wang, Y Yin, M Sun, Z Liu, Q Liu - arXiv preprint arXiv:2211.06840, 2022"
+---
+Recently, prompt tuning (PT) has gained increasing attention as a parameter-efficient way of tuning pre-trained language models (PLMs). Despite extensively reducing the number of tunable parameters and achieving satisfying performance, PT is training-inefficient due to its slow convergence. To improve PT s training efficiency, we first make some novel observations about the prompt transferability of  partial PLMs , which are defined by compressing a PLM in depth or width. We observe that the soft …
+Cites: ‪Don t give me the details, just the summary! topic-aware …‬

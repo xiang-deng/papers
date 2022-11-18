@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Global Performance Guarantees for Neural Network Models of AC Power Flow"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "S Chevalier, S Chatzivasileiadis - arXiv preprint arXiv:2211.07125, 2022"
+---
+Machine learning can generate black-box surrogate models which are both extremely fast and highly accurate. Rigorously verifying the accuracy of these black-box models, however, is computationally challenging. When it comes to power systems, learning AC power flow is the cornerstone of any machine learning surrogate model wishing to drastically accelerate computations, whether it is for optimization, control, or dynamics. This paper develops for the first time, to our …
+Cites: ‪Enabling certification of verification-agnostic networks via memory …‬

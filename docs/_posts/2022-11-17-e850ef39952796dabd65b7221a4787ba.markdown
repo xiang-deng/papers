@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Multi-level multi-type self-generated knowledge fusion for cardiac ultrasound segmentation"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "C Yu, S Li, D Ghista, Z Gao, H Zhang, J Del Ser, L Xu - Information Fusion, 2022"
+---
+Most existing works on cardiac echocardiography segmentation require a large number of ground-truth labels to appropriately train a neural network; this, however, is time consuming and laborious for physicians. Self-supervision learning is one of the potential solutions to address this challenge by deeply exploiting the raw data. However, existing works mainly exploit single type/level of pretext task. In this work, we propose fusion of the multi-level and multi-type self-generated knowledge. We …
+Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

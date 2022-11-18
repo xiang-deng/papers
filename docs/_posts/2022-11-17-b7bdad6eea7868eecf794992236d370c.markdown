@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "JJ Erker, G Spanakis, S Schaffer - arXiv preprint arXiv:2211.07591, 2022"
+---
+Motivated by the entailment property of multi-turn dialogues through contrastive learning sentence embeddings, we introduce a novel technique, Curved Contrastive Learning (CCL), for generating semantically meaningful and conversational graph curved utterance embeddings that can be compared using cosine similarity. The resulting bi-encoder models can guide transformers as a response ranking model towards a goal in a zero-shot fashion by projecting the goal utterance and the …
+Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬

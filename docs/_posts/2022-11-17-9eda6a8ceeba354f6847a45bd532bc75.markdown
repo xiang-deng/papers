@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generalization Beyond Feature Alignment: Concept Activation-Guided Contrastive Learning"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "Y Liu, CX Tian, H Li, S Wang - arXiv preprint arXiv:2211.06843, 2022"
+---
+Learning invariant representations via contrastive learning has seen state-of-the-art performance in domain generalization (DG). Despite such success, in this paper, we find that its core learning strategy--feature alignment--could heavily hinder the model generalization. Inspired by the recent progress in neuron interpretability, we characterize this problem from a neuron activation view. Specifically, by treating feature elements as neuron activation states, we show that conventional alignment …
+Cites: ‪Distributionally robust neural networks for group shifts: On the …‬

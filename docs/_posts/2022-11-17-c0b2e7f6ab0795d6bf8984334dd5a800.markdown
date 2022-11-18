@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient transformer with code token learner for code clone detection"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "A Zhang, L Fang, C Ge, P Li, Z Liu - Journal of Systems and Software, 2022"
+---
+Deep learning techniques have achieved promising results in code clone detection in the past decade. Unfortunately, current deep learning-based methods rarely explicitly consider the modeling of long codes. Worse, the code length is increasing due to the increasing requirement of complex functions. Thus, modeling the relationship between code tokens to catch their long-range dependencies is crucial to comprehensively capture the information of the code fragment. In this work, we …
+Cites: ‪Graphcodebert: Pre-training code representations with data flow‬

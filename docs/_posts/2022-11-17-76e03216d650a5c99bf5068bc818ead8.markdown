@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Redeeming Intrinsic Rewards via Constrained Optimization"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "E Chen, ZW Hong, J Pajarinen, P Agrawal - arXiv preprint arXiv:2211.07627, 2022"
+---
+State-of-the-art reinforcement learning (RL) algorithms typically use random sampling (eg, $\epsilon $-greedy) for exploration, but this method fails in hard exploration tasks like Montezuma s Revenge. To address the challenge of exploration, prior works incentivize the agent to visit novel states using an exploration bonus (also called an intrinsic reward or curiosity). Such methods can lead to excellent results on hard exploration tasks but can suffer from intrinsic reward …
+Cites: ‪Decoupled Exploration and Exploitation Policies for Sample …‬

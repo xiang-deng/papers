@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Top-Rank Learning with Neural Networks"
+date:   2022-11-17 00:57:01 -0400
+categories: jekyll update
+author: "鄭顔 - 2022"
+---
+Top-rank learning aims to learn a real-valued ranking function to maximize the number of absolute top samples. These samples are the most reliable positive samples that are ranked higher than the top-ranked negative sample. Therefore, top-rank learning is beneficial for real applications that require reliable decisions. In addition, it also inherits the merits of bipartite ranking that not only provides the appropriate ranking for samples but also theoretically guarantees its robustness to …
+Cites: ‪Generalization Bounds for the Area Under the ROC Curve.‬
