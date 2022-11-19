@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Factual Consistency in Summarization with Compression-Based Post-Editing"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "AR Fabbri, PK Choubey, J Vig, CS Wu, C Xiong - arXiv preprint arXiv:2211.06196, 2022"
----
-State-of-the-art summarization models still struggle to be factually consistent with the input text. A model-agnostic way to address this problem is post-editing the generated summaries. However, existing approaches typically fail to remove entity errors if a suitable input entity replacement is not available or may insert erroneous content. In our work, we focus on removing extrinsic entity errors, or entities not in the source, to improve consistency while retaining the summary s essential information …
-Cites: ‪Don t give me the details, just the summary! topic-aware …‬
+--- 
+layout: post 
+title: "Improving Factual Consistency in Summarization with Compression-Based Post-Editing" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "AR Fabbri, PK Choubey, J Vig, CS Wu, C Xiong - arXiv preprint arXiv:2211.06196, 2022" 
+--- 
+State-of-the-art summarization models still struggle to be factually consistent with the input text. A model-agnostic way to address this problem is post-editing the generated summaries. However, existing approaches typically fail to remove entity errors if a suitable input entity replacement is not available or may insert erroneous content. In our work, we focus on removing extrinsic entity errors, or entities not in the source, to improve consistency while retaining the summary s essential information  Cites: Don t give me the details, just the summary! topic-aware

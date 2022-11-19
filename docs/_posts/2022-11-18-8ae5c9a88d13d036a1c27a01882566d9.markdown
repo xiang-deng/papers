@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Universal Discriminator for Zero-Shot Generalization"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "H Xu, Z Lin, J Zhou, Y Zheng, Z Yang - arXiv preprint arXiv:2211.08099, 2022"
+---
+Generative modeling has been the dominant approach for large-scale pretraining and zero-shot generalization. In this work, we challenge this convention by showing that discriminative approaches perform substantially better than generative ones on a large number of NLP tasks. Technically, we train a single discriminator to predict whether a text sample comes from the true data distribution, similar to GANs. Since many NLP tasks can be formulated as selecting from a few options, we use this …
+Cites: ‪Prompt-free and Efficient Few-shot Learning with Language Models‬

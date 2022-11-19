@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Distantly supervised relation extraction with KB-enhanced reconstructed latent iterative graph networks"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "Q Zhou, Y Zhang, D Ji - Knowledge-Based Systems, 2022"
+---
+We investigate distantly supervised relation extraction with knowledge-guided latent graphs and an iterative graph learner. For the relation extraction tasks, we assume that the input sentences contain latent graphs with useful structural information between mentions and relations of the distantly supervised data. We first embed input sentences with default initialized graphs to utilize this information. We also used the pre-trained Knowledge Bases (KB) to guide the latent space of a Variational …
+Cites: ‪More Data, More Relations, More Context and More Openness: A …‬

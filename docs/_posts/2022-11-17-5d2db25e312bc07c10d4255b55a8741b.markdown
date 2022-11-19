@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Clustering with Total Variation Graph Neural Networks"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "JB Hansen, FM Bianchi - arXiv preprint arXiv:2211.06218, 2022"
----
-Graph Neural Networks (GNNs) are deep learning models designed to process attributed graphs. GNNs can compute cluster assignments accounting both for the vertex features and for the graph topology. Existing GNNs for clustering are trained by optimizing an unsupervised minimum cut objective, which is approximated by a Spectral Clustering (SC) relaxation. SC offers a closed-form solution that, however, is not particularly useful for a GNN trained with gradient descent. Additionally, the SC …
-Cites: ‪Regularization on discrete spaces‬
+--- 
+layout: post 
+title: "Clustering with Total Variation Graph Neural Networks" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "JB Hansen, FM Bianchi - arXiv preprint arXiv:2211.06218, 2022" 
+--- 
+Graph Neural Networks (GNNs) are deep learning models designed to process attributed graphs. GNNs can compute cluster assignments accounting both for the vertex features and for the graph topology. Existing GNNs for clustering are trained by optimizing an unsupervised minimum cut objective, which is approximated by a Spectral Clustering (SC) relaxation. SC offers a closed-form solution that, however, is not particularly useful for a GNN trained with gradient descent. Additionally, the SC  Cites: Regularization on discrete spaces

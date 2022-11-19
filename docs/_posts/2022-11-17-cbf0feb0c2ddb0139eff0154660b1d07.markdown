@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards a Mathematics Formalisation Assistant using Large Language Models"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "A Agrawal, S Gadgil, N Goyal, A Narayanan… - arXiv preprint arXiv …, 2022"
----
-Mathematics formalisation is the task of writing mathematics (ie, definitions, theorem statements, proofs) in natural language, as found in books and papers, into a formal language that can then be checked for correctness by a program. It is a thriving activity today, however formalisation remains cumbersome. In this paper, we explore the abilities of a large language model (Codex) to help with formalisation in the Lean theorem prover. We find that with careful input-dependent prompt selection and …
-Cites: ‪Chi, and Denny Zhou‬
+--- 
+layout: post 
+title: "Towards a Mathematics Formalisation Assistant using Large Language Models" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "A Agrawal, S Gadgil, N Goyal, A Narayanan - arXiv preprint arXiv , 2022" 
+--- 
+Mathematics formalisation is the task of writing mathematics (ie, definitions, theorem statements, proofs) in natural language, as found in books and papers, into a formal language that can then be checked for correctness by a program. It is a thriving activity today, however formalisation remains cumbersome. In this paper, we explore the abilities of a large language model (Codex) to help with formalisation in the Lean theorem prover. We find that with careful input-dependent prompt selection and  Cites: Chi, and Denny Zhou

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MEAL: Stable and Active Learning for Few-Shot Prompting"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "A Köksal, T Schick, H Schütze - arXiv preprint arXiv:2211.08358, 2022"
+---
+Few-shot classification in NLP has recently made great strides due to the availability of large foundation models that, through priming and prompting, are highly effective few-shot learners. However, this approach has high variance across different sets of few shots and across different finetuning runs. For example, we find that validation accuracy on RTE can vary by as much as 27 points. In this context, we make two contributions for more effective few-shot learning. First, we propose novel …
+Cites: ‪Fantastically ordered prompts and where to find them: Overcoming …‬

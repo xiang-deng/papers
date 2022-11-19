@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning with Noisy Labels over Imbalanced Subpopulations"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "MC Chen, Y Zhao, B He, Z Han, B Wu, J Yao - arXiv preprint arXiv:2211.08722, 2022"
+---
+Learning with Noisy Labels (LNL) has attracted significant attention from the research community. Many recent LNL methods rely on the assumption that clean samples tend to have  small loss . However, this assumption always fails to generalize to some real-world cases with imbalanced subpopulations, ie, training subpopulations varying in sample size or recognition difficulty. Therefore, recent LNL methods face the risk of misclassifying those  informative  samples (eg, hard …
+Cites: ‪Examining and Combating Spurious Features under Distribution Shift‬

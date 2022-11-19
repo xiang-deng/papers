@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DocuT5: Seq2seq SQL Generation with Table Documentation"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "E Soare, I Mackie, J Dalton - arXiv preprint arXiv:2211.06193, 2022"
----
-Current SQL generators based on pre-trained language models struggle to answer complex questions requiring domain context or understanding fine-grained table structure. Humans would deal with these unknowns by reasoning over the documentation of the tables. Based on this hypothesis, we propose DocuT5, which uses off-the-shelf language model architecture and injects knowledge from externaldocumentation to improve domain generalization. We perform experiments …
-Cites: ‪TaBERT: Pretraining for Joint Understanding of Textual and …‬
+--- 
+layout: post 
+title: "DocuT5: Seq2seq SQL Generation with Table Documentation" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "E Soare, I Mackie, J Dalton - arXiv preprint arXiv:2211.06193, 2022" 
+--- 
+Current SQL generators based on pre-trained language models struggle to answer complex questions requiring domain context or understanding fine-grained table structure. Humans would deal with these unknowns by reasoning over the documentation of the tables. Based on this hypothesis, we propose DocuT5, which uses off-the-shelf language model architecture and injects knowledge from externaldocumentation to improve domain generalization. We perform experiments  Cites: TaBERT: Pretraining for Joint Understanding of Textual and

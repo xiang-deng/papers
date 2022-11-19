@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ALBERT with Knowledge Graph Encoder Utilizing Semantic Similarity for Commonsense Question Answering"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "B Choi, YH Lee, Y Kyung, E Kim - arXiv preprint arXiv:2211.07065, 2022"
----
-Recently, pre-trained language representation models such as bidirectional encoder representations from transformers (BERT) have been performing well in commonsense question answering (CSQA). However, there is a problem that the models do not directly use explicit information of knowledge sources existing outside. To augment this, additional methods such as knowledge-aware graph network (KagNet) and multi-hop graph relation network (MHGRN) have been proposed. In …
-Cites: ‪QA-GNN: Reasoning with language models and knowledge …‬
+--- 
+layout: post 
+title: "ALBERT with Knowledge Graph Encoder Utilizing Semantic Similarity for Commonsense Question Answering" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "B Choi, YH Lee, Y Kyung, E Kim - arXiv preprint arXiv:2211.07065, 2022" 
+--- 
+Recently, pre-trained language representation models such as bidirectional encoder representations from transformers (BERT) have been performing well in commonsense question answering (CSQA). However, there is a problem that the models do not directly use explicit information of knowledge sources existing outside. To augment this, additional methods such as knowledge-aware graph network (KagNet) and multi-hop graph relation network (MHGRN) have been proposed. In  Cites: QA-GNN: Reasoning with language models and knowledge

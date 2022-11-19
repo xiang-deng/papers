@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ClusterVote: Automatic Summarization Dataset Construction with Document Clusters"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "D Chernyshev, B Dobrov - International Conference on Speech and Computer, 2022"
----
-Creating a summarization dataset is a costly task due to the amount of expertise and human work required to compose quality summaries. To alleviate the issue, several pseudo-summary approaches were developed, but due to a lack of domain adaptation mechanism, they were not applied beyond language model pretraining. We find that this shortcoming can be overcome by leveraging document clusters. We propose ClusterVote, a pseudo-summarization approach that accounts for domain …
-Cites: ‪Don t give me the details, just the summary! topic-aware …‬
+--- 
+layout: post 
+title: "ClusterVote: Automatic Summarization Dataset Construction with Document Clusters" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "D Chernyshev, B Dobrov - International Conference on Speech and Computer, 2022" 
+--- 
+Creating a summarization dataset is a costly task due to the amount of expertise and human work required to compose quality summaries. To alleviate the issue, several pseudo-summary approaches were developed, but due to a lack of domain adaptation mechanism, they were not applied beyond language model pretraining. We find that this shortcoming can be overcome by leveraging document clusters. We propose ClusterVote, a pseudo-summarization approach that accounts for domain  Cites: Don t give me the details, just the summary! topic-aware

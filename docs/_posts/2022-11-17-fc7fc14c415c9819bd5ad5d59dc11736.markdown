@@ -1,9 +1,8 @@
----
-layout: post
-title:  "When Less is More: On the Value of  Co-training  for Semi-Supervised Software Defect Predictors"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "S Majumder, J Chakraborty, T Menzies - arXiv preprint arXiv:2211.05920, 2022"
----
-Labeling a module defective or non-defective is an expensive task. Hence, there are often limits on how much-labeled data is available for training. Semi-supervised classifiers use far fewer labels for training models, but there are numerous semi-supervised methods, including self-labeling, co-training, maximal-margin, and graph-based methods, to name a few. Only a handful of these methods have been tested in SE for (eg) predicting defects and even that, those tests have been on just a handful …
-Cites: ‪Learning with Local and Global Consistency.‬
+--- 
+layout: post 
+title: "When Less is More: On the Value of Co-training for Semi-Supervised Software Defect Predictors" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "S Majumder, J Chakraborty, T Menzies - arXiv preprint arXiv:2211.05920, 2022" 
+--- 
+Labeling a module defective or non-defective is an expensive task. Hence, there are often limits on how much-labeled data is available for training. Semi-supervised classifiers use far fewer labels for training models, but there are numerous semi-supervised methods, including self-labeling, co-training, maximal-margin, and graph-based methods, to name a few. Only a handful of these methods have been tested in SE for (eg) predicting defects and even that, those tests have been on just a handful  Cites: Learning with Local and Global Consistency.

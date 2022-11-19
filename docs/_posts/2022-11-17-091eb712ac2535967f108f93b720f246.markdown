@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TINA: Textual Inference with Negation Augmentation"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "C Helwe, S Coumes, C Clavel, F Suchanek"
----
-Transformer-based language models achieve state-of-the-art results on several natural language processing tasks. One of these is textual entailment, ie, the task of determining whether a premise logically entails a hypothesis. However, the models perform poorly on this task when the examples contain negations. In this paper, we propose a new definition of textual entailment that captures also negation. This allows us to develop TINA (Textual Inference with Negation Augmentation), a …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "TINA: Textual Inference with Negation Augmentation" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "C Helwe, S Coumes, C Clavel, F Suchanek" 
+--- 
+Transformer-based language models achieve state-of-the-art results on several natural language processing tasks. One of these is textual entailment, ie, the task of determining whether a premise logically entails a hypothesis. However, the models perform poorly on this task when the examples contain negations. In this paper, we propose a new definition of textual entailment that captures also negation. This allows us to develop TINA (Textual Inference with Negation Augmentation), a  Cites: Palm: Scaling language modeling with pathways

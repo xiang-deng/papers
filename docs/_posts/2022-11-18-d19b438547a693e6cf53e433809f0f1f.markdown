@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Robust Knowledge Acquisition in Answering Information-seeking Questions At Scale"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "E Kamalloo - 2022"
+---
+Answering information-seeking question involves retrieving relevant documents from a massive haystack of unstructured text corpora. This dissertation aims at building question answering (QA) systems that can be deployed in the wild where incoming questions may be noisy and their distribution inevitably shifts from that of the training data. At a high level, we attempt to tackle three distinct problems arising in real-world scenarios: from the modelling perspective, how to build robust and scalable QA …
+Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Computationally Verifiable Semantic Grounding for Language Models"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "C Alberti, K Ganchev, M Collins, S Gehrmann… - arXiv preprint arXiv …, 2022"
+---
+The paper presents an approach to semantic grounding of language models (LMs) that conceptualizes the LM as a conditional model generating text given a desired semantic message formalized as a set of entity-relationship triples. It embeds the LM in an auto-encoder by feeding its output to a semantic parser whose output is in the same representation domain as the input message. Compared to a baseline that generates text using greedy search, we demonstrate two techniques that improve the …
+Cites: ‪Palm: Scaling language modeling with pathways‬

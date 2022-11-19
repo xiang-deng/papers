@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "py-irt: A scalable item response theory library for python"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "JP Lalor, P Rodriguez - INFORMS Journal on Computing, 2022"
+---
+py-irt is a Python library for fitting Bayesian item response theory (IRT) models. At present, there is no Python package for fitting large-scale IRT models. py-irt estimates latent traits of subjects and items, making it appropriate for use in IRT tasks as well as in ideal point models. py-irt is built on top of the Pyro and PyTorch frameworks and uses GPU-accelerated training to scale to large data sets. It is the first Python package for large-scale IRT model fitting. py-irt is easy to use for …
+Cites: ‪Comparing test sets with item response theory‬

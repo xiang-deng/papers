@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPE: Symmetrical Prompt Enhancement for Fact Probing"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "Y Li, T Che, Y Wang, Z Jiang, C Xiong, S Chaturvedi - arXiv preprint arXiv …, 2022"
----
-Pretrained language models (PLMs) have been shown to accumulate factual knowledge during pretrainingng (Petroni et al., 2019). Recent works probe PLMs for the extent of this knowledge through prompts either in discrete or continuous forms. However, these methods do not consider symmetry of the task: object prediction and subject prediction. In this work, we propose Symmetrical Prompt Enhancement (SPE), a continuous prompt-based method for factual probing in PLMs that leverages …
-Cites: ‪BERTese: Learning to Speak to BERT‬
+--- 
+layout: post 
+title: "SPE: Symmetrical Prompt Enhancement for Fact Probing" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "Y Li, T Che, Y Wang, Z Jiang, C Xiong, S Chaturvedi - arXiv preprint arXiv , 2022" 
+--- 
+Pretrained language models (PLMs) have been shown to accumulate factual knowledge during pretrainingng (Petroni et al., 2019). Recent works probe PLMs for the extent of this knowledge through prompts either in discrete or continuous forms. However, these methods do not consider symmetry of the task: object prediction and subject prediction. In this work, we propose Symmetrical Prompt Enhancement (SPE), a continuous prompt-based method for factual probing in PLMs that leverages  Cites: BERTese: Learning to Speak to BERT

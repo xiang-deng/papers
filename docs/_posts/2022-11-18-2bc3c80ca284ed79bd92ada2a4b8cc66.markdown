@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Empirical Study on Optimizer Selection for Out-of-Distribution Generalization"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "H Naganuma, K Ahuja, I Mitliagkas, S Takagi… - arXiv preprint arXiv …, 2022"
+---
+Modern deep learning systems are fragile and do not generalize well under distribution shifts. While much promising work has been accomplished to address these concerns, a systematic study of the role of optimizers and their out-of-distribution generalization performance has not been undertaken. In this study, we examine the performance of popular first-order optimizers for different classes of distributional shift under empirical risk minimization and invariant risk minimization …
+Cites: ‪Accuracy on the line: on the strong correlation between out-of …‬

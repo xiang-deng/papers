@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Extractive Long-Form Question Answering for Annual Reports Using BERT"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "A Kabber, VM Dhruthi, R Pandit, S Natarajan - Proceedings of Emerging Trends and …, 2023"
+---
+This paper suggests a strategy to obtain extractive long-form answers from Annual Reports. Perceiving most previous usage, BERT has been used to get short answers with either a phrase or a sentence. Annual reports are simply not sufficient and most queries require a more well-rounded answer. In this paper, TF-IDF, FinBERT, and BERT are used to build extractive long answers from annual reports—which is a very large context. The BERT model that is used in the pipeline is pre-trained on …
+Cites: ‪Model Agnostic Answer Reranking System for Adversarial …‬

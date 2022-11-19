@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "H Iso - arXiv preprint arXiv:2211.08387, 2022"
+---
+Lexically constrained text generation is one of the constrained text generation tasks, which aims to generate text that covers all the given constraint lexicons. While the existing approaches tackle this problem using a lexically constrained beam search algorithm or dedicated model using non-autoregressive decoding, there is a trade-off between the generated text quality and the hard constraint satisfaction. We introduce AutoTemplate, a simple yet effective lexically constrained text generation framework …
+Cites: ‪Reformulating Unsupervised Style Transfer as Paraphrase …‬

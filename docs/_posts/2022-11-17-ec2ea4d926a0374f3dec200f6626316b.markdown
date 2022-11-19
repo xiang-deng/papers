@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Finding Skill Neurons in Pre-trained Transformer-based Language Models"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "X Wang, K Wen, Z Zhang, L Hou, Z Liu, J Li - arXiv preprint arXiv:2211.07349, 2022"
----
-Transformer-based pre-trained language models have demonstrated superior performance on various natural language processing tasks. However, it remains unclear how the skills required to handle these tasks distribute among model parameters. In this paper, we find that after prompt tuning for specific tasks, the activations of some neurons within pre-trained Transformers are highly predictive of the task labels. We dub these neurons skill neurons and confirm they encode task …
-Cites: ‪Transformer feed-forward layers are key-value memories‬
+--- 
+layout: post 
+title: "Finding Skill Neurons in Pre-trained Transformer-based Language Models" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "X Wang, K Wen, Z Zhang, L Hou, Z Liu, J Li - arXiv preprint arXiv:2211.07349, 2022" 
+--- 
+Transformer-based pre-trained language models have demonstrated superior performance on various natural language processing tasks. However, it remains unclear how the skills required to handle these tasks distribute among model parameters. In this paper, we find that after prompt tuning for specific tasks, the activations of some neurons within pre-trained Transformers are highly predictive of the task labels. We dub these neurons skill neurons and confirm they encode task  Cites: Transformer feed-forward layers are key-value memories

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parameter-Efficient Tuning on Layer Normalization for Pre-trained Language Models"
+date:   2022-11-18 16:55:42 -0400
+categories: jekyll update
+author: "W Qi, YP Ruan, Y Zuo, T Li - arXiv preprint arXiv:2211.08682, 2022"
+---
+Conventional fine-tuning encounters increasing difficulties given the size of current Pre-trained Language Models, which makes parameter-efficient tuning become the focal point of frontier research. Previous methods in this field add tunable adapters into MHA or/and FFN of Transformer blocks to enable PLMs achieve transferability. However, as an important part of Transformer architecture, the power of layer normalization for parameter-efficent tuning is ignored. In this paper, we first propose …
+Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬

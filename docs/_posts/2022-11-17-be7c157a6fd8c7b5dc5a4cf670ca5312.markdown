@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Retrieval-Augmented Generative Question Answering for Event Argument Extraction"
-date:   2022-11-17 00:57:01 -0400
-categories: jekyll update
-author: "X Du, H Ji - arXiv preprint arXiv:2211.07067, 2022"
----
-Event argument extraction has long been studied as a sequential prediction problem with extractive-based methods, tackling each argument in isolation. Although recent work proposes generation-based methods to capture cross-argument dependency, they require generating and post-processing a complicated target sequence (template). Motivated by these observations and recent pretrained language models  capabilities of learning from demonstrations. We propose a retrieval-augmented …
-Cites: ‪Retrieval-augmented generation for knowledge-intensive NLP tasks‬
+--- 
+layout: post 
+title: "Retrieval-Augmented Generative Question Answering for Event Argument Extraction" 
+date: 2022-11-17 00:57:01 -0400 
+categories: jekyll update 
+author: "X Du, H Ji - arXiv preprint arXiv:2211.07067, 2022" 
+--- 
+Event argument extraction has long been studied as a sequential prediction problem with extractive-based methods, tackling each argument in isolation. Although recent work proposes generation-based methods to capture cross-argument dependency, they require generating and post-processing a complicated target sequence (template). Motivated by these observations and recent pretrained language models capabilities of learning from demonstrations. We propose a retrieval-augmented  Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks
