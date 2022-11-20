@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Unified Mutual Supervision Framework for Referring Expression Segmentation and Generation"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "S Huang, F Li, H Zhang, S Liu, L Zhang, L Wang - arXiv preprint arXiv:2211.07919, 2022"
----
-Reference Expression Segmentation (RES) and Reference Expression Generation (REG) are mutually inverse tasks that can be naturally jointly trained. Though recent work has explored such joint training, the mechanism of how RES and REG can benefit each other is still unclear. In this paper, we propose a unified mutual supervision framework that enables two tasks to improve each other. Our mutual supervision contains two directions. On the one hand, Disambiguation Supervision …
-Cites: ‪Unifying Vision-and-Language Tasks via Text Generation‬
+--- 
+layout: post 
+title: "A Unified Mutual Supervision Framework for Referring Expression Segmentation and Generation" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "S Huang, F Li, H Zhang, S Liu, L Zhang, L Wang - arXiv preprint arXiv:2211.07919, 2022" 
+--- 
+Reference Expression Segmentation (RES) and Reference Expression Generation (REG) are mutually inverse tasks that can be naturally jointly trained. Though recent work has explored such joint training, the mechanism of how RES and REG can benefit each other is still unclear. In this paper, we propose a unified mutual supervision framework that enables two tasks to improve each other. Our mutual supervision contains two directions. On the one hand, Disambiguation Supervision  Cites: Unifying Vision-and-Language Tasks via Text Generation

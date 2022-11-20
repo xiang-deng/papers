@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "J Chen, W Xu, S Guo, J Wang, J Zhang, H Wang - arXiv preprint arXiv:2211.08025, 2022"
----
-Federated Learning (FL) is an emerging paradigm that enables distributed users to collaboratively and iteratively train machine learning models without sharing their private data. Motivated by the effectiveness and robustness of self-attention-based architectures, researchers are turning to using pre-trained Transformers (ie, foundation models) instead of traditional convolutional neural networks in FL to leverage their excellent transfer learning capabilities. Despite recent progress, how …
-Cites: ‪Adapterhub: A framework for adapting transformers‬
+--- 
+layout: post 
+title: "FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "J Chen, W Xu, S Guo, J Wang, J Zhang, H Wang - arXiv preprint arXiv:2211.08025, 2022" 
+--- 
+Federated Learning (FL) is an emerging paradigm that enables distributed users to collaboratively and iteratively train machine learning models without sharing their private data. Motivated by the effectiveness and robustness of self-attention-based architectures, researchers are turning to using pre-trained Transformers (ie, foundation models) instead of traditional convolutional neural networks in FL to leverage their excellent transfer learning capabilities. Despite recent progress, how  Cites: Adapterhub: A framework for adapting transformers

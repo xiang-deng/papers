@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HMOE: Hypernetwork-based Mixture of Experts for Domain Generalization"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "J Qu, T Faney, Z Wang, P Gallinari, S Yousef… - arXiv preprint arXiv …, 2022"
----
-Due to the domain shift, machine learning systems typically fail to generalize well to domains different from those of training data, which is the problem that domain generalization (DG) aims to address. However, most mainstream DG algorithms lack interpretability and require domain labels, which are not available in many real-world scenarios. In this work, we propose a novel DG method, HMOE: Hypernetwork-based Mixture of Experts (MoE), that does not require domain labels and is more …
-Cites: ‪Glam: Efficient scaling of language models with mixture-of-experts‬
+--- 
+layout: post 
+title: "HMOE: Hypernetwork-based Mixture of Experts for Domain Generalization" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "J Qu, T Faney, Z Wang, P Gallinari, S Yousef - arXiv preprint arXiv , 2022" 
+--- 
+Due to the domain shift, machine learning systems typically fail to generalize well to domains different from those of training data, which is the problem that domain generalization (DG) aims to address. However, most mainstream DG algorithms lack interpretability and require domain labels, which are not available in many real-world scenarios. In this work, we propose a novel DG method, HMOE: Hypernetwork-based Mixture of Experts (MoE), that does not require domain labels and is more  Cites: Glam: Efficient scaling of language models with mixture-of-experts

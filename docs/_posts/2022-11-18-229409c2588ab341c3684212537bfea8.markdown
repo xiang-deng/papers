@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Are NLP Metrics Suitable for Evaluating Generated Code?"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "R Takaichi, Y Higo, S Matsumoto, S Kusumoto… - International Conference on …, 2022"
----
-Code generation is a technique that generates program source code without human intervention. There has been much research on automated methods for writing code, such as code generation. However, many techniques are still in their infancy and often generate syntactically incorrect code. Therefore, automated metrics used in natural language processing (NLP) are occasionally used to evaluate existing techniques in code generation. At present, it is unclear which metrics in NLP are …
-Cites: ‪A syntactic neural model for general-purpose code generation‬
+--- 
+layout: post 
+title: "Are NLP Metrics Suitable for Evaluating Generated Code?" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "R Takaichi, Y Higo, S Matsumoto, S Kusumoto - International Conference on , 2022" 
+--- 
+Code generation is a technique that generates program source code without human intervention. There has been much research on automated methods for writing code, such as code generation. However, many techniques are still in their infancy and often generate syntactically incorrect code. Therefore, automated metrics used in natural language processing (NLP) are occasionally used to evaluate existing techniques in code generation. At present, it is unclear which metrics in NLP are  Cites: A syntactic neural model for general-purpose code generation

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On Measuring the Intrinsic Few-Shot Hardness of Datasets"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "X Zhao, S Murty, CD Manning - arXiv preprint arXiv:2211.09113, 2022"
----
-While advances in pre-training have led to dramatic improvements in few-shot learning of NLP tasks, there is limited understanding of what drives successful few-shot adaptation in datasets. In particular, given a new dataset and a pre-trained model, what properties of the dataset make it\emph {few-shot learnable} and are these properties independent of the specific adaptation techniques used? We consider an extensive set of recent few-shot learning methods, and show that their …
-Cites: ‪Cutting down on prompts and parameters: Simple few-shot …‬
+--- 
+layout: post 
+title: "On Measuring the Intrinsic Few-Shot Hardness of Datasets" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "X Zhao, S Murty, CD Manning - arXiv preprint arXiv:2211.09113, 2022" 
+--- 
+While advances in pre-training have led to dramatic improvements in few-shot learning of NLP tasks, there is limited understanding of what drives successful few-shot adaptation in datasets. In particular, given a new dataset and a pre-trained model, what properties of the dataset make it\emph {few-shot learnable} and are these properties independent of the specific adaptation techniques used? We consider an extensive set of recent few-shot learning methods, and show that their  Cites: Cutting down on prompts and parameters: Simple few-shot

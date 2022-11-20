@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "L Yang, S Zhang, L Qin, Y Li, Y Wang, H Liu, J Wang… - arXiv preprint arXiv …, 2022"
----
-Pre-trained language models (PLMs) improve the model generalization by leveraging massive data as the training corpus in the pre-training phase. However, currently, the out-of-distribution (OOD) generalization becomes a generally ill-posed problem, even for the large-scale PLMs in natural language understanding tasks, which prevents the deployment of NLP methods in the real world. To facilitate the research in this direction, this paper makes the first attempt to establish a unified …
-Cites: ‪Systematic Inequalities in Language Technology Performance …‬
+--- 
+layout: post 
+title: "GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "L Yang, S Zhang, L Qin, Y Li, Y Wang, H Liu, J Wang - arXiv preprint arXiv , 2022" 
+--- 
+Pre-trained language models (PLMs) improve the model generalization by leveraging massive data as the training corpus in the pre-training phase. However, currently, the out-of-distribution (OOD) generalization becomes a generally ill-posed problem, even for the large-scale PLMs in natural language understanding tasks, which prevents the deployment of NLP methods in the real world. To facilitate the research in this direction, this paper makes the first attempt to establish a unified  Cites: Systematic Inequalities in Language Technology Performance

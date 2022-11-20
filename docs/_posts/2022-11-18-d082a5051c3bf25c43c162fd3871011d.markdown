@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Self-supervised and Interpretable Data Cleaning with Sequence Generative Adversarial Networks"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "J Peng, D Shen, N Tang, T Liu, Y Kou, T Nie, H Cuiâ€¦"
----
+--- 
+layout: post 
+title: "Self-supervised and Interpretable Data Cleaning with Sequence Generative Adversarial Networks" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "J Peng, D Shen, N Tang, T Liu, Y Kou, T Nie, H Cui" 
+--- 
 We study the problem of self-supervised and interpretable data cleaning, which automatically extracts interpretable data repair rules from dirty data. In this paper, we propose a novel framework, namely Garf, based on sequence generative adversarial networks (SeqGAN). One key information Garf tries to capture is data repair rules (for

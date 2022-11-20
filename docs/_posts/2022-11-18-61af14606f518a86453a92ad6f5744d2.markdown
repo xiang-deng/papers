@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fast and Accurate FSA System Using ELBERT: An Efficient and Lightweight BERT"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "S Lu, C Zhou, K Xie, S Liu, J Lin, Z Wang - arXiv preprint arXiv:2211.08842, 2022"
----
-As an application of Natural Language Processing (NLP) techniques, financial sentiment analysis (FSA) has become an invaluable tool for investors. Its speed and accuracy can significantly impact the returns of trading strategies. With the development of deep learning and Transformer-based pre-trained models like BERT, the accuracy of FSA has been much improved, but these time-consuming big models will also slow down the computation. To boost the processing speed of the FSA …
-Cites: ‪The right tool for the job: Matching model and instance complexities‬
+--- 
+layout: post 
+title: "Fast and Accurate FSA System Using ELBERT: An Efficient and Lightweight BERT" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "S Lu, C Zhou, K Xie, S Liu, J Lin, Z Wang - arXiv preprint arXiv:2211.08842, 2022" 
+--- 
+As an application of Natural Language Processing (NLP) techniques, financial sentiment analysis (FSA) has become an invaluable tool for investors. Its speed and accuracy can significantly impact the returns of trading strategies. With the development of deep learning and Transformer-based pre-trained models like BERT, the accuracy of FSA has been much improved, but these time-consuming big models will also slow down the computation. To boost the processing speed of the FSA  Cites: The right tool for the job: Matching model and instance complexities

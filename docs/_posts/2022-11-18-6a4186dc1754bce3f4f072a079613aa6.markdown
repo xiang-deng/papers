@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Non-Autoregressive Unsupervised Summarization with Length-Control Algorithms"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "P Liu - 2022"
----
-Text summarization aims to generate a short summary for an input text and has extensive real-world applications such as headline generation. State-of-the-art summarization models are mainly supervised; they require large labeled training corpora and thus cannot be applied to less popular areas, eg, less spoken languages, where paired data are rare. In this thesis, I present a non-autoregressive unsupervised summarization model, which does not require parallel data for training …
-Cites: ‪Ranking sentences for extractive summarization with reinforcement …‬

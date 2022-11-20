@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Breakpoint Transformers for Modeling and Tracking Intermediate Beliefs"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "K Richardson, R Tamari, O Sultan, R Tsarfaty… - arXiv preprint arXiv …, 2022"
----
-Can we teach natural language understanding models to track their beliefs through intermediate points in text? We propose a representation learning framework called breakpoint modeling that allows for learning of this type. Given any text encoder and data marked with intermediate states (breakpoints) along with corresponding textual queries viewed as true/false propositions (ie, the candidate beliefs of a model, consisting of information changing through time) our approach trains models in an …
-Cites: ‪Compositional generalization for neural semantic parsing via span …‬
+--- 
+layout: post 
+title: "Breakpoint Transformers for Modeling and Tracking Intermediate Beliefs" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "K Richardson, R Tamari, O Sultan, R Tsarfaty - arXiv preprint arXiv , 2022" 
+--- 
+Can we teach natural language understanding models to track their beliefs through intermediate points in text? We propose a representation learning framework called breakpoint modeling that allows for learning of this type. Given any text encoder and data marked with intermediate states (breakpoints) along with corresponding textual queries viewed as true/false propositions (ie, the candidate beliefs of a model, consisting of information changing through time) our approach trains models in an  Cites: Compositional generalization for neural semantic parsing via span

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Exploiting Contrastive Learning and Numerical Evidence for Improving Confusing Legal Judgment Prediction"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "L Gan, B Li, K Kuang, Y Yang, F Wu - arXiv preprint arXiv:2211.08238, 2022"
----
-Given the fact description text of a legal case, legal judgment prediction (LJP) aims to predict the case s charge, law article and penalty term. A core problem of LJP is how to distinguish confusing legal cases, where only subtle text differences exist. Previous studies fail to distinguish different classification errors with a standard cross-entropy classification loss, and ignore the numbers in the fact description for predicting the term of penalty. To tackle these issues, in this work, first, we propose a …
-Cites: ‪LEVEN: A Large-Scale Chinese Legal Event Detection Dataset‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "W Tang, B Xu, Y Zhao, Z Mao, Y Liu, Y Liao, H Xie - arXiv preprint arXiv:2211.09039, 2022"
----
-Relational triple extraction is challenging for its difficulty in capturing rich correlations between entities and relations. Existing works suffer from 1) heterogeneous representations of entities and relations, and 2) heterogeneous modeling of entity-entity interactions and entity-relation interactions. Therefore, the rich correlations are not fully exploited by existing works. In this paper, we propose UniRel to address these challenges. Specifically, we unify the representations of entities and relations …
-Cites: ‪Exploiting syntactico-semantic structures for relation extraction‬
+--- 
+layout: post 
+title: "UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "W Tang, B Xu, Y Zhao, Z Mao, Y Liu, Y Liao, H Xie - arXiv preprint arXiv:2211.09039, 2022" 
+--- 
+Relational triple extraction is challenging for its difficulty in capturing rich correlations between entities and relations. Existing works suffer from 1) heterogeneous representations of entities and relations, and 2) heterogeneous modeling of entity-entity interactions and entity-relation interactions. Therefore, the rich correlations are not fully exploited by existing works. In this paper, we propose UniRel to address these challenges. Specifically, we unify the representations of entities and relations  Cites: Exploiting syntactico-semantic structures for relation extraction

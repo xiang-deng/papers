@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adaptation Approaches for Nearest Neighbor Language Models"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "R Bhardwaj, G Polovets, M Sunkara - arXiv preprint arXiv:2211.07828, 2022"
----
-Semi-parametric Nearest Neighbor Language Models ($ k $ NN-LMs) have produced impressive gains over purely parametric LMs, by leveraging large-scale neighborhood retrieval over external memory datastores. However, there has been little investigation into adapting such models for new domains. This work attempts to fill that gap and suggests the following approaches for adapting $ k $ NN-LMs--1) adapting the underlying LM (using Adapters), 2) expanding neighborhood retrieval …
-Cites: ‪Nearest neighbor machine translation‬
+--- 
+layout: post 
+title: "Adaptation Approaches for Nearest Neighbor Language Models" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "R Bhardwaj, G Polovets, M Sunkara - arXiv preprint arXiv:2211.07828, 2022" 
+--- 
+Semi-parametric Nearest Neighbor Language Models ($ k $ NN-LMs) have produced impressive gains over purely parametric LMs, by leveraging large-scale neighborhood retrieval over external memory datastores. However, there has been little investigation into adapting such models for new domains. This work attempts to fill that gap and suggests the following approaches for adapting $ k $ NN-LMs--1) adapting the underlying LM (using Adapters), 2) expanding neighborhood retrieval  Cites: Nearest neighbor machine translation

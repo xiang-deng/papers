@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Além do fgssjoin: Algoritmos Paralelos para Junçoes por Similaridade de Conjuntos"
-date:   2022-11-18 16:55:42 -0400
-categories: jekyll update
-author: "RD Quirino, WS Martins - Anais da X Escola Regional de Informática de Goiás, 2022"
----
-Junções por similaridade de conjuntos são operações de grande importância nos sistemas modernos de bancos de dados, especialmente para os chamados armazens de dados, onde várias operações rotineiras como integração, limpeza e mineração de dados as utilizam com frequência. Algoritmos exatos, que retornam todos os pares similares possíveis de acordo com algum limiar de similaridade são computacionalmente caros, o que impõe lentidão a cargas de trabalho analíticas e …
-Cites: ‪Principles of data integration‬
+--- 
+layout: post 
+title: "Alm do fgssjoin: Algoritmos Paralelos para Junoes por Similaridade de Conjuntos" 
+date: 2022-11-18 16:55:42 -0400 
+categories: jekyll update 
+author: "RD Quirino, WS Martins - Anais da X Escola Regional de Informtica de Gois, 2022" 
+--- 
+Junes por similaridade de conjuntos so operaes de grande importncia nos sistemas modernos de bancos de dados, especialmente para os chamados armazens de dados, onde vrias operaes rotineiras como integrao, limpeza e minerao de dados as utilizam com frequncia. Algoritmos exatos, que retornam todos os pares similares possveis de acordo com algum limiar de similaridade so computacionalmente caros, o que impe lentido a cargas de trabalho analticas e  Cites: Principles of data integration
