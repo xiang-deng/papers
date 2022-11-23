@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fact checking machine generated text with dependency trees"
+date:   2022-11-22 02:23:19 -0400
+categories: jekyll update
+author: "A Estes, N Vedula, MD Collins, M Cecil, O Rokhlenko - 2022"
+---
+Factual and logical errors made by Natural Language Generation (NLG) systems limit their applicability in many settings. We study this problem in a conversational search and recommendation setting, and observe that we can often make two simplifying assumptions in this domain:(i) there exists a body of structured knowledge we can use for verifying factuality of generated text; and (ii) the text to be factually assessed typically has a well-defined structure and style. Grounded in these …
+Cites: ‪Transforming dependency structures to logical forms for semantic …‬
