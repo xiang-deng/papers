@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Intra-List Similarity and Human Diversity Perceptions of Recommendations: The Details Matter"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "M Jesse, C Bauer, D Jannach"
----
-The diversity of the generated item suggestions can be an important quality factor of a recommender system. In offline experiments, diversity is commonly assessed with the help of the intra-list similarity (ILS) measure, which is defined as the average pairwise similarity of the items in a list. The similarity of each pair of items is often determined based on domain-specific meta-data, eg, movie genres. While this approach is common in the literature, it in most cases remains open if a particular …
-Cites: ‪Multiobjective pareto-efficient approaches for recommender systems‬
+--- 
+layout: post 
+title: "Intra-List Similarity and Human Diversity Perceptions of Recommendations: The Details Matter" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "M Jesse, C Bauer, D Jannach" 
+--- 
+The diversity of the generated item suggestions can be an important quality factor of a recommender system. In offline experiments, diversity is commonly assessed with the help of the intra-list similarity (ILS) measure, which is defined as the average pairwise similarity of the items in a list. The similarity of each pair of items is often determined based on domain-specific meta-data, eg, movie genres. While this approach is common in the literature, it in most cases remains open if a particular  Cites: Multiobjective pareto-efficient approaches for recommender systems

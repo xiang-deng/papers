@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigating the Parallel Tractability of Knowledge Graph Reasoning via Boolean Circuits"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "Z Zhou, J Liu, S Tang - China Conference on Knowledge Graph and Semantic …, 2022"
----
-Symbolic based logic reasoning is always an important service for correctness sensitive applications built on knowledge graphs. To make reasoning efficient in practice, current research focuses on designing parallel reasoning algorithms or employing high-performance computing architectures, like neural networks. No matter what architecture we choose, the computational complexity of reasoning is upper-bounded by the PTime-completeness or higher ones that are not parallelly …
-Cites: ‪Neural logic machines‬
+--- 
+layout: post 
+title: "Investigating the Parallel Tractability of Knowledge Graph Reasoning via Boolean Circuits" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "Z Zhou, J Liu, S Tang - China Conference on Knowledge Graph and Semantic , 2022" 
+--- 
+Symbolic based logic reasoning is always an important service for correctness sensitive applications built on knowledge graphs. To make reasoning efficient in practice, current research focuses on designing parallel reasoning algorithms or employing high-performance computing architectures, like neural networks. No matter what architecture we choose, the computational complexity of reasoning is upper-bounded by the PTime-completeness or higher ones that are not parallelly  Cites: Neural logic machines

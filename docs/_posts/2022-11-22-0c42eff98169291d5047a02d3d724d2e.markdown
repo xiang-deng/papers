@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AugPrompt: Knowledgeable augmented-trigger prompt for few-shot event classification"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "C Song, F Cai, J Zheng, X Zhao, T Shao - Information Processing & Management, 2022"
----
-Abstract Few-Shot Event Classification (FSEC) aims at assigning event labels to unlabeled sentences when limited annotated samples are available. Existing works mainly focus on using meta-learning to overcome the low-resource problem that still requires abundant held-out classes for model learning and selection. Thus we propose to deal with the low-resource problem by utilizing prompts. Further, existing methods suffer from severe trigger biases that may result in ignorance of the context …
-Cites: ‪True few-shot learning with language models‬
+--- 
+layout: post 
+title: "AugPrompt: Knowledgeable augmented-trigger prompt for few-shot event classification" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "C Song, F Cai, J Zheng, X Zhao, T Shao - Information Processing & Management, 2022" 
+--- 
+Abstract Few-Shot Event Classification (FSEC) aims at assigning event labels to unlabeled sentences when limited annotated samples are available. Existing works mainly focus on using meta-learning to overcome the low-resource problem that still requires abundant held-out classes for model learning and selection. Thus we propose to deal with the low-resource problem by utilizing prompts. Further, existing methods suffer from severe trigger biases that may result in ignorance of the context  Cites: True few-shot learning with language models

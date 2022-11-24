@@ -1,9 +1,8 @@
----
-layout: post
-title:  "To Answer or Not to Answer? Filtering Questions for QA Systems"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "P Pirozelli, AAF Brandão, SM Peres, FG Cozman - Brazilian Conference on Intelligent …, 2022"
----
-Question answering (QA) systems are usually structured as strict conditional generators, which return an answer for every input question. Sometimes, however, the policy of always responding to questions may prove itself harmful, given the possibility of giving inaccurate answers, particularly for ambiguous or sensitive questions; instead, it may be better for a QA system to decide which questions should be answered or not. In this paper, we explore dual system architectures that filter …
-Cites: ‪Retrieval-augmented generation for knowledge-intensive nlp tasks‬
+--- 
+layout: post 
+title: "To Answer or Not to Answer? Filtering Questions for QA Systems" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "P Pirozelli, AAF Brando, SM Peres, FG Cozman - Brazilian Conference on Intelligent , 2022" 
+--- 
+Question answering (QA) systems are usually structured as strict conditional generators, which return an answer for every input question. Sometimes, however, the policy of always responding to questions may prove itself harmful, given the possibility of giving inaccurate answers, particularly for ambiguous or sensitive questions; instead, it may be better for a QA system to decide which questions should be answered or not. In this paper, we explore dual system architectures that filter  Cites: Retrieval-augmented generation for knowledge-intensive nlp tasks

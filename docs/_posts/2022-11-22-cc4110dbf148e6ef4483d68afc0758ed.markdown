@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Extracting interrelated information from road-related social media data"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "S Zhou, ST Ng, G Huang, J Dao, D Li - Advanced Engineering Informatics, 2022"
----
-The social media data (SMD) have been viewed as a potential and promising information source of road conditions. However, most existing SMD-based sensing approaches (SMDSAs) either ignore interrelations among information items (eg, name, direction, and status of the road) or rely on rigid grammar rules to establish entities  interrelations. Additionally, current SMDSAs in the transportation domain are unable to link the extracted text-formatted information with domain-specific models …
-Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬
+--- 
+layout: post 
+title: "Extracting interrelated information from road-related social media data" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "S Zhou, ST Ng, G Huang, J Dao, D Li - Advanced Engineering Informatics, 2022" 
+--- 
+The social media data (SMD) have been viewed as a potential and promising information source of road conditions. However, most existing SMD-based sensing approaches (SMDSAs) either ignore interrelations among information items (eg, name, direction, and status of the road) or rely on rigid grammar rules to establish entities interrelations. Additionally, current SMDSAs in the transportation domain are unable to link the extracted text-formatted information with domain-specific models  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

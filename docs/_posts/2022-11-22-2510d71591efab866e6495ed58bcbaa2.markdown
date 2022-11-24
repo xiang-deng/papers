@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DualGCN: Exploring Syntactic and Semantic Information for Aspect-Based Sentiment Analysis"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "R Li, H Chen, F Feng, Z Ma, X Wang, E Hovy - IEEE Transactions on Neural Networks …, 2022"
----
-The task of aspect-based sentiment analysis aims to identify sentiment polarities of given aspects in a sentence. Recent advances have demonstrated the advantage of incorporating the syntactic dependency structure with graph convolutional networks (GCNs). However, their performance of these GCN-based methods largely depends on the dependency parsers, which would produce diverse parsing results for a sentence. In this article, we propose a dual GCN (DualGCN) that jointly considers the …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "DualGCN: Exploring Syntactic and Semantic Information for Aspect-Based Sentiment Analysis" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "R Li, H Chen, F Feng, Z Ma, X Wang, E Hovy - IEEE Transactions on Neural Networks , 2022" 
+--- 
+The task of aspect-based sentiment analysis aims to identify sentiment polarities of given aspects in a sentence. Recent advances have demonstrated the advantage of incorporating the syntactic dependency structure with graph convolutional networks (GCNs). However, their performance of these GCN-based methods largely depends on the dependency parsers, which would produce diverse parsing results for a sentence. In this article, we propose a dual GCN (DualGCN) that jointly considers the  Cites: Aspect level sentiment classification with deep memory network

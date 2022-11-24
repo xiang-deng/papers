@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Learning with Expected Error Reduction"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "S Mussmann, J Reisler, D Tsai, E Mousavi, S O Brien… - arXiv preprint arXiv …, 2022"
----
-Active learning has been studied extensively as a method for efficient data collection. Among the many approaches in literature, Expected Error Reduction (EER)(Roy and McCallum) has been shown to be an effective method for active learning: select the candidate sample that, in expectation, maximally decreases the error on an unlabeled set. However, EER requires the model to be retrained for every candidate sample and thus has not been widely used for modern deep neural networks due to …
-Cites: ‪Accuracy on the line: on the strong correlation between out-of …‬
+--- 
+layout: post 
+title: "Active Learning with Expected Error Reduction" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "S Mussmann, J Reisler, D Tsai, E Mousavi, S O Brien - arXiv preprint arXiv , 2022" 
+--- 
+Active learning has been studied extensively as a method for efficient data collection. Among the many approaches in literature, Expected Error Reduction (EER)(Roy and McCallum) has been shown to be an effective method for active learning: select the candidate sample that, in expectation, maximally decreases the error on an unlabeled set. However, EER requires the model to be retrained for every candidate sample and thus has not been widely used for modern deep neural networks due to  Cites: Accuracy on the line: on the strong correlation between out-of

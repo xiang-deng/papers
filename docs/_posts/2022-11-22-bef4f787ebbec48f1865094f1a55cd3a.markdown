@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Probing for Incremental Parse States in Autoregressive Language Models"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "T Eisape, V Gangireddy, RP Levy, Y Kim - arXiv preprint arXiv:2211.09748, 2022"
----
-Next-word predictions from autoregressive neural language models show remarkable sensitivity to syntax. This work evaluates the extent to which this behavior arises as a result of a learned ability to maintain implicit representations of incremental syntactic structures. We extend work in syntactic probing to the incremental setting and present several probes for extracting incomplete syntactic structure (operationalized through parse states from a stack-based parser) from …
-Cites: ‪Emergent linguistic structure in artificial neural networks trained by …‬
+--- 
+layout: post 
+title: "Probing for Incremental Parse States in Autoregressive Language Models" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "T Eisape, V Gangireddy, RP Levy, Y Kim - arXiv preprint arXiv:2211.09748, 2022" 
+--- 
+Next-word predictions from autoregressive neural language models show remarkable sensitivity to syntax. This work evaluates the extent to which this behavior arises as a result of a learned ability to maintain implicit representations of incremental syntactic structures. We extend work in syntactic probing to the incremental setting and present several probes for extracting incomplete syntactic structure (operationalized through parse states from a stack-based parser) from  Cites: Emergent linguistic structure in artificial neural networks trained by

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Artificial Disfluency Detection, Uh No, Disfluency Generation for the Masses"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "T Passali, T Mavropoulos, G Tsoumakas, G Meditskos… - arXiv preprint arXiv …, 2022"
----
-Existing approaches for disfluency detection typically require the existence of large annotated datasets. However, current datasets for this task are limited, suffer from class imbalance, and lack some types of disfluencies that can be encountered in real-world scenarios. This work proposes LARD, a method for automatically generating artificial disfluencies from fluent text. LARD can simulate all the different types of disfluencies (repetitions, replacements and restarts) based on the reparandum …
-Cites: ‪Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in …‬
+--- 
+layout: post 
+title: "Artificial Disfluency Detection, Uh No, Disfluency Generation for the Masses" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "T Passali, T Mavropoulos, G Tsoumakas, G Meditskos - arXiv preprint arXiv , 2022" 
+--- 
+Existing approaches for disfluency detection typically require the existence of large annotated datasets. However, current datasets for this task are limited, suffer from class imbalance, and lack some types of disfluencies that can be encountered in real-world scenarios. This work proposes LARD, a method for automatically generating artificial disfluencies from fluent text. LARD can simulate all the different types of disfluencies (repetitions, replacements and restarts) based on the reparandum  Cites: Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in

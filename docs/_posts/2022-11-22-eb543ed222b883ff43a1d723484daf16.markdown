@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CSKE: Commonsense Knowledge Enhanced Text Extension Framework for Text-Based Logical Reasoning"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "Y Zeng, X Ding, L Du, T Liu, B Qin - China Conference on Knowledge Graph and …, 2022"
----
-Text-based logical reasoning requires the model to understand the semantics of input text, and then understand the complex logical relationships within the text. Previous works equip pre-trained language models with the logical reasoning ability by training these models on datasets obtained by logical-driven text extension. However, these methods only generate instances based on logical expressions entailed within the input text. And we argue that external commonsense knowledge …
-Cites: ‪Logic-driven context extension and data augmentation for logical …‬
+--- 
+layout: post 
+title: "CSKE: Commonsense Knowledge Enhanced Text Extension Framework for Text-Based Logical Reasoning" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "Y Zeng, X Ding, L Du, T Liu, B Qin - China Conference on Knowledge Graph and , 2022" 
+--- 
+Text-based logical reasoning requires the model to understand the semantics of input text, and then understand the complex logical relationships within the text. Previous works equip pre-trained language models with the logical reasoning ability by training these models on datasets obtained by logical-driven text extension. However, these methods only generate instances based on logical expressions entailed within the input text. And we argue that external commonsense knowledge  Cites: Logic-driven context extension and data augmentation for logical

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Limits of XAI application-grounded evaluation: an e-sport prediction example"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "C Boidot, O Augereau, P de Loor, R Lefort - XKDD 2022: 4th International Workshop …, 2022"
----
-EXplainable AI (XAI) was created to address the issue of Machine Learning s lack o transparency. Its methods are expanding, as are the ways of evaluating them, including human performance-based evaluations of explanations. These evaluations allow us to quantify the contribution of XAI algorithms to human decision-making. This work performs accuracy and response time measurements to evaluate SHAP explanations on an e-sports prediction task. The results of this pilot experiment …
-Cites: ‪Evaluating Explainable AI: Which Algorithmic Explanations Help …‬
+--- 
+layout: post 
+title: "Limits of XAI application-grounded evaluation: an e-sport prediction example" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "C Boidot, O Augereau, P de Loor, R Lefort - XKDD 2022: 4th International Workshop , 2022" 
+--- 
+EXplainable AI (XAI) was created to address the issue of Machine Learning s lack o transparency. Its methods are expanding, as are the ways of evaluating them, including human performance-based evaluations of explanations. These evaluations allow us to quantify the contribution of XAI algorithms to human decision-making. This work performs accuracy and response time measurements to evaluate SHAP explanations on an e-sports prediction task. The results of this pilot experiment  Cites: Evaluating Explainable AI: Which Algorithmic Explanations Help

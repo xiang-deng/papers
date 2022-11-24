@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Applying Information Extraction to Storybook Question and Answer Generation"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "KY Kao, CH Chang - Proceedings of the 34th Conference on Computational …, 2022"
----
-For educators, how to generate high quality question-answer pairs from story text is a time-consuming and labor-intensive task. The purpose is not to make students unable to answer, but to ensure that students understand the story text through the generated question-answer pairs. In this paper, we improve the FairyTaleQA question generation method by incorporating question type and its definition to the input for fine-tuning the BART (Lewis et al., 2020) model. Furthermore, we make use …
-Cites: ‪It is AI’s Turn to Ask Humans a Question: Question-Answer Pair …‬
+--- 
+layout: post 
+title: "Applying Information Extraction to Storybook Question and Answer Generation" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "KY Kao, CH Chang - Proceedings of the 34th Conference on Computational , 2022" 
+--- 
+For educators, how to generate high quality question-answer pairs from story text is a time-consuming and labor-intensive task. The purpose is not to make students unable to answer, but to ensure that students understand the story text through the generated question-answer pairs. In this paper, we improve the FairyTaleQA question generation method by incorporating question type and its definition to the input for fine-tuning the BART (Lewis et al., 2020) model. Furthermore, we make use  Cites: It is AIs Turn to Ask Humans a Question: Question-Answer Pair

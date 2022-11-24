@@ -1,9 +1,8 @@
----
-layout: post
-title:  "UPTON: Unattributable Authorship Text via Data Poisoning"
-date:   2022-11-22 02:23:19 -0400
-categories: jekyll update
-author: "Z Wang, T Le, D Lee - arXiv preprint arXiv:2211.09717, 2022"
----
-In online medium such as opinion column in Bloomberg, The Guardian and Western Journal, aspiring writers post their writings for various reasons with their names often proudly open. However, it may occur that such a writer wants to write in other venues anonymously or under a pseudonym (eg, activist, whistle-blower). However, if an attacker has already built an accurate authorship attribution (AA) model based off of the writings from such platforms, attributing an anonymous writing to the known …
-Cites: ‪NeuSpell: A Neural Spelling Correction Toolkit‬
+--- 
+layout: post 
+title: "UPTON: Unattributable Authorship Text via Data Poisoning" 
+date: 2022-11-22 02:23:19 -0400 
+categories: jekyll update 
+author: "Z Wang, T Le, D Lee - arXiv preprint arXiv:2211.09717, 2022" 
+--- 
+In online medium such as opinion column in Bloomberg, The Guardian and Western Journal, aspiring writers post their writings for various reasons with their names often proudly open. However, it may occur that such a writer wants to write in other venues anonymously or under a pseudonym (eg, activist, whistle-blower). However, if an attacker has already built an accurate authorship attribution (AA) model based off of the writings from such platforms, attributing an anonymous writing to the known  Cites: NeuSpell: A Neural Spelling Correction Toolkit
