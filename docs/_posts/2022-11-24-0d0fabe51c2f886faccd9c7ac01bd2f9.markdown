@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Two Facets of SDE Under an Information-Theoretic Lens: Generalization of SGD via Training Trajectories and via Terminal States"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "Z Wang, Y Mao - arXiv preprint arXiv:2211.10691, 2022"
+---
+Stochastic differential equations (SDEs) have been shown recently to well characterize the dynamics of training machine learning models with SGD. This provides two opportunities for better understanding the generalization behaviour of SGD through its SDE approximation. First, under the SDE characterization, SGD may be regarded as the full-batch gradient descent with Gaussian gradient noise. This allows the application of the generalization bounds developed by Xu & Raginsky …
+Cites: ‪Catastrophic fisher explosion: Early phase fisher matrix impacts …‬

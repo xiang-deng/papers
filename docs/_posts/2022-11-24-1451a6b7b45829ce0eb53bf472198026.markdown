@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UniMASK: Unified Inference in Sequential Decision Problems"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "M Carroll, O Paradise, J Lin, R Georgescu, M Sun… - arXiv preprint arXiv …, 2022"
+---
+Randomly masking and predicting word tokens has been a successful approach in pre-training language models for a variety of downstream tasks. In this work, we observe that the same idea also applies naturally to sequential decision-making, where many well-studied tasks like behavior cloning, offline reinforcement learning, inverse dynamics, and waypoint conditioning correspond to different sequence maskings over a sequence of states, actions, and returns. We introduce the …
+Cites: ‪Cm3: A causal masked multimodal model of the internet‬

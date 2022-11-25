@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning from Long-Tailed Noisy Data with Sample Selection and Balanced Loss"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "L Zhang, ZH Tian, W Wang - arXiv preprint arXiv:2211.10906, 2022"
+---
+The success of deep learning depends on large-scale and well-curated training data, while data in real-world applications are commonly long-tailed and noisy. Many methods have been proposed to deal with long-tailed data or noisy data, while a few methods are developed to tackle long-tailed noisy data. To solve this, we propose a robust method for learning from long-tailed noisy data with sample selection and balanced loss. Specifically, we separate the noisy training data into clean labeled set …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

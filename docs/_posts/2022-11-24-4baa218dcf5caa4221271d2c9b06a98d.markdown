@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reinforcement Learning assisted Loop Distribution for Locality and Vectorization"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "S Jain, S VenkataKeerthy, R Aggarwal, TK Dangeti…"
+---
+Loop distribution (loop fission) is a well known compiler optimization that splits the loop into multiple loops. Loop distribution can be seen as an enabler of various other optimizations with different goals, like, the parallelizability of the loop, the vectorizability of the loop, its locality characteristics. In this work, we present a Reinforcement Learning (RL) based approach to efficiently perform loop-distribution with the twin goals of optimizing for both vectorization as well as locality. Broadly, we …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

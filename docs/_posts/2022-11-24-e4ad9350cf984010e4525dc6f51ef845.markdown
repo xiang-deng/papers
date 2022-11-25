@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generating HQL Queries from Java Program Context"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "Z Zhoua, H Yua, G Fana, Z Huanga, K Yanga…"
+---
+Abstract To facilitate Object-Oriented Programming (OOP) in data persistence, practitioners use a Java Object Relational-Mapping framework called Hibernate to map data bidirectionally in Java classes and data tables of Relational Database Management System (RDBMS). Specifically, Hibernate Query Language (HQL) is proposed to perform customizable queries for Hibernate in an OOP style. However, HQL queries are hard to implement and maintain due to their flexibility and …
+Cites: ‪Rat-sql: Relation-aware schema encoding and linking for text-to …‬

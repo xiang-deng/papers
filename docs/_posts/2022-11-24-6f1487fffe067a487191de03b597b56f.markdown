@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GoSum: Extractive Summarization of Long Documents by Reinforcement Learning and Graph Organized discourse state"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "J Bian, X Huang, H Zhou, S Zhu - arXiv preprint arXiv:2211.10247, 2022"
+---
+Handling long texts with structural information and excluding redundancy between summary sentences are essential in extractive document summarization. In this work, we propose GoSum, a novel reinforcement-learning-based extractive model for long-paper summarization. GoSum encodes states by building a heterogeneous graph from different discourse levels for each input document. We evaluate the model on two datasets of scientific articles summarization: PubMed and arXiv where it …
+Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬

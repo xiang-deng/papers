@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "T Wu, X Bai, W Guo, W Liu, S Li, Y Yang - arXiv preprint arXiv:2211.10991, 2022"
+---
+Zero-shot entity retrieval, aiming to link mentions to candidate entities under the zero-shot setting, is vital for many tasks in Natural Language Processing. Most existing methods represent mentions/entities via the sentence embeddings of corresponding context from the Pre-trained Language Model. However, we argue that such coarse-grained sentence embeddings can not fully model the mentions/entities, especially when the attention scores towards mentions/entities are relatively low. In this work …
+Cites: ‪Zero-shot entity linking by reading entity descriptions‬

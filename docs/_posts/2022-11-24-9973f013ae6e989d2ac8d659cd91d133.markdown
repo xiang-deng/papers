@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Program synthesis for integer sequence generation"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "N Butt, A Wiggers, T Cohen, M Welling"
+---
+Recent advances in program synthesis have shown success with methods that employ supervised learning on synthetic data generated from domain specific languages (DSLs). In this work, we propose an algorithm for program synthesis that extends these methods. It uses transfer learning from pre-trained language models, and uses a policy improvement operator based on policy-guided search. This hybrid approach combats the challenges of searching a large language space with sparse …
+Cites: ‪Learning to Superoptimize Real-world Programs‬

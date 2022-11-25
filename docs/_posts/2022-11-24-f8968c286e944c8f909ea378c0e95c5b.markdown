@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "Z Wang, R Xia, J Yu - arXiv preprint arXiv:2211.10986, 2022"
+---
+Aspect-Based Sentiment Analysis (ABSA) aims to provide fine-grained aspect-level sentiment information. There are many ABSA tasks, and the current dominant paradigm is to train task-specific models for each task. However, application scenarios of ABSA tasks are often diverse. This solution usually requires a large amount of labeled data from each task to perform excellently. These dedicated models are separately trained and separately predicted, ignoring the relationship …
+Cites: ‪True few-shot learning with language models‬

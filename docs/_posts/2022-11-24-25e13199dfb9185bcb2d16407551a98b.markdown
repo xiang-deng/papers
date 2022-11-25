@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FiE: Building a Global Probability Space by Leveraging Early Fusion in Encoder for Open-Domain Question Answering"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "A Kedia, MA Zaidi, H Lee - arXiv preprint arXiv:2211.10147, 2022"
+---
+Generative models have recently started to outperform extractive models in Open Domain Question Answering, largely by leveraging their decoder to attend over multiple encoded passages and combining their information. However, generative models tend to be larger than extractive models due to the need for a decoder, run slower during inference due to auto-regressive decoder beam search, and their generated output often suffers from hallucinations. We propose to extend transformer …
+Cites: ‪Probabilistic assumptions matter: Improved models for distantly …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Structured Pruning Adapters"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "L Hedegaard, A Alok, J Jose, A Iosifidis - arXiv preprint arXiv:2211.10155, 2022"
+---
+We propose Structured Pruning Adapters (SPAs), a family of compressing, task-switching network adapters, that accelerate and specialize networks using tiny parameter sets. Specifically, we propose a channel-and a block-based SPA and evaluate them with a suite of pruning methods on both computer vision and natural language processing benchmarks. Compared to regular structured pruning with fine-tuning, our channel-SPA improves accuracy by 6.9% on average while using half the …
+Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬

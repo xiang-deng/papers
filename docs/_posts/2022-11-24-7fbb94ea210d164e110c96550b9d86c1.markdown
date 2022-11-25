@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DesNet: Decomposed Scale-Consistent Network for Unsupervised Depth Completion"
+date:   2022-11-24 01:38:18 -0400
+categories: jekyll update
+author: "Z Yan, K Wang, X Li, Z Zhang, J Li, J Yang - arXiv preprint arXiv:2211.10994, 2022"
+---
+Unsupervised depth completion aims to recover dense depth from the sparse one without using the ground-truth annotation. Although depth measurement obtained from LiDAR is usually sparse, it contains valid and real distance information, ie, scale-consistent absolute depth values. Meanwhile, scale-agnostic counterparts seek to estimate relative depth and have achieved impressive performance. To leverage both the inherent characteristics, we thus suggest to model scale-consistent depth …
+Cites: ‪Deepfusion: Lidar-camera deep fusion for multi-modal 3d object …‬
