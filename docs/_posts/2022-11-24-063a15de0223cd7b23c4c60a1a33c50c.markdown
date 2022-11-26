@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CLAWSAT: Towards Both Robust and Accurate Code Models"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "J Jia, S Srikant, T Mitrovska, C Gan, S Chang, S Liu… - arXiv preprint arXiv …, 2022"
----
-We integrate contrastive learning (CL) with adversarial learning to co-optimize the robustness and accuracy of code models. Different from existing works, we show that code obfuscation, a standard code transformation operation, provides novel means to generate complementaryviews  of a code that enable us to achieve both robust and accurate code models. To the best of our knowledge, this is the first systematic study to explore and exploit the robustness and accuracy benefits of (multi-view) …
-Cites: ‪VarCLR: Variable Semantic Representation Pre-training via …‬
+--- 
+layout: post 
+title: "CLAWSAT: Towards Both Robust and Accurate Code Models" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "J Jia, S Srikant, T Mitrovska, C Gan, S Chang, S Liu - arXiv preprint arXiv , 2022" 
+--- 
+We integrate contrastive learning (CL) with adversarial learning to co-optimize the robustness and accuracy of code models. Different from existing works, we show that code obfuscation, a standard code transformation operation, provides novel means to generate complementaryviews of a code that enable us to achieve both robust and accurate code models. To the best of our knowledge, this is the first systematic study to explore and exploit the robustness and accuracy benefits of (multi-view)  Cites: VarCLR: Variable Semantic Representation Pre-training via

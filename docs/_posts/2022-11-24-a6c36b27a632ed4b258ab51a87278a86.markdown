@@ -1,9 +1,8 @@
----
-layout: post
-title:  "In-sample Curriculum Learning by Sequence Completion for Natural Language Generation"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "Q Jia, Y Liu, H Tang, KQ Zhu - arXiv preprint arXiv:2211.11297, 2022"
----
-Curriculum learning has shown promising improvements in multiple domains by training machine learning models from easy samples to hard ones. Previous works which either design rules or train models for scoring the difficulty highly rely on task-specific expertise, and cannot generalize. Inspired by the``easy-to-hard  intuition, we propose to do in-sample curriculum learning for natural language generation tasks. Our learning strategy starts training the model to generate the last few words, ie, do …
-Cites: ‪Summeval: Re-evaluating summarization evaluation‬
+--- 
+layout: post 
+title: "In-sample Curriculum Learning by Sequence Completion for Natural Language Generation" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "Q Jia, Y Liu, H Tang, KQ Zhu - arXiv preprint arXiv:2211.11297, 2022" 
+--- 
+Curriculum learning has shown promising improvements in multiple domains by training machine learning models from easy samples to hard ones. Previous works which either design rules or train models for scoring the difficulty highly rely on task-specific expertise, and cannot generalize. Inspired by the``easy-to-hard intuition, we propose to do in-sample curriculum learning for natural language generation tasks. Our learning strategy starts training the model to generate the last few words, ie, do  Cites: Summeval: Re-evaluating summarization evaluation

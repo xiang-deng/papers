@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Dataset for Hyper-Relational Extraction and a Cube-Filling Approach"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "YK Chia, L Bing, SM Aljunied, L Si, S Poria - arXiv preprint arXiv:2211.10018, 2022"
----
-Relation extraction has the potential for large-scale knowledge graph construction, but current methods do not consider the qualifier attributes for each relation triplet, such as time, quantity or location. The qualifiers form hyper-relational facts which better capture the rich and complex knowledge graph structure. For example, the relation triplet (Leonard Parker, Educated At, Harvard University) can be factually enriched by including the qualifier (End Time, 1967). Hence, we propose the task of …
-Cites: ‪Modeling relations and their mentions without labeled text‬
+--- 
+layout: post 
+title: "A Dataset for Hyper-Relational Extraction and a Cube-Filling Approach" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "YK Chia, L Bing, SM Aljunied, L Si, S Poria - arXiv preprint arXiv:2211.10018, 2022" 
+--- 
+Relation extraction has the potential for large-scale knowledge graph construction, but current methods do not consider the qualifier attributes for each relation triplet, such as time, quantity or location. The qualifiers form hyper-relational facts which better capture the rich and complex knowledge graph structure. For example, the relation triplet (Leonard Parker, Educated At, Harvard University) can be factually enriched by including the qualifier (End Time, 1967). Hence, we propose the task of  Cites: Modeling relations and their mentions without labeled text

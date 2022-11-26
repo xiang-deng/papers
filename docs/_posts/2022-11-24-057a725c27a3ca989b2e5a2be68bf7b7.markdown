@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sharpness-Aware Minimization with Dynamic Reweighting"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "W Zhou, F Liu, H Zhang, M Chen - 2022"
----
-Deep neural networks are often overparameterized and may not easily achieve model generalization. Adversarial training has shown effectiveness in improving generalization by regularizing the change of loss on top of adversarially chosen perturbations. The recently proposed sharpness-aware minimization (SAM) algorithm conducts adversarial weight perturbation, encouraging the model to converge to a flat minima. SAM finds a common adversarial weight perturbation per …
-Cites: ‪Better fine-tuning by reducing representational collapse‬
+--- 
+layout: post 
+title: "Sharpness-Aware Minimization with Dynamic Reweighting" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "W Zhou, F Liu, H Zhang, M Chen - 2022" 
+--- 
+Deep neural networks are often overparameterized and may not easily achieve model generalization. Adversarial training has shown effectiveness in improving generalization by regularizing the change of loss on top of adversarially chosen perturbations. The recently proposed sharpness-aware minimization (SAM) algorithm conducts adversarial weight perturbation, encouraging the model to converge to a flat minima. SAM finds a common adversarial weight perturbation per  Cites: Better fine-tuning by reducing representational collapse

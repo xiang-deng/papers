@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised Token-level Hallucination Detection from Summary Generation By-products"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "A Marfurt, J Henderson"
----
-Hallucinations in abstractive summarization are model generations that are unfaithful to the source document. Current methods for detecting hallucinations operate mostly on noun phrases and named entities, and restrict themselves to the XSum dataset, which is known to have hallucinations in 3 out of 4 training examples (Maynez et al., 2020). We instead consider the CNN/DailyMail dataset where the summarization model has not seen abnormally many hallucinations during training. We …
-Cites: ‪Handling divergent reference texts when evaluating table-to-text …‬
+--- 
+layout: post 
+title: "Unsupervised Token-level Hallucination Detection from Summary Generation By-products" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "A Marfurt, J Henderson" 
+--- 
+Hallucinations in abstractive summarization are model generations that are unfaithful to the source document. Current methods for detecting hallucinations operate mostly on noun phrases and named entities, and restrict themselves to the XSum dataset, which is known to have hallucinations in 3 out of 4 training examples (Maynez et al., 2020). We instead consider the CNN/DailyMail dataset where the summarization model has not seen abnormally many hallucinations during training. We  Cites: Handling divergent reference texts when evaluating table-to-text

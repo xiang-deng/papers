@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Empirical Study On Contrastive Search And Contrastive Decoding For Open-ended Text Generation"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "Y Su, J Xu - arXiv preprint arXiv:2211.10797, 2022"
----
-In the study, we empirically compare the two recently proposed decoding methods, ie Contrastive Search (CS) and Contrastive Decoding (CD), for open-ended text generation. The automatic evaluation results suggest that, while CS performs worse than CD on the MAUVE metric, it substantially surpasses CD on the diversity and coherence metrics. More notably, extensive human evaluations across three different domains demonstrate that human annotators are universally more in favor of CS over …
-Cites: ‪Contrastive Decoding: Open-ended Text Generation as Optimization‬
+--- 
+layout: post 
+title: "An Empirical Study On Contrastive Search And Contrastive Decoding For Open-ended Text Generation" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "Y Su, J Xu - arXiv preprint arXiv:2211.10797, 2022" 
+--- 
+In the study, we empirically compare the two recently proposed decoding methods, ie Contrastive Search (CS) and Contrastive Decoding (CD), for open-ended text generation. The automatic evaluation results suggest that, while CS performs worse than CD on the MAUVE metric, it substantially surpasses CD on the diversity and coherence metrics. More notably, extensive human evaluations across three different domains demonstrate that human annotators are universally more in favor of CS over  Cites: Contrastive Decoding: Open-ended Text Generation as Optimization

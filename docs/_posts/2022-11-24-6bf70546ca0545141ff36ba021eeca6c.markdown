@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learn to Select Good Examples with Reinforcement Learning for Semi-structured Mathematical Reasoning"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "P Lu, L Qiu, KW Chang, YN Wu, SC Zhu, T Rajpurohit…"
----
-Recent large pre-trained language models such as GPT-3 have achieved remarkable progress on mathematical reasoning tasks written in text form, such as math word problems (MWP). However, it is unknown if models can handle more complex problems that involve heterogeneous information, such as tabular data. To fill the gap, we present Tabular Math Word Problems (TABMWP), a new dataset containing 38,431 open-domain problems that require mathematical reasoning on …
-Cites: ‪Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter …‬
+--- 
+layout: post 
+title: "Learn to Select Good Examples with Reinforcement Learning for Semi-structured Mathematical Reasoning" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "P Lu, L Qiu, KW Chang, YN Wu, SC Zhu, T Rajpurohit" 
+--- 
+Recent large pre-trained language models such as GPT-3 have achieved remarkable progress on mathematical reasoning tasks written in text form, such as math word problems (MWP). However, it is unknown if models can handle more complex problems that involve heterogeneous information, such as tabular data. To fill the gap, we present Tabular Math Word Problems (TABMWP), a new dataset containing 38,431 open-domain problems that require mathematical reasoning on  Cites: Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter

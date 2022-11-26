@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Regularizing Deep Text Models by Encouraging Competition"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "R Zhang, Y Tian"
----
-The difficulty in acquiring a large amount of labelled training data and the demand of complex neural network models in text learning make developing effective regularization techniques an important research topic. In this paper, we present a novel regularization scheme for supervised text learning, Competitive Word Dropout, or CWD. Experiments on three different natural language learning tasks demonstrate that CWD outperforms significantly the standard regularization schemes such as …
-Cites: ‪WikiQA: A challenge dataset for open-domain question answering‬
+--- 
+layout: post 
+title: "Regularizing Deep Text Models by Encouraging Competition" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "R Zhang, Y Tian" 
+--- 
+The difficulty in acquiring a large amount of labelled training data and the demand of complex neural network models in text learning make developing effective regularization techniques an important research topic. In this paper, we present a novel regularization scheme for supervised text learning, Competitive Word Dropout, or CWD. Experiments on three different natural language learning tasks demonstrate that CWD outperforms significantly the standard regularization schemes such as  Cites: WikiQA: A challenge dataset for open-domain question answering

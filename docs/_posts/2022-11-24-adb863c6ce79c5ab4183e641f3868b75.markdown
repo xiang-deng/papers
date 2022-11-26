@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Embracing Ambiguity: Improving Similarity-oriented Tasks with Contextual Synonym Knowledge"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "Y Li, J Chen, Y Li, T Yu, X Chen, HT Zheng - arXiv preprint arXiv:2211.10997, 2022"
----
-Contextual synonym knowledge is crucial for those similarity-oriented tasks whose core challenge lies in capturing semantic similarity between entities in their contexts, such as entity linking and entity matching. However, most Pre-trained Language Models (PLMs) lack synonym knowledge due to inherent limitations of their pre-training objectives such as masked language modeling (MLM). Existing works which inject synonym knowledge into PLMs often suffer from two severe problems:(i) …
-Cites: ‪KEPLER: A Unified Model for Knowledge Embedding and Pre …‬
+--- 
+layout: post 
+title: "Embracing Ambiguity: Improving Similarity-oriented Tasks with Contextual Synonym Knowledge" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "Y Li, J Chen, Y Li, T Yu, X Chen, HT Zheng - arXiv preprint arXiv:2211.10997, 2022" 
+--- 
+Contextual synonym knowledge is crucial for those similarity-oriented tasks whose core challenge lies in capturing semantic similarity between entities in their contexts, such as entity linking and entity matching. However, most Pre-trained Language Models (PLMs) lack synonym knowledge due to inherent limitations of their pre-training objectives such as masked language modeling (MLM). Existing works which inject synonym knowledge into PLMs often suffer from two severe problems:(i)  Cites: KEPLER: A Unified Model for Knowledge Embedding and Pre

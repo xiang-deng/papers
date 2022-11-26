@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding and Improving Knowledge Distillation for Quantization-Aware Training of Large Transformer Encoders"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "M Kim, S Lee, S Hong, DS Chang, J Choi - arXiv preprint arXiv:2211.11014, 2022"
----
-Knowledge distillation (KD) has been a ubiquitous method for model compression to strengthen the capability of a lightweight model with the transferred knowledge from the teacher. In particular, KD has been employed in quantization-aware training (QAT) of Transformer encoders like BERT to improve the accuracy of the student model with the reduced-precision weight parameters. However, little is understood about which of the various KD approaches best fits the QAT of Transformers. In this …
-Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬
+--- 
+layout: post 
+title: "Understanding and Improving Knowledge Distillation for Quantization-Aware Training of Large Transformer Encoders" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "M Kim, S Lee, S Hong, DS Chang, J Choi - arXiv preprint arXiv:2211.11014, 2022" 
+--- 
+Knowledge distillation (KD) has been a ubiquitous method for model compression to strengthen the capability of a lightweight model with the transferred knowledge from the teacher. In particular, KD has been employed in quantization-aware training (QAT) of Transformer encoders like BERT to improve the accuracy of the student model with the reduced-precision weight parameters. However, little is understood about which of the various KD approaches best fits the QAT of Transformers. In this  Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

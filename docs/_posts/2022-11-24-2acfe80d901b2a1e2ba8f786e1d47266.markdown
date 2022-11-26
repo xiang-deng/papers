@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Solving Math Word Problems with Process-based and Outcome-based Feedback"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "J Uesato, N Kushman, R Kumar, F Song, N Siegel…"
----
-Recent work has shown that prompting language models to generate reasoning steps improves performance on many reasoning tasks. When moving beyond prompting, this raises the question of how we should supervise the finetuning of such models: outcome-based approaches which supervise the final result, or process-based approaches which supervise the reasoning process itself? Differences between these approaches might naturally be expected not just in final-answer …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Solving Math Word Problems with Process-based and Outcome-based Feedback" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "J Uesato, N Kushman, R Kumar, F Song, N Siegel" 
+--- 
+Recent work has shown that prompting language models to generate reasoning steps improves performance on many reasoning tasks. When moving beyond prompting, this raises the question of how we should supervise the finetuning of such models: outcome-based approaches which supervise the final result, or process-based approaches which supervise the reasoning process itself? Differences between these approaches might naturally be expected not just in final-answer  Cites: Palm: Scaling language modeling with pathways

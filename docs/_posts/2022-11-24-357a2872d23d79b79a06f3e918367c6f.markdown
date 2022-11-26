@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "Y Lai, C Li, Y Wang, T Zhang, R Zhong, L Zettlemoyer… - arXiv preprint arXiv …, 2022"
----
-We introduce DS-1000, a code generation benchmark with a thousand data science problems spanning seven Python libraries, such as NumPy and Pandas. Compared to prior works, DS-1000 incorporates three core features. First, our problems reflect diverse, realistic, and practical use cases since we collected them from StackOverflow. Second, our automatic evaluation is highly specific (reliable)--across all Codex-002-predicted solutions that our evaluation accept, only 1.8% of them are …
-Cites: ‪A Systematic Evaluation of Large Language Models of Code‬
+--- 
+layout: post 
+title: "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "Y Lai, C Li, Y Wang, T Zhang, R Zhong, L Zettlemoyer - arXiv preprint arXiv , 2022" 
+--- 
+We introduce DS-1000, a code generation benchmark with a thousand data science problems spanning seven Python libraries, such as NumPy and Pandas. Compared to prior works, DS-1000 incorporates three core features. First, our problems reflect diverse, realistic, and practical use cases since we collected them from StackOverflow. Second, our automatic evaluation is highly specific (reliable)--across all Codex-002-predicted solutions that our evaluation accept, only 1.8% of them are  Cites: A Systematic Evaluation of Large Language Models of Code

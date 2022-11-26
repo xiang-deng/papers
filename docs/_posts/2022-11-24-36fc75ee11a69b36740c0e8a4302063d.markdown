@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learn from Yesterday: A Semi-Supervised Continual Learning Method for Supervision-Limited Text-to-SQL Task Streams"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "Y Chen, X Guo, T Wu, G Qi, Y Li, Y Dong - arXiv preprint arXiv:2211.11226, 2022"
----
-Conventional text-to-SQL studies are limited to a single task with a fixed-size training and test set. When confronted with a stream of tasks common in real-world applications, existing methods struggle with the problems of insufficient supervised data and high retraining costs. The former tends to cause overfitting on unseen databases for the new task, while the latter makes a full review of instances from past tasks impractical for the model, resulting in forgetting of learned SQL structures and …
-Cites: ‪StructVAE: Tree-structured latent variable models for semi …‬
+--- 
+layout: post 
+title: "Learn from Yesterday: A Semi-Supervised Continual Learning Method for Supervision-Limited Text-to-SQL Task Streams" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "Y Chen, X Guo, T Wu, G Qi, Y Li, Y Dong - arXiv preprint arXiv:2211.11226, 2022" 
+--- 
+Conventional text-to-SQL studies are limited to a single task with a fixed-size training and test set. When confronted with a stream of tasks common in real-world applications, existing methods struggle with the problems of insufficient supervised data and high retraining costs. The former tends to cause overfitting on unseen databases for the new task, while the latter makes a full review of instances from past tasks impractical for the model, resulting in forgetting of learned SQL structures and  Cites: StructVAE: Tree-structured latent variable models for semi

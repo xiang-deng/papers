@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Concept-based Explanations using Non-negative Concept Activation Vectors and Decision Tree for CNN Models"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "G Mutahar, T Miller - arXiv preprint arXiv:2211.10807, 2022"
----
-This paper evaluates whether training a decision tree based on concepts extracted from a concept-based explainer can increase interpretability for Convolutional Neural Networks (CNNs) models and boost the fidelity and performance of the used explainer. CNNs for computer vision have shown exceptional performance in critical industries. However, it is a significant barrier when deploying CNNs due to their complexity and lack of interpretability. Recent studies to explain computer vision …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Concept-based Explanations using Non-negative Concept Activation Vectors and Decision Tree for CNN Models" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "G Mutahar, T Miller - arXiv preprint arXiv:2211.10807, 2022" 
+--- 
+This paper evaluates whether training a decision tree based on concepts extracted from a concept-based explainer can increase interpretability for Convolutional Neural Networks (CNNs) models and boost the fidelity and performance of the used explainer. CNNs for computer vision have shown exceptional performance in critical industries. However, it is a significant barrier when deploying CNNs due to their complexity and lack of interpretability. Recent studies to explain computer vision  Cites: Anchors: High-Precision Model-Agnostic Explanations

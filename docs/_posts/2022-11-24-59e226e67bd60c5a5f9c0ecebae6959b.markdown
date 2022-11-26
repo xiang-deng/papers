@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models"
-date:   2022-11-24 01:38:18 -0400
-categories: jekyll update
-author: "G Xiao, J Lin, M Seznec, J Demouth, S Han - arXiv preprint arXiv:2211.10438, 2022"
----
-Large language models (LLMs) show excellent performance but are compute-and memory-intensive. Quantization can reduce memory and accelerate inference. However, for LLMs beyond 100 billion parameters, existing methods cannot maintain accuracy or do not run efficiently on hardware. We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can …
-Cites: ‪Llm. int8 (): 8-bit matrix multiplication for transformers at scale‬
+--- 
+layout: post 
+title: "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models" 
+date: 2022-11-24 01:38:18 -0400 
+categories: jekyll update 
+author: "G Xiao, J Lin, M Seznec, J Demouth, S Han - arXiv preprint arXiv:2211.10438, 2022" 
+--- 
+Large language models (LLMs) show excellent performance but are compute-and memory-intensive. Quantization can reduce memory and accelerate inference. However, for LLMs beyond 100 billion parameters, existing methods cannot maintain accuracy or do not run efficiently on hardware. We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can  Cites: Llm. int8 (): 8-bit matrix multiplication for transformers at scale
