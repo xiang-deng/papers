@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SplitNet: Learnable Clean-Noisy Label Splitting for Learning with Noisy Labels"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "D Kim, K Ryoo, H Cho, S Kim - arXiv preprint arXiv:2211.11753, 2022"
+---
+Annotating the dataset with high-quality labels is crucial for performance of deep network, but in real world scenarios, the labels are often contaminated by noise. To address this, some methods were proposed to automatically split clean and noisy labels, and learn a semi-supervised learner in a Learning with Noisy Labels (LNL) framework. However, they leverage a handcrafted module for clean-noisy label splitting, which induces a confirmation bias in the semi-supervised learning phase …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

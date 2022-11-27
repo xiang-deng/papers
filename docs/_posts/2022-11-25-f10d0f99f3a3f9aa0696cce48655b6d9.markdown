@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Entity Embedding Construction from Type Knowledge for BERT"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "Y Feng, A Fayazi, A Rastogi, M Okumura - Findings of the Association for …, 2022"
+---
+Recent work has shown advantages of incorporating knowledge graphs (KGs) into BERT for various NLP tasks. One common way is to feed entity embeddings as an additional input during pre-training. There are two limitations to such a method. First, to train the entity embeddings to include rich information of factual knowledge, it typically requires access to the entire KG. This is challenging for KGs with daily changes (eg, Wikidata). Second, it requires a large scale pre-training corpus with …
+Cites: ‪Capturing Semantic Similarity for Entity Linking with Convolutional …‬

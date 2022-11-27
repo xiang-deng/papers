@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Graph Neural Networks for Metasurface Modeling"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "E Khoram, Z Wu, Y Qu, M Zhou, Z Yu - ACS Photonics, 2022"
+---
+When using deep neural networks to model electromagnetic fields, one often needs to fix spatial sizes of problems to fit the input dimension of neural networks, which is determined during the training process. This limitation makes it difficult to use neural networks to model different metasurfaces with varying sizes, particularly when there is strong coupling between the scattering units in the metasurface. We propose a Graph Neural Networks (GNN) architecture which learns to model electromagnetic …
+Cites: ‪Molecular geometry prediction using a deep generative graph …‬

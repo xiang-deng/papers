@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "HaRiM $^+ $: Evaluating Summary Quality with Hallucination Risk"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "S Son, J Park, J Hwang, J Lee, H Noh, Y Lee - arXiv preprint arXiv:2211.12118, 2022"
+---
+One of the challenges of developing a summarization model arises from the difficulty in measuring the factual inconsistency of the generated text. In this study, we reinterpret the decoder overconfidence-regularizing objective suggested in (Miao et al., 2021) as a hallucination risk measurement to better estimate the quality of generated summaries. We propose a reference-free metric, HaRiM+, which only requires an off-the-shelf summarization model to compute the hallucination risk …
+Cites: ‪Evaluating Factuality in Generation with Dependency-level …‬

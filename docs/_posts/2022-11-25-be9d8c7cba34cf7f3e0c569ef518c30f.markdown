@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "X Wu, AT Luu, X Dong - arXiv preprint arXiv:2211.12878, 2022"
+---
+To overcome the data sparsity issue in short text topic modeling, existing methods commonly rely on data augmentation or the data characteristic of short texts to introduce more word co-occurrence information. However, most of them do not make full use of the augmented data or the data characteristic: they insufficiently learn the relations among samples in data, leading to dissimilar topic distributions of semantically similar text pairs. To better address data sparsity, in this paper we …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Differentiable Data Structures for Neural Algorithmic Reasoning"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "FPJ Nijweide - 2022"
+---
+Abstract Neural Algorithmic Reasoning (NAR) is a promising blueprint for merging neural networks and algorithms. Existing NAR solutions achieve 100% accuracy on various algorithmic tasks, while being easily be retrained for new tasks due to being end-to-end differentiable, and also generalising to much larger inputs due to the universality of the algorithms it has learnt. However, no NAR method is capable of all three at once. They are either not end-to-end differentiable (preventing them from …
+Cites: ‪BERT: Pre-training of deep bidirectional transformers for language …‬

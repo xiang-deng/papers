@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TaKG: A New Dataset for Paragraph-level Table-to-Text Generation Enhanced with Knowledge Graphs"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "Q Qi, Z Deng, Y Zhu, LJ Lee, MJ Witbrock, J Liu - Findings of the Association for …, 2022"
+---
+We introduce TaKG, a new table-to-text generation dataset with the following highlights:(1) TaKG defines a long-text (paragraph-level) generation task as opposed to well-established short-text (sentence-level) generation datasets.(2) TaKG is the first large-scale dataset for this task, containing three application domains and~ 750,000 samples.(3) To address the divergence phenomenon, TaKG enhances table input using external knowledge graphs, extracted by a new Wikidata-based method …
+Cites: ‪Handling divergent reference texts when evaluating table-to-text …‬

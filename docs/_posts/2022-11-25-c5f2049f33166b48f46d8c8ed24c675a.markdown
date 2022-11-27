@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Financial Table and Text Question Answering with Tabular Graph and Numerical Reasoning"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "R Nararatwong, N Kertkeidkachorn, R Ichise - Proceedings of the 2nd Conference of …, 2022"
+---
+Typical financial documents consist of tables, texts, and numbers. Given sufficient training data, large language models (LM) can learn the tabular structures and perform numerical reasoning well in question answering (QA). However, their performances fall significantly when data and computational resources are limited. This study improves this performance drop by infusing explicit tabular structures through a graph neural network (GNN). We proposed a model developed from the …
+Cites: ‪Autoregressive entity retrieval‬

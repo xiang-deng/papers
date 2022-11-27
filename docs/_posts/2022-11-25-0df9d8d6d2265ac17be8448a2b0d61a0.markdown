@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can You Label Less by Using Out-of-Domain Data? Active & Transfer Learning with Few-shot Instructions"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "R Kocielnik, S Kangaslahti, S Prabhumoye, M Hari… - arXiv preprint arXiv …, 2022"
+---
+Labeling social-media data for custom dimensions of toxicity and social bias is challenging and labor-intensive. Existing transfer and active learning approaches meant to reduce annotation effort require fine-tuning, which suffers from over-fitting to noise and can cause domain shift with small sample sizes. In this work, we propose a novel Active Transfer Few-shot Instructions (ATF) approach which requires no fine-tuning. ATF leverages the internal linguistic knowledge of pre-trained language …
+Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ON EXPRESSIVENESS, INFERENCE, AND PARAMETER ESTIMATION OF DISCRETE SEQUENCE MODELS"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "CC Lin - 2022"
+---
+Huge neural autoregressive sequence models have achieved impressive performance across different applications, such as NLP, reinforcement learning, and bioinformatics. However, some lingering problems (eg, consistency and coherency of generated texts) continue to exist, regardless of the parameter count. In the first part of this thesis, we chart a taxonomy of the expressiveness of various sequence model families (§ 3). In particular, we put forth complexity-theoretic proofs that string latent …
+Cites: ‪Retrieval-augmented generation for knowledge-intensive NLP tasks‬

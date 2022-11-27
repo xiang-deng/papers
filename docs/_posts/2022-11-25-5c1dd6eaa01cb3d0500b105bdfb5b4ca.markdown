@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "S Ishihara, H Takahashi, H Shirai - Proceedings of the 2nd Conference of the Asia …, 2022"
+---
+Word embeddings and pre-trained language models have become essential technical elements in natural language processing. While the general practice is to use or fine-tune publicly available models, there are significant advantages in creating or pre-training unique models that match the domain. The performance of the models degrades as language changes or evolves continuously, but the high cost of model building inhibits regular re-training, especially for the language …
+Cites: ‪Palm: Scaling language modeling with pathways‬

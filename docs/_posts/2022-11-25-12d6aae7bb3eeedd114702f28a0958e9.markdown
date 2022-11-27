@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semi-supervised Named Entity Recognition in Multi-level Contexts"
+date:   2022-11-25 23:42:34 -0400
+categories: jekyll update
+author: "Y Chen, C Wu, T Qi, Z Yuan, Y Zhang, S Yang, J Guan… - Neurocomputing, 2022"
+---
+Named entity recognition is a critical task in the natural language processing field. Most existing methods for this task can only exploit contextual information within a sentence. However, their performance on recognizing entities in limited or ambiguous sentence-level contexts is usually unsatisfactory. Fortunately, other sentences in the same document can provide supplementary document-level contexts to help recognize these entities. In addition, words themselves contain word …
+Cites: ‪Scirex: A challenge dataset for document-level information extraction‬
