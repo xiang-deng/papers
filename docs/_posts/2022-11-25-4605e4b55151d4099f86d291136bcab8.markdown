@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SAPGraph: Structure-aware Extractive Summarization for Scientific Papers with Heterogeneous Graph"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "S Qi, L Li, Y Li, J Jiang, D Hu, Y Li, Y Zhu, Y Zhou… - … of the 2nd Conference of the …, 2022"
----
-Scientific paper summarization is always challenging in Natural Language Processing (NLP) since it is hard to collect summaries from such long and complicated text. We observe that previous works tend to extract summaries from the head of the paper, resulting in information incompleteness. In this work, we present SAPGraph to utilize paper structure for solving this problem. SAPGraph is a scientific paper extractive summarization framework based on a structure-aware …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "SAPGraph: Structure-aware Extractive Summarization for Scientific Papers with Heterogeneous Graph" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "S Qi, L Li, Y Li, J Jiang, D Hu, Y Li, Y Zhu, Y Zhou - of the 2nd Conference of the , 2022" 
+--- 
+Scientific paper summarization is always challenging in Natural Language Processing (NLP) since it is hard to collect summaries from such long and complicated text. We observe that previous works tend to extract summaries from the head of the paper, resulting in information incompleteness. In this work, we present SAPGraph to utilize paper structure for solving this problem. SAPGraph is a scientific paper extractive summarization framework based on a structure-aware  Cites: Text summarization with pretrained encoders

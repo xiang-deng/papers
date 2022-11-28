@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ColBERT-PRF: Semantic Pseudo-Relevance Feedback for Dense Passage and Document Retrieval"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "X Wang, C Macdonald, N Tonellotto, I Ounis - ACM Transactions on the Web, 2022"
----
-Pseudo-relevance feedback mechanisms, from Rocchio to the relevance models, have shown the usefulness of expanding and reweighting the users  initial queries using information occurring in an initial set of retrieved documents, known as the pseudo-relevant set. Recently, dense retrieval–through the use of neural contextual language models such as BERT for analysing the documents  and queries  contents and computing their relevance scores–has shown a promising performance on …
-Cites: ‪Sparse, dense, and attentional representations for text retrieval‬
+--- 
+layout: post 
+title: "ColBERT-PRF: Semantic Pseudo-Relevance Feedback for Dense Passage and Document Retrieval" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "X Wang, C Macdonald, N Tonellotto, I Ounis - ACM Transactions on the Web, 2022" 
+--- 
+Pseudo-relevance feedback mechanisms, from Rocchio to the relevance models, have shown the usefulness of expanding and reweighting the users initial queries using information occurring in an initial set of retrieved documents, known as the pseudo-relevant set. Recently, dense retrievalthrough the use of neural contextual language models such as BERT for analysing the documents and queries contents and computing their relevance scoreshas shown a promising performance on  Cites: Sparse, dense, and attentional representations for text retrieval

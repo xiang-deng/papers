@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "X He, J Yao, Y Wang, Z Tang, KC Cheung, S See… - arXiv preprint arXiv …, 2022"
----
-One-shot neural architecture search (NAS) substantially improves the search efficiency by training one supernet to estimate the performance of every possible child architecture (ie, subnet). However, the inconsistency of characteristics among subnets incurs serious interference in the optimization, resulting in poor performance ranking correlation of subnets. Subsequent explorations decompose supernet weights via a particular criterion, eg, gradient matching, to reduce the interference; …
-Cites: ‪Intrinsic dimensionality explains the effectiveness of language …‬
+--- 
+layout: post 
+title: "NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "X He, J Yao, Y Wang, Z Tang, KC Cheung, S See - arXiv preprint arXiv , 2022" 
+--- 
+One-shot neural architecture search (NAS) substantially improves the search efficiency by training one supernet to estimate the performance of every possible child architecture (ie, subnet). However, the inconsistency of characteristics among subnets incurs serious interference in the optimization, resulting in poor performance ranking correlation of subnets. Subsequent explorations decompose supernet weights via a particular criterion, eg, gradient matching, to reduce the interference;  Cites: Intrinsic dimensionality explains the effectiveness of language

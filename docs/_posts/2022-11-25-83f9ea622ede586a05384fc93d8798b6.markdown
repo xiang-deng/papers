@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semi-Supervised Lifelong Language Learning"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "Y Zhao, Y Zheng, B Yu, Z Tian, D Lee, J Sun, H Yu, Y Li… - arXiv preprint arXiv …, 2022"
----
-Lifelong learning aims to accumulate knowledge and alleviate catastrophic forgetting when learning tasks sequentially. However, existing lifelong language learning methods only focus on the supervised learning setting. Unlabeled data, which can be easily accessed in real-world scenarios, are underexplored. In this paper, we explore a novel setting, semi-supervised lifelong language learning (SSLL), where a model learns sequentially arriving language tasks with both labeled and unlabeled data …
-Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬
+--- 
+layout: post 
+title: "Semi-Supervised Lifelong Language Learning" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "Y Zhao, Y Zheng, B Yu, Z Tian, D Lee, J Sun, H Yu, Y Li - arXiv preprint arXiv , 2022" 
+--- 
+Lifelong learning aims to accumulate knowledge and alleviate catastrophic forgetting when learning tasks sequentially. However, existing lifelong language learning methods only focus on the supervised learning setting. Unlabeled data, which can be easily accessed in real-world scenarios, are underexplored. In this paper, we explore a novel setting, semi-supervised lifelong language learning (SSLL), where a model learns sequentially arriving language tasks with both labeled and unlabeled data  Cites: AdapterFusion: Non-destructive task composition for transfer learning

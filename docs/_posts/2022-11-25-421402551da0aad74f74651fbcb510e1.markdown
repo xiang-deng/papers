@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Analyzing Biases to Spurious Correlations in Text Classification Tasks"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "A Liusie, V Raina, V Raina, M Gales - Proceedings of the 2nd Conference of the Asia …, 2022"
----
-Abstract Machine learning systems have shown impressive performance across a range of natural language tasks. However, it has been hypothesized that these systems are prone to learning spurious correlations that may be present in the training data. Though these correlations will not impact in-domain performance, they are unlikely to generalize well to out-of-domain data, limiting the applicability of systems. This work examines this phenomenon on text classification tasks. Rather …
-Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬
+--- 
+layout: post 
+title: "Analyzing Biases to Spurious Correlations in Text Classification Tasks" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "A Liusie, V Raina, V Raina, M Gales - Proceedings of the 2nd Conference of the Asia , 2022" 
+--- 
+Abstract Machine learning systems have shown impressive performance across a range of natural language tasks. However, it has been hypothesized that these systems are prone to learning spurious correlations that may be present in the training data. Though these correlations will not impact in-domain performance, they are unlikely to generalize well to out-of-domain data, limiting the applicability of systems. This work examines this phenomenon on text classification tasks. Rather  Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Long Multispan Prediction Model for Machine Reading Comprehension in Healthcare Domain"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "Y Jang, H Lee, H Kim - Expert Systems with Applications, 2022"
----
-Abstract Machine reading comprehension (MRC) is a question answering task, in which a system provides appropriate answers to users queries in a given document. With large-scale language models and enough training datasets, recent MRC models have surpassed humans in well-designed intrinsic tests that require short and single span answers. However, they have performed poorly in real world applications that require long and multispan answers. In healthcare domain, users …
-Cites: ‪Spanbert: Improving pre-training by representing and predicting …‬
+--- 
+layout: post 
+title: "Long Multispan Prediction Model for Machine Reading Comprehension in Healthcare Domain" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "Y Jang, H Lee, H Kim - Expert Systems with Applications, 2022" 
+--- 
+Abstract Machine reading comprehension (MRC) is a question answering task, in which a system provides appropriate answers to users queries in a given document. With large-scale language models and enough training datasets, recent MRC models have surpassed humans in well-designed intrinsic tests that require short and single span answers. However, they have performed poorly in real world applications that require long and multispan answers. In healthcare domain, users  Cites: Spanbert: Improving pre-training by representing and predicting

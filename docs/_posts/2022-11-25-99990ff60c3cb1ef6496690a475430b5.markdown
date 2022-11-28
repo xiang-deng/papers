@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating the Knowledge Dependency of Questions"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "H Moon, Y Yang, J Shin, H Yu, S Lee, M Jeong, J Park… - arXiv preprint arXiv …, 2022"
----
-The automatic generation of Multiple Choice Questions (MCQ) has the potential to reduce the time educators spend on student assessment significantly. However, existing evaluation metrics for MCQ generation, such as BLEU, ROUGE, and METEOR, focus on the n-gram based similarity of the generated MCQ to the gold sample in the dataset and disregard their educational value. They fail to evaluate the MCQ s ability to assess the student s knowledge of the corresponding target fact. To …
-Cites: ‪Question generation for question answering‬
+--- 
+layout: post 
+title: "Evaluating the Knowledge Dependency of Questions" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "H Moon, Y Yang, J Shin, H Yu, S Lee, M Jeong, J Park - arXiv preprint arXiv , 2022" 
+--- 
+The automatic generation of Multiple Choice Questions (MCQ) has the potential to reduce the time educators spend on student assessment significantly. However, existing evaluation metrics for MCQ generation, such as BLEU, ROUGE, and METEOR, focus on the n-gram based similarity of the generated MCQ to the gold sample in the dataset and disregard their educational value. They fail to evaluate the MCQ s ability to assess the student s knowledge of the corresponding target fact. To  Cites: Question generation for question answering

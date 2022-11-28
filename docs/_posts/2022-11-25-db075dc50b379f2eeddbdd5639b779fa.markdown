@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DeepVulSeeker: A Novel Vulnerability Identification Framework via Code Graph Structure and Pre-training Mechanism"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "J Wang, H Xiao, S Zhong, Y Xiao - arXiv preprint arXiv:2211.13097, 2022"
----
-Software vulnerabilities can pose severe harms to a computing system. They can lead to system crash, privacy leakage, or even physical damage. Correctly identifying vulnerabilities among enormous software codes in a timely manner is so far the essential prerequisite to patch them. Unfortantely, the current vulnerability identification methods, either the classic ones or the deep-learning-based ones, have several critical drawbacks, making them unable to meet the present-day …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "DeepVulSeeker: A Novel Vulnerability Identification Framework via Code Graph Structure and Pre-training Mechanism" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "J Wang, H Xiao, S Zhong, Y Xiao - arXiv preprint arXiv:2211.13097, 2022" 
+--- 
+Software vulnerabilities can pose severe harms to a computing system. They can lead to system crash, privacy leakage, or even physical damage. Correctly identifying vulnerabilities among enormous software codes in a timely manner is so far the essential prerequisite to patch them. Unfortantely, the current vulnerability identification methods, either the classic ones or the deep-learning-based ones, have several critical drawbacks, making them unable to meet the present-day  Cites: Graphcodebert: Pre-training code representations with data flow

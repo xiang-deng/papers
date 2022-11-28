@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Analogy-Guided Evolutionary Pretraining of Binary Word Embeddings"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "RA Knipper, MM Hassan, M Sadi, SKK Santu - Proceedings of the 2nd Conference of …, 2022"
----
-As we begin to see low-powered computing paradigms (Neuromorphic Computing, Spiking Neural Networks, etc.) becoming more popular, learning binary word embeddings has become increasingly important for supporting NLP applications at the edge. Existing binary word embeddings are mostly derived from pretrained real-valued embeddings through different simple transformations, which often break the semantic consistency and the so-called “arithmetic” properties learned by the …
-Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬
+--- 
+layout: post 
+title: "Analogy-Guided Evolutionary Pretraining of Binary Word Embeddings" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "RA Knipper, MM Hassan, M Sadi, SKK Santu - Proceedings of the 2nd Conference of , 2022" 
+--- 
+As we begin to see low-powered computing paradigms (Neuromorphic Computing, Spiking Neural Networks, etc.) becoming more popular, learning binary word embeddings has become increasingly important for supporting NLP applications at the edge. Existing binary word embeddings are mostly derived from pretrained real-valued embeddings through different simple transformations, which often break the semantic consistency and the so-called arithmetic properties learned by the  Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

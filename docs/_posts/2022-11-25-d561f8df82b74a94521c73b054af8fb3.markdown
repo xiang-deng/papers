@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BeamR: Beam Reweighing with Attribute Discriminators for Controllable Text Generation"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "D Landsman, JZ Chen, H Zaidi - Findings of the Association for Computational …, 2022"
----
-Recent advances in natural language processing have led to the availability of large pre-trained language models (LMs), with rich generative capabilities. Although these models are able to produce fluent and coherent text, it remains a challenge to control various attributes of the generation, including sentiment, formality, topic and many others. We propose a Beam Reweighing (BeamR) method, building on top of standard beam search, in order to control different attributes. BeamR combines any …
-Cites: ‪Gedi: Generative discriminator guided sequence generation‬
+--- 
+layout: post 
+title: "BeamR: Beam Reweighing with Attribute Discriminators for Controllable Text Generation" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "D Landsman, JZ Chen, H Zaidi - Findings of the Association for Computational , 2022" 
+--- 
+Recent advances in natural language processing have led to the availability of large pre-trained language models (LMs), with rich generative capabilities. Although these models are able to produce fluent and coherent text, it remains a challenge to control various attributes of the generation, including sentiment, formality, topic and many others. We propose a Beam Reweighing (BeamR) method, building on top of standard beam search, in order to control different attributes. BeamR combines any  Cites: Gedi: Generative discriminator guided sequence generation

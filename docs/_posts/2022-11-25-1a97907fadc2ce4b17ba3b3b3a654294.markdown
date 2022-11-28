@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TEMPERA: Test-Time Prompting via Reinforcement Learning"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "T Zhang, X Wang, D Zhou, D Schuurmans… - arXiv preprint arXiv …, 2022"
----
-Careful prompt design is critical to the use of large language models in zero-shot or few-shot learning. As a consequence, there is a growing interest in automated methods to design optimal prompts. In this work, we propose Test-time Prompt Editing using Reinforcement learning (TEMPERA). In contrast to prior prompt generation methods, TEMPERA can efficiently leverage prior knowledge, is adaptive to different queries and provides an interpretable prompt for every query. To achieve …
-Cites: ‪Fantastically ordered prompts and where to find them: Overcoming …‬
+--- 
+layout: post 
+title: "TEMPERA: Test-Time Prompting via Reinforcement Learning" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "T Zhang, X Wang, D Zhou, D Schuurmans - arXiv preprint arXiv , 2022" 
+--- 
+Careful prompt design is critical to the use of large language models in zero-shot or few-shot learning. As a consequence, there is a growing interest in automated methods to design optimal prompts. In this work, we propose Test-time Prompt Editing using Reinforcement learning (TEMPERA). In contrast to prior prompt generation methods, TEMPERA can efficiently leverage prior knowledge, is adaptive to different queries and provides an interpretable prompt for every query. To achieve  Cites: Fantastically ordered prompts and where to find them: Overcoming

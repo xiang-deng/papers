@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active learning for transformer models in direction query tagging"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "J Huang, C Zhang, D Yankov, MM Najafabadi… - Proceedings of the 30th …, 2022"
----
-Correct understanding of direction queries is essential in map search for providing accurate direction related results, including routing, travel distance, travel time estimation, etc. Slot tagging is the process of recognizing and annotating query terms as entities such as source, destination, travel mode, travel distance, or travel time, so that downstream map search components can surface the expected result. Transformer-based models have achieved state-of-the-art performance on various …
-Cites: ‪Well-read students learn better: the impact of student initialization …‬
+--- 
+layout: post 
+title: "Active learning for transformer models in direction query tagging" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "J Huang, C Zhang, D Yankov, MM Najafabadi - Proceedings of the 30th , 2022" 
+--- 
+Correct understanding of direction queries is essential in map search for providing accurate direction related results, including routing, travel distance, travel time estimation, etc. Slot tagging is the process of recognizing and annotating query terms as entities such as source, destination, travel mode, travel distance, or travel time, so that downstream map search components can surface the expected result. Transformer-based models have achieved state-of-the-art performance on various  Cites: Well-read students learn better: the impact of student initialization

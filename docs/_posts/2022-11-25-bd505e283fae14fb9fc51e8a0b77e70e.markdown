@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised Single Document Abstractive Summarization using Semantic Units"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "JY Wu, YJ Lin, HY Kao - Proceedings of the 2nd Conference of the Asia-Pacific …, 2022"
----
-In this work, we study the importance of content frequency on abstractive summarization, where we define the content as “semantic units.” We propose a two-stage training framework to let the model automatically learn the frequency of each semantic unit in the source text. Our model is trained in an unsupervised manner since the frequency information can be inferred from source text only. During inference, our model identifies sentences with high-frequency semantic units and …
-Cites: ‪Unsupervised opinion summarization as copycat-review generation‬
+--- 
+layout: post 
+title: "Unsupervised Single Document Abstractive Summarization using Semantic Units" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "JY Wu, YJ Lin, HY Kao - Proceedings of the 2nd Conference of the Asia-Pacific , 2022" 
+--- 
+In this work, we study the importance of content frequency on abstractive summarization, where we define the content as semantic units. We propose a two-stage training framework to let the model automatically learn the frequency of each semantic unit in the source text. Our model is trained in an unsupervised manner since the frequency information can be inferred from source text only. During inference, our model identifies sentences with high-frequency semantic units and  Cites: Unsupervised opinion summarization as copycat-review generation

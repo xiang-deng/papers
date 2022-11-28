@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "W Shi, E Dinan, A Renduchintala, D Fried, AP Jacob… - arXiv preprint arXiv …, 2022"
----
-Existing approaches built separate classifiers to detect nonsense in dialogues. In this paper, we show that without external classifiers, dialogue models can detect errors in their own messages introspectively, by calculating the likelihood of replies that are indicative of poor messages. For example, if an agent believes its partner is likely to respond  I don t understand  to a candidate message, that message may not make sense, so an alternative message should be chosen. We evaluate our approach on a …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "W Shi, E Dinan, A Renduchintala, D Fried, AP Jacob - arXiv preprint arXiv , 2022" 
+--- 
+Existing approaches built separate classifiers to detect nonsense in dialogues. In this paper, we show that without external classifiers, dialogue models can detect errors in their own messages introspectively, by calculating the likelihood of replies that are indicative of poor messages. For example, if an agent believes its partner is likely to respond I don t understand to a candidate message, that message may not make sense, so an alternative message should be chosen. We evaluate our approach on a  Cites: Universal adversarial triggers for attacking and analyzing NLP

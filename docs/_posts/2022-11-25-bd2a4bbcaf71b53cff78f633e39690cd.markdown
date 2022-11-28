@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Continual Learning of Natural Language Processing Tasks: A Survey"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "Z Ke, B Liu - arXiv preprint arXiv:2211.12701, 2022"
----
-Continual learning (CL) is an emerging learning paradigm that aims to emulate the human capability of learning and accumulating knowledge continually without forgetting the previously learned knowledge and also transferring the knowledge to new tasks to learn them better. This survey presents a comprehensive review of the recent progress of CL in the NLP field. It covers (1) all CL settings with a taxonomy of existing techniques. Besides dealing with forgetting, it also focuses on (2) knowledge …
-Cites: ‪Cross-task generalization via natural language crowdsourcing …‬
+--- 
+layout: post 
+title: "Continual Learning of Natural Language Processing Tasks: A Survey" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "Z Ke, B Liu - arXiv preprint arXiv:2211.12701, 2022" 
+--- 
+Continual learning (CL) is an emerging learning paradigm that aims to emulate the human capability of learning and accumulating knowledge continually without forgetting the previously learned knowledge and also transferring the knowledge to new tasks to learn them better. This survey presents a comprehensive review of the recent progress of CL in the NLP field. It covers (1) all CL settings with a taxonomy of existing techniques. Besides dealing with forgetting, it also focuses on (2) knowledge  Cites: Cross-task generalization via natural language crowdsourcing

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Pre-Trained Sentence-BERT with Class Embeddings in Active Learning for Multi-Label Text Classification"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "L Wertz, J Bogojeska, K Mirylenka, J Kuhn - Proceedings of the 2nd Conference of …, 2022"
----
-Abstract The Transformer Language Model is a powerful tool that has been shown to excel at various NLP tasks and has become the de-facto standard solution thanks to its versatility. In this study, we employ pre-trained document embeddings in an Active Learning task to group samples with the same labels in the embedding space on a legal document corpus. We find that the calculated class embeddings are not close to the respective samples and consequently do not partition the embedding space in …
-Cites: ‪Cold-start active learning through self-supervised language …‬
+--- 
+layout: post 
+title: "Evaluating Pre-Trained Sentence-BERT with Class Embeddings in Active Learning for Multi-Label Text Classification" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "L Wertz, J Bogojeska, K Mirylenka, J Kuhn - Proceedings of the 2nd Conference of , 2022" 
+--- 
+Abstract The Transformer Language Model is a powerful tool that has been shown to excel at various NLP tasks and has become the de-facto standard solution thanks to its versatility. In this study, we employ pre-trained document embeddings in an Active Learning task to group samples with the same labels in the embedding space on a legal document corpus. We find that the calculated class embeddings are not close to the respective samples and consequently do not partition the embedding space in  Cites: Cold-start active learning through self-supervised language

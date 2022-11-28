@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fairness Increases Adversarial Vulnerability"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "C Tran, K Zhu, F Fioretto, P Van Henternyck - arXiv preprint arXiv:2211.11835, 2022"
----
-The remarkable performance of deep learning models and their applications in consequential domains (eg, facial recognition) introduces important challenges at the intersection of equity and security. Fairness and robustness are two desired notions often required in learning models. Fairness ensures that models do not disproportionately harm (or benefit) some groups over others, while robustness measures the models  resilience against small input perturbations. This paper shows …
-Cites: ‪Feature noise induces loss discrepancy across groups‬
+--- 
+layout: post 
+title: "Fairness Increases Adversarial Vulnerability" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "C Tran, K Zhu, F Fioretto, P Van Henternyck - arXiv preprint arXiv:2211.11835, 2022" 
+--- 
+The remarkable performance of deep learning models and their applications in consequential domains (eg, facial recognition) introduces important challenges at the intersection of equity and security. Fairness and robustness are two desired notions often required in learning models. Fairness ensures that models do not disproportionately harm (or benefit) some groups over others, while robustness measures the models resilience against small input perturbations. This paper shows  Cites: Feature noise induces loss discrepancy across groups

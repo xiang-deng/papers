@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised domain adaptation with post-adaptation labeled domain performance preservation"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "H Badr, N Wanas, M Fayek - Machine Learning with Applications, 2022"
----
-Unsupervised domain adaptation is a machine learning-oriented application that aims to transfer knowledge learned from a seen (source) domain with labeled data to an unseen (target) domain with only unlabeled data. Recently developed techniques apply adversarial learning to learn domain-transferable features. However, current adversarial domain adaptation models suffer from the training instability of adversarial networks. Furthermore, it is unclear what the source domain pays in …
-Cites: ‪Multi-Source Domain Adaptation for Text Classification via …‬
+--- 
+layout: post 
+title: "Unsupervised domain adaptation with post-adaptation labeled domain performance preservation" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "H Badr, N Wanas, M Fayek - Machine Learning with Applications, 2022" 
+--- 
+Unsupervised domain adaptation is a machine learning-oriented application that aims to transfer knowledge learned from a seen (source) domain with labeled data to an unseen (target) domain with only unlabeled data. Recently developed techniques apply adversarial learning to learn domain-transferable features. However, current adversarial domain adaptation models suffer from the training instability of adversarial networks. Furthermore, it is unclear what the source domain pays in  Cites: Multi-Source Domain Adaptation for Text Classification via

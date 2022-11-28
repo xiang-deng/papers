@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DeMRC: Dynamically Enhanced Multi-hop Reading Comprehension Model for Low Data"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "X Tang, Y Xu, X Lu, Q He, J Fang, J Chen - International Conference on Advanced …, 2022"
----
-Multi-hop reading comprehension requires the aggregation of multiple evidence facts to answer complex natural language questions, and the answer should be avoided when there is no answer. Training a model that can handle such difficult tasks requires a large number of data sets to support, but the labeling of data sets is very expensive and time-consuming, so it is very important to explore reading comprehension models suitable for low data, and external data related to large-scale …
-Cites: ‪Understanding Dataset Design Choices for Multi-hop Reasoning‬
+--- 
+layout: post 
+title: "DeMRC: Dynamically Enhanced Multi-hop Reading Comprehension Model for Low Data" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "X Tang, Y Xu, X Lu, Q He, J Fang, J Chen - International Conference on Advanced , 2022" 
+--- 
+Multi-hop reading comprehension requires the aggregation of multiple evidence facts to answer complex natural language questions, and the answer should be avoided when there is no answer. Training a model that can handle such difficult tasks requires a large number of data sets to support, but the labeling of data sets is very expensive and time-consuming, so it is very important to explore reading comprehension models suitable for low data, and external data related to large-scale  Cites: Understanding Dataset Design Choices for Multi-hop Reasoning

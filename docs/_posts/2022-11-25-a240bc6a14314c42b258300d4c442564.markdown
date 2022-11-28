@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions"
-date:   2022-11-25 23:42:34 -0400
-categories: jekyll update
-author: "S Bhattamishra, A Patel, V Kanade, P Blunsom - arXiv preprint arXiv:2211.12316, 2022"
----
-Despite the widespread success of Transformers on NLP tasks, recent works have found that they struggle to model several formal languages when compared to recurrent models. This raises the question of why Transformers perform well in practice and whether they have any properties that enable them to generalize better than recurrent models. In this work, we conduct an extensive empirical study on Boolean functions to demonstrate the following:(i) Random Transformers are …
-Cites: ‪Saturated transformers are constant-depth threshold circuits‬
+--- 
+layout: post 
+title: "Simplicity Bias in Transformers and their Ability to Learn Sparse Boolean Functions" 
+date: 2022-11-25 23:42:34 -0400 
+categories: jekyll update 
+author: "S Bhattamishra, A Patel, V Kanade, P Blunsom - arXiv preprint arXiv:2211.12316, 2022" 
+--- 
+Despite the widespread success of Transformers on NLP tasks, recent works have found that they struggle to model several formal languages when compared to recurrent models. This raises the question of why Transformers perform well in practice and whether they have any properties that enable them to generalize better than recurrent models. In this work, we conduct an extensive empirical study on Boolean functions to demonstrate the following:(i) Random Transformers are  Cites: Saturated transformers are constant-depth threshold circuits
