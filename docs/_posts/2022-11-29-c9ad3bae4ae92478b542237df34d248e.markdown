@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Positive Unlabeled Learning by Sample Selection and Prototype Refinement"
+date:   2022-11-29 02:31:48 -0400
+categories: jekyll update
+author: "Z Wang, G Long - International Conference on Advanced Data Mining …, 2022"
+---
+Positive and Unlabeled learning (PU learning) learns a binary classifier on training data with only positive and unlabeled instances. Recent cost-sensitive methods tackled this problem by designing unbiased loss functions and achieved state-of-the-art performance. However, we observe that the model suffers from overfitting at the late training stage caused by regarding unlabeled positive samples as negative ones. This motivates us to propose PUSP, a novel framework that leverages sample …
+Cites: ‪Knowledge enhanced contextual word representations‬

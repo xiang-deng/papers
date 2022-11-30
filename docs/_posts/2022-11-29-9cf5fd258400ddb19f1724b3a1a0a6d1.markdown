@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scaling Marginalized Importance Sampling to High-Dimensional State-Spaces via State Abstraction"
+date:   2022-11-29 02:31:48 -0400
+categories: jekyll update
+author: "BS Pavse, JP Hanna"
+---
+We consider the problem of off-policy evaluation (OPE) in reinforcement learning (RL), where the goal is to estimate the performance of an evaluation policy, πe, using a fixed dataset, D, collected by one or more policies that may be different from πe. Current OPE algorithms may produce poor OPE estimates under policy distribution shift ie, when the probability of a particular state-action pair occurring under πe is very different from the probability of that same pair occurring in D Voloshin et …
+Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬

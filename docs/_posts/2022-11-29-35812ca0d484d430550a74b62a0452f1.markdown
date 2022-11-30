@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Attention-based Multi-View Feature Collaboration for Decoupled Few-Shot Learning"
+date:   2022-11-29 02:31:48 -0400
+categories: jekyll update
+author: "S Shao, L Xing, Y Wang, B Liu, W Liu, Y Zhou - … on Circuits and Systems for Video …, 2022"
+---
+Decoupled Few-shot learning (FSL) is an effective methodology that deals with the problem of data-scarce. Its standard paradigm includes two phases:(1) Pre-train. Generating a CNN-based feature extraction model (FEM) via base data.(2) Meta-test. Employing the frozen FEM to obtain the novel data features, then classifying them. Obviously, one crucial factor, the category gap, prevents the development of FSL, ie, it is challenging for the pre-trained FEM to adapt to the novel class flawlessly …
+Cites: ‪True few-shot learning with language models‬
