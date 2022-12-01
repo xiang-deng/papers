@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Text-To-Text Framework for Topic and Style Classification of Italian texts"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "M Papucci, C De Nigris, A Miaschi, F Dell Orletta - … of the Sixth Workshop on Natural …, 2022"
----
-In this paper, we propose an extensive evaluation of the first text-to-text Italian Neural Language Model (NLM), IT5 [1], on a classification scenario. In particular, we test the performance of IT5 on several tasks involving both the classification of the topic and the style of a set of Italian posts. We assess the model in two different configurations, single-and multi-task classification, and we compare it with a more traditional NLM based on the Transformer architecture (ie BERT). Moreover, we test its performance …
-Cites: ‪Unifying question answering, text classification, and regression via …‬
+--- 
+layout: post 
+title: "Evaluating Text-To-Text Framework for Topic and Style Classification of Italian texts" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "M Papucci, C De Nigris, A Miaschi, F Dell Orletta - of the Sixth Workshop on Natural , 2022" 
+--- 
+In this paper, we propose an extensive evaluation of the first text-to-text Italian Neural Language Model (NLM), IT5 [1], on a classification scenario. In particular, we test the performance of IT5 on several tasks involving both the classification of the topic and the style of a set of Italian posts. We assess the model in two different configurations, single-and multi-task classification, and we compare it with a more traditional NLM based on the Transformer architecture (ie BERT). Moreover, we test its performance  Cites: Unifying question answering, text classification, and regression via

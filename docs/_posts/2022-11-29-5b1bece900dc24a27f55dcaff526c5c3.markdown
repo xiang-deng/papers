@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Unified Random Walk, Its Induced Laplacians and Spectral Convolutions for Deep Hypergraph Learning"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "J Zhang, F Li, X Xiao, T Xu, Y Rong, J Huang, Y Bian"
----
-Deep hypergraph learning receives a surge of interest in recent years. Frameworks commonly used in deep hypergraph learning focus on hypergraphs with edge-independent vertex weights (EIVWs), without considering hypergraphs with edge-dependent vertex weights (EDVWs) which have more modeling power. Moreover, many hypergraph convolutional models are straightforward generalizations of graph convolutional networks by incorporating simple hypergraph Laplacians, which lack …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬
+--- 
+layout: post 
+title: "A Unified Random Walk, Its Induced Laplacians and Spectral Convolutions for Deep Hypergraph Learning" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "J Zhang, F Li, X Xiao, T Xu, Y Rong, J Huang, Y Bian" 
+--- 
+Deep hypergraph learning receives a surge of interest in recent years. Frameworks commonly used in deep hypergraph learning focus on hypergraphs with edge-independent vertex weights (EIVWs), without considering hypergraphs with edge-dependent vertex weights (EDVWs) which have more modeling power. Moreover, many hypergraph convolutional models are straightforward generalizations of graph convolutional networks by incorporating simple hypergraph Laplacians, which lack  Cites: Learning with hypergraphs: Clustering, classification, and

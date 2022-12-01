@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Android malware detection explanation"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "O Soulimani, O Gadyatskaya, R Li"
----
-1 Abstract Machine learning-based methods have become de-facto standard in Android malware detection. However, it is not sufficient to be able to correctly classify a sample: human analysts also need some details (explanation) why this sample has been categorized as malicious or benign. Several black-box explanation methods have been proposed in the literature. Still, to be useful, explanation methods need to satisfy certain properties that are expected by the analysts in the Android malware …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Evaluating Android malware detection explanation" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "O Soulimani, O Gadyatskaya, R Li" 
+--- 
+1 Abstract Machine learning-based methods have become de-facto standard in Android malware detection. However, it is not sufficient to be able to correctly classify a sample: human analysts also need some details (explanation) why this sample has been categorized as malicious or benign. Several black-box explanation methods have been proposed in the literature. Still, to be useful, explanation methods need to satisfy certain properties that are expected by the analysts in the Android malware  Cites: Anchors: High-Precision Model-Agnostic Explanations

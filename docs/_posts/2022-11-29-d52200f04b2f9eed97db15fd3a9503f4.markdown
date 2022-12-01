@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Shift-Robust Node Classification via Graph Clustering Co-training"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "Q Zhu, C Zhang, C Park, C Yang, J Han"
----
-It is widely known that machine learning models only achieve sub-optimal performance when testing data exhibit distribution shift against training ie, Prtrain (X, Y) ̸= Prtest (X, Y). Although Graph Neural Networks (GNNs) have become de facto models for semi-supervised learning tasks, they suffer even more from distribution shift because multiple types of shifts origin from not only node features but graph structures. Existing domain adaptation methods only work for specific type of shifts. In …
-Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬
+--- 
+layout: post 
+title: "Shift-Robust Node Classification via Graph Clustering Co-training" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "Q Zhu, C Zhang, C Park, C Yang, J Han" 
+--- 
+It is widely known that machine learning models only achieve sub-optimal performance when testing data exhibit distribution shift against training ie, Prtrain (X, Y) = Prtest (X, Y). Although Graph Neural Networks (GNNs) have become de facto models for semi-supervised learning tasks, they suffer even more from distribution shift because multiple types of shifts origin from not only node features but graph structures. Existing domain adaptation methods only work for specific type of shifts. In  Cites: Wilds: A benchmark of in-the-wild distribution shifts

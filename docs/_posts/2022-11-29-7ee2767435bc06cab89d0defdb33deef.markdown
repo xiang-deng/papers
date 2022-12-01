@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised graph-level representation learning with hierarchical contrasts"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "W Ju, Y Gu, X Luo, Y Wang, H Yuan, H Zhong… - Neural Networks, 2022"
----
-Unsupervised graph-level representation learning has recently shown great potential in a variety of domains, ranging from bioinformatics to social networks. Plenty of graph contrastive learning methods have been proposed to generate discriminative graph-level representations recently. They typically design multiple types of graph augmentations and enforce a graph to have consistent representations under different views. However, these techniques mostly neglect the intrinsic hierarchical …
-Cites: ‪Strategies for pre-training graph neural networks‬
+--- 
+layout: post 
+title: "Unsupervised graph-level representation learning with hierarchical contrasts" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "W Ju, Y Gu, X Luo, Y Wang, H Yuan, H Zhong - Neural Networks, 2022" 
+--- 
+Unsupervised graph-level representation learning has recently shown great potential in a variety of domains, ranging from bioinformatics to social networks. Plenty of graph contrastive learning methods have been proposed to generate discriminative graph-level representations recently. They typically design multiple types of graph augmentations and enforce a graph to have consistent representations under different views. However, these techniques mostly neglect the intrinsic hierarchical  Cites: Strategies for pre-training graph neural networks

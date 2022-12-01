@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Synthetic pre-training for robustness in information retrieval"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "R Gangi Reddy - 2022"
----
-Research on neural information retrieval has so far been focused primarily on standard supervised learning settings, where it outperforms traditional term matching baselines. Many practical use cases of such models, however, may involve previously unseen target domains. In this thesis, we first improve the out-of-domain generalization of Dense Passage Retrieval (DPR)—a popular choice for neural information retrieval (IR)—through synthetic data augmentation only in the source …
-Cites: ‪The curious case of neural text degeneration‬

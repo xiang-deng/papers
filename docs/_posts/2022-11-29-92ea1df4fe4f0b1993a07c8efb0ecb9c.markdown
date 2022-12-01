@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ExplainFix: Explainable spatially fixed deep networks"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "A Gaudio, C Faloutsos, A Smailagic, P Costa… - … Reviews: Data Mining and …, 2022"
----
-Is there an initialization for deep networks that requires no learning? ExplainFix adopts two design principles: the “fixed filters” principle that all spatial filter weights of convolutional neural networks can be fixed at initialization and never learned, and the “nimbleness” principle that only few network parameters suffice. We contribute (a) visual model‐based explanations,(b) speed and accuracy gains, and (c) novel tools for deep convolutional neural networks. ExplainFix gives key insights that spatially …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "ExplainFix: Explainable spatially fixed deep networks" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "A Gaudio, C Faloutsos, A Smailagic, P Costa - Reviews: Data Mining and , 2022" 
+--- 
+Is there an initialization for deep networks that requires no learning? ExplainFix adopts two design principles: the fixed filters principle that all spatial filter weights of convolutional neural networks can be fixed at initialization and never learned, and the nimbleness principle that only few network parameters suffice. We contribute (a) visual modelbased explanations,(b) speed and accuracy gains, and (c) novel tools for deep convolutional neural networks. ExplainFix gives key insights that spatially  Cites: Why Should I Trust You? : Explaining the Predictions of Any

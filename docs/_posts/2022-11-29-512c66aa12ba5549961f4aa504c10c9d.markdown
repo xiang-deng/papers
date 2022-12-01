@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Twice-Twitter Content Embeddings"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "X Liu, B Golshan, K Leung, A Saini, V Kulkarni… - 2022"
----
-In this short paper, we describe a new model for learning content-based tweet embeddings that serve to be generically useful as signals for a variety of down-stream predictive tasks. In contrast to prior approaches that only leverage cues from the raw text, we take a holistic approach and propose Twice, a model for learning tweet embeddings that (a) leverages cues beyond the raw text (including media) and (b) attempts to yield representations optimized for overall similarity, a combination of …
-Cites: ‪Whiteningbert: An easy unsupervised sentence embedding …‬
+--- 
+layout: post 
+title: "Twice-Twitter Content Embeddings" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "X Liu, B Golshan, K Leung, A Saini, V Kulkarni - 2022" 
+--- 
+In this short paper, we describe a new model for learning content-based tweet embeddings that serve to be generically useful as signals for a variety of down-stream predictive tasks. In contrast to prior approaches that only leverage cues from the raw text, we take a holistic approach and propose Twice, a model for learning tweet embeddings that (a) leverages cues beyond the raw text (including media) and (b) attempts to yield representations optimized for overall similarity, a combination of  Cites: Whiteningbert: An easy unsupervised sentence embedding

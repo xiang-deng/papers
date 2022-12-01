@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Language Models for Deep Learning Programming: A Case Study with Keras"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "C Shorten, TM Khoshgoftaar - Deep Learning Applications, Volume 4, 2023"
----
-This chapter explores the application of language models to programming languages and our work in constructing a dataset for the task. More particularly, we focus on the Keras programming language, a popular framework for implementing Deep Learning experiments. Our original model KerasBERT has since been expanded by adding more data and re-training the language model. The original KerasBERT model was trained on two categories of Keras Code Examples and the …
-Cites: ‪Natural questions: a benchmark for question answering research‬
+--- 
+layout: post 
+title: "Language Models for Deep Learning Programming: A Case Study with Keras" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "C Shorten, TM Khoshgoftaar - Deep Learning Applications, Volume 4, 2023" 
+--- 
+This chapter explores the application of language models to programming languages and our work in constructing a dataset for the task. More particularly, we focus on the Keras programming language, a popular framework for implementing Deep Learning experiments. Our original model KerasBERT has since been expanded by adding more data and re-training the language model. The original KerasBERT model was trained on two categories of Keras Code Examples and the  Cites: Natural questions: a benchmark for question answering research

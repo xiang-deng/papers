@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "C Ling, X Zhang, X Zhao, Y Wu, Y Liu, W Cheng… - 2023"
----
-Neural language models for commonsense reasoning often formulate the problem as a QA task and make predictions based on learned representations of language after finetuning. However, without providing any finetuning data and predefined answer candidates, can neural language models still answer commonsense reasoning questions only relying on external knowledge? In this work, we investigate a unique yet challenging problem-open-domain commonsense reasoning that aims …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "C Ling, X Zhang, X Zhao, Y Wu, Y Liu, W Cheng - 2023" 
+--- 
+Neural language models for commonsense reasoning often formulate the problem as a QA task and make predictions based on learned representations of language after finetuning. However, without providing any finetuning data and predefined answer candidates, can neural language models still answer commonsense reasoning questions only relying on external knowledge? In this work, we investigate a unique yet challenging problem-open-domain commonsense reasoning that aims  Cites: CommonsenseQA: A Question Answering Challenge Targeting

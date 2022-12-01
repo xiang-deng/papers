@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficient Distributed DNNs in the Mobile-Edge-Cloud Continuum"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "F Malandrino, CF Chiasserini, G di Giacomo - IEEE/ACM Transactions on Networking, 2022"
----
-In the mobile-edge-cloud continuum, a plethora of heterogeneous data sources and computation-capable nodes are available. Such nodes can cooperate to perform a distributed learning task, aided by a learning controller (often located at the network edge). The controller is required to make decisions concerning (i) data selection, ie, which data sources to use;(ii) model selection, ie, which machine learning model to adopt, and (iii) matching between the layers of the model and the available physical …
-Cites: ‪Green AI‬
+--- 
+layout: post 
+title: "Efficient Distributed DNNs in the Mobile-Edge-Cloud Continuum" 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "F Malandrino, CF Chiasserini, G di Giacomo - IEEE/ACM Transactions on Networking, 2022" 
+--- 
+In the mobile-edge-cloud continuum, a plethora of heterogeneous data sources and computation-capable nodes are available. Such nodes can cooperate to perform a distributed learning task, aided by a learning controller (often located at the network edge). The controller is required to make decisions concerning (i) data selection, ie, which data sources to use;(ii) model selection, ie, which machine learning model to adopt, and (iii) matching between the layers of the model and the available physical  Cites: Green AI

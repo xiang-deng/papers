@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Empirical evaluation on approaches to transform tabular data into textual input for QA systems"
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "CM Bartz - 2022"
----
-Question answering (QA) systems aim to automatically and precisely answer a specific question provided in natural language over a knowledge base. Although there are models that already work well with regular textual knowledge bases for those systems, when it comes to tabular data this scenario changes. Transforming tabular data into a textual in put for a model is a difficult task and this research explores different approaches for this transformation of data by testing on JarvisQA, a …
-Cites: ‪Table cell search for question answering‬

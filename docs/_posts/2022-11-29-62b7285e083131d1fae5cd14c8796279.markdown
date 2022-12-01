@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dealing with hallucination and omission in neural Natural Language Generation: A use case on meteorology."
-date:   2022-11-29 02:31:48 -0400
-categories: jekyll update
-author: "JG Corbelle, AB Diz, J Alonso-Moral, J Taboada - Proceedings of the 15th …, 2022"
----
-Hallucinations and omissions need to be carefully handled when using neural models for performing Natural Language Generation tasks. In the particular case of data to text applications, neural models are usually trained on large-scale datasets and sometimes generate text including divergences with respect to the input data. In this paper, we show the impact of the lack of domain knowledge in the generation of texts containing input-output divergences through a use case on meteorology. To …
-Cites: ‪Data-to-text generation with entity modeling‬
+--- 
+layout: post 
+title: "Dealing with hallucination and omission in neural Natural Language Generation: A use case on meteorology." 
+date: 2022-11-29 02:31:48 -0400 
+categories: jekyll update 
+author: "JG Corbelle, AB Diz, J Alonso-Moral, J Taboada - Proceedings of the 15th , 2022" 
+--- 
+Hallucinations and omissions need to be carefully handled when using neural models for performing Natural Language Generation tasks. In the particular case of data to text applications, neural models are usually trained on large-scale datasets and sometimes generate text including divergences with respect to the input data. In this paper, we show the impact of the lack of domain knowledge in the generation of texts containing input-output divergences through a use case on meteorology. To  Cites: Data-to-text generation with entity modeling
