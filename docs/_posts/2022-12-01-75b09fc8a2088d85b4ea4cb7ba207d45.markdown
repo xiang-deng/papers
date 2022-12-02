@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The unreliability of explanations in few-shot prompting for textual reasoning"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "X Ye, G Durrett - Advances in Neural Information Processing Systems, 2022"
+---
+Does prompting a large language model (LLM) like GPT-3 with explanations improve in-context learning? We study this question on two NLP tasks that involve reasoning over text, namely question answering and natural language inference. We test the performance of four LLMs on three textual reasoning datasets using prompts that include explanations in multiple different styles. For these tasks, we find that including explanations in the prompts for OPT, GPT-3 (davinci), and InstructGPT (text …
+Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬

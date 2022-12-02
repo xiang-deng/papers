@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On the Effectiveness of Parameter-Efficient Fine-Tuning"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "Z Fu, H Yang, AMC So, W Lam, L Bing, N Collier - arXiv preprint arXiv:2211.15583, 2022"
+---
+Fine-tuning pre-trained models has been ubiquitously proven to be effective in a wide range of NLP tasks. However, fine-tuning the whole model is parameter inefficient as it always yields an entirely new model for each task. Currently, many research works propose to only fine-tune a small portion of the parameters while keeping most of the parameters shared across different tasks. These methods achieve surprisingly good performance and are shown to be more stable than their …
+Cites: ‪Towards a unified view of parameter-efficient transfer learning‬

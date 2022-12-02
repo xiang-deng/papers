@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fine-tuned Language Models are Continual Learners"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "T Scialom, T Chakrabarty, S Muresan"
+---
+Recent work on large language models relies on the intuition that most natural language processing tasks can be described via natural language instructions and that models trained on these instructions show strong zero-shot performance on several standard datasets. However, these models even though impressive still perform poorly on a wide range of tasks outside of their respective training and evaluation sets. To address this limitation, we argue that a model should be able to …
+Cites: ‪Cross-task generalization via natural language crowdsourcing …‬

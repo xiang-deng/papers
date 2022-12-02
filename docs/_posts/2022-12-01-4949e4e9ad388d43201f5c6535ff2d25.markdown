@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PUnifiedNER: a Prompting-based Unified NER System for Diverse Datasets"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "J Lu, R Zhao, B Mac Namee, F Tan - arXiv preprint arXiv:2211.14838, 2022"
+---
+Much of named entity recognition (NER) research focuses on developing dataset-specific models based on data from the domain of interest, and a limited set of related entity types. This is frustrating as each new dataset requires a new model to be trained and stored. In this work, we present a``versatile  model--the Prompting-based Unified NER system (PUnifiedNER)--that works with data from different domains and can recognise up to 37 entity types simultaneously, and theoretically it …
+Cites: ‪Unifiedqa: Crossing format boundaries with a single qa system‬

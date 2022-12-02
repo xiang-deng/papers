@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Research and Development on Deep Hierarchical Reinforcement Learning"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "黄志刚， 刘全， 张立华， 曹家庆， 朱斐 - Journal of Software, 2022"
+---
+深度分层强化学习是深度强化学习领域的一个重要研究方向, 它重点关注经典深度强化学习难以解决的稀疏奖励, 顺序决策和弱迁移能力等问题. 其核心思想在于, 根据分层思想构建具有多层结构的强化学习策略, 运用时序抽象表达方法组合时间细粒度的下层动作, 学习时间粗粒度的, 有语义的上层动作, 将复杂问题分解为数个简单问题进行求解. 近年来, 随着研究的深入, 深度分层强化学习方法已经取得了实质性的突破, 且被应用于视觉导航, 自然语言处理, 推荐系统和视频描述生成等生活领域 …
+Cites: ‪Explore, discover and learn: unsupervised discovery of state …‬

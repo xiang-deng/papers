@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "Z He, T Sun, K Wang, X Huang, X Qiu - arXiv preprint arXiv:2211.15029, 2022"
+---
+We present DiffusionBERT, a new generative masked language model based on discrete diffusion models. Diffusion models and many pre-trained language models have a shared training objective, ie, denoising, making it possible to combine the two powerful models and enjoy the best of both worlds. On the one hand, diffusion models offer a promising training strategy that helps improve the generation quality. On the other hand, pre-trained denoising language models (eg, BERT) can be used …
+Cites: ‪Diffusion-LM Improves Controllable Text Generation‬

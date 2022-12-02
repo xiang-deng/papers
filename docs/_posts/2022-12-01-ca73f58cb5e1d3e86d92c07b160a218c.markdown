@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Detect-Localize-Repair: A Unified Framework for Learning to Debug with CodeT5"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "NDQ Bui, Y Wang, S Hoi - arXiv preprint arXiv:2211.14875, 2022"
+---
+Automated software debugging is a crucial task for improving the productivity of software developers. Many neural-based techniques have been proven effective for debugging-related tasks such as bug localization and program repair (or bug fixing). However, these techniques often focus only on either one of them or approach them in a stage-wise manner, ignoring the mutual benefits between them. In this work, we propose a novel unified\emph {Detect-Localize-Repair} framework based on a …
+Cites: ‪Dawn Drain‬

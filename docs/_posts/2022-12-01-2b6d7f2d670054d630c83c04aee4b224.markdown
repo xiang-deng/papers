@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SKDBERT: Compressing BERT via Stochastic Knowledge Distillation"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "Z Ding, G Jiang, S Zhang, L Guo, W Lin - arXiv preprint arXiv:2211.14466, 2022"
+---
+In this paper, we propose Stochastic Knowledge Distillation (SKD) to obtain compact BERT-style language model dubbed SKDBERT. In each iteration, SKD samples a teacher model from a pre-defined teacher ensemble, which consists of multiple teacher models with multi-level capacities, to transfer knowledge into student model in an one-to-one manner. Sampling distribution plays an important role in SKD. We heuristically present three types of sampling distributions to assign appropriate …
+Cites: ‪Well-read students learn better: The impact of student initialization …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Validating Large Language Models with ReLM"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "M Kuchnik, V Smith, G Amvrosiadis - arXiv preprint arXiv:2211.15458, 2022"
+---
+Although large language models (LLMs) have been touted for their ability to generate natural-sounding text, there are growing concerns around possible negative effects of LLMs such as data memorization, bias, and inappropriate language. Unfortunately, the complexity and generation capacities of LLMs make validating (and correcting) such concerns difficult. In this work, we introduce ReLM, a system for validating and querying LLMs using standard regular expressions. ReLM …
+Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬

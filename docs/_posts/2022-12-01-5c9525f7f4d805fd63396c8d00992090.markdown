@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CodeRetriever: Large-scale Contrastive Pre-training for Code Search"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "X Li, Y Gong, Y Shen, X Qiu, H Zhang, B Yao, W Qi…"
+---
+In this paper, we propose the CodeRetriever model, which learns the function-level code semantic representations through largescale code-text contrastive pre-training. We adopt two contrastive learning schemes in CodeRetriever: unimodal contrastive learning and bimodal contrastive learning. For unimodal contrastive learning, we design an unsupervised learning approach to build semantic-related code pairs based on the documentation and function name. For bimodal contrastive learning …
+Cites: ‪Learning to mine aligned code and natural language pairs from …‬

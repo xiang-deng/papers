@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Error Detection for Interactive Text-to-SQL Semantic Parsing"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "S Chen, Z Chen, H Sun, Y Su"
+---
+Despite remarkable progress in text-to-SQL semantic parsing, the performance of state-of-the-art parsers are still far from perfect. At the same time, modern deep learning based text-to-SQL parsers are often over-confident and thus casting doubt on its trustworthiness when used in an interactive setting. In this paper, we propose to train parser-independent error detectors for text-to-SQL semantic parsers. We test our proposed approach with two parsers, SmBop and Bridge v2, and show our …
+Cites: ‪Rat-sql: Relation-aware schema encoding and linking for text-to …‬

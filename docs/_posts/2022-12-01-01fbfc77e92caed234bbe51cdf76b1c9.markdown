@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A survey of deep learning optimizers-first and second order methods"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "RV Kashyap - arXiv preprint arXiv:2211.15596, 2022"
+---
+Deep Learning optimization involves minimizing a high-dimensional loss function in the weight space which is often perceived as difficult due to its inherent difficulties such as saddle points, local minima, ill-conditioning of the Hessian and limited compute resources. In this paper, we provide a comprehensive review of 12 standard optimization methods successfully used in deep learning research and a theoretical assessment of the difficulties in numerical optimization from the optimization …
+Cites: ‪The break-even point on optimization trajectories of deep neural …‬

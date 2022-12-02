@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning with Silver Standard Data for Zero-shot Relation Extraction"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "T Wang, J Wang, Z Zeng - arXiv preprint arXiv:2211.13883, 2022"
+---
+The superior performance of supervised relation extraction (RE) methods heavily relies on a large amount of gold standard data. Recent zero-shot relation extraction methods converted the RE task to other NLP tasks and used off-the-shelf models of these NLP tasks to directly perform inference on the test data without using a large amount of RE annotation data. A potentially valuable by-product of these methods is the large-scale silver standard data. However, there is no further investigation on the …
+Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬

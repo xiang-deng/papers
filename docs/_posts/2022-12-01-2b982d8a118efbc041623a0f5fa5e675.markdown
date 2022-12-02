@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Signed Binary Weight Networks: Improving Efficiency of Binary Weight Networks by Exploiting Sparsity"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "S Kuhar, A Tumanov, J Hoffman - arXiv preprint arXiv:2211.13838, 2022"
+---
+Efficient inference of Deep Neural Networks (DNNs) is essential to making AI ubiquitous. Two important algorithmic techniques have shown promise for enabling efficient inference-sparsity and binarization. These techniques translate into weight sparsity and weight repetition at the hardware-software level allowing the deployment of DNNs with critically low power and latency requirements. We propose a new method called signed-binary networks to improve further efficiency (by …
+Cites: ‪Palm: Scaling language modeling with pathways‬

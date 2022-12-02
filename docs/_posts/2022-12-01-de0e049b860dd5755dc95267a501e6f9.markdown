@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking the Number of Shots in Robust Model-Agnostic Meta-Learning"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "X Duan, G Kang, R Wang, S Han, S Xue, T Wang… - arXiv preprint arXiv …, 2022"
+---
+Robust Model-Agnostic Meta-Learning (MAML) is usually adopted to train a meta-model which may fast adapt to novel classes with only a few exemplars and meanwhile remain robust to adversarial attacks. The conventional solution for robust MAML is to introduce robustness-promoting regularization during meta-training stage. With such a regularization, previous robust MAML methods simply follow the typical MAML practice that the number of training shots should match with the …
+Cites: ‪Natural language to structured query generation via meta-learning‬

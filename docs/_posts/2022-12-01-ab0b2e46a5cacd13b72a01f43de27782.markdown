@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Algorithms for Acyclic Weighted Finite-State Automata with Failure Arcs"
+date:   2022-12-01 07:00:03 -0400
+categories: jekyll update
+author: "A Svete, B Dayan, T Vieira, R Cotterell, J Eisner"
+---
+Weighted finite-state automata (WSFAs) are commonly used in NLP. Failure transitions are a useful extension for compactly representing backoffs or interpolation in n-gram models and CRFs, which are special cases of WFSAs. The pathsum in ordinary acyclic WFSAs is efficiently computed by the backward algorithm in time O (∣ E∣), where E is the set of transitions. However, this does not allow failure transitions, and preprocessing the WFSA to eliminate failure transitions could greatly …
+Cites: ‪Neuro-symbolic language modeling with automaton-augmented …‬
