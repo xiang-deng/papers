@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Attack on Unfair ToS Clause Detection: A Case Study using Universal Adversarial Triggers"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "S Xu, I Broda, R Haddad, M Negrini, M Grabmair - arXiv preprint arXiv:2211.15556, 2022"
----
-Recent work has demonstrated that natural language processing techniques can support consumer protection by automatically detecting unfair clauses in the Terms of Service (ToS) Agreement. This work demonstrates that transformer-based ToS analysis systems are vulnerable to adversarial attacks. We conduct experiments attacking an unfair-clause detector with universal adversarial triggers. Experiments show that a minor perturbation of the text can considerably reduce the detection …
-Cites: ‪Trick me if you can: Human-in-the-loop generation of adversarial …‬
+--- 
+layout: post 
+title: "Attack on Unfair ToS Clause Detection: A Case Study using Universal Adversarial Triggers" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "S Xu, I Broda, R Haddad, M Negrini, M Grabmair - arXiv preprint arXiv:2211.15556, 2022" 
+--- 
+Recent work has demonstrated that natural language processing techniques can support consumer protection by automatically detecting unfair clauses in the Terms of Service (ToS) Agreement. This work demonstrates that transformer-based ToS analysis systems are vulnerable to adversarial attacks. We conduct experiments attacking an unfair-clause detector with universal adversarial triggers. Experiments show that a minor perturbation of the text can considerably reduce the detection  Cites: Trick me if you can: Human-in-the-loop generation of adversarial

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "What learning algorithm is in-context learning? Investigations with linear models"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "E Akyürek, D Schuurmans, J Andreas, T Ma, D Zhou - arXiv preprint arXiv …, 2022"
----
-Neural sequence models, especially transformers, exhibit a remarkable capacity for in-context learning. They can construct new predictors from sequences of labeled examples $(x, f (x)) $ presented in the input without further parameter updates. We …
+--- 
+layout: post 
+title: "What learning algorithm is in-context learning? Investigations with linear models" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "E Akyrek, D Schuurmans, J Andreas, T Ma, D Zhou - arXiv preprint arXiv , 2022" 
+--- 
+Neural sequence models, especially transformers, exhibit a remarkable capacity for in-context learning. They can construct new predictors from sequences of labeled examples $(x, f (x)) $ presented in the input without further parameter updates. We

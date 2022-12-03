@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mutual Exclusivity Training and Primitive Augmentation to Induce Compositionality"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Y Jiang, X Zhou, M Bansal - arXiv preprint arXiv:2211.15578, 2022"
----
-Recent datasets expose the lack of the systematic generalization ability in standard sequence-to-sequence models. In this work, we analyze this behavior of seq2seq models and identify two contributing factors: a lack of mutual exclusivity bias (ie, a source sequence already mapped to a target sequence is less likely to be mapped to other target sequences), and the tendency to memorize whole examples rather than separating structures from contents. We propose two techniques to address these …
-Cites: ‪Meta-Learning to Compositionally Generalize‬
+--- 
+layout: post 
+title: "Mutual Exclusivity Training and Primitive Augmentation to Induce Compositionality" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Y Jiang, X Zhou, M Bansal - arXiv preprint arXiv:2211.15578, 2022" 
+--- 
+Recent datasets expose the lack of the systematic generalization ability in standard sequence-to-sequence models. In this work, we analyze this behavior of seq2seq models and identify two contributing factors: a lack of mutual exclusivity bias (ie, a source sequence already mapped to a target sequence is less likely to be mapped to other target sequences), and the tendency to memorize whole examples rather than separating structures from contents. We propose two techniques to address these  Cites: Meta-Learning to Compositionally Generalize

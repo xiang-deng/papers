@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring transformer backbones for heterogeneous treatment effect estimation"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "YF Zhang, H Zhang, ZC Lipton, LE Li, EP Xing - arXiv preprint arXiv:2202.01336, 2022"
----
-Previous works on Treatment Effect Estimation (TEE) are not in widespread use because they are predominantly theoretical, where strong parametric assumptions are made but untractable for practical application. Recent works use Multilayer Perceptron (MLP) for modeling casual relationships, however, MLPs lag far behind recent advances in ML methodology, which limits their applicability and generalizability. To extend beyond the single domain formulation and towards more …
-Cites: ‪Evaluating Models  Local Decision Boundaries via Contrast Sets‬
+--- 
+layout: post 
+title: "Exploring transformer backbones for heterogeneous treatment effect estimation" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "YF Zhang, H Zhang, ZC Lipton, LE Li, EP Xing - arXiv preprint arXiv:2202.01336, 2022" 
+--- 
+Previous works on Treatment Effect Estimation (TEE) are not in widespread use because they are predominantly theoretical, where strong parametric assumptions are made but untractable for practical application. Recent works use Multilayer Perceptron (MLP) for modeling casual relationships, however, MLPs lag far behind recent advances in ML methodology, which limits their applicability and generalizability. To extend beyond the single domain formulation and towards more  Cites: Evaluating Models Local Decision Boundaries via Contrast Sets

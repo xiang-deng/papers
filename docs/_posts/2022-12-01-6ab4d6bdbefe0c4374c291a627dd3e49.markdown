@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Law Article Recommendation Approach Based on Deep Semantic Matching"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "李琳， 段围， 周栋， 袁景凌 - Journal of Software, 2022"
----
-法律条文 (简称法条) 是司法量刑的主要依据, 法律条文的精准推荐, 能够辅助提高法律智能判决的质量. 目前, 主流的法条推荐模型是将有限数量的法条当作类别标签, 采用分类的思想, 根据法律文书的案例描述将其归类到相关的法条. 但是法条作为法律规范的文字表述形式, 现有的分类方法简单将其作为类别标签的索引编号, 导致对其语义信息利用不足, 影响了推荐质量. 针对此问题, 研究将主流的法条推荐方法从分类模型转化为语义匹配模型, 提出了基于深度语义匹配的法条推荐方法 …
-Cites: ‪Document modeling with gated recurrent neural network for …‬

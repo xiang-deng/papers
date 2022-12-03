@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multiturn dialogue generation by modeling sentence-level and discourse-level contexts"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Y Yang, J Cao, Y Wen, P Zhang - Scientific Reports, 2022"
----
-Currently, multiturn dialogue models generate human-like responses based on pretrained language models given a dialogue history. However, most existing models simply concatenate dialogue histories, which makes it difficult to maintain a high degree of consistency throughout the generated text. We speculate that this is because the encoder ignores information about the hierarchical structure between sentences. In this paper, we propose a novel multiturn dialogue generation model …
-Cites: ‪Towards a human-like open-domain chatbot‬
+--- 
+layout: post 
+title: "Multiturn dialogue generation by modeling sentence-level and discourse-level contexts" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Y Yang, J Cao, Y Wen, P Zhang - Scientific Reports, 2022" 
+--- 
+Currently, multiturn dialogue models generate human-like responses based on pretrained language models given a dialogue history. However, most existing models simply concatenate dialogue histories, which makes it difficult to maintain a high degree of consistency throughout the generated text. We speculate that this is because the encoder ignores information about the hierarchical structure between sentences. In this paper, we propose a novel multiturn dialogue generation model  Cites: Towards a human-like open-domain chatbot

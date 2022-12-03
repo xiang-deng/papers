@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Continuous diffusion for categorical data"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "S Dieleman, L Sartran, A Roshannai, N Savinov… - arXiv preprint arXiv …, 2022"
----
-Diffusion models have quickly become the go-to paradigm for generative modelling of perceptual signals (such as images and sound) through iterative refinement. Their success hinges on the fact that the underlying physical phenomena are continuous. For inherently discrete and categorical data such as language, various diffusion-inspired alternatives have been proposed. However, the continuous nature of diffusion models conveys many benefits, and in this work we endeavour to preserve …
-Cites: ‪Mauve: Measuring the gap between neural text and human text …‬
+--- 
+layout: post 
+title: "Continuous diffusion for categorical data" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "S Dieleman, L Sartran, A Roshannai, N Savinov - arXiv preprint arXiv , 2022" 
+--- 
+Diffusion models have quickly become the go-to paradigm for generative modelling of perceptual signals (such as images and sound) through iterative refinement. Their success hinges on the fact that the underlying physical phenomena are continuous. For inherently discrete and categorical data such as language, various diffusion-inspired alternatives have been proposed. However, the continuous nature of diffusion models conveys many benefits, and in this work we endeavour to preserve  Cites: Mauve: Measuring the gap between neural text and human text

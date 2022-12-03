@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Caching Historical Embeddings in Conversational Search"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "O Frieder, I Mele, CI Muntean, FM Nardini, R Perego… - arXiv preprint arXiv …, 2022"
----
-Rapid response, namely low latency, is fundamental in search applications; it is particularly so in interactive search sessions, such as those encountered in conversational settings. An observation with a potential to reduce latency asserts that conversational queries exhibit a temporal locality in the lists of documents retrieved. Motivated by this observation, we propose and evaluate a client-side document embedding cache, improving the responsiveness of conversational search systems …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "Caching Historical Embeddings in Conversational Search" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "O Frieder, I Mele, CI Muntean, FM Nardini, R Perego - arXiv preprint arXiv , 2022" 
+--- 
+Rapid response, namely low latency, is fundamental in search applications; it is particularly so in interactive search sessions, such as those encountered in conversational settings. An observation with a potential to reduce latency asserts that conversational queries exhibit a temporal locality in the lists of documents retrieved. Motivated by this observation, we propose and evaluate a client-side document embedding cache, improving the responsiveness of conversational search systems  Cites: Dense Passage Retrieval for Open-Domain Question Answering

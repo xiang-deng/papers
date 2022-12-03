@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interpreting Unfairness in Graph Neural Networks via Training Node Attribution"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Y Dong, S Wang, J Ma, N Liu, J Li - arXiv preprint arXiv:2211.14383, 2022"
----
-Graph Neural Networks (GNNs) have emerged as the leading paradigm for solving graph analytical problems in various real-world applications. Nevertheless, GNNs could potentially render biased predictions towards certain demographic subgroups. Understanding how the bias in predictions arises is critical, as it guides the design of GNN debiasing mechanisms. However, most existing works overwhelmingly focus on GNN debiasing, but fall short on explaining how such bias is induced. In this …
-Cites: ‪Graph neural networks: A review of methods and applications‬
+--- 
+layout: post 
+title: "Interpreting Unfairness in Graph Neural Networks via Training Node Attribution" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Y Dong, S Wang, J Ma, N Liu, J Li - arXiv preprint arXiv:2211.14383, 2022" 
+--- 
+Graph Neural Networks (GNNs) have emerged as the leading paradigm for solving graph analytical problems in various real-world applications. Nevertheless, GNNs could potentially render biased predictions towards certain demographic subgroups. Understanding how the bias in predictions arises is critical, as it guides the design of GNN debiasing mechanisms. However, most existing works overwhelmingly focus on GNN debiasing, but fall short on explaining how such bias is induced. In this  Cites: Graph neural networks: A review of methods and applications

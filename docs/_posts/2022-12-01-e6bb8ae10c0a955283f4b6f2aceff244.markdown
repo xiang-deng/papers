@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Better Document-level Relation Extraction via Iterative Inference"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "L Zhang, J Su, Y Chen, Z Miao, Z Min, Q Hu, X Shi - arXiv preprint arXiv:2211.14470, 2022"
----
-Document-level relation extraction (RE) aims to extract the relations between entities from the input document that usually containing many difficultly-predicted entity pairs whose relations can only be predicted through relational inference. Existing methods usually directly predict the relations of all entity pairs of input document in a one-pass manner, ignoring the fact that predictions of some entity pairs heavily depend on the predicted results of other pairs. To deal with this issue, in this paper, we propose a …
-Cites: ‪Coreferential reasoning learning for language representation‬
+--- 
+layout: post 
+title: "Towards Better Document-level Relation Extraction via Iterative Inference" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "L Zhang, J Su, Y Chen, Z Miao, Z Min, Q Hu, X Shi - arXiv preprint arXiv:2211.14470, 2022" 
+--- 
+Document-level relation extraction (RE) aims to extract the relations between entities from the input document that usually containing many difficultly-predicted entity pairs whose relations can only be predicted through relational inference. Existing methods usually directly predict the relations of all entity pairs of input document in a one-pass manner, ignoring the fact that predictions of some entity pairs heavily depend on the predicted results of other pairs. To deal with this issue, in this paper, we propose a  Cites: Coreferential reasoning learning for language representation

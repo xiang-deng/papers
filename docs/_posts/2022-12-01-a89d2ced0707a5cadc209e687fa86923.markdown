@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prototypical Fine-tuning: Towards Robust Performance Under Varying Data Sizes"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Y Jin, X Wang, Y Hao, Y Sun, X Xie - arXiv preprint arXiv:2211.13638, 2022"
----
-In this paper, we move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the number of data points and …
-Cites: ‪True few-shot learning with language models‬
+--- 
+layout: post 
+title: "Prototypical Fine-tuning: Towards Robust Performance Under Varying Data Sizes" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Y Jin, X Wang, Y Hao, Y Sun, X Xie - arXiv preprint arXiv:2211.13638, 2022" 
+--- 
+In this paper, we move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the number of data points and  Cites: True few-shot learning with language models

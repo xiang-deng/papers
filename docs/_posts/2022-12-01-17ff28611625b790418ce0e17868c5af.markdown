@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Skill requirements in job advertisements: A comparison of skill-categorization methods based on wage regressions"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Z Ao, G Horváth, C Sheng, Y Song, Y Sun - Information Processing & Management, 2023"
----
-In this paper, we compare different methods to extract skill demand from the text of job descriptions. We propose the fraction of wage variation explained by the extracted skills as a novel performance metric for the comparison of methods. Using this, we compare the performance of the word-counting method with three different dictionaries and that of three unsupervised topic-modeling techniques, the LDA, the PLSA and the BERTopic. We apply these methods to a UK job board dataset of …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Skill requirements in job advertisements: A comparison of skill-categorization methods based on wage regressions" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Z Ao, G Horvth, C Sheng, Y Song, Y Sun - Information Processing & Management, 2023" 
+--- 
+In this paper, we compare different methods to extract skill demand from the text of job descriptions. We propose the fraction of wage variation explained by the extracted skills as a novel performance metric for the comparison of methods. Using this, we compare the performance of the word-counting method with three different dictionaries and that of three unsupervised topic-modeling techniques, the LDA, the PLSA and the BERTopic. We apply these methods to a UK job board dataset of  Cites: Bert: Pre-training of deep bidirectional transformers for language

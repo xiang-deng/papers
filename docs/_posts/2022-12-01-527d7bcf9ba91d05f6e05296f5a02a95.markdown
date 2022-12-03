@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Expanding Small-Scale Datasets with Guided Imagination"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Y Zhang, D Zhou, B Hooi, K Wang, J Feng - arXiv preprint arXiv:2211.13976, 2022"
----
-The power of Deep Neural Networks (DNNs) depends heavily on the training data quantity, quality and diversity. However, in many real scenarios, it is costly and time-consuming to collect and annotate large-scale data. This has severely hindered the application of DNNs. To address this challenge, we explore a new task of dataset expansion, which seeks to automatically create new labeled samples to expand a small dataset. To this end, we present a Guided Imagination Framework (GIF) that …
-Cites: ‪Robust fine-tuning of zero-shot models‬
+--- 
+layout: post 
+title: "Expanding Small-Scale Datasets with Guided Imagination" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Y Zhang, D Zhou, B Hooi, K Wang, J Feng - arXiv preprint arXiv:2211.13976, 2022" 
+--- 
+The power of Deep Neural Networks (DNNs) depends heavily on the training data quantity, quality and diversity. However, in many real scenarios, it is costly and time-consuming to collect and annotate large-scale data. This has severely hindered the application of DNNs. To address this challenge, we explore a new task of dataset expansion, which seeks to automatically create new labeled samples to expand a small dataset. To this end, we present a Guided Imagination Framework (GIF) that  Cites: Robust fine-tuning of zero-shot models

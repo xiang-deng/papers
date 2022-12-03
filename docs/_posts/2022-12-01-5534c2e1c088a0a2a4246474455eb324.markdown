@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Data Augmentation for Inline Tag-Aware Neural Machine Translation"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Y Ryu, Y Choi, S Kim"
----
-Despite the wide use of inline formatting, not much has been studied on translating sentences with inline formatted tags. The detag-andproject approach using word alignments is one solution to translating a tagged sentence. However, the method has a limitation: tag reinsertion is not considered in the translation process. Another solution is to use an end-to-end model which takes text with inline tags as inputs and translates them into a tagged sentence. This approach can alleviate the problems of …
-Cites: ‪A high-quality multilingual dataset for structured documentation …‬

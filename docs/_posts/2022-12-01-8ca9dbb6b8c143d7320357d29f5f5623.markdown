@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Beyond Invariance: Test-Time Label-Shift Adaptation for Distributions with  Spurious  Correlations"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Q Sun, K Murphy, S Ebrahimi, A D Amour - arXiv preprint arXiv:2211.15646, 2022"
----
-Spurious correlations, or correlations that change across domains where a model can be deployed, present significant challenges to real-world applications of machine learning models. However, such correlations are not always  spurious ; often, they provide valuable prior information for a prediction beyond what can be extracted from the input alone. Here, we present a test-time adaptation method that exploits the spurious correlation phenomenon, in contrast to recent approaches that …
-Cites: ‪Generative multitask learning mitigates target-causing confounding‬
+--- 
+layout: post 
+title: "Beyond Invariance: Test-Time Label-Shift Adaptation for Distributions with Spurious Correlations" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Q Sun, K Murphy, S Ebrahimi, A D Amour - arXiv preprint arXiv:2211.15646, 2022" 
+--- 
+Spurious correlations, or correlations that change across domains where a model can be deployed, present significant challenges to real-world applications of machine learning models. However, such correlations are not always spurious ; often, they provide valuable prior information for a prediction beyond what can be extracted from the input alone. Here, we present a test-time adaptation method that exploits the spurious correlation phenomenon, in contrast to recent approaches that  Cites: Generative multitask learning mitigates target-causing confounding

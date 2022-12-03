@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Double Deep Q-Learning in Opponent Modeling"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "Y Tao, J Doe - arXiv preprint arXiv:2211.15384, 2022"
----
-Multi-agent systems in which secondary agents with conflicting agendas also alter their methods need opponent modeling. In this study, we simulate the main agent s and secondary agents  tactics using Double Deep Q-Networks (DDQN) with a prioritized experience replay mechanism. Then, under the opponent modeling setup, a Mixture-of-Experts architecture is used to identify various opponent strategy patterns. Finally, we analyze our models in two environments with several agents …
-Cites: ‪Opponent modeling in deep reinforcement learning‬
+--- 
+layout: post 
+title: "Double Deep Q-Learning in Opponent Modeling" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "Y Tao, J Doe - arXiv preprint arXiv:2211.15384, 2022" 
+--- 
+Multi-agent systems in which secondary agents with conflicting agendas also alter their methods need opponent modeling. In this study, we simulate the main agent s and secondary agents tactics using Double Deep Q-Networks (DDQN) with a prioritized experience replay mechanism. Then, under the opponent modeling setup, a Mixture-of-Experts architecture is used to identify various opponent strategy patterns. Finally, we analyze our models in two environments with several agents  Cites: Opponent modeling in deep reinforcement learning

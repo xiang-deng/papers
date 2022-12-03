@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Security Vulnerabilities of Text-to-SQL Models"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "X Peng, Y Zhang, J Yang, M Stevenson - arXiv preprint arXiv:2211.15363, 2022"
----
-Recent studies show that, despite being effective on numerous tasks, text processing algorithms may be vulnerable to deliberate attacks. However, the question of whether such weaknesses can directly lead to security threats is still under-explored. To bridge this gap, we conducted vulnerability tests on Text-to-SQL, a technique that builds natural language interfaces for databases. Empirically, we showed that the Text-to-SQL modules of two commercial black boxes (Baidu-UNIT and Codex …
-Cites: ‪A syntactic neural model for general-purpose code generation‬
+--- 
+layout: post 
+title: "On the Security Vulnerabilities of Text-to-SQL Models" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "X Peng, Y Zhang, J Yang, M Stevenson - arXiv preprint arXiv:2211.15363, 2022" 
+--- 
+Recent studies show that, despite being effective on numerous tasks, text processing algorithms may be vulnerable to deliberate attacks. However, the question of whether such weaknesses can directly lead to security threats is still under-explored. To bridge this gap, we conducted vulnerability tests on Text-to-SQL, a technique that builds natural language interfaces for databases. Empirically, we showed that the Text-to-SQL modules of two commercial black boxes (Baidu-UNIT and Codex  Cites: A syntactic neural model for general-purpose code generation

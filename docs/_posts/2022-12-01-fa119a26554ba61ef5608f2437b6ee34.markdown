@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Theoretical Study of Inductive Biases in Contrastive Learning"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "JZ HaoChen, T Ma - arXiv preprint arXiv:2211.14699, 2022"
----
-Understanding self-supervised learning is important but challenging. Previous theoretical works study the role of pretraining losses, and view neural networks as general black boxes. However, the recent work of Saunshi et al. argues that the model architecture--a component largely ignored by previous works--also has significant influences on the downstream performance of self-supervised learning. In this work, we provide the first theoretical analysis of self-supervised learning that …
-Cites: ‪Improving Self-Supervised Learning by Characterizing Idealized …‬
+--- 
+layout: post 
+title: "A Theoretical Study of Inductive Biases in Contrastive Learning" 
+date: 2022-12-01 07:00:03 -0400 
+categories: jekyll update 
+author: "JZ HaoChen, T Ma - arXiv preprint arXiv:2211.14699, 2022" 
+--- 
+Understanding self-supervised learning is important but challenging. Previous theoretical works study the role of pretraining losses, and view neural networks as general black boxes. However, the recent work of Saunshi et al. argues that the model architecture--a component largely ignored by previous works--also has significant influences on the downstream performance of self-supervised learning. In this work, we provide the first theoretical analysis of self-supervised learning that  Cites: Improving Self-Supervised Learning by Characterizing Idealized

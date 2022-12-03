@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Improving conversational search with query reformulation using selective contextual history"
-date:   2022-12-01 07:00:03 -0400
-categories: jekyll update
-author: "H Al-Thani, T Elsayed, BJ Jansen - Data and Information Management, 2022"
----
-Automated responses to questions for conversational agents, known as conversation passage retrieval, is challenging due to omissions and implied context in user queries. To help address this challenge, queries can be re-written using pre-trained sequence-to-sequence models based on contextual clues from the conversation s history to resolve ambiguities. In this research, we use the TREC conversational assistant (CAsT) 2020 dataset, selecting relevant single sentences from conversation …
-Cites: ‪Open-Retrieval Conversational Question Answering‬
