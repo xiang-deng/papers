@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Efficient Split Fine-tuning Framework for Edge and Cloud Collaborative Learning"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "S Shi, Q Yang, Y Xiang, S Qi, X Wang - arXiv preprint arXiv:2211.16703, 2022"
+---
+To enable the pre-trained models to be fine-tuned with local data on edge devices without sharing data with the cloud, we design an efficient split fine-tuning (SFT) framework for edge and cloud collaborative learning. We propose three novel techniques in this framework. First, we propose a matrix decomposition-based method to compress the intermediate output of a neural network to reduce the communication volume between the edge device and the cloud server. Second, we …
+Cites: ‪Palm: Scaling language modeling with pathways‬

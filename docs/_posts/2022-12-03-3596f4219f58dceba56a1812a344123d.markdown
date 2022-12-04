@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Continuous Neural Algorithmic Planners"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "Y He, P Veličković, P Liò, A Deac - arXiv preprint arXiv:2211.15839, 2022"
+---
+Neural algorithmic reasoning studies the problem of learning algorithms with neural networks, especially with graph architectures. A recent proposal, XLVIN, reaps the benefits of using a graph neural network that simulates the value iteration algorithm in deep reinforcement learning agents. It allows model-free planning without access to privileged information about the environment, which is usually unavailable. However, XLVIN only supports discrete action spaces, and is hence nontrivially …
+Cites: ‪Graph neural networks: A review of methods and applications‬

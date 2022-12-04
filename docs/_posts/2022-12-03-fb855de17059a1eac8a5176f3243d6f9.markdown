@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ExploitGen: Template-augmented exploit code generation based on CodeBERT"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "G Yang, Y Zhou, X Chen, X Zhang, T Han, T Chen - Journal of Systems and Software, 2022"
+---
+Exploit code is widely used for detecting vulnerabilities and implementing defensive measures. However, automatic generation of exploit code for security assessment is a challenging task. In this paper, we propose a novel template-augmented exploit code generation approach ExploitGen based on CodeBERT. Specifically, we first propose a rule-based Template Parser to generate template-augmented natural language descriptions (NL). Both the raw and template-augmented NL sequences …
+Cites: ‪Tranx: A transition-based neural abstract syntax parser for …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "From GNNs to Sparse Transformers: Graph-Based Architectures for Multi-hop Question Answering"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "S Acton, J Buys - Southern African Conference for Artificial Intelligence …, 2022"
+---
+Abstract Sparse Transformers have surpassed Graph Neural Networks (GNNs) as the state-of-the-art architecture for multi-hop question answering (MHQA). Noting that the Transformer is a particular message passing GNN, in this paper we perform an architectural analysis and evaluation to investigate why the Transformer outperforms other GNNs on MHQA. We simplify existing GNN-based MHQA models and leverage this system to compare GNN architectures in a lower compute setting than token …
+Cites: ‪Constructing datasets for multi-hop reading comprehension across …‬

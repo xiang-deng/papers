@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CLAS: Coordinating Multi-Robot Manipulation with Central Latent Action Spaces"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "E Aljalbout, M Karl, P van der Smagt - arXiv preprint arXiv:2211.15824, 2022"
+---
+Multi-robot manipulation tasks involve various control entities that can be separated into dynamically independent parts. A typical example of such real-world tasks is dual-arm manipulation. Learning to naively solve such tasks with reinforcement learning is often unfeasible due to the sample complexity and exploration requirements growing with the dimensionality of the action and state spaces. Instead, we would like to handle such environments as multi-agent systems and have several …
+Cites: ‪LILA: Language-Informed Latent Actions‬

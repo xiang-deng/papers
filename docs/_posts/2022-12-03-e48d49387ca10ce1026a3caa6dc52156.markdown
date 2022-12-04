@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Pipeline for Generating, Annotating and Employing Synthetic Data for Real World Question Answering"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "M Maufe, J Ravenscroft, R Procter, M Liakata - arXiv preprint arXiv:2211.16971, 2022"
+---
+Question Answering (QA) is a growing area of research, often used to facilitate the extraction of information from within documents. State-of-the-art QA models are usually pre-trained on domain-general corpora like Wikipedia and thus tend to struggle on out-of-domain documents without fine-tuning. We demonstrate that synthetic domain-specific datasets can be generated easily using domain-general models, while still providing significant improvements to QA performance. We …
+Cites: ‪Improving question answering model robustness with synthetic …‬

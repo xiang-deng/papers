@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Topic models"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "T Gessler - Elgar Encyclopedia of Technology and Politics"
+---
+Topic models are a statistical model for discovering so-called  topics  as they occur in large collections of texts. They are an unsupervised technique to cluster documents based on the co-occurrence of words. That is, the input for a topic model consists of a matrix that lists the frequency of features (typically: words) in each document–a so-called  document-feature matrix . The model then creates a set of  topics –characterized by words that are highly likely to occur in or particularly distinct for that …
+Cites: ‪Reading tea leaves: How humans interpret topic models‬

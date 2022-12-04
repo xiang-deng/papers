@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Authenticity Gap in Human Evaluation"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "K Ethayarajh, D Jurafsky"
+---
+Human ratings are the gold standard in NLG evaluation. The standard protocol is to collect ratings of generated text, average across annotators, and rank NLG systems by their average scores. However, little consideration has been given as to whether this approach faithfully captures human preferences. Analyzing this standard protocol through the lens of utility theory in economics, we identify the implicit assumptions it makes about annotators. These assumptions are often violated in …
+Cites: ‪Are we modeling the task or the annotator? an investigation of …‬

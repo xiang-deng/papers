@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How much do we know about the User-Item Matrix?: Deep Feature Extraction for Recommendation"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "T Lim - 2022"
+---
+Collaborative filtering-based recommender systems typically operate on a high-dimensional sparse user-item matrix. Matrix completion is one of the most common formulations where rows and columns represent users and items, and predicting user s ratings in items corresponds to filling in the missing entries of the matrix. In practice, it is a very challenging task to predict one s interest based on millions of other users having each seen a small subset of thousands of items. We considered …
+Cites: ‪Recommender systems with social regularization‬

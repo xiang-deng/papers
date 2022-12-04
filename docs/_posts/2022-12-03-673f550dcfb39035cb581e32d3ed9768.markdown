@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Escaping Feature Twist: A Variational Graph Auto-Encoder for Node Clustering"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "N Mrabah, M Bouguessa, R Ksantini"
+---
+Most recent graph clustering methods rely on pretraining graph auto-encoders using self-supervision techniques (pretext task) and fine-tuning based on pseudo-supervision (main task). However, the transition from self-supervision to pseudo-supervision has never been studied from a geometric perspective. Herein, we establish the first systematic exploration of the latent manifolds  geometry under the deep clustering paradigm; we study the evolution of their intrinsic dimension and …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Which Shortcut Solution Do Question Answering Models Prefer to Learn?"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "K Shinoda, S Sugawara, A Aizawa - arXiv preprint arXiv:2211.16220, 2022"
+---
+Question answering (QA) models for reading comprehension tend to learn shortcut solutions rather than the solutions intended by QA datasets. QA models that have learned shortcut solutions can achieve human-level performance in shortcut examples where shortcuts are valid, but these same behaviors degrade generalization potential on anti-shortcut examples where shortcuts are invalid. Various methods have been proposed to mitigate this problem, but they do not fully …
+Cites: ‪Beat the AI: Investigating adversarial human annotation for reading …‬

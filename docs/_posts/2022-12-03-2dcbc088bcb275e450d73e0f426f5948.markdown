@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Closing the gap between SVRG and TD-SVRG with Gradient Splitting"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "A Mustafin, A Olshevsky, IC Paschalidis - arXiv preprint arXiv:2211.16237, 2022"
+---
+Temporal difference (TD) learning is a simple algorithm for policy evaluation in reinforcement learning. The performance of TD learning is affected by high variance and it can be naturally enhanced with variance reduction techniques, such as the Stochastic Variance Reduced Gradient (SVRG) method. Recently, multiple works have sought to fuse TD learning with SVRG to obtain a policy evaluation method with a geometric rate of convergence. However, the resulting convergence rate is …
+Cites: ‪Stochastic variance reduction methods for policy evaluation‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural entity alignment with cross-modal supervision"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "F Su, C Xu, H Yang, Z Chen, N Jing - Information Processing & Management, 2023"
+---
+The majority of currently available entity alignment (EA) solutions primarily rely on structural information to align entities, which is biased and disregards additional multi-source information. To compensate for inadequate structural details, this article suggests the SKEA framework, which is a simple but flexible framework for Entity Alignment with cross-modal supervision of Supporting Knowledge. We employ a relational aggregate network to specifically utilize the details about the entity and its …
+Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬

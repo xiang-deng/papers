@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Morphological Inflection Using Encoder-Decoder Based System Augmented with Pointer Generator Network"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "SN Pushpita, S Ghosh"
+---
+This paper describes the systems for Task 1 of CoNLL–SIGMORPHON 2018 Shared Task on Universal Morphological Reinflection Cotterell et al.(2019). The task is to generate the inflected form of a word given a lemma and a set of morphological features to inflect it with. Here we have utilised three different attention based mechanisms to address the problem and have compared the performances. The systems are evaluated on over 100 distinct languages and three different resource …
+Cites: ‪Supervised Learning of Complete Morphological Paradigms.‬

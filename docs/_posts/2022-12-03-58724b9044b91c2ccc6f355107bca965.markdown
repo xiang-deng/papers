@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Low resource retrieval augmented adaptive neural machine translation"
+date:   2022-12-03 01:42:11 -0400
+categories: jekyll update
+author: "H Vardhan, A Beniwal, N Sadagopan, S Shah - 2022"
+---
+Abstract We propose KNN-Kmeans MT, a sample efficient algorithm that improves retrieval based augmentation performance in low resource settings by adding an additional K-means filtering layer after the KNN step. KNN-Kmeans MT like its predecessor retrieval augmented machine translation approaches (Khandelwal et al.[2020]) doesn t require any additional training and outperforms the existing methods in low resource settings. The additional K-means step makes the model …
+Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬
