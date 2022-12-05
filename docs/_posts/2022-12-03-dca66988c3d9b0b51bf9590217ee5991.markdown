@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semantics-Guided Knowledge Integration for Domain Adaptation Few-shot Relation Extraction"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "Z Wang, Y Du, G Zhang, R Li, Y Xiong, C Zhang"
----
-Few-shot relation extraction achieves great progress by incorporating meta-learning with knowledge. Most of the recent works focus on integrating different types of knowledge, which ignored that there would be a huge knowledge gap in the application, especially facing domain adaptation. In this paper, we explore the effective way to integrate different forms of knowledge for domain adaptation few-shot relation extraction, and we face up to the problem of knowledge gap between …
-Cites: ‪PTR: Prompt tuning with rules for text classification‬
+--- 
+layout: post 
+title: "Semantics-Guided Knowledge Integration for Domain Adaptation Few-shot Relation Extraction" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "Z Wang, Y Du, G Zhang, R Li, Y Xiong, C Zhang" 
+--- 
+Few-shot relation extraction achieves great progress by incorporating meta-learning with knowledge. Most of the recent works focus on integrating different types of knowledge, which ignored that there would be a huge knowledge gap in the application, especially facing domain adaptation. In this paper, we explore the effective way to integrate different forms of knowledge for domain adaptation few-shot relation extraction, and we face up to the problem of knowledge gap between  Cites: PTR: Prompt tuning with rules for text classification

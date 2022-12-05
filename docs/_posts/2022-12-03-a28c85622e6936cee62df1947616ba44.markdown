@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Coder Reviewer Reranking for Code Generation"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "T Zhang, T Yu, TB Hashimoto, M Lewis, W Yih, D Fried… - arXiv preprint arXiv …, 2022"
----
-Sampling diverse programs from a code language model and reranking with model likelihood is a popular method for code generation but it is prone to preferring degenerate solutions. Inspired by collaborative programming, we propose Coder-Reviewer reranking. We augment Coder language models from past work, which generate programs given language instructions, with Reviewer models, which evaluate the likelihood of the instruction given the generated programs. We perform …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Coder Reviewer Reranking for Code Generation" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "T Zhang, T Yu, TB Hashimoto, M Lewis, W Yih, D Fried - arXiv preprint arXiv , 2022" 
+--- 
+Sampling diverse programs from a code language model and reranking with model likelihood is a popular method for code generation but it is prone to preferring degenerate solutions. Inspired by collaborative programming, we propose Coder-Reviewer reranking. We augment Coder language models from past work, which generate programs given language instructions, with Reviewer models, which evaluate the likelihood of the instruction given the generated programs. We perform  Cites: Palm: Scaling language modeling with pathways

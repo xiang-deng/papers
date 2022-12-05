@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MegaBlocks: Efficient Sparse Training with Mixture-of-Experts"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "T Gale, D Narayanan, C Young, M Zaharia - arXiv preprint arXiv:2211.15841, 2022"
----
-We present MegaBlocks, a system for efficient Mixture-of-Experts (MoE) training on GPUs. Our system is motivated by the limitations of current frameworks, which restrict the dynamic routing in MoE layers to satisfy the constraints of existing software and hardware. These formulations force a tradeoff between model quality and hardware efficiency, as users must choose between dropping tokens from the computation or wasting computation and memory on padding. To address these limitations, we …
-Cites: ‪Efficient large scale language modeling with mixtures of experts‬
+--- 
+layout: post 
+title: "MegaBlocks: Efficient Sparse Training with Mixture-of-Experts" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "T Gale, D Narayanan, C Young, M Zaharia - arXiv preprint arXiv:2211.15841, 2022" 
+--- 
+We present MegaBlocks, a system for efficient Mixture-of-Experts (MoE) training on GPUs. Our system is motivated by the limitations of current frameworks, which restrict the dynamic routing in MoE layers to satisfy the constraints of existing software and hardware. These formulations force a tradeoff between model quality and hardware efficiency, as users must choose between dropping tokens from the computation or wasting computation and memory on padding. To address these limitations, we  Cites: Efficient large scale language modeling with mixtures of experts

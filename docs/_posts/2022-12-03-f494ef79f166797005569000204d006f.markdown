@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "K Jas, GR Dodagoudar - Soil Dynamics and Earthquake Engineering, 2023"
----
-Most of the existing machine learning (ML)-based models for liquefaction assessment of soils are black-box in nature. Database considered in the existing studies for model development is imbalanced. In this study, an attempt is made to include the coefficient of permeability and thickness of the critical layer from the available information to the existing database. The eXtreme Gradient Boosting (XGBoost) ML algorithm is used for the model development in a probabilistic …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Explainable machine learning model for liquefaction potential assessment of soils using XGBoost-SHAP" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "K Jas, GR Dodagoudar - Soil Dynamics and Earthquake Engineering, 2023" 
+--- 
+Most of the existing machine learning (ML)-based models for liquefaction assessment of soils are black-box in nature. Database considered in the existing studies for model development is imbalanced. In this study, an attempt is made to include the coefficient of permeability and thickness of the critical layer from the available information to the existing database. The eXtreme Gradient Boosting (XGBoost) ML algorithm is used for the model development in a probabilistic  Cites: Why Should I Trust You? : Explaining the Predictions of Any

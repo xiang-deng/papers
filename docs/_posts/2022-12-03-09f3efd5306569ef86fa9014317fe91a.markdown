@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CREPE: Open-Domain Question Answering with False Presuppositions"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "XV Yu, S Min, L Zettlemoyer, H Hajishirzi - arXiv preprint arXiv:2211.17257, 2022"
----
-Information seeking users often pose questions with false presuppositions, especially when asking about unfamiliar topics. Most existing question answering (QA) datasets, in contrast, assume all questions have well defined answers. We introduce CREPE, a QA dataset containing a natural distribution of presupposition failures from online information-seeking forums. We find that 25% of questions contain false presuppositions, and provide annotations for these presuppositions …
-Cites: ‪Autoregressive entity retrieval‬
+--- 
+layout: post 
+title: "CREPE: Open-Domain Question Answering with False Presuppositions" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "XV Yu, S Min, L Zettlemoyer, H Hajishirzi - arXiv preprint arXiv:2211.17257, 2022" 
+--- 
+Information seeking users often pose questions with false presuppositions, especially when asking about unfamiliar topics. Most existing question answering (QA) datasets, in contrast, assume all questions have well defined answers. We introduce CREPE, a QA dataset containing a natural distribution of presupposition failures from online information-seeking forums. We find that 25% of questions contain false presuppositions, and provide annotations for these presuppositions  Cites: Autoregressive entity retrieval

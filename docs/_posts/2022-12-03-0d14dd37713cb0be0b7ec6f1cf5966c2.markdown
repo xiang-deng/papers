@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Eliminating The Impossible, Whatever Remains Must Be True"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "J Yu, A Ignatiev, PJ Stuckey, N Narodytska… - arXiv preprint arXiv …, 2022"
----
-The rise of AI methods to make predictions and decisions has led to a pressing need for more explainable artificial intelligence (XAI) methods. One common approach for XAI is to produce a post-hoc explanation, explaining why a black box ML model made a certain prediction. Formal approaches to post-hoc explanations provide succinct reasons for why a prediction was made, as well as why not another prediction was made. But these approaches assume that features are independent …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Eliminating The Impossible, Whatever Remains Must Be True" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "J Yu, A Ignatiev, PJ Stuckey, N Narodytska - arXiv preprint arXiv , 2022" 
+--- 
+The rise of AI methods to make predictions and decisions has led to a pressing need for more explainable artificial intelligence (XAI) methods. One common approach for XAI is to produce a post-hoc explanation, explaining why a black box ML model made a certain prediction. Formal approaches to post-hoc explanations provide succinct reasons for why a prediction was made, as well as why not another prediction was made. But these approaches assume that features are independent  Cites: Anchors: High-Precision Model-Agnostic Explanations

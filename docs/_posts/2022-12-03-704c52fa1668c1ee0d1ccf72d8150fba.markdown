@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding the Impact of Adversarial Robustness on Accuracy Disparity"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "Y Hu, F Wu, H Zhang, H Zhao - arXiv preprint arXiv:2211.15762, 2022"
----
-While it has long been empirically observed that adversarial robustness may be at odds with standard accuracy and may have further disparate impacts on different classes, it remains an open question to what extent such observations hold and how the class imbalance plays a role within. In this paper, we attempt to understand this question of accuracy disparity by taking a closer look at linear classifiers under a Gaussian mixture model. We decompose the impact of adversarial robustness into …
-Cites: ‪Understanding and mitigating the tradeoff between robustness and …‬
+--- 
+layout: post 
+title: "Understanding the Impact of Adversarial Robustness on Accuracy Disparity" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "Y Hu, F Wu, H Zhang, H Zhao - arXiv preprint arXiv:2211.15762, 2022" 
+--- 
+While it has long been empirically observed that adversarial robustness may be at odds with standard accuracy and may have further disparate impacts on different classes, it remains an open question to what extent such observations hold and how the class imbalance plays a role within. In this paper, we attempt to understand this question of accuracy disparity by taking a closer look at linear classifiers under a Gaussian mixture model. We decompose the impact of adversarial robustness into  Cites: Understanding and mitigating the tradeoff between robustness and

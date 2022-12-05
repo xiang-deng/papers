@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dependency-aware Self-training for Entity Alignment"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "B Liu, T Lan, W Hua, G Zuccon - arXiv preprint arXiv:2211.16101, 2022"
----
-Entity Alignment (EA), which aims to detect entity mappings (ie equivalent entity pairs) in different Knowledge Graphs (KGs), is critical for KG fusion. Neural EA methods dominate current EA research but still suffer from their reliance on labelled mappings. To solve this problem, a few works have explored boosting the training of EA models with self-training, which adds confidently predicted mappings into the training data iteratively. Though the effectiveness of self-training can be glimpsed in …
-Cites: ‪Exploring and Evaluating Attributes, Values, and Structures for …‬
+--- 
+layout: post 
+title: "Dependency-aware Self-training for Entity Alignment" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "B Liu, T Lan, W Hua, G Zuccon - arXiv preprint arXiv:2211.16101, 2022" 
+--- 
+Entity Alignment (EA), which aims to detect entity mappings (ie equivalent entity pairs) in different Knowledge Graphs (KGs), is critical for KG fusion. Neural EA methods dominate current EA research but still suffer from their reliance on labelled mappings. To solve this problem, a few works have explored boosting the training of EA models with self-training, which adds confidently predicted mappings into the training data iteratively. Though the effectiveness of self-training can be glimpsed in  Cites: Exploring and Evaluating Attributes, Values, and Structures for

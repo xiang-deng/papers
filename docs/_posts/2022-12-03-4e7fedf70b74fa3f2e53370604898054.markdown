@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Predicting Properties of Quantum Systems with Conditional Generative Models"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "H Wang, M Weber, J Izaac, CYY Lin - arXiv preprint arXiv:2211.16943, 2022"
----
-Machine learning has emerged recently as a powerful tool for predicting properties of quantum many-body systems. For many ground states of gapped Hamiltonians, generative models can learn from measurements of a single quantum state to reconstruct the state accurately enough to predict local observables. Alternatively, kernel methods can predict local observables by learning from measurements on different but related states. In this work, we combine the benefits of both approaches …
-Cites: ‪Random feature attention‬
+--- 
+layout: post 
+title: "Predicting Properties of Quantum Systems with Conditional Generative Models" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "H Wang, M Weber, J Izaac, CYY Lin - arXiv preprint arXiv:2211.16943, 2022" 
+--- 
+Machine learning has emerged recently as a powerful tool for predicting properties of quantum many-body systems. For many ground states of gapped Hamiltonians, generative models can learn from measurements of a single quantum state to reconstruct the state accurately enough to predict local observables. Alternatively, kernel methods can predict local observables by learning from measurements on different but related states. In this work, we combine the benefits of both approaches  Cites: Random feature attention

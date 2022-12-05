@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Generalized Open Information Extraction"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "B Yu, Z Zhang, J Li, H Yu, T Liu, J Sun, Y Li, B Wang - arXiv preprint arXiv:2211.15987, 2022"
----
-Open Information Extraction (OpenIE) facilitates the open-domain discovery of textual facts. However, the prevailing solutions evaluate OpenIE models on in-domain test sets aside from the training corpus, which certainly violates the initial task principle of domain-independence. In this paper, we propose to advance OpenIE towards a more realistic scenario: generalizing over unseen target domains with different data distributions from the source training domains, termed Generalized OpenIE. For this …
-Cites: ‪Open information extraction from the web‬
+--- 
+layout: post 
+title: "Towards Generalized Open Information Extraction" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "B Yu, Z Zhang, J Li, H Yu, T Liu, J Sun, Y Li, B Wang - arXiv preprint arXiv:2211.15987, 2022" 
+--- 
+Open Information Extraction (OpenIE) facilitates the open-domain discovery of textual facts. However, the prevailing solutions evaluate OpenIE models on in-domain test sets aside from the training corpus, which certainly violates the initial task principle of domain-independence. In this paper, we propose to advance OpenIE towards a more realistic scenario: generalizing over unseen target domains with different data distributions from the source training domains, termed Generalized OpenIE. For this  Cites: Open information extraction from the web

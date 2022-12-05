@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards More Robust Interpretation via Local Gradient Alignment"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "S Joo, S Jeong, J Heo, A Weller, T Moon - arXiv preprint arXiv:2211.15900, 2022"
----
-Neural network interpretation methods, particularly feature attribution methods, are known to be fragile with respect to adversarial input perturbations. To address this, several methods for enhancing the local smoothness of the gradient while training have been proposed for attaining\textit {robust} feature attributions. However, the lack of considering the normalization of the attributions, which is essential in their visualizations, has been an obstacle to understanding and improving the robustness …
-Cites: ‪Catastrophic fisher explosion: Early phase fisher matrix impacts …‬
+--- 
+layout: post 
+title: "Towards More Robust Interpretation via Local Gradient Alignment" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "S Joo, S Jeong, J Heo, A Weller, T Moon - arXiv preprint arXiv:2211.15900, 2022" 
+--- 
+Neural network interpretation methods, particularly feature attribution methods, are known to be fragile with respect to adversarial input perturbations. To address this, several methods for enhancing the local smoothness of the gradient while training have been proposed for attaining\textit {robust} feature attributions. However, the lack of considering the normalization of the attributions, which is essential in their visualizations, has been an obstacle to understanding and improving the robustness  Cites: Catastrophic fisher explosion: Early phase fisher matrix impacts

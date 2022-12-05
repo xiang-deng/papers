@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "L Sun, J Ye, H Peng, F Wang, PS Yu - arXiv preprint arXiv:2211.17068, 2022"
----
-Continual graph learning routinely finds its role in a variety of real-world applications where the graph data with different tasks come sequentially. Despite the success of prior works, it still faces great challenges. On the one hand, existing methods work with the zero-curvature Euclidean space, and largely ignore the fact that curvature varies over the coming graph sequence. On the other hand, continual learners in the literature rely on abundant labels, but labeling graph in practice is particularly hard …
-Cites: ‪Fully Hyperbolic Neural Networks‬
+--- 
+layout: post 
+title: "Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "L Sun, J Ye, H Peng, F Wang, PS Yu - arXiv preprint arXiv:2211.17068, 2022" 
+--- 
+Continual graph learning routinely finds its role in a variety of real-world applications where the graph data with different tasks come sequentially. Despite the success of prior works, it still faces great challenges. On the one hand, existing methods work with the zero-curvature Euclidean space, and largely ignore the fact that curvature varies over the coming graph sequence. On the other hand, continual learners in the literature rely on abundant labels, but labeling graph in practice is particularly hard  Cites: Fully Hyperbolic Neural Networks

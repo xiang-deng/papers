@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Contextual word embeddings for tabular data search and integration"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "J Pilaluisa, D Tomás, B Navarro-Colorado, JN Mazón - Neural Computing and …, 2022"
----
-This paper presents a new approach to retrieve and further integrate tabular datasets (collections of rows and columns) using union and join operations. In this work, both processes were carried out using a similarity measure based on contextual word embeddings, which allows finding semantically similar tables and overcome the recall problem of lexical approaches based on string similarity. This work is the first attempt to use contextual word embeddings in the whole pipeline of table search and …
-Cites: ‪TaBERT: Pretraining for Joint Understanding of Textual and …‬
+--- 
+layout: post 
+title: "Contextual word embeddings for tabular data search and integration" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "J Pilaluisa, D Toms, B Navarro-Colorado, JN Mazn - Neural Computing and , 2022" 
+--- 
+This paper presents a new approach to retrieve and further integrate tabular datasets (collections of rows and columns) using union and join operations. In this work, both processes were carried out using a similarity measure based on contextual word embeddings, which allows finding semantically similar tables and overcome the recall problem of lexical approaches based on string similarity. This work is the first attempt to use contextual word embeddings in the whole pipeline of table search and  Cites: TaBERT: Pretraining for Joint Understanding of Textual and

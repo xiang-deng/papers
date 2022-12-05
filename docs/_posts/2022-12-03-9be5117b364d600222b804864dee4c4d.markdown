@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ISD-QA: Iterative Distillation of Commonsense Knowledge from General Language Models for Unsupervised Question Answering"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "P Ramamurthy, SN Aakur - 2022 26th International Conference on Pattern …, 2022"
----
-Commonsense question answering has primarily been tackled through supervised transfer learning, where a language model pre-trained on large amounts of data is used as the starting point. While successful, the approach requires large amounts of labeled question-answer pairs, with increasingly larger amounts of data required as the complexity of scenarios or tasks such as commonsense QA increases. In this paper, we hypothesize that large-scale pre-training of language models encodes the …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "ISD-QA: Iterative Distillation of Commonsense Knowledge from General Language Models for Unsupervised Question Answering" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "P Ramamurthy, SN Aakur - 2022 26th International Conference on Pattern , 2022" 
+--- 
+Commonsense question answering has primarily been tackled through supervised transfer learning, where a language model pre-trained on large amounts of data is used as the starting point. While successful, the approach requires large amounts of labeled question-answer pairs, with increasingly larger amounts of data required as the complexity of scenarios or tasks such as commonsense QA increases. In this paper, we hypothesize that large-scale pre-training of language models encodes the  Cites: CommonsenseQA: A Question Answering Challenge Targeting

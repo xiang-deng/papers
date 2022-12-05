@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-Shot Opinion Summarization with GPT-3"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "A Bhaskar, AR Fabbri, G Durrett - arXiv preprint arXiv:2211.15914, 2022"
----
-Very large language models such as GPT-3 have shown impressive performance across a wide variety of tasks, including text summarization. In this paper, we show that this strong performance extends to opinion summarization. We explore several pipeline methods for applying GPT-3 to summarize a large collection of user reviews in a zero-shot fashion, notably approaches based on recursive summarization and selecting salient content to summarize through supervised clustering or extraction …
-Cites: ‪ASPECTNEWS: Aspect-Oriented Summarization of News Documents‬
+--- 
+layout: post 
+title: "Zero-Shot Opinion Summarization with GPT-3" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "A Bhaskar, AR Fabbri, G Durrett - arXiv preprint arXiv:2211.15914, 2022" 
+--- 
+Very large language models such as GPT-3 have shown impressive performance across a wide variety of tasks, including text summarization. In this paper, we show that this strong performance extends to opinion summarization. We explore several pipeline methods for applying GPT-3 to summarize a large collection of user reviews in a zero-shot fashion, notably approaches based on recursive summarization and selecting salient content to summarize through supervised clustering or extraction  Cites: ASPECTNEWS: Aspect-Oriented Summarization of News Documents

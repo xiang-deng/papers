@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RAFT: Rationale adaptor for few-shot abusive language detection"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "P Saha, D Sheth, K Kedia, B Mathew, A Mukherjee - arXiv preprint arXiv:2211.17046, 2022"
----
-Abusive language is a concerning problem in online social media. Past research on detecting abusive language covers different platforms, languages, demographies, etc. However, models trained using these datasets do not perform well in cross-domain evaluation settings. To overcome this, a common strategy is to use a few samples from the target domain to train models to get better performance in that domain (cross-domain few-shot training). However, this might cause the models to …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "RAFT: Rationale adaptor for few-shot abusive language detection" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "P Saha, D Sheth, K Kedia, B Mathew, A Mukherjee - arXiv preprint arXiv:2211.17046, 2022" 
+--- 
+Abusive language is a concerning problem in online social media. Past research on detecting abusive language covers different platforms, languages, demographies, etc. However, models trained using these datasets do not perform well in cross-domain evaluation settings. To overcome this, a common strategy is to use a few samples from the target domain to train models to get better performance in that domain (cross-domain few-shot training). However, this might cause the models to  Cites: Why Should I Trust You? : Explaining the Predictions of Any

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reusable Self-Attention-based Recommender System for Fashion"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "M Celikik, J Wasilewski, S Mbarek, P Celayes… - arXiv preprint arXiv …, 2022"
----
-A large number of empirical studies on applying self-attention models in the domain of recommender systems are based on offline evaluation and metrics computed on standardized datasets, without insights on how these models perform in real life scenarios. Moreover, many of them do not consider information such as item and customer metadata, although deep-learning recommenders live up to their full potential only when numerous features of heterogeneous types are included. Also …
-Cites: ‪Knowledge transfer via pre-training for recommendation: A review …‬
+--- 
+layout: post 
+title: "Reusable Self-Attention-based Recommender System for Fashion" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "M Celikik, J Wasilewski, S Mbarek, P Celayes - arXiv preprint arXiv , 2022" 
+--- 
+A large number of empirical studies on applying self-attention models in the domain of recommender systems are based on offline evaluation and metrics computed on standardized datasets, without insights on how these models perform in real life scenarios. Moreover, many of them do not consider information such as item and customer metadata, although deep-learning recommenders live up to their full potential only when numerous features of heterogeneous types are included. Also  Cites: Knowledge transfer via pre-training for recommendation: A review

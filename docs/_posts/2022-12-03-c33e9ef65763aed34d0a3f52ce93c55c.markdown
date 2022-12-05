@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text Classification of News Using Deep Learning and Natural Language Processing Models Based on"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "IN de SANTANA, RS de OLIVEIRA…"
----
-This work proposes the use of a fine-tuned Transformer-based Natural Language Processing (NLP) model called BERTimbau to generate the word embeddings from texts published in a Brazilian newspaper, to create a robust NLP model to classify news in Portuguese, a task that is costly for humans to perform for big amounts of data. To assess this approach, besides the generation of the embeddings by the fine-tuned BERTimbau, a comparative analysis was conducted using the Word2Vec …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Text Classification of News Using Deep Learning and Natural Language Processing Models Based on" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "IN de SANTANA, RS de OLIVEIRA" 
+--- 
+This work proposes the use of a fine-tuned Transformer-based Natural Language Processing (NLP) model called BERTimbau to generate the word embeddings from texts published in a Brazilian newspaper, to create a robust NLP model to classify news in Portuguese, a task that is costly for humans to perform for big amounts of data. To assess this approach, besides the generation of the embeddings by the fine-tuned BERTimbau, a comparative analysis was conducted using the Word2Vec  Cites: Bert: Pre-training of deep bidirectional transformers for language

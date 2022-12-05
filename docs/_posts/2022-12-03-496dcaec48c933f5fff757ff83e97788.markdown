@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Flow-Based Variational Sequence Autoencoder"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "JT Chien, TC Luo"
----
-Posterior collapse, also known as the Kullback-Leibler (KL) vanishing, is a long-standing problem in variational recurrent autoencoder (VRAE) which is essentially developed for sequence generation. To alleviate the vanishing problem, a complicated latent variable is required instead of assuming it as standard Gaussian. Normalizing flow was proposed to build the bijective neural network which converts a simple distribution into a complex distribution. The resulting approximate posterior is …
-Cites: ‪Spherical Latent Spaces for Stable Variational Autoencoders‬
+--- 
+layout: post 
+title: "Flow-Based Variational Sequence Autoencoder" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "JT Chien, TC Luo" 
+--- 
+Posterior collapse, also known as the Kullback-Leibler (KL) vanishing, is a long-standing problem in variational recurrent autoencoder (VRAE) which is essentially developed for sequence generation. To alleviate the vanishing problem, a complicated latent variable is required instead of assuming it as standard Gaussian. Normalizing flow was proposed to build the bijective neural network which converts a simple distribution into a complex distribution. The resulting approximate posterior is  Cites: Spherical Latent Spaces for Stable Variational Autoencoders

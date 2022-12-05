@@ -1,9 +1,0 @@
----
-layout: post
-title:  "그래프와 트리 구조를 활용한 한국어 문장제 수학 문제 풀이의 성능개선 연구"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "배광호， 여상엽， 정유철 - 정보과학회논문지, 2022"
----
-선행 연구에서 영어 문장제 수학 문제를 해결하려 한 다양한 시도가 있었다. 많은 연구에서 Sequence-to-Sequence (이하 Seq2seq) 패러다임을 넘어선 트리, 그래프 등의 구조를 도입하여 개선된 성능을 달성할 수 있었다. 하지만 한국어 문장제 수학 문제 풀이 연구에서는 트리 (Tree) 나 그래프 (Graph) 등으로 제안된 구조를 활용한 모델 사례가 없다. 이에 본 논문에서는 한국어 사전학습 언어모델을 사용하여 트리 구조를 활용하는 모델, 트리와 그래프 구조를 함께 활용하는 모델에 대한 한국어 문장제 수학 …
-Cites: ‪DROP: A Reading Comprehension Benchmark Requiring Discrete …‬

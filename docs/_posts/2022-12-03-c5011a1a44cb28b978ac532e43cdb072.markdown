@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Textual Enhanced Contrastive Learning for Solving Math Word Problems"
-date:   2022-12-03 01:42:11 -0400
-categories: jekyll update
-author: "Y Shen, Q Liu, Z Mao, F Cheng, S Kurohashi - arXiv preprint arXiv:2211.16022, 2022"
----
-Solving math word problems is the task that analyses the relation of quantities and requires an accurate understanding of contextual natural language information. Recent studies show that current models rely on shallow heuristics to predict solutions and could be easily misled by small textual perturbations. To address this problem, we propose a Textual Enhanced Contrastive Learning framework, which enforces the models to distinguish semantically similar examples while holding …
-Cites: ‪Annotating derivations: A new evaluation strategy and dataset for …‬
+--- 
+layout: post 
+title: "Textual Enhanced Contrastive Learning for Solving Math Word Problems" 
+date: 2022-12-03 01:42:11 -0400 
+categories: jekyll update 
+author: "Y Shen, Q Liu, Z Mao, F Cheng, S Kurohashi - arXiv preprint arXiv:2211.16022, 2022" 
+--- 
+Solving math word problems is the task that analyses the relation of quantities and requires an accurate understanding of contextual natural language information. Recent studies show that current models rely on shallow heuristics to predict solutions and could be easily misled by small textual perturbations. To address this problem, we propose a Textual Enhanced Contrastive Learning framework, which enforces the models to distinguish semantically similar examples while holding  Cites: Annotating derivations: A new evaluation strategy and dataset for
