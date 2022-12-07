@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Wavelets Beat Monkeys at Adversarial Robustness"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "J Su, J Kempe"
+---
+Research on improving the robustness of neural networks to adversarial noiseimperceptible malicious perturbations of the data-has received significant attention. Neural nets struggle to recognize corrupted images that are easily recognized by humans. The currently uncontested state-of-the-art defence to obtain robust deep neural networks is Adversarial Training (AT), but it consumes significantly more resources compared to standard training and trades off accuracy …
+Cites: ‪Robust encodings: A framework for combating adversarial typos‬

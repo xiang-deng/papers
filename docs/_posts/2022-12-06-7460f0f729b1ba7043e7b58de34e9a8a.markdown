@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On Better Detecting and Leveraging Noisy Samples for Learning with Severe Label Noise"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "Q Miao, X Wu, C Xu, W Zuo, Z Meng - Pattern Recognition, 2022"
+---
+Despite the success of learning with noisy labels, existing approaches show limited performance when the noise level is extremely high, since deep neural networks (DNNs) are easily overfit to the training set with corrupted labels. In this paper, we introduce Lipschitz regularization to prevent the DNNs from over-fitting to noisy labels quickly. Meanwhile, to better detect and leverage the noisy samples, we propose a Lipschitz regularization based framework with a combination of adaptive …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

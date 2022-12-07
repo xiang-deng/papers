@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Data-Efficient Finetuning Using Cross-Task Nearest Neighbors"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "H Ivison, NA Smith, H Hajishirzi, P Dasigi - arXiv preprint arXiv:2212.00196, 2022"
+---
+Language models trained on massive prompted multitask datasets like T0 (Sanh et al., 2021) or FLAN (Wei et al., 2021a) can generalize to tasks unseen during training. We show that training on a carefully chosen subset of instances can outperform training on all available data on a variety of datasets. We assume access to a small number (250--1000) of unlabeled target task instances, select their nearest neighbors from a pool of multitask data, and use the retrieved data to train target task …
+Cites: ‪Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper …‬

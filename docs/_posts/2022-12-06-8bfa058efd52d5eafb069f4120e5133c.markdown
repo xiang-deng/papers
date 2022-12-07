@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Light-weight, Effective and Efficient Model for Label Aggregation in Crowdsourcing"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "Y Yang, ZQ Zhao, Q Bai, Q Liu, W Li - arXiv preprint arXiv:2212.00007, 2022"
+---
+Due to the noises in crowdsourced labels, label aggregation (LA) has emerged as a standard procedure to post-process crowdsourced labels. LA methods estimate true labels from crowdsourced labels by modeling worker qualities. Most existing LA methods are iterative in nature. They need to traverse all the crowdsourced labels multiple times in order to jointly and iteratively update true labels and worker qualities until convergence. Consequently, these methods have high space and time …
+Cites: ‪Spectral methods meet EM: A provably optimal algorithm for …‬

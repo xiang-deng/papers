@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Noise-tolerant Differentiable Learning Approach for Single Occurrence Regular Expression with Interleaving"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "R Ye, T Zhuang, H Wan, J Du, W Luo, P Liang - arXiv preprint arXiv:2212.00373, 2022"
+---
+We examine the problem of learning a single occurrence regular expression with interleaving (SOIRE) from a set of text strings with noise. SOIRE has unrestricted support for interleaving and covers most of the regular expressions in practice. Learning SOIREs is challenging because it needs heavy computation and text strings usually contains noise in practice. Most of the previous work only learns restricted SOIREs and is not robust on noisy data. To tackle these issues, we …
+Cites: ‪Learning reasoning strategies in end-to-end differentiable proving‬

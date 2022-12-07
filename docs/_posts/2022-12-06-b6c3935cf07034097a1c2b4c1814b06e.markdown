@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Extensible Prompts for Language Models"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "T Ge, J Hu, L Dong, S Mao, Y Xia, X Wang, SQ Chen… - arXiv preprint arXiv …, 2022"
+---
+We propose eXtensible Prompt (X-Prompt) for prompting a large language model (LLM) beyond natural language (NL). X-Prompt instructs an LLM with not only NL but also an extensible vocabulary of imaginary words that are introduced to help represent what NL words hardly describe, allowing a prompt to be more descriptive. Like NL prompts, X-Prompt is out-of-distribution (OOD) robust, for which we propose context-guided learning with prompt augmentation to learn its imaginary words for …
+Cites: ‪Are Sample-Efficient NLP Models More Robust?‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Empirical Study on the Bugs Found while Reusing Pre-trained Natural Language Processing Models"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "R Pan, S Biswas, M Chakraborty, BD Cruz, H Rajan - arXiv preprint arXiv:2212.00105, 2022"
+---
+In NLP, reusing pre-trained models instead of training from scratch has gained popularity; however, NLP models are mostly black boxes, very large, and often require significant resources. To ease, models trained with large corpora are made available, and developers reuse them for different problems. In contrast, developers mostly build their models from scratch for traditional DL-related problems. By doing so, they have control over the choice of algorithms, data processing, model structure …
+Cites: ‪Red alarm for pre-trained models: Universal vulnerabilities by …‬

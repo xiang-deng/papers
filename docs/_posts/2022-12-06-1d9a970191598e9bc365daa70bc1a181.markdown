@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Simplifying and Understanding State Space Models with Diagonal Linear RNNs"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "A Gupta, H Mehta, J Berant - arXiv preprint arXiv:2212.00768, 2022"
+---
+Sequence models based on linear state spaces (SSMs) have recently emerged as a promising choice of architecture for modeling long range dependencies across various modalities. However, they invariably rely on discretization of a continuous state space, which complicates their presentation and understanding. In this work, we dispose of the discretization step, and propose a model based on vanilla Diagonal Linear RNNs ($\mathrm {DLR} $). We empirically show that $\mathrm …
+Cites: ‪What can transformers learn in-context? a case study of simple …‬

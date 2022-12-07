@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "NIR-Prompt: A Multi-task Generalized Neural Information Retrieval Training Framework"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "S Xu, L Pang, H Shen, X Cheng - arXiv preprint arXiv:2212.00229, 2022"
+---
+Information retrieval aims to find information that meets users  needs from the corpus. Different needs correspond to different IR tasks such as document retrieval, open-domain question answering, retrieval-based dialogue, etc., while they share the same schema to estimate the relationship between texts. It indicates that a good IR model can generalize to different tasks and domains. However, previous studies indicate that state-of-the-art neural information retrieval (NIR) models, eg, pre-trained …
+Cites: ‪KILT: a benchmark for knowledge intensive language tasks‬

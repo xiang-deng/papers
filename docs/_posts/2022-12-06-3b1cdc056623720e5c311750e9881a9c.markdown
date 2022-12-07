@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "K Shridhar, A Stolfo, M Sachan - arXiv preprint arXiv:2212.00193, 2022"
+---
+Step-by-step reasoning approaches like chain-of-thought (CoT) have proved to be a very effective technique to induce reasoning capabilities in large language models. However, the success of the CoT approach depends primarily on model size, and often billion parameter-scale models are needed to get CoT to work. In this paper, we propose a knowledge distillation approach, that leverages the step-by-step CoT reasoning capabilities of larger models and distils these reasoning abilities into …
+Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬

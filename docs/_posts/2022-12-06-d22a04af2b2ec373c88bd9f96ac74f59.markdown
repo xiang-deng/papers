@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Financial Event Extraction of NEC Dataset Based on Pointer Network"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "K Pu, H Liu, Y Yang, Y He, J Li - China Conference on Knowledge Graph and …, 2022"
+---
+This paper presents a solution for the CCKS 2022 NEC Task: Financial Event Extraction. What is challenging in this task is detecting semantically ambiguous and complex event in short and low-context settings. Our team (CMB AI Lab) propose a ner method for event extraction: first, the dataset is split by the cause-and-effect list, and then a model based on biaffine layer/global pointer is built to predict span boundaries of specific category. The basic pre-trained models we choose are …
+Cites: ‪Don t stop pretraining: adapt language models to domains and tasks‬

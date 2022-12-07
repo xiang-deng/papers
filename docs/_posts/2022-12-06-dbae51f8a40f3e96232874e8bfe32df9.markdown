@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modeling Complex Dialogue Mappings via Sentence Semantic Segmentation Guided Conditional Variational Auto-Encoder"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "B Sun, S Feng, Y Li, W Wang, F Mi, Y Li, K Li - arXiv preprint arXiv:2212.00231, 2022"
+---
+Complex dialogue mappings (CDM), including one-to-many and many-to-one mappings, tend to make dialogue models generate incoherent or dull responses, and modeling these mappings remains a huge challenge for neural dialogue systems. To alleviate these problems, methods like introducing external information, reconstructing the optimization function, and manipulating data samples are proposed, while they primarily focus on avoiding training with CDM, inevitably …
+Cites: ‪A knowledge-grounded neural conversation model‬

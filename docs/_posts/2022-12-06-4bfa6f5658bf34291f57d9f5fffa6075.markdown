@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Node Similarity Preserving Graph Convolutional Network Based on Full-frequency Information for Node Classification"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "Y Li, J Liao, C Liu, YJ Wang, L Li - Neural Processing Letters, 2022"
+---
+Recently, graph neural networks have achieved good performance in graph representation learning. However, most graph neural networks only utilize node low-frequency signals and destroy node similarity when aggregating graph structure and node features, which limits their ability to represent graph-structured data. Therefore, we propose a node similarity preserving graph convolutional network based on full-frequency information (FSP-GCN). It extracts relevant information to the greatest …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Language-agnostic integrated queries in a polyglot language runtime system"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "F Schiavio - 2022"
+---
+Abstract Language-integrated query (LINQ) frameworks offer a convenient programming abstraction for processing in-memory collections of data, allowing developers to concisely express declarative queries using general-purpose programming languages. Existing LINQ frameworks rely on the type system of statically typed languages such as C♯ or Java to perform query compilation and execution. As a consequence of this design, they do not support dynamically typed …
+Cites: ‪Query optimization by predicate move-around‬

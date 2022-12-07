@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Domain Robustness in Out-of-Domain Corpus"
+date:   2022-12-06 02:51:26 -0400
+categories: jekyll update
+author: "E Uzodinma, J Spenader, J Doornkamp"
+---
+Despite recent successes with neural machine translation, even models trained on extensive parallel corpus data still perform poorly when applied to translating text from a different genre, so called “outof-domain” translation. This thesis investigates different methods that can be used to improve out-of-domain translations such as byte-pair encoding, sub-word regularization, beam size, label smoothing and domainadaptation. These techniques were applied to the training and fine-tuning …
+Cites: ‪Domain Adaptation of Neural Machine Translation by Lexicon …‬
