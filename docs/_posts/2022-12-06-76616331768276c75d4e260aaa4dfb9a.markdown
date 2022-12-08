@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A novel text generation algorithm based on few-shot dataset"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "H Peng, Z Xu, W Mo, Y Wang, Q Huang - International Conference on Artificial …, 2022"
----
-The current text generation generally requires understanding the contextual derivation of corpus based on a large amount of data. In fact, it is very difficult because of the limited data. We develop a novel text generation algorithm based on few-shot learning data which uses a dual-channel decoder and can smoothly perform copying and generating for the predicted words. Experimental results show that this proposed algorithm s efficiency.
-Cites: ‪Data-to-text generation with content selection and planning‬
+--- 
+layout: post 
+title: "A novel text generation algorithm based on few-shot dataset" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "H Peng, Z Xu, W Mo, Y Wang, Q Huang - International Conference on Artificial , 2022" 
+--- 
+The current text generation generally requires understanding the contextual derivation of corpus based on a large amount of data. In fact, it is very difficult because of the limited data. We develop a novel text generation algorithm based on few-shot learning data which uses a dual-channel decoder and can smoothly perform copying and generating for the predicted words. Experimental results show that this proposed algorithm s efficiency.  Cites: Data-to-text generation with content selection and planning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Retrieval-Then-Parsing: A Two-Stage Model for SQL Generation in Financial Domain"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "N Jin, D Li, J Chen, Y Qiu, Q Chen - China Conference on Knowledge Graph and …, 2022"
----
-Querying financial databases with natural language has been a strong requirement for financial company staff in recent years. The common method for this task is to transform the natural language into structured query language (SQL), which is referred to as semantic parsing. In this paper, we propose a two-stage model for semantic parsing in large financial databases. The two-stage model consists of an integrated table retriever that is used to retrieve related tables from a large database …
-Cites: ‪Rat-sql: Relation-aware schema encoding and linking for text-to …‬
+--- 
+layout: post 
+title: "Retrieval-Then-Parsing: A Two-Stage Model for SQL Generation in Financial Domain" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "N Jin, D Li, J Chen, Y Qiu, Q Chen - China Conference on Knowledge Graph and , 2022" 
+--- 
+Querying financial databases with natural language has been a strong requirement for financial company staff in recent years. The common method for this task is to transform the natural language into structured query language (SQL), which is referred to as semantic parsing. In this paper, we propose a two-stage model for semantic parsing in large financial databases. The two-stage model consists of an integrated table retriever that is used to retrieve related tables from a large database  Cites: Rat-sql: Relation-aware schema encoding and linking for text-to

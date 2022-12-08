@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Document-Level Relation Extraction with Path Reasoning"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "W Xu, K Chen, T Zhao - ACM Transactions on Asian and Low-Resource …, 2022"
----
-Document-level relation extraction (DocRE) aims to extract relations among entities across multiple sentences within a document by using reasoning skills (ie, pattern recognition, logical reasoning, coreference reasoning, etc.) related to the reasoning paths between two entities. However, most of the advanced DocRE models only attend to the feature representations of two entities to determine their relation, and do not consider one complete reasoning path from one entity to another entity, which …
-Cites: ‪Open Hierarchical Relation Extraction‬
+--- 
+layout: post 
+title: "Document-Level Relation Extraction with Path Reasoning" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "W Xu, K Chen, T Zhao - ACM Transactions on Asian and Low-Resource , 2022" 
+--- 
+Document-level relation extraction (DocRE) aims to extract relations among entities across multiple sentences within a document by using reasoning skills (ie, pattern recognition, logical reasoning, coreference reasoning, etc.) related to the reasoning paths between two entities. However, most of the advanced DocRE models only attend to the feature representations of two entities to determine their relation, and do not consider one complete reasoning path from one entity to another entity, which  Cites: Open Hierarchical Relation Extraction

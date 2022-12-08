@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Layout-aware Dreamer for Embodied Referring Expression Grounding"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "M Li, Z Wang, T Tuytelaars, MF Moens - arXiv preprint arXiv:2212.00171, 2022"
----
-In this work, we study the problem of Embodied Referring Expression Grounding, where an agent needs to navigate in a previously unseen environment and localize a remote object described by a concise high-level natural language instruction. When facing such a situation, a human tends to imagine what the destination may look like and to explore the environment based on prior knowledge of the environmental layout, such as the fact that a bathroom is more likely to be found near …
-Cites: ‪Language models as knowledge bases?‬
+--- 
+layout: post 
+title: "Layout-aware Dreamer for Embodied Referring Expression Grounding" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "M Li, Z Wang, T Tuytelaars, MF Moens - arXiv preprint arXiv:2212.00171, 2022" 
+--- 
+In this work, we study the problem of Embodied Referring Expression Grounding, where an agent needs to navigate in a previously unseen environment and localize a remote object described by a concise high-level natural language instruction. When facing such a situation, a human tends to imagine what the destination may look like and to explore the environment based on prior knowledge of the environmental layout, such as the fact that a bathroom is more likely to be found near  Cites: Language models as knowledge bases?

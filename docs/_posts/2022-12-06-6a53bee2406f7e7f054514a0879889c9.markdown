@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PIZZA: A new benchmark for complex end-to-end task-oriented parsing"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "K Arkoudas, NG Mesnards, M Rubino, S Swamy… - arXiv preprint arXiv …, 2022"
----
-Much recent work in task-oriented parsing has focused on finding a middle ground between flat slots and intents, which are inexpressive but easy to annotate, and powerful representations such as the lambda calculus, which are expressive but costly to annotate. This paper continues the exploration of task-oriented parsing by introducing a new dataset for parsing pizza and drink orders, whose semantics cannot be captured by flat slots and intents. We perform an extensive evaluation of …
-Cites: ‪Semantic parsing via paraphrasing‬
+--- 
+layout: post 
+title: "PIZZA: A new benchmark for complex end-to-end task-oriented parsing" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "K Arkoudas, NG Mesnards, M Rubino, S Swamy - arXiv preprint arXiv , 2022" 
+--- 
+Much recent work in task-oriented parsing has focused on finding a middle ground between flat slots and intents, which are inexpressive but easy to annotate, and powerful representations such as the lambda calculus, which are expressive but costly to annotate. This paper continues the exploration of task-oriented parsing by introducing a new dataset for parsing pizza and drink orders, whose semantics cannot be captured by flat slots and intents. We perform an extensive evaluation of  Cites: Semantic parsing via paraphrasing

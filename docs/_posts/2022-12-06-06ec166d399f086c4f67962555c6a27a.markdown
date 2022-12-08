@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Efficient Method to Improve the Performance of Small-Scale Convolutional Neural Networks by Hybrid Selective Initial Parameter"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "CY Kim, SJ Jang, K Kim, J Kwak, SS Lee - … on Consumer Electronics-Asia (ICCE-Asia …, 2022"
----
-Transfer learning (TL) is a method used in various fields of convolutional neural networks (CNN) based applications. TL provide the opportunity for CNN, able to learn with limited datasets. A generally used TL involves pre-trained model from large-scale datasets. Pre-trained model help prevent the restriction of performance from learn with limited datasets. There are many experiments on limited datasets, but few that assume small CNN models together. Limited-resources, which involves …
-Cites: ‪Towards a unified view of parameter-efficient transfer learning‬
+--- 
+layout: post 
+title: "An Efficient Method to Improve the Performance of Small-Scale Convolutional Neural Networks by Hybrid Selective Initial Parameter" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "CY Kim, SJ Jang, K Kim, J Kwak, SS Lee - on Consumer Electronics-Asia (ICCE-Asia , 2022" 
+--- 
+Transfer learning (TL) is a method used in various fields of convolutional neural networks (CNN) based applications. TL provide the opportunity for CNN, able to learn with limited datasets. A generally used TL involves pre-trained model from large-scale datasets. Pre-trained model help prevent the restriction of performance from learn with limited datasets. There are many experiments on limited datasets, but few that assume small CNN models together. Limited-resources, which involves  Cites: Towards a unified view of parameter-efficient transfer learning

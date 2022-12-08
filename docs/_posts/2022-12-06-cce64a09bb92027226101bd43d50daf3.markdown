@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Coarse Pipeline to Solve Hierarchical Multi-answer Questions with Conditions"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "B Teng, X Wang, X Zhang, B An - China Conference on Knowledge Graph and …, 2022"
----
-Span extraction is an important task of machine reading comprehension (MRC). Traditionally, for a question, the answer is expected to be a single text span from the given context. However, in practice, the answer to a question may exist in multiple spans. Besides, multiple answers to a question may be of different granularity and hierarchically related to each other. In this paper, we propose a simple but effective pipeline to solve the hierarchical multi-answer questions with conditions, an …
-Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬
+--- 
+layout: post 
+title: "A Coarse Pipeline to Solve Hierarchical Multi-answer Questions with Conditions" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "B Teng, X Wang, X Zhang, B An - China Conference on Knowledge Graph and , 2022" 
+--- 
+Span extraction is an important task of machine reading comprehension (MRC). Traditionally, for a question, the answer is expected to be a single text span from the given context. However, in practice, the answer to a question may exist in multiple spans. Besides, multiple answers to a question may be of different granularity and hierarchically related to each other. In this paper, we propose a simple but effective pipeline to solve the hierarchical multi-answer questions with conditions, an  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

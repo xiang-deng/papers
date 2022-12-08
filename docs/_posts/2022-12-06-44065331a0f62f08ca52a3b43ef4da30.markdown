@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cascaded Solution for Multi-domain Conditional Question Answering with Multiple-Span Answers"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "J Zhu, M Zhang, S Peng, H Yang, Y Qin, W Zhang… - China Conference on …, 2022"
----
-This paper introduces our technical solution for CCKS-2022 s task of “A Dataset of Conditional Question Answering with Multiple-Span Answers”. The solution consists of Data Analysis and Processing, Condition-Answer Extraction, Post-extraction Processing, Condition-Answer Relation Classification, and Post-classification Processing. The rule-based post-extraction and Post-classification Processing modules consist of seven cascaded modules. Because the training data of the task …
-Cites: ‪Generating Question-Answer Hierarchies‬
+--- 
+layout: post 
+title: "Cascaded Solution for Multi-domain Conditional Question Answering with Multiple-Span Answers" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "J Zhu, M Zhang, S Peng, H Yang, Y Qin, W Zhang - China Conference on , 2022" 
+--- 
+This paper introduces our technical solution for CCKS-2022 s task of A Dataset of Conditional Question Answering with Multiple-Span Answers. The solution consists of Data Analysis and Processing, Condition-Answer Extraction, Post-extraction Processing, Condition-Answer Relation Classification, and Post-classification Processing. The rule-based post-extraction and Post-classification Processing modules consist of seven cascaded modules. Because the training data of the task  Cites: Generating Question-Answer Hierarchies

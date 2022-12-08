@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Open Relation and Event Type Discovery with Type Abstraction"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "S Li, H Ji, J Han - arXiv preprint arXiv:2212.00178, 2022"
----
-Conventional closed-world information extraction (IE) approaches rely on human ontologies to define the scope for extraction. As a result, such approaches fall short when applied to new domains. This calls for systems that can automatically infer new types from given corpora, a task which we refer to as type discovery. To tackle this problem, we introduce the idea of type abstraction, where the model is prompted to generalize and name the type. Then we use the similarity between inferred names to …
-Cites: ‪Unsupervised relation extraction with general domain knowledge‬
+--- 
+layout: post 
+title: "Open Relation and Event Type Discovery with Type Abstraction" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "S Li, H Ji, J Han - arXiv preprint arXiv:2212.00178, 2022" 
+--- 
+Conventional closed-world information extraction (IE) approaches rely on human ontologies to define the scope for extraction. As a result, such approaches fall short when applied to new domains. This calls for systems that can automatically infer new types from given corpora, a task which we refer to as type discovery. To tackle this problem, we introduce the idea of type abstraction, where the model is prompted to generalize and name the type. Then we use the similarity between inferred names to  Cites: Unsupervised relation extraction with general domain knowledge

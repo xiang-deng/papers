@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Research on the application of contrastive learning in multi-label text classification"
-date:   2022-12-06 02:51:26 -0400
-categories: jekyll update
-author: "N Lin, G Qin, J Wang, A Yang, D Zhou - arXiv preprint arXiv:2212.00552, 2022"
----
-The effective application of contrastive learning technology in natural language processing tasks shows the superiority of contrastive learning in text analysis tasks. How to construct positive and negative samples correctly and reasonably is the core challenge of contrastive learning. Since it is difficult to construct contrastive objects in multi-label multi-classification tasks, there are few contrastive losses for multi-label multi-classification text classification. In this paper, we propose five contrastive losses …
-Cites: ‪ERICA: Improving Entity and Relation Understanding for Pre …‬
+--- 
+layout: post 
+title: "Research on the application of contrastive learning in multi-label text classification" 
+date: 2022-12-06 02:51:26 -0400 
+categories: jekyll update 
+author: "N Lin, G Qin, J Wang, A Yang, D Zhou - arXiv preprint arXiv:2212.00552, 2022" 
+--- 
+The effective application of contrastive learning technology in natural language processing tasks shows the superiority of contrastive learning in text analysis tasks. How to construct positive and negative samples correctly and reasonably is the core challenge of contrastive learning. Since it is difficult to construct contrastive objects in multi-label multi-classification tasks, there are few contrastive losses for multi-label multi-classification text classification. In this paper, we propose five contrastive losses  Cites: ERICA: Improving Entity and Relation Understanding for Pre
