@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Structural pruning for speed in neural machine translation"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "M Behnke - 2022"
+---
+Neural machine translation (NMT) strongly outperforms previous statistical techniques. With the emergence of a transformer architecture, we consistently train and deploy deeper and larger models, often with billions of parameters, as an ongoing effort to achieve even better quality. On the other hand, there is also a constant pursuit for optimisation opportunities to reduce inference runtime. Parameter pruning is one of the staple optimisation techniques. Even though …
+Cites: ‪Iterative refinement in the continuous space for non-autoregressive …‬

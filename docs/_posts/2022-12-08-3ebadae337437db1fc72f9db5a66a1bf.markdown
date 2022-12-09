@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Surrogate-assisted evolutionary neural architecture search with network embedding"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "L Fan, H Wang - Complex & Intelligent Systems, 2022"
+---
+To accelerate the performance estimation in neural architecture search, recently proposed algorithms adopt surrogate models to predict the performance of neural architectures instead of training the network from scratch. However, it is time-consuming to collect sufficient labeled architectures for surrogate model training. To enhance the capability of surrogate models using a small amount of training data, we propose a surrogate-assisted evolutionary algorithm with network embedding for …
+Cites: ‪Automl-zero: Evolving machine learning algorithms from scratch‬

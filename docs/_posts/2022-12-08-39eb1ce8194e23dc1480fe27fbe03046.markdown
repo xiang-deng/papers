@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fair Generative Models via Transfer Learning"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "CTH Teo, M Abdollahzadeh, NM Cheung - arXiv preprint arXiv:2212.00926, 2022"
+---
+This work addresses fair generative models. Dataset biases have been a major cause of unfairness in deep generative models. Previous work had proposed to augment large, biased datasets with small, unbiased reference datasets. Under this setup, a weakly-supervised approach has been proposed, which achieves state-of-the-art quality and fairness in generated samples. In our work, based on this setup, we propose a simple yet effective approach. Specifically, first, we propose fairTL, a …
+Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬

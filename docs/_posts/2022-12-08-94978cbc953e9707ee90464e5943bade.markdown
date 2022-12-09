@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Orders Are Unwanted: Dynamic Deep Graph Convolutional Network for Personality Detection"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "T Yang, J Deng, X Quan, Q Wang - arXiv preprint arXiv:2212.01515, 2022"
+---
+Predicting personality traits based on online posts has emerged as an important task in many fields such as social network analysis. One of the challenges of this task is assembling information from various posts into an overall profile for each user. While many previous solutions simply concatenate the posts into a long document and then encode the document by sequential or hierarchical models, they introduce unwarranted orders for the posts, which may mislead the models. In this paper, we …
+Cites: ‪GEAR: Graph-based Evidence Aggregating and Reasoning for …‬

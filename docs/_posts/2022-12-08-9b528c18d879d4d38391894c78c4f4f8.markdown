@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "J Nam, S Mo, J Lee, J Shin - arXiv preprint arXiv:2212.02090, 2022"
+---
+Trying to capture the sample-label relationship, conditional generative models often end up inheriting the spurious correlation in the training dataset, giving label-conditional distributions that are severely imbalanced in another latent attribute. To mitigate such undesirable correlations engraved into generative models, which we call spurious causality, we propose a general two-step strategy.(a) Fairness Intervention (FI): Emphasize the minority samples that are hard to be generated due …
+Cites: ‪Just train twice: Improving group robustness without training group …‬

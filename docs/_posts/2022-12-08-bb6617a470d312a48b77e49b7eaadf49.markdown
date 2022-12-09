@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GNN-SL: Sequence Labeling Based on Nearest Examples via GNN"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "S Wang, Y Meng, R Ouyang, J Li, T Zhang, L Lyu… - arXiv preprint arXiv …, 2022"
+---
+To better handle long-tail cases in the sequence labeling (SL) task, in this work, we introduce graph neural networks sequence labeling (GNN-SL), which augments the vanilla SL model output with similar tagging examples retrieved from the whole training set. Since not all the retrieved tagging examples benefit the model prediction, we construct a heterogeneous graph, and leverage graph neural networks (GNNs) to transfer information between the retrieved tagging examples and …
+Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬

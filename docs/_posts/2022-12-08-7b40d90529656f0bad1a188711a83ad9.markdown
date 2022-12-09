@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Query Your Model with Definitions in FrameNet: An Effective Method for Frame Semantic Role Labeling"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "C Zheng, Y Wang, B Chang - arXiv preprint arXiv:2212.02036, 2022"
+---
+Frame Semantic Role Labeling (FSRL) identifies arguments and labels them with frame semantic roles defined in FrameNet. Previous researches tend to divide FSRL into argument identification and role classification. Such methods usually model role classification as naive multi-class classification and treat arguments individually, which neglects label semantics and interactions between arguments and thus hindering performance and generalization of models. In this paper, we propose a …
+Cites: ‪Denoising Relation Extraction from Document-level Distant …‬

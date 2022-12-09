@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Probabilistic Verification of ReLU Neural Networks via Characteristic Functions"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "J Pilipovsky, V Sivaramakrishnan, MMK Oishi… - arXiv preprint arXiv …, 2022"
+---
+Verifying the input-output relationships of a neural network so as to achieve some desired performance specification is a difficult, yet important, problem due to the growing ubiquity of neural nets in many engineering applications. We use ideas from probability theory in the frequency domain to provide probabilistic verification guarantees for ReLU neural networks. Specifically, we interpret a (deep) feedforward neural network as a discrete dynamical system over a finite horizon that shapes …
+Cites: ‪Enabling certification of verification-agnostic networks via memory …‬

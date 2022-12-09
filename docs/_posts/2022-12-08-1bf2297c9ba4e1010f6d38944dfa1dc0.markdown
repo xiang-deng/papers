@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Study of Zero-shot Adaptation with Commonsense Knowledge"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "J Zhang, F Ilievski, K Ma, J Francis, A Oltramari"
+---
+Self-supervision with synthetic training data built from knowledge graphs has been proven useful to enhance the language model accuracy in zero-shot evaluation on commonsense reasoning tasks. Yet, since these improvements are reported in aggregate, little is known about how to select the appropriate knowledge for generalizable performance across tasks, how to combine this knowledge with neural language models, and how these pairings affect granular task performance. In this …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬

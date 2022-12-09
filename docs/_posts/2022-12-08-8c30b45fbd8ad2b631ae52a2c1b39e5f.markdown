@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "QBERT: Generalist Model for Processing Questions"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "Z Xu, N Cristianini - arXiv preprint arXiv:2212.01967, 2022"
+---
+Using a single model across various tasks is beneficial for training and applying deep neural sequence models. We address the problem of developing generalist representations of text that can be used to perform a range of different tasks rather than being specialised to a single application. We focus on processing short questions and developing an embedding for these questions that is useful on a diverse set of problems, such as question topic classification, equivalent question …
+Cites: ‪WikiQA: A challenge dataset for open-domain question answering‬

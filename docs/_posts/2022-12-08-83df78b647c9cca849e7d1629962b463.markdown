@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Few-Shot Performance of Language Models via Nearest Neighbor Calibration"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "F Nie, M Chen, Z Zhang, X Cheng - arXiv preprint arXiv:2212.02216, 2022"
+---
+Pre-trained language models (PLMs) have exhibited remarkable few-shot learning capabilities when provided a few examples in a natural language prompt as demonstrations of test instances, ie, in-context learning. However, the performance of in-context learning is susceptible to the choice of prompt format, training examples and the ordering of the training examples. In this paper, we propose a novel nearest-neighbor calibration framework for in-context learning to ease this issue. It is inspired …
+Cites: ‪True few-shot learning with language models‬

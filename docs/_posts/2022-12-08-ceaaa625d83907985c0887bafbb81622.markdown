@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Solving the SPARQL query containment problem with SpeCS"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "M Spasić, MV Janičić - Journal of Web Semantics, 2022"
+---
+The query containment problem is a fundamental computer science problem which was originally defined for relational queries. With the growing popularity of the sparql query language, it became relevant and important in this new context: reliable and efficient sparql query containment solvers may have various applications within static analysis of queries, especially in the area of query optimizations and refactoring. In this paper, we present a new approach for solving the query containment problem in …
+Cites: ‪Verifying integrity constraints on web sites‬

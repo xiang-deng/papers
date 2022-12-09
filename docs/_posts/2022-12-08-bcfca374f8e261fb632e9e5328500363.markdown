@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "T-STAR: Truthful Style Transfer using AMR Graph as Intermediate Representation"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "A Jangra, P Nema, A Raghuveer - arXiv preprint arXiv:2212.01667, 2022"
+---
+Unavailability of parallel corpora for training text style transfer (TST) models is a very challenging yet common scenario. Also, TST models implicitly need to preserve the content while transforming a source sentence into the target style. To tackle these problems, an intermediate representation is often constructed that is devoid of style while still preserving the meaning of the source sentence. In this work, we study the usefulness of Abstract Meaning Representation (AMR) graph as the intermediate …
+Cites: ‪Reformulating Unsupervised Style Transfer as Paraphrase …‬

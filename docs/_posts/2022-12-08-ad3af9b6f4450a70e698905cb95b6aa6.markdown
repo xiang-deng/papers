@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "What is Not in the Context? Evaluation of Few-shot Learners with Informative Demonstrations"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "M Štefánik, M Kadlčík - arXiv preprint arXiv:2212.01692, 2022"
+---
+Large language models demonstrate an emergent ability to learn a new task from a small number of input-output demonstrations, referred to as in-context few-shot learning. However, recent work shows that in such settings, models mainly learn to mimic the new task distribution, instead of the mechanics of the new task. We argue that the commonly-used evaluation settings of few-shot models utilizing a random selection of in-context demonstrations is not able to disentangle models  ability to …
+Cites: ‪Improving question answering model robustness with synthetic …‬

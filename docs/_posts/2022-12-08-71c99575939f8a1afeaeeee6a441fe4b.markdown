@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Measuring Content Preservation in Textual Style Transfer"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "S Fitzpatrick, L Park, O Obst - Australasian Conference on Data Mining, 2022"
+---
+Style transfer in text, changing text that is written in a particular style such as the works of Shakespeare to be written in another style, currently relies on taking the cosine similarity of the sentence embeddings of the original and transferred sentence to determine if the content of the sentence, its meaning, hasn t changed. This assumes however that such sentence embeddings are style invariant, which can result in inaccurate measurements of content preservation. To investigate this we …
+Cites: ‪Reformulating Unsupervised Style Transfer as Paraphrase …‬

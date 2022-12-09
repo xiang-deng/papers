@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TIDE: Time Derivative Diffusion for Deep Learning on Graphs"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "M Krahn, M Behmanesh, M Ovsjanikov - arXiv preprint arXiv:2212.02483, 2022"
+---
+A prominent paradigm for graph neural networks is based on the message passing framework. In this framework, information communication is realized only between neighboring nodes. The challenge of approaches that use this paradigm is to ensure efficient and accurate\textit {long distance communication} between nodes, as deep convolutional networks are prone to over-smoothing. In this paper, we present a novel method based on time derivative graph diffusion (TIDE), with a learnable time …
+Cites: ‪Graph neural networks: A review of methods and applications‬

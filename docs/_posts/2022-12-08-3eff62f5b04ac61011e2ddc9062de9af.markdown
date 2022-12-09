@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Stable Learning via Sparse Variable Independence"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "H Yu, P Cui, Y He, Z Shen, Y Lin, R Xu, X Zhang - arXiv preprint arXiv:2212.00992, 2022"
+---
+The problem of covariate-shift generalization has attracted intensive research attention. Previous stable learning algorithms employ sample reweighting schemes to decorrelate the covariates when there is no explicit domain information about training data. However, with finite samples, it is difficult to achieve the desirable weights that ensure perfect independence to get rid of the unstable variables. Besides, decorrelating within stable variables may bring about high variance of …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

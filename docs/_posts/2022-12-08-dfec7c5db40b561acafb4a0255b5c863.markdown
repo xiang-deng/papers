@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AGO: Boosting Mobile AI Inference Performance by Removing Constraints on Graph Optimization"
+date:   2022-12-08 02:33:21 -0400
+categories: jekyll update
+author: "Z Xu, H Peng, W Wang - arXiv preprint arXiv:2212.01005, 2022"
+---
+Traditional deep learning compilers rely on heuristics for subgraph generation, which impose extra constraints on graph optimization, eg, each subgraph can only contain at most one complex operator. In this paper, we propose AGO, a framework for graph optimization with arbitrary structures to boost the inference performance of deep models by removing such constraints. To create new optimization opportunities for complicated subgraphs, we propose intensive operator fusion, which can effectively …
+Cites: ‪Well-read students learn better: The impact of student initialization …‬
