@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Syntactic Multi-view Learning for Open Information Extraction"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "K Dong, A Sun, JJ Kim, X Li - arXiv preprint arXiv:2212.02068, 2022"
----
-Open Information Extraction (OpenIE) aims to extract relational tuples from open-domain sentences. Traditional rule-based or statistical models have been developed based on syntactic structures of sentences, identified by syntactic parsers. However, previous neural OpenIE models under-explore the useful syntactic information. In this paper, we model both constituency and dependency trees into word-level graphs, and enable neural OpenIE to learn from the syntactic structures. To better fuse …
-Cites: ‪Textrunner: open information extraction on the web‬
+--- 
+layout: post 
+title: "Syntactic Multi-view Learning for Open Information Extraction" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "K Dong, A Sun, JJ Kim, X Li - arXiv preprint arXiv:2212.02068, 2022" 
+--- 
+Open Information Extraction (OpenIE) aims to extract relational tuples from open-domain sentences. Traditional rule-based or statistical models have been developed based on syntactic structures of sentences, identified by syntactic parsers. However, previous neural OpenIE models under-explore the useful syntactic information. In this paper, we model both constituency and dependency trees into word-level graphs, and enable neural OpenIE to learn from the syntactic structures. To better fuse  Cites: Textrunner: open information extraction on the web

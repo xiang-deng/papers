@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta-Learning Fast Weight Language Models"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "K Clark, K Guu, MW Chang, P Pasupat, G Hinton… - arXiv preprint arXiv …, 2022"
----
-Dynamic evaluation of language models (LMs) adapts model parameters at test time using gradient information from previous tokens and substantially improves LM performance. However, it requires over 3x more compute than standard inference. We present Fast Weight Layers (FWLs), a neural component that provides the benefits of dynamic evaluation much more efficiently by expressing gradient updates as linear attention. A key improvement over dynamic evaluation is that FWLs can …
-Cites: ‪Transformer quality in linear time‬
+--- 
+layout: post 
+title: "Meta-Learning Fast Weight Language Models" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "K Clark, K Guu, MW Chang, P Pasupat, G Hinton - arXiv preprint arXiv , 2022" 
+--- 
+Dynamic evaluation of language models (LMs) adapts model parameters at test time using gradient information from previous tokens and substantially improves LM performance. However, it requires over 3x more compute than standard inference. We present Fast Weight Layers (FWLs), a neural component that provides the benefits of dynamic evaluation much more efficiently by expressing gradient updates as linear attention. A key improvement over dynamic evaluation is that FWLs can  Cites: Transformer quality in linear time

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Re-Examining Calibration: The Case of Question Answering"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "C Si, C Zhao, S Min, J Boyd-Graber - Findings of Empirical Methods in Natural Language …"
----
-For users to trust model predictions, they need to understand model outputs, particularly their confidence—calibration aims to adjust (calibrate) models  confidence to match expected accuracy. We argue that the traditional calibration evaluation does not promote effective calibrations: for example, it can encourage always assigning a mediocre confidence score to all predictions, which does not help users distinguish correct predictions from wrong ones. Building on those …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "Re-Examining Calibration: The Case of Question Answering" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "C Si, C Zhao, S Min, J Boyd-Graber - Findings of Empirical Methods in Natural Language " 
+--- 
+For users to trust model predictions, they need to understand model outputs, particularly their confidencecalibration aims to adjust (calibrate) models confidence to match expected accuracy. We argue that the traditional calibration evaluation does not promote effective calibrations: for example, it can encourage always assigning a mediocre confidence score to all predictions, which does not help users distinguish correct predictions from wrong ones. Building on those  Cites: Dataset cartography: Mapping and diagnosing datasets with

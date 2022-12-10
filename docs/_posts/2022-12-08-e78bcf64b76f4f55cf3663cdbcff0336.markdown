@@ -1,9 +1,0 @@
----
-layout: post
-title:  "ColD Fusion: Collaborative Descent for Distributed Multitask Finetuning"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "S Don-Yehiya, E Venezian, C Raffel, N Slonim, Y Katz… - arXiv preprint arXiv …, 2022"
----
-Pretraining has been shown to scale well with compute, data size and data diversity. Multitask learning trains on a mixture of supervised datasets and produces improved performance compared to self-supervised pretraining. Until now, massively multitask learning required simultaneous access to all datasets in the mixture and heavy compute resources that are only available to well-resourced teams. In this paper, we propose ColD Fusion, a method that provides the benefits of multitask learning but …
-Cites: ‪Linear Connectivity Reveals Generalization Strategies‬

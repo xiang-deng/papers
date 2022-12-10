@@ -1,9 +1,8 @@
----
-layout: post
-title:  "State-aware Compositional Learning towards Unbiased Training for Scene Graph Generation"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "T He, L Gao, J Song, YF Li - IEEE Transactions on Image Processing, 2022"
----
-How to avoid biased predictions is an important and active research question in scene graph generation (SGG). Current state-of-the-art methods employ debiasing techniques such as resampling and causality analysis. However, the role of intrinsic cues in the features causing biased training has remained under-explored. In this paper, for the first time, we make the surprising observation that object identity information, in the form of object label embeddings (eg GLOVE), is principally …
-Cites: ‪Mapping images to scene graphs with permutation-invariant …‬
+--- 
+layout: post 
+title: "State-aware Compositional Learning towards Unbiased Training for Scene Graph Generation" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "T He, L Gao, J Song, YF Li - IEEE Transactions on Image Processing, 2022" 
+--- 
+How to avoid biased predictions is an important and active research question in scene graph generation (SGG). Current state-of-the-art methods employ debiasing techniques such as resampling and causality analysis. However, the role of intrinsic cues in the features causing biased training has remained under-explored. In this paper, for the first time, we make the surprising observation that object identity information, in the form of object label embeddings (eg GLOVE), is principally  Cites: Mapping images to scene graphs with permutation-invariant

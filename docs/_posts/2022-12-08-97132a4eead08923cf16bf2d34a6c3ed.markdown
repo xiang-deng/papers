@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Lifelong Language Learning with Adaptive Uncertainty Regularization"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "L Zhang, S Wang, F Yuan, B Geng, M Yang - Information Sciences, 2022"
----
-It has been a long-standing goal in natural language processing (NLP) to learn a general linguistic intelligence model that can perform well on many differentg all previous data at each stage. Most existing deep neural networks suffer from catastrophic forgetting when dealing with sequential tasks in an incremental way, leading to dramatic performance degradation due to the missing training data of old tasks. In this paper, we propose a Lifelong language method with Adaptive …
-Cites: ‪The natural language decathlon: Multitask learning as question …‬
+--- 
+layout: post 
+title: "Lifelong Language Learning with Adaptive Uncertainty Regularization" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "L Zhang, S Wang, F Yuan, B Geng, M Yang - Information Sciences, 2022" 
+--- 
+It has been a long-standing goal in natural language processing (NLP) to learn a general linguistic intelligence model that can perform well on many differentg all previous data at each stage. Most existing deep neural networks suffer from catastrophic forgetting when dealing with sequential tasks in an incremental way, leading to dramatic performance degradation due to the missing training data of old tasks. In this paper, we propose a Lifelong language method with Adaptive  Cites: The natural language decathlon: Multitask learning as question

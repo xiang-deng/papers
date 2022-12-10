@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPaReL: A Semantic Parsing Relation Linking Method for Knowledge Base Question Answering"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "X Dai, H Li, T Wang, L Li, Y Feng, X Li - 2022"
----
-Relation linking is an essential module of knowledge base question answering systems. To overcome the ambiguity of natural language and lack of training data, existing relation linking systems employ varieties of heuristics or aggregations of multiple systems. However, the current state-of-the-art methods heavily rely on the surface text and do not achieve optimal results. Since the semantic parsing structure of the question is a rich source of relation information that can strongly promote …
-Cites: ‪Scalable zero-shot entity linking with dense entity retrieval‬
+--- 
+layout: post 
+title: "SPaReL: A Semantic Parsing Relation Linking Method for Knowledge Base Question Answering" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "X Dai, H Li, T Wang, L Li, Y Feng, X Li - 2022" 
+--- 
+Relation linking is an essential module of knowledge base question answering systems. To overcome the ambiguity of natural language and lack of training data, existing relation linking systems employ varieties of heuristics or aggregations of multiple systems. However, the current state-of-the-art methods heavily rely on the surface text and do not achieve optimal results. Since the semantic parsing structure of the question is a rich source of relation information that can strongly promote  Cites: Scalable zero-shot entity linking with dense entity retrieval

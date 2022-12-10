@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SIMQA: Detecting Simultaneous MT Errors through Word-by-Word Question Answering"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "HJ Han, M Carpuat, J Boyd-Graber, U CS, LCS iSchool - 2022"
----
-Detractors of neural machine translation admit that while its translations are fluent, it sometimes gets key facts wrong. This is particularly important in simultaneous interpretation where translations have to be provided as fast as possible: before a sentence is complete. Yet, evaluations of simultaneous machine translation (SIMULMT) fail to capture if systems correctly translate the most salient elements of a question: people, places, and dates. To address this problem, we introduce a …
-Cites: ‪Quizbowl: The case for incremental question answering‬
+--- 
+layout: post 
+title: "SIMQA: Detecting Simultaneous MT Errors through Word-by-Word Question Answering" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "HJ Han, M Carpuat, J Boyd-Graber, U CS, LCS iSchool - 2022" 
+--- 
+Detractors of neural machine translation admit that while its translations are fluent, it sometimes gets key facts wrong. This is particularly important in simultaneous interpretation where translations have to be provided as fast as possible: before a sentence is complete. Yet, evaluations of simultaneous machine translation (SIMULMT) fail to capture if systems correctly translate the most salient elements of a question: people, places, and dates. To address this problem, we introduce a  Cites: Quizbowl: The case for incremental question answering

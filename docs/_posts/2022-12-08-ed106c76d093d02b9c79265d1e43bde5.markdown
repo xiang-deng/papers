@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-aware cycle curriculum learning for multiple-choice reading comprehension"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "H Chen, Y Li - PeerJ Computer Science, 2022"
----
-Multiple-choice reading comprehension task has recently attracted significant interest. The task provides several options for each question and requires the machine to select one of them as the correct answer. Current approaches normally leverage a pre-training and then fine-tuning procedure that treats data equally, ignoring the difficulty of training examples. To solve this issue, curriculum learning (CL) has shown its effectiveness in improving the performance of models. However …
-Cites: ‪AmbigQA: Answering ambiguous open-domain questions‬
+--- 
+layout: post 
+title: "Self-aware cycle curriculum learning for multiple-choice reading comprehension" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "H Chen, Y Li - PeerJ Computer Science, 2022" 
+--- 
+Multiple-choice reading comprehension task has recently attracted significant interest. The task provides several options for each question and requires the machine to select one of them as the correct answer. Current approaches normally leverage a pre-training and then fine-tuning procedure that treats data equally, ignoring the difficulty of training examples. To solve this issue, curriculum learning (CL) has shown its effectiveness in improving the performance of models. However  Cites: AmbigQA: Answering ambiguous open-domain questions

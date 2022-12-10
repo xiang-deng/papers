@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Modeling Label Correlations for Ultra-Fine Entity Typing with Neural Pairwise Conditional Random Field"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "C Jiang, Y Jiang, W Wu, P Xie, K Tu - arXiv preprint arXiv:2212.01581, 2022"
----
-Ultra-fine entity typing (UFET) aims to predict a wide range of type phrases that correctly describe the categories of a given entity mention in a sentence. Most recent works infer each entity type independently, ignoring the correlations between types, eg, when an entity is inferred as a president, it should also be a politician and a leader. To this end, we use an undirected graphical model called pairwise conditional random field (PCRF) to formulate the UFET problem, in which the type …
-Cites: ‪Prompt-Learning for Fine-Grained Entity Typing‬
+--- 
+layout: post 
+title: "Modeling Label Correlations for Ultra-Fine Entity Typing with Neural Pairwise Conditional Random Field" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "C Jiang, Y Jiang, W Wu, P Xie, K Tu - arXiv preprint arXiv:2212.01581, 2022" 
+--- 
+Ultra-fine entity typing (UFET) aims to predict a wide range of type phrases that correctly describe the categories of a given entity mention in a sentence. Most recent works infer each entity type independently, ignoring the correlations between types, eg, when an entity is inferred as a president, it should also be a politician and a leader. To this end, we use an undirected graphical model called pairwise conditional random field (PCRF) to formulate the UFET problem, in which the type  Cites: Prompt-Learning for Fine-Grained Entity Typing

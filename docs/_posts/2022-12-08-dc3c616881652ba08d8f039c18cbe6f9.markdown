@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph-based code semantics learning for efficient semantic code clone detection"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "D Yu, Q Yang, X Chen, J Chen, Y Xu - Information and Software Technology, 2022"
----
-Recent studies have shown that high-quality code semantics learning can effectively improve the performance of code clone detection. However, existing approaches suffer from two major drawbacks:(a) insufficient utilization of code representations, leading to inefficient semantics learning, and (b) low efficiency of clone detection, resulting in massive detection time. Therefore, we are motivated to propose an efficient semantics learning method while speeding up the detection process …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "Graph-based code semantics learning for efficient semantic code clone detection" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "D Yu, Q Yang, X Chen, J Chen, Y Xu - Information and Software Technology, 2022" 
+--- 
+Recent studies have shown that high-quality code semantics learning can effectively improve the performance of code clone detection. However, existing approaches suffer from two major drawbacks:(a) insufficient utilization of code representations, leading to inefficient semantics learning, and (b) low efficiency of clone detection, resulting in massive detection time. Therefore, we are motivated to propose an efficient semantics learning method while speeding up the detection process  Cites: Graphcodebert: Pre-training code representations with data flow

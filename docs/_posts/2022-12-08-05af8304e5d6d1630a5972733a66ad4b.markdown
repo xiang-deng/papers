@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Few-Shot Nested Named Entity Recognition"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "H Ming, J Yang, L Jiang, Y Pan, N An - arXiv preprint arXiv:2212.00953, 2022"
----
-While Named Entity Recognition (NER) is a widely studied task, making inferences of entities with only a few labeled data has been challenging, especially for entities with nested structures. Unlike flat entities, entities and their nested entities are more likely to have similar semantic feature representations, drastically increasing difficulties in classifying different entity categories in the few-shot setting. Although prior work has briefly discussed nested structures in the context of few-shot learning, to our best …
-Cites: ‪Knowledgeable Prompt-tuning: Incorporating Knowledge into …‬
+--- 
+layout: post 
+title: "Few-Shot Nested Named Entity Recognition" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "H Ming, J Yang, L Jiang, Y Pan, N An - arXiv preprint arXiv:2212.00953, 2022" 
+--- 
+While Named Entity Recognition (NER) is a widely studied task, making inferences of entities with only a few labeled data has been challenging, especially for entities with nested structures. Unlike flat entities, entities and their nested entities are more likely to have similar semantic feature representations, drastically increasing difficulties in classifying different entity categories in the few-shot setting. Although prior work has briefly discussed nested structures in the context of few-shot learning, to our best  Cites: Knowledgeable Prompt-tuning: Incorporating Knowledge into

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CLeBPI: Contrastive Learning for Bug Priority Inference"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "W Wang, C Wu, J He - arXiv preprint arXiv:2212.01011, 2022"
----
-Automated bug priority inference can reduce the time overhead of bug triagers for priority assignments, improving the efficiency of software maintenance. Currently, there are two orthogonal lines for this task, ie, traditional machine learning based (TML-based) and neural network based (NN-based) approaches. Although these approaches achieve competitive performance, our observation finds that existing approaches face the following two issues: 1) TML-based approaches require much …
-Cites: ‪Neural machine translation with byte-level subwords‬
+--- 
+layout: post 
+title: "CLeBPI: Contrastive Learning for Bug Priority Inference" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "W Wang, C Wu, J He - arXiv preprint arXiv:2212.01011, 2022" 
+--- 
+Automated bug priority inference can reduce the time overhead of bug triagers for priority assignments, improving the efficiency of software maintenance. Currently, there are two orthogonal lines for this task, ie, traditional machine learning based (TML-based) and neural network based (NN-based) approaches. Although these approaches achieve competitive performance, our observation finds that existing approaches face the following two issues: 1) TML-based approaches require much  Cites: Neural machine translation with byte-level subwords

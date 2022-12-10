@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "J Si, Y Zhu, D Zhou - arXiv preprint arXiv:2212.01060, 2022"
----
-The opaqueness of the multi-hop fact verification model imposes imperative requirements for explainability. One feasible way is to extract rationales, a subset of inputs, where the performance of prediction drops dramatically when being removed. Though being explainable, most rationale extraction methods for multi-hop fact verification explore the semantic information within each piece of evidence individually, while ignoring the topological information interaction among different …
-Cites: ‪An information bottleneck approach for controlling conciseness in …‬
+--- 
+layout: post 
+title: "Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "J Si, Y Zhu, D Zhou - arXiv preprint arXiv:2212.01060, 2022" 
+--- 
+The opaqueness of the multi-hop fact verification model imposes imperative requirements for explainability. One feasible way is to extract rationales, a subset of inputs, where the performance of prediction drops dramatically when being removed. Though being explainable, most rationale extraction methods for multi-hop fact verification explore the semantic information within each piece of evidence individually, while ignoring the topological information interaction among different  Cites: An information bottleneck approach for controlling conciseness in

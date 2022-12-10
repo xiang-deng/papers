@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Intermediate Entity-based Sparse Interpretable Representation Learning"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "D Garcia-Olano, Y Onoe, J Ghosh, BC Wallace - arXiv preprint arXiv:2212.01641, 2022"
----
-Interpretable entity representations (IERs) are sparse embeddings that are  human-readable  in that dimensions correspond to fine-grained entity types and values are predicted probabilities that a given entity is of the corresponding type. These methods perform well in zero-shot and low supervision settings. Compared to standard dense neural embeddings, such interpretable representations may permit analysis and debugging. However, while fine-tuning sparse, interpretable …
-Cites: ‪Deep contextualized word representations‬

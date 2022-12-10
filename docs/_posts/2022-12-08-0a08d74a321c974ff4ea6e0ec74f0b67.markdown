@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluation of Incremental Entity Extraction with Background Knowledge and Entity Linking"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "R Pozzi, F Moiraghi, F Lodi, M Palmonari - 2022"
----
-Named entity extraction is a crucial task to support the population of Knowledge Bases (KBs) from documents written in natural language. However, in many application domains, these documents must be collected and processed incrementally to update the KB as more data are ingested. In some cases, quality concerns may even require human validation mechanisms along the process. While very recent work in the NLP community has discussed the importance of evaluating …
-Cites: ‪Fine-grained entity typing for domain independent entity linking‬
+--- 
+layout: post 
+title: "Evaluation of Incremental Entity Extraction with Background Knowledge and Entity Linking" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "R Pozzi, F Moiraghi, F Lodi, M Palmonari - 2022" 
+--- 
+Named entity extraction is a crucial task to support the population of Knowledge Bases (KBs) from documents written in natural language. However, in many application domains, these documents must be collected and processed incrementally to update the KB as more data are ingested. In some cases, quality concerns may even require human validation mechanisms along the process. While very recent work in the NLP community has discussed the importance of evaluating  Cites: Fine-grained entity typing for domain independent entity linking

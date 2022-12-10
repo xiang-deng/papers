@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding How Model Size Affects Few-shot Instruction Prompting"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "AS Joaquin, A Haroen - arXiv preprint arXiv:2212.01907, 2022"
----
-Large Language Models are affected by the phenomena of memorizing and forgetting their training data. But how do these vary by model size? We work towards this question by investigating how the model size affects the model s ability to discriminate a word s meaning in a given context. We introduce a dataset called DeltaWords, which evaluates a model s ability to follow instructions to select a sentence which replaces the target word with its antonym. We show a weak inverse …
-Cites: ‪Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt …‬
+--- 
+layout: post 
+title: "Understanding How Model Size Affects Few-shot Instruction Prompting" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "AS Joaquin, A Haroen - arXiv preprint arXiv:2212.01907, 2022" 
+--- 
+Large Language Models are affected by the phenomena of memorizing and forgetting their training data. But how do these vary by model size? We work towards this question by investigating how the model size affects the model s ability to discriminate a word s meaning in a given context. We introduce a dataset called DeltaWords, which evaluates a model s ability to follow instructions to select a sentence which replaces the target word with its antonym. We show a weak inverse  Cites: Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt

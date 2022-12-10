@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Nonparametric Masked Language Modeling"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "S Min, W Shi, M Lewis, X Chen, W Yih, H Hajishirzi… - arXiv preprint arXiv …, 2022"
----
-Existing language models (LMs) predict tokens with a softmax over a finite vocabulary, which can make it difficult to predict rare tokens or phrases. We introduce NPM, the first nonparametric masked language model that replaces this softmax with …
+--- 
+layout: post 
+title: "Nonparametric Masked Language Modeling" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "S Min, W Shi, M Lewis, X Chen, W Yih, H Hajishirzi - arXiv preprint arXiv , 2022" 
+--- 
+Existing language models (LMs) predict tokens with a softmax over a finite vocabulary, which can make it difficult to predict rare tokens or phrases. We introduce NPM, the first nonparametric masked language model that replaces this softmax with

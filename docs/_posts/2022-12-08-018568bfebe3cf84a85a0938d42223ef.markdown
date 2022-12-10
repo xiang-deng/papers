@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge Graph Quality Evaluation under Incomplete Information"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "X Li, C Zou, Y Cai, Y Zhu - arXiv preprint arXiv:2212.00994, 2022"
----
-Utilities of knowledge graphs (KGs) depend on their qualities. A KG that is of poor quality not only has little applicability but also leads to some unexpected errors. Therefore, quality evaluation for KGs is crucial and indispensable. Existing methods design many quality dimensions and calculate metrics in the corresponding dimensions based on details (ie, raw data and graph structures) of KGs for evaluation. However, there are two major issues. On one hand, they consider the …
-Cites: ‪Question generation for question answering‬
+--- 
+layout: post 
+title: "Knowledge Graph Quality Evaluation under Incomplete Information" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "X Li, C Zou, Y Cai, Y Zhu - arXiv preprint arXiv:2212.00994, 2022" 
+--- 
+Utilities of knowledge graphs (KGs) depend on their qualities. A KG that is of poor quality not only has little applicability but also leads to some unexpected errors. Therefore, quality evaluation for KGs is crucial and indispensable. Existing methods design many quality dimensions and calculate metrics in the corresponding dimensions based on details (ie, raw data and graph structures) of KGs for evaluation. However, there are two major issues. On one hand, they consider the  Cites: Question generation for question answering

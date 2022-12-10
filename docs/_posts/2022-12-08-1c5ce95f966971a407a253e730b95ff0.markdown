@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Language Models as Agent Models"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "J Andreas - arXiv preprint arXiv:2212.01681, 2022"
----
-Language models (LMs) are trained on collections of documents, written by individual human agents to achieve specific goals in an outside world. During training, LMs have access only to text of these documents, with no direct evidence of the internal states of the agents that produced them--a fact often used to argue that LMs are incapable of modeling goal-directed aspects of human language production and comprehension. Can LMs trained on text learn anything at all about the …
-Cites: ‪Experience grounds language‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hedging against Complexity: Distributionally Robust Optimization with Parametric Approximation"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "G Iyengar, H Lam, T Wang - arXiv preprint arXiv:2212.01518, 2022"
----
-Empirical risk minimization (ERM) and distributionally robust optimization (DRO) are popular approaches for solving stochastic optimization problems that appear in operations management and machine learning. Existing generalization error bounds for these methods depend on either the complexity of the cost function or dimension of the uncertain parameters; consequently, the performance of these methods is poor for high-dimensional problems with objective functions under high complexity. We …
-Cites: ‪Distributionally Robust Models with Parametric Likelihood Ratios‬
+--- 
+layout: post 
+title: "Hedging against Complexity: Distributionally Robust Optimization with Parametric Approximation" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "G Iyengar, H Lam, T Wang - arXiv preprint arXiv:2212.01518, 2022" 
+--- 
+Empirical risk minimization (ERM) and distributionally robust optimization (DRO) are popular approaches for solving stochastic optimization problems that appear in operations management and machine learning. Existing generalization error bounds for these methods depend on either the complexity of the cost function or dimension of the uncertain parameters; consequently, the performance of these methods is poor for high-dimensional problems with objective functions under high complexity. We  Cites: Distributionally Robust Models with Parametric Likelihood Ratios

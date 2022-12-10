@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Limit of Explaining Black-box Temporal Graph Neural Networks"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "MN Vu, MT Thai - arXiv preprint arXiv:2212.00952, 2022"
----
-Temporal Graph Neural Network (TGNN) has been receiving a lot of attention recently due to its capability in modeling time-evolving graph-related tasks. Similar to Graph Neural Networks, it is also non-trivial to interpret predictions made by a TGNN due to its black-box nature. A major approach tackling this problems in GNNs is by analyzing the model responses on some perturbations of the model s inputs, called perturbation-based explanation methods. While these methods are convenient and …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "On the Limit of Explaining Black-box Temporal Graph Neural Networks" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "MN Vu, MT Thai - arXiv preprint arXiv:2212.00952, 2022" 
+--- 
+Temporal Graph Neural Network (TGNN) has been receiving a lot of attention recently due to its capability in modeling time-evolving graph-related tasks. Similar to Graph Neural Networks, it is also non-trivial to interpret predictions made by a TGNN due to its black-box nature. A major approach tackling this problems in GNNs is by analyzing the model responses on some perturbations of the model s inputs, called perturbation-based explanation methods. While these methods are convenient and  Cites: Why Should I Trust You? : Explaining the Predictions of Any

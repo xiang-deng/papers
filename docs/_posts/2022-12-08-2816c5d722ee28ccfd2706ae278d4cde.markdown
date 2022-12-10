@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Core node knowledge based multi-objective particle swarm optimization for dynamic community detection"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "Y Sun, X Sun, Z Liu, Y Cao, J Yang - Computers & Industrial Engineering, 2022"
----
-Community detection aims to classify nodes with similar attributes, and it becomes more difficult when the network structure changes over time. In order to tap into the evolution of dynamic networks, nodes with high criticality in dynamic networks clearly need to be attended. In this paper, a novel dynamic community detection algorithm based on particle swarm optimization is proposed. The core nodes in the network are obtained by calculating the resistance distance of each node. The nodes associated …
-Cites: ‪Evolutionary spectral clustering by incorporating temporal …‬
+--- 
+layout: post 
+title: "Core node knowledge based multi-objective particle swarm optimization for dynamic community detection" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "Y Sun, X Sun, Z Liu, Y Cao, J Yang - Computers & Industrial Engineering, 2022" 
+--- 
+Community detection aims to classify nodes with similar attributes, and it becomes more difficult when the network structure changes over time. In order to tap into the evolution of dynamic networks, nodes with high criticality in dynamic networks clearly need to be attended. In this paper, a novel dynamic community detection algorithm based on particle swarm optimization is proposed. The core nodes in the network are obtained by calculating the resistance distance of each node. The nodes associated  Cites: Evolutionary spectral clustering by incorporating temporal

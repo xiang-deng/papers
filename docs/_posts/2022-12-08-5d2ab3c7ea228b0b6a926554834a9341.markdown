@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CoP: Factual Inconsistency Detection by Controlling the Preference"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "S She, X Geng, S Huang, J Chen - arXiv preprint arXiv:2212.01611, 2022"
----
-Abstractive summarization is the process of generating a summary given a document as input. Although significant progress has been made, the factual inconsistency between the document and the generated summary still limits its practical applications. Previous work found that the probabilities assigned by the generation model reflect its preferences for the generated summary, including the preference for factual consistency, and the preference for the language or knowledge prior as well …
-Cites: ‪Don t give me the details, just the summary! topic-aware …‬
+--- 
+layout: post 
+title: "CoP: Factual Inconsistency Detection by Controlling the Preference" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "S She, X Geng, S Huang, J Chen - arXiv preprint arXiv:2212.01611, 2022" 
+--- 
+Abstractive summarization is the process of generating a summary given a document as input. Although significant progress has been made, the factual inconsistency between the document and the generated summary still limits its practical applications. Previous work found that the probabilities assigned by the generation model reflect its preferences for the generated summary, including the preference for factual consistency, and the preference for the language or knowledge prior as well  Cites: Don t give me the details, just the summary! topic-aware

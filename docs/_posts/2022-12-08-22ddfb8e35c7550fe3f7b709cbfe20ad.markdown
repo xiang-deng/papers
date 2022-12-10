@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Event knowledge in large language models: the gap between the impossible and the unlikely"
-date:   2022-12-08 02:33:21 -0400
-categories: jekyll update
-author: "C Kauf, AA Ivanova, G Rambelli, E Chersoni, JS She… - arXiv preprint arXiv …, 2022"
----
-People constantly use language to learn about the world. Computational linguists have capitalized on this fact to build large language models (LLMs) that acquire co-occurrence-based knowledge from language corpora. LLMs achieve impressive performance on many tasks, but the robustness of their world knowledge has been questioned. Here, we ask: do LLMs acquire generalized knowledge about real-world events? Using curated sets of minimal sentence pairs (n= 1215), we tested whether …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Event knowledge in large language models: the gap between the impossible and the unlikely" 
+date: 2022-12-08 02:33:21 -0400 
+categories: jekyll update 
+author: "C Kauf, AA Ivanova, G Rambelli, E Chersoni, JS She - arXiv preprint arXiv , 2022" 
+--- 
+People constantly use language to learn about the world. Computational linguists have capitalized on this fact to build large language models (LLMs) that acquire co-occurrence-based knowledge from language corpora. LLMs achieve impressive performance on many tasks, but the robustness of their world knowledge has been questioned. Here, we ask: do LLMs acquire generalized knowledge about real-world events? Using curated sets of minimal sentence pairs (n= 1215), we tested whether  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList
