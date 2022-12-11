@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Shapley values for cluster importance"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "A Brandsæter, IK Glad - Data Mining and Knowledge Discovery, 2022"
+---
+This paper proposes a novel approach to explain the predictions made by data-driven methods. Since such predictions rely heavily on the data used for training, explanations that convey information about how the training data affects the predictions are useful. The paper proposes a novel approach to quantify how different data-clusters of the training data affect a prediction. The quantification is based on Shapley values, a concept which originates from coalitional game theory …
+Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬

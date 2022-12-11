@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Compact Network Embedding for Fast Node Classification"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "X Shen, YS Ong, Z Mao, S Pan, W Liu, Y Zheng - Pattern Recognition, 2022"
+---
+Network embedding has shown promising performance in real-world applications. The network embedding typically lies in a continuous vector space, where storage and computation costs are high, especially in large-scale applications. This paper proposes more compact representation to fulfill the gap. The proposed discrete network embedding (DNE) leverages hash code to represent node in Hamming space. The Hamming similarity between hash codes approximates the ground-truth …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬

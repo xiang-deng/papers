@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LUNA: Language Understanding with Number Augmentations on Transformers via Number Plugins and Pre-training"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "H Han, J Xu, M Zhou, Y Shao, S Han, D Zhang - arXiv preprint arXiv:2212.02691, 2022"
+---
+Transformers are widely used in NLP tasks. However, current approaches to leveraging transformers to understand language expose one weak spot: Number understanding. In some scenarios, numbers frequently occur, especially in semi-structured data like tables. But current approaches to rich-number tasks with transformer-based language models abandon or lose some of the numeracy information-eg, breaking numbers into sub-word tokens-which leads to many number …
+Cites: ‪Do language embeddings capture scales?‬

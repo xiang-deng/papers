@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DeepSpeed Data Efficiency: Improving Deep Learning Model Quality and Training Efficiency via Efficient Data Sampling and Routing"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "C Li, Z Yao, X Wu, M Zhang, Y He - arXiv preprint arXiv:2212.03597, 2022"
+---
+Recent advances on deep learning models come at the price of formidable training cost. The increasing model size is one of the root cause, but another less-emphasized fact is that data scale is actually increasing at a similar speed as model scale, and the training cost is proportional to both of them. Compared to the rapidly evolving model architecture, how to efficiently use the training data (especially for the expensive foundation model pertaining) is both less explored and difficult to realize …
+Cites: ‪Semantic parsing on freebase from question-answer pairs‬

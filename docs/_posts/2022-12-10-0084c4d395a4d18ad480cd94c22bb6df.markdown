@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Learning Based Hypothesis Test for Harmful Covariate Shift"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "T Ginsberg, Z Liang, RG Krishnan - arXiv preprint arXiv:2212.02742, 2022"
+---
+The ability to quickly and accurately identify covariate shift at test time is a critical and often overlooked component of safe machine learning systems deployed in high-risk domains. While methods exist for detecting when predictions should not be made on out-of-distribution test examples, identifying distributional level differences between training and test time can help determine when a model should be removed from the deployment setting and retrained. In this work, we define harmful covariate shift …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

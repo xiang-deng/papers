@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pretrained Diffusion Models for Unified Human Motion Synthesis"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "J Ma, S Bai, C Zhou - arXiv preprint arXiv:2212.02837, 2022"
+---
+Generative modeling of human motion has broad applications in computer animation, virtual reality, and robotics. Conventional approaches develop separate models for different motion synthesis tasks, and typically use a model of a small size to avoid overfitting the scarce data available in each setting. It remains an open question whether developing a single unified model is feasible, which may 1) benefit the acquirement of novel skills by combining skills learned from multiple tasks, and 2) …
+Cites: ‪Diffusion-LM Improves Controllable Text Generation‬

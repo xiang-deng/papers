@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving distant supervision relation extraction with entity-guided enhancement feature"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "H Wen, X Zhu, L Zhang - Neural Computing and Applications, 2022"
+---
+Selective attention in distant supervision extraction relation is advantageous to deal with incorrectly labeled sentences in a bag, but it does not help in cases where many sentence bags consist of only one sentence. To resolve the deficiencies, we propose an entity-guided enhancement feature neural network for distant supervision relation extraction. We discover that key relation features are typically found in both significant words and phrases, which can be captured by entity guidance. We first …
+Cites: ‪Hierarchical Relation Extraction with Coarse-to-Fine Grained …‬

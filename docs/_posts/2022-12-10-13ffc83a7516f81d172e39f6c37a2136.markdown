@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CoQEx: Entity Counts Explained"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "S Ghosh, S Razniewski, G Weikum - 2023"
+---
+For open-domain question answering, queries on entity counts, such as how many languages are spoken in Indonesia, are challenging. Such queries can be answered through succinct contexts with counts: estimated 700 languages, and instances: Javanese and Sundanese. Answer candidates naturally give rise to a distribution, where count contexts denoting the queried entity counts and their semantic subgroups often coexist, while the instances ground the counts in their constituting …
+Cites: ‪Hurdles to Progress in Long-form Question Answering‬

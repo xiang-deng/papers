@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Meta-path Reasoning of Knowledge Graph for Commonsense Question Answering"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "M Zhang, T He, M Dong - 2022"
+---
+Commonsense question answering (CQA) requires understanding and reasoning over QA context and related commonsense knowledge, such as a structured Knowledge Graph (KG). Existing studies combine language models and graph neural networks to model inference. However, traditional knowledge graph are mostly concept-based, ignoring direct path evidence necessary for accurate reasoning. In this paper, we propose MRGNN (Meta-path Reasoning Graph Neural …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬

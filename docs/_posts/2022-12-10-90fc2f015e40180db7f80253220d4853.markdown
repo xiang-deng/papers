@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adaptive Testing of Computer Vision Models"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "I Gao, G Ilharco, S Lundberg, MT Ribeiro - arXiv preprint arXiv:2212.02774, 2022"
+---
+Vision models often fail systematically on groups of data that share common semantic characteristics (eg, rare objects or unusual scenes), but identifying these failure modes is a challenge. We introduce AdaVision, an interactive process for testing vision models which helps users identify and fix coherent failure modes. Given a natural language description of a coherent group, AdaVision retrieves relevant images from LAION-5B with CLIP. The user then labels a small amount of …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

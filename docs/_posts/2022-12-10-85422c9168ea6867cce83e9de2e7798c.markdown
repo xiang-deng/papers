@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An eigenspace view reveals how predictor networks and stop-grads provide implicit variance regularization"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "MS Halvagal, A Laborieux, F Zenke"
+---
+Self-supervised learning (SSL) learns useful representations from unlabelled data by training networks to be invariant to pairs of augmented versions of the same input. Non-contrastive methods avoid collapse either by directly regularizing the covariance matrix of network outputs or through asymmetric loss architectures, two seemingly unrelated approaches. Here, by building on DirectPred [1], we lay out a theoretical framework that reconciles these two views. We derive analytical …
+Cites: ‪A framework for contrastive self-supervised learning and designing …‬

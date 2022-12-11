@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dataset vs Reality: Understanding Model Performance from the Perspective of Information Need"
+date:   2022-12-10 20:24:02 -0400
+categories: jekyll update
+author: "M Yu, A Sun - arXiv preprint arXiv:2212.02726, 2022"
+---
+Deep learning technologies have brought us many models that outperform human beings on a few benchmarks. An interesting question is: can these models well solve real-world problems with similar settings (eg, same input/output) to the benchmark datasets? We argue that a model is trained to answer the same information need for which the training dataset is created. Although some datasets may share high structural similarities, eg, question-answer pairs for the question answering (QA) task …
+Cites: ‪Natural questions: a benchmark for question answering research‬
