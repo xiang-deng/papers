@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generating Questions for Abstractive Answers with a Multi-Channel Fusion Encoder-Decoder Model"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "J Qiu, D Xiong - 2022 International Conference on Asian Language …, 2022"
----
-The conventional seq2seq-based question generation usually treats the answer as a span within the document. But answers cannot always be literally found in documents, especially for those generated in an abstractive manner. In order to address this issue, we propose a Multi-Channel Fusion Encoder-Decoder model (MCFED) to generate questions corresponding to abstractive answers. The model uses two encoders, one for the document and the other for the abstractive answer …
-Cites: ‪Question generation for question answering‬
+--- 
+layout: post 
+title: "Generating Questions for Abstractive Answers with a Multi-Channel Fusion Encoder-Decoder Model" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "J Qiu, D Xiong - 2022 International Conference on Asian Language , 2022" 
+--- 
+The conventional seq2seq-based question generation usually treats the answer as a span within the document. But answers cannot always be literally found in documents, especially for those generated in an abstractive manner. In order to address this issue, we propose a Multi-Channel Fusion Encoder-Decoder model (MCFED) to generate questions corresponding to abstractive answers. The model uses two encoders, one for the document and the other for the abstractive answer  Cites: Question generation for question answering

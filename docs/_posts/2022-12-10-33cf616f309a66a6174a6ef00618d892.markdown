@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Achieving Transparency in Distributed Machine Learning with Explainable Data Collaboration"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "A Bogdanova, A Imakura, T Sakurai, T Fujii… - arXiv preprint arXiv …, 2022"
----
-Transparency of Machine Learning models used for decision support in various industries becomes essential for ensuring their ethical use. To that end, feature attribution methods such as SHAP (SHapley Additive exPlanations) are widely used to explain the predictions of black-box machine learning models to customers and developers. However, a parallel trend has been to train machine learning models in collaboration with other data holders without accessing their data. Such models …
-Cites: ‪Model-agnostic interpretability of machine learning‬
+--- 
+layout: post 
+title: "Achieving Transparency in Distributed Machine Learning with Explainable Data Collaboration" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "A Bogdanova, A Imakura, T Sakurai, T Fujii - arXiv preprint arXiv , 2022" 
+--- 
+Transparency of Machine Learning models used for decision support in various industries becomes essential for ensuring their ethical use. To that end, feature attribution methods such as SHAP (SHapley Additive exPlanations) are widely used to explain the predictions of black-box machine learning models to customers and developers. However, a parallel trend has been to train machine learning models in collaboration with other data holders without accessing their data. Such models  Cites: Model-agnostic interpretability of machine learning

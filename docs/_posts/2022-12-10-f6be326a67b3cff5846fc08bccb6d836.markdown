@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Platform Behavior under Market Shocks: A Simulation Framework and Reinforcement-Learning Based Study"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "X Wang, GQ Ma, A Eden, C Li, A Trott, S Zheng…"
----
-We study the behavior of an economic platform (eg, Amazon, Uber Eats, Instacart) under shocks, such as COVID-19 lockdowns, and the effect of different regulation considerations imposed on a platform. To this end, we develop a multi-agent Gym environment of a platform economy in a dynamic, multi-period setting, with the possible occurrence of economic shocks. Buyers and sellers are modeled as economically-motivated agents, choosing whether or not to pay corresponding fees …
-Cites: ‪The AI Economist: Taxation policy design via two-level deep …‬
+--- 
+layout: post 
+title: "Platform Behavior under Market Shocks: A Simulation Framework and Reinforcement-Learning Based Study" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "X Wang, GQ Ma, A Eden, C Li, A Trott, S Zheng" 
+--- 
+We study the behavior of an economic platform (eg, Amazon, Uber Eats, Instacart) under shocks, such as COVID-19 lockdowns, and the effect of different regulation considerations imposed on a platform. To this end, we develop a multi-agent Gym environment of a platform economy in a dynamic, multi-period setting, with the possible occurrence of economic shocks. Buyers and sellers are modeled as economically-motivated agents, choosing whether or not to pay corresponding fees  Cites: The AI Economist: Taxation policy design via two-level deep

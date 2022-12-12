@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Theft or Felony? Task Augmentation for Criminal Amount Calculation in Judgment Documents"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "F Li, Y Qin, S Yu - 2022 International Conference on Asian Language …, 2022"
----
-The criminal amount helps the judges select the most appropriate sentence for the defendant. Criminal amount calculation aims to identify a final criminal amount in a judgment document automatically. We propose to model the task as a money entity classification problem, which can be solved by a BERT-based classification model. However, the money entity classification lacks large-scale high-quality human annotated data for training. Thus, we propose to leverage legal domain knowledge …
-Cites: ‪DROP: A Reading Comprehension Benchmark Requiring Discrete …‬
+--- 
+layout: post 
+title: "Theft or Felony? Task Augmentation for Criminal Amount Calculation in Judgment Documents" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "F Li, Y Qin, S Yu - 2022 International Conference on Asian Language , 2022" 
+--- 
+The criminal amount helps the judges select the most appropriate sentence for the defendant. Criminal amount calculation aims to identify a final criminal amount in a judgment document automatically. We propose to model the task as a money entity classification problem, which can be solved by a BERT-based classification model. However, the money entity classification lacks large-scale high-quality human annotated data for training. Thus, we propose to leverage legal domain knowledge  Cites: DROP: A Reading Comprehension Benchmark Requiring Discrete

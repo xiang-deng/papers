@@ -1,9 +1,8 @@
----
-layout: post
-title:  "EDU-Capsule: aspect-based sentiment analysis at clause level"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "T Lin, A Sun, Y Wang - Knowledge and Information Systems, 2022"
----
-Many studies on aspect-based sentiment analysis (ABSA) aim to directly predict aspects and polarities at sentence level. However, it is not rare that a long sentence expresses multiple aspects. In this paper, we propose to study ABSA at EDU-level. Elementary discourse unit (EDU) in rhetorical structure theory is an atomic semantic unit, similar to a clause in a sentence. Through manual annotation of 8,823 EDUs, obtained from the SemEval-2014 Task 4 Restaurant Review dataset, we show that …
-Cites: ‪Multiple instance learning networks for fine-grained sentiment …‬
+--- 
+layout: post 
+title: "EDU-Capsule: aspect-based sentiment analysis at clause level" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "T Lin, A Sun, Y Wang - Knowledge and Information Systems, 2022" 
+--- 
+Many studies on aspect-based sentiment analysis (ABSA) aim to directly predict aspects and polarities at sentence level. However, it is not rare that a long sentence expresses multiple aspects. In this paper, we propose to study ABSA at EDU-level. Elementary discourse unit (EDU) in rhetorical structure theory is an atomic semantic unit, similar to a clause in a sentence. Through manual annotation of 8,823 EDUs, obtained from the SemEval-2014 Task 4 Restaurant Review dataset, we show that  Cites: Multiple instance learning networks for fine-grained sentiment

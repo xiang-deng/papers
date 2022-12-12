@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Classification avec des modèles probabilistes génératifs et des réseaux de neurones. Applications au traitement des langues naturelles"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "E Azeraf - 2022"
----
-Un nombre important de modèles probabilistes connaissent une grande perte d intérêt pour la classification avec apprentissage supervisé depuis un certain nombre d années, tels que le Naive Bayes ou la chaîne de Markov cachée. Ces modèles, qualifiés de génératifs, sont critiqués car leur classificateur induit doit prendre en compte la loi des observations, qui peut s  avérer très complexe à apprendre quand le nombre de features de ces derniers est élevé. C est notamment …
-Cites: ‪Document modeling with gated recurrent neural network for …‬

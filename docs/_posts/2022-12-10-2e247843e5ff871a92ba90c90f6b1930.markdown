@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Study on Extracting Named Entities from Fine-tuned vs. Differentially Private Fine-tuned BERT Models"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "A Diera, N Lell, A Garifullina, A Scherp - arXiv preprint arXiv:2212.03749, 2022"
----
-Privacy preserving deep learning is an emerging field in machine learning that aims to mitigate the privacy risks in the use of deep neural networks. One such risk is training data extraction from language models that have been trained on datasets, which contain personal and privacy sensitive information. In our study, we investigate the extent of named entity memorization in fine-tuned BERT models. We use single-label text classification as representative downstream task and employ three different …
-Cites: ‪Fine-tuning pretrained language models: Weight initializations …‬
+--- 
+layout: post 
+title: "A Study on Extracting Named Entities from Fine-tuned vs. Differentially Private Fine-tuned BERT Models" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "A Diera, N Lell, A Garifullina, A Scherp - arXiv preprint arXiv:2212.03749, 2022" 
+--- 
+Privacy preserving deep learning is an emerging field in machine learning that aims to mitigate the privacy risks in the use of deep neural networks. One such risk is training data extraction from language models that have been trained on datasets, which contain personal and privacy sensitive information. In our study, we investigate the extent of named entity memorization in fine-tuned BERT models. We use single-label text classification as representative downstream task and employ three different  Cites: Fine-tuning pretrained language models: Weight initializations

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hypernetwork Representation Learning Based on Hyperedge Modeling"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "Y Zhu, H Zhao, X Wang, J Huang - Symmetry, 2022"
----
-Most network representation learning approaches only consider the pairwise relationships between the nodes in ordinary networks but do not consider the tuple relationships, namely the hyperedges, among the nodes in the hypernetworks. Therefore, to solve the above issue, a hypernetwork representation learning approach based on hyperedge modeling, abbreviated as HRHM, is proposed, which fully considers the hyperedges to obtain ideal node representation vectors that are …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬
+--- 
+layout: post 
+title: "Hypernetwork Representation Learning Based on Hyperedge Modeling" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "Y Zhu, H Zhao, X Wang, J Huang - Symmetry, 2022" 
+--- 
+Most network representation learning approaches only consider the pairwise relationships between the nodes in ordinary networks but do not consider the tuple relationships, namely the hyperedges, among the nodes in the hypernetworks. Therefore, to solve the above issue, a hypernetwork representation learning approach based on hyperedge modeling, abbreviated as HRHM, is proposed, which fully considers the hyperedges to obtain ideal node representation vectors that are  Cites: Learning with hypergraphs: Clustering, classification, and

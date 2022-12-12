@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DiSTRICT: Dialogue State Tracking with Retriever Driven In-Context Tuning"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "P Venkateswaran, E Duesterwald, V Isahagian - arXiv preprint arXiv:2212.02851, 2022"
----
-Dialogue State Tracking (DST), a key component of task-oriented conversation systems, represents user intentions by determining the values of pre-defined slots in an ongoing dialogue. Existing approaches use hand-crafted templates and additional slot information to fine-tune and prompt large pre-trained language models and elicit slot values from the dialogue context. Significant manual effort and domain knowledge is required to design effective prompts, limiting the …
-Cites: ‪Unifiedskg: Unifying and multi-tasking structured knowledge …‬
+--- 
+layout: post 
+title: "DiSTRICT: Dialogue State Tracking with Retriever Driven In-Context Tuning" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "P Venkateswaran, E Duesterwald, V Isahagian - arXiv preprint arXiv:2212.02851, 2022" 
+--- 
+Dialogue State Tracking (DST), a key component of task-oriented conversation systems, represents user intentions by determining the values of pre-defined slots in an ongoing dialogue. Existing approaches use hand-crafted templates and additional slot information to fine-tune and prompt large pre-trained language models and elicit slot values from the dialogue context. Significant manual effort and domain knowledge is required to design effective prompts, limiting the  Cites: Unifiedskg: Unifying and multi-tasking structured knowledge

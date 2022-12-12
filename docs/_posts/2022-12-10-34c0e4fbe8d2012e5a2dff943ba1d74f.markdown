@@ -1,9 +1,8 @@
----
-layout: post
-title:  "N-gram Is Back: Residual Learning of Neural Text Generation with n-gram Language Model"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "H Li, D Cai, J Xu, T Watanabe"
----
-N-gram language models (LM) have been largely superseded by neural LMs as the latter exhibits better performance. However, we find that n-gram models can achieve satisfactory performance on a large proportion of testing cases, indicating they have already captured abundant knowledge of the language with relatively low computational cost. With this observation, we propose to learn a neural LM that fits the residual between an n-gram LM and the real-data distribution. The combination …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "N-gram Is Back: Residual Learning of Neural Text Generation with n-gram Language Model" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "H Li, D Cai, J Xu, T Watanabe" 
+--- 
+N-gram language models (LM) have been largely superseded by neural LMs as the latter exhibits better performance. However, we find that n-gram models can achieve satisfactory performance on a large proportion of testing cases, indicating they have already captured abundant knowledge of the language with relatively low computational cost. With this observation, we propose to learn a neural LM that fits the residual between an n-gram LM and the real-data distribution. The combination  Cites: Text summarization with pretrained encoders

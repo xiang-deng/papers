@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Neural Machine Translation with Contrastive Translation Memories"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "X Cheng, S Gao, L Liu, D Zhao, R Yan - arXiv preprint arXiv:2212.03140, 2022"
----
-Retrieval-augmented Neural Machine Translation models have been successful in many translation scenarios. Different from previous works that make use of mutually similar but redundant translation memories~(TMs), we propose a new retrieval-augmented NMT to model contrastively retrieved translation memories that are holistically similar to the source sentence while individually contrastive to each other providing maximal information gains in three phases. First, in TM retrieval phase, we …
-Cites: ‪Nearest neighbor machine translation‬
+--- 
+layout: post 
+title: "Neural Machine Translation with Contrastive Translation Memories" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "X Cheng, S Gao, L Liu, D Zhao, R Yan - arXiv preprint arXiv:2212.03140, 2022" 
+--- 
+Retrieval-augmented Neural Machine Translation models have been successful in many translation scenarios. Different from previous works that make use of mutually similar but redundant translation memories~(TMs), we propose a new retrieval-augmented NMT to model contrastively retrieved translation memories that are holistically similar to the source sentence while individually contrastive to each other providing maximal information gains in three phases. First, in TM retrieval phase, we  Cites: Nearest neighbor machine translation

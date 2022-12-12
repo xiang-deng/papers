@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Action Poisoning Attacks on Linear Contextual Bandits"
-date:   2022-12-10 20:24:02 -0400
-categories: jekyll update
-author: "G Liu, L Lai"
----
-Contextual bandit algorithms have many applicants in a variety of scenarios. In order to develop trustworthy contextual bandit systems, understanding the impacts of various adversarial attacks on contextual bandit algorithms is essential. In this paper, we propose a new class of attacks: action poisoning attacks, where an adversary can change the action signal selected by the agent. We design action poisoning attack schemes against linear contextual bandit algorithms in both white-box and black-box …
-Cites: ‪Provably optimal algorithms for generalized linear contextual bandits‬
+--- 
+layout: post 
+title: "Action Poisoning Attacks on Linear Contextual Bandits" 
+date: 2022-12-10 20:24:02 -0400 
+categories: jekyll update 
+author: "G Liu, L Lai" 
+--- 
+Contextual bandit algorithms have many applicants in a variety of scenarios. In order to develop trustworthy contextual bandit systems, understanding the impacts of various adversarial attacks on contextual bandit algorithms is essential. In this paper, we propose a new class of attacks: action poisoning attacks, where an adversary can change the action signal selected by the agent. We design action poisoning attack schemes against linear contextual bandit algorithms in both white-box and black-box  Cites: Provably optimal algorithms for generalized linear contextual bandits
