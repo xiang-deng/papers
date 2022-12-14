@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Constrained Text Generation"
+date:   2022-12-13 08:01:52 -0400
+categories: jekyll update
+author: "NK Katsifarakis - 2022"
+---
+Constrained text generation is a relatively new topic in NLG. It has been shown that pretrained Language Models (GPT-2, BART etc.), with no additional modifications or tuning, do not give good results. Many approaches have been introduced to improves results by utilizing external corpora, and by applying task–specific modifications to existing Language Models, as well as their fine–tuning process. This study focuses on the task of producing phrases that contain a give set of words …
+Cites: ‪Neurologic a* esque decoding: Constrained text generation with …‬

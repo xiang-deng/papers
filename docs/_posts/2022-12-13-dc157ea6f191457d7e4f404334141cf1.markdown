@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RePReL: A Unified Framework for Integrating Relational Planning and Reinforcement Learning for Effective Abstraction in Discrete and Continuous Domains"
+date:   2022-12-13 08:01:52 -0400
+categories: jekyll update
+author: "H Kokel, S Natarajan, B Ravindran, P Tadepalli"
+---
+We propose a hybrid planner-(deep) reinforcement learning (RL) architecture, RePReL, that leverages a relational planner to efficiently provide useful state abstractions. State abstractions have a tremendous advantage for better generalization and transfer in RL. Our framework takes an important step toward constructing these abstractions. Specifically, the framework enables multi-level abstractions by leveraging a high-level planner to communicate with a low-level …
+Cites: ‪Neural logic machines‬

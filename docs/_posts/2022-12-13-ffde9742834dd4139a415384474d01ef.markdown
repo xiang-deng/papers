@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DC-MBR: Distributional Cooling for Minimum Bayesian Risk Decoding"
+date:   2022-12-13 08:01:52 -0400
+categories: jekyll update
+author: "J Yan, J Xu, F Meng, J Zhou, Y Zhang - arXiv preprint arXiv:2212.04205, 2022"
+---
+Minimum Bayesian Risk Decoding (MBR) emerges as a promising decoding algorithm in Neural Machine Translation. However, MBR performs poorly with label smoothing, which is surprising as label smoothing provides decent improvement with beam search and improves generality in various tasks. In this work, we show that the issue arises from the un-consistency of label smoothing on the token-level and sequence-level distributions. We demonstrate that even though label smoothing only …
+Cites: ‪Opt: Open pre-trained transformer language models‬

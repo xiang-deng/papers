@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Successive Prompting for Decomposing Complex Questions"
+date:   2022-12-13 08:01:52 -0400
+categories: jekyll update
+author: "D Dua, S Gupta, S Singh, M Gardner - arXiv preprint arXiv:2212.04092, 2022"
+---
+Answering complex questions that require making latent decisions is a challenging task, especially when limited supervision is available. Recent works leverage the capabilities of large language models (LMs) to perform complex question answering in a few-shot setting by demonstrating how to output intermediate rationalizations while solving the complex question in a single pass. We introduce``Successive Prompting  , where we iteratively break down a complex task into a simple task, solve …
+Cites: ‪Giving BERT a Calculator: Finding Operations and Arguments with …‬
