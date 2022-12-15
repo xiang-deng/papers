@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RangeGrad: Explaining Neural Networks by Measuring Uncertainty through Bound Propagation"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "S Pinxteren, M Favier, T Calders"
+---
+When generating local neural network explanations, many methods remove or obfuscate information at the input and observe the effect on the neural network output. If the lack of certain information causes meaningful changes to the output, we assume it was important and forms part of the explanation for the prediction result. It is not trivial, however, to decide on a clear definition for the absence of information. Previous methods have blurred, darkened or added normally distributed noise to …
+Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬

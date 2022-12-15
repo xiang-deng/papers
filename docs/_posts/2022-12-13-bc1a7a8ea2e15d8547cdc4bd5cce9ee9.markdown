@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Characterizing the as-encountered ground condition with tunnel boring machine data using semi-supervised learning"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "H Yu, M Mooney - Computers and Geotechnics, 2023"
----
-Knowing the as-encountered geology during mechanized TBM tunneling is important for machine operation and contractual dispute resolution. However, ground condition estimated before excavation can be locally highly inaccurate. One solution is to characterize the ground directly from tunnel boring machine (TBM) data with data-driven models, assuming there exists unique relationships between TBM behavior and the changing ground. Only supervised-learning models trained exclusively with …
-Cites: ‪Learning with Local and Global Consistency.‬
+--- 
+layout: post 
+title: "Characterizing the as-encountered ground condition with tunnel boring machine data using semi-supervised learning" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "H Yu, M Mooney - Computers and Geotechnics, 2023" 
+--- 
+Knowing the as-encountered geology during mechanized TBM tunneling is important for machine operation and contractual dispute resolution. However, ground condition estimated before excavation can be locally highly inaccurate. One solution is to characterize the ground directly from tunnel boring machine (TBM) data with data-driven models, assuming there exists unique relationships between TBM behavior and the changing ground. Only supervised-learning models trained exclusively with  Cites: Learning with Local and Global Consistency.

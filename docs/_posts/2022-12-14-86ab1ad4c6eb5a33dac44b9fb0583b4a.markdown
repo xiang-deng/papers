@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parameter-Efficient Finetuning of Transformers for Source Code"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "S Ayupov, N Chirkova - arXiv preprint arXiv:2212.05901, 2022"
+---
+Pretrained Transformers achieve state-of-the-art performance in various code-processing tasks but may be too large to be deployed. As software development tools often incorporate modules for various purposes which may potentially use a single instance of the pretrained model, it appears relevant to utilize parameter-efficient fine-tuning for the pretrained models of code. In this work, we test two widely used approaches, adapters and LoRA, which were initially tested on NLP tasks, on …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

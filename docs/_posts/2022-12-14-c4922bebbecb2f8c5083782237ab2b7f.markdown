@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CONTEXT-NER: Contextual Phrase Generation at Scale"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "H Gupta, S Verma, T Kumar, S Mishra, T Agrawal…"
+---
+NLP research has been focused on NER extraction and how to efficiently extract them from a sentence. However, generating relevant context of entities from a sentence has remained under-explored. In this work we introduce the task CONTEXT-NER in which relevant context of an entity has to be generated. The extracted context may not be found exactly as a substring in the sentence. We also introduce the EDGAR10-Q dataset for the same, which is a corpus of 1,500 publicly traded …
+Cites: ‪Open information extraction from the web‬

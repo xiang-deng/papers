@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enhancing Paraphrase Question Generation With Prior Knowledge"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "J Xie, W Fang, Q Huang, Y Cai, T Wang - IEEE/ACM Transactions on Audio, Speech …, 2022"
----
-Paraphrase question generation (PQG) aims to rewrite a given original question to a new paraphrase question, where the paraphrase question needs to have the same expressed meaning as the original question, but have a difference in expression form. Existing methods on PQG mainly focus on synonym substitution or word order adjustment based on the original question. However, rewriting based on the word-level may not guarantee the difference between paraphrase questions and original …
-Cites: ‪Joint learning of question answering and question generation‬
+--- 
+layout: post 
+title: "Enhancing Paraphrase Question Generation With Prior Knowledge" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "J Xie, W Fang, Q Huang, Y Cai, T Wang - IEEE/ACM Transactions on Audio, Speech , 2022" 
+--- 
+Paraphrase question generation (PQG) aims to rewrite a given original question to a new paraphrase question, where the paraphrase question needs to have the same expressed meaning as the original question, but have a difference in expression form. Existing methods on PQG mainly focus on synonym substitution or word order adjustment based on the original question. However, rewriting based on the word-level may not guarantee the difference between paraphrase questions and original  Cites: Joint learning of question answering and question generation

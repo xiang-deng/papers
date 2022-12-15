@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "P Baghershahi, R Hosseini, H Moradi - arXiv preprint arXiv:2212.05581, 2022"
+---
+Numerous models have tried to effectively embed knowledge graphs in low dimensions. Among the state-of-the-art methods, Graph Neural Network (GNN) models provide structure-aware representations of knowledge graphs. However, they often utilize the information of relations and their interactions with entities inefficiently. Moreover, most state-of-the-art knowledge graph embedding models suffer from scalability issues because of assigning high-dimensional embeddings to …
+Cites: ‪Convolutional 2d knowledge graph embeddings‬

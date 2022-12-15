@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Does the Choice of a Segmentation Algorithm Affect the Performance of Text Classifiers?"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "R Hronsky, E Keuleers"
+---
+Text segmentation, a pre-processing step present in most NLP pipelines, is a rich topic that tends to get little attention in most NLP studies. We provide a brief empirical account on whether the choice of a particular segmentation algorithm (BPE, SentencePiece, WordPiece, Unigram, Morfessor) has an effect on the performance on downstream tasks, without transfer learning: natural language inference (SNLI), and sentiment classification (SST2). In contrast to previous studies which have …
+Cites: ‪Deep contextualized word representations‬

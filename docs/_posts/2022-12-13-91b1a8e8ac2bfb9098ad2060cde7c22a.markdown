@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Federated Learning for Inference at Anytime and Anywhere"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "Z Liu, D Li, J Fernandez-Marques, S Laskaridis, Y Gao… - arXiv preprint arXiv …, 2022"
----
-Federated learning has been predominantly concerned with collaborative training of deep networks from scratch, and especially the many challenges that arise, such as communication cost, robustness to heterogeneous data, and support for diverse device capabilities. However, there is no unified framework that addresses all these problems together. This paper studies the challenges and opportunities of exploiting pre-trained Transformer models in FL. In particular, we propose to efficiently adapt …
-Cites: ‪Towards a unified view of parameter-efficient transfer learning‬
+--- 
+layout: post 
+title: "Federated Learning for Inference at Anytime and Anywhere" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "Z Liu, D Li, J Fernandez-Marques, S Laskaridis, Y Gao - arXiv preprint arXiv , 2022" 
+--- 
+Federated learning has been predominantly concerned with collaborative training of deep networks from scratch, and especially the many challenges that arise, such as communication cost, robustness to heterogeneous data, and support for diverse device capabilities. However, there is no unified framework that addresses all these problems together. This paper studies the challenges and opportunities of exploiting pre-trained Transformer models in FL. In particular, we propose to efficiently adapt  Cites: Towards a unified view of parameter-efficient transfer learning

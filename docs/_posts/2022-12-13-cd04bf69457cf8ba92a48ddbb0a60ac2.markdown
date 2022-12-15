@@ -1,9 +1,0 @@
----
-layout: post
-title:  "초대규모 언어 모델의 공정성과 투명성에 관한 동향"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "이화란， 하정우 - 정보과학회지, 2022"
----
-Transformers [1] 를 기반으로 한 BERT [2] 의 등장 이후, 대규모 사전 학습 언어 모델 (Pre-trained Language Models, PLM) 은 광범위한 자연어 이해 및 생성 태스크를 해결하는데 혁신적인 결과를 보였고, 현재 대부분의 자연어 처리 태스크에 대한 사실상의 표준이 되었다. 특히 GPT-3 [3], T5 [4], Gopher [5], Hyper CLOVA [6] 와 같은 매우 큰 대규모 사전 훈련된 생성 언어 모델들은 in-context few-shot, zero-shot learning 환경에서도 다양한 자연어 이해와 생성 태스크에서 놀라운성능을 보였다. 우리는 …
-Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬

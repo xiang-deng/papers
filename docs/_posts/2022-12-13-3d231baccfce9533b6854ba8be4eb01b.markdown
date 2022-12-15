@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Auto-regressive extractive summarization with replacement"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "T Zhu, W Hua, J Qu, S Hosseini, X Zhou - World Wide Web, 2022"
----
-Auto-regressive extractive summarization approaches determine sentence extraction probability conditioning on previous decisions by maintaining a partial summary representation. Despite its popularity, the framework has two main drawbacks: 1) the partial summary representation is irresolutely denoted by a weighted summation of all the processed sentences without any filtering, resulting in a noisy representation and degrading the effectiveness of extracting subsequent sentences; 2) earlier …
-Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬
+--- 
+layout: post 
+title: "Auto-regressive extractive summarization with replacement" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "T Zhu, W Hua, J Qu, S Hosseini, X Zhou - World Wide Web, 2022" 
+--- 
+Auto-regressive extractive summarization approaches determine sentence extraction probability conditioning on previous decisions by maintaining a partial summary representation. Despite its popularity, the framework has two main drawbacks: 1) the partial summary representation is irresolutely denoted by a weighted summation of all the processed sentences without any filtering, resulting in a noisy representation and degrading the effectiveness of extracting subsequent sentences; 2) earlier  Cites: Discourse-Aware Neural Extractive Text Summarization

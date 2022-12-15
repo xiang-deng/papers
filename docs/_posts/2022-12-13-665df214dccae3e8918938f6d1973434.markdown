@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RLSEP: Learning Label Ranks for Multi-label Classification"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "E Dari, VB Yesilkaynak, A Mertan, G Unal - arXiv preprint arXiv:2212.04022, 2022"
----
-Multi-label ranking maps instances to a ranked set of predicted labels from multiple possible classes. The ranking approach for multi-label learning problems received attention for its success in multi-label classification, with one of the well-known approaches being pairwise label ranking. However, most existing methods assume that only partial information about the preference relation is known, which is inferred from the partition of labels into a positive and negative set, then treat labels with …
-Cites: ‪Constraint classification for multiclass classification and ranking‬
+--- 
+layout: post 
+title: "RLSEP: Learning Label Ranks for Multi-label Classification" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "E Dari, VB Yesilkaynak, A Mertan, G Unal - arXiv preprint arXiv:2212.04022, 2022" 
+--- 
+Multi-label ranking maps instances to a ranked set of predicted labels from multiple possible classes. The ranking approach for multi-label learning problems received attention for its success in multi-label classification, with one of the well-known approaches being pairwise label ranking. However, most existing methods assume that only partial information about the preference relation is known, which is inferred from the partition of labels into a positive and negative set, then treat labels with  Cites: Constraint classification for multiclass classification and ranking

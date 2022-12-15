@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "In Defense of Cross-Encoders for Zero-Shot Retrieval"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "G Rosa, L Bonifacio, V Jeronymo, H Abonizio… - arXiv preprint arXiv …, 2022"
+---
+Bi-encoders and cross-encoders are widely used in many state-of-the-art retrieval pipelines. In this work we study the generalization ability of these two types of architectures on a wide range of parameter count on both in-domain and out-of-domain scenarios. We find that the number of parameters and early query-document interactions of cross-encoders play a significant role in the generalization ability of retrieval models. Our experiments show that increasing model size results in …
+Cites: ‪Llm. int8 (): 8-bit matrix multiplication for transformers at scale‬

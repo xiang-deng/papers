@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompting Is Programming: A Query Language For Large Language Models"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "L Beurer-Kellner, M Fischer, M Vechev - arXiv preprint arXiv:2212.06094, 2022"
+---
+Large language models have demonstrated outstanding performance on a wide range of tasks such as question answering and code generation. On a high level, given an input, a language model can be used to automatically complete the sequence in a statistically-likely way. Based on this, users prompt these models with language instructions or examples, to implement a variety of downstream tasks. Advanced prompting methods can even imply interaction between the language …
+Cites: ‪OpenPrompt: An Open-source Framework for Prompt-learning‬

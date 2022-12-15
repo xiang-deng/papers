@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Exploration of Methods for Zero-shot Transfer in Small Language Models"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "A Albalak, A Shrivastava, C Sankar, A Sagar, M Ross"
+---
+Abstract Multi-task learning (MTL), instruction tuning, and prompting have recently been shown to improve the generalizability of large language models to new tasks. However, the benefits of such methods are less well-documented in smaller language models, with some studies finding contradictory results. In this work, we explore and isolate the effects of (i) model size,(ii) general purpose MTL,(iii) in-domain MTL, and (iv) instruction tuning for models with fewer than 500 million …
+Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬

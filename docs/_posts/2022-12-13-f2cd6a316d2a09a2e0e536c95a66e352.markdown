@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "CH Song, J Wu, C Washington, BM Sadler, WL Chao… - arXiv preprint arXiv …, 2022"
----
-This study focuses on embodied agents that can follow natural language instructions to complete complex tasks in a visually-perceived environment. Existing methods rely on a large amount of (instruction, gold trajectory) pairs to learn a good policy. The high data cost and poor sample efficiency prevents the development of versatile agents that are capable of many tasks and can learn new tasks quickly. In this work, we propose a novel method, LLM-Planner, that harnesses the power of large …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "CH Song, J Wu, C Washington, BM Sadler, WL Chao - arXiv preprint arXiv , 2022" 
+--- 
+This study focuses on embodied agents that can follow natural language instructions to complete complex tasks in a visually-perceived environment. Existing methods rely on a large amount of (instruction, gold trajectory) pairs to learn a good policy. The high data cost and poor sample efficiency prevents the development of versatile agents that are capable of many tasks and can learn new tasks quickly. In this work, we propose a novel method, LLM-Planner, that harnesses the power of large  Cites: Making Pre-trained Language Models Better Few-shot Learners

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Lovasz Theta Contrastive Learning"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "GSM Jordan, A Uppal, GDAG Dimakis"
+---
+We establish a connection between the Lovasz theta function of a graph and the widely used InfoNCE loss. We show that under certain conditions, the minima of the InfoNCE loss are related to that of the Lovasz theta function on the empty similarity graph between samples. Building on this connection, we generalize contrastive learning on weighted similarity graphs between samples. Our Lovasz theta contrastive loss uses a weighted graph that can be learned to take into account …
+Cites: ‪Connect, not collapse: Explaining contrastive learning for …‬

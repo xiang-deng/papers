@@ -1,9 +1,8 @@
----
-layout: post
-title:  "syntactic Graph Attention Network for Aspect-Level Sentiment Analysis"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "L Yuan, J Wang, LC Yu, X Zhang - IEEE Transactions on Artificial Intelligence, 2022"
----
-Aspect-level sentiment classification (ASC) is designed to identify the sentiment orientation of given aspect terms in a sentence. Previous neural networks have used attention mechanisms to align context words with the appropriate aspect terms. Without considering syntactic dependencies, these models may erroneously focus on context words that are not related to the aspect terms. To address this issue, the graph convolution network (GCN) and the graph attention network (GAT) are …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "syntactic Graph Attention Network for Aspect-Level Sentiment Analysis" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "L Yuan, J Wang, LC Yu, X Zhang - IEEE Transactions on Artificial Intelligence, 2022" 
+--- 
+Aspect-level sentiment classification (ASC) is designed to identify the sentiment orientation of given aspect terms in a sentence. Previous neural networks have used attention mechanisms to align context words with the appropriate aspect terms. Without considering syntactic dependencies, these models may erroneously focus on context words that are not related to the aspect terms. To address this issue, the graph convolution network (GCN) and the graph attention network (GAT) are  Cites: Aspect level sentiment classification with deep memory network

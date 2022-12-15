@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Momentum Calibration for Text Generation"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "X Zhang, Y Liu, X Wang, P He, Y Yu, SQ Chen… - arXiv preprint arXiv …, 2022"
----
-The input and output of most text generation tasks can be transformed to two sequences of tokens and they can be modeled using sequence-to-sequence learning modeling tools such as Transformers. These models are usually trained by maximizing the likelihood the output text sequence and assumes the input sequence and all gold preceding tokens are given during training, while during inference the model suffers from the exposure bias problem (ie, it only has access to its previously …
-Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬
+--- 
+layout: post 
+title: "Momentum Calibration for Text Generation" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "X Zhang, Y Liu, X Wang, P He, Y Yu, SQ Chen - arXiv preprint arXiv , 2022" 
+--- 
+The input and output of most text generation tasks can be transformed to two sequences of tokens and they can be modeled using sequence-to-sequence learning modeling tools such as Transformers. These models are usually trained by maximizing the likelihood the output text sequence and assumes the input sequence and all gold preceding tokens are given during training, while during inference the model suffers from the exposure bias problem (ie, it only has access to its previously  Cites: Electra: Pre-training text encoders as discriminators rather than

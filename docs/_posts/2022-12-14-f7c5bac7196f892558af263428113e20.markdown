@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Natural Logic-guided Autoregressive Multi-hop Document Retrieval for Fact Verification"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "R Aly, A Vlachos - arXiv preprint arXiv:2212.05276, 2022"
+---
+A key component of fact verification is thevevidence retrieval, often from multiple documents. Recent approaches use dense representations and condition the retrieval of each document on the previously retrieved ones. The latter step is performed over all the documents in the collection, requiring storing their dense representations in an index, thus incurring a high memory footprint. An alternative paradigm is retrieve-and-rerank, where documents are retrieved using methods such …
+Cites: ‪Proofver: Natural logic theorem proving for fact verification‬

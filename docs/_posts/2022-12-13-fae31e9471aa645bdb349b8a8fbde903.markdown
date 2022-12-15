@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hierarchical concept Bottleneck models for vision and their application to explainable fine classification and tracking"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "F Pittino, V Dimitrievska, R Heer - Engineering Applications of Artificial Intelligence, 2023"
----
-Improving the explainability of Computer Vision models based on Deep Learning has recently become a compelling problem, ensuring reliable predictions to the end-user and enabling more fine-grained classifications. Recently, Concept Bottleneck models have been proposed for images classification, partitioning the problem in two stages and thereby defining a hierarchy of concepts. So far, however, little work has been done to investigate the applicability of this approach to other datasets with …
-Cites: ‪Concept bottleneck models‬
+--- 
+layout: post 
+title: "Hierarchical concept Bottleneck models for vision and their application to explainable fine classification and tracking" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "F Pittino, V Dimitrievska, R Heer - Engineering Applications of Artificial Intelligence, 2023" 
+--- 
+Improving the explainability of Computer Vision models based on Deep Learning has recently become a compelling problem, ensuring reliable predictions to the end-user and enabling more fine-grained classifications. Recently, Concept Bottleneck models have been proposed for images classification, partitioning the problem in two stages and thereby defining a hierarchy of concepts. So far, however, little work has been done to investigate the applicability of this approach to other datasets with  Cites: Concept bottleneck models

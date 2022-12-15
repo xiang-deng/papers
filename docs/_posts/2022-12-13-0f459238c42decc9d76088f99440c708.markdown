@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Modularized Mutuality Network for Emotion-cause Pair Extraction"
-date:   2022-12-13 08:01:52 -0400
-categories: jekyll update
-author: "X Shang, C Chen, Z Chen, Q Ma - IEEE/ACM Transactions on Audio, Speech, and …, 2022"
----
-Emotion-cause pair extraction (ECPE) is an emerging task born out of Emotion cause extraction (ECE), which aims to extract the emotion clause and the corresponding cause clause simultaneously. Previous methods decompose ECPE into multiple sub-tasks, namely emotion clause extraction, cause clause extraction, and emotion-cause pair extraction, and employ different modules to address them separately. However, these methods fail to effectively capture the mutuality within the three sub …
-Cites: ‪Exploiting syntactico-semantic structures for relation extraction‬
+--- 
+layout: post 
+title: "Modularized Mutuality Network for Emotion-cause Pair Extraction" 
+date: 2022-12-13 08:01:52 -0400 
+categories: jekyll update 
+author: "X Shang, C Chen, Z Chen, Q Ma - IEEE/ACM Transactions on Audio, Speech, and , 2022" 
+--- 
+Emotion-cause pair extraction (ECPE) is an emerging task born out of Emotion cause extraction (ECE), which aims to extract the emotion clause and the corresponding cause clause simultaneously. Previous methods decompose ECPE into multiple sub-tasks, namely emotion clause extraction, cause clause extraction, and emotion-cause pair extraction, and employ different modules to address them separately. However, these methods fail to effectively capture the mutuality within the three sub  Cites: Exploiting syntactico-semantic structures for relation extraction

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "T5Score: Discriminative Fine-tuning of Generative Evaluation Metrics"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "Y Qin, W Yuan, G Neubig, P Liu - arXiv preprint arXiv:2212.05726, 2022"
+---
+Modern embedding-based metrics for evaluation of generated text generally fall into one of two paradigms: discriminative metrics that are trained to directly predict which outputs are of higher quality according to supervised human annotations, and generative metrics that are trained to evaluate text based on the probabilities of a generative model. Both have their advantages; discriminative metrics are able to directly optimize for the problem of distinguishing between good and bad outputs …
+Cites: ‪Multilingual denoising pre-training for neural machine translation‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scaling a Declarative Cluster Manager Architecture with Query Optimization Techniques (Technical Report)"
+date:   2022-12-14 16:04:21 -0400
+categories: jekyll update
+author: "K Rong, M Budiu, A Skiadopoulos, L Suresh, A Tai - 2022"
+---
+Cluster managers like Kubernetes [9], OpenStack [4], and Open-Shift [3] are important building blocks of today s data centers. They dynamically assign workloads to the underlying infrastructure and configure them according to a variety of policies. Some policies represent hard constraints (eg, never assign two replicas of a storage service to the same node), which must always hold in any cluster management decision. Others are soft constraints (eg, spread these web servers across different …
+Cites: ‪DBOS: a DBMS-oriented Operating System‬
