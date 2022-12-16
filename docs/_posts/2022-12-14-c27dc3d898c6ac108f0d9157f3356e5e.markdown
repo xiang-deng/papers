@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "HLSMX Zhiyuan, LT Ma"
----
-Abstract Language modeling on large-scale datasets leads to impressive performance gains on various downstream tasks. The validation pre-training loss (or perplexity) is often used as the evaluation metric when developing language models since the pre-training loss is correlated with downstream performance. This paper shows that 1) pre-training loss cannot fully explain downstream performance and 2) flatness of the model is well-correlated with downstream performance where pre …
-Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬
+--- 
+layout: post 
+title: "Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "HLSMX Zhiyuan, LT Ma" 
+--- 
+Abstract Language modeling on large-scale datasets leads to impressive performance gains on various downstream tasks. The validation pre-training loss (or perplexity) is often used as the evaluation metric when developing language models since the pre-training loss is correlated with downstream performance. This paper shows that 1) pre-training loss cannot fully explain downstream performance and 2) flatness of the model is well-correlated with downstream performance where pre  Cites: Rethinking the Role of Demonstrations: What Makes In-Context

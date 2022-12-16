@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "A Komatsuzaki, J Puigcerver, J Lee-Thorp, CR Ruiz… - arXiv preprint arXiv …, 2022"
----
-Training large, deep neural networks to convergence can be prohibitively expensive. As a result, often only a small selection of popular, dense models are reused across different contexts and tasks. Increasingly, sparsely activated models, which seek to decouple model size from computation costs, are becoming an attractive alternative to dense models. Although more efficient in terms of quality and computation cost, sparse models remain data-hungry and costly to train from scratch in the large scale …
-Cites: ‪Demix layers: Disentangling domains for modular language …‬
+--- 
+layout: post 
+title: "Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "A Komatsuzaki, J Puigcerver, J Lee-Thorp, CR Ruiz - arXiv preprint arXiv , 2022" 
+--- 
+Training large, deep neural networks to convergence can be prohibitively expensive. As a result, often only a small selection of popular, dense models are reused across different contexts and tasks. Increasingly, sparsely activated models, which seek to decouple model size from computation costs, are becoming an attractive alternative to dense models. Although more efficient in terms of quality and computation cost, sparse models remain data-hungry and costly to train from scratch in the large scale  Cites: Demix layers: Disentangling domains for modular language

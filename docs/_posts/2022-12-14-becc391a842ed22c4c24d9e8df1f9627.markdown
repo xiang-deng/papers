@@ -1,9 +1,8 @@
----
-layout: post
-title:  "From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "W Xu, X Li, W Zhang, M Zhou, L Bing, W Lam, L Si - arXiv preprint arXiv:2212.04755, 2022"
----
-We present Pre-trained Machine Reader (PMR), a novel method to retrofit Pre-trained Language Models (PLMs) into Machine Reading Comprehension (MRC) models without acquiring labeled data. PMR is capable of resolving the discrepancy between model pre-training and downstream fine-tuning of existing PLMs, and provides a unified solver for tackling various extraction tasks. To achieve this, we construct a large volume of general-purpose and high-quality MRC-style training …
-Cites: ‪Muppet: Massive multi-task representations with pre-finetuning‬
+--- 
+layout: post 
+title: "From Clozing to Comprehending: Retrofitting Pre-trained Language Model to Pre-trained Machine Reader" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "W Xu, X Li, W Zhang, M Zhou, L Bing, W Lam, L Si - arXiv preprint arXiv:2212.04755, 2022" 
+--- 
+We present Pre-trained Machine Reader (PMR), a novel method to retrofit Pre-trained Language Models (PLMs) into Machine Reading Comprehension (MRC) models without acquiring labeled data. PMR is capable of resolving the discrepancy between model pre-training and downstream fine-tuning of existing PLMs, and provides a unified solver for tackling various extraction tasks. To achieve this, we construct a large volume of general-purpose and high-quality MRC-style training  Cites: Muppet: Massive multi-task representations with pre-finetuning

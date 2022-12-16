@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A proof-of-concept meaning discrimination experiment to compile a word-in-context dataset for adjectives–A graph-based distributional approach"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "E Héja, N Ligeti-Nagy - Acta Linguistica Academica, 2022"
----
-Abstract The Word-in-Context corpus, which forms part of the SuperGLUE benchmark dataset, focuses on a specific sense disambiguation task: it has to be decided whether two occurrences of a given target word in two different contexts convey the same meaning or not. Unfortunately, the WiC database exhibits a relatively low consistency in terms of inter-annotator agreement, which implies that the meaning discrimination task is not well defined even for humans. The present …
-Cites: ‪A Sense-Topic Model for Word Sense Induction with Unsupervised …‬
+--- 
+layout: post 
+title: "A proof-of-concept meaning discrimination experiment to compile a word-in-context dataset for adjectivesA graph-based distributional approach" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "E Hja, N Ligeti-Nagy - Acta Linguistica Academica, 2022" 
+--- 
+Abstract The Word-in-Context corpus, which forms part of the SuperGLUE benchmark dataset, focuses on a specific sense disambiguation task: it has to be decided whether two occurrences of a given target word in two different contexts convey the same meaning or not. Unfortunately, the WiC database exhibits a relatively low consistency in terms of inter-annotator agreement, which implies that the meaning discrimination task is not well defined even for humans. The present  Cites: A Sense-Topic Model for Word Sense Induction with Unsupervised

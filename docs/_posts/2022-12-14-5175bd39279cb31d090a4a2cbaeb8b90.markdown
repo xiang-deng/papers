@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Local Multi-Label Explanations for Random Forest"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "N Bassiliades, G Tsoumakas"
----
-Multi-label classification is a challenging task, particularly in domains where the number of labels to be predicted is large. Deep neural networks are often effective at multi-label classification of images and textual data. When dealing with tabular data, however, conventional machine learning algorithms, such as tree ensembles, appear to outperform competition. Random forest, being a popular ensemble algorithm, has found use in a wide range of real-world problems. Such problems …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Local Multi-Label Explanations for Random Forest" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "N Bassiliades, G Tsoumakas" 
+--- 
+Multi-label classification is a challenging task, particularly in domains where the number of labels to be predicted is large. Deep neural networks are often effective at multi-label classification of images and textual data. When dealing with tabular data, however, conventional machine learning algorithms, such as tree ensembles, appear to outperform competition. Random forest, being a popular ensemble algorithm, has found use in a wide range of real-world problems. Such problems  Cites: Anchors: High-Precision Model-Agnostic Explanations

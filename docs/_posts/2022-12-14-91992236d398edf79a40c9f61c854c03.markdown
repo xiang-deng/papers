@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Transactions Make Debugging Easy"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "Q Li, P Kraft, M Cafarella, Ç Demiralp, G Graefe…"
----
-We propose TROD, a novel transaction-oriented framework for debugging modern distributed web applications and online services. Our critical insight is that if applications store all state in databases and only access state transactionally, TROD …
+--- 
+layout: post 
+title: "Transactions Make Debugging Easy" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "Q Li, P Kraft, M Cafarella, Demiralp, G Graefe" 
+--- 
+We propose TROD, a novel transaction-oriented framework for debugging modern distributed web applications and online services. Our critical insight is that if applications store all state in databases and only access state transactionally, TROD

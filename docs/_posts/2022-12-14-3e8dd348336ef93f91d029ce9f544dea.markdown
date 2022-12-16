@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Federated NLP in Few-shot Scenarios"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "D Cai, S Wang, Y Wu, FX Lin, M Xu - arXiv preprint arXiv:2212.05974, 2022"
----
-Natural language processing (NLP) sees rich mobile applications. To support various language understanding tasks, a foundation NLP model is often fine-tuned in a federated, privacy-preserving setting (FL). This process currently relies on at least hundreds of thousands of labeled training samples from mobile clients; yet mobile users often lack willingness or knowledge to label their data. Such an inadequacy of data labels is known as a few-shot scenario; it becomes the key blocker for mobile …
-Cites: ‪Selective annotation makes language models better few-shot …‬
+--- 
+layout: post 
+title: "Federated NLP in Few-shot Scenarios" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "D Cai, S Wang, Y Wu, FX Lin, M Xu - arXiv preprint arXiv:2212.05974, 2022" 
+--- 
+Natural language processing (NLP) sees rich mobile applications. To support various language understanding tasks, a foundation NLP model is often fine-tuned in a federated, privacy-preserving setting (FL). This process currently relies on at least hundreds of thousands of labeled training samples from mobile clients; yet mobile users often lack willingness or knowledge to label their data. Such an inadequacy of data labels is known as a few-shot scenario; it becomes the key blocker for mobile  Cites: Selective annotation makes language models better few-shot

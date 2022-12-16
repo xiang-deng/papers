@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Feature-Level Debiased Natural Language Understanding"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "Y Lyu, P Li, Y Yang, M de Rijke, P Ren, Y Zhao, D Yin… - arXiv preprint arXiv …, 2022"
----
-Existing natural language understanding (NLU) models often rely on dataset biases rather than intended task-relevant features to achieve high performance on specific datasets. As a result, these models perform poorly on datasets outside the training distribution. Some recent studies address the above issue by reducing the weights of biased samples during the training process. However, these methods still encode biased latent features in representations and neglect the dynamic nature of bias …
-Cites: ‪Generating Data to Mitigate Spurious Correlations in Natural …‬
+--- 
+layout: post 
+title: "Feature-Level Debiased Natural Language Understanding" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "Y Lyu, P Li, Y Yang, M de Rijke, P Ren, Y Zhao, D Yin - arXiv preprint arXiv , 2022" 
+--- 
+Existing natural language understanding (NLU) models often rely on dataset biases rather than intended task-relevant features to achieve high performance on specific datasets. As a result, these models perform poorly on datasets outside the training distribution. Some recent studies address the above issue by reducing the weights of biased samples during the training process. However, these methods still encode biased latent features in representations and neglect the dynamic nature of bias  Cites: Generating Data to Mitigate Spurious Correlations in Natural

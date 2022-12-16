@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Who Evaluates the Evaluators? On Automatic Metrics for Assessing AI-based Offensive Code Generators"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "C Improta, P Liguori, R Natella, B Cukic, D Cotroneo - arXiv preprint arXiv …, 2022"
----
-AI-based code generators are an emerging solution for automatically writing programs starting from descriptions in natural language, by using deep neural networks (Neural Machine Translation, NMT). In particular, code generators have been used for ethical hacking and offensive security testing by generating proof-of-concept attacks. Unfortunately, the evaluation of code generators still faces several issues. The current practice uses automatic metrics, which compute the textual …
-Cites: ‪Codebleu: a method for automatic evaluation of code synthesis‬
+--- 
+layout: post 
+title: "Who Evaluates the Evaluators? On Automatic Metrics for Assessing AI-based Offensive Code Generators" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "C Improta, P Liguori, R Natella, B Cukic, D Cotroneo - arXiv preprint arXiv , 2022" 
+--- 
+AI-based code generators are an emerging solution for automatically writing programs starting from descriptions in natural language, by using deep neural networks (Neural Machine Translation, NMT). In particular, code generators have been used for ethical hacking and offensive security testing by generating proof-of-concept attacks. Unfortunately, the evaluation of code generators still faces several issues. The current practice uses automatic metrics, which compute the textual  Cites: Codebleu: a method for automatic evaluation of code synthesis

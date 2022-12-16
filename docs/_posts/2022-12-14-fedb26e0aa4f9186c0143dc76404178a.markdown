@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "S Zhang, S Khan, Z Shen, M Naseer, G Chen, F Khan - arXiv preprint arXiv …, 2022"
----
-Although existing semi-supervised learning models achieve remarkable success in learning with unannotated in-distribution data, they mostly fail to learn on unlabeled data sampled from novel semantic classes due to their closed-set assumption. In this work, we target a pragmatic but under-explored Generalized Novel Category Discovery (GNCD) setting. The GNCD setting aims to categorize unlabeled training data coming from known and novel classes by leveraging the information of partially …
-Cites: ‪PTR: Prompt tuning with rules for text classification‬
+--- 
+layout: post 
+title: "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "S Zhang, S Khan, Z Shen, M Naseer, G Chen, F Khan - arXiv preprint arXiv , 2022" 
+--- 
+Although existing semi-supervised learning models achieve remarkable success in learning with unannotated in-distribution data, they mostly fail to learn on unlabeled data sampled from novel semantic classes due to their closed-set assumption. In this work, we target a pragmatic but under-explored Generalized Novel Category Discovery (GNCD) setting. The GNCD setting aims to categorize unlabeled training data coming from known and novel classes by leveraging the information of partially  Cites: PTR: Prompt tuning with rules for text classification

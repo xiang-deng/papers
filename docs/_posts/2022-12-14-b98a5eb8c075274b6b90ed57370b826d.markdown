@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Momentum Contrastive Pre-training for Question Answering"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "M Hu, M Li, Y Wang, I King - arXiv preprint arXiv:2212.05762, 2022"
----
-Existing pre-training methods for extractive Question Answering (QA) generate cloze-like queries different from natural questions in syntax structure, which could overfit pre-trained models to simple keyword matching. In order to address this problem, we propose a novel Momentum Contrastive pRe-training fOr queStion anSwering (MCROSS) method for extractive QA. Specifically, MCROSS introduces a momentum contrastive learning framework to align the answer probability between cloze-like …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬
+--- 
+layout: post 
+title: "Momentum Contrastive Pre-training for Question Answering" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "M Hu, M Li, Y Wang, I King - arXiv preprint arXiv:2212.05762, 2022" 
+--- 
+Existing pre-training methods for extractive Question Answering (QA) generate cloze-like queries different from natural questions in syntax structure, which could overfit pre-trained models to simple keyword matching. In order to address this problem, we propose a novel Momentum Contrastive pRe-training fOr queStion anSwering (MCROSS) method for extractive QA. Specifically, MCROSS introduces a momentum contrastive learning framework to align the answer probability between cloze-like  Cites: MRQA 2019 Shared Task: Evaluating Generalization in Reading

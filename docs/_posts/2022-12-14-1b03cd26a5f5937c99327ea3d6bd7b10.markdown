@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Is ProtoPNet Really Explainable? Evaluating and Improving the Interpretability of Prototypes"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "Q Huang, M Xue, H Zhang, J Song, M Song - arXiv preprint arXiv:2212.05946, 2022"
----
-ProtoPNet and its follow-up variants (ProtoPNets) have attracted broad research interest for their intrinsic interpretability from prototypes and comparable accuracy to non-interpretable counterparts. However, it has been recently found that the interpretability of prototypes can be corrupted due to the semantic gap between similarity in latent space and that in input space. In this work, we make the first attempt to quantitatively evaluate the interpretability of prototype-based explanations …
-Cites: ‪Reading tea leaves: How humans interpret topic models‬
+--- 
+layout: post 
+title: "Is ProtoPNet Really Explainable? Evaluating and Improving the Interpretability of Prototypes" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "Q Huang, M Xue, H Zhang, J Song, M Song - arXiv preprint arXiv:2212.05946, 2022" 
+--- 
+ProtoPNet and its follow-up variants (ProtoPNets) have attracted broad research interest for their intrinsic interpretability from prototypes and comparable accuracy to non-interpretable counterparts. However, it has been recently found that the interpretability of prototypes can be corrupted due to the semantic gap between similarity in latent space and that in input space. In this work, we make the first attempt to quantitatively evaluate the interpretability of prototype-based explanations  Cites: Reading tea leaves: How humans interpret topic models

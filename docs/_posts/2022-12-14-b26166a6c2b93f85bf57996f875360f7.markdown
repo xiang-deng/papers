@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FastClass: A Time-Efficient Approach to Weakly-Supervised Text Classification"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "T Xia, Y Wang, Y Tian, Y Chang - arXiv preprint arXiv:2212.05506, 2022"
----
-Weakly-supervised text classification aims to train a classifier using only class descriptions and unlabeled data. Recent research shows that keyword-driven methods can achieve state-of-the-art performance on various tasks. However, these methods not only rely on carefully-crafted class descriptions to obtain class-specific keywords but also require substantial amount of unlabeled data and takes a long time to train. This paper proposes FastClass, an efficient weakly-supervised …
-Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬
+--- 
+layout: post 
+title: "FastClass: A Time-Efficient Approach to Weakly-Supervised Text Classification" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "T Xia, Y Wang, Y Tian, Y Chang - arXiv preprint arXiv:2212.05506, 2022" 
+--- 
+Weakly-supervised text classification aims to train a classifier using only class descriptions and unlabeled data. Recent research shows that keyword-driven methods can achieve state-of-the-art performance on various tasks. However, these methods not only rely on carefully-crafted class descriptions to obtain class-specific keywords but also require substantial amount of unlabeled data and takes a long time to train. This paper proposes FastClass, an efficient weakly-supervised  Cites: Benchmarking zero-shot text classification: Datasets, evaluation

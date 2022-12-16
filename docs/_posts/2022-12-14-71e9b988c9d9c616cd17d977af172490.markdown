@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "R Tang, H Chen, Y Ji - arXiv preprint arXiv:2212.05327, 2022"
----
-Some recent works observed the instability of post-hoc explanations when input side perturbations are applied to the model. This raises the interest and concern in the stability of post-hoc explanations. However, the remaining question is: is the instability caused by the neural network model or the post-hoc explanation method? This work explores the potential source that leads to unstable post-hoc explanations. To separate the influence from the model, we propose a simple output probability …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "R Tang, H Chen, Y Ji - arXiv preprint arXiv:2212.05327, 2022" 
+--- 
+Some recent works observed the instability of post-hoc explanations when input side perturbations are applied to the model. This raises the interest and concern in the stability of post-hoc explanations. However, the remaining question is: is the instability caused by the neural network model or the post-hoc explanation method? This work explores the potential source that leads to unstable post-hoc explanations. To separate the influence from the model, we propose a simple output probability  Cites: Why Should I Trust You? : Explaining the Predictions of Any

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Decentralized Semi-supervised Learning over Multitask Graphs"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "M Issa, R Nassif, E Rizk, AH Sayed"
----
-In network semi-supervised learning problems, only a subset of the network nodes is able to access the data labeling. This paper formulates a decentralized optimization problem where agents have individual decision rules to estimate, subject to the condition that neighboring agents (classifiers) are more likely to have similar labels. To promote such relationships, we propose to add to the aggregate sum of individual costs a graph regularization term that allows to penalize the differences between the …
-Cites: ‪Learning with Local and Global Consistency.‬
+--- 
+layout: post 
+title: "Decentralized Semi-supervised Learning over Multitask Graphs" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "M Issa, R Nassif, E Rizk, AH Sayed" 
+--- 
+In network semi-supervised learning problems, only a subset of the network nodes is able to access the data labeling. This paper formulates a decentralized optimization problem where agents have individual decision rules to estimate, subject to the condition that neighboring agents (classifiers) are more likely to have similar labels. To promote such relationships, we propose to add to the aggregate sum of individual costs a graph regularization term that allows to penalize the differences between the  Cites: Learning with Local and Global Consistency.

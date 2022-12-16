@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LEAD: Liberal Feature-based Distillation for Dense Retrieval"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "H Sun, X Liu, Y Gong, A Dong, J Jiao, J Lu, Y Zhang… - arXiv preprint arXiv …, 2022"
----
-Knowledge distillation is often used to transfer knowledge from a strong teacher model to a relatively weak student model. Traditional knowledge distillation methods include response-based methods and feature-based methods. Response-based methods are used the most widely but suffer from lower upper limit of model performance, while feature-based methods have constraints on the vocabularies and tokenizers. In this paper, we propose a tokenizer-free method liberal feature-based …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "LEAD: Liberal Feature-based Distillation for Dense Retrieval" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "H Sun, X Liu, Y Gong, A Dong, J Jiao, J Lu, Y Zhang - arXiv preprint arXiv , 2022" 
+--- 
+Knowledge distillation is often used to transfer knowledge from a strong teacher model to a relatively weak student model. Traditional knowledge distillation methods include response-based methods and feature-based methods. Response-based methods are used the most widely but suffer from lower upper limit of model performance, while feature-based methods have constraints on the vocabularies and tokenizers. In this paper, we propose a tokenizer-free method liberal feature-based  Cites: Dense Passage Retrieval for Open-Domain Question Answering

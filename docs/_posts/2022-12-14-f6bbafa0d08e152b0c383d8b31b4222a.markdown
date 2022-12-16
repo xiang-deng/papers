@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Co-training $2^ L $ Submodels for Visual Recognition"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "H Touvron, M Cord, M Oquab, P Bojanowski, J Verbeek… - arXiv preprint arXiv …, 2022"
----
-We introduce submodel co-training, a regularization method related to co-training, self-distillation and stochastic depth. Given a neural network to be trained, for each sample we implicitly instantiate two altered networks,``submodels  , with stochastic depth: we activate only a subset of the layers. Each network serves as a soft teacher to the other, by providing a loss that complements the regular loss provided by the one-hot label. Our approach, dubbed cosub, uses a single set of weights, and does …
-Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬
+--- 
+layout: post 
+title: "Co-training $2^ L $ Submodels for Visual Recognition" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "H Touvron, M Cord, M Oquab, P Bojanowski, J Verbeek - arXiv preprint arXiv , 2022" 
+--- 
+We introduce submodel co-training, a regularization method related to co-training, self-distillation and stochastic depth. Given a neural network to be trained, for each sample we implicitly instantiate two altered networks,``submodels , with stochastic depth: we activate only a subset of the layers. Each network serves as a soft teacher to the other, by providing a loss that complements the regular loss provided by the one-hot label. Our approach, dubbed cosub, uses a single set of weights, and does  Cites: Electra: Pre-training text encoders as discriminators rather than

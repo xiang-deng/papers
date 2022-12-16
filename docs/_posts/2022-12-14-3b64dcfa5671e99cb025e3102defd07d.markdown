@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing"
-date:   2022-12-14 16:04:21 -0400
-categories: jekyll update
-author: "Z Liu, C Chen, J Wang, X Che, Y Huang, J Hu, Q Wang - arXiv preprint arXiv …, 2022"
----
-Automated GUI testing is widely used to help ensure the quality of mobile apps. However, many GUIs require appropriate text inputs to proceed to the next page which remains a prominent obstacle for testing coverage. Considering the diversity and semantic requirement of valid inputs (eg, flight departure, movie name), it is challenging to automate the text input generation. Inspired by the fact that the pre-trained Large Language Model (LLM) has made outstanding progress in text …
-Cites: ‪Prototypical Verbalizer for Prompt-based Few-shot Tuning‬
+--- 
+layout: post 
+title: "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing" 
+date: 2022-12-14 16:04:21 -0400 
+categories: jekyll update 
+author: "Z Liu, C Chen, J Wang, X Che, Y Huang, J Hu, Q Wang - arXiv preprint arXiv , 2022" 
+--- 
+Automated GUI testing is widely used to help ensure the quality of mobile apps. However, many GUIs require appropriate text inputs to proceed to the next page which remains a prominent obstacle for testing coverage. Considering the diversity and semantic requirement of valid inputs (eg, flight departure, movie name), it is challenging to automate the text input generation. Inspired by the fact that the pre-trained Large Language Model (LLM) has made outstanding progress in text  Cites: Prototypical Verbalizer for Prompt-based Few-shot Tuning
