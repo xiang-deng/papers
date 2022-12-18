@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploiting global context and external knowledge for distantly supervised relation extraction"
+date:   2022-12-17 01:50:56 -0400
+categories: jekyll update
+author: "J Gao, H Wan, Y Lin - Knowledge-Based Systems, 2022"
+---
+Distantly supervised relation extraction aims to obtain relational facts from unstructured texts. Although distant supervision can automatically generate labeled training instances, it inevitably suffers from the wrong-label problem. Most of the current work is based on the bag-level for solving the noise problem, where a bag is composed of multiple sentences containing mentions of the same entity pair. However, previous studies mostly represent sentences from a single perspective …
+Cites: ‪Modeling relations and their mentions without labeled text‬

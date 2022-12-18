@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Universal Graph based Distantly Supervised Relation Extraction"
+date:   2022-12-17 01:50:56 -0400
+categories: jekyll update
+author: "Q Dai, B Heinzerling, N Inoue, K Inui - Journal of Natural Language Processing, 2022"
+---
+This paper explores how the Distantly Supervised Relation Extraction (DS-RE) can benefit from the use of a Universal Graph (UG), the combination of a Knowledge Graph (KG) and a large-scale text collection. A straightforward extension of a current state-of-the-art neural model for DS-RE with a UG may lead to degradation in performance. We first report that this degradation is associated with the difficulty in learning a UG and then propose three training strategies:(1) Path Type Adaptive …
+Cites: ‪Representing Text for Joint Embedding of Text and Knowledge …‬

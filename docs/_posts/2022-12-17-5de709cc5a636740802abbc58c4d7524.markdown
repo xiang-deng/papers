@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FALTE: A Toolkit for Fine-grained Annotation for Long Text Evaluation"
+date:   2022-12-17 01:50:56 -0400
+categories: jekyll update
+author: "T Goyal, JJ Li, G Durrett"
+---
+A growing swath of NLP research is tackling problems related to generating long text, including tasks such as open-ended story generation, summarization, dialogue, and more. However, we currently lack appropriate tools to evaluate these long outputs of generation models: classic automatic metrics such as ROUGE have been shown to perform poorly, and newer learned metrics do not necessarily work well for all tasks and domains of text. Human rating and error analysis remain a crucial component for …
+Cites: ‪STORIUM: A Dataset and Evaluation Platform for Machine-in-the …‬

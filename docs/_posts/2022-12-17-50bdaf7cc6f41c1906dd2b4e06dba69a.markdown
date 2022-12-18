@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Technical Report--Competition Solution for Prompt Tuning using Pretrained Language Model"
+date:   2022-12-17 01:50:56 -0400
+categories: jekyll update
+author: "JL Song, WH Zou, F Li, XL Qin - arXiv preprint arXiv:2212.06369, 2022"
+---
+Prompt tuning recently becomes a hot-spot in the applications of large pretrained language models on specific downstream tasks. Regarding the Language Model as a Service (LMaaS), black-box tuning using derivative-free optimization (DFO) provides a novel approach to expand the practical scenarios of pretrained models and enrich the researches of few-shot learning. In this report, we present our solution in this competition that is based on the LMaaS scenario. Our solution consists of …
+Cites: ‪How can we know what language models know?‬

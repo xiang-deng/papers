@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning"
+date:   2022-12-17 01:50:56 -0400
+categories: jekyll update
+author: "X Gong, C Yang, C Shi - arXiv preprint arXiv:2212.07035, 2022"
+---
+Contrastive learning (CL), which can extract the information shared between different contrastive views, has become a popular paradigm for vision representation learning. Inspired by the success in computer vision, recent work introduces CL into graph modeling, dubbed as graph contrastive learning (GCL). However, generating contrastive views in graphs is more challenging than that in images, since we have little prior knowledge on how to significantly augment a graph without changing its …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬

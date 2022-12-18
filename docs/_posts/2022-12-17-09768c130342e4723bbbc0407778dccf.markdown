@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DistillEmb: Distilling Word Embeddings via Contrastive Learning"
+date:   2022-12-17 01:50:56 -0400
+categories: jekyll update
+author: "A Mersha, WU Stephen"
+---
+Word embeddings powered the early days of neural network-based NLP research. Their effectiveness in small data regimes makes them still relevant in low-resource environments. However, they are limited in two critical ways: linearly increasing memory requirements and out-of-vocabulary token handling. In this work, we present a distillation technique of word embeddings into a CNN network using contrastive learning. This method allows embeddings to be regressed given the characters of a …
+Cites: ‪Happy Buzaaba, Shruti Rijhwani, Sebastian Ruder, Stephen …‬
