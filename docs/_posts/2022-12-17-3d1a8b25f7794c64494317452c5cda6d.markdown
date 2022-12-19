@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Extracting Proceedings Data from Court Cases with Machine Learning"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "B Mathis - Stats, 2022"
----
-France is rolling out an open data program for all court cases, but with few metadata attached. Reusers will have to use named-entity recognition (NER) within the text body of the case to extract any value from it. Any court case may include up to 26 variables, or labels, that are related to the proceeding, regardless of the case substance. These labels are from different syntactic types: some of them are rare; others are ubiquitous. This experiment compares different algorithms, namely CRF …
-Cites: ‪Deep contextualized word representations‬

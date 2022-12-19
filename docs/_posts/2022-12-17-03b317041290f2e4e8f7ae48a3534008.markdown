@@ -1,9 +1,8 @@
----
-layout: post
-title:  "APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "J Sun, H Zhang, C Lin, Y Gong, J Guo, N Duan - arXiv preprint arXiv:2212.07249, 2022"
----
-Long-form numerical reasoning in financial analysis aims to generate a reasoning program to calculate the correct answer for a given question. Previous work followed a retriever-generator framework, where the retriever selects key facts from a long-form document, and the generator generates a reasoning program based on retrieved facts. However, they treated all facts equally without considering the different contributions of facts with and without numbers. Meanwhile, the program …
-Cites: ‪MathQA: Towards interpretable math word problem solving with …‬
+--- 
+layout: post 
+title: "APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "J Sun, H Zhang, C Lin, Y Gong, J Guo, N Duan - arXiv preprint arXiv:2212.07249, 2022" 
+--- 
+Long-form numerical reasoning in financial analysis aims to generate a reasoning program to calculate the correct answer for a given question. Previous work followed a retriever-generator framework, where the retriever selects key facts from a long-form document, and the generator generates a reasoning program based on retrieved facts. However, they treated all facts equally without considering the different contributions of facts with and without numbers. Meanwhile, the program  Cites: MathQA: Towards interpretable math word problem solving with

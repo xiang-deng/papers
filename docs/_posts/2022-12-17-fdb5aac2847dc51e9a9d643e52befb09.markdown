@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain Adaptation for Dense Retrieval through Self-Supervision by Pseudo-Relevance Labeling"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "M Li, E Gaussier - arXiv preprint arXiv:2212.06552, 2022"
----
-Although neural information retrieval has witnessed great improvements, recent works showed that the generalization ability of dense retrieval models on target domains with different distributions is limited, which contrasts with the results obtained with interaction-based models. To address this issue, researchers have resorted to adversarial learning and query generation approaches; both approaches nevertheless resulted in limited improvements. In this paper, we propose to use a self …
-Cites: ‪Dense passage retrieval for open-domain question answering‬
+--- 
+layout: post 
+title: "Domain Adaptation for Dense Retrieval through Self-Supervision by Pseudo-Relevance Labeling" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "M Li, E Gaussier - arXiv preprint arXiv:2212.06552, 2022" 
+--- 
+Although neural information retrieval has witnessed great improvements, recent works showed that the generalization ability of dense retrieval models on target domains with different distributions is limited, which contrasts with the results obtained with interaction-based models. To address this issue, researchers have resorted to adversarial learning and query generation approaches; both approaches nevertheless resulted in limited improvements. In this paper, we propose to use a self  Cites: Dense passage retrieval for open-domain question answering

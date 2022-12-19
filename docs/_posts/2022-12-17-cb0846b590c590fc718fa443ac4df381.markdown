@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Optimizing Learning Rate Schedules for Iterative Pruning of Deep Neural Networks"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "S Liu, R Ghosh, JTC Min, M Motani - arXiv preprint arXiv:2212.06144, 2022"
----
-The importance of learning rate (LR) schedules on network pruning has been observed in a few recent works. As an example, Frankle and Carbin (2019) highlighted that winning tickets (ie, accuracy preserving subnetworks) can not be found without applying a LR warmup schedule and Renda, Frankle and Carbin (2020) demonstrated that rewinding the LR to its initial state at the end of each pruning cycle improves performance. In this paper, we go one step further by first …
-Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬
+--- 
+layout: post 
+title: "Optimizing Learning Rate Schedules for Iterative Pruning of Deep Neural Networks" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "S Liu, R Ghosh, JTC Min, M Motani - arXiv preprint arXiv:2212.06144, 2022" 
+--- 
+The importance of learning rate (LR) schedules on network pruning has been observed in a few recent works. As an example, Frankle and Carbin (2019) highlighted that winning tickets (ie, accuracy preserving subnetworks) can not be found without applying a LR warmup schedule and Renda, Frankle and Carbin (2020) demonstrated that rewinding the LR to its initial state at the end of each pruning cycle improves performance. In this paper, we go one step further by first  Cites: Good subnetworks provably exist: Pruning via greedy forward

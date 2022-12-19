@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving group robustness under noisy labels using predictive uncertainty"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "D Oh, D Lee, J Byun, B Shin - arXiv preprint arXiv:2212.07026, 2022"
----
-The standard empirical risk minimization (ERM) can underperform on certain minority groups (ie, waterbirds in lands or landbirds in water) due to the spurious correlation between the input and its label. Several studies have improved the worst-group accuracy by focusing on the high-loss samples. The hypothesis behind this is that such high-loss samples are\textit {spurious-cue-free}(SCF) samples. However, these approaches can be problematic since the high-loss samples may also be samples …
-Cites: ‪Just train twice: Improving group robustness without training group …‬
+--- 
+layout: post 
+title: "Improving group robustness under noisy labels using predictive uncertainty" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "D Oh, D Lee, J Byun, B Shin - arXiv preprint arXiv:2212.07026, 2022" 
+--- 
+The standard empirical risk minimization (ERM) can underperform on certain minority groups (ie, waterbirds in lands or landbirds in water) due to the spurious correlation between the input and its label. Several studies have improved the worst-group accuracy by focusing on the high-loss samples. The hypothesis behind this is that such high-loss samples are\textit {spurious-cue-free}(SCF) samples. However, these approaches can be problematic since the high-loss samples may also be samples  Cites: Just train twice: Improving group robustness without training group

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Technical Report for REVERIE Challenge (CSIG 2022)"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "ZWYWY He, Y Qiao"
----
-This report presents the methods of the team BPT in the REVERIE Challenge@ CSIG 2022. Our method improves the current state-of-the-art method, DUET without modifying the model architecture. Specifically, we combine environment-level and instruction-trajectory-pair-level augmentation in both pre-training and fine-tuning. Furthermore, we combine models trained with different augmented environments and pretraining weights for getting better result. Our best single (ensemble) model …
-Cites: ‪EnvEdit: Environment Editing for Vision-and-Language Navigation‬

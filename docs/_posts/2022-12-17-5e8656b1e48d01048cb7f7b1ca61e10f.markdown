@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Early stopping by correlating online indicators in neural networks"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "MV Ferro, YD Mosquera, FJR Pena, VMD Bilbao - Neural Networks, 2022"
----
-In order to minimize the generalization error in neural networks, a novel technique to identify overfitting phenomena when training the learner is formally introduced. This enables support of a reliable and trustworthy early stopping condition, thus improving the predictive power of that type of modeling. Our proposal exploits the correlation over time in a collection of online indicators, namely characteristic functions for indicating if a set of hypotheses are met, associated with a range of independent …
-Cites: ‪Stack-Pointer Networks for Dependency Parsing‬
+--- 
+layout: post 
+title: "Early stopping by correlating online indicators in neural networks" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "MV Ferro, YD Mosquera, FJR Pena, VMD Bilbao - Neural Networks, 2022" 
+--- 
+In order to minimize the generalization error in neural networks, a novel technique to identify overfitting phenomena when training the learner is formally introduced. This enables support of a reliable and trustworthy early stopping condition, thus improving the predictive power of that type of modeling. Our proposal exploits the correlation over time in a collection of online indicators, namely characteristic functions for indicating if a set of hypotheses are met, associated with a range of independent  Cites: Stack-Pointer Networks for Dependency Parsing

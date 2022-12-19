@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Experiments on Code Clone Detection and Machine Learning"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "A Schäfer, W Amme, TS Heinze - 2022 IEEE 16th International Workshop on Software …, 2022"
----
-The latest machine learning techniques are already capable of solving extremely complex problems and outperforming conventionally implemented software. Also in code clone detection, there is an increasing number of approaches that work with machine learning. In this paper, a machine learning model is trained with dominator trees generated from the bytecode of the BigCloneBench benchmark and similar performance results to previous work can be produced. However, further …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "Experiments on Code Clone Detection and Machine Learning" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "A Schfer, W Amme, TS Heinze - 2022 IEEE 16th International Workshop on Software , 2022" 
+--- 
+The latest machine learning techniques are already capable of solving extremely complex problems and outperforming conventionally implemented software. Also in code clone detection, there is an increasing number of approaches that work with machine learning. In this paper, a machine learning model is trained with dominator trees generated from the bytecode of the BigCloneBench benchmark and similar performance results to previous work can be produced. However, further  Cites: Graphcodebert: Pre-training code representations with data flow

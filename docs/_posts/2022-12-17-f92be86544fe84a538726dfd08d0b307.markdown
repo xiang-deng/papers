@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AP: Selective Activation for De-sparsifying Pruned Neural Networks"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "S Liu, R Ghosh, D Tan, M Motani - arXiv preprint arXiv:2212.06145, 2022"
----
-The rectified linear unit (ReLU) is a highly successful activation function in neural networks as it allows networks to easily obtain sparse representations, which reduces overfitting in overparameterized networks. However, in network pruning, we find that the sparsity introduced by ReLU, which we quantify by a term called dynamic dead neuron rate (DNR), is not beneficial for the pruned network. Interestingly, the more the network is pruned, the smaller the dynamic DNR becomes …
-Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬
+--- 
+layout: post 
+title: "AP: Selective Activation for De-sparsifying Pruned Neural Networks" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "S Liu, R Ghosh, D Tan, M Motani - arXiv preprint arXiv:2212.06145, 2022" 
+--- 
+The rectified linear unit (ReLU) is a highly successful activation function in neural networks as it allows networks to easily obtain sparse representations, which reduces overfitting in overparameterized networks. However, in network pruning, we find that the sparsity introduced by ReLU, which we quantify by a term called dynamic dead neuron rate (DNR), is not beneficial for the pruned network. Interestingly, the more the network is pruned, the smaller the dynamic DNR becomes  Cites: Good subnetworks provably exist: Pruning via greedy forward

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Flox: Federated learning with faas at the edge"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "N Kotsehub, M Baughman, R Chard, N Hudson… - 2022 IEEE 18th …, 2022"
----
-Federated learning (FL) is a technique for distributed machine learning that enables the use of siloed and distributed data. With FL, individual machine learning models are trained separately and then only model parameters (eg, weights in a neural network) are shared and aggregated to create a global model, allowing data to remain in its original environment. While many applications can benefit from FL, existing frameworks are incomplete, cumbersome, and environment-dependent. To …
-Cites: ‪Deep multitask learning for semantic dependency parsing‬
+--- 
+layout: post 
+title: "Flox: Federated learning with faas at the edge" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "N Kotsehub, M Baughman, R Chard, N Hudson - 2022 IEEE 18th , 2022" 
+--- 
+Federated learning (FL) is a technique for distributed machine learning that enables the use of siloed and distributed data. With FL, individual machine learning models are trained separately and then only model parameters (eg, weights in a neural network) are shared and aggregated to create a global model, allowing data to remain in its original environment. While many applications can benefit from FL, existing frameworks are incomplete, cumbersome, and environment-dependent. To  Cites: Deep multitask learning for semantic dependency parsing

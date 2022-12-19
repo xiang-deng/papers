@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Developers  Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "SA Hassan, Z Aamir, D Lee, JC Davis, F Servant - 2023"
----
-Regular expressions are used for diverse purposes, including input validation and firewalls. Unfortunately, they can also lead to a security vulnerability called ReDoS (Regular Expression Denial of Service), caused by a super-linear worst-case execution time during regex matching. Due to the severity and prevalence of ReDoS, past work proposed automatic tools to detect and fix regexes. Although these tools were evaluated in automatic experiments, their usability has not yet been studied; …
-Cites: ‪HARE: Hardware accelerator for regular expressions‬
+--- 
+layout: post 
+title: "Improving Developers Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "SA Hassan, Z Aamir, D Lee, JC Davis, F Servant - 2023" 
+--- 
+Regular expressions are used for diverse purposes, including input validation and firewalls. Unfortunately, they can also lead to a security vulnerability called ReDoS (Regular Expression Denial of Service), caused by a super-linear worst-case execution time during regex matching. Due to the severity and prevalence of ReDoS, past work proposed automatic tools to detect and fix regexes. Although these tools were evaluated in automatic experiments, their usability has not yet been studied;  Cites: HARE: Hardware accelerator for regular expressions

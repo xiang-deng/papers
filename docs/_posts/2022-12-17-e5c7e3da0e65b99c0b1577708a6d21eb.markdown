@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distantly-Supervised Named Entity Recognition with Adaptive Teacher Learning and Fine-grained Student Ensemble"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "X Qu, J Zeng, D Liu, Z Wang, B Huai, P Zhou - arXiv preprint arXiv:2212.06522, 2022"
----
-Distantly-Supervised Named Entity Recognition (DS-NER) effectively alleviates the data scarcity problem in NER by automatically generating training samples. Unfortunately, the distant supervision may induce noisy labels, thus undermining the robustness of the learned models and restricting the practical application. To relieve this problem, recent works adopt self-training teacher-student frameworks to gradually refine the training labels and improve the generalization ability of NER …
-Cites: ‪Design challenges and misconceptions in named entity recognition‬
+--- 
+layout: post 
+title: "Distantly-Supervised Named Entity Recognition with Adaptive Teacher Learning and Fine-grained Student Ensemble" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "X Qu, J Zeng, D Liu, Z Wang, B Huai, P Zhou - arXiv preprint arXiv:2212.06522, 2022" 
+--- 
+Distantly-Supervised Named Entity Recognition (DS-NER) effectively alleviates the data scarcity problem in NER by automatically generating training samples. Unfortunately, the distant supervision may induce noisy labels, thus undermining the robustness of the learned models and restricting the practical application. To relieve this problem, recent works adopt self-training teacher-student frameworks to gradually refine the training labels and improve the generalization ability of NER  Cites: Design challenges and misconceptions in named entity recognition

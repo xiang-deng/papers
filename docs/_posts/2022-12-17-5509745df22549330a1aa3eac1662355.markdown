@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Maximal Initial Learning Rates in Deep ReLU Networks"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "G Iyer, B Hanin, D Rolnick - arXiv preprint arXiv:2212.07295, 2022"
----
-Training a neural network requires choosing a suitable learning rate, involving a trade-off between speed and effectiveness of convergence. While there has been considerable theoretical and empirical analysis of how large the learning rate can be, most prior work focuses only on late-stage training. In this work, we introduce the maximal initial learning rate $\eta^{\ast} $-the largest learning rate at which a randomly initialized neural network can successfully begin training and achieve (at …
-Cites: ‪The break-even point on optimization trajectories of deep neural …‬
+--- 
+layout: post 
+title: "Maximal Initial Learning Rates in Deep ReLU Networks" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "G Iyer, B Hanin, D Rolnick - arXiv preprint arXiv:2212.07295, 2022" 
+--- 
+Training a neural network requires choosing a suitable learning rate, involving a trade-off between speed and effectiveness of convergence. While there has been considerable theoretical and empirical analysis of how large the learning rate can be, most prior work focuses only on late-stage training. In this work, we introduce the maximal initial learning rate $\eta^{\ast} $-the largest learning rate at which a randomly initialized neural network can successfully begin training and achieve (at  Cites: The break-even point on optimization trajectories of deep neural

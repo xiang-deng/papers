@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Lexically Constrained Knowledge Distillation for Neural Machine Translation"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "H Mino, K Kinugawa, H Ito, I Goto, I Yamada… - Journal of Natural …, 2022"
----
-Knowledge distillation is a representative approach in neural machine translation (NMT) for compressing a large model into a lightweight one. This approach first trains a strong teacher model, and then forces a more compact student model to imitate the teacher. Although the key to successful knowledge distillation is constructing a stronger teacher model, the teacher model using state-of-the-art NMT may remain inadequate owing to translation errors. Accordingly, using an inadequate teacher …
-Cites: ‪Understanding Knowledge Distillation in Non-autoregressive …‬
+--- 
+layout: post 
+title: "Lexically Constrained Knowledge Distillation for Neural Machine Translation" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "H Mino, K Kinugawa, H Ito, I Goto, I Yamada - Journal of Natural , 2022" 
+--- 
+Knowledge distillation is a representative approach in neural machine translation (NMT) for compressing a large model into a lightweight one. This approach first trains a strong teacher model, and then forces a more compact student model to imitate the teacher. Although the key to successful knowledge distillation is constructing a stronger teacher model, the teacher model using state-of-the-art NMT may remain inadequate owing to translation errors. Accordingly, using an inadequate teacher  Cites: Understanding Knowledge Distillation in Non-autoregressive

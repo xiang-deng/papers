@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Doubly Right Object Recognition: A Why Prompt for Visual Rationales"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "C Mao, R Teotia, A Sundar, S Menon, J Yang, X Wang… - arXiv preprint arXiv …, 2022"
----
-Many visual recognition models are evaluated only on their classification accuracy, a metric for which they obtain strong performance. In this paper, we investigate whether computer vision models can also provide correct rationales for their predictions. We propose a``doubly right  object recognition benchmark, where the metric requires the model to simultaneously produce both the right labels as well as the right rationales. We find that state-of-the-art visual models, such as CLIP, often …
-Cites: ‪Prompt Consistency for Zero-Shot Task Generalization‬
+--- 
+layout: post 
+title: "Doubly Right Object Recognition: A Why Prompt for Visual Rationales" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "C Mao, R Teotia, A Sundar, S Menon, J Yang, X Wang - arXiv preprint arXiv , 2022" 
+--- 
+Many visual recognition models are evaluated only on their classification accuracy, a metric for which they obtain strong performance. In this paper, we investigate whether computer vision models can also provide correct rationales for their predictions. We propose a``doubly right object recognition benchmark, where the metric requires the model to simultaneously produce both the right labels as well as the right rationales. We find that state-of-the-art visual models, such as CLIP, often  Cites: Prompt Consistency for Zero-Shot Task Generalization

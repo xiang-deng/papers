@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring the potential of multi-source unsupervised domain adaptation in crop mapping using Sentinel-2 images"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "Y Wang, L Feng, W Sun, Z Zhang, H Zhang, G Yang… - GIScience & Remote …, 2022"
----
-Accurate crop mapping is critical for agricultural applications. Although studies have combined deep learning methods and time-series satellite images to crop classification with satisfactory results, most of them focused on supervised methods, which are usually applicable to a specific domain and lose their validity in new domains. Unsupervised domain adaptation (UDA) was proposed to solve this limitation by transferring knowledge from source domains with labeled samples to …
-Cites: ‪Multi-Source Domain Adaptation for Text Classification via …‬
+--- 
+layout: post 
+title: "Exploring the potential of multi-source unsupervised domain adaptation in crop mapping using Sentinel-2 images" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "Y Wang, L Feng, W Sun, Z Zhang, H Zhang, G Yang - GIScience & Remote , 2022" 
+--- 
+Accurate crop mapping is critical for agricultural applications. Although studies have combined deep learning methods and time-series satellite images to crop classification with satisfactory results, most of them focused on supervised methods, which are usually applicable to a specific domain and lose their validity in new domains. Unsupervised domain adaptation (UDA) was proposed to solve this limitation by transferring knowledge from source domains with labeled samples to  Cites: Multi-Source Domain Adaptation for Text Classification via

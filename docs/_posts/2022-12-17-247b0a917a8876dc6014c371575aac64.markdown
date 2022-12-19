@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "F Sato, A Ikegami, T Ishio, K Shimari, K Matsumoto - 2022 IEEE 16th International …, 2022"
----
-Jupyter Notebook is a popular tool for writing data analysis programs. Prior work showed that Jupyter Notebook users often duplicate their python code to try their hypothesis quickly. While such code clones can be removed by Extract Function refactoring later, users have to check that the output of a notebook is unaffected by the refactoring. However, users may not be able to compare execution results of a notebook before and after refactoring because non-textual output in Jupyter …
-Cites: ‪Automated transpilation of imperative to functional code using …‬
+--- 
+layout: post 
+title: "Comparing Execution Traces of Jupyter Notebook for Checking Correctness of Refactoring" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "F Sato, A Ikegami, T Ishio, K Shimari, K Matsumoto - 2022 IEEE 16th International , 2022" 
+--- 
+Jupyter Notebook is a popular tool for writing data analysis programs. Prior work showed that Jupyter Notebook users often duplicate their python code to try their hypothesis quickly. While such code clones can be removed by Extract Function refactoring later, users have to check that the output of a notebook is unaffected by the refactoring. However, users may not be able to compare execution results of a notebook before and after refactoring because non-textual output in Jupyter  Cites: Automated transpilation of imperative to functional code using

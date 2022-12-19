@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Losses over Labels: Weakly Supervised Learning via Direct Loss Construction"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "D Sam, JZ Kolter - arXiv preprint arXiv:2212.06921, 2022"
----
-Owing to the prohibitive costs of generating large amounts of labeled data, programmatic weak supervision is a growing paradigm within machine learning. In this setting, users design heuristics that provide noisy labels for subsets of the data. These weak labels are combined (typically via a graphical model) to form pseudolabels, which are then used to train a downstream model. In this work, we question a foundational premise of the typical weakly supervised learning pipeline …
-Cites: ‪Meta pseudo labels‬
+--- 
+layout: post 
+title: "Losses over Labels: Weakly Supervised Learning via Direct Loss Construction" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "D Sam, JZ Kolter - arXiv preprint arXiv:2212.06921, 2022" 
+--- 
+Owing to the prohibitive costs of generating large amounts of labeled data, programmatic weak supervision is a growing paradigm within machine learning. In this setting, users design heuristics that provide noisy labels for subsets of the data. These weak labels are combined (typically via a graphical model) to form pseudolabels, which are then used to train a downstream model. In this work, we question a foundational premise of the typical weakly supervised learning pipeline  Cites: Meta pseudo labels

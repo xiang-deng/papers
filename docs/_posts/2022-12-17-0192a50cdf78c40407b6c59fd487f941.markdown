@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Safety Correction from Baseline: Towards the Risk-aware Policy in Robotics via Dual-agent Reinforcement Learning"
-date:   2022-12-17 01:50:56 -0400
-categories: jekyll update
-author: "L Zhang, Z Yan, L Shen, S Li, X Wang, D Tao - arXiv preprint arXiv:2212.06998, 2022"
----
-Learning a risk-aware policy is essential but rather challenging in unstructured robotic tasks. Safe reinforcement learning methods open up new possibilities to tackle this problem. However, the conservative policy updates make it intractable to achieve sufficient exploration and desirable performance in complex, sample-expensive environments. In this paper, we propose a dual-agent safe reinforcement learning strategy consisting of a baseline and a safe agent. Such a decoupled …
-Cites: ‪Decoupled Exploration and Exploitation Policies for Sample …‬
+--- 
+layout: post 
+title: "Safety Correction from Baseline: Towards the Risk-aware Policy in Robotics via Dual-agent Reinforcement Learning" 
+date: 2022-12-17 01:50:56 -0400 
+categories: jekyll update 
+author: "L Zhang, Z Yan, L Shen, S Li, X Wang, D Tao - arXiv preprint arXiv:2212.06998, 2022" 
+--- 
+Learning a risk-aware policy is essential but rather challenging in unstructured robotic tasks. Safe reinforcement learning methods open up new possibilities to tackle this problem. However, the conservative policy updates make it intractable to achieve sufficient exploration and desirable performance in complex, sample-expensive environments. In this paper, we propose a dual-agent safe reinforcement learning strategy consisting of a baseline and a safe agent. Such a decoupled  Cites: Decoupled Exploration and Exploitation Policies for Sample
