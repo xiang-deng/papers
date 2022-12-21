@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CLAM: Selective Clarification for Ambiguous Questions with Large Language Models"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "L Kuhn, Y Gal, S Farquhar - arXiv preprint arXiv:2212.07769, 2022"
+---
+State-of-the-art language models are often accurate on many question-answering benchmarks with well-defined questions. Yet, in real settings questions are often unanswerable without asking the user for clarifying information. We show that current SotA models often do not ask the user for clarification when presented with imprecise questions and instead provide incorrect answers or  hallucinate . To address this, we introduce CLAM, a framework that first uses the model to detect ambiguous …
+Cites: ‪Scaling instruction-finetuned language models‬

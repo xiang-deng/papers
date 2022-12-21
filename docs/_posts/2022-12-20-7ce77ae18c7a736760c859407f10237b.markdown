@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Visually-augmented pretrained language models for NLP tasks without images"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "H Guo, K Zhou, WX Zhao, Q Zhang, JR Wen - arXiv preprint arXiv:2212.07937, 2022"
+---
+Although pre-trained language models (PLMs) have shown impressive performance by text-only self-supervised training, they are found lack of visual semantics or commonsense, eg, sizes, shapes, and colors of commonplace objects. Existing solutions often rely on explicit images for visual knowledge augmentation (requiring time-consuming retrieval or generation), and they also conduct the augmentation for the whole input text, without considering whether it is actually needed in specific …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬

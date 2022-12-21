@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An end-to-end deep generative approach with meta-learning optimization for zero-shot object classification"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "X Xu, X Bao, X Lu, R Zhang, X Chen, G Lu - Information Processing & Management, 2023"
+---
+Zero-shot object classification aims to recognize the object of unseen classes whose supervised data are unavailable in the training stage. Recent zero-shot learning (ZSL) methods usually propose to generate new supervised data for unseen classes by designing various deep generative networks. In this paper, we propose an end-to-end deep generative ZSL approach that trains the data generation module and object classification module jointly, rather than separately as in the majority of …
+Cites: ‪Auto-scaling Vision Transformers without Training‬

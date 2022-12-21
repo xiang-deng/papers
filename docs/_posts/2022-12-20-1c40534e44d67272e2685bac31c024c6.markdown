@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning threshold neurons via the  edge of stability"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "K Ahn, S Bubeck, S Chewi, YT Lee, F Suarez, Y Zhang - arXiv preprint arXiv …, 2022"
+---
+Existing analyses of neural network training often operate under the unrealistic assumption of an extremely small learning rate. This lies in stark contrast to practical wisdom and empirical studies, such as the work of J. Cohen et al.(ICLR 2021), which exhibit startling new phenomena (the  edge of stability  or  unstable convergence ) and potential benefits for generalization in the large learning rate regime. Despite a flurry of recent works on this topic, however, the latter effect is still poorly understood …
+Cites: ‪The break-even point on optimization trajectories of deep neural …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modeling multiple latent information graph structures via graph convolutional network for aspect-based sentiment analysis"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "J Wang, X Li, X An - Complex & Intelligent Systems, 2022"
+---
+Aspect-based sentiment analysis (ABSA) aims to determine the sentiment polarity of aspects in a sentence. Recently, graph convolution network (GCN) model combined with attention mechanism has been used for ABSA task over graph structures, achieving promising results. However, these methods of modeling over graph structure fail to consider multiple latent information in the text, ie, syntax, semantics, context, and so on. In addition, the attention mechanism is vulnerable to noise in …
+Cites: ‪Aspect level sentiment classification with deep memory network‬

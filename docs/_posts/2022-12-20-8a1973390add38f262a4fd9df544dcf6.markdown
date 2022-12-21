@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Leveraging Structured Information from a Passage to Generate Questions"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "J Xu, Y Sun, J Gan, M Zhou, D Wu - Tsinghua Science and Technology, 2022"
+---
+Question Generation (QG) is the task of utilizing Artificial Intelligence (Al) technology to generate questions that can be answered by a span of text within a given passage. Existing research on QG in the educational field struggles with two challenges: the mainstream QG models based on seq-to-seq fail to utilize the structured information from the passage; the other is the lack of specialized educational QG datasets. To address the challenges, a specialized QG dataset, reading comprehension dataset …
+Cites: ‪Syn-QG: Syntactic and shallow semantic rules for question …‬

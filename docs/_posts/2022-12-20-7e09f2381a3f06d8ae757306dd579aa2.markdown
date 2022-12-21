@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TS-GCN: Aspect-level sentiment classification model for consumer reviews"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "S Zhang, T Zhao, W Houyue, G Zhu, KC Li - Computer Science and Information …, 2022"
+---
+The goal of aspect-level sentiment classification (ASC) task is to obtain the sentiment polarity of aspect words in the text. Most existing methods ignore the implicit aspects, resulting in low classification accuracy. To improve the accuracy, this paper proposes a classification model for consumer reviews, abbreviated as TS-GCN (Truncated history attention and Selective transformation network-Graph Convolutional Networks). TS-GCN can classify sentiment from both explicit and implicit aspects …
+Cites: ‪Graph convolution over pruned dependency trees improves …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "HOMDA: High-Order Moment-Based Domain Alignment for unsupervised domain adaptation"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "J Dan, T Jin, H Chi, Y Shen, J Yu, J Zhou - Knowledge-Based Systems, 2022"
+---
+Unsupervised domain adaptation aims to annotate unlabeled target domain samples by utilizing transferable knowledge learned from the source domain. Optimal transport (OT) has become a popular probability metric to measure the distribution discrepancy across domains. However, most OT-based methods inevitably suffer from false matching problem, resulting in poor domain alignment. Furthermore, because the domain shift cannot be completely eliminated, some target domain data …
+Cites: ‪Understanding self-training for gradual domain adaptation‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "clusTransition: An R package for monitoring transition in cluster solutions of temporal datasets"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "M Atif, F Leisch - PLOS ONE, 2022"
+---
+Clustering analysis  primary purpose is to divide a dataset into a finite number of segments based on the similarities between items. In recent years, a significant amount of study has focused on the spatio-temporal aspects of clustering. However, clusters are no longer regarded as static objects since changes influence them in the underlying population. This paper describes an R package implementing the MONIC framework for tracing the evolution of clusters extracted from temporal datasets. The …
+Cites: ‪On evolutionary spectral clustering‬

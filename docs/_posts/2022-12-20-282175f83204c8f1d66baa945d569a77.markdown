@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Co-Learning with Pre-Trained Networks Improves Source-Free Domain Adaptation"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "W Zhang, L Shen, CS Foo - arXiv preprint arXiv:2212.07585, 2022"
+---
+Source-free domain adaptation aims to adapt a source model trained on fully-labeled source domain data to a target domain with unlabeled target domain data. Source data is assumed inaccessible due to proprietary or privacy reasons. Existing works use the source model to pseudolabel target data, but the pseudolabels are unreliable due to data distribution shift between source and target domain. In this work, we propose to leverage an ImageNet pre-trained feature extractor in a new co …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

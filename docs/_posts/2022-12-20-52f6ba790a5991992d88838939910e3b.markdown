@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Effective negative triplet sampling for knowledge graph embedding"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "A Khobragade, R Mahajan, H Langi, R Mundhe… - Journal of Information and …, 2022"
+---
+Abstract Knowledge graphs contain only positive triplet facts, whereas the negative triplets need to be generated precisely to train the embedding models. Early Uniform and Bernoulli sampling are applied but suffer s from the zero loss problems during training, affecting the performance of embedding models. Recently, generative adversarial technic attended the dynamic negative sampling and obtained better performance by vanishing zero loss but on the adverse side of increasing the model …
+Cites: ‪Complex embeddings for simple link prediction‬

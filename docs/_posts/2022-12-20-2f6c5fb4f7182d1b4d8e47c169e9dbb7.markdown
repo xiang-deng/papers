@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hierarchical Reinforcement Learning Under Mixed Observability"
+date:   2022-12-20 02:26:19 -0400
+categories: jekyll update
+author: "C Amato"
+---
+The framework of mixed observable Markov decision processes (MOMDP) models many robotic domains in which some state variables are fully observable while others are not. In this work, we identify a significant subclass of MOMDPs defined by how actions influence the fully observable components of the state and how those, in turn, influence the partially observable components and the rewards. This unique property allows for a two-level hierarchical approach we call HIerarchical …
+Cites: ‪Learning phrase representations using RNN encoder-decoder for …‬
