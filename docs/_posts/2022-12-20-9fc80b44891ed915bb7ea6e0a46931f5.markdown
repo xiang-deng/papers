@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DR. SPIDER: ADiagnostic EVALUATION BENCH-MARK TOWARDS TEXT-TO-SQL ROBUSTNESS"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "S Chang, J Wang, M Dong, L Pan, H Zhu, AH Li, W Lan…"
----
-Neural text-to-SQL models have achieved remarkable performance in translating natural language questions into SQL queries. However, recent studies reveal that text-to-SQL models are vulnerable to task-specific perturbations. Previous curated robustness test sets usually focus on individual phenomena. In this paper, we propose a comprehensive robustness benchmark 1 based on Spider, a cross-domain text-to-SQL benchmark, to diagnose the model robustness. We design 17 …
-Cites: ‪Opt: Open pre-trained transformer language models‬
+--- 
+layout: post 
+title: "DR. SPIDER: ADiagnostic EVALUATION BENCH-MARK TOWARDS TEXT-TO-SQL ROBUSTNESS" 
+date: 2022-12-20 02:26:19 -0400 
+categories: jekyll update 
+author: "S Chang, J Wang, M Dong, L Pan, H Zhu, AH Li, W Lan" 
+--- 
+Neural text-to-SQL models have achieved remarkable performance in translating natural language questions into SQL queries. However, recent studies reveal that text-to-SQL models are vulnerable to task-specific perturbations. Previous curated robustness test sets usually focus on individual phenomena. In this paper, we propose a comprehensive robustness benchmark 1 based on Spider, a cross-domain text-to-SQL benchmark, to diagnose the model robustness. We design 17  Cites: Opt: Open pre-trained transformer language models

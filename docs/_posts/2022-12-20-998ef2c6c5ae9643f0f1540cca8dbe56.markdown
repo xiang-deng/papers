@@ -1,9 +1,0 @@
----
-layout: post
-title:  "FLightNER: A Federated Learning Approach to Lightweight Named-Entity Recognition"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "MPA Abadeer - 2022"
----
-We introduce FLightNER, a Federated Learning model that extends a state-of-the-art Named-Entity Recognition model using prompt-tuning known as LightNER. FLightNER allows the aggregation of only the trainable parameters of LightNER without model accuracy degradation saving 10 GB per client and enabling more clients to join a federation without extending the central server s memory. We evaluate our approach against two baselines using three diverse datasets with …
-Cites: ‪Fine-tuning pretrained language models: Weight initializations …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Story Generation Based on Multi-granularity Constraints"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "Z Guo, J Wan, H Tang, Y Lu - CAAI International Conference on Artificial Intelligence, 2022"
----
-Generating a coherent story is a challenging task in natural language processing, which requires maintaining the coherence of plots and inter-sentence semantics throughout the generated text. While existing generation models can generate texts with good intra-sentence coherence, it is still difficult to plan a coherent plot and inter-sentence semantics throughout the text. In this paper, we propose a novel multi-granularity constraints text generation model, which constrains at the token level and …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Story Generation Based on Multi-granularity Constraints" 
+date: 2022-12-20 02:26:19 -0400 
+categories: jekyll update 
+author: "Z Guo, J Wan, H Tang, Y Lu - CAAI International Conference on Artificial Intelligence, 2022" 
+--- 
+Generating a coherent story is a challenging task in natural language processing, which requires maintaining the coherence of plots and inter-sentence semantics throughout the generated text. While existing generation models can generate texts with good intra-sentence coherence, it is still difficult to plan a coherent plot and inter-sentence semantics throughout the text. In this paper, we propose a novel multi-granularity constraints text generation model, which constrains at the token level and  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

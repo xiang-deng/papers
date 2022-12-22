@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Entity-controlled synthetic text generation using contextual question and answering with pre-trained language models"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "H Jin, K Aggarwal - 2022"
----
-Abstract Recent advancements in Natural Language Processing (NLP) algorithms have resulted in state-of-the-art performance on Named Entity Recognition (NER) tasks. These algorithms typically require high-quality labeled datasets for training models. However, training NLP models effectively can suffer from issues such as scarcity of labeled data, data bias and under-representation, and privacy concerns with using sensitive data for training. Generating synthetic data to train models is a …
-Cites: ‪Towards Robustifying NLI Models Against Lexical Dataset Biases‬
+--- 
+layout: post 
+title: "Entity-controlled synthetic text generation using contextual question and answering with pre-trained language models" 
+date: 2022-12-20 02:26:19 -0400 
+categories: jekyll update 
+author: "H Jin, K Aggarwal - 2022" 
+--- 
+Abstract Recent advancements in Natural Language Processing (NLP) algorithms have resulted in state-of-the-art performance on Named Entity Recognition (NER) tasks. These algorithms typically require high-quality labeled datasets for training models. However, training NLP models effectively can suffer from issues such as scarcity of labeled data, data bias and under-representation, and privacy concerns with using sensitive data for training. Generating synthetic data to train models is a  Cites: Towards Robustifying NLI Models Against Lexical Dataset Biases

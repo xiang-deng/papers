@@ -1,9 +1,0 @@
----
-layout: post
-title:  "The Joint Training of Transition-Based AMR Parser"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "G Xu - 2022"
----
-Meaning Representation (AMR) parsing converts a natural language sentence into a specially designed semantic graph (AMR), which captures the most essential semantic entities and relations of the input sentence. While the recent introduction of pretrained sequence-to-sequence models have brought performance improvement and pipeline simplification, the problem of how to best encode structural information into seq2seq models remains. This exploratory work proposes joint training of …
-Cites: ‪Jingfei Du‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "Z Chen, Y Shen, M Ding, Z Chen, H Zhao… - arXiv preprint arXiv …, 2022"
----
-Optimization in multi-task learning (MTL) is more challenging than single-task learning (STL), as the gradient from different tasks can be contradictory. When tasks are related, it can be beneficial to share some parameters among them (cooperation). However, some tasks require additional parameters with expertise in a specific type of data or discrimination (specialization). To address the MTL challenge, we propose Mod-Squad, a new model that is Modularized into groups of experts …
-Cites: ‪Base layers: Simplifying training of large, sparse models‬
+--- 
+layout: post 
+title: "Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners" 
+date: 2022-12-20 02:26:19 -0400 
+categories: jekyll update 
+author: "Z Chen, Y Shen, M Ding, Z Chen, H Zhao - arXiv preprint arXiv , 2022" 
+--- 
+Optimization in multi-task learning (MTL) is more challenging than single-task learning (STL), as the gradient from different tasks can be contradictory. When tasks are related, it can be beneficial to share some parameters among them (cooperation). However, some tasks require additional parameters with expertise in a specific type of data or discrimination (specialization). To address the MTL challenge, we propose Mod-Squad, a new model that is Modularized into groups of experts  Cites: Base layers: Simplifying training of large, sparse models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DeepJoin: Joinable Table Discovery with Pre-trained Language Models"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "Y Dong, C Xiao, T Nozawa, M Enomoto, M Oyamada - arXiv preprint arXiv …, 2022"
----
-Due to the usefulness in data enrichment for data analysis tasks, joinable table discovery has become an important operation in data lake management. Existing approaches target equi-joins, the most common way of combining tables for creating a unified view, or semantic joins, which tolerate misspellings and different formats to deliver more join results. They are either exact solutions whose running time is linear in the sizes of query column and target table repository or approximate solutions …
-Cites: ‪TaBERT: Pretraining for Joint Understanding of Textual and …‬
+--- 
+layout: post 
+title: "DeepJoin: Joinable Table Discovery with Pre-trained Language Models" 
+date: 2022-12-20 02:26:19 -0400 
+categories: jekyll update 
+author: "Y Dong, C Xiao, T Nozawa, M Enomoto, M Oyamada - arXiv preprint arXiv , 2022" 
+--- 
+Due to the usefulness in data enrichment for data analysis tasks, joinable table discovery has become an important operation in data lake management. Existing approaches target equi-joins, the most common way of combining tables for creating a unified view, or semantic joins, which tolerate misspellings and different formats to deliver more join results. They are either exact solutions whose running time is linear in the sizes of query column and target table repository or approximate solutions  Cites: TaBERT: Pretraining for Joint Understanding of Textual and

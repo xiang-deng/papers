@@ -1,9 +1,8 @@
----
-layout: post
-title:  "EREC: Enhanced Language Representations with Event Chains"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "H Wang, Y Wang - Information, 2022"
----
-The natural language model BERT uses a large-scale unsupervised corpus to accumulate rich linguistic knowledge during its pretraining stage, and then, the information is fine-tuned for specific downstream tasks, which greatly improves the understanding capability of various natural language tasks. For some specific tasks, the capability of the model can be enhanced by introducing external knowledge. In fact, these methods, such as ERNIE, have been proposed for integrating knowledge …
-Cites: ‪Train No Evil: Selective Masking for Task-guided Pre-training‬
+--- 
+layout: post 
+title: "EREC: Enhanced Language Representations with Event Chains" 
+date: 2022-12-20 02:26:19 -0400 
+categories: jekyll update 
+author: "H Wang, Y Wang - Information, 2022" 
+--- 
+The natural language model BERT uses a large-scale unsupervised corpus to accumulate rich linguistic knowledge during its pretraining stage, and then, the information is fine-tuned for specific downstream tasks, which greatly improves the understanding capability of various natural language tasks. For some specific tasks, the capability of the model can be enhanced by introducing external knowledge. In fact, these methods, such as ERNIE, have been proposed for integrating knowledge  Cites: Train No Evil: Selective Masking for Task-guided Pre-training

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Neural Variational Monte Carlo That Scales Linearly with System Size"
-date:   2022-12-20 02:26:19 -0400
-categories: jekyll update
-author: "O Sharir, GKL Chan, A Anandkumar"
----
-Quantum many-body problems are some of the most challenging problems in science and are central to demystifying some exotic quantum phenomena, eg, high-temperature superconductors. The combination of neural networks (NN) for representing quantum states, coupled with the Variational Monte Carlo (VMC) algorithm, has been shown to be a promising method for solving such problems. However, the run-time of this approach scales quadratically with the number of …
-Cites: ‪Transformer quality in linear time‬
+--- 
+layout: post 
+title: "Towards Neural Variational Monte Carlo That Scales Linearly with System Size" 
+date: 2022-12-20 02:26:19 -0400 
+categories: jekyll update 
+author: "O Sharir, GKL Chan, A Anandkumar" 
+--- 
+Quantum many-body problems are some of the most challenging problems in science and are central to demystifying some exotic quantum phenomena, eg, high-temperature superconductors. The combination of neural networks (NN) for representing quantum states, coupled with the Variational Monte Carlo (VMC) algorithm, has been shown to be a promising method for solving such problems. However, the run-time of this approach scales quadratically with the number of  Cites: Transformer quality in linear time
