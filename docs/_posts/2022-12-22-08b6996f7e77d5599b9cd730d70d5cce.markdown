@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Source-Free Domain Adaptation for Question Answering with Masked Self-training"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "M Yin, B Wang, Y Dong, C Ling - arXiv preprint arXiv:2212.09563, 2022"
+---
+Most previous unsupervised domain adaptation (UDA) methods for question answering (QA) require access to source domain data while fine-tuning the model for the target domain. Source domain data may, however, contain sensitive information and may be restricted. In this study, we investigate a more challenging setting, source-free UDA, in which we have only the pretrained source model and target domain data, without access to source domain data. We propose a novel self-training …
+Cites: ‪Natural questions: a benchmark for question answering research‬

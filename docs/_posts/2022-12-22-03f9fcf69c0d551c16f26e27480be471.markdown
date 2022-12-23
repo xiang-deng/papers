@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parameter-efficient feature-based transfer for paraphrase identification"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "X Liu, R Rzepka, K Araki - Natural Language Engineering, 2022"
+---
+There are many types of approaches for Paraphrase Identification (PI), an NLP task of determining whether a sentence pair has equivalent semantics. Traditional approaches mainly consist of unsupervised learning and feature engineering, which are computationally inexpensive. However, their task performance is moderate nowadays. To seek a method that can preserve the low computational costs of traditional approaches but yield better task performance, we take an investigation …
+Cites: ‪Deep contextualized word representations‬

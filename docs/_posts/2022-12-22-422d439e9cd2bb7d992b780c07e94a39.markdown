@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "KNIFE: Knowledge Distillation with Free-Text Rationales"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "A Chan, Z Zeng, W Lake, B Joshi, H Chen, X Ren - arXiv preprint arXiv:2212.09721, 2022"
+---
+Free-text rationales (FTRs) follow how humans communicate by explaining reasoning processes via natural language. A number of recent works have studied how to improve language model (LM) generalization by using FTRs to teach LMs the correct reasoning processes behind correct task outputs. These prior works aim to learn from FTRs by appending them to the LM input or target output, but this may introduce an input distribution shift or conflict with the task objective, respectively. We …
+Cites: ‪When Can Models Learn From Explanations? A Formal …‬

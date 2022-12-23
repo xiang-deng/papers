@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "H Bansal, K Gopalakrishnan, S Dingliwal, S Bodapati… - arXiv preprint arXiv …, 2022"
+---
+Language models have been shown to perform better with an increase in scale on a wide variety of tasks via the in-context learning paradigm. In this paper, we investigate the hypothesis that the ability of a large language model to in-context learn-perform a task is not uniformly spread across all of its underlying components. Using a 66 billion parameter language model (OPT-66B) across a diverse set of 14 downstream tasks, we find this is indeed the case: $\sim $70% of attention heads …
+Cites: ‪What can transformers learn in-context? a case study of simple …‬

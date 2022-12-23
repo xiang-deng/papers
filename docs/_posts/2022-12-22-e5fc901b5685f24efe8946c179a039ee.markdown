@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "S3NN: Time step reduction of spiking surrogate gradients for training energy efficient single-step spiking neural networks"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "K Suetake, S Ikegawa, R Saiin, Y Sawada - Neural Networks, 2022"
+---
+As the scales of neural networks increase, techniques that enable them to run with low computational cost and energy efficiency are required. From such demands, various efficient neural network paradigms, such as spiking neural networks (SNNs) or binary neural networks (BNNs), have been proposed. However, they have sticky drawbacks, such as degraded inference accuracy and latency. To solve these problems, we propose a single-step spiking neural network (S 3 NN), an energy …
+Cites: ‪Randaugment: Practical automated data augmentation with a …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Independent Components of Word Embeddings Represent Semantic Features"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "T Musil, D Mareček - arXiv preprint arXiv:2212.09580, 2022"
+---
+Independent Component Analysis (ICA) is an algorithm originally developed for finding separate sources in a mixed signal, such as a recording of multiple people in the same room speaking at the same time. It has also been used to find linguistic features in distributional representations. In this paper, we used ICA to analyze words embeddings. We have found that ICA can be used to find semantic features of the words and these features can easily be combined to search for words that satisfy …
+Cites: ‪Reading tea leaves: How humans interpret topic models‬

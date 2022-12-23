@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Saved you a click: Automatically answering clickbait titles"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "O Johnson, B Lou, J Zhong, A Kurenkov - arXiv preprint arXiv:2212.08196, 2022"
+---
+Often clickbait articles have a title that is phrased as a question or vague teaser that entices the user to click on the link and read the article to find the explanation. We developed a system that will automatically find the answer or explanation of the clickbait hook from the website text so that the user does not need to read through the text themselves. We fine-tune an extractive question and answering model (RoBERTa) and an abstractive one (T5), using data scraped from the StopClickbait  …
+Cites: ‪SpanBERT: Improving Pre-training by Representing and Predicting …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Natural Bias for Language Generation Models"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "C Meister, W Stokowiec, T Pimentel, L Yu, L Rimell… - arXiv preprint arXiv …, 2022"
+---
+After just a few hundred training updates, a standard probabilistic model for language generation has likely not yet learnt many semantic or syntactic rules of natural language, which inherently makes it difficult to estimate the right probability distribution over next tokens. Yet around this point, these models have identified a simple, loss-minimising behaviour: to output the unigram distribution of the target training corpus. The use of such a crude heuristic raises the question: Rather than …
+Cites: ‪Probing across time: What does RoBERTa know and when?‬

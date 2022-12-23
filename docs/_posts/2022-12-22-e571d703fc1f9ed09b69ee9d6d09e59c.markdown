@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MIGA: A Unified Multi-task Generation Framework for Conversational Text-to-SQL"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "Y Fu, W Ou, Z Yu, Y Lin - arXiv preprint arXiv:2212.09278, 2022"
+---
+Conversational text-to-SQL is designed to translate multi-turn natural language questions into their corresponding SQL queries. Most state-of-the-art conversational text-to-SQL methods are incompatible with generative pre-trained language models (PLMs), such as T5. In this paper, we present a two-stage unified MultI-task Generation frAmework (MIGA) that leverages PLMs  ability to tackle conversational text-to-SQL. In the pre-training stage, MIGA first decomposes the main task into …
+Cites: ‪Structure-Grounded Pretraining for Text-to-SQL‬

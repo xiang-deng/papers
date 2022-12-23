@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fast Converging Anytime Model Counting"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "Y Lai, KS Meel, RHC Yap - arXiv preprint arXiv:2212.09390, 2022"
+---
+Model counting is a fundamental problem which has been influential in many applications, from artificial intelligence to formal verification. Due to the intrinsic hardness of model counting, approximate techniques have been developed to solve real-world instances of model counting. This paper designs a new anytime approach called PartialKC for approximate model counting. The idea is a form of partial knowledge compilation to provide an unbiased estimate of the model count which …
+Cites: ‪On the hardness of approximate reasoning‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unsupervised Discontinuous Constituency Parsing with Mildly Context-Sensitive Grammars"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "S Yang, RP Levy, Y Kim - arXiv preprint arXiv:2212.09140, 2022"
+---
+We study grammar induction with mildly context-sensitive grammars for unsupervised discontinuous parsing. Using the probabilistic linear context-free rewriting system (LCFRS) formalism, our approach fixes the rule structure in advance and focuses on parameter learning with maximum likelihood. To reduce the computational complexity of both parsing and parameter estimation, we restrict the grammar formalism to LCFRS-2 (ie, binary LCFRS with fan-out two) and further …
+Cites: ‪Finding Dataset Shortcuts with Grammar Induction‬

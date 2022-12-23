@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Swing Distillation: A Privacy-Preserving Knowledge Distillation Framework"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "J Li, X Wu, W Dong, S Wu, C Bian, D Xiong - arXiv preprint arXiv:2212.08349, 2022"
+---
+Knowledge distillation (KD) has been widely used for model compression and knowledge transfer. Typically, a big teacher model trained on sufficient data transfers knowledge to a small student model. However, despite the success of KD, little effort has been made to study whether KD leaks the training data of the teacher model. In this paper, we experimentally reveal that KD suffers from the risk of privacy leakage. To alleviate this issue, we propose a novel knowledge distillation method, swing …
+Cites: ‪Large language models can be strong differentially private learners‬

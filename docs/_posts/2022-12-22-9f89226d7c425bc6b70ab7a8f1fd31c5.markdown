@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Discovering Language Model Behaviors with Model-Written Evaluations"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "E Perez, S Ringer, K Lukošiūtė, K Nguyen, E Chen… - arXiv preprint arXiv …, 2022"
+---
+As language models (LMs) scale, they develop many novel behaviors, good and bad, exacerbating the need to evaluate how they behave. Prior work creates evaluations with crowdwork (which is time-consuming and expensive) or existing data sources (which are not always available). Here, we automatically generate evaluations with LMs. We explore approaches with varying amounts of human effort, from instructing LMs to write yes/no questions to making complex Winogender …
+Cites: ‪Polyjuice: Generating counterfactuals for explaining, evaluating …‬

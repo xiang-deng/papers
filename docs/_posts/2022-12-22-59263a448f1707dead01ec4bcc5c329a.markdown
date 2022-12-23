@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FewFedWeight: Few-shot Federated Learning Framework across Multiple NLP Tasks"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "W Dong, X Wu, J Li, S Wu, C Bian, D Xiong - arXiv preprint arXiv:2212.08354, 2022"
+---
+Massively multi-task learning with large language models has recently made substantial progress on few-shot generalization. However, this is usually performed in a centralized learning fashion, ignoring the privacy sensitivity issue of (annotated) data used in multiple tasks. To mitigate this issue, we propose FewFedWeight, a few-shot federated learning framework across multiple tasks, to achieve the best of both worlds: privacy preservation and cross-task generalization. FewFedWeight trains …
+Cites: ‪CPM: A large-scale generative Chinese pre-trained language model‬

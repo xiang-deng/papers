@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Self-Prompting Large Language Models for Open-Domain QA"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "J Li, Z Zhang, H Zhao - arXiv preprint arXiv:2212.08635, 2022"
+---
+Open-Domain Question Answering (ODQA) requires models to answer factoid questions with no context given. The common way for this task is to train models on a large-scale annotated dataset to retrieve related documents and generate answers based on these documents. In this paper, we show that the ODQA architecture can be dramatically simplified by treating Large Language Models (LLMs) as a knowledge corpus and propose a Self-Prompting framework for LLMs to perform …
+Cites: ‪Generated knowledge prompting for commonsense reasoning‬

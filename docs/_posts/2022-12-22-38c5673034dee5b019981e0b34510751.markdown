@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Visconde: Multi-document QA with GPT-3 and Neural Reranking"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "J Pereira, R Fidalgo, R Lotufo, R Nogueira - arXiv preprint arXiv:2212.09656, 2022"
+---
+This paper proposes a question-answering system that can answer questions whose supporting evidence is spread over multiple (potentially long) documents. The system, called Visconde, uses a three-step pipeline to perform the task: decompose, retrieve, and aggregate. The first step decomposes the question into simpler questions using a few-shot large language model (LLM). Then, a state-of-the-art search engine is used to retrieve candidate passages from a large collection for each …
+Cites: ‪Did aristotle use a laptop? a question answering benchmark with …‬

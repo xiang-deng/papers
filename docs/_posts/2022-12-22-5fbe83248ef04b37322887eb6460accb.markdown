@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "One Embedder, Any Task: Instruction-Finetuned Text Embeddings"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "H Su, J Kasai, Y Wang, Y Hu, M Ostendorf, W Yih… - arXiv preprint arXiv …, 2022"
+---
+We introduce INSTRUCTOR, a new method for computing text embeddings given task instructions: every text input is embedded together with instructions explaining the use case (eg, task and domain descriptions). Unlike encoders from prior work that are more specialized, INSTRUCTOR is a single embedder that can generate text embeddings tailored to different downstream tasks and domains, without any further training. We first annotate instructions for 330 diverse tasks and train INSTRUCTOR …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

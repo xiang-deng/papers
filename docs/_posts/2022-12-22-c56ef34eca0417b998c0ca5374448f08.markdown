@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompt Gating: A Parameter Efficient Tuning Method for Zero-Shot Multi-Source Translation"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "X Huang, Z Liu, P Li, M Sun, Y Liu - arXiv preprint arXiv:2212.09387, 2022"
+---
+Multi-source translation (MST), which typically receives multiple source sentences of the same meaning in different languages, has been shown superior to single-source translation. As the quantity of multi-source parallel data is limited, taking full advantage of single-source data and limited multi-source data to make models perform well when receiving as many as possible sources remains a challenge. Unlike previous work mostly devoted to supervised scenarios, we focus on zero-shot …
+Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬

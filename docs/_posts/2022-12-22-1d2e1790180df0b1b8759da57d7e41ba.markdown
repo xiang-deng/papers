@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Don t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "Y Gu, X Deng, Y Su - arXiv preprint arXiv:2212.09736, 2022"
+---
+A key missing ability of current language models (LMs) is grounding to real-world environments. Most existing work for grounded language understanding uses LMs to directly generate plans that can be executed in the environment to achieve the desired effects. It casts the burden of ensuring grammaticality, faithfulness, and controllability all on the LMs. We propose Pangu, a generic framework for grounded language understanding that capitalizes on the discriminative ability of LMs instead …
+Cites: ‪Structure-Grounded Pretraining for Text-to-SQL‬

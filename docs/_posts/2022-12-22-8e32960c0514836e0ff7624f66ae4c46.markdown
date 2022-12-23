@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Answering Complex Logical Queries on Knowledge Graphs via Query Tree Optimization"
+date:   2022-12-22 13:00:23 -0400
+categories: jekyll update
+author: "Y Bai, X Lv, J Li, L Hou - arXiv preprint arXiv:2212.09567, 2022"
+---
+Answering complex logical queries on incomplete knowledge graphs is a challenging task, and has been widely studied. Embedding-based methods require training on complex queries, and cannot generalize well to out-of-distribution query structures. Recent work frames this task as an end-to-end optimization problem, and it only requires a pretrained link predictor. However, due to the exponentially large combinatorial search space, the optimal solution can only be approximated, limiting …
+Cites: ‪Observed versus latent features for knowledge base and text …‬
