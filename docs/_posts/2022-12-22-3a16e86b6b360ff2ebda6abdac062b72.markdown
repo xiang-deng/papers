@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "O Honovich, T Scialom, O Levy, T Schick - arXiv preprint arXiv:2212.09689, 2022"
----
-Instruction tuning enables pretrained language models to perform new tasks from inference-time natural language descriptions. These approaches rely on vast amounts of human supervision in the form of crowdsourced datasets or user interactions. In this work, we introduce Unnatural Instructions: a large dataset of creative and diverse instructions, collected with virtually no human labor. We collect 64,000 examples by prompting a language model with three seed examples of …
-Cites: ‪QAmeleon: Multilingual QA with Only 5 Examples‬

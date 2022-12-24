@@ -1,8 +1,8 @@
----
-layout: post
-title:  "The case for 4-bit precision: k-bit Inference Scaling Laws"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "T Dettmers, L Zettlemoyer - arXiv preprint arXiv:2212.09720, 2022"
----
-Quantization methods reduce the number of bits required to represent each parameter in a model, trading accuracy for smaller memory footprints and inference latencies. However, the final model size depends on both the number of parameters …
+--- 
+layout: post 
+title: "The case for 4-bit precision: k-bit Inference Scaling Laws" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "T Dettmers, L Zettlemoyer - arXiv preprint arXiv:2212.09720, 2022" 
+--- 
+Quantization methods reduce the number of bits required to represent each parameter in a model, trading accuracy for smaller memory footprints and inference latencies. However, the final model size depends on both the number of parameters

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LENS: A Learnable Evaluation Metric for Text Simplification"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "M Maddela, Y Dou, D Heineman, W Xu - arXiv preprint arXiv:2212.09739, 2022"
----
-Training learnable metrics using modern language models has recently emerged as a promising method for the automatic evaluation of machine translation. However, existing human evaluation datasets in text simplification are limited by a lack of annotations, unitary simplification types, and outdated models, making them unsuitable for this approach. To address these issues, we introduce the SIMPEVAL corpus that contains: SIMPEVAL_ASSET, comprising 12K human ratings on 2.4 K …
-Cites: ‪A statistical analysis of summarization evaluation metrics using …‬
+--- 
+layout: post 
+title: "LENS: A Learnable Evaluation Metric for Text Simplification" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "M Maddela, Y Dou, D Heineman, W Xu - arXiv preprint arXiv:2212.09739, 2022" 
+--- 
+Training learnable metrics using modern language models has recently emerged as a promising method for the automatic evaluation of machine translation. However, existing human evaluation datasets in text simplification are limited by a lack of annotations, unitary simplification types, and outdated models, making them unsuitable for this approach. To address these issues, we introduce the SIMPEVAL corpus that contains: SIMPEVAL_ASSET, comprising 12K human ratings on 2.4 K  Cites: A statistical analysis of summarization evaluation metrics using

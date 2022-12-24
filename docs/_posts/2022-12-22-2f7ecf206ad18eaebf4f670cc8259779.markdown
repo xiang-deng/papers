@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FiDO: Fusion-in-Decoder optimized for stronger performance and faster inference"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "M de Jong, Y Zemlyanskiy, J Ainslie, N FitzGerald… - arXiv preprint arXiv …, 2022"
----
-Fusion-in-Decoder (FiD) is a powerful retrieval-augmented language model that sets the state-of-the-art on many knowledge-intensive NLP tasks. However, FiD suffers from very expensive inference. We show that the majority of inference time results from memory bandwidth constraints in the decoder, and propose two simple changes to the FiD architecture to speed up inference by 7x. The faster decoder inference then allows for a much larger decoder. We denote FiD with the above modifications …
-Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬
+--- 
+layout: post 
+title: "FiDO: Fusion-in-Decoder optimized for stronger performance and faster inference" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "M de Jong, Y Zemlyanskiy, J Ainslie, N FitzGerald - arXiv preprint arXiv , 2022" 
+--- 
+Fusion-in-Decoder (FiD) is a powerful retrieval-augmented language model that sets the state-of-the-art on many knowledge-intensive NLP tasks. However, FiD suffers from very expensive inference. We show that the majority of inference time results from memory bandwidth constraints in the decoder, and propose two simple changes to the FiD architecture to speed up inference by 7x. The faster decoder inference then allows for a much larger decoder. We denote FiD with the above modifications  Cites: REALM: Retrieval-Augmented Language Model Pre-Training

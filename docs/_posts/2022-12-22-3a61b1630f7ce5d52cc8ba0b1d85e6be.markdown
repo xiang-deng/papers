@@ -1,9 +1,8 @@
----
-layout: post
-title:  "I2D2: Inductive Knowledge Distillation with NeuroLogic and Self-Imitation"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "C Bhagavatula, JD Hwang, D Downey, RL Bras, X Lu… - arXiv preprint arXiv …, 2022"
----
-Pre-trained language models, despite their rapid advancements powered by scale, still fall short of robust commonsense capabilities. And yet, scale appears to be the winning recipe; after all, the largest models seem to have acquired the largest amount of commonsense capabilities. Or is it? In this paper, we investigate the possibility of a seemingly impossible match: can smaller language models with dismal commonsense capabilities (ie, GPT-2), ever win over models that are orders …
-Cites: ‪Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt …‬
+--- 
+layout: post 
+title: "I2D2: Inductive Knowledge Distillation with NeuroLogic and Self-Imitation" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "C Bhagavatula, JD Hwang, D Downey, RL Bras, X Lu - arXiv preprint arXiv , 2022" 
+--- 
+Pre-trained language models, despite their rapid advancements powered by scale, still fall short of robust commonsense capabilities. And yet, scale appears to be the winning recipe; after all, the largest models seem to have acquired the largest amount of commonsense capabilities. Or is it? In this paper, we investigate the possibility of a seemingly impossible match: can smaller language models with dismal commonsense capabilities (ie, GPT-2), ever win over models that are orders  Cites: Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt

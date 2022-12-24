@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "K Xiong, X Ding, Z Li, L Du, B Qin, Y Zheng, B Huai - arXiv preprint arXiv:2212.08322, 2022"
----
-Causal chain reasoning (CCR) is an essential ability for many decision-making AI systems, which requires the model to build reliable causal chains by connecting causal pairs. However, CCR suffers from two main transitive problems: threshold effect and scene drift. In other words, the causal pairs to be spliced may have a conflicting threshold boundary or scenario. To address these issues, we propose a novel Reliable Causal chain reasoning framework~(ReCo), which introduces …
-Cites: ‪Learning to retrieve reasoning paths over wikipedia graph for …‬
+--- 
+layout: post 
+title: "ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "K Xiong, X Ding, Z Li, L Du, B Qin, Y Zheng, B Huai - arXiv preprint arXiv:2212.08322, 2022" 
+--- 
+Causal chain reasoning (CCR) is an essential ability for many decision-making AI systems, which requires the model to build reliable causal chains by connecting causal pairs. However, CCR suffers from two main transitive problems: threshold effect and scene drift. In other words, the causal pairs to be spliced may have a conflicting threshold boundary or scenario. To address these issues, we propose a novel Reliable Causal chain reasoning framework~(ReCo), which introduces  Cites: Learning to retrieve reasoning paths over wikipedia graph for

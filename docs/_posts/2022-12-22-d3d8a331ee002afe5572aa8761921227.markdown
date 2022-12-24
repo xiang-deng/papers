@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Statistical Dataset Evaluation: Reliability, Difficulty, and Validity"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "C Wang, Q Dong, X Wang, H Wang, Z Sui - arXiv preprint arXiv:2212.09272, 2022"
----
-Datasets serve as crucial training resources and model performance trackers. However, existing datasets have exposed a plethora of problems, inducing biased models and unreliable evaluation results. In this paper, we propose a model-agnostic dataset evaluation framework for automatic dataset quality evaluation. We seek the statistical properties of the datasets and address three fundamental dimensions: reliability, difficulty, and validity, following a classical testing theory …
-Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬
+--- 
+layout: post 
+title: "Statistical Dataset Evaluation: Reliability, Difficulty, and Validity" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "C Wang, Q Dong, X Wang, H Wang, Z Sui - arXiv preprint arXiv:2212.09272, 2022" 
+--- 
+Datasets serve as crucial training resources and model performance trackers. However, existing datasets have exposed a plethora of problems, inducing biased models and unreliable evaluation results. In this paper, we propose a model-agnostic dataset evaluation framework for automatic dataset quality evaluation. We seek the statistical properties of the datasets and address three fundamental dimensions: reliability, difficulty, and validity, following a classical testing theory  Cites: Beyond the Imitation Game: Quantifying and extrapolating the

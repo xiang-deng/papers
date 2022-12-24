@@ -1,9 +1,8 @@
----
-layout: post
-title:  "S. Zhang and N. Jiang. Towards Hyperparameter-free Policy Selection for Offline Reinforcement Learning. NeurIPS 2021."
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "S Zhang, N Jiang - Proceedings of Neural Information Processing Systems …, 2021"
----
-How to select between policies and value functions produced by different training algorithms in offline reinforcement learning (RL)—which is crucial for hyperparameter tuning—is an important open question. Existing approaches based on off-policy evaluation (OPE) often require additional function approximation and hence hyperparameters, creating a chicken-and-egg situation. In this paper, we design hyperparameter-free algorithms for policy selection based on BVFT [XJ21], a …
-Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬
+--- 
+layout: post 
+title: "S. Zhang and N. Jiang. Towards Hyperparameter-free Policy Selection for Offline Reinforcement Learning. NeurIPS 2021." 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "S Zhang, N Jiang - Proceedings of Neural Information Processing Systems , 2021" 
+--- 
+How to select between policies and value functions produced by different training algorithms in offline reinforcement learning (RL)which is crucial for hyperparameter tuningis an important open question. Existing approaches based on off-policy evaluation (OPE) often require additional function approximation and hence hyperparameters, creating a chicken-and-egg situation. In this paper, we design hyperparameter-free algorithms for policy selection based on BVFT [XJ21], a  Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

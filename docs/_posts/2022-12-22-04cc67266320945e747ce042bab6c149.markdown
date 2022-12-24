@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query-as-context Pre-training for Dense Passage Retrieval"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "X Wu, G Ma, S Hu - arXiv preprint arXiv:2212.09598, 2022"
----
-This paper presents a pre-training technique called query-as-context that uses query prediction to improve dense retrieval. Previous research has applied query prediction to document expansion in order to alleviate the problem of lexical mismatch in sparse retrieval. However, query prediction has not yet been studied in the context of dense retrieval. Query-as-context pre-training assumes that the predicted query is a special context for the document and uses contrastive learning …
-Cites: ‪Few-shot conversational dense retrieval‬
+--- 
+layout: post 
+title: "Query-as-context Pre-training for Dense Passage Retrieval" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "X Wu, G Ma, S Hu - arXiv preprint arXiv:2212.09598, 2022" 
+--- 
+This paper presents a pre-training technique called query-as-context that uses query prediction to improve dense retrieval. Previous research has applied query prediction to document expansion in order to alleviate the problem of lexical mismatch in sparse retrieval. However, query prediction has not yet been studied in the context of dense retrieval. Query-as-context pre-training assumes that the predicted query is a special context for the document and uses contrastive learning  Cites: Few-shot conversational dense retrieval

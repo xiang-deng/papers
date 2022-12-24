@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TAGNet: a tiny answer-guided network for conversational question generation"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "Z Wang, H Zhu, M Liu, B Qin - International Journal of Machine Learning and …, 2022"
----
-Abstract C onversational Q uestion G eneration (CQG) aims to generate conversational questions with the given passage and conversation history. Previous work of CQG presumes a contiguous span as the answer and generates a question targeting it. However, this limits the application scenarios because answers in practical conversations are usually abstractive free-form text instead of extractive spans. In addition, most state-of-the-art CQG systems are based on pretrained …
-Cites: ‪Question answering and question generation as dual tasks‬
+--- 
+layout: post 
+title: "TAGNet: a tiny answer-guided network for conversational question generation" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "Z Wang, H Zhu, M Liu, B Qin - International Journal of Machine Learning and , 2022" 
+--- 
+Abstract C onversational Q uestion G eneration (CQG) aims to generate conversational questions with the given passage and conversation history. Previous work of CQG presumes a contiguous span as the answer and generates a question targeting it. However, this limits the application scenarios because answers in practical conversations are usually abstractive free-form text instead of extractive spans. In addition, most state-of-the-art CQG systems are based on pretrained  Cites: Question answering and question generation as dual tasks

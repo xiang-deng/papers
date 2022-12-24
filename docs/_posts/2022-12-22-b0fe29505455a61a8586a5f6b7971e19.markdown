@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Planting and Mitigating Memorized Content in Predictive-Text Language Models"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "CM Downey, W Dai, HA Inan, K Laine, S Naik, T Religa - arXiv preprint arXiv …, 2022"
----
-Language models are widely deployed to provide automatic text completion services in user products. However, recent research has revealed that language models (especially large ones) bear considerable risk of memorizing private training data, which is then vulnerable to leakage and extraction by adversaries. In this study, we test the efficacy of a range of privacy-preserving techniques to mitigate unintended memorization of sensitive user text, while varying other factors such as model size …
-Cites: ‪Memorization Without Overfitting: Analyzing the Training Dynamics …‬
+--- 
+layout: post 
+title: "Planting and Mitigating Memorized Content in Predictive-Text Language Models" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "CM Downey, W Dai, HA Inan, K Laine, S Naik, T Religa - arXiv preprint arXiv , 2022" 
+--- 
+Language models are widely deployed to provide automatic text completion services in user products. However, recent research has revealed that language models (especially large ones) bear considerable risk of memorizing private training data, which is then vulnerable to leakage and extraction by adversaries. In this study, we test the efficacy of a range of privacy-preserving techniques to mitigate unintended memorization of sensitive user text, while varying other factors such as model size  Cites: Memorization Without Overfitting: Analyzing the Training Dynamics

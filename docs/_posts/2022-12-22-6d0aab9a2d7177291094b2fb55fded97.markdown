@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query Enhanced Knowledge-Intensive Conversation via Unsupervised Joint Modeling"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "M Cai, S Bao, X Tian, H He, F Wang, H Wu - arXiv preprint arXiv:2212.09588, 2022"
----
-The quality of knowledge retrieval is crucial in knowledge-intensive conversations. Two common strategies to improve the retrieval quality are finetuning the retriever or generating a self-contained query, while they encounter heavy burdens on expensive computation and elaborate annotations. In this paper, we propose an unsupervised query enhanced approach for knowledge-intensive conversations, namely QKConv. There are three modules in QKConv: a query generator, an off-the …
-Cites: ‪Few-Shot Generative Conversational Query Rewriting‬
+--- 
+layout: post 
+title: "Query Enhanced Knowledge-Intensive Conversation via Unsupervised Joint Modeling" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "M Cai, S Bao, X Tian, H He, F Wang, H Wu - arXiv preprint arXiv:2212.09588, 2022" 
+--- 
+The quality of knowledge retrieval is crucial in knowledge-intensive conversations. Two common strategies to improve the retrieval quality are finetuning the retriever or generating a self-contained query, while they encounter heavy burdens on expensive computation and elaborate annotations. In this paper, we propose an unsupervised query enhanced approach for knowledge-intensive conversations, namely QKConv. There are three modules in QKConv: a query generator, an off-the  Cites: Few-Shot Generative Conversational Query Rewriting

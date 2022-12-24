@@ -1,9 +1,0 @@
----
-layout: post
-title:  "PVGRU: Generating Diverse and Relevant Dialogue Responses via Pseudo-Variational Mechanism"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "Y Liu, S Feng, D Wang, H Schütze, Y Zhang - arXiv preprint arXiv:2212.09086, 2022"
----
-We investigate response generation for multi-turn dialogue in generative-based chatbots. Existing generative models based on RNNs (Recurrent Neural Networks) usually employ the last hidden state to summarize the sequences, which makes models unable to capture the subtle variability observed in different dialogues and cannot distinguish the differences between dialogues that are similar in composition. In this paper, we propose a Pseudo-Variational Gated Recurrent Unit (PVGRU) …
-Cites: ‪DialogWAE: Multimodal response generation with conditional …‬

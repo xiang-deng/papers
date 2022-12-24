@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Recall, Expand and Multi-Candidate Cross-Encode: Fast and Accurate Ultra-Fine Entity Typing"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "C Jiang, W Hui, Y Jiang, X Wang, P Xie, K Tu - arXiv preprint arXiv:2212.09125, 2022"
----
-Ultra-fine entity typing (UFET) predicts extremely free-formed types (eg, president, politician) of a given entity mention (eg, Joe Biden) in context. State-of-the-art (SOTA) methods use the cross-encoder (CE) based architecture. CE concatenates the mention (and its context) with each type and feeds the pairs into a pretrained language model (PLM) to score their relevance. It brings deeper interaction between mention and types to reach better performance but has to perform N (type set size) …
-Cites: ‪Modeling fine-grained entity types with box embeddings‬
+--- 
+layout: post 
+title: "Recall, Expand and Multi-Candidate Cross-Encode: Fast and Accurate Ultra-Fine Entity Typing" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "C Jiang, W Hui, Y Jiang, X Wang, P Xie, K Tu - arXiv preprint arXiv:2212.09125, 2022" 
+--- 
+Ultra-fine entity typing (UFET) predicts extremely free-formed types (eg, president, politician) of a given entity mention (eg, Joe Biden) in context. State-of-the-art (SOTA) methods use the cross-encoder (CE) based architecture. CE concatenates the mention (and its context) with each type and feeds the pairs into a pretrained language model (PLM) to score their relevance. It brings deeper interaction between mention and types to reach better performance but has to perform N (type set size)  Cites: Modeling fine-grained entity types with box embeddings

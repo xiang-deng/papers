@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Continual Learning for Instruction Following from Realtime Feedback"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "A Suhr, Y Artzi - arXiv preprint arXiv:2212.09710, 2022"
----
-We study the problem of continually training an instruction-following agent through feedback provided by users during collaborative interactions. During interaction, human users instruct an agent using natural language, and provide realtime binary feedback as they observe the agent s instruction execution. We cast learning as a contextual bandit problem, converting the user feedback to immediate reward. We evaluate through multiple rounds of human-agent interactions, demonstrating 15.4 …
-Cites: ‪An Imitation Game for Learning Semantic Parsers from User …‬
+--- 
+layout: post 
+title: "Continual Learning for Instruction Following from Realtime Feedback" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "A Suhr, Y Artzi - arXiv preprint arXiv:2212.09710, 2022" 
+--- 
+We study the problem of continually training an instruction-following agent through feedback provided by users during collaborative interactions. During interaction, human users instruct an agent using natural language, and provide realtime binary feedback as they observe the agent s instruction execution. We cast learning as a contextual bandit problem, converting the user feedback to immediate reward. We evaluate through multiple rounds of human-agent interactions, demonstrating 15.4  Cites: An Imitation Game for Learning Semantic Parsers from User

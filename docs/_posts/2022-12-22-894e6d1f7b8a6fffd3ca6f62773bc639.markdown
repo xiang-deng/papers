@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources in Natural Language Understanding Systems"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "A Arodi, M Pömsl, K Suleman, A Trischler, A Olteanu… - arXiv preprint arXiv …, 2022"
----
-Many state-of-the-art natural language understanding (NLU) models are based on pretrained neural language models. These models often make inferences using information from multiple sources. An important class of such inferences are those that require both background knowledge, presumably contained in a model s pretrained parameters, and instance-specific information that is supplied at inference time. However, the integration and reasoning abilities of NLU models in the presence …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources in Natural Language Understanding Systems" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "A Arodi, M Pmsl, K Suleman, A Trischler, A Olteanu - arXiv preprint arXiv , 2022" 
+--- 
+Many state-of-the-art natural language understanding (NLU) models are based on pretrained neural language models. These models often make inferences using information from multiple sources. An important class of such inferences are those that require both background knowledge, presumably contained in a model s pretrained parameters, and instance-specific information that is supplied at inference time. However, the integration and reasoning abilities of NLU models in the presence  Cites: Deep contextualized word representations

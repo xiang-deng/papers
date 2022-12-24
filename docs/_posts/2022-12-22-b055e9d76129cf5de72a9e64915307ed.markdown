@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Human-Language Model Interaction"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus… - arXiv preprint arXiv …, 2022"
----
-Many real-world applications of language models (LMs), such as code autocomplete and writing assistance, involve human-LM interaction, but the main LM benchmarks are non-interactive, where a system produces output without human intervention. To evaluate human-LM interaction, we develop a framework, Human-AI Language-based Interaction Evaluation (H-LINE), that expands non-interactive evaluation along three dimensions, capturing (i) the interactive process, not only the final output;(ii) the …
-Cites: ‪STORIUM: A Dataset and Evaluation Platform for Machine-in-the …‬
+--- 
+layout: post 
+title: "Evaluating Human-Language Model Interaction" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "M Lee, M Srivastava, A Hardy, J Thickstun, E Durmus - arXiv preprint arXiv , 2022" 
+--- 
+Many real-world applications of language models (LMs), such as code autocomplete and writing assistance, involve human-LM interaction, but the main LM benchmarks are non-interactive, where a system produces output without human intervention. To evaluate human-LM interaction, we develop a framework, Human-AI Language-based Interaction Evaluation (H-LINE), that expands non-interactive evaluation along three dimensions, capturing (i) the interactive process, not only the final output;(ii) the  Cites: STORIUM: A Dataset and Evaluation Platform for Machine-in-the

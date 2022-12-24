@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PoE: a Panel of Experts for Generalized Automatic Dialogue Assessment"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "C Zhang, LF D Haro, Q Zhang, T Friedrichs, H Li - arXiv preprint arXiv:2212.08992, 2022"
----
-Chatbots are expected to be knowledgeable across multiple domains, eg for daily chit-chat, exchange of information, and grounding in emotional situations. To effectively measure the quality of such conversational agents, a model-based automatic dialogue evaluation metric (ADEM) is expected to perform well across multiple domains. Despite significant progress, an ADEM that works well in one domain does not necessarily generalize to another. This calls for a dedicated …
-Cites: ‪Single-dataset Experts for Multi-dataset Question Answering‬
+--- 
+layout: post 
+title: "PoE: a Panel of Experts for Generalized Automatic Dialogue Assessment" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "C Zhang, LF D Haro, Q Zhang, T Friedrichs, H Li - arXiv preprint arXiv:2212.08992, 2022" 
+--- 
+Chatbots are expected to be knowledgeable across multiple domains, eg for daily chit-chat, exchange of information, and grounding in emotional situations. To effectively measure the quality of such conversational agents, a model-based automatic dialogue evaluation metric (ADEM) is expected to perform well across multiple domains. Despite significant progress, an ADEM that works well in one domain does not necessarily generalize to another. This calls for a dedicated  Cites: Single-dataset Experts for Multi-dataset Question Answering

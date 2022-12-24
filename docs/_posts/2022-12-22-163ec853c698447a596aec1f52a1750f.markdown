@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LaSQuE: Improved Zero-Shot Classification from Explanations Through Quantifier Modeling and Curriculum Learning"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "S Ghosh, RR Menon, S Srivastava - arXiv preprint arXiv:2212.09104, 2022"
----
-A hallmark of human intelligence is the ability to learn new concepts purely from language. Several recent approaches have explored training machine learning models via natural language supervision. However, these approaches fall short in leveraging linguistic quantifiers (such as  always  or rarely ) and mimicking humans in compositionally learning complex tasks. Here, we present LaSQuE, a method that can learn zero-shot classifiers from language explanations by using three new …
-Cites: ‪Learning from Task Descriptions‬
+--- 
+layout: post 
+title: "LaSQuE: Improved Zero-Shot Classification from Explanations Through Quantifier Modeling and Curriculum Learning" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "S Ghosh, RR Menon, S Srivastava - arXiv preprint arXiv:2212.09104, 2022" 
+--- 
+A hallmark of human intelligence is the ability to learn new concepts purely from language. Several recent approaches have explored training machine learning models via natural language supervision. However, these approaches fall short in leveraging linguistic quantifiers (such as always or rarely ) and mimicking humans in compositionally learning complex tasks. Here, we present LaSQuE, a method that can learn zero-shot classifiers from language explanations by using three new  Cites: Learning from Task Descriptions

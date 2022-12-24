@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PromptBoosting: Black-Box Text Classification with Ten Forward Passes"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "B Hou, J O Connor, J Andreas, S Chang, Y Zhang - arXiv preprint arXiv:2212.09257, 2022"
----
-We describe PromptBoosting, a query-efficient procedure for building a text classifier from a neural language model (LM) without access to the LM s parameters, gradients, or hidden representations. This form of  black-box  classifier training has become increasingly important as the cost of training and inference in large-scale LMs grows. But existing black-box LM classifier learning approaches are themselves computationally inefficient, typically specializing LMs to the target task by searching …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "PromptBoosting: Black-Box Text Classification with Ten Forward Passes" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "B Hou, J O Connor, J Andreas, S Chang, Y Zhang - arXiv preprint arXiv:2212.09257, 2022" 
+--- 
+We describe PromptBoosting, a query-efficient procedure for building a text classifier from a neural language model (LM) without access to the LM s parameters, gradients, or hidden representations. This form of black-box classifier training has become increasingly important as the cost of training and inference in large-scale LMs grows. But existing black-box LM classifier learning approaches are themselves computationally inefficient, typically specializing LMs to the target task by searching  Cites: Making Pre-trained Language Models Better Few-shot Learners

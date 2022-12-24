@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GAN-based Tabular Data Generator for Constructing Synopsis in Approximate Query Processing: Challenges and Solutions"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "M Fallahian, M Dorodchi, K Kreth - arXiv preprint arXiv:2212.09015, 2022"
----
-In data-driven systems, data exploration is imperative for making real-time decisions. However, big data is stored in massive databases that are difficult to retrieve. Approximate Query Processing (AQP) is a technique for providing approximate answers to aggregate queries based on a summary of the data (synopsis) that closely replicates the behavior of the actual data, which can be useful where an approximate answer to the queries would be acceptable in a fraction of the real …
-Cites: ‪Answering queries using views: A survey‬
+--- 
+layout: post 
+title: "GAN-based Tabular Data Generator for Constructing Synopsis in Approximate Query Processing: Challenges and Solutions" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "M Fallahian, M Dorodchi, K Kreth - arXiv preprint arXiv:2212.09015, 2022" 
+--- 
+In data-driven systems, data exploration is imperative for making real-time decisions. However, big data is stored in massive databases that are difficult to retrieve. Approximate Query Processing (AQP) is a technique for providing approximate answers to aggregate queries based on a summary of the data (synopsis) that closely replicates the behavior of the actual data, which can be useful where an approximate answer to the queries would be acceptable in a fraction of the real  Cites: Answering queries using views: A survey

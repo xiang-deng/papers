@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "D Dale, E Voita, L Barrault, MR Costa-jussà - arXiv preprint arXiv:2212.08597, 2022"
----
-While the problem of hallucinations in neural machine translation has long been recognized, so far the progress on its alleviation is very little. Indeed, recently it turned out that without artificially encouraging models to hallucinate, previously existing methods fall short and even the standard sequence log-probability is more informative. It means that characteristics internal to the model can give much more information than we expect, and before using external models and measures, we first …
-Cites: ‪Detecting Hallucinated Content in Conditional Neural Sequence …‬
+--- 
+layout: post 
+title: "Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "D Dale, E Voita, L Barrault, MR Costa-juss - arXiv preprint arXiv:2212.08597, 2022" 
+--- 
+While the problem of hallucinations in neural machine translation has long been recognized, so far the progress on its alleviation is very little. Indeed, recently it turned out that without artificially encouraging models to hallucinate, previously existing methods fall short and even the standard sequence log-probability is more informative. It means that characteristics internal to the model can give much more information than we expect, and before using external models and measures, we first  Cites: Detecting Hallucinated Content in Conditional Neural Sequence

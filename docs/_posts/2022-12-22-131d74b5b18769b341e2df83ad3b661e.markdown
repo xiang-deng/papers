@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Convolution-enhanced Evolving Attention Networks"
-date:   2022-12-22 13:00:23 -0400
-categories: jekyll update
-author: "Y Wang, Y Yang, Z Li, J Bai, M Zhang, X Li, J Yu… - arXiv preprint arXiv …, 2022"
----
-Attention-based neural networks, such as Transformers, have become ubiquitous in numerous applications, including computer vision, natural language processing, and time-series analysis. In all kinds of attention networks, the attention maps are crucial as they encode semantic dependencies between input tokens. However, most existing attention networks perform modeling or reasoning based on representations, wherein the attention maps of different layers are learned separately without explicit …
-Cites: ‪ERASER: A benchmark to evaluate rationalized NLP models‬
+--- 
+layout: post 
+title: "Convolution-enhanced Evolving Attention Networks" 
+date: 2022-12-22 13:00:23 -0400 
+categories: jekyll update 
+author: "Y Wang, Y Yang, Z Li, J Bai, M Zhang, X Li, J Yu - arXiv preprint arXiv , 2022" 
+--- 
+Attention-based neural networks, such as Transformers, have become ubiquitous in numerous applications, including computer vision, natural language processing, and time-series analysis. In all kinds of attention networks, the attention maps are crucial as they encode semantic dependencies between input tokens. However, most existing attention networks perform modeling or reasoning based on representations, wherein the attention maps of different layers are learned separately without explicit  Cites: ERASER: A benchmark to evaluate rationalized NLP models
