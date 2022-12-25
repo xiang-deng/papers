@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "(Psycho-) Linguistic Features Meet Transformer Models for Improved Explainable and Controllable Text Simplification"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "Y Qiao, X Li, D Wiechmann, E Kerz - arXiv preprint arXiv:2212.09848, 2022"
+---
+State-of-the-art text simplification (TS) systems adopt end-to-end neural network models to directly generate the simplified version of the input text, and usually function as a blackbox. Moreover, TS is usually treated as an all-purpose generic task under the assumption of homogeneity, where the same simplification is suitable for all. In recent years, however, there has been increasing recognition of the need to adapt the simplification techniques to the specific needs of different target groups. In …
+Cites: ‪Model-agnostic interpretability of machine learning‬

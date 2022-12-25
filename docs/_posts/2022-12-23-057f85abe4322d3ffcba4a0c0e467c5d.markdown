@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Do I have the Knowledge to Answer? Investigating Answerability of Knowledge Base Questions"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "M Patidar, A Singh, P Faldu, L Vig, I Bhattacharya - arXiv preprint arXiv:2212.10189, 2022"
+---
+When answering natural language questions over knowledge bases (KBs), incompleteness in the KB can naturally lead to many questions being unanswerable. While answerability has been explored in other QA settings, it has not been studied for QA over knowledge bases (KBQA). We first identify various forms of KB incompleteness that can result in a question being unanswerable. We then propose GrailQAbility, a new benchmark dataset, which systematically modifies GrailQA (a …
+Cites: ‪The web as a knowledge-base for answering complex questions‬

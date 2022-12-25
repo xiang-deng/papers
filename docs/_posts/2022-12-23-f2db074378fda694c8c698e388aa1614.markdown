@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "WarpGate: A Semantic Join Discovery System for Cloud Data Warehouses"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "T Cong, J Gale, J Frantz, HV Jagadish, Ç Demiralp"
+---
+Data discovery is a major challenge in enterprise data analysis: users often struggle to find data relevant to their analysis goals or even to navigate through data across data sources, each of which may easily contain thousands of tables. One common user need is to discover tables joinable with a given table. This need is particularly critical because join is a ubiquitous operation in data analysis, and join paths are mostly obscure to users, especially across databases. Furthermore, users are …
+Cites: ‪TURL: Table Understanding through Representation Learning‬

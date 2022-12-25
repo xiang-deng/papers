@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "MS Bari, A Zhang, S Zheng, X Shi, Y Zhu, S Joty, M Li - arXiv preprint arXiv …, 2022"
+---
+Pre-trained large language models can efficiently interpolate human-written prompts in a natural way. Multitask prompted learning can help generalization through a diverse set of tasks at once, thus enhancing the potential for more effective downstream fine-tuning. To perform efficient multitask-inference in the same batch, parameter-efficient fine-tuning methods such as prompt tuning have been proposed. However, the existing prompt tuning methods may lack generalization. We propose …
+Cites: ‪When to Use Multi-Task Learning vs Intermediate Fine-Tuning for …‬

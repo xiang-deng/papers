@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TelaMalloc: Efficient On-Chip Memory Allocation for Production Machine Learning Accelerators"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "M Maas, U Beaugnon, A Chauhan, B Ilbeyi - Proceedings of the 28th ACM …, 2022"
+---
+Memory buffer allocation for on-chip memories is a major challenge in modern machine learning systems that target ML accelerators. In interactive systems such as mobile phones, it is on the critical path of launching ML-enabled applications. In data centers, it is part of complex optimization loops that run many times and are the limiting factor for the quality of compilation results. In contrast to the traditional memory allocation problem in languages such as C++, where allocation requests …
+Cites: ‪A full-stack search technique for domain optimized deep learning …‬

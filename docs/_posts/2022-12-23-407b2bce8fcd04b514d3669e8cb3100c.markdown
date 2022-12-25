@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mini-Model Adaptation: Efficiently Extending Pretrained Models to New Languages via Aligned Shallow Training"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "K Marchisio, P Lewis, Y Chen, M Artetxe - arXiv preprint arXiv:2212.10503, 2022"
+---
+Prior work has shown that it is possible to expand pretrained Masked Language Models (MLMs) to new languages by learning a new set of embeddings, while keeping the transformer body frozen. Despite learning a small subset of parameters, this approach is not compute-efficient, as training the new embeddings requires a full forward and backward pass over the entire model. In this work, we propose mini-model adaptation, a compute-efficient alternative that builds a shallow mini-model …
+Cites: ‪Expanding Pretrained Models to Thousands More Languages via …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adam: Dense Retrieval Distillation with Adaptive Dark Examples"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "C Liu, C Tao, X Geng, T Shen, D Zhao, C Xu, B Jiao… - arXiv preprint arXiv …, 2022"
+---
+To improve the performance of the dual-encoder retriever, one effective approach is knowledge distillation from the cross-encoder ranker. Existing works construct the candidate passages following the supervised learning setting where a query is paired with a positive passage and a batch of negatives. However, through empirical observation, we find that even the hard negatives from advanced methods are still too trivial for the teacher to distinguish, preventing the teacher from transferring …
+Cites: ‪Latent Retrieval for Weakly Supervised Open Domain Question …‬

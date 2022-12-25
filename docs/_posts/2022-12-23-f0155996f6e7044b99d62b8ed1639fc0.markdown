@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Critic-Guided Decoding for Controlled Text Generation"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "M Kim, H Lee, KM Yoo, J Park, H Lee, K Jung - arXiv preprint arXiv:2212.10938, 2022"
+---
+Steering language generation towards objectives or away from undesired content has been a long-standing goal in utilizing language models (LM). Recent work has demonstrated reinforcement learning and weighted decoding as effective approaches to achieve a higher level of language control and quality with pros and cons. In this work, we propose a novel critic decoding method for controlled language generation (CriticControl) that combines the strengths of reinforcement …
+Cites: ‪Reinforcement learning for bandit neural machine translation with …‬

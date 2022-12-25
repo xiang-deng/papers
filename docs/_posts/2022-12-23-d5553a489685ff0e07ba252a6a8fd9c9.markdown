@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "J Huang, Z Wu, K Mahowald, C Potts - arXiv preprint arXiv:2212.09897, 2022"
+---
+Language tasks involving character-level manipulations (eg, spelling correction, many word games) are challenging for models based in subword tokenization. To address this, we adapt the interchange intervention training method of Geiger et al.(2021) to operate on type-level variables over characters. This allows us to encode robust, position-independent character-level information in the internal representations of subword-based models. We additionally introduce a suite of …
+Cites: ‪Byte Pair Encoding is Suboptimal for Language Model Pretraining‬

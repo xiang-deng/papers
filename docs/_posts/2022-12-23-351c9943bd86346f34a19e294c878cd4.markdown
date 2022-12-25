@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Asking Clarification Questions for Code Generation in General-Purpose Programming Language"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "HS Li, M Mesgar, AFT Martins, I Gurevych - arXiv preprint arXiv:2212.09885, 2022"
+---
+Code generation from text requires understanding the user s intent from a natural language description (NLD) and generating an executable program code snippet that satisfies this intent. While recent pretrained language models (PLMs) demonstrate remarkable performance for this task, these models fail when the given NLD is ambiguous due to the lack of enough specifications for generating a high-quality code snippet. In this work, we introduce a novel and more realistic setup for …
+Cites: ‪Stanza: A python natural language processing toolkit for many …‬

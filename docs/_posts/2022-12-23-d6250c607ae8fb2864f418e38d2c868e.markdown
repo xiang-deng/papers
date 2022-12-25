@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Socratic Pretraining: Question-Driven Pretraining for Controllable Summarization"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "A Pagnoni, AR Fabbri, W Kryściński, CS Wu - arXiv preprint arXiv:2212.10449, 2022"
+---
+In long document controllable summarization, where labeled data is scarce, pretrained models struggle to adapt to the task and effectively respond to user queries. In this paper, we introduce Socratic pretraining, a question-driven, unsupervised pretraining objective specifically designed to improve controllability in summarization tasks. By training a model to generate and answer relevant questions in a given context, Socratic pretraining enables the model to more effectively adhere …
+Cites: ‪Unifying Language Learning Paradigms‬

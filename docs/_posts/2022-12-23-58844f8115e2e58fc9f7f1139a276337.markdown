@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Training Trajectories of Language Models Across Scales"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "M Xia, M Artetxe, C Zhou, XV Lin, R Pasunuru, D Chen… - arXiv preprint arXiv …, 2022"
+---
+Scaling up language models has led to unprecedented performance gains, but little is understood about how the training dynamics change as models get larger. How do language models of different sizes learn during pre-training? Why do larger language models demonstrate more desirable behaviors? In this paper, we analyze the intermediate training checkpoints of differently sized OPT models (Zhang et al., 2022)--from 125M to 175B parameters--on next-token prediction, sequence-level …
+Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬

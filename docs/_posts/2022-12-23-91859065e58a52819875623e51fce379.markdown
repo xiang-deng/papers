@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "H Trivedi, N Balasubramanian, T Khot, A Sabharwal - arXiv preprint arXiv:2212.10509, 2022"
+---
+Recent work has shown that large language models are capable of generating natural language reasoning steps or Chains-of-Thoughts (CoT) to answer a multi-step question when prompted to do so. This is insufficient, however, when the necessary knowledge is not available or up-to-date within a model s parameters. A straightforward approach to address this is to retrieve text from an external knowledge source using the question as a query and prepend it as context to the …
+Cites: ‪RealTime QA: What s the Answer Right Now?‬

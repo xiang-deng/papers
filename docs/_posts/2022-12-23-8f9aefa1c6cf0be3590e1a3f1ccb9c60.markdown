@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tracing and Removing Data Errors in Natural Language Generation Datasets"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "F Ladhak, E Durmus, T Hashimoto - arXiv preprint arXiv:2212.10722, 2022"
+---
+Recent work has identified noisy and misannotated data as a core cause of hallucinations and unfaithful outputs in Natural Language Generation (NLG) tasks. Consequently, identifying and removing these examples is a key open challenge in creating reliable NLG systems. In this work, we introduce a framework to identify and remove low-quality training instances that lead to undesirable outputs, such as faithfulness errors in text summarization. We show that existing approaches for error …
+Cites: ‪Explaining and improving model behavior with k nearest neighbor …‬

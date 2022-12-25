@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hybrid Rule-Neural Coreference Resolution System based on Actor-Critic Learning"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "Y Wang, H Jin - arXiv preprint arXiv:2212.10087, 2022"
+---
+A coreference resolution system is to cluster all mentions that refer to the same entity in a given context. All coreference resolution systems need to tackle two main tasks: one task is to detect all of the potential mentions, and the other is to learn the linking of an antecedent for each possible mention. In this paper, we propose a hybrid rule-neural coreference resolution system based on actor-critic learning, such that it can achieve better coreference performance by leveraging the advantages from both the …
+Cites: ‪A neural transition-based model for nested mention recognition‬

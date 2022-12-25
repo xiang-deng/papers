@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving the Robustness of Summarization Models by Detecting and Removing Input Noise"
+date:   2022-12-23 23:45:02 -0400
+categories: jekyll update
+author: "K Krishna, Y Zhao, J Ren, B Lakshminarayanan, J Luo… - arXiv preprint arXiv …, 2022"
+---
+The evaluation of abstractive summarization models typically uses test data that is identically distributed as training data. In real-world practice, documents to be summarized may contain input noise caused by text extraction artifacts or data pipeline bugs. The robustness of model performance under distribution shift caused by such noise is relatively under-studied. We present a large empirical study quantifying the sometimes severe loss in performance (up to 12 ROUGE-1 points) …
+Cites: ‪Mitigating noisy inputs for question answering‬
