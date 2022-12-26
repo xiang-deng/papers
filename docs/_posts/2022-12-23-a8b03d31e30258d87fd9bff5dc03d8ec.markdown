@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "S Chen, S Buthpitiya, A Fabrikant, D Roth, T Schuster - arXiv preprint arXiv …, 2022"
----
-The widely studied task of Natural Language Inference (NLI) requires a system to recognize whether one piece of text is textually entailed by another, ie whether the entirety of its meaning can be inferred from the other. In current NLI datasets and models, textual entailment relations are typically defined on the sentence-or paragraph-level. However, even a simple sentence often contains multiple propositions, ie distinct units of meaning conveyed by the sentence. As these …
-Cites: ‪Open information extraction from the web‬
+--- 
+layout: post 
+title: "PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "S Chen, S Buthpitiya, A Fabrikant, D Roth, T Schuster - arXiv preprint arXiv , 2022" 
+--- 
+The widely studied task of Natural Language Inference (NLI) requires a system to recognize whether one piece of text is textually entailed by another, ie whether the entirety of its meaning can be inferred from the other. In current NLI datasets and models, textual entailment relations are typically defined on the sentence-or paragraph-level. However, even a simple sentence often contains multiple propositions, ie distinct units of meaning conveyed by the sentence. As these  Cites: Open information extraction from the web

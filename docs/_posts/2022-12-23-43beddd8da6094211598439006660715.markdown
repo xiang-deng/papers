@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Document-level Relation Extraction with Relation Correlations"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "R Han, T Peng, B Wang, L Liu, X Wan - arXiv preprint arXiv:2212.10171, 2022"
----
-Document-level relation extraction faces two overlooked challenges: long-tail problem and multi-label problem. Previous work focuses mainly on obtaining better contextual representations for entity pairs, hardly address the above challenges. In this paper, we analyze the co-occurrence correlation of relations, and introduce it into DocRE task for the first time. We argue that the correlations can not only transfer knowledge between data-rich relations and data-scarce ones to assist in the training …
-Cites: ‪Learning from Context or Names? An Empirical Study on Neural …‬
+--- 
+layout: post 
+title: "Document-level Relation Extraction with Relation Correlations" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "R Han, T Peng, B Wang, L Liu, X Wan - arXiv preprint arXiv:2212.10171, 2022" 
+--- 
+Document-level relation extraction faces two overlooked challenges: long-tail problem and multi-label problem. Previous work focuses mainly on obtaining better contextual representations for entity pairs, hardly address the above challenges. In this paper, we analyze the co-occurrence correlation of relations, and introduce it into DocRE task for the first time. We argue that the correlations can not only transfer knowledge between data-rich relations and data-scarce ones to assist in the training  Cites: Learning from Context or Names? An Empirical Study on Neural

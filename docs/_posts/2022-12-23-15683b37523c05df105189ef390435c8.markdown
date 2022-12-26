@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Augmentation Strategy for Visually Rich Documents"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "J Xie, JB Wendt, Y Zhou, S Ebner, S Tata - arXiv preprint arXiv:2212.10047, 2022"
----
-Many business workflows require extracting important fields from form-like documents (eg bank statements, bills of lading, purchase orders, etc.). Recent techniques for automating this task work well only when trained with large datasets. In this work we propose a novel data augmentation technique to improve performance when training data is scarce, eg 10-250 documents. Our technique, which we call FieldSwap, works by swapping out the key phrases of a source field …
-Cites: ‪Neural Data Augmentation via Example Extrapolation‬
+--- 
+layout: post 
+title: "An Augmentation Strategy for Visually Rich Documents" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "J Xie, JB Wendt, Y Zhou, S Ebner, S Tata - arXiv preprint arXiv:2212.10047, 2022" 
+--- 
+Many business workflows require extracting important fields from form-like documents (eg bank statements, bills of lading, purchase orders, etc.). Recent techniques for automating this task work well only when trained with large datasets. In this work we propose a novel data augmentation technique to improve performance when training data is scarce, eg 10-250 documents. Our technique, which we call FieldSwap, works by swapping out the key phrases of a source field  Cites: Neural Data Augmentation via Example Extrapolation

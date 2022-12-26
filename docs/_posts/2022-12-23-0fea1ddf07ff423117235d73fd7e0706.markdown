@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TeSS: Zero-Shot Classification via Textual Similarity Comparison with Prompting using Sentence Encoder"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "J Hong, J Park, D Kim, S Choi, B Son, J Kang - arXiv preprint arXiv:2212.10391, 2022"
----
-We introduce TeSS (Text Similarity Comparison using Sentence Encoder), a framework for zero-shot classification where the assigned label is determined by the embedding similarity between the input text and each candidate label prompt. We leverage representations from sentence encoders optimized to locate semantically similar samples closer to each other in embedding space during pre-training. The label prompt embeddings serve as prototypes of their corresponding class clusters …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "TeSS: Zero-Shot Classification via Textual Similarity Comparison with Prompting using Sentence Encoder" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "J Hong, J Park, D Kim, S Choi, B Son, J Kang - arXiv preprint arXiv:2212.10391, 2022" 
+--- 
+We introduce TeSS (Text Similarity Comparison using Sentence Encoder), a framework for zero-shot classification where the assigned label is determined by the embedding similarity between the input text and each candidate label prompt. We leverage representations from sentence encoders optimized to locate semantically similar samples closer to each other in embedding space during pre-training. The label prompt embeddings serve as prototypes of their corresponding class clusters  Cites: CommonsenseQA: A Question Answering Challenge Targeting

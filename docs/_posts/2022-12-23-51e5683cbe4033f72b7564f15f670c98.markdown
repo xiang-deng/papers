@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Simple Baseline for Beam Search Reranking"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "L Vassertail, O Levy - arXiv preprint arXiv:2212.08926, 2022"
----
-Reranking methods in machine translation aim to close the gap between common evaluation metrics (eg BLEU) and maximum likelihood learning and decoding algorithms. Prior works address this challenge by training models to rerank beam search candidates according to their predicted BLEU scores, building upon large models pretrained on massive monolingual corpora--a privilege that was never made available to the baseline translation model. In this work, we examine a simple …
-Cites: ‪Energy-based reranking: Improving neural machine translation …‬
+--- 
+layout: post 
+title: "A Simple Baseline for Beam Search Reranking" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "L Vassertail, O Levy - arXiv preprint arXiv:2212.08926, 2022" 
+--- 
+Reranking methods in machine translation aim to close the gap between common evaluation metrics (eg BLEU) and maximum likelihood learning and decoding algorithms. Prior works address this challenge by training models to rerank beam search candidates according to their predicted BLEU scores, building upon large models pretrained on massive monolingual corpora--a privilege that was never made available to the baseline translation model. In this work, we examine a simple  Cites: Energy-based reranking: Improving neural machine translation

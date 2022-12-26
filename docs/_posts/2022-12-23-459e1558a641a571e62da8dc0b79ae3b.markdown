@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DEBI-NN: Distance-Encoding Biomorphic-Informational Neural Networks for Minimizing the Number of Trainable Parameters"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "L Papp, D Haberl, B Ecsedi, C Spielvogel, D Krajnc… - 2022"
----
-Modern artificial intelligence (AI) approaches mainly rely on neural network (NN) or deep NN methodologies. However, these approaches require large amounts of data to train, given, that the number of their trainable parameters has a polynomial relationship to their neuron counts. This property renders deep NN not applicable in fields operating with small, albeit representative datasets such as healthcare. In this paper, we propose a novel neural network architecture which trains spatial positions …
-Cites: ‪Measuring the carbon intensity of AI in cloud instances‬
+--- 
+layout: post 
+title: "DEBI-NN: Distance-Encoding Biomorphic-Informational Neural Networks for Minimizing the Number of Trainable Parameters" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "L Papp, D Haberl, B Ecsedi, C Spielvogel, D Krajnc - 2022" 
+--- 
+Modern artificial intelligence (AI) approaches mainly rely on neural network (NN) or deep NN methodologies. However, these approaches require large amounts of data to train, given, that the number of their trainable parameters has a polynomial relationship to their neuron counts. This property renders deep NN not applicable in fields operating with small, albeit representative datasets such as healthcare. In this paper, we propose a novel neural network architecture which trains spatial positions  Cites: Measuring the carbon intensity of AI in cloud instances

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On Improving Summarization Factual Consistency from Natural Language Feedback"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "Y Liu, B Deb, M Teruel, A Halfaker, D Radev… - arXiv preprint arXiv …, 2022"
----
-Despite the recent progress in language generation models, their outputs may not always meet user expectations. In this work, we study whether informational feedback in natural language can be leveraged to improve generation quality and user preference alignment. To this end, we consider factual consistency in summarization, the quality that the summary should only contain information supported by the input documents, for user preference alignment. We collect a high …
-Cites: ‪DataLab: A Platform for Data Analysis and Intervention‬
+--- 
+layout: post 
+title: "On Improving Summarization Factual Consistency from Natural Language Feedback" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "Y Liu, B Deb, M Teruel, A Halfaker, D Radev - arXiv preprint arXiv , 2022" 
+--- 
+Despite the recent progress in language generation models, their outputs may not always meet user expectations. In this work, we study whether informational feedback in natural language can be leveraged to improve generation quality and user preference alignment. To this end, we consider factual consistency in summarization, the quality that the summary should only contain information supported by the input documents, for user preference alignment. We collect a high  Cites: DataLab: A Platform for Data Analysis and Intervention

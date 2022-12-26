@@ -1,8 +1,8 @@
----
-layout: post
-title:  "HINT: Hypernetwork Instruction Tuning for Efficient Zero-Shot Generalisation"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "H Ivison, A Bhagia, Y Wang, H Hajishirzi, M Peters - arXiv preprint arXiv:2212.10315, 2022"
----
-Recent NLP models have the great ability to generalisezero-shot to new tasks using only an instruction as guidance. However, these approaches usually repeat their instructions with every input, requiring costly reprocessing of lengthy instructions for …
+--- 
+layout: post 
+title: "HINT: Hypernetwork Instruction Tuning for Efficient Zero-Shot Generalisation" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "H Ivison, A Bhagia, Y Wang, H Hajishirzi, M Peters - arXiv preprint arXiv:2212.10315, 2022" 
+--- 
+Recent NLP models have the great ability to generalisezero-shot to new tasks using only an instruction as guidance. However, these approaches usually repeat their instructions with every input, requiring costly reprocessing of lengthy instructions for

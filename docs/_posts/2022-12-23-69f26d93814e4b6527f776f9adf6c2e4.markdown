@@ -1,9 +1,8 @@
----
-layout: post
-title:  "OpineSum: Entailment-based self-training for abstractive opinion summarization"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "A Louis, J Maynez - arXiv preprint arXiv:2212.10791, 2022"
----
-A typical product or place often has hundreds of reviews, and summarization of these texts is an important and challenging problem. Recent progress on abstractive summarization in domains such as news has been driven by supervised systems trained on hundreds of thousands of news articles paired with human-written summaries. However for opinion texts, such large scale datasets are rarely available. Unsupervised methods, self-training, and few-shot learning approaches bridge that …
-Cites: ‪Proposition-Level Clustering for Multi-Document Summarization‬
+--- 
+layout: post 
+title: "OpineSum: Entailment-based self-training for abstractive opinion summarization" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "A Louis, J Maynez - arXiv preprint arXiv:2212.10791, 2022" 
+--- 
+A typical product or place often has hundreds of reviews, and summarization of these texts is an important and challenging problem. Recent progress on abstractive summarization in domains such as news has been driven by supervised systems trained on hundreds of thousands of news articles paired with human-written summaries. However for opinion texts, such large scale datasets are rarely available. Unsupervised methods, self-training, and few-shot learning approaches bridge that  Cites: Proposition-Level Clustering for Multi-Document Summarization

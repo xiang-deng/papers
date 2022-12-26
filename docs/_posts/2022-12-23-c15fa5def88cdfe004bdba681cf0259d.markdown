@@ -1,9 +1,8 @@
----
-layout: post
-title:  "$^ 2$: Question Answering with Questionable Assumptions"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "N Kim, PM Htut, SR Bowman, J Petty - arXiv preprint arXiv:2212.10003, 2022"
----
-Naturally-occurring information-seeking questions often contain questionable assumptions--assumptions that are false or unverifiable. Questions containing questionable assumptions are challenging because they require a distinct answer strategy that deviates from typical answers to information-seeking questions. For instance, the question  When did Marie Curie discover Uranium?  cannot be answered as a typical when question without addressing the false assumption  Marie …
-Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬
+--- 
+layout: post 
+title: "$^ 2$: Question Answering with Questionable Assumptions" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "N Kim, PM Htut, SR Bowman, J Petty - arXiv preprint arXiv:2212.10003, 2022" 
+--- 
+Naturally-occurring information-seeking questions often contain questionable assumptions--assumptions that are false or unverifiable. Questions containing questionable assumptions are challenging because they require a distinct answer strategy that deviates from typical answers to information-seeking questions. For instance, the question When did Marie Curie discover Uranium? cannot be answered as a typical when question without addressing the false assumption Marie  Cites: REALM: Retrieval-Augmented Language Model Pre-Training

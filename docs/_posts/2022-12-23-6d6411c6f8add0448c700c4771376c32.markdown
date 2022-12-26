@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Retrieve-and-Read Framework for Knowledge Graph Link Prediction"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "V Pahuja, B Wang, H Latapie, J Srinivasa, Y Su - arXiv preprint arXiv:2212.09724, 2022"
----
-Knowledge graph (KG) link prediction aims to infer new facts based on existing facts in the KG. Recent studies have shown that using the graph neighborhood of a node via graph neural networks (GNNs) provides more useful information compared to just using the query information. Conventional GNNs for KG link prediction follow the standard message-passing paradigm on the entire KG, which leads to over-smoothing of representations and also limits their scalability. On a large scale, it …
-Cites: ‪ReasonBERT: Pre-trained to Reason with Distant Supervision‬
+--- 
+layout: post 
+title: "A Retrieve-and-Read Framework for Knowledge Graph Link Prediction" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "V Pahuja, B Wang, H Latapie, J Srinivasa, Y Su - arXiv preprint arXiv:2212.09724, 2022" 
+--- 
+Knowledge graph (KG) link prediction aims to infer new facts based on existing facts in the KG. Recent studies have shown that using the graph neighborhood of a node via graph neural networks (GNNs) provides more useful information compared to just using the query information. Conventional GNNs for KG link prediction follow the standard message-passing paradigm on the entire KG, which leads to over-smoothing of representations and also limits their scalability. On a large scale, it  Cites: ReasonBERT: Pre-trained to Reason with Distant Supervision

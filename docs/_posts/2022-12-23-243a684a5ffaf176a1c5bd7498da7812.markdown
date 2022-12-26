@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "N Kim, T Linzen, P Smolensky - arXiv preprint arXiv:2212.10769, 2022"
----
-Human linguistic capacity is often characterized by compositionality and the generalization it enables--human learners can produce and comprehend novel complex expressions by composing known parts. Several benchmarks exploit distributional control across training and test to gauge compositional generalization, where certain lexical items only occur in limited contexts during training. While recent work using these benchmarks suggests that pretrained models achieve impressive …
-Cites: ‪Unlocking compositional generalization in pre-trained models …‬
+--- 
+layout: post 
+title: "Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "N Kim, T Linzen, P Smolensky - arXiv preprint arXiv:2212.10769, 2022" 
+--- 
+Human linguistic capacity is often characterized by compositionality and the generalization it enables--human learners can produce and comprehend novel complex expressions by composing known parts. Several benchmarks exploit distributional control across training and test to gauge compositional generalization, where certain lexical items only occur in limited contexts during training. While recent work using these benchmarks suggests that pretrained models achieve impressive  Cites: Unlocking compositional generalization in pre-trained models

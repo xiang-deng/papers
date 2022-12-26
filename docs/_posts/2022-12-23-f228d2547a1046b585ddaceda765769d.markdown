@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mining User-aware Multi-Relations for Fake News Detection in Large Scale Online Social Networks"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "X Su, J Yang, J Wu, Y Zhang - arXiv preprint arXiv:2212.10778, 2022"
----
-Users  involvement in creating and propagating news is a vital aspect of fake news detection in online social networks. Intuitively, credible users are more likely to share trustworthy news, while untrusted users have a higher probability of spreading untrustworthy news. In this paper, we construct a dual-layer graph (ie, the news layer and the user layer) to extract multiple relations of news and users in social networks to derive rich information for detecting fake news. Based on the dual-layer graph, we …
-Cites: ‪Compare to the knowledge: Graph neural fake news detection with …‬
+--- 
+layout: post 
+title: "Mining User-aware Multi-Relations for Fake News Detection in Large Scale Online Social Networks" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "X Su, J Yang, J Wu, Y Zhang - arXiv preprint arXiv:2212.10778, 2022" 
+--- 
+Users involvement in creating and propagating news is a vital aspect of fake news detection in online social networks. Intuitively, credible users are more likely to share trustworthy news, while untrusted users have a higher probability of spreading untrustworthy news. In this paper, we construct a dual-layer graph (ie, the news layer and the user layer) to extract multiple relations of news and users in social networks to derive rich information for detecting fake news. Based on the dual-layer graph, we  Cites: Compare to the knowledge: Graph neural fake news detection with

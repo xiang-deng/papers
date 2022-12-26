@@ -1,9 +1,0 @@
----
-layout: post
-title:  "From Word Types to Tokens and Back: A Survey of Approaches to Word Meaning Representation and Interpretation"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "M Apidianaki - Computational Linguistics, 2022"
----
-Word representation paradigms situate lexical meaning at different levels of abstraction. Distributional and static embedding models generate a single vector per word type which is an aggregate across the instances of the word in a corpus. Contextual language models, on the contrary, directly capture the meaning of individual word instances. The goal of this survey is to provide an overview of word meaning representation methods, and of the strategies that have been proposed for …
-Cites: ‪oLMpics - On what Language Model Pre-training Captures‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "To Adapt or to Annotate: Challenges and Interventions for Domain Adaptation in Open-Domain Question Answering"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "D Dua, E Strubell, S Singh, P Verga - arXiv preprint arXiv:2212.10381, 2022"
----
-Recent advances in open-domain question answering (ODQA) have demonstrated impressive accuracy on standard Wikipedia style benchmarks. However, it is less clear how robust these models are and how well they perform when applied to real-world applications in drastically different domains. While there has been some work investigating how well ODQA models perform when tested for out-of-domain (OOD) generalization, these studies have been conducted only under conservative shifts in …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬
+--- 
+layout: post 
+title: "To Adapt or to Annotate: Challenges and Interventions for Domain Adaptation in Open-Domain Question Answering" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "D Dua, E Strubell, S Singh, P Verga - arXiv preprint arXiv:2212.10381, 2022" 
+--- 
+Recent advances in open-domain question answering (ODQA) have demonstrated impressive accuracy on standard Wikipedia style benchmarks. However, it is less clear how robust these models are and how well they perform when applied to real-world applications in drastically different domains. While there has been some work investigating how well ODQA models perform when tested for out-of-domain (OOD) generalization, these studies have been conducted only under conservative shifts in  Cites: MRQA 2019 Shared Task: Evaluating Generalization in Reading

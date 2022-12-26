@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "B Wang, S Min, X Deng, J Shen, Y Wu, L Zettlemoyer… - arXiv preprint arXiv …, 2022"
----
-Chain-of-Thought (CoT) prompting can dramatically improve the multi-step reasoning abilities of large language models (LLMs). CoT explicitly encourages the LLM to generate intermediate rationales for solving a problem, by providing a series …
+--- 
+layout: post 
+title: "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "B Wang, S Min, X Deng, J Shen, Y Wu, L Zettlemoyer - arXiv preprint arXiv , 2022" 
+--- 
+Chain-of-Thought (CoT) prompting can dramatically improve the multi-step reasoning abilities of large language models (LLMs). CoT explicitly encourages the LLM to generate intermediate rationales for solving a problem, by providing a series

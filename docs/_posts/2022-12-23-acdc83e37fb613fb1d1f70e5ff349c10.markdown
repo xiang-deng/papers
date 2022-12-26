@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Contrastive Learning Reduces Hallucination in Conversations"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "W Sun, Z Shi, S Gao, P Ren, M de Rijke, Z Ren - arXiv preprint arXiv:2212.10400, 2022"
----
-Pre-trained language models (LMs) store knowledge in their parameters and can generate informative responses when used in conversational systems. However, LMs suffer from the problem of  hallucination:  they may generate plausible-looking statements that are irrelevant or factually incorrect. To address this problem, we propose a contrastive learning scheme, named MixCL. A novel mixed contrastive objective is proposed to explicitly optimize the implicit knowledge elicitation process …
-Cites: ‪Autoregressive entity retrieval‬
+--- 
+layout: post 
+title: "Contrastive Learning Reduces Hallucination in Conversations" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "W Sun, Z Shi, S Gao, P Ren, M de Rijke, Z Ren - arXiv preprint arXiv:2212.10400, 2022" 
+--- 
+Pre-trained language models (LMs) store knowledge in their parameters and can generate informative responses when used in conversational systems. However, LMs suffer from the problem of hallucination: they may generate plausible-looking statements that are irrelevant or factually incorrect. To address this problem, we propose a contrastive learning scheme, named MixCL. A novel mixed contrastive objective is proposed to explicitly optimize the implicit knowledge elicitation process  Cites: Autoregressive entity retrieval

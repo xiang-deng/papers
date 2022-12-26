@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Parallel Context Windows Improve In-Context Learning of Large Language Models"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "N Ratner, Y Levine, Y Belinkov, O Ram, O Abend… - arXiv preprint arXiv …, 2022"
----
-For applications that require processing large amounts of text at inference time, Large Language Models (LLMs) are handicapped by their limited context windows, which are typically 2048 tokens. In-context learning, an emergent phenomenon in LLMs in sizes above a certain parameter threshold, constitutes one significant example because it can only leverage training examples that fit into the context window. Existing efforts to address the context window limitation involve training …
-Cites: ‪Scrolls: Standardized comparison over long language sequences‬
+--- 
+layout: post 
+title: "Parallel Context Windows Improve In-Context Learning of Large Language Models" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "N Ratner, Y Levine, Y Belinkov, O Ram, O Abend - arXiv preprint arXiv , 2022" 
+--- 
+For applications that require processing large amounts of text at inference time, Large Language Models (LLMs) are handicapped by their limited context windows, which are typically 2048 tokens. In-context learning, an emergent phenomenon in LLMs in sizes above a certain parameter threshold, constitutes one significant example because it can only leverage training examples that fit into the context window. Existing efforts to address the context window limitation involve training  Cites: Scrolls: Standardized comparison over long language sequences

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-adaptive In-context Learning"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "Z Wu, Y Wang, J Ye, L Kong - arXiv preprint arXiv:2212.10375, 2022"
----
-Despite the surprising few-shot performance of in-context learning (ICL), it is still a common practice to randomly sample examples to serve as context. This paper advocates a new principle for ICL: self-adaptive in-context learning. The self-adaption mechanism is introduced to help each sample find an in-context example permutation (ie, selection and ordering) that can derive the correct prediction, thus maximizing performance. To validate the effectiveness of self-adaptive ICL, we …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Self-adaptive In-context Learning" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "Z Wu, Y Wang, J Ye, L Kong - arXiv preprint arXiv:2212.10375, 2022" 
+--- 
+Despite the surprising few-shot performance of in-context learning (ICL), it is still a common practice to randomly sample examples to serve as context. This paper advocates a new principle for ICL: self-adaptive in-context learning. The self-adaption mechanism is introduced to help each sample find an in-context example permutation (ie, selection and ordering) that can derive the correct prediction, thus maximizing performance. To validate the effectiveness of self-adaptive ICL, we  Cites: CommonsenseQA: A Question Answering Challenge Targeting

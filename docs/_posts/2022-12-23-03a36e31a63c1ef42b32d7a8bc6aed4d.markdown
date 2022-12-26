@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Recycling diverse models for out-of-distribution generalization"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "A Ramé, K Ahuja, J Zhang, M Cord, L Bottou… - arXiv preprint arXiv …, 2022"
----
-Foundation models are redefining how AI systems are built. Practitioners now follow a standard procedure to build their machine learning solutions: download a copy of a foundation model, and fine-tune it using some in-house data about the target task of interest. Consequently, the Internet is swarmed by a handful of foundation models fine-tuned on many diverse tasks. Yet, these individual fine-tunings often lack strong generalization and exist in isolation without benefiting from each other. In our …
-Cites: ‪Patching open-vocabulary models by interpolating weights‬
+--- 
+layout: post 
+title: "Recycling diverse models for out-of-distribution generalization" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "A Ram, K Ahuja, J Zhang, M Cord, L Bottou - arXiv preprint arXiv , 2022" 
+--- 
+Foundation models are redefining how AI systems are built. Practitioners now follow a standard procedure to build their machine learning solutions: download a copy of a foundation model, and fine-tune it using some in-house data about the target task of interest. Consequently, the Internet is swarmed by a handful of foundation models fine-tuned on many diverse tasks. Yet, these individual fine-tunings often lack strong generalization and exist in isolation without benefiting from each other. In our  Cites: Patching open-vocabulary models by interpolating weights

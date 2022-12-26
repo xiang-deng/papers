@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Inverse Reinforcement Learning for Text Summarization"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "Y Fu, D Xiong, Y Dong - arXiv preprint arXiv:2212.09917, 2022"
----
-Current state-of-the-art summarization models are trained with either maximum likelihood estimation (MLE) or reinforcement learning (RL). In this study, we investigate the third training paradigm and argue that inverse reinforcement learning (IRL) may be more suitable for text summarization. IRL focuses on estimating the reward function of an agent, given a set of observations of that agent s behavior. Generally, IRL provides advantages in situations where the reward function is not …
-Cites: ‪Ranking sentences for extractive summarization with reinforcement …‬
+--- 
+layout: post 
+title: "Inverse Reinforcement Learning for Text Summarization" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "Y Fu, D Xiong, Y Dong - arXiv preprint arXiv:2212.09917, 2022" 
+--- 
+Current state-of-the-art summarization models are trained with either maximum likelihood estimation (MLE) or reinforcement learning (RL). In this study, we investigate the third training paradigm and argue that inverse reinforcement learning (IRL) may be more suitable for text summarization. IRL focuses on estimating the reward function of an agent, given a set of observations of that agent s behavior. Generally, IRL provides advantages in situations where the reward function is not  Cites: Ranking sentences for extractive summarization with reinforcement

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RISE: Leveraging Retrieval Techniques for Summarization Evaluation"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "D Uthus, J Ni - arXiv preprint arXiv:2212.08775, 2022"
----
-Evaluating automatically-generated text summaries is a challenging task. While there have been many interesting approaches, they still fall short of human evaluations. We present RISE, a new approach for evaluating summaries by leveraging techniques from information retrieval. RISE is first trained as a retrieval task using a dual-encoder retrieval setup, and can then be subsequently utilized for evaluating a generated summary given an input document, without gold reference summaries …
-Cites: ‪Large dual encoders are generalizable retrievers‬
+--- 
+layout: post 
+title: "RISE: Leveraging Retrieval Techniques for Summarization Evaluation" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "D Uthus, J Ni - arXiv preprint arXiv:2212.08775, 2022" 
+--- 
+Evaluating automatically-generated text summaries is a challenging task. While there have been many interesting approaches, they still fall short of human evaluations. We present RISE, a new approach for evaluating summaries by leveraging techniques from information retrieval. RISE is first trained as a retrieval task using a dual-encoder retrieval setup, and can then be subsequently utilized for evaluating a generated summary given an input document, without gold reference summaries  Cites: Large dual encoders are generalizable retrievers

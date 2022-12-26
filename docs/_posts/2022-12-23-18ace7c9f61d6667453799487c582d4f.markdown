@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DISCO: Distilling Phrasal Counterfactuals with Large Language Models"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "Z Chen, Q Gao, K Richardson, A Bosselut… - arXiv preprint arXiv …, 2022"
----
-Recent methods demonstrate that data augmentation using counterfactual knowledge can teach models the causal structure of a task, leading to robust and generalizable models. However, such counterfactual data often has a limited scale and diversity if crowdsourced and is computationally expensive to extend to new perturbation types if generated using supervised methods. To address this, we introduce a new framework called DISCO for automatically generating high-quality …
-Cites: ‪Flexible generation of natural language deductions‬
+--- 
+layout: post 
+title: "DISCO: Distilling Phrasal Counterfactuals with Large Language Models" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "Z Chen, Q Gao, K Richardson, A Bosselut - arXiv preprint arXiv , 2022" 
+--- 
+Recent methods demonstrate that data augmentation using counterfactual knowledge can teach models the causal structure of a task, leading to robust and generalizable models. However, such counterfactual data often has a limited scale and diversity if crowdsourced and is computationally expensive to extend to new perturbation types if generated using supervised methods. To address this, we introduce a new framework called DISCO for automatically generating high-quality  Cites: Flexible generation of natural language deductions

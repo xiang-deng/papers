@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Analyzing Semantic Faithfulness of Language Models via Input Intervention on Conversational Question Answering"
-date:   2022-12-23 23:45:02 -0400
-categories: jekyll update
-author: "A Chaturvedi, S Bhar, S Saha, U Garain, N Asher - arXiv preprint arXiv:2212.10696, 2022"
----
-Transformer-based language models have been shown to be highly effective for several NLP tasks. In this paper, we consider three transformer models, BERT, RoBERTa, and XLNet, in both small and large version, and investigate how faithful their representations are with respect to the semantic content of texts. We formalize a notion of semantic faithfulness, in which the semantic content of a text should causally figure in a model s inferences in question answering. We then test this …
-Cites: ‪oLMpics - On what Language Model Pre-training Captures‬
+--- 
+layout: post 
+title: "Analyzing Semantic Faithfulness of Language Models via Input Intervention on Conversational Question Answering" 
+date: 2022-12-23 23:45:02 -0400 
+categories: jekyll update 
+author: "A Chaturvedi, S Bhar, S Saha, U Garain, N Asher - arXiv preprint arXiv:2212.10696, 2022" 
+--- 
+Transformer-based language models have been shown to be highly effective for several NLP tasks. In this paper, we consider three transformer models, BERT, RoBERTa, and XLNet, in both small and large version, and investigate how faithful their representations are with respect to the semantic content of texts. We formalize a notion of semantic faithfulness, in which the semantic content of a text should causally figure in a model s inferences in question answering. We then test this  Cites: oLMpics - On what Language Model Pre-training Captures
