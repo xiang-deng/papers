@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompt-tuning in Controlled Dialogue Generation"
+date:   2022-12-27 00:23:06 -0400
+categories: jekyll update
+author: "R Liu - 2022"
+---
+Recent years have witnessed a prosperous development of dialogue response generation since the advent of Transformer. Fine-tuning pretrained language models for different downstream tasks has become the dominant paradigm in Natural Language Processing (NLP). However, fine-tuning requires storing a full copy of parameter states for every task, which is memory-consuming and expensive to serve when working with large-scale models with billions of parameters like GPT-3 …
+Cites: ‪Opt: Open pre-trained transformer language models‬

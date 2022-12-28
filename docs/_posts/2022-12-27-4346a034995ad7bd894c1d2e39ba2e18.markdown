@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modular Large Language Models"
+date:   2022-12-27 00:23:06 -0400
+categories: jekyll update
+author: "S Gururangan"
+---
+Despite the diversity of stakeholders and interests in NLP technologies, a small set of corporations drive the development of large language models (LMs). We propose to introduce a new class of LMs that are fundamentally modular, where components (or experts) of the LM are specialized to distinct data distributions in the training corpus. At inference time, users can mix, add, or remove experts, enabling rapid customization to new use cases. We propose 1) to develop new modular LM …
+Cites: ‪Demix layers: Disentangling domains for modular language …‬

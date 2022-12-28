@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Automated Program Repair with Domain Adaptation"
+date:   2022-12-27 00:23:06 -0400
+categories: jekyll update
+author: "A Zirak, H Hemati - arXiv preprint arXiv:2212.11414, 2022"
+---
+Automated Program Repair (APR) is defined as the process of fixing a bug/defect in the source code, by an automated tool. APR tools have recently experienced promising results by leveraging state-of-the-art Neural Language Processing (NLP) techniques. APR tools such as TFix and CodeXGLUE combine text-to-text transformers with software-specific techniques are outperforming alternatives, these days. However, in most APR studies the train and test sets are chosen from the same …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Integrating Fuzzy Matches into Sentence-level Quality Estimation for Neural Machine Translation"
+date:   2022-12-27 00:23:06 -0400
+categories: jekyll update
+author: "A Tezcan - Computational Linguistics in the Netherlands Journal, 2022"
+---
+Previous studies show that neural machine translation (NMT) systems produce translations with higher quality when highly similar sentences (ie fuzzy matches; FMs) to a given input sentence can be found in the NMT training data. This study explores the usefulness of FMs for the task of sentence-level quality estimation (QE) for NMT. To this end, fuzzy matches are integrated into the QE architecture that utilizes a pre_trained XLM RoBERTa model, through a data augmentation …
+Cites: ‪Nearest neighbor machine translation‬

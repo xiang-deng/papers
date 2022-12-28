@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Supervised contrastive learning for robust text adversarial training"
+date:   2022-12-27 00:23:06 -0400
+categories: jekyll update
+author: "W Li, B Zhao, Y An, C Shangguan, M Ji, A Yuan - Neural Computing and Applications, 2022"
+---
+The lack of robustness is a serious problem for deep neural networks (DNNs) and makes DNNs vulnerable to adversarial examples. A promising solution is applying adversarial training to alleviate this problem, which allows the model to learn the features from adversarial examples. However, adversarial training usually produces overfitted models and may not work when facing a new attack. We believe this is because the previous adversarial training using cross-entropy loss ignores the …
+Cites: ‪It s Morphin Time! Combating Linguistic Discrimination with …‬
