@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DExT: Detector Explanation Toolkit"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "DC Padmanabhan, M Valdenegro-Toro - arXiv preprint arXiv:2212.11409, 2022"
----
-State-of-the-art object detectors are treated as black boxes due to their highly non-linear internal computations. Even with unprecedented advancements in detector performance, the inability to explain how their outputs are generated limits their use in safety-critical applications. Previous work fails to produce explanations for both bounding box and classification decisions, and generally make individual explanations for various detectors. In this paper, we propose an open-source …
-Cites: ‪Is Attention Interpretable?‬
+--- 
+layout: post 
+title: "DExT: Detector Explanation Toolkit" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "DC Padmanabhan, M Valdenegro-Toro - arXiv preprint arXiv:2212.11409, 2022" 
+--- 
+State-of-the-art object detectors are treated as black boxes due to their highly non-linear internal computations. Even with unprecedented advancements in detector performance, the inability to explain how their outputs are generated limits their use in safety-critical applications. Previous work fails to produce explanations for both bounding box and classification decisions, and generally make individual explanations for various detectors. In this paper, we propose an open-source  Cites: Is Attention Interpretable?

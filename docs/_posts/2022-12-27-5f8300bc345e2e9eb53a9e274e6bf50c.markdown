@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Sequential Decision Problems with Weak Feedback"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "A Verma - arXiv preprint arXiv:2212.11603, 2022"
----
-This thesis considers sequential decision problems, where the loss/reward incurred by selecting an action may not be inferred from observed feedback. A major part of this thesis focuses on the unsupervised sequential selection problem, where one can not infer the loss incurred for selecting an action from observed feedback. We also introduce a new setup named Censored Semi Bandits, where the loss incurred for selecting an action can be observed under certain conditions. Finally, we study the …
-Cites: ‪Learning cost-sensitive active classifiers‬

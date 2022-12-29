@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to Generate Questions by Enhancing Text Generation with Sentence Selection"
+date:   2022-12-28 14:07:11 -0400
+categories: jekyll update
+author: "DHT Duong, NH Son, H Le, MT Nguyen - arXiv preprint arXiv:2212.12192, 2022"
+---
+We introduce an approach for the answer-aware question generation problem. Instead of only relying on the capability of strong pre-trained language models, we observe that the information of answers and questions can be found in some relevant sentences in the context. Based on that, we design a model which includes two modules: a selector and a generator. The selector forces the model to more focus on relevant sentences regarding an answer to provide implicit local information. The …
+Cites: ‪Coarse-to-fine query focused multi-document summarization‬

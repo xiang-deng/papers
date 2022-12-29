@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection"
+date:   2022-12-28 14:07:11 -0400
+categories: jekyll update
+author: "Q Tan, X Zhang, N Liu, D Zha, L Li, R Chen, SH Choi… - arXiv preprint arXiv …, 2022"
+---
+Graph neural networks (GNNs) have received remarkable success in link prediction (GNNLP) tasks. Existing efforts first predefine the subgraph for the whole dataset and then apply GNNs to encode edge representations by leveraging the neighborhood structure induced by the fixed subgraph. The prominence of GNNLP methods significantly relies on the adhoc subgraph. Since node connectivity in real-world graphs is complex, one shared subgraph is limited for all edges. Thus, the choices of …
+Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

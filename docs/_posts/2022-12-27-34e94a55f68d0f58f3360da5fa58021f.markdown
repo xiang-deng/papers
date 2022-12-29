@@ -1,9 +1,8 @@
----
-layout: post
-title:  "KL Regularized Normalization Framework for Low Resource Tasks"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "N Kumar, A Narang, B Lall - arXiv preprint arXiv:2212.11275, 2022"
----
-Large pre-trained models, such as Bert, GPT, and Wav2Vec, have demonstrated great potential for learning representations that are transferable to a wide variety of downstream tasks. It is difficult to obtain a large quantity of supervised data due to the limited availability of resources and time. In light of this, a significant amount of research has been conducted in the area of adopting large pre-trained datasets for diverse downstream tasks via fine tuning, linear probing, or prompt tuning in low …
-Cites: ‪Annotation artifacts in natural language inference data‬
+--- 
+layout: post 
+title: "KL Regularized Normalization Framework for Low Resource Tasks" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "N Kumar, A Narang, B Lall - arXiv preprint arXiv:2212.11275, 2022" 
+--- 
+Large pre-trained models, such as Bert, GPT, and Wav2Vec, have demonstrated great potential for learning representations that are transferable to a wide variety of downstream tasks. It is difficult to obtain a large quantity of supervised data due to the limited availability of resources and time. In light of this, a significant amount of research has been conducted in the area of adopting large pre-trained datasets for diverse downstream tasks via fine tuning, linear probing, or prompt tuning in low  Cites: Annotation artifacts in natural language inference data

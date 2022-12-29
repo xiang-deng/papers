@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DCIM-GCN: Digital Computing-in-Memory to Efficiently Accelerate Graph Convolutional Networks"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "Y Qiu, Y Ma, W Zhao, M Wu, L Ye, R Huang - Proceedings of the 41st IEEE/ACM …, 2022"
----
-Computing-in-memory (CIM) is emerging as a promising architecture to accelerate graph convolutional networks (GCNs) normally bounded by redundant and irregular memory transactions. Current analog based CIM requires frequent analog and digital conversions (AD/DA) that dominate the overall area and power consumption. Furthermore, the analog non-ideality degrades the accuracy and reliability of CIM. In this work, an SRAM based digital CIM system is proposed to accelerate memory …
-Cites: ‪Graph neural networks: A review of methods and applications‬
+--- 
+layout: post 
+title: "DCIM-GCN: Digital Computing-in-Memory to Efficiently Accelerate Graph Convolutional Networks" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "Y Qiu, Y Ma, W Zhao, M Wu, L Ye, R Huang - Proceedings of the 41st IEEE/ACM , 2022" 
+--- 
+Computing-in-memory (CIM) is emerging as a promising architecture to accelerate graph convolutional networks (GCNs) normally bounded by redundant and irregular memory transactions. Current analog based CIM requires frequent analog and digital conversions (AD/DA) that dominate the overall area and power consumption. Furthermore, the analog non-ideality degrades the accuracy and reliability of CIM. In this work, an SRAM based digital CIM system is proposed to accelerate memory  Cites: Graph neural networks: A review of methods and applications

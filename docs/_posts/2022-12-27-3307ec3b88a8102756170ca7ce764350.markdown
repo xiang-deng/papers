@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reusable Options through Gradient-based Meta Learning"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "D Kuric, H van Hoof - arXiv preprint arXiv:2212.11726, 2022"
----
-Hierarchical methods in reinforcement learning have the potential to reduce the amount of decisions that the agent needs to perform when learning new tasks. However, finding a reusable useful temporal abstractions that facilitate fast learning remains a challenging problem. Recently, several deep learning approaches were proposed to learn such temporal abstractions in the form of options in an end-to-end manner. In this work, we point out several shortcomings of these methods and …
-Cites: ‪Taming maml: Efficient unbiased meta-reinforcement learning‬
+--- 
+layout: post 
+title: "Reusable Options through Gradient-based Meta Learning" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "D Kuric, H van Hoof - arXiv preprint arXiv:2212.11726, 2022" 
+--- 
+Hierarchical methods in reinforcement learning have the potential to reduce the amount of decisions that the agent needs to perform when learning new tasks. However, finding a reusable useful temporal abstractions that facilitate fast learning remains a challenging problem. Recently, several deep learning approaches were proposed to learn such temporal abstractions in the form of options in an end-to-end manner. In this work, we point out several shortcomings of these methods and  Cites: Taming maml: Efficient unbiased meta-reinforcement learning

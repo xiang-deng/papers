@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SYNED: A SYNTAX-BASED LOW-RESOURCE EVENT DETECTION METHOD FOR NEW EVENT TYPES"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "R Fu, H Wang, X Zhang, J Zhou, Y Yan"
----
-Event detection (ED) is an important and challenging information extraction task, which aims to identify triggers from unstructured text and classify them into an event type. Most of the current supervised ED methods rely heavily on high-quality annotation data and are difficult to use with new types. In order to solve the event detection task of new types in low-resource scenarios, we proposed SynED, a low-resource ED system based on syntactic embedding. We first obtain syntactic …
-Cites: ‪Connecting the dots: Event graph schema induction with path …‬
+--- 
+layout: post 
+title: "SYNED: A SYNTAX-BASED LOW-RESOURCE EVENT DETECTION METHOD FOR NEW EVENT TYPES" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "R Fu, H Wang, X Zhang, J Zhou, Y Yan" 
+--- 
+Event detection (ED) is an important and challenging information extraction task, which aims to identify triggers from unstructured text and classify them into an event type. Most of the current supervised ED methods rely heavily on high-quality annotation data and are difficult to use with new types. In order to solve the event detection task of new types in low-resource scenarios, we proposed SynED, a low-resource ED system based on syntactic embedding. We first obtain syntactic  Cites: Connecting the dots: Event graph schema induction with path

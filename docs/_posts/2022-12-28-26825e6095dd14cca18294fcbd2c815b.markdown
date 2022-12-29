@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Analysis of Utterance Embeddings and Clustering Methods Related to Intent Induction for Task-Oriented Dialogue"
+date:   2022-12-28 14:07:11 -0400
+categories: jekyll update
+author: "J Park, Y Jang, C Lee, H Lim - arXiv preprint arXiv:2212.02021, 2022"
+---
+This paper investigates unsupervised approaches to overcome quintessential challenges in designing task-oriented dialog schema: assigning intent labels to each dialog turn (intent clustering) and generating a set of intents based on the intent clustering methods (intent induction). We postulate there are two salient factors for automatic induction of intents:(1) clustering algorithm for intent labeling and (2) user utterance embedding space. We compare existing off-the-shelf clustering models …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

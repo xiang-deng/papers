@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Complex Knowledge Base Question Answering via Question-to-Action and Question-to-Question Alignment"
+date:   2022-12-28 14:07:11 -0400
+categories: jekyll update
+author: "Y Tang, X Cheng, W Lu - arXiv preprint arXiv:2212.13036, 2022"
+---
+Complex knowledge base question answering can be achieved by converting questions into sequences of predefined actions. However, there is a significant semantic and structural gap between natural language and action sequences, which makes this conversion difficult. In this paper, we introduce an alignment-enhanced complex question answering framework, called ALCQA, which mitigates this gap through question-to-action alignment and question-to-question alignment. We train a …
+Cites: ‪Semantic parsing via staged query graph generation: Question …‬

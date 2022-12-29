@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Smooth Sailing: Improving Active Learning for Pre-trained Language Models with Representation Smoothness Analysis"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "J Jukić, J Šnajder - arXiv preprint arXiv:2212.11680, 2022"
----
-Developed as a solution to a practical need, active learning (AL) methods aim to reduce label complexity and the annotations costs in supervised learning. While recent work has demonstrated the benefit of using AL in combination with large pre-trained language models (PLMs), it has often overlooked the practical challenges that hinder the feasibility of AL in realistic settings. We address these challenges by leveraging representation smoothness analysis to improve the effectiveness of AL …
-Cites: ‪Learning question classifiers‬
+--- 
+layout: post 
+title: "Smooth Sailing: Improving Active Learning for Pre-trained Language Models with Representation Smoothness Analysis" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "J Juki, J najder - arXiv preprint arXiv:2212.11680, 2022" 
+--- 
+Developed as a solution to a practical need, active learning (AL) methods aim to reduce label complexity and the annotations costs in supervised learning. While recent work has demonstrated the benefit of using AL in combination with large pre-trained language models (PLMs), it has often overlooked the practical challenges that hinder the feasibility of AL in realistic settings. We address these challenges by leveraging representation smoothness analysis to improve the effectiveness of AL  Cites: Learning question classifiers

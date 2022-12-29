@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-shot and Few-shot Learning with Knowledge Graphs: A Comprehensive Survey"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "J Chen, Y Geng, Z Chen, JZ Pan, Y He, W Zhang…"
----
-Machine learning especially deep neural networks have achieved great success but many of them often rely on a number of labeled samples for supervision. As sufficient labeled training data are not always ready due to eg, continuously emerging prediction targets and costly sample annotation in real world applications, machine learning with sample shortage is now being widely investigated. Among all these studies, many prefer to utilize auxiliary information including those in the form of …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Zero-shot and Few-shot Learning with Knowledge Graphs: A Comprehensive Survey" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "J Chen, Y Geng, Z Chen, JZ Pan, Y He, W Zhang" 
+--- 
+Machine learning especially deep neural networks have achieved great success but many of them often rely on a number of labeled samples for supervision. As sufficient labeled training data are not always ready due to eg, continuously emerging prediction targets and costly sample annotation in real world applications, machine learning with sample shortage is now being widely investigated. Among all these studies, many prefer to utilize auxiliary information including those in the form of  Cites: CommonsenseQA: A Question Answering Challenge Targeting

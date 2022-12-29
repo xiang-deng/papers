@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Why are Graph Neural Networks Effective for EDA Problems?"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "H Ren, S Nath, Y Zhang, H Chen, M Liu - Proceedings of the 41st IEEE/ACM …, 2022"
----
-In this paper, we discuss the source of effectiveness of Graph Neural Networks (GNNs) in EDA, particularly in the VLSI design automation domain. We argue that the effectiveness comes from the fact that GNNs implicitly embed the prior knowledge and inductive biases associated with given VLSI tasks, which is one of the three approaches to make a learning algorithm physics-informed. These inductive biases are different to those common used in GNNs designed for other structured data, such …
-Cites: ‪Chip placement with deep reinforcement learning‬
+--- 
+layout: post 
+title: "Why are Graph Neural Networks Effective for EDA Problems?" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "H Ren, S Nath, Y Zhang, H Chen, M Liu - Proceedings of the 41st IEEE/ACM , 2022" 
+--- 
+In this paper, we discuss the source of effectiveness of Graph Neural Networks (GNNs) in EDA, particularly in the VLSI design automation domain. We argue that the effectiveness comes from the fact that GNNs implicitly embed the prior knowledge and inductive biases associated with given VLSI tasks, which is one of the three approaches to make a learning algorithm physics-informed. These inductive biases are different to those common used in GNNs designed for other structured data, such  Cites: Chip placement with deep reinforcement learning

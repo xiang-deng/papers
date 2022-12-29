@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Morphologically-aware vocabulary reduction of word embeddings"
-date:   2022-12-27 00:23:06 -0400
-categories: jekyll update
-author: "CC CHIA, M TKACHENKO, HW LAUW - 2022"
----
-We propose SubText, a compression mechanism via vocabulary reduction. The crux is to judiciously select a subset of word embeddings which support the reconstruction of the remaining word embeddings based on their form alone. The proposed algorithm considers the preservation of the original embeddings, as well as a word s relationship to other words that are morphologically or semantically similar. Comprehensive evaluation of the compressed vocabulary reveals SubText s efficacy …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Morphologically-aware vocabulary reduction of word embeddings" 
+date: 2022-12-27 00:23:06 -0400 
+categories: jekyll update 
+author: "CC CHIA, M TKACHENKO, HW LAUW - 2022" 
+--- 
+We propose SubText, a compression mechanism via vocabulary reduction. The crux is to judiciously select a subset of word embeddings which support the reconstruction of the remaining word embeddings based on their form alone. The proposed algorithm considers the preservation of the original embeddings, as well as a word s relationship to other words that are morphologically or semantically similar. Comprehensive evaluation of the compressed vocabulary reveals SubText s efficacy  Cites: Deep contextualized word representations

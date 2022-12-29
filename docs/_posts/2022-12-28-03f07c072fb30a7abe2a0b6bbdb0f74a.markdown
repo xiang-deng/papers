@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Relational Local Explanations"
+date:   2022-12-28 14:07:11 -0400
+categories: jekyll update
+author: "V Borisov, G Kasneci - arXiv preprint arXiv:2212.12374, 2022"
+---
+The majority of existing post-hoc explanation approaches for machine learning models produce independent per-variable feature attribution scores, ignoring a critical characteristic, such as the inter-variable relationship between features that naturally occurs in visual and textual data. In response, we develop a novel model-agnostic and permutation-based feature attribution algorithm based on the relational analysis between input variables. As a result, we are able to gain a broader insight …
+Cites: ‪The Out-of-Distribution Problem in Explainability and Search …‬
