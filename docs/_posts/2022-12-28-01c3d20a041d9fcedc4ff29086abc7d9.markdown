@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fine-Grained Sentiment-Controlled Text Generation Approach Based on Pre-Trained Language Model"
-date:   2022-12-28 14:07:11 -0400
-categories: jekyll update
-author: "L Zhu, Y Xu, Z Zhu, Y Bao, X Kong - Applied Sciences, 2023"
----
-Sentiment-controlled text generation aims to generate texts according to the given sentiment. However, most of the existing studies focus only on the document-or sentence-level sentiment control, leaving a gap for finer-grained control over the content of generated results. Fine-grained control allows a generated review to express different opinions toward multiple aspects. Some previous works attempted to generate reviews conditioned on aspect-level sentiments, but they usually suffer …
-Cites: ‪Learning to generate product reviews from attributes‬
+--- 
+layout: post 
+title: "Fine-Grained Sentiment-Controlled Text Generation Approach Based on Pre-Trained Language Model" 
+date: 2022-12-28 14:07:11 -0400 
+categories: jekyll update 
+author: "L Zhu, Y Xu, Z Zhu, Y Bao, X Kong - Applied Sciences, 2023" 
+--- 
+Sentiment-controlled text generation aims to generate texts according to the given sentiment. However, most of the existing studies focus only on the document-or sentence-level sentiment control, leaving a gap for finer-grained control over the content of generated results. Fine-grained control allows a generated review to express different opinions toward multiple aspects. Some previous works attempted to generate reviews conditioned on aspect-level sentiments, but they usually suffer  Cites: Learning to generate product reviews from attributes

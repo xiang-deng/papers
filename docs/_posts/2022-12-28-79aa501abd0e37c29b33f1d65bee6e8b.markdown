@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Independency‐enhancing adversarial active learning"
-date:   2022-12-28 14:07:11 -0400
-categories: jekyll update
-author: "J Guo, Z Pang, M Bai, Y Xiao, J Zhang - IET Image Processing, 2022"
----
-The core idea of active learning is to obtain higher model performance with less annotation cost. This paper proposes an independency‐enhancing adversarial active learning method. Independency‐enhancing adversarial active learning is different from the previous methods and pays more attention to sample independence. Specifically, it is believed that the informativeness of a group of samples is related to sample independence rather than the simple sum of the …
-Cites: ‪Margin-based active learning for structured output spaces‬
+--- 
+layout: post 
+title: "Independencyenhancing adversarial active learning" 
+date: 2022-12-28 14:07:11 -0400 
+categories: jekyll update 
+author: "J Guo, Z Pang, M Bai, Y Xiao, J Zhang - IET Image Processing, 2022" 
+--- 
+The core idea of active learning is to obtain higher model performance with less annotation cost. This paper proposes an independencyenhancing adversarial active learning method. Independencyenhancing adversarial active learning is different from the previous methods and pays more attention to sample independence. Specifically, it is believed that the informativeness of a group of samples is related to sample independence rather than the simple sum of the  Cites: Margin-based active learning for structured output spaces

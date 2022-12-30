@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A comparative study of adversarial training methods for neural models of source code"
-date:   2022-12-28 14:07:11 -0400
-categories: jekyll update
-author: "Z Li, X Huang, Y Li, G Chen - Future Generation Computer Systems, 2022"
----
-Adversarial training has been employed by researchers to protect AI models of source code. However, it is still unknown how adversarial training methods in this field compare to each other in effectiveness and robustness. This study surveys and investigates existing adversarial training methods, and conducts experiments to evaluate these neural models  performance in the domain of source code. First, we examine the process of adversarial training to identify four dimensions that could be …
-Cites: ‪Word-level Textual Adversarial Attacking as Combinatorial …‬
+--- 
+layout: post 
+title: "A comparative study of adversarial training methods for neural models of source code" 
+date: 2022-12-28 14:07:11 -0400 
+categories: jekyll update 
+author: "Z Li, X Huang, Y Li, G Chen - Future Generation Computer Systems, 2022" 
+--- 
+Adversarial training has been employed by researchers to protect AI models of source code. However, it is still unknown how adversarial training methods in this field compare to each other in effectiveness and robustness. This study surveys and investigates existing adversarial training methods, and conducts experiments to evaluate these neural models performance in the domain of source code. First, we examine the process of adversarial training to identify four dimensions that could be  Cites: Word-level Textual Adversarial Attacking as Combinatorial

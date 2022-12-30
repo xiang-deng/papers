@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Discovering Customer-Service Dialog System with Semi-Supervised Learning and Coarse-to-Fine Intent Detection"
-date:   2022-12-28 14:07:11 -0400
-categories: jekyll update
-author: "Z Yang, X Ma, A Liu, Z Zhang - arXiv preprint arXiv:2212.12363, 2022"
----
-Task-oriented dialog (TOD) aims to assist users in achieving specific goals through multi-turn conversation. Recently, good results have been obtained based on large pre-trained models. However, the labeled-data scarcity hinders the efficient development of TOD systems at scale. In this work, we constructed a weakly supervised dataset based on a teacher/student paradigm that leverages a large collection of unlabelled dialogues. Furthermore, we built a modular dialogue system …
-Cites: ‪Global-to-local memory pointer networks for task-oriented dialogue‬
+--- 
+layout: post 
+title: "Discovering Customer-Service Dialog System with Semi-Supervised Learning and Coarse-to-Fine Intent Detection" 
+date: 2022-12-28 14:07:11 -0400 
+categories: jekyll update 
+author: "Z Yang, X Ma, A Liu, Z Zhang - arXiv preprint arXiv:2212.12363, 2022" 
+--- 
+Task-oriented dialog (TOD) aims to assist users in achieving specific goals through multi-turn conversation. Recently, good results have been obtained based on large pre-trained models. However, the labeled-data scarcity hinders the efficient development of TOD systems at scale. In this work, we constructed a weakly supervised dataset based on a teacher/student paradigm that leverages a large collection of unlabelled dialogues. Furthermore, we built a modular dialogue system  Cites: Global-to-local memory pointer networks for task-oriented dialogue

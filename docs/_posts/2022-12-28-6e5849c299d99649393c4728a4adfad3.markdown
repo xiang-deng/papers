@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal"
-date:   2022-12-28 14:07:11 -0400
-categories: jekyll update
-author: "R Zuo, B Mak - arXiv preprint arXiv:2212.13023, 2022"
----
-Most deep-learning-based continuous sign language recognition (CSLR) models share a similar backbone consisting of a visual module, a sequential module, and an alignment module. However, due to limited training samples, a connectionist temporal classification loss may not train such CSLR backbones sufficiently. In this work, we propose three auxiliary tasks to enhance the CSLR backbones. The first task enhances the visual module, which is sensitive to the insufficient training …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal" 
+date: 2022-12-28 14:07:11 -0400 
+categories: jekyll update 
+author: "R Zuo, B Mak - arXiv preprint arXiv:2212.13023, 2022" 
+--- 
+Most deep-learning-based continuous sign language recognition (CSLR) models share a similar backbone consisting of a visual module, a sequential module, and an alignment module. However, due to limited training samples, a connectionist temporal classification loss may not train such CSLR backbones sufficiently. In this work, we propose three auxiliary tasks to enhance the CSLR backbones. The first task enhances the visual module, which is sensitive to the insufficient training  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

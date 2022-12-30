@@ -5,4 +5,4 @@ date: 2022-12-27 00:23:06 -0400
 categories: jekyll update 
 author: "CJ MacLellan, P Matsakis, P Langley - arXiv preprint arXiv:2212.11937, 2022" 
 --- 
-This paper presents a novel approach to the acquisition of language models from corpora. The framework builds on Cobweb, an early system for constructing taxonomic hierarchies of probabilistic concepts that used a tabular, attribute-value encoding of training cases and concepts, making it unsuitable for sequential input like language. In response, we explore three new extensions to Cobweb--the Word, Leaf, and Path variants. These systems encode each training case as an anchor  Cites: Never-ending learning
+This paper presents a novel approach to the acquisition of language models from corpora. The framework builds on Cobweb, an early system for constructing taxonomic hierarchies of probabilistic concepts that used a tabular, attribute-value encoding of training cases and concepts, making it unsuitable for sequential input like language. In response, we explore three new extensions to Cobweb--the Word, Leaf, and Path variants. These systems encode each training case as an anchor Cites: Never-ending learning

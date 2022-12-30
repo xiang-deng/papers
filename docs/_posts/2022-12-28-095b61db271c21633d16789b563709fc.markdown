@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks"
-date:   2022-12-28 14:07:11 -0400
-categories: jekyll update
-author: "U Jeong, K Ding, L Cheng, R Guo, K Shu, H Liu - arXiv preprint arXiv:2212.12621, 2022"
----
-Nowadays, fake news easily propagates through online social networks and becomes a grand threat to individuals and society. Assessing the authenticity of news is challenging due to its elaborately fabricated contents, making it difficult to obtain large-scale annotations for fake news data. Due to such data scarcity issues, detecting fake news tends to fail and overfit in the supervised setting. Recently, graph neural networks (GNNs) have been adopted to leverage the richer relational …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬
+--- 
+layout: post 
+title: "Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks" 
+date: 2022-12-28 14:07:11 -0400 
+categories: jekyll update 
+author: "U Jeong, K Ding, L Cheng, R Guo, K Shu, H Liu - arXiv preprint arXiv:2212.12621, 2022" 
+--- 
+Nowadays, fake news easily propagates through online social networks and becomes a grand threat to individuals and society. Assessing the authenticity of news is challenging due to its elaborately fabricated contents, making it difficult to obtain large-scale annotations for fake news data. Due to such data scarcity issues, detecting fake news tends to fail and overfit in the supervised setting. Recently, graph neural networks (GNNs) have been adopted to leverage the richer relational  Cites: Learning with hypergraphs: Clustering, classification, and
