@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BayBFed: Bayesian Backdoor Defense for Federated Learning"
+date:   2022-12-30 14:30:10 -0400
+categories: jekyll update
+author: "K Kumari, P Rieger, H Fereidooni, M Jadliwala… - 2023 IEEE Symposium on …, 2022"
+---
+Federated learning (FL) is an emerging technology that allows participants to jointly train a machine learning model without sharing their private data with others. However, FL is vulnerable to poisoning attacks such as backdoor attacks. Consequently, a variety of defenses have recently been proposed, which have primarily utilized intermediary states of the global model (ie, logits) or distance of the local models (ie, L2− norm) with respect to the global model to detect malicious …
+Cites: ‪Spectral chinese restaurant processes: Nonparametric clustering …‬

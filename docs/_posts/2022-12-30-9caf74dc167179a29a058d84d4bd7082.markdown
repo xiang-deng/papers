@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimal algorithms for group distributionally robust optimization and beyond"
+date:   2022-12-30 14:30:10 -0400
+categories: jekyll update
+author: "T Soma, K Gatmiry, S Jegelka - arXiv preprint arXiv:2212.13669, 2022"
+---
+Distributionally robust optimization (DRO) can improve the robustness and fairness of learning methods. In this paper, we devise stochastic algorithms for a class of DRO problems including group DRO, subpopulation fairness, and empirical conditional value at risk (CVaR) optimization. Our new algorithms achieve faster convergence rates than existing algorithms for multiple DRO settings. We also provide a new information-theoretic lower bound that implies our bounds are tight for group DRO …
+Cites: ‪Distributionally robust language modeling‬

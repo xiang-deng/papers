@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to Detect Noisy Labels Using Model-Based Features"
+date:   2022-12-30 14:30:10 -0400
+categories: jekyll update
+author: "Z Wang, Z Lin, P Liu, G ZHeng, J Wen, X Chen, Y Chen… - arXiv preprint arXiv …, 2022"
+---
+Label noise is ubiquitous in various machine learning scenarios such as self-labeling with model predictions and erroneous data annotation. Many existing approaches are based on heuristics such as sample losses, which might not be flexible enough to achieve optimal solutions. Meta learning based methods address this issue by learning a data selection function, but can be hard to optimize. In light of these pros and cons, we propose Selection-Enhanced Noisy label Training (SENT) …
+Cites: ‪Learning question classifiers‬

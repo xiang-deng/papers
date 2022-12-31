@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Computing partial hypergraphs of bounded width"
+date:   2022-12-30 14:30:10 -0400
+categories: jekyll update
+author: "N Adrar, P Jégou, C Terrioux - Discrete Applied Mathematics, 2023"
+---
+In this paper, we are interested in the computation of partial hypergraphs whose width is bounded by an integer k. Given a hypergraph H=(V, E) the task is to find a “partial” hypergraph H′=(V, E′)(with E′⊆ E) for which the width of its 2-section is at most k− 1. Several criteria can be considered for the optimality of the result. The first one is related to the maximum number of hyperedges to include in H′(maximum criteria). Another one is based on the fact that for all E′′⊆ E with …
+Cites: ‪Minicon: A scalable algorithm for answering queries using views‬
