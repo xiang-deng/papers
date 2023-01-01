@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP"
-date:   2022-12-30 14:30:10 -0400
-categories: jekyll update
-author: "O Khattab, K Santhanam, XL Li, D Hall, P Liang… - arXiv preprint arXiv …, 2022"
----
-Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combined these in simple  retrieve-then-read  pipelines in which the RM retrieves passages that are inserted into the LM prompt. To begin to fully realize the potential of frozen LMs and RMs, we propose Demonstrate-Search-Predict (DSP), a framework that relies on passing natural …
-Cites: ‪RankGen: Improving Text Generation with Large Ranking Models‬
+--- 
+layout: post 
+title: "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP" 
+date: 2022-12-30 14:30:10 -0400 
+categories: jekyll update 
+author: "O Khattab, K Santhanam, XL Li, D Hall, P Liang - arXiv preprint arXiv , 2022" 
+--- 
+Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combined these in simple retrieve-then-read pipelines in which the RM retrieves passages that are inserted into the LM prompt. To begin to fully realize the potential of frozen LMs and RMs, we propose Demonstrate-Search-Predict (DSP), a framework that relies on passing natural  Cites: RankGen: Improving Text Generation with Large Ranking Models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DASCDC: Dual Attention-based Sparse Common Deep Clustering Method"
-date:   2022-12-30 14:30:10 -0400
-categories: jekyll update
-author: "Y Dong, J Shi, Y Deng, Y Dong, Z Wang - 2022 9th International Conference on …, 2022"
----
-Graph convolutional network (GCN) has been successfully applied in deep clustering on the high dimensional dataset, which is usually processed by extracting the feature and structure information. However, it lacks an effective fusion mechanism of common information between the feature and structure information and does not perform well on the sparse dataset. Therefore, we propose a dual attention-based sparse common deep clustering method (DASCDC). Firstly, we …
-Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬
+--- 
+layout: post 
+title: "DASCDC: Dual Attention-based Sparse Common Deep Clustering Method" 
+date: 2022-12-30 14:30:10 -0400 
+categories: jekyll update 
+author: "Y Dong, J Shi, Y Deng, Y Dong, Z Wang - 2022 9th International Conference on , 2022" 
+--- 
+Graph convolutional network (GCN) has been successfully applied in deep clustering on the high dimensional dataset, which is usually processed by extracting the feature and structure information. However, it lacks an effective fusion mechanism of common information between the feature and structure information and does not perform well on the sparse dataset. Therefore, we propose a dual attention-based sparse common deep clustering method (DASCDC). Firstly, we  Cites: Adaptive Graph Encoder for Attributed Graph Embedding

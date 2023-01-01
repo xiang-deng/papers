@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Natural language processing while maintaining data privacy"
-date:   2022-12-30 14:30:10 -0400
-categories: jekyll update
-author: "O Yermilov, A Chernodub, V Raheja"
----
-Data anonymization techniques have been developing rapidly in the last few years due to the rising request for privacy. However, natural language processing (NLP) approaches to text anonymization are limited and error-prone, negatively affecting the quality of downstream models trained on anonymized texts. Conventionally, named entity recognition and rule-based approaches have been used for the de-identification of the data. These methods have been limited owing to a lack of …
-Cites: ‪Texthide: Tackling Data Privacy in Language Understanding Tasks‬
+--- 
+layout: post 
+title: "Natural language processing while maintaining data privacy" 
+date: 2022-12-30 14:30:10 -0400 
+categories: jekyll update 
+author: "O Yermilov, A Chernodub, V Raheja" 
+--- 
+Data anonymization techniques have been developing rapidly in the last few years due to the rising request for privacy. However, natural language processing (NLP) approaches to text anonymization are limited and error-prone, negatively affecting the quality of downstream models trained on anonymized texts. Conventionally, named entity recognition and rule-based approaches have been used for the de-identification of the data. These methods have been limited owing to a lack of  Cites: Texthide: Tackling Data Privacy in Language Understanding Tasks

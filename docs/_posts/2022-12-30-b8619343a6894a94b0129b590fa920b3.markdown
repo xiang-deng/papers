@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cloze Question Answering using Semi-structured Knowledge and a Language Model"
-date:   2022-12-30 14:30:10 -0400
-categories: jekyll update
-author: "E Winston, B Dhingra, K Mazaitis, G Neubig…"
----
-Abstract Modern Question Answering (QA) systems rely on both knowledge bases (KBs) and unstructured text corpora as sources for their answers. While KBs generally offer more precise answers than unstructured text, they do not cover all domains and the cost of constructing them in novel domains is high. In this paper we consider a third setting: QA using text and semi-structured knowledge, in the form of a corpus of entity-labeled documents. We propose CASE, a hybrid of an RNN …
-Cites: ‪Bidirectional Attention Flow for Machine Comprehension‬
+--- 
+layout: post 
+title: "Cloze Question Answering using Semi-structured Knowledge and a Language Model" 
+date: 2022-12-30 14:30:10 -0400 
+categories: jekyll update 
+author: "E Winston, B Dhingra, K Mazaitis, G Neubig" 
+--- 
+Abstract Modern Question Answering (QA) systems rely on both knowledge bases (KBs) and unstructured text corpora as sources for their answers. While KBs generally offer more precise answers than unstructured text, they do not cover all domains and the cost of constructing them in novel domains is high. In this paper we consider a third setting: QA using text and semi-structured knowledge, in the form of a corpus of entity-labeled documents. We propose CASE, a hybrid of an RNN  Cites: Bidirectional Attention Flow for Machine Comprehension
