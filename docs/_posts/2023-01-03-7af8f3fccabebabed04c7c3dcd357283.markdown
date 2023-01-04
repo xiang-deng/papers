@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reinforcement learning from expert demonstrations with application to redundant robot control"
+date:   2023-01-03 01:29:15 -0400
+categories: jekyll update
+author: "J Ramirez, W Yu - Engineering Applications of Artificial Intelligence, 2023"
+---
+Current methods of reinforcement learning from expert demonstrations require humans to give all possible demonstrations in the learning phase, which is very difficult for continuous or high-dimensional spaces. In this paper, we proposed biased exploration reinforcement learning to avoid the exploration of unnecessary states and actions of the expert demonstrations. We present a convergence analysis of the novel method. This method is applied to learn the control of a redundant robot …
+Cites: ‪Backplay:  Man muss immer umkehren ‬

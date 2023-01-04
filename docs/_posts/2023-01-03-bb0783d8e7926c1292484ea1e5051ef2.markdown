@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GEMS: Scene Expansion using Generative Models of Graphs-Supplementary"
+date:   2023-01-03 01:29:15 -0400
+categories: jekyll update
+author: "R Agarwal, TS Chandra, V Patil, A Mahapatra…"
+---
+In this section, we present the pseudo code for training 1 and inference 2. We use the notation as described in our main paper under problem description. fnode2edge is an additional neural network (multi-layer perceptron) that is used to transfer information from fnode to fedge, ie the hidden state of fedge is initialized from the hidden state of fnode using this transformation.
+Cites: ‪Importance of Semantic Representation: Dataless Classification.‬

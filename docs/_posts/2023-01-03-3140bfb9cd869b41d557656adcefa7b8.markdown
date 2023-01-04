@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Analysis on the number of layers in the transformer-based model for neural machine translation"
+date:   2023-01-03 01:29:15 -0400
+categories: jekyll update
+author: "D Li, Z Luo - Third International Conference on Computer Science …, 2022"
+---
+Recently, the transformer-based models have been widely used in sequence-to-sequence (seq2seq) tasks, especially neural machine translation (NMT). In the original transformer, the layer number in encoder is equal to the layer number in decoder. However, the structure is more complex and task is more difficult in decoder than those in encoder, so the layer number should not be same. In order to verify how many layer number in encoder and decoder is properly valued, we improve …
+Cites: ‪Deterministic Non-Autoregressive Neural Sequence Modeling by …‬

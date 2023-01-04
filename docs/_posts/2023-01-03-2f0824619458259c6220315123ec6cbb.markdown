@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Study on the Impact of Data Augmentation for Training Convolutional Neural Networks in the Presence of Noisy Labels"
+date:   2023-01-03 01:29:15 -0400
+categories: jekyll update
+author: "E Pereira, G Carneiro, FR Cordeiro - 2022 35th SIBGRAPI Conference on Graphics …, 2022"
+---
+Label noise is common in large real-world datasets, and its presence harms the training process of deep neural networks. Although several works have focused on the training strategies to address this problem, there are few studies that evaluate the impact of data augmentation as a design choice for training deep neural networks. In this work, we analyse the model robustness when using different data augmentations and their improvement on the training with the presence of noisy labels. We evaluate …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
