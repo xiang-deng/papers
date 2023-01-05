@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MIGPerf: A Comprehensive Benchmark for Deep Learning Training and Inference Workloads on Multi-Instance GPUs"
+date:   2023-01-04 14:44:31 -0400
+categories: jekyll update
+author: "H Zhang, Y Li, W Xiao, Y Huang, X Di, J Yin, S See… - arXiv preprint arXiv …, 2023"
+---
+New architecture GPUs like A100 are now equipped with multi-instance GPU (MIG) technology, which allows the GPU to be partitioned into multiple small, isolated instances. This technology provides more flexibility for users to support both deep learning training and inference workloads, but efficiently utilizing it can still be challenging. The vision of this paper is to provide a more comprehensive and practical benchmark study for MIG in order to eliminate the need for tedious manual …
+Cites: ‪Green AI‬

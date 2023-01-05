@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Auxiliary Loss for BERT-Based Paragraph Segmentation"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "B ZHUO, M MURATA, Q MA - IEICE TRANSACTIONS on Information and Systems, 2023"
----
-Paragraph segmentation is a text segmentation task. Iikura et al. achieved excellent results on paragraph segmentation by introducing focal loss to Bidirectional Encoder Representations from Transformers. In this study, we investigated paragraph segmentation on Daily News and Novel datasets. Based on the approach proposed by Iikura et al., we used auxiliary loss to train the model to improve paragraph segmentation performance. Consequently, the average F1-score obtained by the …
-Cites: ‪Deep contextualized word representations. arXiv 2018‬
+--- 
+layout: post 
+title: "Auxiliary Loss for BERT-Based Paragraph Segmentation" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "B ZHUO, M MURATA, Q MA - IEICE TRANSACTIONS on Information and Systems, 2023" 
+--- 
+Paragraph segmentation is a text segmentation task. Iikura et al. achieved excellent results on paragraph segmentation by introducing focal loss to Bidirectional Encoder Representations from Transformers. In this study, we investigated paragraph segmentation on Daily News and Novel datasets. Based on the approach proposed by Iikura et al., we used auxiliary loss to train the model to improve paragraph segmentation performance. Consequently, the average F1-score obtained by the  Cites: Deep contextualized word representations. arXiv 2018

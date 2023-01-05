@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "View and Index Selection on Graph Databases"
+date:   2023-01-04 14:44:31 -0400
+categories: jekyll update
+author: "KN Plas, T Mailis - 2022"
+---
+One of the most important aspects of native graph-database systems is their index-free adjacency property that enforces the nodes to have direct physical RAM addresses and physically point to other adjacent nodes. The index-free adjacency property accelerates query answering for queries that are bound to one (or more) specific nodes within the graph, namely anchor nodes. The corresponding anchor node is used as the starting point for answering the query by examining its adjacent …
+Cites: ‪A formal perspective on the view selection problem‬

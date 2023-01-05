@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-Scale Cell-Based Layout Representation for Document Understanding"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "Y Shi, M Kim, Y Chae - Proceedings of the IEEE/CVF Winter Conference on …, 2023"
----
-Deep learning techniques have achieved remarkable progress in document understanding. Most models use coordinates to represent absolute or relative spatial information of components, but they are difficult to represent latent rules in the document layout. This makes learning layout representation to be more difficult. Unlike the previous researches which have employed the coordinate system, graph or grid to represent the document layout, we propose a novel layout representation …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬
+--- 
+layout: post 
+title: "Multi-Scale Cell-Based Layout Representation for Document Understanding" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "Y Shi, M Kim, Y Chae - Proceedings of the IEEE/CVF Winter Conference on , 2023" 
+--- 
+Deep learning techniques have achieved remarkable progress in document understanding. Most models use coordinates to represent absolute or relative spatial information of components, but they are difficult to represent latent rules in the document layout. This makes learning layout representation to be more difficult. Unlike the previous researches which have employed the coordinate system, graph or grid to represent the document layout, we propose a novel layout representation  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

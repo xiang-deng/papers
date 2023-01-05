@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Black-box language model explanation by context length probing"
+date:   2023-01-04 14:44:31 -0400
+categories: jekyll update
+author: "O Cífka, A Liutkus - arXiv preprint arXiv:2212.14815, 2022"
+---
+The increasingly widespread adoption of large language models has highlighted the need for improving their explainability. We present context length probing, a novel explanation technique for causal language models, based on tracking the predictions of a model as a function of the length of available context, and allowing to assign differential importance scores to different contexts. The technique is model-agnostic and does not rely on access to model internals beyond computing token …
+Cites: ‪Universal dependencies v2: An evergrowing multilingual treebank …‬

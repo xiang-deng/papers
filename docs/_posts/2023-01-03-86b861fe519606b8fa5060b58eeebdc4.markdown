@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Modern graph neural networks do worse than classical greedy algorithms in solving combinatorial optimization problems like maximum independent set"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "MC Angelini, F Ricci-Tersenghi - Nature Machine Intelligence, 2022"
----
-The recent work by Schuetz et al. 1  Combinatorial optimization with physics-inspired graph neural networks  introduces a physics-inspired unsupervised graph neural network (GNN) to solve combinatorial optimization problems on sparse graphs. To test the performances of these GNNs, the authors show numerical results for two fundamental problems: the maximum cut and the maximum independent set (MIS), concluding “that the graph neural network optimizer performs on par or outperforms …
-Cites: ‪Learning a SAT solver from single-bit supervision‬
+--- 
+layout: post 
+title: "Modern graph neural networks do worse than classical greedy algorithms in solving combinatorial optimization problems like maximum independent set" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "MC Angelini, F Ricci-Tersenghi - Nature Machine Intelligence, 2022" 
+--- 
+The recent work by Schuetz et al. 1 Combinatorial optimization with physics-inspired graph neural networks introduces a physics-inspired unsupervised graph neural network (GNN) to solve combinatorial optimization problems on sparse graphs. To test the performances of these GNNs, the authors show numerical results for two fundamental problems: the maximum cut and the maximum independent set (MIS), concluding that the graph neural network optimizer performs on par or outperforms  Cites: Learning a SAT solver from single-bit supervision

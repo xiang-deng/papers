@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction"
+date:   2023-01-04 14:44:31 -0400
+categories: jekyll update
+author: "B Li, W Ye, J Zhang, S Zhang - arXiv preprint arXiv:2212.14270, 2022"
+---
+The typical way for relation extraction is fine-tuning large pre-trained language models on task-specific datasets, then selecting the label with the highest probability of the output distribution as the final prediction. However, the usage of the Top-k prediction set for a given sample is commonly overlooked. In this paper, we first reveal that the Top-k prediction set of a given sample contains useful information for predicting the correct label. To effectively utilizes the Top-k prediction set, we …
+Cites: ‪PTR: Prompt tuning with rules for text classification‬

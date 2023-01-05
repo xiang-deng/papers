@@ -1,9 +1,0 @@
----
-layout: post
-title:  "GLAD: A Global-to-Local Anomaly Detector"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "A Artola, Y Kolodziej, JM Morel, T Ehret - Proceedings of the IEEE/CVF Winter …, 2023"
----
-Learning to detect automatic anomalies in production plants remains a machine learning challenge. Since anomalies by definition cannot be learned, their detection must rely on a very accurate  normality model . To this aim, we introduce here a global-to-local Gaussian model for neural network features, learned from a set of normal images. This probabilistic model enables unsupervised anomaly detection. A global Gaussian mixture model of the features is first learned using all available …
-Cites: ‪Imagenet: A large-scale hierarchical image database, 2009‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-view subspace enhanced representation of manifold regularization and low-rank tensor constraint"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "G Liu, H Ge, T Li, S Su, S Wang - International Journal of Machine Learning and …, 2022"
----
-In this paper, to extract the manifold information from multi-view data and enhance the clustering performance of a multi-view learning method, the multi-view subspace enhanced representation of manifold regularization and low-rank tensor constraint (MSERMLRT) method is introduced. Our model uses a tensor to explore the correlation between views. The tensor is constrained with a low-rank, and the purpose of such processing is to reduce the redundant information of the learned …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬
+--- 
+layout: post 
+title: "Multi-view subspace enhanced representation of manifold regularization and low-rank tensor constraint" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "G Liu, H Ge, T Li, S Su, S Wang - International Journal of Machine Learning and , 2022" 
+--- 
+In this paper, to extract the manifold information from multi-view data and enhance the clustering performance of a multi-view learning method, the multi-view subspace enhanced representation of manifold regularization and low-rank tensor constraint (MSERMLRT) method is introduced. Our model uses a tensor to explore the correlation between views. The tensor is constrained with a low-rank, and the purpose of such processing is to reduce the redundant information of the learned  Cites: Learning with hypergraphs: Clustering, classification, and

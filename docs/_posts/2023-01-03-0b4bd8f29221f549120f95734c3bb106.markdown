@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Latent Structural Relations With Message Passing Prior"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "S Ren, H Fei, D Li, P Li - Proceedings of the IEEE/CVF Winter Conference on …, 2023"
----
-Learning disentangled representations is an important topic in machine learning with a wide range of applications. Disentangled latent variables represent interpretable semantic information and reflect separate factors of variation in data. Although generative models can learn latent representations as well, most existing models ignore the structural information among latent variables. In this paper, we propose a novel approach to learn the disentangled latent structural representations from data …
-Cites: ‪Adversarial example generation with syntactically controlled …‬
+--- 
+layout: post 
+title: "Learning Latent Structural Relations With Message Passing Prior" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "S Ren, H Fei, D Li, P Li - Proceedings of the IEEE/CVF Winter Conference on , 2023" 
+--- 
+Learning disentangled representations is an important topic in machine learning with a wide range of applications. Disentangled latent variables represent interpretable semantic information and reflect separate factors of variation in data. Although generative models can learn latent representations as well, most existing models ignore the structural information among latent variables. In this paper, we propose a novel approach to learn the disentangled latent structural representations from data  Cites: Adversarial example generation with syntactically controlled

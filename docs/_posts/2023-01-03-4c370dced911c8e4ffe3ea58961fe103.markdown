@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dynamic Mixture of Counter Network for Location-Agnostic Crowd Counting"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "M Wang, H Cai, Y Dai, M Gong - Proceedings of the IEEE/CVF Winter Conference on …, 2023"
----
-Crowd counting has attracted increasing attentions in recent years due to its challenges and wide societal applications. Despite persevering efforts made by the research community, most of existing methods require a large amount of location-level annotations. Collecting such type of fine-granularity supervisory signals is extremely time-consuming and labour-intensive, thereby hindering the well generalization of these location-adherent models. To shun this drawback, several …
-Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬
+--- 
+layout: post 
+title: "Dynamic Mixture of Counter Network for Location-Agnostic Crowd Counting" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "M Wang, H Cai, Y Dai, M Gong - Proceedings of the IEEE/CVF Winter Conference on , 2023" 
+--- 
+Crowd counting has attracted increasing attentions in recent years due to its challenges and wide societal applications. Despite persevering efforts made by the research community, most of existing methods require a large amount of location-level annotations. Collecting such type of fine-granularity supervisory signals is extremely time-consuming and labour-intensive, thereby hindering the well generalization of these location-adherent models. To shun this drawback, several  Cites: Coatnet: Marrying convolution and attention for all data sizes

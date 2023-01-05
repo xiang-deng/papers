@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Revisiting Multi-Label Propagation: the Case of Small Data"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "K Musayeva, M Binois - 2022"
----
-This paper focuses on multi-label learning from small number of labelled data. We demonstrate that the straightforward binary-relevance extension of the interpolated label propagation algorithm, the harmonic function, is a competitive learning method with respect to many widely-used evaluation measures. This is achieved mainly by a new transition matrix that better captures the underlying manifold structure. Furthermore, we show that when there exists label dependence, we can use the …
-Cites: ‪Learning from labeled and unlabeled data using random walks‬
+--- 
+layout: post 
+title: "Revisiting Multi-Label Propagation: the Case of Small Data" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "K Musayeva, M Binois - 2022" 
+--- 
+This paper focuses on multi-label learning from small number of labelled data. We demonstrate that the straightforward binary-relevance extension of the interpolated label propagation algorithm, the harmonic function, is a competitive learning method with respect to many widely-used evaluation measures. This is achieved mainly by a new transition matrix that better captures the underlying manifold structure. Furthermore, we show that when there exists label dependence, we can use the  Cites: Learning from labeled and unlabeled data using random walks

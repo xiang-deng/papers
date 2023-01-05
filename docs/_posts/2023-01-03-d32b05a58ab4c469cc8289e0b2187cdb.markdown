@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rich Short Text Conversation Using Semantic Key Controlled Sequence Generation"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "T RAMESH, MV RAMANA"
----
-With the recent advances of sequence-to-sequence framework, generation approaches for short text conversation (STC) become attractive. Traditional sequence-to-sequence ap-proaches for short text conversation often suffer from poor diversity and general reply without substantiality. It is also hard to control the topic or semantics of the selected reply from multiple generated candidates. In this paper, a novel external memory driven sequence-to-sequence learning approach is pro …
-Cites: ‪A knowledge-grounded neural conversation model‬
+--- 
+layout: post 
+title: "Rich Short Text Conversation Using Semantic Key Controlled Sequence Generation" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "T RAMESH, MV RAMANA" 
+--- 
+With the recent advances of sequence-to-sequence framework, generation approaches for short text conversation (STC) become attractive. Traditional sequence-to-sequence ap-proaches for short text conversation often suffer from poor diversity and general reply without substantiality. It is also hard to control the topic or semantics of the selected reply from multiple generated candidates. In this paper, a novel external memory driven sequence-to-sequence learning approach is pro  Cites: A knowledge-grounded neural conversation model

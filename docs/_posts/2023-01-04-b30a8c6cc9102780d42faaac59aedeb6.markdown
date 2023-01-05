@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient On-device Training via Gradient Filtering"
+date:   2023-01-04 14:44:31 -0400
+categories: jekyll update
+author: "Y Yang, G Li, R Marculescu - arXiv preprint arXiv:2301.00330, 2023"
+---
+Despite its importance for federated learning, continuous learning and many other applications, on-device training remains an open problem for EdgeAI. The problem stems from the large number of operations (eg, floating point multiplications and additions) and memory consumption required during training by the back-propagation algorithm. Consequently, in this paper, we propose a new gradient filtering approach which enables on-device DNN model training. More precisely, our …
+Cites: ‪Surgical Fine-Tuning Improves Adaptation to Distribution Shifts‬

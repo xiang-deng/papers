@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Hypergraph Neural Network Framework for Learning Hyperedge-Dependent Node Embeddings"
+date:   2023-01-04 14:44:31 -0400
+categories: jekyll update
+author: "R Aponte, RA Rossi, S Guo, J Hoffswell, N Lipka… - arXiv preprint arXiv …, 2022"
+---
+In this work, we introduce a hypergraph representation learning framework called Hypergraph Neural Networks (HNN) that jointly learns hyperedge embeddings along with a set of hyperedge-dependent embeddings for each node in the hypergraph. HNN derives multiple embeddings per node in the hypergraph where each embedding for a node is dependent on a specific hyperedge of that node. Notably, HNN is accurate, data-efficient, flexible with many interchangeable components, and …
+Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬

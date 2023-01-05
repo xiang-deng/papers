@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Approximate Execution Semantics From Traces for Binary Function Similarity"
-date:   2023-01-03 01:29:15 -0400
-categories: jekyll update
-author: "K Pei, Z Xuan, J Yang, S Jana, B Ray - IEEE Transactions on Software Engineering, 2022"
----
-Detecting semantically similar binary functions–a crucial capability with broad security usages including vulnerability detection, malware analysis, and forensics–requires understanding function behaviors and intentions. This task is challenging as semantically similar functions can be compiled to run on different architectures and with diverse compiler optimizations or obfuscations. Most existing approaches match functions based on syntactic features without understanding the functions  execution …
-Cites: ‪How can we know what language models know?‬
+--- 
+layout: post 
+title: "Learning Approximate Execution Semantics From Traces for Binary Function Similarity" 
+date: 2023-01-03 01:29:15 -0400 
+categories: jekyll update 
+author: "K Pei, Z Xuan, J Yang, S Jana, B Ray - IEEE Transactions on Software Engineering, 2022" 
+--- 
+Detecting semantically similar binary functionsa crucial capability with broad security usages including vulnerability detection, malware analysis, and forensicsrequires understanding function behaviors and intentions. This task is challenging as semantically similar functions can be compiled to run on different architectures and with diverse compiler optimizations or obfuscations. Most existing approaches match functions based on syntactic features without understanding the functions execution  Cites: How can we know what language models know?
