@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Analysis of Attention via the Lens of Exchangeability and Latent Variable Models"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "Y Zhang, B Liu, Q Cai, L Wang, Z Wang - arXiv preprint arXiv:2212.14852, 2022"
----
-With the attention mechanism, transformers achieve significant empirical successes. Despite the intuitive understanding that transformers perform relational inference over long sequences to produce desirable representations, we lack a rigorous theory on how the attention mechanism achieves it. In particular, several intriguing questions remain open:(a) What makes a desirable representation?(b) How does the attention mechanism infer the desirable representation within the forward pass?(c) …
-Cites: ‪What can transformers learn in-context? a case study of simple …‬
+--- 
+layout: post 
+title: "An Analysis of Attention via the Lens of Exchangeability and Latent Variable Models" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "Y Zhang, B Liu, Q Cai, L Wang, Z Wang - arXiv preprint arXiv:2212.14852, 2022" 
+--- 
+With the attention mechanism, transformers achieve significant empirical successes. Despite the intuitive understanding that transformers perform relational inference over long sequences to produce desirable representations, we lack a rigorous theory on how the attention mechanism achieves it. In particular, several intriguing questions remain open:(a) What makes a desirable representation?(b) How does the attention mechanism infer the desirable representation within the forward pass?(c)  Cites: What can transformers learn in-context? a case study of simple

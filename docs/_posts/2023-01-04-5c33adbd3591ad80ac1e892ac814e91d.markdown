@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Learning for Neural Machine Translation"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "N Vashistha, K Singh, R Shakya - arXiv preprint arXiv:2301.00688, 2022"
----
-The machine translation mechanism translates texts automatically between different natural languages, and Neural Machine Translation (NMT) has gained attention for its rational context analysis and fluent translation accuracy. However, processing low-resource languages that lack relevant training attributes like supervised data is a current challenge for Natural Language Processing (NLP). We incorporated a technique known Active Learning with the NMT toolkit Joey NMT to reach sufficient …
-Cites: ‪Reinforcement learning for bandit neural machine translation with …‬
+--- 
+layout: post 
+title: "Active Learning for Neural Machine Translation" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "N Vashistha, K Singh, R Shakya - arXiv preprint arXiv:2301.00688, 2022" 
+--- 
+The machine translation mechanism translates texts automatically between different natural languages, and Neural Machine Translation (NMT) has gained attention for its rational context analysis and fluent translation accuracy. However, processing low-resource languages that lack relevant training attributes like supervised data is a current challenge for Natural Language Processing (NLP). We incorporated a technique known Active Learning with the NMT toolkit Joey NMT to reach sufficient  Cites: Reinforcement learning for bandit neural machine translation with

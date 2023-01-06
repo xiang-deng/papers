@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Skew Class-balanced Re-weighting for Unbiased Scene Graph Generation"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "H Kang, CD Yoo - arXiv preprint arXiv:2301.00351, 2023"
----
-An unbiased scene graph generation (SGG) algorithm referred to as Skew Class-balanced Re-weighting (SCR) is proposed for considering the unbiased predicate prediction caused by the long-tailed distribution. The prior works focus mainly on alleviating the deteriorating performances of the minority predicate predictions, showing drastic dropping recall scores, ie, losing the majority predicate performances. It has not yet correctly analyzed the trade-off between majority and …
-Cites: ‪Fine-Grained Scene Graph Generation with Data Transfer‬
+--- 
+layout: post 
+title: "Skew Class-balanced Re-weighting for Unbiased Scene Graph Generation" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "H Kang, CD Yoo - arXiv preprint arXiv:2301.00351, 2023" 
+--- 
+An unbiased scene graph generation (SGG) algorithm referred to as Skew Class-balanced Re-weighting (SCR) is proposed for considering the unbiased predicate prediction caused by the long-tailed distribution. The prior works focus mainly on alleviating the deteriorating performances of the minority predicate predictions, showing drastic dropping recall scores, ie, losing the majority predicate performances. It has not yet correctly analyzed the trade-off between majority and  Cites: Fine-Grained Scene Graph Generation with Data Transfer

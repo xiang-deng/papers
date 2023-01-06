@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A deep learning framework for analyzing cloud characteristics of aggregated convection using cloud-resolving model simulations"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "YC Chen, CM Wu, WT Chen - Atmospheric Science Letters, 2023"
----
-This study introduces a framework to extract the high-dimensional nonlinear relationships among state variables for aggregated convection. The prototype of such a framework is developed that applies the convolutional neural network models (CNN models) to retrieve the cloud characteristics from cloud-resolving model (CRM) simulations. CNN model prediction factors are hidden in the high dimensional weighted parameters in each neural network layer. Therefore, we can dig out …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "A deep learning framework for analyzing cloud characteristics of aggregated convection using cloud-resolving model simulations" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "YC Chen, CM Wu, WT Chen - Atmospheric Science Letters, 2023" 
+--- 
+This study introduces a framework to extract the high-dimensional nonlinear relationships among state variables for aggregated convection. The prototype of such a framework is developed that applies the convolutional neural network models (CNN models) to retrieve the cloud characteristics from cloud-resolving model (CRM) simulations. CNN model prediction factors are hidden in the high dimensional weighted parameters in each neural network layer. Therefore, we can dig out  Cites: Why Should I Trust You? : Explaining the Predictions of Any

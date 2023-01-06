@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FAD: Feature Alignment Discriminator for Abstractive Text Summarization"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "Z Pan, M Wu, J Liu"
----
-Existing abstractive approaches for automatic text summarization have shown low preciseness and coherence in their generated summaries. In this paper, we present a special fine-tuning process for text generators like BART with the FAD, the Feature Alignment Discriminator. We propose that with the token replacement detecting mechanism in feature space, the FAD greatly addresses problems of discreteness in adversarial learning for NLP and better captures the word distribution of the original …
-Cites: ‪Muppet: Massive multi-task representations with pre-finetuning‬
+--- 
+layout: post 
+title: "FAD: Feature Alignment Discriminator for Abstractive Text Summarization" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "Z Pan, M Wu, J Liu" 
+--- 
+Existing abstractive approaches for automatic text summarization have shown low preciseness and coherence in their generated summaries. In this paper, we present a special fine-tuning process for text generators like BART with the FAD, the Feature Alignment Discriminator. We propose that with the token replacement detecting mechanism in feature space, the FAD greatly addresses problems of discreteness in adversarial learning for NLP and better captures the word distribution of the original  Cites: Muppet: Massive multi-task representations with pre-finetuning

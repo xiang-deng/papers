@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tsetlin Machine Embedding: Representing Words Using Logical Expressions"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "B Bhattarai, OC Granmo, L Jiao, R Yadav, J Sharma - arXiv preprint arXiv:2301.00709, 2023"
----
-Embedding words in vector space is a fundamental first step in state-of-the-art natural language processing (NLP). Typical NLP solutions employ pre-defined vector representations to improve generalization by co-locating similar words in vector space. For instance, Word2Vec is a self-supervised predictive model that captures the context of words using a neural network. Similarly, GLoVe is a popular unsupervised model incorporating corpus-wide word co-occurrence statistics. Such …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Tsetlin Machine Embedding: Representing Words Using Logical Expressions" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "B Bhattarai, OC Granmo, L Jiao, R Yadav, J Sharma - arXiv preprint arXiv:2301.00709, 2023" 
+--- 
+Embedding words in vector space is a fundamental first step in state-of-the-art natural language processing (NLP). Typical NLP solutions employ pre-defined vector representations to improve generalization by co-locating similar words in vector space. For instance, Word2Vec is a self-supervised predictive model that captures the context of words using a neural network. Similarly, GLoVe is a popular unsupervised model incorporating corpus-wide word co-occurrence statistics. Such  Cites: Deep contextualized word representations

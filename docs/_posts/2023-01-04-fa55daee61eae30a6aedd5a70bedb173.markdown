@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "CJ Reed, R Gupta, S Li, S Brockman, C Funk, B Clipp… - arXiv preprint arXiv …, 2022"
----
-Remote sensing imagery provides comprehensive views of the Earth, where different sensors collect complementary data at different spatial scales. Large, pretrained models are commonly finetuned with imagery that is heavily augmented to mimic different conditions and scales, with the resulting models used for various tasks with imagery from a range of spatial scales. Such models overlook scale-specific information in the data. In this paper, we present Scale-MAE, a pretraining method …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "CJ Reed, R Gupta, S Li, S Brockman, C Funk, B Clipp - arXiv preprint arXiv , 2022" 
+--- 
+Remote sensing imagery provides comprehensive views of the Earth, where different sensors collect complementary data at different spatial scales. Large, pretrained models are commonly finetuned with imagery that is heavily augmented to mimic different conditions and scales, with the resulting models used for various tasks with imagery from a range of spatial scales. Such models overlook scale-specific information in the data. In this paper, we present Scale-MAE, a pretraining method  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

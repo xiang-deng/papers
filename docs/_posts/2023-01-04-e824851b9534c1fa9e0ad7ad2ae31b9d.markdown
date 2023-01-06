@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Visual Representation Learning through Perceptual Understanding"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "S Tukra, F Hoffman, K Chatfield - arXiv preprint arXiv:2212.14504, 2022"
----
-We present an extension to masked autoencoders (MAE) which improves on the representations learnt by the model by explicitly encouraging the learning of higher scene-level features. We do this by:(i) the introduction of a perceptual similarity term between generated and real images (ii) incorporating several techniques from the adversarial training literature including multi-scale training and adaptive discriminator augmentation. The combination of these results in not only better pixel …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬
+--- 
+layout: post 
+title: "Improving Visual Representation Learning through Perceptual Understanding" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "S Tukra, F Hoffman, K Chatfield - arXiv preprint arXiv:2212.14504, 2022" 
+--- 
+We present an extension to masked autoencoders (MAE) which improves on the representations learnt by the model by explicitly encouraging the learning of higher scene-level features. We do this by:(i) the introduction of a perceptual similarity term between generated and real images (ii) incorporating several techniques from the adversarial training literature including multi-scale training and adaptive discriminator augmentation. The combination of these results in not only better pixel  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

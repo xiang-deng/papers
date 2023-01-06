@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Comparative Study of Sentence Embeddings for Unsupervised Extractive Multi-Document Summarization"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "S Lamsiyah, C Schommer"
----
-Obtaining large-scale and high-quality training data for multidocument summarization (MDS) tasks is time-consuming and resourceintensive, hence, supervised models can only be applied to limited domains and languages. In this paper, we introduce unsupervised extractive methods for both generic and query-focused MDS tasks, intending to produce a relevant summary from a collection of documents without using labeled training data or domain knowledge. More …
-Cites: ‪Deep Unordered Composition Rivals Syntactic Methods for Text …‬
+--- 
+layout: post 
+title: "A Comparative Study of Sentence Embeddings for Unsupervised Extractive Multi-Document Summarization" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "S Lamsiyah, C Schommer" 
+--- 
+Obtaining large-scale and high-quality training data for multidocument summarization (MDS) tasks is time-consuming and resourceintensive, hence, supervised models can only be applied to limited domains and languages. In this paper, we introduce unsupervised extractive methods for both generic and query-focused MDS tasks, intending to produce a relevant summary from a collection of documents without using labeled training data or domain knowledge. More  Cites: Deep Unordered Composition Rivals Syntactic Methods for Text

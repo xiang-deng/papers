@@ -1,9 +1,0 @@
----
-layout: post
-title:  "ChatGPT: What can large pretrained language models say about the future?"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "M Tutek"
----
-● Flavors of transfer learning in PLMs○ Vanilla fine-tuning [Howard&Ruder, 2018](add extra layers, train on task)○ Adapters [Pfeiffer et al, 2020](add extra layers within model, freeze model, train on task)○ Prompting [Radford et al, 2018](prefix text to model which will make it generate answer)
-Cites: ‪Language models as knowledge bases?‬

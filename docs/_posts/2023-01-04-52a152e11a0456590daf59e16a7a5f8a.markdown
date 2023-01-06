@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DDCNet: A Lightweight Network with Variable Receptive Field for Real-Time Portrait Segmentation in Complex Environment"
-date:   2023-01-04 14:44:31 -0400
-categories: jekyll update
-author: "D Huang, D Wu, J Liu, Y Lv - Computer Graphics International Conference, 2022"
----
-Due to the complex and diverse structure of the portrait boundary, it is a great challenge to segment the portrait from the natural background efficiently and accurately. We propose a new lightweight real-time semantic segmentation network-DDCNet, for portrait segmentation in complex background. Firstly, we propose a deformable depthwise separable convolution block, which combines deformable convolution with depthwise separable convolution, so that the network can fully …
-Cites: ‪Espnet: Efficient spatial pyramid of dilated convolutions for …‬
+--- 
+layout: post 
+title: "DDCNet: A Lightweight Network with Variable Receptive Field for Real-Time Portrait Segmentation in Complex Environment" 
+date: 2023-01-04 14:44:31 -0400 
+categories: jekyll update 
+author: "D Huang, D Wu, J Liu, Y Lv - Computer Graphics International Conference, 2022" 
+--- 
+Due to the complex and diverse structure of the portrait boundary, it is a great challenge to segment the portrait from the natural background efficiently and accurately. We propose a new lightweight real-time semantic segmentation network-DDCNet, for portrait segmentation in complex background. Firstly, we propose a deformable depthwise separable convolution block, which combines deformable convolution with depthwise separable convolution, so that the network can fully  Cites: Espnet: Efficient spatial pyramid of dilated convolutions for
