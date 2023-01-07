@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binaries"
+date:   2023-01-06 12:31:49 -0400
+categories: jekyll update
+author: "A Al-Kaswan, T Ahmed, M Izadi, AA Sawant… - arXiv preprint arXiv …, 2023"
+---
+Reverse engineering binaries is required to understand and analyse programs for which the source code is unavailable. Decompilers can transform the largely unreadable binaries into a more readable source code-like representation. However, reverse engineering is time-consuming, much of which is taken up by labelling the functions with semantic information. While the automated summarisation of decompiled code can help Reverse Engineers understand and analyse binaries …
+Cites: ‪DIRE: A Neural Approach to Decompiled Identifier Naming‬

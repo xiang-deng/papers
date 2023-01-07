@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semi-Structured Object Sequence Encoders"
+date:   2023-01-06 12:31:49 -0400
+categories: jekyll update
+author: "R Murthy V, R Bhat, C Gunasekara, H Wan… - arXiv preprint arXiv …, 2023"
+---
+In this paper we explore the task of modeling (semi) structured object sequences; in particular we focus our attention on the problem of developing a structure-aware input representation for such sequences. In such sequences, we assume that each structured object is represented by a set of key-value pairs which encode the attributes of the structured object. Given a universe of keys, a sequence of structured objects can then be viewed as an evolution of the values for each key, over time. We …
+Cites: ‪TABBIE: Pretrained Representations of Tabular Data‬

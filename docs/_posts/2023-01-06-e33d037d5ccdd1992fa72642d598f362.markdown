@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "基于混合深度学习框架的气胸图像分类算法"
+date:   2023-01-06 12:31:49 -0400
+categories: jekyll update
+author: "王剑， 樊敏 - 计算机与数字工程, 2022"
+---
+摘要为了更好地解决卷积神经网络(CNN) 其有限的局部感受野, 限制其在气胸图像分类中的性能等问题, 提出一种基于CNN 和Vision Transformer 的气胸分类模型. 首先, 依托三个开源胸部数据集完成实验数据的清洗与收集, 然后, 将VIT-L/16 的MLP 模块进行改进, 最后, 利用改进的VIT 模型与CNN 模型进行加权分类得到最终的结果. 实验结果表明该模型在二分类任务中达到了99% 的准确率, 以及0.99 的AUC 分数, 与其它模型相比, 具有更好的分类性能.
+Cites: ‪Deep contextualized word representations‬

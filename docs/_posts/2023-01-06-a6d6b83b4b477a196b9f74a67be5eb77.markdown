@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Betty: Enabling Large-Scale GNN Training with Batch-Level Graph Partitioning"
+date:   2023-01-06 12:31:49 -0400
+categories: jekyll update
+author: "S Yang, M Zhang, W Dong, D Li - 2023"
+---
+ABSTRACT The Graph Neural Network (GNN) is showing outstanding results in improving the performance of graph-based applications. Recent studies demonstrate that GNN performance can be boosted via using more advanced aggregators, deeper aggregation depth, larger sampling rate, etc. While leading to promising results, the improvements come at a cost of significantly increased memory footprint, easily exceeding GPU memory capacity. In this paper, we introduce a method, Betty …
+Cites: ‪Representing Schema Structure with Graph Neural Networks for …‬

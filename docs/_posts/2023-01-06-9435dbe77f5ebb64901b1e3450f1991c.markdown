@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fairness–accuracy tradeoff: activation function choice in a neural network"
+date:   2023-01-06 12:31:49 -0400
+categories: jekyll update
+author: "MB McCarthy, S Narayanan - AI and Ethics, 2023"
+---
+Abstract Models can have different outcomes based on the different types of inputs; the training data used to build the model will change its output (a data-centric outcome), while the hyperparameter selection can also affect the model s output and performance (a model-centric outcome). When building classification models, data scientists generally focus on model performance as the key metric, often focusing on accuracy. However, other metrics should be considered during model development …
+Cites: ‪Fine-Tuning Pretrained Language Models: Weight Initializations‬

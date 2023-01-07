@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "WLD-Reg: A Data-dependent Within-layer Diversity Regularizer"
+date:   2023-01-06 12:31:49 -0400
+categories: jekyll update
+author: "F Laakom, J Raitoharju, A Iosifidis, M Gabbouj - arXiv preprint arXiv:2301.01352, 2023"
+---
+Neural networks are composed of multiple layers arranged in a hierarchical structure jointly trained with a gradient-based optimization, where the errors are back-propagated from the last layer back to the first one. At each optimization step, neurons at a given layer receive feedback from neurons belonging to higher layers of the hierarchy. In this paper, we propose to complement this traditional between-layer feedback with additional within-layer feedback to encourage the diversity of the …
+Cites: ‪Pay attention to mlps‬

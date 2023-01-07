@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards the Identifiability in Noisy Label Learning: A Multinomial Mixture Approach"
+date:   2023-01-06 12:31:49 -0400
+categories: jekyll update
+author: "C Nguyen, TT Do, G Carneiro - arXiv preprint arXiv:2301.01405, 2023"
+---
+Learning from noisy labels plays an important role in the deep learning era. Despite numerous studies with promising results, identifying clean labels from a noisily-annotated dataset is still challenging since the conventional noisy label learning problem with single noisy label per instance is not identifiable, ie, it does not theoretically have a unique solution unless one has access to clean labels or introduces additional assumptions. This paper aims to formally investigate such …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
