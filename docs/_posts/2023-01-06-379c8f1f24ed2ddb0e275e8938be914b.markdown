@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "D Nagumothu, B Ofoghi, G Huang, PW Eklund - arXiv preprint arXiv:2301.01064, 2023"
----
-Supervised Question Answering systems (QA systems) rely on domain-specific human-labeled data for training. Unsupervised QA systems generate their own question-answer training pairs, typically using secondary knowledge sources to achieve this outcome. Our approach (called PIE-QG) uses Open Information Extraction (OpenIE) to generate synthetic training questions from paraphrased passages and uses the question-answer pairs as training data for a language model …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬
+--- 
+layout: post 
+title: "PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora" 
+date: 2023-01-06 12:31:49 -0400 
+categories: jekyll update 
+author: "D Nagumothu, B Ofoghi, G Huang, PW Eklund - arXiv preprint arXiv:2301.01064, 2023" 
+--- 
+Supervised Question Answering systems (QA systems) rely on domain-specific human-labeled data for training. Unsupervised QA systems generate their own question-answer training pairs, typically using secondary knowledge sources to achieve this outcome. Our approach (called PIE-QG) uses Open Information Extraction (OpenIE) to generate synthetic training questions from paraphrased passages and uses the question-answer pairs as training data for a language model  Cites: MRQA 2019 Shared Task: Evaluating Generalization in Reading

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Event Detection as Multi-Task Text Generation"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "U Anantheswaran - 2022"
----
-Event detection refers to the task of identifying event occurrences in a given natural language text. Event detection comprises two subtasks; recognizing event mention (event identification) and the type of event (event classification). Breaking from the sequence labeling and word classification approaches, this work models event detection, and its constituent subtasks of trigger identification and trigger classification, as independent sequence generation tasks. This work proposes a …
-Cites: ‪Super-naturalinstructions: Generalization via declarative …‬

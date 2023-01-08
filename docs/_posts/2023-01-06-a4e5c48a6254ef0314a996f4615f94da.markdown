@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-Task Learning with Prior Information"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "M Zhang, K Liu - arXiv preprint arXiv:2301.01572, 2023"
----
-Multi-task learning aims to boost the generalization performance of multiple related tasks simultaneously by leveraging information contained in those tasks. In this paper, we propose a multi-task learning framework, where we utilize prior knowledge about the relations between features. We also impose a penalty on the coefficients changing for each specific feature to ensure related tasks have similar coefficients on common features shared among them. In addition, we capture a common set of …
-Cites: ‪BAM! Born-Again Multi-Task Networks for Natural Language …‬
+--- 
+layout: post 
+title: "Multi-Task Learning with Prior Information" 
+date: 2023-01-06 12:31:49 -0400 
+categories: jekyll update 
+author: "M Zhang, K Liu - arXiv preprint arXiv:2301.01572, 2023" 
+--- 
+Multi-task learning aims to boost the generalization performance of multiple related tasks simultaneously by leveraging information contained in those tasks. In this paper, we propose a multi-task learning framework, where we utilize prior knowledge about the relations between features. We also impose a penalty on the coefficients changing for each specific feature to ensure related tasks have similar coefficients on common features shared among them. In addition, we capture a common set of  Cites: BAM! Born-Again Multi-Task Networks for Natural Language

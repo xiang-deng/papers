@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ClusTop: An unsupervised and integrated text clustering and topic extraction framework"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "Z Chen, C Mi, S Duo, J He, Y Zhou - arXiv preprint arXiv:2301.00818, 2023"
----
-Text clustering and topic extraction are two important tasks in text mining. Usually, these two tasks are performed separately. For topic extraction to facilitate clustering, we can first project texts into a topic space and then perform a clustering algorithm to obtain clusters. To promote topic extraction by clustering, we can first obtain clusters with a clustering algorithm and then extract cluster-specific topics. However, this naive strategy ignores the fact that text clustering and topic extraction are strongly …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "ClusTop: An unsupervised and integrated text clustering and topic extraction framework" 
+date: 2023-01-06 12:31:49 -0400 
+categories: jekyll update 
+author: "Z Chen, C Mi, S Duo, J He, Y Zhou - arXiv preprint arXiv:2301.00818, 2023" 
+--- 
+Text clustering and topic extraction are two important tasks in text mining. Usually, these two tasks are performed separately. For topic extraction to facilitate clustering, we can first project texts into a topic space and then perform a clustering algorithm to obtain clusters. To promote topic extraction by clustering, we can first obtain clusters with a clustering algorithm and then extract cluster-specific topics. However, this naive strategy ignores the fact that text clustering and topic extraction are strongly  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

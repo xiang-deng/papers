@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rethinking Mobile Block for Efficient Neural Models"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "J Zhang, X Li, J Li, L Liu, Z Xue, B Zhang, Z Jiang… - arXiv preprint arXiv …, 2023"
----
-This paper focuses on designing efficient models with low parameters and FLOPs for dense predictions. Even though CNN-based lightweight methods have achieved stunning results after years of research, trading-off model accuracy and constrained resources still need further improvements. This work rethinks the essential unity of efficient Inverted Residual Block in MobileNetv2 and effective Transformer in ViT, inductively abstracting a general concept of Meta-Mobile Block, and we argue that …
-Cites: ‪Delight: Deep and light-weight transformer‬
+--- 
+layout: post 
+title: "Rethinking Mobile Block for Efficient Neural Models" 
+date: 2023-01-06 12:31:49 -0400 
+categories: jekyll update 
+author: "J Zhang, X Li, J Li, L Liu, Z Xue, B Zhang, Z Jiang - arXiv preprint arXiv , 2023" 
+--- 
+This paper focuses on designing efficient models with low parameters and FLOPs for dense predictions. Even though CNN-based lightweight methods have achieved stunning results after years of research, trading-off model accuracy and constrained resources still need further improvements. This work rethinks the essential unity of efficient Inverted Residual Block in MobileNetv2 and effective Transformer in ViT, inductively abstracting a general concept of Meta-Mobile Block, and we argue that  Cites: Delight: Deep and light-weight transformer

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bravely Say I Don t Know: Relational Question-Schema Graph for Text-to-SQL Answerability Classification"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "W Yu, H Yang, M Wang, X Wang - ACM Transactions on Asian and Low-Resource …, 2023"
----
-Recently, the Text-to-SQL task receives much attention. Many sophisticated neural models are invented and achieve significant results. Most current work assumes that all the inputs are legal and model should generate a SQL query for any input. However, in the real scenario, users are allowed to enter the arbitrary text that may not be answered by a SQL query. In this paper, we focus on the issue—answerability classification for the Text-to-SQL system—that aims to distinguish the answerability of …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Bravely Say I Don t Know: Relational Question-Schema Graph for Text-to-SQL Answerability Classification" 
+date: 2023-01-06 12:31:49 -0400 
+categories: jekyll update 
+author: "W Yu, H Yang, M Wang, X Wang - ACM Transactions on Asian and Low-Resource , 2023" 
+--- 
+Recently, the Text-to-SQL task receives much attention. Many sophisticated neural models are invented and achieve significant results. Most current work assumes that all the inputs are legal and model should generate a SQL query for any input. However, in the real scenario, users are allowed to enter the arbitrary text that may not be answered by a SQL query. In this paper, we focus on the issueanswerability classification for the Text-to-SQL systemthat aims to distinguish the answerability of  Cites: Deep contextualized word representations

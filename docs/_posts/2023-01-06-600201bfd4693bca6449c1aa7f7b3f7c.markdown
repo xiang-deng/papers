@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Joint learning system based on semi–pseudo–label reliability assessment for weak–fault diagnosis with few labels"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "D Gao, Y Zhu, K Yan, H Fu, Z Ren, W Kang, CG Soares - Mechanical Systems and …, 2023"
----
-Deep neural networks exhibit excellent performance in fault feature extraction for considerable amounts of data. However, data labeling is a difficult task in practical engineering, which may lead to problems in fault diagnosis particularly when faults are weak. To resolve the foregoing, a semi–pseudo–labeling diagnosis system is proposed in this paper. The proposed system considers the confidence and reliability of samples to cope with situations where labels are insufficient and faults are weak …
-Cites: ‪Meta pseudo labels‬
+--- 
+layout: post 
+title: "Joint learning system based on semipseudolabel reliability assessment for weakfault diagnosis with few labels" 
+date: 2023-01-06 12:31:49 -0400 
+categories: jekyll update 
+author: "D Gao, Y Zhu, K Yan, H Fu, Z Ren, W Kang, CG Soares - Mechanical Systems and , 2023" 
+--- 
+Deep neural networks exhibit excellent performance in fault feature extraction for considerable amounts of data. However, data labeling is a difficult task in practical engineering, which may lead to problems in fault diagnosis particularly when faults are weak. To resolve the foregoing, a semipseudolabeling diagnosis system is proposed in this paper. The proposed system considers the confidence and reliability of samples to cope with situations where labels are insufficient and faults are weak  Cites: Meta pseudo labels

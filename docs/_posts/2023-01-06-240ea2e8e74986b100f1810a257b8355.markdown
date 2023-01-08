@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Accurate Multi-view Clustering by Exploiting Within-view High-order Affinities through Tensor Self-representation"
-date:   2023-01-06 12:31:49 -0400
-categories: jekyll update
-author: "H Wang, J Chen, B Zhang, H Cai - 2022 IEEE International Conference on …, 2022"
----
-Multi-view clustering divides data into their under-lying partitions by exploiting multiple views information. Popular approaches leverage cross-view information by self-expressive tensor learning and then learn a low-rank or sparse essential representation tensor for capturing the global structure of multi-view data. However, this process may encounter instability due to the lack of protection for local within-view structures. To overcome this problem, this paper proposes a unified L ow-rank …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬
+--- 
+layout: post 
+title: "Accurate Multi-view Clustering by Exploiting Within-view High-order Affinities through Tensor Self-representation" 
+date: 2023-01-06 12:31:49 -0400 
+categories: jekyll update 
+author: "H Wang, J Chen, B Zhang, H Cai - 2022 IEEE International Conference on , 2022" 
+--- 
+Multi-view clustering divides data into their under-lying partitions by exploiting multiple views information. Popular approaches leverage cross-view information by self-expressive tensor learning and then learn a low-rank or sparse essential representation tensor for capturing the global structure of multi-view data. However, this process may encounter instability due to the lack of protection for local within-view structures. To overcome this problem, this paper proposes a unified L ow-rank  Cites: Learning with hypergraphs: Clustering, classification, and
