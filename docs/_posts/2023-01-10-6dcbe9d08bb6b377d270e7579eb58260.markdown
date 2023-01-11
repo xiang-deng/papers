@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Emotion-Cause Pair Extraction as Question Answering"
+date:   2023-01-10 01:37:31 -0400
+categories: jekyll update
+author: "HH Nguyen, MT Nguyen - arXiv preprint arXiv:2301.01982, 2023"
+---
+The task of Emotion-Cause Pair Extraction (ECPE) aims to extract all potential emotion-cause pairs of a document without any annotation of emotion or cause clauses. Previous approaches on ECPE have tried to improve conventional two-step processing schemes by using complex architectures for modeling emotion-cause interaction. In this paper, we cast the ECPE task to the question answering (QA) problem and propose simple yet effective BERT-based solutions to tackle it. Given a …
+Cites: ‪Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter …‬

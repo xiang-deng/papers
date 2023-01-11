@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adaptive Perspective Distillation for Semantic Segmentation"
+date:   2023-01-10 01:37:31 -0400
+categories: jekyll update
+author: "Z Tian, P Chen, X Lai, L Jiang, S Liu, H Zhao, B Yu… - IEEE Transactions on …, 2022"
+---
+Strong semantic segmentation models require large backbones to achieve promising performance, making it hard to adapt to real applications where effective real-time algorithms are needed. Knowledge distillation tackles this issue by letting the smaller model (student) produce similar pixel-wise predictions to that of a larger model (teacher). However, the classifier, which can be deemed as the perspective by which models perceive the encoded features for yielding observations (ie, predictions), is …
+Cites: ‪Efficientnet: Rethinking model scaling for convolutional neural …‬

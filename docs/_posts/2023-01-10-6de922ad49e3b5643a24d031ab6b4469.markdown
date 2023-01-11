@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Evaluating software user feedback classifier performance on unseen apps, datasets, and metadata"
+date:   2023-01-10 01:37:31 -0400
+categories: jekyll update
+author: "P Devine, YS Koh, K Blincoe - Empirical Software Engineering, 2023"
+---
+Understanding users  needs is crucial to building and maintaining high quality software. Online software user feedback has been shown to contain large amounts of information useful to requirements engineering (RE). Previous studies have created machine learning classifiers for parsing this feedback for development insight. While these classifiers report generally good performance when evaluated on a test set, questions remain as to how well they extend to unseen data in various forms. This …
+Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ELANet: Effective Lightweight Attention-Guided Network for Real-Time Semantic Segmentation"
+date:   2023-01-10 01:37:31 -0400
+categories: jekyll update
+author: "Q Yi, G Dai, M Shi, Z Huang, A Luo - Neural Processing Letters, 2023"
+---
+Deep neural networks have greatly facilitated the applications of semantic segmentation. However, most of the existing neural networks bring massive calculations with lots of model parameters for achieving a higher precision, which is unaffordable for resource-constrained edge devices. To achieve an appropriate trade-off between computing efficiency and segmentation accuracy, we proposed an effective lightweight attention-guided network (ELANet) for real-time semantic …
+Cites: ‪Espnet: Efficient spatial pyramid of dilated convolutions for …‬

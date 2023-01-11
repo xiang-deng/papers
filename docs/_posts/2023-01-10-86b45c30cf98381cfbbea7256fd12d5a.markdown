@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "HAMMER: Hardware-Friendly Approximate Computing for Self-attention With Mean-Redistribution and Linearization"
+date:   2023-01-10 01:37:31 -0400
+categories: jekyll update
+author: "S Lee, R Hwang, J Park, M Rhu - IEEE Computer Architecture Letters, 2023"
+---
+The recent advancement of the natural language processing (NLP) models is the result of the ever-increasing model size and datasets. Most of these modern NLP models adopt the Transformer based model architecture, whose main bottleneck is exhibited in the self-attention mechanism. As the computation required for self-attention increases rapidly as the model size gets larger, self-attentions have been the main challenge for deploying NLP models. Consequently, there are several prior …
+Cites: ‪Know what you don t know: Unanswerable questions for SQuAD‬

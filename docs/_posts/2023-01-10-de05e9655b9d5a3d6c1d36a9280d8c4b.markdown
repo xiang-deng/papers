@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BRR-QA: Boosting Ranking and Reading in Open-Domain Question Answering"
+date:   2023-01-10 01:37:31 -0400
+categories: jekyll update
+author: "M Singh, M Shrivastava - Proceedings of the 6th Joint International Conference …, 2023"
+---
+Open-domain question qnswering (OpenQA) involves a retriever for selecting relevant passages from large text corpora (eg Wikipedia) and a reading comprehension (RC) model for extracting answers from these retrieved passages. The retrieved passages are often noisy. Since OpenQA relies heavily on efficient passages for better answer prediction, many passage ranker models have been proposed to filter out noisy passages. However, their performance is limited because …
+Cites: ‪Dense passage retrieval for open-domain question answering‬

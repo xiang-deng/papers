@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Instance-based Explanations for Gradient Boosting Machine Predictions with AXIL Weights"
+date:   2023-01-10 01:37:31 -0400
+categories: jekyll update
+author: "P Geertsema, H Lu - arXiv preprint arXiv:2301.01864, 2023"
+---
+We show that regression predictions from linear and tree-based models can be represented as linear combinations of target instances in the training data. This also holds for models constructed as ensembles of trees, including Random Forests and Gradient Boosting Machines. The weights used in these linear combinations are measures of instance importance, complementing existing measures of feature importance, such as SHAP and LIME. We refer to these measures as AXIL weights …
+Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
