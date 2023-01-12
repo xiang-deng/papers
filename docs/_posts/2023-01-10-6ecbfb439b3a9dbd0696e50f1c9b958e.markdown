@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A multiscale feature fusion method for cursive text detection in natural scene images"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "AA Chandio, M Leghari, MA Soomro, SZ Nizamani… - The Imaging Science …, 2023"
----
-Text detection in natural images is a challenging problem due to variations in text size, aspect ratio, alignment and background complexity. This paper proposes a multiscale feature fusion convolutional neural network method to detect cursive and multi-language text in natural images. The proposed method combines VGG-16 features at multi-scales and multi-layers and creates a new convolutional feature map of shallow and deep layers. On top of convolutional feature map, a vertical text …
-Cites: ‪Learning phrase representations using RNN encoder-decoder for …‬
+--- 
+layout: post 
+title: "A multiscale feature fusion method for cursive text detection in natural scene images" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "AA Chandio, M Leghari, MA Soomro, SZ Nizamani - The Imaging Science , 2023" 
+--- 
+Text detection in natural images is a challenging problem due to variations in text size, aspect ratio, alignment and background complexity. This paper proposes a multiscale feature fusion convolutional neural network method to detect cursive and multi-language text in natural images. The proposed method combines VGG-16 features at multi-scales and multi-layers and creates a new convolutional feature map of shallow and deep layers. On top of convolutional feature map, a vertical text  Cites: Learning phrase representations using RNN encoder-decoder for

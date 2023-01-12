@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Solving age-word problems using domain ontology and BERT"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "A Gupta, S Kumar, S Kumar P - Proceedings of the 6th Joint International Conference …, 2023"
----
-An age word problem (ageWP) typically involves sentences that express relationships between the age of the agents and asks for the age of one of them. Automatically solving ageWPs is a challenging task as we need to tackle temporal relationships between the agent s ages, frame and solve the equations for the required unknowns. To the best of our knowledge, there exists only one ageWP dataset consisting of just 124 examples. The dataset is too small to employ a …
-Cites: ‪Mapping to declarative knowledge for word problem solving‬
+--- 
+layout: post 
+title: "Solving age-word problems using domain ontology and BERT" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "A Gupta, S Kumar, S Kumar P - Proceedings of the 6th Joint International Conference , 2023" 
+--- 
+An age word problem (ageWP) typically involves sentences that express relationships between the age of the agents and asks for the age of one of them. Automatically solving ageWPs is a challenging task as we need to tackle temporal relationships between the agent s ages, frame and solve the equations for the required unknowns. To the best of our knowledge, there exists only one ageWP dataset consisting of just 124 examples. The dataset is too small to employ a  Cites: Mapping to declarative knowledge for word problem solving

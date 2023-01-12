@@ -1,9 +1,0 @@
----
-layout: post
-title:  "TransMorpher: A Phonologically Informed Transformer-based Morphological Analyzer"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "K Şahin, Ü Atlamaz - 2022"
----
-We introduce TransMorpher, a phonologically informed Transformer-based morphological analyzer that returns disambiguated morphological parses. TransMorpher consists of a phonological normalization module (inspired by the modular architecture widely adopted in the field of Generative Linguistics), a character-based encoder with multi-head self-attention for encoding words, and a pre-trained language model for encoding context, and a decoder with multi-head self …
-Cites: ‪Neural Factor Graph Models for Cross-lingual Morphological …‬

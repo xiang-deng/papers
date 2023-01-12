@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Heterogeneous Reinforcement Learning Network for Aspect-based Sentiment Classification with External Knowledge"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "Y Cao, Y Tang, H Du, F Xu, Z Wei, C Jin - IEEE Transactions on Affective Computing, 2023"
----
-Aspect-based sentiment classification aims to automatically predict the sentiment polarity of the specific aspect in a text. However, it is challenging to confirm the mapping between the aspect and the core context since a number of existing methods concentrate on building the global relations of the full context rather than the partial connections based on the aspects. Motivated by the fundamental insights of reinforcement learning, we propose a novel H eterogeneous R einforcement L …
-Cites: ‪Effective LSTMs for target-dependent sentiment classification‬
+--- 
+layout: post 
+title: "Heterogeneous Reinforcement Learning Network for Aspect-based Sentiment Classification with External Knowledge" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "Y Cao, Y Tang, H Du, F Xu, Z Wei, C Jin - IEEE Transactions on Affective Computing, 2023" 
+--- 
+Aspect-based sentiment classification aims to automatically predict the sentiment polarity of the specific aspect in a text. However, it is challenging to confirm the mapping between the aspect and the core context since a number of existing methods concentrate on building the global relations of the full context rather than the partial connections based on the aspects. Motivated by the fundamental insights of reinforcement learning, we propose a novel H eterogeneous R einforcement L  Cites: Effective LSTMs for target-dependent sentiment classification

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Training a Deep Q-Learning Agent Inside a Generic Constraint Programming Solver"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "T Marty, T François, P Tessier, L Gauthier, Q Cappart… - arXiv preprint arXiv …, 2023"
----
-Constraint programming is known for being an efficient approach for solving combinatorial problems. Important design choices in a solver are the branching heuristics, which are designed to lead the search to the best solutions in a minimum amount of time. However, developing these heuristics is a time-consuming process that requires problem-specific expertise. This observation has motivated many efforts to use machine learning to automatically learn efficient heuristics without expert …
-Cites: ‪Keeping your distance: Solving sparse reward tasks using self …‬
+--- 
+layout: post 
+title: "Training a Deep Q-Learning Agent Inside a Generic Constraint Programming Solver" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "T Marty, T Franois, P Tessier, L Gauthier, Q Cappart - arXiv preprint arXiv , 2023" 
+--- 
+Constraint programming is known for being an efficient approach for solving combinatorial problems. Important design choices in a solver are the branching heuristics, which are designed to lead the search to the best solutions in a minimum amount of time. However, developing these heuristics is a time-consuming process that requires problem-specific expertise. This observation has motivated many efforts to use machine learning to automatically learn efficient heuristics without expert  Cites: Keeping your distance: Solving sparse reward tasks using self

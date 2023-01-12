@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A first-order augmented Lagrangian method for constrained minimax optimization"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "Z Lu, S Mei - arXiv preprint arXiv:2301.02060, 2023"
----
-In this paper we study a class of constrained minimax problems. In particular, we propose a first-order augmented Lagrangian method for solving them, whose subproblems turn out to be a much simpler structured minimax problem and are suitably solved by a first-order method recently developed in [26] by the authors. Under some suitable assumptions, an\emph {operation complexity} of ${\cal O}(\varepsilon^{-4}\log\varepsilon^{-1}) $, measured by its fundamental operations, is …
-Cites: ‪Stochastic variance reduction methods for policy evaluation‬
+--- 
+layout: post 
+title: "A first-order augmented Lagrangian method for constrained minimax optimization" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "Z Lu, S Mei - arXiv preprint arXiv:2301.02060, 2023" 
+--- 
+In this paper we study a class of constrained minimax problems. In particular, we propose a first-order augmented Lagrangian method for solving them, whose subproblems turn out to be a much simpler structured minimax problem and are suitably solved by a first-order method recently developed in [26] by the authors. Under some suitable assumptions, an\emph {operation complexity} of ${\cal O}(\varepsilon^{-4}\log\varepsilon^{-1}) $, measured by its fundamental operations, is  Cites: Stochastic variance reduction methods for policy evaluation

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Feature Acquisition via Human Interaction in Relational domains"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "N Ramanan, P Odom, K Kersting, S Natarajan - … on Data Science & Management of …, 2023"
----
-We consider the problem of interactive and explainable active feature elicitation in relational domains in which a small subset of data is fully observed while the rest of the data is minimally observed. The goal is to identify the most informative set of entities for whom acquiring additional relations would yield a more robust model. We assume the presence of a human expert who can interactively provide the relations. Thus there is a need for an explainable model. Consequently, we employ an …
-Cites: ‪Introduction to statistical relational learning‬
+--- 
+layout: post 
+title: "Active Feature Acquisition via Human Interaction in Relational domains" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "N Ramanan, P Odom, K Kersting, S Natarajan - on Data Science & Management of , 2023" 
+--- 
+We consider the problem of interactive and explainable active feature elicitation in relational domains in which a small subset of data is fully observed while the rest of the data is minimally observed. The goal is to identify the most informative set of entities for whom acquiring additional relations would yield a more robust model. We assume the presence of a human expert who can interactively provide the relations. Thus there is a need for an explainable model. Consequently, we employ an  Cites: Introduction to statistical relational learning

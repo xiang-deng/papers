@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HG-SL: Jointly Learning of Global and Local User Spreading Behavior for Fake News Early Detection"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "L Sun, Y Rao, Y Lan, B Xia, Y Li - 2023"
----
-Recently, fake news forgery technology has become more and more sophisticated, and even the profiles of participants may be faked, which challenges the robustness and effectiveness of traditional detection methods involving text or user identity. Most propagation-only approaches mainly rely on neural networks to learn the diffusion pattern of individual news, but this is insufficient to describe the differences in news spread ability, and also ignores the valuable global connections of news and users …
-Cites: ‪Fact checking: Task definition and dataset construction‬
+--- 
+layout: post 
+title: "HG-SL: Jointly Learning of Global and Local User Spreading Behavior for Fake News Early Detection" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "L Sun, Y Rao, Y Lan, B Xia, Y Li - 2023" 
+--- 
+Recently, fake news forgery technology has become more and more sophisticated, and even the profiles of participants may be faked, which challenges the robustness and effectiveness of traditional detection methods involving text or user identity. Most propagation-only approaches mainly rely on neural networks to learn the diffusion pattern of individual news, but this is insufficient to describe the differences in news spread ability, and also ignores the valuable global connections of news and users  Cites: Fact checking: Task definition and dataset construction

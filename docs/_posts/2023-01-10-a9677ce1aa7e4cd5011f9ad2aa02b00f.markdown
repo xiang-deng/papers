@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Topic Segmentation Model Focusing on Local Context"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "J Lee, J Han, S Baek, M Song - arXiv preprint arXiv:2301.01935, 2023"
----
-Topic segmentation is important in understanding scientific documents since it can not only provide better readability but also facilitate downstream tasks such as information retrieval and question answering by creating appropriate sections or paragraphs. In the topic segmentation task, topic coherence is critical in predicting segmentation boundaries. Most of the existing models have tried to exploit as many contexts as possible to extract useful topic-related information. However, additional …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "Topic Segmentation Model Focusing on Local Context" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "J Lee, J Han, S Baek, M Song - arXiv preprint arXiv:2301.01935, 2023" 
+--- 
+Topic segmentation is important in understanding scientific documents since it can not only provide better readability but also facilitate downstream tasks such as information retrieval and question answering by creating appropriate sections or paragraphs. In the topic segmentation task, topic coherence is critical in predicting segmentation boundaries. Most of the existing models have tried to exploit as many contexts as possible to extract useful topic-related information. However, additional  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

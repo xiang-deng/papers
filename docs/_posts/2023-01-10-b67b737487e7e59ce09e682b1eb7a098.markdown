@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fast Replica Exchange Stochastic Gradient Langevin Dynamics"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "G Li, G Lin, Z Zhang, Q Zhou - arXiv preprint arXiv:2301.01898, 2023"
----
-Application of the replica exchange (ie, parallel tempering) technique to Langevin Monte Carlo algorithms, especially stochastic gradient Langevin dynamics (SGLD), has scored great success in non-convex learning problems, but one potential limitation is the computational cost caused by running multiple chains. Upon observing that a large variance of the gradient estimator in SGLD essentially increases the temperature of the stationary distribution, we propose expediting …
-Cites: ‪A hitting time analysis of stochastic gradient langevin dynamics‬
+--- 
+layout: post 
+title: "Fast Replica Exchange Stochastic Gradient Langevin Dynamics" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "G Li, G Lin, Z Zhang, Q Zhou - arXiv preprint arXiv:2301.01898, 2023" 
+--- 
+Application of the replica exchange (ie, parallel tempering) technique to Langevin Monte Carlo algorithms, especially stochastic gradient Langevin dynamics (SGLD), has scored great success in non-convex learning problems, but one potential limitation is the computational cost caused by running multiple chains. Upon observing that a large variance of the gradient estimator in SGLD essentially increases the temperature of the stationary distribution, we propose expediting  Cites: A hitting time analysis of stochastic gradient langevin dynamics

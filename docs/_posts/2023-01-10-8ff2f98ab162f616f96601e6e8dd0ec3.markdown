@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Schema dependency-enhanced curriculum pre-training for table semantic parsing"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "B Qin, B Hui, L Wang, M Yang, B Li, F Huang, L Si… - Knowledge-Based Systems, 2023"
----
-Large pre-trained models exhibit improved table-semantic-parsing performances by leveraging large-scale corpora to enhance the representation learning ability of semantic parsers. However, existing table pre-training methods do not sufficiently consider the explicit interactions among natural language (NL) questions, SQL queries, and the corresponding database schemas, which are essential for table semantic parsing. To overcome the aforementioned limitation, this study designs a …
-Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬
+--- 
+layout: post 
+title: "Schema dependency-enhanced curriculum pre-training for table semantic parsing" 
+date: 2023-01-10 01:37:31 -0400 
+categories: jekyll update 
+author: "B Qin, B Hui, L Wang, M Yang, B Li, F Huang, L Si - Knowledge-Based Systems, 2023" 
+--- 
+Large pre-trained models exhibit improved table-semantic-parsing performances by leveraging large-scale corpora to enhance the representation learning ability of semantic parsers. However, existing table pre-training methods do not sufficiently consider the explicit interactions among natural language (NL) questions, SQL queries, and the corresponding database schemas, which are essential for table semantic parsing. To overcome the aforementioned limitation, this study designs a  Cites: TaBERT: Pretraining for joint understanding of textual and tabular

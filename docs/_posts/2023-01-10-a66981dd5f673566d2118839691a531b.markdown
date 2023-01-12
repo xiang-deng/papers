@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Robustness in Machine Learning"
-date:   2023-01-10 01:37:31 -0400
-categories: jekyll update
-author: "X Pan - 2022"
----
-Current Deep Neural Networks can handel various difficult task but may fail in simple spurious correlation or small distribution shift. In this thesis, we present how we define spurious correlation types in term of necessity and sufficiency in Chapter 2. Then, we investigate how cwe achieve invariant representation via two stage methods. Using such method as proxy, we investigate what kind of information should we learn in the pretrained representation in Chapter 3. Finally, we show the …
-Cites: ‪Examining and Combating Spurious Features under Distribution Shift‬
