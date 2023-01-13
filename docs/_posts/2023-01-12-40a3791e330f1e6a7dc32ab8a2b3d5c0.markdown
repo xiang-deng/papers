@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Stealthy Backdoor Attack for Code Models"
+date:   2023-01-12 00:32:14 -0400
+categories: jekyll update
+author: "Z Yang, B Xu, JM Zhang, HJ Kang, J Shi, J He, D Lo - arXiv preprint arXiv:2301.02496, 2023"
+---
+Code models, such as CodeBERT and CodeT5, offer general-purpose representations of code and play a vital role in supporting downstream automated software engineering tasks. Most recently, code models were revealed to be vulnerable to backdoor attacks. A code model that is backdoor-attacked can behave normally on clean examples but will produce pre-defined malicious outputs on examples injected with triggers that activate the backdoors. Existing backdoor attacks …
+Cites: ‪Weight Poisoning Attacks on Pre-trained Models‬

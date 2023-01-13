@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unsupervised attack pattern detection in honeypot data using Bayesian topic modelling"
+date:   2023-01-12 00:32:14 -0400
+categories: jekyll update
+author: "FS Passino, A Mantziou, D Ghani, P Thiede… - arXiv preprint arXiv …, 2023"
+---
+Cyber-systems are under near-constant threat from intrusion attempts. Attacks types vary, but each attempt typically has a specific underlying intent, and the perpetrators are typically groups of individuals with similar objectives. Clustering attacks appearing to share a common intent is very valuable to threat-hunting experts. This article explores topic models for clustering terminal session commands collected from honeypots, which are special network hosts designed to entice malicious …
+Cites: ‪Online latent Dirichlet allocation with infinite vocabulary‬

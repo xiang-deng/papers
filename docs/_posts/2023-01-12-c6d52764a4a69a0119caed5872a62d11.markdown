@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction"
+date:   2023-01-12 00:32:14 -0400
+categories: jekyll update
+author: "J Gao, C Yu, W Wang, H Zhao, R Xu - arXiv preprint arXiv:2301.02427, 2023"
+---
+We present Mask-then-Fill, a flexible and effective data augmentation framework for event extraction. Our approach allows for more flexible manipulation of text and thus can generate more diverse data while keeping the original event structure unchanged as much as possible. Specifically, it first randomly masks out an adjunct sentence fragment and then infills a variable-length text span with a fine-tuned infilling model. The main advantage lies in that it can replace a fragment of arbitrary …
+Cites: ‪Entity, relation, and event extraction with contextualized span …‬

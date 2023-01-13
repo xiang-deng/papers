@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Low-Resource Natural Language Understanding in Task-Oriented Dialogue"
+date:   2023-01-12 00:32:14 -0400
+categories: jekyll update
+author: "S Louvan"
+---
+Task-oriented dialogue (ToD) systems need to interpret the user s input to understand the user s needs (intent) and corresponding relevant information (slots). This process is performed by a Natural Language Understanding (NLU) component, which maps the text utterance into a semantic frame representation, involving two subtasks: intent classification (text classification) and slot filling (sequence tagging). Typically, new domains and languages are regularly added to the system to support …
+Cites: ‪Zero-shot entity linking by reading entity descriptions‬
