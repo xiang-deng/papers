@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficient Mutation Testing via Pre-Trained Language Models"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "A Khanfir, R Degiovanni, M Papadakis, YL Traon - arXiv preprint arXiv:2301.03543, 2023"
----
-Mutation testing is an established fault-based testing technique. It operates by seeding faults into the programs under test and asking developers to write tests that reveal these faults. These tests have the potential to reveal a large number of faults--those that couple with the seeded ones--and thus are deemed important. To this end, mutation testing should seed faults that are both  natural  in a sense easily understood by developers and strong (have high chances to reveal faults). To …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "Efficient Mutation Testing via Pre-Trained Language Models" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "A Khanfir, R Degiovanni, M Papadakis, YL Traon - arXiv preprint arXiv:2301.03543, 2023" 
+--- 
+Mutation testing is an established fault-based testing technique. It operates by seeding faults into the programs under test and asking developers to write tests that reveal these faults. These tests have the potential to reveal a large number of faults--those that couple with the seeded ones--and thus are deemed important. To this end, mutation testing should seed faults that are both natural in a sense easily understood by developers and strong (have high chances to reveal faults). To  Cites: Codebert: A pre-trained model for programming and natural

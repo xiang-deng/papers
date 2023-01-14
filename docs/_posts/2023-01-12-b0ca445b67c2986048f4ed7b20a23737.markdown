@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "T Kumar, M Turab, K Raj, A Mileo, R Brennan… - arXiv preprint arXiv …, 2023"
----
-Deep learning (DL) algorithms have shown significant performance in various computer vision tasks. However, having limited labelled data lead to a network overfitting problem, where network performance is bad on unseen data as compared to training data. Consequently, it limits performance improvement. To cope with this problem, various techniques have been proposed such as dropout, normalization and advanced data augmentation. Among these, data augmentation, which aims to …
-Cites: ‪Simple copy-paste is a strong data augmentation method for …‬
+--- 
+layout: post 
+title: "Advanced Data Augmentation Approaches: A Comprehensive Survey and Future directions" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "T Kumar, M Turab, K Raj, A Mileo, R Brennan - arXiv preprint arXiv , 2023" 
+--- 
+Deep learning (DL) algorithms have shown significant performance in various computer vision tasks. However, having limited labelled data lead to a network overfitting problem, where network performance is bad on unseen data as compared to training data. Consequently, it limits performance improvement. To cope with this problem, various techniques have been proposed such as dropout, normalization and advanced data augmentation. Among these, data augmentation, which aims to  Cites: Simple copy-paste is a strong data augmentation method for

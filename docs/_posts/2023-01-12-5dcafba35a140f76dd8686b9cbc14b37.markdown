@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ERNIE 3.0 Tiny: Frustratingly Simple Method to Improve Task-Agnostic Distillation Generalization"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "W Liu, X Chen, J Liu, S Feng, Y Sun, H Tian, H Wu - arXiv preprint arXiv:2301.03416, 2023"
----
-Task-agnostic knowledge distillation attempts to address the problem of deploying large pretrained language model in resource-constrained scenarios by compressing a large pretrained model called teacher into a smaller one called student such that the student can be directly finetuned on downstream tasks and retains comparable performance. However, we empirically find that there is a generalization gap between the student and the teacher in existing methods. In this work, we show that …
-Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬
+--- 
+layout: post 
+title: "ERNIE 3.0 Tiny: Frustratingly Simple Method to Improve Task-Agnostic Distillation Generalization" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "W Liu, X Chen, J Liu, S Feng, Y Sun, H Tian, H Wu - arXiv preprint arXiv:2301.03416, 2023" 
+--- 
+Task-agnostic knowledge distillation attempts to address the problem of deploying large pretrained language model in resource-constrained scenarios by compressing a large pretrained model called teacher into a smaller one called student such that the student can be directly finetuned on downstream tasks and retains comparable performance. However, we empirically find that there is a generalization gap between the student and the teacher in existing methods. In this work, we show that  Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions

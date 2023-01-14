@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "F Xu, J Liu, Q Lin, T Zhao, J Zhang, L Zhang - arXiv preprint arXiv:2301.02983, 2023"
----
-Logical reasoning task involves diverse types of complex reasoning over text, based on the form of multiple-choice question answering. Given the context, question and a set of options as the input, previous methods achieve superior performances on the full-data setting. However, the current benchmark dataset has the ideal assumption that the reasoning type distribution on the train split is close to the test split, which is inconsistent with many real application scenarios. To address it, there remain two …
-Cites: ‪Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero …‬
+--- 
+layout: post 
+title: "Mind Reasoning Manners: Enhancing Type Perception for Generalized Zero-shot Logical Reasoning over Text" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "F Xu, J Liu, Q Lin, T Zhao, J Zhang, L Zhang - arXiv preprint arXiv:2301.02983, 2023" 
+--- 
+Logical reasoning task involves diverse types of complex reasoning over text, based on the form of multiple-choice question answering. Given the context, question and a set of options as the input, previous methods achieve superior performances on the full-data setting. However, the current benchmark dataset has the ideal assumption that the reasoning type distribution on the train split is close to the test split, which is inconsistent with many real application scenarios. To address it, there remain two  Cites: Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero

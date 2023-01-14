@@ -1,9 +1,8 @@
----
-layout: post
-title:  "REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "W Qu, J Jia, NZ Gong - arXiv preprint arXiv:2301.02905, 2023"
----
-Encoder as a service is an emerging cloud service. Specifically, a service provider first pre-trains an encoder (ie, a general-purpose feature extractor) via either supervised learning or self-supervised learning and then deploys it as a cloud service API. A client queries the cloud service API to obtain feature vectors for its training/testing inputs when training/testing its classifier (called downstream classifier). A downstream classifier is vulnerable to adversarial examples, which are …
-Cites: ‪Certified robustness to adversarial word substitutions‬
+--- 
+layout: post 
+title: "REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "W Qu, J Jia, NZ Gong - arXiv preprint arXiv:2301.02905, 2023" 
+--- 
+Encoder as a service is an emerging cloud service. Specifically, a service provider first pre-trains an encoder (ie, a general-purpose feature extractor) via either supervised learning or self-supervised learning and then deploys it as a cloud service API. A client queries the cloud service API to obtain feature vectors for its training/testing inputs when training/testing its classifier (called downstream classifier). A downstream classifier is vulnerable to adversarial examples, which are  Cites: Certified robustness to adversarial word substitutions

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Value 行列を手掛かりとした Transformer の分析"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "吉田稔， 松本和幸， 北研二 - 人工知能学会論文誌, 2023"
----
-抄録 We propose a new method to analyze Transformer language models. In Transformer self-attention modules, attention weights are calculated from the query vectors and key vectors. Then, output vectors are obtained by taking the weighted sum of value vectors. While existing works on analysis of Transformer have focused on attention weights, this work focused on value and output matrices. We obtain joint matrices by multiplying both matrices, and show that the trace of the joint matrices …
-Cites: ‪What does BERT look at? An analysis of BERT s attention‬

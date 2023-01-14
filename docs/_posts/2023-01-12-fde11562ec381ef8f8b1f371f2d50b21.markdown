@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MEGAnno: Exploratory Labeling for NLP in Computational Notebooks"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "D Zhang, H Kim, RL Chen, E Kandogan, E Hruschka - arXiv preprint arXiv …, 2023"
----
-We present MEGAnno, a novel exploratory annotation framework designed for NLP researchers and practitioners. Unlike existing labeling tools that focus on data labeling only, our framework aims to support a broader, iterative ML workflow including data exploration and model development. With MEGAnno s API, users can programmatically explore the data through sophisticated search and automated suggestion functions and incrementally update task schema as their project evolve …
-Cites: ‪Talen: Tool for annotation of low-resource entities‬
+--- 
+layout: post 
+title: "MEGAnno: Exploratory Labeling for NLP in Computational Notebooks" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "D Zhang, H Kim, RL Chen, E Kandogan, E Hruschka - arXiv preprint arXiv , 2023" 
+--- 
+We present MEGAnno, a novel exploratory annotation framework designed for NLP researchers and practitioners. Unlike existing labeling tools that focus on data labeling only, our framework aims to support a broader, iterative ML workflow including data exploration and model development. With MEGAnno s API, users can programmatically explore the data through sophisticated search and automated suggestion functions and incrementally update task schema as their project evolve  Cites: Talen: Tool for annotation of low-resource entities

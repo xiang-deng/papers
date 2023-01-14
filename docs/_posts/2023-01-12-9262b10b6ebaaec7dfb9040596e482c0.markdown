@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Relation-aware Graph Convolutional Networks for Multi-Relational Network Alignment"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "Y Fang, X Li, R Ye, X Tan, P Zhao, M Wang - ACM Transactions on Intelligent Systems and …"
----
-The alignment of multiple multi-relational networks, such as knowledge graphs, is vital for many AI applications. In comparison with existing GCNs which cannot fully utilize relational information of multiple types, we propose a relation-aware graph convolutional network (ERGCN), which is equipped with both entity convolution and relation convolution to learn the entity embeddings and relation embeddings simultaneously. The role discrimination and translation property of knowledge …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Relation-aware Graph Convolutional Networks for Multi-Relational Network Alignment" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "Y Fang, X Li, R Ye, X Tan, P Zhao, M Wang - ACM Transactions on Intelligent Systems and " 
+--- 
+The alignment of multiple multi-relational networks, such as knowledge graphs, is vital for many AI applications. In comparison with existing GCNs which cannot fully utilize relational information of multiple types, we propose a relation-aware graph convolutional network (ERGCN), which is equipped with both entity convolution and relation convolution to learn the entity embeddings and relation embeddings simultaneously. The role discrimination and translation property of knowledge  Cites: Observed versus latent features for knowledge base and text

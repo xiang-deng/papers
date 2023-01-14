@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Learning for Abstractive Text Summarization"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "A Tsvigun, I Lysenko, D Sedashov, I Lazichny… - arXiv preprint arXiv …, 2023"
----
-Construction of human-curated annotated datasets for abstractive text summarization (ATS) is very time-consuming and expensive because creating each instance requires a human annotator to read a long document and compose a shorter summary that would preserve the key information relayed by the original document. Active Learning (AL) is a technique developed to reduce the amount of annotation required to achieve a certain level of machine learning model performance. In …
-Cites: ‪BRIO: Bringing Order to Abstractive Summarization‬
+--- 
+layout: post 
+title: "Active Learning for Abstractive Text Summarization" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "A Tsvigun, I Lysenko, D Sedashov, I Lazichny - arXiv preprint arXiv , 2023" 
+--- 
+Construction of human-curated annotated datasets for abstractive text summarization (ATS) is very time-consuming and expensive because creating each instance requires a human annotator to read a long document and compose a shorter summary that would preserve the key information relayed by the original document. Active Learning (AL) is a technique developed to reduce the amount of annotation required to achieve a certain level of machine learning model performance. In  Cites: BRIO: Bringing Order to Abstractive Summarization

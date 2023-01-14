@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SubStrat: A Subset-Based Optimization Strategy for Faster AutoML"
-date:   2023-01-12 00:32:14 -0400
-categories: jekyll update
-author: "T Lazebnik, A Somech, AI Weinberg"
----
-Automated machine learning (AutoML) frameworks have become important tools in the data scientist s arsenal, as they dramatically reduce the manual work devoted to the construction of ML pipelines. Such frameworks intelligently search among millions of possible ML pipelines-typically containing feature engineering, model selection, and hyper parameters tuning steps-and finally output an optimal pipeline in terms of predictive accuracy. However, when the dataset is large, each individual …
-Cites: ‪Visualization-aware sampling for very large databases‬
+--- 
+layout: post 
+title: "SubStrat: A Subset-Based Optimization Strategy for Faster AutoML" 
+date: 2023-01-12 00:32:14 -0400 
+categories: jekyll update 
+author: "T Lazebnik, A Somech, AI Weinberg" 
+--- 
+Automated machine learning (AutoML) frameworks have become important tools in the data scientist s arsenal, as they dramatically reduce the manual work devoted to the construction of ML pipelines. Such frameworks intelligently search among millions of possible ML pipelines-typically containing feature engineering, model selection, and hyper parameters tuning steps-and finally output an optimal pipeline in terms of predictive accuracy. However, when the dataset is large, each individual  Cites: Visualization-aware sampling for very large databases
