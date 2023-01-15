@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Sentence-Level Representations with Predictive Coding"
+date:   2023-01-14 01:50:54 -0400
+categories: jekyll update
+author: "V Araujo, MF Moens, A Soto - Machine Learning and Knowledge Extraction, 2023"
+---
+Learning sentence representations is an essential and challenging topic in the deep learning and natural language processing communities. Recent methods pre-train big models on a massive text corpus, focusing mainly on learning the representation of contextualized words. As a result, these models cannot generate informative sentence embeddings since they do not explicitly exploit the structure and discourse relationships existing in contiguous sentences. Drawing inspiration from human …
+Cites: ‪Shortformer: Better language modeling using shorter inputs‬

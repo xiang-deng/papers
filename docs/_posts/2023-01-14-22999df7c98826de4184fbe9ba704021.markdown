@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Using Pre-trained Language Models for Toxic Comment Classification"
+date:   2023-01-14 01:50:54 -0400
+categories: jekyll update
+author: "Z Zhao - 2022"
+---
+Toxic comment classification is a core natural language processing task for combating online toxic comments. It follows the supervised learning paradigm which requires labelled data for the training. A large amount of high-quality training data is empirically beneficial to the model performance. Transferring a pre-trained language model (PLM) to a downstream model allows the downstream model to access more data without creating new labelled data. Despite the increasing research on PLMs in …
+Cites: ‪On unifying misinformation detection‬

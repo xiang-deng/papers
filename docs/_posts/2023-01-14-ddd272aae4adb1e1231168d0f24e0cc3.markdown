@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Understanding and Mitigating Privacy Vulnerabilities in Deep Learning"
+date:   2023-01-14 01:50:54 -0400
+categories: jekyll update
+author: "S Kariyappa - 2022"
+---
+Advancements in Deep Learning (DL) have enabled leveraging large-scale datasets to train models that perform challenging tasks at a level that mimics human intelligence. In several real-world scenarios, the data used for training, the trained model, and the data used for inference can be private and distributed across multiple distrusting parties, posing a challenge for training and inference. Several privacy-preserving training and inference frameworks have been developed to address this …
+Cites: ‪The unreasonable effectiveness of data‬

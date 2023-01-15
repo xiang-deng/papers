@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A speaker-aware multiparty dialogue discourse parser with heterogeneous graph neural network"
+date:   2023-01-14 01:50:54 -0400
+categories: jekyll update
+author: "J Li, M Liu, Y Wang, D Zhang, B Qin - Cognitive Systems Research, 2023"
+---
+Discourse parsing for multiparty dialogue aims to detect the discourse structure and relations in a dialog to obtain a discourse dependency graph. Existing models for this task have proven the effect of speaker information. However, no model explicitly learns representations of the speaker for parsing the discourse structure of dialogs. In this paper, to further exploit the effect of speaker information, we propose a novel model HG-MDP, which uses a heterogeneous graph neural network to encode …
+Cites: ‪Dream: A challenge data set and models for dialogue-based …‬

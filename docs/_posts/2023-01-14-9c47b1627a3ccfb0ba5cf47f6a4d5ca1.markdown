@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Structured Case-based Reasoning for Inference-time Adaptation of Text-to-SQL parsers"
+date:   2023-01-14 01:50:54 -0400
+categories: jekyll update
+author: "A Awasthi, S Chakrabarti, S Sarawagi - arXiv preprint arXiv:2301.04110, 2023"
+---
+Inference-time adaptation methods for semantic parsing are useful for leveraging examples from newly-observed domains without repeated fine-tuning. Existing approaches typically bias the decoder by simply concatenating input-output example pairs (cases) from the new domain at the encoder s input in a Seq-to-Seq model. Such methods cannot adequately leverage the structure of logical forms in the case examples. We propose StructCBR, a structured case-based reasoning approach …
+Cites: ‪Unifiedskg: Unifying and multi-tasking structured knowledge …‬

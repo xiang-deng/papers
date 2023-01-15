@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Topical Extractive Summarization"
+date:   2023-01-14 01:50:54 -0400
+categories: jekyll update
+author: "K Zheltova, A Ianina, V Malykh - Conference on Artificial Intelligence and Natural …, 2022"
+---
+In this paper we propose a graph-based biased LexRank approach combined with topic modeling to create a topic-based extractive summarization model. Topical summarization task is used to obtain a customized summary for a particular reader. We achieve so by including information about topics of interest into an extractive summarization model. Topical information is derived via aspect embedding vectors from the ABAE model and used as a topic input for the biased LexRank model that …
+Cites: ‪Feuding Families and Former Friends: Unsupervised Learning for …‬
