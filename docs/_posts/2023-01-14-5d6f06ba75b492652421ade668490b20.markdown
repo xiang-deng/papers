@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Aspect-Oriented Unsupervised Social Link Inference on User Trajectory Data"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "H Byun, Y Choi, CK Kim - Information Sciences, 2023"
----
-We focus on representation learning for social link inference based on user trajectory data. While traditional methods predict relations between users by considering hand-crafted features, recent studies first perform representation learning using network embedding or graph neural networks (GNNs) for downstream tasks such as node classification and link prediction. However, those approaches fail to capture behavioral patterns of individuals ingrained in periodical visits or long-distance …
-Cites: ‪Convolutional 2d knowledge graph embeddings‬

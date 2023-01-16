@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "P Hase, M Bansal, B Kim, A Ghandeharioun - arXiv preprint arXiv:2301.04213, 2023"
----
-Language models are known to learn a great quantity of factual information during pretraining, and recent work localizes this information to specific model weights like mid-layer MLP weights (Meng et al., 2022). In this paper, we find that we can change how a fact is stored in a model by editing weights that are in a different location than where existing methods suggest that the fact is stored. This is surprising because we would expect that localizing facts to specific parameters in models would tell us …
-Cites: ‪Transformer feed-forward layers are key-value memories‬
+--- 
+layout: post 
+title: "Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "P Hase, M Bansal, B Kim, A Ghandeharioun - arXiv preprint arXiv:2301.04213, 2023" 
+--- 
+Language models are known to learn a great quantity of factual information during pretraining, and recent work localizes this information to specific model weights like mid-layer MLP weights (Meng et al., 2022). In this paper, we find that we can change how a fact is stored in a model by editing weights that are in a different location than where existing methods suggest that the fact is stored. This is surprising because we would expect that localizing facts to specific parameters in models would tell us  Cites: Transformer feed-forward layers are key-value memories

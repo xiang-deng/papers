@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aspect Sentiment classification using Syntactic Neighbour Based Attention Network"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "T Sharma, K Kaur - Journal of King Saud University-Computer and …, 2023"
----
-Abstract Aspect Level Sentiment Classification (ALSC) deals with classifying the sentiment polarity towards a particular aspect or target. The performance of any method in ALSC is primarily driven by its capability to map the aspect or target term to the correct sentiment context words. The dependency tree s syntactical information is crucial for correctly mapping the appropriate context terms to the aspect term. Thus, recent top-performing methods use the graph neural network (GNN) to …
-Cites: ‪A neural network for factoid question answering over paragraphs‬
+--- 
+layout: post 
+title: "Aspect Sentiment classification using Syntactic Neighbour Based Attention Network" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "T Sharma, K Kaur - Journal of King Saud University-Computer and , 2023" 
+--- 
+Abstract Aspect Level Sentiment Classification (ALSC) deals with classifying the sentiment polarity towards a particular aspect or target. The performance of any method in ALSC is primarily driven by its capability to map the aspect or target term to the correct sentiment context words. The dependency tree s syntactical information is crucial for correctly mapping the appropriate context terms to the aspect term. Thus, recent top-performing methods use the graph neural network (GNN) to  Cites: A neural network for factoid question answering over paragraphs

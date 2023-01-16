@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Approximation trees: statistical reproducibility in model distillation"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "Y Zhou, Z Zhou, G Hooker - Data Mining and Knowledge Discovery, 2023"
----
-This paper examines the reproducibility of learned explanations for black-box predictions via model distillation using classification trees. We find that common tree distillation methods fail to reproduce a single stable explanation when applied to the same teacher model due the randomness of the distillation process. We study this issue of reliable interpretation and propose a standardized framework for tree distillation to achieve reproducibility. The proposed framework consists of (1) a …
-Cites: ‪Meta pseudo labels‬
+--- 
+layout: post 
+title: "Approximation trees: statistical reproducibility in model distillation" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "Y Zhou, Z Zhou, G Hooker - Data Mining and Knowledge Discovery, 2023" 
+--- 
+This paper examines the reproducibility of learned explanations for black-box predictions via model distillation using classification trees. We find that common tree distillation methods fail to reproduce a single stable explanation when applied to the same teacher model due the randomness of the distillation process. We study this issue of reliable interpretation and propose a standardized framework for tree distillation to achieve reproducibility. The proposed framework consists of (1) a  Cites: Meta pseudo labels

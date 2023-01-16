@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fine-tuning Transfer Learning based on DCGAN Integrated with Self-attention and Spectral Normalization for Bearing Fault Diagnosis"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "H Zhong, S Yu, H Trinh, Y Lv, R Yuan, Y Wang - Measurement, 2023"
----
-In the current big-data context of Industry 4.0, insufficient training data has become a major bottleneck in developing data-driven diagnosis approaches, restricting the accuracy of deep networks. Targeting this issue, this study proposes a novel fault diagnosis method incorporating data augmentation and transfer learning, which is branded as SA-SN-DCGAN-TL. The SA-SN-DCGAN method is used to generate sufficient synthetic images to meet the training requirement, which integrates the …
-Cites: ‪Long short-term memory-networks for machine reading‬
+--- 
+layout: post 
+title: "Fine-tuning Transfer Learning based on DCGAN Integrated with Self-attention and Spectral Normalization for Bearing Fault Diagnosis" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "H Zhong, S Yu, H Trinh, Y Lv, R Yuan, Y Wang - Measurement, 2023" 
+--- 
+In the current big-data context of Industry 4.0, insufficient training data has become a major bottleneck in developing data-driven diagnosis approaches, restricting the accuracy of deep networks. Targeting this issue, this study proposes a novel fault diagnosis method incorporating data augmentation and transfer learning, which is branded as SA-SN-DCGAN-TL. The SA-SN-DCGAN method is used to generate sufficient synthetic images to meet the training requirement, which integrates the  Cites: Long short-term memory-networks for machine reading

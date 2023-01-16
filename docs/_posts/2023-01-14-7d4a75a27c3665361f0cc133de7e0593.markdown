@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How to Find Actionable Static Analysis Warnings: A Case Study With FindBugs"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "R Yedida, HJ Kang, H Tu, X Yang, D Lo, T Menzies - IEEE Transactions on Software …, 2023"
----
-Automatically generated static code warnings suffer from a large number of false alarms. Hence, developers only take action on a small percent of those warnings. To better predict which static code warnings should n ot be ignored, we suggest that analysts need to look deeper into their algorithms to find choices that better improve the particulars of their specific problem. Specifically, we show here that effective predictors of such warnings can be created by methods that l ocally adjust the …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "How to Find Actionable Static Analysis Warnings: A Case Study With FindBugs" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "R Yedida, HJ Kang, H Tu, X Yang, D Lo, T Menzies - IEEE Transactions on Software , 2023" 
+--- 
+Automatically generated static code warnings suffer from a large number of false alarms. Hence, developers only take action on a small percent of those warnings. To better predict which static code warnings should n ot be ignored, we suggest that analysts need to look deeper into their algorithms to find choices that better improve the particulars of their specific problem. Specifically, we show here that effective predictors of such warnings can be created by methods that l ocally adjust the  Cites: Codebert: A pre-trained model for programming and natural

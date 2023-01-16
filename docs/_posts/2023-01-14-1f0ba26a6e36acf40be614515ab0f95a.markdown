@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Lexical knowledge enhanced text matching via distilled word sense disambiguation"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "X Pu, L Yuan, J Leng, T Wu, X Gao - Knowledge-Based Systems, 2023"
----
-This study proposes a method to improve text matching through integration of lexical knowledge from external resources to model the senses of potentially ambiguous words. Specifically, a sense-aware mechanism is designed wherein a word sense disambiguation (WSD) model is introduced into text matching and both tasks (WSD and matching) are simultaneously optimized via multi-task learning. The proposed WSD is a lightweight model that distills a pre-trained BERT-based model by …
-Cites: ‪WikiQA: A challenge dataset for open-domain question answering‬
+--- 
+layout: post 
+title: "Lexical knowledge enhanced text matching via distilled word sense disambiguation" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "X Pu, L Yuan, J Leng, T Wu, X Gao - Knowledge-Based Systems, 2023" 
+--- 
+This study proposes a method to improve text matching through integration of lexical knowledge from external resources to model the senses of potentially ambiguous words. Specifically, a sense-aware mechanism is designed wherein a word sense disambiguation (WSD) model is introduced into text matching and both tasks (WSD and matching) are simultaneously optimized via multi-task learning. The proposed WSD is a lightweight model that distills a pre-trained BERT-based model by  Cites: WikiQA: A challenge dataset for open-domain question answering

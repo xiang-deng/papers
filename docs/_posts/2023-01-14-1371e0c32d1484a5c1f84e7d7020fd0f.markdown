@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hey Article, What Are You About? Question Answering for Information Systems Articles through Transformer Models for Long Sequences"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "LS Ebert, S Huettemann, RM Mueller"
----
-Question Answering (QA) systems can significantly reduce manual effort of searching for relevant information. However, challenges arise from a lack of domain-specificity and the fact that QA systems usually retrieve answers from short text passages instead of long scientific articles. We aim to address these challenges by (1) exploring the use of transformer models for long sequence processing,(2) performing domain adaptation for the Information Systems (IS) discipline and (3) developing …
-Cites: ‪A dataset of information-seeking questions and answers anchored …‬
+--- 
+layout: post 
+title: "Hey Article, What Are You About? Question Answering for Information Systems Articles through Transformer Models for Long Sequences" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "LS Ebert, S Huettemann, RM Mueller" 
+--- 
+Question Answering (QA) systems can significantly reduce manual effort of searching for relevant information. However, challenges arise from a lack of domain-specificity and the fact that QA systems usually retrieve answers from short text passages instead of long scientific articles. We aim to address these challenges by (1) exploring the use of transformer models for long sequence processing,(2) performing domain adaptation for the Information Systems (IS) discipline and (3) developing  Cites: A dataset of information-seeking questions and answers anchored

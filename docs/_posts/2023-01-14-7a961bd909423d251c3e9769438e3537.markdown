@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Ensemble-NQG-T5: Ensemble Neural Question Generation Model Based on Text-to-Text Transfer Transformer"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "MH Hwang, J Shin, H Seo, JS Im, H Cho, CK Lee - Applied Sciences, 2023"
----
-Deep learning chatbot research and development is exploding recently to offer customers in numerous industries personalized services. However, human resources are used to create a learning dataset for a deep learning chatbot. In order to augment this, the idea of neural question generation (NQG) has evolved, although it has restrictions on how questions can be expressed in different ways and has a finite capacity for question generation. In this paper, we propose an ensemble-type …
-Cites: ‪Question generation for question answering‬
+--- 
+layout: post 
+title: "Ensemble-NQG-T5: Ensemble Neural Question Generation Model Based on Text-to-Text Transfer Transformer" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "MH Hwang, J Shin, H Seo, JS Im, H Cho, CK Lee - Applied Sciences, 2023" 
+--- 
+Deep learning chatbot research and development is exploding recently to offer customers in numerous industries personalized services. However, human resources are used to create a learning dataset for a deep learning chatbot. In order to augment this, the idea of neural question generation (NQG) has evolved, although it has restrictions on how questions can be expressed in different ways and has a finite capacity for question generation. In this paper, we propose an ensemble-type  Cites: Question generation for question answering

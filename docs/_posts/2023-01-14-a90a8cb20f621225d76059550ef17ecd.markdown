@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Filtering Specialized Change in a Few-Shot Setting"
-date:   2023-01-14 01:50:54 -0400
-categories: jekyll update
-author: "M Hermann, S Saha, XX Zhu - IEEE Journal of Selected Topics in Applied Earth …, 2023"
----
-The aim of change detection in remote sensing usually is not to find all differences between the observations, but rather only specific types of change, such as urban development, deforestation, or even more specialized categories like roadwork. However, often there are no large public datasets available for very fine-grained tasks, and to collect the amount of training data needed for most supervised learning methods is very costly and often prohibitive. For this reason, we formulate the …
-Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬
+--- 
+layout: post 
+title: "Filtering Specialized Change in a Few-Shot Setting" 
+date: 2023-01-14 01:50:54 -0400 
+categories: jekyll update 
+author: "M Hermann, S Saha, XX Zhu - IEEE Journal of Selected Topics in Applied Earth , 2023" 
+--- 
+The aim of change detection in remote sensing usually is not to find all differences between the observations, but rather only specific types of change, such as urban development, deforestation, or even more specialized categories like roadwork. However, often there are no large public datasets available for very fine-grained tasks, and to collect the amount of training data needed for most supervised learning methods is very costly and often prohibitive. For this reason, we formulate the  Cites: Fine-tuning can distort pretrained features and underperform out-of
