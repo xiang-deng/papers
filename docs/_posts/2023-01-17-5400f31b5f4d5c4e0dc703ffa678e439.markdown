@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Robust Speaker Verification Using Deep Weight Space Ensemble"
+date:   2023-01-17 00:23:00 -0400
+categories: jekyll update
+author: "W Lin, MW Mak - IEEE/ACM Transactions on Audio, Speech, and …, 2023"
+---
+Domain shift is one of the most challenging problems in speaker verification. Although numerous methods have been proposed to address domain shift, most approaches optimize the performance of one domain at the sacrifice of the other. As a result, to obtain the best performance, each domain requires a dedicated model. However, deploying multiple models is resource-demanding and impractical, particularly when the deployment domains are not known in advance. Recent studies …
+Cites: ‪Robust fine-tuning of zero-shot models‬

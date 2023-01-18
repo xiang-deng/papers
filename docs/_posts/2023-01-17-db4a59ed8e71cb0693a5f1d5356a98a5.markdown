@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tracr: Compiled Transformers as a Laboratory for Interpretability"
+date:   2023-01-17 00:23:00 -0400
+categories: jekyll update
+author: "D Lindner, J Kramár, M Rahtz, T McGrath, V Mikulik - arXiv preprint arXiv:2301.05062, 2023"
+---
+Interpretability research aims to build tools for understanding machine learning (ML) models. However, such tools are inherently hard to evaluate because we do not have ground truth information about how ML models actually work. In this work, we propose to build transformer models manually as a testbed for interpretability research. We introduce Tracr, a  compiler  for translating human-readable programs into weights of a transformer model. Tracr takes code written in RASP, a domain …
+Cites: ‪Saturated transformers are constant-depth threshold circuits‬

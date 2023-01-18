@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TransformerG: 基于层级图结构与文本注意力机制的法律文本多跳阅读理解"
+date:   2023-01-17 00:23:00 -0400
+categories: jekyll update
+author: "朱斯琪， 过弋， 王业相， 余军， 汤奇峰， 邵志清 - 中文信息学报, 2022"
+---
+该文针对Cail2020 法律多跳机器阅读理解数据集进行研究, 提出了TransformerG, 一个基于不同层级的实体图结构与文本信息的注意力机制融合的多跳阅读理解模型. 该模型有效地结合了段落中问题节点, 问题的实体节点, 句子节点, 句中的实体节点的特征与文本信息的特征, 从而预测答案片段. 此外, 该文提出了一种句子级滑动窗口的方法, 有效解决在预训练模型中文本过长导致的截断问题. 利用TransformerG 模型参加中国中文信息学会计算语言学专委会(CIPS-CL) 和最高人民法院信息中心举办 …
+Cites: ‪Compositional Questions Do Not Necessitate Multi-hop Reasoning‬

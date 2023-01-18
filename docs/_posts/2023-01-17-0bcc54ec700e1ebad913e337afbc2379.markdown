@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TELIN: Table Entity LINker for Extracting Leaderboards from Machine Learning Publications"
+date:   2023-01-17 00:23:00 -0400
+categories: jekyll update
+author: "S Yang, C Tensmeyer, C Wigington - Proceedings of the first Workshop on …, 2022"
+---
+Tracking state-of-the-art (SOTA) results in machine learning studies is challenging due to high publication volume. Existing methods for creating leaderboards in scientific documents require significant human supervision or rely on scarcely available LaTeX source files. We propose Table Entity LINker (TELIN), a framework which extracts (task, model, dataset, metric) quadruples from collections of scientific publications in PDF format. TELIN identifies scientific named entities, constructs a …
+Cites: ‪CitationIE: Leveraging the Citation Graph for Scientific Information …‬

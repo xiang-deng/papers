@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SemPPL: Predicting pseudo-labels for better contrastive representations"
+date:   2023-01-17 00:23:00 -0400
+categories: jekyll update
+author: "M Bošnjak, PH Richemond, N Tomasev, F Strub… - arXiv preprint arXiv …, 2023"
+---
+Learning from large amounts of unsupervised data and a small amount of supervision is an important open problem in computer vision. We propose a new semi-supervised learning method, Semantic Positives via Pseudo-Labels (SemPPL), that combines labelled and unlabelled data to learn informative representations. Our method extends self-supervised contrastive learning--where representations are shaped by distinguishing whether two samples represent the same underlying datum …
+Cites: ‪Meta pseudo labels‬
