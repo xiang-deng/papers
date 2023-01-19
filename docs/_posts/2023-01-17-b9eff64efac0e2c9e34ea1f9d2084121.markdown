@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Extracting representative subset from extensive text data for training pre-trained language models"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "J Suzuki, H Zen, H Kazawa - Information Processing & Management, 2023"
----
-This paper investigates the existence of a representative subset obtained from a large original dataset that can achieve the same performance level obtained using the entire dataset in the context of training neural language models. We employ the likelihood-based scoring method based on two distinct types of pre-trained language models to select a representative subset. We conduct our experiments on widely used 17 natural language processing datasets with 24 evaluation metrics. The …
-Cites: ‪Detecting formal thought disorder by deep contextualized word …‬
+--- 
+layout: post 
+title: "Extracting representative subset from extensive text data for training pre-trained language models" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "J Suzuki, H Zen, H Kazawa - Information Processing & Management, 2023" 
+--- 
+This paper investigates the existence of a representative subset obtained from a large original dataset that can achieve the same performance level obtained using the entire dataset in the context of training neural language models. We employ the likelihood-based scoring method based on two distinct types of pre-trained language models to select a representative subset. We conduct our experiments on widely used 17 natural language processing datasets with 24 evaluation metrics. The  Cites: Detecting formal thought disorder by deep contextualized word

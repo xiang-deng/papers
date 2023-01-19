@@ -1,9 +1,0 @@
----
-layout: post
-title:  "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "J Engler, S Sikdar, M Lutz, M Strohmaier - arXiv preprint arXiv:2301.04704, 2023"
----
-Adding interpretability to word embeddings represents an area of active research in text representation. Recent work has explored thepotential of embedding words via so-called polar dimensions (eg good vs. bad, correct vs. wrong). Examples of such recent approaches include SemAxis, POLAR, FrameAxis, and BiImp. Although these approaches provide interpretable dimensions for words, they have not been designed to deal with polysemy, ie they can not easily distinguish between different …
-Cites: ‪Finding Universal Grammatical Relations in Multilingual BERT‬

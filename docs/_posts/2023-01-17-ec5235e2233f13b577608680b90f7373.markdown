@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Hierarchical Topical Modeling Approach for Recommending Repair of Quality Bugs"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "R Krasniqi, H Do"
----
-Quality bugs are difficult to detect because the implemented quality-related features are commonly scattered across the codebase. Unfortunately, this scattered information prevents software developers from holistically understanding the root cause of quality bugs. The traditional view of a system does not support a hierarchical code view for monitoring and tracing how quality features are topically related and how they interact with each other. In this paper, we show how these …
-Cites: ‪Interactive topic modeling‬
+--- 
+layout: post 
+title: "A Hierarchical Topical Modeling Approach for Recommending Repair of Quality Bugs" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "R Krasniqi, H Do" 
+--- 
+Quality bugs are difficult to detect because the implemented quality-related features are commonly scattered across the codebase. Unfortunately, this scattered information prevents software developers from holistically understanding the root cause of quality bugs. The traditional view of a system does not support a hierarchical code view for monitoring and tracing how quality features are topically related and how they interact with each other. In this paper, we show how these  Cites: Interactive topic modeling

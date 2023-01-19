@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Domain Specific Augmentations as Low Cost Teachers for Large Students"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "PW Huang - Proceedings of the first Workshop on Information …, 2022"
----
-Current neural network solutions in scientific document processing employ models pretrained on domain-specific corpi, which are usually limited in model size, as pretraining can be costly and limited by training resources. We introduce a framework that uses data augmentation from such domain-specific pretrained models to transfer domain specific knowledge to larger general pretrained models and improve performance on downstream tasks. Our method improves the …
-Cites: ‪Adapterhub: A framework for adapting transformers‬

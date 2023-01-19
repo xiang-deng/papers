@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aspect-level Sentiment Classification with Multi-head-attention-based Multi-channel Graph Convolutional Networks"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "C Cui, L Xu, B Liu, J Chen, S Yao, Q Kang - 2022 IEEE International Conference on …, 2022"
----
-Aspect-level sentiment classification (ALSC) has received extensive attention due to its fine-grained characteristics. However, ALSC tasks are often plagued by complex sentence structures, and existing attention-based methods cannot fully utilize implicit syntactic information to deconstruct sentences. Therefore, we propose a model named MAMC-GCN (Multi-head-attention-based Multi-channel Graph Convolutional Networks), which integrates the dependency relations of sentences and uses the …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "Aspect-level Sentiment Classification with Multi-head-attention-based Multi-channel Graph Convolutional Networks" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "C Cui, L Xu, B Liu, J Chen, S Yao, Q Kang - 2022 IEEE International Conference on , 2022" 
+--- 
+Aspect-level sentiment classification (ALSC) has received extensive attention due to its fine-grained characteristics. However, ALSC tasks are often plagued by complex sentence structures, and existing attention-based methods cannot fully utilize implicit syntactic information to deconstruct sentences. Therefore, we propose a model named MAMC-GCN (Multi-head-attention-based Multi-channel Graph Convolutional Networks), which integrates the dependency relations of sentences and uses the  Cites: Aspect level sentiment classification with deep memory network

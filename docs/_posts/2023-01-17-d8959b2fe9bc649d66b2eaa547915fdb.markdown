@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Neural Spline Search for Quantile Probabilistic Modeling"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "R Sun, CL Li, SO Arik, MW Dusenberry, CY Lee… - arXiv preprint arXiv …, 2023"
----
-Accurate estimation of output quantiles is crucial in many use cases, where it is desired to model the range of possibility. Modeling target distribution at arbitrary quantile levels and at arbitrary input attribute levels are important to offer a comprehensive picture of the data, and requires the quantile function to be expressive enough. The quantile function describing the target distribution using quantile levels is critical for quantile regression. Although various parametric forms …
-Cites: ‪Neuro-symbolic program synthesis‬
+--- 
+layout: post 
+title: "Neural Spline Search for Quantile Probabilistic Modeling" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "R Sun, CL Li, SO Arik, MW Dusenberry, CY Lee - arXiv preprint arXiv , 2023" 
+--- 
+Accurate estimation of output quantiles is crucial in many use cases, where it is desired to model the range of possibility. Modeling target distribution at arbitrary quantile levels and at arbitrary input attribute levels are important to offer a comprehensive picture of the data, and requires the quantile function to be expressive enough. The quantile function describing the target distribution using quantile levels is critical for quantile regression. Although various parametric forms  Cites: Neuro-symbolic program synthesis

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Abductive subconcept learning"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "ZY Han, LW Cai, WZ Dai - Sci China Inf Sci, 2023"
----
-Bridging neural network learning and symbolic reasoning is crucial for strong AI. Few pioneering studies have made some progress on logical reasoning tasks that require partitioned inputs of instances (eg, sequential data), from which a final concept is formed based on the complex (perhaps logical) relationships between them. However, they cannot apply to low-level cognitive tasks that require unpartitioned inputs (eg, raw images), such as object recognition and text classification. In this …
-Cites: ‪Neural logic machines‬
+--- 
+layout: post 
+title: "Abductive subconcept learning" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "ZY Han, LW Cai, WZ Dai - Sci China Inf Sci, 2023" 
+--- 
+Bridging neural network learning and symbolic reasoning is crucial for strong AI. Few pioneering studies have made some progress on logical reasoning tasks that require partitioned inputs of instances (eg, sequential data), from which a final concept is formed based on the complex (perhaps logical) relationships between them. However, they cannot apply to low-level cognitive tasks that require unpartitioned inputs (eg, raw images), such as object recognition and text classification. In this  Cites: Neural logic machines

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Pseudo Few-Shot Meta-Learning"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "CH Yuen"
----
-While pre-trained transformer models have shown great success in the question answering (QA) tasks, it requires a large amount of task-specific data to finetune. In this paper, we explore three variants of the model-agnostic meta-learning (MAML) algorithm in an attempt to improve the performance on the low resource QA task. To evaluate the effectiveness of this method, we compare its performance against DistilBERT model with and without multi-task learning. We find that the best …
-Cites: ‪Natural language to structured query generation via meta-learning‬

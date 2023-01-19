@@ -1,9 +1,8 @@
----
-layout: post
-title:  "EmbeddingROUGE: Malay News Headline Similarity Evaluation"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "PY Tsann, YK Hooi, MFB Hassan, MTY Wooi - 2022 International Conference on …, 2022"
----
-The evaluation metric is an essential part to evaluate text generation tasks such as news headline generation. The ROUGE evaluation metric is still the standard evaluation metric for most text summarization tasks. Nevertheless, this metric has its weakness due to its nature of measuring exact lexical overlapping between the candidate text and reference text. In this paper, we would like to attempt to propose a word embedding-based ROUGE named EmbeddingROUGE. The proposed design …
-Cites: ‪Re-evaluating Evaluation in Text Summarization‬
+--- 
+layout: post 
+title: "EmbeddingROUGE: Malay News Headline Similarity Evaluation" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "PY Tsann, YK Hooi, MFB Hassan, MTY Wooi - 2022 International Conference on , 2022" 
+--- 
+The evaluation metric is an essential part to evaluate text generation tasks such as news headline generation. The ROUGE evaluation metric is still the standard evaluation metric for most text summarization tasks. Nevertheless, this metric has its weakness due to its nature of measuring exact lexical overlapping between the candidate text and reference text. In this paper, we would like to attempt to propose a word embedding-based ROUGE named EmbeddingROUGE. The proposed design  Cites: Re-evaluating Evaluation in Text Summarization

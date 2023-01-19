@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Semantically Enhanced Detection of Emerging Quality-Related Concerns in Source Code"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "R Krasniqi, H Do"
----
-Quality concerns defined by ISO/IEC 9126 that focus on the quality aspect of the product such as efficiency, usability, and security, among other, tend to be neglected until they are retrofitted later at the implementation level. This retrofitted strategy poses a major challenge and hinders developers from efficiently detecting and understanding quality concerns because they are frequently implemented with no particular structure and are bound to low cohesion (qualities scattered across the …
-Cites: ‪Autofolding for source code summarization‬
+--- 
+layout: post 
+title: "Towards Semantically Enhanced Detection of Emerging Quality-Related Concerns in Source Code" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "R Krasniqi, H Do" 
+--- 
+Quality concerns defined by ISO/IEC 9126 that focus on the quality aspect of the product such as efficiency, usability, and security, among other, tend to be neglected until they are retrofitted later at the implementation level. This retrofitted strategy poses a major challenge and hinders developers from efficiently detecting and understanding quality concerns because they are frequently implemented with no particular structure and are bound to low cohesion (qualities scattered across the  Cites: Autofolding for source code summarization

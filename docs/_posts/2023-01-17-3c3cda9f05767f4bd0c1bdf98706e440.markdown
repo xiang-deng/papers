@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explanation Generated for Sequential Recommendation based on Transformer model"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "Y Qu, H Nobuhara - 2022 Joint 12th International Conference on Soft …, 2022"
----
-Generating recommendation reasons for recommended items can play an essential role in personalization such as by summarizing users  comments on their purchased items. However, existing methods only utilize general recommendations, ignoring the fact that items purchased by users are often related to their purchase history. To address this issue, we propose a multitask model referred to as Explanation Generated for Sequential Recommendation (EG4SRec), which is designed to …
-Cites: ‪Learning to generate product reviews from attributes‬
+--- 
+layout: post 
+title: "Explanation Generated for Sequential Recommendation based on Transformer model" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "Y Qu, H Nobuhara - 2022 Joint 12th International Conference on Soft , 2022" 
+--- 
+Generating recommendation reasons for recommended items can play an essential role in personalization such as by summarizing users comments on their purchased items. However, existing methods only utilize general recommendations, ignoring the fact that items purchased by users are often related to their purchase history. To address this issue, we propose a multitask model referred to as Explanation Generated for Sequential Recommendation (EG4SRec), which is designed to  Cites: Learning to generate product reviews from attributes

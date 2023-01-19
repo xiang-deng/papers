@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Effective Masked Language Modeling for Temporal Commonsense Reasoning"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "M Kimura, LK Pereira, I Kobayashi - 2022 Joint 12th International Conference on Soft …, 2022"
----
-We propose an enhanced language model for temporal commonsense inference. Through a specially designed masked language modeling task, we equip our model with temporal commonsense knowledge. Specifically, we propose different masking strategies for temporal commonsense reasoning. We evaluate our model on a challenging temporal commonsense reasoning dataset. Our experiments show that the method that takes into account the structure of the target dataset, in addition to …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Effective Masked Language Modeling for Temporal Commonsense Reasoning" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "M Kimura, LK Pereira, I Kobayashi - 2022 Joint 12th International Conference on Soft , 2022" 
+--- 
+We propose an enhanced language model for temporal commonsense inference. Through a specially designed masked language modeling task, we equip our model with temporal commonsense knowledge. Specifically, we propose different masking strategies for temporal commonsense reasoning. We evaluate our model on a challenging temporal commonsense reasoning dataset. Our experiments show that the method that takes into account the structure of the target dataset, in addition to  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

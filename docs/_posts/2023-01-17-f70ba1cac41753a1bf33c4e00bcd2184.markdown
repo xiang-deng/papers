@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TaxonPrompt: Taxonomy-aware curriculum prompt learning for few-shot event classification"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "C Song, F Cai, M Wang, J Zheng, T Shao - Knowledge-Based Systems, 2023"
----
-Event classification (EC) aims to assign the event labels to unlabeled sentences and tends to struggle in real-world applications when only a few annotated samples are available. Previous studies have mainly focused on using meta-learning to overcome the low-resource problem where label data from other tasks are still required for model learning and selection. Accordingly, prompt learning-based approaches are proposed to address the low-resource issue. However, such approaches generally …
-Cites: ‪Prefix-tuning: Optimizing continuous prompts for generation‬
+--- 
+layout: post 
+title: "TaxonPrompt: Taxonomy-aware curriculum prompt learning for few-shot event classification" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "C Song, F Cai, M Wang, J Zheng, T Shao - Knowledge-Based Systems, 2023" 
+--- 
+Event classification (EC) aims to assign the event labels to unlabeled sentences and tends to struggle in real-world applications when only a few annotated samples are available. Previous studies have mainly focused on using meta-learning to overcome the low-resource problem where label data from other tasks are still required for model learning and selection. Accordingly, prompt learning-based approaches are proposed to address the low-resource issue. However, such approaches generally  Cites: Prefix-tuning: Optimizing continuous prompts for generation

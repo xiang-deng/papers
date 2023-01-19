@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NarrowBERT: Accelerating Masked Language Model Pretraining and Inference"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "H Li, P Keung, D Cheng, J Kasai, NA Smith - arXiv preprint arXiv:2301.04761, 2023"
----
-Large-scale language model pretraining is a very successful form of self-supervised learning in natural language processing, but it is increasingly expensive to perform as the models and pretraining corpora have become larger over time. We propose NarrowBERT, a modified transformer encoder that increases the throughput for masked language model pretraining by more than $2\times $. NarrowBERT sparsifies the transformer model such that the self-attention queries and feedforward …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬
+--- 
+layout: post 
+title: "NarrowBERT: Accelerating Masked Language Model Pretraining and Inference" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "H Li, P Keung, D Cheng, J Kasai, NA Smith - arXiv preprint arXiv:2301.04761, 2023" 
+--- 
+Large-scale language model pretraining is a very successful form of self-supervised learning in natural language processing, but it is increasingly expensive to perform as the models and pretraining corpora have become larger over time. We propose NarrowBERT, a modified transformer encoder that increases the throughput for masked language model pretraining by more than $2\times $. NarrowBERT sparsifies the transformer model such that the self-attention queries and feedforward  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

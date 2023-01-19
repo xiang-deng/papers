@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interaction-and-Response Network for Distantly Supervised Relation Extraction"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "W Song, W Gu, F Zhu, SC Park - IEEE Transactions on Neural Networks and …, 2023"
----
-Distantly supervised relation extraction (DSRE) aims to identify semantic relations from massive plain texts. A broad range of the prior research has leveraged a series of selective attention mechanisms over sentences in a bag to extract relation features without considering dependencies among the relation features. As a result, potential discriminative information existed in the dependencies is ignored, causing a decline in the performance of extracting entity relations. In this article, we focus on going …
-Cites: ‪Modeling relations and their mentions without labeled text‬
+--- 
+layout: post 
+title: "Interaction-and-Response Network for Distantly Supervised Relation Extraction" 
+date: 2023-01-17 00:23:00 -0400 
+categories: jekyll update 
+author: "W Song, W Gu, F Zhu, SC Park - IEEE Transactions on Neural Networks and , 2023" 
+--- 
+Distantly supervised relation extraction (DSRE) aims to identify semantic relations from massive plain texts. A broad range of the prior research has leveraged a series of selective attention mechanisms over sentences in a bag to extract relation features without considering dependencies among the relation features. As a result, potential discriminative information existed in the dependencies is ignored, causing a decline in the performance of extracting entity relations. In this article, we focus on going  Cites: Modeling relations and their mentions without labeled text

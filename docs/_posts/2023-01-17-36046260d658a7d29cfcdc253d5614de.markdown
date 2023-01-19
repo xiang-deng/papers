@@ -1,9 +1,0 @@
----
-layout: post
-title:  "An Edit-Based Text Simplification Game"
-date:   2023-01-17 00:23:00 -0400
-categories: jekyll update
-author: "T Saberhagen"
----
-Text simplification aims to make language easier to read while preserving semantics of the original text. Language is complex, so automated simplification has no straightforward algorithm. However, discrete simplifying actions such as splitting sentences, choosing simpler words, and dropping words are more tractable. We have framed text simplification as a game in which the player chooses how to simplify a text through a sequence of discrete simplifying actions. The game score …
-Cites: ‪Sentence simplification with deep reinforcement learning‬
