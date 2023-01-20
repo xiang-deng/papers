@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transformers and GNNs for Fake News Detection"
+date:   2023-01-19 00:24:04 -0400
+categories: jekyll update
+author: "S Bocconi, A Patruno, A Malakhov - 2022"
+---
+This paper describes Zephyros team s submission for MediaEval 22 Fake News Detection. Our approach is based on transformers for text analysis and Graph Neural Network for structure analysis. The latter proved to be challenging and more research is required to achieve good classification results. This reflects also on task 3, where the structure analysis did not succeed to contribute positively to the outcomes. Nevertheless, we expect that eventually research will find a method of …
+Cites: ‪Roberta: a robustly optimized BERT pretraining approach (2019)‬

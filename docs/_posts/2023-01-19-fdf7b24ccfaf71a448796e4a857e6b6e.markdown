@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hybrid Regularizations for Multi-Aspect Category Sentiment Analysis"
+date:   2023-01-19 00:24:04 -0400
+categories: jekyll update
+author: "M Hu, H Guo, Z Su - IEEE Transactions on Affective Computing, 2023"
+---
+Aspect level sentiment classification aims to identify the sentiment polarity towards a particular aspect in a sentence. Previous attention-based methods generate an aspect-specific representation for each aspect and employ it to classify the sentiment polarity. However, normalized attention scores scatter over every word in the sentence, resulting in two issues. First, the attention may inherently introduce noise and downgrade the performance. Second, the opinion words may be “diluted” by …
+Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

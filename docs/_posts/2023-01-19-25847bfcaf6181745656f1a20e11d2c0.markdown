@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Blind Judgement: Agent-Based Supreme Court Modelling With GPT"
+date:   2023-01-19 00:24:04 -0400
+categories: jekyll update
+author: "S Hamilton - arXiv preprint arXiv:2301.05327, 2023"
+---
+We present a novel Transformer-based multi-agent system for simulating the judicial rulings of the 2010-2016 Supreme Court of the United States. We train nine separate models with the respective authored opinions of each supreme justice active ca. 2015 and test the resulting system on 96 real-world cases. We find our system predicts the decisions of the real-world Supreme Court with better-than-random accuracy. We further find a correlation between model accuracy with respect to …
+Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬

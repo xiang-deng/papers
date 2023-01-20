@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Language Identification in a Highly Unbalanced Dataset"
+date:   2023-01-19 00:24:04 -0400
+categories: jekyll update
+author: "I Weber - 2022"
+---
+Automated web scraping algorithms play a key role in the creation of text-based corpora. Part of the web scraping pipeline is to identify the language of the text that is acquired. Most research performed focuses on well-resourced languages leaving many languages under-resourced. In this thesis, we design and test two different feature extraction and machine learning algorithm combinations. By focusing on classifying one target language with high precision and a small seed corpus, we can …
+Cites: ‪Document modeling with gated recurrent neural network for …‬

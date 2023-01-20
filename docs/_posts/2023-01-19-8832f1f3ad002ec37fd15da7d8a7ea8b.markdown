@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompting Neural Machine Translation with Translation Memories"
+date:   2023-01-19 00:24:04 -0400
+categories: jekyll update
+author: "A Reheman, T Zhou, Y Luo, D Yang, T Xiao, J Zhu - arXiv preprint arXiv:2301.05380, 2023"
+---
+Improving machine translation (MT) systems with translation memories (TMs) is of great interest to practitioners in the MT community. However, previous approaches require either a significant update of the model architecture and/or additional training efforts to make the models well-behaved when TMs are taken as additional input. In this paper, we present a simple but effective method to introduce TMs into neural machine translation (NMT) systems. Specifically, we treat TMs as prompts to the NMT …
+Cites: ‪Search engine guided neural machine translation‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ENTITY LINKING IN LOW-ANNOTATION DATA SETTINGS"
+date:   2023-01-19 00:24:04 -0400
+categories: jekyll update
+author: "E Schumacher - 2022"
+---
+Recent advances in natural language processing have focused on applying and adapting large pretrained language models to specific tasks. These models, such as BERT (Devlin et al., 2019) and BART (Lewis et al., 2020a), are pretrained on massive amounts of unlabeled text across a variety of domains. The impact of these pretrained models is visible in the task of entity linking, where a mention of an entity in unstructured text is matched to the relevant entry in a knowledge base. State-of-the …
+Cites: ‪Zero-shot entity linking by reading entity descriptions‬

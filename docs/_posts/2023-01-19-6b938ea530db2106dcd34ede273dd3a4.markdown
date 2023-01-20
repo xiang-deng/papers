@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Defending Against Adversarial Synonym Attacks"
+date:   2023-01-19 00:24:04 -0400
+categories: jekyll update
+author: "S Farishta"
+---
+○ Base BERT○ RobEn model from original paper○ Model that clustered all synonyms for each word from WordNet○ Model that clustered top 3 synonyms for each word from WordNet○ Model that clustered all synonyms for each word excluding stopwords from WordNet○ Model that clustered top 3 synonyms for each word excluding stopwords from WordNet● 2 tests performed for each model
+Cites: ‪Robust encodings: A framework for combating adversarial typos‬
