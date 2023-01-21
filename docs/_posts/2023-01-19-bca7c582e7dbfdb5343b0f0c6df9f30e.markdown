@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LogSummary: Unstructured Log Summarization for Software Systems"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "W Meng, F Zaiter, Y Zhang, Y Liu, S Zhang, S Tao… - IEEE Transactions on …, 2023"
----
-We propose LogSummary, an automatic, unsupervised end-to-end log summarization framework for software system maintenance in this work. LogSummary obtains the summarized triples of necessary logs for a given log sequence. It integrates a novel information extraction method that considers semantic information and domain knowledge with a new triple-ranking approach using the global knowledge learned from all logs. Given the lack of a publicly …
-Cites: ‪Open information extraction from the web‬
+--- 
+layout: post 
+title: "LogSummary: Unstructured Log Summarization for Software Systems" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "W Meng, F Zaiter, Y Zhang, Y Liu, S Zhang, S Tao - IEEE Transactions on , 2023" 
+--- 
+We propose LogSummary, an automatic, unsupervised end-to-end log summarization framework for software system maintenance in this work. LogSummary obtains the summarized triples of necessary logs for a given log sequence. It integrates a novel information extraction method that considers semantic information and domain knowledge with a new triple-ranking approach using the global knowledge learned from all logs. Given the lack of a publicly  Cites: Open information extraction from the web

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SageDB: An Instance-Optimized Data Analytics System"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "J Ding, R Marcus, A Kipf, V Nathan, A Nrusimha…"
----
-Moderndatasystemsaretypicallybothco…-purpose. They are complex because of the numerous internal knobs and parameters that users need to manually tune in order to achieve good performance; they are general-purpose because they are designed to handle diverse use cases, and therefore often do not achieve the best possible performance for any specific use case. A recent trend aims to tackle these pitfalls: instance-optimized systems are designed to automatically self-adjust in order to …
-Cites: ‪Replicated layout for in-memory database systems‬
+--- 
+layout: post 
+title: "SageDB: An Instance-Optimized Data Analytics System" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "J Ding, R Marcus, A Kipf, V Nathan, A Nrusimha" 
+--- 
+Moderndatasystemsaretypicallybothco-purpose. They are complex because of the numerous internal knobs and parameters that users need to manually tune in order to achieve good performance; they are general-purpose because they are designed to handle diverse use cases, and therefore often do not achieve the best possible performance for any specific use case. A recent trend aims to tackle these pitfalls: instance-optimized systems are designed to automatically self-adjust in order to  Cites: Replicated layout for in-memory database systems

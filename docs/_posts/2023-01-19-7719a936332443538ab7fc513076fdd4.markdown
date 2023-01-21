@@ -1,9 +1,8 @@
----
-layout: post
-title:  "D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "C Pornprasit, C Tantithamthavorn, P Thongtanunam…"
----
-Code review is a software quality assurance practice, yet remains time-consuming (eg, due to slow feedback from reviewers). Recent Neural Machine Translation (NMT)-based code transformation approaches were proposed to automatically generate an approved version of changed methods for a given submitted patch. The existing approaches could change code tokens in any area in a changed method. However, not all code tokens need to be changed. Intuitively, the changed code …
-Cites: ‪Codebleu: a method for automatic evaluation of code synthesis‬
+--- 
+layout: post 
+title: "D-ACT: Towards Diff-Aware Code Transformation for Code Review Under a Time-Wise Evaluation" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "C Pornprasit, C Tantithamthavorn, P Thongtanunam" 
+--- 
+Code review is a software quality assurance practice, yet remains time-consuming (eg, due to slow feedback from reviewers). Recent Neural Machine Translation (NMT)-based code transformation approaches were proposed to automatically generate an approved version of changed methods for a given submitted patch. The existing approaches could change code tokens in any area in a changed method. However, not all code tokens need to be changed. Intuitively, the changed code  Cites: Codebleu: a method for automatic evaluation of code synthesis

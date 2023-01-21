@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the assignment of commits to releases"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "FCR Pinto, LGP Murta - Empirical Software Engineering, 2023"
----
-Release is a ubiquitous concept in software development, referring to grouping multiple independent changes into a deliverable piece of software. Mining releases can help developers understand the software evolution at coarse grain, identify which features were delivered or bugs were fixed, and pinpoint who contributed on a given release. A typical initial step of release mining consists of identifying which commits compose a given release. We could find two main strategies used in the …
-Cites: ‪Introduction to information retrieval‬
+--- 
+layout: post 
+title: "On the assignment of commits to releases" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "FCR Pinto, LGP Murta - Empirical Software Engineering, 2023" 
+--- 
+Release is a ubiquitous concept in software development, referring to grouping multiple independent changes into a deliverable piece of software. Mining releases can help developers understand the software evolution at coarse grain, identify which features were delivered or bugs were fixed, and pinpoint who contributed on a given release. A typical initial step of release mining consists of identifying which commits compose a given release. We could find two main strategies used in the  Cites: Introduction to information retrieval

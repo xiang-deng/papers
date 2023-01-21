@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text to Point Cloud Localization with Relation-Enhanced Transformer"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "G Wang, H Fan, M Kankanhalli - arXiv preprint arXiv:2301.05372, 2023"
----
-Automatically localizing a position based on a few natural language instructions is essential for future robots to communicate and collaborate with humans. To approach this goal, we focus on the text-to-point-cloud cross-modal localization problem. Given a textual query, it aims to identify the described location from city-scale point clouds. The task involves two challenges. 1) In city-scale point clouds, similar ambient instances may exist in several locations. Searching each location in …
-Cites: ‪LXMERT: Learning Cross-Modality Encoder Representations from …‬
+--- 
+layout: post 
+title: "Text to Point Cloud Localization with Relation-Enhanced Transformer" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "G Wang, H Fan, M Kankanhalli - arXiv preprint arXiv:2301.05372, 2023" 
+--- 
+Automatically localizing a position based on a few natural language instructions is essential for future robots to communicate and collaborate with humans. To approach this goal, we focus on the text-to-point-cloud cross-modal localization problem. Given a textual query, it aims to identify the described location from city-scale point clouds. The task involves two challenges. 1) In city-scale point clouds, similar ambient instances may exist in several locations. Searching each location in  Cites: LXMERT: Learning Cross-Modality Encoder Representations from

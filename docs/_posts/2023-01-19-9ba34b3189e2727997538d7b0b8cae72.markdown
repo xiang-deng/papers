@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Temporality and modality in entailment graph induction"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "B de Vroe, SG Cornelis - 2023"
----
-The ability to draw inferences is core to semantics and the field of Natural Language Processing. Answering a seemingly simple question like  Did Arsenal play Manchester yesterday from textual evidence that says  Arsenal won against Manchester yesterday requires modeling the inference that  winning entails  playing . One way of modeling this type of lexical semantics is with Entailment Graphs, collections of meaning postulates that can be learned in an unsupervised way from …
-Cites: ‪Open information extraction from the web‬
+--- 
+layout: post 
+title: "Temporality and modality in entailment graph induction" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "B de Vroe, SG Cornelis - 2023" 
+--- 
+The ability to draw inferences is core to semantics and the field of Natural Language Processing. Answering a seemingly simple question like Did Arsenal play Manchester yesterday from textual evidence that says Arsenal won against Manchester yesterday requires modeling the inference that winning entails playing . One way of modeling this type of lexical semantics is with Entailment Graphs, collections of meaning postulates that can be learned in an unsupervised way from  Cites: Open information extraction from the web

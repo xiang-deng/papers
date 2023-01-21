@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving edit-based unsupervised sentence simplification using fine-tuned BERT"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "MA Rashid, H Amirkhani - Pattern Recognition Letters, 2023"
----
-Word suggestion in unsupervised sentence simplification aims to replace complex words of a given sentence with their simpler alternatives. This is mostly done without considering their context within the input sentence. In this paper, we propose a technique that brings context awareness to word suggestion by merging pre-trained BERT models with a successful edit-based unsupervised sentence simplification model. More importantly, we show that only by fine-tuning the BERT model on simple …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Improving edit-based unsupervised sentence simplification using fine-tuned BERT" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "MA Rashid, H Amirkhani - Pattern Recognition Letters, 2023" 
+--- 
+Word suggestion in unsupervised sentence simplification aims to replace complex words of a given sentence with their simpler alternatives. This is mostly done without considering their context within the input sentence. In this paper, we propose a technique that brings context awareness to word suggestion by merging pre-trained BERT models with a successful edit-based unsupervised sentence simplification model. More importantly, we show that only by fine-tuning the BERT model on simple  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

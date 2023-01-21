@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Practical Generation of Counterfactual Examples"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "D Namiot, E Ilyushin, I Chizov"
----
-One of the important elements in evaluating the stability of machine learning systems are the so-called adversarial examples. These are specially selected or artificially created input data for machine learning systems that interfere with their normal operation, are interpreted or processed incorrectly. Most often, such data are obtained through some formal modifications of the real source data. This article considers a different approach to creating such data, which takes into account the …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "On the Practical Generation of Counterfactual Examples" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "D Namiot, E Ilyushin, I Chizov" 
+--- 
+One of the important elements in evaluating the stability of machine learning systems are the so-called adversarial examples. These are specially selected or artificially created input data for machine learning systems that interfere with their normal operation, are interpreted or processed incorrectly. Most often, such data are obtained through some formal modifications of the real source data. This article considers a different approach to creating such data, which takes into account the  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

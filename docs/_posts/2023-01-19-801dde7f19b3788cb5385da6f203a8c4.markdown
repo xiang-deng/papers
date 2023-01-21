@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion"
-date:   2023-01-19 00:24:04 -0400
-categories: jekyll update
-author: "H Nie, X Zhao, X Yao, Q Jiang, X Bi, Y Ma, Y Sun - Future Generation Computer …, 2023"
----
-Abstract Knowledge graph completion (KGC) tasks are aimed to reason out missing facts in a knowledge graph. However, knowledge often evolves over time, and static knowledge graph completion methods have difficulty in identifying its changes. Scholars have focus on temporal knowledge graph completion (TKGC). Most existing TKGC methods incorporate temporal information into triples and convert them into KGC tasks, ignoring the impact of temporal information on quaternions. Furthermore …
-Cites: ‪Complex embeddings for simple link prediction‬
+--- 
+layout: post 
+title: "Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion" 
+date: 2023-01-19 00:24:04 -0400 
+categories: jekyll update 
+author: "H Nie, X Zhao, X Yao, Q Jiang, X Bi, Y Ma, Y Sun - Future Generation Computer , 2023" 
+--- 
+Abstract Knowledge graph completion (KGC) tasks are aimed to reason out missing facts in a knowledge graph. However, knowledge often evolves over time, and static knowledge graph completion methods have difficulty in identifying its changes. Scholars have focus on temporal knowledge graph completion (TKGC). Most existing TKGC methods incorporate temporal information into triples and convert them into KGC tasks, ignoring the impact of temporal information on quaternions. Furthermore  Cites: Complex embeddings for simple link prediction
