@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Activation Function Optimization through Surrogate Modeling"
+date:   2023-01-21 07:31:42 -0400
+categories: jekyll update
+author: "G Bingham, R Miikkulainen - arXiv preprint arXiv:2301.05785, 2023"
+---
+Carefully designed activation functions can improve the performance of neural networks in many machine learning tasks. However, it is difficult for humans to construct optimal activation functions, and current activation function search algorithms are prohibitively expensive. This paper aims to improve the state of the art through three steps: First, the benchmark datasets Act-Bench-CNN, Act-Bench-ResNet, and Act-Bench-ViT were created by training convolutional, residual, and …
+Cites: ‪Catastrophic fisher explosion: Early phase fisher matrix impacts …‬

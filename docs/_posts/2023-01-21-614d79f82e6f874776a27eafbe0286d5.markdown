@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BERT Model Compression With Decoupled Knowledge Distillation And Representation Learning"
+date:   2023-01-21 07:31:42 -0400
+categories: jekyll update
+author: "L Zhang, Y Chen, Y Cao, Y Zhao - Proceedings of the 4th International Conference …, 2022"
+---
+Pre-trained language models such as BERT have proven essential in natural language processing (NLP). However, their huge number of parameters and training cost make them very limited in practical deployment. To overcome BERT s lack of computing resources, we propose a BERT compression method by applying decoupled knowledge distillation and representation learning, compressing the large model (teacher) into a lightweight network (student). Decoupled knowledge …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

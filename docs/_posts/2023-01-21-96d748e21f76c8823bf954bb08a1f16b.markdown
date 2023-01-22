@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Subspace Representation for Natural Language Processing"
+date:   2023-01-21 07:31:42 -0400
+categories: jekyll update
+author: "E KIDO SHIMOMOTO - 2022"
+---
+Using word embeddings has become the default strategy when representing natural language data. Traditional word embeddings learn a fixed real-valued vector representation of each word in a corpus that encodes semantic information. This thesis proposes using subspaces to represent sentences and texts based on such word embeddings. The motivation behind this idea comes from a crucial aspect of these embeddings: Performing arithmetic and distance calculations between two …
+Cites: ‪Composition in distributional models of semantics‬

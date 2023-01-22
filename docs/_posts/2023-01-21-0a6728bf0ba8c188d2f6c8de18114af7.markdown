@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic Label Representations with Lbl2Vec: A Similarity-Based Approach for Unsupervised Text Classification"
+date:   2023-01-21 07:31:42 -0400
+categories: jekyll update
+author: "T Schopf, D Braun, F Matthes - Web Information Systems and Technologies: 16th …, 2023"
+---
+In this paper, we evaluate the Lbl2Vec approach for unsupervised text document classification. Lbl2Vec requires only a small number of keywords describing the respective classes to create semantic label representations. For classification, Lbl2Vec uses cosine similarities between label and document representations, but no annotation information. We show that Lbl2Vec significantly outperforms common unsupervised text classification approaches and a widely used zero-shot text …
+Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬

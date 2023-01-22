@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Domain-Generalized Few-Shot Text Classification with Multi-Level Distributional Signatures"
+date:   2023-01-21 07:31:42 -0400
+categories: jekyll update
+author: "X Wang, Y Du, D Chen, X Li, X Chen, Y Fan, C Xie, Y Li… - Applied Sciences, 2023"
+---
+Domain-generalized few-shot text classification (DG-FSTC) is a new setting for few-shot text classification (FSTC). In DG-FSTC, the model is meta-trained on a multi-domain dataset, and meta-tested on unseen datasets with different domains. However, previous methods mostly construct semantic representations by learning from words directly, which is limited in domain adaptability. In this study, we enhance the domain adaptability of the model by utilizing the distributional signatures of texts …
+Cites: ‪Prompt-free and Efficient Few-shot Learning with Language Models‬

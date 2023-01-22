@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "基于 Triplet 注意力的循环卷积神经网络模型"
+date:   2023-01-21 07:31:42 -0400
+categories: jekyll update
+author: "汪璟玢， 雷晶， 张璟璇， 孙首男 - 模式识别与人工智能"
+---
+摇In the existing knowledge completion models with textual or neighbor information, the interaction between texts and neighbors is ignored. Therefore, it is difficult to capture the information with strong semantic relevance to entities. In addition, the relationship 鄄specific information in the entities is not taken into account in the models based on convolutional neural networks, which results in poor prediction performance. In this paper, a circular convolutional neural network model based on …
+Cites: ‪Semantic parsing on freebase from question-answer pairs‬

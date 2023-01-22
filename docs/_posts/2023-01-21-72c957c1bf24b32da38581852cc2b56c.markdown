@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "HanoiT: Enhancing Context-aware Translation via Selective Context"
+date:   2023-01-21 07:31:42 -0400
+categories: jekyll update
+author: "J Yang, Y Yin, S Ma, L Yang, H Guo, H Huang… - arXiv preprint arXiv …, 2023"
+---
+Context-aware neural machine translation aims to use the document-level context to improve translation quality. However, not all words in the context are helpful. The irrelevant or trivial words may bring some noise and distract the model from learning the relationship between the current sentence and the auxiliary context. To mitigate this problem, we propose a novel end-to-end encoder-decoder model with a layer-wise selection mechanism to sift and refine the long document context. To verify the …
+Cites: ‪Context-Aware Learning for Neural Machine Translation‬
