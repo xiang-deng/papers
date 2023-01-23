@@ -1,9 +1,0 @@
----
-layout: post
-title:  "TEDB System Description to a Shared Task on Euphemism Detection 2022"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "P Wiriyathammabhum - arXiv preprint arXiv:2301.06602, 2023"
----
-In this report, we describe our Transformers for euphemism detection baseline (TEDB) submissions to a shared task on euphemism detection 2022. We cast the task of predicting euphemism as text classification. We considered Transformer-based models which are the current state-of-the-art methods for text classification. We explored different training schemes, pretrained models, and model architectures. Our best result of 0.816 F1-score (0.818 precision and 0.814 recall) consists of a …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬

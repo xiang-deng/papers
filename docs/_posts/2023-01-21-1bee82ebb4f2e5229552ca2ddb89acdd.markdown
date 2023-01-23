@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Brief Survey on Recent Advances in Coreference Resolution"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "R Liu, R Mao, AT Luu, E Cambria"
----
-The task of resolving repeated objects in natural languages is known as coreference resolution, and it is an important part of modern natural language processing. It is classified into two categories depending on the resolved objects, namely entity coreference resolution and event coreference resolution. Predicting coreference connections and identifying mentions/triggers are the major challenges in coreference resolution, because these implicit relationships are particularly difficult in …
-Cites: ‪A Joint Model for Entity Analysis: Coreference, Typing, and Linking‬
+--- 
+layout: post 
+title: "A Brief Survey on Recent Advances in Coreference Resolution" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "R Liu, R Mao, AT Luu, E Cambria" 
+--- 
+The task of resolving repeated objects in natural languages is known as coreference resolution, and it is an important part of modern natural language processing. It is classified into two categories depending on the resolved objects, namely entity coreference resolution and event coreference resolution. Predicting coreference connections and identifying mentions/triggers are the major challenges in coreference resolution, because these implicit relationships are particularly difficult in  Cites: A Joint Model for Entity Analysis: Coreference, Typing, and Linking

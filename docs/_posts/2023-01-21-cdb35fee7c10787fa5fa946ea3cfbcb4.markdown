@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Recent Advances in Automatic Term Extraction: A survey"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "HTH Tran, M Martinc, J Caporusso, A Doucet, S Pollak - arXiv preprint arXiv …, 2023"
----
-Automatic term extraction (ATE) is a Natural Language Processing (NLP) task that eases the effort of manually identifying terms from domain-specific corpora by providing a list of candidate terms. As units of knowledge in a specific field of expertise, extracted terms are not only beneficial for several terminographical tasks, but also support and improve several complex downstream tasks, eg, information retrieval, machine translation, topic detection, and sentiment analysis. ATE systems …
-Cites: ‪Word Alignment by Fine-tuning Embeddings on Parallel Corpora‬
+--- 
+layout: post 
+title: "The Recent Advances in Automatic Term Extraction: A survey" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "HTH Tran, M Martinc, J Caporusso, A Doucet, S Pollak - arXiv preprint arXiv , 2023" 
+--- 
+Automatic term extraction (ATE) is a Natural Language Processing (NLP) task that eases the effort of manually identifying terms from domain-specific corpora by providing a list of candidate terms. As units of knowledge in a specific field of expertise, extracted terms are not only beneficial for several terminographical tasks, but also support and improve several complex downstream tasks, eg, information retrieval, machine translation, topic detection, and sentiment analysis. ATE systems  Cites: Word Alignment by Fine-tuning Embeddings on Parallel Corpora

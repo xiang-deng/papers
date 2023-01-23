@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A Pragmatic Approach to Stateful Partial Order Reduction"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "SO Mutluergil - … , Model Checking, and Abstract Interpretation: 24th …, 2023"
----
-Partial order reduction (POR) is a classic technique for dealing with the state explosion problem in model checking of concurrent programs. Theoretical optimality, ie, avoiding enumerating equivalent interleavings, does not necessarily guarantee optimal overall performance of the model checking algorithm. The computational overhead required to guarantee optimality may by far cancel out any benefits that an algorithm may have from exploring a smaller state space of interleavings. With a …
-Cites: ‪Learning invariants using decision trees and implication …‬

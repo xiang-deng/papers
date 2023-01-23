@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Engineering the Best In-Context Input for GPT-3 in the OpenQA Task"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "K Huang, G Sullan, O Ebhomielen"
----
-Abstract GPT-3, since its release, has garnered the attention of the NLP community due to its versatility across a wide range of NLP tasks. In this work, we use GPT-3 to approach the OpenQA task, where the model needs to answer input questions without being given the golden passage that contains the correct answer. We work on engineering the GPT-3 input to improve its performance on the OpenQA task in the in-context learning setting. We propose three different incontext learning example …
-Cites: ‪Latent retrieval for weakly supervised open domain question …‬
+--- 
+layout: post 
+title: "Engineering the Best In-Context Input for GPT-3 in the OpenQA Task" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "K Huang, G Sullan, O Ebhomielen" 
+--- 
+Abstract GPT-3, since its release, has garnered the attention of the NLP community due to its versatility across a wide range of NLP tasks. In this work, we use GPT-3 to approach the OpenQA task, where the model needs to answer input questions without being given the golden passage that contains the correct answer. We work on engineering the GPT-3 input to improve its performance on the OpenQA task in the in-context learning setting. We propose three different incontext learning example  Cites: Latent retrieval for weakly supervised open domain question

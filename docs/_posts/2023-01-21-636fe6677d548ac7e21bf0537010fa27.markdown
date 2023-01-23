@@ -1,9 +1,0 @@
----
-layout: post
-title:  "双特征融合注意力的方面情感分析模型"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "李锦， 夏鸿斌， 刘渊 - 计算机科学与探索"
----
-方面情感分析旨在预测句子或文档中一个特定方面的情感极性, 现阶段大部分的研究都是使用注意力机制对上下文进行建模. 然而, 目前情感分类模型在使用BERT 模型计算表征之间的依赖关系抽取特征时, 大多未根据不同的语境背景考虑上下文信息, 而导致建模后的特征缺乏上下文的语境信息. 同时, 方面词的重要性未能得到充分的重视而影响模型整体分类的性能. 针对上述问题, 本文提出基于双特征融合注意力的方面情感分析模型(Dual Features Local-Global Attention with BERT, DFLGA-BERT) …
-Cites: ‪Aspect level sentiment classification with deep memory network‬

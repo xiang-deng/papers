@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Hawk: An Industrial-strength Multi-label Document Classifier"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "A Javeed - arXiv preprint arXiv:2301.06057, 2023"
----
-There are a plethora of methods and algorithms that solve the classical multi-label document classification. However, when it comes to deployment and usage in an industry setting, most, if not all the contemporary approaches fail to address some of the vital aspects or requirements of an ideal solution: i. ability to operate on variable-length texts and rambling documents. ii. catastrophic forgetting problem. iii. modularity when it comes to online learning and updating the model. iv. ability to …
-Cites: ‪Deep unordered composition rivals syntactic methods for text …‬

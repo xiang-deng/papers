@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "Y Li, ME Ildiz, D Papailiopoulos, S Oymak - arXiv preprint arXiv:2301.07067, 2023"
----
-In-context learning (ICL) is a type of prompting where a transformer model operates on a sequence of (input, output) examples and performs inference on-the-fly. This implicit training is in contrast to explicitly tuning the model weights based on examples. In this work, we formalize in-context learning as an algorithm learning problem, treating the transformer model as a learning algorithm that can be specialized via training to implement-at inference-time-another target algorithm. We …
-Cites: ‪What can transformers learn in-context? a case study of simple …‬
+--- 
+layout: post 
+title: "Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "Y Li, ME Ildiz, D Papailiopoulos, S Oymak - arXiv preprint arXiv:2301.07067, 2023" 
+--- 
+In-context learning (ICL) is a type of prompting where a transformer model operates on a sequence of (input, output) examples and performs inference on-the-fly. This implicit training is in contrast to explicitly tuning the model weights based on examples. In this work, we formalize in-context learning as an algorithm learning problem, treating the transformer model as a learning algorithm that can be specialized via training to implement-at inference-time-another target algorithm. We  Cites: What can transformers learn in-context? a case study of simple

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Design of the 1D CNN–GRU Network Based on the RCS for Classification of Multiclass Missiles"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "AR Kim, HS Kim, CH Kang, SY Kim - Remote Sensing, 2023"
----
-For real-time target classification, a study was conducted to improve the AI-based target classification performance using RCS measurements that are vulnerable to noise, but can be obtained quickly. To compensate for the shortcomings of the RCS, a 1D CNN–GRU network with strengths in feature extraction and time-series processing was considered. The 1D CNN–GRU was experimentally changed and designed to fit the RCS characteristics. The performance of the proposed 1D CNN …
-Cites: ‪Learning phrase representations using RNN encoder-decoder for …‬
+--- 
+layout: post 
+title: "The Design of the 1D CNNGRU Network Based on the RCS for Classification of Multiclass Missiles" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "AR Kim, HS Kim, CH Kang, SY Kim - Remote Sensing, 2023" 
+--- 
+For real-time target classification, a study was conducted to improve the AI-based target classification performance using RCS measurements that are vulnerable to noise, but can be obtained quickly. To compensate for the shortcomings of the RCS, a 1D CNNGRU network with strengths in feature extraction and time-series processing was considered. The 1D CNNGRU was experimentally changed and designed to fit the RCS characteristics. The performance of the proposed 1D CNN  Cites: Learning phrase representations using RNN encoder-decoder for

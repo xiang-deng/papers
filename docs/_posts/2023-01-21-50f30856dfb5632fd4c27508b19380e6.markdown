@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph-based Keyword Planning for Legal Clause Generation from Topics"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "S Joshi, S Balaji, A Garimella, V Varma - arXiv preprint arXiv:2301.06901, 2023"
----
-Generating domain-specific content such as legal clauses based on minimal user-provided information can be of significant benefit in automating legal contract generation. In this paper, we propose a controllable graph-based mechanism that can generate legal clauses using only the topic or type of the legal clauses. Our pipeline consists of two stages involving a graph-based planner followed by a clause generator. The planner outlines the content of a legal clause as a sequence of …
-Cites: ‪Plot induction and evolutionary search for story generation‬
+--- 
+layout: post 
+title: "Graph-based Keyword Planning for Legal Clause Generation from Topics" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "S Joshi, S Balaji, A Garimella, V Varma - arXiv preprint arXiv:2301.06901, 2023" 
+--- 
+Generating domain-specific content such as legal clauses based on minimal user-provided information can be of significant benefit in automating legal contract generation. In this paper, we propose a controllable graph-based mechanism that can generate legal clauses using only the topic or type of the legal clauses. Our pipeline consists of two stages involving a graph-based planner followed by a clause generator. The planner outlines the content of a legal clause as a sequence of  Cites: Plot induction and evolutionary search for story generation

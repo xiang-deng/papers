@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AutoDDL: Automatic Distributed Deep Learning with Asymptotically Optimal Communication"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "J Chen, S Li, R Gun, J Yuan, T Hoefler - arXiv preprint arXiv:2301.06813, 2023"
----
-Recent advances in deep learning base on growing model sizes and the necessary scaling of compute power. Training such large-scale models requires an intricate combination of data-, operator-, and pipeline parallelism in complex distributed systems. We show how to use OneFlow s Split, Broadcast, and Partial Sum (SBP) tensor formulations to enable new distributed training methods with asymptotically optimal communication overheads. Using these insights, we develop AutoDDL, a …
-Cites: ‪Glam: Efficient scaling of language models with mixture-of-experts‬
+--- 
+layout: post 
+title: "AutoDDL: Automatic Distributed Deep Learning with Asymptotically Optimal Communication" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "J Chen, S Li, R Gun, J Yuan, T Hoefler - arXiv preprint arXiv:2301.06813, 2023" 
+--- 
+Recent advances in deep learning base on growing model sizes and the necessary scaling of compute power. Training such large-scale models requires an intricate combination of data-, operator-, and pipeline parallelism in complex distributed systems. We show how to use OneFlow s Split, Broadcast, and Partial Sum (SBP) tensor formulations to enable new distributed training methods with asymptotically optimal communication overheads. Using these insights, we develop AutoDDL, a  Cites: Glam: Efficient scaling of language models with mixture-of-experts

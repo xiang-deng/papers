@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Word Embeddings as Statistical Estimators"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "N Dey, M Singer, JP Williams, S Sengupta - arXiv preprint arXiv:2301.06710, 2023"
----
-Word embeddings are a fundamental tool in natural language processing. Currently, word embedding methods are evaluated on the basis of empirical performance on benchmark data sets, and there is a lack of rigorous understanding of their theoretical properties. This paper studies word embeddings from a statistical theoretical perspective, which is essential for formal inference and uncertainty quantification. We propose a copula-based statistical model for text data and show …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Word Embeddings as Statistical Estimators" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "N Dey, M Singer, JP Williams, S Sengupta - arXiv preprint arXiv:2301.06710, 2023" 
+--- 
+Word embeddings are a fundamental tool in natural language processing. Currently, word embedding methods are evaluated on the basis of empirical performance on benchmark data sets, and there is a lack of rigorous understanding of their theoretical properties. This paper studies word embeddings from a statistical theoretical perspective, which is essential for formal inference and uncertainty quantification. We propose a copula-based statistical model for text data and show  Cites: Deep contextualized word representations

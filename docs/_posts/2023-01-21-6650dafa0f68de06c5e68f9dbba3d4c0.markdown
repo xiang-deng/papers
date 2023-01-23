@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Effective entity matching with transformers"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "Y Li, J Li, Y Suhara, AH Doan, WC Tan - The VLDB Journal, 2023"
----
-We present Ditto, a novel entity matching system based on pre-trained Transformer language models. We fine-tune and cast EM as a sequence-pair classification problem to leverage such models with a simple architecture. Our experiments show that a straightforward application of language models such as BERT, DistilBERT, or RoBERTa pre-trained on large text corpora already significantly improves the matching quality and outperforms previous state-of-the-art (SOTA), by up to 29% of F …
-Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬
+--- 
+layout: post 
+title: "Effective entity matching with transformers" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "Y Li, J Li, Y Suhara, AH Doan, WC Tan - The VLDB Journal, 2023" 
+--- 
+We present Ditto, a novel entity matching system based on pre-trained Transformer language models. We fine-tune and cast EM as a sequence-pair classification problem to leverage such models with a simple architecture. Our experiments show that a straightforward application of language models such as BERT, DistilBERT, or RoBERTa pre-trained on large text corpora already significantly improves the matching quality and outperforms previous state-of-the-art (SOTA), by up to 29% of F  Cites: Bart: Denoising sequence-to-sequence pre-training for natural

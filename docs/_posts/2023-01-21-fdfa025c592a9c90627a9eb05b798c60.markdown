@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Syntactically Robust Training on Partially-Observed Data for Open Information Extraction"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "J Qi, Y Chen, L Hou, J Li, B Xu - arXiv preprint arXiv:2301.06841, 2023"
----
-Open Information Extraction models have shown promising results with sufficient supervision. However, these models face a fundamental challenge that the syntactic distribution of training data is partially observable in comparison to the real world. In this paper, we propose a syntactically robust training framework that enables models to be trained on a syntactic-abundant distribution based on diverse paraphrase generation. To tackle the intrinsic problem of knowledge deformation of …
-Cites: ‪Assertion-based QA with question-aware open information extraction‬
+--- 
+layout: post 
+title: "Syntactically Robust Training on Partially-Observed Data for Open Information Extraction" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "J Qi, Y Chen, L Hou, J Li, B Xu - arXiv preprint arXiv:2301.06841, 2023" 
+--- 
+Open Information Extraction models have shown promising results with sufficient supervision. However, these models face a fundamental challenge that the syntactic distribution of training data is partially observable in comparison to the real world. In this paper, we propose a syntactically robust training framework that enables models to be trained on a syntactic-abundant distribution based on diverse paraphrase generation. To tackle the intrinsic problem of knowledge deformation of  Cites: Assertion-based QA with question-aware open information extraction

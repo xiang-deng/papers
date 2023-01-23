@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enriching Relation representation vectors using Entity types and Dependency parse For Entity and Relation Extraction Model"
-date:   2023-01-21 07:31:42 -0400
-categories: jekyll update
-author: "BLN Min, QT Tho - 2022 RIVF International Conference on Computing and …, 2022"
----
-Joint entity and relation extraction is a branch of information extraction, from the input sentence, the model identifies named entities and the relation between them. In this paper, we propose two models for joint entity and relation extraction, including (1) SpERT. ET: uses entity types of two spans and update gate to enrich relation representation vector,(2) SpERT. PDP: integrates Dependency parse information of the words to enrich relation representation vector. Our models outperform baseline …
-Cites: ‪A General Framework for Information Extraction using Dynamic …‬
+--- 
+layout: post 
+title: "Enriching Relation representation vectors using Entity types and Dependency parse For Entity and Relation Extraction Model" 
+date: 2023-01-21 07:31:42 -0400 
+categories: jekyll update 
+author: "BLN Min, QT Tho - 2022 RIVF International Conference on Computing and , 2022" 
+--- 
+Joint entity and relation extraction is a branch of information extraction, from the input sentence, the model identifies named entities and the relation between them. In this paper, we propose two models for joint entity and relation extraction, including (1) SpERT. ET: uses entity types of two spans and update gate to enrich relation representation vector,(2) SpERT. PDP: integrates Dependency parse information of the words to enrich relation representation vector. Our models outperform baseline  Cites: A General Framework for Information Extraction using Dynamic
