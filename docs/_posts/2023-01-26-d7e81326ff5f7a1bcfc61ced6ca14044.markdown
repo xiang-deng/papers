@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Auxiliary Variables help Improving Group Robustness Through Bias Amplification"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "J Liu, M Wu"
+---
+Neural networks produced by standard training tend to suffer from poor accuracy on rare subgroups despite achieving high accuracy on average due to the spurious correlation. Previously we proposed BAM, a novel two-stage training algorithm, comprising a bias amplification stage with the learnable auxiliary variable and rebalanced training stage using upweighted error samples, which empirically improves the worst-group accuracy in various benchmarks with state-of-the-art …
+Cites: ‪Just train twice: Improving group robustness without training group …‬

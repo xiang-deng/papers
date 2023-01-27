@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Application of Pretrained Large Language Models in Embodied Artificial Intelligence"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "AK Kovalev, AI Panov - Doklady Mathematics, 2023"
+---
+A feature of tasks in embodied artificial intelligence is that a query to an intelligent agent is formulated in natural language. As a result, natural language processing methods have to be used to transform the query into a format convenient for generating an appropriate action plan. There are two basic approaches to the solution of this problem. One is based on specialized models trained with particular instances of instructions translated into agent-executable format. The other approach …
+Cites: ‪Palm: Scaling language modeling with pathways‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BiShuffleNeXt: A lightweight bi-path network for remote sensing scene classification"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "Z Chen, J Yang, Z Feng, L Chen, L Li - Measurement, 2023"
+---
+To address the problem of excessive computation in the remote sensing scene classification (RSSC) algorithms, this paper proposes an efficient RSSC model, which is named BiShuffleNeXt. Firstly, we use the sandglass bottleneck to design the ShuffleNeXt as a context path for deep semantic information extraction. Secondly, the spatial path consists of three sandglass bottlenecks, each with a stride of 2, to retain more spatial information and obtain a high-resolution feature map. Finally, the …
+Cites: ‪Efficientnetv2: Smaller models and faster training‬

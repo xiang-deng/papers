@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bidirectional Sentence Ordering with Interactive Decoding"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "G Bai, S He, K Liu, J Zhao - ACM Transactions on Asian and Low-Resource …, 2023"
+---
+Sentence ordering aims at restoring orders of shuffled sentences in a paragraph. Previous methods usually predict orders in a single direction, ie, from head to tail. However, unidirectional prediction inevitably causes error accumulation, which restricts performance. In this paper, we propose a bidirectional ordering method, which predicts orders in both head-to-tail and tail-to-head directions at the same time. In our bidirectional ordering method, two directions can interact with each other …
+Cites: ‪Inducing document plans for concept-to-text generation‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Foresee What You Will Learn: Data Augmentation for Domain Generalization in Non-Stationary Environments"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "Q Zeng, W Wang, F Zhou, C Ling, B Wang - arXiv preprint arXiv:2301.07845, 2023"
+---
+Existing domain generalization aims to learn a generalizable model to perform well even on unseen domains. For many real-world machine learning applications, the data distribution often shifts gradually along domain indices. For example, a self-driving car with a vision system drives from dawn to dusk, with the sky darkening gradually. Therefore, the system must be able to adapt to changes in ambient illumination and continue to drive safely on the road. In this paper, we formulate such …
+Cites: ‪Understanding self-training for gradual domain adaptation‬

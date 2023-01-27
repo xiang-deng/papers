@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Using materialized views for answering graph pattern queries"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "M Lan - 2022"
+---
+Discovering patterns in graphs by evaluating graph pattern queries involving direct (edge-to-edge mapping) and reachability (edge-to-path mapping) relationships under homomorphisms on data graphs has been extensively studied. Previous studies have aimed to reduce the evaluation time of graph pattern queries due to the potentially numerous matches on large data graphs.
+Cites: ‪Answering queries using views: A survey‬

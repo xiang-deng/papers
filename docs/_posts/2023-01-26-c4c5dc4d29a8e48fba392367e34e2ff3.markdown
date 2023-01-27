@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Analysis of the Automatic Bug Fixing Performance of ChatGPT"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "D Sobania, M Briesch, C Hanna, J Petke - arXiv preprint arXiv:2301.08653, 2023"
+---
+To support software developers in finding and fixing software bugs, several automated program repair techniques have been introduced. Given a test suite, standard methods usually either synthesize a repair, or navigate a search space of software edits to find test-suite passing variants. Recent program repair methods are based on deep learning approaches. One of these novel methods, which is not primarily intended for automated program repair, but is still suitable for it, is ChatGPT …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

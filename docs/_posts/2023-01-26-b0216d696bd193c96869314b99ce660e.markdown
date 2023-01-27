@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fast Clustering via Maximizing Adaptively Within-Class Similarity"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "J Xue, F Nie, R Wang, L Zhang, X Li - IEEE Transactions on Neural Networks and …, 2023"
+---
+Clustering aims to make data points in the same group have higher similarity or make data points in different groups have lower similarity. Therefore, we propose three novel fast clustering models motivated by maximizing within-class similarity, which can obtain more instinct clustering structure of data. Different from traditional clustering methods, we divide all $ n $ samples into $ m $ classes by the pseudo label propagation algorithm first, and then $ m $ classes are merged to $ c $ classes …
+Cites: ‪Learning with Local and Global Consistency.‬

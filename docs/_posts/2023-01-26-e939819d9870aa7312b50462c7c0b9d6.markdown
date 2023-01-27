@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopically Rational Followers?"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "H Zhong, Z Yang, Z Wang, MI Jordan - Journal of Machine Learning Research, 2023"
+---
+We study multi-player general-sum Markov games with one of the players designated as the leader and the other players regarded as followers. In particular, we focus on the class of games where the followers are myopically rational; ie, they aim to maximize their instantaneous rewards. For such a game, our goal is to find a Stackelberg-Nash equilibrium (SNE), which is a policy pair (π∗, ν∗) such that:(i) π∗ is the optimal policy for the leader when the followers always play their best …
+Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬

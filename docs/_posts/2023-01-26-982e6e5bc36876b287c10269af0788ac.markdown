@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Conflict-Noticed Architecture for Multi-Task Learning"
+date:   2023-01-26 15:19:03 -0400
+categories: jekyll update
+author: "Z Yue, Y Zhang, J Liang - parameters, 2023"
+---
+Multi-task learning has been widely used in many applications to enable more efficient learning by sharing part of the architecture across multiple tasks. However, a major challenge is the gradient conflict when optimizing the shared parameters, where the gradients of different tasks could have opposite directions. Directly averaging those gradients will impair the performance of some tasks and cause negative transfer. Different from most existing works that manipulate gradients to …
+Cites: ‪XTREME: A massively multilingual multi-task benchmark for …‬
