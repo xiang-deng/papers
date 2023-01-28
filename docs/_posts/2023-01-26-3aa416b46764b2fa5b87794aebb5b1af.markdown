@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adaptive curvature exploration geometric graph neural network"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "X Fu, J Li, J Wu, J Qin, Q Sun, C Ji, S Wang, H Peng… - Knowledge and Information …, 2023"
----
-Abstract Graph Neural networks (GNNs) which are powerful and widely applied models are based on the assumption that graph topologies play key roles in the graph representation learning. However, the existing GNN methods are based on the Euclidean space embedding, which is difficult to represent a variety of graph geometric properties well. Recently, Riemannian geometries have been introduced into GNNs, such as Hyperbolic Graph Neural Networks proposed for the hierarchy …
-Cites: ‪Spherical Latent Spaces for Stable Variational Autoencoders‬
+--- 
+layout: post 
+title: "Adaptive curvature exploration geometric graph neural network" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "X Fu, J Li, J Wu, J Qin, Q Sun, C Ji, S Wang, H Peng - Knowledge and Information , 2023" 
+--- 
+Abstract Graph Neural networks (GNNs) which are powerful and widely applied models are based on the assumption that graph topologies play key roles in the graph representation learning. However, the existing GNN methods are based on the Euclidean space embedding, which is difficult to represent a variety of graph geometric properties well. Recently, Riemannian geometries have been introduced into GNNs, such as Hyperbolic Graph Neural Networks proposed for the hierarchy  Cites: Spherical Latent Spaces for Stable Variational Autoencoders

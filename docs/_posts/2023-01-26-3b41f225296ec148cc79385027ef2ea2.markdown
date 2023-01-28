@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RotatSAGE: A Scalable Knowledge Graph Embedding Model Based on Translation Assumptions and Graph Neural Networks"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "Y Ma, Y Ding, G Wang - Data Mining and Big Data: 7th International …, 2023"
----
-Abstract Knowledge graphs have been widely used in numerous AI applications. In this paper, we propose an efficient knowledge graph embedding model called RotatSAGE by combining the RotatE model and the GraphSAGE model. In the proposed model the RotatE model is used to learn the embedding vectors of heterogeneous entities and relations in a knowledge graph. One problem of the RotatE model is that it only can learn from a single triplet and cannot take advantage …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "RotatSAGE: A Scalable Knowledge Graph Embedding Model Based on Translation Assumptions and Graph Neural Networks" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "Y Ma, Y Ding, G Wang - Data Mining and Big Data: 7th International , 2023" 
+--- 
+Abstract Knowledge graphs have been widely used in numerous AI applications. In this paper, we propose an efficient knowledge graph embedding model called RotatSAGE by combining the RotatE model and the GraphSAGE model. In the proposed model the RotatE model is used to learn the embedding vectors of heterogeneous entities and relations in a knowledge graph. One problem of the RotatE model is that it only can learn from a single triplet and cannot take advantage  Cites: Observed versus latent features for knowledge base and text

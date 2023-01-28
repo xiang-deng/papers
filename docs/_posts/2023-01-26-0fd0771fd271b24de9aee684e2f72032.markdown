@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Row-based hierarchical graph network for multi-hop question answering over textual and tabular data"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "P Yang, W Li, G Zhao, X Zha - The Journal of Supercomputing, 2023"
----
-Abstract Multi-hop Question Answering over heterogeneous data is a challenging task in Natural Language Processing (NLP), which aims to find the answer among heterogeneous data sources and reasoning chains. When facing complex reasoning scenarios, most existing QA systems can only focus on some specific types of data. To solve this issue, we propose a new approach based on Row Hierarchical Graph Network (RHGN), which can accomplish multi-hop QA over both textual and tabular …
-Cites: ‪SpanBERT: Improving Pre-training by Representing and Predicting …‬
+--- 
+layout: post 
+title: "Row-based hierarchical graph network for multi-hop question answering over textual and tabular data" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "P Yang, W Li, G Zhao, X Zha - The Journal of Supercomputing, 2023" 
+--- 
+Abstract Multi-hop Question Answering over heterogeneous data is a challenging task in Natural Language Processing (NLP), which aims to find the answer among heterogeneous data sources and reasoning chains. When facing complex reasoning scenarios, most existing QA systems can only focus on some specific types of data. To solve this issue, we propose a new approach based on Row Hierarchical Graph Network (RHGN), which can accomplish multi-hop QA over both textual and tabular  Cites: SpanBERT: Improving Pre-training by Representing and Predicting

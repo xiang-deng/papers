@@ -1,9 +1,8 @@
----
-layout: post
-title:  "High-Dimensional Data Cubes"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "SB John, C Koch - Proceedings of the VLDB Endowment, 2022"
----
-This paper introduces an approach to supporting high-dimensional data cubes at interactive query speeds and moderate storage cost. The approach is based on binary (-domain) data cubes that are judiciously partially materialized; the missing information can be quickly reconstructed using statistical or linear programming techniques. This enables new applications such as exploratory data analysis for feature engineering and other fields of data science. Moreover, it removes the need …
-Cites: ‪Answering queries with aggregation using views‬
+--- 
+layout: post 
+title: "High-Dimensional Data Cubes" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "SB John, C Koch - Proceedings of the VLDB Endowment, 2022" 
+--- 
+This paper introduces an approach to supporting high-dimensional data cubes at interactive query speeds and moderate storage cost. The approach is based on binary (-domain) data cubes that are judiciously partially materialized; the missing information can be quickly reconstructed using statistical or linear programming techniques. This enables new applications such as exploratory data analysis for feature engineering and other fields of data science. Moreover, it removes the need  Cites: Answering queries with aggregation using views

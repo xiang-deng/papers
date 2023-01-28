@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A Linearization Framework for Dependency and Constituent Trees"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "D Roca Rodríguez - 2022"
----
-Parsing is a core natural language processing problem in which, given an input raw sentence, a model automatically produces a structured output that represents its syntactic structure. The most common formalisms in this field are constituent and dependency parsing. Although both formalisms show differences, they also share limitations, in particular the limited speed of the models to obtain the desired representation, and the lack of a common representation that allows any end-to-end …
-Cites: ‪Universal dependencies v2: An evergrowing multilingual treebank …‬

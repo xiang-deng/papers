@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aspect-level sentiment analysis based on semantic heterogeneous graph convolutional network"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "Y Zeng, Z Li, Z Chen, H Ma - Frontiers of Computer Science, 2023"
----
-The deep learning methods based on syntactic dependency tree have achieved great success on Aspect-based Sentiment Analysis (ABSA). However, the accuracy of the dependency parser cannot be determined, which may keep aspect words away from its related opinion words in a dependency tree. Moreover, few models incorporate external affective knowledge for ABSA. Based on this, we propose a novel architecture to tackle the above two limitations, while fills up the gap in …
-Cites: ‪A Fast and Accurate Dependency Parser using Neural Networks‬
+--- 
+layout: post 
+title: "Aspect-level sentiment analysis based on semantic heterogeneous graph convolutional network" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "Y Zeng, Z Li, Z Chen, H Ma - Frontiers of Computer Science, 2023" 
+--- 
+The deep learning methods based on syntactic dependency tree have achieved great success on Aspect-based Sentiment Analysis (ABSA). However, the accuracy of the dependency parser cannot be determined, which may keep aspect words away from its related opinion words in a dependency tree. Moreover, few models incorporate external affective knowledge for ABSA. Based on this, we propose a novel architecture to tackle the above two limitations, while fills up the gap in  Cites: A Fast and Accurate Dependency Parser using Neural Networks

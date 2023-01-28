@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automatic Consistency Checking of Table and Text in Financial Documents"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "SM Ali, T Deußer, S Houben, L Hillebrand, T Metzler… - Proceedings of the Northern …, 2023"
----
-A company s financial documents use tables along with text to organize the data containing key performance indicators (KPIs)(such as profit and loss) and a financial quantity linked to them. The KPI s linked quantity in a table might not be equal to the similarly described KPI s quantity in a text. Auditors take substantial time to manually audit these financial mistakes and this process is called consistency checking. As compared to existing work, this paper attempts to automate this task with the help of …
-Cites: ‪Structure-Grounded Pretraining for Text-to-SQL‬
+--- 
+layout: post 
+title: "Automatic Consistency Checking of Table and Text in Financial Documents" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "SM Ali, T Deuer, S Houben, L Hillebrand, T Metzler - Proceedings of the Northern , 2023" 
+--- 
+A company s financial documents use tables along with text to organize the data containing key performance indicators (KPIs)(such as profit and loss) and a financial quantity linked to them. The KPI s linked quantity in a table might not be equal to the similarly described KPI s quantity in a text. Auditors take substantial time to manually audit these financial mistakes and this process is called consistency checking. As compared to existing work, this paper attempts to automate this task with the help of  Cites: Structure-Grounded Pretraining for Text-to-SQL

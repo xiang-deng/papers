@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Supplementary materials for: Semi-Supervised Learning with Decision Trees: Graph Laplacian Tree Alternating Optimization"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "A Zharmagambetov, MÁ Carreira-Perpiñán"
----
-In this supplementary material, we provide the following: 1) Pseudocodes for LapTAO and TAO (section 1); 2) Derivation of the solution for the label-step (section 2); 3) How to accelerate the “label–step” in LapTAO (section 3); 4) Description of the experimental setup: datasets, comparison methods, hyperparameters, etc.(section 4); 5) Additional experimental results (section 5): comparison with SSCT [6] and EBBS, decision tree visualizations, etc.
-Cites: ‪Learning with Local and Global Consistency.‬
+--- 
+layout: post 
+title: "Supplementary materials for: Semi-Supervised Learning with Decision Trees: Graph Laplacian Tree Alternating Optimization" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "A Zharmagambetov, M Carreira-Perpin" 
+--- 
+In this supplementary material, we provide the following: 1) Pseudocodes for LapTAO and TAO (section 1); 2) Derivation of the solution for the label-step (section 2); 3) How to accelerate the labelstep in LapTAO (section 3); 4) Description of the experimental setup: datasets, comparison methods, hyperparameters, etc.(section 4); 5) Additional experimental results (section 5): comparison with SSCT [6] and EBBS, decision tree visualizations, etc.  Cites: Learning with Local and Global Consistency.

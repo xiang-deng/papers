@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Research on Multi-channel Retrieve Mechanism Based on Heuristic"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "S Ning, K Liu, C Wang, S Jiang, Q Wang - … Conference on Data Mining and Big Data, 2022"
----
-Search system is a crucial component in information systems, that is to retrieve the relevant documents by the specific query. There are many search retrieve algorithms, almost all focus on a specific domain of retrieve algorithms, such as text matching, tag matching, semantic matching. However, in a real search system, the purpose of the retrieve module is to find the documents related to the specified query as fully as possible, so it requires that the search system should contain multiple forms of …
-Cites: ‪Linguistic regularities in continuous space word representations‬
+--- 
+layout: post 
+title: "Research on Multi-channel Retrieve Mechanism Based on Heuristic" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "S Ning, K Liu, C Wang, S Jiang, Q Wang - Conference on Data Mining and Big Data, 2022" 
+--- 
+Search system is a crucial component in information systems, that is to retrieve the relevant documents by the specific query. There are many search retrieve algorithms, almost all focus on a specific domain of retrieve algorithms, such as text matching, tag matching, semantic matching. However, in a real search system, the purpose of the retrieve module is to find the documents related to the specified query as fully as possible, so it requires that the search system should contain multiple forms of  Cites: Linguistic regularities in continuous space word representations

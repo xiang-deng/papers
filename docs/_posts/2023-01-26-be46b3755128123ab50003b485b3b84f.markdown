@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Ontology Pre-training for Poison Prediction"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "M Glauer, F Neuhaus, T Mossakowski, J Hastings - arXiv preprint arXiv:2301.08577, 2023"
----
-Integrating human knowledge into neural networks has the potential to improve their robustness and interpretability. We have developed a novel approach to integrate knowledge from ontologies into the structure of a Transformer network which we call ontology pre-training: we train the network to predict membership in ontology classes as a way to embed the structure of the ontology into the network, and subsequently fine-tune the network for the particular prediction task. We apply this approach to a …
-Cites: ‪BERTology meets biology: interpreting attention in protein …‬

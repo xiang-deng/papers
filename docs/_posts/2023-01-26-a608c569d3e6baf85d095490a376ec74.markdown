@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Constructing meaningful code changes via graph transformer"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "S Guo, M Li, X Ge, H Li, R Chen, T Li - IET Software, 2023"
----
-The rapid development of Open‐Source Software (OSS) has resulted in a significant demand for code changes to maintain OSS. Symptoms of poor design and implementation choices in code changes often occur, thus heavily hindering code reviewers to verify correctness and soundness of code changes. Researchers have investigated how to learn meaningful code changes to assist developers in anticipating changes that code reviewers may suggest for the submitted code …
-Cites: ‪Learning to represent edits‬
+--- 
+layout: post 
+title: "Constructing meaningful code changes via graph transformer" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "S Guo, M Li, X Ge, H Li, R Chen, T Li - IET Software, 2023" 
+--- 
+The rapid development of OpenSource Software (OSS) has resulted in a significant demand for code changes to maintain OSS. Symptoms of poor design and implementation choices in code changes often occur, thus heavily hindering code reviewers to verify correctness and soundness of code changes. Researchers have investigated how to learn meaningful code changes to assist developers in anticipating changes that code reviewers may suggest for the submitted code  Cites: Learning to represent edits

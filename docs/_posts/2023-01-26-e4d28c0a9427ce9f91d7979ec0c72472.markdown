@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Survey of Meta-Reinforcement Learning"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "J Beck, R Vuorio, EZ Liu, Z Xiong, L Zintgraf, C Finn… - arXiv preprint arXiv …, 2023"
----
-While deep reinforcement learning (RL) has fueled multiple high-profile successes in machine learning, it is held back from more widespread adoption by its often poor data efficiency and the limited generality of the policies it produces. A promising approach for alleviating these limitations is to cast the development of better RL algorithms as a machine learning problem itself in a process called meta-RL. Meta-RL is most commonly studied in a problem setting where, given a distribution of …
-Cites: ‪Decoupling exploration and exploitation for meta-reinforcement …‬
+--- 
+layout: post 
+title: "A Survey of Meta-Reinforcement Learning" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "J Beck, R Vuorio, EZ Liu, Z Xiong, L Zintgraf, C Finn - arXiv preprint arXiv , 2023" 
+--- 
+While deep reinforcement learning (RL) has fueled multiple high-profile successes in machine learning, it is held back from more widespread adoption by its often poor data efficiency and the limited generality of the policies it produces. A promising approach for alleviating these limitations is to cast the development of better RL algorithms as a machine learning problem itself in a process called meta-RL. Meta-RL is most commonly studied in a problem setting where, given a distribution of  Cites: Decoupling exploration and exploitation for meta-reinforcement

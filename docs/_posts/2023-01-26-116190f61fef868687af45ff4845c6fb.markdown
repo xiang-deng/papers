@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Combining graph attention mechanism and PageRank to learn graph-level representations"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "L Wei - 2022"
----
-Graph convolutional neural networks (GCNs) have revolutionized the field of representation learning on graph data with non-Euclidean properties. As one of its variants, Graph attention networks (GATs) leverage masked self-attentional layers to specify different weights when aggregating node features over the neighbourhoods of graphs. GATs have achieved the state-of-the-arts results across many benchmarking datasets for the task of node classification. However, this method is …
-Cites: ‪Reasoning over semantic-level graph for fact checking‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Link Prediction in Knowledge Graphs"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "J Cappadona, C Reed"
----
-Abstract Knowledge graphs represent a special kind of directed graph in which entities (nodes) are connected by labeled relations (edges). An important and longstanding task in the domain of knowledge graphs is predicting new links between entities given an incomplete subset of the relations in the graph. In this paper, we survey an evolution of approaches that have been proposed and tested for link prediction which exploit existing relations and features of nodes within a …
-Cites: ‪Efficient and Expressive Knowledge Base Completion Using …‬
+--- 
+layout: post 
+title: "Link Prediction in Knowledge Graphs" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "J Cappadona, C Reed" 
+--- 
+Abstract Knowledge graphs represent a special kind of directed graph in which entities (nodes) are connected by labeled relations (edges). An important and longstanding task in the domain of knowledge graphs is predicting new links between entities given an incomplete subset of the relations in the graph. In this paper, we survey an evolution of approaches that have been proposed and tested for link prediction which exploit existing relations and features of nodes within a  Cites: Efficient and Expressive Knowledge Base Completion Using

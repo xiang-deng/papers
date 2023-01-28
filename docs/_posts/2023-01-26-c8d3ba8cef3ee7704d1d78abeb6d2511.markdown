@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fine-Grained Interaction Modeling with Multi-Relational Transformer for Knowledge Tracing"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "J Cui, Z Chen, A Zhou, J Wang, W Zhang - ACM Transactions on Information Systems, 2023"
----
-Knowledge tracing, the goal of which is predicting students  future performance given their past question response sequences to trace their knowledge states, is pivotal for computer-aided education and intelligent tutoring systems. Although many technical efforts have been devoted to modeling students based on their question-response sequences, fine-grained interaction modeling between question-response pairs within each sequence is underexplored. This causes question-response …
-Cites: ‪What does BERT look at? An analysis of BERT s attention‬
+--- 
+layout: post 
+title: "Fine-Grained Interaction Modeling with Multi-Relational Transformer for Knowledge Tracing" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "J Cui, Z Chen, A Zhou, J Wang, W Zhang - ACM Transactions on Information Systems, 2023" 
+--- 
+Knowledge tracing, the goal of which is predicting students future performance given their past question response sequences to trace their knowledge states, is pivotal for computer-aided education and intelligent tutoring systems. Although many technical efforts have been devoted to modeling students based on their question-response sequences, fine-grained interaction modeling between question-response pairs within each sequence is underexplored. This causes question-response  Cites: What does BERT look at? An analysis of BERT s attention

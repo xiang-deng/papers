@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-path Back-propagation Method for Neural Network Verification."
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "Y Zheng, X Shi, J Liu - International Journal of Software & Informatics, 2022"
----
-Symbolic propagation methods based on linear abstraction play a significant role in neural network verification. This paper proposes the notion of multi-path back-propagation for such methods. Existing methods are viewed as using only a single back-propagation path to calculate the upper and lower bounds of each node in a given neural network, so they are specific instances under the proposed notion. Leveraging multiple back-propagation paths effectively improves the accuracy of this …
-Cites: ‪Enabling certification of verification-agnostic networks via memory …‬
+--- 
+layout: post 
+title: "Multi-path Back-propagation Method for Neural Network Verification." 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "Y Zheng, X Shi, J Liu - International Journal of Software & Informatics, 2022" 
+--- 
+Symbolic propagation methods based on linear abstraction play a significant role in neural network verification. This paper proposes the notion of multi-path back-propagation for such methods. Existing methods are viewed as using only a single back-propagation path to calculate the upper and lower bounds of each node in a given neural network, so they are specific instances under the proposed notion. Leveraging multiple back-propagation paths effectively improves the accuracy of this  Cites: Enabling certification of verification-agnostic networks via memory

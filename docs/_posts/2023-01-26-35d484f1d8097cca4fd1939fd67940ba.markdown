@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Which Features are Learned by CodeBert: An Empirical Study of the BERT-based Source Code Representation Learning"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "L Zhang, C Cao, Z Wang, P Liu - arXiv preprint arXiv:2301.08427, 2023"
----
-The Bidirectional Encoder Representations from Transformers (BERT) were proposed in the natural language process (NLP) and shows promising results. Recently researchers applied the BERT to source-code representation learning and reported some good news on several downstream tasks. However, in this paper, we illustrated that current methods cannot effectively understand the logic of source codes. The representation of source code heavily relies on the programmer-defined …
-Cites: ‪Detecting formal thought disorder by deep contextualized word …‬
+--- 
+layout: post 
+title: "Which Features are Learned by CodeBert: An Empirical Study of the BERT-based Source Code Representation Learning" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "L Zhang, C Cao, Z Wang, P Liu - arXiv preprint arXiv:2301.08427, 2023" 
+--- 
+The Bidirectional Encoder Representations from Transformers (BERT) were proposed in the natural language process (NLP) and shows promising results. Recently researchers applied the BERT to source-code representation learning and reported some good news on several downstream tasks. However, in this paper, we illustrated that current methods cannot effectively understand the logic of source codes. The representation of source code heavily relies on the programmer-defined  Cites: Detecting formal thought disorder by deep contextualized word

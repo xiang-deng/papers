@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Topic-Aware Networks for Answer Selection"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "J Zhang, K Mao"
----
-Answer selection is an essential task in the study of natural language processing, which is involved in many applications such as a dialog system, reading comprehension, and so on. It is a task of selecting the correct answer from a set of given candidates for certain questions. One of the challenging problems for this task is that traditional deep learning model for answer selection lacks real-world background knowledge, which is crucial for answering questions in real-world …
-Cites: ‪Question answering using enhanced lexical semantic models‬
+--- 
+layout: post 
+title: "Topic-Aware Networks for Answer Selection" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "J Zhang, K Mao" 
+--- 
+Answer selection is an essential task in the study of natural language processing, which is involved in many applications such as a dialog system, reading comprehension, and so on. It is a task of selecting the correct answer from a set of given candidates for certain questions. One of the challenging problems for this task is that traditional deep learning model for answer selection lacks real-world background knowledge, which is crucial for answering questions in real-world  Cites: Question answering using enhanced lexical semantic models

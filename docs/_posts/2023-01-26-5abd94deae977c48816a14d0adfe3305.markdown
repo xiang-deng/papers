@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aﬀine Loop Invariant Generation via Matrix Algebra"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "Y Ji, H Fu, B Fang, H Chen"
----
-Loop invariant generation, which automates the generation of assertions that always hold at the entry of a while loop, has many important applications in program analysis and formal verification. In this work, we target an important category of while loops, namely affine while loops, that are unnested while loops with affine loop guards and variable updates. Such a class of loops widely exists in many programs yet still lacks a general but efficient approach to invariant generation. We propose a …
-Cites: ‪Learning invariants using decision trees and implication …‬
+--- 
+layout: post 
+title: "Aine Loop Invariant Generation via Matrix Algebra" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "Y Ji, H Fu, B Fang, H Chen" 
+--- 
+Loop invariant generation, which automates the generation of assertions that always hold at the entry of a while loop, has many important applications in program analysis and formal verification. In this work, we target an important category of while loops, namely affine while loops, that are unnested while loops with affine loop guards and variable updates. Such a class of loops widely exists in many programs yet still lacks a general but efficient approach to invariant generation. We propose a  Cites: Learning invariants using decision trees and implication

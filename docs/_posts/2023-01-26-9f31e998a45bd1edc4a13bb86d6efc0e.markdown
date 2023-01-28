@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automatically Reproducing Android Bug Reports Using Natural Language Processing and Reinforcement Learning"
-date:   2023-01-26 15:19:03 -0400
-categories: jekyll update
-author: "Z Zhang, R Winn, Y Zhao, T Yu, WGJ Halfond - arXiv preprint arXiv:2301.07775, 2023"
----
-As part of the process of resolving issues submitted by users via bug reports, Android developers attempt to reproduce and observe the failures described by the bug report. Due to the low-quality of bug reports and the complexity of modern apps, the reproduction process is non-trivial and time-consuming. Therefore, automatic approaches that can help reproduce Android bug reports are in great need. However, current approaches to help developers automatically reproduce bug …
-Cites: ‪Open information extraction from the web‬
+--- 
+layout: post 
+title: "Automatically Reproducing Android Bug Reports Using Natural Language Processing and Reinforcement Learning" 
+date: 2023-01-26 15:19:03 -0400 
+categories: jekyll update 
+author: "Z Zhang, R Winn, Y Zhao, T Yu, WGJ Halfond - arXiv preprint arXiv:2301.07775, 2023" 
+--- 
+As part of the process of resolving issues submitted by users via bug reports, Android developers attempt to reproduce and observe the failures described by the bug report. Due to the low-quality of bug reports and the complexity of modern apps, the reproduction process is non-trivial and time-consuming. Therefore, automatic approaches that can help reproduce Android bug reports are in great need. However, current approaches to help developers automatically reproduce bug  Cites: Open information extraction from the web
