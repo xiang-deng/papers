@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CodeScore: Evaluating Code Generation by Learning Code Execution"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "Y Dong, J Ding, X Jiang, Z Li, G Li, Z Jin - arXiv preprint arXiv:2301.09043, 2023"
+---
+A proper code evaluation metric (CEM) profoundly impacts the evolution of code generation, which is an important research field in NLP and software engineering. Prevailing CEMs can be categorized into match-based CEMs (eg, BLEU, Accuracy, and CodeBLEU) and execution-based CEMs (eg, AvgPassRatio and Pass@ k), but both of them suffer from some issues. The former only measures differences in surface form regardless of the functional equivalence of codes, while the latter has …
+Cites: ‪Program synthesis with large language models‬

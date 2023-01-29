@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Language Model Detoxification in Dialogue with Contextualized Stance Control"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "J Qian, X Yan - arXiv preprint arXiv:2301.10368, 2023"
+---
+To reduce the toxic degeneration in a pretrained Language Model (LM), previous work on Language Model detoxification has focused on reducing the toxicity of the generation itself (self-toxicity) without consideration of the context. As a result, a type of implicit offensive language where the generations support the offensive language in the context is ignored. Different from the LM controlling tasks in previous work, where the desired attributes are fixed for generation, the desired stance of the …
+Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬

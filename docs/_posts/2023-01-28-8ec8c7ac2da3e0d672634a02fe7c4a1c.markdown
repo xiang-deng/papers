@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "AT Vaswani, D Yogatama, D Metzler, HW Chung… - 2022"
+---
+Kaplan et al. argues that the performance of a Transformer model strongly depends on the model size, but only weakly on the model shape. Our work empirically confirms their results for upstream training, but then reveals a striking discrepancy when fine-tuning: downstream task performance is strongly influenced by model shape (eg depth and width). We find that widely adopted models including T5-base, T5-large and T5-XL/XXL (Raffel et al. 2019) are inefficient on a compute …
+Cites: ‪Carbon emissions and large neural network training‬

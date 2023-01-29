@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Injecting the BM25 Score as Text Improves BERT-Based Re-rankers"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "A Askari, A Abolghasemi, G Pasi, W Kraaij, S Verberne - arXiv preprint arXiv …, 2023"
+---
+In this paper we propose a novel approach for combining first-stage lexical retrieval models and Transformer-based re-rankers: we inject the relevance score of the lexical model as a token in the middle of the input of the cross-encoder re-ranker. It was shown in prior work that interpolation between the relevance score of lexical and BERT-based re-rankers may not consistently result in higher effectiveness. Our idea is motivated by the finding that BERT models can capture numeric information. We …
+Cites: ‪Injecting Numerical Reasoning Skills into Language Models‬

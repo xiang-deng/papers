@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transformer-Patcher: One Mistake worth One Neuron"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "Z Huang, Y Shen, X Zhang, J Zhou, W Rong, Z Xiong - arXiv preprint arXiv …, 2023"
+---
+Large Transformer-based Pretrained Language Models (PLMs) dominate almost all Natural Language Processing (NLP) tasks. Nevertheless, they still make mistakes from time to time. For a model deployed in an industrial environment, fixing these mistakes quickly and robustly is vital to improve user experiences. Previous works formalize such problems as Model Editing (ME) and mostly focus on fixing one mistake. However, the one-mistake-fixing scenario is not an accurate abstraction of …
+Cites: ‪Transformer feed-forward layers are key-value memories‬

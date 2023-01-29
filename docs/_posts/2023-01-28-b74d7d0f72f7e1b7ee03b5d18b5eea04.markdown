@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "One Model for All Domains: Collaborative Domain-Prefix Tuning for Cross-Domain NER"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "X Chen, L Li, Q Fei, N Zhang, C Tan, Y Jiang, F Huang… - arXiv preprint arXiv …, 2023"
+---
+Cross-domain NER is a challenging task to address the low-resource problem in practical scenarios. Previous typical solutions mainly obtain a NER model by pre-trained language models (PLMs) with data from a rich-resource domain and adapt it to the target domain. Owing to the mismatch issue among entity types in different domains, previous approaches normally tune all parameters of PLMs, ending up with an entirely new NER model for each domain. Moreover, current models only focus on …
+Cites: ‪Skillnet-nlu: A sparsely activated model for general-purpose …‬

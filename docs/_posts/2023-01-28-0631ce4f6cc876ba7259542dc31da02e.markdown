@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Stability Analysis of Fine-Tuning a Pre-Trained Model"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "Z Fu, AMC So, N Collier - arXiv preprint arXiv:2301.09820, 2023"
+---
+Fine-tuning a pre-trained model (such as BERT, ALBERT, RoBERTa, T5, GPT, etc.) has proven to be one of the most promising paradigms in recent NLP research. However, numerous recent works indicate that fine-tuning suffers from the instability problem, ie, tuning the same model under the same setting results in significantly different performance. Many recent works have proposed different methods to solve this problem, but there is no theoretical understanding of why and how these …
+Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬

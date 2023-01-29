@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sentence BERT 를 활용한 기업 SWOT 분석 자동화 연구"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "정상현， 김용신， 정광필， 이태희， 권태완 - Proceedings of KIIT Conference, 2022"
+---
+클라우드 기반의 서비스형 인공지능 (AI as a Service) 으로 인해 고도의 인공지능 기술에 대한 접근성이 낮아짐에 따라 다양한 분야에서 지능형 애플리케이션 연구 개발이 이루어지고 있다. 본 연구는 기업 SWOT 분석을 지능적으로 자동화 할 수 있는 서비스형 인공지능인 SWOT Sentence BERT 를 제안한다. SWOT Sentence BERT 는 자연어 추론 형태로 가공된 SWOT 분석 데이터를 통해 학습되는 문장 임베딩 모델이며, 이를 통해 임베딩된 문장을 K-Means 알고리즘으로 클러스터링하여 기업 SWOT 분석을 …
+Cites: ‪KLUE: Korean language understanding evaluation‬

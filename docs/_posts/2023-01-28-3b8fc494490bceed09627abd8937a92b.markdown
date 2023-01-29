@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pre-computed memory or on-the-fly encoding? A hybrid approach to retrieval augmentation makes the most of your compute"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "M de Jong, Y Zemlyanskiy, N FitzGerald, J Ainslie… - arXiv preprint arXiv …, 2023"
+---
+Retrieval-augmented language models such as Fusion-in-Decoder are powerful, setting the state of the art on a variety of knowledge-intensive tasks. However, they are also expensive, due to the need to encode a large number of retrieved passages. Some work avoids this cost by pre-encoding a text corpus into a memory and retrieving dense representations directly. However, pre-encoding memory incurs a severe quality penalty as the memory representations are not conditioned on the …
+Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬

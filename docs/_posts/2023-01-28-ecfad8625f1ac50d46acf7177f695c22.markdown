@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Domain-aligned Data Augmentation for Low-resource and Imbalanced Text Classification"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "S Vrochidis, I Kompatsiaris"
+---
+Data Augmentation approaches often use Language Models, pretrained on large quantities of unlabeled generic data, to conditionally generate examples. However, the generated data can be of subpar quality and struggle to maintain the same characteristics as the original dataset. To this end, we propose a Data Augmentation method for low-resource and imbalanced datasets, by aligning Language Models to in-domain data prior to generating synthetic examples. In particular, we propose the …
+Cites: ‪Polyjuice: Generating counterfactuals for explaining, evaluating …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GLASS: A Graph Laplacian Autoencoder with Subspace Clustering Regularization for Graph Clustering"
+date:   2023-01-28 04:04:00 -0400
+categories: jekyll update
+author: "D Sun, L Liu, B Luo, Z Ding - Cognitive Computation, 2023"
+---
+Graph clustering is an important unsupervised learning task in complex network analysis and its latest progress mainly relies on a graph autoencoder (GAE) model. However, these methods have three major drawbacks.(1) Most autoencoder models choose graph convolutional networks (GCNs) as their encoders, but the filters and weight matrices in GCN encoders are entangled, which affects the resulting representation performance.(2) Real graphs are often sparse, requiring multiple …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬
