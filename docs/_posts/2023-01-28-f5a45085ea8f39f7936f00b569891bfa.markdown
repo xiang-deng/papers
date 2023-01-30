@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Case Study in Engineering a Conversational Programming Assistant s Persona"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "SI Ross, M Muller, F Martinez, S Houde, JD Weisz - arXiv preprint arXiv:2301.10016, 2023"
----
-The Programmer s Assistant is an experimental prototype software development environment that integrates a chatbot with a code editor. Conversational capability was achieved by using an existing code-fluent Large Language Model and providing it with a prompt that establishes a conversational interaction pattern, a set of conventions, and a style of interaction appropriate for the application. A discussion of the evolution of the prompt provides a case study in how to coax an existing …
-Cites: ‪Lamda: Language models for dialog applications‬
+--- 
+layout: post 
+title: "A Case Study in Engineering a Conversational Programming Assistant s Persona" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "SI Ross, M Muller, F Martinez, S Houde, JD Weisz - arXiv preprint arXiv:2301.10016, 2023" 
+--- 
+The Programmer s Assistant is an experimental prototype software development environment that integrates a chatbot with a code editor. Conversational capability was achieved by using an existing code-fluent Large Language Model and providing it with a prompt that establishes a conversational interaction pattern, a set of conventions, and a style of interaction appropriate for the application. A discussion of the evolution of the prompt provides a case study in how to coax an existing  Cites: Lamda: Language models for dialog applications

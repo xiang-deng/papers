@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "Q Wu, C Yang, W Zhao, Y He, D Wipf, J Yan - arXiv preprint arXiv:2301.09474, 2023"
----
-Real-world data generation often involves complex inter-dependencies among instances, violating the IID-data hypothesis of standard learning paradigms and posing a challenge for uncovering the geometric structures for learning desired instance representations. To this end, we introduce an energy constrained diffusion model which encodes a batch of instances from a dataset into evolutionary states that progressively incorporate other instances  information by their interactions. The …
-Cites: ‪Meta pseudo labels‬
+--- 
+layout: post 
+title: "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "Q Wu, C Yang, W Zhao, Y He, D Wipf, J Yan - arXiv preprint arXiv:2301.09474, 2023" 
+--- 
+Real-world data generation often involves complex inter-dependencies among instances, violating the IID-data hypothesis of standard learning paradigms and posing a challenge for uncovering the geometric structures for learning desired instance representations. To this end, we introduce an energy constrained diffusion model which encodes a batch of instances from a dataset into evolutionary states that progressively incorporate other instances information by their interactions. The  Cites: Meta pseudo labels

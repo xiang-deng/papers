@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning from data with structured missingness"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "R Mitra, SF McGough, T Chakraborti, C Holmes… - Nature Machine Intelligence, 2023"
----
-Missing data are an unavoidable complication in many machine learning tasks. When data are  missing at random there exist a range of tools and techniques to deal with the issue. However, as machine learning studies become more ambitious, and seek to learn from ever-larger volumes of heterogeneous data, an increasingly encountered problem arises in which missing values exhibit an association or structure, either explicitly or implicitly. Such  structured missingness  raises a range of …
-Cites: ‪On the opportunities and risks of foundation models‬
+--- 
+layout: post 
+title: "Learning from data with structured missingness" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "R Mitra, SF McGough, T Chakraborti, C Holmes - Nature Machine Intelligence, 2023" 
+--- 
+Missing data are an unavoidable complication in many machine learning tasks. When data are missing at random there exist a range of tools and techniques to deal with the issue. However, as machine learning studies become more ambitious, and seek to learn from ever-larger volumes of heterogeneous data, an increasingly encountered problem arises in which missing values exhibit an association or structure, either explicitly or implicitly. Such structured missingness raises a range of  Cites: On the opportunities and risks of foundation models

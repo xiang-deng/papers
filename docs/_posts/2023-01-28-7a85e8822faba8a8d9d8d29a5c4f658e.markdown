@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PDQ 2.0: Flexible Infrastructure for Integrating Reasoning and Query Planning"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "M Benedikt, F Cooper, S Germano, G Gyorkei… - ACM SIGMOD Record, 2023"
----
-Reasoning-based query planning has been explored in many contexts, including relational data integration, the SemanticWeb, and query reformulation. But infrastructure to build reasoning-based optimization in the relational context has been slow to develop. We overview PDQ 2.0, a platform supporting a number of reasoningenhanced querying tasks. We focus on a major goal of PDQ 2.0: obtaining a more modular and flexible architecture for reasoning-based query optimization.
-Cites: ‪Query optimization in the presence of limited access patterns‬
+--- 
+layout: post 
+title: "PDQ 2.0: Flexible Infrastructure for Integrating Reasoning and Query Planning" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "M Benedikt, F Cooper, S Germano, G Gyorkei - ACM SIGMOD Record, 2023" 
+--- 
+Reasoning-based query planning has been explored in many contexts, including relational data integration, the SemanticWeb, and query reformulation. But infrastructure to build reasoning-based optimization in the relational context has been slow to develop. We overview PDQ 2.0, a platform supporting a number of reasoningenhanced querying tasks. We focus on a major goal of PDQ 2.0: obtaining a more modular and flexible architecture for reasoning-based query optimization.  Cites: Query optimization in the presence of limited access patterns

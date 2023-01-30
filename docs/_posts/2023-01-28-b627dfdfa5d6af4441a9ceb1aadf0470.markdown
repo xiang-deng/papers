@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unifying Structure Reasoning and Language Model Pre-training for Complex Reasoning"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "S Wang, Z Wei, J Xu, Z Fan - arXiv preprint arXiv:2301.08913, 2023"
----
-Recent knowledge enhanced pre-trained language models have shown remarkable performance on downstream tasks by incorporating structured knowledge from external sources into language models. However, they usually suffer from a heterogeneous information alignment problem and a noisy knowledge injection problem. For complex reasoning, the contexts contain rich knowledge that typically exists in complex and sparse forms. In order to model structured knowledge in the …
-Cites: ‪KEPLER: A Unified Model for Knowledge Embedding and Pre …‬
+--- 
+layout: post 
+title: "Unifying Structure Reasoning and Language Model Pre-training for Complex Reasoning" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "S Wang, Z Wei, J Xu, Z Fan - arXiv preprint arXiv:2301.08913, 2023" 
+--- 
+Recent knowledge enhanced pre-trained language models have shown remarkable performance on downstream tasks by incorporating structured knowledge from external sources into language models. However, they usually suffer from a heterogeneous information alignment problem and a noisy knowledge injection problem. For complex reasoning, the contexts contain rich knowledge that typically exists in complex and sparse forms. In order to model structured knowledge in the  Cites: KEPLER: A Unified Model for Knowledge Embedding and Pre

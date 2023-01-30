@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rationalization for Explainable NLP: A Survey"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "S Gurrapu, A Kulkarni, L Huang, I Lourentzou… - arXiv preprint arXiv …, 2023"
----
-Recent advances in deep learning have improved the performance of many Natural Language Processing (NLP) tasks such as translation, question-answering, and text classification. However, this improvement comes at the expense of model explainability. Black-box models make it difficult to understand the internals of a system and the process it takes to arrive at an output. Numerical (LIME, Shapley) and visualization (saliency heatmap) explainability techniques are helpful; however, they …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Rationalization for Explainable NLP: A Survey" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "S Gurrapu, A Kulkarni, L Huang, I Lourentzou - arXiv preprint arXiv , 2023" 
+--- 
+Recent advances in deep learning have improved the performance of many Natural Language Processing (NLP) tasks such as translation, question-answering, and text classification. However, this improvement comes at the expense of model explainability. Black-box models make it difficult to understand the internals of a system and the process it takes to arrive at an output. Numerical (LIME, Shapley) and visualization (saliency heatmap) explainability techniques are helpful; however, they  Cites: CommonsenseQA: A Question Answering Challenge Targeting

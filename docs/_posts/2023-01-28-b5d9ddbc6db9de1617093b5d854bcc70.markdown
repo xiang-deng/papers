@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ExaRanker: Explanation-Augmented Neural Ranker"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "F Ferraretto, T Laitz, R Lotufo, R Nogueira - arXiv preprint arXiv:2301.10521, 2023"
----
-Recent work has shown that inducing a large language model (LLM) to generate explanations prior to outputting an answer is an effective strategy to improve performance on a wide range of reasoning tasks. In this work, we show that neural rankers also benefit from explanations. We use LLMs such as GPT-3.5 to augment retrieval datasets with explanations and train a sequence-to-sequence ranking model to output a relevance label and an explanation for a given query-document …
-Cites: ‪Inferring Implicit Relations with Language Models‬
+--- 
+layout: post 
+title: "ExaRanker: Explanation-Augmented Neural Ranker" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "F Ferraretto, T Laitz, R Lotufo, R Nogueira - arXiv preprint arXiv:2301.10521, 2023" 
+--- 
+Recent work has shown that inducing a large language model (LLM) to generate explanations prior to outputting an answer is an effective strategy to improve performance on a wide range of reasoning tasks. In this work, we show that neural rankers also benefit from explanations. We use LLMs such as GPT-3.5 to augment retrieval datasets with explanations and train a sequence-to-sequence ranking model to output a relevance label and an explanation for a given query-document  Cites: Inferring Implicit Relations with Language Models

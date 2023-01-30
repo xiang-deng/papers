@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Interpretable Out-Of-Distribution Detection Using Pattern Identification"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "R Xu-Darme, J Girard-Satabin, D Hond, G Incorvaia… - 2023"
----
-Out-of-distribution (OoD) detection for data-based programs is a goal of paramount importance. Common approaches in the literature tend to train detectors requiring inside-of-distribution (in-distribution, or IoD) and OoD validation samples, and/or implement confidence metrics that are often abstract and therefore difficult to interpret. In this work, we propose to use existing work from the field of explainable AI, namely the PARTICUL pattern identification algorithm, in order to build more …
-Cites: ‪No true state-of-the-art? OOD detection methods are inconsistent …‬

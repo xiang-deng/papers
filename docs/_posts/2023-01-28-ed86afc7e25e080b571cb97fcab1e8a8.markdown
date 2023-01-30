@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Examining the effect of whitening on static and contextualized word embeddings"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "S Sasaki, B Heinzerling, J Suzuki, K Inui - Information Processing & Management, 2023"
----
-Static word embeddings (SWE) and contextualized word embeddings (CWE) are the foundation of modern natural language processing. However, these embeddings suffer from spatial bias in the form of anisotropy, which has been demonstrated to reduce their performance. A method to alleviate the anisotropy is the “whitening” transformation. Whitening is a standard method in signal processing and other areas, however, its effect on SWE and CWE is not well understood. In this study, we conduct …
-Cites: ‪Detecting formal thought disorder by deep contextualized word …‬
+--- 
+layout: post 
+title: "Examining the effect of whitening on static and contextualized word embeddings" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "S Sasaki, B Heinzerling, J Suzuki, K Inui - Information Processing & Management, 2023" 
+--- 
+Static word embeddings (SWE) and contextualized word embeddings (CWE) are the foundation of modern natural language processing. However, these embeddings suffer from spatial bias in the form of anisotropy, which has been demonstrated to reduce their performance. A method to alleviate the anisotropy is the whitening transformation. Whitening is a standard method in signal processing and other areas, however, its effect on SWE and CWE is not well understood. In this study, we conduct  Cites: Detecting formal thought disorder by deep contextualized word

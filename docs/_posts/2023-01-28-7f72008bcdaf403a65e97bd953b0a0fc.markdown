@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Can Very Large Pretrained Language Models Learn Storytelling With A Few Examples?"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "Z Xie, T Cohn, JH Lau - arXiv preprint arXiv:2301.09790, 2023"
----
-While pre-trained language models can generate individually fluent sentences for automatic story generation, they struggle to generate stories that are coherent, sensible and interesting. Current state-of-the-art (SOTA) story generation models explore using higher-level features such as plots or commonsense knowledge to improve the quality of generated stories. Prompt-based learning using very large pre-trained language models (VLPLMs) such as GPT3 has demonstrated impressive …
-Cites: ‪Reframing Instructional Prompts to GPTk s Language‬
+--- 
+layout: post 
+title: "Can Very Large Pretrained Language Models Learn Storytelling With A Few Examples?" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "Z Xie, T Cohn, JH Lau - arXiv preprint arXiv:2301.09790, 2023" 
+--- 
+While pre-trained language models can generate individually fluent sentences for automatic story generation, they struggle to generate stories that are coherent, sensible and interesting. Current state-of-the-art (SOTA) story generation models explore using higher-level features such as plots or commonsense knowledge to improve the quality of generated stories. Prompt-based learning using very large pre-trained language models (VLPLMs) such as GPT3 has demonstrated impressive  Cites: Reframing Instructional Prompts to GPTk s Language

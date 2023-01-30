@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Weakly-Supervised Questions for Zero-Shot Relation Extraction"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "S Najafi, A Fyshe - arXiv preprint arXiv:2301.09640, 2023"
----
-Zero-Shot Relation Extraction (ZRE) is the task of Relation Extraction where the training and test sets have no shared relation types. This very challenging domain is a good test of a model s ability to generalize. Previous approaches to ZRE reframed relation extraction as Question Answering (QA), allowing for the use of pre-trained QA models. However, this method required manually creating gold question templates for each new relation. Here, we do away with these gold templates and …
-Cites: ‪Memory augmented policy optimization for program synthesis and …‬
+--- 
+layout: post 
+title: "Weakly-Supervised Questions for Zero-Shot Relation Extraction" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "S Najafi, A Fyshe - arXiv preprint arXiv:2301.09640, 2023" 
+--- 
+Zero-Shot Relation Extraction (ZRE) is the task of Relation Extraction where the training and test sets have no shared relation types. This very challenging domain is a good test of a model s ability to generalize. Previous approaches to ZRE reframed relation extraction as Question Answering (QA), allowing for the use of pre-trained QA models. However, this method required manually creating gold question templates for each new relation. Here, we do away with these gold templates and  Cites: Memory augmented policy optimization for program synthesis and

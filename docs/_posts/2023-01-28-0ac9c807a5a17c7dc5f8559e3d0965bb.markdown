@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Matching Exemplar as Next Sentence Prediction (MeNSP): Zero-shot Prompt Learning for Automatic Scoring in Science Education"
-date:   2023-01-28 04:04:00 -0400
-categories: jekyll update
-author: "X Wu, X He, T Li, N Liu, X Zhai - arXiv preprint arXiv:2301.08771, 2023"
----
-Developing models to automatically score students  written responses to science problems is critical for science education. However, collecting and labeling sufficient student responses for training models is time and cost-consuming. Recent studies suggest that pre-trained language models (PLMs) can be adapted to downstream tasks without fine-tuning with prompts. However, no research has employed such a prompt approach in science education. As student responses are presented with …
-Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬
+--- 
+layout: post 
+title: "Matching Exemplar as Next Sentence Prediction (MeNSP): Zero-shot Prompt Learning for Automatic Scoring in Science Education" 
+date: 2023-01-28 04:04:00 -0400 
+categories: jekyll update 
+author: "X Wu, X He, T Li, N Liu, X Zhai - arXiv preprint arXiv:2301.08771, 2023" 
+--- 
+Developing models to automatically score students written responses to science problems is critical for science education. However, collecting and labeling sufficient student responses for training models is time and cost-consuming. Recent studies suggest that pre-trained language models (PLMs) can be adapted to downstream tasks without fine-tuning with prompts. However, no research has employed such a prompt approach in science education. As student responses are presented with  Cites: Pre-train, prompt, and predict: A systematic survey of prompting
