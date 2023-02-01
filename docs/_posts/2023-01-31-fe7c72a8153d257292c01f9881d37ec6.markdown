@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adaptive parameter servers"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "FA Renz-Wieland - 2023"
+---
+Abstract Machine learning (ML) has become an essential tool for solving problems that have traditionally been challenging for computers, for example in the fields of natural language processing, computer vision, and recommender systems. For large ML tasks, distributed training has become a necessity for keeping up with increasing dataset sizes and model complexity. A key challenge in distributed training is to synchronize model parameters among cluster nodes and to do so efficiently …
+Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬

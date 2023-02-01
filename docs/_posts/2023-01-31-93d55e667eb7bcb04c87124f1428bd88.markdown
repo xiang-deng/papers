@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parsel: A (De-) compositional Framework for Algorithmic Reasoning with Language Models"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "E Zelikman, Q Huang, G Poesia, ND Goodman…"
+---
+Despite recent success in large language model (LLM) reasoning, LLMs struggle with hierarchical multi-step reasoning tasks like generating complex programs. For these tasks, humans often start with a high-level algorithmic design and implement each part gradually. We introduce Parsel 2, a framework enabling automatic implementation and validation of complex algorithms with code LLMs, taking hierarchical function descriptions in natural language as input. We show that Parsel …
+Cites: ‪A syntactic neural model for general-purpose code generation‬

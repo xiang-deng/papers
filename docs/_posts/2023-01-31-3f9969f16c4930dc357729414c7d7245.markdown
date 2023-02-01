@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PromptRGD: Prompt Learning with Relation-aware Gradient Denoising for Low-resource Relation Extraction"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "Z Xu, L Fu, X Wang - 2022 IEEE International Conference on Big Data (Big …, 2022"
+---
+Relation extraction is a fundamental task to construct a knowledge graph, which aims to find the relation categories between two entities from a string of text input sequences. Considering the fact that high-quality labeled data is rare, a recent trend is low-resource setting. Existing works either utilize prompt-based learning method to achieve encouraging results for few-shot tasks by determining an appropriate prompt template, or leverage unlabeled data by generating pseudo labels. However, the …
+Cites: ‪PTR: Prompt tuning with rules for text classification‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "MD Ma, JY Kao, S Gao, A Gupta, D Jin, T Chung… - arXiv preprint arXiv …, 2023"
+---
+Dialogue state tracking (DST) is an important step in dialogue management to keep track of users  beliefs. Existing works fine-tune all language model (LM) parameters to tackle the DST task, which requires significant data and computing resources for training and hosting. The cost grows exponentially in the real-world deployment where dozens of fine-tuned LM are used for different domains and tasks. To reduce parameter size and better utilize cross-task shared information, we propose to use …
+Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬

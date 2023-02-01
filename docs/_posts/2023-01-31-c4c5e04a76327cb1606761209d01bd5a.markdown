@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Open Problems in Applied Deep Learning"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "M Raissi - arXiv preprint arXiv:2301.11316, 2023"
+---
+This work formulates the machine learning mechanism as a bi-level optimization problem. The inner level optimization loop entails minimizing a properly chosen loss function evaluated on the training data. This is nothing but the well-studied training process in pursuit of optimal model parameters. The outer level optimization loop is less well-studied and involves maximizing a properly chosen performance metric evaluated on the validation data. This is what we call the  iteration process , pursuing …
+Cites: ‪Deep contextualized word representations‬

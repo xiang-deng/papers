@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Principled Reinforcement Learning with Human Feedback from Pairwise or $ K $-wise Comparisons"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "B Zhu, J Jiao, MI Jordan - arXiv preprint arXiv:2301.11270, 2023"
+---
+We provide a theoretical framework for Reinforcement Learning with Human Feedback (RLHF). Our analysis shows that when the true reward function is linear, the widely used maximum likelihood estimator (MLE) converges under both the Bradley-Terry-Luce (BTL) model and the Plackett-Luce (PL) model. However, we show that when training a policy based on the learned reward model, MLE fails while a pessimistic MLE provides policies with improved performance under certain …
+Cites: ‪Is Reinforcement Learning (Not) for Natural Language Processing …‬

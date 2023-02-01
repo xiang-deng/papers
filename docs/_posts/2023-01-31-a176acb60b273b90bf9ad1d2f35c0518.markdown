@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generate-and-Retrieve: use your predictions to improve retrieval for semantic parsing"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "F Sha, I Pasupat, J Ainslie, L Qiu, M de Jong, P Shaw… - 2022"
+---
+A common recent approach to semantic parsing augments sequence-to-sequence models by retrieving and appending a set of training samples, called exemplars. The effectiveness of this recipe is limited by the ability to retrieve informative exemplars that help produce the correct parse, which is especially challenging in low-resource settings. Existing retrieval is commonly based on similarity of query and exemplar inputs. We propose GandR, a retrieval procedure that retrieves exemplars for which …
+Cites: ‪Low-resource domain adaptation for compositional task-oriented …‬

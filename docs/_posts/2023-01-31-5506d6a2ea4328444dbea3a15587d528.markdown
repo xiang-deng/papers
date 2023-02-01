@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rewarded meta-pruning: Meta Learning with Rewards for Channel Pruning"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "A Shibu, A Kumar, H Jung, DG Lee - arXiv preprint arXiv:2301.11063, 2023"
+---
+Convolutional Neural Networks (CNNs) have a large number of parameters and take significantly large hardware resources to compute, so edge devices struggle to run high-level networks. This paper proposes a novel method to reduce the parameters and FLOPs for computational efficiency in deep learning models. We introduce accuracy and efficiency coefficients to control the trade-off between the accuracy of the network and its computing efficiency. The proposed Rewarded meta-pruning …
+Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Dynamic Focused Topic Model"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "K Cvejoski, RJ Sánchez, C Ojeda - arXiv preprint arXiv:2301.10988, 2023"
+---
+Topic models and all their variants analyse text by learning meaningful representations through word co-occurrences. As pointed out by Williamson et al.(2010), such models implicitly assume that the probability of a topic to be active and its proportion within each document are positively correlated. This correlation can be strongly detrimental in the case of documents created over time, simply because recent documents are likely better described by new and hence rare topics …
+Cites: ‪Applications of topic models‬

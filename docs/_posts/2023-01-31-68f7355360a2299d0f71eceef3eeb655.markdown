@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Denoising Graph Inference Network for Document-Level Relation Extraction"
+date:   2023-01-31 01:49:57 -0400
+categories: jekyll update
+author: "H Wang, K Qin, G Duan, G Luo - Big Data Mining and Analytics, 2023"
+---
+Relation Extraction (RE) is to obtain a predefined relation type of two entities mentioned in a piece of text, eg, a sentence-level or a document-level text. Most existing studies suffer from the noise in the text, and necessary pruning is of great importance. The conventional sentence-level RE task addresses this issue by a denoising method using the shortest dependency path to build a long-range semantic dependency between entity pairs. However, this kind of denoising method …
+Cites: ‪Cross-sentence n-ary relation extraction with graph lstms‬
