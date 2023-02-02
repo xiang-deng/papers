@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Dialogue Summarization with Topic-Aware Global-and Local-Level Centrality"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "X Liang, S Wu, C Cui, J Bai, C Bian, Z Li - arXiv preprint arXiv:2301.12376, 2023"
+---
+Dialogue summarization aims to condense a given dialogue into a simple and focused summary text. Typically, both the roles  viewpoints and conversational topics change in the dialogue stream. Thus how to effectively handle the shifting topics and select the most salient utterance becomes one of the major challenges of this task. In this paper, we propose a novel topic-aware Global-Local Centrality (GLC) model to help select the salient context from all sub-topics. The centralities are constructed at …
+Cites: ‪Text summarization with pretrained encoders‬

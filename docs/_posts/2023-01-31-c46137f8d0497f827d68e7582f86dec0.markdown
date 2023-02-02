@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Critic-over-Actor-Critic Modeling: Finding Optimal Strategy in ICU Environments"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "R Ryan, M Shao - 2022 IEEE International Conference on Big Data (Big …, 2022"
----
-Reinforcement learning (RL) is mechanized to learn from experience. It solves the problem in sequential decisions by optimizing reward-punishment through experimentation of the distinct actions in an environment. Unlike supervised learning models, RL lacks static input-output mappings and the objective of minimization of a vector error. However, to find out an optimal strategy, it is crucial to learn both continuous feedback from training data and the offline rules of the experiences with …
-Cites: ‪Opponent modeling in deep reinforcement learning‬
+--- 
+layout: post 
+title: "Critic-over-Actor-Critic Modeling: Finding Optimal Strategy in ICU Environments" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "R Ryan, M Shao - 2022 IEEE International Conference on Big Data (Big , 2022" 
+--- 
+Reinforcement learning (RL) is mechanized to learn from experience. It solves the problem in sequential decisions by optimizing reward-punishment through experimentation of the distinct actions in an environment. Unlike supervised learning models, RL lacks static input-output mappings and the objective of minimization of a vector error. However, to find out an optimal strategy, it is crucial to learn both continuous feedback from training data and the offline rules of the experiences with  Cites: Opponent modeling in deep reinforcement learning

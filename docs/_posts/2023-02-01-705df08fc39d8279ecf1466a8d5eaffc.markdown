@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Projected Subnetworks Scale Adaptation"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "S Datta, N Shadbolt - arXiv preprint arXiv:2301.11487, 2023"
+---
+Large models support great zero-shot and few-shot capabilities. However, updating these models on new tasks can break performance on previous seen tasks and their zero/few-shot unseen tasks. Our work explores how to update zero/few-shot learners such that they can maintain performance on seen/unseen tasks of previous tasks as well as new tasks. By manipulating the parameter updates of a gradient-based meta learner as the projected task-specific subnetworks, we show improvements for large …
+Cites: ‪Patching open-vocabulary models by interpolating weights‬

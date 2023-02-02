@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mention Memory: incorporating textual knowledge into Transformers through entity mention attention"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "M de Jong, Y Zemlyanskiy, NA FitzGerald, F Sha… - 2022"
----
-Natural language understanding tasks such as open-domain question answering often require retrieving and assimilating factual information from multiple sources. We propose to address this problem by integrating a semi-parametric representation of a large text corpus into a Transformer model as a source of factual knowledge. Specifically, our method represents knowledge as a``mention memory  containing a dense vector representation of every entity mention in a corpus. The Transformer …
-Cites: ‪The web as a knowledge-base for answering complex questions‬
+--- 
+layout: post 
+title: "Mention Memory: incorporating textual knowledge into Transformers through entity mention attention" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "M de Jong, Y Zemlyanskiy, NA FitzGerald, F Sha - 2022" 
+--- 
+Natural language understanding tasks such as open-domain question answering often require retrieving and assimilating factual information from multiple sources. We propose to address this problem by integrating a semi-parametric representation of a large text corpus into a Transformer model as a source of factual knowledge. Specifically, our method represents knowledge as a``mention memory containing a dense vector representation of every entity mention in a corpus. The Transformer  Cites: The web as a knowledge-base for answering complex questions

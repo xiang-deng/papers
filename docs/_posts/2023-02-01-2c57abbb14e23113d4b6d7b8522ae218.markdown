@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Processing of Condition Monitoring Annotations with BERT and Technical Language Substitution: A Case Study"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "K Löwenmark, C Taal, J Nivre, M Liwicki, F Sandin - … Society 2022 (PHME22), July 6-8 …, 2022"
+---
+Annotations in condition monitoring systems contain information regarding asset history and fault characteristics in the form of unstructured text that could, if unlocked, be used for intelligent fault diagnosis. However, processing these annotations with pre-trained natural language models such as BERT is problematic due to out-of-vocabulary (OOV) technical terms, resulting in inaccurate language embeddings. Here we investigate the effect of OOV technical terms on BERT and SentenceBERT …
+Cites: ‪Deep contextualized word representations‬

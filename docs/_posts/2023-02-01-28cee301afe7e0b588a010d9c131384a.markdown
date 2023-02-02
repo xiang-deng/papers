@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "Z Lin, J Liu, J Shang - arXiv preprint arXiv:2301.11459, 2023"
+---
+Pre-trained seq2seq models excel at graph semantic parsing with rich annotated data, but generalize worse to out-of-distribution (OOD) and long-tail examples. In comparison, symbolic parsers under-perform on population-level metrics, but exhibit unique strength in OOD and tail generalization. In this work, we study compositionality-aware approach to neural-symbolic inference informed by model confidence, performing fine-grained neural-symbolic reasoning at subgraph level (ie …
+Cites: ‪Compositional generalization and natural language variation: Can …‬

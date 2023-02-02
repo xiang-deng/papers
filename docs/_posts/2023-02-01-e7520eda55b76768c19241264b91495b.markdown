@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "EmbedDistill: A Geometric Knowledge Distillation for Information Retrieval"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "S Kim, AS Rawat, M Zaheer, S Jayasumana… - arXiv preprint arXiv …, 2023"
+---
+Large neural models (such as Transformers) achieve state-of-the-art performance for information retrieval (IR). In this paper, we aim to improve distillation methods that pave the way for the deployment of such models in practice. The proposed distillation approach supports both retrieval and re-ranking stages and crucially leverages the relative geometry among queries and documents learned by the large teacher model. It goes beyond existing distillation methods in the IR literature, which simply …
+Cites: ‪Dense passage retrieval for open-domain question answering‬

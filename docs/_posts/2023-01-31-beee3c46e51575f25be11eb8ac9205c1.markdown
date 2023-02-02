@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Classification Model Against Bayes Error Rate"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "Q Chen, F Cao, Y Xing, J Liang - IEEE Transactions on Pattern Analysis and Machine …, 2023"
----
-For a classification task, we usually select an appropriate classifier via model selection. How to evaluate whether the chosen classifier is optimal? One can answer this question via Bayes error rate (BER). Unfortunately, estimating BER is a fundamental conundrum. Most existing BER estimators focus on giving the upper and lower bounds of the BER. However, evaluating whether the selected classifier is optimal based on these bounds is hard. In this paper, we aim to learn the exact BER …
-Cites: ‪Learning with Local and Global Consistency.‬
+--- 
+layout: post 
+title: "Evaluating Classification Model Against Bayes Error Rate" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "Q Chen, F Cao, Y Xing, J Liang - IEEE Transactions on Pattern Analysis and Machine , 2023" 
+--- 
+For a classification task, we usually select an appropriate classifier via model selection. How to evaluate whether the chosen classifier is optimal? One can answer this question via Bayes error rate (BER). Unfortunately, estimating BER is a fundamental conundrum. Most existing BER estimators focus on giving the upper and lower bounds of the BER. However, evaluating whether the selected classifier is optimal based on these bounds is hard. In this paper, we aim to learn the exact BER  Cites: Learning with Local and Global Consistency.

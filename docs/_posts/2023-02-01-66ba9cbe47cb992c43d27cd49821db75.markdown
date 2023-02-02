@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adapting Neural Link Predictors for Complex Query Answering"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "E Arakelyan, P Minervini, I Augenstein - arXiv preprint arXiv:2301.12313, 2023"
+---
+Answering complex queries on incomplete knowledge graphs is a challenging task where a model needs to answer complex logical queries in the presence of missing knowledge. Recently, Arakelyan et al.(2021); Minervini et al.(2022) showed that neural link predictors could also be used for answering complex queries: their Continuous Query Decomposition (CQD) method works by decomposing complex queries into atomic sub-queries, answers them using neural link predictors and …
+Cites: ‪Observed versus latent features for knowledge base and text …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Design of AI-powered Code Assistants for Notebooks"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "AM McNutt, C Wang, RA DeLine, SM Drucker - arXiv preprint arXiv:2301.11178, 2023"
----
-AI-powered code assistants, such as Copilot, are quickly becoming a ubiquitous component of contemporary coding contexts. Among these environments, computational notebooks, such as Jupyter, are of particular interest as they provide rich interface affordances that interleave code and output in a manner that allows for both exploratory and presentational work. Despite their popularity, little is known about the appropriate design of code assistants in notebooks. We investigate the …
-Cites: ‪Incoder: A generative model for code infilling and synthesis‬
+--- 
+layout: post 
+title: "On the Design of AI-powered Code Assistants for Notebooks" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "AM McNutt, C Wang, RA DeLine, SM Drucker - arXiv preprint arXiv:2301.11178, 2023" 
+--- 
+AI-powered code assistants, such as Copilot, are quickly becoming a ubiquitous component of contemporary coding contexts. Among these environments, computational notebooks, such as Jupyter, are of particular interest as they provide rich interface affordances that interleave code and output in a manner that allows for both exploratory and presentational work. Despite their popularity, little is known about the appropriate design of code assistants in notebooks. We investigate the  Cites: Incoder: A generative model for code infilling and synthesis

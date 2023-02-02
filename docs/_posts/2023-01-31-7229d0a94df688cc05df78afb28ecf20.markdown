@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enhancing aspect-category sentiment analysis via syntactic data augmentation and knowledge enhancement"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "B Liu, T Lin, M Li - Knowledge-Based Systems, 2023"
----
-The goal of aspect-category sentiment analysis (ACSA) is to predict the sentiment polarity toward a specific aspect category from reviewers  expressed opinions in a sentence. With the boom of pretrained language models, various relative methods have achieved significant improvements in ACSA. However, two major issues still remain to be solved. First, most of these studies usually follow the canonical method of fine-tuning on limited labeled data, neglecting to leverage external knowledge to …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Enhancing aspect-category sentiment analysis via syntactic data augmentation and knowledge enhancement" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "B Liu, T Lin, M Li - Knowledge-Based Systems, 2023" 
+--- 
+The goal of aspect-category sentiment analysis (ACSA) is to predict the sentiment polarity toward a specific aspect category from reviewers expressed opinions in a sentence. With the boom of pretrained language models, various relative methods have achieved significant improvements in ACSA. However, two major issues still remain to be solved. First, most of these studies usually follow the canonical method of fine-tuning on limited labeled data, neglecting to leverage external knowledge to  Cites: Deep contextualized word representations

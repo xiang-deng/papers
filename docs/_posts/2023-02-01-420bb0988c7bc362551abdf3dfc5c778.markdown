@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Relation Graph for Identifying Problematic Data"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "JH Kim, S Yun, HO Song - arXiv preprint arXiv:2301.12321, 2023"
+---
+Diagnosing and cleaning datasets are crucial for building robust machine learning systems. However, identifying problems within large-scale datasets with real-world distributions is difficult due to the presence of complex issues, such as label errors or under-representation of certain types. In this paper, we propose a novel approach for identifying problematic data by utilizing a largely ignored source of information: a relational structure of data in the feature-embedded space. We develop an efficient …
+Cites: ‪Detecting Label Errors using Pre-Trained Language Models‬

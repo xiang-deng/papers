@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RREx-BoT: Remote Referring Expressions with a Bag of Tricks"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "GA Sigurdsson, J Thomason, GS Sukhatme… - arXiv preprint arXiv …, 2023"
+---
+Household robots operate in the same space for years. Such robots incrementally build dynamic maps that can be used for tasks requiring remote object localization. However, benchmarks in robot learning often test generalization through inference on tasks in unobserved environments. In an observed environment, locating an object is reduced to choosing from among all object proposals in the environment, which may number in the 100,000 s. Armed with this intuition, using only a generic …
+Cites: ‪Self-monitoring navigation agent via auxiliary progress estimation‬

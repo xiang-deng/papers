@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Which Experiences Are Influential for Your Agent? Policy Iteration with Turn-over Dropout"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "T Hiraoka, T Onishi, Y Tsuruoka - arXiv preprint arXiv:2301.11168, 2023"
----
-In reinforcement learning (RL) with experience replay, experiences stored in a replay buffer influence the RL agent s performance. Information about the influence is valuable for various purposes, including experience cleansing and analysis. One method for estimating the influence of individual experiences is agent comparison, but it is prohibitively expensive when there is a large number of experiences. In this paper, we present PI+ ToD as a method for efficiently estimating the influence of …
-Cites: ‪FastIF: Scalable Influence Functions for Efficient Model …‬
+--- 
+layout: post 
+title: "Which Experiences Are Influential for Your Agent? Policy Iteration with Turn-over Dropout" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "T Hiraoka, T Onishi, Y Tsuruoka - arXiv preprint arXiv:2301.11168, 2023" 
+--- 
+In reinforcement learning (RL) with experience replay, experiences stored in a replay buffer influence the RL agent s performance. Information about the influence is valuable for various purposes, including experience cleansing and analysis. One method for estimating the influence of individual experiences is agent comparison, but it is prohibitively expensive when there is a large number of experiences. In this paper, we present PI+ ToD as a method for efficiently estimating the influence of  Cites: FastIF: Scalable Influence Functions for Efficient Model

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Specializing Smaller Language Models towards Multi-Step Reasoning"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "Y Fu, H Peng, L Ou, A Sabharwal, T Khot - arXiv preprint arXiv:2301.12726, 2023"
+---
+The surprising ability of Large Language Models (LLMs) to perform well on complex reasoning with only few-shot chain-of-thought prompts is believed to emerge only in very large-scale models (100+ billion parameters). We show that such abilities can, in fact, be distilled down from GPT-3.5 ($\ge $ 175B) to T5 variants ($\le $ 11B). We propose model specialization, to specialize the model s ability towards a target task. The hypothesis is that large models (commonly viewed as larger than 100B) have …
+Cites: ‪Emergent abilities of large language models‬

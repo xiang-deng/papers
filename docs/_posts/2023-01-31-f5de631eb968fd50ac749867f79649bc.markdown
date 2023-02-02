@@ -1,9 +1,8 @@
----
-layout: post
-title:  "User-customizable Transpilation of Scripting Languages"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "B Wang, A Kullori, I Nikolić, T Baluta, P Saxena - arXiv preprint arXiv:2301.11220, 2023"
----
-A transpiler converts code from one programming language to another. Many practical uses of transpilers require the user to be able to guide or customize the program produced from a given input program. This customizability is important for satisfying many application-specific goals for the produced code such as ensuring performance, readability, maintainability, compatibility, and so on. Conventional transpilers are deterministic rule-driven systems often written without offering …
-Cites: ‪Automated Transpilation of Imperative to Functional Code using …‬
+--- 
+layout: post 
+title: "User-customizable Transpilation of Scripting Languages" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "B Wang, A Kullori, I Nikoli, T Baluta, P Saxena - arXiv preprint arXiv:2301.11220, 2023" 
+--- 
+A transpiler converts code from one programming language to another. Many practical uses of transpilers require the user to be able to guide or customize the program produced from a given input program. This customizability is important for satisfying many application-specific goals for the produced code such as ensuring performance, readability, maintainability, compatibility, and so on. Conventional transpilers are deterministic rule-driven systems often written without offering  Cites: Automated Transpilation of Imperative to Functional Code using

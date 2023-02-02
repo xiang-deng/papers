@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rare words in text summarization"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "D Morozovskii - 2023"
+---
+Automatic text summarization is a difficult task, which involves a good understanding of an input text to produce fluent, brief and vast summary. The usage of text summarization models can vary from legal document summarization to news summarization. The model should be able to understand where important information is located to produce a good summary. However, infrequently used or rare words might limit model s understanding of an input text, as the model might …
+Cites: ‪Beam decoding with controlled patience‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "On the inconsistency of separable losses for structured prediction"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "C Corro - arXiv preprint arXiv:2301.10810, 2023"
----
-In this paper, we prove that separable negative log-likelihood losses for structured prediction are not necessarily Bayes consistent, or, in other words, minimizing these losses may not result in a model that predicts the most probable structure in the data distribution for a given input. This fact opens the question of whether these losses are well-adapted for structured prediction and, if so, why.
-Cites: ‪Design challenges and misconceptions in named entity recognition‬

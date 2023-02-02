@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding Finetuning for Factual Knowledge Extraction from Language Models"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "M Kazemi, S Mittal, D Ramachandran - arXiv preprint arXiv:2301.11293, 2023"
----
-Language models (LMs) pretrained on large corpora of text from the web have been observed to contain large amounts of various types of knowledge about the world. This observation has led to a new and exciting paradigm in knowledge graph construction where, instead of manual curation or text mining, one extracts knowledge from the parameters of an LM. Recently, it has been shown that finetuning LMs on a set of factual knowledge makes them produce better answers to …
-Cites: ‪MultiQA: An Empirical Investigation of Generalization and Transfer …‬
+--- 
+layout: post 
+title: "Understanding Finetuning for Factual Knowledge Extraction from Language Models" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "M Kazemi, S Mittal, D Ramachandran - arXiv preprint arXiv:2301.11293, 2023" 
+--- 
+Language models (LMs) pretrained on large corpora of text from the web have been observed to contain large amounts of various types of knowledge about the world. This observation has led to a new and exciting paradigm in knowledge graph construction where, instead of manual curation or text mining, one extracts knowledge from the parameters of an LM. Recently, it has been shown that finetuning LMs on a set of factual knowledge makes them produce better answers to  Cites: MultiQA: An Empirical Investigation of Generalization and Transfer

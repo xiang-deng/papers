@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Crawling the Internal Knowledge-Base of Language Models"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "R Cohen, M Geva, J Berant, A Globerson - arXiv preprint arXiv:2301.12810, 2023"
+---
+Language models are trained on large volumes of text, and as a result their parameters might contain a significant body of factual knowledge. Any downstream task performed by these models implicitly builds on these facts, and thus it is highly desirable to have means for representing this body of knowledge in an interpretable way. However, there is currently no mechanism for such a representation. Here, we propose to address this goal by extracting a knowledge-graph of facts from a given …
+Cites: ‪Textrunner: open information extraction on the web‬

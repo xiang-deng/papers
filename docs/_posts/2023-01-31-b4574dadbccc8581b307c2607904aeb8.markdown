@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Label informed hierarchical transformers for sequential sentence classification in scientific abstracts"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "YSSS Takola, SS Aluru, A Vallabhajosyula, DK Sanyal… - Expert Systems"
----
-Segmenting scientific abstracts into discourse categories like background, objective, method, result, and conclusion is useful in many downstream tasks like search, recommendation and summarization. This task of classifying each sentence in the abstract into one of a given set of discourse categories is called sequential sentence classification. Existing machine learning‐based approaches to this problem consider the content of only the abstract to obtain the neural representation of each sentence …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Label informed hierarchical transformers for sequential sentence classification in scientific abstracts" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "YSSS Takola, SS Aluru, A Vallabhajosyula, DK Sanyal - Expert Systems" 
+--- 
+Segmenting scientific abstracts into discourse categories like background, objective, method, result, and conclusion is useful in many downstream tasks like search, recommendation and summarization. This task of classifying each sentence in the abstract into one of a given set of discourse categories is called sequential sentence classification. Existing machine learningbased approaches to this problem consider the content of only the abstract to obtain the neural representation of each sentence  Cites: Bert: Pre-training of deep bidirectional transformers for language

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning from Disagreement for Event Detection"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "L Wang, J Wang, Y Zheng, S Jain, CCM Yeh, Z Zhuang… - 2022 IEEE International …, 2022"
----
-Using a newly developed model to upgrade a legacy model is a common practice in machine learning applications. After the upgrade, it is expected that the new model should outperform the legacy model in the regions of interest. However, it is observed that the new model often makes incorrect decisions on some instances where the legacy model still performs well. For a binary classification model (eg, click-through-rate/CTR prediction model), such undesirable behavior could even occur in …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "Learning from Disagreement for Event Detection" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "L Wang, J Wang, Y Zheng, S Jain, CCM Yeh, Z Zhuang - 2022 IEEE International , 2022" 
+--- 
+Using a newly developed model to upgrade a legacy model is a common practice in machine learning applications. After the upgrade, it is expected that the new model should outperform the legacy model in the regions of interest. However, it is observed that the new model often makes incorrect decisions on some instances where the legacy model still performs well. For a binary classification model (eg, click-through-rate/CTR prediction model), such undesirable behavior could even occur in  Cites: Dataset cartography: Mapping and diagnosing datasets with

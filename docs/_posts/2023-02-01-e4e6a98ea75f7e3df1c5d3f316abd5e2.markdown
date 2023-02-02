@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Probing Out-of-Distribution Robustness of Language Models with Parameter-Efficient Transfer Learning Methods"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "H Cho, C Park, J Kim, HJ Kim, KM Yoo, S Lee - arXiv preprint arXiv:2301.11660, 2023"
+---
+As the size of the pre-trained language model (PLM) continues to increase, numerous parameter-efficient transfer learning methods have been proposed recently to compensate for the tremendous cost of fine-tuning. Despite the impressive results achieved by large pre-trained language models (PLMs) and various parameter-efficient transfer learning (PETL) methods on sundry benchmarks, it remains unclear if they can handle inputs that have been distributionally shifted …
+Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬

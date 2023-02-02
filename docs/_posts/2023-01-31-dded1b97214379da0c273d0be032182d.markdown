@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Beyond accurate answers: Evaluating open-domain question answering in enterprise search"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "D Zhou, L Liu, A Anubhai, M Shandilya, S Sigalas… - 2023"
----
-Open-domain question answering (OpenQA) research has grown rapidly in recent years. However, OpenQA usability evaluation in its real world applications is largely left under studied. In this paper, we evaluated the actual user experience of OpenQA model deployed in a large tech company s production enterprise search portal. From qualitative query log analysis and user interviews, our preliminary findings are: 1) There exists a large number of “contingency answers” that cannot be simply …
-Cites: ‪Sewon Min, Patrick Lewis, Ledell Yu Wu, Sergey Edunov, Danqi …‬
+--- 
+layout: post 
+title: "Beyond accurate answers: Evaluating open-domain question answering in enterprise search" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "D Zhou, L Liu, A Anubhai, M Shandilya, S Sigalas - 2023" 
+--- 
+Open-domain question answering (OpenQA) research has grown rapidly in recent years. However, OpenQA usability evaluation in its real world applications is largely left under studied. In this paper, we evaluated the actual user experience of OpenQA model deployed in a large tech company s production enterprise search portal. From qualitative query log analysis and user interviews, our preliminary findings are: 1) There exists a large number of contingency answers that cannot be simply  Cites: Sewon Min, Patrick Lewis, Ledell Yu Wu, Sergey Edunov, Danqi

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic Parsing for Conversational Question Answering over Knowledge Graphs"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "L Perez-Beltrachini, P Jain, E Monti, M Lapata - arXiv preprint arXiv:2301.12217, 2023"
+---
+In this paper, we are interested in developing semantic parsers which understand natural language questions embedded in a conversation with a user and ground them to formal queries over definitions in a general purpose knowledge graph (KG) with very large vocabularies (covering thousands of concept names and relations, and millions of entities). To this end, we develop a dataset where user questions are annotated with Sparql parses and system answers correspond to execution results …
+Cites: ‪The value of semantic parse labeling for knowledge base question …‬

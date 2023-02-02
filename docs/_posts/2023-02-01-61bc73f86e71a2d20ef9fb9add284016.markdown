@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Weak supervision and label noise handling for Natural language processing in low-resource scenarios"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "MA Hedderich - 2022"
+---
+The lack of large amounts of labeled data is a significant factor blocking many low-resource languages and domains from catching up with recent advancements in natural language processing. To reduce this dependency on labeled instances, weak supervision (semi-) automatically annotates unlabeled data. These labels can be obtained more quickly and cheaply than manual, gold-standard annotations. They also, however, contain more errors. Handling these noisy labels is often required to …
+Cites: ‪Evaluating models  local decision boundaries via contrast sets‬

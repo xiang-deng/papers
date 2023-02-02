@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Quantifying Context Mixing in Transformers"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "H Mohebbi, W Zuidema, G Chrupała, A Alishahi - arXiv preprint arXiv:2301.12971, 2023"
+---
+Self-attention weights and their transformed variants have been the main source of information for analyzing token-to-token interactions in Transformer-based models. But despite their ease of interpretation, these weights are not faithful to the models  decisions as they are only one part of an encoder, and other components in the encoder layer can have considerable impact on information mixing in the output representations. In this work, by expanding the scope of analysis to the whole …
+Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬

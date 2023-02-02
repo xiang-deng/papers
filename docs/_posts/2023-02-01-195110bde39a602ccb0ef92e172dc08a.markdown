@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring Attention Map Reuse for Efficient Transformer Neural Networks"
+date:   2023-02-01 14:37:22 -0400
+categories: jekyll update
+author: "K Shim, J Choi, W Sung - arXiv preprint arXiv:2301.12444, 2023"
+---
+Transformer-based deep neural networks have achieved great success in various sequence applications due to their powerful ability to model long-range dependency. The key module of Transformer is self-attention (SA) which extracts features from the entire sequence regardless of the distance between positions. Although SA helps Transformer performs particularly well on long-range tasks, SA requires quadratic computation and memory complexity with the input sequence length. Recently …
+Cites: ‪Know what you don t need: Single-Shot Meta-Pruning for attention …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph attention network with dynamic representation of relations for knowledge graph completion"
-date:   2023-01-31 01:49:57 -0400
-categories: jekyll update
-author: "X Zhang, C Zhang, J Guo, C Peng, Z Niu, X Wu - Expert Systems with Applications, 2023"
----
-Abstract Knowledge graph completion (KGC) aims to predict the missing element in a triple based on known triples or facts. Recently, plenty of representation learning methods for KGC have achieved the promising performance, especially ones based on graph neural networks and their variants. Those methods exploit local neighborhood information to update the embedding of target entities. However, the existing works have the following two problems. First, those approaches focus on the …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Graph attention network with dynamic representation of relations for knowledge graph completion" 
+date: 2023-01-31 01:49:57 -0400 
+categories: jekyll update 
+author: "X Zhang, C Zhang, J Guo, C Peng, Z Niu, X Wu - Expert Systems with Applications, 2023" 
+--- 
+Abstract Knowledge graph completion (KGC) aims to predict the missing element in a triple based on known triples or facts. Recently, plenty of representation learning methods for KGC have achieved the promising performance, especially ones based on graph neural networks and their variants. Those methods exploit local neighborhood information to update the embedding of target entities. However, the existing works have the following two problems. First, those approaches focus on the  Cites: Deep contextualized word representations
