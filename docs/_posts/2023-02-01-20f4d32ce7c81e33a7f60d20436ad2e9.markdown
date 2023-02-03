@@ -1,9 +1,8 @@
----
-layout: post
-title:  "End-to-end Case-Based Reasoning for Commonsense Knowledge Base Completion"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "Z Yang, X Du, E Cambria, C Cardie"
----
-Pretrained language models have been shown to store knowledge in their parameters and have achieved reasonable performance in commonsense knowledge base completion (CKBC) tasks. However, CKBC is knowledge-intensive and it is reported that pretrained language models  performance in knowledge-intensive tasks are limited because of their incapability of accessing and manipulating knowledge. As a result, we hypothesize that providing retrieved …
-Cites: ‪Retrieval-augmented generation for knowledge-intensive nlp tasks‬
+--- 
+layout: post 
+title: "End-to-end Case-Based Reasoning for Commonsense Knowledge Base Completion" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "Z Yang, X Du, E Cambria, C Cardie" 
+--- 
+Pretrained language models have been shown to store knowledge in their parameters and have achieved reasonable performance in commonsense knowledge base completion (CKBC) tasks. However, CKBC is knowledge-intensive and it is reported that pretrained language models performance in knowledge-intensive tasks are limited because of their incapability of accessing and manipulating knowledge. As a result, we hypothesize that providing retrieved  Cites: Retrieval-augmented generation for knowledge-intensive nlp tasks

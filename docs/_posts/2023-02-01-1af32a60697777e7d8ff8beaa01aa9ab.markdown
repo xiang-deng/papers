@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prompt-Based Editing for Text Style Transfer"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "G Luo, YT Han, L Mou, M Firdaus - arXiv preprint arXiv:2301.11997, 2023"
----
-Prompting approaches have been recently explored in text style transfer, where a textual prompt is used to query a pretrained language model to generate style-transferred texts word by word in an autoregressive manner. However, such a generation process is less controllable and early prediction errors may affect future word predictions. In this paper, we present a prompt-based editing approach for text style transfer. Specifically, we prompt a pretrained language model for style …
-Cites: ‪Reformulating Unsupervised Style Transfer as Paraphrase …‬
+--- 
+layout: post 
+title: "Prompt-Based Editing for Text Style Transfer" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "G Luo, YT Han, L Mou, M Firdaus - arXiv preprint arXiv:2301.11997, 2023" 
+--- 
+Prompting approaches have been recently explored in text style transfer, where a textual prompt is used to query a pretrained language model to generate style-transferred texts word by word in an autoregressive manner. However, such a generation process is less controllable and early prediction errors may affect future word predictions. In this paper, we present a prompt-based editing approach for text style transfer. Specifically, we prompt a pretrained language model for style  Cites: Reformulating Unsupervised Style Transfer as Paraphrase

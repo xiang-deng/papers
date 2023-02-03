@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Boosting Automated Patch Correctness Prediction via Pre-trained Language Model"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "Q Zhang, C Fang, W Sun, Y Liu, T He, X Hao, Z Chen - arXiv preprint arXiv …, 2023"
----
-Automated program repair (APR) aims to fix software bugs automatically without human debugging efforts and plays a crucial role in software development and maintenance. Despite the recent significant progress, APR is still challenged by a long-standing overfitting problem (ie, the generated patch is plausible but overfitting). Various techniques have thus been proposed to address the overfitting problem. Among them, leveraging deep learning approaches to predict patch correctness is …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "Boosting Automated Patch Correctness Prediction via Pre-trained Language Model" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "Q Zhang, C Fang, W Sun, Y Liu, T He, X Hao, Z Chen - arXiv preprint arXiv , 2023" 
+--- 
+Automated program repair (APR) aims to fix software bugs automatically without human debugging efforts and plays a crucial role in software development and maintenance. Despite the recent significant progress, APR is still challenged by a long-standing overfitting problem (ie, the generated patch is plausible but overfitting). Various techniques have thus been proposed to address the overfitting problem. Among them, leveraging deep learning approaches to predict patch correctness is  Cites: Graphcodebert: Pre-training code representations with data flow

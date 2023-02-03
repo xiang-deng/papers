@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V (Technical Report)"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "R Shraga, RJ Miller - arXiv preprint arXiv:2301.13095, 2023"
----
-In multi-user environments in which data science and analysis is collaborative, multiple versions of the same datasets are generated. While managing and storing data versions has received some attention in the research literature, the semantic nature of such changes has remained under-explored. In this work, we introduce\texttt {Explain-Da-V}, a framework aiming to explain changes between two given dataset versions.\texttt {Explain-Da-V} generates\emph {explanations} that …
-Cites: ‪CLX: Towards verifiable PBE data transformation‬
+--- 
+layout: post 
+title: "Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V (Technical Report)" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "R Shraga, RJ Miller - arXiv preprint arXiv:2301.13095, 2023" 
+--- 
+In multi-user environments in which data science and analysis is collaborative, multiple versions of the same datasets are generated. While managing and storing data versions has received some attention in the research literature, the semantic nature of such changes has remained under-explored. In this work, we introduce\texttt {Explain-Da-V}, a framework aiming to explain changes between two given dataset versions.\texttt {Explain-Da-V} generates\emph {explanations} that  Cites: CLX: Towards verifiable PBE data transformation

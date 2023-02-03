@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "X Wu, C Li, RY Aminabadi, Z Yao, Y He - arXiv preprint arXiv:2301.12017, 2023"
----
-Improving the deployment efficiency of transformer-based language models has been challenging given their high computation and memory cost. While INT8 quantization has recently been shown to be effective in reducing both the memory cost and latency while preserving model accuracy, it remains unclear whether we can leverage INT4 (which doubles peak hardware throughput) to achieve further latency improvement. In this work, we fully investigate the feasibility of using INT4 …
-Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬
+--- 
+layout: post 
+title: "Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "X Wu, C Li, RY Aminabadi, Z Yao, Y He - arXiv preprint arXiv:2301.12017, 2023" 
+--- 
+Improving the deployment efficiency of transformer-based language models has been challenging given their high computation and memory cost. While INT8 quantization has recently been shown to be effective in reducing both the memory cost and latency while preserving model accuracy, it remains unclear whether we can leverage INT4 (which doubles peak hardware throughput) to achieve further latency improvement. In this work, we fully investigate the feasibility of using INT4  Cites: Mobilebert: a compact task-agnostic bert for resource-limited devices

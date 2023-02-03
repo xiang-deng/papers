@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Candidate Soups: Fusing Candidate Results Improves Translation Quality for Non-Autoregressive Translation"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "H Zheng, W Zhu, P Wang, X Wang - arXiv preprint arXiv:2301.11503, 2023"
----
-Non-autoregressive translation (NAT) model achieves a much faster inference speed than the autoregressive translation (AT) model because it can simultaneously predict all tokens during inference. However, its translation quality suffers from degradation compared to AT. And existing NAT methods only focus on improving the NAT model s performance but do not fully utilize it. In this paper, we propose a simple but effective method called  Candidate Soups,  which can obtain high-quality translations while …
-Cites: ‪Latent-variable non-autoregressive neural machine translation …‬
+--- 
+layout: post 
+title: "Candidate Soups: Fusing Candidate Results Improves Translation Quality for Non-Autoregressive Translation" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "H Zheng, W Zhu, P Wang, X Wang - arXiv preprint arXiv:2301.11503, 2023" 
+--- 
+Non-autoregressive translation (NAT) model achieves a much faster inference speed than the autoregressive translation (AT) model because it can simultaneously predict all tokens during inference. However, its translation quality suffers from degradation compared to AT. And existing NAT methods only focus on improving the NAT model s performance but do not fully utilize it. In this paper, we propose a simple but effective method called Candidate Soups, which can obtain high-quality translations while  Cites: Latent-variable non-autoregressive neural machine translation

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Can We Use Probing to Better Understand Fine-tuning and Knowledge Distillation of the BERT NLU?"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "J Hościłowicz, M Sowański, P Czubowski, A Janicki - arXiv preprint arXiv:2301.11688, 2023"
----
-In this article, we use probing to investigate phenomena that occur during fine-tuning and knowledge distillation of a BERT-based natural language understanding (NLU) model. Our ultimate purpose was to use probing to better understand practical production problems and consequently to build better NLU models. We designed experiments to see how fine-tuning changes the linguistic capabilities of BERT, what the optimal size of the fine-tuning dataset is, and what amount of information is …
-Cites: ‪Universal dependencies v2: An evergrowing multilingual treebank …‬

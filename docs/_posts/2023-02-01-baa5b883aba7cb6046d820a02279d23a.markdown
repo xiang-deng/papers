@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "H Zhu, P Rashidinejad, J Jiao - arXiv preprint arXiv:2301.12714, 2023"
----
-We propose A-Crab (Actor-Critic Regularized by Average Bellman error), a new algorithm for offline reinforcement learning (RL) in complex environments with insufficient data coverage. Our algorithm combines the marginalized importance sampling framework with the actor-critic paradigm, where the critic returns evaluations of the actor (policy) that are pessimistic relative to the offline data and have a small average (importance-weighted) Bellman error. Compared to existing …
-Cites: ‪Chip placement with deep reinforcement learning‬
+--- 
+layout: post 
+title: "Importance Weighted Actor-Critic for Optimal Conservative Offline Reinforcement Learning" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "H Zhu, P Rashidinejad, J Jiao - arXiv preprint arXiv:2301.12714, 2023" 
+--- 
+We propose A-Crab (Actor-Critic Regularized by Average Bellman error), a new algorithm for offline reinforcement learning (RL) in complex environments with insufficient data coverage. Our algorithm combines the marginalized importance sampling framework with the actor-critic paradigm, where the critic returns evaluations of the actor (policy) that are pessimistic relative to the offline data and have a small average (importance-weighted) Bellman error. Compared to existing  Cites: Chip placement with deep reinforcement learning

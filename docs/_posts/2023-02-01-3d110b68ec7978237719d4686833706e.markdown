@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AutoPEFT: Automatic Configuration Search for Parameter-Efficient Fine-Tuning"
-date:   2023-02-01 14:37:22 -0400
-categories: jekyll update
-author: "H Zhou, X Wan, I Vulić, A Korhonen - arXiv preprint arXiv:2301.12132, 2023"
----
-Large pretrained language models have been widely used in downstream NLP tasks via task-specific fine-tuning. Recently, an array of Parameter-Efficient Fine-Tuning (PEFT) methods have also achieved strong task performance while updating a much smaller number of parameters compared to full model tuning. However, it is non-trivial to make informed per-task design choices (ie, to create PEFT configurations) concerning the selection of PEFT architectures and modules, the number of tunable …
-Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬
+--- 
+layout: post 
+title: "AutoPEFT: Automatic Configuration Search for Parameter-Efficient Fine-Tuning" 
+date: 2023-02-01 14:37:22 -0400 
+categories: jekyll update 
+author: "H Zhou, X Wan, I Vuli, A Korhonen - arXiv preprint arXiv:2301.12132, 2023" 
+--- 
+Large pretrained language models have been widely used in downstream NLP tasks via task-specific fine-tuning. Recently, an array of Parameter-Efficient Fine-Tuning (PEFT) methods have also achieved strong task performance while updating a much smaller number of parameters compared to full model tuning. However, it is non-trivial to make informed per-task design choices (ie, to create PEFT configurations) concerning the selection of PEFT architectures and modules, the number of tunable  Cites: Unipelt: A unified framework for parameter-efficient language
