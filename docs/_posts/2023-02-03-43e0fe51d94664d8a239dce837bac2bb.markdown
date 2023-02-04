@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Monte Carlo Evaluation with Offline Data"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "S Liu, S Zhang - arXiv preprint arXiv:2301.13734, 2023"
+---
+Monte Carlo (MC) methods are the most widely used methods to estimate the performance of a policy. Given an interested policy, MC methods give estimates by repeatedly running this policy to collect samples and taking the average of the outcomes. Samples collected during this process are called online samples. To get an accurate estimate, MC methods consume massive online samples. When online samples are expensive, eg, online recommendations and inventory management …
+Cites: ‪Black-box off-policy estimation for infinite-horizon reinforcement …‬

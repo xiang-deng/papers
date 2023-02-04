@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A parallel fusion graph convolutional network for aspect-level sentiment analysis"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "Y Wu, G Deng - Big Data Research, 2023"
+---
+Sentiment analysis has always been an important basic task in the NLP field. Recently, graph convolutional networks (GCNs) have been widely used in aspect-level sentiment analysis. Because GCNs have good aggregation effects, every node can contain neighboring node information. However, in previous studies, most models used only a single GCN to learn contextual information. The GCN relies on the construction method of the graph, and a single GCN will cause the model to focus …
+Cites: ‪Effective LSTMs for target-dependent sentiment classification‬

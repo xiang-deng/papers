@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "Z Shao, Y Gong, Y Shen, M Huang, N Duan, W Chen - arXiv preprint arXiv …, 2023"
+---
+Large language models can perform various reasoning tasks by using chain-of-thought prompting, which guides them to find answers through step-by-step demonstrations. However, the quality of the prompts depends on the demonstrations given to the models, and creating many of them by hand is costly. We introduce Synthetic prompting, a method that leverages a few handcrafted examples to prompt the model to generate more examples by itself, and selects effective demonstrations …
+Cites: ‪Chain of thought prompting elicits reasoning in large language …‬

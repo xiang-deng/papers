@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Feed-Forward Blocks Control Contextualization in Masked Language Models"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "G Kobayashi, T Kuribayashi, S Yokoi, K Inui - arXiv preprint arXiv:2302.00456, 2023"
+---
+Understanding the inner workings of neural network models is a crucial step for rationalizing their output and refining their architecture. Transformer-based models are the core of recent natural language processing and have been analyzed typically with attention patterns as their epoch-making feature is contextualizing surrounding input words via attention mechanisms. In this study, we analyze their inner contextualization by considering all the components, including the feed-forward …
+Cites: ‪What does BERT look at? An analysis of BERT s attention‬

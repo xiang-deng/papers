@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Analyzing Leakage of Personally Identifiable Information in Language Models"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "N Lukas, A Salem, R Sim, S Tople, L Wutschitz… - arXiv preprint arXiv …, 2023"
+---
+Language Models (LMs) have been shown to leak information about training data through sentence-level membership inference and reconstruction attacks. Understanding the risk of LMs leaking Personally Identifiable Information (PII) has received less attention, which can be attributed to the false assumption that dataset curation techniques such as scrubbing are sufficient to prevent PII leakage. Scrubbing techniques reduce but do not prevent the risk of PII leakage: in practice …
+Cites: ‪Large language models can be strong differentially private learners‬

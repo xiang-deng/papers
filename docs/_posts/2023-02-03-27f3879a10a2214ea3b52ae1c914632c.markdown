@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Free Lunch for Domain Adversarial Training: Environment Label Smoothing"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "YF Zhang, X Wang, J Liang, Z Zhang, L Wang, R Jin… - arXiv preprint arXiv …, 2023"
+---
+A fundamental challenge for machine learning models is how to generalize learned models for out-of-distribution (OOD) data. Among various approaches, exploiting invariant features by Domain Adversarial Training (DAT) received widespread attention. Despite its success, we observe training instability from DAT, mostly due to over-confident domain discriminator and environment label noise. To address this issue, we proposed Environment Label Smoothing (ELS), which encourages the …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

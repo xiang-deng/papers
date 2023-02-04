@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Power of External Memory in Increasing Predictive Model Capacity"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "C Baykal, DJ Cutler, N Dikkala, N Ghosh, R Panigrahy… - arXiv preprint arXiv …, 2023"
+---
+One way of introducing sparsity into deep networks is by attaching an external table of parameters that is sparsely looked up at different layers of the network. By storing the bulk of the parameters in the external table, one can increase the capacity of the model without necessarily increasing the inference time. Two crucial questions in this setting are then: what is the lookup function for accessing the table and how are the contents of the table consumed? Prominent methods for accessing the table include …
+Cites: ‪Palm: Scaling language modeling with pathways‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sentence Identification with BOS and EOS Label Combinations"
+date:   2023-02-03 14:16:33 -0400
+categories: jekyll update
+author: "T Udagawa, H Kanayama, I Yoshida - arXiv preprint arXiv:2301.13352, 2023"
+---
+The sentence is a fundamental unit in many NLP applications. Sentence segmentation is widely used as the first preprocessing task, where an input text is split into consecutive sentences considering the end of the sentence (EOS) as their boundaries. This task formulation relies on a strong assumption that the input text consists only of sentences, or what we call the sentential units (SUs). However, real-world texts often contain non-sentential units (NSUs) such as metadata, sentence …
+Cites: ‪Universal dependencies‬
