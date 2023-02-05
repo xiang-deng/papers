@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enabling schema-independent data retrieval queries in MongoDB"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "JVL Cabral, VER Noguera, RR Ciferri, D Lucrédio - Information Systems, 2023"
----
-NoSQL databases are designed to allow data to be stored without a fixed schema. In this scenario, writing data access code (queries and associated code) is challenging for two main reasons:(i) the query developer needs to know all details regarding the logical/physical schema;(ii) whenever the schema needs to change, all queries need to be rewritten. The literature presents some solutions to mitigate these challenges by making queries independent from the schema, but they are either restricted to …
-Cites: ‪Principles of data integration‬
+--- 
+layout: post 
+title: "Enabling schema-independent data retrieval queries in MongoDB" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "JVL Cabral, VER Noguera, RR Ciferri, D Lucrdio - Information Systems, 2023" 
+--- 
+NoSQL databases are designed to allow data to be stored without a fixed schema. In this scenario, writing data access code (queries and associated code) is challenging for two main reasons:(i) the query developer needs to know all details regarding the logical/physical schema;(ii) whenever the schema needs to change, all queries need to be rewritten. The literature presents some solutions to mitigate these challenges by making queries independent from the schema, but they are either restricted to  Cites: Principles of data integration

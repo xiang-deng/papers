@@ -1,9 +1,0 @@
----
-layout: post
-title:  "BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "Y Chen, Y Liu, C Wang, M Elliott, CF Kwok, Y Tian… - arXiv preprint arXiv …, 2023"
----
-Methods to detect malignant lesions from screening mammograms are usually trained with fully annotated datasets, where images are labelled with the localisation and classification of cancerous lesions. However, real-world screening mammogram datasets commonly have a subset that is fully annotated and another subset that is weakly annotated with just the global classification (ie, without lesion localisation). Given the large size of such datasets, researchers usually face a dilemma with the …
-Cites: ‪An interpretable classifier for high-resolution breast cancer …‬

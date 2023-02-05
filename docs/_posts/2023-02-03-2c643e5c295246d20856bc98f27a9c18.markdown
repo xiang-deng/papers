@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "K Mao, Z Dou, H Qian, F Mo, X Cheng, Z Cao"
----
-Conversational search provides users with natural and convenient new search experience. Recently, conversational dense retrieval has shown to be a promising technique to realize conversational search. However, as conversational search systems have not been widely deployed, it is hard to get large-scale real conversational search sessions and relevance labels to support the training of conversational dense retrieval. To tackle this data scarcity problem, previous …
-Cites: ‪Can you unpack that? learning to rewrite questions-in-context‬
+--- 
+layout: post 
+title: "ConvTrans: Transforming Web Search Sessions for Conversational Dense Retrieval" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "K Mao, Z Dou, H Qian, F Mo, X Cheng, Z Cao" 
+--- 
+Conversational search provides users with natural and convenient new search experience. Recently, conversational dense retrieval has shown to be a promising technique to realize conversational search. However, as conversational search systems have not been widely deployed, it is hard to get large-scale real conversational search sessions and relevance labels to support the training of conversational dense retrieval. To tackle this data scarcity problem, previous  Cites: Can you unpack that? learning to rewrite questions-in-context

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "In-Context Retrieval-Augmented Language Models"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "O Ram, Y Levine, I Dalmedigos, D Muhlgay… - arXiv preprint arXiv …, 2023"
----
-Retrieval-Augmented Language Modeling (RALM) methods, that condition a language model (LM) on relevant documents from a grounding corpus during generation, have been shown to significantly improve language modeling while also providing a natural source attribution mechanism. Existing RALM approaches focus on modifying the LM architecture in order to facilitate the incorporation of external information, significantly complicating deployment. This paper proposes an under …
-Cites: ‪Unsupervised dense information retrieval with contrastive learning‬
+--- 
+layout: post 
+title: "In-Context Retrieval-Augmented Language Models" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "O Ram, Y Levine, I Dalmedigos, D Muhlgay - arXiv preprint arXiv , 2023" 
+--- 
+Retrieval-Augmented Language Modeling (RALM) methods, that condition a language model (LM) on relevant documents from a grounding corpus during generation, have been shown to significantly improve language modeling while also providing a natural source attribution mechanism. Existing RALM approaches focus on modifying the LM architecture in order to facilitate the incorporation of external information, significantly complicating deployment. This paper proposes an under  Cites: Unsupervised dense information retrieval with contrastive learning

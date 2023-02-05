@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Scalable and Fast Distributionally Robust Optimization for Data-Driven Deep Learning"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "X Shen, X Wang, Q Xu, W Ge, X Xue - 2022 IEEE International Conference on Data …, 2022"
----
-We introduce a scalable and fast method for solving distributionally robust optimization (DRO). Previous works have demonstrated that DRO outperforms empirical risk on a collection of inconsistent distribution of test data (the property of “uncertainty set”). However, DRO is hard to be applied for large-scale datasets and large parameterized model, due to the datapoint-level and non-differentiable objective function. In this paper, we formalize the DRO problem with the supremum of …
-Cites: ‪Modeling the Second Player in Distributionally Robust Optimization‬
+--- 
+layout: post 
+title: "Towards Scalable and Fast Distributionally Robust Optimization for Data-Driven Deep Learning" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "X Shen, X Wang, Q Xu, W Ge, X Xue - 2022 IEEE International Conference on Data , 2022" 
+--- 
+We introduce a scalable and fast method for solving distributionally robust optimization (DRO). Previous works have demonstrated that DRO outperforms empirical risk on a collection of inconsistent distribution of test data (the property of uncertainty set). However, DRO is hard to be applied for large-scale datasets and large parameterized model, due to the datapoint-level and non-differentiable objective function. In this paper, we formalize the DRO problem with the supremum of  Cites: Modeling the Second Player in Distributionally Robust Optimization

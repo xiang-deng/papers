@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HunSum-1: an Abstractive Summarization Dataset for Hungarian"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "B Barta, D Lakatos, A Nagy, MK Nyist, J Ács - arXiv preprint arXiv:2302.00455, 2023"
----
-We introduce HunSum-1: a dataset for Hungarian abstractive summarization, consisting of 1.14 M news articles. The dataset is built by collecting, cleaning and deduplicating data from 9 major Hungarian news sites through CommonCrawl. Using this dataset, we build abstractive summarizer models based on huBERT and mT5. We demonstrate the value of the created dataset by performing a quantitative and qualitative analysis on the models  results. The HunSum-1 dataset, all models …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "HunSum-1: an Abstractive Summarization Dataset for Hungarian" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "B Barta, D Lakatos, A Nagy, MK Nyist, J cs - arXiv preprint arXiv:2302.00455, 2023" 
+--- 
+We introduce HunSum-1: a dataset for Hungarian abstractive summarization, consisting of 1.14 M news articles. The dataset is built by collecting, cleaning and deduplicating data from 9 major Hungarian news sites through CommonCrawl. Using this dataset, we build abstractive summarizer models based on huBERT and mT5. We demonstrate the value of the created dataset by performing a quantitative and qualitative analysis on the models results. The HunSum-1 dataset, all models  Cites: Text summarization with pretrained encoders

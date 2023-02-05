@@ -1,9 +1,0 @@
----
-layout: post
-title:  "RoRED: Bootstrapping Labeling Rule Discovery for Robust Relation Extraction"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "W Hou, L Hong, H Xu, W Yin - Information Sciences, 2023"
----
-Labeling rules can be leveraged to produce training data by matching the sentences in the corpus. However, the robustness of the relation extraction is reduced by noisy labels generated from incorrectly matched and missing sentences. To address this problem, we propose the bootstrapping labeling rule discovery method for robust relation extraction (RoRED). Specifically, we first define PN-rules to filter incorrectly matched sentences based on positive (P) and negative (N) rules. Second, we design …
-Cites: ‪Biological data annotation via a human-augmenting AI-based …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FLAME: A small language model for spreadsheet formulas"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "H Joshi, A Ebenezer, J Cambronero, S Gulwani… - arXiv preprint arXiv …, 2023"
----
-The widespread use of spreadsheet environments by billions of users presents a unique opportunity for formula-authoring assistance. Although large language models, such as Codex, can assist in general-purpose languages, they are expensive to train and challenging to deploy due to their large model sizes (up to billions of parameters). Moreover, they require hundreds of gigabytes of training data. We present FLAME, a T5-based model trained on Excel formulas that …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "FLAME: A small language model for spreadsheet formulas" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "H Joshi, A Ebenezer, J Cambronero, S Gulwani - arXiv preprint arXiv , 2023" 
+--- 
+The widespread use of spreadsheet environments by billions of users presents a unique opportunity for formula-authoring assistance. Although large language models, such as Codex, can assist in general-purpose languages, they are expensive to train and challenging to deploy due to their large model sizes (up to billions of parameters). Moreover, they require hundreds of gigabytes of training data. We present FLAME, a T5-based model trained on Excel formulas that  Cites: Codexglue: A machine learning benchmark dataset for code

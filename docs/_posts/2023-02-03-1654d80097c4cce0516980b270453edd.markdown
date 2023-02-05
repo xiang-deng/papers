@@ -1,9 +1,8 @@
----
-layout: post
-title:  "What Makes Good Examples for Visual In-Context Learning?"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "Y Zhang, K Zhou, Z Liu - arXiv preprint arXiv:2301.13670, 2023"
----
-Large-scale models trained on broad data have recently become the mainstream architecture in computer vision due to their strong generalization performance. In this paper, the main focus is on an emergent ability in large vision models, known as in-context learning, which allows inference on unseen tasks by conditioning on in-context examples (aka~ prompt) without updating the model parameters. This concept has been well-known in natural language processing but has only been …
-Cites: ‪In-context Examples Selection for Machine Translation‬
+--- 
+layout: post 
+title: "What Makes Good Examples for Visual In-Context Learning?" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "Y Zhang, K Zhou, Z Liu - arXiv preprint arXiv:2301.13670, 2023" 
+--- 
+Large-scale models trained on broad data have recently become the mainstream architecture in computer vision due to their strong generalization performance. In this paper, the main focus is on an emergent ability in large vision models, known as in-context learning, which allows inference on unseen tasks by conditioning on in-context examples (aka~ prompt) without updating the model parameters. This concept has been well-known in natural language processing but has only been  Cites: In-context Examples Selection for Machine Translation

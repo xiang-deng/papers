@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Hard Few-Shot Relation Classification"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "J Han, B Cheng, Z Wan, W Lu - IEEE Transactions on Knowledge and Data …, 2023"
----
-Few-shot relation classification (FSRC) focuses on recognizing novel relations by learning with merely a handful of annotated instances. Meta-learning has been widely adopted for such a task, which trains on randomly generated few-shot tasks to learn generic data representations. Despite impressive results achieved, existing models still perform suboptimally when handling hard FSRC tasks with similar categories that confuse the model to distinguish correctly. We argue this is largely …
-Cites: ‪Meta-Information Guided Meta-Learning for Few-Shot Relation …‬
+--- 
+layout: post 
+title: "Towards Hard Few-Shot Relation Classification" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "J Han, B Cheng, Z Wan, W Lu - IEEE Transactions on Knowledge and Data , 2023" 
+--- 
+Few-shot relation classification (FSRC) focuses on recognizing novel relations by learning with merely a handful of annotated instances. Meta-learning has been widely adopted for such a task, which trains on randomly generated few-shot tasks to learn generic data representations. Despite impressive results achieved, existing models still perform suboptimally when handling hard FSRC tasks with similar categories that confuse the model to distinguish correctly. We argue this is largely  Cites: Meta-Information Guided Meta-Learning for Few-Shot Relation

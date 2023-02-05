@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semantic Patterns to Structure TimeFrames for Event Ordering Enhancement"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "N Matta, N Matta, N Declercq, A Marcante - … Journal on Advances in Systems and …, 2022"
----
-Event ordering is a field in Event Extraction that deals with the temporality aspect and order of occurrences of events mentioned in a text. Event Ordering is essential because any analysis of causalities and consequences of specific actions or changes of state requires a time evaluation. Standard approaches using machine learning models, with or without inferences, start by identifying events in text and then generate the temporal relationships between them individually. With no …
-Cites: ‪A structured learning approach to temporal relation extraction‬
+--- 
+layout: post 
+title: "Semantic Patterns to Structure TimeFrames for Event Ordering Enhancement" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "N Matta, N Matta, N Declercq, A Marcante - Journal on Advances in Systems and , 2022" 
+--- 
+Event ordering is a field in Event Extraction that deals with the temporality aspect and order of occurrences of events mentioned in a text. Event Ordering is essential because any analysis of causalities and consequences of specific actions or changes of state requires a time evaluation. Standard approaches using machine learning models, with or without inferences, start by identifying events in text and then generate the temporal relationships between them individually. With no  Cites: A structured learning approach to temporal relation extraction

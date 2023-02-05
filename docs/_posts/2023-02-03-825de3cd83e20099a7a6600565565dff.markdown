@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adaptive Machine Translation with Large Language Models"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "Y Moslem, R Haque, A Way - arXiv preprint arXiv:2301.13294, 2023"
----
-Consistency is a key requirement of high-quality translation. It is especially important to adhere to pre-approved terminology and corrected translations in domain-specific projects. Machine translation (MT) has achieved significant progress in the area of domain adaptation. However, real-time adaptation remains challenging. Large-scale language models (LLMs) have recently shown interesting capabilities of in-context learning, where they learn to replicate certain input-output text generation patterns …
-Cites: ‪TICO-19: the Translation Initiative for COvid-19‬
+--- 
+layout: post 
+title: "Adaptive Machine Translation with Large Language Models" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "Y Moslem, R Haque, A Way - arXiv preprint arXiv:2301.13294, 2023" 
+--- 
+Consistency is a key requirement of high-quality translation. It is especially important to adhere to pre-approved terminology and corrected translations in domain-specific projects. Machine translation (MT) has achieved significant progress in the area of domain adaptation. However, real-time adaptation remains challenging. Large-scale language models (LLMs) have recently shown interesting capabilities of in-context learning, where they learn to replicate certain input-output text generation patterns  Cites: TICO-19: the Translation Initiative for COvid-19

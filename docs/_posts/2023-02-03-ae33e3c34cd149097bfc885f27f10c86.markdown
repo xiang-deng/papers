@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Event Annotation Enhanced Pre-trained Language Model in Event Extraction"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "Q Xi, Y Ren, G Wu, Q Wang, L Yuan, Z Zhang - … 2022, Virtual Event, July 22-24, 2022 …, 2023"
----
-Event extraction is a crucial task that aims to extract event information in texts. Existing methods usually use pre-trained language models to extract events and have achieved state-of-the-art performance. However, these models do not consider the complexity of the event structure and lack the use of event knowledge. To address these problems, we propose a new framework that integrates event annotation into the pre-trained model explicitly, termd as EABERT. Specifically, event …
-Cites: ‪Entity, relation, and event extraction with contextualized span …‬
+--- 
+layout: post 
+title: "Event Annotation Enhanced Pre-trained Language Model in Event Extraction" 
+date: 2023-02-03 14:16:33 -0400 
+categories: jekyll update 
+author: "Q Xi, Y Ren, G Wu, Q Wang, L Yuan, Z Zhang - 2022, Virtual Event, July 22-24, 2022 , 2023" 
+--- 
+Event extraction is a crucial task that aims to extract event information in texts. Existing methods usually use pre-trained language models to extract events and have achieved state-of-the-art performance. However, these models do not consider the complexity of the event structure and lack the use of event knowledge. To address these problems, we propose a new framework that integrates event annotation into the pre-trained model explicitly, termd as EABERT. Specifically, event  Cites: Entity, relation, and event extraction with contextualized span

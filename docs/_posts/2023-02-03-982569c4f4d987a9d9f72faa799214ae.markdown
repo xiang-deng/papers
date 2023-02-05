@@ -1,9 +1,0 @@
----
-layout: post
-title:  "CrackViT: a unified CNN-transformer model for pixel-level crack extraction"
-date:   2023-02-03 14:16:33 -0400
-categories: jekyll update
-author: "J Quan, B Ge, M Wang - Neural Computing and Applications, 2023"
----
-Pixel-level crack extraction (PCE) is challenging due to topology complexity, irregular edges, low contrast ratio, and complex background. Recently, Transformer architectures have shown great potential on many vision tasks and even outperform convolutional neural networks (CNNs). Benefiting from the self-attention mechanism, Transformers can invariably capture the global context information to establish long-range dependencies on the detected objects. However, there was little work on the …
-Cites: ‪A simple single-scale vision transformer for object localization and …‬
