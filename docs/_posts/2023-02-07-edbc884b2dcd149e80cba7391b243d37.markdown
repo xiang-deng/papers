@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking Style Transformer with Energy-based Interpretation: Adversarial Unsupervised Style Transfer using a Pretrained Model"
+date:   2023-02-07 01:43:12 -0400
+categories: jekyll update
+author: "H Cho, D Kim, S Ryu, C Park, H Noh, J Hwang, M Choi… - Proceedings of the 2022 …, 2022"
+---
+Style control, content preservation, and fluency determine the quality of text style transfer models. To train on a nonparallel corpus, several existing approaches aim to deceive the style discriminator with an adversarial loss. However, adversarial training significantly degrades fluency compared to the other two metrics. In this work, we explain this phenomenon using energy-based interpretation, and leverage a pretrained language model to improve fluency. Specifically, we propose a novel …
+Cites: ‪Reformulating Unsupervised Style Transfer as Paraphrase …‬

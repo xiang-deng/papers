@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards well-generalizing meta-learning via adversarial task augmentation"
+date:   2023-02-07 01:43:12 -0400
+categories: jekyll update
+author: "H Wang, H Mai, Y Gong, ZH Deng - Artificial Intelligence, 2023"
+---
+Meta-learning aims to use the knowledge from previous tasks to facilitate the learning of novel tasks. Many meta-learning models elaborately design various task-shared inductive bias, and learn it from a large number of tasks, so the generalization capability of the learned inductive bias depends on the diversity of the training tasks. A common assumption in meta-learning is that the training tasks and the test tasks come from the same or similar task distributions. However, this is usually not strictly …
+Cites: ‪DReCa: A general task augmentation strategy for few-shot natural …‬

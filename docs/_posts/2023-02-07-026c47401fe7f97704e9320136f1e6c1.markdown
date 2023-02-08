@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Tracing Knowledge in Language Models Back to the Training Data"
+date:   2023-02-07 01:43:12 -0400
+categories: jekyll update
+author: "E Akyürek, T Bolukbasi, F Liu, B Xiong, I Tenney… - Findings of the Association …, 2022"
+---
+Abstract Language models (LMs) have been shown to memorize a great deal of factual knowledge contained in their training data. But when an LM generates an assertion, it is often difficult to determine where it learned this information and whether it is true. In this paper, we propose the problem of fact tracing: identifying which training examples taught an LM to generate a particular factual assertion. Prior work on training data attribution (TDA) may offer effective tools for identifying such …
+Cites: ‪Explaining and improving model behavior with k nearest neighbor …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Double Permutation Equivariance for Knowledge Graph Completion"
+date:   2023-02-07 01:43:12 -0400
+categories: jekyll update
+author: "J Gao, Y Zhou, B Ribeiro - arXiv preprint arXiv:2302.01313, 2023"
+---
+This work provides a formalization of Knowledge Graphs (KGs) as a new class of graphs that we denote doubly exchangeable attributed graphs, where node and pairwise (joint 2-node) representations must be equivariant to permutations of both node ids and edge (& node) attributes (relations & node features). Double-permutation equivariant KG representations open a new research direction in KGs. We show that this equivariance imposes a structural representation of relations that …
+Cites: ‪REFACTOR GNNS: Revisiting Factorisation-based Models from a …‬

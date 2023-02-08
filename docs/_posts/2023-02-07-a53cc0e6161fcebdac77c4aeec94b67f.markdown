@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient (Soft) Q-Learning for Text Generation with Limited Good Data"
+date:   2023-02-07 01:43:12 -0400
+categories: jekyll update
+author: "H Guo, B Tan, Z Liu, E Xing, Z Hu - Findings of the Association for Computational …, 2022"
+---
+Maximum likelihood estimation (MLE) is the predominant algorithm for training text generation models. This paradigm relies on direct supervision examples, which is not applicable to many emerging applications, such as generating adversarial attacks or generating prompts to control language models. Reinforcement learning (RL) on the other hand offers a more flexible solution by allowing users to plug in arbitrary task metrics as reward. Yet previous RL algorithms for text generation, such …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

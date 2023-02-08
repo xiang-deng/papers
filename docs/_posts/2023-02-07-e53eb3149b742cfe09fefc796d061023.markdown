@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AmbiCoref: Evaluating Human and Model Sensitivity to Ambiguous Coreference"
+date:   2023-02-07 01:43:12 -0400
+categories: jekyll update
+author: "Y Yuan, C Malaviya, M Yatskar - arXiv preprint arXiv:2302.00762, 2023"
+---
+Given a sentence  Abby told Brittney that she upset Courtney , one would struggle to understand who  she  refers to, and ask for clarification. However, if the word  upset  were replaced with  hugged ,  she  unambiguously refers to Abby. We study if modern coreference resolution models are sensitive to such pronominal ambiguity. To this end, we construct AmbiCoref, a diagnostic corpus of minimal sentence pairs with ambiguous and unambiguous referents. Our examples generalize …
+Cites: ‪Calibration of Pre-trained Transformers‬

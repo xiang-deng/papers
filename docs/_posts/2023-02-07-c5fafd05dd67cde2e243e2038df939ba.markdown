@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Empirical Analysis of Memorization in Fine-tuned Autoregressive Language Models"
+date:   2023-02-07 01:43:12 -0400
+categories: jekyll update
+author: "F Mireshghallah, A Uniyal, T Wang, DK Evans… - Proceedings of the 2022 …, 2022"
+---
+Large language models are shown to present privacy risks through memorization of training data, andseveral recent works have studied such risks for the pre-training phase. Little attention, however, has been given to the fine-tuning phase and it is not well understood how different fine-tuning methods (such as fine-tuning the full model, the model head, and adapter) compare in terms of memorization risk. This presents increasing concern as the “pre-train and fine-tune” paradigm proliferates. In this …
+Cites: ‪Large language models can be strong differentially private learners‬
