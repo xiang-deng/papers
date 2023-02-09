@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Compositional Generalization in Code Search"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "H Han, S Hwang, S Lu, N Duan, S Choi - Proceedings of the 2022 Conference on …, 2022"
----
-We study compositional generalization, which aims to generalize on unseen combinations of seen structural elements, for code search. Unlike existing approaches of partially pursuing this goal, we study how to extract structural elements, which we name a template that directly targets compositional generalization. Thus we propose CTBERT, or Code Template BERT, representing codes using automatically extracted templates as building blocks. We empirically …
-Cites: ‪Learning to Synthesize Data for Semantic Parsing‬
+--- 
+layout: post 
+title: "Towards Compositional Generalization in Code Search" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "H Han, S Hwang, S Lu, N Duan, S Choi - Proceedings of the 2022 Conference on , 2022" 
+--- 
+We study compositional generalization, which aims to generalize on unseen combinations of seen structural elements, for code search. Unlike existing approaches of partially pursuing this goal, we study how to extract structural elements, which we name a template that directly targets compositional generalization. Thus we propose CTBERT, or Code Template BERT, representing codes using automatically extracted templates as building blocks. We empirically  Cites: Learning to Synthesize Data for Semantic Parsing

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-Label Intent Detection via Contrastive Task Specialization of Sentence Encoders"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "I Vulić, I Casanueva, G Spithourakis, A Mondal… - Proceedings of the 2022 …, 2022"
----
-Deploying task-oriented dialog ToD systems for new domains and tasks requires natural language understanding models that are 1) resource-efficient and work under low-data regimes; 2) adaptable, efficient, and quick-to-train; 3) expressive and can handle complex ToD scenarios with multiple user intents in a single utterance. Motivated by these requirements, we introduce a novel framework for multi-label intent detection (mID): MultI-ConvFiT (Multi-Label Intent Detection via Contrastive …
-Cites: ‪Natural questions: a benchmark for question answering research‬
+--- 
+layout: post 
+title: "Multi-Label Intent Detection via Contrastive Task Specialization of Sentence Encoders" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "I Vuli, I Casanueva, G Spithourakis, A Mondal - Proceedings of the 2022 , 2022" 
+--- 
+Deploying task-oriented dialog ToD systems for new domains and tasks requires natural language understanding models that are 1) resource-efficient and work under low-data regimes; 2) adaptable, efficient, and quick-to-train; 3) expressive and can handle complex ToD scenarios with multiple user intents in a single utterance. Motivated by these requirements, we introduce a novel framework for multi-label intent detection (mID): MultI-ConvFiT (Multi-Label Intent Detection via Contrastive  Cites: Natural questions: a benchmark for question answering research

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Combining Deep Neural Reranking and Unsupervised Extraction for Multi-Query Focused Summarization"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "P Seeberger, K Riedhammer - arXiv preprint arXiv:2302.01148, 2023"
----
-The CrisisFACTS Track aims to tackle challenges such as multi-stream fact-finding in the domain of event tracking; participants  systems extract important facts from several disaster-related events while incorporating the temporal order. We propose a combination of retrieval, reranking, and the well-known Integer Linear Programming (ILP) and Maximal Marginal Relevance (MMR) frameworks. In the former two modules, we explore various methods including an entity-based baseline, pre …
-Cites: ‪ASPECTNEWS: Aspect-Oriented Summarization of News Documents‬
+--- 
+layout: post 
+title: "Combining Deep Neural Reranking and Unsupervised Extraction for Multi-Query Focused Summarization" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "P Seeberger, K Riedhammer - arXiv preprint arXiv:2302.01148, 2023" 
+--- 
+The CrisisFACTS Track aims to tackle challenges such as multi-stream fact-finding in the domain of event tracking; participants systems extract important facts from several disaster-related events while incorporating the temporal order. We propose a combination of retrieval, reranking, and the well-known Integer Linear Programming (ILP) and Maximal Marginal Relevance (MMR) frameworks. In the former two modules, we explore various methods including an entity-based baseline, pre  Cites: ASPECTNEWS: Aspect-Oriented Summarization of News Documents

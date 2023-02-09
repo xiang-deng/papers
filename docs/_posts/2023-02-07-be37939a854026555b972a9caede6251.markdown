@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Not to Overfit or Underfit the Source Domains? An Empirical Study of Domain Generalization in Question Answering"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "MA Sultan, A Sil, R Florian - Proceedings of the 2022 Conference on Empirical …, 2022"
----
-Abstract Machine learning models are prone to overfitting their training (source) domains, which is commonly believed to be the reason why they falter in novel target domains. Here we examine the contrasting view that multi-source domain generalization (DG) is first and foremost a problem of mitigating source domain underfitting: models not adequately learning the signal already present in their multi-domain training data. Experiments on a reading comprehension DG benchmark …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬
+--- 
+layout: post 
+title: "Not to Overfit or Underfit the Source Domains? An Empirical Study of Domain Generalization in Question Answering" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "MA Sultan, A Sil, R Florian - Proceedings of the 2022 Conference on Empirical , 2022" 
+--- 
+Abstract Machine learning models are prone to overfitting their training (source) domains, which is commonly believed to be the reason why they falter in novel target domains. Here we examine the contrasting view that multi-source domain generalization (DG) is first and foremost a problem of mitigating source domain underfitting: models not adequately learning the signal already present in their multi-domain training data. Experiments on a reading comprehension DG benchmark  Cites: MRQA 2019 Shared Task: Evaluating Generalization in Reading

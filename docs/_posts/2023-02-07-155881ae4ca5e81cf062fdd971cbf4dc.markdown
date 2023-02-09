@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Less is more: Summary of long instructions is better for program synthesis"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "K Kuznia, S Mishra, M Parmar, C Baral - arXiv preprint arXiv:2203.08597, 2022"
----
-Despite the success of large pre-trained language models (LMs) such as Codex, they show below-par performance on the larger and more complicated programming related questions. We show that LMs benefit from the summarized version of complicated questions. Our findings show that superfluous information often present in problem description such as human characters, background stories, names (which are included to help humans in understanding a task) does not help models in …
-Cites: ‪Program synthesis with large language models‬
+--- 
+layout: post 
+title: "Less is more: Summary of long instructions is better for program synthesis" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "K Kuznia, S Mishra, M Parmar, C Baral - arXiv preprint arXiv:2203.08597, 2022" 
+--- 
+Despite the success of large pre-trained language models (LMs) such as Codex, they show below-par performance on the larger and more complicated programming related questions. We show that LMs benefit from the summarized version of complicated questions. Our findings show that superfluous information often present in problem description such as human characters, background stories, names (which are included to help humans in understanding a task) does not help models in  Cites: Program synthesis with large language models

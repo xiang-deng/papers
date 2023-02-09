@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Transfer Learning from Semantic Role Labeling to Event Argument Extraction with Template-based Slot Querying"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "Z Zhang, E Strubell, E Hovy - Proceedings of the 2022 Conference on Empirical …, 2022"
----
-In this work, we investigate transfer learning from semantic role labeling (SRL) to event argument extraction (EAE), considering their similar argument structures. We view the extraction task as a role querying problem, unifying various methods into a single framework. There are key discrepancies on role labels and distant arguments between semantic role and event argument annotations. To mitigate these discrepancies, we specify natural language-like queries to tackle the label mismatch …
-Cites: ‪The future is not one-dimensional: Complex event schema …‬
+--- 
+layout: post 
+title: "Transfer Learning from Semantic Role Labeling to Event Argument Extraction with Template-based Slot Querying" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "Z Zhang, E Strubell, E Hovy - Proceedings of the 2022 Conference on Empirical , 2022" 
+--- 
+In this work, we investigate transfer learning from semantic role labeling (SRL) to event argument extraction (EAE), considering their similar argument structures. We view the extraction task as a role querying problem, unifying various methods into a single framework. There are key discrepancies on role labels and distant arguments between semantic role and event argument annotations. To mitigate these discrepancies, we specify natural language-like queries to tackle the label mismatch  Cites: The future is not one-dimensional: Complex event schema

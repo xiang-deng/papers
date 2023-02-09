@@ -1,9 +1,8 @@
----
-layout: post
-title:  "monoQA: Multi-Task Learning of Reranking and Answer Extraction for Open-Retrieval Conversational Question Answering"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "S Kongyoung, C Macdonald, I Ounis - Proceedings of the 2022 Conference on …, 2022"
----
-Abstract To address the Conversational Question Answering (ORConvQA) task, previous work has considered an effective three-stage architecture, consisting of a retriever, a reranker, and a reader to extract the answers. In order to effectively answer the users  questions, a number of existing approaches have applied multi-task learning, such that the same model is shared between the reranker and the reader. Such approaches also typically tackle reranking and reading as classification …
-Cites: ‪Weakly-Supervised Open-Retrieval Conversational Question …‬
+--- 
+layout: post 
+title: "monoQA: Multi-Task Learning of Reranking and Answer Extraction for Open-Retrieval Conversational Question Answering" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "S Kongyoung, C Macdonald, I Ounis - Proceedings of the 2022 Conference on , 2022" 
+--- 
+Abstract To address the Conversational Question Answering (ORConvQA) task, previous work has considered an effective three-stage architecture, consisting of a retriever, a reranker, and a reader to extract the answers. In order to effectively answer the users questions, a number of existing approaches have applied multi-task learning, such that the same model is shared between the reranker and the reader. Such approaches also typically tackle reranking and reading as classification  Cites: Weakly-Supervised Open-Retrieval Conversational Question

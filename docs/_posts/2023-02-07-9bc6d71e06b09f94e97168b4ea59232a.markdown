@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning with Rejection for Abstractive Text Summarization"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "M Cao, Y Dong, J He, JCK Cheung - Proceedings of the 2022 Conference on …, 2022"
----
-State-of-the-art abstractive summarization systems frequently hallucinate content that is not supported by the source document, mainly due to noise in the training dataset. Existing methods opt to drop the noisy samples or tokens from the training set entirely, reducing the effective training set size and creating an artificial propensity to copy words from the source. In this work, we propose a training objective for abstractive summarization based on rejection learning, in which the model learns …
-Cites: ‪Training Dynamics for Text Summarization Models‬
+--- 
+layout: post 
+title: "Learning with Rejection for Abstractive Text Summarization" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "M Cao, Y Dong, J He, JCK Cheung - Proceedings of the 2022 Conference on , 2022" 
+--- 
+State-of-the-art abstractive summarization systems frequently hallucinate content that is not supported by the source document, mainly due to noise in the training dataset. Existing methods opt to drop the noisy samples or tokens from the training set entirely, reducing the effective training set size and creating an artificial propensity to copy words from the source. In this work, we propose a training objective for abstractive summarization based on rejection learning, in which the model learns  Cites: Training Dynamics for Text Summarization Models

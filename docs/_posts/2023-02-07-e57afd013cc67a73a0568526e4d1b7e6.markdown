@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Discourse-Aware Soft Prompting for Text Generation"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "M Ghazvininejad, V Karpukhin, V Gor, A Celikyilmaz - Proceedings of the 2022 …, 2022"
----
-Current efficient fine-tuning methods (eg, adapters, prefix-tuning, etc.) have optimized conditional text generation via training a small set of extra parameters of the neural language model, while freezing the rest for efficiency. While showing strong performance on some generation tasks, they don t generalize across all generation tasks. We show that soft-prompt based conditional text generation can be improved with simple and efficient methods that simulate modeling the discourse …
-Cites: ‪Enriching Transformers with Structured Tensor-Product …‬
+--- 
+layout: post 
+title: "Discourse-Aware Soft Prompting for Text Generation" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "M Ghazvininejad, V Karpukhin, V Gor, A Celikyilmaz - Proceedings of the 2022 , 2022" 
+--- 
+Current efficient fine-tuning methods (eg, adapters, prefix-tuning, etc.) have optimized conditional text generation via training a small set of extra parameters of the neural language model, while freezing the rest for efficiency. While showing strong performance on some generation tasks, they don t generalize across all generation tasks. We show that soft-prompt based conditional text generation can be improved with simple and efficient methods that simulate modeling the discourse  Cites: Enriching Transformers with Structured Tensor-Product

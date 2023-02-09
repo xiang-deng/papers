@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Revisiting DocRED-Addressing the False Negative Problem in Relation Extraction"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "Q Tan, L Xu, L Bing, HT Ng, SM Aljunied - Proceedings of the 2022 Conference on …, 2022"
----
-The DocRED dataset is one of the most popular and widely used benchmarks for document-level relation extraction (RE). It adopts a recommend-revise annotation scheme so as to have a large-scale annotated dataset. However, we find that the annotation of DocRED is incomplete, ie, false negative samples are prevalent. We analyze the causes and effects of the overwhelming false negative problem in the DocRED dataset. To address the shortcoming, we re-annotate 4,053 documents in …
-Cites: ‪Symbolic knowledge distillation: from general language models to …‬
+--- 
+layout: post 
+title: "Revisiting DocRED-Addressing the False Negative Problem in Relation Extraction" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "Q Tan, L Xu, L Bing, HT Ng, SM Aljunied - Proceedings of the 2022 Conference on , 2022" 
+--- 
+The DocRED dataset is one of the most popular and widely used benchmarks for document-level relation extraction (RE). It adopts a recommend-revise annotation scheme so as to have a large-scale annotated dataset. However, we find that the annotation of DocRED is incomplete, ie, false negative samples are prevalent. We analyze the causes and effects of the overwhelming false negative problem in the DocRED dataset. To address the shortcoming, we re-annotate 4,053 documents in  Cites: Symbolic knowledge distillation: from general language models to

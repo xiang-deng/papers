@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Survey on Efficient Training of Transformers"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "B Zhuang, J Liu, Z Pan, H He, Y Weng, C Shen - arXiv preprint arXiv:2302.01107, 2023"
----
-Recent advances in Transformers have come with a huge requirement on computing resources, highlighting the importance of developing efficient training techniques to make Transformer training faster, at lower cost, and to higher accuracy by the efficient use of computation and memory resources. This survey provides the first systematic overview of the efficient training of Transformers, covering the recent progress in acceleration arithmetic and hardware, with a focus on the former. We …
-Cites: ‪GACT: Activation compressed training for generic network …‬
+--- 
+layout: post 
+title: "A Survey on Efficient Training of Transformers" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "B Zhuang, J Liu, Z Pan, H He, Y Weng, C Shen - arXiv preprint arXiv:2302.01107, 2023" 
+--- 
+Recent advances in Transformers have come with a huge requirement on computing resources, highlighting the importance of developing efficient training techniques to make Transformer training faster, at lower cost, and to higher accuracy by the efficient use of computation and memory resources. This survey provides the first systematic overview of the efficient training of Transformers, covering the recent progress in acceleration arithmetic and hardware, with a focus on the former. We  Cites: GACT: Activation compressed training for generic network

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Microblog Text Emotion Classification Algorithm Based on TCN-BiGRU and Dual Attention"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "Y Qin, Y Shi, X Hao, J Liu - Information, 2023"
----
-Microblog is an important platform for mining public opinion, and it is of great value to conduct emotional analysis of microblog texts during the current epidemic. Aiming at the problem that most current emotional classification methods cannot effectively extract deep text features, and that traditional word vectors cannot dynamically obtain the semantics of words according to their context, which leads to classification bias, this research put forward a microblog text emotion classification algorithm based on …
-Cites: ‪Deep contextualized word representations. arXiv 2018‬
+--- 
+layout: post 
+title: "Microblog Text Emotion Classification Algorithm Based on TCN-BiGRU and Dual Attention" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "Y Qin, Y Shi, X Hao, J Liu - Information, 2023" 
+--- 
+Microblog is an important platform for mining public opinion, and it is of great value to conduct emotional analysis of microblog texts during the current epidemic. Aiming at the problem that most current emotional classification methods cannot effectively extract deep text features, and that traditional word vectors cannot dynamically obtain the semantics of words according to their context, which leads to classification bias, this research put forward a microblog text emotion classification algorithm based on  Cites: Deep contextualized word representations. arXiv 2018

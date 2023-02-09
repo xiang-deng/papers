@@ -1,9 +1,8 @@
----
-layout: post
-title:  "QaDialMoE: Question-answering Dialogue based Fact Verification with Mixture of Experts"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "L Wang, P Zhang, X Lu, L Zhang, C Yan, C Zhang - Findings of the Association for …, 2022"
----
-Fact verification is an essential tool to mitigate the spread of false information online, which has gained a widespread attention recently. However, a fact verification in the question-answering dialogue is still underexplored. In this paper, we propose a neural network based approach called question-answering dialogue based fact verification with mixture of experts (QaDialMoE). It exploits questions and evidence effectively in the verification process and can significantly improve the performance …
-Cites: ‪Can NLI Models Verify QA Systems  Predictions?‬
+--- 
+layout: post 
+title: "QaDialMoE: Question-answering Dialogue based Fact Verification with Mixture of Experts" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "L Wang, P Zhang, X Lu, L Zhang, C Yan, C Zhang - Findings of the Association for , 2022" 
+--- 
+Fact verification is an essential tool to mitigate the spread of false information online, which has gained a widespread attention recently. However, a fact verification in the question-answering dialogue is still underexplored. In this paper, we propose a neural network based approach called question-answering dialogue based fact verification with mixture of experts (QaDialMoE). It exploits questions and evidence effectively in the verification process and can significantly improve the performance  Cites: Can NLI Models Verify QA Systems Predictions?

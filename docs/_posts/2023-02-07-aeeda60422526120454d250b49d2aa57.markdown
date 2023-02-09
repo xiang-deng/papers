@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Impact of Pretraining Term Frequencies on Few-Shot Numerical Reasoning"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "Y Razeghi, RL Logan IV, M Gardner, S Singh - Findings of the Association for …, 2022"
----
-Abstract Pretrained Language Models (LMs) have demonstrated ability to perform numerical reasoning by extrapolating from a few examples in few-shot settings. However, the extent to which this extrapolation relies on robust reasoning is unclear. In this paper, we investigate how well these models reason with terms that are less frequent in the pretraining data. In particular, we examine the correlations between the model performance on test instances and the frequency of terms from those …
-Cites: ‪Temporal common sense acquisition with minimal supervision‬
+--- 
+layout: post 
+title: "Impact of Pretraining Term Frequencies on Few-Shot Numerical Reasoning" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "Y Razeghi, RL Logan IV, M Gardner, S Singh - Findings of the Association for , 2022" 
+--- 
+Abstract Pretrained Language Models (LMs) have demonstrated ability to perform numerical reasoning by extrapolating from a few examples in few-shot settings. However, the extent to which this extrapolation relies on robust reasoning is unclear. In this paper, we investigate how well these models reason with terms that are less frequent in the pretraining data. In particular, we examine the correlations between the model performance on test instances and the frequency of terms from those  Cites: Temporal common sense acquisition with minimal supervision

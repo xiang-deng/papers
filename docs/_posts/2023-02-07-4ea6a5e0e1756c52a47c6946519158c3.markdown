@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Gradient-based constrained sampling from language models"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "S Kumar, B Paria, Y Tsvetkov - Proceedings of the 2022 Conference on Empirical …, 2022"
----
-Large pretrained language models are successful at generating fluent text but are notoriously hard to controllably sample from. In this work, we study constrained sampling from such language models, ie, generating text that satisfies user-defined constraints, while maintaining fluency and model s performance in a downstream task. We propose MuCoLa—a sampling procedure that combines the log-likelihood of the language model with arbitrary (differentiable) constraints in a single energy …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Gradient-based constrained sampling from language models" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "S Kumar, B Paria, Y Tsvetkov - Proceedings of the 2022 Conference on Empirical , 2022" 
+--- 
+Large pretrained language models are successful at generating fluent text but are notoriously hard to controllably sample from. In this work, we study constrained sampling from such language models, ie, generating text that satisfies user-defined constraints, while maintaining fluency and model s performance in a downstream task. We propose MuCoLaa sampling procedure that combines the log-likelihood of the language model with arbitrary (differentiable) constraints in a single energy  Cites: Bert: Pre-training of deep bidirectional transformers for language

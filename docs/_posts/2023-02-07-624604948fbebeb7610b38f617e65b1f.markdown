@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Answer Quality Aware Aggregation for Extractive QA Crowdsourcing"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "P Zhu, Z Wang, C Hauff, J Yang, A Anand - Findings of the Association for …, 2022"
----
-Quality control is essential for creating extractive question answering (EQA) datasets via crowdsourcing. Aggregation across answers, ie word spans within passages annotated, by different crowd workers is one major focus for ensuring its quality. However, crowd workers cannot reach a consensus on a considerable portion of questions. We introduce a simple yet effective answer aggregation method that takes into account the relations among the answer, question, and context passage. We …
-Cites: ‪QA Dataset Explosion: A Taxonomy of NLP Resources for …‬
+--- 
+layout: post 
+title: "Answer Quality Aware Aggregation for Extractive QA Crowdsourcing" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "P Zhu, Z Wang, C Hauff, J Yang, A Anand - Findings of the Association for , 2022" 
+--- 
+Quality control is essential for creating extractive question answering (EQA) datasets via crowdsourcing. Aggregation across answers, ie word spans within passages annotated, by different crowd workers is one major focus for ensuring its quality. However, crowd workers cannot reach a consensus on a considerable portion of questions. We introduce a simple yet effective answer aggregation method that takes into account the relations among the answer, question, and context passage. We  Cites: QA Dataset Explosion: A Taxonomy of NLP Resources for

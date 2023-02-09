@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Modular and Parameter-Efficient Fine-Tuning for NLP Models"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "S Ruder, J Pfeiffer, I Vulić - Proceedings of the 2022 Conference on Empirical …, 2022"
----
-State-of-the-art language models in NLP perform best when fine-tuned even on small datasets, but due to their increasing size, fine-tuning and downstream usage have become extremely compute-intensive. Being able to efficiently and effectively fine-tune the largest pre-trained models is thus key in order to reap the benefits of the latest advances in NLP. In this tutorial, we provide a comprehensive overview of parameter-efficient fine-tuning methods. We highlight their similarities and …
-Cites: ‪Lifting the curse of multilinguality by pre-training modular …‬
+--- 
+layout: post 
+title: "Modular and Parameter-Efficient Fine-Tuning for NLP Models" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "S Ruder, J Pfeiffer, I Vuli - Proceedings of the 2022 Conference on Empirical , 2022" 
+--- 
+State-of-the-art language models in NLP perform best when fine-tuned even on small datasets, but due to their increasing size, fine-tuning and downstream usage have become extremely compute-intensive. Being able to efficiently and effectively fine-tune the largest pre-trained models is thus key in order to reap the benefits of the latest advances in NLP. In this tutorial, we provide a comprehensive overview of parameter-efficient fine-tuning methods. We highlight their similarities and  Cites: Lifting the curse of multilinguality by pre-training modular

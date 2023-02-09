@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Low-resource Interactive Active Labeling for Fine-tuning Language Models"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "S Maekawa, D Zhang, H Kim, S Rahman, E Hruschka - Findings of the Association for …, 2022"
----
-Recently, active learning (AL) methods have been used to effectively fine-tune pre-trained language models for various NLP tasks such as sentiment analysis and document classification. However, given the task of fine-tuning language models, understanding the impact of different aspects on AL methods such as labeling cost, sample acquisition latency, and the diversity of the datasets necessitates a deeper investigation. This paper examines the performance of existing AL methods within a …
-Cites: ‪Cold-start active learning through self-supervised language …‬
+--- 
+layout: post 
+title: "Low-resource Interactive Active Labeling for Fine-tuning Language Models" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "S Maekawa, D Zhang, H Kim, S Rahman, E Hruschka - Findings of the Association for , 2022" 
+--- 
+Recently, active learning (AL) methods have been used to effectively fine-tune pre-trained language models for various NLP tasks such as sentiment analysis and document classification. However, given the task of fine-tuning language models, understanding the impact of different aspects on AL methods such as labeling cost, sample acquisition latency, and the diversity of the datasets necessitates a deeper investigation. This paper examines the performance of existing AL methods within a  Cites: Cold-start active learning through self-supervised language

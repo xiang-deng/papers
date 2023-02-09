@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Iteratively prompt pre-trained language models for chain of thought"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "B Wang, X Deng, H Sun - Proceedings of the 2022 Conference on Empirical …, 2022"
----
-Abstract While Pre-trained Language Models (PLMs) internalize a great amount of world knowledge, they have been shown incapable of recalling these knowledge to solve tasks requiring complex & multi-step reasoning. Similar to how humans develop a “chain of thought” for these tasks, how can we equip PLMs with such abilities? In this work, we explore an iterative prompting framework, a new prompting paradigm which progressively elicits relevant knowledge from PLMs for multi-step …
-Cites: ‪Question and answer test-train overlap in open-domain question …‬
+--- 
+layout: post 
+title: "Iteratively prompt pre-trained language models for chain of thought" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "B Wang, X Deng, H Sun - Proceedings of the 2022 Conference on Empirical , 2022" 
+--- 
+Abstract While Pre-trained Language Models (PLMs) internalize a great amount of world knowledge, they have been shown incapable of recalling these knowledge to solve tasks requiring complex & multi-step reasoning. Similar to how humans develop a chain of thought for these tasks, how can we equip PLMs with such abilities? In this work, we explore an iterative prompting framework, a new prompting paradigm which progressively elicits relevant knowledge from PLMs for multi-step  Cites: Question and answer test-train overlap in open-domain question

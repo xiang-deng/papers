@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HydraSum: Disentangling Style Features in Text Summarization with Multi-Decoder Models"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "T Goyal, N Rajani, W Liu, W Kryściński - Proceedings of the 2022 Conference on …, 2022"
----
-Summarization systems make numerous “decisions” about summary properties during inference, eg degree of copying, specificity and length of outputs, etc. However, these are implicitly encoded within model parameters and specific styles cannot be enforced. To address this, we introduce HydraSum, a new summarization architecture that extends the single decoder framework of current models to a mixture-of-experts version with multiple decoders. We show that HydraSum s multiple …
-Cites: ‪The Perils of Using Mechanical Turk to Evaluate Open-Ended Text …‬
+--- 
+layout: post 
+title: "HydraSum: Disentangling Style Features in Text Summarization with Multi-Decoder Models" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "T Goyal, N Rajani, W Liu, W Kryciski - Proceedings of the 2022 Conference on , 2022" 
+--- 
+Summarization systems make numerous decisions about summary properties during inference, eg degree of copying, specificity and length of outputs, etc. However, these are implicitly encoded within model parameters and specific styles cannot be enforced. To address this, we introduce HydraSum, a new summarization architecture that extends the single decoder framework of current models to a mixture-of-experts version with multiple decoders. We show that HydraSum s multiple  Cites: The Perils of Using Mechanical Turk to Evaluate Open-Ended Text

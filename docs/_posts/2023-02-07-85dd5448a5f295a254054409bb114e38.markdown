@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Teaching Broad Reasoning Skills for Multi-Step QA by Generating Hard Contexts"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "H Trivedi, N Balasubramanian, T Khot, A Sabharwal - Proceedings of the 2022 …, 2022"
----
-Question-answering datasets require a broad set of reasoning skills. We show how to use question decompositions to teach language models these broad reasoning skills in a robust fashion. Specifically, we use widely available QDMR representations to programmatically create hard-to-cheat synthetic contexts for real questions in six multi-step reasoning datasets. These contexts are carefully designed to avoid common reasoning shortcuts prevalent in real contexts that prevent models …
-Cites: ‪Understanding Dataset Design Choices for Multi-hop Reasoning‬
+--- 
+layout: post 
+title: "Teaching Broad Reasoning Skills for Multi-Step QA by Generating Hard Contexts" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "H Trivedi, N Balasubramanian, T Khot, A Sabharwal - Proceedings of the 2022 , 2022" 
+--- 
+Question-answering datasets require a broad set of reasoning skills. We show how to use question decompositions to teach language models these broad reasoning skills in a robust fashion. Specifically, we use widely available QDMR representations to programmatically create hard-to-cheat synthetic contexts for real questions in six multi-step reasoning datasets. These contexts are carefully designed to avoid common reasoning shortcuts prevalent in real contexts that prevent models  Cites: Understanding Dataset Design Choices for Multi-hop Reasoning

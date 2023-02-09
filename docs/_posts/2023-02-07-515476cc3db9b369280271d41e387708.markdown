@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Structurally Diverse Sampling for Sample-Efficient Training and Comprehensive Evaluation"
-date:   2023-02-07 01:43:12 -0400
-categories: jekyll update
-author: "S Gupta, S Singh, M Gardner - Findings of the Association for Computational …, 2022"
----
-A growing body of research has demonstrated the inability of NLP models to generalize compositionally and has tried to alleviate it through specialized architectures, training schemes, and data augmentation, among other approaches. In this work, we study a different approach: training on instances with diverse structures. We propose a model-agnostic algorithm for subsampling such sets of instances from a labeled instance pool with structured outputs. Evaluating on both compositional …
-Cites: ‪Improving compositional generalization with latent structure and …‬
+--- 
+layout: post 
+title: "Structurally Diverse Sampling for Sample-Efficient Training and Comprehensive Evaluation" 
+date: 2023-02-07 01:43:12 -0400 
+categories: jekyll update 
+author: "S Gupta, S Singh, M Gardner - Findings of the Association for Computational , 2022" 
+--- 
+A growing body of research has demonstrated the inability of NLP models to generalize compositionally and has tried to alleviate it through specialized architectures, training schemes, and data augmentation, among other approaches. In this work, we study a different approach: training on instances with diverse structures. We propose a model-agnostic algorithm for subsampling such sets of instances from a labeled instance pool with structured outputs. Evaluating on both compositional  Cites: Improving compositional generalization with latent structure and
