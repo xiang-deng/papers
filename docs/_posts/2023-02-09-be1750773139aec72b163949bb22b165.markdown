@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Learnable Typewriter: A Generative Approach to Text Line Analysis"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "I Siglidis, N Gonthier, J Gaubil, T Monnier, M Aubry - arXiv preprint arXiv:2302.01660, 2023"
+---
+We present a generative document-specific approach to character analysis and recognition in text lines. Our main idea is to build on unsupervised multi-object segmentation methods and in particular those that reconstruct images based on a limited amount of visual elements, called sprites. Our approach can learn a large number of different characters and leverage line-level annotations when available. Our contribution is twofold. First, we provide the first adaptation and evaluation of a …
+Cites: ‪Unsupervised transcription of historical documents‬

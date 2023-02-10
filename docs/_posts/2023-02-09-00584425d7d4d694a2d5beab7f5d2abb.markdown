@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Interpretability via Explicit Word Interaction Graph Layer"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "A Sekhon, H Chen, A Shrivastava, Z Wang, Y Ji, Y Qi - arXiv preprint arXiv …, 2023"
+---
+Recent NLP literature has seen growing interest in improving model interpretability. Along this direction, we propose a trainable neural network layer that learns a global interaction graph between words and then selects more informative words using the learned word interactions. Our layer, we call WIGRAPH, can plug into any neural network-based NLP text classifiers right after its word embedding layer. Across multiple SOTA NLP models and various NLP datasets, we demonstrate that adding …
+Cites: ‪Learning question classifiers‬

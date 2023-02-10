@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Guide the Learner: Controlling Product of Experts Debiasing Method Based on Token Attribution Similarities"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "A Modarressi, H Amirkhani, MT Pilehvar - arXiv preprint arXiv:2302.02852, 2023"
+---
+Several proposals have been put forward in recent years for improving out-of-distribution (OOD) performance through mitigating dataset biases. A popular workaround is to train a robust model by re-weighting training examples based on a secondary biased model. Here, the underlying assumption is that the biased model resorts to shortcut features. Hence, those training examples that are correctly predicted by the biased model are flagged as being biased and are down-weighted …
+Cites: ‪Wanli: Worker and ai collaboration for natural language inference …‬

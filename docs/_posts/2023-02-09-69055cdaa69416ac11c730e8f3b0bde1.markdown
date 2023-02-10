@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "B Chughtai, L Chan, N Nanda - arXiv preprint arXiv:2302.03025, 2023"
+---
+Universality is a key hypothesis in mechanistic interpretability--that different models learn similar features and circuits when trained on similar tasks. In this work, we study the universality hypothesis by examining how small neural networks learn to implement group composition. We present a novel algorithm by which neural networks may implement composition for any finite group via mathematical representation theory. We then show that networks consistently learn this algorithm …
+Cites: ‪Emergent abilities of large language models‬

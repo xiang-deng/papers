@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Online Reinforcement Learning with Offline Data"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "PJ Ball, L Smith, I Kostrikov, S Levine - arXiv preprint arXiv:2302.02948, 2023"
+---
+Sample efficiency and exploration remain major challenges in online reinforcement learning (RL). A powerful approach that can be applied to address these issues is the inclusion of offline data, such as prior trajectories from a human expert or a sub-optimal exploration policy. Previous methods have relied on extensive modifications and additional complexity to ensure the effective use of this data. Instead, we ask: can we simply apply existing off-policy methods to leverage offline data when …
+Cites: ‪Azade Nazi, Jiwoo Pak, Andy Tong, Kavya Srinivasa, William Hang …‬

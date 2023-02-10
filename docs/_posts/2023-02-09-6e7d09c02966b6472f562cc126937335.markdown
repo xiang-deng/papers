@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "U-Clip: On-Average Unbiased Stochastic Gradient Clipping"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "B Elesedy, M Hutter - arXiv preprint arXiv:2302.02971, 2023"
+---
+U-Clip is a simple amendment to gradient clipping that can be applied to any iterative gradient optimization algorithm. Like regular clipping, U-Clip involves using gradients that are clipped to a prescribed size (eg with component wise or norm based clipping) but instead of discarding the clipped portion of the gradient, U-Clip maintains a buffer of these values that is added to the gradients on the next iteration (before clipping). We show that the cumulative bias of the U-Clip updates is bounded …
+Cites: ‪Palm: Scaling language modeling with pathways‬

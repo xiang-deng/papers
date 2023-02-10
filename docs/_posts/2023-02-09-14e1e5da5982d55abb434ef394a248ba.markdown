@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Less is More: Understanding Word-level Textual Adversarial Attack via n-gram Frequency Descend"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "N Lu, Z Zhang, Q Wang, H Liu, K Tang, S Liu - arXiv preprint arXiv:2302.02568, 2023"
+---
+Word-level textual adversarial attacks have achieved striking performance in fooling natural language processing models. However, the fundamental questions of why these attacks are effective, and the intrinsic properties of the adversarial examples (AEs), are still not well understood. This work attempts to interpret textual attacks through the lens of $ n $-gram frequency. Specifically, it is revealed that existing word-level attacks exhibit a strong tendency toward generation of examples with $ n …
+Cites: ‪Better Robustness by More Coverage: Adversarial and Mixup Data …‬

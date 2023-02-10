@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Languages are Rewards: Hindsight Finetuning using Human Feedback"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "H Liu, C Sferrazza, P Abbeel - arXiv preprint arXiv:2302.02676, 2023"
+---
+Learning from human preferences is important for language models to be helpful and useful for humans, and to align with human and social values. Existing works focus on supervised finetuning of pretrained models, based on curated model generations that are preferred by human labelers. Such works have achieved remarkable successes in understanding and following instructions (eg, InstructGPT, ChatGPT, etc). However, to date, a key limitation of supervised finetuning is that it cannot learn …
+Cites: ‪Super-naturalinstructions: Generalization via declarative …‬

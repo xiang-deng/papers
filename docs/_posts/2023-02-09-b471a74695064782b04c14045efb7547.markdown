@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TAP: The Attention Patch for Cross-Modal Knowledge Transfer from Unlabeled Data"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "Y Wang, S Shahrampour - arXiv preprint arXiv:2302.02224, 2023"
+---
+This work investigates the intersection of cross modal learning and semi supervised learning, where we aim to improve the supervised learning performance of the primary modality by borrowing missing information from an unlabeled modality. We investigate this problem from a Nadaraya Watson (NW) kernel regression perspective and show that this formulation implicitly leads to a kernelized cross attention module. To this end, we propose The Attention Patch (TAP), a simple neural …
+Cites: ‪Random feature attention‬

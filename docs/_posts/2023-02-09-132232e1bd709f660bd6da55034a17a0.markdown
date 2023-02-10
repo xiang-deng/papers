@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fast, Differentiable and Sparse Top-k: a Convex Analysis Perspective"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "ME Sander, J Puigcerver, J Djolonga, G Peyré… - arXiv preprint arXiv …, 2023"
+---
+The top-k operator returns a k-sparse vector, where the non-zero values correspond to the k largest values of the input. Unfortunately, because it is a discontinuous function, it is difficult to incorporate in neural networks trained end-to-end with backpropagation. Recent works have considered differentiable relaxations, based either on regularization or perturbation techniques. However, to date, no approach is fully differentiable and sparse. In this paper, we propose new differentiable and …
+Cites: ‪Mixture-of-experts with expert choice routing‬

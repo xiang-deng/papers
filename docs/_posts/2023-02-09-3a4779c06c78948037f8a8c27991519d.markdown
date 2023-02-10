@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Joint Edge-Model Sparse Learning is Provably Efficient for Graph Neural Networks"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "S Zhang, M Wang, PY Chen, S Liu, S Lu, M Liu - arXiv preprint arXiv:2302.02922, 2023"
+---
+Due to the significant computational challenge of training large-scale graph neural networks (GNNs), various sparse learning techniques have been exploited to reduce memory and storage costs. Examples include\textit {graph sparsification} that samples a subgraph to reduce the amount of data aggregation and\textit {model sparsification} that prunes the neural network to reduce the number of trainable weights. Despite the empirical successes in reducing the training cost while …
+Cites: ‪Advancing graphsage with a data-driven node sampling‬

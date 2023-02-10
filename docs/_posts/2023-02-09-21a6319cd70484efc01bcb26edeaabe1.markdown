@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TextShield: Beyond Successfully Detecting Adversarial Sentences in Text Classification"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "L Shen, Z Zhang, H Jiang, Y Chen - arXiv preprint arXiv:2302.02023, 2023"
+---
+Adversarial attack serves as a major challenge for neural network models in NLP, which precludes the model s deployment in safety-critical applications. A recent line of work, detection-based defense, aims to distinguish adversarial sentences from benign ones. However,{the core limitation of previous detection methods is being incapable of giving correct predictions on adversarial sentences unlike defense methods from other paradigms.} To solve this issue, this paper proposes …
+Cites: ‪Semantically Equivalent Adversarial Rules for Debugging NLP …‬

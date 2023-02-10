@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LIQUID: A Framework for List Question Answering Dataset Generation"
+date:   2023-02-09 01:30:47 -0400
+categories: jekyll update
+author: "S Lee, H Kim, J Kang - arXiv preprint arXiv:2302.01691, 2023"
+---
+Question answering (QA) models often rely on large-scale training datasets, which necessitates the development of a data generation framework to reduce the cost of manual annotations. Although several recent studies have aimed to generate synthetic questions with single-span answers, no study has been conducted on the creation of list questions with multiple, non-contiguous spans as answers. To address this gap, we propose\ours, an automated framework for generating list QA …
+Cites: ‪Paq: 65 million probably-asked questions and what you can do …‬
