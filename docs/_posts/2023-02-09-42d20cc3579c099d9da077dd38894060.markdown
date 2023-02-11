@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "V Ershov - arXiv preprint arXiv:2302.01842, 2023"
----
-The paper presents a study on using language models to automate the construction of executable Knowledge Graph (KG) for compliance. The paper focuses on Abu Dhabi Global Market regulations and taxonomy, involves manual tagging a portion of the regulations, training BERT-based models, which are then applied to the rest of the corpus. Coreference resolution and syntax analysis were used to parse the relationships between the tagged entities and to form KG stored in a Neo4j database …
-Cites: ‪DocRED: A Large-Scale Document-Level Relation Extraction …‬

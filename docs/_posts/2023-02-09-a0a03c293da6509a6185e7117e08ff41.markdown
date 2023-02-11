@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Nationality Bias in Text Generation"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "PN Venkit, S Gautam, R Panchanadikar, S Wilson - arXiv preprint arXiv:2302.02463, 2023"
----
-Little attention is placed on analyzing nationality bias in language models, especially when nationality is highly used as a factor in increasing the performance of social NLP models. This paper examines how a text generation model, GPT-2, accentuates pre-existing societal biases about country-based demonyms. We generate stories using GPT-2 for various nationalities and use sensitivity analysis to explore how the number of internet users and the country s economic status impacts the sentiment of …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "Nationality Bias in Text Generation" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "PN Venkit, S Gautam, R Panchanadikar, S Wilson - arXiv preprint arXiv:2302.02463, 2023" 
+--- 
+Little attention is placed on analyzing nationality bias in language models, especially when nationality is highly used as a factor in increasing the performance of social NLP models. This paper examines how a text generation model, GPT-2, accentuates pre-existing societal biases about country-based demonyms. We generate stories using GPT-2 for various nationalities and use sensitivity analysis to explore how the number of internet users and the country s economic status impacts the sentiment of  Cites: Universal adversarial triggers for attacking and analyzing NLP

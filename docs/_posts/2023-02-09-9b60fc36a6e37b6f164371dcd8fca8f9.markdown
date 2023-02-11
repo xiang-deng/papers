@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Prediction Backward-Compatiblility in NLP Model Upgrade with Gated Fusion"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "YA Lai, E Mansimov, Y Xie, Y Zhang - arXiv preprint arXiv:2302.02080, 2023"
----
-When upgrading neural models to a newer version, new errors that were not encountered in the legacy version can be introduced, known as regression errors. This inconsistent behavior during model upgrade often outweighs the benefits of accuracy gain and hinders the adoption of new models. To mitigate regression errors from model upgrade, distillation and ensemble have proven to be viable solutions without significant compromise in performance. Despite the progress, these …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Improving Prediction Backward-Compatiblility in NLP Model Upgrade with Gated Fusion" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "YA Lai, E Mansimov, Y Xie, Y Zhang - arXiv preprint arXiv:2302.02080, 2023" 
+--- 
+When upgrading neural models to a newer version, new errors that were not encountered in the legacy version can be introduced, known as regression errors. This inconsistent behavior during model upgrade often outweighs the benefits of accuracy gain and hinders the adoption of new models. To mitigate regression errors from model upgrade, distillation and ensemble have proven to be viable solutions without significant compromise in performance. Despite the progress, these  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Quantized Distributed Training of Large Models with Convergence Guarantees"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "I Markov, A Vladu, Q Guo, D Alistarh - arXiv preprint arXiv:2302.02390, 2023"
----
-Communication-reduction techniques are a popular way to improve scalability in data-parallel training of deep neural networks (DNNs). The recent emergence of large language models such as GPT has created the need for new approaches to exploit data-parallelism. Among these, fully-sharded data parallel (FSDP) training is highly popular, yet it still encounters scalability bottlenecks. One reason is that applying compression techniques to FSDP is challenging: as the vast majority of the …
-Cites: ‪Opt: Open pre-trained transformer language models‬
+--- 
+layout: post 
+title: "Quantized Distributed Training of Large Models with Convergence Guarantees" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "I Markov, A Vladu, Q Guo, D Alistarh - arXiv preprint arXiv:2302.02390, 2023" 
+--- 
+Communication-reduction techniques are a popular way to improve scalability in data-parallel training of deep neural networks (DNNs). The recent emergence of large language models such as GPT has created the need for new approaches to exploit data-parallelism. Among these, fully-sharded data parallel (FSDP) training is highly popular, yet it still encounters scalability bottlenecks. One reason is that applying compression techniques to FSDP is challenging: as the vast majority of the  Cites: Opt: Open pre-trained transformer language models

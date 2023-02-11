@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Semantic Approach to Negation Detection and Word Disambiguation with Natural Language Processing"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "I Okpala, GR Rodriguez, A Tapia, S Halse… - arXiv preprint arXiv …, 2023"
----
-This study aims to demonstrate the methods for detecting negations in a sentence by uniquely evaluating the lexical structure of the text via word sense disambiguation. Additionally, the proposed method examined all the unique features of the related expressions within a text to resolve the contextual usage of the sentence and the effect of negation on sentiment analysis. The application of popular expression detectors skips this important step, thereby neglecting the root words caught in the …
-Cites: ‪AllenNLP: A Deep Semantic Natural Language Processing Platform‬
+--- 
+layout: post 
+title: "A Semantic Approach to Negation Detection and Word Disambiguation with Natural Language Processing" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "I Okpala, GR Rodriguez, A Tapia, S Halse - arXiv preprint arXiv , 2023" 
+--- 
+This study aims to demonstrate the methods for detecting negations in a sentence by uniquely evaluating the lexical structure of the text via word sense disambiguation. Additionally, the proposed method examined all the unique features of the related expressions within a text to resolve the contextual usage of the sentence and the effect of negation on sentiment analysis. The application of popular expression detectors skips this important step, thereby neglecting the root words caught in the  Cites: AllenNLP: A Deep Semantic Natural Language Processing Platform

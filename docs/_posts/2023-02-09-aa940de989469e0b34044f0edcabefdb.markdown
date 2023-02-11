@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Instance-Optimized Database Indexes and Storage Layouts"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "J Ding - 2022"
----
-For any modern database system, its physical design, which is composed of both the storage layout of the data itself and auxiliary data structures such as indexes, is a critical piece of maintaining high performance in the face of increasing data volumes. Existing physical design components are general-purpose: they achieve adequate performance for the average use case but don t achieve optimal performance for any individual use case. These physical design components expose numerous …
-Cites: ‪Replicated layout for in-memory database systems‬

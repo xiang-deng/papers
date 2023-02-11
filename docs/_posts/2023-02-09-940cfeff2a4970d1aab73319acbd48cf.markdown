@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interpolation for Robust Learning: Data Augmentation on Geodesics"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "J Zhu, J Qiu, A Guha, Z Yang, X Nguyen, B Li, D Zhao - arXiv preprint arXiv …, 2023"
----
-We propose to study and promote the robustness of a model as per its performance through the interpolation of training data distributions. Specifically,(1) we augment the data by finding the worst-case Wasserstein barycenter on the geodesic connecting subpopulation distributions of different categories.(2) We regularize the model for smoother performance on the continuous geodesic path connecting subpopulation distributions.(3) Additionally, we provide a theoretical guarantee of …
-Cites: ‪SSMBA: Self-supervised manifold based data augmentation for …‬
+--- 
+layout: post 
+title: "Interpolation for Robust Learning: Data Augmentation on Geodesics" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "J Zhu, J Qiu, A Guha, Z Yang, X Nguyen, B Li, D Zhao - arXiv preprint arXiv , 2023" 
+--- 
+We propose to study and promote the robustness of a model as per its performance through the interpolation of training data distributions. Specifically,(1) we augment the data by finding the worst-case Wasserstein barycenter on the geodesic connecting subpopulation distributions of different categories.(2) We regularize the model for smoother performance on the continuous geodesic path connecting subpopulation distributions.(3) Additionally, we provide a theoretical guarantee of  Cites: SSMBA: Self-supervised manifold based data augmentation for

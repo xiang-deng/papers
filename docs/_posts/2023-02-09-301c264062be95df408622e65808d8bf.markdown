@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "J Ko, S Park, M Jeong, S Hong, E Ahn, DS Chang… - arXiv preprint arXiv …, 2023"
----
-Knowledge distillation (KD) is a highly promising method for mitigating the computational problems of pre-trained language models (PLMs). Among various KD approaches, Intermediate Layer Distillation (ILD) has been a de facto standard KD method with its performance efficacy in the NLP field. In this paper, we find that existing ILD methods are prone to overfitting to training datasets, although these methods transfer more information than the original KD. Next, we present the simple …
-Cites: ‪Better fine-tuning by reducing representational collapse‬
+--- 
+layout: post 
+title: "Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "J Ko, S Park, M Jeong, S Hong, E Ahn, DS Chang - arXiv preprint arXiv , 2023" 
+--- 
+Knowledge distillation (KD) is a highly promising method for mitigating the computational problems of pre-trained language models (PLMs). Among various KD approaches, Intermediate Layer Distillation (ILD) has been a de facto standard KD method with its performance efficacy in the NLP field. In this paper, we find that existing ILD methods are prone to overfitting to training datasets, although these methods transfer more information than the original KD. Next, we present the simple  Cites: Better fine-tuning by reducing representational collapse

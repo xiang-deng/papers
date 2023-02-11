@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Flexible few-shot class-incremental learning with prototype container"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "X Xu, Z Wang, Z Fu, W Guo, Z Chi, D Li - Neural Computing and Applications, 2023"
----
-In the few-shot class-incremental learning, new class samples are utilized to learn the characteristics of new classes, while old class exemplars are used to avoid old knowledge forgetting. The limited number of new class samples is more likely to cause overfitting during incremental training. Moreover, mass stored old exemplars mean large storage space consumption. To solve the above difficulties, in this paper we propose a novel flexible few-shot class-incremental framework to make the …
-Cites: ‪True few-shot learning with language models‬
+--- 
+layout: post 
+title: "Flexible few-shot class-incremental learning with prototype container" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "X Xu, Z Wang, Z Fu, W Guo, Z Chi, D Li - Neural Computing and Applications, 2023" 
+--- 
+In the few-shot class-incremental learning, new class samples are utilized to learn the characteristics of new classes, while old class exemplars are used to avoid old knowledge forgetting. The limited number of new class samples is more likely to cause overfitting during incremental training. Moreover, mass stored old exemplars mean large storage space consumption. To solve the above difficulties, in this paper we propose a novel flexible few-shot class-incremental framework to make the  Cites: True few-shot learning with language models

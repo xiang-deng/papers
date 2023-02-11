@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The unreasonable effectiveness of few-shot learning for machine translation"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "X Garcia, Y Bansal, C Cherry, G Foster, M Krikun… - arXiv preprint arXiv …, 2023"
----
-We demonstrate the potential of few-shot translation systems, trained with unpaired language data, for both high and low-resource language pairs. We show that with only 5 examples of high-quality translation data shown at inference, a transformer decoder-only model trained solely with self-supervised learning, is able to match specialized supervised state-of-the-art models as well as more general commercial translation systems. In particular, we outperform the best performing system on the …
-Cites: ‪In-context Examples Selection for Machine Translation‬
+--- 
+layout: post 
+title: "The unreasonable effectiveness of few-shot learning for machine translation" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "X Garcia, Y Bansal, C Cherry, G Foster, M Krikun - arXiv preprint arXiv , 2023" 
+--- 
+We demonstrate the potential of few-shot translation systems, trained with unpaired language data, for both high and low-resource language pairs. We show that with only 5 examples of high-quality translation data shown at inference, a transformer decoder-only model trained solely with self-supervised learning, is able to match specialized supervised state-of-the-art models as well as more general commercial translation systems. In particular, we outperform the best performing system on the  Cites: In-context Examples Selection for Machine Translation

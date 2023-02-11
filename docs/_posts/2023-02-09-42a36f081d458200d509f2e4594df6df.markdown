@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text FCG: Fusing Contextual Information via Graph Learning for text classification"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "Y Wang, C Wang, J Zhan, W Ma, Y Jiang - Expert Systems with Applications, 2023"
----
-Text classification as a fundamental task in Natural Language Processing (NLP). Graph neural networks can better handle the large amount of information in text, and effective and fast graph models for text classification have received much attention. Besides, most methods are transductive learning, which means they cannot handle the documents with new words and relations. To tackle these problems, we propose a novel method for Text Classification by Fusing Contextual Information via Graph …
-Cites: ‪Stanza: A python natural language processing toolkit for many …‬
+--- 
+layout: post 
+title: "Text FCG: Fusing Contextual Information via Graph Learning for text classification" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "Y Wang, C Wang, J Zhan, W Ma, Y Jiang - Expert Systems with Applications, 2023" 
+--- 
+Text classification as a fundamental task in Natural Language Processing (NLP). Graph neural networks can better handle the large amount of information in text, and effective and fast graph models for text classification have received much attention. Besides, most methods are transductive learning, which means they cannot handle the documents with new words and relations. To tackle these problems, we propose a novel method for Text Classification by Fusing Contextual Information via Graph  Cites: Stanza: A python natural language processing toolkit for many

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Weight, Is Attention All We Need? AEIUOrder: Greedy Ordering of Layer Weight Matrices in Transformer Improves Translation"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "E Ye - arXiv preprint arXiv:2302.02123, 2023"
----
-Prior work has attempted to understand the internal structures and functionalities of Transformer-based encoder-decoder architectures on the level of multi-head attention and feed-forward sublayers. Interpretations have focused on the encoder and decoder, along with the combinatorial possibilities of the self-attention, cross-attention, and feed-forward sublayers. Could we improve the quality of translation by diving into the Transformer sublayer abstractions and permuting its layer weight …
-Cites: ‪Improving transformer models by reordering their sublayers‬

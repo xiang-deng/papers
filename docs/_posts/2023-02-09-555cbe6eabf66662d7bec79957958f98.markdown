@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CTE: A Dataset for Contextualized Table Extraction"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "A Gemelli, E Vivoli, S Marinai - arXiv preprint arXiv:2302.01451, 2023"
----
-Relevant information in documents is often summarized in tables, helping the reader to identify useful facts. Most benchmark datasets support either document layout analysis or table understanding, but lack in providing data to apply both tasks in a unified way. We define the task of Contextualized Table Extraction (CTE), which aims to extract and define the structure of tables considering the textual context of the document. The dataset comprises 75k fully annotated pages of scientific papers …
-Cites: ‪Axcell: Automatic extraction of results from machine learning papers‬
+--- 
+layout: post 
+title: "CTE: A Dataset for Contextualized Table Extraction" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "A Gemelli, E Vivoli, S Marinai - arXiv preprint arXiv:2302.01451, 2023" 
+--- 
+Relevant information in documents is often summarized in tables, helping the reader to identify useful facts. Most benchmark datasets support either document layout analysis or table understanding, but lack in providing data to apply both tasks in a unified way. We define the task of Contextualized Table Extraction (CTE), which aims to extract and define the structure of tables considering the textual context of the document. The dataset comprises 75k fully annotated pages of scientific papers  Cites: Axcell: Automatic extraction of results from machine learning papers

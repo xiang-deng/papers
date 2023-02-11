@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Label Enhanced Event Detection with Collective Knowledge and Heterogeneous Graph"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "G Wu, Z Lu, Z Miao, X Zhuo, Z Zhang - 2022 IEEE International Conference on …, 2022"
----
-Event Detection (ED) aims to recognize instances of specified types of event triggers in text. Existing graph neural network-based models have achieved promising progress to alleviate this problem by capturing different orders of syntactic information, but they are limited by two issues. First, the long-range syntactic information between words is not fully exploited. Second, they ignore the semantic information provided by dependency labels which provide linguistic knowledge that …
-Cites: ‪Is killed more significant than fled? a contextual model for salient …‬
+--- 
+layout: post 
+title: "Label Enhanced Event Detection with Collective Knowledge and Heterogeneous Graph" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "G Wu, Z Lu, Z Miao, X Zhuo, Z Zhang - 2022 IEEE International Conference on , 2022" 
+--- 
+Event Detection (ED) aims to recognize instances of specified types of event triggers in text. Existing graph neural network-based models have achieved promising progress to alleviate this problem by capturing different orders of syntactic information, but they are limited by two issues. First, the long-range syntactic information between words is not fully exploited. Second, they ignore the semantic information provided by dependency labels which provide linguistic knowledge that  Cites: Is killed more significant than fled? a contextual model for salient

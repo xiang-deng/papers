@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SuperFormer: Continual learning superposition method for text classification"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "M Zeman, JF Pucer, I Kononenko, Z Bosnić - Neural Networks, 2023"
----
-One of the biggest challenges in continual learning domains is the tendency of machine learning models to forget previously learned information over time. While overcoming this issue, the existing approaches often exploit large amounts of additional memory and apply model forgetting mitigation mechanisms which substantially prolong the training process. Therefore, we propose a novel SuperFormer method that alleviates model forgetting, while spending negligible …
-Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬
+--- 
+layout: post 
+title: "SuperFormer: Continual learning superposition method for text classification" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "M Zeman, JF Pucer, I Kononenko, Z Bosni - Neural Networks, 2023" 
+--- 
+One of the biggest challenges in continual learning domains is the tendency of machine learning models to forget previously learned information over time. While overcoming this issue, the existing approaches often exploit large amounts of additional memory and apply model forgetting mitigation mechanisms which substantially prolong the training process. Therefore, we propose a novel SuperFormer method that alleviates model forgetting, while spending negligible  Cites: AdapterFusion: Non-destructive task composition for transfer learning

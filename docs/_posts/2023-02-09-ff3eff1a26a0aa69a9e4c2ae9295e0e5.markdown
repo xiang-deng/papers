@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Ten Lessons We Have Learned in the New  Sparseland : A Short Handbook for Sparse Neural Network Researchers"
-date:   2023-02-09 01:30:47 -0400
-categories: jekyll update
-author: "S Liu, Z Wang - arXiv preprint arXiv:2302.02596, 2023"
----
-This article does not propose any novel algorithm or new hardware for sparsity. Instead, it aims to serve the  common good  for the increasingly prosperous Sparse Neural Network (SNN) research community. We attempt to summarize some most common confusions in SNNs, that one may come across in various scenarios such as paper review/rebuttal and talks-many drawn from the authors  own bittersweet experiences! We feel that doing so is meaningful and timely, since the focus of SNN …
-Cites: ‪Base layers: Simplifying training of large, sparse models‬
+--- 
+layout: post 
+title: "Ten Lessons We Have Learned in the New Sparseland : A Short Handbook for Sparse Neural Network Researchers" 
+date: 2023-02-09 01:30:47 -0400 
+categories: jekyll update 
+author: "S Liu, Z Wang - arXiv preprint arXiv:2302.02596, 2023" 
+--- 
+This article does not propose any novel algorithm or new hardware for sparsity. Instead, it aims to serve the common good for the increasingly prosperous Sparse Neural Network (SNN) research community. We attempt to summarize some most common confusions in SNNs, that one may come across in various scenarios such as paper review/rebuttal and talks-many drawn from the authors own bittersweet experiences! We feel that doing so is meaningful and timely, since the focus of SNN  Cites: Base layers: Simplifying training of large, sparse models
