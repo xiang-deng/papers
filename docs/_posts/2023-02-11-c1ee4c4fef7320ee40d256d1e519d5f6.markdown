@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Memory-Based Meta-Learning on Non-Stationary Distributions"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "T Genewein, G Delétang, A Ruoss, LK Wenliang… - arXiv preprint arXiv …, 2023"
+---
+Memory-based meta-learning is a technique for approximating Bayes-optimal predictors. Under fairly general conditions, minimizing sequential prediction error, measured by the log loss, leads to implicit meta-learning. The goal of this work is to investigate how far this interpretation can be realized by current sequence prediction models and training regimes. The focus is on piecewise stationary sources with unobserved switching-points, which arguably capture an important characteristic of …
+Cites: ‪Train short, test long: Attention with linear biases enables input …‬

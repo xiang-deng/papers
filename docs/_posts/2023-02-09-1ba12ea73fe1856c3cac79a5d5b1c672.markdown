@@ -5,4 +5,4 @@ date: 2023-02-09 01:30:47 -0400
 categories: jekyll update 
 author: "B Zhu, H Tan - arXiv preprint arXiv:2302.02345, 2023" 
 --- 
-In this paper, we build a model named VuLASTE, which regards vulnerability detection as a special text classification task. To solve the vocabulary explosion problem, VuLASTE uses a byte level BPE algorithm from natural language processing. In VuLASTE, a new AST path embedding is added to represent source code nesting information. We also use a combination of global and dilated window attention from Longformer to extract long sequence semantic from source code. To  Cites: Language models as knowledge bases?
+In this paper, we build a model named VuLASTE, which regards vulnerability detection as a special text classification task. To solve the vocabulary explosion problem, VuLASTE uses a byte level BPE algorithm from natural language processing. In VuLASTE, a new AST path embedding is added to represent source code nesting information. We also use a combination of global and dilated window attention from Longformer to extract long sequence semantic from source code. To Cites: Language models as knowledge bases?

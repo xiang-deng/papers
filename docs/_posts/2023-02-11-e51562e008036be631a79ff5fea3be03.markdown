@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Evaluating Self-Supervised Learning via Risk Decomposition"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "Y Dubois, T Hashimoto, P Liang - arXiv preprint arXiv:2302.03068, 2023"
+---
+Self-supervised learning (SSL) pipelines differ in many design choices such as the architecture, augmentations, or pretraining data. Yet SSL is typically evaluated using a single metric: linear probing on ImageNet. This does not provide much insight into …

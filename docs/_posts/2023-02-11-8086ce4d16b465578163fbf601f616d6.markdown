@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ZipLM: Hardware-Aware Structured Pruning of Language Models"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "E Kurtic, E Frantar, D Alistarh - arXiv preprint arXiv:2302.04089, 2023"
+---
+The breakthrough performance of large language models (LLMs) comes with large computational footprints and high deployment costs. In this paper, we progress towards resolving this problem by proposing a new structured compression approach for LLMs, called ZipLM, which provides state-of-the-art compression-vs-accuracy results, while guaranteeing to match a set of (achievable) target speedups on any given target hardware. Specifically, given a task, a model, an inference …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring Data Augmentation for Code Generation Tasks"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "P Chen, G Lampouras - arXiv preprint arXiv:2302.03499, 2023"
+---
+Advances in natural language processing, such as transfer learning from pre-trained language models, have impacted how models are trained for programming language tasks too. Previous research primarily explored code pre-training and expanded it through multi-modality and multi-tasking, yet the data for downstream tasks remain modest in size. Focusing on data utilization for downstream tasks, we propose and adapt augmentation methods that yield consistent improvements in code translation …
+Cites: ‪Dawn Drain‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Long Horizon Temperature Scaling"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "A Shih, D Sadigh, S Ermon - arXiv preprint arXiv:2302.03686, 2023"
+---
+Temperature scaling is a popular technique for tuning the sharpness of a model distribution. It is used extensively for sampling likely generations and calibrating model uncertainty, and even features as a controllable parameter to many large language models in deployment. However, autoregressive models rely on myopic temperature scaling that greedily optimizes the next token. To address this, we propose Long Horizon Temperature Scaling (LHTS), a novel approach for sampling …
+Cites: ‪Quark: Controllable text generation with reinforced unlearning‬

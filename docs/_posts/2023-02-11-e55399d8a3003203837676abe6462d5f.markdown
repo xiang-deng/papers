@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Automating Code-Related Tasks Through Transformers: The Impact of Pre-training"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "R Tufano, L Pascarella, G Bavota - arXiv preprint arXiv:2302.04048, 2023"
+---
+Transformers have gained popularity in the software engineering (SE) literature. These deep learning models are usually pre-trained through a self-supervised objective, meant to provide the model with basic knowledge about a language of interest (eg, Java). A classic pre-training objective is the masked language model (MLM), in which a percentage of tokens from the input (eg, a Java method) is masked, with the model in charge of predicting them. Once pre-trained, the model is …
+Cites: ‪Graphcodebert: Pre-training code representations with data flow‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Techniques to Improve Neural Math Word Problem Solvers"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "Y Zhang - arXiv preprint arXiv:2302.03145, 2023"
+---
+Developing automatic Math Word Problem (MWP) solvers is a challenging task that demands the ability of understanding and mathematical reasoning over the natural language. Recent neural-based approaches mainly encode the problem text using a language model and decode a mathematical expression over quantities and operators iteratively. Note the problem text of a MWP consists of a context part and a question part, a recent work finds these neural solvers may only perform shallow …
+Cites: ‪Mapping to declarative knowledge for word problem solving‬

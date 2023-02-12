@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UDApter--Efficient Domain Adaptation Using Adapters"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "B Malik, AR Kashyap, MY Kan, S Poria - arXiv preprint arXiv:2302.03194, 2023"
+---
+We propose two methods to make unsupervised domain adaptation (UDA) more parameter efficient using adapters, small bottleneck layers interspersed with every layer of the large-scale pre-trained language model (PLM). The first method deconstructs UDA into a two-step process: first by adding a domain adapter to learn domain-invariant information and then by adding a task adapter that uses domain-invariant information to learn task representations in the source domain. The second …
+Cites: ‪Towards a unified view of parameter-efficient transfer learning‬

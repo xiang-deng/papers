@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Continual Learning of Language Models"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "Z Ke, Y Shao, H Lin, T Konishi, G Kim, B Liu - arXiv preprint arXiv:2302.03241, 2023"
+---
+Language models (LMs) have been instrumental for the rapid advance of natural language processing. This paper studies continual learning of LMs, in particular, continual domain-adaptive pre-training (or continual DAP-training). Existing research has shown that further pre-training an LM using a domain corpus to adapt the LM to the domain can improve the end-task performance in the domain. This paper proposes a novel method to continually DAP-train an LM with a sequence of …
+Cites: ‪ELLE: Efficient Lifelong Pre-training for Emerging Data‬

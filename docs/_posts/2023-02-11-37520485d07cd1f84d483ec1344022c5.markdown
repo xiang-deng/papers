@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An entity-guided text summarization framework with relational heterogeneous graph neural network"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "J Chen - arXiv preprint arXiv:2302.03205, 2023"
+---
+Two crucial issues for text summarization to generate faithful summaries are to make use of knowledge beyond text and to make use of cross-sentence relations in text. Intuitive ways for the two issues are Knowledge Graph (KG) and Graph Neural Network (GNN) respectively. Entities are semantic units in text and in KG. This paper focuses on both issues by leveraging entities mentioned in text to connect GNN and KG for summarization. Firstly, entities are leveraged to construct a sentence-entity …
+Cites: ‪Fast Abstractive Summarization with Reinforce-Selected Sentence …‬

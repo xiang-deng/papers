@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Predictable MDP Abstraction for Unsupervised Model-Based RL"
+date:   2023-02-11 02:41:58 -0400
+categories: jekyll update
+author: "S Park, S Levine - arXiv preprint arXiv:2302.03921, 2023"
+---
+A key component of model-based reinforcement learning (RL) is a dynamics model that predicts the outcomes of actions. Errors in this predictive model can degrade the performance of model-based controllers, and complex Markov decision processes (MDPs) can present exceptionally difficult prediction problems. To mitigate this issue, we propose predictable MDP abstraction (PMA): instead of training a predictive model on the original MDP, we train a model on a transformed MDP with a learned …
+Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬
