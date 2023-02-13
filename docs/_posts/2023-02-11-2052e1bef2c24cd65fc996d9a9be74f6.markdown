@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reliable Natural Language Understanding with Large Language Models and Answer Set Programming"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "A Rajasekharan, Y Zeng, P Padalkar, G Gupta - arXiv preprint arXiv:2302.03780, 2023"
----
-Humans understand language by extracting information (meaning) from sentences, combining it with existing commonsense knowledge, and then performing reasoning to draw conclusions. While large language models (LLMs) such as GPT-3 and ChatGPT are able to leverage patterns in the text to solve a variety of NLP tasks, they fall short in problems that require reasoning. They also cannot reliably explain the answers generated for a given question. In order to emulate humans better, we …
-Cites: ‪Quarel: A dataset and models for answering questions about …‬
+--- 
+layout: post 
+title: "Reliable Natural Language Understanding with Large Language Models and Answer Set Programming" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "A Rajasekharan, Y Zeng, P Padalkar, G Gupta - arXiv preprint arXiv:2302.03780, 2023" 
+--- 
+Humans understand language by extracting information (meaning) from sentences, combining it with existing commonsense knowledge, and then performing reasoning to draw conclusions. While large language models (LLMs) such as GPT-3 and ChatGPT are able to leverage patterns in the text to solve a variety of NLP tasks, they fall short in problems that require reasoning. They also cannot reliably explain the answers generated for a given question. In order to emulate humans better, we  Cites: Quarel: A dataset and models for answering questions about

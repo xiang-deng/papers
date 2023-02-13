@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Conformer: Local Features Coupling Global Representations for Recognition and Detection"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "Z Peng, Z Guo, W Huang, Y Wang, L Xie, J Jiao, Q Tian… - IEEE Transactions on …, 2023"
----
-With convolution operations, Convolutional Neural Networks (CNNs) are good at extracting local features but experience difficulty to capture global representations. With cascaded self-attention modules, vision transformers can capture long-distance feature dependencies but unfortunately deteriorate local feature details. In this paper, we propose a hybrid network structure, termed Conformer, to take both advantages of convolution operations and self-attention mechanisms for enhanced …
-Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬
+--- 
+layout: post 
+title: "Conformer: Local Features Coupling Global Representations for Recognition and Detection" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "Z Peng, Z Guo, W Huang, Y Wang, L Xie, J Jiao, Q Tian - IEEE Transactions on , 2023" 
+--- 
+With convolution operations, Convolutional Neural Networks (CNNs) are good at extracting local features but experience difficulty to capture global representations. With cascaded self-attention modules, vision transformers can capture long-distance feature dependencies but unfortunately deteriorate local feature details. In this paper, we propose a hybrid network structure, termed Conformer, to take both advantages of convolution operations and self-attention mechanisms for enhanced  Cites: Coatnet: Marrying convolution and attention for all data sizes

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-Task Credible Pseudo-Label Learning for Semi-Supervised Crowd Counting"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "P Zhu, J Li, B Cao, Q Hu - IEEE Transactions on Neural Networks and Learning …, 2023"
----
-As a widely used semi-supervised learning strategy, self-training generates pseudo-labels to alleviate the labor-intensive and time-consuming annotation problems in crowd counting while boosting the model performance with limited labeled data and massive unlabeled data. However, the noise in the pseudo-labels of the density maps greatly hinders the performance of semi-supervised crowd counting. Although auxiliary tasks, eg, binary segmentation, are utilized to help improve the feature …
-Cites: ‪Rethinking pre-training and self-training‬
+--- 
+layout: post 
+title: "Multi-Task Credible Pseudo-Label Learning for Semi-Supervised Crowd Counting" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "P Zhu, J Li, B Cao, Q Hu - IEEE Transactions on Neural Networks and Learning , 2023" 
+--- 
+As a widely used semi-supervised learning strategy, self-training generates pseudo-labels to alleviate the labor-intensive and time-consuming annotation problems in crowd counting while boosting the model performance with limited labeled data and massive unlabeled data. However, the noise in the pseudo-labels of the density maps greatly hinders the performance of semi-supervised crowd counting. Although auxiliary tasks, eg, binary segmentation, are utilized to help improve the feature  Cites: Rethinking pre-training and self-training

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "C Niu, C Li, V Ng, B Luo - arXiv preprint arXiv:2302.04030, 2023"
----
-Despite the recent advances showing that a model pre-trained on large-scale source code data is able to gain appreciable generalization capability, it still requires a sizeable amount of data on the target task for fine-tuning. And the effectiveness of the model generalization is largely affected by the size and quality of the fine-tuning data, which is detrimental for target tasks with limited or unavailable resources. Therefore, cross-task generalization, with the goal of improving the generalization of …
-Cites: ‪Benchmarking generalization via in-context instructions on 1,600+ …‬
+--- 
+layout: post 
+title: "CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "C Niu, C Li, V Ng, B Luo - arXiv preprint arXiv:2302.04030, 2023" 
+--- 
+Despite the recent advances showing that a model pre-trained on large-scale source code data is able to gain appreciable generalization capability, it still requires a sizeable amount of data on the target task for fine-tuning. And the effectiveness of the model generalization is largely affected by the size and quality of the fine-tuning data, which is detrimental for target tasks with limited or unavailable resources. Therefore, cross-task generalization, with the goal of improving the generalization of  Cites: Benchmarking generalization via in-context instructions on 1,600+

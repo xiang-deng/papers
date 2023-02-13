@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PAMI: partition input and aggregate outputs for model interpretation"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "W Shi, W Zhang, R Wang - arXiv preprint arXiv:2302.03318, 2023"
----
-There is an increasing demand for interpretation of model predictions especially in high-risk applications. Various visualization approaches have been proposed to estimate the part of input which is relevant to a specific model prediction. However, most approaches require model structure and parameter details in order to obtain the visualization results, and in general much effort is required to adapt each approach to multiple types of tasks particularly when model backbone and input format change …
-Cites: ‪Interpreting Predictions of NLP Models‬
+--- 
+layout: post 
+title: "PAMI: partition input and aggregate outputs for model interpretation" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "W Shi, W Zhang, R Wang - arXiv preprint arXiv:2302.03318, 2023" 
+--- 
+There is an increasing demand for interpretation of model predictions especially in high-risk applications. Various visualization approaches have been proposed to estimate the part of input which is relevant to a specific model prediction. However, most approaches require model structure and parameter details in order to obtain the visualization results, and in general much effort is required to adapt each approach to multiple types of tasks particularly when model backbone and input format change  Cites: Interpreting Predictions of NLP Models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PLACES: Prompting Language Models for Social Conversation Synthesis"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "M Chen, A Papangelis, C Tao, S Kim, A Rosenbaum… - arXiv preprint arXiv …, 2023"
----
-Collecting high quality conversational data can be very expensive for most applications and infeasible for others due to privacy, ethical, or similar concerns. A promising direction to tackle this problem is to generate synthetic dialogues by prompting large language models. In this work, we use a small set of expert-written conversations as in-context examples to synthesize a social conversation dataset using prompting. We perform several thorough evaluations of our synthetic …
-Cites: ‪SODA: Million-scale Dialogue Distillation with Social …‬
+--- 
+layout: post 
+title: "PLACES: Prompting Language Models for Social Conversation Synthesis" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "M Chen, A Papangelis, C Tao, S Kim, A Rosenbaum - arXiv preprint arXiv , 2023" 
+--- 
+Collecting high quality conversational data can be very expensive for most applications and infeasible for others due to privacy, ethical, or similar concerns. A promising direction to tackle this problem is to generate synthetic dialogues by prompting large language models. In this work, we use a small set of expert-written conversations as in-context examples to synthesize a social conversation dataset using prompting. We perform several thorough evaluations of our synthetic  Cites: SODA: Million-scale Dialogue Distillation with Social

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Label graph augmented soft cascade decoding model for overlapping event extraction"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "Y Hei, L Wang, J Sheng, J Liu, Q Li, S Guo - International Journal of Machine …, 2023"
----
-Event extraction (EE) is a fundamental information extraction task that aims to identify structured events, including event types, triggers and arguments, from unstructured texts. The overlapping EE, in which a trigger may be assigned to multiple event types, or an argument owns more than one role, is a more challenging task. Existing methods deconstruct the task in a pipeline-based cascade decoding paradigm, sequentially extracting overlapping event elements (triggers and arguments) based …
-Cites: ‪Entity, relation, and event extraction with contextualized span …‬
+--- 
+layout: post 
+title: "Label graph augmented soft cascade decoding model for overlapping event extraction" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "Y Hei, L Wang, J Sheng, J Liu, Q Li, S Guo - International Journal of Machine , 2023" 
+--- 
+Event extraction (EE) is a fundamental information extraction task that aims to identify structured events, including event types, triggers and arguments, from unstructured texts. The overlapping EE, in which a trigger may be assigned to multiple event types, or an argument owns more than one role, is a more challenging task. Existing methods deconstruct the task in a pipeline-based cascade decoding paradigm, sequentially extracting overlapping event elements (triggers and arguments) based  Cites: Entity, relation, and event extraction with contextualized span

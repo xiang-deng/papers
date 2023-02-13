@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Source Code Recommender Systems: The Practitioners  Perspective"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "M Ciniselli, L Pascarella, E Aghajani, S Scalabrino… - arXiv preprint arXiv …, 2023"
----
-The automatic generation of source code is one of the long-lasting dreams in software engineering research. Several techniques have been proposed to speed up the writing of new code. For example, code completion techniques can recommend to developers the next few tokens they are likely to type, while retrieval-based approaches can suggest code snippets relevant for the task at hand. Also, deep learning has been used to automatically generate code statements starting from a …
-Cites: ‪In-IDE Code Generation from Natural Language: Promise and …‬
+--- 
+layout: post 
+title: "Source Code Recommender Systems: The Practitioners Perspective" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "M Ciniselli, L Pascarella, E Aghajani, S Scalabrino - arXiv preprint arXiv , 2023" 
+--- 
+The automatic generation of source code is one of the long-lasting dreams in software engineering research. Several techniques have been proposed to speed up the writing of new code. For example, code completion techniques can recommend to developers the next few tokens they are likely to type, while retrieval-based approaches can suggest code snippets relevant for the task at hand. Also, deep learning has been used to automatically generate code statements starting from a  Cites: In-IDE Code Generation from Natural Language: Promise and

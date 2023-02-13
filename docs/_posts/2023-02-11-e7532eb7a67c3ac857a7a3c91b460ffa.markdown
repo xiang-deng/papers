@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FFHR: Fully and Flexible Hyperbolic Representation for Knowledge Graph Completion"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "W Shi, J Wu, X Cao, J Chen, W Lei, W Wu, X He - arXiv preprint arXiv:2302.04088, 2023"
----
-Learning hyperbolic embeddings for knowledge graph (KG) has gained increasing attention due to its superiority in capturing hierarchies. However, some important operations in hyperbolic space still lack good definitions, making existing methods unable to fully leverage the merits of hyperbolic space. Specifically, they suffer from two main limitations: 1) existing Graph Convolutional Network (GCN) methods in hyperbolic space rely on tangent space approximation, which would incur …
-Cites: ‪Embedding entities and relations for learning and inference in …‬
+--- 
+layout: post 
+title: "FFHR: Fully and Flexible Hyperbolic Representation for Knowledge Graph Completion" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "W Shi, J Wu, X Cao, J Chen, W Lei, W Wu, X He - arXiv preprint arXiv:2302.04088, 2023" 
+--- 
+Learning hyperbolic embeddings for knowledge graph (KG) has gained increasing attention due to its superiority in capturing hierarchies. However, some important operations in hyperbolic space still lack good definitions, making existing methods unable to fully leverage the merits of hyperbolic space. Specifically, they suffer from two main limitations: 1) existing Graph Convolutional Network (GCN) methods in hyperbolic space rely on tangent space approximation, which would incur  Cites: Embedding entities and relations for learning and inference in

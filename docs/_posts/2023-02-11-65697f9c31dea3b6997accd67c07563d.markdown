@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Data Selection for Language Models via Importance Resampling"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "SM Xie, S Santurkar, T Ma, P Liang - arXiv preprint arXiv:2302.03169, 2023"
----
-Selecting a suitable training dataset is crucial for both general-domain (eg, GPT-3) and domain-specific (eg, Codex) language models (LMs). We formalize this data selection problem as selecting a subset of a large raw unlabeled dataset to match a …
+--- 
+layout: post 
+title: "Data Selection for Language Models via Importance Resampling" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "SM Xie, S Santurkar, T Ma, P Liang - arXiv preprint arXiv:2302.03169, 2023" 
+--- 
+Selecting a suitable training dataset is crucial for both general-domain (eg, GPT-3) and domain-specific (eg, Codex) language models (LMs). We formalize this data selection problem as selecting a subset of a large raw unlabeled dataset to match a

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reward estimation with scheduled knowledge distillation for dialogue policy learning"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "J Qiu, H Zhang, Y Yang - Connection Science, 2023"
----
-Formulating dialogue policy as a reinforcement learning (RL) task enables a dialogue system to act optimally by interacting with humans. However, typical RL-based methods normally suffer from challenges such as sparse and delayed reward problems. Besides, with user goal unavailable in real scenarios, the reward estimator is unable to generate reward reflecting action validity and task completion. Those issues may slow down and degrade the policy learning significantly. In this paper, we …
-Cites: ‪A simple language model for task-oriented dialogue‬
+--- 
+layout: post 
+title: "Reward estimation with scheduled knowledge distillation for dialogue policy learning" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "J Qiu, H Zhang, Y Yang - Connection Science, 2023" 
+--- 
+Formulating dialogue policy as a reinforcement learning (RL) task enables a dialogue system to act optimally by interacting with humans. However, typical RL-based methods normally suffer from challenges such as sparse and delayed reward problems. Besides, with user goal unavailable in real scenarios, the reward estimator is unable to generate reward reflecting action validity and task completion. Those issues may slow down and degrade the policy learning significantly. In this paper, we  Cites: A simple language model for task-oriented dialogue

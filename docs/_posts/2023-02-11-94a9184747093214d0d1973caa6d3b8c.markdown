@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hierarchical Event Grounding"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "J Ou, A Pratapa, R Gupta, T Mitamura - arXiv preprint arXiv:2302.04197, 2023"
----
-Event grounding aims at linking mention references in text corpora to events from a knowledge base (KB). Previous work on this task focused primarily on linking to a single KB event, thereby overlooking the hierarchical aspects of events. Events in documents are typically described at various levels of spatio-temporal granularity (Glavas et al. 2014). These hierarchical relations are utilized in downstream tasks of narrative understanding and schema construction. In this work, we present an …
-Cites: ‪Resin-11: Schema-guided event prediction for 11 newsworthy …‬
+--- 
+layout: post 
+title: "Hierarchical Event Grounding" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "J Ou, A Pratapa, R Gupta, T Mitamura - arXiv preprint arXiv:2302.04197, 2023" 
+--- 
+Event grounding aims at linking mention references in text corpora to events from a knowledge base (KB). Previous work on this task focused primarily on linking to a single KB event, thereby overlooking the hierarchical aspects of events. Events in documents are typically described at various levels of spatio-temporal granularity (Glavas et al. 2014). These hierarchical relations are utilized in downstream tasks of narrative understanding and schema construction. In this work, we present an  Cites: Resin-11: Schema-guided event prediction for 11 newsworthy

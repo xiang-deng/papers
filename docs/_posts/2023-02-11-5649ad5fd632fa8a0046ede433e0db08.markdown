@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "Z Liu, Z Tang, X Xia, X Yang - arXiv preprint arXiv:2302.03924, 2023"
----
-Representing code changes as numeric feature vectors, ie, code change representations, is usually an essential step to automate many software engineering tasks related to code changes, eg, commit message generation and just-in-time defect prediction. Intuitively, the quality of code change representations is crucial for the effectiveness of automated approaches. Prior work on code changes usually designs and evaluates code change representation approaches for a specific task …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "Z Liu, Z Tang, X Xia, X Yang - arXiv preprint arXiv:2302.03924, 2023" 
+--- 
+Representing code changes as numeric feature vectors, ie, code change representations, is usually an essential step to automate many software engineering tasks related to code changes, eg, commit message generation and just-in-time defect prediction. Intuitively, the quality of code change representations is crucial for the effectiveness of automated approaches. Prior work on code changes usually designs and evaluates code change representation approaches for a specific task  Cites: Codebert: A pre-trained model for programming and natural

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "YARB: a Methodology to Characterize Regular Expression Matching on Heterogeneous Systems"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "F Carloni, D Conficconi, M Ilaria, MD Santambrogio - 2023 IEEE International …, 2023"
----
-The continuous growth of data pushes novel and efficient approaches for information retrieval. In this context, Regular Expression (RE) matching is widely employed and represents a relevant computational kernel that carries controland memory-related issues. Among the several solutions to relieve these burdens, accelerators seem a promising alternative to general-purpose systems. However, state-of-the-art benchmarking presents a highly fragmented scenario without consensus on the …
-Cites: ‪HARE: Hardware accelerator for regular expressions‬
+--- 
+layout: post 
+title: "YARB: a Methodology to Characterize Regular Expression Matching on Heterogeneous Systems" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "F Carloni, D Conficconi, M Ilaria, MD Santambrogio - 2023 IEEE International , 2023" 
+--- 
+The continuous growth of data pushes novel and efficient approaches for information retrieval. In this context, Regular Expression (RE) matching is widely employed and represents a relevant computational kernel that carries controland memory-related issues. Among the several solutions to relieve these burdens, accelerators seem a promising alternative to general-purpose systems. However, state-of-the-art benchmarking presents a highly fragmented scenario without consensus on the  Cites: HARE: Hardware accelerator for regular expressions

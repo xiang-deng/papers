@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Conversation Regression Testing: A Design Technique for Prototyping Generalizable Prompt Strategies for Pre-trained Language Models"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "JD Zamfirescu-Pereira, B Hartmann, Q Yang - arXiv preprint arXiv:2302.03154, 2023"
----
-Pre-trained language models (LLMs) such as GPT-3 can carry fluent, multi-turn conversations out-of-the-box, making them attractive materials for chatbot design. Further, designers can improve LLM chatbot utterances by prepending textual prompts--instructions and examples of desired interactions--to its inputs. However, prompt-based improvements can be brittle; designers face challenges systematically understanding how a prompt strategy might impact the unfolding of subsequent …
-Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-Task Deep Recommender Systems: A Survey"
-date:   2023-02-11 02:41:58 -0400
-categories: jekyll update
-author: "Y Wang, HT Lam, Y Wong, Z Liu, X Zhao, Y Wang… - arXiv preprint arXiv …, 2023"
----
-Multi-task learning (MTL) aims at learning related tasks in a unified model to achieve mutual improvement among tasks considering their shared knowledge. It is an important topic in recommendation due to the demand for multi-task prediction considering performance and efficiency. Although MTL has been well studied and developed, there is still a lack of systematic review in the recommendation community. To fill the gap, we provide a comprehensive review of existing multi-task …
-Cites: ‪Multiobjective pareto-efficient approaches for recommender systems‬
+--- 
+layout: post 
+title: "Multi-Task Deep Recommender Systems: A Survey" 
+date: 2023-02-11 02:41:58 -0400 
+categories: jekyll update 
+author: "Y Wang, HT Lam, Y Wong, Z Liu, X Zhao, Y Wang - arXiv preprint arXiv , 2023" 
+--- 
+Multi-task learning (MTL) aims at learning related tasks in a unified model to achieve mutual improvement among tasks considering their shared knowledge. It is an important topic in recommendation due to the demand for multi-task prediction considering performance and efficiency. Although MTL has been well studied and developed, there is still a lack of systematic review in the recommendation community. To fill the gap, we provide a comprehensive review of existing multi-task  Cites: Multiobjective pareto-efficient approaches for recommender systems
