@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bag of Tricks for Training Data Extraction from Language Models"
+date:   2023-02-14 04:15:07 -0400
+categories: jekyll update
+author: "W Yu, T Pang, Q Liu, C Du, B Kang, Y Huang, M Lin… - arXiv preprint arXiv …, 2023"
+---
+With the advance of language models, privacy protection is receiving more attention. Training data extraction is therefore of great importance, as it can serve as a potential tool to assess privacy leakage. However, due to the difficulty of this task, most of the existing methods are proof-of-concept and still not effective enough. In this paper, we investigate and benchmark tricks for improving training data extraction using a publicly available dataset. Because most existing extraction methods use a pipeline …
+Cites: ‪Neural text generation with unlikelihood training‬

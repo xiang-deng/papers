@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Attention via Control Variates"
+date:   2023-02-14 04:15:07 -0400
+categories: jekyll update
+author: "L Zheng, J Yuan, C Wang, L Kong - arXiv preprint arXiv:2302.04542, 2023"
+---
+Random-feature-based attention (RFA) is an efficient approximation of softmax attention with linear runtime and space complexity. However, the approximation gap between RFA and conventional softmax attention is not well studied. Built upon previous progress of RFA, we characterize this gap through the lens of control variates and show that RFA can be decomposed into a sum of multiple control variate estimators for each element in the sequence. This new framework reveals …
+Cites: ‪ABC: Attention with Bounded-memory Control‬

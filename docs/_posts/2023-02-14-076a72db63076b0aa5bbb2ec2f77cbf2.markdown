@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Multi-view entity type overdependency reduction for event argument extraction"
+date:   2023-02-14 04:15:07 -0400
+categories: jekyll update
+author: "J Xu, D Song, SC Hui, F Li, H Wang - Knowledge-Based Systems, 2023"
+---
+Abstract Event Argument Extraction (EAE) is a key component of event extraction, which has become a bottleneck that limits the overall performance of event extraction. As an entity-based extraction task, most EAE models focus on modeling complex interactions between entity mentions and event triggers. However, the strong correlation between entity types and argument role types has been overlooked in most EAE models, which disregard the possible negative effects of the …
+Cites: ‪Entity, relation, and event extraction with contextualized span …‬

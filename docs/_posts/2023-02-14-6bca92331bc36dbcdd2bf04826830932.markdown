@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Probabilistic coherence, logical consistency, and Bayesian learning: Neural language models as epistemic agents"
+date:   2023-02-14 04:15:07 -0400
+categories: jekyll update
+author: "G Betz, K Richardson - Plos one, 2023"
+---
+It is argued that suitably trained neural language models exhibit key properties of epistemic agency: they hold probabilistically coherent and logically consistent degrees of belief, which they can rationally revise in the face of novel evidence. To this purpose, we conduct computational experiments with rankers: T5 models [Raffel et al. 2020] that are pretrained on carefully designed synthetic corpora. Moreover, we introduce a procedure for eliciting a model s degrees of belief, and define numerical …
+Cites: ‪Naturalproofs: Mathematical theorem proving in natural language‬

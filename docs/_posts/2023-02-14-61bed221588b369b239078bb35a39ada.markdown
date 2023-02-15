@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Survey of Source Code Bug Detection Based on Deep Learning"
+date:   2023-02-14 04:15:07 -0400
+categories: jekyll update
+author: "邓枭， 叶蔚， 谢睿， 张世琨 - Journal of Software, 2023"
+---
+源代码缺陷检测是判别程序代码中是否存在非预期行为的过程, 广泛应用于软件测试, 软件维护等软件工程任务, 对软件的功能保障与应用安全方面具有至关重要的作用. 传统的缺陷检测研究以程序分析为基础, 通常需要很强的领域知识与复杂的计算规则, 面临状态爆炸问题, 导致检测性能有限, 在误报漏报率上都有较大提高空间. 近年来, 开源社区的蓬勃发展积累了以开源代码为核心的海量数据, 在此背景下, 利用深度学习的特征学习能力能够自动学习语义丰富的代码表示, 从而为缺陷检测提供 …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

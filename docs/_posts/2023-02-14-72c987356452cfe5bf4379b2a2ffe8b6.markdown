@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Edge of Orthogonality: A Simple View of What Makes BYOL Tick"
+date:   2023-02-14 04:15:07 -0400
+categories: jekyll update
+author: "PH Richemond, A Tam, Y Tang, F Strub, B Piot, F Hill - arXiv preprint arXiv …, 2023"
+---
+Self-predictive unsupervised learning methods such as BYOL or SimSiam have shown impressive results, and counter-intuitively, do not collapse to trivial representations. In this work, we aim at exploring the simplest possible mathematical arguments towards explaining the underlying mechanisms behind self-predictive unsupervised learning. We start with the observation that those methods crucially rely on the presence of a predictor network (and stop-gradient). With simple linear …
+Cites: ‪Scaling up visual and vision-language representation learning with …‬
