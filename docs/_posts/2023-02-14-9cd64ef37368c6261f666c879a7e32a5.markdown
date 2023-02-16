@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Identification and Correction of Grammatical Errors in Ukrainian Texts Based on Machine Learning Technology"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "V Lytvyn, P Pukach, V Vysotska, M Vovk, N Kholodna - Mathematics, 2023"
----
-A machine learning model for correcting errors in Ukrainian texts has been developed. It was established that the neural network has the ability to correct simple sentences written in Ukrainian; however, the development of a full-fledged system requires the use of spell-checking using dictionaries and the checking of rules, both simple and those based on the result of parsing dependencies or other features. In order to save computing resources, a pre-trained BERT (Bidirectional Encoder …
-Cites: ‪Grammar error correction in morphologically rich languages: The …‬
+--- 
+layout: post 
+title: "Identification and Correction of Grammatical Errors in Ukrainian Texts Based on Machine Learning Technology" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "V Lytvyn, P Pukach, V Vysotska, M Vovk, N Kholodna - Mathematics, 2023" 
+--- 
+A machine learning model for correcting errors in Ukrainian texts has been developed. It was established that the neural network has the ability to correct simple sentences written in Ukrainian; however, the development of a full-fledged system requires the use of spell-checking using dictionaries and the checking of rules, both simple and those based on the result of parsing dependencies or other features. In order to save computing resources, a pre-trained BERT (Bidirectional Encoder  Cites: Grammar error correction in morphologically rich languages: The

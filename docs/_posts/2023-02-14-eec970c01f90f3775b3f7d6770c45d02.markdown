@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Second-order Document Similarity Metrics for Transformers"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "J Lagus, N Loppi, A Klami - Proceedings of the 5th International Conference on …, 2022"
----
-The similarity of documents represented using static word embeddings is best measured using second-order metrics accounting for the covariance of the embeddings. Transformers provide superior representations for words compared to static embeddings, but document representation and similarity evaluation are currently often done using simple mean pooling. We explain how the second-order metrics can be used also with transformers, and evaluate the value of improved …
-Cites: ‪Well-read students learn better: On the importance of pre-training …‬
+--- 
+layout: post 
+title: "Second-order Document Similarity Metrics for Transformers" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "J Lagus, N Loppi, A Klami - Proceedings of the 5th International Conference on , 2022" 
+--- 
+The similarity of documents represented using static word embeddings is best measured using second-order metrics accounting for the covariance of the embeddings. Transformers provide superior representations for words compared to static embeddings, but document representation and similarity evaluation are currently often done using simple mean pooling. We explain how the second-order metrics can be used also with transformers, and evaluate the value of improved  Cites: Well-read students learn better: On the importance of pre-training

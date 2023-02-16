@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Embedding Knowledge Graph with Negative Sampling and Joint Relational Contexts"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "L Zhijie, W Rui, L Changhua, Z Jie - Data Analysis and Knowledge Discovery, 2023"
----
-[Objective] This paper proposes a knowledge graph model based on negative sampling and joint relational contexts, aiming to improve the quality of current translation-based knowledge graph embedding models.[Methods] Firstly, we extracted the neighbors of the target instances from the original knowledge graph to generate the context vector. Then, we decided the properties of adjacent relations, which also provided information on the nature or type of a given entity. Third, we …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Embedding Knowledge Graph with Negative Sampling and Joint Relational Contexts" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "L Zhijie, W Rui, L Changhua, Z Jie - Data Analysis and Knowledge Discovery, 2023" 
+--- 
+[Objective] This paper proposes a knowledge graph model based on negative sampling and joint relational contexts, aiming to improve the quality of current translation-based knowledge graph embedding models.[Methods] Firstly, we extracted the neighbors of the target instances from the original knowledge graph to generate the context vector. Then, we decided the properties of adjacent relations, which also provided information on the nature or type of a given entity. Third, we  Cites: Observed versus latent features for knowledge base and text

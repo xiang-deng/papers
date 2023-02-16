@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Látens szemantikus eloszlások használata a nyelvi modellek előtanítása során"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "B Gábor"
----
-Kivonat Cikkünk egy olyan variánsát mutatja be a nyelvi modellek előtanításának, amely során a maszkolás tárgyául nem a véletlenszerűen kiválasztott tokenek rekonstruálását, hanem azok szemantikus kategóriájának megállapítását tűzzük ki célul. A javasolt módon létrehozott modelljeink finomhangolását változatos benchmarkokon elvégezve azt találjuk, hogy azok szignifikánsan jobb eredmény elérésére képesek hagyományos társaikhoz képest.
-Cites: ‪Fine-Tuning Pretrained Language Models: Weight Initializations‬

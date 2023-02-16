@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automatic detection of Feature Envy and Data Class code smells using machine learning"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "M Škipina, J Slivka, N Luburić, A Kovačević - 2022"
----
-A code smell is a surface indication that usually corresponds to a deeper problem in the system. Detecting and removing code smells is crucial for sustainable software development. However, manual detection can be daunting and time-consuming. Machine learning (ML) is a promising approach towards the automation of code smell detection. The first ML-based methods were classifiers trained on feature vectors comprising software metrics extracted by off-the-shelf tools. Determining the …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Automatic detection of Feature Envy and Data Class code smells using machine learning" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "M kipina, J Slivka, N Luburi, A Kovaevi - 2022" 
+--- 
+A code smell is a surface indication that usually corresponds to a deeper problem in the system. Detecting and removing code smells is crucial for sustainable software development. However, manual detection can be daunting and time-consuming. Machine learning (ML) is a promising approach towards the automation of code smell detection. The first ML-based methods were classifiers trained on feature vectors comprising software metrics extracted by off-the-shelf tools. Determining the  Cites: Codexglue: A machine learning benchmark dataset for code

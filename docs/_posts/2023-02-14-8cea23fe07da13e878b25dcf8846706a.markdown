@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explanation Selection Using Unlabeled Data for In-Context Learning"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "X Ye, G Durrett - arXiv preprint arXiv:2302.04813, 2023"
----
-Recent work has addressed textual reasoning tasks by prompting large language models with explanations via the chain-of-thought paradigm. However, subtly different explanations can yield widely varying downstream task accuracy, so explanations that have not been  tuned  for a task, such as off-the-shelf explanations written by nonexperts, may lead to mediocre performance. This paper tackles the problem of how to optimize explanation-infused prompts in a black-box fashion. We …
-Cites: ‪Demystifying prompts in language models via perplexity estimation‬
+--- 
+layout: post 
+title: "Explanation Selection Using Unlabeled Data for In-Context Learning" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "X Ye, G Durrett - arXiv preprint arXiv:2302.04813, 2023" 
+--- 
+Recent work has addressed textual reasoning tasks by prompting large language models with explanations via the chain-of-thought paradigm. However, subtly different explanations can yield widely varying downstream task accuracy, so explanations that have not been tuned for a task, such as off-the-shelf explanations written by nonexperts, may lead to mediocre performance. This paper tackles the problem of how to optimize explanation-infused prompts in a black-box fashion. We  Cites: Demystifying prompts in language models via perplexity estimation

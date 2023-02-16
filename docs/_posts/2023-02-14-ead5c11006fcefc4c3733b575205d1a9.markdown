@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Using terms and informal definitions to classify domain entities into top-level ontology concepts: An approach based on language models"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "A Lopes, J Carbonera, D Schmidt, L Garcia… - Knowledge-Based Systems, 2023"
----
-The classification of domain entities into top-level ontology concepts remains an activity performed manually by an ontology engineer. Although some works focus on automating this task by applying machine-learning approaches using textual sentences as input, they require the existence of the domain entities in external knowledge resources, such as pre-trained embedding models. In this context, this work proposes an approach that combines the term representing the domain entity …
-Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬
+--- 
+layout: post 
+title: "Using terms and informal definitions to classify domain entities into top-level ontology concepts: An approach based on language models" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "A Lopes, J Carbonera, D Schmidt, L Garcia - Knowledge-Based Systems, 2023" 
+--- 
+The classification of domain entities into top-level ontology concepts remains an activity performed manually by an ontology engineer. Although some works focus on automating this task by applying machine-learning approaches using textual sentences as input, they require the existence of the domain entities in external knowledge resources, such as pre-trained embedding models. In this context, this work proposes an approach that combines the term representing the domain entity  Cites: Electra: Pre-training text encoders as discriminators rather than

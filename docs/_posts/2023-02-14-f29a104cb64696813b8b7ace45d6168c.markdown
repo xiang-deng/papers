@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Framework to Evaluate the Quality of Integrated Datasets"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "FD Buono, G Faggioli, M Paganelli, A Baraldi, F Guerra… - ACM SIGAPP Applied …, 2023"
----
-Evaluation is a bottleneck in data integration processes: it is performed by domain experts through manual onerous data inspections. This task is particularly heavy in real business scenarios, where the large amount of data makes checking all integrated tuples infeasible. Our idea is to address this issue by providing the experts with an unsupervised measure, based on word frequencies, which quantifies how much a dataset is representative of another dataset, giving an indication of how good …
-Cites: ‪Contextual word representations: putting words into computers‬
+--- 
+layout: post 
+title: "A Framework to Evaluate the Quality of Integrated Datasets" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "FD Buono, G Faggioli, M Paganelli, A Baraldi, F Guerra - ACM SIGAPP Applied , 2023" 
+--- 
+Evaluation is a bottleneck in data integration processes: it is performed by domain experts through manual onerous data inspections. This task is particularly heavy in real business scenarios, where the large amount of data makes checking all integrated tuples infeasible. Our idea is to address this issue by providing the experts with an unsupervised measure, based on word frequencies, which quantifies how much a dataset is representative of another dataset, giving an indication of how good  Cites: Contextual word representations: putting words into computers

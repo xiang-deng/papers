@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "B Huang, W Yu, R Xie, J Xiao, J Huang - arXiv preprint arXiv:2302.04545, 2023"
----
-Introducing prior auxiliary information from the knowledge graph (KG) to assist the user-item graph can improve the comprehensive performance of the recommender system. Many recent studies show that the ensemble properties of hyperbolic spaces fit the scale-free and hierarchical characteristics exhibited in the above two types of graphs well. However, existing hyperbolic methods ignore the consideration of equivariance, thus they cannot generalize symmetric features under given …
-Cites: ‪Fully Hyperbolic Neural Networks‬
+--- 
+layout: post 
+title: "Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "B Huang, W Yu, R Xie, J Xiao, J Huang - arXiv preprint arXiv:2302.04545, 2023" 
+--- 
+Introducing prior auxiliary information from the knowledge graph (KG) to assist the user-item graph can improve the comprehensive performance of the recommender system. Many recent studies show that the ensemble properties of hyperbolic spaces fit the scale-free and hierarchical characteristics exhibited in the above two types of graphs well. However, existing hyperbolic methods ignore the consideration of equivariance, thus they cannot generalize symmetric features under given  Cites: Fully Hyperbolic Neural Networks

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dual Graph Convolutional Networks for Document-Level Event Causality Identification"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "Y Liu, X Jiang, W Zhao, W Ge, W Hu - Web and Big Data: 6th International Joint …, 2023"
----
-Event causalities organize events into a graph according to causal logics, which assists humans in decision making by causal reasoning among events. Despite many efforts to identify event causalities, most of them assume that only one causality exists in a sentence or causalities only occur in adjacent sentences, leading to the incapability of detecting multiple causalities or document-level causalities. In this paper, we propose a novel model for document-level event causality identification …
-Cites: ‪Graph convolution over pruned dependency trees improves …‬
+--- 
+layout: post 
+title: "Dual Graph Convolutional Networks for Document-Level Event Causality Identification" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "Y Liu, X Jiang, W Zhao, W Ge, W Hu - Web and Big Data: 6th International Joint , 2023" 
+--- 
+Event causalities organize events into a graph according to causal logics, which assists humans in decision making by causal reasoning among events. Despite many efforts to identify event causalities, most of them assume that only one causality exists in a sentence or causalities only occur in adjacent sentences, leading to the incapability of detecting multiple causalities or document-level causalities. In this paper, we propose a novel model for document-level event causality identification  Cites: Graph convolution over pruned dependency trees improves

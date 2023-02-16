@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generating a structured summary of numerous academic papers: Dataset and method"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "S Liu, J Cao, R Yang, Z Wen - arXiv preprint arXiv:2302.04580, 2023"
----
-Writing a survey paper on one research topic usually needs to cover the salient content from numerous related papers, which can be modeled as a multi-document summarization (MDS) task. Existing MDS datasets usually focus on producing the structureless summary covering a few input documents. Meanwhile, previous structured summary generation works focus on summarizing a single document into a multi-section summary. These existing datasets and methods cannot meet the …
-Cites: ‪Bart: Denoising sequence-to-sequence pre-training for natural …‬
+--- 
+layout: post 
+title: "Generating a structured summary of numerous academic papers: Dataset and method" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "S Liu, J Cao, R Yang, Z Wen - arXiv preprint arXiv:2302.04580, 2023" 
+--- 
+Writing a survey paper on one research topic usually needs to cover the salient content from numerous related papers, which can be modeled as a multi-document summarization (MDS) task. Existing MDS datasets usually focus on producing the structureless summary covering a few input documents. Meanwhile, previous structured summary generation works focus on summarizing a single document into a multi-section summary. These existing datasets and methods cannot meet the  Cites: Bart: Denoising sequence-to-sequence pre-training for natural

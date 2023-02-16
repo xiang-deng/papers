@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "Z Guo, M Yan, J Qi, J Zhou, Z He, Z Lin, G Zheng… - arXiv preprint arXiv …, 2023"
----
-Pre-trained language models (PLM) have achieved remarkable advancement in table-to-text generation tasks. However, the lack of labeled domain-specific knowledge and the topology gap between tabular data and text make it difficult for PLMs to yield faithful text. Low-resource generation likewise faces unique challenges in this domain. Inspired by how humans descript tabular data with prior knowledge, we suggest a new framework: PromptMize, which targets table-to-text generation …
-Cites: ‪Open question answering over tables and text‬
+--- 
+layout: post 
+title: "Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "Z Guo, M Yan, J Qi, J Zhou, Z He, Z Lin, G Zheng - arXiv preprint arXiv , 2023" 
+--- 
+Pre-trained language models (PLM) have achieved remarkable advancement in table-to-text generation tasks. However, the lack of labeled domain-specific knowledge and the topology gap between tabular data and text make it difficult for PLMs to yield faithful text. Low-resource generation likewise faces unique challenges in this domain. Inspired by how humans descript tabular data with prior knowledge, we suggest a new framework: PromptMize, which targets table-to-text generation  Cites: Open question answering over tables and text

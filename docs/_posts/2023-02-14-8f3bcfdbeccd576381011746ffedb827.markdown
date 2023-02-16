@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A data-centric way to improve entity linking in knowledge-based question answering"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "S Liu, G Zhou, Y Xia, H Wu, Z Li - PeerJ Computer Science, 2023"
----
-Entity linking in knowledge-based question answering (KBQA) is intended to construct a mapping relation between a mention in a natural language question and an entity in the knowledge base. Most research in entity linking focuses on long text, but entity linking in open domain KBQA is more concerned with short text. Many recent models have tried to extract the features of raw data by adjusting the neural network structure. However, the models only perform well with several datasets. We …
-Cites: ‪Zero-shot entity linking by reading entity descriptions‬
+--- 
+layout: post 
+title: "A data-centric way to improve entity linking in knowledge-based question answering" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "S Liu, G Zhou, Y Xia, H Wu, Z Li - PeerJ Computer Science, 2023" 
+--- 
+Entity linking in knowledge-based question answering (KBQA) is intended to construct a mapping relation between a mention in a natural language question and an entity in the knowledge base. Most research in entity linking focuses on long text, but entity linking in open domain KBQA is more concerned with short text. Many recent models have tried to extract the features of raw data by adjusting the neural network structure. However, the models only perform well with several datasets. We  Cites: Zero-shot entity linking by reading entity descriptions

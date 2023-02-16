@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Mapping Between Hidden States and Features to Validate Automated Essay Scoring Using DeBERTa Models"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "CM Ormerod"
----
-We introduce a regression-based framework to explore the dependence that global features have on score predictions from pretrained transformer-based language models used for Automated Essay Scoring (AES). We demonstrate that neural networks use approximations of rubric-relevant global features to determine a score prediction. By considering linear models on the hidden states, we can approximate global features and measure their importance to score predictions. This study uses …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Augmenting NLP data to counter Annotation Artifacts for NLI Tasks"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "AS Bhullar - arXiv preprint arXiv:2302.04700, 2023"
----
-In this paper, we explore Annotation Artifacts-the phenomena wherein large pre-trained NLP models achieve high performance on benchmark datasets but do not actually  solve  the underlying task and instead rely on some dataset artifacts (same across train, validation, and test sets) to figure out the right answer. We explore this phenomenon on the well-known Natural Language Inference task by first using contrast and adversarial examples to understand limitations to the model s …
-Cites: ‪Towards Robustifying NLI Models Against Lexical Dataset Biases‬

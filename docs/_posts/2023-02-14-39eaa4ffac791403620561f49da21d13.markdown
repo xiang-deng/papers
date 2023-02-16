@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "Y Li, S Wang, C Lin, F Guerin, L Barrault - arXiv preprint arXiv:2302.04834, 2023"
----
-In this paper, we propose FrameBERT, a RoBERTa-based model that can explicitly learn and incorporate FrameNet Embeddings for concept-level metaphor detection. FrameBERT not only achieves better or comparable performance to the state-of-the-art, but also is more explainable and interpretable compared to existing models, attributing to its ability of accounting for external knowledge of FrameNet.
-Cites: ‪Using semantic roles to improve question answering‬
+--- 
+layout: post 
+title: "FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "Y Li, S Wang, C Lin, F Guerin, L Barrault - arXiv preprint arXiv:2302.04834, 2023" 
+--- 
+In this paper, we propose FrameBERT, a RoBERTa-based model that can explicitly learn and incorporate FrameNet Embeddings for concept-level metaphor detection. FrameBERT not only achieves better or comparable performance to the state-of-the-art, but also is more explainable and interpretable compared to existing models, attributing to its ability of accounting for external knowledge of FrameNet.  Cites: Using semantic roles to improve question answering

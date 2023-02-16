@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data-driven dependency parsing of Vedic Sanskrit"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "O Hellwig, S Nehrdich, S Sellmer - Language Resources and Evaluation, 2023"
----
-This paper describes the first data-driven parser for Vedic Sanskrit, an ancient Indo-Aryan language in which a corpus of important religious and philosophical texts has been composed. We report and critically discuss experiments with the input feature representations, paying special attention to the performance of contextualized word embeddings and to the influence of morpho-syntactic representations on the parsing quality. In addition, we provide an in-depth discussion of the parsing errors that …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Data-driven dependency parsing of Vedic Sanskrit" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "O Hellwig, S Nehrdich, S Sellmer - Language Resources and Evaluation, 2023" 
+--- 
+This paper describes the first data-driven parser for Vedic Sanskrit, an ancient Indo-Aryan language in which a corpus of important religious and philosophical texts has been composed. We report and critically discuss experiments with the input feature representations, paying special attention to the performance of contextualized word embeddings and to the influence of morpho-syntactic representations on the parsing quality. In addition, we provide an in-depth discussion of the parsing errors that  Cites: Deep contextualized word representations

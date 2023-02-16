@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reasoning Path Generation for Answering Multi-hop Questions Over Knowledge Graph"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "Y Xiang, J Wu, T Wang, M Wang, T Dai, G Wang, S Xu… - Web and Big Data: 6th …, 2023"
----
-Abstract Multi-hop Knowledge Graph Question Answering (KGQA) aims to find the answer entity via a reasoning path consisting of multiple fact triples in the knowledge graph (KG). Most of end-to-end KGQA approaches only pay attention to answering one-hop simple questions and lack scalability and interpretability. Meanwhile, since the high cost for data annotations, the lack of intermediate supervision signals becomes a major challenge. To address these challenges, we propose a policy …
-Cites: ‪Semantic Parsing via Staged Query Graph Generation: Question …‬
+--- 
+layout: post 
+title: "Reasoning Path Generation for Answering Multi-hop Questions Over Knowledge Graph" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "Y Xiang, J Wu, T Wang, M Wang, T Dai, G Wang, S Xu - Web and Big Data: 6th , 2023" 
+--- 
+Abstract Multi-hop Knowledge Graph Question Answering (KGQA) aims to find the answer entity via a reasoning path consisting of multiple fact triples in the knowledge graph (KG). Most of end-to-end KGQA approaches only pay attention to answering one-hop simple questions and lack scalability and interpretability. Meanwhile, since the high cost for data annotations, the lack of intermediate supervision signals becomes a major challenge. To address these challenges, we propose a policy  Cites: Semantic Parsing via Staged Query Graph Generation: Question

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Global Constraints with Prompting for Zero-Shot Event Argument Classification"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "Z Lin, H Zhang, Y Song - arXiv preprint arXiv:2302.04459, 2023"
----
-Determining the role of event arguments is a crucial subtask of event extraction. Most previous supervised models leverage costly annotations, which is not practical for open-domain applications. In this work, we propose to use global constraints with prompting to effectively tackles event argument classification without any annotation and task-specific training. Specifically, given an event and its associated passage, the model first creates several new passages by prefix prompts and cloze prompts …
-Cites: ‪Zero-shot event extraction via transfer learning: Challenges and …‬
+--- 
+layout: post 
+title: "Global Constraints with Prompting for Zero-Shot Event Argument Classification" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "Z Lin, H Zhang, Y Song - arXiv preprint arXiv:2302.04459, 2023" 
+--- 
+Determining the role of event arguments is a crucial subtask of event extraction. Most previous supervised models leverage costly annotations, which is not practical for open-domain applications. In this work, we propose to use global constraints with prompting to effectively tackles event argument classification without any annotation and task-specific training. Specifically, given an event and its associated passage, the model first creates several new passages by prefix prompts and cloze prompts  Cites: Zero-shot event extraction via transfer learning: Challenges and

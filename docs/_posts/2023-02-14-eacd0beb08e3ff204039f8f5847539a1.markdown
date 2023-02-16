@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Type Hierarchy Enhanced Event Detection without Triggers"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "Y Yan, Z Liu, F Gao, J Gu - Applied Sciences, 2023"
----
-Event detection (ED) aims to detect events from a given text and categorize them into event types. Most of the current approaches to ED rely heavily on the human annotations of triggers, which are often costly and affect the application of ED in other fields. However, triggers are not necessary for the event detection task. We propose a novel framework called Type Hierarchy Enhanced Event Detection Without Triggers (THEED) to avoid this problem. More specifically, We construct a type …
-Cites: ‪A language-independent neural network for event detection‬
+--- 
+layout: post 
+title: "Type Hierarchy Enhanced Event Detection without Triggers" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "Y Yan, Z Liu, F Gao, J Gu - Applied Sciences, 2023" 
+--- 
+Event detection (ED) aims to detect events from a given text and categorize them into event types. Most of the current approaches to ED rely heavily on the human annotations of triggers, which are often costly and affect the application of ED in other fields. However, triggers are not necessary for the event detection task. We propose a novel framework called Type Hierarchy Enhanced Event Detection Without Triggers (THEED) to avoid this problem. More specifically, We construct a type  Cites: A language-independent neural network for event detection

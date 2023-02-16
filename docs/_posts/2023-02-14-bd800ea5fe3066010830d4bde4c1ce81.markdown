@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Extracting Entities from Intangible Cultural Heritage Texts Based on Machine Reading Comprehension"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "F Tao, W Hao, Z Wei, L Xiaomin - Data Analysis and Knowledge Discovery, 2023"
----
-[Objective] This paper proposes a Question-Answering (QA) model based on machine reading comprehension (MRC) to extract entities from Intangible Cultural Heritage (ICH) texts.[Methods] First, we constructed an ICH entity sensitive attention mechanism, which captured the interaction between contexts and questions. The mechanism also helps our model focus on questions and related ICH entities. Then, we built the ICHQA model for entity extraction.[Results] We examined the ICHQA …
-Cites: ‪Coqa: A conversational question answering challenge‬
+--- 
+layout: post 
+title: "Extracting Entities from Intangible Cultural Heritage Texts Based on Machine Reading Comprehension" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "F Tao, W Hao, Z Wei, L Xiaomin - Data Analysis and Knowledge Discovery, 2023" 
+--- 
+[Objective] This paper proposes a Question-Answering (QA) model based on machine reading comprehension (MRC) to extract entities from Intangible Cultural Heritage (ICH) texts.[Methods] First, we constructed an ICH entity sensitive attention mechanism, which captured the interaction between contexts and questions. The mechanism also helps our model focus on questions and related ICH entities. Then, we built the ICHQA model for entity extraction.[Results] We examined the ICHQA  Cites: Coqa: A conversational question answering challenge

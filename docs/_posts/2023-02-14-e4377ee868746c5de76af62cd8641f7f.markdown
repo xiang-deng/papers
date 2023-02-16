@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fuzzing Automatic Differentiation in Deep-Learning Libraries"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "C Yang, Y Deng, J Yao, Y Tu, H Li, L Zhang - arXiv preprint arXiv:2302.04351, 2023"
----
-Deep learning (DL) has attracted wide attention and has been widely deployed in recent years. As a result, more and more research efforts have been dedicated to testing DL libraries and frameworks. However, existing work largely overlooked one crucial component of any DL system, automatic differentiation (AD), which is the basis for the recent development of DL. To this end, we propose $\nabla $ Fuzz, the first general and practical approach specifically targeting the critical AD component …
-Cites: ‪Opt: Open pre-trained transformer language models‬
+--- 
+layout: post 
+title: "Fuzzing Automatic Differentiation in Deep-Learning Libraries" 
+date: 2023-02-14 04:15:07 -0400 
+categories: jekyll update 
+author: "C Yang, Y Deng, J Yao, Y Tu, H Li, L Zhang - arXiv preprint arXiv:2302.04351, 2023" 
+--- 
+Deep learning (DL) has attracted wide attention and has been widely deployed in recent years. As a result, more and more research efforts have been dedicated to testing DL libraries and frameworks. However, existing work largely overlooked one crucial component of any DL system, automatic differentiation (AD), which is the basis for the recent development of DL. To this end, we propose $\nabla $ Fuzz, the first general and practical approach specifically targeting the critical AD component  Cites: Opt: Open pre-trained transformer language models

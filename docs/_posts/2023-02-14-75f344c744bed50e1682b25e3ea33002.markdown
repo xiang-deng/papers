@@ -1,9 +1,0 @@
----
-layout: post
-title:  "반도체 분야의 논문을 위한 비지도 방식의 추출형 요약"
-date:   2023-02-14 04:15:07 -0400
-categories: jekyll update
-author: "이준영， 현동민， 유환조 - Proceedings of KIIT Conference, 2022"
----
-본 논문에서는 문서 자동 요약 모델들을 개조하여 반도체 분야의 논문들에 적용하는 것을 주목표로 두고있다. 하지만 반도체 분야의 논문 요약에 관한 연구는 비교적 많이 진행되지 않았기 때문에 학습이나 실험에 사용할 데이터가 부족하다는 문제점이 있다. 따라서 본 연구에서는 학습 데이터 없이 작동하는 비지도 방식의 요약 모델들에 대한 조사를 진행하고 반도체 분야의 논문에 적용하였다. 또한 최대한 반도체 분야의 논문에 적합한 모델들이 구현될 수 있도록 IEEE 에 게재된 반도체 논문들을 사용하여 새로운 …
-Cites: ‪Sentence centrality revisited for unsupervised summarization‬
