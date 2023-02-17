@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can GPT-3 Perform Statutory Reasoning?"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "A Blair-Stanek, N Holzenberger, B Van Durme - arXiv preprint arXiv:2302.06100, 2023"
+---
+Statutory reasoning is the task of reasoning with facts and statutes, which are rules written in natural language by a legislature. It is a basic legal skill. In this paper we explore the capabilities of the most capable GPT-3 model, text-davinci-003, on an established statutory-reasoning dataset called SARA. We consider a variety of approaches, including dynamic few-shot prompting, chain-of-thought prompting, and zero-shot prompting. While we achieve results with GPT-3 that are better than the …
+Cites: ‪Least-to-most prompting enables complex reasoning in large …‬

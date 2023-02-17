@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Project and Probe: Sample-Efficient Domain Adaptation by Interpolating Orthogonal Features"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "AS Chen, Y Lee, A Setlur, S Levine, C Finn - arXiv preprint arXiv:2302.05441, 2023"
+---
+Conventional approaches to robustness try to learn a model based on causal features. However, identifying maximally robust or causal features may be difficult in some scenarios, and in others, non-causal  shortcut  features may actually be more predictive. We propose a lightweight, sample-efficient approach that learns a diverse set of features and adapts to a target distribution by interpolating these features with a small target dataset. Our approach, Project and Probe (Pro $^ 2$), first learns a …
+Cites: ‪Surgical fine-tuning improves adaptation to distribution shifts‬

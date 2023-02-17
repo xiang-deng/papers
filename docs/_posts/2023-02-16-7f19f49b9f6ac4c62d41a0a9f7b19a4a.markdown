@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Study on ReLU and Softmax in Transformer"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "K Shen, J Guo, X Tan, S Tang, R Wang, J Bian - arXiv preprint arXiv:2302.06461, 2023"
+---
+The Transformer architecture consists of self-attention and feed-forward networks (FFNs) which can be viewed as key-value memories according to previous works. However, FFN and traditional memory utilize different activation functions (ie, ReLU and Softmax respectively), which makes them not equivalent. In this paper, we first rebuild the connections between FFN and key-value memory by conducting extensive studies on ReLU and Softmax, and find they are equivalent when adding …
+Cites: ‪Transformer feed-forward layers are key-value memories‬

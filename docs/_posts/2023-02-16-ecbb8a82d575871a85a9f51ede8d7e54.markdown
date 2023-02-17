@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning from Noisy Crowd Labels with Logics"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "Z Chen, H Sun, H He, P Chen - arXiv preprint arXiv:2302.06337, 2023"
+---
+This paper explores the integration of symbolic logic knowledge into deep neural networks for learning from noisy crowd labels. We introduce Logic-guided Learning from Noisy Crowd Labels (Logic-LNCL), an EM-alike iterative logic knowledge distillation framework that learns from both noisy labeled data and logic rules of interest. Unlike traditional EM methods, our framework contains a``pseudo-E-step  that distills from the logic rules a new type of learning target, which is then used …
+Cites: ‪StructVAE: Tree-structured Latent Variable Models for Semi …‬

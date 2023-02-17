@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Interpretability-Mask: a label-preserving data augmentation scheme for better classification"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "H Zhao, J Wang, Z Chen, S Lin, P Bao, M Xu - Signal, Image and Video Processing, 2023"
+---
+Data augmentation effectively alleviates the over-fitting problem in convolutional neural network-based (CNN-based) models, especially in the limited dataset. However, the inconsistency problem between the augmented sample and its original label is still a critical challenge during the augmentation operation. In this paper, we propose a novel data augmentation scheme named Interpretability-Mask (IM), which exploits the interpretability of the classifier to obtain the most discriminative regions …
+Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬

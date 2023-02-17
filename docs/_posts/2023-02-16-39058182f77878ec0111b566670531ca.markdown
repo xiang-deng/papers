@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "USER: Unsupervised Structural Entropy-based Robust Graph Neural Network"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "Y Wang, Y Wang, Z Zhang, S Yang, K Zhao, J Liu - arXiv preprint arXiv:2302.05889, 2023"
+---
+Unsupervised/self-supervised graph neural networks (GNN) are vulnerable to inherent randomness in the input graph data which greatly affects the performance of the model in downstream tasks. In this paper, we alleviate the interference of graph randomness and learn appropriate representations of nodes without label information. To this end, we propose USER, an unsupervised robust version of graph neural networks that is based on structural entropy. We analyze the property of …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬

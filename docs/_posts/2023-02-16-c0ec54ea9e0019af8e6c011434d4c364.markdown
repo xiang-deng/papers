@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "In-Context Learning with Many Demonstration Examples"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "M Li, S Gong, J Feng, Y Xu, J Zhang, Z Wu, L Kong - arXiv preprint arXiv:2302.04931, 2023"
+---
+Large pre-training language models (PLMs) have shown promising in-context learning abilities. However, due to the backbone transformer architecture, existing PLMs are bottlenecked by the memory and computational cost when scaling up to a large context size, leaving instruction tuning and in-context learning of many demonstration examples, as well as long-range language modeling under-explored. In this study, we propose a long-range language model EVALM based on an efficient …
+Cites: ‪Diagonal State Spaces are as Effective as Structured State Spaces‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Plan-then-Seam: Towards Efficient Table-to-Text Generation"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "L Li, R Geng, C Fang, B Li, C Ma, B Li, Y Li - arXiv preprint arXiv:2302.05138, 2023"
+---
+Table-to-text generation aims at automatically generating text to help people conveniently obtain salient information in tables. Recent works explicitly decompose the generation process into content planning and surface generation stages, employing two autoregressive networks for them respectively. However, they are computationally expensive due to the non-parallelizable nature of autoregressive decoding and the redundant parameters of two networks. In this paper, we propose …
+Cites: ‪Deterministic Non-Autoregressive Neural Sequence Modeling by …‬

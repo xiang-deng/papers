@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "Y Li, T Qian - arXiv preprint arXiv:2302.06397, 2023"
+---
+Despite the recent success achieved by several two-stage prototypical networks in few-shot named entity recognition (NER) task, the over-detected false spans at span detection stage and the inaccurate and unstable prototypes at type classification stage remain to be challenging problems. In this paper, we propose a novel Type-Aware Decomposed framework, namely TadNER, to solve these problems. We first present a type-aware span filtering strategy to filter out false spans by removing …
+Cites: ‪Label semantics for few shot named entity recognition‬

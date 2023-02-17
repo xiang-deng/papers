@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Extended Sequence Tagging Vocabulary for Grammatical Error Correction"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "S Mesham, C Bryant, M Rei, Z Yuan - arXiv preprint arXiv:2302.05913, 2023"
+---
+We extend a current sequence-tagging approach to Grammatical Error Correction (GEC) by introducing specialised tags for spelling correction and morphological inflection using the SymSpell and LemmInflect algorithms. Our approach improves generalisation: the proposed new tagset allows a smaller number of tags to correct a larger range of errors. Our results show a performance improvement both overall and in the targeted error categories. We further show that ensembles trained with our new …
+Cites: ‪Universal dependencies v2: An evergrowing multilingual treebank …‬

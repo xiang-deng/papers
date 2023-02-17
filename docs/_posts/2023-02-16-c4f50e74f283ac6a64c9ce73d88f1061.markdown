@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hybrid Database Operations: Learned Operations for Seamless Querying of Textual and Tabular Data"
+date:   2023-02-16 06:16:46 -0400
+categories: jekyll update
+author: "M Urban, C Binnig - 2022"
+---
+Many real-world applications in medicine, finance or other domains need to combine tabular and textual data. In this paper, we present a new approach called hybrid database operations which is a new class of learned database operations that allows users to seamlessly execute SQL queries over text and tabular data. As a main contribution to enable hybrid database operations, we show how state-of-the-art pre-trained language models such as BERT can be used to implement hybrid database …
+Cites: ‪TaBERT: Pretraining for Joint Understanding of Textual and …‬
