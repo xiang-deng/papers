@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Novel Topic Clustering Algorithm Based on Graph Neural Network for Question Topic Diversity"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "Y Wu, X Wang, W Zhao, X Lv - Information Sciences, 2023"
----
-In community question answering, many questions have no topic labeling or the topic labeling is very diverse, which has become the biggest obstacle to building the bridge between users and posts. Topic clustering methods could alleviate this issue. However, existing research employed words as topic representation units and could not express topic semantic relevance. In this paper, we propose a novel Topic Clustering framework based on the Graph Neural Network (called TCGNN) to …
-Cites: ‪Why didn t you listen to me? comparing user control of human-in …‬
+--- 
+layout: post 
+title: "A Novel Topic Clustering Algorithm Based on Graph Neural Network for Question Topic Diversity" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "Y Wu, X Wang, W Zhao, X Lv - Information Sciences, 2023" 
+--- 
+In community question answering, many questions have no topic labeling or the topic labeling is very diverse, which has become the biggest obstacle to building the bridge between users and posts. Topic clustering methods could alleviate this issue. However, existing research employed words as topic representation units and could not express topic semantic relevance. In this paper, we propose a novel Topic Clustering framework based on the Graph Neural Network (called TCGNN) to  Cites: Why didn t you listen to me? comparing user control of human-in

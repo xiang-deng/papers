@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Controllability-Aware Unsupervised Skill Discovery"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "S Park, K Lee, Y Lee, P Abbeel - arXiv preprint arXiv:2302.05103, 2023"
----
-One of the key capabilities of intelligent agents is the ability to discover useful skills without external supervision. However, the current unsupervised skill discovery methods are often limited to acquiring simple, easy-to-learn skills due to the lack of incentives to discover more complex, challenging behaviors. We introduce a novel unsupervised skill discovery method, Controllability-aware Skill Discovery (CSD), which actively seeks complex, hard-to-control skills without supervision. The key …
-Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬
+--- 
+layout: post 
+title: "Controllability-Aware Unsupervised Skill Discovery" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "S Park, K Lee, Y Lee, P Abbeel - arXiv preprint arXiv:2302.05103, 2023" 
+--- 
+One of the key capabilities of intelligent agents is the ability to discover useful skills without external supervision. However, the current unsupervised skill discovery methods are often limited to acquiring simple, easy-to-learn skills due to the lack of incentives to discover more complex, challenging behaviors. We introduce a novel unsupervised skill discovery method, Controllability-aware Skill Discovery (CSD), which actively seeks complex, hard-to-control skills without supervision. The key  Cites: Explore, discover and learn: Unsupervised discovery of state

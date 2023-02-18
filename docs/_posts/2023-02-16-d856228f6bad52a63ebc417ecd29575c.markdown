@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "W Liu, M Xiang, N Ding - 2023"
----
-It is an open question what semantic representations transformer-based language models can encode and whether they have access to more abstract aspects of semantic meaning. Here, we propose a diagnostic dataset to investigate how well language models understand the degree semantics of adjectives. In the dataset, referred as the Adjective Scale Probe (ASP), we semi-automatically generate 8 tests of Natural Language Inference (NLI) questions to test 8 key capabilities of adjective …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "Adjective Scale Probe: Can Language Models Encode Formal Semantics Information?" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "W Liu, M Xiang, N Ding - 2023" 
+--- 
+It is an open question what semantic representations transformer-based language models can encode and whether they have access to more abstract aspects of semantic meaning. Here, we propose a diagnostic dataset to investigate how well language models understand the degree semantics of adjectives. In the dataset, referred as the Adjective Scale Probe (ASP), we semi-automatically generate 8 tests of Natural Language Inference (NLI) questions to test 8 key capabilities of adjective  Cites: Universal adversarial triggers for attacking and analyzing NLP

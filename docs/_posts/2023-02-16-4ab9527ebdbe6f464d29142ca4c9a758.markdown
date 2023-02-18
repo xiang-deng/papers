@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Event Temporal Relation Extraction with Bayesian Translational Model"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "X Tan, G Pergola, Y He - arXiv preprint arXiv:2302.04985, 2023"
----
-Existing models to extract temporal relations between events lack a principled method to incorporate external knowledge. In this study, we introduce Bayesian-Trans, a Bayesian learning-based method that models the temporal relation representations as latent variables and infers their values via Bayesian inference and translational functions. Compared to conventional neural approaches, instead of performing point estimation to find the best set parameters, the proposed model …
-Cites: ‪Did Aristotle Use a Laptop? A Question Answering Benchmark with …‬
+--- 
+layout: post 
+title: "Event Temporal Relation Extraction with Bayesian Translational Model" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "X Tan, G Pergola, Y He - arXiv preprint arXiv:2302.04985, 2023" 
+--- 
+Existing models to extract temporal relations between events lack a principled method to incorporate external knowledge. In this study, we introduce Bayesian-Trans, a Bayesian learning-based method that models the temporal relation representations as latent variables and infers their values via Bayesian inference and translational functions. Compared to conventional neural approaches, instead of performing point estimation to find the best set parameters, the proposed model  Cites: Did Aristotle Use a Laptop? A Question Answering Benchmark with

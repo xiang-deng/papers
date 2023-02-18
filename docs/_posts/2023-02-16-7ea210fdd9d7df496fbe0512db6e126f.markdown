@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "X Ho, AKD Nguyen, S Sugawara, A Aizawa - arXiv preprint arXiv:2302.05963, 2023"
----
-To explain the predicted answers and evaluate the reasoning abilities of models, several studies have utilized underlying reasoning (UR) tasks in multi-hop question answering (QA) datasets. However, it remains an open question as to how effective UR tasks are for the QA task when training models on both tasks in an end-to-end manner. In this study, we address this question by analyzing the effectiveness of UR tasks (including both sentence-level and entity-level tasks) in three aspects:(1) QA …
-Cites: ‪Learning to retrieve reasoning paths over wikipedia graph for …‬
+--- 
+layout: post 
+title: "Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "X Ho, AKD Nguyen, S Sugawara, A Aizawa - arXiv preprint arXiv:2302.05963, 2023" 
+--- 
+To explain the predicted answers and evaluate the reasoning abilities of models, several studies have utilized underlying reasoning (UR) tasks in multi-hop question answering (QA) datasets. However, it remains an open question as to how effective UR tasks are for the QA task when training models on both tasks in an end-to-end manner. In this study, we address this question by analyzing the effectiveness of UR tasks (including both sentence-level and entity-level tasks) in three aspects:(1) QA  Cites: Learning to retrieve reasoning paths over wikipedia graph for

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Task-Specific Skill Localization in Fine-tuned Language Models"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "A Panigrahi, N Saunshi, H Zhao, S Arora - arXiv preprint arXiv:2302.06600, 2023"
----
-Pre-trained language models can be fine-tuned to solve diverse NLP tasks, including in few-shot settings. Thus fine-tuning allows the model to quickly pick up task-specific``skills,  but there has been limited study of where these newly-learnt skills reside inside the massive model. This paper introduces the term skill localization for this problem and proposes a solution. Given the downstream task and a model fine-tuned on that task, a simple optimization is used to identify a very small subset of …
-Cites: ‪Surface form competition: Why the highest probability answer isn t …‬
+--- 
+layout: post 
+title: "Task-Specific Skill Localization in Fine-tuned Language Models" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "A Panigrahi, N Saunshi, H Zhao, S Arora - arXiv preprint arXiv:2302.06600, 2023" 
+--- 
+Pre-trained language models can be fine-tuned to solve diverse NLP tasks, including in few-shot settings. Thus fine-tuning allows the model to quickly pick up task-specific``skills, but there has been limited study of where these newly-learnt skills reside inside the massive model. This paper introduces the term skill localization for this problem and proposes a solution. Given the downstream task and a model fine-tuned on that task, a simple optimization is used to identify a very small subset of  Cites: Surface form competition: Why the highest probability answer isn t

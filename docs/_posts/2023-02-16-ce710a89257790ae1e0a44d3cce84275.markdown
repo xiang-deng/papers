@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On Testing and Comparing Fair classifiers under Data Bias"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "M Sharma, A Deshpande, RR Shah - arXiv preprint arXiv:2302.05906, 2023"
----
-In this paper, we consider a theoretical model for injecting data bias, namely, under-representation and label bias (Blum & Stangl, 2019). We theoretically and empirically study its effect on the accuracy and fairness of fair classifiers. Theoretically, we prove that the Bayes optimal group-aware fair classifier on the original data distribution can be recovered by simply minimizing a carefully chosen reweighed loss on the bias-injected distribution. Through extensive experiments on both synthetic and real-world …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "On Testing and Comparing Fair classifiers under Data Bias" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "M Sharma, A Deshpande, RR Shah - arXiv preprint arXiv:2302.05906, 2023" 
+--- 
+In this paper, we consider a theoretical model for injecting data bias, namely, under-representation and label bias (Blum & Stangl, 2019). We theoretically and empirically study its effect on the accuracy and fairness of fair classifiers. Theoretically, we prove that the Bayes optimal group-aware fair classifier on the original data distribution can be recovered by simply minimizing a carefully chosen reweighed loss on the bias-injected distribution. Through extensive experiments on both synthetic and real-world  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

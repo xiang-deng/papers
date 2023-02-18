@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross-silo heterogeneous model federated multitask learning"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "X Cao, Z Li, G Sun, H Yu, M Guizani - Knowledge-Based Systems, 2023"
----
-Federated learning (FL) is a machine learning technique that enables participants to collaboratively train high-quality models without exchanging their private data. Participants utilizing cross-silo FL (CS-FL) settings are independent organizations with different task needs, and they are concerned not only with data privacy but also with independently training their unique models due to intellectual property considerations. Most existing FL methods are incapable of satisfying the above …
-Cites: ‪Lamda: Language models for dialog applications‬
+--- 
+layout: post 
+title: "Cross-silo heterogeneous model federated multitask learning" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "X Cao, Z Li, G Sun, H Yu, M Guizani - Knowledge-Based Systems, 2023" 
+--- 
+Federated learning (FL) is a machine learning technique that enables participants to collaboratively train high-quality models without exchanging their private data. Participants utilizing cross-silo FL (CS-FL) settings are independent organizations with different task needs, and they are concerned not only with data privacy but also with independently training their unique models due to intellectual property considerations. Most existing FL methods are incapable of satisfying the above  Cites: Lamda: Language models for dialog applications

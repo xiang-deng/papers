@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "S Zhou, U Alon, S Agarwal, G Neubig - arXiv preprint arXiv:2302.05527, 2023"
----
-Since the rise of neural models of code that can generate long expressions and statements rather than a single next-token, one of the major problems has been reliably evaluating their generated output. In this paper, we propose CodeBERTScore: an automatic evaluation metric for code generation, which builds on BERTScore (Zhang et al., 2020). Instead of measuring exact token matching as BLEU, CodeBERTScore computes a soft similarity score between each token in the …
-Cites: ‪Don t stop pretraining: adapt language models to domains and tasks‬
+--- 
+layout: post 
+title: "CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "S Zhou, U Alon, S Agarwal, G Neubig - arXiv preprint arXiv:2302.05527, 2023" 
+--- 
+Since the rise of neural models of code that can generate long expressions and statements rather than a single next-token, one of the major problems has been reliably evaluating their generated output. In this paper, we propose CodeBERTScore: an automatic evaluation metric for code generation, which builds on BERTScore (Zhang et al., 2020). Instead of measuring exact token matching as BLEU, CodeBERTScore computes a soft similarity score between each token in the  Cites: Don t stop pretraining: adapt language models to domains and tasks

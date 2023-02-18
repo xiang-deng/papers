@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Decoupling the Skeleton Parsing and Schema Linking for Text-to-SQL"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "H Li, J Zhang, C Li, H Chen - arXiv preprint arXiv:2302.05965, 2023"
----
-One of the recent best attempts at Text-to-SQL is the pre-trained language model. Due to the structural property of the SQL queries, the seq2seq model takes the responsibility of parsing both the schema items (ie, tables and columns) and the skeleton (ie, SQL keywords). Such coupled targets increase the difficulty of parsing the correct SQL queries especially when they involve many schema items and logic operators. This paper proposes a ranking-enhanced encoding and skeleton-aware …
-Cites: ‪Bridging textual and tabular data for cross-domain text-to-SQL …‬
+--- 
+layout: post 
+title: "Decoupling the Skeleton Parsing and Schema Linking for Text-to-SQL" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "H Li, J Zhang, C Li, H Chen - arXiv preprint arXiv:2302.05965, 2023" 
+--- 
+One of the recent best attempts at Text-to-SQL is the pre-trained language model. Due to the structural property of the SQL queries, the seq2seq model takes the responsibility of parsing both the schema items (ie, tables and columns) and the skeleton (ie, SQL keywords). Such coupled targets increase the difficulty of parsing the correct SQL queries especially when they involve many schema items and logic operators. This paper proposes a ranking-enhanced encoding and skeleton-aware  Cites: Bridging textual and tabular data for cross-domain text-to-SQL

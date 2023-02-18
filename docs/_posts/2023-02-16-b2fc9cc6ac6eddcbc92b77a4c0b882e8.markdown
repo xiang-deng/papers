@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Identifying Semantically Difficult Samples to Improve Text Classification"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "S Mujumdar, S Mehta, H Patel, S Mitra - arXiv preprint arXiv:2302.06155, 2023"
----
-In this paper, we investigate the effect of addressing difficult samples from a given text dataset on the downstream text classification task. We define difficult samples as being non-obvious cases for text classification by analysing them in the semantic embedding space; specifically-(i) semantically similar samples that belong to different classes and (ii) semantically dissimilar samples that belong to the same class. We propose a penalty function to measure the overall difficulty score of every …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "Identifying Semantically Difficult Samples to Improve Text Classification" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "S Mujumdar, S Mehta, H Patel, S Mitra - arXiv preprint arXiv:2302.06155, 2023" 
+--- 
+In this paper, we investigate the effect of addressing difficult samples from a given text dataset on the downstream text classification task. We define difficult samples as being non-obvious cases for text classification by analysing them in the semantic embedding space; specifically-(i) semantically similar samples that belong to different classes and (ii) semantically dissimilar samples that belong to the same class. We propose a penalty function to measure the overall difficulty score of every  Cites: Dataset cartography: Mapping and diagnosing datasets with

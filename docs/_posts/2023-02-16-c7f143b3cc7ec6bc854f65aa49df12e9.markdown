@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Compositional Exemplars for In-context Learning"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "J Ye, Z Wu, J Feng, T Yu, L Kong - arXiv preprint arXiv:2302.05698, 2023"
----
-Large pretrained language models (LMs) have shown impressive In-Context Learning (ICL) ability, where the model learns to do an unseen task via a prompt consisting of input-output examples as the demonstration, without any parameter updates. The performance of ICL is highly dominated by the quality of the selected in-context examples. However, previous selection methods are mostly based on simple heuristics, leading to sub-optimal performance. In this work, we formulate in-context …
-Cites: ‪Compositional Generalization for Neural Semantic Parsing via …‬
+--- 
+layout: post 
+title: "Compositional Exemplars for In-context Learning" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "J Ye, Z Wu, J Feng, T Yu, L Kong - arXiv preprint arXiv:2302.05698, 2023" 
+--- 
+Large pretrained language models (LMs) have shown impressive In-Context Learning (ICL) ability, where the model learns to do an unseen task via a prompt consisting of input-output examples as the demonstration, without any parameter updates. The performance of ICL is highly dominated by the quality of the selected in-context examples. However, previous selection methods are mostly based on simple heuristics, leading to sub-optimal performance. In this work, we formulate in-context  Cites: Compositional Generalization for Neural Semantic Parsing via

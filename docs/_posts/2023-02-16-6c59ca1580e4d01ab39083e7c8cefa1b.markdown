@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Position Matters! Empirical Study of Order Effect in Knowledge-grounded Dialogue"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "H Su, SH Kumar, S Mazumder, W Chen… - arXiv preprint arXiv …, 2023"
----
-With the power of large pretrained language models, various research works have integrated knowledge into dialogue systems. The traditional techniques treat knowledge as part of the input sequence for the dialogue system, prepending a set of knowledge statements in front of dialogue history. However, such a mechanism forces knowledge sets to be concatenated in an ordered manner, making models implicitly pay imbalanced attention to the sets during training. In this paper, we first …
-Cites: ‪Dialogue natural language inference‬
+--- 
+layout: post 
+title: "Position Matters! Empirical Study of Order Effect in Knowledge-grounded Dialogue" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "H Su, SH Kumar, S Mazumder, W Chen - arXiv preprint arXiv , 2023" 
+--- 
+With the power of large pretrained language models, various research works have integrated knowledge into dialogue systems. The traditional techniques treat knowledge as part of the input sequence for the dialogue system, prepending a set of knowledge statements in front of dialogue history. However, such a mechanism forces knowledge sets to be concatenated in an ordered manner, making models implicitly pay imbalanced attention to the sets during training. In this paper, we first  Cites: Dialogue natural language inference

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Backpropagation Beyond the Gradient"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "FJ Dangel"
----
-Automatic differentiation is a key enabler of deep learning: previously, practitioners were limited to models for which they could manually compute derivatives. Now, they can create sophisticated models with almost no restrictions and train them using first-order, ie gradient, information. Popular libraries like PyTorch [126] and TensorFlow [1] compute this gradient efficiently, automatically, and conveniently with a single line of code. Under the hood, reverse-mode automatic differentiation, or gradient …
-Cites: ‪Catastrophic fisher explosion: Early phase fisher matrix impacts …‬

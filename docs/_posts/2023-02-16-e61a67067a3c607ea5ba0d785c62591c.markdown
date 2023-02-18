@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distinguishability Calibration to In-Context Learning"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "H Li, H Yan, Y Li, L Qian, Y He, L Gui - arXiv preprint arXiv:2302.06198, 2023"
----
-Recent years have witnessed increasing interests in prompt-based learning in which models can be trained on only a few annotated instances, making them suitable in low-resource settings. When using prompt-based learning for text classification, the goal is to use a pre-trained language model (PLM) to predict a missing token in a pre-defined template given an input text, which can be mapped to a class label. However, PLMs built on the transformer architecture tend to generate similar output …
-Cites: ‪On the effect of pretraining corpora on in-context learning by a …‬
+--- 
+layout: post 
+title: "Distinguishability Calibration to In-Context Learning" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "H Li, H Yan, Y Li, L Qian, Y He, L Gui - arXiv preprint arXiv:2302.06198, 2023" 
+--- 
+Recent years have witnessed increasing interests in prompt-based learning in which models can be trained on only a few annotated instances, making them suitable in low-resource settings. When using prompt-based learning for text classification, the goal is to use a pre-trained language model (PLM) to predict a missing token in a pre-defined template given an input text, which can be mapped to a class label. However, PLMs built on the transformer architecture tend to generate similar output  Cites: On the effect of pretraining corpora on in-context learning by a

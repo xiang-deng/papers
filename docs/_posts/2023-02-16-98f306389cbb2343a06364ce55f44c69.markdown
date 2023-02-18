@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-level Compositional Reasoning for Interactive Instruction Following"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "S Bhambri, B Kim, J Choi - Interaction, 2023"
----
-Robotic agents performing domestic chores by natural language directives are required to master the complex job of navigating environment and interacting with objects in the environments. The tasks given to the agents are often composite thus are challenging as completing them require to reason about multiple subtasks, eg, bring a cup of coffee. To address the challenge, we propose to divide and conquer it by breaking the task into multiple subgoals and attend to them individually for better …
-Cites: ‪Hierarchical Control of Situated Agents through Natural Language‬
+--- 
+layout: post 
+title: "Multi-level Compositional Reasoning for Interactive Instruction Following" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "S Bhambri, B Kim, J Choi - Interaction, 2023" 
+--- 
+Robotic agents performing domestic chores by natural language directives are required to master the complex job of navigating environment and interacting with objects in the environments. The tasks given to the agents are often composite thus are challenging as completing them require to reason about multiple subtasks, eg, bring a cup of coffee. To address the challenge, we propose to divide and conquer it by breaking the task into multiple subgoals and attend to them individually for better  Cites: Hierarchical Control of Situated Agents through Natural Language

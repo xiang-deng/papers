@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pruning Deep Neural Networks from a Sparsity Perspective"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "E Diao, G Wang, J Zhan, Y Yang, J Ding, V Tarokh - arXiv preprint arXiv:2302.05601, 2023"
----
-In recent years, deep network pruning has attracted significant attention in order to enable the rapid deployment of AI into small devices with computation and memory constraints. Pruning is often achieved by dropping redundant weights, neurons, or layers of a deep network while attempting to retain a comparable test performance. Many deep pruning algorithms have been proposed with impressive empirical success. However, existing approaches lack a quantifiable measure to estimate the …
-Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬
+--- 
+layout: post 
+title: "Pruning Deep Neural Networks from a Sparsity Perspective" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "E Diao, G Wang, J Zhan, Y Yang, J Ding, V Tarokh - arXiv preprint arXiv:2302.05601, 2023" 
+--- 
+In recent years, deep network pruning has attracted significant attention in order to enable the rapid deployment of AI into small devices with computation and memory constraints. Pruning is often achieved by dropping redundant weights, neurons, or layers of a deep network while attempting to retain a comparable test performance. Many deep pruning algorithms have been proposed with impressive empirical success. However, existing approaches lack a quantifiable measure to estimate the  Cites: Good subnetworks provably exist: Pruning via greedy forward

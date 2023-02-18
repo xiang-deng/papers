@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Implications of the Convergence of Language and Vision Model Geometries"
-date:   2023-02-16 06:16:46 -0400
-categories: jekyll update
-author: "J Li, Y Kementchedjhieva, A Søgaard - arXiv preprint arXiv:2302.06555, 2023"
----
-Large-scale pretrained language models (LMs) are said to``lack the ability to connect [their] utterances to the world  (Bender and Koller, 2020). If so, we would expect LM representations to be unrelated to representations in computer vision models. To investigate this, we present an empirical evaluation across three different LMs (BERT, GPT2, and OPT) and three computer vision models (VMs, including ResNet, SegFormer, and MAE). Our experiments show that LMs converge towards …
-Cites: ‪H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean …‬
+--- 
+layout: post 
+title: "Implications of the Convergence of Language and Vision Model Geometries" 
+date: 2023-02-16 06:16:46 -0400 
+categories: jekyll update 
+author: "J Li, Y Kementchedjhieva, A Sgaard - arXiv preprint arXiv:2302.06555, 2023" 
+--- 
+Large-scale pretrained language models (LMs) are said to``lack the ability to connect [their] utterances to the world (Bender and Koller, 2020). If so, we would expect LM representations to be unrelated to representations in computer vision models. To investigate this, we present an empirical evaluation across three different LMs (BERT, GPT2, and OPT) and three computer vision models (VMs, including ResNet, SegFormer, and MAE). Our experiments show that LMs converge towards  Cites: H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean
