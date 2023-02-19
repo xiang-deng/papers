@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Augmented Language Models: a Survey"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "G Mialon, R Dessì, M Lomeli, C Nalmpantis… - arXiv preprint arXiv …, 2023"
+---
+This survey reviews works in which language models (LMs) are augmented with reasoning skills and the ability to use tools. The former is defined as decomposing a potentially complex task into simpler subtasks while the latter consists in calling external modules such as a code interpreter. LMs can leverage these augmentations separately or in combination via heuristics, or learn to do so from demonstrations. While adhering to a standard missing tokens prediction objective, such augmented …
+Cites: ‪Super-naturalinstructions: Generalization via declarative …‬

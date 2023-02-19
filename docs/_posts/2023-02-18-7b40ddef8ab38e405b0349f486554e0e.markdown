@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ScatterShot: Interactive In-context Example Curation for Text Transformation"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "T Wu, H Shen, DS Weld, J Heer, MT Ribeiro - arXiv preprint arXiv:2302.07346, 2023"
+---
+The in-context learning capabilities of LLMs like GPT-3 allow annotators to customize an LLM to their specific tasks with a small number of examples. However, users tend to include only the most obvious patterns when crafting examples, resulting in underspecified in-context functions that fall short on unseen cases. Further, it is hard to know when  enough  examples have been included even for known patterns. In this work, we present ScatterShot, an interactive system for building high-quality …
+Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬

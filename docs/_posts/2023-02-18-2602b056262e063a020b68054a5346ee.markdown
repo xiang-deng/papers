@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploiting Summarization Data to Help Text Simplification"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "R Sun, Z Yang, X Wan - arXiv preprint arXiv:2302.07124, 2023"
+---
+One of the major problems with text simplification is the lack of high-quality data. The sources of simplification datasets are limited to Wikipedia and Newsela, restricting further development of this field. In this paper, we analyzed the similarity between text summarization and text simplification and exploited summarization data to help simplify. First, we proposed an alignment algorithm to extract sentence pairs from summarization datasets. Then, we designed four attributes to characterize the …
+Cites: ‪Sentence simplification with deep reinforcement learning‬

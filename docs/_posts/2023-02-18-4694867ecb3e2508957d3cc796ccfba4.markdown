@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring Category Structure with Contextual Language Models and Lexical Semantic Networks"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "J Renner, P Denis, R Gilleron, A Brunellière - arXiv preprint arXiv:2302.06942, 2023"
+---
+Recent work on predicting category structure with distributional models, using either static word embeddings (Heyman and Heyman, 2019) or contextualized language models (CLMs)(Misra et al., 2021), report low correlations with human ratings, thus calling into question their plausibility as models of human semantic memory. In this work, we revisit this question testing a wider array of methods for probing CLMs for predicting typicality scores. Our experiments, using BERT (Devlin et al., 2018), show …
+Cites: ‪K-adapter: Infusing knowledge into pre-trained models with adapters‬

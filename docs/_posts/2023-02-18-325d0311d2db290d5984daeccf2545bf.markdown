@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural ranking with weak supervision for open-domain question answering: A survey"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "X Shen, S Vakulenko, M Del Tredici, G Barlacchi… - 2023"
+---
+Neural ranking (NR) has become a key component for open-domain question-answering in order to access external knowledge. However, training a good NR model requires substantial amounts of relevance annotations, which is very costly to scale. To address this, a growing body of research works have been proposed to reduce the annotation cost by training the NR model with weak supervision (WS) instead. These works differ in what resources they require and employ a diverse set …
+Cites: ‪Retrieval data augmentation informed by downstream question …‬

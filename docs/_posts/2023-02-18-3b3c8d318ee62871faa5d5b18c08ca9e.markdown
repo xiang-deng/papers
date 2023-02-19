@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Measuring the Instability of Fine-Tuning"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "Y Du, D Nguyen - arXiv preprint arXiv:2302.07778, 2023"
+---
+Fine-tuning pre-trained language models on downstream tasks with varying random seeds has been shown to be unstable, especially on small datasets. Many previous studies have investigated this instability and proposed methods to mitigate it. However, most studies only used the standard deviation of performance scores (SD) as their measure, which is a narrow characterization of instability. In this paper, we analyze SD and six other measures quantifying instability at different levels of …
+Cites: ‪Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt …‬

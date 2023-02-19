@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Toward Building Edge Learning Pipelines"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "A Gounaris, AV Michailidou, S Dustdar - IEEE Internet Computing, 2023"
+---
+From a bird s eye point of view, large-scale data analytics workflows, eg, those executed in popular tools, such as Apache Spark and Flink, are typically represented by directed acyclic graphs. Also, they are in a large scale in two dimensions: first, they are capable of processing big data (eg, both in terms of volume and velocity) mainly through employing massive parallelism, and second, they can run over (powerful) distributed infrastructures. This article focuses on edge computing and its …
+Cites: ‪The seattle report on database research‬

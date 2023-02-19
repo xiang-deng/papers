@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Relational distance and document-level contrastive pre-training based relation extraction model"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "Y Dong, X Xu - Pattern Recognition Letters, 2023"
+---
+Document-level relation extraction has multi-entity and multi-mention compared to sentence-level, existing sentence-level relation extraction models cannot meet the requirements of document-level relation extraction. Existing graph-based document-level models usually design points and edges manually, which often introduces man-made noise; while the Transformer-based models cannot deeply solve the difficulties such as coreference resolution by designing pre-training tasks or other methods. In …
+Cites: ‪Denoising Relation Extraction from Document-level Distant …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bounding Training Data Reconstruction in DP-SGD"
+date:   2023-02-18 05:28:11 -0400
+categories: jekyll update
+author: "J Hayes, S Mahloujifar, B Balle - arXiv preprint arXiv:2302.07225, 2023"
+---
+Differentially private training offers a protection which is usually interpreted as a guarantee against membership inference attacks. By proxy, this guarantee extends to other threats like reconstruction attacks attempting to extract complete training examples. Recent works provide evidence that if one does not need to protect against membership attacks but instead only wants to protect against training data reconstruction, then utility of private models can be improved because less noise is …
+Cites: ‪Memorization without overfitting: Analyzing the training dynamics …‬
