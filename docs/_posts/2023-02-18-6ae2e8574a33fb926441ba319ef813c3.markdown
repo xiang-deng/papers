@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generation of Highlights from Research Papers Using Pointer-Generator Networks and SciBERT Embeddings"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "T Rehman, DK Sanyal, S Chattopadhyay… - arXiv preprint arXiv …, 2023"
----
-Nowadays many research articles are prefaced with research highlights to summarize the main findings of the paper. Highlights not only help researchers precisely and quickly identify the contributions of a paper, they also enhance the discoverability of the article via search engines. We aim to automatically construct research highlights given certain segments of the research paper. We use a pointer-generator network with coverage mechanism and a contextual embedding layer at …
-Cites: ‪A supervised approach to extractive summarisation of scientific …‬
+--- 
+layout: post 
+title: "Generation of Highlights from Research Papers Using Pointer-Generator Networks and SciBERT Embeddings" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "T Rehman, DK Sanyal, S Chattopadhyay - arXiv preprint arXiv , 2023" 
+--- 
+Nowadays many research articles are prefaced with research highlights to summarize the main findings of the paper. Highlights not only help researchers precisely and quickly identify the contributions of a paper, they also enhance the discoverability of the article via search engines. We aim to automatically construct research highlights given certain segments of the research paper. We use a pointer-generator network with coverage mechanism and a contextual embedding layer at  Cites: A supervised approach to extractive summarisation of scientific

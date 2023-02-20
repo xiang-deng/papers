@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explaining text classifiers through progressive neighborhood approximation with realistic samples"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "Y Cai, A Zimek, E Ntoutsi, G Wunder - arXiv preprint arXiv:2302.07733, 2023"
----
-The importance of neighborhood construction in local explanation methods has been already highlighted in the literature. And several attempts have been made to improve neighborhood quality for high-dimensional data, for example, texts, by adopting generative models. Although the generators produce more realistic samples, the intuitive sampling approaches in the existing solutions leave the latent space underexplored. To overcome this problem, our work, focusing on local model …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "Explaining text classifiers through progressive neighborhood approximation with realistic samples" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "Y Cai, A Zimek, E Ntoutsi, G Wunder - arXiv preprint arXiv:2302.07733, 2023" 
+--- 
+The importance of neighborhood construction in local explanation methods has been already highlighted in the literature. And several attempts have been made to improve neighborhood quality for high-dimensional data, for example, texts, by adopting generative models. Although the generators produce more realistic samples, the intuitive sampling approaches in the existing solutions leave the latent space underexplored. To overcome this problem, our work, focusing on local model  Cites: Anchors: High-Precision Model-Agnostic Explanations

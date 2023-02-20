@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Formal Verification of Neural Networks via Optimization Methods"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "MA Roark - 2022"
----
-Deep neural networks have become widely adopted as function approximators in a growing number of safety critical domains. Their capacity to model nonlinear functions poses challenges in certifying their desired behavior. With respect to classifier networks, desired behavior is often specified as output robustness to small perturbations of the input. This thesis explores three optimization based algorithms for formally verifying the robustness properties of classifier networks and benchmarks …
-Cites: ‪Emergent abilities of large language models‬

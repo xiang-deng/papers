@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Design and Application of Deep Hash Embedding Algorithm with Fusion Entity Attribute Information"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "X Huang, H Chen, Z Zhang - Entropy, 2023"
----
-Hash is one of the most widely used methods for computing efficiency and storage efficiency. With the development of deep learning, the deep hash method shows more advantages than traditional methods. This paper proposes a method to convert entities with attribute information into embedded vectors (FPHD). The design uses the hash method to quickly extract entity features, and uses a deep neural network to learn the implicit association between entity features. This design solves two main …
-Cites: ‪Bag of tricks for efficient text classification. arXiv 2016‬
+--- 
+layout: post 
+title: "Design and Application of Deep Hash Embedding Algorithm with Fusion Entity Attribute Information" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "X Huang, H Chen, Z Zhang - Entropy, 2023" 
+--- 
+Hash is one of the most widely used methods for computing efficiency and storage efficiency. With the development of deep learning, the deep hash method shows more advantages than traditional methods. This paper proposes a method to convert entities with attribute information into embedded vectors (FPHD). The design uses the hash method to quickly extract entity features, and uses a deep neural network to learn the implicit association between entity features. This design solves two main  Cites: Bag of tricks for efficient text classification. arXiv 2016

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On graph-based reentrancy-free semantic parsing"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "A Petit, C Corro - arXiv preprint arXiv:2302.07679, 2023"
----
-We propose a novel graph-based approach for semantic parsing that resolves two problems observed in the literature:(1) seq2seq models fail on compositional generalization tasks;(2) previous work using phrase structure parsers cannot cover all the semantic parses observed in treebanks. We prove that both MAP inference and latent tag anchoring (required for weakly-supervised learning) are NP-hard problems. We propose two optimization algorithms based on constraint smoothing …
-Cites: ‪Span-based semantic parsing for compositional generalization‬
+--- 
+layout: post 
+title: "On graph-based reentrancy-free semantic parsing" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "A Petit, C Corro - arXiv preprint arXiv:2302.07679, 2023" 
+--- 
+We propose a novel graph-based approach for semantic parsing that resolves two problems observed in the literature:(1) seq2seq models fail on compositional generalization tasks;(2) previous work using phrase structure parsers cannot cover all the semantic parses observed in treebanks. We prove that both MAP inference and latent tag anchoring (required for weakly-supervised learning) are NP-hard problems. We propose two optimization algorithms based on constraint smoothing  Cites: Span-based semantic parsing for compositional generalization

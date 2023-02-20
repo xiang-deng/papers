@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "K Kudo, Y Aoki, T Kuribayashi, A Brassard… - arXiv preprint arXiv …, 2023"
----
-Compositionality is a pivotal property of symbolic reasoning. However, how well recent neural models capture compositionality remains underexplored in the symbolic reasoning tasks. This study empirically addresses this question by systematically examining recently published pre-trained seq2seq models with a carefully controlled dataset of multi-hop arithmetic symbolic reasoning. We introduce a skill tree on compositionality in arithmetic symbolic reasoning that defines the …
-Cites: ‪Injecting Numerical Reasoning Skills into Language Models‬
+--- 
+layout: post 
+title: "Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning?" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "K Kudo, Y Aoki, T Kuribayashi, A Brassard - arXiv preprint arXiv , 2023" 
+--- 
+Compositionality is a pivotal property of symbolic reasoning. However, how well recent neural models capture compositionality remains underexplored in the symbolic reasoning tasks. This study empirically addresses this question by systematically examining recently published pre-trained seq2seq models with a carefully controlled dataset of multi-hop arithmetic symbolic reasoning. We introduce a skill tree on compositionality in arithmetic symbolic reasoning that defines the  Cites: Injecting Numerical Reasoning Skills into Language Models

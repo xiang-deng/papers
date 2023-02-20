@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Discriminative Attribution from Paired Images"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "N Eckstein, H Bukhari, AS Bates, GSXE Jefferis… - Computer Vision–ECCV …, 2023"
----
-We present a method for deep neural network interpretability by combining feature attribution with counterfactual explanations to generate attribution maps that highlight the most discriminative features between classes. Crucially, this method can be used to quantitatively evaluate the performance of feature attribution methods in an objective manner, thus preventing potential observer bias. We evaluate the proposed method on six diverse datasets, and use it to discover so far unknown morphological …
-Cites: ‪Model-agnostic interpretability of machine learning‬
+--- 
+layout: post 
+title: "Discriminative Attribution from Paired Images" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "N Eckstein, H Bukhari, AS Bates, GSXE Jefferis - Computer VisionECCV , 2023" 
+--- 
+We present a method for deep neural network interpretability by combining feature attribution with counterfactual explanations to generate attribution maps that highlight the most discriminative features between classes. Crucially, this method can be used to quantitatively evaluate the performance of feature attribution methods in an objective manner, thus preventing potential observer bias. We evaluate the proposed method on six diverse datasets, and use it to discover so far unknown morphological  Cites: Model-agnostic interpretability of machine learning

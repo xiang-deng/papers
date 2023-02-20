@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "A Chronopoulou, ME Peters, A Fraser, J Dodge - arXiv preprint arXiv:2302.07027, 2023"
----
-Pretrained language models (PLMs) are trained on massive corpora, but often need to specialize to specific domains. A parameter-efficient adaptation method suggests training an adapter for each domain on the task of language modeling. This leads to good in-domain scores but can be impractical for domain-or resource-restricted settings. A solution is to use a related-domain adapter for the novel domain at test time. In this paper, we introduce AdapterSoup, an approach that performs weight …
-Cites: ‪Robust fine-tuning of zero-shot models‬
+--- 
+layout: post 
+title: "AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "A Chronopoulou, ME Peters, A Fraser, J Dodge - arXiv preprint arXiv:2302.07027, 2023" 
+--- 
+Pretrained language models (PLMs) are trained on massive corpora, but often need to specialize to specific domains. A parameter-efficient adaptation method suggests training an adapter for each domain on the task of language modeling. This leads to good in-domain scores but can be impractical for domain-or resource-restricted settings. A solution is to use a related-domain adapter for the novel domain at test time. In this paper, we introduce AdapterSoup, an approach that performs weight  Cites: Robust fine-tuning of zero-shot models

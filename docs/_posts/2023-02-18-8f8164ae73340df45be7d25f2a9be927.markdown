@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "K Goswami, L Lange, J Araki, H Adel - arXiv preprint arXiv:2302.06868, 2023"
----
-Prompting pre-trained language models leads to promising results across natural language processing tasks but is less effective when applied in low-resource domains, due to the domain gap between the pre-training data and the downstream task. In this work, we bridge this gap with a novel and lightweight prompting methodology called SwitchPrompt for the adaptation of language models trained on datasets from the general domain to diverse low-resource domains. Using domain …
-Cites: ‪Don t stop pretraining: adapt language models to domains and tasks‬
+--- 
+layout: post 
+title: "SwitchPrompt: Learning Domain-Specific Gated Soft Prompts for Classification in Low-Resource Domains" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "K Goswami, L Lange, J Araki, H Adel - arXiv preprint arXiv:2302.06868, 2023" 
+--- 
+Prompting pre-trained language models leads to promising results across natural language processing tasks but is less effective when applied in low-resource domains, due to the domain gap between the pre-training data and the downstream task. In this work, we bridge this gap with a novel and lightweight prompting methodology called SwitchPrompt for the adaptation of language models trained on datasets from the general domain to diverse low-resource domains. Using domain  Cites: Don t stop pretraining: adapt language models to domains and tasks

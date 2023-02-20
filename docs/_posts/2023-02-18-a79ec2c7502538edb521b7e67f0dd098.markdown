@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reveal the Unknown: Out-of-Knowledge-Base Mention Discovery with Entity Linking"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "H Dong, J Chen, Y He, Y Liu, I Horrocks - arXiv preprint arXiv:2302.07189, 2023"
----
-Discovering entity mentions that are out of a Knowledge Base (KB) from texts plays a critical role in KB maintenance, but has not yet been fully explored. The current methods are mostly limited to the simple threshold-based approach and feature-based classification; the datasets for evaluation are relatively rare. In this work, we propose BLINKout, a new BERT-based Entity Linking (EL) method which can identify mentions that do not have a corresponding KB entity by matching them to a special …
-Cites: ‪EDIN: An End-to-end Benchmark and Pipeline for Unknown Entity …‬
+--- 
+layout: post 
+title: "Reveal the Unknown: Out-of-Knowledge-Base Mention Discovery with Entity Linking" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "H Dong, J Chen, Y He, Y Liu, I Horrocks - arXiv preprint arXiv:2302.07189, 2023" 
+--- 
+Discovering entity mentions that are out of a Knowledge Base (KB) from texts plays a critical role in KB maintenance, but has not yet been fully explored. The current methods are mostly limited to the simple threshold-based approach and feature-based classification; the datasets for evaluation are relatively rare. In this work, we propose BLINKout, a new BERT-based Entity Linking (EL) method which can identify mentions that do not have a corresponding KB entity by matching them to a special  Cites: EDIN: An End-to-end Benchmark and Pipeline for Unknown Entity

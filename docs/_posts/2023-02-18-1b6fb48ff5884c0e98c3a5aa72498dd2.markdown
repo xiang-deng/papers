@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bayesian Self-Attentive Speaker Embeddings for Text-Independent Speaker Verification"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "Y Zhu, B Mak - IEEE/ACM Transactions on Audio, Speech, and …, 2023"
----
-Learning effective and discriminative speaker embeddings is a crucial task in speaker verification. Usually, speaker embeddings are extracted from a speaker-classification DNN that averages the hidden vectors over all the spoken frames of a speaker; the hidden vectors produced from all the frames are assumed to be equally important. In our previous work, we relaxed this assumption and computed the speaker embedding as a weighted average of a speaker s frame-level hidden …
-Cites: ‪Long short-term memory-networks for machine reading‬
+--- 
+layout: post 
+title: "Bayesian Self-Attentive Speaker Embeddings for Text-Independent Speaker Verification" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "Y Zhu, B Mak - IEEE/ACM Transactions on Audio, Speech, and , 2023" 
+--- 
+Learning effective and discriminative speaker embeddings is a crucial task in speaker verification. Usually, speaker embeddings are extracted from a speaker-classification DNN that averages the hidden vectors over all the spoken frames of a speaker; the hidden vectors produced from all the frames are assumed to be equally important. In our previous work, we relaxed this assumption and computed the speaker embedding as a weighted average of a speaker s frame-level hidden  Cites: Long short-term memory-networks for machine reading

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Stable Entropy Hypothesis and Entropy-Aware Decoding: An Analysis and Algorithm for Robust Natural Language Generation"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "K Arora, TJ O Donnell, D Precup, J Weston… - arXiv preprint arXiv …, 2023"
----
-State-of-the-art language generation models can degenerate when applied to open-ended generation problems such as text completion, story generation, or dialog modeling. This degeneration usually shows up in the form of incoherence, lack of vocabulary diversity, and self-repetition or copying from the context. In this paper, we postulate that``human-like  generations usually lie in a narrow and nearly flat entropy band, and violation of these entropy bounds correlates with degenerate behavior …
-Cites: ‪Truncation Sampling as Language Model Desmoothing‬
+--- 
+layout: post 
+title: "The Stable Entropy Hypothesis and Entropy-Aware Decoding: An Analysis and Algorithm for Robust Natural Language Generation" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "K Arora, TJ O Donnell, D Precup, J Weston - arXiv preprint arXiv , 2023" 
+--- 
+State-of-the-art language generation models can degenerate when applied to open-ended generation problems such as text completion, story generation, or dialog modeling. This degeneration usually shows up in the form of incoherence, lack of vocabulary diversity, and self-repetition or copying from the context. In this paper, we postulate that``human-like generations usually lie in a narrow and nearly flat entropy band, and violation of these entropy bounds correlates with degenerate behavior  Cites: Truncation Sampling as Language Model Desmoothing

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bayesian Decision Trees via Tractable Priors and Probabilistic Context-Free Grammars"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "C Sullivan, M Tiwari, S Thrun, C Piech - arXiv preprint arXiv:2302.07407, 2023"
----
-Decision Trees are some of the most popular machine learning models today due to their out-of-the-box performance and interpretability. Often, Decision Trees models are constructed greedily in a top-down fashion via heuristic search criteria, such as Gini impurity or entropy. However, trees constructed in this manner are sensitive to minor fluctuations in training data and are prone to overfitting. In contrast, Bayesian approaches to tree construction formulate the selection process as a posterior …
-Cites: ‪Feature selection for a rich HPSG grammar using decision trees‬
+--- 
+layout: post 
+title: "Bayesian Decision Trees via Tractable Priors and Probabilistic Context-Free Grammars" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "C Sullivan, M Tiwari, S Thrun, C Piech - arXiv preprint arXiv:2302.07407, 2023" 
+--- 
+Decision Trees are some of the most popular machine learning models today due to their out-of-the-box performance and interpretability. Often, Decision Trees models are constructed greedily in a top-down fashion via heuristic search criteria, such as Gini impurity or entropy. However, trees constructed in this manner are sensitive to minor fluctuations in training data and are prone to overfitting. In contrast, Bayesian approaches to tree construction formulate the selection process as a posterior  Cites: Feature selection for a rich HPSG grammar using decision trees

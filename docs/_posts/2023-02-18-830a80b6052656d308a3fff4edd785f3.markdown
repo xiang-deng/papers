@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "J Sun, Z Xing, Q Lu, X Xu, L Zhu, T Hoang, D Zhao - arXiv preprint arXiv:2302.07445, 2023"
----
-Due to convenience, open-source software is widely used. For beneficial reasons, open-source maintainers often fix the vulnerabilities silently, exposing their users unaware of the updates to threats. Previous works all focus on black-box binary detection of the silent dependency alerts that suffer from high false-positive rates. Open-source software users need to analyze and explain AI prediction themselves. Explainable AI becomes remarkable as a complementary of black-box AI models …
-Cites: ‪Reframing human-AI collaboration for generating free-text …‬
+--- 
+layout: post 
+title: "Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "J Sun, Z Xing, Q Lu, X Xu, L Zhu, T Hoang, D Zhao - arXiv preprint arXiv:2302.07445, 2023" 
+--- 
+Due to convenience, open-source software is widely used. For beneficial reasons, open-source maintainers often fix the vulnerabilities silently, exposing their users unaware of the updates to threats. Previous works all focus on black-box binary detection of the silent dependency alerts that suffer from high false-positive rates. Open-source software users need to analyze and explain AI prediction themselves. Explainable AI becomes remarkable as a complementary of black-box AI models  Cites: Reframing human-AI collaboration for generating free-text

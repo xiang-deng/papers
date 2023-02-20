@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Role of Semantic Parsing in Understanding Procedural Text"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "HR Faghihi, P Kordjamshidi, CM Teng, J Allen - arXiv preprint arXiv:2302.06829, 2023"
----
-In this paper, we investigate whether symbolic semantic representations, extracted from deep semantic parsers, can help reasoning over the states of involved entities in a procedural text. We consider a deep semantic parser~(TRIPS) and semantic role labeling as two sources of semantic parsing knowledge. First, we propose PROPOLIS, a symbolic parsing-based procedural reasoning framework. Second, we integrate semantic parsing information into state-of-the-art neural models to conduct …
-Cites: ‪Everything happens for a reason: Discovering the purpose of …‬
+--- 
+layout: post 
+title: "The Role of Semantic Parsing in Understanding Procedural Text" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "HR Faghihi, P Kordjamshidi, CM Teng, J Allen - arXiv preprint arXiv:2302.06829, 2023" 
+--- 
+In this paper, we investigate whether symbolic semantic representations, extracted from deep semantic parsers, can help reasoning over the states of involved entities in a procedural text. We consider a deep semantic parser~(TRIPS) and semantic role labeling as two sources of semantic parsing knowledge. First, we propose PROPOLIS, a symbolic parsing-based procedural reasoning framework. Second, we integrate semantic parsing information into state-of-the-art neural models to conduct  Cites: Everything happens for a reason: Discovering the purpose of

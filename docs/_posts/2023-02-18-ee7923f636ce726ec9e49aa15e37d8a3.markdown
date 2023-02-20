@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigating Multi-source Active Learning for Natural Language Inference"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "A Snijders, D Kiela, K Margatina - arXiv preprint arXiv:2302.06976, 2023"
----
-In recent years, active learning has been successfully applied to an array of NLP tasks. However, prior work often assumes that training and test data are drawn from the same distribution. This is problematic, as in real-life settings data may stem from several sources of varying relevance and quality. We show that four popular active learning schemes fail to outperform random selection when applied to unlabelled pools comprised of multiple data sources on the task of natural language inference …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "Investigating Multi-source Active Learning for Natural Language Inference" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "A Snijders, D Kiela, K Margatina - arXiv preprint arXiv:2302.06976, 2023" 
+--- 
+In recent years, active learning has been successfully applied to an array of NLP tasks. However, prior work often assumes that training and test data are drawn from the same distribution. This is problematic, as in real-life settings data may stem from several sources of varying relevance and quality. We show that four popular active learning schemes fail to outperform random selection when applied to unlabelled pools comprised of multiple data sources on the task of natural language inference  Cites: Dataset cartography: Mapping and diagnosing datasets with

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to retrieve engaging follow-up queries"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "C Richardson, S Kar, A Kumar, A Ramachandran… - 2023"
----
-Open domain conversational agents can answer a broad range of targeted queries. However, the sequential nature of interaction with these systems makes knowledge exploration a lengthy task which burdens the user with asking a chain of well phrased questions. In this paper, we present a retrieval based system and associated dataset for predicting the next questions that the user might have. Such a system can proactively assist users in knowledge exploration leading to a more …
-Cites: ‪Open-Retrieval Conversational Question Answering‬
+--- 
+layout: post 
+title: "Learning to retrieve engaging follow-up queries" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "C Richardson, S Kar, A Kumar, A Ramachandran - 2023" 
+--- 
+Open domain conversational agents can answer a broad range of targeted queries. However, the sequential nature of interaction with these systems makes knowledge exploration a lengthy task which burdens the user with asking a chain of well phrased questions. In this paper, we present a retrieval based system and associated dataset for predicting the next questions that the user might have. Such a system can proactively assist users in knowledge exploration leading to a more  Cites: Open-Retrieval Conversational Question Answering

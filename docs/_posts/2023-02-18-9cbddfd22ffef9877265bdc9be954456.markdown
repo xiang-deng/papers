@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Assessing Vulnerability from Its Description"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "Z Zhang, V Kumar, M Mayo, A Bifet - … , UbiSec 2022, Zhangjiajie, China, December 28 …, 2023"
----
-This paper shows an end-to-end Artificial Intelligence (AI) system to estimate the severity level and the various Common Vulnerability Scoring System (CVSS) components from natural language descriptions without reproducing the vulnerability. This natural language processing-based approach can estimate the CVSS from only the Common Vulnerabilities and Exposures description without the need to reproduce the vulnerability environment. We present an Error Grid Analysis …
-Cites: ‪Deep Unordered Composition Rivals Syntactic Methods for Text …‬
+--- 
+layout: post 
+title: "Assessing Vulnerability from Its Description" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "Z Zhang, V Kumar, M Mayo, A Bifet - , UbiSec 2022, Zhangjiajie, China, December 28 , 2023" 
+--- 
+This paper shows an end-to-end Artificial Intelligence (AI) system to estimate the severity level and the various Common Vulnerability Scoring System (CVSS) components from natural language descriptions without reproducing the vulnerability. This natural language processing-based approach can estimate the CVSS from only the Common Vulnerabilities and Exposures description without the need to reproduce the vulnerability environment. We present an Error Grid Analysis  Cites: Deep Unordered Composition Rivals Syntactic Methods for Text

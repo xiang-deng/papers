@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Modularized Pre-training for End-to-end Task-oriented Dialogue"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "L Qin, X Xu, L Wang, Y Zhang, W Che - IEEE/ACM Transactions on Audio, Speech …, 2023"
----
-Pre-training for e nd-to-end t ask-o riented d ialogue s ystems (EToDs) is a challenging task due to its unique knowledge base query (accuracy) need and lack of sufficient training data (fluency). In this paper, we try to mitigate the above challenges by introducing a modularized pre-training framework for EToDs, which achieves to effectively improve both accuracy and fluency of EToDs through a pre-training paradigm. The core insight is a modular design by decomposing EToDs into …
-Cites: ‪A simple language model for task-oriented dialogue‬
+--- 
+layout: post 
+title: "Modularized Pre-training for End-to-end Task-oriented Dialogue" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "L Qin, X Xu, L Wang, Y Zhang, W Che - IEEE/ACM Transactions on Audio, Speech , 2023" 
+--- 
+Pre-training for e nd-to-end t ask-o riented d ialogue s ystems (EToDs) is a challenging task due to its unique knowledge base query (accuracy) need and lack of sufficient training data (fluency). In this paper, we try to mitigate the above challenges by introducing a modularized pre-training framework for EToDs, which achieves to effectively improve both accuracy and fluency of EToDs through a pre-training paradigm. The core insight is a modular design by decomposing EToDs into  Cites: A simple language model for task-oriented dialogue

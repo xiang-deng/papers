@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Capacity for Moral Self-Correction in Large Language Models"
-date:   2023-02-18 05:28:11 -0400
-categories: jekyll update
-author: "D Ganguli, A Askell, N Schiefer, T Liao, K Lukošiūtė… - arXiv preprint arXiv …, 2023"
----
-We test the hypothesis that language models trained with reinforcement learning from human feedback (RLHF) have the capability to  morally self-correct --to avoid producing harmful outputs--if instructed to do so. We find strong evidence in support of this hypothesis across three different experiments, each of which reveal different facets of moral self-correction. We find that the capability for moral self-correction emerges at 22B model parameters, and typically improves with increasing model …
-Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬
+--- 
+layout: post 
+title: "The Capacity for Moral Self-Correction in Large Language Models" 
+date: 2023-02-18 05:28:11 -0400 
+categories: jekyll update 
+author: "D Ganguli, A Askell, N Schiefer, T Liao, K Lukoit - arXiv preprint arXiv , 2023" 
+--- 
+We test the hypothesis that language models trained with reinforcement learning from human feedback (RLHF) have the capability to morally self-correct --to avoid producing harmful outputs--if instructed to do so. We find strong evidence in support of this hypothesis across three different experiments, each of which reveal different facets of moral self-correction. We find that the capability for moral self-correction emerges at 22B model parameters, and typically improves with increasing model  Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in
