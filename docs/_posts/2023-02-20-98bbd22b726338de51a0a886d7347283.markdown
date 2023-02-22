@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to Reason and Memorize with Self-Questioning"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "J Lanchantin, S Toshniwal, J Weston, A Szlam…"
+---
+Large language models have been shown to struggle with limited context memory and multi-step reasoning [1]. We propose a simple method for solving both of these problems by allowing the model to ask questions and answer them. Unlike recent scratchpad approaches, the model can deviate from the input context at any time for self-questioning. This allows the model to recall information and perform reasoning on the fly as it reads the context, thus extending its memory and enabling multi-step …
+Cites: ‪Chi, Quoc Le, and Denny Zhou‬

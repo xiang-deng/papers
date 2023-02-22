@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CLSEP: Contrastive learning of sentence embedding with prompt"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "Q Wang, W Zhang, T Lei, Y Cao, D Peng, X Wang - Knowledge-Based Systems, 2023"
+---
+Sentence embedding, which aims to learn an effective representation of the sentence, is beneficial for downstream tasks. By utilizing contrastive learning, most recent sentence embedding methods have achieved promising results. However, these methods adopt simple data augmentation strategies to obtain variants of the sentence, limiting the representation ability of sentence embedding. In addition, these methods simply adopt the original framework of contrastive learning developed …
+Cites: ‪Recursive Deep Models for Semantic Compositionality Over a …‬

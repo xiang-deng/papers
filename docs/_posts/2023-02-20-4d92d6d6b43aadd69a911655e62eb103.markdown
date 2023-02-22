@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking 1D convolution for lightweight semantic segmentation"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "C Zhang, F Xu, C Wu, C Xu - Frontiers in Neurorobotics, 2023"
+---
+Lightweight semantic segmentation promotes the application of semantic segmentation in tiny devices. The existing lightweight semantic segmentation network has the problems of low precision and a large number of parameters. In response to the above problems, we designed a full 1D convolutional lightweight semantic segmentation network (LSNet). The tremendous success of this network is attributed to the following three modules: 1D multi-layer space module (1D-MS), 1D …
+Cites: ‪ESPNetv2: A Light-weight, Power Efficient, and General Purpose …‬

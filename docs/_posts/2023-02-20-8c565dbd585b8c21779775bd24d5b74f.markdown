@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Entity Linking Systems With DuckDB"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "E Sari, AP de Vries, H Mühleisen - 2023"
+---
+Entity linking systems are complex applications that have an important place in information retrieval systems. Because of its complexity, entity linking is performed by third-party toolkits. While most entity linking toolkits do not use database management systems, there are some toolkits that use the advantage of them. REL is one of these toolkits and uses SQLite, which has a row-based architecture. An alternative for SQLite may be DuckDB. DuckDB has a column-based architecture …
+Cites: ‪Autoregressive entity retrieval‬

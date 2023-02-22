@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Methods for Leveraging Auxiliary Signals for Low-Resource NLP"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "X Dong - 2023"
+---
+There is a growing need for NLP systems that support low-resource settings, for which task-specific training data may be lacking, while domain-specific corpora is too scarce to build a reliable system. In the past decade, the co-occurrence-based training objectives of methods such as word2vec are first able to offer word-level semantic information for specific domains. Recently, pretrained language model architectures such as BERT have been shown capable of learning monolingual or …
+Cites: ‪TORQUE: A Reading Comprehension Dataset of Temporal …‬

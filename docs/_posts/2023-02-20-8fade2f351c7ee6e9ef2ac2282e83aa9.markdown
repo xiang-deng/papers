@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BERT is not The Count: Learning to Match Mathematical Statements with Proofs"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "WW Li, Y Ziser, M Coavoux, SB Cohen"
+---
+We introduce a task consisting in matching a proof to a given mathematical statement. The task fits well within current research on Mathematical Information Retrieval and, more generally, mathematical article analysis (Mathematical Sciences, 2014). We present a dataset for the task (the MATCH dataset) consisting of over 180k statement-proof pairs extracted from modern mathematical research articles. 1 We find this dataset highly representative of our task, as it consists of relatively new …
+Cites: ‪Naturalproofs: Mathematical theorem proving in natural language‬

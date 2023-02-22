@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CL-LSG: Continual Learning via Learnable Sparse Growth"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "L Yang, S Lin, J Zhang, D Fan"
+---
+Continual learning (CL) has been developed to learn new tasks sequentially and perform knowledge transfer from the old tasks to the new ones without forgetting, which is well known as catastrophic forgetting. While recent structure-based learning methods show the capability of alleviating the forgetting problem, these methods require a complex learning process to gradually grow-and-prune of a full-size network for each task, which is inefficient. To address this problem and enable …
+Cites: ‪Learn to grow: A continual structure learning framework for …‬

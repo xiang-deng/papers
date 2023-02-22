@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Expressive Power of Tuning Only the Norm Layers"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "A Giannou, S Rajput, D Papailiopoulos - arXiv preprint arXiv:2302.07937, 2023"
+---
+Feature normalization transforms such as Batch and Layer-Normalization have become indispensable ingredients of state-of-the-art deep neural networks. Recent studies on fine-tuning large pretrained models indicate that just tuning the parameters of these affine transforms can achieve high accuracy for downstream tasks. These findings open the questions about the expressive power of tuning the normalization layers of frozen networks. In this work, we take the first step towards …
+Cites: ‪BAM! Born-Again Multi-Task Networks for Natural Language …‬

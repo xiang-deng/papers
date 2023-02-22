@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Torchy: A Tracing JIT Compiler for PyTorch (Extended Version)"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "NP LOPES"
+---
+Although eager-mode frameworks are more convenient, they are less efficient today as operations are dispatched to the hardware one at a time. This execution model precludes, for example, operation fusion, which is essential for executing ML workloads efficiently. In this paper we present Torchy, a tracing JIT compiler for PyTorch, one of the mainstream eager-mode frameworks. Torchy achieves similar performance as data-flow frameworks, while providing the same semantics of straight …
+Cites: ‪Lingpeng Kong, Adhiguna Kuncoro, Gaurav Kumar, Chaitanya …‬

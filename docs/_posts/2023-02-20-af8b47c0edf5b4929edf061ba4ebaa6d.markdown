@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Document Flattening: Beyond Concatenating Context for Document-Level Neural Machine Translation"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "M Wu, G Foster, L Qu, G Haffari - arXiv preprint arXiv:2302.08079, 2023"
+---
+Existing work in document-level neural machine translation commonly concatenates several consecutive sentences as a pseudo-document, and then learns inter-sentential dependencies. This strategy limits the model s ability to leverage information from distant context. We overcome this limitation with a novel Document Flattening (DocFlat) technique that integrates Flat-Batch Attention (FBA) and Neural Context Gate (NCG) into Transformer model to utilize information beyond the pseudo …
+Cites: ‪Measuring and Increasing Context Usage in Context-Aware …‬

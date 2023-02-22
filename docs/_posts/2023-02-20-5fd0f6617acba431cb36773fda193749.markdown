@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Meta-Reinforcement Learning via Exploratory Task Clustering"
+date:   2023-02-20 23:17:05 -0400
+categories: jekyll update
+author: "Z Chu, H Wang - arXiv preprint arXiv:2302.07958, 2023"
+---
+Meta-reinforcement learning (meta-RL) aims to quickly solve new tasks by leveraging knowledge from prior tasks. However, previous studies often assume a single mode homogeneous task distribution, ignoring possible structured heterogeneity among tasks. Leveraging such structures can better facilitate knowledge sharing among related tasks and thus improve sample efficiency. In this paper, we explore the structured heterogeneity among tasks via clustering to improve …
+Cites: ‪Decoupling exploration and exploitation for meta-reinforcement …‬
