@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Fair Machine Learning Software: Understanding and Addressing Model Bias Through Counterfactual Thinking"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "Z Wang, Y Zhou, M Qiu, I Haque, L Brown, Y He… - arXiv preprint arXiv …, 2023"
----
-The increasing use of Machine Learning (ML) software can lead to unfair and unethical decisions, thus fairness bugs in software are becoming a growing concern. Addressing these fairness bugs often involves sacrificing ML performance, such as accuracy. To address this issue, we present a novel counterfactual approach that uses counterfactual thinking to tackle the root causes of bias in ML software. In addition, our approach combines models optimized for both performance and …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "Towards Fair Machine Learning Software: Understanding and Addressing Model Bias Through Counterfactual Thinking" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "Z Wang, Y Zhou, M Qiu, I Haque, L Brown, Y He - arXiv preprint arXiv , 2023" 
+--- 
+The increasing use of Machine Learning (ML) software can lead to unfair and unethical decisions, thus fairness bugs in software are becoming a growing concern. Addressing these fairness bugs often involves sacrificing ML performance, such as accuracy. To address this issue, we present a novel counterfactual approach that uses counterfactual thinking to tackle the root causes of bias in ML software. In addition, our approach combines models optimized for both performance and  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

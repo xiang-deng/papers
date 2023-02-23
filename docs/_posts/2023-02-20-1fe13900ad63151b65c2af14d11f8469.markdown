@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aligning Language Models with Preferences through f-divergence Minimization"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "D Go, T Korbak, G Kruszewski, J Rozen, N Ryu… - arXiv preprint arXiv …, 2023"
----
-Aligning language models with preferences can be posed as approximating a target distribution representing some desired behavior. Existing approaches differ both in the functional form of the target distribution and the algorithm used to approximate it. For instance, Reinforcement Learning from Human Feedback (RLHF) corresponds to minimizing a reverse KL from an implicit target distribution arising from a KL penalty in the objective. On the other hand, Generative Distributional Control (GDC) has an …
-Cites: ‪Scaling instruction-finetuned language models‬
+--- 
+layout: post 
+title: "Aligning Language Models with Preferences through f-divergence Minimization" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "D Go, T Korbak, G Kruszewski, J Rozen, N Ryu - arXiv preprint arXiv , 2023" 
+--- 
+Aligning language models with preferences can be posed as approximating a target distribution representing some desired behavior. Existing approaches differ both in the functional form of the target distribution and the algorithm used to approximate it. For instance, Reinforcement Learning from Human Feedback (RLHF) corresponds to minimizing a reverse KL from an implicit target distribution arising from a KL penalty in the objective. On the other hand, Generative Distributional Control (GDC) has an  Cites: Scaling instruction-finetuned language models

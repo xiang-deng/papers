@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Survey on Evaluation Metrics for Machine Translation"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "S Lee, J Lee, H Moon, C Park, J Seo, S Eo, S Koo… - Mathematics, 2023"
----
-The success of Transformer architecture has seen increased interest in machine translation (MT). The translation quality of neural network-based MT transcends that of translations derived using statistical methods. This growth in MT research has entailed the development of accurate automatic evaluation metrics that allow us to track the performance of MT. However, automatically evaluating and comparing MT systems is a challenging task. Several studies have shown that traditional metrics …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "A Survey on Evaluation Metrics for Machine Translation" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "S Lee, J Lee, H Moon, C Park, J Seo, S Eo, S Koo - Mathematics, 2023" 
+--- 
+The success of Transformer architecture has seen increased interest in machine translation (MT). The translation quality of neural network-based MT transcends that of translations derived using statistical methods. This growth in MT research has entailed the development of accurate automatic evaluation metrics that allow us to track the performance of MT. However, automatically evaluating and comparing MT systems is a challenging task. Several studies have shown that traditional metrics  Cites: Deep contextualized word representations

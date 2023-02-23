@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hypergraph Clustering Network for Interaction Data"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "T Yang, L Zhang, C Yang, C Shi, M Hu, T Li, D Wang - Data Engineering"
----
-With the rapid development of social media, the data generated from interaction, which is an action collaboratively done by several objects under a certain condition, have grown exponentially. It triggers an urgent need to cluster interaction data for implicit patterns benefiting downstream tasks. Although clustering methods have been extensively studied for a long time, they mainly focus on node/object clustering, which breaks the intrinsic collaborative associations among the involved objects and …
-Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬
+--- 
+layout: post 
+title: "Hypergraph Clustering Network for Interaction Data" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "T Yang, L Zhang, C Yang, C Shi, M Hu, T Li, D Wang - Data Engineering" 
+--- 
+With the rapid development of social media, the data generated from interaction, which is an action collaboratively done by several objects under a certain condition, have grown exponentially. It triggers an urgent need to cluster interaction data for implicit patterns benefiting downstream tasks. Although clustering methods have been extensively studied for a long time, they mainly focus on node/object clustering, which breaks the intrinsic collaborative associations among the involved objects and  Cites: Learning with hypergraphs: Clustering, classification, and

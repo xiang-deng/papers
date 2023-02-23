@@ -1,9 +1,8 @@
----
-layout: post
-title:  "API comparison knowledge extraction via prompt-tuned language model"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "Y Yang, Y Zhu, S Chen, P Jian - Journal of Computer Languages, 2023"
----
-Abstract Application Programming Interfaces (APIs) are frequent in software engineering domain texts, such as API references and Stack Overflow. These APIs and the comparison knowledge between them are not only important for solving programming issues (eg, question answering), but they are also organized into structured knowledge to support many software engineering tasks (eg, API misuse detection). As a result, extracting API comparison knowledge (API entities and …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "API comparison knowledge extraction via prompt-tuned language model" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "Y Yang, Y Zhu, S Chen, P Jian - Journal of Computer Languages, 2023" 
+--- 
+Abstract Application Programming Interfaces (APIs) are frequent in software engineering domain texts, such as API references and Stack Overflow. These APIs and the comparison knowledge between them are not only important for solving programming issues (eg, question answering), but they are also organized into structured knowledge to support many software engineering tasks (eg, API misuse detection). As a result, extracting API comparison knowledge (API entities and  Cites: Codebert: A pre-trained model for programming and natural

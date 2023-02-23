@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Radar Quantitative Precipitation Estimation Based on the Gated Recurrent Unit Neural Network and Echo-Top Data"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "H Zou, S Wu, M Tian - Advances in Atmospheric Sciences, 2023"
----
-Abstract The Gated Recurrent Unit (GRU) neural network has great potential in estimating and predicting a variable. In addition to radar reflectivity (Z), radar echo-top height (ET) is also a good indicator of rainfall rate (R). In this study, we propose a new method, GRU_Z-ET, by introducing Z and ET as two independent variables into the GRU neural network to conduct the quantitative single-polarization radar precipitation estimation. The performance of GRU_Z-ET is compared with that of the …
-Cites: ‪A neural network approach to jointly modeling social networks and …‬
+--- 
+layout: post 
+title: "Radar Quantitative Precipitation Estimation Based on the Gated Recurrent Unit Neural Network and Echo-Top Data" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "H Zou, S Wu, M Tian - Advances in Atmospheric Sciences, 2023" 
+--- 
+Abstract The Gated Recurrent Unit (GRU) neural network has great potential in estimating and predicting a variable. In addition to radar reflectivity (Z), radar echo-top height (ET) is also a good indicator of rainfall rate (R). In this study, we propose a new method, GRU_Z-ET, by introducing Z and ET as two independent variables into the GRU neural network to conduct the quantitative single-polarization radar precipitation estimation. The performance of GRU_Z-ET is compared with that of the  Cites: A neural network approach to jointly modeling social networks and

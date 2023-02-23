@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TSNN: A Topic and Structure Aware Neural Network for Rumor Detection"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "Z Chen, L Wang, X Zhu, S Dietze - Neurocomputing, 2023"
----
-Detecting rumors on social media and preventing its spread play a critical role for politics, economy, etc. Conventional studies mainly focus on exploiting the content or context of the source post, while they always ignore the rich topic information within the source post. To tackle this issue, in this paper, we propose a Topic and Structure Aware Neural Network (TSNN) for rumor detection. To be specific, we explore two kinds of topic signals, including a coarse-grained topic signal (ie, topic credibility) …
-Cites: ‪Compare to the knowledge: Graph neural fake news detection with …‬
+--- 
+layout: post 
+title: "TSNN: A Topic and Structure Aware Neural Network for Rumor Detection" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "Z Chen, L Wang, X Zhu, S Dietze - Neurocomputing, 2023" 
+--- 
+Detecting rumors on social media and preventing its spread play a critical role for politics, economy, etc. Conventional studies mainly focus on exploiting the content or context of the source post, while they always ignore the rich topic information within the source post. To tackle this issue, in this paper, we propose a Topic and Structure Aware Neural Network (TSNN) for rumor detection. To be specific, we explore two kinds of topic signals, including a coarse-grained topic signal (ie, topic credibility)  Cites: Compare to the knowledge: Graph neural fake news detection with

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explainable Sparse Attention for Memory-Based Trajectory Predictors"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "F Marchetti, F Becattini, L Seidenari, A Del Bimbo - … : Tel Aviv, Israel, October 23–27 …, 2023"
----
-In this paper we address the problem of trajectory prediction, focusing on memory-based models. Such methods are trained to collect a set of useful samples that can be retrieved and used at test time to condition predictions. We propose Explainable Sparse Attention (ESA), a module that can be seamlessly plugged-in into several existing memory-based state of the art predictors. ESA generates a sparse attention in memory, thus selecting a small subset of memory entries that are relevant for the …
-Cites: ‪Ask me anything: Dynamic memory networks for natural language …‬
+--- 
+layout: post 
+title: "Explainable Sparse Attention for Memory-Based Trajectory Predictors" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "F Marchetti, F Becattini, L Seidenari, A Del Bimbo - : Tel Aviv, Israel, October 2327 , 2023" 
+--- 
+In this paper we address the problem of trajectory prediction, focusing on memory-based models. Such methods are trained to collect a set of useful samples that can be retrieved and used at test time to condition predictions. We propose Explainable Sparse Attention (ESA), a module that can be seamlessly plugged-in into several existing memory-based state of the art predictors. ESA generates a sparse attention in memory, thus selecting a small subset of memory entries that are relevant for the  Cites: Ask me anything: Dynamic memory networks for natural language

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RECA: Related Tables Enhanced Column Semantic Type Annotation Framework"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "Y Sun, H Xin, L Chen"
----
-Understanding the semantics of tabular data is of great importance in various downstream applications, such as schema matching, data cleaning, and data integration. Column semantic type annotation is a critical task in the semantic understanding of tabular data. Despite the fact that various approaches have been proposed, they are challenged by the difficulties of handling wide tables and incorporating complex inter-table context information. Failure to handle wide tables …
-Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬
+--- 
+layout: post 
+title: "RECA: Related Tables Enhanced Column Semantic Type Annotation Framework" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "Y Sun, H Xin, L Chen" 
+--- 
+Understanding the semantics of tabular data is of great importance in various downstream applications, such as schema matching, data cleaning, and data integration. Column semantic type annotation is a critical task in the semantic understanding of tabular data. Despite the fact that various approaches have been proposed, they are challenged by the difficulties of handling wide tables and incorporating complex inter-table context information. Failure to handle wide tables  Cites: TaBERT: Pretraining for joint understanding of textual and tabular

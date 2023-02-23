@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Efficient Visual Adaption via Structural Re-parameterization"
-date:   2023-02-20 23:17:05 -0400
-categories: jekyll update
-author: "G Luo, M Huang, Y Zhou, X Sun, G Jiang, Z Wang, R Ji - arXiv preprint arXiv …, 2023"
----
-Parameter-efficient transfer learning (PETL) is an emerging research spot aimed at inexpensively adapting large-scale pre-trained models to downstream tasks. Recent advances have achieved great success in saving storage costs for various vision tasks by updating or injecting a small number of parameters instead of full fine-tuning. However, we notice that most existing PETL methods still incur non-negligible latency during inference. In this paper, we propose a parameter-efficient and …
-Cites: ‪VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and …‬
+--- 
+layout: post 
+title: "Towards Efficient Visual Adaption via Structural Re-parameterization" 
+date: 2023-02-20 23:17:05 -0400 
+categories: jekyll update 
+author: "G Luo, M Huang, Y Zhou, X Sun, G Jiang, Z Wang, R Ji - arXiv preprint arXiv , 2023" 
+--- 
+Parameter-efficient transfer learning (PETL) is an emerging research spot aimed at inexpensively adapting large-scale pre-trained models to downstream tasks. Recent advances have achieved great success in saving storage costs for various vision tasks by updating or injecting a small number of parameters instead of full fine-tuning. However, we notice that most existing PETL methods still incur non-negligible latency during inference. In this paper, we propose a parameter-efficient and  Cites: VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and
