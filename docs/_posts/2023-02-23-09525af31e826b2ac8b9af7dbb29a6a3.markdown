@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Simple Disentanglement of Style and Content in Visual Representations"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "L Ngweta, S Maity, A Gittens, Y Sun, M Yurochkin - arXiv preprint arXiv:2302.09795, 2023"
+---
+Learning visual representations with interpretable features, ie, disentangled representations, remains a challenging problem. Existing methods demonstrate some success but are hard to apply to large-scale vision datasets like ImageNet. In this work, we propose a simple post-processing framework to disentangle content and style in learned representations from pre-trained vision models. We model the pre-trained features probabilistically as linearly entangled combinations of the latent …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

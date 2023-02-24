@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Seasoning Model Soups for Robustness to Adversarial and Natural Distribution Shifts"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "F Croce, SA Rebuffi, E Shelhamer, S Gowal - arXiv preprint arXiv:2302.10164, 2023"
+---
+Adversarial training is widely used to make classifiers robust to a specific threat or adversary, such as $\ell_p $-norm bounded perturbations of a given $ p $-norm. However, existing methods for training classifiers robust to multiple threats require knowledge of all attacks during training and remain vulnerable to unseen distribution shifts. In this work, we describe how to obtain adversarially-robust model soups (ie, linear combinations of parameters) that smoothly trade-off robustness to different …
+Cites: ‪Patching open-vocabulary models by interpolating weights‬

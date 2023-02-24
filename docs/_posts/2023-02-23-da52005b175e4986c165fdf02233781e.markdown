@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "WA Hanafy, Q Liang, N Bashir, D Irwin, P Shenoy - arXiv preprint arXiv:2302.08681, 2023"
+---
+Cloud platforms are increasingly emphasizing sustainable operations in order to reduce their operational carbon footprint. One approach for reducing emissions is to exploit the temporal flexibility inherent in many cloud workloads by executing them in time periods with the greenest electricity supply and suspending them at other times. Since such suspend-resume approaches can incur long delays in job completion times, we present a new approach that exploits the workload elasticity of batch …
+Cites: ‪Measuring the carbon intensity of ai in cloud instances‬

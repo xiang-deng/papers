@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Biographical information extraction: A language-agnostic methodology for datasets and models"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "A Plum - 2022"
+---
+Information extraction (IE) refers to the task of detecting and linking information contained in written texts. While it includes various subtasks, relation extraction (RE) is used to link two entities in a text via a common relation. RE can therefore be used to build linked databases of knowledge across a wide area of topics. Today, the task of RE is treated as a supervised machine learning (ML) task, where a model is trained using a specific architecture and a specific annotated dataset. These specific …
+Cites: ‪Open information extraction from the web‬

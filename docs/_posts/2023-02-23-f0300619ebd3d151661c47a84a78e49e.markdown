@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pseudo Contrastive Learning for Graph-based Semi-supervised Learning"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "W Lu, Z Guan, W Zhao, Y Yang, Y Lv, B Yu, D Tao - arXiv preprint arXiv:2302.09532, 2023"
+---
+Pseudo Labeling is a technique used to improve the performance of semi-supervised Graph Neural Networks (GNNs) by generating additional pseudo-labels based on confident predictions. However, the quality of generated pseudo-labels has long been a concern due to the sensitivity of the classification objective to given labels. To avoid the untrustworthy classification supervision indicating``a node belongs to a specific class,  we favor the fault-tolerant contrasting supervision demonstrating``two …
+Cites: ‪Learning with Local and Global Consistency.‬

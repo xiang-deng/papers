@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Deep Semantics for Test Completion"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "P Nie, R Banerjee, JJ Li, RJ Mooney, M Gligoric - arXiv preprint arXiv:2302.10166, 2023"
+---
+Writing tests is a time-consuming yet essential task during software development. We propose to leverage recent advances in deep learning for text and code generation to assist developers in writing tests. We formalize the novel task of test completion to automatically complete the next statement in a test method based on the context of prior statements and the code under test. We develop TeCo--a deep learning model using code semantics for test completion. The key insight underlying TeCo is that …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

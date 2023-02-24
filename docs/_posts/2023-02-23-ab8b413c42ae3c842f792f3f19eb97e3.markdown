@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Knowledge Relevance BERT: Integrating Noisy Knowledge into Language Representations"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "K Samel, JMZWT Zhao, I Essa"
+---
+Integrating structured knowledge into language model representations increases recall of domain-specific information useful for downstream tasks. Matching between knowledge graph entities and text entity mentions can be easily performed when entity names are unique or there exists entity linking data. When extending this setting to new domains, newly mined knowledge contains ambiguous and incorrect information, with no explicit linking information. In such settings, we design a …
+Cites: ‪Zero-shot entity linking by reading entity descriptions‬

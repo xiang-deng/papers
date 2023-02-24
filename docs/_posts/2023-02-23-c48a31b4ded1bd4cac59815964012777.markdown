@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sketch In, Sketch Out: Accelerating both Learning and Inference for Structured Prediction with Kernels"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "TE Ahmad, L Brogat-Motte, P Laforgue, F d Alché-Buc - arXiv preprint arXiv …, 2023"
+---
+Surrogate kernel-based methods offer a flexible solution to structured output prediction by leveraging the kernel trick in both input and output spaces. In contrast to energy-based models, they avoid to pay the cost of inference during training, while enjoying statistical guarantees. However, without approximation, these approaches are condemned to be used only on a limited amount of training data. In this paper, we propose to equip surrogate kernel methods with approximations based on …
+Cites: ‪Learning and inference for structured prediction: A unifying …‬

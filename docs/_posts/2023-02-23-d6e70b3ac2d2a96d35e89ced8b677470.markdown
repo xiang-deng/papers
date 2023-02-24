@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bag of Tricks for Effective Language Model Pretraining and Downstream Adaptation: A Case Study on GLUE"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "Q Zhong, L Ding, K Peng, J Liu, B Du, L Shen, Y Zhan… - arXiv preprint arXiv …, 2023"
+---
+This technical report briefly describes our JDExplore d-team s submission Vega v1 on the General Language Understanding Evaluation (GLUE) leaderboard, where GLUE is a collection of nine natural language understanding tasks, including question answering, linguistic acceptability, sentiment analysis, text similarity, paraphrase detection, and natural language inference.[Method] We investigate several effective strategies and choose their best combination setting as the training …
+Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Achieving Hierarchy-Free Approximation for Bilevel Programs With Equilibrium Constraints"
+date:   2023-02-23 04:09:00 -0400
+categories: jekyll update
+author: "J Li, J Yu, B Liu, Z Wang, YM Nie - arXiv preprint arXiv:2302.09734, 2023"
+---
+In this paper, we develop an approximation scheme for solving bilevel programs with equilibrium constraints, which are generally difficult to solve. Among other things, calculating the first-order derivative in such a problem requires differentiation across the hierarchy, which is computationally intensive, if not prohibitive. To bypass the hierarchy, we propose to bound such bilevel programs, equivalent to multiple-followers Stackelberg games, with two new hierarchy-free problems: a $ T $-step …
+Cites: ‪The ai economist: Improving equality and productivity with ai …‬
