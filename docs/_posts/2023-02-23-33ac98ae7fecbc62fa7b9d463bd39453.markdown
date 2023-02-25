@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hashtag-Guided Low-Resource Tweet Classification"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "S Diao, SS Keh, L Pan, Z Tian, Y Song, T Zhang - arXiv preprint arXiv:2302.10143, 2023"
----
-Social media classification tasks (eg, tweet sentiment analysis, tweet stance detection) are challenging because social media posts are typically short, informal, and ambiguous. Thus, training on tweets is challenging and demands large-scale human-annotated labels, which are time-consuming and costly to obtain. In this paper, we find that providing hashtags to social media tweets can help alleviate this issue because hashtags can enrich short and ambiguous tweets in terms of various …
-Cites: ‪Ctrl: A conditional transformer language model for controllable …‬
+--- 
+layout: post 
+title: "Hashtag-Guided Low-Resource Tweet Classification" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "S Diao, SS Keh, L Pan, Z Tian, Y Song, T Zhang - arXiv preprint arXiv:2302.10143, 2023" 
+--- 
+Social media classification tasks (eg, tweet sentiment analysis, tweet stance detection) are challenging because social media posts are typically short, informal, and ambiguous. Thus, training on tweets is challenging and demands large-scale human-annotated labels, which are time-consuming and costly to obtain. In this paper, we find that providing hashtags to social media tweets can help alleviate this issue because hashtags can enrich short and ambiguous tweets in terms of various  Cites: Ctrl: A conditional transformer language model for controllable

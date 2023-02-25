@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Online Continuous Hyperparameter Optimization for Contextual Bandits"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "Y Kang, CJ Hsieh, T Lee - arXiv preprint arXiv:2302.09440, 2023"
----
-In stochastic contextual bandit problems, an agent sequentially makes actions from a time-dependent action set based on past experience to minimize the cumulative regret. Like many other machine learning algorithms, the performance of bandits heavily depends on their multiple hyperparameters, and theoretically derived parameter values may lead to unsatisfactory results in practice. Moreover, it is infeasible to use offline tuning methods like cross validation to choose …
-Cites: ‪Provably optimal algorithms for generalized linear contextual bandits‬
+--- 
+layout: post 
+title: "Online Continuous Hyperparameter Optimization for Contextual Bandits" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "Y Kang, CJ Hsieh, T Lee - arXiv preprint arXiv:2302.09440, 2023" 
+--- 
+In stochastic contextual bandit problems, an agent sequentially makes actions from a time-dependent action set based on past experience to minimize the cumulative regret. Like many other machine learning algorithms, the performance of bandits heavily depends on their multiple hyperparameters, and theoretically derived parameter values may lead to unsatisfactory results in practice. Moreover, it is infeasible to use offline tuning methods like cross validation to choose  Cites: Provably optimal algorithms for generalized linear contextual bandits

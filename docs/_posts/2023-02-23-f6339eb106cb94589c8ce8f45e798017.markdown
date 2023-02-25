@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "C Lemieux, JP Inala, SK Lahiri, S Sen - 45th International Conference on Software …, 2023"
----
-Search-based software testing (SBST) generates high-coverage test cases for programs under test with a combination of test case generation and mutation. SBST s performance relies on there being a reasonable probability of generating test cases that exercise the core logic of the program under test. Given such test cases, SBST can then explore the space around them to exercise various parts of the program. This paper explores whether Large Language Models (LLMs) of code, such as …
-Cites: ‪Lamda: Language models for dialog applications‬
+--- 
+layout: post 
+title: "CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "C Lemieux, JP Inala, SK Lahiri, S Sen - 45th International Conference on Software , 2023" 
+--- 
+Search-based software testing (SBST) generates high-coverage test cases for programs under test with a combination of test case generation and mutation. SBST s performance relies on there being a reasonable probability of generating test cases that exercise the core logic of the program under test. Given such test cases, SBST can then explore the space around them to exercise various parts of the program. This paper explores whether Large Language Models (LLMs) of code, such as  Cites: Lamda: Language models for dialog applications

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A survey on online active learning"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "D Cacciarelli, M Kulahci - arXiv preprint arXiv:2302.08893, 2023"
----
-Online active learning is a paradigm in machine learning that aims to select the most informative data points to label from a data stream. The problem of minimizing the cost associated with collecting labeled observations has gained a lot of attention in recent years, particularly in real-world applications where data is only available in an unlabeled form. Annotating each observation can be time-consuming and costly, making it difficult to obtain large amounts of labeled data. To overcome this issue …
-Cites: ‪Margin-based active learning for structured output spaces‬
+--- 
+layout: post 
+title: "A survey on online active learning" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "D Cacciarelli, M Kulahci - arXiv preprint arXiv:2302.08893, 2023" 
+--- 
+Online active learning is a paradigm in machine learning that aims to select the most informative data points to label from a data stream. The problem of minimizing the cost associated with collecting labeled observations has gained a lot of attention in recent years, particularly in real-world applications where data is only available in an unlabeled form. Annotating each observation can be time-consuming and costly, making it difficult to obtain large amounts of labeled data. To overcome this issue  Cites: Margin-based active learning for structured output spaces

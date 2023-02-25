@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data-Efficient Contrastive Self-supervised Learning: Easy Examples Contribute the Most"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "S Joshi, B Mirzasoleiman - arXiv preprint arXiv:2302.09195, 2023"
----
-Self-supervised learning (SSL) learns high-quality representations from large pools of unlabeled training data. As datasets grow larger, it becomes crucial to identify the examples that contribute the most to learning such representations. This enables efficient SSL by reducing the volume of data required for learning high-quality representations. Nevertheless, quantifying the value of examples for SSL has remained an open question. In this work, we address this for the first time, by proving …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "Data-Efficient Contrastive Self-supervised Learning: Easy Examples Contribute the Most" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "S Joshi, B Mirzasoleiman - arXiv preprint arXiv:2302.09195, 2023" 
+--- 
+Self-supervised learning (SSL) learns high-quality representations from large pools of unlabeled training data. As datasets grow larger, it becomes crucial to identify the examples that contribute the most to learning such representations. This enables efficient SSL by reducing the volume of data required for learning high-quality representations. Nevertheless, quantifying the value of examples for SSL has remained an open question. In this work, we address this for the first time, by proving  Cites: Dataset cartography: Mapping and diagnosing datasets with

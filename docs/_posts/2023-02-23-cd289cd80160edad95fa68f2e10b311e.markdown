@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Stability and Generalization of Triplet Learning"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "J Chen, H Chen, X Jiang, B Gu, W Li, T Gong, F Zheng - arXiv preprint arXiv …, 2023"
----
-Triplet learning, ie learning from triplet data, has attracted much attention in computer vision tasks with an extremely large number of categories, eg, face recognition and person re-identification. Albeit with rapid progress in designing and applying triplet learning algorithms, there is a lacking study on the theoretical understanding of their generalization performance. To fill this gap, this paper investigates the generalization guarantees of triplet learning by leveraging the stability analysis. Specifically, we …
-Cites: ‪Accuracy on the line: on the strong correlation between out-of …‬
+--- 
+layout: post 
+title: "On the Stability and Generalization of Triplet Learning" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "J Chen, H Chen, X Jiang, B Gu, W Li, T Gong, F Zheng - arXiv preprint arXiv , 2023" 
+--- 
+Triplet learning, ie learning from triplet data, has attracted much attention in computer vision tasks with an extremely large number of categories, eg, face recognition and person re-identification. Albeit with rapid progress in designing and applying triplet learning algorithms, there is a lacking study on the theoretical understanding of their generalization performance. To fill this gap, this paper investigates the generalization guarantees of triplet learning by leveraging the stability analysis. Specifically, we  Cites: Accuracy on the line: on the strong correlation between out-of

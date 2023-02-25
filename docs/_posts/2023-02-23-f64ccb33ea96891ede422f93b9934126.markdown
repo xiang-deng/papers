@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Control Flow Duplication for Columnar Arrays in a Dynamic Compiler"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "S Kloibhofer, L Makor, D Leopoldseder, D Bonetta… - arXiv preprint arXiv …, 2023"
----
-Columnar databases are an established way to speed up online analytical processing (OLAP) queries. Nowadays, data processing (eg, storage, visualization, and analytics) is often performed at the programming language level, hence it is desirable to also adopt columnar data structures for common language runtimes. While there are frameworks, libraries, and APIs to enable columnar data stores in programming languages, their integration into applications typically requires …
-Cites: ‪Replicated layout for in-memory database systems‬
+--- 
+layout: post 
+title: "Control Flow Duplication for Columnar Arrays in a Dynamic Compiler" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "S Kloibhofer, L Makor, D Leopoldseder, D Bonetta - arXiv preprint arXiv , 2023" 
+--- 
+Columnar databases are an established way to speed up online analytical processing (OLAP) queries. Nowadays, data processing (eg, storage, visualization, and analytics) is often performed at the programming language level, hence it is desirable to also adopt columnar data structures for common language runtimes. While there are frameworks, libraries, and APIs to enable columnar data stores in programming languages, their integration into applications typically requires  Cites: Replicated layout for in-memory database systems

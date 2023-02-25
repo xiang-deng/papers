@@ -1,9 +1,8 @@
----
-layout: post
-title:  "KILM: Knowledge Injection into Encoder-Decoder Language Models"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "Y Xu, M Namazifar, D Hazarika, A Padmakumar, Y Liu… - arXiv preprint arXiv …, 2023"
----
-Large pre-trained language models (PLMs) have been shown to retain implicit knowledge within their parameters. To enhance this implicit knowledge, we propose Knowledge Injection into Language Models (KILM), a novel approach that injects entity-related knowledge into encoder-decoder PLMs, via a generative knowledge infilling objective through continued pre-training. This is done without architectural modifications to the PLMs or adding additional parameters. Experimental results over …
-Cites: ‪Hurdles to Progress in Long-form Question Answering‬
+--- 
+layout: post 
+title: "KILM: Knowledge Injection into Encoder-Decoder Language Models" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "Y Xu, M Namazifar, D Hazarika, A Padmakumar, Y Liu - arXiv preprint arXiv , 2023" 
+--- 
+Large pre-trained language models (PLMs) have been shown to retain implicit knowledge within their parameters. To enhance this implicit knowledge, we propose Knowledge Injection into Language Models (KILM), a novel approach that injects entity-related knowledge into encoder-decoder PLMs, via a generative knowledge infilling objective through continued pre-training. This is done without architectural modifications to the PLMs or adding additional parameters. Experimental results over  Cites: Hurdles to Progress in Long-form Question Answering

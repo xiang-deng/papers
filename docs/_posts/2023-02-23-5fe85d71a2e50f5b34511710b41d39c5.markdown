@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HomoDistil: Homotopic Task-Agnostic Distillation of Pre-trained Transformers"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "C Liang, H Jiang, Z Li, X Tang, B Yin, T Zhao - arXiv preprint arXiv:2302.09632, 2023"
----
-Knowledge distillation has been shown to be a powerful model compression approach to facilitate the deployment of pre-trained language models in practice. This paper focuses on task-agnostic distillation. It produces a compact pre-trained model that can be easily fine-tuned on various tasks with small computational costs and memory footprints. Despite the practical benefits, task-agnostic distillation is challenging. Since the teacher model has a significantly larger capacity and stronger …
-Cites: ‪Recursive deep models for semantic compositionality over a …‬
+--- 
+layout: post 
+title: "HomoDistil: Homotopic Task-Agnostic Distillation of Pre-trained Transformers" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "C Liang, H Jiang, Z Li, X Tang, B Yin, T Zhao - arXiv preprint arXiv:2302.09632, 2023" 
+--- 
+Knowledge distillation has been shown to be a powerful model compression approach to facilitate the deployment of pre-trained language models in practice. This paper focuses on task-agnostic distillation. It produces a compact pre-trained model that can be easily fine-tuned on various tasks with small computational costs and memory footprints. Despite the practical benefits, task-agnostic distillation is challenging. Since the teacher model has a significantly larger capacity and stronger  Cites: Recursive deep models for semantic compositionality over a

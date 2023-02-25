@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Role of Bias Terms in Dot-Product Attention"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "M Namazifar, D Hazarika, D Hakkani-Tur - arXiv preprint arXiv:2302.08626, 2023"
----
-Dot-product attention is a core module in the present generation of neural network models, particularly transformers, and is being leveraged across numerous areas such as natural language processing and computer vision. This attention module is comprised of three linear transformations, namely query, key, and value linear transformations, each of which has a bias term. In this work, we study the role of these bias terms, and mathematically show that the bias term of the key linear …
-Cites: ‪Jingfei Du‬
+--- 
+layout: post 
+title: "Role of Bias Terms in Dot-Product Attention" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "M Namazifar, D Hazarika, D Hakkani-Tur - arXiv preprint arXiv:2302.08626, 2023" 
+--- 
+Dot-product attention is a core module in the present generation of neural network models, particularly transformers, and is being leveraged across numerous areas such as natural language processing and computer vision. This attention module is comprised of three linear transformations, namely query, key, and value linear transformations, each of which has a bias term. In this work, we study the role of these bias terms, and mathematically show that the bias term of the key linear  Cites: Jingfei Du

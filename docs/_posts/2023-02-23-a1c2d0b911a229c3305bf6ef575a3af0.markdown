@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hope: Human-centric off-policy evaluation for e-learning and healthcare"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "G Gao, S Ju, MS Ausin, M Chi - arXiv preprint arXiv:2302.09212, 2023"
----
-Reinforcement learning (RL) has been extensively researched for enhancing human-environment interactions in various human-centric tasks, including e-learning and healthcare. Since deploying and evaluating policies online are high-stakes in such tasks, off-policy evaluation (OPE) is crucial for inducing effective policies. In human-centric environments, however, OPE is challenging because the underlying state is often unobservable, while only aggregate rewards can be observed (students  test …
-Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬
+--- 
+layout: post 
+title: "Hope: Human-centric off-policy evaluation for e-learning and healthcare" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "G Gao, S Ju, MS Ausin, M Chi - arXiv preprint arXiv:2302.09212, 2023" 
+--- 
+Reinforcement learning (RL) has been extensively researched for enhancing human-environment interactions in various human-centric tasks, including e-learning and healthcare. Since deploying and evaluating policies online are high-stakes in such tasks, off-policy evaluation (OPE) is crucial for inducing effective policies. In human-centric environments, however, OPE is challenging because the underlying state is often unobservable, while only aggregate rewards can be observed (students test  Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

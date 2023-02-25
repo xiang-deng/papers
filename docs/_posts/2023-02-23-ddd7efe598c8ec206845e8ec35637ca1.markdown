@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text Classification in the Wild: a Large-scale Long-tailed Name Normalization Dataset"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "J Qi, S Li, Z Guo, Y Huang, C Zhou, W Zhang, X Wang… - arXiv preprint arXiv …, 2023"
----
-Real-world data usually exhibits a long-tailed distribution, with a few frequent labels and a lot of few-shot labels. The study of institution name normalization is a perfect application case showing this phenomenon. There are many institutions worldwide with enormous variations of their names in the publicly available literature. In this work, we first collect a large-scale institution name normalization dataset LoT-insts1, which contains over 25k classes that exhibit a naturally long-tailed distribution. In …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Text Classification in the Wild: a Large-scale Long-tailed Name Normalization Dataset" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "J Qi, S Li, Z Guo, Y Huang, C Zhou, W Zhang, X Wang - arXiv preprint arXiv , 2023" 
+--- 
+Real-world data usually exhibits a long-tailed distribution, with a few frequent labels and a lot of few-shot labels. The study of institution name normalization is a perfect application case showing this phenomenon. There are many institutions worldwide with enormous variations of their names in the publicly available literature. In this work, we first collect a large-scale institution name normalization dataset LoT-insts1, which contains over 25k classes that exhibit a naturally long-tailed distribution. In  Cites: Deep contextualized word representations

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Scalable Prompt Generation for Semi-supervised Learning with Language Models"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "Y Zhou, S Maharjan, B Liu - arXiv preprint arXiv:2302.09236, 2023"
----
-Prompt-based learning methods in semi-supervised learning (SSL) settings have been shown to be effective on multiple natural language understanding (NLU) datasets and tasks in the literature. However, manually designing multiple prompts and verbalizers requires domain knowledge and human effort, making it difficult and expensive to scale across different datasets. In this paper, we propose two methods to automatically design multiple prompts and integrate automatic verbalizer in SSL …
-Cites: ‪Ask me anything: Dynamic memory networks for natural language …‬
+--- 
+layout: post 
+title: "Scalable Prompt Generation for Semi-supervised Learning with Language Models" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "Y Zhou, S Maharjan, B Liu - arXiv preprint arXiv:2302.09236, 2023" 
+--- 
+Prompt-based learning methods in semi-supervised learning (SSL) settings have been shown to be effective on multiple natural language understanding (NLU) datasets and tasks in the literature. However, manually designing multiple prompts and verbalizers requires domain knowledge and human effort, making it difficult and expensive to scale across different datasets. In this paper, we propose two methods to automatically design multiple prompts and integrate automatic verbalizer in SSL  Cites: Ask me anything: Dynamic memory networks for natural language

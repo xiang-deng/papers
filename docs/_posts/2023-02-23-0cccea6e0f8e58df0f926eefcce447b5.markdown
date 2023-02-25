@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bridge the Gap between Language models and Tabular Understanding"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "N Chen, L Shou, M Gong, J Pei, C You, J Chang… - arXiv preprint arXiv …, 2023"
----
-Table pretrain-then-finetune paradigm has been proposed and employed at a rapid pace after the success of pre-training in the natural language domain. Despite the promising findings in tabular pre-trained language models (TPLMs), there is an input gap between pre-training and fine-tuning phases. For instance, TPLMs jointly pre-trained with table and text input could be effective for tasks also with table-text joint input like table question answering, but it may fail for tasks with only tables or text as …
-Cites: ‪TABBIE: Pretrained Representations of Tabular Data‬
+--- 
+layout: post 
+title: "Bridge the Gap between Language models and Tabular Understanding" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "N Chen, L Shou, M Gong, J Pei, C You, J Chang - arXiv preprint arXiv , 2023" 
+--- 
+Table pretrain-then-finetune paradigm has been proposed and employed at a rapid pace after the success of pre-training in the natural language domain. Despite the promising findings in tabular pre-trained language models (TPLMs), there is an input gap between pre-training and fine-tuning phases. For instance, TPLMs jointly pre-trained with table and text input could be effective for tasks also with table-text joint input like table question answering, but it may fail for tasks with only tables or text as  Cites: TABBIE: Pretrained Representations of Tabular Data

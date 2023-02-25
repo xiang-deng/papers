@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Poisoning Web-Scale Training Datasets is Practical"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "N Carlini, M Jagielski, CA Choquette-Choo, D Paleka… - arXiv preprint arXiv …, 2023"
----
-Deep learning models are often trained on distributed, webscale datasets crawled from the internet. In this paper, we introduce two new dataset poisoning attacks that intentionally introduce malicious examples to a model s performance. Our attacks are immediately practical and could, today, poison 10 popular datasets. Our first attack, split-view poisoning, exploits the mutable nature of internet content to ensure a dataset annotator s initial view of the dataset differs from the view downloaded by …
-Cites: ‪The web as a knowledge-base for answering complex questions‬
+--- 
+layout: post 
+title: "Poisoning Web-Scale Training Datasets is Practical" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "N Carlini, M Jagielski, CA Choquette-Choo, D Paleka - arXiv preprint arXiv , 2023" 
+--- 
+Deep learning models are often trained on distributed, webscale datasets crawled from the internet. In this paper, we introduce two new dataset poisoning attacks that intentionally introduce malicious examples to a model s performance. Our attacks are immediately practical and could, today, poison 10 popular datasets. Our first attack, split-view poisoning, exploits the mutable nature of internet content to ensure a dataset annotator s initial view of the dataset differs from the view downloaded by  Cites: The web as a knowledge-base for answering complex questions

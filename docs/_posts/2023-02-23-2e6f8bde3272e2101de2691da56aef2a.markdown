@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Keep it Neutral: Using Natural Language Inference to Improve Generation"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "M Mersinias, K Mahowald - arXiv preprint arXiv:2302.08577, 2023"
----
-We explore incorporating natural language inference (NLI) into the text generative pipeline by using a pre-trained NLI model to assess whether a generated sentence entails, contradicts, or is neutral to the prompt and preceding text. First, we show that the NLI task is predictive of generation errors made by GPT-3. We use these results to develop an NLI-informed generation procedure for GPT-J. Then, we evaluate these generations by obtaining human annotations on error types and overall quality …
-Cites: ‪Is GPT-3 text indistinguishable from human text? scarecrow: A …‬
+--- 
+layout: post 
+title: "Keep it Neutral: Using Natural Language Inference to Improve Generation" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "M Mersinias, K Mahowald - arXiv preprint arXiv:2302.08577, 2023" 
+--- 
+We explore incorporating natural language inference (NLI) into the text generative pipeline by using a pre-trained NLI model to assess whether a generated sentence entails, contradicts, or is neutral to the prompt and preceding text. First, we show that the NLI task is predictive of generation errors made by GPT-3. We use these results to develop an NLI-informed generation procedure for GPT-J. Then, we evaluate these generations by obtaining human annotations on error types and overall quality  Cites: Is GPT-3 text indistinguishable from human text? scarecrow: A

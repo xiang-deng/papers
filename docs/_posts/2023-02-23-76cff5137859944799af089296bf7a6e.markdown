@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query Performance Prediction for Neural IR: Are We There Yet?"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "G Faggioli, T Formal, S Marchesin, S Clinchant, N Ferro… - arXiv preprint arXiv …, 2023"
----
-Evaluation in Information Retrieval relies on post-hoc empirical procedures, which are time-consuming and expensive operations. To alleviate this, Query Performance Prediction (QPP) models have been developed to estimate the performance of a system without the need for human-made relevance judgements. Such models, usually relying on lexical features from queries and corpora, have been applied to traditional sparse IR methods-with various degrees of success. With the advent of …
-Cites: ‪Towards unsupervised dense information retrieval with contrastive …‬
+--- 
+layout: post 
+title: "Query Performance Prediction for Neural IR: Are We There Yet?" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "G Faggioli, T Formal, S Marchesin, S Clinchant, N Ferro - arXiv preprint arXiv , 2023" 
+--- 
+Evaluation in Information Retrieval relies on post-hoc empirical procedures, which are time-consuming and expensive operations. To alleviate this, Query Performance Prediction (QPP) models have been developed to estimate the performance of a system without the need for human-made relevance judgements. Such models, usually relying on lexical features from queries and corpora, have been applied to traditional sparse IR methods-with various degrees of success. With the advent of  Cites: Towards unsupervised dense information retrieval with contrastive

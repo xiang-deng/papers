@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Contrastive Learning Framework with Tree-LSTMs for Aspect-Based Sentiment Analysis"
-date:   2023-02-23 04:09:00 -0400
-categories: jekyll update
-author: "Q Zhang, S Wang, J Li - Neural Processing Letters, 2023"
----
-Different from sentence-level sentiment analysis, the aspect-based sentiment analysis (ABSA) is a fine-grained task that aims to identify the sentiment polarity towards specific aspect terms in a sentence. However, the lack of fine-grained labeled data and the fact that a sentence may contain multiple aspects or complex implicit sentiment relations make ABSA still face challenges. Specifically, effectively exploiting syntactic dependencies to construct contextual information in a sentence …
-Cites: ‪Adaptive recursive neural network for target-dependent twitter …‬
+--- 
+layout: post 
+title: "A Contrastive Learning Framework with Tree-LSTMs for Aspect-Based Sentiment Analysis" 
+date: 2023-02-23 04:09:00 -0400 
+categories: jekyll update 
+author: "Q Zhang, S Wang, J Li - Neural Processing Letters, 2023" 
+--- 
+Different from sentence-level sentiment analysis, the aspect-based sentiment analysis (ABSA) is a fine-grained task that aims to identify the sentiment polarity towards specific aspect terms in a sentence. However, the lack of fine-grained labeled data and the fact that a sentence may contain multiple aspects or complex implicit sentiment relations make ABSA still face challenges. Specifically, effectively exploiting syntactic dependencies to construct contextual information in a sentence  Cites: Adaptive recursive neural network for target-dependent twitter
