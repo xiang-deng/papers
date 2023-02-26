@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fine-grained Commit-level Vulnerability Type Prediction by CWE Tree Structure"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "S Pan, L Bao, X Xia, D Lo, S Li"
+---
+Identifying security patches via code commits to allow early warnings and timely fixes for Open Source Software (OSS) has received increasing attention. However, the existing detection methods can only identify the presence of a patch (ie, a binary classification) but fail to pinpoint the vulnerability type. In this work, we take the first step to categorize the security patches into fine-grained vulnerability types. Specifically, we use the Common Weakness Enumeration (CWE) as the label and …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

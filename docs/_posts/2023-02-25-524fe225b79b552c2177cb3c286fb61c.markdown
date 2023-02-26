@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "N Nashid, M Sintaha, A Mesbah"
+---
+Large language models trained on massive code corpora can generalize to new tasks without the need for taskspecific fine-tuning. In few-shot learning, these models take as input a prompt, composed of natural language instructions, a few instances of task demonstration, and a query and generate an output. However, the creation of an effective prompt for coderelated tasks in few-shot learning has received little attention. We present a technique for prompt creation that automatically retrieves …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

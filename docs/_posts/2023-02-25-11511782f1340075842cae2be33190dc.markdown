@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A New Baseline for GreenAI: Finding the Optimal Sub-Network via Layer and Channel Pruning"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "X Zhi, V Babbar, P Sun, F Silavong, R Shi, S Moran - arXiv preprint arXiv:2302.10798, 2023"
+---
+The concept of Green AI has been gaining attention within the deep learning community given the recent trend of ever larger and more complex neural network models. Some large models have billions of parameters causing the training time to take up to hundreds of GPU/TPU-days. The estimated energy consumption can be comparable to the annual total energy consumption of a standard household. Existing solutions to reduce the computational burden usually involve pruning the …
+Cites: ‪Pruning redundant mappings in transformer models via spectral …‬

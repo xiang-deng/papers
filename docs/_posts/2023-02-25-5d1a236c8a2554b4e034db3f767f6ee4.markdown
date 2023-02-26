@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A3Test: Assertion-Augmented Automated Test Case Generation"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "S Alagarsamy, C Tantithamthavorn, A Aleti - arXiv preprint arXiv:2302.10352, 2023"
+---
+Test case generation is an important activity, yet a time-consuming and laborious task. Recently, AthenaTest--a deep learning approach for generating unit test cases--is proposed. However, AthenaTest can generate less than one-fifth of the test cases correctly, due to a lack of assertion knowledge and test signature verification. In this paper, we propose A3Test, a DL-based test case generation approach that is augmented by assertion knowledge with a mechanism to verify naming consistency …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

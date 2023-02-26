@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Delving into Identify-Emphasize Paradigm for Combating Unknown Bias"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "B Zhao, C Chen, QW Wang, A He, ST Xia - arXiv preprint arXiv:2302.11414, 2023"
+---
+Dataset biases are notoriously detrimental to model robustness and generalization. The identify-emphasize paradigm appears to be effective in dealing with unknown biases. However, we discover that it is still plagued by two challenges: A, the quality of the identified bias-conflicting samples is far from satisfactory; B, the emphasizing strategies only produce suboptimal performance. In this paper, for challenge A, we propose an effective bias-conflicting scoring method (ECS) to boost the identification …
+Cites: ‪Learning to model and ignore dataset bias with mixed capacity …‬

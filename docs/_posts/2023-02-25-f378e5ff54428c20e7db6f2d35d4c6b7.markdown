@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Potential-based reward shaping for learning to play text-based adventure games"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "W Li, R Devidze, S Fellenz - arXiv preprint arXiv:2302.10720, 2023"
+---
+Text-based games are a popular testbed for language-based reinforcement learning (RL). In previous work, deep Q-learning is commonly used as the learning agent. Q-learning algorithms are challenging to apply to complex real-world domains due to, for example, their instability in training. Therefore, in this paper, we adapt the soft-actor-critic (SAC) algorithm to the text-based environment. To deal with sparse extrinsic rewards from the environment, we combine it with a potential-based reward …
+Cites: ‪Multi-hop knowledge graph reasoning with reward shaping‬

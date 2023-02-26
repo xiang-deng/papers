@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Data Augmentation for Neural NLP"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "D Pluščec, J Šnajder - arXiv preprint arXiv:2302.11412, 2023"
+---
+Data scarcity is a problem that occurs in languages and tasks where we do not have large amounts of labeled data but want to use state-of-the-art models. Such models are often deep learning models that require a significant amount of data to train. Acquiring data for various machine learning problems is accompanied by high labeling costs. Data augmentation is a low-cost approach for tackling data scarcity. This paper gives an overview of current state-of-the-art data augmentation methods …
+Cites: ‪Openattack: An open-source textual adversarial attack toolkit‬

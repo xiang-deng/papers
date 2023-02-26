@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Novel Methods for Natural Language Modeling and Pretraining"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "H Bai - 2023"
+---
+This thesis is about modeling language sequences to achieve lower perplexity, better generation, and benefit downstream language tasks; specifically, this thesis addresses the importance of natural language features including the segmentation feature, lexical feature, and alignment feature. We present three new techniques that improve language sequence modeling with different language features. 1. Segment-Aware Language Modeling is a novel model architecture leveraging the text …
+Cites: ‪Palm: Scaling language modeling with pathways‬

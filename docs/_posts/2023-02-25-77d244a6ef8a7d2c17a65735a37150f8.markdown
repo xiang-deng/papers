@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "One-Shot Labeling for Automatic Relevance Estimation"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "S MacAvaney, L Soldaini - arXiv preprint arXiv:2302.11266, 2023"
+---
+Dealing with unjudged documents (  holes ) in relevance assessments is a perennial problem when evaluating search systems with offline experiments. Holes can reduce the apparent effectiveness of retrieval systems during evaluation and introduce biases in models trained with incomplete data. In this work, we explore whether large language models can help us fill such holes to improve offline evaluations. We examine an extreme, albeit common, evaluation setting wherein only a single known …
+Cites: ‪Super-naturalinstructions: Generalization via declarative …‬

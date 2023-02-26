@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modular Deep Learning"
+date:   2023-02-25 03:28:56 -0400
+categories: jekyll update
+author: "J Pfeiffer, S Ruder, I Vulić, EM Ponti - arXiv preprint arXiv:2302.11529, 2023"
+---
+Transfer learning has recently become the dominant paradigm of machine learning. Pre-trained models fine-tuned for downstream tasks achieve better performance with fewer labelled examples. Nonetheless, it remains unclear how to develop models that specialise towards multiple tasks without incurring negative interference and that generalise systematically to non-identically distributed tasks. Modular deep learning has emerged as a promising solution to these challenges. In this framework, units of …
+Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬
