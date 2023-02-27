@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distant supervision for relation extraction with hierarchical attention-based networks"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "J Zhang, M Cao - Expert Systems with Applications, 2023"
----
-Distant supervision employs external knowledge bases to automatically label corpora. The labeled sentences in a corpus are usually packaged and trained for relation extraction using a multi-instance learning paradigm. The automated distant supervision inevitably introduces label noises. Previous studies that used sentence-level attention mechanisms to de-noise neither considered correlation among sentences in a bag nor correlation among bags. As a result, a large amount of …
-Cites: ‪Modeling relations and their mentions without labeled text‬
+--- 
+layout: post 
+title: "Distant supervision for relation extraction with hierarchical attention-based networks" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "J Zhang, M Cao - Expert Systems with Applications, 2023" 
+--- 
+Distant supervision employs external knowledge bases to automatically label corpora. The labeled sentences in a corpus are usually packaged and trained for relation extraction using a multi-instance learning paradigm. The automated distant supervision inevitably introduces label noises. Previous studies that used sentence-level attention mechanisms to de-noise neither considered correlation among sentences in a bag nor correlation among bags. As a result, a large amount of  Cites: Modeling relations and their mentions without labeled text

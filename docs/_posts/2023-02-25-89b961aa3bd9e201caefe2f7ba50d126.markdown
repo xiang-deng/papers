@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mask-guided BERT for Few Shot Text Classification"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "W Liao, Z Liu, H Dai, Z Wu, Y Zhang, X Huang, Y Chen… - arXiv preprint arXiv …, 2023"
----
-Transformer-based language models have achieved significant success in various domains. However, the data-intensive nature of the transformer architecture requires much labeled data, which is challenging in low-resource scenarios (ie, few-shot learning (FSL)). The main challenge of FSL is the difficulty of training robust models on small amounts of samples, which frequently leads to overfitting. Here we present Mask-BERT, a simple and modular framework to help BERT-based architectures …
-Cites: ‪Label semantic aware pre-training for few-shot text classification‬
+--- 
+layout: post 
+title: "Mask-guided BERT for Few Shot Text Classification" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "W Liao, Z Liu, H Dai, Z Wu, Y Zhang, X Huang, Y Chen - arXiv preprint arXiv , 2023" 
+--- 
+Transformer-based language models have achieved significant success in various domains. However, the data-intensive nature of the transformer architecture requires much labeled data, which is challenging in low-resource scenarios (ie, few-shot learning (FSL)). The main challenge of FSL is the difficulty of training robust models on small amounts of samples, which frequently leads to overfitting. Here we present Mask-BERT, a simple and modular framework to help BERT-based architectures  Cites: Label semantic aware pre-training for few-shot text classification

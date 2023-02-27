@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On ML-Based Program Translation: Perils and Promises"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "A Malyala, K Zhou, B Ray, S Chakraborty - arXiv preprint arXiv:2302.10812, 2023"
----
-With the advent of new and advanced programming languages, it becomes imperative to migrate legacy software to new programming languages. Unsupervised Machine Learning-based Program Translation could play an essential role in such migration, even without a sufficiently sizeable reliable corpus of parallel source code. However, these translators are far from perfect due to their statistical nature. This work investigates unsupervised program translators and where and why they fail …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "On ML-Based Program Translation: Perils and Promises" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "A Malyala, K Zhou, B Ray, S Chakraborty - arXiv preprint arXiv:2302.10812, 2023" 
+--- 
+With the advent of new and advanced programming languages, it becomes imperative to migrate legacy software to new programming languages. Unsupervised Machine Learning-based Program Translation could play an essential role in such migration, even without a sufficiently sizeable reliable corpus of parallel source code. However, these translators are far from perfect due to their statistical nature. This work investigates unsupervised program translators and where and why they fail  Cites: Codexglue: A machine learning benchmark dataset for code

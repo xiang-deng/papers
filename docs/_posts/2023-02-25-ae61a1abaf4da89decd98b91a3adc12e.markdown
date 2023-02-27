@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Deep Active Learning in the Presence of Label Noise: A Survey"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "M Mots  oehli - arXiv preprint arXiv:2302.11075, 2023"
----
-Deep active learning has emerged as a powerful tool for training deep learning models within a predefined labeling budget. These models have achieved performances comparable to those trained in an offline setting. However, deep active learning faces substantial issues when dealing with classification datasets containing noisy labels. In this literature review, we discuss the current state of deep active learning in the presence of label noise, highlighting unique approaches, their …
-Cites: ‪Maximum margin coresets for active and noise tolerant learning‬

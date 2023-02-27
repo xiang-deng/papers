@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MOJI: Character-level convolutional neural networks for Malicious Obfuscated JavaScript Inspection"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "M Ishida, N Kaneko, K Sumi - Applied Soft Computing, 2023"
----
-JavaScript malware is one of the major threats to web security. A big challenge in detecting such malicious JavaScript is obfuscation, which transforms a program code into a harder-to-understand representation while preserving its original functionality. Many malicious JavaScript detection methods perform code abstraction and prior feature extraction to uncover the functionality hidden by obfuscation. However, such preprocessing steps significantly limit the detectors  efficiency in practical situations …
-Cites: ‪Detecting formal thought disorder by deep contextualized word …‬
+--- 
+layout: post 
+title: "MOJI: Character-level convolutional neural networks for Malicious Obfuscated JavaScript Inspection" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "M Ishida, N Kaneko, K Sumi - Applied Soft Computing, 2023" 
+--- 
+JavaScript malware is one of the major threats to web security. A big challenge in detecting such malicious JavaScript is obfuscation, which transforms a program code into a harder-to-understand representation while preserving its original functionality. Many malicious JavaScript detection methods perform code abstraction and prior feature extraction to uncover the functionality hidden by obfuscation. However, such preprocessing steps significantly limit the detectors efficiency in practical situations  Cites: Detecting formal thought disorder by deep contextualized word

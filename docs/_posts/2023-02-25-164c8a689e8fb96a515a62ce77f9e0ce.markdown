@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning from Multiple Sources for Data-to-Text and Text-to-Data"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "S Duong, A Lumbreras, M Gartrell, P Gallinari - arXiv preprint arXiv:2302.11269, 2023"
----
-Data-to-text (D2T) and text-to-data (T2D) are dual tasks that convert structured data, such as graphs or tables into fluent text, and vice versa. These tasks are usually handled separately and use corpora extracted from a single source. Current systems leverage pre-trained language models fine-tuned on D2T or T2D tasks. This approach has two main limitations: first, a separate system has to be tuned for each task and source; second, learning is limited by the scarcity of available corpora. This …
-Cites: ‪Unifiedskg: Unifying and multi-tasking structured knowledge …‬
+--- 
+layout: post 
+title: "Learning from Multiple Sources for Data-to-Text and Text-to-Data" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "S Duong, A Lumbreras, M Gartrell, P Gallinari - arXiv preprint arXiv:2302.11269, 2023" 
+--- 
+Data-to-text (D2T) and text-to-data (T2D) are dual tasks that convert structured data, such as graphs or tables into fluent text, and vice versa. These tasks are usually handled separately and use corpora extracted from a single source. Current systems leverage pre-trained language models fine-tuned on D2T or T2D tasks. This approach has two main limitations: first, a separate system has to be tuned for each task and source; second, learning is limited by the scarcity of available corpora. This  Cites: Unifiedskg: Unifying and multi-tasking structured knowledge

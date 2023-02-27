@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generic Dependency Modeling for Multi-Party Conversation"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "W Shen, X Quan, K Yang - arXiv preprint arXiv:2302.10680, 2023"
----
-To model the dependencies between utterances in multi-party conversations, we propose a simple and generic framework based on the dependency parsing results of utterances. Particularly, we present an approach to encoding the dependencies in the form of relative dependency encoding (ReDE) and illustrate how to implement it in Transformers by modifying the computation of self-attention. Experimental results on four multi-party conversation benchmarks show that this framework successfully …
-Cites: ‪Tree-structured attention with hierarchical accumulation‬
+--- 
+layout: post 
+title: "Generic Dependency Modeling for Multi-Party Conversation" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "W Shen, X Quan, K Yang - arXiv preprint arXiv:2302.10680, 2023" 
+--- 
+To model the dependencies between utterances in multi-party conversations, we propose a simple and generic framework based on the dependency parsing results of utterances. Particularly, we present an approach to encoding the dependencies in the form of relative dependency encoding (ReDE) and illustrate how to implement it in Transformers by modifying the computation of self-attention. Experimental results on four multi-party conversation benchmarks show that this framework successfully  Cites: Tree-structured attention with hierarchical accumulation

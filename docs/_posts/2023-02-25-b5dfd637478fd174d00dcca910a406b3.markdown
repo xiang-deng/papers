@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Unsupervised Learning on a DIET: Datum IndEx as Target Free of Self-Supervision, Reconstruction, Projector Head"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "R Balestriero - arXiv preprint arXiv:2302.10260, 2023"
----
-Costly, noisy, and over-specialized, labels are to be set aside in favor of unsupervised learning if we hope to learn cheap, reliable, and transferable models. To that end, spectral embedding, self-supervised learning, or generative modeling have offered competitive solutions. Those methods however come with numerous challenges\textit {eg} estimating geodesic distances, specifying projector architectures and anti-collapse losses, or specifying decoder architectures and …
-Cites: ‪Improving self-supervised learning by characterizing idealized …‬

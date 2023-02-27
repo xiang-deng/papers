@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NLPLego: Assembling Test Generation for Natural Language Processing Applications"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "P Ji, Y Feng, W Huang, J Liu, Z Zhao - arXiv preprint arXiv:2302.10499, 2023"
----
-The development of modern NLP applications often relies on various benchmark datasets containing plenty of manually labeled tests to evaluate performance. While constructing datasets often costs many resources, the performance on the held-out data may not properly reflect their capability in real-world application scenarios and thus cause tremendous misunderstanding and monetary loss. To alleviate this problem, in this paper, we propose an automated test generation method for …
-Cites: ‪Evaluating models  local decision boundaries via contrast sets‬
+--- 
+layout: post 
+title: "NLPLego: Assembling Test Generation for Natural Language Processing Applications" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "P Ji, Y Feng, W Huang, J Liu, Z Zhao - arXiv preprint arXiv:2302.10499, 2023" 
+--- 
+The development of modern NLP applications often relies on various benchmark datasets containing plenty of manually labeled tests to evaluate performance. While constructing datasets often costs many resources, the performance on the held-out data may not properly reflect their capability in real-world application scenarios and thus cause tremendous misunderstanding and monetary loss. To alleviate this problem, in this paper, we propose an automated test generation method for  Cites: Evaluating models local decision boundaries via contrast sets

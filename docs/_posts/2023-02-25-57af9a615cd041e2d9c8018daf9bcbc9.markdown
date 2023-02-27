@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How Does In-Context Learning Help Prompt Tuning?"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "S Sun, Y Liu, D Iter, C Zhu, M Iyyer - arXiv preprint arXiv:2302.11521, 2023"
----
-Fine-tuning large language models is becoming ever more impractical due to their rapidly-growing scale. This motivates the use of parameter-efficient adaptation methods such as prompt tuning (PT), which adds a small number of tunable embeddings to an otherwise frozen model, and in-context learning (ICL), in which demonstrations of the task are provided to the model in natural language without any additional training. Recently, Singhal et al.(2022) propose``instruction prompt …
-Cites: ‪Least-to-Most Prompting Enables Complex Reasoning in Large …‬
+--- 
+layout: post 
+title: "How Does In-Context Learning Help Prompt Tuning?" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "S Sun, Y Liu, D Iter, C Zhu, M Iyyer - arXiv preprint arXiv:2302.11521, 2023" 
+--- 
+Fine-tuning large language models is becoming ever more impractical due to their rapidly-growing scale. This motivates the use of parameter-efficient adaptation methods such as prompt tuning (PT), which adds a small number of tunable embeddings to an otherwise frozen model, and in-context learning (ICL), in which demonstrations of the task are provided to the model in natural language without any additional training. Recently, Singhal et al.(2022) propose``instruction prompt  Cites: Least-to-Most Prompting Enables Complex Reasoning in Large

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SGD learning on neural networks: leap complexity and saddle-to-saddle dynamics"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "E Abbe, E Boix-Adsera, T Misiakiewicz - arXiv preprint arXiv:2302.11055, 2023"
----
-We investigate the time complexity of SGD learning on fully-connected neural networks with isotropic data. We put forward a complexity measure--the leap--which measures how  hierarchical  target functions are. For $ d $-dimensional uniform Boolean or isotropic Gaussian data, our main conjecture states that the time complexity to learn a function $ f $ with low-dimensional support is $\tilde\Theta (d^{\max (\mathrm {Leap}(f), 2)}) $. We prove a version of this conjecture for a class of …
-Cites: ‪Towards understanding hierarchical learning: Benefits of neural …‬
+--- 
+layout: post 
+title: "SGD learning on neural networks: leap complexity and saddle-to-saddle dynamics" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "E Abbe, E Boix-Adsera, T Misiakiewicz - arXiv preprint arXiv:2302.11055, 2023" 
+--- 
+We investigate the time complexity of SGD learning on fully-connected neural networks with isotropic data. We put forward a complexity measure--the leap--which measures how hierarchical target functions are. For $ d $-dimensional uniform Boolean or isotropic Gaussian data, our main conjecture states that the time complexity to learn a function $ f $ with low-dimensional support is $\tilde\Theta (d^{\max (\mathrm {Leap}(f), 2)}) $. We prove a version of this conjecture for a class of  Cites: Towards understanding hierarchical learning: Benefits of neural

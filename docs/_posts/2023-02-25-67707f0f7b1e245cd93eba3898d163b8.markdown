@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tell Model Where to Attend: Improving Interpretability of Aspect-Based Sentiment Classification via Small Explanation Annotations"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "Z Cheng, J Zhou, W Wu, Q Chen, L He - arXiv preprint arXiv:2302.10479, 2023"
----
-Gradient-based explanation methods play an important role in the field of interpreting complex deep neural networks for NLP models. However, the existing work has shown that the gradients of a model are unstable and easily manipulable, which impacts the model s reliability largely. According to our preliminary analyses, we also find the interpretability of gradient-based methods is limited for complex tasks, such as aspect-based sentiment classification (ABSC). In this paper, we propose an\textbf …
-Cites: ‪AllenNLP Interpret: A Framework for Explaining Predictions of NLP …‬
+--- 
+layout: post 
+title: "Tell Model Where to Attend: Improving Interpretability of Aspect-Based Sentiment Classification via Small Explanation Annotations" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "Z Cheng, J Zhou, W Wu, Q Chen, L He - arXiv preprint arXiv:2302.10479, 2023" 
+--- 
+Gradient-based explanation methods play an important role in the field of interpreting complex deep neural networks for NLP models. However, the existing work has shown that the gradients of a model are unstable and easily manipulable, which impacts the model s reliability largely. According to our preliminary analyses, we also find the interpretability of gradient-based methods is limited for complex tasks, such as aspect-based sentiment classification (ABSC). In this paper, we propose an\textbf  Cites: AllenNLP Interpret: A Framework for Explaining Predictions of NLP

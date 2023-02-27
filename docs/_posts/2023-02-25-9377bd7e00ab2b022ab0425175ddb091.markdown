@@ -1,9 +1,8 @@
----
-layout: post
-title:  "$ k $ NN-Adapter: Efficient Domain Adaptation for Black-Box Language Models"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "Y Huang, D Liu, Z Zhong, W Shi, YT Lee - arXiv preprint arXiv:2302.10879, 2023"
----
-Fine-tuning a language model on a new domain is standard practice for domain adaptation. However, it can be infeasible when it comes to modern large-scale language models such as GPT-3, which can only be accessed through APIs, making it difficult to access the internal parameters of the model. In this paper, we propose $ k $ NN-Adapter, a method to effectively adapt these black-box large language models (LLMs) to a new domain. The $ k $ NN-Adapter builds on top of the retrieval …
-Cites: ‪Meta-Learning Fast Weight Language Models‬
+--- 
+layout: post 
+title: "$ k $ NN-Adapter: Efficient Domain Adaptation for Black-Box Language Models" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "Y Huang, D Liu, Z Zhong, W Shi, YT Lee - arXiv preprint arXiv:2302.10879, 2023" 
+--- 
+Fine-tuning a language model on a new domain is standard practice for domain adaptation. However, it can be infeasible when it comes to modern large-scale language models such as GPT-3, which can only be accessed through APIs, making it difficult to access the internal parameters of the model. In this paper, we propose $ k $ NN-Adapter, a method to effectively adapt these black-box large language models (LLMs) to a new domain. The $ k $ NN-Adapter builds on top of the retrieval  Cites: Meta-Learning Fast Weight Language Models

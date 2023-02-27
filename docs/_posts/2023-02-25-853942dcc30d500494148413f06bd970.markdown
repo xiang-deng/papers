@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Toward Optimum Transformer Model for Sequence-to-Sequence Data Transformation under Low-resource Computation Constraint"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "Y Heryadi, C Tho, BD Wijanarko, DF Murad…"
----
-Accurate language translator applications running on low-resource computing devices such as smartphone is very instrumental to support tourism industry. The main challenge to achieve such objective is how to optimize performance of machine translation model targeted to limited resource of computing devices. Vanilla transformer model has been well known as one of state-of-theart neural machine translation model. However, the drawback of this model is its large number of …
-Cites: ‪Transformer feed-forward layers are key-value memories‬
+--- 
+layout: post 
+title: "Toward Optimum Transformer Model for Sequence-to-Sequence Data Transformation under Low-resource Computation Constraint" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "Y Heryadi, C Tho, BD Wijanarko, DF Murad" 
+--- 
+Accurate language translator applications running on low-resource computing devices such as smartphone is very instrumental to support tourism industry. The main challenge to achieve such objective is how to optimize performance of machine translation model targeted to limited resource of computing devices. Vanilla transformer model has been well known as one of state-of-theart neural machine translation model. However, the drawback of this model is its large number of  Cites: Transformer feed-forward layers are key-value memories

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Guiding Large Language Models via Directional Stimulus Prompting"
-date:   2023-02-25 03:28:56 -0400
-categories: jekyll update
-author: "Z Li, B Peng, P He, M Galley, J Gao, X Yan - arXiv preprint arXiv:2302.11520, 2023"
----
-We introduce a new framework, Directional Stimulus Prompting, that uses a tuneable language model (LM) to provide guidance for the black-box frozen large language model (LLM) on downstream tasks. Unlike prior work that manually or automatically finds the optimal prompt for each task, we train a policy LM to generate discrete tokens as``directional stimulus  of each input, which is a hint/cue such as keywords of an article for summarization. The directional stimulus is then combined with the …
-Cites: ‪Scaling instruction-finetuned language models‬
+--- 
+layout: post 
+title: "Guiding Large Language Models via Directional Stimulus Prompting" 
+date: 2023-02-25 03:28:56 -0400 
+categories: jekyll update 
+author: "Z Li, B Peng, P He, M Galley, J Gao, X Yan - arXiv preprint arXiv:2302.11520, 2023" 
+--- 
+We introduce a new framework, Directional Stimulus Prompting, that uses a tuneable language model (LM) to provide guidance for the black-box frozen large language model (LLM) on downstream tasks. Unlike prior work that manually or automatically finds the optimal prompt for each task, we train a policy LM to generate discrete tokens as``directional stimulus of each input, which is a hint/cue such as keywords of an article for summarization. The directional stimulus is then combined with the  Cites: Scaling instruction-finetuned language models
