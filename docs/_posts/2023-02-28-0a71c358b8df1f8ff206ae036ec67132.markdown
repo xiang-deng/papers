@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Asymptotically Unbiased Off-Policy Policy Evaluation when Reusing Old Data in Nonstationary Environments"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "V Liu, Y Chandak, P Thomas, M White - arXiv preprint arXiv:2302.11725, 2023"
+---
+In this work, we consider the off-policy policy evaluation problem for contextual bandits and finite horizon reinforcement learning in the nonstationary setting. Reusing old data is critical for policy evaluation, but existing estimators that reuse old data introduce large bias such that we can not obtain a valid confidence interval. Inspired from a related field called survey sampling, we introduce a variant of the doubly robust (DR) estimator, called the regression-assisted DR estimator, that can …
+Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬

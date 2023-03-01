@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Better conditioning on context for natural language processing"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "Q Liu - 2022"
+---
+Learning distributed representations of natural language has become a common practice for Natural Language Processing (NLP). Non-contextual embeddings map each token in the vocabulary to a low-dimensional real-valued vector. Although these representations perform competitively on word-level tasks, eg measuring word similarities, they are context-independent and fail to distinguish the semantics of words in different contexts. This gives rise to contextual embeddings, where each …
+Cites: ‪Task-oriented dialogue as dataflow synthesis‬

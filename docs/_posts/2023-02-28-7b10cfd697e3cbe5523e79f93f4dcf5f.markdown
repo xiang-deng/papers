@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "M Kim, D Li, T Hospedales - arXiv preprint arXiv:2302.12047, 2023"
+---
+We tackle the domain generalisation (DG) problem by posing it as a domain adaptation (DA) task where we adversarially synthesise the worst-case target domain and adapt a model to that worst-case domain, thereby improving the model s robustness. To synthesise data that is challenging yet semantics-preserving, we generate Fourier amplitude images and combine them with source domain phase images, exploiting the widely believed conjecture from signal processing that …
+Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬

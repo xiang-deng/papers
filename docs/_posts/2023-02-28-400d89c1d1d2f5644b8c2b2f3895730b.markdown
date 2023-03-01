@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SmallBPR: Parameters Sharing for Binary Passage Retriever"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "Z Li"
+---
+In open domain question answering systems, Dense Passage Retriever (DPR) has become a popular approach to retrieving relevant passages for finding answers. However, the biggest shortcoming of such a system is it takes too much memory to store the index and model. Though Binary Passage Retriever (BPR) significantly reduces the size of the index, it still suffers from the heavy model size because of large pre-trained models. In this paper, we introduce a new model named SmallBPR …
+Cites: ‪Semantic parsing on freebase from question-answer pairs‬

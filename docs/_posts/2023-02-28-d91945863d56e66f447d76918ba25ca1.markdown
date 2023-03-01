@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Augmenting aspect-level sentiment classification with distance-related local context input"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "Y Dong, Q Zou, CR Shi - The Journal of Supercomputing, 2023"
+---
+Aspect-level sentiment classification is a fine-grained sentiment classification task to predict sentiment polarities of different aspects within sentences. Recently, attention mechanisms and graph neural networks over dependency tree have been explored to capture semantic and syntactic correlations between aspects and context words. More recently, some methods have been applied for modeling connections between aspects and their local context. However, these local context-based approaches …
+Cites: ‪Deep contextualized word representations‬

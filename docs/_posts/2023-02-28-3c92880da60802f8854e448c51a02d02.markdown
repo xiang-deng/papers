@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "Q Tan, N Liu, X Huang, SH Choi, L Li, R Chen, X Hu - Proceedings of the Sixteenth …, 2023"
+---
+Self-supervised learning (SSL) has been demonstrated to be effective in pre-training models that can be generalized to various downstream tasks. Graph Autoencoder (GAE), an increasingly popular SSL approach on graphs, has been widely explored to learn node representations without ground-truth labels. However, recent studies show that existing GAE methods could only perform well on link prediction tasks, while their performance on classification tasks is rather limited. This limitation casts …
+Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬

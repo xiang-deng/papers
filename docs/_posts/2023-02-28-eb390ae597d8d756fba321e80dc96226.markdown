@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generative Sentiment Transfer via Adaptive Masking"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "Y Xie, J Xu, LQ Qiao, Y Liu, F Huang, C Li - arXiv preprint arXiv:2302.12045, 2023"
+---
+Sentiment transfer aims at revising the input text to satisfy a given sentiment polarity while retaining the original semantic content. The nucleus of sentiment transfer lies in precisely separating the sentiment information from the content information. Existing explicit approaches generally identify and mask sentiment tokens simply based on prior linguistic knowledge and manually-defined rules, leading to low generality and undesirable transfer performance. In this paper, we view the positions to be masked …
+Cites: ‪Politeness Transfer: A Tag and Generate Approach‬

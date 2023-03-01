@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Using Wikidata Lexemes and Items to Generate Text from Abstract Representations"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "M Morshed"
+---
+Ninai/Udiron, a living function-based natural language generation system, uses knowledge in Wikidata lexemes and items to transform abstract representations of factual statements into human-readable text. The combined system first produces syntax trees based on those abstract representations (Ninai) and then yields sentences from those syntax trees (Udiron). The system relies on information about individual lexical units and links to the concepts those units represent, as well as …
+Cites: ‪Universal dependencies‬

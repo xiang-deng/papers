@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sentence Simplification via Large Language Models"
+date:   2023-02-28 01:22:42 -0400
+categories: jekyll update
+author: "Y Feng, J Qiang, Y Li, Y Yuan, Y Zhu - arXiv preprint arXiv:2302.11957, 2023"
+---
+Sentence Simplification aims to rephrase complex sentences into simpler sentences while retaining original meaning. Large Language models (LLMs) have demonstrated the ability to perform a variety of natural language processing tasks. However, it is not yet known whether LLMs can be served as a high-quality sentence simplification system. In this work, we empirically analyze the zero-/few-shot learning ability of LLMs by evaluating them on a number of benchmark test sets. Experimental …
+Cites: ‪Palm: Scaling language modeling with pathways‬
