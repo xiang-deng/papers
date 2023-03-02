@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FineSum: Target-Oriented, Fine-Grained Opinion Summarization"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "S Ge, J Huang, Y Meng, J Han - Proceedings of the Sixteenth ACM International …, 2023"
----
-Target-oriented opinion summarization is to profile a target by extracting user opinions from multiple related documents. Instead of simply mining opinion ratings on a target (eg, a restaurant) or on multiple aspects (eg, food, service) of a target, it is desirable to go deeper, to mine opinion on fine-grained sub-aspects (eg, fish). However, it is expensive to obtain high-quality annotations at such fine-grained scale. This leads to our proposal of a new framework, FineSum, which advances the …
-Cites: ‪Extractive opinion summarization in quantized transformer spaces‬
+--- 
+layout: post 
+title: "FineSum: Target-Oriented, Fine-Grained Opinion Summarization" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "S Ge, J Huang, Y Meng, J Han - Proceedings of the Sixteenth ACM International , 2023" 
+--- 
+Target-oriented opinion summarization is to profile a target by extracting user opinions from multiple related documents. Instead of simply mining opinion ratings on a target (eg, a restaurant) or on multiple aspects (eg, food, service) of a target, it is desirable to go deeper, to mine opinion on fine-grained sub-aspects (eg, fish). However, it is expensive to obtain high-quality annotations at such fine-grained scale. This leads to our proposal of a new framework, FineSum, which advances the  Cites: Extractive opinion summarization in quantized transformer spaces

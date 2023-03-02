@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Relation Extraction Based on Prompt Information and Feature Reuse"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "P Feng, X Zhang, J Zhao, Y Wang, B Huang - Data Intelligence, 2023"
----
-To alleviate the problem of under-utilization features of sentence-level relation extraction, which leads to insufficient performance of the pre-trained language model and underutilization of the feature vector, a sentence-level relation extraction method based on adding prompt information and feature reuse is proposed. At first, in addition to the pair of nominals and sentence information, a piece of prompt information is added, and the overall feature information consists of sentence …
-Cites: ‪K-adapter: Infusing knowledge into pre-trained models with adapters‬
+--- 
+layout: post 
+title: "Relation Extraction Based on Prompt Information and Feature Reuse" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "P Feng, X Zhang, J Zhao, Y Wang, B Huang - Data Intelligence, 2023" 
+--- 
+To alleviate the problem of under-utilization features of sentence-level relation extraction, which leads to insufficient performance of the pre-trained language model and underutilization of the feature vector, a sentence-level relation extraction method based on adding prompt information and feature reuse is proposed. At first, in addition to the pair of nominals and sentence information, a piece of prompt information is added, and the overall feature information consists of sentence  Cites: K-adapter: Infusing knowledge into pre-trained models with adapters

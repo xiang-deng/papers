@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reducing Negative Effects of the Biases of Language Models in Zero-Shot Setting"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "X Wang, Y Xiong, B Kang, Y Zhang, PS Yu, Y Zhu - … on Web Search and Data Mining, 2023"
----
-Pre-trained language models (PLMs) such as GPTs have been revealed to be biased towards certain target classes because of the prompt and the model s intrinsic biases. In contrast to the fully supervised scenario where there are a large number of costly labeled samples that can be used to fine-tune model parameters to correct for biases, there are no labeled samples available for the zero-shot setting. We argue that a key to calibrating the biases of a PLM on a target task in zero-shot setting lies …
-Cites: ‪Surface form competition: Why the highest probability answer isn t …‬
+--- 
+layout: post 
+title: "Reducing Negative Effects of the Biases of Language Models in Zero-Shot Setting" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "X Wang, Y Xiong, B Kang, Y Zhang, PS Yu, Y Zhu - on Web Search and Data Mining, 2023" 
+--- 
+Pre-trained language models (PLMs) such as GPTs have been revealed to be biased towards certain target classes because of the prompt and the model s intrinsic biases. In contrast to the fully supervised scenario where there are a large number of costly labeled samples that can be used to fine-tune model parameters to correct for biases, there are no labeled samples available for the zero-shot setting. We argue that a key to calibrating the biases of a PLM on a target task in zero-shot setting lies  Cites: Surface form competition: Why the highest probability answer isn t

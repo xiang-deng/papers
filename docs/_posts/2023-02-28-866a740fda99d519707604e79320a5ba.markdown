@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "Q Ye, B Cao, N Chen, W Xu, Y Zou - arXiv preprint arXiv:2302.11799, 2023"
----
-Knowledge-aware question answering (KAQA) requires the model to answer questions over a knowledge base, which is essential for both open-domain QA and domain-specific QA, especially when language models alone cannot provide all the knowledge needed. Despite the promising result of recent KAQA systems which tend to integrate linguistic knowledge from pre-trained language models (PLM) and factual knowledge from knowledge graphs (KG) to answer complex questions, a …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "FiTs: Fine-grained Two-stage Training for Knowledge-aware Question Answering" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "Q Ye, B Cao, N Chen, W Xu, Y Zou - arXiv preprint arXiv:2302.11799, 2023" 
+--- 
+Knowledge-aware question answering (KAQA) requires the model to answer questions over a knowledge base, which is essential for both open-domain QA and domain-specific QA, especially when language models alone cannot provide all the knowledge needed. Despite the promising result of recent KAQA systems which tend to integrate linguistic knowledge from pre-trained language models (PLM) and factual knowledge from knowledge graphs (KG) to answer complex questions, a  Cites: CommonsenseQA: A Question Answering Challenge Targeting

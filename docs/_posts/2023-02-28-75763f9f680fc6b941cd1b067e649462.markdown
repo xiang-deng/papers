@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Novel role-wise attention mechanism for predicting purchases made through chat-based online customer services"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "Y Wang, G Chen, YC Xu, X Lu - Decision Support Systems, 2023"
----
-Online chat has become a key channel for firms to provide pre-purchase customer services and generate purchases. Firms must deploy their service personnel based on the customers  purchase probability. Conversational contingency is indicative of purchase probability. However, the unstructured nature of textual data hinders the use of interaction information. We develop a novel role-wise attention mechanism to capture the conversational contingency among customers and service agents. Our …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Novel role-wise attention mechanism for predicting purchases made through chat-based online customer services" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "Y Wang, G Chen, YC Xu, X Lu - Decision Support Systems, 2023" 
+--- 
+Online chat has become a key channel for firms to provide pre-purchase customer services and generate purchases. Firms must deploy their service personnel based on the customers purchase probability. Conversational contingency is indicative of purchase probability. However, the unstructured nature of textual data hinders the use of interaction information. We develop a novel role-wise attention mechanism to capture the conversational contingency among customers and service agents. Our  Cites: Bert: Pre-training of deep bidirectional transformers for language

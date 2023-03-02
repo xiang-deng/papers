@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph Neural Network-Based Distribution System State Estimators"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "R Madbhavi, B Natarajan, B Srinivasan - IEEE Transactions on Industrial Informatics, 2023"
----
-State estimation is an essential tool for situational awareness and control to ensure safe operation. While current state-of-the-art techniques, such as model-based sparsity-aware state estimators, provide superior performance over conventional approaches, they have poor scalability and require large computational times. These limitations can be overcome by utilizing deep learning models such as deep neural networks (DNNs). However, DNNs are prone to over-fitting and cannot incorporate …
-Cites: ‪Introduction to Graph Neural Networks‬
+--- 
+layout: post 
+title: "Graph Neural Network-Based Distribution System State Estimators" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "R Madbhavi, B Natarajan, B Srinivasan - IEEE Transactions on Industrial Informatics, 2023" 
+--- 
+State estimation is an essential tool for situational awareness and control to ensure safe operation. While current state-of-the-art techniques, such as model-based sparsity-aware state estimators, provide superior performance over conventional approaches, they have poor scalability and require large computational times. These limitations can be overcome by utilizing deep learning models such as deep neural networks (DNNs). However, DNNs are prone to over-fitting and cannot incorporate  Cites: Introduction to Graph Neural Networks

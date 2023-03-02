@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Three Heads Better than One: Pure Entity, Relation Label and Adversarial Training for Cross-domain Few-shot Relation Extraction"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "W Fang, C Ouyang, Q Lin, Y Yuan - Data Intelligence, 2023"
----
-In this paper, we study cross-domain relation extraction. Since new data mapping to feature spaces always differs from the previously seen data due to a domain shift, few-shot relation extraction often perform poorly. To solve the problems caused by cross-domain, we propose a method for combining the pure entity, relation labels and adversarial (PERLA). We first use entities and complete sentences for separate encoding to obtain context-independent entity features. Then, we combine relation …
-Cites: ‪Learning from Context or Names? An Empirical Study on Neural …‬
+--- 
+layout: post 
+title: "Three Heads Better than One: Pure Entity, Relation Label and Adversarial Training for Cross-domain Few-shot Relation Extraction" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "W Fang, C Ouyang, Q Lin, Y Yuan - Data Intelligence, 2023" 
+--- 
+In this paper, we study cross-domain relation extraction. Since new data mapping to feature spaces always differs from the previously seen data due to a domain shift, few-shot relation extraction often perform poorly. To solve the problems caused by cross-domain, we propose a method for combining the pure entity, relation labels and adversarial (PERLA). We first use entities and complete sentences for separate encoding to obtain context-independent entity features. Then, we combine relation  Cites: Learning from Context or Names? An Empirical Study on Neural

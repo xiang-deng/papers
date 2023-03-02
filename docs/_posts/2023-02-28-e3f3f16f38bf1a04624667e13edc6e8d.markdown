@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "Z Li, L Zheng, Y Zhong, V Liu, Y Sheng, X Jin, Y Huang… - arXiv preprint arXiv …, 2023"
----
-Model parallelism is conventionally viewed as a method to scale a single large deep learning model beyond the memory limits of a single device. In this paper, we demonstrate that model parallelism can be additionally used for the statistical multiplexing of multiple devices when serving multiple models, even when a single model can fit into a single device. Our work reveals a fundamental trade-off between the overhead introduced by model parallelism and the opportunity to exploit …
-Cites: ‪Llm. int8 (): 8-bit matrix multiplication for transformers at scale‬
+--- 
+layout: post 
+title: "AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "Z Li, L Zheng, Y Zhong, V Liu, Y Sheng, X Jin, Y Huang - arXiv preprint arXiv , 2023" 
+--- 
+Model parallelism is conventionally viewed as a method to scale a single large deep learning model beyond the memory limits of a single device. In this paper, we demonstrate that model parallelism can be additionally used for the statistical multiplexing of multiple devices when serving multiple models, even when a single model can fit into a single device. Our work reveals a fundamental trade-off between the overhead introduced by model parallelism and the opportunity to exploit  Cites: Llm. int8 (): 8-bit matrix multiplication for transformers at scale

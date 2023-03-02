@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DEEDP: Document-Level Event Extraction Model Incorporating Dependency Paths"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "H Li, X Zhao, L Yu, Y Zhao, J Zhang - Applied Sciences, 2023"
----
-Document-level event extraction (DEE) aims at extracting event records from given documents. Existing DEE methods handle troublesome challenges by using multiple encoders and casting the task into a multi-step paradigm. However, most of the previous approaches ignore a missing feature by using mean pooling or max pooling operations in different encoding stages and have not explicitly modeled the interdependency features between input tokens, and thus the long-distance problem …
-Cites: ‪SpanBERT: Improving Pre-training by Representing and Predicting …‬
+--- 
+layout: post 
+title: "DEEDP: Document-Level Event Extraction Model Incorporating Dependency Paths" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "H Li, X Zhao, L Yu, Y Zhao, J Zhang - Applied Sciences, 2023" 
+--- 
+Document-level event extraction (DEE) aims at extracting event records from given documents. Existing DEE methods handle troublesome challenges by using multiple encoders and casting the task into a multi-step paradigm. However, most of the previous approaches ignore a missing feature by using mean pooling or max pooling operations in different encoding stages and have not explicitly modeled the interdependency features between input tokens, and thus the long-distance problem  Cites: SpanBERT: Improving Pre-training by Representing and Predicting

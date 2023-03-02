@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Numerical Embeddings for Reasoning over Text and Tables"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "R Yarullin, S Isaev"
----
-The task of answering complex questions over a given context is especially challenging when it involves numerical and discrete reasoning. It requires the ability to work with numbers and capture their meaning. In this work, we first revisit the widely used NumNet model with improvements and an ablation study in which we reveal the redundancy of its reasoning module when using large pre-trained encoders. In light of the limitations of current models, we propose Attention …
-Cites: ‪Giving BERT a Calculator: Finding Operations and Arguments with …‬
+--- 
+layout: post 
+title: "Numerical Embeddings for Reasoning over Text and Tables" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "R Yarullin, S Isaev" 
+--- 
+The task of answering complex questions over a given context is especially challenging when it involves numerical and discrete reasoning. It requires the ability to work with numbers and capture their meaning. In this work, we first revisit the widely used NumNet model with improvements and an ablation study in which we reveal the redundancy of its reasoning module when using large pre-trained encoders. In light of the limitations of current models, we propose Attention  Cites: Giving BERT a Calculator: Finding Operations and Arguments with

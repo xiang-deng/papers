@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FISH: A Financial Interactive System for Signal Highlighting"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "TW Huang, JH Ju, YS Huang, CW Lin, YS Chiang…"
----
-In this system demonstration, we seek to streamline the process of reviewing financial statements and provide insightful information for practitioners. We develop FISH, an interactive system that extracts and highlights crucial textual signals from financial statements efficiently and precisely. To achieve our goal, we integrate pre-trained BERT representations and a fine-tuned BERT highlighting model with a newly-proposed two-stage classify-thenhighlight pipeline. FISH overcomes the …
-Cites: ‪Text segmentation as a supervised learning task‬
+--- 
+layout: post 
+title: "FISH: A Financial Interactive System for Signal Highlighting" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "TW Huang, JH Ju, YS Huang, CW Lin, YS Chiang" 
+--- 
+In this system demonstration, we seek to streamline the process of reviewing financial statements and provide insightful information for practitioners. We develop FISH, an interactive system that extracts and highlights crucial textual signals from financial statements efficiently and precisely. To achieve our goal, we integrate pre-trained BERT representations and a fine-tuned BERT highlighting model with a newly-proposed two-stage classify-thenhighlight pipeline. FISH overcomes the  Cites: Text segmentation as a supervised learning task

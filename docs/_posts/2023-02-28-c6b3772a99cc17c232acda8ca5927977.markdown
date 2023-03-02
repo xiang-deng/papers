@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bayes meets Bernstein at the Meta Level: an Analysis of Fast Rates in Meta-Learning with PAC-Bayes"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "C Riou, P Alquier, BE Chérief-Abdellatif - arXiv preprint arXiv:2302.11709, 2023"
----
-Bernstein s condition is a key assumption that guarantees fast rates in machine learning. For example, the Gibbs algorithm with prior $\pi $ has an excess risk in $ O (d_ {\pi}/n) $, as opposed to the standard $ O (\sqrt {d_ {\pi}/n}) $, where $ n $ denotes the number of observations and $ d_ {\pi} $ is a complexity parameter which depends on the prior $\pi $. In this paper, we examine the Gibbs algorithm in the context of meta-learning, ie, when learning the prior $\pi $ from $ T $ tasks (with $ n …
-Cites: ‪Meta-Learning for Low-Resource Neural Machine Translation‬
+--- 
+layout: post 
+title: "Bayes meets Bernstein at the Meta Level: an Analysis of Fast Rates in Meta-Learning with PAC-Bayes" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "C Riou, P Alquier, BE Chrief-Abdellatif - arXiv preprint arXiv:2302.11709, 2023" 
+--- 
+Bernstein s condition is a key assumption that guarantees fast rates in machine learning. For example, the Gibbs algorithm with prior $\pi $ has an excess risk in $ O (d_ {\pi}/n) $, as opposed to the standard $ O (\sqrt {d_ {\pi}/n}) $, where $ n $ denotes the number of observations and $ d_ {\pi} $ is a complexity parameter which depends on the prior $\pi $. In this paper, we examine the Gibbs algorithm in the context of meta-learning, ie, when learning the prior $\pi $ from $ T $ tasks (with $ n  Cites: Meta-Learning for Low-Resource Neural Machine Translation

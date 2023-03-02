@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Coarse-to-Fine Knowledge Selection for Document Grounded Dialogs"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "Y Zhang, H Fu, C Fu, H Yu, Y Li, CT Nguyen - arXiv preprint arXiv:2302.11849, 2023"
----
-Multi-document grounded dialogue systems (DGDS) belong to a class of conversational agents that answer users  requests by finding supporting knowledge from a collection of documents. Most previous studies aim to improve the knowledge retrieval model or propose more effective ways to incorporate external knowledge into a parametric generation model. These methods, however, focus on retrieving knowledge from mono-granularity language units (eg passages, sentences, or spans …
-Cites: ‪Retrieval-augmented generation for knowledge-intensive nlp tasks‬
+--- 
+layout: post 
+title: "Coarse-to-Fine Knowledge Selection for Document Grounded Dialogs" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "Y Zhang, H Fu, C Fu, H Yu, Y Li, CT Nguyen - arXiv preprint arXiv:2302.11849, 2023" 
+--- 
+Multi-document grounded dialogue systems (DGDS) belong to a class of conversational agents that answer users requests by finding supporting knowledge from a collection of documents. Most previous studies aim to improve the knowledge retrieval model or propose more effective ways to incorporate external knowledge into a parametric generation model. These methods, however, focus on retrieving knowledge from mono-granularity language units (eg passages, sentences, or spans  Cites: Retrieval-augmented generation for knowledge-intensive nlp tasks

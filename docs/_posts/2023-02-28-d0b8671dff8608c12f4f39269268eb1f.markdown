@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Friendly Conditional Text Generator"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "N Kawamae - Proceedings of the Sixteenth ACM International …, 2023"
----
-Our goal is to control text generation with more fine-grained conditions at lower computational cost than is possible with current alternatives; these conditions are attributes (ie, multiple codes and free-text). As large-scale pre-trained language models (PLMs) offer excellent performance in free-form text generation, we explore efficient architectures and training schemes that can best leverage PLMs. Our framework, Friendly Conditional Text Generator (FCTG), introduces a multi-view …
-Cites: ‪Gedi: Generative discriminator guided sequence generation‬

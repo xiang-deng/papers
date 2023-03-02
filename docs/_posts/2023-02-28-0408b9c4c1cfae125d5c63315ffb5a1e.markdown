@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Prompting with Chain-of-Thought for Large Language Models"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "S Diao, P Wang, Y Lin, T Zhang - arXiv preprint arXiv:2302.12246, 2023"
----
-The increasing scale of large language models (LLMs) brings emergent abilities to various complex tasks requiring reasoning, such as arithmetic and commonsense reasoning. It is known that the effective design of task-specific prompts is critical for LLMs  ability to produce high-quality answers. In particular, an effective approach for complex question-and-answer tasks is example-based prompting with chain-of-thought (CoT) reasoning, which significantly improves the performance of LLMs …
-Cites: ‪Selective annotation makes language models better few-shot …‬
+--- 
+layout: post 
+title: "Active Prompting with Chain-of-Thought for Large Language Models" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "S Diao, P Wang, Y Lin, T Zhang - arXiv preprint arXiv:2302.12246, 2023" 
+--- 
+The increasing scale of large language models (LLMs) brings emergent abilities to various complex tasks requiring reasoning, such as arithmetic and commonsense reasoning. It is known that the effective design of task-specific prompts is critical for LLMs ability to produce high-quality answers. In particular, an effective approach for complex question-and-answer tasks is example-based prompting with chain-of-thought (CoT) reasoning, which significantly improves the performance of LLMs  Cites: Selective annotation makes language models better few-shot

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Do Machine Learning Models Produce TypeScript Types that Type Check?"
-date:   2023-02-28 01:22:42 -0400
-categories: jekyll update
-author: "MH Yee, A Guha - arXiv preprint arXiv:2302.12163, 2023"
----
-Type migration is the process of adding types to untyped code to gain assurance at compile time. TypeScript and other gradual type systems facilitate type migration by allowing programmers to start with imprecise types and gradually strengthen them. However, adding types is a manual effort and several migrations on large, industry codebases have been reported to have taken several years. In the research community, there has been significant interest in using machine learning to automate …
-Cites: ‪Incoder: A generative model for code infilling and synthesis‬
+--- 
+layout: post 
+title: "Do Machine Learning Models Produce TypeScript Types that Type Check?" 
+date: 2023-02-28 01:22:42 -0400 
+categories: jekyll update 
+author: "MH Yee, A Guha - arXiv preprint arXiv:2302.12163, 2023" 
+--- 
+Type migration is the process of adding types to untyped code to gain assurance at compile time. TypeScript and other gradual type systems facilitate type migration by allowing programmers to start with imprecise types and gradually strengthen them. However, adding types is a manual effort and several migrations on large, industry codebases have been reported to have taken several years. In the research community, there has been significant interest in using machine learning to automate  Cites: Incoder: A generative model for code infilling and synthesis
