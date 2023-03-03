@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UnbiasedNets: A Dataset Diversification Framework for Robustness Bias Alleviation in Neural Networks"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "M Naseer, BS Prabakaran, O Hasan, M Shafique - arXiv preprint arXiv:2302.12538, 2023"
+---
+Performance of trained neural network (NN) models, in terms of testing accuracy, has improved remarkably over the past several years, especially with the advent of deep learning. However, even the most accurate NNs can be biased toward a specific output classification due to the inherent bias in the available training datasets, which may propagate to the real-world implementations. This paper deals with the robustness bias, ie, the bias exhibited by the trained NN by having a significantly …
+Cites: ‪Adversarial filters of dataset biases‬

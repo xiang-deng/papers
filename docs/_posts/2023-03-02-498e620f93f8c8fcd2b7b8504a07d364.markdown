@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MUX-PLMs: Pre-training Language Models with Data Multiplexing"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "V Murahari, A Deshpande, CE Jimenez, I Shafran… - arXiv preprint arXiv …, 2023"
+---
+Data multiplexing is a recently proposed method for improving a model s inference efficiency by processing multiple instances simultaneously using an ordered representation mixture. Prior work on data multiplexing only used task-specific Transformers without any pre-training, which limited their accuracy and generality. In this paper, we develop pre-trained multiplexed language models (MUX-PLMs) that can be widely finetuned on any downstream task. Our approach includes a three …
+Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬

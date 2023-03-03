@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Leveraging Jumpy Models for Planning and Fast Learning in Robotic Domains"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "J Zhang, JT Springenberg, A Byravan, L Hasenclever… - arXiv preprint arXiv …, 2023"
+---
+In this paper we study the problem of learning multi-step dynamics prediction models (jumpy models) from unlabeled experience and their utility for fast inference of (high-level) plans in downstream tasks. In particular we propose to learn a jumpy model alongside a skill embedding space offline, from previously collected experience for which no labels or reward annotations are required. We then investigate several options of harnessing those learned components in combination with model-based …
+Cites: ‪Dynamics-aware embeddings‬

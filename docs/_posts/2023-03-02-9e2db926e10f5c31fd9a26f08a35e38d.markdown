@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Sentence Similarity Estimation for Unsupervised Extractive Summarization"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "S Sun, R Yuan, W Li, S Li - arXiv preprint arXiv:2302.12490, 2023"
+---
+Unsupervised extractive summarization aims to extract salient sentences from a document as the summary without labeled data. Recent literatures mostly research how to leverage sentence similarity to rank sentences in the order of salience. However, sentence similarity estimation using pre-trained language models mostly takes little account of document-level information and has a weak correlation with sentence salience ranking. In this paper, we proposed two novel strategies to …
+Cites: ‪Sentence centrality revisited for unsupervised summarization‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "稠密向量实体检索模型的二值化提速压缩"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "王苑铮， 范意兴， 陈薇， 张儒清， 郭嘉丰 - 模式识别与人工智能"
+---
+摇In entity retrieval tasks, dense vector entity retrieval models are utilized to efficiently filter candidate entities related to a query from a large 鄄scale entity base. However, the existing dense vector retrieval models engender low real 鄄time computation efficiency and large required storage space due to the high dimension of entity vectors. In this paper, it is found that these entity vectors contain a large amount of redundant information through experiments. Most entity vectors are distributed in non …
+Cites: ‪Retrieval-augmented generation for knowledge-intensive nlp tasks‬

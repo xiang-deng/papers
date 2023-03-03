@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Prototypical Semantic Decoupling Method via Joint Contrastive Learning for Few-Shot Name Entity Recognition"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "G Dong, Z Wang, L Wang, D Guo, D Fu, Y Wu, C Zeng… - arXiv preprint arXiv …, 2023"
+---
+Few-shot named entity recognition (NER) aims at identifying named entities based on only few labeled instances. Most existing prototype-based sequence labeling models tend to memorize entity mentions which would be easily confused by close prototypes. In this paper, we proposed a Prototypical Semantic Decoupling method via joint Contrastive learning (PSDC) for few-shot NER. Specifically, we decouple class-specific prototypes and contextual semantic prototypes by two masking …
+Cites: ‪Few-NERD: A Few-Shot Named Entity Recognition Dataset‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Informed Proposals for Discrete Distributions via Newton s Series Approximation"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "Y Xiang, D Zhu, B Lei, D Xu, R Zhang - arXiv preprint arXiv:2302.13929, 2023"
+---
+Gradients have been exploited in proposal distributions to accelerate the convergence of Markov chain Monte Carlo algorithms on discrete distributions. However, these methods require a natural differentiable extension of the target discrete distribution, which often does not exist or does not provide effective gradient guidance. In this paper, we develop a gradient-like proposal for any discrete distribution without this strong requirement. Built upon a locally-balanced proposal …
+Cites: ‪Self-consistency improves chain of thought reasoning in language …‬

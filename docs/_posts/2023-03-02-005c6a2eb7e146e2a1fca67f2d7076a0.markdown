@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Human-in-the-Loop Schema Induction"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "T Zhang, I Tham, Z Hou, J Ren, L Zhou, H Xu, L Zhang… - arXiv preprint arXiv …, 2023"
+---
+Schema induction builds a graph representation explaining how events unfold in a scenario. Existing approaches have been based on information retrieval (IR) and information extraction (IE), often with limited human curation. We demonstrate a human-in-the-loop schema induction system powered by GPT-3. We first describe the different modules of our system, including prompting to generate schematic elements, manual edit of those elements, and conversion of those into a schema …
+Cites: ‪The future is not one-dimensional: Complex event schema …‬

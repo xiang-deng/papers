@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Elementwise Language Representation"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "D Kim, J Kim - arXiv preprint arXiv:2302.13475, 2023"
+---
+We propose a new technique for computational language representation called elementwise embedding, in which a material (semantic unit) is abstracted into a horizontal concatenation of lower-dimensional element (character) embeddings. While elements are always characters, materials are arbitrary levels of semantic units so it generalizes to any type of tokenization. To focus only on the important letters, the $ n^{th} $ spellings of each semantic unit are aligned in $ n^{th} $ attention …
+Cites: ‪Multi-view Subword Regularization‬

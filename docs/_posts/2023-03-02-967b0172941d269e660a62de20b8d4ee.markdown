@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Masked Relation Learning for DeepFake Detection"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "Z Yang, J Liang, Y Xu, XY Zhang, R He - IEEE Transactions on Information Forensics …, 2023"
+---
+DeepFake detection aims to differentiate falsified faces from real ones. Most approaches formulate it as a binary classification problem by solely mining the local artifacts and inconsistencies of face forgery, which neglect the relation across local regions. Although several recent works explore local relation learning for DeepFake detection, they overlook the propagation of relational information and lead to limited performance gains. To address these issues, this paper provides a new perspective …
+Cites: ‪Masked graph modeling for molecule generation‬

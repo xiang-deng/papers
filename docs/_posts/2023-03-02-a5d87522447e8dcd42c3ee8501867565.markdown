@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "NoPPA: Non-Parametric Pairwise Attention Random Walk Model for Sentence Representation"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "X Wu, Z Zhao, N Liu - arXiv preprint arXiv:2302.12903, 2023"
+---
+We propose a novel non-parametric/un-trainable language model, named Non-Parametric Pairwise Attention Random Walk Model (NoPPA), to generate sentence embedding only with pre-trained word embedding and pre-counted word frequency. To the best we know, this study is the first successful attempt to break the constraint on bag-of-words assumption with a non-parametric attention mechanism. We evaluate our method on eight different downstream classification tasks. The …
+Cites: ‪Deep contextualized word representations‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Role Knowledge Prompting for Document-Level Event Argument Extraction"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "R Hu, H Liu, H Zhou - Applied Sciences, 2023"
+---
+Document-level event argument extraction (DEAE) aims to identify the arguments corresponding to the roles of a given event type in a document. However, arguments scattering and arguments and roles overlapping make DEAE face great challenges. In this paper, we propose a novel DEAE model called Role Knowledge Prompting for Document-Level Event Argument Extraction (RKDE), which enhances the interaction between templates and roles through a role knowledge guidance mechanism to …
+Cites: ‪A language-independent neural network for event detection‬

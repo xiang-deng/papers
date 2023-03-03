@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Failure-aware Policy Learning for Self-assessable Robotics Tasks"
+date:   2023-03-02 06:18:50 -0400
+categories: jekyll update
+author: "K Xu, R Chen, S Zhao, Z Li, H Yu, C Chen, Y Wang… - arXiv preprint arXiv …, 2023"
+---
+Self-assessment rules play an essential role in safe and effective real-world robotic applications, which verify the feasibility of the selected action before actual execution. But how to utilize the self-assessment results to re-choose actions remains a challenge. Previous methods eliminate the selected action evaluated as failed by the self-assessment rules, and re-choose one with the next-highest affordance~(ie process-of-elimination strategy [1]), which ignores the dependency …
+Cites: ‪Decoupled exploration and exploitation policies for sample …‬
