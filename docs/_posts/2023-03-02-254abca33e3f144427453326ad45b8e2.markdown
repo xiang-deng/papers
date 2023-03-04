@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP)"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "P Shakarian, A Koyyalamudi, N Ngu, L Mareedu - arXiv preprint arXiv:2302.13814, 2023"
----
-We study the performance of a commercially available large language model (LLM) known as ChatGPT on math word problems (MWPs) from the dataset DRAW-1K. To our knowledge, this is the first independent evaluation of ChatGPT. We found that ChatGPT s performance changes dramatically based on the requirement to show its work, failing 20% of the time when it provides work compared with 84% when it does not. Further several factors about MWPs relating to the number of unknowns and …
-Cites: ‪Learning from explicit and implicit supervision jointly for algebra …‬
+--- 
+layout: post 
+title: "An Independent Evaluation of ChatGPT on Mathematical Word Problems (MWP)" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "P Shakarian, A Koyyalamudi, N Ngu, L Mareedu - arXiv preprint arXiv:2302.13814, 2023" 
+--- 
+We study the performance of a commercially available large language model (LLM) known as ChatGPT on math word problems (MWPs) from the dataset DRAW-1K. To our knowledge, this is the first independent evaluation of ChatGPT. We found that ChatGPT s performance changes dramatically based on the requirement to show its work, failing 20% of the time when it provides work compared with 84% when it does not. Further several factors about MWPs relating to the number of unknowns and  Cites: Learning from explicit and implicit supervision jointly for algebra

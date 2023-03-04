@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Topic-Selective Graph Network for Topic-Focused Summarization"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "S Zesheng, Z Yucheng - arXiv preprint arXiv:2302.13106, 2023"
----
-Due to the success of the pre-trained language model (PLM), existing PLM-based summarization models show their powerful generative capability. However, these models are trained on general-purpose summarization datasets, leading to generated summaries failing to satisfy the needs of different readers. To generate summaries with topics, many efforts have been made on topic-focused summarization. However, these works generate a summary only guided by a prompt …
-Cites: ‪ASPECTNEWS: Aspect-Oriented Summarization of News Documents‬
+--- 
+layout: post 
+title: "Topic-Selective Graph Network for Topic-Focused Summarization" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "S Zesheng, Z Yucheng - arXiv preprint arXiv:2302.13106, 2023" 
+--- 
+Due to the success of the pre-trained language model (PLM), existing PLM-based summarization models show their powerful generative capability. However, these models are trained on general-purpose summarization datasets, leading to generated summaries failing to satisfy the needs of different readers. To generate summaries with topics, many efforts have been made on topic-focused summarization. However, these works generate a summary only guided by a prompt  Cites: ASPECTNEWS: Aspect-Oriented Summarization of News Documents

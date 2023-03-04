@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CrystalBox: Future-Based Explanations for DRL Network Controllers"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "S Patel, SA Jyothi, N Narodytska - arXiv preprint arXiv:2302.13483, 2023"
----
-Lack of explainability is a key factor limiting the practical adoption of high-performant Deep Reinforcement Learning (DRL) controllers. Explainable RL for networking hitherto used salient input features to interpret a controller s behavior. However, these feature-based solutions do not completely explain the controller s decision-making process. Often, operators are interested in understanding the impact of a controller s actions on performance in the future, which feature-based solutions …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "CrystalBox: Future-Based Explanations for DRL Network Controllers" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "S Patel, SA Jyothi, N Narodytska - arXiv preprint arXiv:2302.13483, 2023" 
+--- 
+Lack of explainability is a key factor limiting the practical adoption of high-performant Deep Reinforcement Learning (DRL) controllers. Explainable RL for networking hitherto used salient input features to interpret a controller s behavior. However, these feature-based solutions do not completely explain the controller s decision-making process. Often, operators are interested in understanding the impact of a controller s actions on performance in the future, which feature-based solutions  Cites: Why Should I Trust You? : Explaining the Predictions of Any

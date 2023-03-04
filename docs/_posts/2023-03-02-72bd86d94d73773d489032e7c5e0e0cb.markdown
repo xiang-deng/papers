@@ -1,9 +1,0 @@
----
-layout: post
-title:  "GNNDelete: A General Strategy for Unlearning in Graph Neural Networks"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "J Cheng, G Dasoulas, H He, C Agarwal, M Zitnik - arXiv preprint arXiv:2302.13406, 2023"
----
-Graph unlearning, which involves deleting graph elements such as nodes, node labels, and relationships from a trained graph neural network (GNN) model, is crucial for real-world applications where data elements may become irrelevant, inaccurate, or privacy-sensitive. However, existing methods for graph unlearning either deteriorate model weights shared across all nodes or fail to effectively delete edges due to their strong dependence on local graph neighborhoods. To address these …
-Cites: ‪Convolutional 2d knowledge graph embeddings‬

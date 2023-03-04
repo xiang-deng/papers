@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Full Stack Optimization of Transformer Inference: a Survey"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "S Kim, C Hooper, T Wattanawong, M Kang, R Yan… - arXiv preprint arXiv …, 2023"
----
-Recent advances in state-of-the-art DNN architecture design have been moving toward Transformer models. These models achieve superior accuracy across a wide range of applications. This trend has been consistent over the past several years since Transformer models were originally introduced. However, the amount of compute and bandwidth required for inference of recent Transformer models is growing at a significant rate, and this has made their deployment in latency-sensitive …
-Cites: ‪Length-adaptive transformer: Train once with length drop, use …‬
+--- 
+layout: post 
+title: "Full Stack Optimization of Transformer Inference: a Survey" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "S Kim, C Hooper, T Wattanawong, M Kang, R Yan - arXiv preprint arXiv , 2023" 
+--- 
+Recent advances in state-of-the-art DNN architecture design have been moving toward Transformer models. These models achieve superior accuracy across a wide range of applications. This trend has been consistent over the past several years since Transformer models were originally introduced. However, the amount of compute and bandwidth required for inference of recent Transformer models is growing at a significant rate, and this has made their deployment in latency-sensitive  Cites: Length-adaptive transformer: Train once with length drop, use

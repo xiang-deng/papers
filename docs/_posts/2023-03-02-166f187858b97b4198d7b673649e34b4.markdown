@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Integrating Translation Memories into Non-Autoregressive Machine Translation"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "J Xu, J Crego, F Yvon - EACL 2023, 2023"
----
-Non-autoregressive machine translation (NAT) has recently made great progress. However, most works to date have focused on standard translation tasks, even though some edit-based NAT models, such as the Levenshtein Transformer (LevT), seem well suited to translate with a Translation Memory (TM). This is the scenario considered here. We first analyze the vanilla LevT model and explain why it does not do well in this setting. We then propose a new variant, TM-LevT, and show how to …
-Cites: ‪Deep encoder, shallow decoder: Reevaluating non-autoregressive …‬
+--- 
+layout: post 
+title: "Integrating Translation Memories into Non-Autoregressive Machine Translation" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "J Xu, J Crego, F Yvon - EACL 2023, 2023" 
+--- 
+Non-autoregressive machine translation (NAT) has recently made great progress. However, most works to date have focused on standard translation tasks, even though some edit-based NAT models, such as the Levenshtein Transformer (LevT), seem well suited to translate with a Translation Memory (TM). This is the scenario considered here. We first analyze the vanilla LevT model and explain why it does not do well in this setting. We then propose a new variant, TM-LevT, and show how to  Cites: Deep encoder, shallow decoder: Reevaluating non-autoregressive

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Analyzing And Editing Inner Mechanisms Of Backdoored Language Models"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "M Lamparth, A Reuel - arXiv preprint arXiv:2302.12461, 2023"
----
-Recent advancements in interpretability research made transformer language models more transparent. This progress led to a better understanding of their inner workings for toy and naturally occurring models. However, how these models internally process sentiment changes has yet to be sufficiently answered. In this work, we introduce a new interpretability tool called PCP ablation, where we replace modules with low-rank matrices based on the principal components of their …
-Cites: ‪Transformer feed-forward layers are key-value memories‬
+--- 
+layout: post 
+title: "Analyzing And Editing Inner Mechanisms Of Backdoored Language Models" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "M Lamparth, A Reuel - arXiv preprint arXiv:2302.12461, 2023" 
+--- 
+Recent advancements in interpretability research made transformer language models more transparent. This progress led to a better understanding of their inner workings for toy and naturally occurring models. However, how these models internally process sentiment changes has yet to be sufficiently answered. In this work, we introduce a new interpretability tool called PCP ablation, where we replace modules with low-rank matrices based on the principal components of their  Cites: Transformer feed-forward layers are key-value memories

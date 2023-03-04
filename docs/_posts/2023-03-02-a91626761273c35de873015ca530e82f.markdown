@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge Graph Completion with Counterfactual Augmentation"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "H Chang, J Cai, J Li - arXiv preprint arXiv:2302.13083, 2023"
----
-Graph Neural Networks (GNNs) have demonstrated great success in Knowledge Graph Completion (KGC) by modeling how entities and relations interact in recent years. However, most of them are designed to learn from the observed graph structure, which appears to have imbalanced relation distribution during the training stage. Motivated by the causal relationship among the entities on a knowledge graph, we explore this defect through a counterfactual question:  would the relation …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Knowledge Graph Completion with Counterfactual Augmentation" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "H Chang, J Cai, J Li - arXiv preprint arXiv:2302.13083, 2023" 
+--- 
+Graph Neural Networks (GNNs) have demonstrated great success in Knowledge Graph Completion (KGC) by modeling how entities and relations interact in recent years. However, most of them are designed to learn from the observed graph structure, which appears to have imbalanced relation distribution during the training stage. Motivated by the causal relationship among the entities on a knowledge graph, we explore this defect through a counterfactual question: would the relation  Cites: Observed versus latent features for knowledge base and text

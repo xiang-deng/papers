@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "KS Shum, S Diao, T Zhang - arXiv preprint arXiv:2302.12822, 2023"
----
-Chain-of-thought prompting (CoT) advances the reasoning abilities of large language models (LLMs) and achieves superior performance in arithmetic, commonsense, and symbolic reasoning tasks. However, most CoT studies rely on carefully designed human-annotated rational chains to prompt the language model, which poses challenges for real-world applications where labeled training data is available without human-annotated rational chains. This creates barriers to …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "KS Shum, S Diao, T Zhang - arXiv preprint arXiv:2302.12822, 2023" 
+--- 
+Chain-of-thought prompting (CoT) advances the reasoning abilities of large language models (LLMs) and achieves superior performance in arithmetic, commonsense, and symbolic reasoning tasks. However, most CoT studies rely on carefully designed human-annotated rational chains to prompt the language model, which poses challenges for real-world applications where labeled training data is available without human-annotated rational chains. This creates barriers to  Cites: Universal adversarial triggers for attacking and analyzing NLP

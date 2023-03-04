@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RELD: A Knowledge Graph of Relation Extraction Datasets"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "M Ali, M Saleem, D Moussallem, MA Sherif…"
----
-Relation extraction plays an important role in natural language processing. There is a wide range of available datasets that benchmark existing relation extraction approaches. However, most benchmarking datasets are provided in different formats containing specific annotation rules, thus making it difficult to conduct experiments on different types of relation extraction approaches. We present RELD, an RDF knowledge graph of eight open-licensed and publicly available relation extraction …
-Cites: ‪A structured learning approach to temporal relation extraction‬
+--- 
+layout: post 
+title: "RELD: A Knowledge Graph of Relation Extraction Datasets" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "M Ali, M Saleem, D Moussallem, MA Sherif" 
+--- 
+Relation extraction plays an important role in natural language processing. There is a wide range of available datasets that benchmark existing relation extraction approaches. However, most benchmarking datasets are provided in different formats containing specific annotation rules, thus making it difficult to conduct experiments on different types of relation extraction approaches. We present RELD, an RDF knowledge graph of eight open-licensed and publicly available relation extraction  Cites: A structured learning approach to temporal relation extraction

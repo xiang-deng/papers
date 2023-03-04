@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Finding Supporting Examples for In-Context Learning"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "X Li, X Qiu - arXiv preprint arXiv:2302.13539, 2023"
----
-In-context learning is a new learning paradigm where a language model observes a few examples and then straightly outputs the test input s prediction. Previous works have shown that in-context learning is sensitive to the provided examples and randomly sampled examples show significantly unstable performance. In this paper, we propose to find``supporting examples  for in-context learning: Given the training dataset, we need to select one permutation of a few examples, which are informative …
-Cites: ‪In-context Examples Selection for Machine Translation‬
+--- 
+layout: post 
+title: "Finding Supporting Examples for In-Context Learning" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "X Li, X Qiu - arXiv preprint arXiv:2302.13539, 2023" 
+--- 
+In-context learning is a new learning paradigm where a language model observes a few examples and then straightly outputs the test input s prediction. Previous works have shown that in-context learning is sensitive to the provided examples and randomly sampled examples show significantly unstable performance. In this paper, we propose to find``supporting examples for in-context learning: Given the training dataset, we need to select one permutation of a few examples, which are informative  Cites: In-context Examples Selection for Machine Translation

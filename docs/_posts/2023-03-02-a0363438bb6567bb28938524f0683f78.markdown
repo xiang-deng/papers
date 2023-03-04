@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SGL-PT: A Strong Graph Learner with Graph Prompt Tuning"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "Y Zhu, J Guo, S Tang - arXiv preprint arXiv:2302.12449, 2023"
----
-Recently, much exertion has been paid to design graph self-supervised methods to obtain generalized pre-trained models, and adapt pre-trained models onto downstream tasks through fine-tuning. However, there exists an inherent gap between pretext and downstream graph tasks, which insufficiently exerts the ability of pre-trained models and even leads to negative transfer. Meanwhile, prompt tuning has seen emerging success in natural language processing by aligning pre-training …
-Cites: ‪Prototypical Verbalizer for Prompt-based Few-shot Tuning‬
+--- 
+layout: post 
+title: "SGL-PT: A Strong Graph Learner with Graph Prompt Tuning" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "Y Zhu, J Guo, S Tang - arXiv preprint arXiv:2302.12449, 2023" 
+--- 
+Recently, much exertion has been paid to design graph self-supervised methods to obtain generalized pre-trained models, and adapt pre-trained models onto downstream tasks through fine-tuning. However, there exists an inherent gap between pretext and downstream graph tasks, which insufficiently exerts the ability of pre-trained models and even leads to negative transfer. Meanwhile, prompt tuning has seen emerging success in natural language processing by aligning pre-training  Cites: Prototypical Verbalizer for Prompt-based Few-shot Tuning

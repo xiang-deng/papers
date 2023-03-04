@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Improving Representational Continuity via Continued Pretraining"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "M Sun, A Kumar, D Madaan, P Liang - arXiv preprint arXiv:2302.13289, 2023"
----
-We consider the continual representation learning setting: sequentially pretrain a model $ M $ on tasks $ T_1,\ldots, T_T $, and then adapt $ M $ on a small amount of data from each task $ T_i $ to check if it has forgotten information from old tasks …
+--- 
+layout: post 
+title: "Improving Representational Continuity via Continued Pretraining" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "M Sun, A Kumar, D Madaan, P Liang - arXiv preprint arXiv:2302.13289, 2023" 
+--- 
+We consider the continual representation learning setting: sequentially pretrain a model $ M $ on tasks $ T_1,\ldots, T_T $, and then adapt $ M $ on a small amount of data from each task $ T_i $ to check if it has forgotten information from old tasks

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Statistical Learning under Heterogenous Distribution Shift"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "M Simchowitz, A Ajay, P Agrawal, A Krishnamurthy - arXiv preprint arXiv:2302.13934, 2023"
----
-This paper studies the prediction of a target $\mathbf {z} $ from a pair of random variables $(\mathbf {x},\mathbf {y}) $, where the ground-truth predictor is additive $\mathbb {E}[\mathbf {z}\mid\mathbf {x},\mathbf {y}]= f_\star (\mathbf {x})+ g_ {\star}(\mathbf {y}) $. We study the performance of empirical risk minimization (ERM) over functions $ f+ g $, $ f\in\mathcal {F} $ and $ g\in\mathcal {G} $, fit on a given training distribution, but evaluated on a test distribution which exhibits covariate shift …
-Cites: ‪Accuracy on the line: on the strong correlation between out-of …‬
+--- 
+layout: post 
+title: "Statistical Learning under Heterogenous Distribution Shift" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "M Simchowitz, A Ajay, P Agrawal, A Krishnamurthy - arXiv preprint arXiv:2302.13934, 2023" 
+--- 
+This paper studies the prediction of a target $\mathbf {z} $ from a pair of random variables $(\mathbf {x},\mathbf {y}) $, where the ground-truth predictor is additive $\mathbb {E}[\mathbf {z}\mid\mathbf {x},\mathbf {y}]= f_\star (\mathbf {x})+ g_ {\star}(\mathbf {y}) $. We study the performance of empirical risk minimization (ERM) over functions $ f+ g $, $ f\in\mathcal {F} $ and $ g\in\mathcal {G} $, fit on a given training distribution, but evaluated on a test distribution which exhibits covariate shift  Cites: Accuracy on the line: on the strong correlation between out-of

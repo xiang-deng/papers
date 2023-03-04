@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Category Distribution for Text Classification"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "X Wang, C Zong - ACM Transactions on Asian and Low-Resource …, 2023"
----
-Label smoothing has a wide range of applications in machine learning field. Nonetheless, label smoothing only softs the targets by adding a uniform distribution into a one-hot vectors, which cannot truthfully reflect the underlying relations among categories. However, learning category relations is of vital importance in many fields such as emotion taxonomy and open set recognition. In this work, we propose a method to obtain label distribution for each category (category distribution) to reveal …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Learning Category Distribution for Text Classification" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "X Wang, C Zong - ACM Transactions on Asian and Low-Resource , 2023" 
+--- 
+Label smoothing has a wide range of applications in machine learning field. Nonetheless, label smoothing only softs the targets by adding a uniform distribution into a one-hot vectors, which cannot truthfully reflect the underlying relations among categories. However, learning category relations is of vital importance in many fields such as emotion taxonomy and open set recognition. In this work, we propose a method to obtain label distribution for each category (category distribution) to reveal  Cites: Deep contextualized word representations

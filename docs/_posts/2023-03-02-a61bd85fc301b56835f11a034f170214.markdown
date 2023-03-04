@@ -1,9 +1,8 @@
----
-layout: post
-title:  "dpUGC: Learn Differentially Private Representation for User Generated Contents (Best Paper Award, Third Place, Shared)"
-date:   2023-03-02 06:18:50 -0400
-categories: jekyll update
-author: "XS Vu, SN Tran, L Jiang - … Linguistics and Intelligent Text Processing: 20th …, 2023"
----
-This paper firstly proposes a simple yet efficient generalized approach to apply differential privacy to text representation (ie, word embedding). Based on it, we propose a user-level approach to learn personalized differentially private word embedding model on user generated contents (UGC). To our best knowledge, this is the first work of learning user-level differentially private word embedding model from text for sharing. The proposed approaches protect the privacy of the individual from …
-Cites: ‪Tailoring Continuous Word Representations for Dependency Parsing‬
+--- 
+layout: post 
+title: "dpUGC: Learn Differentially Private Representation for User Generated Contents (Best Paper Award, Third Place, Shared)" 
+date: 2023-03-02 06:18:50 -0400 
+categories: jekyll update 
+author: "XS Vu, SN Tran, L Jiang - Linguistics and Intelligent Text Processing: 20th , 2023" 
+--- 
+This paper firstly proposes a simple yet efficient generalized approach to apply differential privacy to text representation (ie, word embedding). Based on it, we propose a user-level approach to learn personalized differentially private word embedding model on user generated contents (UGC). To our best knowledge, this is the first work of learning user-level differentially private word embedding model from text for sharing. The proposed approaches protect the privacy of the individual from  Cites: Tailoring Continuous Word Representations for Dependency Parsing
