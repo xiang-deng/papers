@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Self-Training With Double Selectors for Low-Resource Named Entity Recognition"
+date:   2023-03-04 02:48:03 -0400
+categories: jekyll update
+author: "Y Fu, N Lin, X Yu, S Jiang - IEEE/ACM Transactions on Audio, Speech, and …, 2023"
+---
+Named Entity Recognition (NER) is fundamental to multiple downstream natural language processing (NLP) tasks, but most advanced NER methods heavily rely on massive labeled data with high cost. In this paper, we explore the effectiveness of self-training for low-resource NER. It is one of the semi-supervised approaches to reduce the reliance on manual annotation. However, random pseudo sample selection in standard self-training framework may cause serious error propagation …
+Cites: ‪Deep contextualized word representations‬

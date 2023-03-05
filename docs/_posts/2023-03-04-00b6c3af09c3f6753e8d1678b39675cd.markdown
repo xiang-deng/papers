@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Framework to Generate Neurosymbolic PDDL-compliant Planners"
+date:   2023-03-04 02:48:03 -0400
+categories: jekyll update
+author: "A Capitanelli, F Mastrogiovanni - arXiv preprint arXiv:2303.00438, 2023"
+---
+The problem of integrating high-level task planning in the execution loop of a real-world robot architecture remains challenging, as the planning times of traditional symbolic planners explode combinatorially with the number of symbols to plan upon. In this paper, we present Teriyaki, a framework for training Large Language Models (LLMs), and in particular the now well-known GPT-3 model, into neurosymbolic planners compatible with the Planning Domain Definition Language (PDDL). Unlike …
+Cites: ‪Palm: Scaling language modeling with pathways‬

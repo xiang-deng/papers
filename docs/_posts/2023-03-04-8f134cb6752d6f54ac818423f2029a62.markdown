@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Knowledge Graph Embedding Models with Semantic-driven Loss Functions"
+date:   2023-03-04 02:48:03 -0400
+categories: jekyll update
+author: "N Hubert, P Monnin, A Brun, D Monticolo - arXiv preprint arXiv:2303.00286, 2023"
+---
+Knowledge graph embedding models (KGEMs) are used for various tasks related to knowledge graphs (KGs), including link prediction. They are trained with loss functions that are computed considering a batch of scored triples and their corresponding labels. Traditional approaches consider the label of a triple to be either true or false. However, recent works suggest that all negative triples should not be valued equally. In line with this commonly adopted assumption, we posit that …
+Cites: ‪Convolutional 2d knowledge graph embeddings‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Are Character-level Translations Worth the Wait? An Extensive Comparison of Character-and Subword-level Models for Machine Translation"
+date:   2023-03-04 02:48:03 -0400
+categories: jekyll update
+author: "L Edman, A Toral, G van Noord - arXiv preprint arXiv:2302.14220, 2023"
+---
+Pretrained large character-level language models have been recently revitalized and shown to be competitive with subword models across a range of NLP tasks. However, there has not been any research showing their effectiveness in neural machine translation (NMT). This work performs an extensive comparison across multiple languages and experimental conditions of state-of-the-art character-and subword-level pre-trained models (ByT5 and mT5, respectively) on NMT, and shows …
+Cites: ‪Word Alignment by Fine-tuning Embeddings on Parallel Corpora‬

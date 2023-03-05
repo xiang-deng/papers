@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting"
+date:   2023-03-04 02:48:03 -0400
+categories: jekyll update
+author: "K Luo, X Li, Y Lan, M Gao - arXiv preprint arXiv:2302.14307, 2023"
+---
+Federated Learning (FL) has emerged as a de facto machine learning area and received rapid increasing research interests from the community. However, catastrophic forgetting caused by data heterogeneity and partial participation poses distinctive challenges for FL, which are detrimental to the performance. To tackle the problems, we propose a new FL approach (namely GradMA), which takes inspiration from continual learning to simultaneously correct the server-side and worker-side …
+Cites: ‪Learn to grow: A continual structure learning framework for …‬

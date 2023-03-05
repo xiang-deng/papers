@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rete: Learning Namespace Representation for Program Repair"
+date:   2023-03-04 02:48:03 -0400
+categories: jekyll update
+author: "N Parasaram, ET Barr, S Mechtaev"
+---
+A key challenge of automated program repair is finding correct patches in the vast search space of candidate patches. Real-world programs define large namespaces of variables that considerably contributes to the search space explosion. Existing program repair approaches neglect information about the program namespace, which makes them inefficient and increases the chance of test-overfitting. We propose RETE, a new program repair technique, that learns project-independent …
+Cites: ‪Deep contextualized word representations. arXiv 2018‬

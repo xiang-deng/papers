@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Introduction to Data Poison Attacks on Machine Learning Models"
+date:   2023-03-04 02:48:03 -0400
+categories: jekyll update
+author: "D Namiot - International Journal of Open Information Technologies, 2023"
+---
+This article discusses one of the possible classes of attacks on machine learning systems-poisoning attacks. Classically, poisoning attacks are special modifications of the training data, which are designed to influence the model obtained after training in a necessary way for the attacker. Attacks can be aimed at lowering the overall accuracy or fairness of the model, or at, for example, providing the necessary classification results under certain conditions. The technique for implementing such …
+Cites: ‪Weight Poisoning Attacks on Pre-trained Models‬
