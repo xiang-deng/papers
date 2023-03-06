@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fairness Evaluation in Text Classification: Machine Learning Practitioner Perspectives of Individual and Group Fairness"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "Z Ashktorab, B Hoover, M Agarwal, C Dugan, W Geyer… - arXiv preprint arXiv …, 2023"
----
-Mitigating algorithmic bias is a critical task in the development and deployment of machine learning models. While several toolkits exist to aid machine learning practitioners in addressing fairness issues, little is known about the strategies practitioners employ to evaluate model fairness and what factors influence their assessment, particularly in the context of text classification. Two common approaches of evaluating the fairness of a model are group fairness and individual …
-Cites: ‪Wilds: A benchmark of in-the-wild distribution shifts‬
+--- 
+layout: post 
+title: "Fairness Evaluation in Text Classification: Machine Learning Practitioner Perspectives of Individual and Group Fairness" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "Z Ashktorab, B Hoover, M Agarwal, C Dugan, W Geyer - arXiv preprint arXiv , 2023" 
+--- 
+Mitigating algorithmic bias is a critical task in the development and deployment of machine learning models. While several toolkits exist to aid machine learning practitioners in addressing fairness issues, little is known about the strategies practitioners employ to evaluate model fairness and what factors influence their assessment, particularly in the context of text classification. Two common approaches of evaluating the fairness of a model are group fairness and individual  Cites: Wilds: A benchmark of in-the-wild distribution shifts

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Universal Question-Answering Platform for Knowledge Graphs"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "R Omar, I Dhall, P Kalnis, E Mansour - arXiv preprint arXiv:2303.00595, 2023"
----
-Knowledge from diverse application domains is organized as knowledge graphs (KGs) that are stored in RDF engines accessible in the web via SPARQL endpoints. Expressing a well-formed SPARQL query requires information about the graph structure and the exact URIs of its components, which is impractical for the average user. Question answering (QA) systems assist by translating natural language questions to SPARQL. Existing QA systems are typically based on application …
-Cites: ‪AllenNLP: A Deep Semantic Natural Language Processing Platform‬
+--- 
+layout: post 
+title: "A Universal Question-Answering Platform for Knowledge Graphs" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "R Omar, I Dhall, P Kalnis, E Mansour - arXiv preprint arXiv:2303.00595, 2023" 
+--- 
+Knowledge from diverse application domains is organized as knowledge graphs (KGs) that are stored in RDF engines accessible in the web via SPARQL endpoints. Expressing a well-formed SPARQL query requires information about the graph structure and the exact URIs of its components, which is impractical for the average user. Question answering (QA) systems assist by translating natural language questions to SPARQL. Existing QA systems are typically based on application  Cites: AllenNLP: A Deep Semantic Natural Language Processing Platform

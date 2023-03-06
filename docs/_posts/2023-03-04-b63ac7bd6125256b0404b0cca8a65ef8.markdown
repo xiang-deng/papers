@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RU-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "DD Johnson, D Tarlow, C Walder - arXiv preprint arXiv:2303.00732, 2023"
----
-Large language models show impressive results at predicting structured text such as code, but also commonly introduce errors and hallucinations in their output. When used to assist software developers, these models may make mistakes that users must go back and fix, or worse, introduce subtle bugs that users may miss entirely. We propose Randomized Utility-driven Synthesis of Uncertain REgions (RU-SURE), an approach for building uncertainty-aware suggestions based on a decision …
-Cites: ‪Natural language to code translation with execution‬
+--- 
+layout: post 
+title: "RU-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "DD Johnson, D Tarlow, C Walder - arXiv preprint arXiv:2303.00732, 2023" 
+--- 
+Large language models show impressive results at predicting structured text such as code, but also commonly introduce errors and hallucinations in their output. When used to assist software developers, these models may make mistakes that users must go back and fix, or worse, introduce subtle bugs that users may miss entirely. We propose Randomized Utility-driven Synthesis of Uncertain REgions (RU-SURE), an approach for building uncertainty-aware suggestions based on a decision  Cites: Natural language to code translation with execution

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HugNLP: A Unified and Comprehensive Library for Natural Language Processing"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "J Wang, N Chen, Q Sun, W Huang, C Wang, M Gao - arXiv preprint arXiv:2302.14286, 2023"
----
-In this paper, we introduce HugNLP, a unified and comprehensive library for natural language processing (NLP) with the prevalent backend of HuggingFace Transformers, which is designed for NLP researchers to easily utilize off-the-shelf algorithms and develop novel methods with user-defined models and tasks in real-world scenarios. HugNLP consists of a hierarchical structure including models, processors and applications that unifies the learning process of pre-trained language …
-Cites: ‪Unifying question answering and text classification via span …‬
+--- 
+layout: post 
+title: "HugNLP: A Unified and Comprehensive Library for Natural Language Processing" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "J Wang, N Chen, Q Sun, W Huang, C Wang, M Gao - arXiv preprint arXiv:2302.14286, 2023" 
+--- 
+In this paper, we introduce HugNLP, a unified and comprehensive library for natural language processing (NLP) with the prevalent backend of HuggingFace Transformers, which is designed for NLP researchers to easily utilize off-the-shelf algorithms and develop novel methods with user-defined models and tasks in real-world scenarios. HugNLP consists of a hierarchical structure including models, processors and applications that unifies the learning process of pre-trained language  Cites: Unifying question answering and text classification via span

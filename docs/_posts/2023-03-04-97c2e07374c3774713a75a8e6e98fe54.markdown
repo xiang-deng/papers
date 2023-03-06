@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Feature learning in deep classifiers through Intermediate Neural Collapse"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "A Rangamani, M Lindegaard, T Galanti, T Poggio - 2023"
----
-In this paper, we conduct an empirical study of the feature learning process in deep classifiers. Recent research has identified a training phenomenon called Neural Collapse (NC), in which the top-layer feature embeddings of samples from the same class tend to concentrate around their means, and the top layer s weights align with those features. Our study aims to investigate if these properties extend to intermediate layers. We empirically study the evolution of the covariance and mean …
-Cites: ‪Towards understanding hierarchical learning: Benefits of neural …‬
+--- 
+layout: post 
+title: "Feature learning in deep classifiers through Intermediate Neural Collapse" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "A Rangamani, M Lindegaard, T Galanti, T Poggio - 2023" 
+--- 
+In this paper, we conduct an empirical study of the feature learning process in deep classifiers. Recent research has identified a training phenomenon called Neural Collapse (NC), in which the top-layer feature embeddings of samples from the same class tend to concentrate around their means, and the top layer s weights align with those features. Our study aims to investigate if these properties extend to intermediate layers. We empirically study the evolution of the covariance and mean  Cites: Towards understanding hierarchical learning: Benefits of neural

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Structured Pruning for Deep Convolutional Neural Networks: A survey"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "Y He, L Xiao - arXiv preprint arXiv:2303.00566, 2023"
----
-The remarkable performance of deep Convolutional neural networks (CNNs) is generally attributed to their deeper and wider architectures, which can come with significant computational costs. Pruning neural networks has thus gained interest since it effectively lowers storage and computational costs. In contrast to weight pruning, which results in unstructured models, structured pruning provides the benefit of realistic acceleration by producing models that are friendly to hardware …
-Cites: ‪Continual learning via neural pruning‬
+--- 
+layout: post 
+title: "Structured Pruning for Deep Convolutional Neural Networks: A survey" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "Y He, L Xiao - arXiv preprint arXiv:2303.00566, 2023" 
+--- 
+The remarkable performance of deep Convolutional neural networks (CNNs) is generally attributed to their deeper and wider architectures, which can come with significant computational costs. Pruning neural networks has thus gained interest since it effectively lowers storage and computational costs. In contrast to weight pruning, which results in unstructured models, structured pruning provides the benefit of realistic acceleration by producing models that are friendly to hardware  Cites: Continual learning via neural pruning

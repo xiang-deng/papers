@@ -1,9 +1,8 @@
----
-layout: post
-title:  "No more Reviewer# 2: Subverting Automatic Paper-Reviewer Assignment using Adversarial Learning"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "T Eisenhofer, E Quiring, J Möller, D Riepel, T Holz…"
----
-The number of papers submitted to academic conferences is steadily rising in many scientific disciplines. To handle this growth, systems for automatic paper-reviewer assignments are increasingly used during the reviewing process. These systems use statistical topic models to characterize the content of submissions and automate the assignment to reviewers. In this paper, we show that this automation can be manipulated using adversarial learning. We propose an attack that adapts a given …
-Cites: ‪Adversarial Example Generation with Syntactically Controlled …‬
+--- 
+layout: post 
+title: "No more Reviewer# 2: Subverting Automatic Paper-Reviewer Assignment using Adversarial Learning" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "T Eisenhofer, E Quiring, J Mller, D Riepel, T Holz" 
+--- 
+The number of papers submitted to academic conferences is steadily rising in many scientific disciplines. To handle this growth, systems for automatic paper-reviewer assignments are increasingly used during the reviewing process. These systems use statistical topic models to characterize the content of submissions and automate the assignment to reviewers. In this paper, we show that this automation can be manipulated using adversarial learning. We propose an attack that adapts a given  Cites: Adversarial Example Generation with Syntactically Controlled

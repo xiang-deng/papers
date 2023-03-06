@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Human-Centered Deferred Inference: Measuring User Interactions and Setting Deferral Criteria for Human-AI Teams"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "SJ LEMMER, A GUO, JJ CORSO - 2022"
----
-Fig. 1. Although deep learning provides high performance in some settings, the constraint of a one-time human input combined with counterintuitive gaps in knowledge can lead to poor performance in interaction scenarios. For example: if a robot asked to retrieve a book by its title (please get The Future of Ideas) is forced to infer it will identify the wrong object, but if it is allowed to defer—soliciting additional information such as please get the top book from the human—it will behave correctly …
-Cites: ‪Does the whole exceed its parts? the effect of ai explanations on …‬
+--- 
+layout: post 
+title: "Human-Centered Deferred Inference: Measuring User Interactions and Setting Deferral Criteria for Human-AI Teams" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "SJ LEMMER, A GUO, JJ CORSO - 2022" 
+--- 
+Fig. 1. Although deep learning provides high performance in some settings, the constraint of a one-time human input combined with counterintuitive gaps in knowledge can lead to poor performance in interaction scenarios. For example: if a robot asked to retrieve a book by its title (please get The Future of Ideas) is forced to infer it will identify the wrong object, but if it is allowed to defersoliciting additional information such as please get the top book from the humanit will behave correctly  Cites: Does the whole exceed its parts? the effect of ai explanations on

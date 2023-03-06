@@ -1,9 +1,8 @@
----
-layout: post
-title:  "In-Context Instruction Learning"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "S Ye, H Hwang, S Yang, H Yun, Y Kim, M Seo - arXiv preprint arXiv:2302.14691, 2023"
----
-Instruction learning of Large Language Models (LLMs) has enabled zero-shot task generalization. However, instruction learning has been predominantly approached as a fine-tuning problem, including instruction tuning and reinforcement learning from human feedback, where LLMs are multi-task fine-tuned on various tasks with instructions. In this paper, we present a surprising finding that applying in-context learning to instruction learning, referred to as In-Context Instruction Learning (ICIL) …
-Cites: ‪What can transformers learn in-context? a case study of simple …‬
+--- 
+layout: post 
+title: "In-Context Instruction Learning" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "S Ye, H Hwang, S Yang, H Yun, Y Kim, M Seo - arXiv preprint arXiv:2302.14691, 2023" 
+--- 
+Instruction learning of Large Language Models (LLMs) has enabled zero-shot task generalization. However, instruction learning has been predominantly approached as a fine-tuning problem, including instruction tuning and reinforcement learning from human feedback, where LLMs are multi-task fine-tuned on various tasks with instructions. In this paper, we present a surprising finding that applying in-context learning to instruction learning, referred to as In-Context Instruction Learning (ICIL)  Cites: What can transformers learn in-context? a case study of simple

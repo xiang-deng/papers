@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hidden Markov Transformer for Simultaneous Machine Translation"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "S Zhang, Y Feng - arXiv preprint arXiv:2303.00257, 2023"
----
-Simultaneous machine translation (SiMT) outputs the target sequence while receiving the source sequence, and hence learning when to start translating each target token is the core challenge for SiMT task. However, it is non-trivial to learn the optimal moment among many possible moments of starting translating, as the moments of starting translating always hide inside the model and can only be supervised with the observed target sequence. In this paper, we propose a Hidden …
-Cites: ‪Don’t until the final verb wait: Reinforcement learning for …‬
+--- 
+layout: post 
+title: "Hidden Markov Transformer for Simultaneous Machine Translation" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "S Zhang, Y Feng - arXiv preprint arXiv:2303.00257, 2023" 
+--- 
+Simultaneous machine translation (SiMT) outputs the target sequence while receiving the source sequence, and hence learning when to start translating each target token is the core challenge for SiMT task. However, it is non-trivial to learn the optimal moment among many possible moments of starting translating, as the moments of starting translating always hide inside the model and can only be supervised with the observed target sequence. In this paper, we propose a Hidden  Cites: Dont until the final verb wait: Reinforcement learning for

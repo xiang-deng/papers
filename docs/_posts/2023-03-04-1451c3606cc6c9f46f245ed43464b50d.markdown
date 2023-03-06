@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Task-Oriented Grasp Prediction with Visual-Language Inputs"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "C Tang, D Huang, L Meng, W Liu, H Zhang - arXiv preprint arXiv:2302.14355, 2023"
----
-To perform household tasks, assistive robots receive commands in the form of user language instructions for tool manipulation. The initial stage involves selecting the intended tool (ie, object grounding) and grasping it in a task-oriented manner (ie, task grounding). Nevertheless, prior researches on visual-language grasping (VLG) focus on object grounding, while disregarding the fine-grained impact of tasks on object grasping. Task-incompatible grasping of a tool will inevitably limit the success …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Task-Oriented Grasp Prediction with Visual-Language Inputs" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "C Tang, D Huang, L Meng, W Liu, H Zhang - arXiv preprint arXiv:2302.14355, 2023" 
+--- 
+To perform household tasks, assistive robots receive commands in the form of user language instructions for tool manipulation. The initial stage involves selecting the intended tool (ie, object grounding) and grasping it in a task-oriented manner (ie, task grounding). Nevertheless, prior researches on visual-language grasping (VLG) focus on object grounding, while disregarding the fine-grained impact of tasks on object grasping. Task-incompatible grasping of a tool will inevitably limit the success  Cites: Palm: Scaling language modeling with pathways

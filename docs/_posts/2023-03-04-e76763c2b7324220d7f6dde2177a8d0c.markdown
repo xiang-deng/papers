@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SMoA: Sparse Mixture of Adapters to Mitigate Multiple Dataset Biases"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "Y Liu, J Yan, Y Chen, J Liu, H Wu - arXiv preprint arXiv:2302.14413, 2023"
----
-Recent studies reveal that various biases exist in different NLP tasks, and over-reliance on biases results in models  poor generalization ability and low adversarial robustness. To mitigate datasets biases, previous works propose lots of debiasing techniques to tackle specific biases, which perform well on respective adversarial sets but fail to mitigate other biases. In this paper, we propose a new debiasing method Sparse Mixture-of-Adapters (SMoA), which can mitigate multiple dataset …
-Cites: ‪Tailor: Generating and Perturbing Text with Semantic Controls‬
+--- 
+layout: post 
+title: "SMoA: Sparse Mixture of Adapters to Mitigate Multiple Dataset Biases" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "Y Liu, J Yan, Y Chen, J Liu, H Wu - arXiv preprint arXiv:2302.14413, 2023" 
+--- 
+Recent studies reveal that various biases exist in different NLP tasks, and over-reliance on biases results in models poor generalization ability and low adversarial robustness. To mitigate datasets biases, previous works propose lots of debiasing techniques to tackle specific biases, which perform well on respective adversarial sets but fail to mitigate other biases. In this paper, we propose a new debiasing method Sparse Mixture-of-Adapters (SMoA), which can mitigate multiple dataset  Cites: Tailor: Generating and Perturbing Text with Semantic Controls

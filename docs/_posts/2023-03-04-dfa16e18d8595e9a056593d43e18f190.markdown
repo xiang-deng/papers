@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distributed Randomized Kaczmarz for the Adversarial Workers"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "L Huang, X Li, D Needell - arXiv preprint arXiv:2302.14615, 2023"
----
-Developing large-scale distributed methods that are robust to the presence of adversarial or corrupted workers is an important part of making such methods practical for real-world problems. In this paper, we propose an iterative approach that is adversary-tolerant for convex optimization problems. By leveraging simple statistics, our method ensures convergence and is capable of adapting to adversarial distributions. Additionally, the efficiency of the proposed methods for solving convex …
-Cites: ‪Thieves on Sesame Street! Model Extraction of BERT-based APIs‬
+--- 
+layout: post 
+title: "Distributed Randomized Kaczmarz for the Adversarial Workers" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "L Huang, X Li, D Needell - arXiv preprint arXiv:2302.14615, 2023" 
+--- 
+Developing large-scale distributed methods that are robust to the presence of adversarial or corrupted workers is an important part of making such methods practical for real-world problems. In this paper, we propose an iterative approach that is adversary-tolerant for convex optimization problems. By leveraging simple statistics, our method ensures convergence and is capable of adapting to adversarial distributions. Additionally, the efficiency of the proposed methods for solving convex  Cites: Thieves on Sesame Street! Model Extraction of BERT-based APIs

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Weighted Sampling for Masked Language Modeling"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "L Zhang, Q Chen, W Wang, C Deng, X Cao, K Hao… - arXiv preprint arXiv …, 2023"
----
-Masked Language Modeling (MLM) is widely used to pretrain language models. The standard random masking strategy in MLM causes the pre-trained language models (PLMs) to be biased toward high-frequency tokens. Representation learning of rare tokens is poor and PLMs have limited performance on downstream tasks. To alleviate this frequency bias issue, we propose two simple and effective Weighted Sampling strategies for masking tokens based on the token frequency and training …
-Cites: ‪Token dropping for efficient BERT pretraining‬
+--- 
+layout: post 
+title: "Weighted Sampling for Masked Language Modeling" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "L Zhang, Q Chen, W Wang, C Deng, X Cao, K Hao - arXiv preprint arXiv , 2023" 
+--- 
+Masked Language Modeling (MLM) is widely used to pretrain language models. The standard random masking strategy in MLM causes the pre-trained language models (PLMs) to be biased toward high-frequency tokens. Representation learning of rare tokens is poor and PLMs have limited performance on downstream tasks. To alleviate this frequency bias issue, we propose two simple and effective Weighted Sampling strategies for masking tokens based on the token frequency and training  Cites: Token dropping for efficient BERT pretraining

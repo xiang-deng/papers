@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GNOT: A General Neural Operator Transformer for Operator Learning"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "Z Hao, C Ying, Z Wang, H Su, Y Dong, S Liu, Z Cheng… - arXiv preprint arXiv …, 2023"
----
-Learning partial differential equations (PDEs) solution operators is an essential problem in machine learning. However, there are several challenges for learning operators in practical applications like the irregular mesh, multiple input functions, and complexity of the PDEs  solution. To address these challenges, we propose a general neural operator transformer (GNOT), a scalable and effective transformer-based framework for learning operators. By designing a novel heterogeneous …
-Cites: ‪Random feature attention‬
+--- 
+layout: post 
+title: "GNOT: A General Neural Operator Transformer for Operator Learning" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "Z Hao, C Ying, Z Wang, H Su, Y Dong, S Liu, Z Cheng - arXiv preprint arXiv , 2023" 
+--- 
+Learning partial differential equations (PDEs) solution operators is an essential problem in machine learning. However, there are several challenges for learning operators in practical applications like the irregular mesh, multiple input functions, and complexity of the PDEs solution. To address these challenges, we propose a general neural operator transformer (GNOT), a scalable and effective transformer-based framework for learning operators. By designing a novel heterogeneous  Cites: Random feature attention

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Are More Layers Beneficial to Graph Transformers?"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "H Zhao, S Ma, D Zhang, ZH Deng, F Wei - arXiv preprint arXiv:2303.00579, 2023"
----
-Despite that going deep has proven successful in many neural architectures, the existing graph transformers are relatively shallow. In this work, we explore whether more layers are beneficial to graph transformers, and find that current graph transformers suffer from the bottleneck of improving performance by increasing depth. Our further analysis reveals the reason is that deep graph transformers are limited by the vanishing capacity of global attention, restricting the graph transformer …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬
+--- 
+layout: post 
+title: "Are More Layers Beneficial to Graph Transformers?" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "H Zhao, S Ma, D Zhang, ZH Deng, F Wei - arXiv preprint arXiv:2303.00579, 2023" 
+--- 
+Despite that going deep has proven successful in many neural architectures, the existing graph transformers are relatively shallow. In this work, we explore whether more layers are beneficial to graph transformers, and find that current graph transformers suffer from the bottleneck of improving performance by increasing depth. Our further analysis reveals the reason is that deep graph transformers are limited by the vanishing capacity of global attention, restricting the graph transformer  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

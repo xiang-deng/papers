@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query-efficient Model Extraction for Text Classification Model in a Hard Label Setting"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "H Peng, S Guo, D Zhao, Y Wu, J Han, Z Wang, S Ji… - Journal of King Saud …, 2023"
----
-Designing a query-efficient model extraction strategy to steal models from cloud-based platforms with black-box constraints remains a challenge, especially for language models. In a more realistic setting, a lack of information about the target model s internal parameters, gradients, training data, or even confidence scores prevents attackers from easily copying the target model. Selecting informative and useful examples to train a substitute model is critical to query-efficient model stealing …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "Query-efficient Model Extraction for Text Classification Model in a Hard Label Setting" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "H Peng, S Guo, D Zhao, Y Wu, J Han, Z Wang, S Ji - Journal of King Saud , 2023" 
+--- 
+Designing a query-efficient model extraction strategy to steal models from cloud-based platforms with black-box constraints remains a challenge, especially for language models. In a more realistic setting, a lack of information about the target model s internal parameters, gradients, training data, or even confidence scores prevents attackers from easily copying the target model. Selecting informative and useful examples to train a substitute model is critical to query-efficient model stealing  Cites: Universal adversarial triggers for attacking and analyzing NLP

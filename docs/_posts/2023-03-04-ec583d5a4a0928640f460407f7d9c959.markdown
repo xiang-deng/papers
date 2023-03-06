@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rethinking Efficient Tuning Methods from a Unified Perspective"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "Z Jiang, C Mao, Z Huang, Y Lv, D Zhao, J Zhou - arXiv preprint arXiv:2303.00690, 2023"
----
-Parameter-efficient transfer learning (PETL) based on large-scale pre-trained foundation models has achieved great success in various downstream applications. Existing tuning methods, such as prompt, prefix, and adapter, perform task-specific lightweight adjustments to different parts of the original architecture. However, they take effect on only some parts of the pre-trained models, ie, only the feed-forward layers or the self-attention layers, which leaves the remaining frozen structures …
-Cites: ‪Towards a unified view of parameter-efficient transfer learning‬
+--- 
+layout: post 
+title: "Rethinking Efficient Tuning Methods from a Unified Perspective" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "Z Jiang, C Mao, Z Huang, Y Lv, D Zhao, J Zhou - arXiv preprint arXiv:2303.00690, 2023" 
+--- 
+Parameter-efficient transfer learning (PETL) based on large-scale pre-trained foundation models has achieved great success in various downstream applications. Existing tuning methods, such as prompt, prefix, and adapter, perform task-specific lightweight adjustments to different parts of the original architecture. However, they take effect on only some parts of the pre-trained models, ie, only the feed-forward layers or the self-attention layers, which leaves the remaining frozen structures  Cites: Towards a unified view of parameter-efficient transfer learning

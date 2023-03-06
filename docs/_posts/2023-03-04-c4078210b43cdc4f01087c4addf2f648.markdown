@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Personalized Preprocessing Pipeline Search"
-date:   2023-03-04 02:48:03 -0400
-categories: jekyll update
-author: "D Martinez, D Zha, Q Tan, X Hu - arXiv preprint arXiv:2302.14329, 2023"
----
-Feature preprocessing, which transforms raw input features into numerical representations, is a crucial step in automated machine learning (AutoML) systems. However, the existing systems often have a very small search space for feature preprocessing with the same preprocessing pipeline applied to all the numerical features. This may result in sub-optimal performance since different datasets often have various feature characteristics, and features within a dataset may also have …
-Cites: ‪AlphaD3M: Machine learning pipeline synthesis‬
+--- 
+layout: post 
+title: "Towards Personalized Preprocessing Pipeline Search" 
+date: 2023-03-04 02:48:03 -0400 
+categories: jekyll update 
+author: "D Martinez, D Zha, Q Tan, X Hu - arXiv preprint arXiv:2302.14329, 2023" 
+--- 
+Feature preprocessing, which transforms raw input features into numerical representations, is a crucial step in automated machine learning (AutoML) systems. However, the existing systems often have a very small search space for feature preprocessing with the same preprocessing pipeline applied to all the numerical features. This may result in sub-optimal performance since different datasets often have various feature characteristics, and features within a dataset may also have  Cites: AlphaD3M: Machine learning pipeline synthesis
