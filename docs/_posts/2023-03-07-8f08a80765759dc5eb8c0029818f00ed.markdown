@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Query-Guided Resolution in Uncertain Databases"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "O Drien, M Freiman, A Amarilli, Y Amsterdamer"
+---
+We present a novel framework for uncertain data management. We start with a database whose tuple correctness is uncertain and an oracle that can resolve the uncertainty, ie, decide if a tuple is correct or not. Such an oracle may correspond, eg, to a data expert or to a crowdsourcing platform. We wish to use the oracle to clean the database with the goal of ensuring the correct answer for specific mission-critical queries. To avoid the prohibitive cost of cleaning the entire database and to minimize …
+Cites: ‪Databases with uncertainty and lineage‬

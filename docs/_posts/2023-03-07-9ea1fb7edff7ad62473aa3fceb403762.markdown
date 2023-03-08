@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Stolen Subwords: Importance of Vocabularies for Machine Translation Model Stealing REPORT"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "V Zouhar"
+---
+In learning-based functionality stealing, the attacker is trying to build a local model based on the victim s outputs. The attacker has to make choices regarding the local model s architecture, optimization method and, specifically for NLP models, subword vocabulary, such as BPE. On the machine translation task, we explore (1) whether the choice of the vocabulary plays a role in model stealing scenarios and (2) if it is possible to extract the victim s vocabulary. We find that the vocabulary itself does not …
+Cites: ‪Thieves on Sesame Street! Model Extraction of BERT-based APIs‬

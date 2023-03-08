@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SLITS: Sparsity-Lightened Intelligent Thread Scheduling"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "W Jin, X Peng - Proceedings of the ACM on Measurement and Analysis …, 2023"
+---
+A diverse set of scheduling objectives (eg, resource contention, fairness, priority, etc.) breed a series of objective-specific schedulers for multi-core architectures. Existing designs incorporate thread-to-thread statistics at runtime, and schedule threads based on such an abstraction (we formalize thread-to-thread interaction as the Thread-Interaction Matrix). However, such an abstraction also reveals a consistently-overlooked issue: the Thread-Interaction Matrix (TIM) is highly sparse. Therefore …
+Cites: ‪DBOS: a DBMS-oriented Operating System‬

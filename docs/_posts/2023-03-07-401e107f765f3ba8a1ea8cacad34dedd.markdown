@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Pipeline for Extracting Abstract Dependency Templates for Data-to-Text Natural Language Generation"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "S Mille, J Ricci, A Shvets, A Belz - … of the Seventh International Conference on …, 2023"
+---
+We present work in progress that aims to address the coverage issue faced by rule-based text generators. We propose a pipeline for extracting abstract dependency template (predicate-argument structures) from Wikipedia text to be used as input for generating text from structured data with the FORGe system. The pipeline comprises three main components:(i) candidate sentence retrieval,(ii) clause extraction, ranking and selection, and (iii) conversion to predicate-argument form. We present an …
+Cites: ‪Dense passage retrieval for open-domain question answering‬

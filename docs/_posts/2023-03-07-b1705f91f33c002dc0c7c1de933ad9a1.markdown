@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Variance-reduced Clipping for Non-convex Optimization"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "A Reisizadeh, H Li, S Das, A Jadbabaie - arXiv preprint arXiv:2303.00883, 2023"
+---
+Gradient clipping is a standard training technique used in deep learning applications such as large-scale language modeling to mitigate exploding gradients. Recent experimental studies have demonstrated a fairly special behavior in the smoothness of the training objective along its trajectory when trained with gradient clipping. That is, the smoothness grows with the gradient norm. This is in clear contrast to the well-established assumption in folklore non-convex optimization, aka $ L $-smoothness …
+Cites: ‪Deep contextualized word representations. arXiv 2018‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ArCL: Enhancing Contrastive Learning with Augmentation-Robust Representations"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "X Zhao, T Du, Y Wang, J Yao, W Huang - arXiv preprint arXiv:2303.01092, 2023"
+---
+Self-Supervised Learning (SSL) is a paradigm that leverages unlabeled data for model training. Empirical studies show that SSL can achieve promising performance in distribution shift scenarios, where the downstream and training distributions differ. However, the theoretical understanding of its transferability remains limited. In this paper, we develop a theoretical framework to analyze the transferability of self-supervised contrastive learning, by investigating the impact of data augmentation on …
+Cites: ‪Connect, not collapse: Explaining contrastive learning for …‬

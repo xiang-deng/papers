@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Role of Hyper-parameters in Relational Topic Models: Prediction Capabilities vs Topic Quality"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "S Terragni, A Candelieri, E Fersini - Information Sciences, 2023"
+---
+In this paper, we investigate the impact of optimal hyper-parameter configuration in relational topic models. The main goal is to validate the hypothesis that single-objective Bayesian Optimization (BO) can discover a hyper-parameter setting that leads a set of relational topic models to simultaneously ensure good prediction capabilities and significant topics from a qualitative perspective. Our research, as a result of a comparative analysis performed on 7 state-of-the-art models, 5 …
+Cites: ‪A discriminative topic model using document network structure‬

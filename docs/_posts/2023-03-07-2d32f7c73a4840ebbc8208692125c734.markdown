@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rule-based semantic interpretation for Universal Dependencies"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "JY Findlay, S Salimifar, A Yıldırım, DTT Haug - Proceedings of the Sixth Workshop on …, 2023"
+---
+In this paper, we present a system for generating semantic representations from Universal Dependencies syntactic parses. The foundation of our pipeline is a rule-based interpretation system, designed to be as universal as possible, which produces the correct semantic structure; the content of this structure can then be filled in by additional (sometimes language-specific) post-processing. The rules which generate semantic resources rely as far as possible on the UD parse alone, so that …
+Cites: ‪Universal Discourse Representation Structure Parsing‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Adopting the Multi-answer Questioning Task with an Auxiliary Metric for Extreme Multi-label Text Classification Utilizing the Label Hierarchy"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "L Wang, YW Teh, MA Al-Garadi - arXiv preprint arXiv:2303.01064, 2023"
+---
+Extreme multi-label text classification utilizes the label hierarchy to partition extreme labels into multiple label groups, turning the task into simple multi-group multi-label classification tasks. Current research encodes labels as a vector with fixed length which needs establish multiple classifiers for different label groups. The problem is how to build only one classifier without sacrificing the label relationship in the hierarchy. This paper adopts the multi-answer questioning task for extreme multi …
+Cites: ‪A simple and effective model for answering multi-span questions‬

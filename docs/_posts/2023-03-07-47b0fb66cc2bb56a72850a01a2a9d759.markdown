@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SlabCity: Whole-Query Optimization using Program Synthesis"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "R Dong, J Liu, Y Zhu, C Yan, B Mozafari, X Wang"
+---
+Query rewriting is often a prerequisite for effective query optimization, particularly for poorly-written queries. Prior work on query rewriting has relied on a set of “rules” based on syntactic patternmatching. Whether relying on manual rules or auto-generated ones, rule-based query rewriters are inherently limited in their ability to handle new query patterns. Their success is limited by the quality and quantity of the rules provided to them. To our knowledge, we present the first synthesis-based query …
+Cites: ‪Query optimization by predicate move-around‬

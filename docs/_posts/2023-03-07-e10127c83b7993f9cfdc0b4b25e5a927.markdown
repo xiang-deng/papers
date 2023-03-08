@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BPT: Binary Point Cloud Transformer for Place Recognition"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "Z Hou, Y Shang, T Gao, Y Yan - arXiv preprint arXiv:2303.01166, 2023"
+---
+Place recognition, an algorithm to recognize the re-visited places, plays the role of back-end optimization trigger in a full SLAM system. Many works equipped with deep learning tools, such as MLP, CNN, and transformer, have achieved great improvements in this research field. Point cloud transformer is one of the excellent frameworks for place recognition applied in robotics, but with large memory consumption and expensive computation, it is adverse to widely deploy the various …
+Cites: ‪Bit: Robustly binarized multi-distilled transformer‬

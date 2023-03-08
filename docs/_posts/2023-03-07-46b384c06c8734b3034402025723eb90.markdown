@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parameter-efficient fine-tuning of large-scale pre-trained language models"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "N Ding, Y Qin, G Yang, F Wei, Z Yang, Y Su, S Hu… - Nature Machine Intelligence, 2023"
+---
+With the prevalence of pre-trained language models (PLMs) and the pre-training–fine-tuning paradigm, it has been continuously shown that larger models tend to yield better performance. However, as PLMs scale up, fine-tuning and storing all the parameters is prohibitively costly and eventually becomes practically infeasible. This necessitates a new branch of research focusing on the parameter-efficient adaptation of PLMs, which optimizes a small portion of the model parameters while …
+Cites: ‪Palm: Scaling language modeling with pathways‬

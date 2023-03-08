@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Convolutional Neural Networks for Knowledge Graph Completion"
+date:   2023-03-07 06:19:37 -0400
+categories: jekyll update
+author: "K Cousot, NM Farisar, W Ragheb, M Mirzapour - TextMine 23"
+---
+In this paper, we present our ongoing research on a convolutional neural network architecture for knowledge graph completion task called Multilayered ConvKB (MConvKB). Our new proposal is an extension to ConvKB with two main changes:(i) we added non-linear fully connected layers motivated by VGG architectures which acts as the last layer classifier, and (ii) we initialized the model with different pre-trained translational knowledge graph embeddings (TransE and TransD) to explore …
+Cites: ‪Observed versus latent features for knowledge base and text …‬
