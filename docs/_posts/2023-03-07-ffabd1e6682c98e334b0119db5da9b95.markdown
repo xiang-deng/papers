@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Training Dynamics and Expressiveness of Certain Neural Networks"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "Z Chen - 2023"
----
-This thesis contributes to the theoretical understanding of deep learning at two fronts. The first half of the thesis concerns the training dynamics of wide neural networks (NNs). The training of NNs is a non-convex optimization problem, but in practice, simple optimization methods such as gradient descent can work remarkably well. To understand this, a series of prior studies has considered the optimization of two-layer NNs in the mean-field (MF) limit as their width tends to infinity. Characterized by a …
-Cites: ‪Palm: Scaling language modeling with pathways‬

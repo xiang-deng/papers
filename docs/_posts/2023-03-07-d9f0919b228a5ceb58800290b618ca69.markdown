@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Incorporating Explicit Subtopics in Personalized Search"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "S Wang, Z Dou, J Yao, Y Zhou, JR Wen - 2023"
----
-The key to personalized search is modeling user intents to tailor returned results for different users. Existing personalized methods mainly focus on learning implicit user interest vectors. In this paper, we propose ExpliPS, a personalized search model that explicitly incorporates query subtopics into personalization. It models the user s current intent by estimating the user s preference over the subtopics of the current query and personalizes the results over the weighted subtopics. We think that in such …
-Cites: ‪Personalized ranking model adaptation for web search‬
+--- 
+layout: post 
+title: "Incorporating Explicit Subtopics in Personalized Search" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "S Wang, Z Dou, J Yao, Y Zhou, JR Wen - 2023" 
+--- 
+The key to personalized search is modeling user intents to tailor returned results for different users. Existing personalized methods mainly focus on learning implicit user interest vectors. In this paper, we propose ExpliPS, a personalized search model that explicitly incorporates query subtopics into personalization. It models the user s current intent by estimating the user s preference over the subtopics of the current query and personalizes the results over the weighted subtopics. We think that in such  Cites: Personalized ranking model adaptation for web search

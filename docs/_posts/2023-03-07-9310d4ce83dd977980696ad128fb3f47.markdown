@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploration of Knowledge Driven Event Hyperbolic Embedding Temporal Relation Extraction Method"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "J Duan, S Dai, H Wang, L He, X Li - Beijing Da Xue Xue Bao, 2023"
----
-Aiming at the problem of asymmetric temporal relations of events, the event representation is mapped to hyperbolic space to extract temporal relations of events. The word embedding representation of the event is constructed by using the pre-trained word vector and external knowledge through simple operation. Experimental results on publicly released datasets show that the F1 value of the model is generally 2% higher than that of the baseline model, which can improve the effect of event …
-Cites: ‪Event time extraction and propagation via graph attention networks‬
+--- 
+layout: post 
+title: "Exploration of Knowledge Driven Event Hyperbolic Embedding Temporal Relation Extraction Method" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "J Duan, S Dai, H Wang, L He, X Li - Beijing Da Xue Xue Bao, 2023" 
+--- 
+Aiming at the problem of asymmetric temporal relations of events, the event representation is mapped to hyperbolic space to extract temporal relations of events. The word embedding representation of the event is constructed by using the pre-trained word vector and external knowledge through simple operation. Experimental results on publicly released datasets show that the F1 value of the model is generally 2% higher than that of the baseline model, which can improve the effect of event  Cites: Event time extraction and propagation via graph attention networks

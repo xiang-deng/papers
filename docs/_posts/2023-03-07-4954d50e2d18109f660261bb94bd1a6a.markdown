@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Joint Learning of Practical Dialogue Systems and User Simulators"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "AJ McLeay"
----
-A key difficulty in training task-oriented dialogue (TOD) systems is a lack of training data. We explore the possibility of creating new dialogue data through the interaction of an end-to-end (E2E) Transformer-based TOD system, and an E2E Transformer-based User Simulator. We refer to the generation of new data through conversations between the two systems as self-play. Our goal is to develop such a TOD system and User Simulator using supervised learning that a) can operate on unseen dialogues …
-Cites: ‪A simple language model for task-oriented dialogue‬

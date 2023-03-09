@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rethinking the Effect of Data Augmentation in Adversarial Contrastive Learning"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "R Luo, Y Wang, Y Wang - arXiv preprint arXiv:2303.01289, 2023"
----
-Recent works have shown that self-supervised learning can achieve remarkable robustness when integrated with adversarial training (AT). However, the robustness gap between supervised AT (sup-AT) and self-supervised AT (self-AT) remains significant. Motivated by this observation, we revisit existing self-AT methods and discover an inherent dilemma that affects self-AT robustness: either strong or weak data augmentations are harmful to self-AT, and a medium strength is insufficient to …
-Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬
+--- 
+layout: post 
+title: "Rethinking the Effect of Data Augmentation in Adversarial Contrastive Learning" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "R Luo, Y Wang, Y Wang - arXiv preprint arXiv:2303.01289, 2023" 
+--- 
+Recent works have shown that self-supervised learning can achieve remarkable robustness when integrated with adversarial training (AT). However, the robustness gap between supervised AT (sup-AT) and self-supervised AT (self-AT) remains significant. Motivated by this observation, we revisit existing self-AT methods and discover an inherent dilemma that affects self-AT robustness: either strong or weak data augmentations are harmful to self-AT, and a medium strength is insufficient to  Cites: Fine-tuning can distort pretrained features and underperform out-of

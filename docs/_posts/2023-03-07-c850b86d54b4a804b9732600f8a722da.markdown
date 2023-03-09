@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Weakly supervised text classification method based on transformer"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "L Gan, A Yi - … Conference on Mechatronics Engineering and Artificial …, 2023"
----
-The seed word-driven approach based on weakly supervised text classification (WTC) is the dominant approach. In existing seed word-driven methods, using metrics such as Term Frequency (TF), Inverse Document Frequency (IDF) and its combinations to update the seed words. the method assigns the same weight to all metrics, leading to the selection of common or poorly differentiated words as seed words; In addition most of the text classifiers used in the study have difficulty in …
-Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬
+--- 
+layout: post 
+title: "Weakly supervised text classification method based on transformer" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "L Gan, A Yi - Conference on Mechatronics Engineering and Artificial , 2023" 
+--- 
+The seed word-driven approach based on weakly supervised text classification (WTC) is the dominant approach. In existing seed word-driven methods, using metrics such as Term Frequency (TF), Inverse Document Frequency (IDF) and its combinations to update the seed words. the method assigns the same weight to all metrics, leading to the selection of common or poorly differentiated words as seed words; In addition most of the text classifiers used in the study have difficulty in  Cites: Benchmarking zero-shot text classification: Datasets, evaluation

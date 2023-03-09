@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pathways to Leverage Transcompiler based Data Augmentation for Cross-Language Clone Detection"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "SN Pinku, D Mondal, CK Roy - arXiv preprint arXiv:2303.01435, 2023"
----
-Software clones are often introduced when developers reuse code fragments to implement similar functionalities in the same or different software systems. Many high-performing clone detection tools today are based on deep learning techniques and are mostly used for detecting clones written in the same programming language, whereas clone detection tools for detecting cross-language clones are also emerging rapidly. The popularity of deep learning-based clone detection tools …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Pathways to Leverage Transcompiler based Data Augmentation for Cross-Language Clone Detection" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "SN Pinku, D Mondal, CK Roy - arXiv preprint arXiv:2303.01435, 2023" 
+--- 
+Software clones are often introduced when developers reuse code fragments to implement similar functionalities in the same or different software systems. Many high-performing clone detection tools today are based on deep learning techniques and are mostly used for detecting clones written in the same programming language, whereas clone detection tools for detecting cross-language clones are also emerging rapidly. The popularity of deep learning-based clone detection tools  Cites: Codexglue: A machine learning benchmark dataset for code

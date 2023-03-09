@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Denoised and Interpretable Session Representation for Conversational Search"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "K Mao, H Qian, F Mo, Z Dou, B Liu, X Cheng, Z Cao - 2023"
----
-Conversational search supports multi-turn user-system interactions to solve complex information needs. Compared with the traditional single-turn ad-hoc search, conversational search faces a more complex search intent understanding problem because a conversational search session is much longer and contains many noisy tokens. However, existing conversational dense retrieval solutions simply fine-tune the pre-trained ad-hoc query encoder on limited conversational search data, which …
-Cites: ‪Few-shot conversational dense retrieval‬
+--- 
+layout: post 
+title: "Learning Denoised and Interpretable Session Representation for Conversational Search" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "K Mao, H Qian, F Mo, Z Dou, B Liu, X Cheng, Z Cao - 2023" 
+--- 
+Conversational search supports multi-turn user-system interactions to solve complex information needs. Compared with the traditional single-turn ad-hoc search, conversational search faces a more complex search intent understanding problem because a conversational search session is much longer and contains many noisy tokens. However, existing conversational dense retrieval solutions simply fine-tune the pre-trained ad-hoc query encoder on limited conversational search data, which  Cites: Few-shot conversational dense retrieval

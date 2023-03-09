@@ -1,9 +1,0 @@
----
-layout: post
-title:  "The Use of Explicit Question Decompositions for Multihop Question Answering Retrieval"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "N Nishikant - 2022"
----
-Open domain question answering is a problem in NLP where a system answers learns to answer questions based on a large corpus of documents. Commonly, a retriever model first retrieves relevant documents and then a reader model extracts the correct answer. We specifically seek to improve the retrieval of” multihop questions”, which are questions that can be decomposed into multiple subquestions, making them more complex and realistic. We explore if using gold standard …
-Cites: ‪Did Aristotle Use a Laptop? A Question Answering Benchmark with …‬

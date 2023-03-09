@@ -1,9 +1,0 @@
----
-layout: post
-title:  "UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "J Saad-Falcon, O Khattab, K Santhanam, R Florian… - arXiv preprint arXiv …, 2023"
----
-Many information retrieval tasks require large labeled datasets for fine-tuning. However, such datasets are often unavailable, and their utility for real-world applications can diminish quickly due to domain shifts. To address this challenge, we develop and motivate a method for using large language models (LLMs) to generate large numbers of synthetic queries cheaply. The method begins by generating a small number of synthetic queries using an expensive LLM. After that, a much less …
-Cites: ‪Scaling instruction-finetuned language models‬

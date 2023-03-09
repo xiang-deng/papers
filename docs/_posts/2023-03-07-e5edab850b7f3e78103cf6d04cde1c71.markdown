@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dropout Reduces Underfitting"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "Z Liu, Z Xu, J Jin, Z Shen, T Darrell - arXiv preprint arXiv:2303.01500, 2023"
----
-Introduced by Hinton et al. in 2012, dropout has stood the test of time as a regularizer for preventing overfitting in neural networks. In this study, we demonstrate that dropout can also mitigate underfitting when used at the start of training. During the early phase, we find dropout reduces the directional variance of gradients across mini-batches and helps align the mini-batch gradients with the entire dataset s gradient. This helps counteract the stochasticity of SGD and limit the influence of …
-Cites: ‪Efficientnetv2: Smaller models and faster training‬
+--- 
+layout: post 
+title: "Dropout Reduces Underfitting" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "Z Liu, Z Xu, J Jin, Z Shen, T Darrell - arXiv preprint arXiv:2303.01500, 2023" 
+--- 
+Introduced by Hinton et al. in 2012, dropout has stood the test of time as a regularizer for preventing overfitting in neural networks. In this study, we demonstrate that dropout can also mitigate underfitting when used at the start of training. During the early phase, we find dropout reduces the directional variance of gradients across mini-batches and helps align the mini-batch gradients with the entire dataset s gradient. This helps counteract the stochasticity of SGD and limit the influence of  Cites: Efficientnetv2: Smaller models and faster training

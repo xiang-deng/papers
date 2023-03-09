@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PANACEA: An Automated Misinformation Detection System on COVID-19"
-date:   2023-03-07 06:19:37 -0400
-categories: jekyll update
-author: "R Zhao, M Arana-Catania, L Zhu, E Kochkina, L Gui… - arXiv preprint arXiv …, 2023"
----
-In this demo, we introduce a web-based misinformation detection system PANACEA on COVID-19 related claims, which has two modules, fact-checking and rumour detection. Our fact-checking module, which is supported by novel natural language inference methods with a self-attention network, outperforms state-of-the-art approaches. It is also able to give automated veracity assessment and ranked supporting evidence with the stance towards the claim to be checked. In addition …
-Cites: ‪Fine-grained fact verification with kernel graph attention network‬
+--- 
+layout: post 
+title: "PANACEA: An Automated Misinformation Detection System on COVID-19" 
+date: 2023-03-07 06:19:37 -0400 
+categories: jekyll update 
+author: "R Zhao, M Arana-Catania, L Zhu, E Kochkina, L Gui - arXiv preprint arXiv , 2023" 
+--- 
+In this demo, we introduce a web-based misinformation detection system PANACEA on COVID-19 related claims, which has two modules, fact-checking and rumour detection. Our fact-checking module, which is supported by novel natural language inference methods with a self-attention network, outperforms state-of-the-art approaches. It is also able to give automated veracity assessment and ranked supporting evidence with the stance towards the claim to be checked. In addition  Cites: Fine-grained fact verification with kernel graph attention network
