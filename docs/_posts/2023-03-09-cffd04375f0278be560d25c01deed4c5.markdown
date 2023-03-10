@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Less is More: Mitigate Spurious Correlations for Open-Domain Dialogue Response Generation Models by Causal Discovery"
+date:   2023-03-09 05:52:34 -0400
+categories: jekyll update
+author: "T Feng, L Qu, G Haffari - arXiv preprint arXiv:2303.01962, 2023"
+---
+In this paper, we conduct the first study on spurious correlations for open-domain response generation models based on a corpus CGDIALOG curated in our work. The cur rent models indeed suffer from spurious correlations and have a tendency of generating irrelevant and generic responses. Inspired by causal discovery algorithms, we propose a novel model-agnostic method for training and inference of response generation model using a conditional independence classifier. The …
+Cites: ‪Data-to-text generation with macro planning‬

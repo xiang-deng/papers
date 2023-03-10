@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Revisiting Adversarial Training for ImageNet: Architectures, Training and Generalization across Threat Models"
+date:   2023-03-09 05:52:34 -0400
+categories: jekyll update
+author: "ND Singh, F Croce, M Hein - arXiv preprint arXiv:2303.01870, 2023"
+---
+While adversarial training has been extensively studied for ResNet architectures and low resolution datasets like CIFAR, much less is known for ImageNet. Given the recent debate about whether transformers are more robust than convnets, we revisit adversarial training on ImageNet comparing ViTs and ConvNeXts. Extensive experiments show that minor changes in architecture, most notably replacing PatchStem with ConvStem, and training scheme have a significant impact on the …
+Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬

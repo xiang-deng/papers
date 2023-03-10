@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fast and accurate interpretation of workload classification model"
+date:   2023-03-09 05:52:34 -0400
+categories: jekyll update
+author: "S Shim, D Kim, JG Jang, S Chae, J Lee, U Kang - Plos one, 2023"
+---
+How can we interpret predictions of a workload classification model? A workload is a sequence of operations executed in DRAM, where each operation contains a command and an address. Classifying a given sequence into a correct workload type is important for verifying the quality of DRAM. Although a previous model achieves a reasonable accuracy on workload classification, it is challenging to interpret the prediction results since it is a black box model. A promising direction is to exploit …
+Cites: ‪Contrastive explanations for model interpretability‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Differentially Private Neural Tangent Kernels for Privacy-Preserving Data Generation"
+date:   2023-03-09 05:52:34 -0400
+categories: jekyll update
+author: "Y Yang, K Adamczewski, DJ Sutherland, X Li, M Park - arXiv preprint arXiv …, 2023"
+---
+Maximum mean discrepancy (MMD) is a particularly useful distance metric for differentially private data generation: when used with finite-dimensional features it allows us to summarize and privatize the data distribution once, which we can repeatedly use during generator training without further privacy loss. An important question in this framework is, then, what features are useful to distinguish between real and synthetic data distributions, and whether those enable us to generate quality …
+Cites: ‪A Kernel-Based View of Language Model Fine-tuning‬
