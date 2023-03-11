@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fast and Multi-aspect Mining of Complex Time-stamped Event Streams"
+date:   2023-03-10 16:03:48 -0400
+categories: jekyll update
+author: "K Nakamura, Y Matsubara, K Kawabata, Y Umeda… - arXiv preprint arXiv …, 2023"
+---
+Given a huge, online stream of time-evolving events with multiple attributes, such as online shopping logs:(item, price, brand, time), and local mobility activities:(pick-up and drop-off locations, time), how can we summarize large, dynamic high-order tensor streams? How can we see any hidden patterns, rules, and anomalies? Our answer is to focus on two types of patterns, ie,  regimes  and  components  , for which we present CubeScope, an efficient and effective method over high-order tensor …
+Cites: ‪Deep state-space generative model for correlated time-to-event …‬

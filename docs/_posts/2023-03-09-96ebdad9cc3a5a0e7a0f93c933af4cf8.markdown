@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AdaComplete: improve DL-based code completion method s domain adaptability"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "Z Wang, F Liu, Y Hao, Z Jin - Automated Software Engineering, 2023"
----
-Code completion is an important feature in integrated development environments that can accelerate the coding process. With the development of deep learning technologies and easy-to-acquire open-source codebases, many Deep Learning based code completion models (DL models) are proposed. These models are trained using the generic source code datasets, resulting in poor domain adaptability. That is, these models suffer from performance loss when helping …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "AdaComplete: improve DL-based code completion method s domain adaptability" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "Z Wang, F Liu, Y Hao, Z Jin - Automated Software Engineering, 2023" 
+--- 
+Code completion is an important feature in integrated development environments that can accelerate the coding process. With the development of deep learning technologies and easy-to-acquire open-source codebases, many Deep Learning based code completion models (DL models) are proposed. These models are trained using the generic source code datasets, resulting in poor domain adaptability. That is, these models suffer from performance loss when helping  Cites: Bert: Pre-training of deep bidirectional transformers for language

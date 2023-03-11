@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Run, Don t Walk: Chasing Higher FLOPS for Faster Neural Networks"
+date:   2023-03-10 16:03:48 -0400
+categories: jekyll update
+author: "J Chen, S Kao, H He, W Zhuo, S Wen, CH Lee… - arXiv preprint arXiv …, 2023"
+---
+To design fast neural networks, many works have been focusing on reducing the number of floating-point operations (FLOPs). We observe that such reduction in FLOPs, however, does not necessarily lead to a similar level of reduction in latency. This mainly stems from inefficiently low floating-point operations per second (FLOPS). To achieve faster networks, we revisit popular operators and demonstrate that such low FLOPS is mainly due to frequent memory access of the operators …
+Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬

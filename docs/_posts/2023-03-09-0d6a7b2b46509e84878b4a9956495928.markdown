@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "X Zhang, R Xu, H Yu, H Zou, P Cui - arXiv preprint arXiv:2303.03108, 2023"
----
-Recently, flat minima are proven to be effective for improving generalization and sharpness-aware minimization (SAM) achieves state-of-the-art performance. Yet the current definition of flatness discussed in SAM and its follow-ups are limited to the zeroth-order flatness (ie, the worst-case loss within a perturbation radius). We show that the zeroth-order flatness can be insufficient to discriminate minima with low generalization error from those with high generalization error both when there is a …
-Cites: ‪The break-even point on optimization trajectories of deep neural …‬
+--- 
+layout: post 
+title: "Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "X Zhang, R Xu, H Yu, H Zou, P Cui - arXiv preprint arXiv:2303.03108, 2023" 
+--- 
+Recently, flat minima are proven to be effective for improving generalization and sharpness-aware minimization (SAM) achieves state-of-the-art performance. Yet the current definition of flatness discussed in SAM and its follow-ups are limited to the zeroth-order flatness (ie, the worst-case loss within a perturbation radius). We show that the zeroth-order flatness can be insufficient to discriminate minima with low generalization error from those with high generalization error both when there is a  Cites: The break-even point on optimization trajectories of deep neural

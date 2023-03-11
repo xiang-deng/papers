@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mixture of Soft Prompts for Controllable Data Generation"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "D Chen, C Lee, Y Lu, D Rosati, Z Yu - arXiv preprint arXiv:2303.01580, 2023"
----
-Large language models (LLMs) effectively generate fluent text when the target output follows natural language patterns. However, structured prediction tasks confine the output format to a limited ontology, causing even very large models to struggle since they were never trained with such restrictions in mind. The difficulty of using LLMs for direct prediction is exacerbated in few-shot learning scenarios, which commonly arise due to domain shift and resource limitations. We flip the problem on its head by …
-Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬
+--- 
+layout: post 
+title: "Mixture of Soft Prompts for Controllable Data Generation" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "D Chen, C Lee, Y Lu, D Rosati, Z Yu - arXiv preprint arXiv:2303.01580, 2023" 
+--- 
+Large language models (LLMs) effectively generate fluent text when the target output follows natural language patterns. However, structured prediction tasks confine the output format to a limited ontology, causing even very large models to struggle since they were never trained with such restrictions in mind. The difficulty of using LLMs for direct prediction is exacerbated in few-shot learning scenarios, which commonly arise due to domain shift and resource limitations. We flip the problem on its head by  Cites: DExperts: Decoding-time controlled text generation with experts

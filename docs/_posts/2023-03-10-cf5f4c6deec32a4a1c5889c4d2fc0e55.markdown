@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ADELT: Transpilation Between Deep Learning Frameworks"
+date:   2023-03-10 16:03:48 -0400
+categories: jekyll update
+author: "L Gong, J Wang, A Cheung - arXiv preprint arXiv:2303.03593, 2023"
+---
+We propose Adversarial DEep Learning Transpiler (ADELT) for source-to-source transpilation between deep learning frameworks. Unlike prior approaches, we decouple the transpilation of code skeletons and the mapping of API keywords (an API function name or a parameter name). ADELT transpile code skeletons using few-shot prompting on big language models. Based on contextual embeddings extracted by a BERT for code, we train aligned API embeddings in a domain-adversarial setup …
+Cites: ‪Codebleu: a method for automatic evaluation of code synthesis‬

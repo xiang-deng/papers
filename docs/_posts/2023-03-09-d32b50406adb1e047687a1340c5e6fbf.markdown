@@ -1,9 +1,8 @@
----
-layout: post
-title:  "APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "R Shahbazi, F Fard - arXiv preprint arXiv:2303.01645, 2023"
----
-Code comments are significantly helpful in comprehending software programs and also aid developers to save a great deal of time in software maintenance. Code comment generation aims to automatically predict comments in natural language given a code snippet. Several works investigate the effect of integrating external knowledge on the quality of generated comments. In this study, we propose a solution, namely APIContext2Com, to improve the effectiveness of generated …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "R Shahbazi, F Fard - arXiv preprint arXiv:2303.01645, 2023" 
+--- 
+Code comments are significantly helpful in comprehending software programs and also aid developers to save a great deal of time in software maintenance. Code comment generation aims to automatically predict comments in natural language given a code snippet. Several works investigate the effect of integrating external knowledge on the quality of generated comments. In this study, we propose a solution, namely APIContext2Com, to improve the effectiveness of generated  Cites: Graphcodebert: Pre-training code representations with data flow

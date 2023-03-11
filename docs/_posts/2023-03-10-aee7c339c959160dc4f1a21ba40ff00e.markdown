@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Gradient-Free Structured Pruning with Unlabeled Data"
+date:   2023-03-10 16:03:48 -0400
+categories: jekyll update
+author: "A Nova, H Dai, D Schuurmans - arXiv preprint arXiv:2303.04185, 2023"
+---
+Large Language Models (LLMs) have achieved great success in solving difficult tasks across many domains, but such success comes with a high computation cost, and inference latency. As developers and third parties customize these models, the need to provide efficient inference has increased. Many efforts have attempted to reduce inference cost through model compression techniques such as pruning and distillation. However, these techniques either require labeled data, or are time …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

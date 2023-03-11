@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Provable Advantage of Unsupervised Pretraining"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "J Ge, S Tang, J Fan, C Jin - arXiv preprint arXiv:2303.01566, 2023"
----
-Unsupervised pretraining, which learns a useful representation using a large amount of unlabeled data to facilitate the learning of downstream tasks, is a critical component of modern large-scale machine learning systems. Despite its tremendous empirical success, the rigorous theoretical understanding of why unsupervised pretraining generally helps remains rather limited--most existing results are restricted to particular methods or approaches for unsupervised pretraining with specialized …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "On the Provable Advantage of Unsupervised Pretraining" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "J Ge, S Tang, J Fan, C Jin - arXiv preprint arXiv:2303.01566, 2023" 
+--- 
+Unsupervised pretraining, which learns a useful representation using a large amount of unlabeled data to facilitate the learning of downstream tasks, is a critical component of modern large-scale machine learning systems. Despite its tremendous empirical success, the rigorous theoretical understanding of why unsupervised pretraining generally helps remains rather limited--most existing results are restricted to particular methods or approaches for unsupervised pretraining with specialized  Cites: Deep contextualized word representations

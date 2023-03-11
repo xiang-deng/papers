@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fine-Grained Classification with Noisy Labels"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "Q Wei, L Feng, H Sun, R Wang, C Guo, Y Yin - arXiv preprint arXiv:2303.02404, 2023"
----
-Learning with noisy labels (LNL) aims to ensure model generalization given a label-corrupted training set. In this work, we investigate a rarely studied scenario of LNL on fine-grained datasets (LNL-FG), which is more practical and challenging as large inter-class ambiguities among fine-grained classes cause more noisy labels. We empirically show that existing methods that work well for LNL fail to achieve satisfying performance for LNL-FG, arising the practical need of effective solutions for …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "Fine-Grained Classification with Noisy Labels" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "Q Wei, L Feng, H Sun, R Wang, C Guo, Y Yin - arXiv preprint arXiv:2303.02404, 2023" 
+--- 
+Learning with noisy labels (LNL) aims to ensure model generalization given a label-corrupted training set. In this work, we investigate a rarely studied scenario of LNL on fine-grained datasets (LNL-FG), which is more practical and challenging as large inter-class ambiguities among fine-grained classes cause more noisy labels. We empirically show that existing methods that work well for LNL fail to achieve satisfying performance for LNL-FG, arising the practical need of effective solutions for  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

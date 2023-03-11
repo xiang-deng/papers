@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reducing Spurious Correlations for Aspect-Based Sentiment Analysis with Variational Information Bottleneck and Contrastive Learning"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "M Chang, M Yang, Q Jiang, R Xu - arXiv preprint arXiv:2303.02846, 2023"
----
-The literature on aspect-based sentiment analysis (ABSA) has been overwhelmed by deep neural networks, yielding state-of-the-art results for ABSA. However, these deep models are susceptible to learning spurious correlations between input features and output labels, which in general suffer from poor robustness and generalization. In this paper, we propose a novel Contrastive Variational Information Bottleneck framework (called CVIB) to reduce spurious correlations for ABSA. The …
-Cites: ‪Learning to model and ignore dataset bias with mixed capacity …‬
+--- 
+layout: post 
+title: "Reducing Spurious Correlations for Aspect-Based Sentiment Analysis with Variational Information Bottleneck and Contrastive Learning" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "M Chang, M Yang, Q Jiang, R Xu - arXiv preprint arXiv:2303.02846, 2023" 
+--- 
+The literature on aspect-based sentiment analysis (ABSA) has been overwhelmed by deep neural networks, yielding state-of-the-art results for ABSA. However, these deep models are susceptible to learning spurious correlations between input features and output labels, which in general suffer from poor robustness and generalization. In this paper, we propose a novel Contrastive Variational Information Bottleneck framework (called CVIB) to reduce spurious correlations for ABSA. The  Cites: Learning to model and ignore dataset bias with mixed capacity

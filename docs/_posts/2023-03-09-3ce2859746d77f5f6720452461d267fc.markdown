@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Ada-Grouper: Accelerating Pipeline Parallelism in Preempted Network by Adaptive Group-Scheduling for Micro-Batches"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "S Wang, Z Cao, C Si, L Diao, J Wang, W Lin - arXiv preprint arXiv:2303.01675, 2023"
----
-Pipeline parallelism has been demonstrated to be a remarkable approach to improve throughput for training deep neural networks with billions of parameters over heterogeneous clusters. The 1F1B scheduling plan is a widely adopted strategy for memory and performance optimization, which interchanges the forward and backward stage computations of different micro-batches. On the other hand, a common issue in using the 1F1B scheduling is that stage computation is delayed …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Ada-Grouper: Accelerating Pipeline Parallelism in Preempted Network by Adaptive Group-Scheduling for Micro-Batches" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "S Wang, Z Cao, C Si, L Diao, J Wang, W Lin - arXiv preprint arXiv:2303.01675, 2023" 
+--- 
+Pipeline parallelism has been demonstrated to be a remarkable approach to improve throughput for training deep neural networks with billions of parameters over heterogeneous clusters. The 1F1B scheduling plan is a widely adopted strategy for memory and performance optimization, which interchanges the forward and backward stage computations of different micro-batches. On the other hand, a common issue in using the 1F1B scheduling is that stage computation is delayed  Cites: Palm: Scaling language modeling with pathways

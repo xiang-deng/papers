@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TrojText: Test-time Invisible Textual Trojan Insertion"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "Y Liu, B Feng, Q Lou - arXiv preprint arXiv:2303.02242, 2023"
----
-In Natural Language Processing (NLP), intelligent neuron models can be susceptible to textual Trojan attacks. Such attacks occur when Trojan models behave normally for standard inputs but generate malicious output for inputs that contain a specific trigger. Syntactic-structure triggers, which are invisible, are becoming more popular for Trojan attacks because they are difficult to detect and defend against. However, these types of attacks require a large corpus of training data to generate poisoned …
-Cites: ‪Adversarial Example Generation with Syntactically Controlled …‬
+--- 
+layout: post 
+title: "TrojText: Test-time Invisible Textual Trojan Insertion" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "Y Liu, B Feng, Q Lou - arXiv preprint arXiv:2303.02242, 2023" 
+--- 
+In Natural Language Processing (NLP), intelligent neuron models can be susceptible to textual Trojan attacks. Such attacks occur when Trojan models behave normally for standard inputs but generate malicious output for inputs that contain a specific trigger. Syntactic-structure triggers, which are invisible, are becoming more popular for Trojan attacks because they are difficult to detect and defend against. However, these types of attacks require a large corpus of training data to generate poisoned  Cites: Adversarial Example Generation with Syntactically Controlled

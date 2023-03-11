@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Larger language models do in-context learning differently"
+date:   2023-03-10 16:03:48 -0400
+categories: jekyll update
+author: "J Wei, J Wei, Y Tay, D Tran, A Webson, Y Lu, X Chen… - arXiv preprint arXiv …, 2023"
+---
+We study how in-context learning (ICL) in language models is affected by semantic priors versus input-label mappings. We investigate two setups-ICL with flipped labels and ICL with semantically-unrelated labels-across various model families (GPT-3, InstructGPT, Codex, PaLM, and Flan-PaLM). First, experiments on ICL with flipped labels show that overriding semantic priors is an emergent ability of model scale. While small language models ignore flipped labels presented in-context and thus …
+Cites: ‪The Flan Collection: Designing Data and Methods for Effective …‬

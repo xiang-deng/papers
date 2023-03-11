@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Diagnosing Model Performance Under Distribution Shift"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "H Namkoong, S Yadlowsky - arXiv preprint arXiv:2303.02011, 2023"
----
-Prediction models can perform poorly when deployed to target distributions different from the training distribution. To understand these operational failure modes, we develop a method, called DIstribution Shift DEcomposition (DISDE), to attribute a drop in performance to different types of distribution shifts. Our approach decomposes the performance drop into terms for 1) an increase in harder but frequently seen examples from training, 2) changes in the relationship between …
-Cites: ‪Extending the wilds benchmark for unsupervised adaptation‬
+--- 
+layout: post 
+title: "Diagnosing Model Performance Under Distribution Shift" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "H Namkoong, S Yadlowsky - arXiv preprint arXiv:2303.02011, 2023" 
+--- 
+Prediction models can perform poorly when deployed to target distributions different from the training distribution. To understand these operational failure modes, we develop a method, called DIstribution Shift DEcomposition (DISDE), to attribute a drop in performance to different types of distribution shifts. Our approach decomposes the performance drop into terms for 1) an increase in harder but frequently seen examples from training, 2) changes in the relationship between  Cites: Extending the wilds benchmark for unsupervised adaptation

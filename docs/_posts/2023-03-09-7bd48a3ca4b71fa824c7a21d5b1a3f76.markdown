@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DeepSeer: Interactive RNN Explanation and Debugging via State Abstraction"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "Z Wang, Y Huang, D Song, L Ma, T Zhang - arXiv preprint arXiv:2303.01576, 2023"
----
-Recurrent Neural Networks (RNNs) have been widely used in Natural Language Processing (NLP) tasks given its superior performance on processing sequential data. However, it is challenging to interpret and debug RNNs due to the inherent complexity and the lack of transparency of RNNs. While many explainable AI (XAI) techniques have been proposed for RNNs, most of them only support local explanations rather than global explanations. In this paper, we present DeepSeer, an …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "DeepSeer: Interactive RNN Explanation and Debugging via State Abstraction" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "Z Wang, Y Huang, D Song, L Ma, T Zhang - arXiv preprint arXiv:2303.01576, 2023" 
+--- 
+Recurrent Neural Networks (RNNs) have been widely used in Natural Language Processing (NLP) tasks given its superior performance on processing sequential data. However, it is challenging to interpret and debug RNNs due to the inherent complexity and the lack of transparency of RNNs. While many explainable AI (XAI) techniques have been proposed for RNNs, most of them only support local explanations rather than global explanations. In this paper, we present DeepSeer, an  Cites: Anchors: High-Precision Model-Agnostic Explanations

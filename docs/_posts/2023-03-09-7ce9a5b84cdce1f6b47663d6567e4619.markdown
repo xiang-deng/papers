@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "T Yerxa, Y Kuang, E Simoncelli, SY Chung - arXiv preprint arXiv:2303.03307, 2023"
----
-Self-supervised Learning (SSL) provides a strategy for constructing useful representations of images without relying on hand-assigned labels. Many such methods aim to map distinct views of the same scene or object to nearby points in the representation space, while employing some constraint to prevent representational collapse. Here we recast the problem in terms of efficient coding by adopting manifold capacity, a measure that quantifies the quality of a representation based on …
-Cites: ‪Improving self-supervised learning by characterizing idealized …‬
+--- 
+layout: post 
+title: "Learning Efficient Coding of Natural Images with Maximum Manifold Capacity Representations" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "T Yerxa, Y Kuang, E Simoncelli, SY Chung - arXiv preprint arXiv:2303.03307, 2023" 
+--- 
+Self-supervised Learning (SSL) provides a strategy for constructing useful representations of images without relying on hand-assigned labels. Many such methods aim to map distinct views of the same scene or object to nearby points in the representation space, while employing some constraint to prevent representational collapse. Here we recast the problem in terms of efficient coding by adopting manifold capacity, a measure that quantifies the quality of a representation based on  Cites: Improving self-supervised learning by characterizing idealized

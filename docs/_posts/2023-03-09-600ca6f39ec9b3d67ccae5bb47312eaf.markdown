@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Robustness, Evaluation and Adaptation of Machine Learning Models in the Wild"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "V Piratla - arXiv preprint arXiv:2303.02781, 2023"
----
-Our goal is to improve reliability of Machine Learning (ML) systems deployed in the wild. ML models perform exceedingly well when test examples are similar to train examples. However, real-world applications are required to perform on any distribution of test examples. Current ML systems can fail silently on test examples with distribution shifts. In order to improve reliability of ML models due to covariate or domain shift, we propose algorithms that enable models to:(a) generalize to a larger …
-Cites: ‪Improving and Simplifying Pattern Exploiting Training‬

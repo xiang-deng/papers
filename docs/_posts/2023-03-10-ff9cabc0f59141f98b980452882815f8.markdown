@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning to Rank"
+date:   2023-03-10 16:03:48 -0400
+categories: jekyll update
+author: "H Li, J Chen, W Su, Q Ai, Y Liu - arXiv preprint arXiv:2303.04710, 2023"
+---
+This paper describes the approach of the THUIR team at the WSDM Cup 2023 Pre-training for Web Search task. This task requires the participant to rank the relevant documents for each query. We propose a new data pre-processing method and conduct pre-training and fine-tuning with the processed data. Moreover, we extract statistical, axiomatic, and semantic features to enhance the ranking performance. After the feature extraction, diverse learning-to-rank models are employed to merge …
+Cites: ‪Linkbert: Pretraining language models with document links‬

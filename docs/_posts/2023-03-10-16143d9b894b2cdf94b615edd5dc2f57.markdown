@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Language Models and World Knowledge: Injecting structured information using masked language modeling and adapters"
+date:   2023-03-10 16:03:48 -0400
+categories: jekyll update
+author: "S Wold - 2022"
+---
+Combining structured information with language models is a standing problem in NLP. Building on previous work, we study how lightweight neural networks, known as adapters, can be used to inject information from a knowledge graph into two popular pre-trained language models based on the transformer architecture. The adapters are trained using the masked language modeling objective over extracted triples from ConceptNet, a knowledge graph that captures a range of world …
+Cites: ‪Adversarial NLI: A New Benchmark for Natural Language …‬

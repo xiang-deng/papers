@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Choice Over Control: How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "H Dang, S Goller, F Lehmann, D Buschek - arXiv preprint arXiv:2303.03199, 2023"
----
-We propose a conceptual perspective on prompts for Large Language Models (LLMs) that distinguishes between (1) diegetic prompts (part of the narrative, eg  Once upon a time, I saw a fox... ), and (2) non-diegetic prompts (external, eg  Write about the adventures of the fox. ). With this lens, we study how 129 crowd workers on Prolific write short texts with different user interfaces (1 vs 3 suggestions, with/out non-diegetic prompts; implemented with GPT-3): When the interface offered multiple …
-Cites: ‪BERTese: Learning to Speak to BERT‬
+--- 
+layout: post 
+title: "Choice Over Control: How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "H Dang, S Goller, F Lehmann, D Buschek - arXiv preprint arXiv:2303.03199, 2023" 
+--- 
+We propose a conceptual perspective on prompts for Large Language Models (LLMs) that distinguishes between (1) diegetic prompts (part of the narrative, eg Once upon a time, I saw a fox... ), and (2) non-diegetic prompts (external, eg Write about the adventures of the fox. ). With this lens, we study how 129 crowd workers on Prolific write short texts with different user interfaces (1 vs 3 suggestions, with/out non-diegetic prompts; implemented with GPT-3): When the interface offered multiple  Cites: BERTese: Learning to Speak to BERT

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dynamic Prompting: A Unified Framework for Prompt Tuning"
-date:   2023-03-09 05:52:34 -0400
-categories: jekyll update
-author: "X Yang, W Cheng, X Zhao, L Petzold, H Chen - arXiv preprint arXiv:2303.02909, 2023"
----
-It has been demonstrated that prompt tuning is highly effective in efficiently eliciting knowledge from language models (LMs). However, the prompt tuning still lags behind fine-tuning, especially when the LMs are small. P-tuning v2 (Liu et al., 2021b) makes it comparable with finetuning by adding continuous prompts for every layer of the pre-trained model. However, prepending fixed soft prompts for all instances, regardless of their discrepancy, is doubtful. In particular, the inserted prompt position …
-Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬
+--- 
+layout: post 
+title: "Dynamic Prompting: A Unified Framework for Prompt Tuning" 
+date: 2023-03-09 05:52:34 -0400 
+categories: jekyll update 
+author: "X Yang, W Cheng, X Zhao, L Petzold, H Chen - arXiv preprint arXiv:2303.02909, 2023" 
+--- 
+It has been demonstrated that prompt tuning is highly effective in efficiently eliciting knowledge from language models (LMs). However, the prompt tuning still lags behind fine-tuning, especially when the LMs are small. P-tuning v2 (Liu et al., 2021b) makes it comparable with finetuning by adding continuous prompts for every layer of the pre-trained model. However, prepending fixed soft prompts for all instances, regardless of their discrepancy, is doubtful. In particular, the inserted prompt position  Cites: BoolQ: Exploring the surprising difficulty of natural yes/no questions
