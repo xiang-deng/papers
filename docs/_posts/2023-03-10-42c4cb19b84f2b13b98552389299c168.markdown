@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Challenging Benchmark for Low-Resource Learning"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "Y Wang, C Ma, Q Dong, L Kong, J Xu - arXiv preprint arXiv:2303.03840, 2023"
----
-With promising yet saturated results in high-resource settings, low-resource datasets have gradually become popular benchmarks for evaluating the learning ability of advanced neural networks (eg, BigBench, superGLUE). Some models even surpass humans according to benchmark test results. However, we find that there exists a set of hard examples in low-resource settings that challenge neural networks but are not well evaluated, which causes over-estimated performance. We first give a theoretical …
-Cites: ‪Beyond the imitation game: Quantifying and extrapolating the …‬
+--- 
+layout: post 
+title: "A Challenging Benchmark for Low-Resource Learning" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "Y Wang, C Ma, Q Dong, L Kong, J Xu - arXiv preprint arXiv:2303.03840, 2023" 
+--- 
+With promising yet saturated results in high-resource settings, low-resource datasets have gradually become popular benchmarks for evaluating the learning ability of advanced neural networks (eg, BigBench, superGLUE). Some models even surpass humans according to benchmark test results. However, we find that there exists a set of hard examples in low-resource settings that challenge neural networks but are not well evaluated, which causes over-estimated performance. We first give a theoretical  Cites: Beyond the imitation game: Quantifying and extrapolating the

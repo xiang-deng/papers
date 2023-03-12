@@ -1,9 +1,8 @@
----
-layout: post
-title:  "WSRR: Weighted Rank-Relevance Sampling for Dense Text Retrieval"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "K Hambarde, H Proença"
----
-As in many other domains based in the contrastive learning paradigm, negative sampling is seen as a particular sensitive problem for appropriately training dense text retrieval models. For most cases, it is accepted that the existing techniques often suffer from the problem of uninformative or false negatives, which reduces the computational effectiveness of the learning phase and even reduces the probability of convergence of the whole process. Upon these limitations, in this paper we …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "WSRR: Weighted Rank-Relevance Sampling for Dense Text Retrieval" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "K Hambarde, H Proena" 
+--- 
+As in many other domains based in the contrastive learning paradigm, negative sampling is seen as a particular sensitive problem for appropriately training dense text retrieval models. For most cases, it is accepted that the existing techniques often suffer from the problem of uninformative or false negatives, which reduces the computational effectiveness of the learning phase and even reduces the probability of convergence of the whole process. Upon these limitations, in this paper we  Cites: Dense Passage Retrieval for Open-Domain Question Answering

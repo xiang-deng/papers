@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "S Kim, SJ Joo, Y Jang, H Chae, J Yeo - arXiv preprint arXiv:2303.03628, 2023"
----
-Chain-of-thought (CoT) prompting enables large language models (LLMs) to solve complex reasoning tasks by generating an explanation before the final prediction. Despite it s promising ability, a critical downside of CoT prompting is that the performance is greatly affected by the factuality of the generated explanation. To improve the correctness of the explanations, fine-tuning language models with explanation data is needed. However, there exists only a few datasets that can be …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "S Kim, SJ Joo, Y Jang, H Chae, J Yeo - arXiv preprint arXiv:2303.03628, 2023" 
+--- 
+Chain-of-thought (CoT) prompting enables large language models (LLMs) to solve complex reasoning tasks by generating an explanation before the final prediction. Despite it s promising ability, a critical downside of CoT prompting is that the performance is greatly affected by the factuality of the generated explanation. To improve the correctness of the explanations, fine-tuning language models with explanation data is needed. However, there exists only a few datasets that can be  Cites: Dense Passage Retrieval for Open-Domain Question Answering

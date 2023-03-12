@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data Portraits: Recording Foundation Model Training Data"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "M Marone, B Van Durme - arXiv preprint arXiv:2303.03919, 2023"
----
-Foundation models are trained on increasingly immense and opaque datasets. Even while these models are now key in AI system building, it can be difficult to answer the straightforward question: has the model already encountered a given example during training? We therefore propose a widespread adoption of Data Portraits: artifacts that record training data and allow for downstream inspection. First we outline the properties of such an artifact and discuss how existing solutions can be …
-Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬
+--- 
+layout: post 
+title: "Data Portraits: Recording Foundation Model Training Data" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "M Marone, B Van Durme - arXiv preprint arXiv:2303.03919, 2023" 
+--- 
+Foundation models are trained on increasingly immense and opaque datasets. Even while these models are now key in AI system building, it can be difficult to answer the straightforward question: has the model already encountered a given example during training? We therefore propose a widespread adoption of Data Portraits: artifacts that record training data and allow for downstream inspection. First we outline the properties of such an artifact and discuss how existing solutions can be  Cites: Realtoxicityprompts: Evaluating neural toxic degeneration in

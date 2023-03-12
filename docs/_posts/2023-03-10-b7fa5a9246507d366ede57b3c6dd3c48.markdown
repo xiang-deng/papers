@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta-learning Control Variates: Variance Reduction with Limited Data"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "Z Sun, CJ Oates, FX Briol - arXiv preprint arXiv:2303.04756, 2023"
----
-Control variates can be a powerful tool to reduce the variance of Monte Carlo estimators, but constructing effective control variates can be challenging when the number of samples is small. In this paper, we show that when a large number of related integrals need to be computed, it is possible to leverage the similarity between these integration tasks to improve performance even when the number of samples per task is very small. Our approach, called meta learning CVs (Meta-CVs) …
-Cites: ‪Taming maml: Efficient unbiased meta-reinforcement learning‬
+--- 
+layout: post 
+title: "Meta-learning Control Variates: Variance Reduction with Limited Data" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "Z Sun, CJ Oates, FX Briol - arXiv preprint arXiv:2303.04756, 2023" 
+--- 
+Control variates can be a powerful tool to reduce the variance of Monte Carlo estimators, but constructing effective control variates can be challenging when the number of samples is small. In this paper, we show that when a large number of related integrals need to be computed, it is possible to leverage the similarity between these integration tasks to improve performance even when the number of samples per task is very small. Our approach, called meta learning CVs (Meta-CVs)  Cites: Taming maml: Efficient unbiased meta-reinforcement learning

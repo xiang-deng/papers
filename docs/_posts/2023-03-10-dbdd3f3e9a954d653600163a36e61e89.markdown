@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explanation leaks: Explanation-guided model extraction attacks"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "A Yan, T Huang, L Ke, X Liu, Q Chen, C Dong - Information Sciences, 2023"
----
-Explainable artificial intelligence (XAI) is gradually becoming a key component of many artificial intelligence systems. However, such pursuit of transparency may bring potential privacy threats to the model confidentially, as the adversary may obtain more critical information about the model. In this paper, we systematically study how model decision explanations impact model extraction attacks, which aim at stealing the functionalities of a black-box model. Based on the threat models we formulated …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Explanation leaks: Explanation-guided model extraction attacks" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "A Yan, T Huang, L Ke, X Liu, Q Chen, C Dong - Information Sciences, 2023" 
+--- 
+Explainable artificial intelligence (XAI) is gradually becoming a key component of many artificial intelligence systems. However, such pursuit of transparency may bring potential privacy threats to the model confidentially, as the adversary may obtain more critical information about the model. In this paper, we systematically study how model decision explanations impact model extraction attacks, which aim at stealing the functionalities of a black-box model. Based on the threat models we formulated  Cites: Why Should I Trust You? : Explaining the Predictions of Any

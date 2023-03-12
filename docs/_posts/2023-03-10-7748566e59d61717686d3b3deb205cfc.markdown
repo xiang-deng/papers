@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Entity Position Matters-Towards Improving a Generative End-to-End Relation Extraction Model"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "SLY Matsumoto"
----
-In order to improve the performance of the generative end-to-end relation extraction method for the material synthesis procedure extraction task, we added direct entity position information to the existing generative model during decoding, and explored whether the utilization of position information is effective in the situation after the output space changes. Experimental results show that when the output space is equipped with the absolute positions of the input tokens, the improvement is limited …
-Cites: ‪A linear programming formulation for global inference in natural …‬

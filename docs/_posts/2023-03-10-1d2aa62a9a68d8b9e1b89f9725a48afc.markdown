@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Provable Pathways: Learning Multiple Tasks over Multiple Paths"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "Y Li, S Oymak - arXiv preprint arXiv:2303.04338, 2023"
----
-Constructing useful representations across a large number of tasks is a key requirement for sample-efficient intelligent systems. A traditional idea in multitask learning (MTL) is building a shared representation across tasks which can then be adapted to new tasks by tuning last layers. A desirable refinement of using a shared one-fits-all representation is to construct task-specific representations. To this end, recent PathNet/muNet architectures represent individual tasks as pathways within a …
-Cites: ‪Attentional mixtures of soft prompt tuning for parameter-efficient …‬
+--- 
+layout: post 
+title: "Provable Pathways: Learning Multiple Tasks over Multiple Paths" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "Y Li, S Oymak - arXiv preprint arXiv:2303.04338, 2023" 
+--- 
+Constructing useful representations across a large number of tasks is a key requirement for sample-efficient intelligent systems. A traditional idea in multitask learning (MTL) is building a shared representation across tasks which can then be adapted to new tasks by tuning last layers. A desirable refinement of using a shared one-fits-all representation is to construct task-specific representations. To this end, recent PathNet/muNet architectures represent individual tasks as pathways within a  Cites: Attentional mixtures of soft prompt tuning for parameter-efficient

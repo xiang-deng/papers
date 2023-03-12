@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Student s t-Distribution: On Measuring the Inter-Rater Reliability When the Observations are Scarce"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "S Gladkoff, L Han, G Nenadic - arXiv preprint arXiv:2303.04526, 2023"
----
-In natural language processing (NLP) we always rely on human judgement as the golden quality evaluation method. However, there has been an ongoing debate on how to better evaluate inter-rater reliability (IRR) levels for certain evaluation tasks, such as translation quality evaluation (TQE), especially when the data samples (observations) are very scarce. In this work, we first introduce the study on how to estimate the confidence interval for the measurement value when only one data …
-Cites: ‪Re-evaluating Evaluation in Text Summarization‬
+--- 
+layout: post 
+title: "Student s t-Distribution: On Measuring the Inter-Rater Reliability When the Observations are Scarce" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "S Gladkoff, L Han, G Nenadic - arXiv preprint arXiv:2303.04526, 2023" 
+--- 
+In natural language processing (NLP) we always rely on human judgement as the golden quality evaluation method. However, there has been an ongoing debate on how to better evaluate inter-rater reliability (IRR) levels for certain evaluation tasks, such as translation quality evaluation (TQE), especially when the data samples (observations) are very scarce. In this work, we first introduce the study on how to estimate the confidence interval for the measurement value when only one data  Cites: Re-evaluating Evaluation in Text Summarization

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Judging Adam: Studying the Performance of Optimization Methods on ML4SE Tasks"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "D Pasechnyuk, A Prazdnichnykh, M Evtikhiev… - arXiv preprint arXiv …, 2023"
----
-Solving a problem with a deep learning model requires researchers to optimize the loss function with a certain optimization method. The research community has developed more than a hundred different optimizers, yet there is scarce data on optimizer performance in various tasks. In particular, none of the benchmarks test the performance of optimizers on source code-related problems. However, existing benchmark data indicates that certain optimizers may be more efficient for particular …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Judging Adam: Studying the Performance of Optimization Methods on ML4SE Tasks" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "D Pasechnyuk, A Prazdnichnykh, M Evtikhiev - arXiv preprint arXiv , 2023" 
+--- 
+Solving a problem with a deep learning model requires researchers to optimize the loss function with a certain optimization method. The research community has developed more than a hundred different optimizers, yet there is scarce data on optimizer performance in various tasks. In particular, none of the benchmarks test the performance of optimizers on source code-related problems. However, existing benchmark data indicates that certain optimizers may be more efficient for particular  Cites: Codexglue: A machine learning benchmark dataset for code

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NASTyLinker: NIL-Aware Scalable Transformer-based Entity Linker"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "N Heist, H Paulheim - arXiv preprint arXiv:2303.04426, 2023"
----
-Entity Linking (EL) is the task of detecting mentions of entities in text and disambiguating them to a reference knowledge base. Most prevalent EL approaches assume that the reference knowledge base is complete. In practice, however, it is necessary to deal with the case of linking to an entity that is not contained in the knowledge base (NIL entity). Recent works have shown that, instead of focusing only on affinities between mentions and entities, considering inter-mention affinities can …
-Cites: ‪Zero-shot entity linking by reading entity descriptions‬
+--- 
+layout: post 
+title: "NASTyLinker: NIL-Aware Scalable Transformer-based Entity Linker" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "N Heist, H Paulheim - arXiv preprint arXiv:2303.04426, 2023" 
+--- 
+Entity Linking (EL) is the task of detecting mentions of entities in text and disambiguating them to a reference knowledge base. Most prevalent EL approaches assume that the reference knowledge base is complete. In practice, however, it is necessary to deal with the case of linking to an entity that is not contained in the knowledge base (NIL entity). Recent works have shown that, instead of focusing only on affinities between mentions and entities, considering inter-mention affinities can  Cites: Zero-shot entity linking by reading entity descriptions

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Guiding Pseudo-labels with Uncertainty Estimation for Test-Time Adaptation"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "M Litrico, A Del Bue, P Morerio - arXiv preprint arXiv:2303.03770, 2023"
----
-Standard Unsupervised Domain Adaptation (UDA) methods assume the availability of both source and target data during the adaptation. In this work, we investigate the Test-Time Adaptation (TTA), a specific case of UDA where a model is adapted to a target domain without access to source data. We propose a novel approach for the TTA setting based on a loss reweighting strategy that brings robustness against the noise that inevitably affects the pseudo-labels. The classification loss is reweighted …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "Guiding Pseudo-labels with Uncertainty Estimation for Test-Time Adaptation" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "M Litrico, A Del Bue, P Morerio - arXiv preprint arXiv:2303.03770, 2023" 
+--- 
+Standard Unsupervised Domain Adaptation (UDA) methods assume the availability of both source and target data during the adaptation. In this work, we investigate the Test-Time Adaptation (TTA), a specific case of UDA where a model is adapted to a target domain without access to source data. We propose a novel approach for the TTA setting based on a loss reweighting strategy that brings robustness against the noise that inevitably affects the pseudo-labels. The classification loss is reweighted  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

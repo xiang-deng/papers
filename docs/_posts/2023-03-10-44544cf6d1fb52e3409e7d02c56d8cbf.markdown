@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Hyperbolic Graph Codebooks"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "P Mettes - Machine Learning, Optimization, and Data Science: 8th …, 2023"
----
-This work proposes codebook encodings for graph networks that operate on hyperbolic manifolds. Where graph networks commonly learn node representations in Euclidean space, recent work has provided a generalization to Riemannian manifolds, with a particular focus on the hyperbolic space. Expressive node representations are obtained by repeatedly performing a logarithmic map, followed by message passing in the tangent space and an exponential map back to the …
-Cites: ‪Fully Hyperbolic Neural Networks‬

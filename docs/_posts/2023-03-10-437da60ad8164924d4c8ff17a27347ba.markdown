@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer"
-date:   2023-03-10 16:03:48 -0400
-categories: jekyll update
-author: "W Zhang, Y Zhu, M Chen, Y Geng, Y Huang, Y Xu… - arXiv preprint arXiv …, 2023"
----
-Knowledge graphs (KG) are essential background knowledge providers in many tasks. When designing models for KG-related tasks, one of the key tasks is to devise the Knowledge Representation and Fusion (KRF) module that learns the representation of elements from KGs and fuses them with task representations. While due to the difference of KGs and perspectives to be considered during fusion across tasks, duplicate and ad hoc KRF modules design are conducted among tasks. In this …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Structure Pretraining and Prompt Tuning for Knowledge Graph Transfer" 
+date: 2023-03-10 16:03:48 -0400 
+categories: jekyll update 
+author: "W Zhang, Y Zhu, M Chen, Y Geng, Y Huang, Y Xu - arXiv preprint arXiv , 2023" 
+--- 
+Knowledge graphs (KG) are essential background knowledge providers in many tasks. When designing models for KG-related tasks, one of the key tasks is to devise the Knowledge Representation and Fusion (KRF) module that learns the representation of elements from KGs and fuses them with task representations. While due to the difference of KGs and perspectives to be considered during fusion across tasks, duplicate and ad hoc KRF modules design are conducted among tasks. In this  Cites: CommonsenseQA: A Question Answering Challenge Targeting
