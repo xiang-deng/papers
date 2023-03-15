@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bash Code Comment Generation Method Based on Dual Information Retrieval"
+date:   2023-03-14 05:28:18 -0400
+categories: jekyll update
+author: "陈翔， 于池， 杨光， 濮雪莲， 崔展齐 - Journal of Software, 2023"
+---
+Bash 是 Linux 默认的 shell 命令语言. 它在 Linux 系统的开发和维护中起到重要作用. 对不熟悉 Bash 语言的开发人员来说, 理解 Bash 代码的目的和功能具有一定的挑战性. 针对 Bash 代码注释自动生成问题提出了一种基于双重信息检索的方法 ExplainBash. 该方法基于语义相似度和词法相似度进行双重检索, 从而生成高质量代码注释. 其中, 语义相似度基于 CodeBERT 和 BERT-whitening 操作训练出代码语义表示, 并基于欧式距离来实现; 词法相似度基于代码词元构成的集合, 并基于编辑距离来实现 …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

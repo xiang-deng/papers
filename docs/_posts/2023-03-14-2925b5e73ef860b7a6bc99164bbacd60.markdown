@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contrastive Learning Approach to Word-in-Context Task for Low-Resource Languages"
+date:   2023-03-14 05:28:18 -0400
+categories: jekyll update
+author: "PC Lo, YY Lee, HH Chen, AT Kwee, EP Lim - 2023"
+---
+Word in context (WiC) task aims to determine whether a target word s occurrences in two sentences share the same sense. In this paper, we propose a Contrastive Learning WiC (CLWiC) framework to improve the learning of sentence/word representations and classification of target word senses in the sentence pair when performing WiC on lowresource languages. In representation learning, CLWiC trains a pre-trained language model s ability to cope with lowresource languages using …
+Cites: ‪Phrase-bert: Improved phrase embeddings from bert with an …‬
