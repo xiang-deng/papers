@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Survey on GAN Techniques for Data Augmentation to Address the Imbalanced Data Issues in Credit Card Fraud Detection"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "E Strelcenia, S Prakoonwit - Machine Learning and Knowledge Extraction, 2023"
----
-Data augmentation is an important procedure in deep learning. GAN-based data augmentation can be utilized in many domains. For instance, in the credit card fraud domain, the imbalanced dataset problem is a major one as the number of credit card fraud cases is in the minority compared to legal payments. On the other hand, generative techniques are considered effective ways to rebalance the imbalanced class issue, as these techniques balance both minority and majority classes before …
-Cites: ‪An Empirical Survey of Data Augmentation for Limited Data …‬
+--- 
+layout: post 
+title: "A Survey on GAN Techniques for Data Augmentation to Address the Imbalanced Data Issues in Credit Card Fraud Detection" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "E Strelcenia, S Prakoonwit - Machine Learning and Knowledge Extraction, 2023" 
+--- 
+Data augmentation is an important procedure in deep learning. GAN-based data augmentation can be utilized in many domains. For instance, in the credit card fraud domain, the imbalanced dataset problem is a major one as the number of credit card fraud cases is in the minority compared to legal payments. On the other hand, generative techniques are considered effective ways to rebalance the imbalanced class issue, as these techniques balance both minority and majority classes before  Cites: An Empirical Survey of Data Augmentation for Limited Data

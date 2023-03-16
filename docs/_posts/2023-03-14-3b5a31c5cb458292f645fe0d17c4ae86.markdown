@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Double Branch Parallel Network for Segmentation of Buildings and Waters in Remote Sensing Images"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "J Chen, M Xia, D Wang, H Lin - Remote Sensing, 2023"
----
-The segmentation algorithm for buildings and waters is extremely important for the efficient planning and utilization of land resources. The temporal and space range of remote sensing pictures is growing. Due to the generic convolutional neural network s (CNN) insensitivity to the spatial position information in remote sensing images, certain location and edge details can be lost, leading to a low level of segmentation accuracy. This research suggests a double-branch parallel interactive …
-Cites: ‪ESPNetv2: A Light-weight, Power Efficient, and General Purpose …‬
+--- 
+layout: post 
+title: "Double Branch Parallel Network for Segmentation of Buildings and Waters in Remote Sensing Images" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "J Chen, M Xia, D Wang, H Lin - Remote Sensing, 2023" 
+--- 
+The segmentation algorithm for buildings and waters is extremely important for the efficient planning and utilization of land resources. The temporal and space range of remote sensing pictures is growing. Due to the generic convolutional neural network s (CNN) insensitivity to the spatial position information in remote sensing images, certain location and edge details can be lost, leading to a low level of segmentation accuracy. This research suggests a double-branch parallel interactive  Cites: ESPNetv2: A Light-weight, Power Efficient, and General Purpose

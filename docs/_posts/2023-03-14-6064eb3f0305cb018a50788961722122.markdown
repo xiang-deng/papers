@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Subspace representation for text classification with limited training data"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "EK Shimomoto, E Marrese-Taylor, H Takamura…"
----
-Using large pre-trained language models (PLM), such as BERT, to tackle natural language processing downstream tasks has become a common practice, where it is often necessary to fine-tune the PLM to achieve the best results. However, these PLMs require large training data to fine-tune the desired task properly. To solve this problem, we propose using subspace-based methods to explore the geometrical structure of embeddings extracted from a PLM, effectively performing text …
-Cites: ‪Fine-tuning pretrained language models: Weight initializations …‬
+--- 
+layout: post 
+title: "Subspace representation for text classification with limited training data" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "EK Shimomoto, E Marrese-Taylor, H Takamura" 
+--- 
+Using large pre-trained language models (PLM), such as BERT, to tackle natural language processing downstream tasks has become a common practice, where it is often necessary to fine-tune the PLM to achieve the best results. However, these PLMs require large training data to fine-tune the desired task properly. To solve this problem, we propose using subspace-based methods to explore the geometrical structure of embeddings extracted from a PLM, effectively performing text  Cites: Fine-tuning pretrained language models: Weight initializations

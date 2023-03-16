@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Spawrious: A Benchmark for Fine Control of Spurious Correlation Biases"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "A Lynch, GJS Dovonon, J Kaddour, R Silva - arXiv preprint arXiv:2303.05470, 2023"
----
-The problem of spurious correlations (SCs) arises when a classifier relies on non-predictive features that happen to be correlated with the labels in the training data. For example, a classifier may misclassify dog breeds based on the background of dog images. This happens when the backgrounds are correlated with other breeds in the training data, leading to misclassifications during test time. Previous SC benchmark datasets suffer from varying issues, eg, over-saturation or only containing …
-Cites: ‪Just train twice: Improving group robustness without training group …‬
+--- 
+layout: post 
+title: "Spawrious: A Benchmark for Fine Control of Spurious Correlation Biases" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "A Lynch, GJS Dovonon, J Kaddour, R Silva - arXiv preprint arXiv:2303.05470, 2023" 
+--- 
+The problem of spurious correlations (SCs) arises when a classifier relies on non-predictive features that happen to be correlated with the labels in the training data. For example, a classifier may misclassify dog breeds based on the background of dog images. This happens when the backgrounds are correlated with other breeds in the training data, leading to misclassifications during test time. Previous SC benchmark datasets suffer from varying issues, eg, over-saturation or only containing  Cites: Just train twice: Improving group robustness without training group

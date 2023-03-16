@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MathPrompter: Mathematical Reasoning using Large Language Models"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "S Imani, L Du, H Shrivastava - arXiv preprint arXiv:2303.05398, 2023"
----
-Large Language Models (LLMs) have limited performance when solving arithmetic reasoning tasks and often provide incorrect answers. Unlike natural language understanding, math problems typically have a single correct answer, making the task of generating accurate solutions more challenging for LLMs. To the best of our knowledge, we are not aware of any LLMs that indicate their level of confidence in their responses which fuels a trust deficit in these models impeding their adoption. To …
-Cites: ‪Beyond the imitation game: Quantifying and extrapolating the …‬
+--- 
+layout: post 
+title: "MathPrompter: Mathematical Reasoning using Large Language Models" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "S Imani, L Du, H Shrivastava - arXiv preprint arXiv:2303.05398, 2023" 
+--- 
+Large Language Models (LLMs) have limited performance when solving arithmetic reasoning tasks and often provide incorrect answers. Unlike natural language understanding, math problems typically have a single correct answer, making the task of generating accurate solutions more challenging for LLMs. To the best of our knowledge, we are not aware of any LLMs that indicate their level of confidence in their responses which fuels a trust deficit in these models impeding their adoption. To  Cites: Beyond the imitation game: Quantifying and extrapolating the

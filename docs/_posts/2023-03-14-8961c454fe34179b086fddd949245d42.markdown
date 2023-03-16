@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Baldur: Whole-Proof Generation and Repair with Large Language Models"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "E First, MN Rabe, T Ringer, Y Brun - arXiv preprint arXiv:2303.04910, 2023"
----
-Formally verifying software properties is a highly desirable but labor-intensive task. Recent work has developed methods to automate formal verification using proof assistants, such as Coq and Isabelle/HOL, eg, by training a model to predict one proof step at a time, and using that model to search through the space of possible proofs. This paper introduces a new method to automate formal verification: We use large language models, trained on natural language text and code and fine-tuned on …
-Cites: ‪Break-it-fix-it: Unsupervised learning for program repair‬
+--- 
+layout: post 
+title: "Baldur: Whole-Proof Generation and Repair with Large Language Models" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "E First, MN Rabe, T Ringer, Y Brun - arXiv preprint arXiv:2303.04910, 2023" 
+--- 
+Formally verifying software properties is a highly desirable but labor-intensive task. Recent work has developed methods to automate formal verification using proof assistants, such as Coq and Isabelle/HOL, eg, by training a model to predict one proof step at a time, and using that model to search through the space of possible proofs. This paper introduces a new method to automate formal verification: We use large language models, trained on natural language text and code and fine-tuned on  Cites: Break-it-fix-it: Unsupervised learning for program repair

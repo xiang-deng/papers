@@ -1,9 +1,8 @@
----
-layout: post
-title:  "IDS-Extract: Downsizing Deep Learning Model For Question and Answering"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "Z Guo, S Kavuri, J Lee, M Lee - 2023 International Conference on Electronics …, 2023"
----
-In recent years, Question-answering systems are extensively used in human-computer systems, and the accuracy rate on a large scale is increasing. However, in actual deployment, a large number of parameters are often accompanied by a large amount of memory and long-term processing requirements. Therefore, compressing the data of the model, reducing training time, memory, becomes more and more urgent. we aim to resolve issues: IDS-Extract dynamically sized data to support …
-Cites: ‪Neurips 2020 efficientqa competition: Systems, analyses and …‬
+--- 
+layout: post 
+title: "IDS-Extract: Downsizing Deep Learning Model For Question and Answering" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "Z Guo, S Kavuri, J Lee, M Lee - 2023 International Conference on Electronics , 2023" 
+--- 
+In recent years, Question-answering systems are extensively used in human-computer systems, and the accuracy rate on a large scale is increasing. However, in actual deployment, a large number of parameters are often accompanied by a large amount of memory and long-term processing requirements. Therefore, compressing the data of the model, reducing training time, memory, becomes more and more urgent. we aim to resolve issues: IDS-Extract dynamically sized data to support  Cites: Neurips 2020 efficientqa competition: Systems, analyses and

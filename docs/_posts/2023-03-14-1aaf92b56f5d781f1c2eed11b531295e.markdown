@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rethinking Visual Prompt Learning as Masked Visual Token Modeling"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "N Liao, B Shi, M Cao, X Zhang, Q Tian, J Yan - arXiv preprint arXiv:2303.04998, 2023"
----
-Prompt learning has achieved great success in efficiently exploiting large-scale pre-trained models in natural language processing (NLP). It reformulates the downstream tasks as the generative pre-training ones, thus narrowing down the gap between them and improving the performance stably. However, when transferring it to the vision area, current visual prompt learning methods are all designed on discriminative pre-trained models, and there is also a lack of careful design to unify …
-Cites: ‪Language models as knowledge bases?‬
+--- 
+layout: post 
+title: "Rethinking Visual Prompt Learning as Masked Visual Token Modeling" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "N Liao, B Shi, M Cao, X Zhang, Q Tian, J Yan - arXiv preprint arXiv:2303.04998, 2023" 
+--- 
+Prompt learning has achieved great success in efficiently exploiting large-scale pre-trained models in natural language processing (NLP). It reformulates the downstream tasks as the generative pre-training ones, thus narrowing down the gap between them and improving the performance stably. However, when transferring it to the vision area, current visual prompt learning methods are all designed on discriminative pre-trained models, and there is also a lack of careful design to unify  Cites: Language models as knowledge bases?

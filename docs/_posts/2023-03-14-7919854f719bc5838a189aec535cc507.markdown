@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta-learning based instance manipulation for implicit discourse relation recognition"
-date:   2023-03-14 05:28:18 -0400
-categories: jekyll update
-author: "J Zeng, B Xie, C Wu, Y Yin, H Zeng, J Su - Knowledge-Based Systems, 2023"
----
-Without discourse connectives, implicit discourse relations recognition (IDRR) remains a challenging task and has attracted increasing attention. However, most studies ignore the issues of class imbalance and data noise. To alleviate these two problems, in this paper, we propose to improve the robustness of IDRR models with two novel meta-learning based instance manipulation networks: Meta-Weight-Net (MW-Net) and Meta-Label-Net (ML-Net), which adaptively control the effect of …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Meta-learning based instance manipulation for implicit discourse relation recognition" 
+date: 2023-03-14 05:28:18 -0400 
+categories: jekyll update 
+author: "J Zeng, B Xie, C Wu, Y Yin, H Zeng, J Su - Knowledge-Based Systems, 2023" 
+--- 
+Without discourse connectives, implicit discourse relations recognition (IDRR) remains a challenging task and has attracted increasing attention. However, most studies ignore the issues of class imbalance and data noise. To alleviate these two problems, in this paper, we propose to improve the robustness of IDRR models with two novel meta-learning based instance manipulation networks: Meta-Weight-Net (MW-Net) and Meta-Label-Net (ML-Net), which adaptively control the effect of  Cites: Deep contextualized word representations
