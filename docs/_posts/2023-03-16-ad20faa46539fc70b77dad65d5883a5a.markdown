@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Diffusion Models for Non-autoregressive Text Generation: A Survey"
+date:   2023-03-16 06:48:33 -0400
+categories: jekyll update
+author: "Y Li, K Zhou, WX Zhao, JR Wen - arXiv preprint arXiv:2303.06574, 2023"
+---
+Non-autoregressive (NAR) text generation has attracted much attention in the field of natural language processing, which greatly reduces the inference latency but has to sacrifice the generation accuracy. Recently, diffusion models, a class of latent variable generative models, have been introduced into NAR text generation, showing improved generation quality. In this survey, we review the recent progress in diffusion models for NAR text generation. As the background, we first present the …
+Cites: ‪Diffusion-lm improves controllable text generation‬

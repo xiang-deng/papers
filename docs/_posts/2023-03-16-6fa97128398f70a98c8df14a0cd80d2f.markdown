@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AUTODIAL: Efficient Asynchronous Task-Oriented Dialogue Model"
+date:   2023-03-16 06:48:33 -0400
+categories: jekyll update
+author: "P Bhargava, P Amini, S Shayandeh, C Sankar - arXiv preprint arXiv:2303.06245, 2023"
+---
+As large dialogue models become commonplace in practice, the problems surrounding high compute requirements for training, inference and larger memory footprint still persists. In this work, we present AUTODIAL, a multi-task dialogue model that addresses the challenges of deploying dialogue model. AUTODIAL utilizes parallel decoders to perform tasks such as dialogue act prediction, domain prediction, intent prediction, and dialogue state tracking. Using classification …
+Cites: ‪A simple language model for task-oriented dialogue‬

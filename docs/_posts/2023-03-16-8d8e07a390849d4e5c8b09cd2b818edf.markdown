@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CFDA & CLIP at TREC 2022 Conversational Assistance Track (CAsT)"
+date:   2023-03-16 06:48:33 -0400
+categories: jekyll update
+author: "JH Ju, SC Lin, LY Chang, MF Tsai, CJ Wang"
+---
+In this notebook, we introduce a new pipeline for TREC CAsT 2022. Comparing to the common multistage pipeline for conversational search, we experimented an alternative that does not require conversational query reformulation (CQR). Specifically, our pipeline equipped with conversational dense retriever and conversational passage re-ranker. Our empirical evaluation result on TREC CAsT dataset is also reported in this paper.
+Cites: ‪Open-Retrieval Conversational Question Answering‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges"
+date:   2023-03-16 06:48:33 -0400
+categories: jekyll update
+author: "X Wu, K Zhou, M Sun, X Wang, N Liu - arXiv preprint arXiv:2303.07275, 2023"
+---
+While deep learning has achieved great success on various tasks, the task-specific model training notoriously relies on a large volume of labeled data. Recently, a new training paradigm of``pre-train, prompt, predict  has been proposed to improve model generalization ability with limited labeled data. The main idea is that, based on a pre-trained model, the prompting function uses a template to augment input samples with indicative context and reformalizes the target task to one of the pre-training tasks. In …
+Cites: ‪Do Pre-trained Models Benefit Knowledge Graph Completion? A …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards MoE Deployment: Mitigating Inefficiencies in Mixture-of-Expert (MoE) Inference"
+date:   2023-03-16 06:48:33 -0400
+categories: jekyll update
+author: "H Huang, N Ardalani, A Sun, L Ke, HHS Lee, A Sridhar… - arXiv preprint arXiv …, 2023"
+---
+Mixture-of-Experts (MoE) models have recently gained steam in achieving the state-of-the-art performance in a wide range of tasks in computer vision and natural language processing. They effectively expand the model capacity while incurring a minimal increase in computation cost during training. However, deploying such models for inference is difficult due to their large model size and complex communication pattern. In this work, we provide a characterization of two MoE …
+Cites: ‪Efficient large scale language modeling with mixtures of experts‬

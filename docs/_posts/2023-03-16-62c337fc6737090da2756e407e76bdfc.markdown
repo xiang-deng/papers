@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Self-planning Code Generation with Large Language Model"
+date:   2023-03-16 06:48:33 -0400
+categories: jekyll update
+author: "X Jiang, Y Dong, L Wang, Q Shang, G Li - arXiv preprint arXiv:2303.06689, 2023"
+---
+Although large language models have demonstrated impressive ability in code generation, they are still struggling to address the complicated intent provided by humans. It is widely acknowledged that humans typically employ planning to decompose complex problems and schedule the solution steps prior to implementation. Thus we introduce planning into code generation to help the model understand complex intent and reduce the difficulty of problem solving. This paper …
+Cites: ‪Incoder: A generative model for code infilling and synthesis‬

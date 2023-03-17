@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On Bilevel Optimization without Full Unrolls: Methods and Applications"
+date:   2023-03-16 06:48:33 -0400
+categories: jekyll update
+author: "PA Vicol - 2023"
+---
+Bilevel optimization (BLO) problems are nested optimization problems where an outer objective must be minimized subject to the optimality of an inner objective. This nested structure poses several challenges, including the cost of running full unrolls of the inner problem for each outer parameter update. We discuss several approaches which allow for efficient bilevel optimization, that do not require full inner unrolls. 1. Challenge: Inner optimization is expensive and needs to be re-run for each outer …
+Cites: ‪Bigssl: Exploring the frontier of large-scale semi-supervised …‬
