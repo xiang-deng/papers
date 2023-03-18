@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PromptFusion: Decoupling Stability and Plasticity for Continual Learning"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "H Chen, Z Wu, X Han, M Jia, YG Jiang - arXiv preprint arXiv:2303.07223, 2023"
----
-Continual learning refers to the capability of continuously learning from a stream of data. Current research mainly focuses on relieving catastrophic forgetting, and most of their success is at the cost of limiting the performance of newly incoming tasks. Such a trade-off is referred to as the stabilityplasticity dilemma and is a more general and challenging problem for continual learning. However, the inherent conflict between these two concepts makes it seemingly impossible to devise a satisfactory …
-Cites: ‪Prefix-tuning: Optimizing continuous prompts for generation‬
+--- 
+layout: post 
+title: "PromptFusion: Decoupling Stability and Plasticity for Continual Learning" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "H Chen, Z Wu, X Han, M Jia, YG Jiang - arXiv preprint arXiv:2303.07223, 2023" 
+--- 
+Continual learning refers to the capability of continuously learning from a stream of data. Current research mainly focuses on relieving catastrophic forgetting, and most of their success is at the cost of limiting the performance of newly incoming tasks. Such a trade-off is referred to as the stabilityplasticity dilemma and is a more general and challenging problem for continual learning. However, the inherent conflict between these two concepts makes it seemingly impossible to devise a satisfactory  Cites: Prefix-tuning: Optimizing continuous prompts for generation

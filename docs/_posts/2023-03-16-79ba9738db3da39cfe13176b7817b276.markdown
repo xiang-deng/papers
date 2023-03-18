@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MixLinkBERT: A Language Model pretrained with Multiple Types of Linked Documents for Multi-hop Question Answering"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "D Wu, R Iida, JHOK Torisawa"
----
-Multi-hop question answering is the question answering that requires understanding and reasoning over multiple documents to find answers. In this work, we focus on improving language model pretraining to achieve better performance on downstream multi-hop question answering. We develop MixLinkBERT, a language model pretrained with multiple types of linked documents. We show that MixLinkBERT outperforms BERT and LinkBERT on HotpotQA.
-Cites: ‪Learning to retrieve reasoning paths over wikipedia graph for …‬
+--- 
+layout: post 
+title: "MixLinkBERT: A Language Model pretrained with Multiple Types of Linked Documents for Multi-hop Question Answering" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "D Wu, R Iida, JHOK Torisawa" 
+--- 
+Multi-hop question answering is the question answering that requires understanding and reasoning over multiple documents to find answers. In this work, we focus on improving language model pretraining to achieve better performance on downstream multi-hop question answering. We develop MixLinkBERT, a language model pretrained with multiple types of linked documents. We show that MixLinkBERT outperforms BERT and LinkBERT on HotpotQA.  Cites: Learning to retrieve reasoning paths over wikipedia graph for

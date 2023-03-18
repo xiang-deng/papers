@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Moving Fast With Broken Data"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "S Shankar, L Fawaz, K Gyllstrom, AG Parameswaran - arXiv preprint arXiv …, 2023"
----
-Machine learning (ML) models in production pipelines are frequently retrained on the latest partitions of large, continually-growing datasets. Due to engineering bugs, partitions in such datasets almost always have some corrupted features; thus, it s critical to detect data issues and block retraining before downstream ML model accuracy decreases. However, it s difficult to identify when a partition is corrupted enough to block retraining. Blocking too often yields stale model snapshots in …
-Cites: ‪Model-agnostic interpretability of machine learning‬
+--- 
+layout: post 
+title: "Moving Fast With Broken Data" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "S Shankar, L Fawaz, K Gyllstrom, AG Parameswaran - arXiv preprint arXiv , 2023" 
+--- 
+Machine learning (ML) models in production pipelines are frequently retrained on the latest partitions of large, continually-growing datasets. Due to engineering bugs, partitions in such datasets almost always have some corrupted features; thus, it s critical to detect data issues and block retraining before downstream ML model accuracy decreases. However, it s difficult to identify when a partition is corrupted enough to block retraining. Blocking too often yields stale model snapshots in  Cites: Model-agnostic interpretability of machine learning

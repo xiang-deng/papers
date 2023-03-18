@@ -1,8 +1,8 @@
----
-layout: post
-title:  "NEXUS: On Explaining Confounding Bias"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "B Youngmann, M Cafarella, Y Moskovitch, B Salimi - 2023"
----
-When analyzing large datasets, analysts are often interested in the explanations for unexpected results produced by their queries. In this work, we focus on aggregate SQL queries that expose correlations in the data. A major challenge that hinders the …
+--- 
+layout: post 
+title: "NEXUS: On Explaining Confounding Bias" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "B Youngmann, M Cafarella, Y Moskovitch, B Salimi - 2023" 
+--- 
+When analyzing large datasets, analysts are often interested in the explanations for unexpected results produced by their queries. In this work, we focus on aggregate SQL queries that expose correlations in the data. A major challenge that hinders the

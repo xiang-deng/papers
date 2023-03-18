@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Comprehensive Empirical Evaluation of Existing Word Embedding Approaches"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "O Zaland, M Abulaish, M Fazil - arXiv preprint arXiv:2303.07196, 2023"
----
-Vector-based word representations help countless Natural Language Processing (NLP) tasks capture both semantic and syntactic regularities of the language. In this paper, we present the characteristics of existing word embedding approaches and analyze them with regards to many classification tasks. We categorize the methods into two main groups-Traditional approaches mostly use matrix factorization to produce word representations, and they are not able to capture the semantic and …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "A Comprehensive Empirical Evaluation of Existing Word Embedding Approaches" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "O Zaland, M Abulaish, M Fazil - arXiv preprint arXiv:2303.07196, 2023" 
+--- 
+Vector-based word representations help countless Natural Language Processing (NLP) tasks capture both semantic and syntactic regularities of the language. In this paper, we present the characteristics of existing word embedding approaches and analyze them with regards to many classification tasks. We categorize the methods into two main groups-Traditional approaches mostly use matrix factorization to produce word representations, and they are not able to capture the semantic and  Cites: Deep contextualized word representations

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Controlling Text Generation With Fiction-Writing Modes"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "W Zhong, J Naradowsky, H Takamura, I Kobayashi…"
----
-We explore incorporating concepts from writing skills curricula into human-machine collaborative writing scenarios, focusing on adding writing modes as a control for text generation models. Using crowd-sourced workers, we annotate a corpus of narrative text paragraphs with writing mode labels. Classifiers trained on this data achieve an average accuracy of∼ 87% on held-out data. We fine-tune a set of large language models to condition on writing mode labels, and show that the generated text is …
-Cites: ‪STORIUM: A Dataset and Evaluation Platform for Machine-in-the …‬
+--- 
+layout: post 
+title: "Controlling Text Generation With Fiction-Writing Modes" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "W Zhong, J Naradowsky, H Takamura, I Kobayashi" 
+--- 
+We explore incorporating concepts from writing skills curricula into human-machine collaborative writing scenarios, focusing on adding writing modes as a control for text generation models. Using crowd-sourced workers, we annotate a corpus of narrative text paragraphs with writing mode labels. Classifiers trained on this data achieve an average accuracy of 87% on held-out data. We fine-tune a set of large language models to condition on writing mode labels, and show that the generated text is  Cites: STORIUM: A Dataset and Evaluation Platform for Machine-in-the

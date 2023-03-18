@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Learning Transductions and Alignments with RNN Seq2seq Models"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "Z Wang - arXiv preprint arXiv:2303.06841, 2023"
----
-The paper studies the capabilities of Recurrent-Neural-Network sequence to sequence (RNN seq2seq) models in learning four string-to-string transduction tasks: identity, reversal, total reduplication, and input-specified reduplication. These transductions are traditionally well studied under finite state transducers and attributed with varying complexity. We find that RNN seq2seq models are only able to approximate a mapping that fits the training or in-distribution data. Attention helps …
-Cites: ‪Rational recurrences‬

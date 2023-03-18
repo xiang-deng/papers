@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ViM: Vision Middleware for Unified Downstream Transferring"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "Y Feng, B Gong, J Jiang, Y Lv, Y Shen, D Zhao, J Zhou - arXiv preprint arXiv …, 2023"
----
-Foundation models are pre-trained on massive data and transferred to downstream tasks via fine-tuning. This work presents Vision Middleware (ViM), a new learning paradigm that targets unified transferring from a single foundation model to a variety of downstream tasks. ViM consists of a zoo of lightweight plug-in modules, each of which is independently learned on a midstream dataset with a shared frozen backbone. Downstream tasks can then benefit from an adequate aggregation of the …
-Cites: ‪PEVL: Position-enhanced Pre-training and Prompt Tuning for …‬
+--- 
+layout: post 
+title: "ViM: Vision Middleware for Unified Downstream Transferring" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "Y Feng, B Gong, J Jiang, Y Lv, Y Shen, D Zhao, J Zhou - arXiv preprint arXiv , 2023" 
+--- 
+Foundation models are pre-trained on massive data and transferred to downstream tasks via fine-tuning. This work presents Vision Middleware (ViM), a new learning paradigm that targets unified transferring from a single foundation model to a variety of downstream tasks. ViM consists of a zoo of lightweight plug-in modules, each of which is independently learned on a midstream dataset with a shared frozen backbone. Downstream tasks can then benefit from an adequate aggregation of the  Cites: PEVL: Position-enhanced Pre-training and Prompt Tuning for

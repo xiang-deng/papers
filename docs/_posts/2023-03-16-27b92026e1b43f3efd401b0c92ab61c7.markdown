@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Universal Instance Perception as Object Discovery and Retrieval"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "B Yan, Y Jiang, J Wu, D Wang, P Luo, Z Yuan, H Lu - arXiv preprint arXiv:2303.06674, 2023"
----
-All instance perception tasks aim at finding certain objects specified by some queries such as category names, language expressions, and target annotations, but this complete field has been split into multiple independent subtasks. In this work, we present a universal instance perception model of the next generation, termed UNINEXT. UNINEXT reformulates diverse instance perception tasks into a unified object discovery and retrieval paradigm and can flexibly perceive different types of …
-Cites: ‪Multi-task self-training for learning general representations‬
+--- 
+layout: post 
+title: "Universal Instance Perception as Object Discovery and Retrieval" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "B Yan, Y Jiang, J Wu, D Wang, P Luo, Z Yuan, H Lu - arXiv preprint arXiv:2303.06674, 2023" 
+--- 
+All instance perception tasks aim at finding certain objects specified by some queries such as category names, language expressions, and target annotations, but this complete field has been split into multiple independent subtasks. In this work, we present a universal instance perception model of the next generation, termed UNINEXT. UNINEXT reformulates diverse instance perception tasks into a unified object discovery and retrieval paradigm and can flexibly perceive different types of  Cites: Multi-task self-training for learning general representations

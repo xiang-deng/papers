@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DTT: An Example-Driven Tabular Transformer by Leveraging Large Language Models"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "AD Nobari, D Rafiei - arXiv preprint arXiv:2303.06748, 2023"
----
-Many organizations rely on data from government and third-party sources, and those sources and organizations do not follow the same data formatting. This introduces challenges in integrating data from multiple sources. Commercial database systems do not offer adequate support for integrating data from heterogeneous sources, and manual integration is both time-consuming and inefficient. While state-of-the-art approaches rely on similarity functions and textual transformations, they often fail to …
-Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬
+--- 
+layout: post 
+title: "DTT: An Example-Driven Tabular Transformer by Leveraging Large Language Models" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "AD Nobari, D Rafiei - arXiv preprint arXiv:2303.06748, 2023" 
+--- 
+Many organizations rely on data from government and third-party sources, and those sources and organizations do not follow the same data formatting. This introduces challenges in integrating data from multiple sources. Commercial database systems do not offer adequate support for integrating data from heterogeneous sources, and manual integration is both time-consuming and inefficient. While state-of-the-art approaches rely on similarity functions and textual transformations, they often fail to  Cites: TaBERT: Pretraining for joint understanding of textual and tabular

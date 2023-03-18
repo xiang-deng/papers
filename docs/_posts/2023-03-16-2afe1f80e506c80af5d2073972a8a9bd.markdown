@@ -1,9 +1,0 @@
----
-layout: post
-title:  "FCRC: A Fully Connected Recurrent Convolutional Network for Recommendation"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "D Gershanik - 2023"
----
-In pursuit of superior recommendation performance, it is compulsory to leverage information that goes beyond simple user-item interaction histories. Traditional supervised learning recommenders, like factorization machines (FM), collect both userand item attributes to enhance their recommendation while treating each interaction as an independent data instance. Later research showed that interaction histories can be effectively organized into a knowledge graph (KG), thereby …
-Cites: ‪Recommender systems with social regularization‬

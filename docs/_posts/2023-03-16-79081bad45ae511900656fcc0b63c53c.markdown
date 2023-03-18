@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Test-time Augmentation for Factual Probing"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "GKB Heinzerling, K Sakaguchi, K Inui"
----
-Factual probing is a method for checking if a language model “knows” certain world knowledge facts. A problem in factual probing is that small changes to prompts can result in large output changes. Previous work aimed to alleviate this problem by optimizing prompts via text mining or finetuning. However, such approaches are relationspecific and do not generalize to unseen relations types. Here, we propose to use test-time augmentation (TTA) as a relation-agnostic method for reducing …
-Cites: ‪Factual Probing Is [MASK]: Learning vs. Learning to Recall‬
+--- 
+layout: post 
+title: "Test-time Augmentation for Factual Probing" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "GKB Heinzerling, K Sakaguchi, K Inui" 
+--- 
+Factual probing is a method for checking if a language model knows certain world knowledge facts. A problem in factual probing is that small changes to prompts can result in large output changes. Previous work aimed to alleviate this problem by optimizing prompts via text mining or finetuning. However, such approaches are relationspecific and do not generalize to unseen relations types. Here, we propose to use test-time augmentation (TTA) as a relation-agnostic method for reducing  Cites: Factual Probing Is [MASK]: Learning vs. Learning to Recall

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Open Information Extraction from Texts: Part III. Question Answering over an Automatically Constructed Knowledge Base"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "EV Chistova, DS Larionov, EA Latypova… - Scientific and Technical …, 2022"
----
-In this paper, we propose a prototype question-answering system that works on top of an automatically generated knowledge base. The knowledge base is constructed using methods of open information extraction as well as unsupervised learning methods. In particular, various deep clustering methods are investigated and applied. Using open information extraction methods, triplets of the form {subject, predicate, object} are extracted, which are then clustered into semantic relations. The …
-Cites: ‪Structured Relation Discovery using Generative Models‬
+--- 
+layout: post 
+title: "Open Information Extraction from Texts: Part III. Question Answering over an Automatically Constructed Knowledge Base" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "EV Chistova, DS Larionov, EA Latypova - Scientific and Technical , 2022" 
+--- 
+In this paper, we propose a prototype question-answering system that works on top of an automatically generated knowledge base. The knowledge base is constructed using methods of open information extraction as well as unsupervised learning methods. In particular, various deep clustering methods are investigated and applied. Using open information extraction methods, triplets of the form {subject, predicate, object} are extracted, which are then clustered into semantic relations. The  Cites: Structured Relation Discovery using Generative Models

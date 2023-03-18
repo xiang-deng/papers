@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BeamAttack: Generating High-quality Textual Adversarial Examples through Beam Search and Mixed Semantic Spaces"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "H Zhu, Q Zhao, Y Wu - arXiv preprint arXiv:2303.07199, 2023"
----
-Natural language processing models based on neural networks are vulnerable to adversarial examples. These adversarial examples are imperceptible to human readers but can mislead models to make the wrong predictions. In a black-box setting, attacker can fool the model without knowing model s parameters and architecture. Previous works on word-level attacks widely use single semantic space and greedy search as a search strategy. However, these methods fail to balance the …
-Cites: ‪Word-level Textual Adversarial Attacking as Combinatorial …‬
+--- 
+layout: post 
+title: "BeamAttack: Generating High-quality Textual Adversarial Examples through Beam Search and Mixed Semantic Spaces" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "H Zhu, Q Zhao, Y Wu - arXiv preprint arXiv:2303.07199, 2023" 
+--- 
+Natural language processing models based on neural networks are vulnerable to adversarial examples. These adversarial examples are imperceptible to human readers but can mislead models to make the wrong predictions. In a black-box setting, attacker can fool the model without knowing model s parameters and architecture. Previous works on word-level attacks widely use single semantic space and greedy search as a search strategy. However, these methods fail to balance the  Cites: Word-level Textual Adversarial Attacking as Combinatorial

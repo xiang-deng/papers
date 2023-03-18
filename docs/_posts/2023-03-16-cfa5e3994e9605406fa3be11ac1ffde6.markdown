@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ParsingPhrase: Parsing-Based Automated Quality Phrase Mining"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "Y Wu, S Zhao, S Dou, J Li - Information Sciences, 2023"
----
-Phrases represent independent semantics in natural language but usually have indeterminate lengths and different combinations. So, extracting meaningful phrases from unstructured texts will substantially reduce semantic ambiguity and lay the foundation for downstream natural language tasks. Most existing research obtains candidate phrases by N-grams, which includes meaningless word sequences and degrades algorithm performance. In this paper, we propose a novel phrase-mining …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "ParsingPhrase: Parsing-Based Automated Quality Phrase Mining" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "Y Wu, S Zhao, S Dou, J Li - Information Sciences, 2023" 
+--- 
+Phrases represent independent semantics in natural language but usually have indeterminate lengths and different combinations. So, extracting meaningful phrases from unstructured texts will substantially reduce semantic ambiguity and lay the foundation for downstream natural language tasks. Most existing research obtains candidate phrases by N-grams, which includes meaningless word sequences and degrades algorithm performance. In this paper, we propose a novel phrase-mining  Cites: Deep contextualized word representations

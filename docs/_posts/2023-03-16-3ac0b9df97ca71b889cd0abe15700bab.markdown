@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explaining Model Confidence Using Counterfactuals"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "T Le, T Miller, R Singh, L Sonenberg - arXiv preprint arXiv:2303.05729, 2023"
----
-Displaying confidence scores in human-AI interaction has been shown to help build trust between humans and AI systems. However, most existing research uses only the confidence score as a form of communication. As confidence scores are just another model output, users may want to understand why the algorithm is confident to determine whether to accept the confidence score. In this paper, we show that counterfactual explanations of confidence scores help study participants to better …
-Cites: ‪Does the whole exceed its parts? the effect of ai explanations on …‬
+--- 
+layout: post 
+title: "Explaining Model Confidence Using Counterfactuals" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "T Le, T Miller, R Singh, L Sonenberg - arXiv preprint arXiv:2303.05729, 2023" 
+--- 
+Displaying confidence scores in human-AI interaction has been shown to help build trust between humans and AI systems. However, most existing research uses only the confidence score as a form of communication. As confidence scores are just another model output, users may want to understand why the algorithm is confident to determine whether to accept the confidence score. In this paper, we show that counterfactual explanations of confidence scores help study participants to better  Cites: Does the whole exceed its parts? the effect of ai explanations on

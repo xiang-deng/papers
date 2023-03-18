@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Logic Against Bias: Textual Entailment Mitigates Stereotypical Sentence Reasoning"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "H Luo, J Glass - arXiv preprint arXiv:2303.05670, 2023"
----
-Due to their similarity-based learning objectives, pretrained sentence encoders often internalize stereotypical assumptions that reflect the social biases that exist within their training corpora. In this paper, we describe several kinds of stereotypes concerning different communities that are present in popular sentence representation models, including pretrained next sentence prediction and contrastive sentence representation models. We compare such models to textual entailment …
-Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬
+--- 
+layout: post 
+title: "Logic Against Bias: Textual Entailment Mitigates Stereotypical Sentence Reasoning" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "H Luo, J Glass - arXiv preprint arXiv:2303.05670, 2023" 
+--- 
+Due to their similarity-based learning objectives, pretrained sentence encoders often internalize stereotypical assumptions that reflect the social biases that exist within their training corpora. In this paper, we describe several kinds of stereotypes concerning different communities that are present in popular sentence representation models, including pretrained next sentence prediction and contrastive sentence representation models. We compare such models to textual entailment  Cites: Benchmarking zero-shot text classification: Datasets, evaluation

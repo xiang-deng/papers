@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "K Mao, Z Dou, H Chen, F Mo, H Qian - arXiv preprint arXiv:2303.06573, 2023"
----
-In this paper, we present a prompting framework called LLMCS that leverages large language models, such as code-davinci-002 of GPT-3, to perform few-shot conversational query rewriting for conversational search. We explore three prompting methods to generate multiple query rewrites and hypothetical responses, and propose aggregating them into an integrated representation that can robustly represent the user s real contextual search intent. Experimental results on two …
-Cites: ‪Holistic evaluation of language models‬
+--- 
+layout: post 
+title: "Large Language Models Know Your Contextual Search Intent: A Prompting Framework for Conversational Search" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "K Mao, Z Dou, H Chen, F Mo, H Qian - arXiv preprint arXiv:2303.06573, 2023" 
+--- 
+In this paper, we present a prompting framework called LLMCS that leverages large language models, such as code-davinci-002 of GPT-3, to perform few-shot conversational query rewriting for conversational search. We explore three prompting methods to generate multiple query rewrites and hypothetical responses, and propose aggregating them into an integrated representation that can robustly represent the user s real contextual search intent. Experimental results on two  Cites: Holistic evaluation of language models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DelBERTo: A Deep Lightweight Transformer for Sentiment Analysis"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "V Basile, V Patti - AIxIA 2022–Advances in Artificial Intelligence: XXIst …, 2023"
----
-This article introduces DelBERTo, a resource-efficient Transformer architecture for Natural Language Processing (NLP). Transformers replace convolutions and recurrence with the self-attention mechanism and represent the state-of-the-art in NLP. However, self-attention s complexity grows quadratically with the size of the input, which limits their applications. DelBERTo relies on adaptive input and on a deep yet lightweight Transformer architecture to reduce the number of learnable …
-Cites: ‪Delight: Deep and light-weight transformer‬
+--- 
+layout: post 
+title: "DelBERTo: A Deep Lightweight Transformer for Sentiment Analysis" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "V Basile, V Patti - AIxIA 2022Advances in Artificial Intelligence: XXIst , 2023" 
+--- 
+This article introduces DelBERTo, a resource-efficient Transformer architecture for Natural Language Processing (NLP). Transformers replace convolutions and recurrence with the self-attention mechanism and represent the state-of-the-art in NLP. However, self-attention s complexity grows quadratically with the size of the input, which limits their applications. DelBERTo relies on adaptive input and on a deep yet lightweight Transformer architecture to reduce the number of learnable  Cites: Delight: Deep and light-weight transformer

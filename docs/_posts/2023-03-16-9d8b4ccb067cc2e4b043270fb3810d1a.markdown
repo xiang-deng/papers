@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Boosting Source Code Learning with Data Augmentation: An Empirical Study"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "Z Dong, Q Hu, Y Guo, Z Zhang, M Cordy, M Papadakis… - arXiv preprint arXiv …, 2023"
----
-The next era of program understanding is being propelled by the use of machine learning to solve software problems. Recent studies have shown surprising results of source code learning, which applies deep neural networks (DNNs) to various critical software tasks, eg, bug detection and clone detection. This success can be greatly attributed to the utilization of massive high-quality training data, and in practice, data augmentation, which is a technique used to produce additional training data, has …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "Boosting Source Code Learning with Data Augmentation: An Empirical Study" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "Z Dong, Q Hu, Y Guo, Z Zhang, M Cordy, M Papadakis - arXiv preprint arXiv , 2023" 
+--- 
+The next era of program understanding is being propelled by the use of machine learning to solve software problems. Recent studies have shown surprising results of source code learning, which applies deep neural networks (DNNs) to various critical software tasks, eg, bug detection and clone detection. This success can be greatly attributed to the utilization of massive high-quality training data, and in practice, data augmentation, which is a technique used to produce additional training data, has  Cites: Graphcodebert: Pre-training code representations with data flow

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generating Query Focused Summaries without Fine-tuning the Transformer-based Pre-trained Models"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "D Abdullah, S Nayak, G Suri, Y Chali - arXiv preprint arXiv:2303.06230, 2023"
----
-Fine-tuning the Natural Language Processing (NLP) models for each new data set requires higher computational time associated with increased carbon footprint and cost. However, fine-tuning helps the pre-trained models adapt to the latest data sets; what if we avoid the fine-tuning steps and attempt to generate summaries using just the pre-trained models to reduce computational time and cost. In this paper, we tried to omit the fine-tuning steps and investigate whether the Marginal Maximum …
-Cites: ‪Generating query focused summaries from query-free resources‬
+--- 
+layout: post 
+title: "Generating Query Focused Summaries without Fine-tuning the Transformer-based Pre-trained Models" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "D Abdullah, S Nayak, G Suri, Y Chali - arXiv preprint arXiv:2303.06230, 2023" 
+--- 
+Fine-tuning the Natural Language Processing (NLP) models for each new data set requires higher computational time associated with increased carbon footprint and cost. However, fine-tuning helps the pre-trained models adapt to the latest data sets; what if we avoid the fine-tuning steps and attempt to generate summaries using just the pre-trained models to reduce computational time and cost. In this paper, we tried to omit the fine-tuning steps and investigate whether the Marginal Maximum  Cites: Generating query focused summaries from query-free resources

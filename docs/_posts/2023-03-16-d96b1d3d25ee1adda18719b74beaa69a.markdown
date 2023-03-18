@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "I Saberi, FH Fard - arXiv preprint arXiv:2303.06233, 2023"
----
-Pre-trained Programming Language Models (PPLMs) achieved many recent states of the art results for many code-related software engineering tasks. Though some studies use data flow or propose tree-based models that utilize Abstract Syntax Tree (AST), most PPLMs do not fully utilize the rich syntactical information in source code. Still, the input is considered a sequence of tokens. There are two issues; the first is computational inefficiency due to the quadratic relationship between input length and …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "I Saberi, FH Fard - arXiv preprint arXiv:2303.06233, 2023" 
+--- 
+Pre-trained Programming Language Models (PPLMs) achieved many recent states of the art results for many code-related software engineering tasks. Though some studies use data flow or propose tree-based models that utilize Abstract Syntax Tree (AST), most PPLMs do not fully utilize the rich syntactical information in source code. Still, the input is considered a sequence of tokens. There are two issues; the first is computational inefficiency due to the quadratic relationship between input length and  Cites: Codexglue: A machine learning benchmark dataset for code

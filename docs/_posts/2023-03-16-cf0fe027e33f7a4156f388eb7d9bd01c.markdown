@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multidocument Aspect Classification for Aspect-Based Abstractive Summarization"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "Y Wang, Y Zhou, M Wang, Z Chen, Z Cai, J Chen… - IEEE Transactions on …, 2023"
----
-Multidocument aspect-based summarization (AspSumm) aims to generate focused summaries based on the target aspects from a cluster of relevant documents. Generating such summaries can better satisfy readers  specific points of interest, as readers may have different concerns about the same articles. However, previous methods usually generate aspect-based summaries based on the given aspects without using the relationship among aspects to assist in the summarization. In this …
-Cites: ‪Unsupervised opinion summarization with content planning‬
+--- 
+layout: post 
+title: "Multidocument Aspect Classification for Aspect-Based Abstractive Summarization" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "Y Wang, Y Zhou, M Wang, Z Chen, Z Cai, J Chen - IEEE Transactions on , 2023" 
+--- 
+Multidocument aspect-based summarization (AspSumm) aims to generate focused summaries based on the target aspects from a cluster of relevant documents. Generating such summaries can better satisfy readers specific points of interest, as readers may have different concerns about the same articles. However, previous methods usually generate aspect-based summaries based on the given aspects without using the relationship among aspects to assist in the summarization. In this  Cites: Unsupervised opinion summarization with content planning

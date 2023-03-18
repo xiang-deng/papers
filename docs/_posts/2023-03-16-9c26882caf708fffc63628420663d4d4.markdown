@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPLENDID: Supporting Parallel LLVM-IR Enhanced Natural Decompilation for Interactive Development"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "Z Tan, Y Chon, M Kruse, J Doerfert, Z Xu, B Homerding… - 2023"
----
-Manually writing parallel programs is difficult and error-prone. Automatic parallelization could address this issue, but profitability can be limited by not having facts known only to programmers. A parallelizing compiler that collaborates with the programmer can increase the coverage and performance of parallelization while reducing the errors and overhead associated with manual parallelization. Unlike collaboration involving analysis tools that report program properties or make …
-Cites: ‪Dawn Drain‬
+--- 
+layout: post 
+title: "SPLENDID: Supporting Parallel LLVM-IR Enhanced Natural Decompilation for Interactive Development" 
+date: 2023-03-16 06:48:33 -0400 
+categories: jekyll update 
+author: "Z Tan, Y Chon, M Kruse, J Doerfert, Z Xu, B Homerding - 2023" 
+--- 
+Manually writing parallel programs is difficult and error-prone. Automatic parallelization could address this issue, but profitability can be limited by not having facts known only to programmers. A parallelizing compiler that collaborates with the programmer can increase the coverage and performance of parallelization while reducing the errors and overhead associated with manual parallelization. Unlike collaboration involving analysis tools that report program properties or make  Cites: Dawn Drain

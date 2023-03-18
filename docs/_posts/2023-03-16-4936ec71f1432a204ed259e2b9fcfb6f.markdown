@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Multi-Scale Self-Attention Mixup for Graph Classification"
-date:   2023-03-16 06:48:33 -0400
-categories: jekyll update
-author: "Y Kong, J Li, K Zhang, J Wu - Pattern Recognition Letters, 2023"
----
-Data augmentation can effectively improve the generalization performance of neural networks. However, data augmentation for the graph domain is challenging due to the fact of irregular nature of the special non-Euclidean structure. In this paper, we propose a novel graph data augmentation solution, Multi-Scale Self-Attention Mixup (MSSA-Mixup), which extends the training distribution by interpolating multi-scale graph representation with self-attention. The MSSA-Mixup improves the …
-Cites: ‪Structure-based protein function prediction using graph …‬
