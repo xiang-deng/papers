@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Finding the Needle in a Haystack: Unsupervised Rationale Extraction from Long Text Classifiers"
+date:   2023-03-18 01:48:35 -0400
+categories: jekyll update
+author: "K Bujel, A Caines, H Yannakoudakis, M Rei - arXiv preprint arXiv:2303.07991, 2023"
+---
+Long-sequence transformers are designed to improve the representation of longer texts by language models and their performance on downstream document-level tasks. However, not much is understood about the quality of token-level predictions in long-form models. We investigate the performance of such architectures in the context of document classification with unsupervised rationale extraction. We find standard soft attention methods to perform significantly worse when combined with …
+Cites: ‪ERASER: A benchmark to evaluate rationalized NLP models‬

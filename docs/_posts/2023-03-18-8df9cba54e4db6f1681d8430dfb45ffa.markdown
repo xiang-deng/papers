@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "α ILP: thinking visual scenes as differentiable logic programs"
+date:   2023-03-18 01:48:35 -0400
+categories: jekyll update
+author: "H Shindo, V Pfanschilling, DS Dhami, K Kersting - Machine Learning, 2023"
+---
+Deep neural learning has shown remarkable performance at learning representations for visual object categorization. However, deep neural networks such as CNNs do not explicitly encode objects and relations among them. This limits their success on tasks that require a deep logical understanding of visual scenes, such as Kandinsky patterns and Bongard problems. To overcome these limitations, we introduce α ILP, a novel differentiable inductive logic programming framework …
+Cites: ‪Learning reasoning strategies in end-to-end differentiable proving‬

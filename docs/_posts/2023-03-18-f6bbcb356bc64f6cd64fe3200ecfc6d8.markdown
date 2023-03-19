@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Attention-likelihood relationship in transformers"
+date:   2023-03-18 01:48:35 -0400
+categories: jekyll update
+author: "V Ruscio, V Maiorca, F Silvestri - arXiv preprint arXiv:2303.08288, 2023"
+---
+We analyze how large language models (LLMs) represent out-of-context words, investigating their reliance on the given context to capture their semantics. Our likelihood-guided text perturbations reveal a correlation between token likelihood and attention values in transformer-based language models. Extensive experiments reveal that unexpected tokens cause the model to attend less to the information coming from themselves to compute their representations, particularly at higher …
+Cites: ‪Linguistic Knowledge and Transferability of Contextual …‬

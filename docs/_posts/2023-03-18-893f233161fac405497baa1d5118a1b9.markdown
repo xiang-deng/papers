@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "It Takes One to Tango but More Make Trouble? In-Context Training with Different Number of Demonstrations"
+date:   2023-03-18 01:48:35 -0400
+categories: jekyll update
+author: "J Chen, LC Chen, T Zhou - arXiv preprint arXiv:2303.08119, 2023"
+---
+Large language models (LLMs) are capable to perform complex reasoning by in-context learning (ICL) when provided with a few input-output demonstrations (demos) and more powerful when intermediate reasoning steps (  chain of thoughts (CoT) ) of the demos are given. Is it necessary to use multi-demo in ICL? In this paper, we study ICL using fewer demos for each test query on the tasks in~\cite {wei2022chain}. Surprisingly, we do not observe significant degradation when using …
+Cites: ‪Self-consistency improves chain of thought reasoning in language …‬

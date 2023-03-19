@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Multi-Hop Graph Neural Network for Event Detection via a Stacked Module and a Feedback Network"
+date:   2023-03-18 01:48:35 -0400
+categories: jekyll update
+author: "L Liu, K Ding, M Liu, S Liu - Electronics, 2023"
+---
+Event detection is an important subtask of information extraction, aiming to identify triggers and recognize event types in text. Previous state-of-the-art studies using graph neural networks (GNNs) are mainly applied to obtain long distance features of text and have achieved impressive performance. However, these methods face the issues of over-smoothing and semantic feature destruction, when containing multiple GNN layers. For the reasons, this paper proposes an improved GNN model for event …
+Cites: ‪Deep contextualized word representations‬
