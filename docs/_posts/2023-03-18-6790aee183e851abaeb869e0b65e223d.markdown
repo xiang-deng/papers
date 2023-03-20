@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Framework for Combining Entity Resolution and Query Answering in Knowledge Bases"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "R Fagin, PG Kolaitis, D Lembo, L Popa, F Scafoglieri - arXiv preprint arXiv …, 2023"
----
-We propose a new framework for combining entity resolution and query answering in knowledge bases (KBs) with tuple-generating dependencies (tgds) and equality-generating dependencies (egds) as rules. We define the semantics of the KB in terms of special instances that involve equivalence classes of entities and sets of values. Intuitively, the former collect all entities denoting the same real-world object, while the latter collect all alternative values for an attribute. This approach allows us …
-Cites: ‪Principles of data integration‬
+--- 
+layout: post 
+title: "A Framework for Combining Entity Resolution and Query Answering in Knowledge Bases" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "R Fagin, PG Kolaitis, D Lembo, L Popa, F Scafoglieri - arXiv preprint arXiv , 2023" 
+--- 
+We propose a new framework for combining entity resolution and query answering in knowledge bases (KBs) with tuple-generating dependencies (tgds) and equality-generating dependencies (egds) as rules. We define the semantics of the KB in terms of special instances that involve equivalence classes of entities and sets of values. Intuitively, the former collect all entities denoting the same real-world object, while the latter collect all alternative values for an attribute. This approach allows us  Cites: Principles of data integration

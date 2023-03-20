@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Threshold-based Naïve Bayes classifier"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "M Romano, G Contu, F Mola, C Conversano - Advances in Data Analysis and …, 2023"
----
-Abstract The Threshold-based Naïve Bayes (Tb-NB) classifier is introduced as a (simple) improved version of the original Naïve Bayes classifier. Tb-NB extracts the sentiment from a Natural Language text corpus and allows the user not only to predict how much a sentence is positive (negative) but also to quantify a sentiment with a numeric value. It is based on the estimation of a single threshold value that concurs to define a decision rule that classifies a text into a positive (negative) …
-Cites: ‪The unreasonable effectiveness of data‬
+--- 
+layout: post 
+title: "Threshold-based Nave Bayes classifier" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "M Romano, G Contu, F Mola, C Conversano - Advances in Data Analysis and , 2023" 
+--- 
+Abstract The Threshold-based Nave Bayes (Tb-NB) classifier is introduced as a (simple) improved version of the original Nave Bayes classifier. Tb-NB extracts the sentiment from a Natural Language text corpus and allows the user not only to predict how much a sentence is positive (negative) but also to quantify a sentiment with a numeric value. It is based on the estimation of a single threshold value that concurs to define a decision rule that classifies a text into a positive (negative)  Cites: The unreasonable effectiveness of data

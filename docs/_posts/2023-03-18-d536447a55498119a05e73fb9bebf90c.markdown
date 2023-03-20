@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Topic modeling by clustering language model embeddings: Human validation on an industry dataset"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "A Eklund, M Forsman - Proceedings of the 2022 Conference on Empirical …, 2022"
----
-Topic models are powerful tools to get an overview of large collections of text data, a situation that is prevalent in industry applications. A rising trend within topic modeling is to directly cluster dimension-reduced embeddings created with pretrained language models. It is difficult to evaluate these models because there is no ground truth and automatic measurements may not mimic human judgment. To address this problem, we created a tool called STELLAR for interactive topic browsing which we …
-Cites: ‪Is automated topic model evaluation broken? the incoherence of …‬
+--- 
+layout: post 
+title: "Topic modeling by clustering language model embeddings: Human validation on an industry dataset" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "A Eklund, M Forsman - Proceedings of the 2022 Conference on Empirical , 2022" 
+--- 
+Topic models are powerful tools to get an overview of large collections of text data, a situation that is prevalent in industry applications. A rising trend within topic modeling is to directly cluster dimension-reduced embeddings created with pretrained language models. It is difficult to evaluate these models because there is no ground truth and automatic measurements may not mimic human judgment. To address this problem, we created a tool called STELLAR for interactive topic browsing which we  Cites: Is automated topic model evaluation broken? the incoherence of

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "J Pan, G Chou, D Berenson - arXiv preprint arXiv:2303.08006, 2023"
----
-To make robots accessible to a broad audience, it is critical to endow them with the ability to take universal modes of communication, like commands given in natural language, and extract a concrete desired task specification, defined using a formal language like linear temporal logic (LTL). In this paper, we present a learning-based approach for translating from natural language commands to LTL specifications with very limited human-labeled training data. This is in stark contrast to existing natural …
-Cites: ‪Semantic parsing with syntax-and table-aware sql generation‬
+--- 
+layout: post 
+title: "Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "J Pan, G Chou, D Berenson - arXiv preprint arXiv:2303.08006, 2023" 
+--- 
+To make robots accessible to a broad audience, it is critical to endow them with the ability to take universal modes of communication, like commands given in natural language, and extract a concrete desired task specification, defined using a formal language like linear temporal logic (LTL). In this paper, we present a learning-based approach for translating from natural language commands to LTL specifications with very limited human-labeled training data. This is in stark contrast to existing natural  Cites: Semantic parsing with syntax-and table-aware sql generation

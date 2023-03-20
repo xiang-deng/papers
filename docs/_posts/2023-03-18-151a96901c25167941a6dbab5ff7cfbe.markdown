@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Theory of Emergent In-Context Learning as Implicit Structure Induction"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "M Hahn, N Goyal - arXiv preprint arXiv:2303.07971, 2023"
----
-Scaling large language models (LLMs) leads to an emergent capacity to learn in-context from example demonstrations. Despite progress, theoretical understanding of this phenomenon remains limited. We argue that in-context learning relies on recombination of compositional operations found in natural language data. We derive an information-theoretic bound showing how in-context learning abilities arise from generic next-token prediction when the pretraining distribution has sufficient …
-Cites: ‪Impact of Pretraining Term Frequencies on Few-Shot Numerical …‬
+--- 
+layout: post 
+title: "A Theory of Emergent In-Context Learning as Implicit Structure Induction" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "M Hahn, N Goyal - arXiv preprint arXiv:2303.07971, 2023" 
+--- 
+Scaling large language models (LLMs) leads to an emergent capacity to learn in-context from example demonstrations. Despite progress, theoretical understanding of this phenomenon remains limited. We argue that in-context learning relies on recombination of compositional operations found in natural language data. We derive an information-theoretic bound showing how in-context learning abilities arise from generic next-token prediction when the pretraining distribution has sufficient  Cites: Impact of Pretraining Term Frequencies on Few-Shot Numerical

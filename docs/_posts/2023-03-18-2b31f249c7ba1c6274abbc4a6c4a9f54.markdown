@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query2doc: Query Expansion with Large Language Models"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "L Wang, N Yang, F Wei - arXiv preprint arXiv:2303.07678, 2023"
----
-This paper introduces a simple yet effective query expansion approach, denoted as query2doc, to improve both sparse and dense retrieval systems. The proposed method first generates pseudo-documents by few-shot prompting large language models (LLMs), and then expands the query with generated pseudo-documents. LLMs are trained on web-scale text corpora and are adept at knowledge memorization. The pseudo-documents from LLMs often contain highly relevant …
-Cites: ‪Dense passage retrieval for open-domain question answering‬
+--- 
+layout: post 
+title: "Query2doc: Query Expansion with Large Language Models" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "L Wang, N Yang, F Wei - arXiv preprint arXiv:2303.07678, 2023" 
+--- 
+This paper introduces a simple yet effective query expansion approach, denoted as query2doc, to improve both sparse and dense retrieval systems. The proposed method first generates pseudo-documents by few-shot prompting large language models (LLMs), and then expands the query with generated pseudo-documents. LLMs are trained on web-scale text corpora and are adept at knowledge memorization. The pseudo-documents from LLMs often contain highly relevant  Cites: Dense passage retrieval for open-domain question answering

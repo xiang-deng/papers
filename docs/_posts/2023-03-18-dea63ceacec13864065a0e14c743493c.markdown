@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mirror: A Natural Language Interface for Data Querying, Summarization, and Visualization"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "C Xu, J McAuley, P Wang - arXiv preprint arXiv:2303.08697, 2023"
----
-We present Mirror, an open-source platform for data exploration and analysis powered by large language models. Mirror offers an intuitive natural language interface for querying databases, and automatically generates executable SQL commands to retrieve relevant data and summarize it in natural language. In addition, users can preview and manually edit the generated SQL commands to ensure the accuracy of their queries. Mirror also generates visualizations to facilitate …
-Cites: ‪Compositional generalization and natural language variation: Can …‬
+--- 
+layout: post 
+title: "Mirror: A Natural Language Interface for Data Querying, Summarization, and Visualization" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "C Xu, J McAuley, P Wang - arXiv preprint arXiv:2303.08697, 2023" 
+--- 
+We present Mirror, an open-source platform for data exploration and analysis powered by large language models. Mirror offers an intuitive natural language interface for querying databases, and automatically generates executable SQL commands to retrieve relevant data and summarize it in natural language. In addition, users can preview and manually edit the generated SQL commands to ensure the accuracy of their queries. Mirror also generates visualizations to facilitate  Cites: Compositional generalization and natural language variation: Can

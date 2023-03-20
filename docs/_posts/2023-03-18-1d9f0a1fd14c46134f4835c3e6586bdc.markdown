@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "Y Ma, Y Cao, YC Hong, A Sun - arXiv preprint arXiv:2303.08559, 2023"
----
-Large Language Models (LLMs) have made remarkable strides in various tasks. However, whether they are competitive few-shot solvers for information extraction (IE) tasks and surpass fine-tuned small Pre-trained Language Models (SLMs) remains an open problem. This paper aims to provide a thorough answer to this problem, and moreover, to explore an approach towards effective and economical IE systems that combine the strengths of LLMs and SLMs. Through extensive …
-Cites: ‪Recitation-Augmented Language Models‬
+--- 
+layout: post 
+title: "Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "Y Ma, Y Cao, YC Hong, A Sun - arXiv preprint arXiv:2303.08559, 2023" 
+--- 
+Large Language Models (LLMs) have made remarkable strides in various tasks. However, whether they are competitive few-shot solvers for information extraction (IE) tasks and surpass fine-tuned small Pre-trained Language Models (SLMs) remains an open problem. This paper aims to provide a thorough answer to this problem, and moreover, to explore an approach towards effective and economical IE systems that combine the strengths of LLMs and SLMs. Through extensive  Cites: Recitation-Augmented Language Models

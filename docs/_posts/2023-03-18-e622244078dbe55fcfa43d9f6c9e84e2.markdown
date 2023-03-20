@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A canonical context-preserving representation for open IE: Extracting Semantically typed relational tuples from complex sentences"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "C Niklaus, M Cetto, A Freitas, S Handschuh - Knowledge-Based Systems, 2023"
----
-Modern systems that deal with inference in texts need automatized methods to extract meaning representations (MRs) from texts at scale. Open Information Extraction (IE) is a prominent way of extracting all potential relations from a given text in a comprehensive manner. Previous work in this area has mainly focused on the extraction of isolated relational tuples. Ignoring the cohesive nature of texts where important contextual information is spread across clauses or sentences, state-of-the …
-Cites: ‪Open information extraction from the web‬
+--- 
+layout: post 
+title: "A canonical context-preserving representation for open IE: Extracting Semantically typed relational tuples from complex sentences" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "C Niklaus, M Cetto, A Freitas, S Handschuh - Knowledge-Based Systems, 2023" 
+--- 
+Modern systems that deal with inference in texts need automatized methods to extract meaning representations (MRs) from texts at scale. Open Information Extraction (IE) is a prominent way of extracting all potential relations from a given text in a comprehensive manner. Previous work in this area has mainly focused on the extraction of isolated relational tuples. Ignoring the cohesive nature of texts where important contextual information is spread across clauses or sentences, state-of-the  Cites: Open information extraction from the web

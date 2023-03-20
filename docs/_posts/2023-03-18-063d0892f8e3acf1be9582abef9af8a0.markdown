@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ViperGPT: Visual Inference via Python Execution for Reasoning"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "D Surís, S Menon, C Vondrick - arXiv preprint arXiv:2303.08128, 2023"
----
-Answering visual queries is a complex task that requires both visual processing and reasoning. End-to-end models, the dominant approach for this task, do not explicitly differentiate between the two, limiting interpretability and generalization. Learning modular programs presents a promising alternative, but has proven challenging due to the difficulty of learning both the programs and modules simultaneously. We introduce ViperGPT, a framework that leverages code-generation models to …
-Cites: ‪Obtaining Faithful Interpretations from Compositional Neural …‬
+--- 
+layout: post 
+title: "ViperGPT: Visual Inference via Python Execution for Reasoning" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "D Surs, S Menon, C Vondrick - arXiv preprint arXiv:2303.08128, 2023" 
+--- 
+Answering visual queries is a complex task that requires both visual processing and reasoning. End-to-end models, the dominant approach for this task, do not explicitly differentiate between the two, limiting interpretability and generalization. Learning modular programs presents a promising alternative, but has proven challenging due to the difficulty of learning both the programs and modules simultaneously. We introduce ViperGPT, a framework that leverages code-generation models to  Cites: Obtaining Faithful Interpretations from Compositional Neural

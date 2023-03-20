@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Merging Decision Transformers: Weight Averaging for Forming Multi-Task Policies"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "D Lawson, AH Qureshi - arXiv preprint arXiv:2303.07551, 2023"
----
-Recent work has shown the promise of creating generalist, transformer-based, policies for language, vision, and sequential decision-making problems. To create such models, we generally require centralized training objectives, data, and compute. It is of interest if we can more flexibly create generalist policies, by merging together multiple, task-specific, individually trained policies. In this work, we take a preliminary step in this direction through merging, or averaging, subsets of Decision …
-Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬
+--- 
+layout: post 
+title: "Merging Decision Transformers: Weight Averaging for Forming Multi-Task Policies" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "D Lawson, AH Qureshi - arXiv preprint arXiv:2303.07551, 2023" 
+--- 
+Recent work has shown the promise of creating generalist, transformer-based, policies for language, vision, and sequential decision-making problems. To create such models, we generally require centralized training objectives, data, and compute. It is of interest if we can more flexibly create generalist policies, by merging together multiple, task-specific, individually trained policies. In this work, we take a preliminary step in this direction through merging, or averaging, subsets of Decision  Cites: Branch-train-merge: Embarrassingly parallel training of expert

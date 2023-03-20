@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Co-Occurrence Matters: Learning Action Relation for Temporal Action Localization"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "C Cao, Y Wang, Y Lu, X Zhang, Y Zhang - arXiv preprint arXiv:2303.08463, 2023"
----
-Temporal action localization (TAL) is a prevailing task due to its great application potential. Existing works in this field mainly suffer from two weaknesses:(1) They often neglect the multi-label case and only focus on temporal modeling.(2) They ignore the semantic information in class labels and only use the visual information. To solve these problems, we propose a novel Co-Occurrence Relation Module (CORM) that explicitly models the co-occurrence relationship between actions …
-Cites: ‪Phrase-bert: Improved phrase embeddings from bert with an …‬
+--- 
+layout: post 
+title: "Co-Occurrence Matters: Learning Action Relation for Temporal Action Localization" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "C Cao, Y Wang, Y Lu, X Zhang, Y Zhang - arXiv preprint arXiv:2303.08463, 2023" 
+--- 
+Temporal action localization (TAL) is a prevailing task due to its great application potential. Existing works in this field mainly suffer from two weaknesses:(1) They often neglect the multi-label case and only focus on temporal modeling.(2) They ignore the semantic information in class labels and only use the visual information. To solve these problems, we propose a novel Co-Occurrence Relation Module (CORM) that explicitly models the co-occurrence relationship between actions  Cites: Phrase-bert: Improved phrase embeddings from bert with an

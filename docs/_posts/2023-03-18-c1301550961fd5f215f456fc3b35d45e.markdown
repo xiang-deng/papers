@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "W Zhu, R Zhou, Y Yuan, C Timothy, R Jain, J Luo - arXiv preprint arXiv:2303.08303, 2023"
----
-Recently, deep learning has produced encouraging results for kidney stone classification using endoscope images. However, the shortage of annotated training data poses a severe problem in improving the performance and generalization ability of the trained model. It is thus crucial to fully exploit the limited data at hand. In this paper, we propose SegPrompt to alleviate the data shortage problems by exploiting segmentation maps from two aspects. First, SegPrompt integrates segmentation …
-Cites: ‪Robust fine-tuning of zero-shot models‬
+--- 
+layout: post 
+title: "SegPrompt: Using Segmentation Map as a Better Prompt to Finetune Deep Models for Kidney Stone Classification" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "W Zhu, R Zhou, Y Yuan, C Timothy, R Jain, J Luo - arXiv preprint arXiv:2303.08303, 2023" 
+--- 
+Recently, deep learning has produced encouraging results for kidney stone classification using endoscope images. However, the shortage of annotated training data poses a severe problem in improving the performance and generalization ability of the trained model. It is thus crucial to fully exploit the limited data at hand. In this paper, we propose SegPrompt to alleviate the data shortage problems by exploiting segmentation maps from two aspects. First, SegPrompt integrates segmentation  Cites: Robust fine-tuning of zero-shot models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Input-length-shortening and text generation via attention values"
-date:   2023-03-18 01:48:35 -0400
-categories: jekyll update
-author: "NÖ Tan, AY Peng, J Bensemann, Q Bao, T Hartill… - arXiv preprint arXiv …, 2023"
----
-Identifying words that impact a task s performance more than others is a challenge in natural language processing. Transformers models have recently addressed this issue by incorporating an attention mechanism that assigns greater attention (ie, relevance) scores to some words than others. Because of the attention mechanism s high computational cost, transformer models usually have an input-length limitation caused by hardware constraints. This limitation applies to many transformers …
-Cites: ‪Blockwise Self-Attention for Long Document Understanding‬
+--- 
+layout: post 
+title: "Input-length-shortening and text generation via attention values" 
+date: 2023-03-18 01:48:35 -0400 
+categories: jekyll update 
+author: "N Tan, AY Peng, J Bensemann, Q Bao, T Hartill - arXiv preprint arXiv , 2023" 
+--- 
+Identifying words that impact a task s performance more than others is a challenge in natural language processing. Transformers models have recently addressed this issue by incorporating an attention mechanism that assigns greater attention (ie, relevance) scores to some words than others. Because of the attention mechanism s high computational cost, transformer models usually have an input-length limitation caused by hardware constraints. This limitation applies to many transformers  Cites: Blockwise Self-Attention for Long Document Understanding
