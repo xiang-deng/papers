@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Unified Framework for Learned Sparse Retrieval"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "T Nguyen, S MacAvaney, A Yates - Advances in Information Retrieval: 45th European …, 2023"
+---
+Learned sparse retrieval (LSR) is a family of first-stage retrieval methods that are trained to generate sparse lexical representations of queries and documents for use with an inverted index. Many LSR methods have been recently introduced, with Splade models achieving state-of-the-art performance on MSMarco. Despite similarities in their model architectures, many LSR methods show substantial differences in effectiveness and efficiency. Differences in the experimental setups …
+Cites: ‪Unsupervised dense information retrieval with contrastive learning‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Jump to Conclusions: Short-Cutting Transformers With Linear Transformations"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "AY Din, T Karidi, L Choshen, M Geva - arXiv preprint arXiv:2303.09435, 2023"
+---
+Transformer-based language models (LMs) create hidden representations of their inputs at every layer, but only use final-layer representations for prediction. This obscures the internal decision-making process of the model and the utility of its intermediate representations. One way to elucidate this is to cast the hidden representations as final representations, bypassing the transformer computation in-between. In this work, we suggest a simple method for such casting, by using linear …
+Cites: ‪What Are You Token About? Dense Retrieval as Distributions Over …‬

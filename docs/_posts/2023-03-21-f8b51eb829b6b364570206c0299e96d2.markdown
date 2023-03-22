@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Secret-Keeping in Question Answering"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "NW Rollings, K O Sullivan, S Kulshrestha - arXiv preprint arXiv:2303.09067, 2023"
+---
+Existing question-answering research focuses on unanswerable questions in the context of always providing an answer when a system can\dots but what about cases where a system {\bf should not} answer a question. This can either be to protect sensitive users or sensitive information. Many models expose sensitive information under interrogation by an adversarial user. We seek to determine if it is possible to teach a question-answering system to keep a specific fact secret. We design and …
+Cites: ‪QA Dataset Explosion: A Taxonomy of NLP Resources for …‬

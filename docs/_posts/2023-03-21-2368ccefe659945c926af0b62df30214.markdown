@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Incremental Label Propagation for Data Sets with Imbalanced Labels"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "Y Li, L Bai, Z Liang, H Du - Neurocomputing, 2023"
+---
+Label Propagation (LP) is a popular graph-based semi-supervised learning algorithm. However, the imbalanced label distribution of labeled data affects the performance of LP, which makes it prefer to allocate more points for the class with majority labels. To get rid of this deficiency, we propose an Incremental Label Propagation (ILP) framework. The ILP framework includes an incremental balance strategy and a multiple results integration method to reduce the uncertainty of …
+Cites: ‪Learning with Local and Global Consistency.‬

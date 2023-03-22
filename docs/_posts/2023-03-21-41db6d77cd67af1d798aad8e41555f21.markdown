@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Machine-Assisted Meta Studies of Astrophysical Data From the Scientific Literature"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "TD Crossland - 2023"
+---
+We develop a new model for automatic extraction of reported measurements from the astrophysical literature, utilising modern Natural Language Processing techniques. We begin with a rules-based model for keyword-search-based extraction, and then proceed to develop artificial neural network models for full entity and relation extraction from free text. This process also requires the creation of hand-annotated datasets selected from the available astrophysical literature for training and …
+Cites: ‪Towards machine-assisted meta-studies: the Hubble constant‬

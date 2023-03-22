@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Dual Prompt Learning Framework for Few-Shot Dialogue State Tracking"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "Y Yang, W Lei, P Huang, J Cao, J Li, TS Chua - 2023"
+---
+Dialogue state tracking (DST) module is an important component for task-oriented dialog systems to understand users  goals and needs. Collecting dialogue state labels including slots and values can be costly, especially with the wide application of dialogue systems in more and more new-rising domains. In this paper, we focus on how to utilize the language understanding and generation ability of pre-trained language models for DST. We design a dual prompt learning framework for few-shot …
+Cites: ‪A simple language model for task-oriented dialogue‬

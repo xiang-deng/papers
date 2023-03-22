@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "NEDORT: a novel and efficient approach to the data overlap problem in relational triples"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "Z Zhang, X Hu, H Zhang, J Liu - Complex & Intelligent Systems, 2023"
+---
+Relation triple extraction is a combination of named entity recognition and relation prediction. Early works ignore the problem of data overlap when extracting triples, resulting in poor extraction performance. Subsequent works improve the capability of the model to extract overlapping triples through generative and extractive methods. These works achieve considerable performance but still suffer from some defects, such as poor extraction capability for individual triplets and inappropriate spatial …
+Cites: ‪Modeling relations and their mentions without labeled text‬

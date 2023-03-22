@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Text-to-SQL with a Hybrid Decoding Method"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "G Jeong, M Han, S Kim, Y Lee, J Lee, S Park, H Kim - Entropy, 2023"
+---
+Text-to-SQL is a task that converts natural language questions into SQL queries. Recent text-to-SQL models employ two decoding methods: sketch-based and generation-based, but each has its own shortcomings. The sketch-based method has limitations in performance as it does not reflect the relevance between SQL elements, while the generation-based method may increase inference time and cause syntactic errors. Therefore, we propose a novel decoding method, Hybrid …
+Cites: ‪Rat-sql: Relation-aware schema encoding and linking for text-to …‬

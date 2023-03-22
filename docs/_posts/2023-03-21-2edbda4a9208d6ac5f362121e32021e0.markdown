@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pre-processing Matters! Improved Wikipedia Corpora for Open-Domain Question Answering"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "MS Tamber, R Pradeep, J Lin - Advances in Information Retrieval: 45th European …, 2023"
+---
+One of the contributions of the landmark Dense Passage Retriever (DPR) work is the curation of a corpus of passages generated from Wikipedia articles that have been segmented into non-overlapping passages of 100 words. This corpus has served as the standard source for question answering systems based on a retriever–reader pipeline and provides the basis for nearly all state-of-the-art results on popular open-domain question answering datasets. There are, however, multiple potential …
+Cites: ‪Semantic parsing on freebase from question-answer pairs‬

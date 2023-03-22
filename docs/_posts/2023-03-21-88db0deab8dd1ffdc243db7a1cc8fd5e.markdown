@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A New Benchmark: On the Utility of Synthetic Data with Blender for Bare Supervised Learning and Downstream Domain Adaptation"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "H Tang, K Jia - arXiv preprint arXiv:2303.09165, 2023"
+---
+Deep learning in computer vision has achieved great success with the price of large-scale labeled training data. However, exhaustive data annotation is impracticable for each task of all domains of interest, due to high labor costs and unguaranteed labeling accuracy. Besides, the uncontrollable data collection process produces non-IID training and test data, where undesired duplication may exist. All these nuisances may hinder the verification of typical theories and exposure to new findings. To …
+Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬

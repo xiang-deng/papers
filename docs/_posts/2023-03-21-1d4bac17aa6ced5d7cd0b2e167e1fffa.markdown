@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Probing BERT for ranking abilities"
+date:   2023-03-21 04:56:52 -0400
+categories: jekyll update
+author: "J Wallat, F Beringer, A Anand, A Anand - … on Information Retrieval, ECIR 2023, Dublin …, 2023"
+---
+Contextual models like BERT are highly effective in numerous text-ranking tasks. However, it is still unclear as to whether contextual models understand well-established notions of relevance that are central to IR. In this paper, we use probing, a recent approach used to analyze language models, to investigate the ranking abilities of BERT-based rankers. Most of the probing literature has focussed on linguistic and knowledge-aware capabilities of models or axiomatic analysis of …
+Cites: ‪Conditional probing: measuring usable information beyond a …‬
