@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Document-Level Relation Extraction with Distance-Dependent Bias Network and Neighbors Enhanced Loss"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "H Liang, Q Zhou - Advances in Information Retrieval: 45th European …, 2023"
----
-Document-level relation extraction (DocRE), in contrast to sentence-level, requires additional context to be considered. Recent studies, when extracting contextual information about entities, treat information about the whole document equally, which inevitably suffers from irrelevant information. This has been demonstrated to make the model not robust: it predicts correctly when an entire document is fed but errs when non-evidence sentences are removed. In this work, we propose three novel …
-Cites: ‪Question Answering Infused Pre-training of General-Purpose …‬
+--- 
+layout: post 
+title: "Document-Level Relation Extraction with Distance-Dependent Bias Network and Neighbors Enhanced Loss" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "H Liang, Q Zhou - Advances in Information Retrieval: 45th European , 2023" 
+--- 
+Document-level relation extraction (DocRE), in contrast to sentence-level, requires additional context to be considered. Recent studies, when extracting contextual information about entities, treat information about the whole document equally, which inevitably suffers from irrelevant information. This has been demonstrated to make the model not robust: it predicts correctly when an entire document is fed but errs when non-evidence sentences are removed. In this work, we propose three novel  Cites: Question Answering Infused Pre-training of General-Purpose

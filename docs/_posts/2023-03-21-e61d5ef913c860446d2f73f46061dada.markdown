@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain-Aligned Data Augmentation for Low-Resource and Imbalanced Text Classification"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "N Stylianou, D Chatzakou, T Tsikrika, S Vrochidis… - Advances in Information …, 2023"
----
-Data Augmentation approaches often use Language Models, pretrained on large quantities of unlabeled generic data, to conditionally generate examples. However, the generated data can be of subpar quality and struggle to maintain the same characteristics as the original dataset. To this end, we propose a Data Augmentation method for low-resource and imbalanced datasets, by aligning Language Models to in-domain data prior to generating synthetic examples. In particular, we propose the …
-Cites: ‪Polyjuice: Generating counterfactuals for explaining, evaluating …‬
+--- 
+layout: post 
+title: "Domain-Aligned Data Augmentation for Low-Resource and Imbalanced Text Classification" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "N Stylianou, D Chatzakou, T Tsikrika, S Vrochidis - Advances in Information , 2023" 
+--- 
+Data Augmentation approaches often use Language Models, pretrained on large quantities of unlabeled generic data, to conditionally generate examples. However, the generated data can be of subpar quality and struggle to maintain the same characteristics as the original dataset. To this end, we propose a Data Augmentation method for low-resource and imbalanced datasets, by aligning Language Models to in-domain data prior to generating synthetic examples. In particular, we propose the  Cites: Polyjuice: Generating counterfactuals for explaining, evaluating

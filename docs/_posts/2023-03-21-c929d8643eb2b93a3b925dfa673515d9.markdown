@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Topic-aware Multi-hop Machine Reading Comprehension using Weighted Graphs"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "A Mohammadi, R Ramezani, A Baraani - Expert Systems with Applications, 2023"
----
-Abstract The problem of Machine Reading Comprehension (MRC) aims to answer a question based on a natural language context. Multi-hop MRC is a challenging task as it requires a deep comprehension and reasoning of disjoint pieces of information to find the answer. Recently, graph-based methods have become very popular in multi-hop MRC as they well model the problem and ease the reasoning task. However, most existing studies ignore some valuable information of the context. As a …
-Cites: ‪Learning to retrieve reasoning paths over wikipedia graph for …‬
+--- 
+layout: post 
+title: "Topic-aware Multi-hop Machine Reading Comprehension using Weighted Graphs" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "A Mohammadi, R Ramezani, A Baraani - Expert Systems with Applications, 2023" 
+--- 
+Abstract The problem of Machine Reading Comprehension (MRC) aims to answer a question based on a natural language context. Multi-hop MRC is a challenging task as it requires a deep comprehension and reasoning of disjoint pieces of information to find the answer. Recently, graph-based methods have become very popular in multi-hop MRC as they well model the problem and ease the reasoning task. However, most existing studies ignore some valuable information of the context. As a  Cites: Learning to retrieve reasoning paths over wikipedia graph for

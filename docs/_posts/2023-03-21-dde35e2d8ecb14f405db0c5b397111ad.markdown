@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Semi-Supervised Learning by Exploring Per-Sample Uncertainty and Consistency"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "J Lim, J Na, N Kwak - arXiv preprint arXiv:2303.08978, 2023"
----
-Active Learning (AL) and Semi-supervised Learning are two techniques that have been studied to reduce the high cost of deep learning by using a small amount of labeled data and a large amount of unlabeled data. To improve the accuracy of models at a lower cost, we propose a method called Active Semi-supervised Learning (ASSL), which combines AL and SSL. To maximize the synergy between AL and SSL, we focused on the differences between ASSL and AL. ASSL involves …
-Cites: ‪Margin-based active learning for structured output spaces‬
+--- 
+layout: post 
+title: "Active Semi-Supervised Learning by Exploring Per-Sample Uncertainty and Consistency" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "J Lim, J Na, N Kwak - arXiv preprint arXiv:2303.08978, 2023" 
+--- 
+Active Learning (AL) and Semi-supervised Learning are two techniques that have been studied to reduce the high cost of deep learning by using a small amount of labeled data and a large amount of unlabeled data. To improve the accuracy of models at a lower cost, we propose a method called Active Semi-supervised Learning (ASSL), which combines AL and SSL. To maximize the synergy between AL and SSL, we focused on the differences between ASSL and AL. ASSL involves  Cites: Margin-based active learning for structured output spaces

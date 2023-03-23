@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Don t Raise Your Voice, Improve Your Argument: Learning to Retrieve Convincing Arguments"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "S Salamat, N Arabzadeh, A Bigdeli, S Seyedsalehi… - Advances in Information …, 2023"
----
-Abstract The Information Retrieval community has made strides in developing neural rankers, which have show strong retrieval effectiveness on large-scale gold standard datasets. The focus of existing neural rankers has primarily been on measuring the relevance of a document or passage to the user query. However, other considerations such as the convincingness of the content are not taken into account when retrieving content. We present a large gold standard dataset, referred to as …
-Cites: ‪Few-shot conversational dense retrieval‬
+--- 
+layout: post 
+title: "Don t Raise Your Voice, Improve Your Argument: Learning to Retrieve Convincing Arguments" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "S Salamat, N Arabzadeh, A Bigdeli, S Seyedsalehi - Advances in Information , 2023" 
+--- 
+Abstract The Information Retrieval community has made strides in developing neural rankers, which have show strong retrieval effectiveness on large-scale gold standard datasets. The focus of existing neural rankers has primarily been on measuring the relevance of a document or passage to the user query. However, other considerations such as the convincingness of the content are not taken into account when retrieving content. We present a large gold standard dataset, referred to as  Cites: Few-shot conversational dense retrieval

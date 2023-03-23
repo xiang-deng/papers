@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sentence Retrieval for Open-Ended Dialogue Using Dual Contextual Modeling"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "I Harel, H Taitelbaum, I Szpektor, O Kurland - … , ECIR 2023, Dublin, Ireland, April 2–6 …, 2023"
----
-We address the task of retrieving sentences for an open domain dialogue that contain information useful for generating the next turn. We propose several novel neural retrieval architectures based on dual contextual modeling: the dialogue context and the context of the sentence in its ambient document. The architectures utilize contextualized language models (BERT), fine-tuned on a large-scale dataset constructed from Reddit. We evaluate the models using a recently published dataset …
-Cites: ‪FlowQA: Grasping flow in history for conversational machine …‬
+--- 
+layout: post 
+title: "Sentence Retrieval for Open-Ended Dialogue Using Dual Contextual Modeling" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "I Harel, H Taitelbaum, I Szpektor, O Kurland - , ECIR 2023, Dublin, Ireland, April 26 , 2023" 
+--- 
+We address the task of retrieving sentences for an open domain dialogue that contain information useful for generating the next turn. We propose several novel neural retrieval architectures based on dual contextual modeling: the dialogue context and the context of the sentence in its ambient document. The architectures utilize contextualized language models (BERT), fine-tuned on a large-scale dataset constructed from Reddit. We evaluate the models using a recently published dataset  Cites: FlowQA: Grasping flow in history for conversational machine

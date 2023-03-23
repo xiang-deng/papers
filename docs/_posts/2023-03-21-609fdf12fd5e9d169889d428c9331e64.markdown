@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aspect-Based Sentiment Analysis with Dependency Relation Weighted Graph Attention"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "T Jiang, Z Wang, M Yang, C Li - Information, 2023"
----
-Aspect-based sentiment analysis is a fine-grained sentiment analysis that focuses on the sentiment polarity of different aspects of text, and most current research methods use a combination of dependent syntactic analysis and graphical neural networks. In this paper, a graph attention network aspect-based sentiment analysis model based on the weighting of dependencies (WGAT) is designed to address the problem in that traditional models do not sufficiently analyse the types of syntactic dependencies; in …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "Aspect-Based Sentiment Analysis with Dependency Relation Weighted Graph Attention" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "T Jiang, Z Wang, M Yang, C Li - Information, 2023" 
+--- 
+Aspect-based sentiment analysis is a fine-grained sentiment analysis that focuses on the sentiment polarity of different aspects of text, and most current research methods use a combination of dependent syntactic analysis and graphical neural networks. In this paper, a graph attention network aspect-based sentiment analysis model based on the weighting of dependencies (WGAT) is designed to address the problem in that traditional models do not sufficiently analyse the types of syntactic dependencies; in  Cites: Aspect level sentiment classification with deep memory network

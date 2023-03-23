@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Query-Space Document Representations for High-Recall Retrieval"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "S Salamat, N Arabzadeh, F Zarrinkalam, M Zihayat… - Advances in Information …, 2023"
----
-Recent studies have shown that significant performance improvements reported by neural rankers do not necessarily extend to a diverse range of queries. There is a large set of queries that cannot be effectively addressed by neural rankers primarily because relevant documents to these queries are not identified by first-stage retrievers. In this paper, we propose a novel document representation approach that represents documents within the query space, and hence increases the likelihood of …
-Cites: ‪Multi-stage document ranking with BERT‬
+--- 
+layout: post 
+title: "Learning Query-Space Document Representations for High-Recall Retrieval" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "S Salamat, N Arabzadeh, F Zarrinkalam, M Zihayat - Advances in Information , 2023" 
+--- 
+Recent studies have shown that significant performance improvements reported by neural rankers do not necessarily extend to a diverse range of queries. There is a large set of queries that cannot be effectively addressed by neural rankers primarily because relevant documents to these queries are not identified by first-stage retrievers. In this paper, we propose a novel document representation approach that represents documents within the query space, and hence increases the likelihood of  Cites: Multi-stage document ranking with BERT

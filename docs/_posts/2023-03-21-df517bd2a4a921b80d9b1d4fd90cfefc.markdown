@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ART: Automatic multi-step reasoning and tool-use for large language models"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "B Paranjape, S Lundberg, S Singh, H Hajishirzi… - arXiv preprint arXiv …, 2023"
----
-Large language models (LLMs) can perform complex reasoning in few-and zero-shot settings by generating intermediate chain of thought (CoT) reasoning steps. Further, each reasoning step can rely on external tools to support computation beyond the core LLM capabilities (eg search/running code). Prior work on CoT prompting and tool use typically requires hand-crafting task-specific demonstrations and carefully scripted interleaving of model generations with tool use. We introduce Automatic …
-Cites: ‪Scaling instruction-finetuned language models‬
+--- 
+layout: post 
+title: "ART: Automatic multi-step reasoning and tool-use for large language models" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "B Paranjape, S Lundberg, S Singh, H Hajishirzi - arXiv preprint arXiv , 2023" 
+--- 
+Large language models (LLMs) can perform complex reasoning in few-and zero-shot settings by generating intermediate chain of thought (CoT) reasoning steps. Further, each reasoning step can rely on external tools to support computation beyond the core LLM capabilities (eg search/running code). Prior work on CoT prompting and tool use typically requires hand-crafting task-specific demonstrations and carefully scripted interleaving of model generations with tool use. We introduce Automatic  Cites: Scaling instruction-finetuned language models

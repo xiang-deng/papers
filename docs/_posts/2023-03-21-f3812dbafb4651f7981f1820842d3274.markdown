@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement"
-date:   2023-03-21 04:56:52 -0400
-categories: jekyll update
-author: "F Faghri, H Pouransari, S Mehta, M Farajtabar… - arXiv preprint arXiv …, 2023"
----
-We propose Dataset Reinforcement, a strategy to improve a dataset once such that the accuracy of any model architecture trained on the reinforced dataset is improved at no additional training cost for users. We propose a Dataset Reinforcement strategy based on data augmentation and knowledge distillation. Our generic strategy is designed based on extensive analysis across CNN-and transformer-based models and performing large-scale study of distillation with state-of-the-art models with …
-Cites: ‪On the opportunities and risks of foundation models‬
+--- 
+layout: post 
+title: "Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement" 
+date: 2023-03-21 04:56:52 -0400 
+categories: jekyll update 
+author: "F Faghri, H Pouransari, S Mehta, M Farajtabar - arXiv preprint arXiv , 2023" 
+--- 
+We propose Dataset Reinforcement, a strategy to improve a dataset once such that the accuracy of any model architecture trained on the reinforced dataset is improved at no additional training cost for users. We propose a Dataset Reinforcement strategy based on data augmentation and knowledge distillation. Our generic strategy is designed based on extensive analysis across CNN-and transformer-based models and performing large-scale study of distillation with state-of-the-art models with  Cites: On the opportunities and risks of foundation models
