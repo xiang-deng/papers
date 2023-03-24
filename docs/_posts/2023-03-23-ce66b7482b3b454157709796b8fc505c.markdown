@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Does Noise Really Matter? Investigation into the Influence of Noisy Labels on Bert-Based Question Answering System"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "D Alexandrov, A Zakharova, N Butakov - 2023 IEEE 17th International Conference on …, 2023"
+---
+Recent works with the BERT-based models demonstrate their generalization ability and high performance on the new domain tasks. However, this kind of model requires a large amount of data. Collecting this data can be error-prone, and it is important to know: how the errors in data affect the quality of the model. In this work, we study the impact of data with different errors-noisy data on the training of the question answering-over-text BERT-model. We use the concept of random …
+Cites: ‪Latent retrieval for weakly supervised open domain question …‬

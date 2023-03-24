@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unit Scaling: Out-of-the-Box Low-Precision Training"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "C Blake, D Orr, C Luschi - arXiv preprint arXiv:2303.11257, 2023"
+---
+We present unit scaling, a paradigm for designing deep learning models that simplifies the use of low-precision number formats. Training in FP16 or the recently proposed FP8 formats offers substantial efficiency gains, but can lack sufficient range for out-of-the-box training. Unit scaling addresses this by introducing a principled approach to model numerics: seeking unit variance of all weights, activations and gradients at initialisation. Unlike alternative methods, this approach neither requires …
+Cites: ‪Emergent abilities of large language models‬

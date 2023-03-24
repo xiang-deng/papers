@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Graph-to-Sequence Model for Joint Intent Detection and Slot Filling"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "J Wu, IG Harris, H Zhao, G Ling - 2023 IEEE 17th International Conference on …, 2023"
+---
+Effectively decoding semantic frames in task-oriented dialogue systems remains a challenge, which typically includes intent detection and slot filling. Although RNN-based neural models show promising results by joint learning of these two tasks, dominant RNNs are primarily focusing on modeling sequential dependencies. Rich graph structure information hidden in the dialogue context is seldom explored. In this paper, we propose a novel Graph-to-Sequence model to tackle the spoken language …
+Cites: ‪Long short-term memory-networks for machine reading‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Zero-Shot Inference with Unsupervised Key-Sentences Extraction"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "LFAO Pellicer, AHR Costa - 2023 IEEE 17th International Conference on Semantic …, 2023"
+---
+In many text applications, low availability of labeled data is common, which makes training machine learning models unfeasible. Many approaches have been proposed to try to circumvent this limitation, with emphasis on zero-shot models. Zero-shot models can perform inference without training. However, they tend to have lower performance in long texts. In this work, we propose to apply an unsupervised technique to rank the most relevant sentences of the long text and apply zero-shot …
+Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬

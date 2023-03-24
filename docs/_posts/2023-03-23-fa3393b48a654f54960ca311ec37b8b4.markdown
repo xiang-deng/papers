@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PASS: Peer-Agreement based Sample Selection for training with Noisy Labels"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "A Garg, C Nguyen, R Felix, TT Do, G Carneiro - arXiv preprint arXiv:2303.10802, 2023"
+---
+Noisy labels present a significant challenge in deep learning because models are prone to overfitting. This problem has driven the development of sophisticated techniques to address the issue, with one critical component being the selection of clean and noisy label samples. Selecting noisy label samples is commonly based on the small-loss hypothesis or on feature-based sampling, but we present empirical evidence that shows that both strategies struggle to differentiate between noisy label …
+Cites: ‪Adversarial filters of dataset biases‬

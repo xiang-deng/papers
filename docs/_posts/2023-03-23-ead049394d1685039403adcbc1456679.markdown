@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Multi-task Transformer with Relation-attention and Type-attention for Named Entity Recognition"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "Y Mo, H Tang, J Liu, Q Wang, Z Xu, J Wang, W Wu, Z Li - arXiv preprint arXiv …, 2023"
+---
+Named entity recognition (NER) is an important research problem in natural language processing. There are three types of NER tasks, including flat, nested and discontinuous entity recognition. Most previous sequential labeling models are task-specific, while recent years have witnessed the rising of generative models due to the advantage of unifying all NER tasks into the seq2seq model framework. Although achieving promising performance, our pilot studies demonstrate that existing …
+Cites: ‪Combining spans into entities: A neural two-stage approach for …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PFSL: Personalized & Fair Split Learning with Data & Label Privacy for thin clients"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "M Wadhwa, GR Gupta, A Sahu, R Saini, V Mittal - arXiv preprint arXiv:2303.10624, 2023"
+---
+The traditional framework of federated learning (FL) requires each client to re-train their models in every iteration, making it infeasible for resource-constrained mobile devices to train deep-learning (DL) models. Split learning (SL) provides an alternative by using a centralized server to offload the computation of activations and gradients for a subset of the model but suffers from problems of slow convergence and lower accuracy. In this paper, we implement PFSL, a new framework of …
+Cites: ‪The unreasonable effectiveness of data‬

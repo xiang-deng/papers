@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DORIC: Domain Robust Fine-Tuning for Open Intent Clustering through Dependency Parsing"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "J Lee, S Seo, Y Kim, GG Lee - arXiv preprint arXiv:2303.09827, 2023"
+---
+We present our work on Track 2 in the Dialog System Technology Challenges 11 (DSTC11). DSTC11-Track2 aims to provide a benchmark for zero-shot, cross-domain, intent-set induction. In the absence of in-domain training dataset, robust utterance representation that can be used across domains is necessary to induce users  intentions. To achieve this, we leveraged a multi-domain dialogue dataset to fine-tune the language model and proposed extracting Verb-Object pairs to remove …
+Cites: ‪TOD-BERT: Pre-trained natural language understanding for task …‬

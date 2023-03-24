@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PanGu-{\Sigma}: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "X Ren, P Zhou, X Meng, X Huang, Y Wang, W Wang… - arXiv preprint arXiv …, 2023"
+---
+The scaling of large language models has greatly improved natural language understanding, generation, and reasoning. In this work, we develop a system that trained a trillion-parameter language model on a cluster of Ascend 910 AI processors and MindSpore framework, and present the language model with 1.085 T parameters named PanGu-{\Sigma}. With parameter inherent from PanGu-{\alpha}, we extend the dense Transformer model to sparse one with Random Routed Experts …
+Cites: ‪CPM: A large-scale generative Chinese pre-trained language model‬

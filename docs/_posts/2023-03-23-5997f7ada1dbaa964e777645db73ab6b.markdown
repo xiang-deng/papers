@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Context-faithful Prompting for Large Language Models"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "W Zhou, S Zhang, H Poon, M Chen - arXiv preprint arXiv:2303.11315, 2023"
+---
+Large language models (LLMs) encode parametric knowledge about world facts and have shown remarkable performance in knowledge-driven NLP tasks. However, their reliance on parametric knowledge may cause them to overlook contextual cues, leading to incorrect predictions in context-sensitive NLP tasks (eg, knowledge acquisition tasks). In this paper, we seek to assess and enhance LLMs  contextual faithfulness in two aspects: knowledge conflict and prediction with abstention. We …
+Cites: ‪Natural questions: a benchmark for question answering research‬

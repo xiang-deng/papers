@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TypeT5: Seq2seq Type Inference using Static Analysis"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "J Wei, G Durrett, I Dillig - arXiv preprint arXiv:2303.09564, 2023"
+---
+There has been growing interest in automatically predicting missing type annotations in programs written in Python and JavaScript. While prior methods have achieved impressive accuracy when predicting the most common types, they often perform poorly on rare or complex types. In this paper, we present a new type inference method that treats type prediction as a code infilling task by leveraging CodeT5, a state-of-the-art seq2seq pre-trained language model for code. Our method uses …
+Cites: ‪Lambdanet: Probabilistic type inference using graph neural networks‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimizing ML Inference Queries under Constraints"
+date:   2023-03-23 03:27:25 -0400
+categories: jekyll update
+author: "ZLMSW Sun, M Fragkoulis, R Hai, ABA Katsifodimos"
+---
+Machine Learning (ML) inference queries enable the execution of complex predicates over databases and streams of unstructured content. The increasing availability of ML model zoos allows for the reuse of pre-trained models in ad-hoc ML inference queries. But the problem of model assignment to the predicates is hard, especially when constraints (eg accuracy or execution time) have to be satisfied, and the complexity of the query increases. We propose a method for optimizing ML …
+Cites: ‪Physical representation-based predicate optimization for a visual …‬
