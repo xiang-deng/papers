@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "C Gemmell, J Dalton - arXiv preprint arXiv:2303.10138, 2023"
----
-Tabular question answering (TQA) presents a challenging setting for neural systems by requiring joint reasoning of natural language with large amounts of semi-structured data. Unlike humans who use programmatic tools like filters to transform data before processing, language models in TQA process tables directly, resulting in information loss as table size increases. In this paper we propose ToolWriter to generate query specific programs and detect when to apply them to transform tables …
-Cites: ‪Coarse-to-fine decoding for neural semantic parsing‬
+--- 
+layout: post 
+title: "Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "C Gemmell, J Dalton - arXiv preprint arXiv:2303.10138, 2023" 
+--- 
+Tabular question answering (TQA) presents a challenging setting for neural systems by requiring joint reasoning of natural language with large amounts of semi-structured data. Unlike humans who use programmatic tools like filters to transform data before processing, language models in TQA process tables directly, resulting in information loss as table size increases. In this paper we propose ToolWriter to generate query specific programs and detect when to apply them to transform tables  Cites: Coarse-to-fine decoding for neural semantic parsing

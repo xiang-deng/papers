@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "Q Zhang, M Chen, A Bukharin, P He, Y Cheng, W Chen… - arXiv preprint arXiv …, 2023"
----
-Fine-tuning large pre-trained language models on downstream tasks has become an important paradigm in NLP. However, common practice fine-tunes all of the parameters in a pre-trained model, which becomes prohibitive when a large number of downstream tasks are present. Therefore, many fine-tuning methods are proposed to learn incremental updates of pre-trained weights in a parameter efficient way, eg, low-rank increments. These methods often evenly distribute the budget of …
-Cites: ‪Don t give me the details, just the summary! topic-aware …‬
+--- 
+layout: post 
+title: "Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "Q Zhang, M Chen, A Bukharin, P He, Y Cheng, W Chen - arXiv preprint arXiv , 2023" 
+--- 
+Fine-tuning large pre-trained language models on downstream tasks has become an important paradigm in NLP. However, common practice fine-tunes all of the parameters in a pre-trained model, which becomes prohibitive when a large number of downstream tasks are present. Therefore, many fine-tuning methods are proposed to learn incremental updates of pre-trained weights in a parameter efficient way, eg, low-rank increments. These methods often evenly distribute the budget of  Cites: Don t give me the details, just the summary! topic-aware

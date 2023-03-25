@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "H Wang, W Xiong, Y Song, D Zhu, Y Xia, S Li - arXiv preprint arXiv:2303.11141, 2023"
----
-Joint entity and relation extraction (JERE) is one of the most important tasks in information extraction. However, most existing works focus on sentence-level coarse-grained JERE, which have limitations in real-world scenarios. In this paper, we construct a large-scale document-level fine-grained JERE dataset DocRED-FE, which improves DocRED with Fine-Grained Entity Type. Specifically, we redesign a hierarchical entity type schema including 11 coarse-grained types and 119 fine …
-Cites: ‪Few-NERD: A Few-Shot Named Entity Recognition Dataset‬
+--- 
+layout: post 
+title: "DocRED-FE: A Document-Level Fine-Grained Entity And Relation Extraction Dataset" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "H Wang, W Xiong, Y Song, D Zhu, Y Xia, S Li - arXiv preprint arXiv:2303.11141, 2023" 
+--- 
+Joint entity and relation extraction (JERE) is one of the most important tasks in information extraction. However, most existing works focus on sentence-level coarse-grained JERE, which have limitations in real-world scenarios. In this paper, we construct a large-scale document-level fine-grained JERE dataset DocRED-FE, which improves DocRED with Fine-Grained Entity Type. Specifically, we redesign a hierarchical entity type schema including 11 coarse-grained types and 119 fine  Cites: Few-NERD: A Few-Shot Named Entity Recognition Dataset

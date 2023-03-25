@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Unified Continual Learning Framework with General Parameter-Efficient Tuning"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "Q Gao, C Zhao, Y Sun, T Xi, G Zhang, B Ghanem… - arXiv preprint arXiv …, 2023"
----
-The  pre-training $\rightarrow $ downstream adaptation  presents both new opportunities and challenges for Continual Learning (CL). Although the recent state-of-the-art in CL is achieved through Parameter-Efficient-Tuning (PET) adaptation paradigm, only prompt has been explored, limiting its application to Transformers only. In this paper, we position prompting as one instantiation of PET, and propose a unified CL framework with general PET, dubbed as Learning-Accumulation …
-Cites: ‪Learn to grow: A continual structure learning framework for …‬
+--- 
+layout: post 
+title: "A Unified Continual Learning Framework with General Parameter-Efficient Tuning" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "Q Gao, C Zhao, Y Sun, T Xi, G Zhang, B Ghanem - arXiv preprint arXiv , 2023" 
+--- 
+The pre-training $\rightarrow $ downstream adaptation presents both new opportunities and challenges for Continual Learning (CL). Although the recent state-of-the-art in CL is achieved through Parameter-Efficient-Tuning (PET) adaptation paradigm, only prompt has been explored, limiting its application to Transformers only. In this paper, we position prompting as one instantiation of PET, and propose a unified CL framework with general PET, dubbed as Learning-Accumulation  Cites: Learn to grow: A continual structure learning framework for

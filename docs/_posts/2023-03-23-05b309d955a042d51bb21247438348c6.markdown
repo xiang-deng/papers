@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LION: Implicit Vision Prompt Tuning"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "H Wang, J Chang, X Luo, J Sun, Z Lin, Q Tian - arXiv preprint arXiv:2303.09992, 2023"
----
-Despite recent competitive performance across a range of vision tasks, vision Transformers still have an issue of heavy computational costs. Recently, vision prompt learning has provided an economic solution to this problem without fine-tuning the whole large-scale models. However, the efficiency of existing models are still far from satisfactory due to insertion of extensive prompts blocks and trick prompt designs. In this paper, we propose an efficient vision model named impLicit vIsion …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "LION: Implicit Vision Prompt Tuning" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "H Wang, J Chang, X Luo, J Sun, Z Lin, Q Tian - arXiv preprint arXiv:2303.09992, 2023" 
+--- 
+Despite recent competitive performance across a range of vision tasks, vision Transformers still have an issue of heavy computational costs. Recently, vision prompt learning has provided an economic solution to this problem without fine-tuning the whole large-scale models. However, the efficiency of existing models are still far from satisfactory due to insertion of extensive prompts blocks and trick prompt designs. In this paper, we propose an efficient vision model named impLicit vIsion  Cites: Making Pre-trained Language Models Better Few-shot Learners

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Towards Reliable Neural Machine Translation with Consistency-Aware Meta-Learning"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "R Weng, Q Wang, W Cheng, C Zhu, M Zhang - arXiv preprint arXiv:2303.10966, 2023"
----
-Neural machine translation (NMT) has achieved remarkable success in producing high-quality translations. However, current NMT systems suffer from a lack of reliability, as their outputs that are often affected by lexical or syntactic changes in inputs, resulting in large variations in quality. This limitation hinders the practicality and trustworthiness of NMT. A contributing factor to this problem is that NMT models trained with the one-to-one paradigm struggle to handle the source diversity …
-Cites: ‪Balancing Training for Multilingual Neural Machine Translation‬

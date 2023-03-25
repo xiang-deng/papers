@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Koreferenciafeloldás magyar szövegeken BERT-tel"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "V Noémi, N Bence"
----
-Kivonat A cikk egy kísérletet mutat be, amelyben összevonva használtunk két koreferenciakorpuszt a magyar BERT modell finomhangolásához, amivel magyar szövegeken lehet koreferenciafeloldást végezni. A cikk ismerteti a kísérletünk lépéseit a korpuszok előkészítésétől és felhasználásától a BERT modell finomhangolásán keresztül az eredmények kiértékeléséig. A koreferenciafeloldót szabadon hozzáférhetővé tettük. Kulcsszavak: BERT, finomhangolás, koreferencia
-Cites: ‪Higher-order Coreference Resolution with Coarse-to-fine Inference‬
+--- 
+layout: post 
+title: "Koreferenciafelolds magyar szvegeken BERT-tel" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "V Nomi, N Bence" 
+--- 
+Kivonat A cikk egy ksrletet mutat be, amelyben sszevonva hasznltunk kt koreferenciakorpuszt a magyar BERT modell finomhangolshoz, amivel magyar szvegeken lehet koreferenciafeloldst vgezni. A cikk ismerteti a ksrletnk lpseit a korpuszok elksztstl s felhasznlstl a BERT modell finomhangolsn keresztl az eredmnyek kirtkelsig. A koreferenciafeloldt szabadon hozzfrhetv tettk. Kulcsszavak: BERT, finomhangols, koreferencia  Cites: Higher-order Coreference Resolution with Coarse-to-fine Inference

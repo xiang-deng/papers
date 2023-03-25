@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Trainable Projected Gradient Method for Robust Fine-tuning"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "J Tian, X Dai, CY Ma, Z He, YC Liu, Z Kira - arXiv preprint arXiv:2303.10720, 2023"
----
-Recent studies on transfer learning have shown that selectively fine-tuning a subset of layers or customizing different learning rates for each layer can greatly improve robustness to out-of-distribution (OOD) data and retain generalization capability in the pre-trained models. However, most of these methods employ manually crafted heuristics or expensive hyper-parameter searches, which prevent them from scaling up to large datasets and neural networks. To solve this problem, we propose …
-Cites: ‪Surgical fine-tuning improves adaptation to distribution shifts‬

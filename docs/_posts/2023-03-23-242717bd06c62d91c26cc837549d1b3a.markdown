@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta-relation assisted knowledge-aware coupled graph neural network for recommendation"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "Y Chang, W Zhou, H Cai, W Fan, L Hu, J Wen - Information Processing & …, 2023"
----
-Currently, the sparsity of user–item interaction data limits the performance of recommender systems. To alleviate the problems caused by data sparsity, researchers are devoted to designing more powerful graph neural network models to fuse the auxiliary information of users and items (social relationships, item dependencies, etc.). However, the lack of in-depth exploration of auxiliary information and the lack of optimization of the spatially distributed properties of the …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "Meta-relation assisted knowledge-aware coupled graph neural network for recommendation" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "Y Chang, W Zhou, H Cai, W Fan, L Hu, J Wen - Information Processing & , 2023" 
+--- 
+Currently, the sparsity of useritem interaction data limits the performance of recommender systems. To alleviate the problems caused by data sparsity, researchers are devoted to designing more powerful graph neural network models to fuse the auxiliary information of users and items (social relationships, item dependencies, etc.). However, the lack of in-depth exploration of auxiliary information and the lack of optimization of the spatially distributed properties of the  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Value-aware meta-transfer learning and convolutional mask attention networks for reservoir identification with limited data"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "B Chen, X Zeng, J Zhou, W Zhang, S Cao, B Zhang - Expert Systems with Applications, 2023"
----
-Reservoir identification is important for reservoir evaluation and petroleum development. Existing methods cannot automatically identify the categories of the reservoir that exhibit:(a) local features differences of well logging data;(b) limited with non-reservoir interference; and (c) insufficient real labels. Transfer learning-based methods utilize other blocks partially address the problem of small samples. However, they ignore the significant geological differences between blocks …
-Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬
+--- 
+layout: post 
+title: "Value-aware meta-transfer learning and convolutional mask attention networks for reservoir identification with limited data" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "B Chen, X Zeng, J Zhou, W Zhang, S Cao, B Zhang - Expert Systems with Applications, 2023" 
+--- 
+Reservoir identification is important for reservoir evaluation and petroleum development. Existing methods cannot automatically identify the categories of the reservoir that exhibit:(a) local features differences of well logging data;(b) limited with non-reservoir interference; and (c) insufficient real labels. Transfer learning-based methods utilize other blocks partially address the problem of small samples. However, they ignore the significant geological differences between blocks  Cites: Coatnet: Marrying convolution and attention for all data sizes

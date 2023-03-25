@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SIESTA: Efficient Online Continual Learning with Sleep"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "MY Harun, J Gallardo, TL Hayes, R Kemker, C Kanan - arXiv preprint arXiv …, 2023"
----
-In supervised continual learning, a deep neural network (DNN) is updated with an ever-growing data stream. Unlike the offline setting where data is shuffled, we cannot make any distributional assumptions about the data stream. Ideally, only one pass through the dataset is needed for computational efficiency. However, existing methods are inadequate and make many assumptions that cannot be made for real-world applications, while simultaneously failing to improve computational efficiency …
-Cites: ‪Carbon emissions and large neural network training‬
+--- 
+layout: post 
+title: "SIESTA: Efficient Online Continual Learning with Sleep" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "MY Harun, J Gallardo, TL Hayes, R Kemker, C Kanan - arXiv preprint arXiv , 2023" 
+--- 
+In supervised continual learning, a deep neural network (DNN) is updated with an ever-growing data stream. Unlike the offline setting where data is shuffled, we cannot make any distributional assumptions about the data stream. Ideally, only one pass through the dataset is needed for computational efficiency. However, existing methods are inadequate and make many assumptions that cannot be made for real-world applications, while simultaneously failing to improve computational efficiency  Cites: Carbon emissions and large neural network training

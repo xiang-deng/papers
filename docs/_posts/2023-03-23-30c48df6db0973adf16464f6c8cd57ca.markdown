@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Proposal of a Framework to Improve the Efficiency of the Implementation Step in Test Driven Development (TDD)"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "T Miyashita, T Katayama, Y Kita, H Yamaba, K Aburada… - 2023"
----
-TDD is a development methodology that brings us closer to better implementation and testing by repeating a series of steps: test design, implementation that satisfies the tests, and refactoring. This paper proposes a framework aimed at supporting the implementation steps in TDD. The proposed framework generates source code that passes tests while retaining refactoring by the developer. The prototyped framework reduced the time required for the implementation process by 94.22% and the …
-Cites: ‪A syntactic neural model for general-purpose code generation‬
+--- 
+layout: post 
+title: "Proposal of a Framework to Improve the Efficiency of the Implementation Step in Test Driven Development (TDD)" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "T Miyashita, T Katayama, Y Kita, H Yamaba, K Aburada - 2023" 
+--- 
+TDD is a development methodology that brings us closer to better implementation and testing by repeating a series of steps: test design, implementation that satisfies the tests, and refactoring. This paper proposes a framework aimed at supporting the implementation steps in TDD. The proposed framework generates source code that passes tests while retaining refactoring by the developer. The prototyped framework reduced the time required for the implementation process by 94.22% and the  Cites: A syntactic neural model for general-purpose code generation

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Quantum-Inspired Fully Complex-Valued Neutral Network for Sentiment Analysis"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "W Lai, J Shi, Y Chang - Axioms, 2023"
----
-Most of the existing quantum-inspired models are based on amplitude-phase embedding to model natural language, which maps words into Hilbert space. In quantum-computing theory, the vectors corresponding to quantum states are all complex values, so there is a gap between these two areas. Presently, complex-valued neural networks have been studied, but their practical applications are few, let alone in the downstream tasks of natural language processing such as sentiment …
-Cites: ‪Deep contextualized word representations. arXiv 2018‬
+--- 
+layout: post 
+title: "Quantum-Inspired Fully Complex-Valued Neutral Network for Sentiment Analysis" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "W Lai, J Shi, Y Chang - Axioms, 2023" 
+--- 
+Most of the existing quantum-inspired models are based on amplitude-phase embedding to model natural language, which maps words into Hilbert space. In quantum-computing theory, the vectors corresponding to quantum states are all complex values, so there is a gap between these two areas. Presently, complex-valued neural networks have been studied, but their practical applications are few, let alone in the downstream tasks of natural language processing such as sentiment  Cites: Deep contextualized word representations. arXiv 2018

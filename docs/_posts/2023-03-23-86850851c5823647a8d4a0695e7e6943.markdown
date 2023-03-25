@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPDF: Sparse Pre-training and Dense Fine-tuning for Large Language Models"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "V Thangarasa, A Gupta, W Marshall, T Li, K Leong… - arXiv preprint arXiv …, 2023"
----
-The pre-training and fine-tuning paradigm has contributed to a number of breakthroughs in Natural Language Processing (NLP). Instead of directly training on a downstream task, language models are first pre-trained on large datasets with cross-domain knowledge (eg, Pile, MassiveText, etc.) and then fine-tuned on task-specific data (eg, natural language generation, text summarization, etc.). Scaling the model and dataset size has helped improve the performance of LLMs, but …
-Cites: ‪Intrinsic dimensionality explains the effectiveness of language …‬
+--- 
+layout: post 
+title: "SPDF: Sparse Pre-training and Dense Fine-tuning for Large Language Models" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "V Thangarasa, A Gupta, W Marshall, T Li, K Leong - arXiv preprint arXiv , 2023" 
+--- 
+The pre-training and fine-tuning paradigm has contributed to a number of breakthroughs in Natural Language Processing (NLP). Instead of directly training on a downstream task, language models are first pre-trained on large datasets with cross-domain knowledge (eg, Pile, MassiveText, etc.) and then fine-tuned on task-specific data (eg, natural language generation, text summarization, etc.). Scaling the model and dataset size has helped improve the performance of LLMs, but  Cites: Intrinsic dimensionality explains the effectiveness of language

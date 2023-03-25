@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "R Lou, K Zhang, W Yin - arXiv preprint arXiv:2303.10475, 2023"
----
-Task semantics can be expressed by a set of input-to-output examples or a piece of textual instruction. Conventional machine learning approaches for natural language processing (NLP) mainly rely on the availability of large-scale sets of task-specific examples. Two issues arise: first, collecting task-specific labeled examples does not apply to scenarios where tasks may be too complicated or costly to annotate, or the system is required to handle a new task immediately; second, this is not user-friendly …
-Cites: ‪Chain of thought prompting elicits reasoning in large language …‬
+--- 
+layout: post 
+title: "Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "R Lou, K Zhang, W Yin - arXiv preprint arXiv:2303.10475, 2023" 
+--- 
+Task semantics can be expressed by a set of input-to-output examples or a piece of textual instruction. Conventional machine learning approaches for natural language processing (NLP) mainly rely on the availability of large-scale sets of task-specific examples. Two issues arise: first, collecting task-specific labeled examples does not apply to scenarios where tasks may be too complicated or costly to annotate, or the system is required to handle a new task immediately; second, this is not user-friendly  Cites: Chain of thought prompting elicits reasoning in large language

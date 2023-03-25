@@ -1,9 +1,0 @@
----
-layout: post
-title:  "SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "S Park, S Chun, B Heo, W Kim, S Yun - arXiv preprint arXiv:2303.11114, 2023"
----
-We need billion-scale images to achieve more generalizable and ground-breaking vision models, as well as massive dataset storage to ship the images (eg, the LAION-4B dataset needs 240TB storage space). However, it has become challenging to deal with unlimited dataset storage with limited storage infrastructure. A number of storage-efficient training methods have been proposed to tackle the problem, but they are rarely scalable or suffer from severe damage to performance. In this paper …
-Cites: ‪Scaling up visual and vision-language representation learning with …‬

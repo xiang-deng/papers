@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Robustifying likelihoods by optimistically re-weighting data"
-date:   2023-03-23 03:27:25 -0400
-categories: jekyll update
-author: "M Dewaskar, C Tosh, J Knoblauch, DB Dunson - arXiv preprint arXiv:2303.10525, 2023"
----
-Likelihood-based inferences have been remarkably successful in wide-spanning application areas. However, even after due diligence in selecting a good model for the data at hand, there is inevitably some amount of model misspecification: outliers, data contamination or inappropriate parametric assumptions such as Gaussianity mean that most models are at best rough approximations of reality. A significant practical concern is that for certain inferences, even small amounts of model …
-Cites: ‪Unified expectation maximization‬
+--- 
+layout: post 
+title: "Robustifying likelihoods by optimistically re-weighting data" 
+date: 2023-03-23 03:27:25 -0400 
+categories: jekyll update 
+author: "M Dewaskar, C Tosh, J Knoblauch, DB Dunson - arXiv preprint arXiv:2303.10525, 2023" 
+--- 
+Likelihood-based inferences have been remarkably successful in wide-spanning application areas. However, even after due diligence in selecting a good model for the data at hand, there is inevitably some amount of model misspecification: outliers, data contamination or inappropriate parametric assumptions such as Gaussianity mean that most models are at best rough approximations of reality. A significant practical concern is that for certain inferences, even small amounts of model  Cites: Unified expectation maximization
