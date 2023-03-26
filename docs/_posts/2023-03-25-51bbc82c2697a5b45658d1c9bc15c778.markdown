@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "D Taunk, L Khanna, P Kandru, V Varma, C Sharma… - arXiv preprint arXiv …, 2023"
+---
+Commonsense question-answering (QA) methods combine the power of pre-trained Language Models (LM) with the reasoning provided by Knowledge Graphs (KG). A typical approach collects nodes relevant to the QA pair from a KG to form a Working Graph (WG) followed by reasoning using Graph Neural Networks (GNNs). This faces two major challenges:(i) it is difficult to capture all the information from the QA in the WG, and (ii) the WG contains some irrelevant nodes from the KG. To address these …
+Cites: ‪GreaseLM: Graph REASoning Enhanced Language Models‬

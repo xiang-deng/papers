@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "F Zhang, B Chen, Y Zhang, J Liu, D Zan, Y Mao… - arXiv preprint arXiv …, 2023"
+---
+The task of repository-level code completion is to continue writing the unfinished code based on a broader context of the repository. While for automated code completion tools, it is difficult to utilize the useful information scattered in different files. We propose RepoCoder, a simple, generic, and effective framework to address the challenge. It streamlines the repository-level code completion process by incorporating a similarity-based retriever and a pre-trained code language model …
+Cites: ‪CoCoMIC: Code Completion By Jointly Modeling In-file and Cross …‬

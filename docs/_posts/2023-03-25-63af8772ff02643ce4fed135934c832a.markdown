@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unsupervised Cross-Domain Rumor Detection with Contrastive Learning and Cross-Attention"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "H Ran, C Jia - arXiv preprint arXiv:2303.11945, 2023"
+---
+Massive rumors usually appear along with breaking news or trending topics, seriously hindering the truth. Existing rumor detection methods are mostly focused on the same domain, and thus have poor performance in cross-domain scenarios due to domain shift. In this work, we propose an end-to-end instance-wise and prototype-wise contrastive learning model with a cross-attention mechanism for cross-domain rumor detection. The model not only performs cross-domain feature alignment but …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

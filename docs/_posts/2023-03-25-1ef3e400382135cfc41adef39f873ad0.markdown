@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Content Retrievability in Search with Controllable Query Generation"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "G Penha, E Palumbo, M Aziz, A Wang, H Bouchard - arXiv preprint arXiv:2303.11648, 2023"
+---
+An important goal of online platforms is to enable content discovery, ie allow users to find a catalog entity they were not familiar with. A pre-requisite to discover an entity, eg a book, with a search engine is that the entity is retrievable, ie there are queries for which the system will surface such entity in the top results. However, machine-learned search engines have a high retrievability bias, where the majority of the queries return the same entities. This happens partly due to the predominance of …
+Cites: ‪Document expansion by query prediction‬

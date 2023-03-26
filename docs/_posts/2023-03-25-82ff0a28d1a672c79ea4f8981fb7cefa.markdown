@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Large Language Models and Simple, Stupid Bugs"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "K Jesse, T Ahmed, PT Devanbu, E Morgan - arXiv preprint arXiv:2303.11455, 2023"
+---
+With the advent of powerful neural language models, AI-based systems to assist developers in coding tasks are becoming widely available; Copilot is one such system. Copilot uses Codex, a large language model (LLM), to complete code conditioned on a preceding  prompt . Codex, however, is trained on public GitHub repositories, viz., on code that may include bugs and vulnerabilities. Previous studies [1],[2] show Codex reproduces vulnerabilities seen in training. In this study, we …
+Cites: ‪A Systematic Evaluation of Large Language Models of Code‬

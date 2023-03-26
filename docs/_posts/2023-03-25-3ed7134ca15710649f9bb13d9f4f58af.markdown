@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Greedy Pruning with Group Lasso Provably Generalizes for Matrix Sensing and Neural Networks with Quadratic Activations"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "N Rajaraman, A Mokhtari, K Ramchandran - arXiv preprint arXiv:2303.11453, 2023"
+---
+Pruning schemes have been widely used in practice to reduce the complexity of trained models with a massive number of parameters. Several practical studies have shown that pruning an overparameterized model and fine-tuning generalizes well to new samples. Although the above pipeline, which we refer to as pruning+ fine-tuning, has been extremely successful in lowering the complexity of trained models, there is very little known about the theory behind this success. In this paper we …
+Cites: ‪Good subnetworks provably exist: Pruning via greedy forward …‬

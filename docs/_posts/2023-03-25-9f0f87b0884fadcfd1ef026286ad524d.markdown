@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Named Entity Recognition Networks Based on Syntactically Constrained Attention"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "W Sun, S Liu, Y Liu, L Kong, Z Jian - Applied Sciences, 2023"
+---
+The task of named entity recognition can be transformed into a machine reading comprehension task by associating the query and its context, which contains entity information, with the encoding layer. In this process, the model learns a priori knowledge about the entity, from the query, to achieve good results. However, as the length of the context and query increases, the model struggles with an increasing number of less relevant words, which can distract it from the task. Although attention …
+Cites: ‪Deep contextualized word representations‬

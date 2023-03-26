@@ -5,4 +5,4 @@ date: 2023-03-23 03:27:25 -0400
 categories: jekyll update 
 author: "J Ye, S Liu, X Wang - arXiv preprint arXiv:2303.10597, 2023" 
 --- 
-In this paper, we study a novel task that enables partial knowledge transfer from pre-trained models, which we term as Partial Network Cloning (PNC). Unlike prior methods that update all or at least part of the parameters in the target network throughout the knowledge transfer process, PNC conducts partial parametric cloning from a source network and then injects the cloned module to the target, without modifying its parameters. Thanks to the transferred module, the target  Cites: Memory-Based Model Editing at Scale
+In this paper, we study a novel task that enables partial knowledge transfer from pre-trained models, which we term as Partial Network Cloning (PNC). Unlike prior methods that update all or at least part of the parameters in the target network throughout the knowledge transfer process, PNC conducts partial parametric cloning from a source network and then injects the cloned module to the target, without modifying its parameters. Thanks to the transferred module, the target Cites: Memory-Based Model Editing at Scale

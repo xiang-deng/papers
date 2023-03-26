@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Automated Translation of Functional Big Data Queries to SQL"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "G ZHANG, B MARIANO, X SHEN, I DILLIG - 2023"
+---
+Big data analytics frameworks like Spark [Zaharia et al. 2010] and Flink [Carbone et al. 2015] have become increasingly popular for expressing queries over large amounts of data. These frameworks provide functional-style programming interfaces incorporating both higher-order APIs (eg, map and filter) as well as first-order user-defined functions (UDFs). This style of programming is appealing because the higher-order components enable concise expression of computations over large amounts of …
+Cites: ‪Foofah: Transforming data by example‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A generalized decoding method for neural text generation"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "N Gong, N Yao - Computer Speech & Language, 2023"
+---
+In natural language generation, most decoding methods are not intrinsic because their performance depends on extrinsically configured hyperparameters. It means that: first, the generation system is dynamic under different conditions while the decoding system is always static under any conditions once its hyperparameters are extrinsically fixed; second, it is hard to select a constant decoding hyperparameter that is omnipotent for all conditions. Although there are decoding methods that are …
+Cites: ‪A systematic characterization of sampling algorithms for open …‬

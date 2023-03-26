@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving context and syntactic dependency for aspect-based sentiment analysis using a fused graph attention network"
+date:   2023-03-25 03:24:49 -0400
+categories: jekyll update
+author: "P Wang, Z Zhao - Evolutionary Intelligence, 2023"
+---
+Aspect-based sentiment analysis is a hot research issue, which aims to determine the polarity of sentiments in a particular aspect of a review. Some recent methods adopt attention-based neural networks or graph neural networks to connect aspects implicitly with opinion words, achieving better results. However, the existing methods are usually limited to one of these. Also, multiple aspects may be present in one review, and previous methods can often confuse the connections between aspects …
+Cites: ‪Adaptive recursive neural network for target-dependent twitter …‬
