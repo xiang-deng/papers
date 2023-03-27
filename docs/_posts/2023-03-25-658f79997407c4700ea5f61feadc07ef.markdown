@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-supervised Meta-Prompt Learning with Meta-Gradient Regularization for Few-shot Generalization"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "K Pan, J Li, H Song, J Lin, X Liu, S Tang - arXiv preprint arXiv:2303.12314, 2023"
----
-Prompt tuning is a parameter-efficient method, which learns soft prompts and conditions frozen language models to perform specific downstream tasks. Though effective, prompt tuning under few-shot settings on the one hand heavily relies on a good initialization of soft prompts. On the other hand, it can easily result in overfitting. Existing works leverage pre-training or supervised meta-learning to initialize soft prompts but they cannot data-efficiently generalize to unseen downstream tasks. To …
-Cites: ‪Adapterhub: A framework for adapting transformers‬
+--- 
+layout: post 
+title: "Self-supervised Meta-Prompt Learning with Meta-Gradient Regularization for Few-shot Generalization" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "K Pan, J Li, H Song, J Lin, X Liu, S Tang - arXiv preprint arXiv:2303.12314, 2023" 
+--- 
+Prompt tuning is a parameter-efficient method, which learns soft prompts and conditions frozen language models to perform specific downstream tasks. Though effective, prompt tuning under few-shot settings on the one hand heavily relies on a good initialization of soft prompts. On the other hand, it can easily result in overfitting. Existing works leverage pre-training or supervised meta-learning to initialize soft prompts but they cannot data-efficiently generalize to unseen downstream tasks. To  Cites: Adapterhub: A framework for adapting transformers

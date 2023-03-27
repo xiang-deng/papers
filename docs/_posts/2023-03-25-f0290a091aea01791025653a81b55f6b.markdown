@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Simple Weakly-Supervised Contrastive Learning Framework for Few-shot Sentiment Classification"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "L Chen, Z Ren, S Lu, X Huang, W Wang, C Xu, W Zhao… - 2023"
----
-Most existing deep learning-based sentiment classification methods need large human-annotated data, but labeling large amounts of high-quality emotional texts is labor-intensive. Users on various social platforms generate massive amounts of tagged opinionated text (eg, tweets, customer reviews), providing a new resource for training deep models. However, some of the tagged instances have sentiment tags that are diametrically opposed to their true semantics. We cannot use this tagged …
-Cites: ‪Deep learning for sentiment analysis: successful approaches and …‬
+--- 
+layout: post 
+title: "A Simple Weakly-Supervised Contrastive Learning Framework for Few-shot Sentiment Classification" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "L Chen, Z Ren, S Lu, X Huang, W Wang, C Xu, W Zhao - 2023" 
+--- 
+Most existing deep learning-based sentiment classification methods need large human-annotated data, but labeling large amounts of high-quality emotional texts is labor-intensive. Users on various social platforms generate massive amounts of tagged opinionated text (eg, tweets, customer reviews), providing a new resource for training deep models. However, some of the tagged instances have sentiment tags that are diametrically opposed to their true semantics. We cannot use this tagged  Cites: Deep learning for sentiment analysis: successful approaches and

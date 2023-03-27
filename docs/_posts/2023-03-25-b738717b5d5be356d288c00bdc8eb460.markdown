@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text2Motion: From Natural Language Instructions to Feasible Plans"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "K Lin, C Agia, T Migimatsu, M Pavone, J Bohg - arXiv preprint arXiv:2303.12153, 2023"
----
-We propose Text2Motion, a language-based planning framework enabling robots to solve sequential manipulation tasks that require long-horizon reasoning. Given a natural language instruction, our framework constructs both a task-and policy-level plan that is verified to reach inferred symbolic goals. Text2Motion uses skill feasibility heuristics encoded in learned Q-functions to guide task planning with Large Language Models. Whereas previous language-based planners only consider the …
-Cites: ‪Chain of thought prompting elicits reasoning in large language …‬
+--- 
+layout: post 
+title: "Text2Motion: From Natural Language Instructions to Feasible Plans" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "K Lin, C Agia, T Migimatsu, M Pavone, J Bohg - arXiv preprint arXiv:2303.12153, 2023" 
+--- 
+We propose Text2Motion, a language-based planning framework enabling robots to solve sequential manipulation tasks that require long-horizon reasoning. Given a natural language instruction, our framework constructs both a task-and policy-level plan that is verified to reach inferred symbolic goals. Text2Motion uses skill feasibility heuristics encoded in learned Q-functions to guide task planning with Large Language Models. Whereas previous language-based planners only consider the  Cites: Chain of thought prompting elicits reasoning in large language

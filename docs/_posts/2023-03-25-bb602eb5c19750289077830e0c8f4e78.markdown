@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Using Explanations to Guide Models"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "S Rao, M Böhle, A Parchami-Araghi, B Schiele - arXiv preprint arXiv:2303.11932, 2023"
----
-Deep neural networks are highly performant, but might base their decision on spurious or background features that co-occur with certain classes, which can hurt generalization. To mitigate this issue, the usage of model guidance has gained popularity recently: for this, models are guided to be  right for the right reasons  by regularizing the models  explanations to highlight the right features. Experimental validation of these approaches has thus far however been limited to relatively simple …
-Cites: ‪Learning to Scaffold: Optimizing Model Explanations for Teaching‬
+--- 
+layout: post 
+title: "Using Explanations to Guide Models" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "S Rao, M Bhle, A Parchami-Araghi, B Schiele - arXiv preprint arXiv:2303.11932, 2023" 
+--- 
+Deep neural networks are highly performant, but might base their decision on spurious or background features that co-occur with certain classes, which can hurt generalization. To mitigate this issue, the usage of model guidance has gained popularity recently: for this, models are guided to be right for the right reasons by regularizing the models explanations to highlight the right features. Experimental validation of these approaches has thus far however been limited to relatively simple  Cites: Learning to Scaffold: Optimizing Model Explanations for Teaching

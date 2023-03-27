@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A point selection method in map generalization using graph convolutional network model"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "T Xiao, T Ai, H Yu, M Yang, P Liu - Cartography and Geographic Information Science, 2023"
----
-For point clusters, the conflict and crowding of map symbols is an inevitable problem during the transition from large to small scales. The cartographic generalization involved in this problem as a spatial decision-making process is usually related to the analysis of spatial context, the choice of abstraction operators, and the judgment of the resulting data quality. The rules summarized by traditional generalization methods usually require manual setting of conditions or thresholds and sometimes …
-Cites: ‪The unreasonable effectiveness of data‬
+--- 
+layout: post 
+title: "A point selection method in map generalization using graph convolutional network model" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "T Xiao, T Ai, H Yu, M Yang, P Liu - Cartography and Geographic Information Science, 2023" 
+--- 
+For point clusters, the conflict and crowding of map symbols is an inevitable problem during the transition from large to small scales. The cartographic generalization involved in this problem as a spatial decision-making process is usually related to the analysis of spatial context, the choice of abstraction operators, and the judgment of the resulting data quality. The rules summarized by traditional generalization methods usually require manual setting of conditions or thresholds and sometimes  Cites: The unreasonable effectiveness of data

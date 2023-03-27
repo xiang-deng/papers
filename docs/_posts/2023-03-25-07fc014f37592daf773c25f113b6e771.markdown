@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "M Alper, M Fiman, H Averbuch-Elor - arXiv preprint arXiv:2303.12513, 2023"
----
-Most humans use visual imagination to understand and reason about language, but models such as BERT reason about language using knowledge acquired during text-only pretraining. In this work, we investigate whether vision-and-language pretraining can improve performance on text-only tasks that involve implicit visual reasoning, focusing primarily on zero-shot probing methods. We propose a suite of visual language understanding (VLU) tasks for probing the visual reasoning abilities …
-Cites: ‪Benchmarking zero-shot text classification: Datasets, evaluation …‬
+--- 
+layout: post 
+title: "Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "M Alper, M Fiman, H Averbuch-Elor - arXiv preprint arXiv:2303.12513, 2023" 
+--- 
+Most humans use visual imagination to understand and reason about language, but models such as BERT reason about language using knowledge acquired during text-only pretraining. In this work, we investigate whether vision-and-language pretraining can improve performance on text-only tasks that involve implicit visual reasoning, focusing primarily on zero-shot probing methods. We propose a suite of visual language understanding (VLU) tasks for probing the visual reasoning abilities  Cites: Benchmarking zero-shot text classification: Datasets, evaluation

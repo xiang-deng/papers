@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Numeracy by Input Reframing and Quantitative Pre-Finetuning Task"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "CC Chen, H Takamura, I Kobayashi, Y Miyao"
----
-Numbers have unique characteristics to words. Teaching models to understand numbers in text is an open-ended research question. Instead of discussing the required calculation skills, this paper focuses on a more fundamental topic: understanding numerals. We point out that innumeracy—the inability to handle basic numeral concepts—exists in most pretrained language models (LMs), and we propose a method to solve this issue by exploring the notation of numbers. Further …
-Cites: ‪Do NLP Models Know Numbers? Probing Numeracy in Embeddings‬
+--- 
+layout: post 
+title: "Improving Numeracy by Input Reframing and Quantitative Pre-Finetuning Task" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "CC Chen, H Takamura, I Kobayashi, Y Miyao" 
+--- 
+Numbers have unique characteristics to words. Teaching models to understand numbers in text is an open-ended research question. Instead of discussing the required calculation skills, this paper focuses on a more fundamental topic: understanding numerals. We point out that innumeracythe inability to handle basic numeral conceptsexists in most pretrained language models (LMs), and we propose a method to solve this issue by exploring the notation of numbers. Further  Cites: Do NLP Models Know Numbers? Probing Numeracy in Embeddings

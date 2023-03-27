@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Continual Learning in the Presence of Spurious Correlation"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "D Lee, S Jung, T Moon - arXiv preprint arXiv:2303.11863, 2023"
----
-Most continual learning (CL) algorithms have focused on tackling the stability-plasticity dilemma, that is, the challenge of preventing the forgetting of previous tasks while learning new ones. However, they have overlooked the impact of the knowledge transfer when the dataset in a certain task is biased-namely, when some unintended spurious correlations of the tasks are learned from the biased dataset. In that case, how would they affect learning future tasks or the knowledge already …
-Cites: ‪Just train twice: Improving group robustness without training group …‬
+--- 
+layout: post 
+title: "Continual Learning in the Presence of Spurious Correlation" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "D Lee, S Jung, T Moon - arXiv preprint arXiv:2303.11863, 2023" 
+--- 
+Most continual learning (CL) algorithms have focused on tackling the stability-plasticity dilemma, that is, the challenge of preventing the forgetting of previous tasks while learning new ones. However, they have overlooked the impact of the knowledge transfer when the dataset in a certain task is biased-namely, when some unintended spurious correlations of the tasks are learned from the biased dataset. In that case, how would they affect learning future tasks or the knowledge already  Cites: Just train twice: Improving group robustness without training group

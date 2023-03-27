@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Re-thinking Federated Active Learning based on Inter-class Diversity"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "SM Kim, S Bae, H Song, SY Yun - arXiv preprint arXiv:2303.12317, 2023"
----
-Although federated learning has made awe-inspiring advances, most studies have assumed that the client s data are fully labeled. However, in a real-world scenario, every client may have a significant amount of unlabeled instances. Among the various approaches to utilizing unlabeled data, a federated active learning framework has emerged as a promising solution. In the decentralized setting, there are two types of available query selector models, namely global and local …
-Cites: ‪Margin-based active learning for structured output spaces‬
+--- 
+layout: post 
+title: "Re-thinking Federated Active Learning based on Inter-class Diversity" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "SM Kim, S Bae, H Song, SY Yun - arXiv preprint arXiv:2303.12317, 2023" 
+--- 
+Although federated learning has made awe-inspiring advances, most studies have assumed that the client s data are fully labeled. However, in a real-world scenario, every client may have a significant amount of unlabeled instances. Among the various approaches to utilizing unlabeled data, a federated active learning framework has emerged as a promising solution. In the decentralized setting, there are two types of available query selector models, namely global and local  Cites: Margin-based active learning for structured output spaces

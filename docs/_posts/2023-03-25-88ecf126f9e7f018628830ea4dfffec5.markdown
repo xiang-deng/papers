@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distributed query execution under access restrictions"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "S De Capitani di Vimercati, S Foresti, S Jajodia… - 2023"
----
-The availability of a multitude of data sources has naturally increased the need for subjects to collaborate for supporting distributed computations that combine different data collections for their elaboration and analysis. Due to the quick pace at which datasets grow, often the authorities collecting and owning such datasets resort to external third parties (eg, cloud providers) for their storage and management. Data under the control of different authorities are autonomously encrypted (using different …
-Cites: ‪Data model and query evaluation in global information systems‬
+--- 
+layout: post 
+title: "Distributed query execution under access restrictions" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "S De Capitani di Vimercati, S Foresti, S Jajodia - 2023" 
+--- 
+The availability of a multitude of data sources has naturally increased the need for subjects to collaborate for supporting distributed computations that combine different data collections for their elaboration and analysis. Due to the quick pace at which datasets grow, often the authorities collecting and owning such datasets resort to external third parties (eg, cloud providers) for their storage and management. Data under the control of different authorities are autonomously encrypted (using different  Cites: Data model and query evaluation in global information systems

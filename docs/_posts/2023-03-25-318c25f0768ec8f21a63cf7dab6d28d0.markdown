@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automated program repair in the era of large pre-trained language models"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "CS Xia, Y Wei, L Zhang - 2023"
----
-Automated Program Repair (APR) aims to help developers automatically patch software bugs. However, current state-of-the-art traditional and learning-based APR techniques face the problem of limited patch variety, failing to fix complicated bugs. This is mainly due to the reliance on bug-fixing datasets to craft fix templates (traditional) or directly predict potential patches (learning-based). Large Pre-Trained Language Models (LLMs), trained using billions of text/code tokens, can potentially …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Automated program repair in the era of large pre-trained language models" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "CS Xia, Y Wei, L Zhang - 2023" 
+--- 
+Automated Program Repair (APR) aims to help developers automatically patch software bugs. However, current state-of-the-art traditional and learning-based APR techniques face the problem of limited patch variety, failing to fix complicated bugs. This is mainly due to the reliance on bug-fixing datasets to craft fix templates (traditional) or directly predict potential patches (learning-based). Large Pre-Trained Language Models (LLMs), trained using billions of text/code tokens, can potentially  Cites: Codexglue: A machine learning benchmark dataset for code

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FARSum: Feedback-aware abstractive product review summarization"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "M Wang, J Huseynov, J Chan, J Li - 2023"
----
-Retail customers read through multitude of online product reviews to make confident purchase decisions. To automate this process, we explore and evaluate several state-of-the-art (SOTA) models for summarizing product reviews along three dimensions: a summary product verdict, pros, and cons. To improve the performance of summarization from a large number of reviews per product, we propose FARSum, an efficient solution that leverages review filtering based on review recency and …
-Cites: ‪Learning opinion summarizers by selecting informative reviews‬
+--- 
+layout: post 
+title: "FARSum: Feedback-aware abstractive product review summarization" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "M Wang, J Huseynov, J Chan, J Li - 2023" 
+--- 
+Retail customers read through multitude of online product reviews to make confident purchase decisions. To automate this process, we explore and evaluate several state-of-the-art (SOTA) models for summarizing product reviews along three dimensions: a summary product verdict, pros, and cons. To improve the performance of summarization from a large number of reviews per product, we propose FARSum, an efficient solution that leverages review filtering based on review recency and  Cites: Learning opinion summarizers by selecting informative reviews

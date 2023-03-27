@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Candidate Set Expansion for Entity and Relation Linking Based on Mutual Entity–Relation Interaction"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "B Zhang, Y Feng, L Fu, J Gu, F Xu - Big Data and Cognitive Computing, 2023"
----
-Entity and relation linking are the core tasks in knowledge base question answering (KBQA). They connect natural language questions with triples in the knowledge base. In most studies, researchers perform these two tasks independently, which ignores the interplay between the entity and relation linking. To address the above problems, some researchers have proposed a framework for joint entity and relation linking based on feature joint and multi-attention. In this paper, based on their …
-Cites: ‪Effective Few-Shot Named Entity Linking by Meta-Learning‬
+--- 
+layout: post 
+title: "Candidate Set Expansion for Entity and Relation Linking Based on Mutual EntityRelation Interaction" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "B Zhang, Y Feng, L Fu, J Gu, F Xu - Big Data and Cognitive Computing, 2023" 
+--- 
+Entity and relation linking are the core tasks in knowledge base question answering (KBQA). They connect natural language questions with triples in the knowledge base. In most studies, researchers perform these two tasks independently, which ignores the interplay between the entity and relation linking. To address the above problems, some researchers have proposed a framework for joint entity and relation linking based on feature joint and multi-attention. In this paper, based on their  Cites: Effective Few-Shot Named Entity Linking by Meta-Learning

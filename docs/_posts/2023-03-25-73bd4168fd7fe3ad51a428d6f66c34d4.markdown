@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dynamic-Aware Loss for Learning with Label Noise"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "XC Li, X Xia, F Zhu, T Liu, XY Zhang, CL Liu - arXiv preprint arXiv:2303.11562, 2023"
----
-Label noise poses a serious threat to deep neural networks (DNNs). Employing robust loss function which reconciles fitting ability with robustness is a simple but effective strategy to handle this problem. However, the widely-used static trade-off between these two factors contradicts the dynamic nature of DNNs learning with label noise, leading to inferior performance. Therefore, we propose a dynamics-aware loss (DAL) to solve this problem. Considering that DNNs tend to first learn …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "Dynamic-Aware Loss for Learning with Label Noise" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "XC Li, X Xia, F Zhu, T Liu, XY Zhang, CL Liu - arXiv preprint arXiv:2303.11562, 2023" 
+--- 
+Label noise poses a serious threat to deep neural networks (DNNs). Employing robust loss function which reconciles fitting ability with robustness is a simple but effective strategy to handle this problem. However, the widely-used static trade-off between these two factors contradicts the dynamic nature of DNNs learning with label noise, leading to inferior performance. Therefore, we propose a dynamics-aware loss (DAL) to solve this problem. Considering that DNNs tend to first learn  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

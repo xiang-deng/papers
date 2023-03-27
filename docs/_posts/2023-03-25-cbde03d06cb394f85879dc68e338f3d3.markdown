@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Store, share and transfer: Learning and updating sentiment knowledge for aspect-based sentiment analysis"
-date:   2023-03-25 03:24:49 -0400
-categories: jekyll update
-author: "Y Zheng, X Li, JY Nie - Information Sciences, 2023"
----
-Previous studies have shown that incorporating sentiment knowledge (eg, sentiment scores) is effective for aspect-based sentiment analysis (ABSA). However, sentiment knowledge is used to create static features, which cannot be propagated over an entire corpus. Unlike previous researchers, we designed a corpus-level sentiment knowledge fusion mechanism with storage, update, and sharing functions, which can help the model to better understand the sentiment information of various opinion …
-Cites: ‪Effective LSTMs for target-dependent sentiment classification‬
+--- 
+layout: post 
+title: "Store, share and transfer: Learning and updating sentiment knowledge for aspect-based sentiment analysis" 
+date: 2023-03-25 03:24:49 -0400 
+categories: jekyll update 
+author: "Y Zheng, X Li, JY Nie - Information Sciences, 2023" 
+--- 
+Previous studies have shown that incorporating sentiment knowledge (eg, sentiment scores) is effective for aspect-based sentiment analysis (ABSA). However, sentiment knowledge is used to create static features, which cannot be propagated over an entire corpus. Unlike previous researchers, we designed a corpus-level sentiment knowledge fusion mechanism with storage, update, and sharing functions, which can help the model to better understand the sentiment information of various opinion  Cites: Effective LSTMs for target-dependent sentiment classification
