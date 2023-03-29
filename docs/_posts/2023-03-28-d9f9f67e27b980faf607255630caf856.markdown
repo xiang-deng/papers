@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "From Wide to Deep: Dimension Lifting Network for Parameter-efficient Knowledge Graph Embedding"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "B Cai, Y Xiang, L Gao, D Wu, H Zhang, J Jin, T Luan - arXiv preprint arXiv …, 2023"
+---
+Knowledge graph embedding (KGE) that maps entities and relations into vector representations is essential for downstream tasks. Conventional KGE methods require relatively high-dimensional entity representations to preserve the structural information of knowledge graph, but lead to oversized model parameters. Recent methods reduce model parameters by adopting low-dimensional entity representations, while developing techniques (eg, knowledge distillation) to …
+Cites: ‪Embedding entities and relations for learning and inference in …‬

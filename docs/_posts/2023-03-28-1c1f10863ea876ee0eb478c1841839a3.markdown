@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Salient Span Masking for Temporal Understanding"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "JR Cole, A Chaudhary, B Dhingra, P Talukdar - arXiv preprint arXiv:2303.12860, 2023"
+---
+Salient Span Masking (SSM) has shown itself to be an effective strategy to improve closed-book question answering performance. SSM extends general masked language model pretraining by creating additional unsupervised training sentences that mask a single entity or date span, thus oversampling factual information. Despite the success of this paradigm, the span types and sampling strategies are relatively arbitrary and not widely studied for other tasks. Thus, we investigate SSM from the …
+Cites: ‪On the influence of masking policies in intermediate pre-training‬

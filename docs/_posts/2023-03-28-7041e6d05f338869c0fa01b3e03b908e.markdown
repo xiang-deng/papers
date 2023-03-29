@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Integrating Reconstructor and Post-Editor into Neural Machine Translation"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "N Yi, C Shao, A Wumaier - ACM Transactions on Asian and Low-Resource …, 2023"
+---
+Neural machine translation (NMT) mainly comprises the encoder and decoder. The encoder is mainly used to extract the feature vector of the source language sentence. The decoder predicts the next token according to the feature vector extracted by the encoder and the information of the current moment. In this process, there is no guarantee that the features extracted by the encoder are indistinguishable from the meaning of the sentences in the source language. There is also no guarantee that …
+Cites: ‪Quality-Aware Decoding for Neural Machine Translation‬

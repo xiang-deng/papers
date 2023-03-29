@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Visually-Prompted Language Model for Fine-Grained Scene Graph Generation in an Open World"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "Q Yu, J Li, Y Wu, S Tang, W Ji, Y Zhuang - arXiv preprint arXiv:2303.13233, 2023"
+---
+Scene Graph Generation (SGG) aims to extract< subject, predicate, object> relationships in images for vision understanding. Although recent works have made steady progress on SGG, they still suffer long-tail distribution issues that tail-predicates are more costly to train and hard to distinguish due to a small amount of annotated data compared to frequent predicates. Existing re-balancing strategies try to haddle it via prior rules but are still confined to pre-defined conditions, which are …
+Cites: ‪Fine-Grained Scene Graph Generation with Data Transfer‬

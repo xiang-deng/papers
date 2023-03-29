@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimization and Optimizers for Adversarial Robustness"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "H Liang, B Liang, L Peng, Y Cui, T Mitchell, J Sun - arXiv preprint arXiv:2303.13401, 2023"
+---
+Empirical robustness evaluation (RE) of deep learning models against adversarial perturbations entails solving nontrivial constrained optimization problems. Existing numerical algorithms that are commonly used to solve them in practice predominantly rely on projected gradient, and mostly handle perturbations modeled by the $\ell_1 $, $\ell_2 $ and $\ell_\infty $ distances. In this paper, we introduce a novel algorithmic framework that blends a general-purpose constrained-optimization …
+Cites: ‪Enabling certification of verification-agnostic networks via memory …‬

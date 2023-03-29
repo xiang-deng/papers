@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Quantization Model of Neural Scaling"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "EJ Michaud, Z Liu, U Girit, M Tegmark - arXiv preprint arXiv:2303.13506, 2023"
+---
+We propose the $\textit {Quantization Model} $ of neural scaling laws, explaining both the observed power law dropoff of loss with model and data size, and also the sudden emergence of new capabilities with scale. We derive this model from what we call the $\textit {Quantization Hypothesis} $, where learned network capabilities are quantized into discrete chunks ($\textit {quanta} $). We show that when quanta are learned in order of decreasing use frequency, then a power law in use …
+Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬

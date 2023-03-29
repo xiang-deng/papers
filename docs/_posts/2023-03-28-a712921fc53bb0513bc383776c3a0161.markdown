@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Augmenting metadata tags in open data tables using schema matching in a pay-as-you-go fashion"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "H Yu - 2023"
+---
+Metadata helps users understand the data contents in a table. Metadata tags can describe the contents in the table and allow a user to easily browse, search, and filter data. However, metadata is less useful when there is heterogeneity and incompleteness in a table. It s difficult to find all related tables to the given table by only examining the tags, because the user is typically looking for overlap of tags between two or more tables and there are no such overlaps in the heterogeneous …
+Cites: ‪BigGorilla: An open-source ecosystem for data preparation and …‬

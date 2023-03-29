@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Three ways to improve feature alignment for open vocabulary detection"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "R Arandjelović, A Andonian, A Mensch, OJ Hénaff… - arXiv preprint arXiv …, 2023"
+---
+The core problem in zero-shot open vocabulary detection is how to align visual and text features, so that the detector performs well on unseen classes. Previous approaches train the feature pyramid and detection head from scratch, which breaks the vision-text feature alignment established during pretraining, and struggles to prevent the language model from forgetting unseen classes. We propose three methods to alleviate these issues. Firstly, a simple scheme is used to augment the …
+Cites: ‪Scaling up visual and vision-language representation learning with …‬

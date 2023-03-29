@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "D Banerjee, S Awale, R Usbeck, C Biemann - arXiv preprint arXiv:2303.13351, 2023"
+---
+In this work we create a question answering dataset over the DBLP scholarly knowledge graph (KG). DBLP is an on-line reference for bibliographic information on major computer science publications that indexes over 4.4 million publications published by more than 2.2 million authors. Our dataset consists of 10,000 question answer pairs with the corresponding SPARQL queries which can be executed over the DBLP KG to fetch the correct answer. DBLP-QuAD is the largest scholarly …
+Cites: ‪Beyond iid: three levels of generalization for question answering …‬

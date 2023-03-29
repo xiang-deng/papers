@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deep neural ranking model using distributed smoothing"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "Z Pourbahman, S Momtazi, A Bagheri - Expert Systems with Applications, 2023"
+---
+Abstract Information Retrieval (IR) provides access to unstructured data to satisfy user information needs within an extensive collection. In probabilistic IR models, the probability of an N-gram query is estimated by increasing the background probabilities related to lower-order N-grams. Inspired by the N-gram smoothing approach, we propose a distributed transformer-based deep neural ranking model. The proposed model, called DSDNN (Distributed Smoothing Deep Neural Network) …
+Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬

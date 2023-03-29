@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modular Retrieval for Generalization and Interpretation"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "J Liang, C Zhang, Z Tang, J Fu, D Song, B Wang - arXiv preprint arXiv:2303.13419, 2023"
+---
+New retrieval tasks have always been emerging, thus urging the development of new retrieval models. However, instantiating a retrieval model for each new retrieval task is resource-intensive and time-consuming, especially for a retrieval model that employs a large-scale pre-trained language model. To address this issue, we shift to a novel retrieval paradigm called modular retrieval, which aims to solve new retrieval tasks by instead composing multiple existing retrieval modules. Built upon the …
+Cites: ‪Task-aware retrieval with instructions‬

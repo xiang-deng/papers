@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering"
+date:   2023-03-28 04:46:22 -0400
+categories: jekyll update
+author: "D Banerjee, PA Nair, R Usbeck, C Biemann - arXiv preprint arXiv:2303.13284, 2023"
+---
+In this work, we present an end-to-end Knowledge Graph Question Answering (KGQA) system named GETT-QA. GETT-QA uses T5, a popular text-to-text pre-trained language model. The model takes a question in natural language as input and produces a simpler form of the intended SPARQL query. In the simpler form, the model does not directly produce entity and relation IDs. Instead, it produces corresponding entity and relation labels. The labels are grounded to KG entity and …
+Cites: ‪KEPLER: A Unified Model for Knowledge Embedding and Pre …‬
