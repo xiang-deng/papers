@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sequoia: Hierarchical Self-Attention Layer with Sparse Updates for Point Clouds and Long Sequences"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "H Sonnery, T Trang, TN Vo, S Ravanbakhsh, TS Hy"
----
-Lack of efficiency of self-attention in dealing with long inputs has motivated many efficient transformer variants. We consider hierarchy as an interesting route toward sparsity. This can be achieved by forming a tree on top of the input tokens and limiting the span of attention, based on the branching factor, thereby reducing the complexity of the self-attention layer to O (n log (n)). This paper provides preliminary results in creating such transformer architecture, called Sequoia 2 The proposed …
-Cites: ‪Luna: Linear unified nested attention‬
+--- 
+layout: post 
+title: "Sequoia: Hierarchical Self-Attention Layer with Sparse Updates for Point Clouds and Long Sequences" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "H Sonnery, T Trang, TN Vo, S Ravanbakhsh, TS Hy" 
+--- 
+Lack of efficiency of self-attention in dealing with long inputs has motivated many efficient transformer variants. We consider hierarchy as an interesting route toward sparsity. This can be achieved by forming a tree on top of the input tokens and limiting the span of attention, based on the branching factor, thereby reducing the complexity of the self-attention layer to O (n log (n)). This paper provides preliminary results in creating such transformer architecture, called Sequoia 2 The proposed  Cites: Luna: Linear unified nested attention

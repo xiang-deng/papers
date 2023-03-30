@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A Simple Explanation for the Phase Transition in Large Language Models with List Decoding"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "CS Chang - arXiv preprint arXiv:2303.13112, 2023"
----
-Various recent experimental results show that large language models (LLM) exhibit emergent abilities that are not present in small models. System performance is greatly improved after passing a certain critical threshold of scale. In this letter, we provide a simple explanation for such a phase transition phenomenon. For this, we model an LLM as a sequence-to-sequence random function. Instead of using instant generation at each step, we use a list decoder that keeps a list of candidate …
-Cites: ‪Emergent abilities of large language models‬

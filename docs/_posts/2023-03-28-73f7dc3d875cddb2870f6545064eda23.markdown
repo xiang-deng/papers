@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Using Bidirectional Prompt Learning in NLP Few Shot Tasks"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "L Ding, S Ye - Frontiers in Computing and Intelligent Systems, 2023"
----
-Abstract Few-Shot Learning, a subfield of machine learning, aims to solve the problem of learning new tasks with only a small amount of annotated data. Compared to traditional supervised learning, Few-Shot Learning is more challenging because there are very few training samples available during the training process, which means that the model must learn quickly and generalize to new samples. Prompt learning is a recently emerged training paradigm in natural language …
-Cites: ‪Retrieval-augmented generation for knowledge-intensive NLP tasks‬
+--- 
+layout: post 
+title: "Using Bidirectional Prompt Learning in NLP Few Shot Tasks" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "L Ding, S Ye - Frontiers in Computing and Intelligent Systems, 2023" 
+--- 
+Abstract Few-Shot Learning, a subfield of machine learning, aims to solve the problem of learning new tasks with only a small amount of annotated data. Compared to traditional supervised learning, Few-Shot Learning is more challenging because there are very few training samples available during the training process, which means that the model must learn quickly and generalize to new samples. Prompt learning is a recently emerged training paradigm in natural language  Cites: Retrieval-augmented generation for knowledge-intensive NLP tasks

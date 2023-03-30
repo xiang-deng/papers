@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "K Krishna, Y Song, M Karpinska, J Wieting, M Iyyer - arXiv preprint arXiv:2303.13408, 2023"
----
-To detect the deployment of large language models for malicious use cases (eg, fake content creation or academic plagiarism), several approaches have recently been proposed for identifying AI-generated text via watermarks or statistical irregularities. How robust are these detection algorithms to paraphrases of AI-generated text? To stress test these detectors, we first train an 11B parameter paraphrase generation model (DIPPER) that can paraphrase paragraphs, optionally leveraging surrounding …
-Cites: ‪Detectgpt: Zero-shot machine-generated text detection using …‬
+--- 
+layout: post 
+title: "Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "K Krishna, Y Song, M Karpinska, J Wieting, M Iyyer - arXiv preprint arXiv:2303.13408, 2023" 
+--- 
+To detect the deployment of large language models for malicious use cases (eg, fake content creation or academic plagiarism), several approaches have recently been proposed for identifying AI-generated text via watermarks or statistical irregularities. How robust are these detection algorithms to paraphrases of AI-generated text? To stress test these detectors, we first train an 11B parameter paraphrase generation model (DIPPER) that can paraphrase paragraphs, optionally leveraging surrounding  Cites: Detectgpt: Zero-shot machine-generated text detection using

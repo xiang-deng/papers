@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Aerodynamic optimization of airfoil based on deep reinforcement learning"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "J Lou, R Chen, J Liu, Y Bao, Y You, Z Chen - Physics of Fluids, 2023"
----
-The traditional optimization of airfoils relies on, and is limited by, the knowledge and experience of the designer. As a method of intelligent decision-making, reinforcement learning can be used for such optimization through self-directed learning. In this paper, we use the lift–drag ratio as the objective of optimization to propose a method for the aerodynamic optimization of airfoils based on a combination of deep learning and reinforcement learning. A deep neural network …
-Cites: ‪Chip placement with deep reinforcement learning‬
+--- 
+layout: post 
+title: "Aerodynamic optimization of airfoil based on deep reinforcement learning" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "J Lou, R Chen, J Liu, Y Bao, Y You, Z Chen - Physics of Fluids, 2023" 
+--- 
+The traditional optimization of airfoils relies on, and is limited by, the knowledge and experience of the designer. As a method of intelligent decision-making, reinforcement learning can be used for such optimization through self-directed learning. In this paper, we use the liftdrag ratio as the objective of optimization to propose a method for the aerodynamic optimization of airfoils based on a combination of deep learning and reinforcement learning. A deep neural network  Cites: Chip placement with deep reinforcement learning

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Automatic architecture selection for hierarchical mixture of experts models"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "I Voroneckaja - 2023"
----
-Hierarchical mixture of experts (HME) is a powerful tree-structured modeling technique based on the divide and conquer principle. HME model trees consist of two types of nodes-gate nodes, which are responsible for splitting a large complex problem into several smaller subproblems, and expert nodes, which perform the corresponding subproblemsolving. Selecting the number of such nodes as well as the order in which they are arranged is, however, a non-trivial task. A commonly used …
-Cites: ‪Binary to bushy: Bayesian hierarchical clustering with the Beta …‬

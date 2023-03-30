@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Bag-of-Prototypes Representation for Dataset-Level Applications"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "W Tu, W Deng, T Gedeon, L Zheng - arXiv preprint arXiv:2303.13251, 2023"
----
-This work investigates dataset vectorization for two dataset-level tasks: assessing training set suitability and test set difficulty. The former measures how suitable a training set is for a target domain, while the latter studies how challenging a test set is for a learned model. Central to the two tasks is measuring the underlying relationship between datasets. This needs a desirable dataset vectorization scheme, which should preserve as much discriminative dataset information as possible so that the …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "A Bag-of-Prototypes Representation for Dataset-Level Applications" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "W Tu, W Deng, T Gedeon, L Zheng - arXiv preprint arXiv:2303.13251, 2023" 
+--- 
+This work investigates dataset vectorization for two dataset-level tasks: assessing training set suitability and test set difficulty. The former measures how suitable a training set is for a target domain, while the latter studies how challenging a test set is for a learned model. Central to the two tasks is measuring the underlying relationship between datasets. This needs a desirable dataset vectorization scheme, which should preserve as much discriminative dataset information as possible so that the  Cites: Dataset cartography: Mapping and diagnosing datasets with

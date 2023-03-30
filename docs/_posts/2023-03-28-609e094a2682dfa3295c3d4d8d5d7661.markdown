@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "S Zheng, S Chen, P Song, R Chen, X Li, S Yan, D Lin… - 2023 IEEE International …, 2023"
----
-Machine learning models with various tensor operators are becoming ubiquitous in recent years. There are two types of operators in machine learning: compute-intensive operators (eg, GEMM and convolution) and memory-intensive operators (eg, ReLU and softmax). In emerging machine learning models, compute-intensive operators are usually organized in a chain structure. With the continual specialization of hardware, the gap between computing performance and memory bandwidth has …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "S Zheng, S Chen, P Song, R Chen, X Li, S Yan, D Lin - 2023 IEEE International , 2023" 
+--- 
+Machine learning models with various tensor operators are becoming ubiquitous in recent years. There are two types of operators in machine learning: compute-intensive operators (eg, GEMM and convolution) and memory-intensive operators (eg, ReLU and softmax). In emerging machine learning models, compute-intensive operators are usually organized in a chain structure. With the continual specialization of hardware, the gap between computing performance and memory bandwidth has  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FSPL: A META–LEARNING APPROACH FOR A FILTER AND EMBEDDED FEATURE SELECTION PIPELINE"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "T LAZEBNIK, AVI ROSENFELD - Int. J. Appl. Math. Comput. Sci, 2023"
----
-There are two main approaches to tackle the challenge of finding the best filter or embedded feature selection (FS) algorithm: searching for the one best FS algorithm and creating an ensemble of all available FS algorithms. However, in practice, these two processes usually occur as part of a larger machine learning pipeline and not separately. We posit that, due to the influence of the filter FS on the embedded FS, one should aim to optimize both of them as a single FS pipeline rather than …
-Cites: ‪AlphaD3M: Machine learning pipeline synthesis‬
+--- 
+layout: post 
+title: "FSPL: A METALEARNING APPROACH FOR A FILTER AND EMBEDDED FEATURE SELECTION PIPELINE" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "T LAZEBNIK, AVI ROSENFELD - Int. J. Appl. Math. Comput. Sci, 2023" 
+--- 
+There are two main approaches to tackle the challenge of finding the best filter or embedded feature selection (FS) algorithm: searching for the one best FS algorithm and creating an ensemble of all available FS algorithms. However, in practice, these two processes usually occur as part of a larger machine learning pipeline and not separately. We posit that, due to the influence of the filter FS on the embedded FS, one should aim to optimize both of them as a single FS pipeline rather than  Cites: AlphaD3M: Machine learning pipeline synthesis

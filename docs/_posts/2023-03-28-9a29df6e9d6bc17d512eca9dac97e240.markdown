@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Robust Generalization against Photon-Limited Corruptions via Worst-Case Sharpness Minimization"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "Z Huang, M Zhu, X Xia, L Shen, J Yu, C Gong, B Han… - arXiv preprint arXiv …, 2023"
----
-Robust generalization aims to tackle the most challenging data distributions which are rare in the training set and contain severe noises, ie, photon-limited corruptions. Common solutions such as distributionally robust optimization (DRO) focus on the worst-case empirical risk to ensure low training error on the uncommon noisy distributions. However, due to the over-parameterized model being optimized on scarce worst-case data, DRO fails to produce a smooth loss landscape, thus …
-Cites: ‪Just train twice: Improving group robustness without training group …‬
+--- 
+layout: post 
+title: "Robust Generalization against Photon-Limited Corruptions via Worst-Case Sharpness Minimization" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "Z Huang, M Zhu, X Xia, L Shen, J Yu, C Gong, B Han - arXiv preprint arXiv , 2023" 
+--- 
+Robust generalization aims to tackle the most challenging data distributions which are rare in the training set and contain severe noises, ie, photon-limited corruptions. Common solutions such as distributionally robust optimization (DRO) focus on the worst-case empirical risk to ensure low training error on the uncommon noisy distributions. However, due to the over-parameterized model being optimized on scarce worst-case data, DRO fails to produce a smooth loss landscape, thus  Cites: Just train twice: Improving group robustness without training group

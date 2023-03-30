@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TypeT5: Seq2seq Type Inference using Static Analysis"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "J Wei, G Durrett, I Dillig - arXiv preprint arXiv:2303.09564, 2023"
----
-There has been growing interest in automatically predicting missing type annotations in programs written in Python and JavaScript. While prior methods have achieved impressive accuracy when predicting the most common types, they often perform …
+--- 
+layout: post 
+title: "TypeT5: Seq2seq Type Inference using Static Analysis" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "J Wei, G Durrett, I Dillig - arXiv preprint arXiv:2303.09564, 2023" 
+--- 
+There has been growing interest in automatically predicting missing type annotations in programs written in Python and JavaScript. While prior methods have achieved impressive accuracy when predicting the most common types, they often perform

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The effectiveness of MAE pre-pretraining for billion-scale pretraining"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "M Singh, Q Duval, KV Alwala, H Fan, V Aggarwal… - arXiv preprint arXiv …, 2023"
----
-This paper revisits the standard pretrain-then-finetune paradigm used in computer vision for visual recognition tasks. Typically, state-of-the-art foundation models are pretrained using large scale (weakly) supervised datasets with billions of images. We introduce an additional pre-pretraining stage that is simple and uses the self-supervised MAE technique to initialize the model. While MAE has only been shown to scale with the size of models, we find that it scales with the size of the training …
-Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬
+--- 
+layout: post 
+title: "The effectiveness of MAE pre-pretraining for billion-scale pretraining" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "M Singh, Q Duval, KV Alwala, H Fan, V Aggarwal - arXiv preprint arXiv , 2023" 
+--- 
+This paper revisits the standard pretrain-then-finetune paradigm used in computer vision for visual recognition tasks. Typically, state-of-the-art foundation models are pretrained using large scale (weakly) supervised datasets with billions of images. We introduce an additional pre-pretraining stage that is simple and uses the self-supervised MAE technique to initialize the model. While MAE has only been shown to scale with the size of models, we find that it scales with the size of the training  Cites: Electra: Pre-training text encoders as discriminators rather than

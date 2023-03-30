@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge-Enhanced Prompt-Tuning for Stance Detection"
-date:   2023-03-28 04:46:22 -0400
-categories: jekyll update
-author: "H Huang, B Zhang, Y Li, B Zhang, Y Sun, C Luo… - ACM Transactions on Asian …, 2023"
----
-Investigating public attitudes on social media is important in opinion mining systems. Stance detection aims to analyze the attitude of an opinionated text (eg, favor, neutral or against) toward a given target. Existing methods mainly address this problem from the perspective of fine-tuning. Recently, prompt-tuning has achieved success in natural language processing tasks. However, conducting prompt-tuning methods for stance detection in real-world remains a challenge for several reasons.(1) The text …
-Cites: ‪Knowledgeable prompt-tuning: Incorporating knowledge into …‬
+--- 
+layout: post 
+title: "Knowledge-Enhanced Prompt-Tuning for Stance Detection" 
+date: 2023-03-28 04:46:22 -0400 
+categories: jekyll update 
+author: "H Huang, B Zhang, Y Li, B Zhang, Y Sun, C Luo - ACM Transactions on Asian , 2023" 
+--- 
+Investigating public attitudes on social media is important in opinion mining systems. Stance detection aims to analyze the attitude of an opinionated text (eg, favor, neutral or against) toward a given target. Existing methods mainly address this problem from the perspective of fine-tuning. Recently, prompt-tuning has achieved success in natural language processing tasks. However, conducting prompt-tuning methods for stance detection in real-world remains a challenge for several reasons.(1) The text  Cites: Knowledgeable prompt-tuning: Incorporating knowledge into
