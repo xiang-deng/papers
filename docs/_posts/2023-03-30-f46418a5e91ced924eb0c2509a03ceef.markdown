@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Koala: An Index for Quantifying Overlaps with Pre-training Corpora"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "TT Vu, X He, G Haffari, E Shareghi - arXiv preprint arXiv:2303.14770, 2023"
+---
+In very recent years more attention has been placed on probing the role of pre-training data in Large Language Models (LLMs) downstream behaviour. Despite the importance, there is no public tool that supports such analysis of pre-training corpora at large scale. To help research in this space, we launch Koala, a searchable index over large pre-training corpora using compressed suffix arrays with highly efficient compression rate and search support. In its first release we index the public …
+Cites: ‪Opt: Open pre-trained transformer language models‬

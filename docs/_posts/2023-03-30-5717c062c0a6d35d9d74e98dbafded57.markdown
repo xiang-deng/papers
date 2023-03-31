@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An Analysis of GPT-3 s Performance in Grammatical Error Correction"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "S Coyne, K Sakaguchi - arXiv preprint arXiv:2303.14342, 2023"
+---
+GPT-3 models are very powerful, achieving high performance on a variety of natural language processing tasks. However, there is a relative lack of detailed published analysis on how well they perform on the task of grammatical error correction (GEC). To address this, we perform experiments testing the capabilities of a GPT-3 model (text-davinci-003) against major GEC benchmarks, comparing the performance of several different prompts, including a comparison of zero-shot and few-shot settings …
+Cites: ‪How can we know what language models know?‬

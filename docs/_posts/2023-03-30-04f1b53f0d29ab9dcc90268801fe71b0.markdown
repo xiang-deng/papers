@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exposing the Functionalities of Neurons for Gated Recurrent Unit Based Sequence-to-Sequence Model"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "YT Lee, DY Wu, CC Yang, SD Lin - arXiv preprint arXiv:2303.15072, 2023"
+---
+The goal of this paper is to report certain scientific discoveries about a Seq2Seq model. It is known that analyzing the behavior of RNN-based models at the neuron level is considered a more challenging task than analyzing a DNN or CNN models due to their recursive mechanism in nature. This paper aims to provide neuron-level analysis to explain why a vanilla GRU-based Seq2Seq model without attention can achieve token-positioning. We found four different types of neurons: storing …
+Cites: ‪Language to logical form with neural attention‬

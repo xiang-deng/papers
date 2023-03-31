@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ReCOGS: How Incidental Details of a Logical Form Overshadow an Evaluation of Semantic Interpretation"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "Z Wu, CD Manning, C Potts - arXiv preprint arXiv:2303.13716, 2023"
+---
+Compositional generalization benchmarks seek to assess whether models can accurately compute meanings for novel sentences, but operationalize this in terms of logical form (LF) prediction. This raises the concern that semantically irrelevant details of the chosen LFs could shape model performance. We argue that this concern is realized for the COGS benchmark (Kim and Linzen, 2020). COGS poses generalization splits that appear impossible for present-day models, which could be …
+Cites: ‪Improving compositional generalization with latent structure and …‬

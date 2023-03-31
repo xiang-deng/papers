@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Task-oriented Memory-efficient Pruning-Adapter"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "G Wang, Q Cao, J Yang, Y Sun - arXiv preprint arXiv:2303.14704, 2023"
+---
+The Outstanding performance and growing size of Large Language Models has led to increased attention in parameter efficient learning. The two predominant approaches are Adapters and Pruning. Adapters are to freeze the model and give it a new weight matrix on the side, which can significantly reduce the time and memory of training, but the cost is that the evaluation and testing will increase the time and memory consumption. Pruning is to cut off some weight and re-distribute the …
+Cites: ‪Intrinsic dimensionality explains the effectiveness of language …‬

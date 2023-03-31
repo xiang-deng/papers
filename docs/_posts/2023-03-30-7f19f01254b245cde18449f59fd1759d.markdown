@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deep Augmentation: Enhancing Self-Supervised Learning through Transformations in Higher Activation Space"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "R Brüel-Gabrielsson, T Wang, M Baradad, J Solomon - arXiv preprint arXiv …, 2023"
+---
+We introduce Deep Augmentation, an approach to data augmentation using dropout to dynamically transform a targeted layer within a neural network, with the option to use the stop-gradient operation, offering significant improvements in model performance and generalization. We demonstrate the efficacy of Deep Augmentation through extensive experiments on contrastive learning tasks in computer vision and NLP domains, where we observe substantial performance gains with ResNets and …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

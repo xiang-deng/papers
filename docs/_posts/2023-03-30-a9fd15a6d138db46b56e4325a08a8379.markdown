@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TabIQA: Table Questions Answering on Business Document Images"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "P Nguyen, NT Ly, H Takeda, A Takasu - arXiv preprint arXiv:2303.14935, 2023"
+---
+Table answering questions from business documents has many challenges that require understanding tabular structures, cross-document referencing, and additional numeric computations beyond simple search queries. This paper introduces a novel pipeline, named TabIQA, to answer questions about business document images. TabIQA combines state-of-the-art deep learning techniques 1) to extract table content and structural information from images and 2) to answer various questions related to …
+Cites: ‪OmniTab: Pretraining with Natural and Synthetic Data for Few-shot …‬

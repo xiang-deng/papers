@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Effective Dialogue-Context Retriever for Long-Term Open-Domain Conversation"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "M Takasaki, N Yoshinaga, M Toyoda - 2023"
+---
+With the spread of smart speakers, open-domain dialogue systems are expected to have long-term communication with their users. In such circumstances, the dialogue systems need to generate responses by taking relevant past conversations into account. However, due to the length limitation of input in neural dialogue systems and the acceptable latency of dialogue systems, we cannot take all the dialogue histories into account. In this study, we propose a task-specific retriever for effectively …
+Cites: ‪Retrieval-augmented generation for knowledge-intensive nlp tasks‬

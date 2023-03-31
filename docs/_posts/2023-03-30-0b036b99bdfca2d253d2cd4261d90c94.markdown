@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Closer Look at Scoring Functions and Generalization Prediction"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "P Trivedi, D Koutra, JJ Thiagarajan - arXiv preprint arXiv:2303.13589, 2023"
+---
+Generalization error predictors (GEPs) aim to predict model performance on unseen distributions by deriving dataset-level error estimates from sample-level scores. However, GEPs often utilize disparate mechanisms (eg, regressors, thresholding functions, calibration datasets, etc), to derive such error estimates, which can obfuscate the benefits of a particular scoring function. Therefore, in this work, we rigorously study the effectiveness of popular scoring functions (confidence, local …
+Cites: ‪Predicting out-of-domain generalization with local manifold …‬

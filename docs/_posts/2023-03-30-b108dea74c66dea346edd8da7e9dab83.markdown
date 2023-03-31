@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "Z Gu, S Jiang, W Huang, J Liang, H Feng, Y Xiao - arXiv preprint arXiv:2303.14425, 2023"
+---
+The model s ability to understand synonymous expression is crucial in many kinds of downstream tasks. It will make the model to better understand the similarity between context, and more robust to the synonym substitution attack. However, many Pretrained Language Model (PLM) lack synonym knowledge due to limitation of small-scale synsets and PLM s pretraining objectives. In this paper, we propose a framework called Sem4SAP to mine synsets from Open Knowledge Graph (Open …
+Cites: ‪Deep contextualized word representations‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Geometrically regularized autoencoders for non-Euclidean data"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "C Jang, Y Lee, YK Noh, FC Park - International Conference on Learning Representations"
+---
+Regularization is almost de rigueur when designing autoencoders that are sparse and robust to noise. Given the recent surge of interest in machine learning problems involving non-Euclidean data, in this paper we address the regularization of autoencoders on curved spaces. We show that by ignoring the underlying geometry of the data and applying standard vector space regularization techniques, autoencoder performance can be severely degraded, or worse, training can fail to …
+Cites: ‪Spherical latent spaces for stable variational autoencoders‬

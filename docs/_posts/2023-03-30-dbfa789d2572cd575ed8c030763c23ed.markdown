@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "C Wei, B Duke, R Jiang, P Aarabi, GW Taylor, F Shkurti - arXiv preprint arXiv …, 2023"
+---
+Vision Transformers (ViT) have shown their competitive advantages performance-wise compared to convolutional neural networks (CNNs) though they often come with high computational costs. To this end, previous methods explore different attention patterns by limiting a fixed number of spatially nearby tokens to accelerate the ViT s multi-head self-attention (MHSA) operations. However, such structured attention patterns limit the token-to-token connections to their spatial relevance …
+Cites: ‪Blockwise Self-Attention for Long Document Understanding‬

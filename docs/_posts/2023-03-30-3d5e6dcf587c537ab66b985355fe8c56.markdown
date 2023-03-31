@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Planarized sentence representation for nested named entity recognition"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "R Geng, Y Chen, R Huang, Y Qin, Q Zheng - Information Processing & Management, 2023"
+---
+One strategy to recognize nested entities is to enumerate overlapped entity spans for classification. However, current models independently verify every entity span, which ignores the semantic dependency between spans. In this paper, we first propose a planarized sentence representation to represent nested named entities. Then, a bi-directional two-dimensional recurrent operation is implemented to learn semantic dependencies between spans. Our method is evaluated on seven public datasets for …
+Cites: ‪Joint mention extraction and classification with mention hypergraphs‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SIGMORPHON 2023 Shared Task of Interlinear Glossing: Baseline Model"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "M Ginn - arXiv preprint arXiv:2303.14234, 2023"
+---
+Language documentation is a critical aspect of language preservation, often including the creation of Interlinear Glossed Text (IGT). Creating IGT is time-consuming and tedious, and automating the process can save valuable annotator effort. This paper describes the baseline system for the SIGMORPHON 2023 Shared Task of Interlinear Glossing. In our system, we utilize a transformer architecture and treat gloss generation as a sequence labelling task.
+Cites: ‪Byte Pair Encoding is Suboptimal for Language Model Pretraining‬

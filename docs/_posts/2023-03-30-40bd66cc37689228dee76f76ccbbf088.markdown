@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Attention as Disentangler for Compositional Zero-shot Learning"
+date:   2023-03-30 05:18:06 -0400
+categories: jekyll update
+author: "S Hao, K Han, KYK Wong - arXiv preprint arXiv:2303.15111, 2023"
+---
+Compositional zero-shot learning (CZSL) aims at learning visual concepts (ie, attributes and objects) from seen compositions and combining concept knowledge into unseen compositions. The key to CZSL is learning the disentanglement of the attribute-object composition. To this end, we propose to exploit cross-attentions as compositional disentanglers to learn disentangled concept embeddings. For example, if we want to recognize an unseen composition  yellow flower , we can …
+Cites: ‪GQA: A new dataset for real-world visual reasoning and …‬
