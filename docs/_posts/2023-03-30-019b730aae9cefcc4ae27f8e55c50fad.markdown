@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query Generation based on Generative Adversarial Networks"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "W Sun, RA Wang, Z Zou - arXiv preprint arXiv:2303.14777, 2023"
----
-Many problems in database systems, such as cardinality estimation, database testing and optimizer tuning, require a large query load as data. However, it is often difficult to obtain a large number of real queries from users due to user privacy restrictions or low frequency of database access. Query generation is one of the approaches to solve this problem. Existing query generation methods, such as random generation and template-based generation, do not consider the relationship between the …
-Cites: ‪A syntactic neural model for general-purpose code generation‬
+--- 
+layout: post 
+title: "Query Generation based on Generative Adversarial Networks" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "W Sun, RA Wang, Z Zou - arXiv preprint arXiv:2303.14777, 2023" 
+--- 
+Many problems in database systems, such as cardinality estimation, database testing and optimizer tuning, require a large query load as data. However, it is often difficult to obtain a large number of real queries from users due to user privacy restrictions or low frequency of database access. Query generation is one of the approaches to solve this problem. Existing query generation methods, such as random generation and template-based generation, do not consider the relationship between the  Cites: A syntactic neural model for general-purpose code generation

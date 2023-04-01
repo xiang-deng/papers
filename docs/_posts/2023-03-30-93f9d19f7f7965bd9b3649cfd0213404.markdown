@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Scaling Expert Language Models with Unsupervised Domain Discovery"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "S Gururangan, M Li, M Lewis, W Shi, T Althoff… - arXiv preprint arXiv …, 2023"
----
-Large language models are typically trained densely: all parameters are updated with respect to all inputs. This requires synchronization of billions of parameters across thousands of GPUs. We introduce a simple but effective method to asynchronously train large, sparse language models on arbitrary text corpora. Our method clusters a corpus into sets of related documents, trains a separate expert language model on each cluster, and combines them in a sparse ensemble for …
-Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬
+--- 
+layout: post 
+title: "Scaling Expert Language Models with Unsupervised Domain Discovery" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "S Gururangan, M Li, M Lewis, W Shi, T Althoff - arXiv preprint arXiv , 2023" 
+--- 
+Large language models are typically trained densely: all parameters are updated with respect to all inputs. This requires synchronization of billions of parameters across thousands of GPUs. We introduce a simple but effective method to asynchronously train large, sparse language models on arbitrary text corpora. Our method clusters a corpus into sets of related documents, trains a separate expert language model on each cluster, and combines them in a sparse ensemble for  Cites: Rethinking the Role of Demonstrations: What Makes In-Context

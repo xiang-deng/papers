@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Identification of Negative Transfers in Multitask Learning Using Surrogate Models"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "D Li, HL Nguyen, HR Zhang - arXiv preprint arXiv:2303.14582, 2023"
----
-Multitask learning is widely used in practice to train a low-resource target task by augmenting it with multiple related source tasks. Yet, naively combining all the source tasks with a target task does not always improve the prediction performance for the target task due to negative transfers. Thus, a critical problem in multitask learning is identifying subsets of source tasks that would benefit the target task. This problem is computationally challenging since the number of subsets grows …
-Cites: ‪Exploring and predicting transferability across nlp tasks‬
+--- 
+layout: post 
+title: "Identification of Negative Transfers in Multitask Learning Using Surrogate Models" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "D Li, HL Nguyen, HR Zhang - arXiv preprint arXiv:2303.14582, 2023" 
+--- 
+Multitask learning is widely used in practice to train a low-resource target task by augmenting it with multiple related source tasks. Yet, naively combining all the source tasks with a target task does not always improve the prediction performance for the target task due to negative transfers. Thus, a critical problem in multitask learning is identifying subsets of source tasks that would benefit the target task. This problem is computationally challenging since the number of subsets grows  Cites: Exploring and predicting transferability across nlp tasks

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Modeling Extractive Question Answering Using Encoder-Decoder Models with Constrained Decoding and Evaluation-Based Reinforcement Learning"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "S Li, C Sun, B Liu, Y Liu, Z Ji - Mathematics, 2023"
----
-Extractive Question Answering, also known as machine reading comprehension, can be used to evaluate how well a computer comprehends human language. It is a valuable topic with many applications, such as in chatbots and personal assistants. End-to-end neural-network-based models have achieved remarkable performance on these tasks. The most frequently used approach to extract answers with neural networks is to predict the answer s start and end positions in the document …
-Cites: ‪Learning Dense Representations of Phrases at Scale‬
+--- 
+layout: post 
+title: "Modeling Extractive Question Answering Using Encoder-Decoder Models with Constrained Decoding and Evaluation-Based Reinforcement Learning" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "S Li, C Sun, B Liu, Y Liu, Z Ji - Mathematics, 2023" 
+--- 
+Extractive Question Answering, also known as machine reading comprehension, can be used to evaluate how well a computer comprehends human language. It is a valuable topic with many applications, such as in chatbots and personal assistants. End-to-end neural-network-based models have achieved remarkable performance on these tasks. The most frequently used approach to extract answers with neural networks is to predict the answer s start and end positions in the document  Cites: Learning Dense Representations of Phrases at Scale

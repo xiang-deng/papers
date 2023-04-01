@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An investigation of licensing of datasets for machine learning based on the GQM model"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "J Chen, N Yoshida, H Takada - arXiv preprint arXiv:2303.13735, 2023"
----
-Dataset licensing is currently an issue in the development of machine learning systems. And in the development of machine learning systems, the most widely used are publicly available datasets. However, since the images in the publicly available dataset are mainly obtained from the Internet, some images are not commercially available. Furthermore, developers of machine learning systems do not often care about the license of the dataset when training machine learning models with it. In …
-Cites: ‪The unreasonable effectiveness of data‬
+--- 
+layout: post 
+title: "An investigation of licensing of datasets for machine learning based on the GQM model" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "J Chen, N Yoshida, H Takada - arXiv preprint arXiv:2303.13735, 2023" 
+--- 
+Dataset licensing is currently an issue in the development of machine learning systems. And in the development of machine learning systems, the most widely used are publicly available datasets. However, since the images in the publicly available dataset are mainly obtained from the Internet, some images are not commercially available. Furthermore, developers of machine learning systems do not often care about the license of the dataset when training machine learning models with it. In  Cites: The unreasonable effectiveness of data

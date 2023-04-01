@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Where to go next for recommender systems? id-vs. modality-based recommender models revisited"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "Z Yuan, F Yuan, Y Song, Y Li, J Fu, F Yang, Y Pan, Y Ni - arXiv preprint arXiv …, 2023"
----
-Recommendation models that utilize unique identities (IDs) to represent distinct users and items have been state-of-the-art (SOTA) and dominated the recommender systems (RS) literature for over a decade. Meanwhile, the pre-trained modality encoders, such as BERT and ViT, have become increasingly powerful in modeling the raw modality features of an item, such as text and images. Given this, a natural question arises: can a purely modality-based recommendation model (MoRec) …
-Cites: ‪On the opportunities and risks of foundation models‬
+--- 
+layout: post 
+title: "Where to go next for recommender systems? id-vs. modality-based recommender models revisited" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "Z Yuan, F Yuan, Y Song, Y Li, J Fu, F Yang, Y Pan, Y Ni - arXiv preprint arXiv , 2023" 
+--- 
+Recommendation models that utilize unique identities (IDs) to represent distinct users and items have been state-of-the-art (SOTA) and dominated the recommender systems (RS) literature for over a decade. Meanwhile, the pre-trained modality encoders, such as BERT and ViT, have become increasingly powerful in modeling the raw modality features of an item, such as text and images. Given this, a natural question arises: can a purely modality-based recommendation model (MoRec)  Cites: On the opportunities and risks of foundation models

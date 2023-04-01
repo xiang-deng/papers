@@ -1,9 +1,8 @@
----
-layout: post
-title:  "$\Delta $-Networks for Efficient Model Patching"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "C Devaguptapu, S Sinha, KJ Joseph… - arXiv preprint arXiv …, 2023"
----
-Models pre-trained on large-scale datasets are often finetuned to support newer tasks and datasets that arrive over time. This process necessitates storing copies of the model over time for each task that the pre-trained model is finetuned to. Building on top of recent model patching work, we propose $\Delta $-Patching for finetuning neural network models in an efficient manner, without the need to store model copies. We propose a simple and lightweight method called $\Delta $-Networks to …
-Cites: ‪Patching open-vocabulary models by interpolating weights‬
+--- 
+layout: post 
+title: "$\Delta $-Networks for Efficient Model Patching" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "C Devaguptapu, S Sinha, KJ Joseph - arXiv preprint arXiv , 2023" 
+--- 
+Models pre-trained on large-scale datasets are often finetuned to support newer tasks and datasets that arrive over time. This process necessitates storing copies of the model over time for each task that the pre-trained model is finetuned to. Building on top of recent model patching work, we propose $\Delta $-Patching for finetuning neural network models in an efficient manner, without the need to store model copies. We propose a simple and lightweight method called $\Delta $-Networks to  Cites: Patching open-vocabulary models by interpolating weights

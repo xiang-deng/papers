@@ -1,9 +1,8 @@
----
-layout: post
-title:  "EdgeTran: Co-designing Transformers for Efficient Inference on Mobile Edge Platforms"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "S Tuli, NK Jha - arXiv preprint arXiv:2303.13745, 2023"
----
-Automated design of efficient transformer models has recently attracted significant attention from industry and academia. However, most works only focus on certain metrics while searching for the best-performing transformer architecture. Furthermore, running traditional, complex, and large transformer models on low-compute edge platforms is a challenging problem. In this work, we propose a framework, called ProTran, to profile the hardware performance measures for a …
-Cites: ‪Well-read students learn better: The impact of student initialization …‬
+--- 
+layout: post 
+title: "EdgeTran: Co-designing Transformers for Efficient Inference on Mobile Edge Platforms" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "S Tuli, NK Jha - arXiv preprint arXiv:2303.13745, 2023" 
+--- 
+Automated design of efficient transformer models has recently attracted significant attention from industry and academia. However, most works only focus on certain metrics while searching for the best-performing transformer architecture. Furthermore, running traditional, complex, and large transformer models on low-compute edge platforms is a challenging problem. In this work, we propose a framework, called ProTran, to profile the hardware performance measures for a  Cites: Well-read students learn better: The impact of student initialization

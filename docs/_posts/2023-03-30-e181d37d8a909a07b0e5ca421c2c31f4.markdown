@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Anomaly Detection under Distribution Shift"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "T Cao, J Zhu, G Pang - arXiv preprint arXiv:2303.13845, 2023"
----
-Anomaly detection (AD) is a crucial machine learning task that aims to learn patterns from a set of normal training samples to identify abnormal samples in test data. Most existing AD studies assume that the training and test data are drawn from the same data distribution, but the test data can have large distribution shifts arising in many real-world applications due to different natural variations such as new lighting conditions, object poses, or background appearances, rendering existing AD …
-Cites: ‪Improving out-of-distribution generalization via multi-task self …‬
+--- 
+layout: post 
+title: "Anomaly Detection under Distribution Shift" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "T Cao, J Zhu, G Pang - arXiv preprint arXiv:2303.13845, 2023" 
+--- 
+Anomaly detection (AD) is a crucial machine learning task that aims to learn patterns from a set of normal training samples to identify abnormal samples in test data. Most existing AD studies assume that the training and test data are drawn from the same data distribution, but the test data can have large distribution shifts arising in many real-world applications due to different natural variations such as new lighting conditions, object poses, or background appearances, rendering existing AD  Cites: Improving out-of-distribution generalization via multi-task self

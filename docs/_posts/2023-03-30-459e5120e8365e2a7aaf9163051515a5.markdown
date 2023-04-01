@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Improving Code Completion by Solving Data Inconsistencies in the Source Code with a Hierarchical Language Model"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "Y Yang - Electronics, 2023"
----
-In the field of software engineering, applying language models to the token sequence of source code is the state-of-the-art approach to building a code recommendation system. When applying language models to source code, it is difficult for state-of-the-art language models to deal with the data inconsistency problem, which is caused by the free naming conventions of source code. It is common for user-defined variables or methods with similar semantics in source …
-Cites: ‪A syntactic neural model for general-purpose code generation‬

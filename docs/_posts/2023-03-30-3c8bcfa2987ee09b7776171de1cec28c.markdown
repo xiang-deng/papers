@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Dual-Encoder Training through Dynamic Indexes for Negative Mining"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "N Monath, M Zaheer, K Allen, A McCallum - arXiv preprint arXiv:2303.15311, 2023"
----
-Dual encoder models are ubiquitous in modern classification and retrieval. Crucial for training such dual encoders is an accurate estimation of gradients from the partition function of the softmax over the large output space; this requires finding negative targets that contribute most significantly (  hard negatives ). Since dual encoder model parameters change during training, the use of traditional static nearest neighbor indexes can be sub-optimal. These static indexes (1) periodically …
-Cites: ‪Zero-shot entity linking by reading entity descriptions‬
+--- 
+layout: post 
+title: "Improving Dual-Encoder Training through Dynamic Indexes for Negative Mining" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "N Monath, M Zaheer, K Allen, A McCallum - arXiv preprint arXiv:2303.15311, 2023" 
+--- 
+Dual encoder models are ubiquitous in modern classification and retrieval. Crucial for training such dual encoders is an accurate estimation of gradients from the partition function of the softmax over the large output space; this requires finding negative targets that contribute most significantly ( hard negatives ). Since dual encoder model parameters change during training, the use of traditional static nearest neighbor indexes can be sub-optimal. These static indexes (1) periodically  Cites: Zero-shot entity linking by reading entity descriptions

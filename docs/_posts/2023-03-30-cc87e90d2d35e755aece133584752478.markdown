@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Remind of the Past: Incremental Learning with Analogical Prompts"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "Z Ma, X Hong, B Liu, Y Wang, P Guo, H Li - arXiv preprint arXiv:2303.13898, 2023"
----
-Although data-free incremental learning methods are memory-friendly, accurately estimating and counteracting representation shifts is challenging in the absence of historical data. This paper addresses this thorny problem by proposing a novel incremental learning method inspired by human analogy capabilities. Specifically, we design an analogy-making mechanism to remap the new data into the old class by prompt tuning. It mimics the feature distribution of the target old class on the old …
-Cites: ‪Learn to grow: A continual structure learning framework for …‬
+--- 
+layout: post 
+title: "Remind of the Past: Incremental Learning with Analogical Prompts" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "Z Ma, X Hong, B Liu, Y Wang, P Guo, H Li - arXiv preprint arXiv:2303.13898, 2023" 
+--- 
+Although data-free incremental learning methods are memory-friendly, accurately estimating and counteracting representation shifts is challenging in the absence of historical data. This paper addresses this thorny problem by proposing a novel incremental learning method inspired by human analogy capabilities. Specifically, we design an analogy-making mechanism to remap the new data into the old class by prompt tuning. It mimics the feature distribution of the target old class on the old  Cites: Learn to grow: A continual structure learning framework for

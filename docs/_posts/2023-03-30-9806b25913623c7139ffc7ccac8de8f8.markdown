@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Causal Attributions in Neural Networks: Beyond Direct Effects"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "AG Reddy, S Bachu, H Pathak, BL Godfrey… - arXiv preprint arXiv …, 2023"
----
-There has been a growing interest in capturing and maintaining causal relationships in Neural Network (NN) models in recent years. We study causal approaches to estimate and maintain input-output attributions in NN models in this work. In particular, existing efforts in this direction assume independence among input variables (by virtue of the NN architecture), and hence study only direct causal effects. Viewing an NN as a structural causal model (SCM), we instead focus on …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Learning Causal Attributions in Neural Networks: Beyond Direct Effects" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "AG Reddy, S Bachu, H Pathak, BL Godfrey - arXiv preprint arXiv , 2023" 
+--- 
+There has been a growing interest in capturing and maintaining causal relationships in Neural Network (NN) models in recent years. We study causal approaches to estimate and maintain input-output attributions in NN models in this work. In particular, existing efforts in this direction assume independence among input variables (by virtue of the NN architecture), and hence study only direct causal effects. Viewing an NN as a structural causal model (SCM), we instead focus on  Cites: Why Should I Trust You? : Explaining the Predictions of Any

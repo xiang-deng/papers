@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Intrinsically Interpretable Entity Matching System"
-date:   2023-03-30 05:18:06 -0400
-categories: jekyll update
-author: "A Baraldi, F Del Buono, F Guerra, M Paganelli… - 2023"
----
-Explainable classification systems generate predictions along with a weight for each term in the input record measuring its contribution to the prediction. In the entity matching (EM) scenario, inputs are pairs of entity descriptions and the resulting explanations can be difficult to understand for the users. They can be very long and assign different impacts to similar terms located in different descriptions. To address these issues, we introduce the concept of decision units, ie, basic information units …
-Cites: ‪Pathologies of Neural Models Make Interpretation Difficult‬
+--- 
+layout: post 
+title: "An Intrinsically Interpretable Entity Matching System" 
+date: 2023-03-30 05:18:06 -0400 
+categories: jekyll update 
+author: "A Baraldi, F Del Buono, F Guerra, M Paganelli - 2023" 
+--- 
+Explainable classification systems generate predictions along with a weight for each term in the input record measuring its contribution to the prediction. In the entity matching (EM) scenario, inputs are pairs of entity descriptions and the resulting explanations can be difficult to understand for the users. They can be very long and assign different impacts to similar terms located in different descriptions. To address these issues, we introduce the concept of decision units, ie, basic information units  Cites: Pathologies of Neural Models Make Interpretation Difficult
