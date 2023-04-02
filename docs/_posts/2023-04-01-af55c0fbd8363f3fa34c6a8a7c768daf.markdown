@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Training Language Models with Language Feedback at Scale"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "J Scheurer, JA Campos, T Korbak, JS Chan, A Chen… - arXiv preprint arXiv …, 2023"
+---
+Pretrained language models often generate outputs that are not in line with human preferences, such as harmful text or factually incorrect summaries. Recent work approaches the above issues by learning from a simple form of human feedback: comparisons between pairs of model-generated outputs. However, comparison feedback only conveys limited information about human preferences. In this paper, we introduce Imitation learning from Language Feedback (ILF), a new approach that …
+Cites: ‪PEER: A Collaborative Language Model‬

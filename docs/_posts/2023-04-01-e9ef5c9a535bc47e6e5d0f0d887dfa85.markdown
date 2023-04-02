@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neuro-symbolic Rule Learning in Real-world Classification Tasks"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "KG Baugh, N Cingillioglu, A Russo - arXiv preprint arXiv:2303.16674, 2023"
+---
+Neuro-symbolic rule learning has attracted lots of attention as it offers better interpretability than pure neural models and scales better than symbolic rule learning. A recent approach named pix2rule proposes a neural Disjunctive Normal Form (neural DNF) module to learn symbolic rules with feed-forward layers. Although proved to be effective in synthetic binary classification, pix2rule has not been applied to more challenging tasks such as multi-label and multi-class classifications over real …
+Cites: ‪Neural logic machines‬

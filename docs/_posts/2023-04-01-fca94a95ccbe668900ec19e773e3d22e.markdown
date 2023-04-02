@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ChatGPT as a Factual Inconsistency Evaluator for Abstractive Text Summarization"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "Z Luo, Q Xie, S Ananiadou - arXiv preprint arXiv:2303.15621, 2023"
+---
+The performance of abstractive text summarization has been greatly boosted by pre-trained language models recently. The main concern of existing abstractive summarization methods is the factual inconsistency problem of their generated summary. To alleviate the problem, many efforts have focused on developing effective factuality evaluation metrics based on natural language inference and question answering et al. However, they have limitations of high computational …
+Cites: ‪Palm: Scaling language modeling with pathways‬

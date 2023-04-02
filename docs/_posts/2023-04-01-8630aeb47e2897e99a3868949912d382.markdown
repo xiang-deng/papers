@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Do Neural Topic Models Really Need Dropout? Analysis of the Effect of Dropout in Topic Modeling"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "S Adhya, A Lahiri, DK Sanyal - arXiv preprint arXiv:2303.15973, 2023"
+---
+Dropout is a widely used regularization trick to resolve the overfitting issue in large feedforward neural networks trained on a small dataset, which performs poorly on the held-out test subset. Although the effectiveness of this regularization trick has been extensively studied for convolutional neural networks, there is a lack of analysis of it for unsupervised models and in particular, VAE-based neural topic models. In this paper, we have analyzed the consequences of dropout in the encoder as well as …
+Cites: ‪Is automated topic model evaluation broken? the incoherence of …‬

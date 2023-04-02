@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Code Generation by Training with Natural Language Feedback"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "A Chen, J Scheurer, T Korbak, JA Campos, JS Chan… - arXiv preprint arXiv …, 2023"
+---
+The potential for pre-trained large language models (LLMs) to use natural language feedback at inference time has been an exciting recent development. We build upon this observation by formalizing an algorithm for learning from natural language feedback at training time instead, which we call Imitation learning from Language Feedback (ILF). ILF requires only a small amount of human-written feedback during training and does not require the same feedback at test time, making it both user …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

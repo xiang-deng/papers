@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Explicit Planning Helps Language Models in Logical Reasoning"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "H Zhao, K Wang, M Yu, H Mei - arXiv preprint arXiv:2303.15714, 2023"
+---
+Language models have been shown to perform remarkably well on a wide range of natural language processing tasks. In this paper, we propose a novel system that uses language models to perform multi-step logical reasoning. Our system incorporates explicit planning into its inference procedure, thus able to make more informed reasoning decisions at each step by looking ahead into their future effects. In our experiments, our full system significantly outperforms other competing …
+Cites: ‪Compositional Questions Do Not Necessitate Multi-hop Reasoning‬

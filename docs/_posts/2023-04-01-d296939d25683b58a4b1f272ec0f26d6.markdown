@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "V Lialin, V Deshpande, A Rumshisky - arXiv preprint arXiv:2303.15647, 2023"
+---
+This paper presents a systematic overview and comparison of parameter-efficient fine-tuning methods covering over 40 papers published between February 2019 and February 2023. These methods aim to resolve the infeasibility and impracticality of fine-tuning large language models by only training a small set of parameters. We provide a taxonomy that covers a broad range of methods and present a detailed method comparison with a specific focus on real-life efficiency and fine-tuning …
+Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬

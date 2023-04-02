@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "H Yuan, C Zhang, H Wang, F Xie, P Cai, H Dong, Z Lu - arXiv preprint arXiv …, 2023"
+---
+We study building a multi-task agent in Minecraft. Without human demonstrations, solving long-horizon tasks in this open-ended environment with reinforcement learning (RL) is extremely sample inefficient. To tackle the challenge, we decompose solving Minecraft tasks into learning basic skills and planning over the skills. We propose three types of fine-grained basic skills in Minecraft, and use RL with intrinsic rewards to accomplish basic skills with high success rates. For skill planning, we use …
+Cites: ‪Palm: Scaling language modeling with pathways‬

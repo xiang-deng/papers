@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Did You Mean...? Confidence-based Trade-offs in Semantic Parsing"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "E Stengel-Eskin, B Van Durme - arXiv preprint arXiv:2303.16857, 2023"
+---
+We illustrate how a calibrated model can help balance common trade-offs in task-oriented parsing. In a simulated annotator-in-the-loop experiment, we show that well-calibrated confidence scores allow us to balance cost with annotator load, improving accuracy with a small number of interactions. We then examine how confidence scores can help optimize the trade-off between usability and safety. We show that confidence-based thresholding can substantially reduce the number of incorrect low …
+Cites: ‪Task-oriented dialogue as dataflow synthesis‬

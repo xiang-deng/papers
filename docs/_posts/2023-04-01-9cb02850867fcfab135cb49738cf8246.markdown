@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UNIVERSITY OF CAMBRIDGE AT TREC CAST 2022"
+date:   2023-04-01 04:48:36 -0400
+categories: jekyll update
+author: "A Liusie, M Qian, X Li, M Gales"
+---
+Team heatwave (of the University of Cambridge) submitted 3 automatic runs to the TREC 2022 Conversational Assistance Track. This paper discusses our approach to the challenge of conversational informational retrieval. We first describe our four stage approach of query reformulation, BM25 retrieval, passage reranking, and response extraction. Our experiments then show that our multi-query approach, which uses the raw concatenated conversational context for BM25 and the rewritten …
+Cites: ‪Can you unpack that? learning to rewrite questions-in-context‬
