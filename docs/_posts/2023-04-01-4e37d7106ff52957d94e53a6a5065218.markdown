@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Over-parameterized Exponential Regression"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "Y Gao, S Mahadevan, Z Song - arXiv preprint arXiv:2303.16504, 2023"
----
-Over the past few years, there has been a significant amount of research focused on studying the ReLU activation function, with the aim of achieving neural network convergence through over-parametrization. However, recent developments in the field of Large Language Models (LLMs) have sparked interest in the use of exponential activation functions, specifically in the attention mechanism. Mathematically, we define the neural function $ F:\mathbb {R}^{d\times …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "An Over-parameterized Exponential Regression" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "Y Gao, S Mahadevan, Z Song - arXiv preprint arXiv:2303.16504, 2023" 
+--- 
+Over the past few years, there has been a significant amount of research focused on studying the ReLU activation function, with the aim of achieving neural network convergence through over-parametrization. However, recent developments in the field of Large Language Models (LLMs) have sparked interest in the use of exponential activation functions, specifically in the attention mechanism. Mathematically, we define the neural function $ F:\mathbb {R}^{d\times  Cites: Palm: Scaling language modeling with pathways

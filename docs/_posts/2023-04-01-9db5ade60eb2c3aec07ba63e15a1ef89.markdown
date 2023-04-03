@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Klinikai leletek strukturálása mondatszintű címkézéssel"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "SL Klaudia, P Ágnes, K András, V László"
----
-Kivonat A szöveges orvosi leletek különböző jellegű információkat tartalmaznak, mint például a vizsgálati technika, a páciens panaszai, az orvos által megállapított elváltozások, vagy az orvos véleménye. Az információ strukturálása nagyban megkönnyítheti a leletek értelmezését, adminisztrációját, és gépi feldolgozását is. Cikkünkben egy huBERT modellen alapuló megoldással címkézzük fel magyar nyelvű gerincleletek szövegét mondatonként. A modell egy egyszerű utófeldolgozás …
-Cites: ‪Deep contextualized word representations. arXiv 2018‬
+--- 
+layout: post 
+title: "Klinikai leletek strukturlsa mondatszint cmkzssel" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "SL Klaudia, P gnes, K Andrs, V Lszl" 
+--- 
+Kivonat A szveges orvosi leletek klnbz jelleg informcikat tartalmaznak, mint pldul a vizsglati technika, a pciens panaszai, az orvos ltal megllaptott elvltozsok, vagy az orvos vlemnye. Az informci strukturlsa nagyban megknnytheti a leletek rtelmezst, adminisztrcijt, s gpi feldolgozst is. Cikknkben egy huBERT modellen alapul megoldssal cmkzzk fel magyar nyelv gerincleletek szvegt mondatonknt. A modell egy egyszer utfeldolgozs  Cites: Deep contextualized word representations. arXiv 2018

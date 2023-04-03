@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-shot Prompting for Code Complexity Prediction Using GitHub Copilot"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "ML Siddiq, A Samee, SR Azgor, MA Haider, SI Sawraz…"
----
-Code generation models are gaining popularity because they can produce correct code from a prompt, speeding up the software development process. GitHub Copilot is currently one of the most commonly used tools for code generation. This tool is based on GPT3, a Large Language Model (LLM), and can perform zero-shot prompting tasks ie, tasks for which the model is not specifically trained. In this paper, we describe a preliminary study that investigates whether GitHub Copilot can predict …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "Zero-shot Prompting for Code Complexity Prediction Using GitHub Copilot" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "ML Siddiq, A Samee, SR Azgor, MA Haider, SI Sawraz" 
+--- 
+Code generation models are gaining popularity because they can produce correct code from a prompt, speeding up the software development process. GitHub Copilot is currently one of the most commonly used tools for code generation. This tool is based on GPT3, a Large Language Model (LLM), and can perform zero-shot prompting tasks ie, tasks for which the model is not specifically trained. In this paper, we describe a preliminary study that investigates whether GitHub Copilot can predict  Cites: Graphcodebert: Pre-training code representations with data flow

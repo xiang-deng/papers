@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Foundation Models and Fair Use"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "P Henderson, X Li, D Jurafsky, T Hashimoto… - arXiv preprint arXiv …, 2023"
----
-Existing foundation models are trained on copyrighted material. Deploying these models can pose both legal and ethical risks when data creators fail to receive appropriate attribution or compensation. In the United States and several other countries, copyrighted content may be used to build foundation models without incurring liability due to the fair use doctrine. However, there is a caveat: If the model produces output that is similar to copyrighted data, particularly in scenarios that affect …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Foundation Models and Fair Use" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "P Henderson, X Li, D Jurafsky, T Hashimoto - arXiv preprint arXiv , 2023" 
+--- 
+Existing foundation models are trained on copyrighted material. Deploying these models can pose both legal and ethical risks when data creators fail to receive appropriate attribution or compensation. In the United States and several other countries, copyrighted content may be used to build foundation models without incurring liability due to the fair use doctrine. However, there is a caveat: If the model produces output that is similar to copyrighted data, particularly in scenarios that affect  Cites: Palm: Scaling language modeling with pathways

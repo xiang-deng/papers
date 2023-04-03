@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Learning Expressive Prompting With Residuals for Vision Transformers"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "R Das, Y Dukler, A Ravichandran, A Swaminathan - arXiv preprint arXiv:2303.15591, 2023"
----
-Prompt learning is an efficient approach to adapt transformers by inserting learnable set of parameters into the input and intermediate representations of a pre-trained model. In this work, we present Expressive Prompts with Residuals (EXPRES) which modifies the prompt learning paradigm specifically for effective adaptation of vision transformers (ViT). Out method constructs downstream representations via learnable``output  tokens, that are akin to the learned class tokens of the ViT. Further …
-Cites: ‪CPT: Colorful Prompt Tuning for Pre-trained Vision-Language …‬

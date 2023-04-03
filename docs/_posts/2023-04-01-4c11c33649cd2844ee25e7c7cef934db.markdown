@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Supervised Masked Knowledge Distillation for Few-Shot Transformers"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "H Lin, G Han, J Ma, S Huang, X Lin, SF Chang - arXiv preprint arXiv:2303.15466, 2023"
----
-Vision Transformers (ViTs) emerge to achieve impressive performance on many data-abundant computer vision tasks by capturing long-range dependencies among local features. However, under few-shot learning (FSL) settings on small datasets with only a few labeled data, ViT tends to overfit and suffers from severe performance degradation due to its absence of CNN-alike inductive bias. Previous works in FSL avoid such problem either through the help of self-supervised auxiliary losses, or …
-Cites: ‪Videoclip: Contrastive pre-training for zero-shot video-text …‬

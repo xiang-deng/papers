@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Joint embedding in Hierarchical distance and semantic representation learning for link prediction"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "J Liu, J Chen, C Fan, F Zhou - arXiv preprint arXiv:2303.15655, 2023"
----
-The link prediction task aims to predict missing entities or relations in the knowledge graph and is essential for the downstream application. Existing well-known models deal with this task by mainly focusing on representing knowledge graph triplets in the distance space or semantic space. However, they can not fully capture the information of head and tail entities, nor even make good use of hierarchical level information. Thus, in this paper, we propose a novel knowledge graph embedding …
-Cites: ‪Convolutional 2d knowledge graph embeddings‬

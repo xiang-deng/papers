@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hybrid lemmatization in HuSpaCy"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "P Berkecz, G Orosz, Z Szántó, G Szabó, R Farkas - XIX. Magyar Számítógépes …, 2023"
----
-Lemmatization is still not a trivial task for morphologically rich languages. Previous studies showed that hybrid architectures usually work better for these languages and can yield great results. This paper presents a hybrid lemmatizer utilizing both a neural model, dictionaries and hand-crafted rules. We introduce a hybrid architecture along with empirical results on a widely used Hungarian dataset. The presented methods are published as three HuSpaCy models.
-Cites: ‪Stanza: A python natural language processing toolkit for many …‬
+--- 
+layout: post 
+title: "Hybrid lemmatization in HuSpaCy" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "P Berkecz, G Orosz, Z Sznt, G Szab, R Farkas - XIX. Magyar Szmtgpes , 2023" 
+--- 
+Lemmatization is still not a trivial task for morphologically rich languages. Previous studies showed that hybrid architectures usually work better for these languages and can yield great results. This paper presents a hybrid lemmatizer utilizing both a neural model, dictionaries and hand-crafted rules. We introduce a hybrid architecture along with empirical results on a widely used Hungarian dataset. The presented methods are published as three HuSpaCy models.  Cites: Stanza: A python natural language processing toolkit for many

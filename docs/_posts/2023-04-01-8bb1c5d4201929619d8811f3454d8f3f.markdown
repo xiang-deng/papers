@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Context-Aware Dynamic Word Embeddings For Aspect Term Extraction"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "J Xu, J Xie, Y Cai, Z Lin, H Leung, Q Li, TS Chua - IEEE Transactions on Affective …, 2023"
----
-The aspect term extraction (ATE) task aims to extract aspect terms describing a part or an attribute of a product from review sentences. Most existing works rely on either general or domain embedding to address this problem. Despite the promising results, the importance of general and domain embeddings is still ignored by most methods, resulting in degraded performances. Besides, word embedding is also related to downstream tasks, and how to regularize word embeddings to capture …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Context-Aware Dynamic Word Embeddings For Aspect Term Extraction" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "J Xu, J Xie, Y Cai, Z Lin, H Leung, Q Li, TS Chua - IEEE Transactions on Affective , 2023" 
+--- 
+The aspect term extraction (ATE) task aims to extract aspect terms describing a part or an attribute of a product from review sentences. Most existing works rely on either general or domain embedding to address this problem. Despite the promising results, the importance of general and domain embeddings is still ignored by most methods, resulting in degraded performances. Besides, word embedding is also related to downstream tasks, and how to regularize word embeddings to capture  Cites: Deep contextualized word representations

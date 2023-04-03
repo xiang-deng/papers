@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LMExplainer: a Knowledge-Enhanced Explainer for Language Models"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "Z Chen, AK Singh, M Sra - arXiv preprint arXiv:2303.16537, 2023"
----
-Large language models (LMs) such as GPT-4 are very powerful and can process different kinds of natural language processing (NLP) tasks. However, it can be difficult to interpret the results due to the multi-layer nonlinear model structure and millions of parameters. Lack of understanding of how the model works can make the model unreliable and dangerous for everyday users in real-world scenarios. Most recent works exploit the weights of attention to provide explanations for model …
-Cites: ‪Greaselm: Graph reasoning enhanced language models for …‬
+--- 
+layout: post 
+title: "LMExplainer: a Knowledge-Enhanced Explainer for Language Models" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "Z Chen, AK Singh, M Sra - arXiv preprint arXiv:2303.16537, 2023" 
+--- 
+Large language models (LMs) such as GPT-4 are very powerful and can process different kinds of natural language processing (NLP) tasks. However, it can be difficult to interpret the results due to the multi-layer nonlinear model structure and millions of parameters. Lack of understanding of how the model works can make the model unreliable and dangerous for everyday users in real-world scenarios. Most recent works exploit the weights of attention to provide explanations for model  Cites: Greaselm: Graph reasoning enhanced language models for

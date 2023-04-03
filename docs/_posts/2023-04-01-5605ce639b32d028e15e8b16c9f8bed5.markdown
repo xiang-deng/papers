@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hyperbolic Geometry in Computer Vision: A Novel Framework for Convolutional Neural Networks"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "A Bdeir, K Schwethelm, N Landwehr - arXiv preprint arXiv:2303.15919, 2023"
----
-Real-world visual data exhibit intrinsic hierarchical structures that can be represented effectively in hyperbolic spaces. Hyperbolic neural networks (HNNs) are a promising approach for learning feature representations in such spaces. However, current methods in computer vision rely on Euclidean backbones and only project features to the hyperbolic space in the task heads, limiting their ability to fully leverage the benefits of hyperbolic geometry. To address this, we present HCNN, the …
-Cites: ‪Fully Hyperbolic Neural Networks‬
+--- 
+layout: post 
+title: "Hyperbolic Geometry in Computer Vision: A Novel Framework for Convolutional Neural Networks" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "A Bdeir, K Schwethelm, N Landwehr - arXiv preprint arXiv:2303.15919, 2023" 
+--- 
+Real-world visual data exhibit intrinsic hierarchical structures that can be represented effectively in hyperbolic spaces. Hyperbolic neural networks (HNNs) are a promising approach for learning feature representations in such spaces. However, current methods in computer vision rely on Euclidean backbones and only project features to the hyperbolic space in the task heads, limiting their ability to fully leverage the benefits of hyperbolic geometry. To address this, we present HCNN, the  Cites: Fully Hyperbolic Neural Networks

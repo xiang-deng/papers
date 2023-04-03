@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MLIA-DAC@ TREC CAsT 2022: Sparse Contextualized Query Embedding"
-date:   2023-04-01 04:48:36 -0400
-categories: jekyll update
-author: "TG Le Hai Nam, T Formal, JY Nie, B Piwowarski…"
----
-We extend SPLADE, a sparse information retrieval model, as our first stage ranker for the conversational task. This end-to-end approach achieves a high recall (as measure on TREC CAsT 2021). To further increase the effectiveness of our approach, we train a T5-based re-ranker. This working note fully describes our model and the four runs submitted to TREC CAsT 2022.
-Cites: ‪Can you unpack that? learning to rewrite questions-in-context‬
+--- 
+layout: post 
+title: "MLIA-DAC@ TREC CAsT 2022: Sparse Contextualized Query Embedding" 
+date: 2023-04-01 04:48:36 -0400 
+categories: jekyll update 
+author: "TG Le Hai Nam, T Formal, JY Nie, B Piwowarski" 
+--- 
+We extend SPLADE, a sparse information retrieval model, as our first stage ranker for the conversational task. This end-to-end approach achieves a high recall (as measure on TREC CAsT 2021). To further increase the effectiveness of our approach, we train a T5-based re-ranker. This working note fully describes our model and the four runs submitted to TREC CAsT 2022.  Cites: Can you unpack that? learning to rewrite questions-in-context
