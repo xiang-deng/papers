@@ -5,4 +5,4 @@ date: 2023-04-01 04:48:36 -0400
 categories: jekyll update 
 author: "TT Cai, H Namkoong, S Yadlowsky" 
 --- 
-Prediction models can perform poorly when deployed to target distributions different from the training distribution. To understand these operational failure modes, we develop a method, called DIstribution Shift DEcomposition (DISDE), to attribute a drop in performance to different types of distribution shifts. Our approach decomposes the performance drop into terms for 1) an increase in harder but frequently seen examples from training, 2) changes in the relationship between  Cites: Robust fine-tuning of zero-shot models
+Prediction models can perform poorly when deployed to target distributions different from the training distribution. To understand these operational failure modes, we develop a method, called DIstribution Shift DEcomposition (DISDE), to attribute a drop in performance to different types of distribution shifts. Our approach decomposes the performance drop into terms for 1) an increase in harder but frequently seen examples from training, 2) changes in the relationship between Cites: Robust fine-tuning of zero-shot models
