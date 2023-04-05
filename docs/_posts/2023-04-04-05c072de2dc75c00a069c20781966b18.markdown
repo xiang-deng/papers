@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Diverse Paraphrasing with Insertion Models for Few-Shot Intent Detection"
+date:   2023-04-04 07:39:57 -0400
+categories: jekyll update
+author: "R Chevasson, C Laclau, C Gravier - Advances in Intelligent Data Analysis XXI: 21st …, 2023"
+---
+In contrast to classic autoregressive generation, insertion-based models can predict in a order-free way multiple tokens at a time, which make their generation uniquely controllable: it can be constrained to strictly include an ordered list of tokens. We propose to exploit this feature in a new diverse paraphrasing framework: first, we extract important tokens or keywords in the source sentence; second, we augment them; third, we generate new samples around them by using insertion models. We …
+Cites: ‪Neural Syntactic Preordering for Controlled Paraphrase Generation‬

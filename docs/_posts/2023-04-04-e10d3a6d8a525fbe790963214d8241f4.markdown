@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Zero-shot stance detection via multi-perspective contrastive learning with unlabeled data"
+date:   2023-04-04 07:39:57 -0400
+categories: jekyll update
+author: "Y Jiang, J Gao, H Shen, X Cheng - Information Processing & Management, 2023"
+---
+Stance detection is to distinguish whether the text s author supports, opposes, or maintains a neutral stance towards a given target. In most real-world scenarios, stance detection needs to work in a zero-shot manner, ie, predicting stances for unseen targets without labeled data. One critical challenge of zero-shot stance detection is the absence of contextual information on the targets. Current works mostly concentrate on introducing external knowledge to supplement information …
+Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬

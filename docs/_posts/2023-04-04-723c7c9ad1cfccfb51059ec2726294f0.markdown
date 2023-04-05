@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Elastic Weight Removal for Faithful and Abstractive Dialogue Generation"
+date:   2023-04-04 07:39:57 -0400
+categories: jekyll update
+author: "N Daheim, N Dziri, M Sachan, I Gurevych, EM Ponti - arXiv preprint arXiv:2303.17574, 2023"
+---
+Ideally, dialogue systems should generate responses that are faithful to the knowledge contained in relevant documents. However, many models generate hallucinated responses instead that contradict it or contain unverifiable information. To mitigate such undesirable behaviour, it has been proposed to fine-tune anegative expert on negative examples and subtract its parameters from those of a pre-trained model. However, intuitively, this does not take into account that some parameters are …
+Cites: ‪Quark: Controllable text generation with reinforced unlearning‬

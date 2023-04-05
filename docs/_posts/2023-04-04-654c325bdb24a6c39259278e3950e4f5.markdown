@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Does Sparsity Help in Learning Misspecified Linear Bandits?"
+date:   2023-04-04 07:39:57 -0400
+categories: jekyll update
+author: "J Dong, LF Yang - arXiv preprint arXiv:2303.16998, 2023"
+---
+Recently, the study of linear misspecified bandits has generated intriguing implications of the hardness of learning in bandits and reinforcement learning (RL). In particular, Du et al.(2020) show that even if a learner is given linear features in $\mathbb {R}^ d $ that approximate the rewards in a bandit or RL with a uniform error of $\varepsilon $, searching for an $ O (\varepsilon) $-optimal action requires pulling at least $\Omega (\exp (d)) $ queries. Furthermore, Lattimore et al.(2020) show that a …
+Cites: ‪Provably optimal algorithms for generalized linear contextual bandits‬

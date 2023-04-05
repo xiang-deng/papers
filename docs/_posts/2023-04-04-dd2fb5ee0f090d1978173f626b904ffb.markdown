@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TreePiece: Faster Semantic Parsing via Tree Tokenization"
+date:   2023-04-04 07:39:57 -0400
+categories: jekyll update
+author: "S Wang, A Shrivastava, S Livshits - arXiv preprint arXiv:2303.17161, 2023"
+---
+Autoregressive (AR) encoder-decoder neural networks have proved successful in many NLP problems, including Semantic Parsing--a task that translates natural language to machine-readable parse trees. However, the sequential prediction process of AR models can be slow. To accelerate AR for semantic parsing, we introduce a new technique called TreePiece that tokenizes a parse tree into subtrees and generates one subtree per decoding step. On TopV2 benchmark, TreePiece …
+Cites: ‪Learning an executable neural semantic parser‬
