@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Affective-Knowledge-Enhanced Graph Convolutional Networks for Aspect-Based Sentiment Analysis with Multi-Head Attention"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "X Cui, W Tao, X Cui - Applied Sciences, 2023"
----
-Aspect-based sentiment analysis (ABSA) is a task in natural language processing (NLP) that involves predicting the sentiment polarity towards a specific aspect in text. Graph neural networks (GNNs) have been shown to be effective tools for sentiment analysis tasks, but current research often overlooks affective information in the text, leading to irrelevant information being learned for specific aspects. To address this issue, we propose a novel GNN model, MHAKE-GCN, which is based on the graph …
-Cites: ‪Effective LSTMs for target-dependent sentiment classification‬
+--- 
+layout: post 
+title: "Affective-Knowledge-Enhanced Graph Convolutional Networks for Aspect-Based Sentiment Analysis with Multi-Head Attention" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "X Cui, W Tao, X Cui - Applied Sciences, 2023" 
+--- 
+Aspect-based sentiment analysis (ABSA) is a task in natural language processing (NLP) that involves predicting the sentiment polarity towards a specific aspect in text. Graph neural networks (GNNs) have been shown to be effective tools for sentiment analysis tasks, but current research often overlooks affective information in the text, leading to irrelevant information being learned for specific aspects. To address this issue, we propose a novel GNN model, MHAKE-GCN, which is based on the graph  Cites: Effective LSTMs for target-dependent sentiment classification

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "EgoTV: Egocentric Task Verification from Natural Language Task Descriptions"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "R Hazra, B Chen, A Rai, N Kamra, R Desai - arXiv preprint arXiv:2303.16975, 2023"
----
-To enable progress towards egocentric agents capable of understanding everyday tasks specified in natural language, we propose a benchmark and a synthetic dataset called Egocentric Task Verification (EgoTV). EgoTV contains multi-step tasks with multiple sub-task decompositions, state changes, object interactions, and sub-task ordering constraints, in addition to abstracted task descriptions that contain only partial details about ways to accomplish a task. We also propose a novel Neuro …
-Cites: ‪proscript: Partially ordered scripts generation via pre-trained …‬
+--- 
+layout: post 
+title: "EgoTV: Egocentric Task Verification from Natural Language Task Descriptions" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "R Hazra, B Chen, A Rai, N Kamra, R Desai - arXiv preprint arXiv:2303.16975, 2023" 
+--- 
+To enable progress towards egocentric agents capable of understanding everyday tasks specified in natural language, we propose a benchmark and a synthetic dataset called Egocentric Task Verification (EgoTV). EgoTV contains multi-step tasks with multiple sub-task decompositions, state changes, object interactions, and sub-task ordering constraints, in addition to abstracted task descriptions that contain only partial details about ways to accomplish a task. We also propose a novel Neuro  Cites: proscript: Partially ordered scripts generation via pre-trained

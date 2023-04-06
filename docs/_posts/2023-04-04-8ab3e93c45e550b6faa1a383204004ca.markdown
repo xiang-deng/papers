@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Pitfall of Mixup for Uncertainty Calibration"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "DB Wang, L Li, P Zhao, PA Heng, ML Zhang"
----
-By simply taking convex combinations between pairs of samples and their labels, mixup training has been shown to easily improve predictive accuracy. It has been recently found that models trained with mixup also perform well on uncertainty calibration. However, in this study, we found that mixup training usually makes models less calibratable than vanilla empirical risk minimization, which means that it would harm uncertainty estimation when post-hoc calibration is considered. By …
-Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
+--- 
+layout: post 
+title: "On the Pitfall of Mixup for Uncertainty Calibration" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "DB Wang, L Li, P Zhao, PA Heng, ML Zhang" 
+--- 
+By simply taking convex combinations between pairs of samples and their labels, mixup training has been shown to easily improve predictive accuracy. It has been recently found that models trained with mixup also perform well on uncertainty calibration. However, in this study, we found that mixup training usually makes models less calibratable than vanilla empirical risk minimization, which means that it would harm uncertainty estimation when post-hoc calibration is considered. By  Cites: Dividemix: Learning with noisy labels as semi-supervised learning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enriching the Dialogue State Tracking Model with a Syntactic Discourse Graph"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "H Yu, Y Ko - Pattern Recognition Letters, 2023"
----
-Dialogue state tracking is a key component of a task-oriented dialogue system. Recently, pretrained language models are widely used to track a dialogue state by generating or extracting values from a dialogue. These models have a shortcoming that they can explicitly encode contextual information of a dialogue. In this paper, we present a Syntactically ENriched Discourse Dialogue State Tracking model (SEND-DST) that fully leverages the discourse and syntax information of a dialogue. Our …
-Cites: ‪Stanza: A python natural language processing toolkit for many …‬
+--- 
+layout: post 
+title: "Enriching the Dialogue State Tracking Model with a Syntactic Discourse Graph" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "H Yu, Y Ko - Pattern Recognition Letters, 2023" 
+--- 
+Dialogue state tracking is a key component of a task-oriented dialogue system. Recently, pretrained language models are widely used to track a dialogue state by generating or extracting values from a dialogue. These models have a shortcoming that they can explicitly encode contextual information of a dialogue. In this paper, we present a Syntactically ENriched Discourse Dialogue State Tracking model (SEND-DST) that fully leverages the discourse and syntax information of a dialogue. Our  Cites: Stanza: A python natural language processing toolkit for many

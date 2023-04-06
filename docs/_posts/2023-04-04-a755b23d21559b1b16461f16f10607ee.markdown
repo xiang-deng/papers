@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards an Effective Task-Specific Masking Strategy for Pre-trained Masked Language Models"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "MS Abdurrahman, H Elezabi, BC Xu"
----
-Through exploiting a high level of parallelism enabled by graphics processing units, transformer architectures have enabled tremendous strides forward in the field of natural language processing. In a traditional masked language model, special  MASK  tokens are used to prompt our model to gather context information from surrounding words to restore originally hidden information. In this paper, we explore masking strategies for training a task-specific masked model, from a base pre-trained …
-Cites: ‪Should You Mask 15% in Masked Language Modeling?‬
+--- 
+layout: post 
+title: "Towards an Effective Task-Specific Masking Strategy for Pre-trained Masked Language Models" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "MS Abdurrahman, H Elezabi, BC Xu" 
+--- 
+Through exploiting a high level of parallelism enabled by graphics processing units, transformer architectures have enabled tremendous strides forward in the field of natural language processing. In a traditional masked language model, special MASK tokens are used to prompt our model to gather context information from surrounding words to restore originally hidden information. In this paper, we explore masking strategies for training a task-specific masked model, from a base pre-trained  Cites: Should You Mask 15% in Masked Language Modeling?

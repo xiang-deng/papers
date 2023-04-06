@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "Y Anand, Z Nussbaum, B Duderstadt, B Schmidt…"
----
-This preliminary technical report describes the development of GPT4All, a chatbot trained over a massive curated corpus of assistant interactions including word problems, story descriptions, multi-turn dialogue, and code. We openly release the collected data, data curation procedure, training code, and final model weights to promote open research and reproducibility. Additionally, we release quantized 4-bit versions of the model allowing virtually anyone to run the model on CPU.
-Cites: ‪Self-Instruct: Aligning Language Model with Self Generated …‬
+--- 
+layout: post 
+title: "GPT4All: Training an Assistant-style Chatbot with Large Scale Data Distillation from GPT-3.5-Turbo" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "Y Anand, Z Nussbaum, B Duderstadt, B Schmidt" 
+--- 
+This preliminary technical report describes the development of GPT4All, a chatbot trained over a massive curated corpus of assistant interactions including word problems, story descriptions, multi-turn dialogue, and code. We openly release the collected data, data curation procedure, training code, and final model weights to promote open research and reproducibility. Additionally, we release quantized 4-bit versions of the model allowing virtually anyone to run the model on CPU.  Cites: Self-Instruct: Aligning Language Model with Self Generated

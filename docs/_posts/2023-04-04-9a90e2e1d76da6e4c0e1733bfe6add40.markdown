@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DiffCollage: Parallel Generation of Large Content with Diffusion Models"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "Q Zhang, J Song, X Huang, Y Chen, MY Liu - arXiv preprint arXiv:2303.17076, 2023"
----
-We present DiffCollage, a compositional diffusion model that can generate large content by leveraging diffusion models trained on generating pieces of the large content. Our approach is based on a factor graph representation where each factor node represents a portion of the content and a variable node represents their overlap. This representation allows us to aggregate intermediate outputs from diffusion models defined on individual nodes to generate content of arbitrary size …
-Cites: ‪Diffusion-lm improves controllable text generation‬
+--- 
+layout: post 
+title: "DiffCollage: Parallel Generation of Large Content with Diffusion Models" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "Q Zhang, J Song, X Huang, Y Chen, MY Liu - arXiv preprint arXiv:2303.17076, 2023" 
+--- 
+We present DiffCollage, a compositional diffusion model that can generate large content by leveraging diffusion models trained on generating pieces of the large content. Our approach is based on a factor graph representation where each factor node represents a portion of the content and a variable node represents their overlap. This representation allows us to aggregate intermediate outputs from diffusion models defined on individual nodes to generate content of arbitrary size  Cites: Diffusion-lm improves controllable text generation

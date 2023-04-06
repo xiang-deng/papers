@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Contrastive Refinement for Dense Retrieval Inference in the Open-Domain Question Answering Task"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "Q Zhai, W Zhu, X Zhang, C Liu - Future Internet, 2023"
----
-In recent years, dense retrieval has emerged as the primary method for open-domain question-answering (OpenQA). However, previous research often focused on the query side, neglecting the importance of the passage side. We believe that both the query and passage sides are equally important and should be considered for improved OpenQA performance. In this paper, we propose a contrastive pseudo-labeled data constructed around passages and queries separately. We employ an …
-Cites: ‪Natural questions: a benchmark for question answering research‬
+--- 
+layout: post 
+title: "Contrastive Refinement for Dense Retrieval Inference in the Open-Domain Question Answering Task" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "Q Zhai, W Zhu, X Zhang, C Liu - Future Internet, 2023" 
+--- 
+In recent years, dense retrieval has emerged as the primary method for open-domain question-answering (OpenQA). However, previous research often focused on the query side, neglecting the importance of the passage side. We believe that both the query and passage sides are equally important and should be considered for improved OpenQA performance. In this paper, we propose a contrastive pseudo-labeled data constructed around passages and queries separately. We employ an  Cites: Natural questions: a benchmark for question answering research

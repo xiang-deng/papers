@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Recognition, recall, and retention of few-shot memories in large language models"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "AE Orhan - arXiv preprint arXiv:2303.17557, 2023"
----
-The training of modern large language models (LLMs) takes place in a regime where most training examples are seen only a few times by the model during the course of training. What does a model remember about such examples seen only a few times during training and how long does that memory persist in the face of continuous training with new examples? Here, we investigate these questions through simple recognition, recall, and retention experiments with LLMs. In recognition experiments …
-Cites: ‪When Not to Trust Language Models: Investigating Effectiveness …‬

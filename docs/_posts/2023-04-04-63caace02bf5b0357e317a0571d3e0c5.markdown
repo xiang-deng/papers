@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Event detection model based on graph attention network and graph convolutional network"
-date:   2023-04-04 07:39:57 -0400
-categories: jekyll update
-author: "J Xintao, C Zhishan, C Guoyi - 2023 IEEE 6th Information Technology, Networking …, 2023"
----
-During extracting dependencies, the graph convolutional network (GCN) cannot filter information according to the different importance of words for event detection, which will cause information redundancy. As the number of GCN layers increases, the difference between nodes becomes smaller and smaller which will lead to the over-smoothing. In order to solve these problems, an event detection model combining Graph Attention Network (GAT) and Graph Convolutional Network was proposed …
-Cites: ‪Automatic event extraction with structured preference modeling‬
+--- 
+layout: post 
+title: "Event detection model based on graph attention network and graph convolutional network" 
+date: 2023-04-04 07:39:57 -0400 
+categories: jekyll update 
+author: "J Xintao, C Zhishan, C Guoyi - 2023 IEEE 6th Information Technology, Networking , 2023" 
+--- 
+During extracting dependencies, the graph convolutional network (GCN) cannot filter information according to the different importance of words for event detection, which will cause information redundancy. As the number of GCN layers increases, the difference between nodes becomes smaller and smaller which will lead to the over-smoothing. In order to solve these problems, an event detection model combining Graph Attention Network (GAT) and Graph Convolutional Network was proposed  Cites: Automatic event extraction with structured preference modeling
