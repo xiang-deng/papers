@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "QA-KGNet: 一种语言模型驱动的知识图谱问答模型"
+date:   2023-04-06 06:45:39 -0400
+categories: jekyll update
+author: "乔少杰， 杨国平， 于泳， 韩楠， 覃晓， 屈露露， 冉黎琼… - 软件学报, 2023"
+---
+基于知识图谱的问答系统可以解析用户问题, 已经成为一种检索知识, 自动回答所询问题的有效途径. 知识图谱问答系统通常是利用神经程序归纳模型, 将自然语言问题转化为逻辑形式, 在知识图谱上执行该逻辑形式能够得到答案. 然而, 使用预训练语言模型和知识图谱的知识问答系统包含两个挑战: 1) 给定问答(QA, Question-answering) 上下文, 需要从大型知识图谱(KG, Knowledge Graph) 中识别相关知识; 2) 对QA 上下文和KG 进行联合推理. 基于此, 提出一种语言模型驱动的 …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬

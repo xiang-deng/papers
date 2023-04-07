@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Generalization of Pretrained Language Models"
+date:   2023-04-06 06:45:39 -0400
+categories: jekyll update
+author: "R Karimi Mahabadi - 2023"
+---
+In this dissertation, we propose multiple methods to improve transfer learning for pretrained language models (PLMs). Broadly, transfer learning is a powerful technique in natural language processing, where a language model is first pre-trained on a data-rich task before being fine-tuned on a downstream task. Our first contribution is to propose two learning strategies to train neural models, which are more robust to dataset biases and transfer better to out-of-domain datasets. We …
+Cites: ‪Improving and Simplifying Pattern Exploiting Training‬

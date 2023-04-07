@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Chain-of-Thought Predictive Control"
+date:   2023-04-06 06:45:39 -0400
+categories: jekyll update
+author: "Z Jia, F Liu, V Thumuluri, L Chen, Z Huang, H Su - arXiv preprint arXiv:2304.00776, 2023"
+---
+We study generalizable policy learning from demonstrations for complex low-level control tasks (eg, contact-rich object manipulations). We propose an imitation learning method that incorporates the idea of temporal abstraction and the planning capabilities from Hierarchical RL (HRL) in a novel and effective manner. As a step towards decision foundation models, our design can utilize scalable, albeit highly sub-optimal, demonstrations. Specifically, we find certain short subsequences of the …
+Cites: ‪Chain of thought prompting elicits reasoning in large language …‬

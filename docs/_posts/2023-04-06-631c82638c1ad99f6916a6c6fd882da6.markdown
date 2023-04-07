@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pairwise learning for the partial label ranking problem"
+date:   2023-04-06 06:45:39 -0400
+categories: jekyll update
+author: "JC Alfaro, JA Aledo, JA Gémez - Pattern Recognition, 2023"
+---
+The partial label ranking problem is a particular preference learning scenario that focuses on learning preference models from data, such that they predict a complete ranking with ties defined over the values of the class variable for a given input instance. This work proposes to transform the rankings into preference relations among pairs of class labels and to learn a standard classifier for each of them. This classifier is then used to estimate the probability of each event from the preference …
+Cites: ‪Constraint classification for multiclass classification and ranking‬

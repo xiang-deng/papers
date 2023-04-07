@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Quick Dense Retrievers Consume KALE: Post Training Kullback Leibler Alignment of Embeddings for Asymmetrical dual encoders"
+date:   2023-04-06 06:45:39 -0400
+categories: jekyll update
+author: "D Campos, A Magnani, CX Zhai - arXiv preprint arXiv:2304.01016, 2023"
+---
+In this paper, we consider the problem of improving the inference latency of language model-based dense retrieval systems by introducing structural compression and model size asymmetry between the context and query encoders. First, we investigate the impact of pre and post-training compression on the MSMARCO, Natural Questions, TriviaQA, SQUAD, and SCIFACT, finding that asymmetry in the dual encoders in dense retrieval can lead to improved inference …
+Cites: ‪Fact or fiction: Verifying scientific claims‬

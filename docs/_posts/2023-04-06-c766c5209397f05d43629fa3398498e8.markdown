@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Modern Natural Language Generation (NLG) techniques"
+date:   2023-04-06 06:45:39 -0400
+categories: jekyll update
+author: "N Fradet"
+---
+Recent language models such GPT, OPT or Bloom, achieve to generate very realistic text, and are can be used in production to be the backbone of chatbots or translation systems. Still, these models are prone to problems of text degeneration, repetition or topic divergence, an issue commonly called Exposure bias . This problem is due to the mismatch between the training objective of these models (teacher forcing) and the autoregressive way they generate text. We will see in this post how we can tackle …
+Cites: ‪Incorporating Discriminator in Sentence Generation: a Gibbs …‬

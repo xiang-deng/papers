@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RunBugRun--An Executable Dataset for Automated Program Repair"
+date:   2023-04-06 06:45:39 -0400
+categories: jekyll update
+author: "JA Prenner, R Robbes - arXiv preprint arXiv:2304.01102, 2023"
+---
+Recently, we can notice a transition to data-driven techniques in Automated Program Repair (APR), in particular towards deep neural networks. This entails training on hundreds of thousands or even millions of non-executable code fragments. We would like to bring more attention to an aspect of code often neglected in Neural Program Repair (NPR), namely its execution. Code execution has several significant advantages. It allows for test-based evaluation of candidate fixes and can provide …
+Cites: ‪Toolformer: Language models can teach themselves to use tools‬
