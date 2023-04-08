@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Text-to-SQL over Aggregate Tables"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "S Li, K Zhou, Z Zhuang, H Wang, J Ma - Data Intelligence, 2023"
----
-Text-to-SQL aims at translating textual questions into the corresponding SQL queries. Aggregate tables are widely created for high-frequent queries. Although text-to-SQL has emerged as an important task, recent studies paid little attention to the task over aggregate tables. The increased aggregate tables bring two challenges:(1) mapping of natural language questions and relational databases will suffer from more ambiguity,(2) modern models usually adopt self-attention mechanism to …
-Cites: ‪Break It Down: A Question Understanding Benchmark‬
+--- 
+layout: post 
+title: "Towards Text-to-SQL over Aggregate Tables" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "S Li, K Zhou, Z Zhuang, H Wang, J Ma - Data Intelligence, 2023" 
+--- 
+Text-to-SQL aims at translating textual questions into the corresponding SQL queries. Aggregate tables are widely created for high-frequent queries. Although text-to-SQL has emerged as an important task, recent studies paid little attention to the task over aggregate tables. The increased aggregate tables bring two challenges:(1) mapping of natural language questions and relational databases will suffer from more ambiguity,(2) modern models usually adopt self-attention mechanism to  Cites: Break It Down: A Question Understanding Benchmark

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LLMMaps--A Visual Metaphor for Stratified Evaluation of Large Language Models"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "P Puchert, P Poonam, C van Onzenoodt, T Ropinski - arXiv preprint arXiv:2304.00457, 2023"
----
-Large Language Models (LLMs) have revolutionized natural language processing and demonstrated impressive capabilities in various tasks. Unfortunately, they are prone to hallucinations, where the model exposes incorrect or false information in its responses, which renders diligent evaluation approaches mandatory. While LLM performance in specific knowledge fields is often evaluated based on question and answer (Q&A) datasets, such evaluations usually report only a single accuracy …
-Cites: ‪Crowdsourcing Multiple Choice Science Questions‬
+--- 
+layout: post 
+title: "LLMMaps--A Visual Metaphor for Stratified Evaluation of Large Language Models" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "P Puchert, P Poonam, C van Onzenoodt, T Ropinski - arXiv preprint arXiv:2304.00457, 2023" 
+--- 
+Large Language Models (LLMs) have revolutionized natural language processing and demonstrated impressive capabilities in various tasks. Unfortunately, they are prone to hallucinations, where the model exposes incorrect or false information in its responses, which renders diligent evaluation approaches mandatory. While LLM performance in specific knowledge fields is often evaluated based on question and answer (Q&A) datasets, such evaluations usually report only a single accuracy  Cites: Crowdsourcing Multiple Choice Science Questions

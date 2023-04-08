@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Towards Enhancing In-Context Learning for Code Generation"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "J Li, Y Zhao, Y Li, G Li, Z Jin - arXiv preprint arXiv:2303.17780, 2023"
----
-In-context learning (ICL) with pre-trained language models (PTLMs) has shown great success in code generation. ICL does not require training. PTLMs take as the input a prompt consisting of a few requirement-code examples and a new requirement, and output a new program. However, existing studies simply reuse ICL techniques for natural language generation and ignore unique features of code generation. We refer to these studies as standard ICL. Inspired by observations of the human coding …
-Cites: ‪Multi-lingual Evaluation of Code Generation Models‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "YL Li, X Wu, X Liu, Y Dou, Y Ji, J Zhang, Y Li, J Tan… - arXiv preprint arXiv …, 2023"
----
-Action understanding matters and attracts attention. It can be formed as the mapping from the action physical space to the semantic space. Typically, researchers built action datasets according to idiosyncratic choices to define classes and push the envelope of benchmarks respectively. Thus, datasets are incompatible with each other like  Isolated Islands  due to semantic gaps and various class granularities, eg, do housework in dataset A and wash plate in dataset B. We argue that a more …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "YL Li, X Wu, X Liu, Y Dou, Y Ji, J Zhang, Y Li, J Tan - arXiv preprint arXiv , 2023" 
+--- 
+Action understanding matters and attracts attention. It can be formed as the mapping from the action physical space to the semantic space. Typically, researchers built action datasets according to idiosyncratic choices to define classes and push the envelope of benchmarks respectively. Thus, datasets are incompatible with each other like Isolated Islands due to semantic gaps and various class granularities, eg, do housework in dataset A and wash plate in dataset B. We argue that a more  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

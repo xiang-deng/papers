@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Querying Large Language Models with SQL"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "M Saeed, N De Cao, P Papotti - arXiv preprint arXiv:2304.00472, 2023"
----
-In many use-cases, information is stored in text but not available in structured data. However, extracting data from natural language text to precisely fit a schema, and thus enable querying, is a challenging task. With the rise of pre-trained Large Language Models (LLMs), there is now an effective solution to store and use information extracted from massive corpora of text documents. Thus, we envision the use of SQL queries to cover a broad range of data that is not captured by traditional …
-Cites: ‪H. Chi, Quoc Le, and Denny Zhou. 2022b. Chain of thought …‬
+--- 
+layout: post 
+title: "Querying Large Language Models with SQL" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "M Saeed, N De Cao, P Papotti - arXiv preprint arXiv:2304.00472, 2023" 
+--- 
+In many use-cases, information is stored in text but not available in structured data. However, extracting data from natural language text to precisely fit a schema, and thus enable querying, is a challenging task. With the rise of pre-trained Large Language Models (LLMs), there is now an effective solution to store and use information extracted from massive corpora of text documents. Thus, we envision the use of SQL queries to cover a broad range of data that is not captured by traditional  Cites: H. Chi, Quoc Le, and Denny Zhou. 2022b. Chain of thought

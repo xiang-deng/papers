@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-Refine: Iterative Refinement with Self-Feedback"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "A Madaan, N Tandon, P Gupta, S Hallinan, L Gao… - arXiv preprint arXiv …, 2023"
----
-Like people, LLMs do not always generate the best text for a given generation problem on their first try (eg, summaries, answers, explanations). Just as people then refine their text, we introduce SELF-REFINE, a framework for similarly improving initial outputs from LLMs through iterative feedback and refinement. The main idea is to generate an output using an LLM, then allow the same model to provide multi-aspect feedback for its own output; finally, the same model refines its previously …
-Cites: ‪Rainier: Reinforced knowledge introspector for commonsense …‬
+--- 
+layout: post 
+title: "Self-Refine: Iterative Refinement with Self-Feedback" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "A Madaan, N Tandon, P Gupta, S Hallinan, L Gao - arXiv preprint arXiv , 2023" 
+--- 
+Like people, LLMs do not always generate the best text for a given generation problem on their first try (eg, summaries, answers, explanations). Just as people then refine their text, we introduce SELF-REFINE, a framework for similarly improving initial outputs from LLMs through iterative feedback and refinement. The main idea is to generate an output using an LLM, then allow the same model to provide multi-aspect feedback for its own output; finally, the same model refines its previously  Cites: Rainier: Reinforced knowledge introspector for commonsense

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Using MFS and XSS to improve Query Relaxation and Query By Example Process"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "GF Pelap, LF Fitime, CM Zafack, S Jean, VK Tchendji…"
----
-Knowledge bases are The set of domain ontology formalisation and related data following this formalisation. Recent advances in Web-information extraction have led to the creation of several large Knowledge bases (KBs). Theses KBs define set of concepts, properties and attributes to be used in a given domain. They are generally defined with RDF language and queried done with SPARQL language. Querying these KBs often results in empty answers that do not serve the users  needs. Indeed …
-Cites: ‪Web-scale information extraction in knowitall: (preliminary results)‬
+--- 
+layout: post 
+title: "Using MFS and XSS to improve Query Relaxation and Query By Example Process" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "GF Pelap, LF Fitime, CM Zafack, S Jean, VK Tchendji" 
+--- 
+Knowledge bases are The set of domain ontology formalisation and related data following this formalisation. Recent advances in Web-information extraction have led to the creation of several large Knowledge bases (KBs). Theses KBs define set of concepts, properties and attributes to be used in a given domain. They are generally defined with RDF language and queried done with SPARQL language. Querying these KBs often results in empty answers that do not serve the users needs. Indeed  Cites: Web-scale information extraction in knowitall: (preliminary results)

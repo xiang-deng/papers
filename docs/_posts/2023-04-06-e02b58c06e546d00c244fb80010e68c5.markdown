@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Integration of Discriminability and Robustness for Document-Level Relation Extraction"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "J Guo, S Kok, L Bing - arXiv preprint arXiv:2304.00824, 2023"
----
-Document-level relation extraction (DocRE) predicts relations for entity pairs that rely on long-range context-dependent reasoning in a document. As a typical multi-label classification problem, DocRE faces the challenge of effectively distinguishing a small set of positive relations from the majority of negative ones. This challenge becomes even more difficult to overcome when there exists a significant number of annotation errors in the dataset. In this work, we aim to achieve better integration of …
-Cites: ‪ERICA: Improving Entity and Relation Understanding for Pre …‬
+--- 
+layout: post 
+title: "Towards Integration of Discriminability and Robustness for Document-Level Relation Extraction" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "J Guo, S Kok, L Bing - arXiv preprint arXiv:2304.00824, 2023" 
+--- 
+Document-level relation extraction (DocRE) predicts relations for entity pairs that rely on long-range context-dependent reasoning in a document. As a typical multi-label classification problem, DocRE faces the challenge of effectively distinguishing a small set of positive relations from the majority of negative ones. This challenge becomes even more difficult to overcome when there exists a significant number of annotation errors in the dataset. In this work, we aim to achieve better integration of  Cites: ERICA: Improving Entity and Relation Understanding for Pre

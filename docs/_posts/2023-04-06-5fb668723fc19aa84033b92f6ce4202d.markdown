@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semi-supervised Neural Machine Translation with Consistency Regularization for Low-Resource Languages"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "VH Pham, TM Pham, G Nguyen, L Nguyen, D Dinh - arXiv preprint arXiv:2304.00557, 2023"
----
-The advent of deep learning has led to a significant gain in machine translation. However, most of the studies required a large parallel dataset which is scarce and expensive to construct and even unavailable for some languages. This paper presents a simple yet effective method to tackle this problem for low-resource languages by augmenting high-quality sentence pairs and training NMT models in a semi-supervised manner. Specifically, our approach combines the cross-entropy loss …
-Cites: ‪Deep unordered composition rivals syntactic methods for text …‬
+--- 
+layout: post 
+title: "Semi-supervised Neural Machine Translation with Consistency Regularization for Low-Resource Languages" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "VH Pham, TM Pham, G Nguyen, L Nguyen, D Dinh - arXiv preprint arXiv:2304.00557, 2023" 
+--- 
+The advent of deep learning has led to a significant gain in machine translation. However, most of the studies required a large parallel dataset which is scarce and expensive to construct and even unavailable for some languages. This paper presents a simple yet effective method to tackle this problem for low-resource languages by augmenting high-quality sentence pairs and training NMT models in a semi-supervised manner. Specifically, our approach combines the cross-entropy loss  Cites: Deep unordered composition rivals syntactic methods for text

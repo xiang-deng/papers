@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "CS Xia, L Zhang - arXiv preprint arXiv:2304.00385, 2023"
----
-Automated Program Repair (APR) aims to automatically generate patches for buggy programs. Recent APR work has been focused on leveraging modern Large Language Models (LLMs) to directly generate patches for APR. Such LLM-based APR tools work by first constructing an input prompt built using the original buggy code and then queries the LLM to generate patches. While the LLM-based APR tools are able to achieve state-of-the-art results, it still follows the classic Generate and …
-Cites: ‪Incoder: A generative model for code infilling and synthesis‬
+--- 
+layout: post 
+title: "Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "CS Xia, L Zhang - arXiv preprint arXiv:2304.00385, 2023" 
+--- 
+Automated Program Repair (APR) aims to automatically generate patches for buggy programs. Recent APR work has been focused on leveraging modern Large Language Models (LLMs) to directly generate patches for APR. Such LLM-based APR tools work by first constructing an input prompt built using the original buggy code and then queries the LLM to generate patches. While the LLM-based APR tools are able to achieve state-of-the-art results, it still follows the classic Generate and  Cites: Incoder: A generative model for code infilling and synthesis

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rethinking interpretation: Input-agnostic saliency mapping of deep visual classifiers"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "N Akhtar, MAAK Jalwana - arXiv preprint arXiv:2303.17836, 2023"
----
-Saliency methods provide post-hoc model interpretation by attributing input features to the model outputs. Current methods mainly achieve this using a single input sample, thereby failing to answer input-independent inquiries about the model. We also show that input-specific saliency mapping is intrinsically susceptible to misleading feature attribution. Current attempts to use general input features for model interpretation assume access to a dataset containing those features, which …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "Rethinking interpretation: Input-agnostic saliency mapping of deep visual classifiers" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "N Akhtar, MAAK Jalwana - arXiv preprint arXiv:2303.17836, 2023" 
+--- 
+Saliency methods provide post-hoc model interpretation by attributing input features to the model outputs. Current methods mainly achieve this using a single input sample, thereby failing to answer input-independent inquiries about the model. We also show that input-specific saliency mapping is intrinsically susceptible to misleading feature attribution. Current attempts to use general input features for model interpretation assume access to a dataset containing those features, which  Cites: Why Should I Trust You? : Explaining the Predictions of Any

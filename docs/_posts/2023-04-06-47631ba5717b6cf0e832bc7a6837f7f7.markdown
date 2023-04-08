@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DiffuRec: A Diffusion Model for Sequential Recommendation"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "Z Li, A Sun, C Li - arXiv preprint arXiv:2304.00686, 2023"
----
-Mainstream solutions to Sequential Recommendation (SR) represent items with fixed vectors. These vectors have limited capability in capturing items  latent aspects and users  diverse preferences. As a new generative paradigm, Diffusion models have achieved excellent performance in areas like computer vision and natural language processing. To our understanding, its unique merit in representation generation well fits the problem setting of sequential recommendation. In this paper, we make the …
-Cites: ‪Diffusion-lm improves controllable text generation‬
+--- 
+layout: post 
+title: "DiffuRec: A Diffusion Model for Sequential Recommendation" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "Z Li, A Sun, C Li - arXiv preprint arXiv:2304.00686, 2023" 
+--- 
+Mainstream solutions to Sequential Recommendation (SR) represent items with fixed vectors. These vectors have limited capability in capturing items latent aspects and users diverse preferences. As a new generative paradigm, Diffusion models have achieved excellent performance in areas like computer vision and natural language processing. To our understanding, its unique merit in representation generation well fits the problem setting of sequential recommendation. In this paper, we make the  Cites: Diffusion-lm improves controllable text generation

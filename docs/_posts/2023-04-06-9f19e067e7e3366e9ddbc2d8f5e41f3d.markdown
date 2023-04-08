@@ -1,9 +1,0 @@
----
-layout: post
-title:  "AFT: Adaptive Fusion Transformer for Visible and Infrared Images"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "Z Chang, Z Feng, S Yang, Q Gao - IEEE Transactions on Image Processing, 2023"
----
-In this paper, an Adaptive Fusion Transformer (AFT) is proposed for unsupervised pixel-level fusion of visible and infrared images. Different from the existing convolutional networks, transformer is adopted to model the relationship of multi-modality images and explore cross-modal interactions in AFT. The encoder of AFT uses a Multi-Head Self-attention (MSA) module and Feed Forward (FF) network for feature extraction. Then, a Multi-head Self-Fusion (MSF) module is designed for the …
-Cites: ‪Convolutional 2d knowledge graph embeddings‬

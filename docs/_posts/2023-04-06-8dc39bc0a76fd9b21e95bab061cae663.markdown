@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "Y Wahba, N Madhavji, J Steinbacher - arXiv preprint arXiv:2303.17786, 2023"
----
-For large-scale IT corpora with hundreds of classes organized in a hierarchy, the task of accurate classification of classes at the higher level in the hierarchies is crucial to avoid errors propagating to the lower levels. In the business world, an efficient and explainable ML model is preferred over an expensive black-box model, especially if the performance increase is marginal. A current trend in the Natural Language Processing (NLP) community is towards employing huge pre-trained language …
-Cites: ‪PTR: Prompt tuning with rules for text classification‬
+--- 
+layout: post 
+title: "Attention is Not Always What You Need: Towards Efficient Classification of Domain-Specific Text" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "Y Wahba, N Madhavji, J Steinbacher - arXiv preprint arXiv:2303.17786, 2023" 
+--- 
+For large-scale IT corpora with hundreds of classes organized in a hierarchy, the task of accurate classification of classes at the higher level in the hierarchies is crucial to avoid errors propagating to the lower levels. In the business world, an efficient and explainable ML model is preferred over an expensive black-box model, especially if the performance increase is marginal. A current trend in the Natural Language Processing (NLP) community is towards employing huge pre-trained language  Cites: PTR: Prompt tuning with rules for text classification

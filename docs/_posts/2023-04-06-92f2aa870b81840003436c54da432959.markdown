@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Pair Programming with Large Language Models for Sampling and Estimation of Copulas"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "J Górecki - arXiv preprint arXiv:2303.18116, 2023"
----
-Without writing a single line of code by a human, an example Monte Carlo simulation based application for stochastic dependence modeling with copulas is developed using a state-of-the-art large language model (LLM) fine-tuned for conversations. This includes interaction with ChatGPT in natural language and using mathematical formalism, which, under careful supervision by a human-expert, led to producing a working code in MATLAB, Python and R for sampling from a given copula model …
-Cites: ‪Palm: Scaling language modeling with pathways‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How Efficient Are Today s Continual Learning Algorithms?"
-date:   2023-04-06 06:45:39 -0400
-categories: jekyll update
-author: "MY Harun, J Gallardo, TL Hayes, C Kanan - arXiv preprint arXiv:2303.18171, 2023"
----
-Supervised Continual learning involves updating a deep neural network (DNN) from an ever-growing stream of labeled data. While most work has focused on overcoming catastrophic forgetting, one of the major motivations behind continual learning is being able to efficiently update a network with new information, rather than retraining from scratch on the training dataset as it grows over time. Despite recent continual learning methods largely solving the catastrophic forgetting …
-Cites: ‪Carbon emissions and large neural network training‬
+--- 
+layout: post 
+title: "How Efficient Are Today s Continual Learning Algorithms?" 
+date: 2023-04-06 06:45:39 -0400 
+categories: jekyll update 
+author: "MY Harun, J Gallardo, TL Hayes, C Kanan - arXiv preprint arXiv:2303.18171, 2023" 
+--- 
+Supervised Continual learning involves updating a deep neural network (DNN) from an ever-growing stream of labeled data. While most work has focused on overcoming catastrophic forgetting, one of the major motivations behind continual learning is being able to efficiently update a network with new information, rather than retraining from scratch on the training dataset as it grows over time. Despite recent continual learning methods largely solving the catastrophic forgetting  Cites: Carbon emissions and large neural network training
