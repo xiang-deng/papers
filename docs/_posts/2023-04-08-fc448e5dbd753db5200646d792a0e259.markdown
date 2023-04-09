@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optical implementation and robustness validation for multi-scale masked autoencoder"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "Y Xue, X Su, S Zhang, X Yuan - APL Photonics, 2023"
+---
+Masked Autoencoders (MAEs), the state-of-the-art self-supervised neural network architecture in miscellaneous vision tasks, show surprisingly effective potential in reconstructing images distorted by random masking. This paper first introduces an optical implementation of MAEs, employing digital micromirror devices in the optical path to capture partially blocked images. MAEs with multi-scale patches are deployed in the reconstruction procedure. By using an optical-specialized version of …
+Cites: ‪Well-read students learn better: On the importance of pre-training …‬

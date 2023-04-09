@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Cube query answering via the results of previous cube queries"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "P Vassiliadis - 2023"
+---
+In this paper, we come with a model for multidimensional spaces with hierarchically structured dimensions in several layers of abstractions, data cubes and cube queries. The model serves as the basis to offer the main contribution of this paper which includes a theorem and an algorithm for being able to decide and facilitate the computation of the contents of a new cube query from a previous one, defined at a different level of abstraction.
+Cites: ‪Answering queries using views: A survey‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rediscovering Hashed Random Projections for Efficient Quantization of Contextualized Sentence Embeddings"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "UA Hamster, JU Lee, A Geyken, I Gurevych - arXiv preprint arXiv:2304.02481, 2023"
+---
+Training and inference on edge devices often requires an efficient setup due to computational limitations. While pre-computing data representations and caching them on a server can mitigate extensive edge device computation, this leads to two challenges. First, the amount of storage required on the server that scales linearly with the number of instances. Second, the bandwidth required to send extensively large amounts of data to an edge device. To reduce the memory footprint of pre …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LTM: Scalable and Black-box Similarity-based Test Suite Minimization based on Language Models"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "R Pan, TA Ghaleb, L Briand - arXiv preprint arXiv:2304.01397, 2023"
+---
+Test suite minimization (TSM) is typically used to improve the efficiency of software testing by removing redundant test cases, thus reducing testing time and resources, while maintaining the fault detection capability of the test suite. Though many TSM approaches exist, most of them rely on code coverage (white-box) or model-based features, which are not always available for test engineers. Recent TSM approaches that rely only on test code (black-box) have been proposed, such as ATM and FAST …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking the Role of Token Retrieval in Multi-Vector Retrieval"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "J Lee, Z Dai, SMK Duddu, T Lei, I Naim, MW Chang… - arXiv preprint arXiv …, 2023"
+---
+Multi-vector retrieval models such as ColBERT [Khattab and Zaharia, 2020] allow token-level interactions between queries and documents, and hence achieve state of the art on many information retrieval benchmarks. However, their non-linear scoring function cannot be scaled to millions of documents, necessitating a three-stage process for inference: retrieving initial candidates via token retrieval, accessing all token vectors, and scoring the initial candidate documents. The non-linear scoring …
+Cites: ‪Learning to Retrieve Passages without Supervision‬

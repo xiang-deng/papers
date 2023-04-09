@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning from Sequential User Data: Models and Sample-efficient Algorithms"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "A Ghosh - 2023"
+---
+Recent advances in deep learning have made learning representation from ever-growing datasets possible in the domain of vision, natural language processing (NLP), and robotics, among others. However, deep networks are notoriously data-hungry; for example, training language models with attention mechanisms sometimes requires trillions of parameters and tokens. In contrast, we can often access a limited number of samples in many tasks. It is crucial to learn models from …
+Cites: ‪End-to-end differentiable proving‬

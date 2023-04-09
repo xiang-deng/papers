@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Calibrated Chaos: Variance Between Runs of Neural Network Training is Harmless and Inevitable"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "K Jordan - arXiv preprint arXiv:2304.01910, 2023"
+---
+Typical neural network trainings have substantial variance in test-set performance between repeated runs, impeding hyperparameter comparison and training reproducibility. We present the following results towards understanding this variation.(1) Despite having significant variance on their test-sets, we demonstrate that standard CIFAR-10 and ImageNet trainings have very little variance in their performance on the test-distributions from which those test-sets are sampled …
+Cites: ‪Llm. int8 (): 8-bit matrix multiplication for transformers at scale‬

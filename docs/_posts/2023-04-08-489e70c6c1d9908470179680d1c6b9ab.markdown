@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Grier: graph repairing based on iterative embedding and rules"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "C Ye, H Xu, H Zhang, Y Wu, G Dai - Knowledge and Information Systems, 2023"
+---
+Identifying and repairing the erroneous and missing information in the graphs is crucial. Rule-based studies rely on graph quality rules to detect the inconsistencies among different entities and make a one-time repair to resolve these inconsistencies. The missing data can be predicted and imputed by graph embedding methods by preserving the inherent structure of a reliable graph. However, both lines of way need more evidence to improve. In this paper, we propose Grier, a novel repairing …
+Cites: ‪Convolutional 2d knowledge graph embeddings‬

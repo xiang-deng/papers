@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient CNNs via Passive Filter Pruning"
+date:   2023-04-08 04:35:01 -0400
+categories: jekyll update
+author: "A Singh, MD Plumbley - arXiv preprint arXiv:2304.02319, 2023"
+---
+Convolutional neural networks (CNNs) have shown state-of-the-art performance in various applications. However, CNNs are resource-hungry due to their requirement of high computational complexity and memory storage. Recent efforts toward achieving computational efficiency in CNNs involve filter pruning methods that eliminate some of the filters in CNNs based on the\enquote {importance} of the filters. The majority of existing filter pruning methods are either  active , which use a dataset …
+Cites: ‪Structured Pruning Learns Compact and Accurate Models‬
