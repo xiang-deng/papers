@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ERM++: An Improved Baseline for Domain Generalization"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "P Teterwak, K Saito, T Tsiligkaridis, K Saenko… - arXiv preprint arXiv …, 2023"
----
-Multi-source Domain Generalization (DG) measures a classifier s ability to generalize to new distributions of data it was not trained on, given several training domains. While several multi-source DG methods have been proposed, they incur additional complexity during training by using domain labels. Recent work has shown that a well-tuned Empirical Risk Minimization (ERM) training procedure, that is simply minimizing the empirical risk on the source domains, can outperform most existing …
-Cites: ‪Robust fine-tuning of zero-shot models‬
+--- 
+layout: post 
+title: "ERM++: An Improved Baseline for Domain Generalization" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "P Teterwak, K Saito, T Tsiligkaridis, K Saenko - arXiv preprint arXiv , 2023" 
+--- 
+Multi-source Domain Generalization (DG) measures a classifier s ability to generalize to new distributions of data it was not trained on, given several training domains. While several multi-source DG methods have been proposed, they incur additional complexity during training by using domain labels. Recent work has shown that a well-tuned Empirical Risk Minimization (ERM) training procedure, that is simply minimizing the empirical risk on the source domains, can outperform most existing  Cites: Robust fine-tuning of zero-shot models

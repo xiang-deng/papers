@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generating Natural Language From Logic Expressions With Structural Representation"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "X Wu, Y Cai, Z Lian, H Leung, T Wang - IEEE/ACM Transactions on Audio, Speech …, 2023"
----
-Incorporating logic reasoning with deep neural networks (DNNs) is an important challenge in machine learning. In this article, we study the problem of converting logical expressions into natural language. In particular, given a sequential logic expression, the goal is to generate its corresponding natural sentence. Since the information in a logic expression often has a hierarchical structure, a sequence-to-sequence baseline struggles to capture the full dependencies between words, and …
-Cites: ‪Generation from Abstract Meaning Representation using Tree …‬
+--- 
+layout: post 
+title: "Generating Natural Language From Logic Expressions With Structural Representation" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "X Wu, Y Cai, Z Lian, H Leung, T Wang - IEEE/ACM Transactions on Audio, Speech , 2023" 
+--- 
+Incorporating logic reasoning with deep neural networks (DNNs) is an important challenge in machine learning. In this article, we study the problem of converting logical expressions into natural language. In particular, given a sequential logic expression, the goal is to generate its corresponding natural sentence. Since the information in a logic expression often has a hierarchical structure, a sequence-to-sequence baseline struggles to capture the full dependencies between words, and  Cites: Generation from Abstract Meaning Representation using Tree

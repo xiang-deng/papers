@@ -1,9 +1,8 @@
----
-layout: post
-title:  "VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "J Kim, S Kang, D Hwang, J Shin, W Rhee - arXiv preprint arXiv:2304.01434, 2023"
----
-Since the introduction of deep learning, a wide scope of representation properties, such as decorrelation, whitening, disentanglement, rank, isotropy, and mutual information, have been studied to improve the quality of representation. However, manipulating such properties can be challenging in terms of implementational effectiveness and general applicability. To address these limitations, we propose to regularize von Neumann entropy~(VNE) of representation. First, we demonstrate that …
-Cites: ‪Spherical Latent Spaces for Stable Variational Autoencoders‬
+--- 
+layout: post 
+title: "VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "J Kim, S Kang, D Hwang, J Shin, W Rhee - arXiv preprint arXiv:2304.01434, 2023" 
+--- 
+Since the introduction of deep learning, a wide scope of representation properties, such as decorrelation, whitening, disentanglement, rank, isotropy, and mutual information, have been studied to improve the quality of representation. However, manipulating such properties can be challenging in terms of implementational effectiveness and general applicability. To address these limitations, we propose to regularize von Neumann entropy~(VNE) of representation. First, we demonstrate that  Cites: Spherical Latent Spaces for Stable Variational Autoencoders

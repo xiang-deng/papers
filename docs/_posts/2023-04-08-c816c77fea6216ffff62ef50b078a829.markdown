@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Position-Aware Relational Transformer for Knowledge Graph Embedding"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "G Li, Z Sun, W Hu, G Cheng, Y Qu - IEEE Transactions on Neural Networks and …, 2023"
----
-Although Transformer has achieved success in language and vision tasks, its capacity for knowledge graph (KG) embedding has not been fully exploited. Using the self-attention (SA) mechanism in Transformer to model the subject-relation-object triples in KGs suffers from training inconsistency as SA is invariant to the order of input tokens. As a result, it is unable to distinguish a (real) relation triple from its shuffled (fake) variants (eg, object-relation-subject) and, thus, fails to capture the …
-Cites: ‪Convolutional 2d knowledge graph embeddings‬

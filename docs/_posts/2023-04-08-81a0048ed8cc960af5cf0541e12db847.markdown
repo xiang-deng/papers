@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Creating Custom Event Data Without Dictionaries: A Bag-of-Tricks"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "A Halterman, PA Schrodt, A Beger, BE Bagozzi… - arXiv preprint arXiv …, 2023"
----
-Event data, or structured records of``who did what to whom  that are automatically extracted from text, is an important source of data for scholars of international politics. The high cost of developing new event datasets, especially using automated systems that rely on hand-built dictionaries, means that most researchers draw on large, pre-existing datasets such as ICEWS rather than developing tailor-made event datasets optimized for their specific research question. This paper describes a``bag of …
-Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬
+--- 
+layout: post 
+title: "Creating Custom Event Data Without Dictionaries: A Bag-of-Tricks" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "A Halterman, PA Schrodt, A Beger, BE Bagozzi - arXiv preprint arXiv , 2023" 
+--- 
+Event data, or structured records of``who did what to whom that are automatically extracted from text, is an important source of data for scholars of international politics. The high cost of developing new event datasets, especially using automated systems that rely on hand-built dictionaries, means that most researchers draw on large, pre-existing datasets such as ICEWS rather than developing tailor-made event datasets optimized for their specific research question. This paper describes a``bag of  Cites: BERT: Pre-training of Deep Bidirectional Transformers for

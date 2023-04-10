@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MEGClass: Text Classification with Extremely Weak Supervision via Mutually-Enhancing Text Granularities"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "P Kargupta, T Komarlu, S Yoon, X Wang, J Han - arXiv preprint arXiv:2304.01969, 2023"
----
-Text classification typically requires a substantial amount of human-annotated data to serve as supervision, which is costly to obtain in dynamic emerging domains. Certain methods seek to address this problem by solely relying on the surface text of class names to serve as extremely weak supervision. However, existing methods fail to account for single-class documents discussing multiple topics. Both topic diversity and vague sentences may introduce noise into the document s underlying …
-Cites: ‪Document modeling with gated recurrent neural network for …‬
+--- 
+layout: post 
+title: "MEGClass: Text Classification with Extremely Weak Supervision via Mutually-Enhancing Text Granularities" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "P Kargupta, T Komarlu, S Yoon, X Wang, J Han - arXiv preprint arXiv:2304.01969, 2023" 
+--- 
+Text classification typically requires a substantial amount of human-annotated data to serve as supervision, which is costly to obtain in dynamic emerging domains. Certain methods seek to address this problem by solely relying on the surface text of class names to serve as extremely weak supervision. However, existing methods fail to account for single-class documents discussing multiple topics. Both topic diversity and vague sentences may introduce noise into the document s underlying  Cites: Document modeling with gated recurrent neural network for

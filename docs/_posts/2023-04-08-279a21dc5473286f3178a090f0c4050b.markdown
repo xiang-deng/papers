@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Torch-Choice: A PyTorch Package for Large-Scale Choice Modelling with Python"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "T Du, A Kanodia, S Athey - arXiv preprint arXiv:2304.01906, 2023"
----
-The $\texttt {torch-choice} $ is an open-source library for flexible, fast choice modeling with Python and PyTorch. $\texttt {torch-choice} $ provides a $\texttt {ChoiceDataset} $ data structure to manage databases flexibly and memory-efficiently. The paper demonstrates constructing a $\texttt {ChoiceDataset} $ from databases of various formats and functionalities of $\texttt {ChoiceDataset} $. The package implements two widely used models, namely the multinomial logit and …
-Cites: ‪Partitioned logistic regression for spam filtering‬
+--- 
+layout: post 
+title: "Torch-Choice: A PyTorch Package for Large-Scale Choice Modelling with Python" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "T Du, A Kanodia, S Athey - arXiv preprint arXiv:2304.01906, 2023" 
+--- 
+The $\texttt {torch-choice} $ is an open-source library for flexible, fast choice modeling with Python and PyTorch. $\texttt {torch-choice} $ provides a $\texttt {ChoiceDataset} $ data structure to manage databases flexibly and memory-efficiently. The paper demonstrates constructing a $\texttt {ChoiceDataset} $ from databases of various formats and functionalities of $\texttt {ChoiceDataset} $. The package implements two widely used models, namely the multinomial logit and  Cites: Partitioned logistic regression for spam filtering

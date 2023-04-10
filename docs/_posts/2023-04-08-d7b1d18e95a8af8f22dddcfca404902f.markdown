@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Correcting Flaws in Common Disentanglement Metrics"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "L Mahon, L Shah, T Lukasiewicz - arXiv preprint arXiv:2304.02335, 2023"
----
-Recent years have seen growing interest in learning disentangled representations, in which distinct features, such as size or shape, are represented by distinct neurons. Quantifying the extent to which a given representation is disentangled is not straightforward; multiple metrics have been proposed. In this paper, we identify two failings of existing metrics, which mean they can assign a high score to a model which is still entangled, and we propose two new metrics, which redress these …
-Cites: ‪Disentangled sequence to sequence learning for compositional …‬
+--- 
+layout: post 
+title: "Correcting Flaws in Common Disentanglement Metrics" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "L Mahon, L Shah, T Lukasiewicz - arXiv preprint arXiv:2304.02335, 2023" 
+--- 
+Recent years have seen growing interest in learning disentangled representations, in which distinct features, such as size or shape, are represented by distinct neurons. Quantifying the extent to which a given representation is disentangled is not straightforward; multiple metrics have been proposed. In this paper, we identify two failings of existing metrics, which mean they can assign a high score to a model which is still entangled, and we propose two new metrics, which redress these  Cites: Disentangled sequence to sequence learning for compositional

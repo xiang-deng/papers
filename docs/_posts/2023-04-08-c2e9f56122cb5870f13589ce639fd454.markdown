@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "V Zouhar, K Chang, C Cui, N Carlson, N Robinson… - arXiv preprint arXiv …, 2023"
----
-Word embeddings that map words into a fixed-dimensional vector space are the backbone of modern NLP. Most word embedding methods encode semantic information. However, phonetic information, which is important for some tasks, is often overlooked. In this work, we develop several novel methods which leverage articulatory features to build phonetically informed word embeddings, and present a set of phonetic word embeddings to encourage their community development …
-Cites: ‪One Embedder, Any Task: Instruction-Finetuned Text Embeddings‬
+--- 
+layout: post 
+title: "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "V Zouhar, K Chang, C Cui, N Carlson, N Robinson - arXiv preprint arXiv , 2023" 
+--- 
+Word embeddings that map words into a fixed-dimensional vector space are the backbone of modern NLP. Most word embedding methods encode semantic information. However, phonetic information, which is important for some tasks, is often overlooked. In this work, we develop several novel methods which leverage articulatory features to build phonetically informed word embeddings, and present a set of phonetic word embeddings to encourage their community development  Cites: One Embedder, Any Task: Instruction-Finetuned Text Embeddings

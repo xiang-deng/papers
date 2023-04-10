@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SS-BERT: A Semantic Information Selecting Approach for Open-Domain Question Answering"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "X Fu, J Du, HT Zheng, J Li, C Hou, Q Zhou, HG Kim - Electronics, 2023"
----
-Open-Domain Question Answering (Open-Domain QA) aims to answer any factoid questions from users. Recent progress in Open-Domain QA adopts the “retriever-reader” structure, which has proven effective. Retriever methods are mainly categorized as sparse retrievers and dense retrievers. In recent work, the dense retriever showed a stronger semantic interpretation than the sparse retriever. When training a dual-encoder dense retriever for document retrieval and reranking, there …
-Cites: ‪Open-domain Question Answering‬
+--- 
+layout: post 
+title: "SS-BERT: A Semantic Information Selecting Approach for Open-Domain Question Answering" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "X Fu, J Du, HT Zheng, J Li, C Hou, Q Zhou, HG Kim - Electronics, 2023" 
+--- 
+Open-Domain Question Answering (Open-Domain QA) aims to answer any factoid questions from users. Recent progress in Open-Domain QA adopts the retriever-reader structure, which has proven effective. Retriever methods are mainly categorized as sparse retrievers and dense retrievers. In recent work, the dense retriever showed a stronger semantic interpretation than the sparse retriever. When training a dual-encoder dense retriever for document retrieval and reranking, there  Cites: Open-domain Question Answering

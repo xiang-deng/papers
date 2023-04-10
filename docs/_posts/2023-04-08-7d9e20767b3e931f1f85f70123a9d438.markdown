@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Calibrating Cross-modal Feature for Text-Based Person Searching"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "D Wei, S Zhang, T Yang, J Liu - arXiv preprint arXiv:2304.02278, 2023"
----
-We present a novel and effective method calibrating cross-modal features for text-based person search. Our method is cost-effective and can easily retrieve specific persons with textual captions. Specifically, its architecture is only a dual-encoder and a detachable cross-modal decoder. Without extra multi-level branches or complex interaction modules as the neck following the backbone, our model makes a high-speed inference only based on the dual-encoder. Besides, our method consists of …
-Cites: ‪Vinvl: Revisiting visual representations in vision-language models‬

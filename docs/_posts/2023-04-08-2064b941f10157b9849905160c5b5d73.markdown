@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An Abstractive Summarization Model Based on Joint-Attention Mechanism and a Priori Knowledge"
-date:   2023-04-08 04:35:01 -0400
-categories: jekyll update
-author: "Y Li, Y Huang, W Huang, J Yu, Z Huang - Applied Sciences, 2023"
----
-An abstractive summarization model based on the joint-attention mechanism and a priori knowledge is proposed to address the problems of the inadequate semantic understanding of text and summaries that do not conform to human language habits in abstractive summary models. Word vectors that are most relevant to the original text should be selected first. Second, the original text is represented in two dimensions—word-level and sentence-level, as word vectors and sentence vectors …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "An Abstractive Summarization Model Based on Joint-Attention Mechanism and a Priori Knowledge" 
+date: 2023-04-08 04:35:01 -0400 
+categories: jekyll update 
+author: "Y Li, Y Huang, W Huang, J Yu, Z Huang - Applied Sciences, 2023" 
+--- 
+An abstractive summarization model based on the joint-attention mechanism and a priori knowledge is proposed to address the problems of the inadequate semantic understanding of text and summaries that do not conform to human language habits in abstractive summary models. Word vectors that are most relevant to the original text should be selected first. Second, the original text is represented in two dimensionsword-level and sentence-level, as word vectors and sentence vectors  Cites: Text summarization with pretrained encoders
