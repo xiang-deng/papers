@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CoT-MAE v2: Contextual Masked Auto-Encoder with Multi-view Modeling for Passage Retrieval"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "X Wu, G Ma, P Wang, M Lin, Z Lin, F Zhang, S Hu - arXiv preprint arXiv:2304.03158, 2023"
+---
+Growing techniques have been emerging to improve the performance of passage retrieval. As an effective representation bottleneck pretraining technique, the contextual masked auto-encoder utilizes contextual embedding to assist in the reconstruction of passages. However, it only uses a single auto-encoding pre-task for dense representation pre-training. This study brings multi-view modeling to the contextual masked auto-encoder. Firstly, multi-view representation utilizes both …
+Cites: ‪Few-shot conversational dense retrieval‬

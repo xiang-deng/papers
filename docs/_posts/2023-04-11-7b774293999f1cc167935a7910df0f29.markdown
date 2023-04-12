@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PopulAtion Parameter Averaging (PAPA)"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "A Jolicoeur-Martineau, E Gervais, K Fatras, Y Zhang… - arXiv preprint arXiv …, 2023"
+---
+Ensemble methods combine the predictions of multiple models to improve performance, but they require significantly higher computation costs at inference time. To avoid these costs, multiple neural networks can be combined into one by averaging their weights (model soups). However, this usually performs significantly worse than ensembling. Weight averaging is only beneficial when weights are similar enough (in weight or feature space) to average well but different enough to …
+Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Evaluating the Robustness of Machine Reading Comprehension Models to Low Resource Entity Renaming"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "C Siro, TO Ajayi - arXiv preprint arXiv:2304.03145, 2023"
+---
+Question answering (QA) models have shown compelling results in the task of Machine Reading Comprehension (MRC). Recently these systems have proved to perform better than humans on held-out test sets of datasets eg SQuAD, but their robustness is not guaranteed. The QA model s brittleness is exposed when evaluated on adversarial generated examples by a performance drop. In this study, we explore the robustness of MRC models to entity renaming, with entities from low …
+Cites: ‪MultiQA: An Empirical Investigation of Generalization and Transfer …‬

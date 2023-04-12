@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "When do you need Chain-of-Thought Prompting for ChatGPT?"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "J Chen, L Chen, H Huang, T Zhou - arXiv preprint arXiv:2304.03262, 2023"
+---
+Chain-of-Thought (CoT) prompting can effectively elicit complex multi-step reasoning from Large Language Models~(LLMs). For example, by simply adding CoT instruction``Let s think step-by-step  to each input query of MultiArith dataset, GPT-3 s accuracy can be improved from 17.7\% to 78.7\%. However, it is not clear whether CoT is still effective on more recent instruction finetuned (IFT) LLMs such as ChatGPT. Surprisingly, on ChatGPT, CoT is no longer effective for certain tasks such …
+Cites: ‪Paraphrasing evades detectors of AI-generated text, but retrieval is …‬

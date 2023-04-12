@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Large language models effectively leverage document-level context for literary translation, but critical errors persist"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "M Karpinska, M Iyyer - arXiv preprint arXiv:2304.03245, 2023"
+---
+Large language models (LLMs) are competitive with the state of the art on a wide range of sentence-level translation datasets. However, their ability to translate paragraphs and documents remains unexplored because evaluation in these settings is costly and difficult. We show through a rigorous human evaluation that asking the Gpt-3.5 (text-davinci-003) LLM to translate an entire literary paragraph (eg, from a novel) at once results in higher-quality translations than standard …
+Cites: ‪Exploring Document-Level Literary Machine Translation with …‬

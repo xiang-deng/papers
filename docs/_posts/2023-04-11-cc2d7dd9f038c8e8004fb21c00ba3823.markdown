@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PELICAN: Exploiting Backdoors of Naturally Trained Deep Learning Models In Binary Code Analysis"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "Z Zhang, G Tao, G Shen, S An, Q Xu, Y Liu, Y Ye, Y Wu…"
+---
+Deep Learning (DL) models are increasingly used in many cyber-security applications and achieve superior performance compared to traditional solutions. In this paper, we study backdoor vulnerabilities in naturally trained models used in binary analysis. These backdoors are not injected by attackers but rather products of defects in datasets and/or training processes. The attacker can exploit these vulnerabilities by injecting some small fixed input pattern (eg, an instruction) called …
+Cites: ‪AllenNLP: A Deep Semantic Natural Language Processing Platform‬

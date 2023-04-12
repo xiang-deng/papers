@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Corpus Annotation Graph Builder (CAG): An Architectural Framework to Create and Annotate a Multi-source Graph"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "R El Baff, T Hecking, A Hamm, JW Korte, S Bartsch - EACL, 2023"
+---
+Graphs are a natural representation of complex data as their structure allows users to intuitively discover (often implicit) relations among the nodes. Applications build graphs in an ad-hoc fashion, usually tailored to specific use cases, limiting their reusability. To account for this, we present the Corpus Annotation Graph (CAG) architectural framework based on a create-and-annotate pattern that enables users to build uniformly structured graphs from diverse data sources and extend them with …
+Cites: ‪Multi-task identification of entities, relations, and coreference for …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Low-Shot Learning for Fictional Claim Verification"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "V Chadalapaka, D Nguyen, JW Choi, S Joshi… - arXiv preprint arXiv …, 2023"
+---
+In this paper, we study the problem of claim verification in the context of claims about fictional stories in a low-shot learning setting. To this end, we generate two synthetic datasets and then develop an end-to-end pipeline and model that is tested on both benchmarks. To test the efficacy of our pipeline and the difficulty of benchmarks, we compare our models  results against human and random assignment results. Our code is available at https://github. com/Derposoft/plot_hole_detection.
+Cites: ‪MultiVerS: Improving scientific claim verification with weak …‬

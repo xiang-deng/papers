@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SLM: End-to-end Feature Selection via Sparse Learnable Masks"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "Y Dong, SO Arik - arXiv preprint arXiv:2304.03202, 2023"
+---
+Feature selection has been widely used to alleviate compute requirements during training, elucidate model interpretability, and improve model generalizability. We propose SLM--Sparse Learnable Masks--a canonical approach for end-to-end feature selection that scales well with respect to both the feature dimension and the number of samples. At the heart of SLM lies a simple but effective learnable sparse mask, which learns which features to select, and gives rise to a novel objective that …
+Cites: ‪An investigation of why overparameterization exacerbates …‬

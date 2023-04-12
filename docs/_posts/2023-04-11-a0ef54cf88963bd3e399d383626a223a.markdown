@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimizing Discrete Text Prompts for Large Language Models"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "J Wang - 2023"
+---
+Prompting has shown impressive success in enabling large pretrained language models (LMs) to perform diverse NLP tasks, especially when only few downstream data are available. Automatically finding the optimal prompt for each task, however, is challenging. Most existing work resorts to tuning soft prompt (eg, embeddings) which falls short of interpretability, reusability across LMs, and applicability when gradients are not accessible. Discrete prompt, on the other hand, is difficult to …
+Cites: ‪An explanation of in-context learning as implicit bayesian inference‬

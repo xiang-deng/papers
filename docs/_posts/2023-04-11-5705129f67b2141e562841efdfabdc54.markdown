@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A BERT-based deontic logic learner"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "J Sun, S Huang, C Wei - Information Processing & Management, 2023"
+---
+In recent years, large-scale Pre-trained Language Models (PLMs) like BERT have achieved state-of-the-art results on many NLP tasks. We explore whether BERT understands deontic logic which is important for the fields of legal AI and digital government. We measure BERT s understanding of deontic logic through the Deontic Modality Classification (DMC) task. Experiments show that without fine-tuning or fine-tuning with only a small amount of data, BERT cannot achieve good performance on …
+Cites: ‪oLMpics-on what language model pre-training captures‬

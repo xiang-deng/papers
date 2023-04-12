@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Modular Neural Networks with Pre-Trained Models"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "TQ Dinh - 2023"
+---
+Utilizing pre-trained models for knowledge transfer, or adaptation, has gained widespread adoption in deep learning tasks, owing to its superior efficiency and effectiveness compared to traditional training from scratch. As model sizes continue to expand, freezing pre-trained models has emerged as a viable practice for knowledge transfer, improving data and storage efficiency while mitigating the long-standing issue of catastrophic forgetting. This thesis investigates the potential for …
+Cites: ‪TABBIE: Pretrained Representations of Tabular Data‬

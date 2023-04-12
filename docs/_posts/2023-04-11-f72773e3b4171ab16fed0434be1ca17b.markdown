@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Zero-Shot Next-Item Recommendation using Large Pretrained Language Models"
+date:   2023-04-11 07:02:19 -0400
+categories: jekyll update
+author: "L Wang, EP Lim - arXiv preprint arXiv:2304.03153, 2023"
+---
+Large language models (LLMs) have achieved impressive zero-shot performance in various natural language processing (NLP) tasks, demonstrating their capabilities for inference without training examples. Despite their success, no research has yet explored the potential of LLMs to perform next-item recommendations in the zero-shot setting. We have identified two major challenges that must be addressed to enable LLMs to act effectively as recommenders. First, the recommendation space …
+Cites: ‪PaLM: Scaling language modeling with pathways‬
