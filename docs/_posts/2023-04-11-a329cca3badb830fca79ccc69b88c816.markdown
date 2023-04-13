@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Simplifying Content-Based Neural News Recommendation: On User Modeling and Training Objectives"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "A Iana, G Glavaš, H Paulheim - arXiv preprint arXiv:2304.03112, 2023"
----
-The advent of personalized news recommendation has given rise to increasingly complex recommender architectures. Most neural news recommenders rely on user click behavior and typically introduce dedicated user encoders that aggregate the content of clicked news into user embeddings (early fusion). These models are predominantly trained with standard point-wise classification objectives. The existing body of work exhibits two main shortcomings:(1) despite general design …
-Cites: ‪More Robust Dense Retrieval with Contrastive Dual Learning‬
+--- 
+layout: post 
+title: "Simplifying Content-Based Neural News Recommendation: On User Modeling and Training Objectives" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "A Iana, G Glava, H Paulheim - arXiv preprint arXiv:2304.03112, 2023" 
+--- 
+The advent of personalized news recommendation has given rise to increasingly complex recommender architectures. Most neural news recommenders rely on user click behavior and typically introduce dedicated user encoders that aggregate the content of clicked news into user embeddings (early fusion). These models are predominantly trained with standard point-wise classification objectives. The existing body of work exhibits two main shortcomings:(1) despite general design  Cites: More Robust Dense Retrieval with Contrastive Dual Learning

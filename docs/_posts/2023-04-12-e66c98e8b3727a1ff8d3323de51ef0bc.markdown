@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GEMINI: Controlling the Sentence-level Writing Style for Abstractive Text Summarization"
+date:   2023-04-12 17:14:48 -0400
+categories: jekyll update
+author: "G Bao, Z Ou, Y Zhang - arXiv preprint arXiv:2304.03548, 2023"
+---
+Human experts write summaries using different techniques, including rewriting a sentence in the document or fusing multiple sentences to generate a summary sentence. These techniques are flexible and thus difficult to be imitated by any single method. To address this issue, we propose an adaptive model, GEMINI, that integrates a rewriter and a fuser to mimic the sentence rewriting and fusion techniques, respectively. GEMINI adaptively chooses to rewrite a specific document …
+Cites: ‪Fast Abstractive Summarization with Reinforce-Selected Sentence …‬

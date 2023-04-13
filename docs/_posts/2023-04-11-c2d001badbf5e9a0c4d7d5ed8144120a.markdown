@@ -1,9 +1,8 @@
----
-layout: post
-title:  "To Asymmetry and Beyond: Structured Pruning of Sequence to Sequence Models for Improved Inference Efficiency"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "D Campos, CX Zhai - arXiv preprint arXiv:2304.02721, 2023"
----
-Sequence-to-sequence language models can be used to produce abstractive summaries which are coherent, relevant, and concise. Still, model sizes can make deployment in latency-sensitive or web-scale implementations difficult. This paper studies the relationship between model size, structured pruning, inference efficiency, and summarization accuracy on widely used summarization datasets. We show that model accuracy is tied to the encoder size while inference efficiency is connected to …
-Cites: ‪Don t give me the details, just the summary! topic-aware …‬
+--- 
+layout: post 
+title: "To Asymmetry and Beyond: Structured Pruning of Sequence to Sequence Models for Improved Inference Efficiency" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "D Campos, CX Zhai - arXiv preprint arXiv:2304.02721, 2023" 
+--- 
+Sequence-to-sequence language models can be used to produce abstractive summaries which are coherent, relevant, and concise. Still, model sizes can make deployment in latency-sensitive or web-scale implementations difficult. This paper studies the relationship between model size, structured pruning, inference efficiency, and summarization accuracy on widely used summarization datasets. We show that model accuracy is tied to the encoder size while inference efficiency is connected to  Cites: Don t give me the details, just the summary! topic-aware

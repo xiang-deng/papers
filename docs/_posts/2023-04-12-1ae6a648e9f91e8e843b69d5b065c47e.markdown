@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Supervised Contrastive Learning with Heterogeneous Similarity for Distribution Shifts"
+date:   2023-04-12 17:14:48 -0400
+categories: jekyll update
+author: "T Kutsuna - arXiv preprint arXiv:2304.03440, 2023"
+---
+Distribution shifts are problems where the distribution of data changes between training and testing, which can significantly degrade the performance of a model deployed in the real world. Recent studies suggest that one reason for the degradation is a type of overfitting, and that proper regularization can mitigate the degradation, especially when using highly representative models such as neural networks. In this paper, we propose a new regularization using the supervised …
+Cites: ‪Examining and Combating Spurious Features under Distribution Shift‬

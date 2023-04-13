@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Data-free Backdoor Injection Approach in Neural Networks"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "P Lv, C Yue, R Liang, Y Yang, S Zhang, H Ma, K Chen"
----
-Recently, the backdoor attack on deep neural networks (DNNs) has been extensively studied, which causes the backdoored models to behave well on benign samples, whereas performing maliciously on controlled samples (with triggers attached). Almost all existing backdoor attacks require access to the original training/testing dataset or data relevant to the main task to inject backdoors into the target models, which is unrealistic in many scenarios, eg, private training data. In this paper, we …
-Cites: ‪Weight Poisoning Attacks on Pre-trained Models‬
+--- 
+layout: post 
+title: "A Data-free Backdoor Injection Approach in Neural Networks" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "P Lv, C Yue, R Liang, Y Yang, S Zhang, H Ma, K Chen" 
+--- 
+Recently, the backdoor attack on deep neural networks (DNNs) has been extensively studied, which causes the backdoored models to behave well on benign samples, whereas performing maliciously on controlled samples (with triggers attached). Almost all existing backdoor attacks require access to the original training/testing dataset or data relevant to the main task to inject backdoors into the target models, which is unrealistic in many scenarios, eg, private training data. In this paper, we  Cites: Weight Poisoning Attacks on Pre-trained Models

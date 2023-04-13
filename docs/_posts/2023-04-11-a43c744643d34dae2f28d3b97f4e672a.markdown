@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HGCC: Enhancing Hyperbolic Graph Convolution Networks on Heterogeneous Collaborative Graph for Recommendation"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "L Zhang, N Wu - arXiv preprint arXiv:2304.02961, 2023"
----
-Due to the naturally power-law distributed nature of user-item interaction data in recommendation tasks, hyperbolic space modeling has recently been introduced into collaborative filtering methods. Among them, hyperbolic GCN combines the advantages of GCN and hyperbolic space and achieves a surprising performance. However, these methods only partially exploit the nature of hyperbolic space in their designs due to completely random embedding initialization and an inaccurate …
-Cites: ‪Fully Hyperbolic Neural Networks‬
+--- 
+layout: post 
+title: "HGCC: Enhancing Hyperbolic Graph Convolution Networks on Heterogeneous Collaborative Graph for Recommendation" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "L Zhang, N Wu - arXiv preprint arXiv:2304.02961, 2023" 
+--- 
+Due to the naturally power-law distributed nature of user-item interaction data in recommendation tasks, hyperbolic space modeling has recently been introduced into collaborative filtering methods. Among them, hyperbolic GCN combines the advantages of GCN and hyperbolic space and achieves a surprising performance. However, these methods only partially exploit the nature of hyperbolic space in their designs due to completely random embedding initialization and an inaccurate  Cites: Fully Hyperbolic Neural Networks

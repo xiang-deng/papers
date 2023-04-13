@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sparkly: A Simple yet Surprisingly Strong TF/IDF Blocker for Entity Matching"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "D Paulsen, Y Govind, AH Doan"
----
-Blocking is a major task in entity matching. Numerous blocking solutions have been developed, but as far as we can tell, blocking using the well-known tf/idf measure has received virtually no attention. Yet, when we experimented with tf/idf blocking using Lucene, we found it did quite well. So in this paper we examine tf/idf blocking in depth. We develop Sparkly, which uses Lucene to perform top-k tf/idf blocking in a distributed share-nothing fashion on a Spark cluster. We develop techniques to …
-Cites: ‪Principles of data integration‬
+--- 
+layout: post 
+title: "Sparkly: A Simple yet Surprisingly Strong TF/IDF Blocker for Entity Matching" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "D Paulsen, Y Govind, AH Doan" 
+--- 
+Blocking is a major task in entity matching. Numerous blocking solutions have been developed, but as far as we can tell, blocking using the well-known tf/idf measure has received virtually no attention. Yet, when we experimented with tf/idf blocking using Lucene, we found it did quite well. So in this paper we examine tf/idf blocking in depth. We develop Sparkly, which uses Lucene to perform top-k tf/idf blocking in a distributed share-nothing fashion on a Spark cluster. We develop techniques to  Cites: Principles of data integration

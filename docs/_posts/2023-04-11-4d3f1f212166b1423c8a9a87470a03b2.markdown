@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Efficient fine-tuning of BERT-like models"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "D Vucetic - 2023"
----
-Abstract Machine learning applications are increasingly deployed on resource-constrained devices. These devices range in size and computational capability from consumer laptops to embedded systems for Internet of things. Deep neural networks are among the most popular machine learning models due to their ability to learn complex relations from data. However, a noted trend is occurring in deep learning: models are increasing in size, requiring more data, training epochs, training time …
-Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬

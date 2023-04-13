@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Massively Parallel Single-Source SimRanks in $ o (\log n) $ Rounds"
+date:   2023-04-12 17:14:48 -0400
+categories: jekyll update
+author: "S Luo, Z Zhu - arXiv preprint arXiv:2304.04015, 2023"
+---
+SimRank is one of the most fundamental measures that evaluate the structural similarity between two nodes in a graph and has been applied in a plethora of data management tasks. These tasks often involve single-source SimRank computation that evaluates the SimRank values between a source node $ s $ and all other nodes. Due to its high computation complexity, single-source SimRank computation for large graphs is notoriously challenging, and hence recent studies resort to distributed …
+Cites: ‪SCARA: scalable graph neural networks with feature-oriented …‬

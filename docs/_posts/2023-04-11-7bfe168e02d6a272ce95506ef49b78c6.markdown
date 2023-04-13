@@ -1,9 +1,0 @@
----
-layout: post
-title:  "采用局部子图嵌入的 MOOCs 知识概念推荐模型"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "居程程， 祝义 - 计算机科学与探索"
----
-大规模开放在线课程(Massive Online Open Course, MOOCs) 在减少用户学习盲区和改善用户体验方面已经有大量的研究, 尤其是基于图神经网络的个性化课程资源推荐, 但现有工作主要集中在固定或同质图上, 容易受到数据稀疏问题的影响且难以扩展. 本文通过在局部子图上使用图卷积, 并结合扩展的矩阵分解(Matrix Factorization, MF) 模型来解决这一问题. 首先, 将异构图分解为多个基于元路径的子图, 每个子图关联特定的语义和结构信息, 结合随机游走采样方法实现在采样节点富有影响 …
-Cites: ‪MOOCCube: a large-scale data repository for NLP applications in …‬

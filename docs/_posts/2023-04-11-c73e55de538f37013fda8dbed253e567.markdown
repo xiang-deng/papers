@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Minimal Width for Universal Property of Deep RNN"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "C hoon Song, G Hwang, J ho Lee, M Kang - Journal of Machine Learning Research, 2023"
----
-A recurrent neural network (RNN) is a widely used deep-learning network for dealing with sequential data. Imitating a dynamical system, an infinite-width RNN can approximate any open dynamical system in a compact domain. In general, deep narrow networks with bounded width and arbitrary depth are more effective than wide shallow networks with arbitrary width and bounded depth in practice; however, the universal approximation theorem for deep narrow structures has yet to be …
-Cites: ‪Coatnet: Marrying convolution and attention for all data sizes‬
+--- 
+layout: post 
+title: "Minimal Width for Universal Property of Deep RNN" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "C hoon Song, G Hwang, J ho Lee, M Kang - Journal of Machine Learning Research, 2023" 
+--- 
+A recurrent neural network (RNN) is a widely used deep-learning network for dealing with sequential data. Imitating a dynamical system, an infinite-width RNN can approximate any open dynamical system in a compact domain. In general, deep narrow networks with bounded width and arbitrary depth are more effective than wide shallow networks with arbitrary width and bounded depth in practice; however, the universal approximation theorem for deep narrow structures has yet to be  Cites: Coatnet: Marrying convolution and attention for all data sizes

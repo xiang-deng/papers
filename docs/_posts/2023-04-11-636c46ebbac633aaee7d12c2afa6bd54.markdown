@@ -1,9 +1,8 @@
----
-layout: post
-title:  "KitchenScale: Learning to predict ingredient quantities from recipe contexts"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "D Choi, M Gim, S Badreddine, H Kim, D Park, J Kang - Expert Systems with …, 2023"
----
-Determining proper quantities for ingredients is an essential part of cooking practice from the perspective of enriching tastiness and promoting healthiness. We introduce KitchenScale, a fine-tuned Pre-trained Language Model (PLM) that predicts a target ingredient s quantity and measurement unit given its recipe context. To effectively train our KitchenScale model, we formulate an ingredient quantity prediction task that consists of three sub-tasks which are ingredient measurement type classification, unit …
-Cites: ‪Do NLP Models Know Numbers? Probing Numeracy in Embeddings‬
+--- 
+layout: post 
+title: "KitchenScale: Learning to predict ingredient quantities from recipe contexts" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "D Choi, M Gim, S Badreddine, H Kim, D Park, J Kang - Expert Systems with , 2023" 
+--- 
+Determining proper quantities for ingredients is an essential part of cooking practice from the perspective of enriching tastiness and promoting healthiness. We introduce KitchenScale, a fine-tuned Pre-trained Language Model (PLM) that predicts a target ingredient s quantity and measurement unit given its recipe context. To effectively train our KitchenScale model, we formulate an ingredient quantity prediction task that consists of three sub-tasks which are ingredient measurement type classification, unit  Cites: Do NLP Models Know Numbers? Probing Numeracy in Embeddings

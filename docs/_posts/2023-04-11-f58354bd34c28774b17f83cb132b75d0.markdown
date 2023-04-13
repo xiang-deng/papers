@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph neural networks and implicit neural representation for near-optimal topology prediction over irregular design domains"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "M Seo, S Min - Engineering Applications of Artificial Intelligence, 2023"
----
-This paper proposes a deep neural network-based topology optimization acceleration method for irregular design domains that predicts (near-) optimal topologies. A topology optimization problem is a complex non-Euclidean data, which can be embedded in a graph form, and a graph neural network encodes it to Euclidean data such as vectors and matrices. The encoded information is applied to a multi-layer perceptron-based implicit neural representation model, and the multi …
-Cites: ‪Graph neural networks: A review of methods and applications‬
+--- 
+layout: post 
+title: "Graph neural networks and implicit neural representation for near-optimal topology prediction over irregular design domains" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "M Seo, S Min - Engineering Applications of Artificial Intelligence, 2023" 
+--- 
+This paper proposes a deep neural network-based topology optimization acceleration method for irregular design domains that predicts (near-) optimal topologies. A topology optimization problem is a complex non-Euclidean data, which can be embedded in a graph form, and a graph neural network encodes it to Euclidean data such as vectors and matrices. The encoded information is applied to a multi-layer perceptron-based implicit neural representation model, and the multi  Cites: Graph neural networks: A review of methods and applications

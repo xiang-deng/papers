@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dealing with Cross-Task Class Discrimination in Online Continual Learning"
-date:   2023-04-11 07:02:19 -0400
-categories: jekyll update
-author: "Y Guo, B Liu, D Zhao"
----
-Existing continual learning (CL) research regards catastrophic forgetting (CF) as almost the only challenge. This paper argues for another challenge in class-incremental learning (CIL), which we call cross-task class discrimination (CTCD), ie, how to establish decision boundaries between the classes of the new task and old tasks with no (or limited) access to the old task data. CTCD is implicitly and partially dealt with by replay-based methods. A replay method saves a small amount of data …
-Cites: ‪Learn to grow: A continual structure learning framework for …‬
+--- 
+layout: post 
+title: "Dealing with Cross-Task Class Discrimination in Online Continual Learning" 
+date: 2023-04-11 07:02:19 -0400 
+categories: jekyll update 
+author: "Y Guo, B Liu, D Zhao" 
+--- 
+Existing continual learning (CL) research regards catastrophic forgetting (CF) as almost the only challenge. This paper argues for another challenge in class-incremental learning (CIL), which we call cross-task class discrimination (CTCD), ie, how to establish decision boundaries between the classes of the new task and old tasks with no (or limited) access to the old task data. CTCD is implicitly and partially dealt with by replay-based methods. A replay method saves a small amount of data  Cites: Learn to grow: A continual structure learning framework for

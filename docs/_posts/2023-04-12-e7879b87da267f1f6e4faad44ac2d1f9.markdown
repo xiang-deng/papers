@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CAPOT: Creating Robust Dense Query Encoders using Post Training Contrastive Alignment"
+date:   2023-04-12 17:14:48 -0400
+categories: jekyll update
+author: "D Campos, CX Zhai, A Magnani - arXiv preprint arXiv:2304.03401, 2023"
+---
+The success of contextual word representations and advances in neural information retrieval have made dense vector-based retrieval a standard approach for passage and document ranking. While effective and efficient, dual-encoders are brittle to variations in query distributions and noisy queries. Data augmentation can make models more robust but introduces overhead to training set generation and requires retraining and index regeneration. We present Contrastive Alignment POst Training …
+Cites: ‪Efficient passage retrieval with hashing for open-domain question …‬
