@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reweighted Mixup for Subpopulation Shift"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "Z Han, Z Liang, F Yang, L Liu, L Li, Y Bian, P Zhao… - arXiv preprint arXiv …, 2023"
----
-Subpopulation shift exists widely in many real-world applications, which refers to the training and test distributions that contain the same subpopulation groups but with different subpopulation proportions. Ignoring subpopulation shifts may lead to significant performance degradation and fairness concerns. Importance reweighting is a classical and effective way to handle the subpopulation shift. However, recent studies have recognized that most of these approaches fail to improve the …
-Cites: ‪Calibrated ensembles can mitigate accuracy tradeoffs under …‬
+--- 
+layout: post 
+title: "Reweighted Mixup for Subpopulation Shift" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "Z Han, Z Liang, F Yang, L Liu, L Li, Y Bian, P Zhao - arXiv preprint arXiv , 2023" 
+--- 
+Subpopulation shift exists widely in many real-world applications, which refers to the training and test distributions that contain the same subpopulation groups but with different subpopulation proportions. Ignoring subpopulation shifts may lead to significant performance degradation and fairness concerns. Importance reweighting is a classical and effective way to handle the subpopulation shift. However, recent studies have recognized that most of these approaches fail to improve the  Cites: Calibrated ensembles can mitigate accuracy tradeoffs under

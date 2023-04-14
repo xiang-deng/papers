@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Incorporating Structured Sentences with Time-enhanced BERT for Fully-inductive Temporal Relation Prediction"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "Z Chen, C Xu, F Su, Z Huang, Y Dou - arXiv preprint arXiv:2304.04717, 2023"
----
-Temporal relation prediction in incomplete temporal knowledge graphs (TKGs) is a popular temporal knowledge graph completion (TKGC) problem in both transductive and inductive settings. Traditional embedding-based TKGC models (TKGE) rely on structured connections and can only handle a fixed set of entities, ie, the transductive setting. In the inductive setting where test TKGs contain emerging entities, the latest methods are based on symbolic rules or pre-trained language models (PLMs) …
-Cites: ‪Do Pre-trained Models Benefit Knowledge Graph Completion? A …‬
+--- 
+layout: post 
+title: "Incorporating Structured Sentences with Time-enhanced BERT for Fully-inductive Temporal Relation Prediction" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "Z Chen, C Xu, F Su, Z Huang, Y Dou - arXiv preprint arXiv:2304.04717, 2023" 
+--- 
+Temporal relation prediction in incomplete temporal knowledge graphs (TKGs) is a popular temporal knowledge graph completion (TKGC) problem in both transductive and inductive settings. Traditional embedding-based TKGC models (TKGE) rely on structured connections and can only handle a fixed set of entities, ie, the transductive setting. In the inductive setting where test TKGs contain emerging entities, the latest methods are based on symbolic rules or pre-trained language models (PLMs)  Cites: Do Pre-trained Models Benefit Knowledge Graph Completion? A

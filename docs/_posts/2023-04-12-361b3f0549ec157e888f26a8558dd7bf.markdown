@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "S Fakhoury, S Chakraborty, M Musuvathi, SK Lahiri - arXiv preprint arXiv:2304.03816, 2023"
----
-Large language models (LLMs), such as OpenAI s Codex, have demonstrated their potential to generate code from natural language descriptions across a wide range of programming tasks. Several benchmarks have recently emerged to evaluate the ability of LLMs to generate functionally correct code from natural language intent with respect to a set of hidden test cases. This has enabled the research community to identify significant and reproducible advancements in LLM capabilities. However …
-Cites: ‪Codebleu: a method for automatic evaluation of code synthesis‬
+--- 
+layout: post 
+title: "Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "S Fakhoury, S Chakraborty, M Musuvathi, SK Lahiri - arXiv preprint arXiv:2304.03816, 2023" 
+--- 
+Large language models (LLMs), such as OpenAI s Codex, have demonstrated their potential to generate code from natural language descriptions across a wide range of programming tasks. Several benchmarks have recently emerged to evaluate the ability of LLMs to generate functionally correct code from natural language intent with respect to a set of hidden test cases. This has enabled the research community to identify significant and reproducible advancements in LLM capabilities. However  Cites: Codebleu: a method for automatic evaluation of code synthesis

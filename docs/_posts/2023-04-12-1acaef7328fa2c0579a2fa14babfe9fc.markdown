@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring Effective Factors for Improving Visual In-Context Learning"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "Y Sun, Q Chen, J Wang, J Wang, Z Li - arXiv preprint arXiv:2304.04748, 2023"
----
-The In-Context Learning (ICL) is to understand a new task via a few demonstrations (aka. prompt) and predict new inputs without tuning the models. While it has been widely studied in NLP, it is still a relatively new area of research in computer vision. To reveal the factors influencing the performance of visual in-context learning, this paper shows that prompt selection and prompt fusion are two major factors that have a direct impact on the inference performance of visual context learning. Prompt …
-Cites: ‪What can transformers learn in-context? a case study of simple …‬
+--- 
+layout: post 
+title: "Exploring Effective Factors for Improving Visual In-Context Learning" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "Y Sun, Q Chen, J Wang, J Wang, Z Li - arXiv preprint arXiv:2304.04748, 2023" 
+--- 
+The In-Context Learning (ICL) is to understand a new task via a few demonstrations (aka. prompt) and predict new inputs without tuning the models. While it has been widely studied in NLP, it is still a relatively new area of research in computer vision. To reveal the factors influencing the performance of visual in-context learning, this paper shows that prompt selection and prompt fusion are two major factors that have a direct impact on the inference performance of visual context learning. Prompt  Cites: What can transformers learn in-context? a case study of simple

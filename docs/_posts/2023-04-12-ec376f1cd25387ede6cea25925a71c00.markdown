@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Decoder-Only or Encoder-Decoder? Interpreting Language Model as a Regularized Encoder-Decoder"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "Z Fu, W Lam, Q Yu, AMC So, S Hu, Z Liu, N Collier - arXiv preprint arXiv:2304.04052, 2023"
----
-The sequence-to-sequence (seq2seq) task aims at generating the target sequence based on the given input source sequence. Traditionally, most of the seq2seq task is resolved by the Encoder-Decoder framework which requires an encoder to encode the source sequence and a decoder to generate the target text. Recently, a bunch of new approaches have emerged that apply decoder-only language models directly to the seq2seq task. Despite the significant advancements in applying language …
-Cites: ‪Partially-Aligned Data-to-Text Generation with Distant Supervision‬
+--- 
+layout: post 
+title: "Decoder-Only or Encoder-Decoder? Interpreting Language Model as a Regularized Encoder-Decoder" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "Z Fu, W Lam, Q Yu, AMC So, S Hu, Z Liu, N Collier - arXiv preprint arXiv:2304.04052, 2023" 
+--- 
+The sequence-to-sequence (seq2seq) task aims at generating the target sequence based on the given input source sequence. Traditionally, most of the seq2seq task is resolved by the Encoder-Decoder framework which requires an encoder to encode the source sequence and a decoder to generate the target text. Recently, a bunch of new approaches have emerged that apply decoder-only language models directly to the seq2seq task. Despite the significant advancements in applying language  Cites: Partially-Aligned Data-to-Text Generation with Distant Supervision

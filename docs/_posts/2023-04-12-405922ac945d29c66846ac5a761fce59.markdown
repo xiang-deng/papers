@@ -1,9 +1,8 @@
----
-layout: post
-title:  "User-Defined Functions in Modern Data Engines"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "Y Foufoulas, A Simitsis - IEEE ICDE, 2023"
----
-Modern data management applications involve complex processing tasks over large volumes of data. Although this falls naturally within the scope of relational databases, many such tasks cannot be expressed in SQL and require additional expressive power achieved via user-defined functions (UDFs). However, efficient processing of UDFs in data engines hinge on dealing with the impedance mismatch between UDF execution and SQL processing. In recent years, the problem of efficient UDF …
-Cites: ‪Manimal: Relational optimization for data-intensive programs‬
+--- 
+layout: post 
+title: "User-Defined Functions in Modern Data Engines" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "Y Foufoulas, A Simitsis - IEEE ICDE, 2023" 
+--- 
+Modern data management applications involve complex processing tasks over large volumes of data. Although this falls naturally within the scope of relational databases, many such tasks cannot be expressed in SQL and require additional expressive power achieved via user-defined functions (UDFs). However, efficient processing of UDFs in data engines hinge on dealing with the impedance mismatch between UDF execution and SQL processing. In recent years, the problem of efficient UDF  Cites: Manimal: Relational optimization for data-intensive programs

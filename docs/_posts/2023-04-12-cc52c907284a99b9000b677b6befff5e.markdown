@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "J Dong, Q Zhang, X Huang, K Duan, Q Tan, Z Jiang - 2023"
----
-Knowledge graphs (KGs) have been widely used to enhance complex question answering (QA). To understand complex questions, existing studies employ language models (LMs) to encode contexts. Despite the simplicity, they neglect the latent relational information among question concepts and answers in KGs. While question concepts ubiquitously present hyponymy at the semantic level, eg, mammals and animals, this feature is identically reflected in the hierarchical relations …
-Cites: ‪Graph-based reasoning over heterogeneous external knowledge …‬
+--- 
+layout: post 
+title: "Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "J Dong, Q Zhang, X Huang, K Duan, Q Tan, Z Jiang - 2023" 
+--- 
+Knowledge graphs (KGs) have been widely used to enhance complex question answering (QA). To understand complex questions, existing studies employ language models (LMs) to encode contexts. Despite the simplicity, they neglect the latent relational information among question concepts and answers in KGs. While question concepts ubiquitously present hyponymy at the semantic level, eg, mammals and animals, this feature is identically reflected in the hierarchical relations  Cites: Graph-based reasoning over heterogeneous external knowledge

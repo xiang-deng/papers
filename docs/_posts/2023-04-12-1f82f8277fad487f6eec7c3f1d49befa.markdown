@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Deep Active Alignment of Knowledge Graph Entities and Schemata"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "J Huang, Z Sun, Q Chen, X Xu, W Ren, W Hu - arXiv preprint arXiv:2304.04389, 2023"
----
-Knowledge graphs (KGs) store rich facts about the real world. In this paper, we study KG alignment, which aims to find alignment between not only entities but also relations and classes in different KGs. Alignment at the entity level can cross-fertilize alignment at the schema level. We propose a new KG alignment approach, called DAAKG, based on deep learning and active learning. With deep learning, it learns the embeddings of entities, relations and classes, and jointly aligns them in a semi …
-Cites: ‪Multi-Channel Graph Neural Network for Entity Alignment‬
+--- 
+layout: post 
+title: "Deep Active Alignment of Knowledge Graph Entities and Schemata" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "J Huang, Z Sun, Q Chen, X Xu, W Ren, W Hu - arXiv preprint arXiv:2304.04389, 2023" 
+--- 
+Knowledge graphs (KGs) store rich facts about the real world. In this paper, we study KG alignment, which aims to find alignment between not only entities but also relations and classes in different KGs. Alignment at the entity level can cross-fertilize alignment at the schema level. We propose a new KG alignment approach, called DAAKG, based on deep learning and active learning. With deep learning, it learns the embeddings of entities, relations and classes, and jointly aligns them in a semi  Cites: Multi-Channel Graph Neural Network for Entity Alignment

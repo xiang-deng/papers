@@ -1,9 +1,0 @@
----
-layout: post
-title:  "基于深度学习方法的在线动作检测技术综述"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "张婉， 张睿萱， 谢昭， 刘家仁， 金宇奇， 沈玉龙 - Computer Science and Application, 2023"
----
-动作检测技术, 是在算法观测整个视频后自动识别出其中出现的动作类别和始末时间, 在机器人, 智能家居, 城市安防等领域均有应用. 然而实际生活中, 很多场景需要在某些事件刚发生时给予反馈, 这需要检测算法以一种在线形式接收视频信息, 传统的动作检测算法因为观测信息不完全, 效果很差. 本文基于当前在线动作检测算法的研究现状, 概述了目前用于在线检测的主流方法, 总结了目前研究将遇到的挑战. Abstract: Action detection technology, in which an algorithm observes the entire …
-Cites: ‪WOAD: Weakly supervised online action detection in untrimmed …‬

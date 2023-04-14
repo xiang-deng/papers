@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "H Liu, R Ning, Z Teng, J Liu, Q Zhou, Y Zhang - arXiv preprint arXiv:2304.03439, 2023"
----
-Harnessing logical reasoning ability is a comprehensive natural language understanding endeavor. With the release of Generative Pretrained Transformer 4 (GPT-4), highlighted as  advanced  at reasoning tasks, we are eager to learn the GPT-4 performance on various logical reasoning tasks. This report analyses multiple logical reasoning datasets, with popular benchmarks like LogiQA and ReClor, and newly-released datasets like AR-LSAT. We test the multi-choice reading …
-Cites: ‪ConjNLI: Natural Language Inference Over Conjunctive Sentences‬
+--- 
+layout: post 
+title: "Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "H Liu, R Ning, Z Teng, J Liu, Q Zhou, Y Zhang - arXiv preprint arXiv:2304.03439, 2023" 
+--- 
+Harnessing logical reasoning ability is a comprehensive natural language understanding endeavor. With the release of Generative Pretrained Transformer 4 (GPT-4), highlighted as advanced at reasoning tasks, we are eager to learn the GPT-4 performance on various logical reasoning tasks. This report analyses multiple logical reasoning datasets, with popular benchmarks like LogiQA and ReClor, and newly-released datasets like AR-LSAT. We test the multi-choice reading  Cites: ConjNLI: Natural Language Inference Over Conjunctive Sentences

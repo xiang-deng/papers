@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bipol: A Novel Multi-Axes Bias Evaluation Metric with Explainability for NLP"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "L Alkhaled, T Adewumi, SS Sabry - arXiv preprint arXiv:2304.04029, 2023"
----
-We introduce bipol, a new metric with explainability, for estimating social bias in text data. Harmful bias is prevalent in many online sources of data that are used for training machine learning (ML) models. In a step to address this challenge we create a novel metric that involves a two-step process: corpus-level evaluation based on model classification and sentence-level evaluation based on (sensitive) term frequency (TF). After creating new models to detect bias along multiple axes using …
-Cites: ‪Electra: Pre-training text encoders as discriminators rather than …‬
+--- 
+layout: post 
+title: "Bipol: A Novel Multi-Axes Bias Evaluation Metric with Explainability for NLP" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "L Alkhaled, T Adewumi, SS Sabry - arXiv preprint arXiv:2304.04029, 2023" 
+--- 
+We introduce bipol, a new metric with explainability, for estimating social bias in text data. Harmful bias is prevalent in many online sources of data that are used for training machine learning (ML) models. In a step to address this challenge we create a novel metric that involves a two-step process: corpus-level evaluation based on model classification and sentence-level evaluation based on (sensitive) term frequency (TF). After creating new models to detect bias along multiple axes using  Cites: Electra: Pre-training text encoders as discriminators rather than

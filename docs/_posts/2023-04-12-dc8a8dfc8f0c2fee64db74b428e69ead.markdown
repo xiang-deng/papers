@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MERMAIDE: Learning to Align Learners using Model-Based Meta-Learning"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "A Banerjee, S Phade, S Ermon, S Zheng - arXiv preprint arXiv:2304.04668, 2023"
----
-We study how a principal can efficiently and effectively intervene on the rewards of a previously unseen learning agent in order to induce desirable outcomes. This is relevant to many real-world settings like auctions or taxation, where the principal may not know the learning behavior nor the rewards of real people. Moreover, the principal should be few-shot adaptable and minimize the number of interventions, because interventions are often costly. We introduce MERMAIDE, a model-based …
-Cites: ‪The AI Economist: Taxation policy design via two-level deep …‬
+--- 
+layout: post 
+title: "MERMAIDE: Learning to Align Learners using Model-Based Meta-Learning" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "A Banerjee, S Phade, S Ermon, S Zheng - arXiv preprint arXiv:2304.04668, 2023" 
+--- 
+We study how a principal can efficiently and effectively intervene on the rewards of a previously unseen learning agent in order to induce desirable outcomes. This is relevant to many real-world settings like auctions or taxation, where the principal may not know the learning behavior nor the rewards of real people. Moreover, the principal should be few-shot adaptable and minimize the number of interventions, because interventions are often costly. We introduce MERMAIDE, a model-based  Cites: The AI Economist: Taxation policy design via two-level deep

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Edge Labelling in Narrative Knowledge Graphs"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "V Kanjirangat, A Antonucci - 2023"
----
-Edge labelling represents one of the most challenging processes for knowledge graph creation in unsupervised domains. Abstracting the relations between the entities, extracted in the form of triplets, and assigning a single label to a cluster of relations might be quite difficult without supervision and tedious if based on manual annotations. This seems to be particularly the case for applications in literary text understanding, which is the focus of this paper. We present a simple but efficient way …
-Cites: ‪Deep contextualized word representations‬
+--- 
+layout: post 
+title: "Edge Labelling in Narrative Knowledge Graphs" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "V Kanjirangat, A Antonucci - 2023" 
+--- 
+Edge labelling represents one of the most challenging processes for knowledge graph creation in unsupervised domains. Abstracting the relations between the entities, extracted in the form of triplets, and assigning a single label to a cluster of relations might be quite difficult without supervision and tedious if based on manual annotations. This seems to be particularly the case for applications in literary text understanding, which is the focus of this paper. We present a simple but efficient way  Cites: Deep contextualized word representations

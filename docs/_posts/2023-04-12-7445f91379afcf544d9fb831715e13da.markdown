@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Revisiting Deep Learning for Variable Type Recovery"
-date:   2023-04-12 17:14:48 -0400
-categories: jekyll update
-author: "K Cao, K Leach - arXiv preprint arXiv:2304.03854, 2023"
----
-Compiled binary executables are often the only available artifact in reverse engineering, malware analysis, and software systems maintenance. Unfortunately, the lack of semantic information like variable types makes comprehending binaries difficult. In efforts to improve the comprehensibility of binaries, researchers have recently used machine learning techniques to predict semantic information contained in the original source code. Chen et al. implemented DIRTY, a Transformer-based …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "Revisiting Deep Learning for Variable Type Recovery" 
+date: 2023-04-12 17:14:48 -0400 
+categories: jekyll update 
+author: "K Cao, K Leach - arXiv preprint arXiv:2304.03854, 2023" 
+--- 
+Compiled binary executables are often the only available artifact in reverse engineering, malware analysis, and software systems maintenance. Unfortunately, the lack of semantic information like variable types makes comprehending binaries difficult. In efforts to improve the comprehensibility of binaries, researchers have recently used machine learning techniques to predict semantic information contained in the original source code. Chen et al. implemented DIRTY, a Transformer-based  Cites: Codebert: A pre-trained model for programming and natural
