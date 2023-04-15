@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DISTO: Evaluating Textual Distractors for Multi-Choice Questions using Negative Sampling based Approach"
+date:   2023-04-14 18:18:10 -0400
+categories: jekyll update
+author: "B Ghanem, A Fyshe - arXiv preprint arXiv:2304.04881, 2023"
+---
+Multiple choice questions (MCQs) are an efficient and common way to assess reading comprehension (RC). Every MCQ needs a set of distractor answers that are incorrect, but plausible enough to test student knowledge. Distractor generation (DG) models have been proposed, and their performance is typically evaluated using machine translation (MT) metrics. However, MT metrics often misjudge the suitability of generated distractors. We propose DISTO: the first learned evaluation metric for …
+Cites: ‪Crowdsourcing Multiple Choice Science Questions‬

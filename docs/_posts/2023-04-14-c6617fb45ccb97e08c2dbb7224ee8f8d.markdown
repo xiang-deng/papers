@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards preserving word order importance through Forced Invalidation"
+date:   2023-04-14 18:18:10 -0400
+categories: jekyll update
+author: "H Al-Negheimish, P Madhyastha, A Russo - arXiv preprint arXiv:2304.05221, 2023"
+---
+Large pre-trained language models such as BERT have been widely used as a framework for natural language understanding (NLU) tasks. However, recent findings have revealed that pre-trained language models are insensitive to word order. The performance on NLU tasks remains unchanged even after randomly permuting the word of a sentence, where crucial syntactic information is destroyed. To help preserve the importance of word order, we propose a simple approach called Forced …
+Cites: ‪DROP: A Reading Comprehension Benchmark Requiring Discrete …‬

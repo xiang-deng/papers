@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generative Knowledge Selection for Knowledge-Grounded Dialogues"
+date:   2023-04-14 18:18:10 -0400
+categories: jekyll update
+author: "W Sun, P Ren, Z Ren - arXiv preprint arXiv:2304.04836, 2023"
+---
+Knowledge selection is the key in knowledge-grounded dialogues (KGD), which aims to select an appropriate knowledge snippet to be used in the utterance based on dialogue history. Previous studies mainly employ the classification approach to classify each candidate snippet as  relevant  or  irrelevant  independently. However, such approaches neglect the interactions between snippets, leading to difficulties in inferring the meaning of snippets. Moreover, they lack modeling of the discourse …
+Cites: ‪Retrieval-augmented generation for knowledge-intensive NLP tasks‬

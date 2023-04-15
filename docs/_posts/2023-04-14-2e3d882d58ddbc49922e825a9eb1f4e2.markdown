@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Global Prompt Cell: A Portable Control Module for Effective Prompt"
+date:   2023-04-14 18:18:10 -0400
+categories: jekyll update
+author: "C Liu, H Wang, N Xi, S Zhao, B Qin - arXiv preprint arXiv:2304.05642, 2023"
+---
+As a novel approach to tuning pre-trained models, prompt tuning involves freezing the parameters in downstream tasks while inserting trainable embeddings into inputs in the first layer. However, previous methods have mainly focused on the initialization of prompt embeddings. The question of how to train and utilize prompt embeddings in a reasonable way has become aa limiting factor in the effectiveness of prompt tuning. To address this issue, we introduce the Global Prompt Cell (GPC), a portable …
+Cites: ‪On transferability of prompt tuning for natural language processing‬

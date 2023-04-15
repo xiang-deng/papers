@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An autoencoder compression approach for accelerating large-scale inverse problems"
+date:   2023-04-14 18:18:10 -0400
+categories: jekyll update
+author: "J Wittmer, J Badger, H Sundar, T Bui-Thanh - arXiv preprint arXiv:2304.04781, 2023"
+---
+PDE-constrained inverse problems are some of the most challenging and computationally demanding problems in computational science today. Fine meshes that are required to accurately compute the PDE solution introduce an enormous number of parameters and require large scale computing resources such as more processors and more memory to solve such systems in a reasonable time. For inverse problems constrained by time dependent PDEs, the adjoint method that is …
+Cites: ‪Deep learning-enabled medical computer vision‬

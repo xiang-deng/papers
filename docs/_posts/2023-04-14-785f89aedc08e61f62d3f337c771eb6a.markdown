@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Boosted Prompt Ensembles for Large Language Models"
+date:   2023-04-14 18:18:10 -0400
+categories: jekyll update
+author: "S Pitis, MR Zhang, A Wang, J Ba - arXiv preprint arXiv:2304.05970, 2023"
+---
+Methods such as chain-of-thought prompting and self-consistency have pushed the frontier of language model reasoning performance with no additional training. To further improve performance, we propose a prompt ensembling method for large language models, which uses a small dataset to construct a set of few shot prompts that together comprise a``boosted prompt ensemble  . The few shot examples for each prompt are chosen in a stepwise fashion to be``hard  examples on which the …
+Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
