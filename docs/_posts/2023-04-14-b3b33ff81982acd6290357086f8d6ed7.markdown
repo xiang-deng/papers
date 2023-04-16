@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the class separability of contextual embeddings representations–or “The classifier does not matter when the (text) representation is so good!”"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "CMV de Andrade, FM Belém, W Cunha, C França… - Information Processing & …, 2023"
----
-The literature has not fully and adequately explained why contextual (eg, BERT-based) representations are so successful to improve the effectiveness of some Natural Language Processing tasks, especially Automatic Text Classifications (ATC). In this article, we evince that such representations, when properly tuned to a target domain, produce an extremely separable space that makes the classification task very effective, independently of the classifier employed for solving the ATC task. To …
-Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬
+--- 
+layout: post 
+title: "On the class separability of contextual embeddings representationsor The classifier does not matter when the (text) representation is so good!" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "CMV de Andrade, FM Belm, W Cunha, C Frana - Information Processing & , 2023" 
+--- 
+The literature has not fully and adequately explained why contextual (eg, BERT-based) representations are so successful to improve the effectiveness of some Natural Language Processing tasks, especially Automatic Text Classifications (ATC). In this article, we evince that such representations, when properly tuned to a target domain, produce an extremely separable space that makes the classification task very effective, independently of the classifier employed for solving the ATC task. To  Cites: RoBERTa: A Robustly Optimized BERT Pretraining Approach

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generating Controllable Long-dialogue with Coherence"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "Z Sheng, C Jiang, T Zhang, T Sprite"
----
-Developing controllable long text generation model has been a challenging problem given its relatively complex syntactic and semantic structures comparing to short form text. In this project, we aim to study approaches that can manage the coherence and cohesion from generating long text and apply it to open domain dialogue system. The targeted outcome will be a model feasible to generate long coherent dialogues with dynamic information flows and imposed keywords related content. Our work …
-Cites: ‪Ctrl: A conditional transformer language model for controllable …‬
+--- 
+layout: post 
+title: "Generating Controllable Long-dialogue with Coherence" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "Z Sheng, C Jiang, T Zhang, T Sprite" 
+--- 
+Developing controllable long text generation model has been a challenging problem given its relatively complex syntactic and semantic structures comparing to short form text. In this project, we aim to study approaches that can manage the coherence and cohesion from generating long text and apply it to open domain dialogue system. The targeted outcome will be a model feasible to generate long coherent dialogues with dynamic information flows and imposed keywords related content. Our work  Cites: Ctrl: A conditional transformer language model for controllable

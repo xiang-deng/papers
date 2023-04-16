@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "T Lei, J Bai, S Brahma, J Ainslie, K Lee, Y Zhou, N Du… - arXiv preprint arXiv …, 2023"
----
-We propose Conditional Adapter (CoDA), a parameter-efficient transfer learning method that also improves inference efficiency. CoDA generalizes beyond standard adapter approaches to enable a new way of balancing speed and accuracy using conditional computation. Starting with an existing dense pretrained model, CoDA adds sparse activation together with a small number of new parameters and a light-weight training phase. Our experiments demonstrate that the CoDA approach …
-Cites: ‪Structured Pruning Learns Compact and Accurate Models‬
+--- 
+layout: post 
+title: "Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "T Lei, J Bai, S Brahma, J Ainslie, K Lee, Y Zhou, N Du - arXiv preprint arXiv , 2023" 
+--- 
+We propose Conditional Adapter (CoDA), a parameter-efficient transfer learning method that also improves inference efficiency. CoDA generalizes beyond standard adapter approaches to enable a new way of balancing speed and accuracy using conditional computation. Starting with an existing dense pretrained model, CoDA adds sparse activation together with a small number of new parameters and a light-weight training phase. Our experiments demonstrate that the CoDA approach  Cites: Structured Pruning Learns Compact and Accurate Models

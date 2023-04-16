@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Neural Multi-network Diffusion towards Social Recommendation"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "B Du, L Liu, J Xu, F Wang, H Tong - arXiv preprint arXiv:2304.04994, 2023"
----
-Graph Neural Networks (GNNs) have been widely applied on a variety of real-world applications, such as social recommendation. However, existing GNN-based models on social recommendation suffer from serious problems of generalization and oversmoothness, because of the underexplored negative sampling method and the direct implanting of the off-the-shelf GNN models. In this paper, we propose a succinct multi-network GNN-based neural model (NeMo) for social recommendation …
-Cites: ‪Recommender systems with social regularization‬
+--- 
+layout: post 
+title: "Neural Multi-network Diffusion towards Social Recommendation" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "B Du, L Liu, J Xu, F Wang, H Tong - arXiv preprint arXiv:2304.04994, 2023" 
+--- 
+Graph Neural Networks (GNNs) have been widely applied on a variety of real-world applications, such as social recommendation. However, existing GNN-based models on social recommendation suffer from serious problems of generalization and oversmoothness, because of the underexplored negative sampling method and the direct implanting of the off-the-shelf GNN models. In this paper, we propose a succinct multi-network GNN-based neural model (NeMo) for social recommendation  Cites: Recommender systems with social regularization

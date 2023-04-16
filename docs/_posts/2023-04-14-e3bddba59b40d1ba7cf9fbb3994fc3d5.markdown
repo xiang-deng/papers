@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Angler: Helping Machine Translation Practitioners Prioritize Model Improvements"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "S Robertson, ZJ Wang, D Moritz, MB Kery, F Hohman - arXiv preprint arXiv …, 2023"
----
-Machine learning (ML) models can fail in unexpected ways in the real world, but not all model failures are equal. With finite time and resources, ML practitioners are forced to prioritize their model debugging and improvement efforts. Through interviews with 13 ML practitioners at Apple, we found that practitioners construct small targeted test sets to estimate an error s nature, scope, and impact on users. We built on this insight in a case study with machine translation models, and developed …
-Cites: ‪Evaluating models  local decision boundaries via contrast sets‬
+--- 
+layout: post 
+title: "Angler: Helping Machine Translation Practitioners Prioritize Model Improvements" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "S Robertson, ZJ Wang, D Moritz, MB Kery, F Hohman - arXiv preprint arXiv , 2023" 
+--- 
+Machine learning (ML) models can fail in unexpected ways in the real world, but not all model failures are equal. With finite time and resources, ML practitioners are forced to prioritize their model debugging and improvement efforts. Through interviews with 13 ML practitioners at Apple, we found that practitioners construct small targeted test sets to estimate an error s nature, scope, and impact on users. We built on this insight in a case study with machine translation models, and developed  Cites: Evaluating models local decision boundaries via contrast sets

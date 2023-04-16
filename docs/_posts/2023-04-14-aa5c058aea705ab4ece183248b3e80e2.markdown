@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "Z Hou, Y He, Y Cen, X Liu, Y Dong, E Kharlamov… - arXiv preprint arXiv …, 2023"
----
-Graph self-supervised learning (SSL), including contrastive and generative approaches, offers great potential to address the fundamental challenge of label scarcity in real-world graph data. Among both sets of graph SSL techniques, the masked graph autoencoders (eg, GraphMAE)--one type of generative method--have recently produced promising results. The idea behind this is to reconstruct the node features (or structures)--that are randomly masked from the input--with the …
-Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬
+--- 
+layout: post 
+title: "GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "Z Hou, Y He, Y Cen, X Liu, Y Dong, E Kharlamov - arXiv preprint arXiv , 2023" 
+--- 
+Graph self-supervised learning (SSL), including contrastive and generative approaches, offers great potential to address the fundamental challenge of label scarcity in real-world graph data. Among both sets of graph SSL techniques, the masked graph autoencoders (eg, GraphMAE)--one type of generative method--have recently produced promising results. The idea behind this is to reconstruct the node features (or structures)--that are randomly masked from the input--with the  Cites: Adaptive Graph Encoder for Attributed Graph Embedding

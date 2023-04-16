@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generalization Analysis of Pairwise Learning for Ranking with Deep Neural Networks"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "S Huang, J Zhou, H Feng, DX Zhou - Neural Computation, 2023"
----
-Pairwise learning is widely employed in ranking, similarity and metric learning, area under the curb maximization, and many other learning tasks involving sample pairs. Pairwise learning with deep neural networks was considered for ranking, but enough theoretical understanding about this topic is lacking. In this letter, we apply symmetric deep neural networks to pairwise learning for ranking with a hinge loss ϕ h and carry out generalization analysis for this algorithm. A key step in our analysis is to …
-Cites: ‪Semantic parsing on freebase from question-answer pairs‬
+--- 
+layout: post 
+title: "Generalization Analysis of Pairwise Learning for Ranking with Deep Neural Networks" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "S Huang, J Zhou, H Feng, DX Zhou - Neural Computation, 2023" 
+--- 
+Pairwise learning is widely employed in ranking, similarity and metric learning, area under the curb maximization, and many other learning tasks involving sample pairs. Pairwise learning with deep neural networks was considered for ranking, but enough theoretical understanding about this topic is lacking. In this letter, we apply symmetric deep neural networks to pairwise learning for ranking with a hinge loss h and carry out generalization analysis for this algorithm. A key step in our analysis is to  Cites: Semantic parsing on freebase from question-answer pairs

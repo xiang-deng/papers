@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Linked-DocRED–Enhancing DocRED with Entity-Linking to Evaluate End-To-End Document-Level Information Extraction"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "PY Genest, PE Portier, E Egyed-Zsigmond, M Lovisetto - 2023"
----
-Information Extraction (IE) pipelines aim to extract meaningful entities and relations from documents and structure them into a knowledge graph that can then be used in downstream applications. Training and evaluating such pipelines requires a dataset annotated with entities, coreferences, relations, and entity-linking. However, existing datasets either lack entity-linking labels, are too small, not diverse enough, or automatically annotated (that is, without a strong guarantee of the correction of …
-Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬
+--- 
+layout: post 
+title: "Linked-DocREDEnhancing DocRED with Entity-Linking to Evaluate End-To-End Document-Level Information Extraction" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "PY Genest, PE Portier, E Egyed-Zsigmond, M Lovisetto - 2023" 
+--- 
+Information Extraction (IE) pipelines aim to extract meaningful entities and relations from documents and structure them into a knowledge graph that can then be used in downstream applications. Training and evaluating such pipelines requires a dataset annotated with entities, coreferences, relations, and entity-linking. However, existing datasets either lack entity-linking labels, are too small, not diverse enough, or automatically annotated (that is, without a strong guarantee of the correction of  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

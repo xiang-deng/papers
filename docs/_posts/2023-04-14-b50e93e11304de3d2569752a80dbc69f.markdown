@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Homographic Disambiguation Representation for Neural Machine Translation"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "W Wang, W Peng, Q Liu - arXiv preprint arXiv:2304.05860, 2023"
----
-Homographs, words with the same spelling but different meanings, remain challenging in Neural Machine Translation (NMT). While recent works leverage various word embedding approaches to differentiate word sense in NMT, they do not focus on the pivotal components in resolving ambiguities of homographs in NMT: the hidden states of an encoder. In this paper, we propose a novel approach to tackle homographic issues of NMT in the latent space. We first train an encoder (aka  HDR …
-Cites: ‪Handling Homographs in Neural Machine Translation‬
+--- 
+layout: post 
+title: "Learning Homographic Disambiguation Representation for Neural Machine Translation" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "W Wang, W Peng, Q Liu - arXiv preprint arXiv:2304.05860, 2023" 
+--- 
+Homographs, words with the same spelling but different meanings, remain challenging in Neural Machine Translation (NMT). While recent works leverage various word embedding approaches to differentiate word sense in NMT, they do not focus on the pivotal components in resolving ambiguities of homographs in NMT: the hidden states of an encoder. In this paper, we propose a novel approach to tackle homographic issues of NMT in the latent space. We first train an encoder (aka HDR  Cites: Handling Homographs in Neural Machine Translation

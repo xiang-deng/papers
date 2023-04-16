@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Galactic ChitChat: Using Large Language Models to Converse with Astronomy Literature"
-date:   2023-04-14 18:18:10 -0400
-categories: jekyll update
-author: "I Ciucă, YS Ting - arXiv preprint arXiv:2304.05406, 2023"
----
-We demonstrate the potential of the state-of-the-art OpenAI GPT-4 large language model to engage in meaningful interactions with Astronomy papers using in-context prompting. To optimize for efficiency, we employ a distillation technique that effectively reduces the size of the original input paper by 50\%, while maintaining the paragraph structure and overall semantic integrity. We then explore the model s responses using a multi-document context (ten distilled documents). Our findings …
-Cites: ‪Sparks of artificial general intelligence: Early experiments with gpt-4‬
+--- 
+layout: post 
+title: "Galactic ChitChat: Using Large Language Models to Converse with Astronomy Literature" 
+date: 2023-04-14 18:18:10 -0400 
+categories: jekyll update 
+author: "I Ciuc, YS Ting - arXiv preprint arXiv:2304.05406, 2023" 
+--- 
+We demonstrate the potential of the state-of-the-art OpenAI GPT-4 large language model to engage in meaningful interactions with Astronomy papers using in-context prompting. To optimize for efficiency, we employ a distillation technique that effectively reduces the size of the original input paper by 50\%, while maintaining the paragraph structure and overall semantic integrity. We then explore the model s responses using a multi-document context (ten distilled documents). Our findings  Cites: Sparks of artificial general intelligence: Early experiments with gpt-4
