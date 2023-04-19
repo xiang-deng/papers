@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semi-supervised Learning for Fine-Grained Entity Typing with Mixed Label Smoothing and Pseudo Labeling"
+date:   2023-04-18 05:50:22 -0400
+categories: jekyll update
+author: "B Xu, Z Zhang, M Du, H Wang, H Song, Y Xiao - … 2023, Tianjin, China, April 17–20 …, 2023"
+---
+Distant supervision (DS) has been proposed to automatically annotate data and achieved significant success in fine-grained entity typing (FET). Despite its efficiency, distant supervision often suffers from the noisy labeling problem. To solve the noisy labeling problem, existing approaches assume the existence of “clean” and “noisy” sets in the training data and use different types of methods to utilize them. However, they still suffer from the confirmation bias problem in the “noisy” set and the false …
+Cites: ‪Modeling fine-grained entity types with box embeddings‬

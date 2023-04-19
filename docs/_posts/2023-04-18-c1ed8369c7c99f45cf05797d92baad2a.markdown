@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Energy-Efficient GPU Clusters Scheduling for Deep Learning"
+date:   2023-04-18 05:50:22 -0400
+categories: jekyll update
+author: "D Gu, X Xie, G Huang, X Jin, X Liu - arXiv preprint arXiv:2304.06381, 2023"
+---
+Training deep neural networks (DNNs) is a major workload in datacenters today, resulting in a tremendously fast growth of energy consumption. It is important to reduce the energy consumption while completing the DL training jobs early in data centers. In this paper, we propose PowerFlow, a GPU clusters scheduler that reduces the average Job Completion Time (JCT) under an energy budget. We first present performance models for DL training jobs to predict the throughput and …
+Cites: ‪Carbon emissions and large neural network training‬

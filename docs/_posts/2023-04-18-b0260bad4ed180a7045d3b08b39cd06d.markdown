@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PromptFusion: A Low-Cost Prompt-Based Task Composition for Multi-task Learning"
+date:   2023-04-18 05:50:22 -0400
+categories: jekyll update
+author: "H Song, H He, Q Zhu, X Xue - … : 29th International Conference, ICONIP 2022, Virtual …, 2023"
+---
+Prompt-tuning takes advantage of large-scale pretrained language models and achieves great performance while being more parameter-efficient. However, existing prompt-tuning methods require tuning different pretrained language models for each specific task, and fail to utilize information across different tasks, which limits their applicability in complex situations. To address above issues, we propose PromptFusion, a unique prompt-based multi-task transfer learning approach which …
+Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Semantic-Rich Relation-Selective Entity Representation for Knowledge Graph Completion"
+date:   2023-04-18 05:50:22 -0400
+categories: jekyll update
+author: "Z Xu, Z Qiu, Q Su - Database Systems for Advanced Applications: 28th …, 2023"
+---
+Many existing knowledge graph embedding methods learn semantic representations for entities by using graph neural networks (GNN) to harvest their intrinsic relevances. However, these methods mostly represent every entity with one coarse-grained representation, without considering the variation of the semantics of an entity under the context of different relations. To tackle this problem, we propose a method to learn multiple representations of an entity, with each emphasizing one specific …
+Cites: ‪Convolutional 2d knowledge graph embeddings‬

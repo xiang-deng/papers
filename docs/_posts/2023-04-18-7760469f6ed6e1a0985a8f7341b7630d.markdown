@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Road Network Representation Learning: A Dual Graph based Approach"
+date:   2023-04-18 05:50:22 -0400
+categories: jekyll update
+author: "L Zhang, C Long - ACM Transactions on Knowledge Discovery from Data, 2023"
+---
+Road network is a critical infrastructure powering many applications including transportation, mobility and logistics in real life. To leverage the input of a road network across these different applications, it is necessary to learn the representations of the roads in the form of vectors, which is named road network representation learning (RNRL). While several models have been proposed for RNRL, they capture the pairwise relationships/connections among roads only (ie, as …
+Cites: ‪Learning with hypergraphs: Clustering, classification, and …‬

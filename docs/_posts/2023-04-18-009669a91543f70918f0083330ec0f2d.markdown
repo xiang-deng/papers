@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The EsnTorch Library: Efficient Implementation of Transformer-Based Echo State Networks"
+date:   2023-04-18 05:50:22 -0400
+categories: jekyll update
+author: "J Cabessa, H Hernault, Y Lamonato, M Rochat… - … Information Processing: 29th …, 2023"
+---
+Transformer-based models have revolutionized NLP. But in general, these models are highly resource consuming. Based on this consideration, several reservoir computing approaches to NLP have shown promising results. In this context, we propose EsnTorch, a library that implements echo state networks (ESNs) with transformer-based embeddings for text classification. EsnTorch is developed in PyTorch, optimized to work on GPU, and compatible with the transformers and …
+Cites: ‪Mobilebert: a compact task-agnostic bert for resource-limited devices‬
