@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SumBART-An Improved BART Model for Abstractive Text Summarization"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "A Vivek, VS Devi - … : 29th International Conference, ICONIP 2022, Virtual …, 2023"
----
-In this project we introduce SumBART-an improved version of BART with better performance in abstractive text summarization task. BART is a denoising autoencoder model used for language modelling tasks. The existing BART model produces summaries with good grammatical accuracy but it does have certain amount of factual inconsistency. This issue of factual inconsistency is what makes text summarization models unfit to use in many real world applications. We are …
-Cites: ‪Detecting hallucinated content in conditional neural sequence …‬
+--- 
+layout: post 
+title: "SumBART-An Improved BART Model for Abstractive Text Summarization" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "A Vivek, VS Devi - : 29th International Conference, ICONIP 2022, Virtual , 2023" 
+--- 
+In this project we introduce SumBART-an improved version of BART with better performance in abstractive text summarization task. BART is a denoising autoencoder model used for language modelling tasks. The existing BART model produces summaries with good grammatical accuracy but it does have certain amount of factual inconsistency. This issue of factual inconsistency is what makes text summarization models unfit to use in many real world applications. We are  Cites: Detecting hallucinated content in conditional neural sequence

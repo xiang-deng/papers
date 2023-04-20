@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Data Management for ML-based Analytics and Beyond"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "D KANG, J GUIBAS, P BAILIS, T HASHIMOTO, YI SUN…"
----
-In this work, we highlight three important, but underlooked aspects of ML deployment pipelines: 1) managing high-quality training data, 2) monitoring ML errors at deployment time, and 3) connecting end use to deployment algorithms. We first demonstrate that training labels are often erroneous, contrary to standard practice, even when labeled by leading vendors. We then demonstrate that standard methods of deploying ML methods can lead to downstream errors. As a first step towards …
-Cites: ‪Miris: Fast object track queries in video‬

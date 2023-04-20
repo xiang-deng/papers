@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BEM-SM: A BERT-Encoder Model with Symmetry Supervision Module for Solving Math Word Problem"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "Y Zhang, T Zhang, P Xie, M Yu, G Yu - Symmetry, 2023"
----
-In order to find solutions to math word problems, some modules have been designed to check the generated expressions, but they neither take into account the symmetry between math word problems and their corresponding mathematical expressions, nor do they utilize the efficiency of pretrained language models in natural language understanding tasks. Anyway, designing fine-tuning tasks for pretrained language models that encourage cooperation with other modules to improve the performance …
-Cites: ‪Roberta: A robustly optimized bert pretraining approach. arXiv 2019‬
+--- 
+layout: post 
+title: "BEM-SM: A BERT-Encoder Model with Symmetry Supervision Module for Solving Math Word Problem" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "Y Zhang, T Zhang, P Xie, M Yu, G Yu - Symmetry, 2023" 
+--- 
+In order to find solutions to math word problems, some modules have been designed to check the generated expressions, but they neither take into account the symmetry between math word problems and their corresponding mathematical expressions, nor do they utilize the efficiency of pretrained language models in natural language understanding tasks. Anyway, designing fine-tuning tasks for pretrained language models that encourage cooperation with other modules to improve the performance  Cites: Roberta: A robustly optimized bert pretraining approach. arXiv 2019

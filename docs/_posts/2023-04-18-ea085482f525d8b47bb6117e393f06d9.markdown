@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multiple-policy High-confidence Policy Evaluation"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "C Dann, M Ghavamzadeh, TV Marinov"
----
-In reinforcement learning applications, we often want to accurately estimate the return of several policies of interest. We study this problem, multiple-policy high-confidence policy evaluation, where the goal is to estimate the return of all given target policies up to a desired accuracy with as few samples as possible. The natural approaches to this problem, ie, evaluating each policy separately or estimating a model of the MDP, do not take into account the similarities between target policies …
-Cites: ‪Breaking the curse of horizon: Infinite-horizon off-policy estimation‬
+--- 
+layout: post 
+title: "Multiple-policy High-confidence Policy Evaluation" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "C Dann, M Ghavamzadeh, TV Marinov" 
+--- 
+In reinforcement learning applications, we often want to accurately estimate the return of several policies of interest. We study this problem, multiple-policy high-confidence policy evaluation, where the goal is to estimate the return of all given target policies up to a desired accuracy with as few samples as possible. The natural approaches to this problem, ie, evaluating each policy separately or estimating a model of the MDP, do not take into account the similarities between target policies  Cites: Breaking the curse of horizon: Infinite-horizon off-policy estimation

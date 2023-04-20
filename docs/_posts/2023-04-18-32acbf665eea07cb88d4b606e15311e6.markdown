@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PGTask: Introducing the Task of Profile Generation from Dialogues"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "R Ribeiro, JP Carvalho, L Coheur - arXiv preprint arXiv:2304.06634, 2023"
----
-Recent approaches have attempted to personalize dialogue systems by leveraging profile information into models. However, this knowledge is scarce and difficult to obtain, which makes the extraction/generation of profile information from dialogues a fundamental asset. To surpass this limitation, we introduce the Profile Generation Task (PGTask). We contribute with a new dataset for this problem, comprising profile sentences aligned with related utterances, extracted from a corpus of dialogues …
-Cites: ‪Dialogue natural language inference‬
+--- 
+layout: post 
+title: "PGTask: Introducing the Task of Profile Generation from Dialogues" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "R Ribeiro, JP Carvalho, L Coheur - arXiv preprint arXiv:2304.06634, 2023" 
+--- 
+Recent approaches have attempted to personalize dialogue systems by leveraging profile information into models. However, this knowledge is scarce and difficult to obtain, which makes the extraction/generation of profile information from dialogues a fundamental asset. To surpass this limitation, we introduce the Profile Generation Task (PGTask). We contribute with a new dataset for this problem, comprising profile sentences aligned with related utterances, extracted from a corpus of dialogues  Cites: Dialogue natural language inference

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Backdoor Attacks to Deep Learning Models and Countermeasures: A Survey"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "Y Li, S Zhang, W Wang, H Song - IEEE Open Journal of the Computer Society, 2023"
----
-Backdoor attacks have severely threatened deep neural network (DNN) models in the past several years. In backdoor attacks, the attackers try to plant hidden backdoors into DNN models, either in the training or inference stage, to mislead the output of the model when the input contains some specified triggers without affecting the prediction of normal inputs not containing the triggers. As a rapidly developing topic, numerous works on designing various backdoor attacks and developing …
-Cites: ‪Mind the Style of Text! Adversarial and Backdoor Attacks Based on …‬
+--- 
+layout: post 
+title: "Backdoor Attacks to Deep Learning Models and Countermeasures: A Survey" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "Y Li, S Zhang, W Wang, H Song - IEEE Open Journal of the Computer Society, 2023" 
+--- 
+Backdoor attacks have severely threatened deep neural network (DNN) models in the past several years. In backdoor attacks, the attackers try to plant hidden backdoors into DNN models, either in the training or inference stage, to mislead the output of the model when the input contains some specified triggers without affecting the prediction of normal inputs not containing the triggers. As a rapidly developing topic, numerous works on designing various backdoor attacks and developing  Cites: Mind the Style of Text! Adversarial and Backdoor Attacks Based on

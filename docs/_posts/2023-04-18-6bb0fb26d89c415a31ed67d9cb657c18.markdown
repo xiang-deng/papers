@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Conjunctive Regular Path Queries under Injective Semantics"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "D Figueira, M Romero - arXiv preprint arXiv:2304.06232, 2023"
----
-We introduce injective semantics for Conjunctive Regular Path Queries (CRPQs), and study their fundamental properties. We identify two such semantics: atom-injective and query-injective semantics, both defined in terms of injective homomorphisms. These semantics are natural generalizations of the well-studied class of RPQs under simple-path semantics to the class of CRPQs. We study their evaluation and containment problems, providing useful characterizations for them …
-Cites: ‪Query containment for conjunctive queries with regular expressions‬
+--- 
+layout: post 
+title: "Conjunctive Regular Path Queries under Injective Semantics" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "D Figueira, M Romero - arXiv preprint arXiv:2304.06232, 2023" 
+--- 
+We introduce injective semantics for Conjunctive Regular Path Queries (CRPQs), and study their fundamental properties. We identify two such semantics: atom-injective and query-injective semantics, both defined in terms of injective homomorphisms. These semantics are natural generalizations of the well-studied class of RPQs under simple-path semantics to the class of CRPQs. We study their evaluation and containment problems, providing useful characterizations for them  Cites: Query containment for conjunctive queries with regular expressions

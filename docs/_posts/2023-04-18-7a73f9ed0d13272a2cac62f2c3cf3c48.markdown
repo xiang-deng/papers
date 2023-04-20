@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Factual Error Correction in Summarization with Retriever-Reader Pipeline"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "W Li, J Liu, H Gao - … : 29th International Conference, ICONIP 2022, Virtual …, 2023"
----
-Summarization models compress the source text without sacrificing the primary information. However, about 30% of summaries produced by state-of-the-art summarization models suffer from the factual inconsistencies between source text and summary, also known as hallucinations, making them less trustworthy. It has been challenging to reduce hallucinations, especially entity hallucinations. Most prior works use the entire source text for factual error correction, while input length is often …
-Cites: ‪Improving faithfulness in abstractive summarization with contrast …‬
+--- 
+layout: post 
+title: "Factual Error Correction in Summarization with Retriever-Reader Pipeline" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "W Li, J Liu, H Gao - : 29th International Conference, ICONIP 2022, Virtual , 2023" 
+--- 
+Summarization models compress the source text without sacrificing the primary information. However, about 30% of summaries produced by state-of-the-art summarization models suffer from the factual inconsistencies between source text and summary, also known as hallucinations, making them less trustworthy. It has been challenging to reduce hallucinations, especially entity hallucinations. Most prior works use the entire source text for factual error correction, while input length is often  Cites: Improving faithfulness in abstractive summarization with contrast

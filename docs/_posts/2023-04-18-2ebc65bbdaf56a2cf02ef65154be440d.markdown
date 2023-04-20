@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semantic-Driven Instance Generation for Table Question Answering"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "S Ma, W Jiang, X Ao, M Tian, X Feng, Y Lyu, Q She… - Database Systems for …, 2023"
----
-Recent studies exhibit that generating sufficient samples can improve the performance of Table QA, especially in complex cross-domain applications. However, most existing data augmentation approaches for Table QA adopt a top-down paradigm and rely on predefined rules designed by human experts. In this paper, we aim to generate training instances for Table QA while mitigating the dependence on the human experience. We propose an approach coined SIG-TQA in …
-Cites: ‪Grappa: Grammar-augmented pre-training for table semantic parsing‬
+--- 
+layout: post 
+title: "Semantic-Driven Instance Generation for Table Question Answering" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "S Ma, W Jiang, X Ao, M Tian, X Feng, Y Lyu, Q She - Database Systems for , 2023" 
+--- 
+Recent studies exhibit that generating sufficient samples can improve the performance of Table QA, especially in complex cross-domain applications. However, most existing data augmentation approaches for Table QA adopt a top-down paradigm and rely on predefined rules designed by human experts. In this paper, we aim to generate training instances for Table QA while mitigating the dependence on the human experience. We propose an approach coined SIG-TQA in  Cites: Grappa: Grammar-augmented pre-training for table semantic parsing

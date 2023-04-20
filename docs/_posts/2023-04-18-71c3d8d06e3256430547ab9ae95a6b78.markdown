@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Class-Dynamic and Hierarchy-Constrained Network for Entity Linking"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "K Wang, Q Liu, K Zhang, Y Liu, H Tao, Z Huang… - Database Systems for …, 2023"
----
-Entity Linking (EL) aims to map mentions in a text to corresponding entities in a knowledge base. Existing EL methods usually rely on sufficient labeled data to achieve the best performance. However, the massive investment in data makes EL systems viable only to a limited audience. There is ample evidence that introducing entity types can provide the model prior knowledge to maintain the model performance in low-data regimes. Unfortunately, current low-data EL methods …
-Cites: ‪Autoregressive entity retrieval‬
+--- 
+layout: post 
+title: "Class-Dynamic and Hierarchy-Constrained Network for Entity Linking" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "K Wang, Q Liu, K Zhang, Y Liu, H Tao, Z Huang - Database Systems for , 2023" 
+--- 
+Entity Linking (EL) aims to map mentions in a text to corresponding entities in a knowledge base. Existing EL methods usually rely on sufficient labeled data to achieve the best performance. However, the massive investment in data makes EL systems viable only to a limited audience. There is ample evidence that introducing entity types can provide the model prior knowledge to maintain the model performance in low-data regimes. Unfortunately, current low-data EL methods  Cites: Autoregressive entity retrieval

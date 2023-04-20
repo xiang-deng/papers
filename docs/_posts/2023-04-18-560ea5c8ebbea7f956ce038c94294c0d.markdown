@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distinguishing Sensitive and Insensitive Options for the Winograd Schema Challenge"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "D Li, P Wang, L He, K Pang, S Li, J Tang, T Wang - … 2023, Tianjin, China, April 17–20 …, 2023"
----
-Abstract The Winograd Schema Challenge (WSC) is a popular benchmark for commonsense reasoning. Each WSC instance has a component that corresponds to the mention of the correct answer option of the two options in the context. We observe that the answers of many instances are insensitive to the options. In this paper, based on this observation, we propose an approach based on fine-tuning the pre-trained language model for WSC by distinguishing sensitive and insensitive …
-Cites: ‪Solving hard coreference problems‬
+--- 
+layout: post 
+title: "Distinguishing Sensitive and Insensitive Options for the Winograd Schema Challenge" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "D Li, P Wang, L He, K Pang, S Li, J Tang, T Wang - 2023, Tianjin, China, April 1720 , 2023" 
+--- 
+Abstract The Winograd Schema Challenge (WSC) is a popular benchmark for commonsense reasoning. Each WSC instance has a component that corresponds to the mention of the correct answer option of the two options in the context. We observe that the answers of many instances are insensitive to the options. In this paper, based on this observation, we propose an approach based on fine-tuning the pre-trained language model for WSC by distinguishing sensitive and insensitive  Cites: Solving hard coreference problems

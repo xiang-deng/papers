@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TETA: Text-Enhanced Tabular Data Annotation with Multi-task Graph Convolutional Network"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "C Ye, H Zhi, S Jiang, H Zhang, Y Wu, G Dai - … , DASFAA 2023, Tianjin, China, April 17 …, 2023"
----
-Tabular data annotation, which aims to match cells (or col-umns) to their semantic entities (or types), is crucial to tackling the absence of table content. Recent approaches tend to learn embeddings for tabular data based on deep learning models, but are not conducive to parsing tabular data without metadata. While the metadata may not always be available, entity-related textual information can be easily obtained through external sources such as knowledge bases. Motivated by …
-Cites: ‪TaBERT: Pretraining for joint understanding of textual and tabular …‬
+--- 
+layout: post 
+title: "TETA: Text-Enhanced Tabular Data Annotation with Multi-task Graph Convolutional Network" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "C Ye, H Zhi, S Jiang, H Zhang, Y Wu, G Dai - , DASFAA 2023, Tianjin, China, April 17 , 2023" 
+--- 
+Tabular data annotation, which aims to match cells (or col-umns) to their semantic entities (or types), is crucial to tackling the absence of table content. Recent approaches tend to learn embeddings for tabular data based on deep learning models, but are not conducive to parsing tabular data without metadata. While the metadata may not always be available, entity-related textual information can be easily obtained through external sources such as knowledge bases. Motivated by  Cites: TaBERT: Pretraining for joint understanding of textual and tabular

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CapsRule: Explainable Deep Learning for Classifying Network Attacks"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "S Mahdavifar, AA Ghorbani - IEEE Transactions on Neural Networks and Learning …, 2023"
----
-Despite the potential deep learning (DL) algorithms have shown, their lack of transparency hinders their widespread application. Extracting if-then rules from deep neural networks is a powerful explanation method to capture nonlinear local behaviors. However, existing rule extraction methods suffer from inefficiency, incomprehensibility, infidelity, and not scaling well. Concerning security applications, they are not optimized regarding the decision boundary, data types and ranges …
-Cites: ‪  Why Should I Trust You? : Explaining the Predictions of Any …‬
+--- 
+layout: post 
+title: "CapsRule: Explainable Deep Learning for Classifying Network Attacks" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "S Mahdavifar, AA Ghorbani - IEEE Transactions on Neural Networks and Learning , 2023" 
+--- 
+Despite the potential deep learning (DL) algorithms have shown, their lack of transparency hinders their widespread application. Extracting if-then rules from deep neural networks is a powerful explanation method to capture nonlinear local behaviors. However, existing rule extraction methods suffer from inefficiency, incomprehensibility, infidelity, and not scaling well. Concerning security applications, they are not optimized regarding the decision boundary, data types and ranges  Cites: Why Should I Trust You? : Explaining the Predictions of Any

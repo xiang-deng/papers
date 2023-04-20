@@ -1,9 +1,8 @@
----
-layout: post
-title:  "In-Distribution and Out-of-Distribution Self-supervised ECG Representation Learning for Arrhythmia Detection"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "S Soltanieh, J Hashemi, A Etemad - arXiv preprint arXiv:2304.06427, 2023"
----
-This paper presents a systematic investigation into the effectiveness of Self-Supervised Learning (SSL) methods for Electrocardiogram (ECG) arrhythmia detection. We begin by conducting a novel distribution analysis on three popular ECG-based arrhythmia datasets: PTB-XL, Chapman, and Ribeiro. To the best of our knowledge, our study is the first to quantify these distributions in this area. We then perform a comprehensive set of experiments using different augmentations and …
-Cites: ‪A framework for contrastive self-supervised learning and designing …‬
+--- 
+layout: post 
+title: "In-Distribution and Out-of-Distribution Self-supervised ECG Representation Learning for Arrhythmia Detection" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "S Soltanieh, J Hashemi, A Etemad - arXiv preprint arXiv:2304.06427, 2023" 
+--- 
+This paper presents a systematic investigation into the effectiveness of Self-Supervised Learning (SSL) methods for Electrocardiogram (ECG) arrhythmia detection. We begin by conducting a novel distribution analysis on three popular ECG-based arrhythmia datasets: PTB-XL, Chapman, and Ribeiro. To the best of our knowledge, our study is the first to quantify these distributions in this area. We then perform a comprehensive set of experiments using different augmentations and  Cites: A framework for contrastive self-supervised learning and designing

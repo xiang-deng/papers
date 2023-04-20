@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Searching for Textual Adversarial Examples with Learned Strategy"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "X Guo, R Su, S Tu, L Xu - … : 29th International Conference, ICONIP 2022, Virtual …, 2023"
----
-Adversarial attacks can help to reveal the vulnerability of neural networks. In the text classification domain, synonym replacement is an effective way to generate adversarial examples. However, the number of replacement combinations grows exponentially with the text length, making the search difficult. In this work, we propose an attack method which combines a synonym selection network and search strategies of beam search and Monte Carlo tree search (MCTS). The synonym …
-Cites: ‪Word-level Textual Adversarial Attacking as Combinatorial …‬
+--- 
+layout: post 
+title: "Searching for Textual Adversarial Examples with Learned Strategy" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "X Guo, R Su, S Tu, L Xu - : 29th International Conference, ICONIP 2022, Virtual , 2023" 
+--- 
+Adversarial attacks can help to reveal the vulnerability of neural networks. In the text classification domain, synonym replacement is an effective way to generate adversarial examples. However, the number of replacement combinations grows exponentially with the text length, making the search difficult. In this work, we propose an attack method which combines a synonym selection network and search strategies of beam search and Monte Carlo tree search (MCTS). The synonym  Cites: Word-level Textual Adversarial Attacking as Combinatorial

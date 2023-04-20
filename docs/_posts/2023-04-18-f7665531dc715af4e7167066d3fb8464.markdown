@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Customised Decision Trees for Domain-knowledge Constraints"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "G Nanfack, P Temple, B Frênay - Pattern Recognition, 2023"
----
-When applied to critical domains, machine learning models usually need to comply with prior knowledge and domain-specific requirements. For example, one may require that a learned decision tree model should be of limited size and fair, so as to be easily interpretable, trusted, and adopted. However, most state-of-the-art models, even on decision trees, only aim to maximising expected accuracy. In this paper, we propose a framework in which a diverse family of prior and domain knowledge can …
-Cites: ‪Model-agnostic interpretability of machine learning‬
+--- 
+layout: post 
+title: "Learning Customised Decision Trees for Domain-knowledge Constraints" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "G Nanfack, P Temple, B Frnay - Pattern Recognition, 2023" 
+--- 
+When applied to critical domains, machine learning models usually need to comply with prior knowledge and domain-specific requirements. For example, one may require that a learned decision tree model should be of limited size and fair, so as to be easily interpretable, trusted, and adopted. However, most state-of-the-art models, even on decision trees, only aim to maximising expected accuracy. In this paper, we propose a framework in which a diverse family of prior and domain knowledge can  Cites: Model-agnostic interpretability of machine learning

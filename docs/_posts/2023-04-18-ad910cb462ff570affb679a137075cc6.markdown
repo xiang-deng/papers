@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LINGO: Visually Debiasing Natural Language Instructions to Support Task Diversity"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "A Arunkumar, S Sharma, R Agrawal… - arXiv preprint arXiv …, 2023"
----
-Cross-task generalization is a significant outcome that defines mastery in natural language understanding. Humans show a remarkable aptitude for this, and can solve many different types of tasks, given definitions in the form of textual instructions and a small set of examples. Recent work with pre-trained language models mimics this learning style: users can define and exemplify a task for the model to attempt as a series of natural language prompts or instructions. While prompting approaches …
-Cites: ‪Dynabench: Rethinking benchmarking in NLP‬
+--- 
+layout: post 
+title: "LINGO: Visually Debiasing Natural Language Instructions to Support Task Diversity" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "A Arunkumar, S Sharma, R Agrawal - arXiv preprint arXiv , 2023" 
+--- 
+Cross-task generalization is a significant outcome that defines mastery in natural language understanding. Humans show a remarkable aptitude for this, and can solve many different types of tasks, given definitions in the form of textual instructions and a small set of examples. Recent work with pre-trained language models mimics this learning style: users can define and exemplify a task for the model to attempt as a series of natural language prompts or instructions. While prompting approaches  Cites: Dynabench: Rethinking benchmarking in NLP

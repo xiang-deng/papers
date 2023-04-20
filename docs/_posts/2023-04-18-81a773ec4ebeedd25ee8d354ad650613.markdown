@@ -1,9 +1,8 @@
----
-layout: post
-title:  "G2T: A simple but versatile framework for topic modeling based on pretrained language model and community detection"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "L Zhang, J Liu, Q Yan - arXiv preprint arXiv:2304.06653, 2023"
----
-It has been reported that clustering-based topic models, which cluster high-quality sentence embeddings with an appropriate word selection method, can generate better topics than generative probabilistic topic models. However, these approaches suffer from the inability to select appropriate parameters and incomplete models that overlook the quantitative relation between words with topics and topics with text. To solve these issues, we propose graph to topic (G2T), a simple but effective …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "G2T: A simple but versatile framework for topic modeling based on pretrained language model and community detection" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "L Zhang, J Liu, Q Yan - arXiv preprint arXiv:2304.06653, 2023" 
+--- 
+It has been reported that clustering-based topic models, which cluster high-quality sentence embeddings with an appropriate word selection method, can generate better topics than generative probabilistic topic models. However, these approaches suffer from the inability to select appropriate parameters and incomplete models that overlook the quantitative relation between words with topics and topics with text. To solve these issues, we propose graph to topic (G2T), a simple but effective  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

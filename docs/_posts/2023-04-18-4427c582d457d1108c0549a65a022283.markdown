@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distantly Supervised Entity Linking with Selection Consistency Constraint"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "H Dai, L Meng, H Wang, R Gu, S Chen, F Chen, W Hu - Database Systems for …, 2023"
----
-Entity linking (EL) aims to find entities that the textual mentions refer to from a knowledge base (KB). The performance of current distantly supervised EL methods is not satisfactory under the condition of low-quality candidate generation. In this paper, we consider the scenario where multiple KBs are available, and for each KB, there is an EL model corresponding to it. We propose the selection consistency constraint (SCC), that is, for one sample, the entities selected from multiple KBs …
-Cites: ‪Capturing Semantic Similarity for Entity Linking with Convolutional …‬
+--- 
+layout: post 
+title: "Distantly Supervised Entity Linking with Selection Consistency Constraint" 
+date: 2023-04-18 05:50:22 -0400 
+categories: jekyll update 
+author: "H Dai, L Meng, H Wang, R Gu, S Chen, F Chen, W Hu - Database Systems for , 2023" 
+--- 
+Entity linking (EL) aims to find entities that the textual mentions refer to from a knowledge base (KB). The performance of current distantly supervised EL methods is not satisfactory under the condition of low-quality candidate generation. In this paper, we consider the scenario where multiple KBs are available, and for each KB, there is an EL model corresponding to it. We propose the selection consistency constraint (SCC), that is, for one sample, the entities selected from multiple KBs  Cites: Capturing Semantic Similarity for Entity Linking with Convolutional

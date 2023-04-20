@@ -1,9 +1,0 @@
----
-layout: post
-title:  "ÚFAL Submission for SIGTYP Supervised Cognate Detection Task"
-date:   2023-04-18 05:50:22 -0400
-categories: jekyll update
-author: "T Limisiewicz - Proceedings of the 4th Workshop on Research in …, 2023"
----
-In this work, I present ÚFAL submission for the supervised task of detecting cognates and derivatives. Cognates are word pairs in different languages sharing the origin in earlier attested forms in ancestral language, while derivatives come directly from another language. For the task, I developed gradient boosted tree classifier trained on linguistic and statistical features. The solution came first from two delivered systems with an 87% F1 score on the test split. This write-up gives an insight into the …
-Cites: ‪XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual …‬
