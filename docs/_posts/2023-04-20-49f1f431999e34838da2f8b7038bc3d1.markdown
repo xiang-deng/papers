@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Select and Optimize: Learning to aolve large-scale TSP instances"
+date:   2023-04-20 07:45:04 -0400
+categories: jekyll update
+author: "H Cheng, H Zheng, Y Cong, W Jiang, S Pu - International Conference on Artificial …, 2023"
+---
+Learning-based algorithms to solve TSP are getting popular in recent years, but most existing works cannot solve very large-scale TSP instances within a limited time. To solve this problem, this paper introduces a creative and distinctive method to select and locally optimize sub-parts of a solution. Concretely, we design a novel framework to generalize a small-scale selector-and-optimizer network to large-scale TSP instances by iteratively selecting while optimizing one sub-problem. At each …
+Cites: ‪Neural machine translation by jointly learning to align and translate‬

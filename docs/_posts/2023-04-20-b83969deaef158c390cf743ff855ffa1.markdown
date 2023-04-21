@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Attention Mixtures for Time-Aware Sequential Recommendation"
+date:   2023-04-20 07:45:04 -0400
+categories: jekyll update
+author: "VA Tran, G Salha-Galvan, B Sguerra, R Hennequin - arXiv preprint arXiv:2304.08158, 2023"
+---
+Transformers emerged as powerful methods for sequential recommendation. However, existing architectures often overlook the complex dependencies between user preferences and the temporal context. In this short paper, we introduce MOJITO, an improved Transformer sequential recommender system that addresses this limitation. MOJITO leverages Gaussian mixtures of attention-based temporal context and item embedding representations for sequential modeling. Such an approach …
+Cites: ‪Are Sixteen Heads Really Better than One?‬

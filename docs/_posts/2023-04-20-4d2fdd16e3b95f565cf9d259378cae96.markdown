@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Ordered Matrix Dirichlet for State-Space Models"
+date:   2023-04-20 07:45:04 -0400
+categories: jekyll update
+author: "N Stoehr, BJ Radford, R Cotterell, A Schein - International Conference on Artificial …, 2023"
+---
+Many dynamical systems in the real world are naturally described by latent states with intrinsic ordering, such as “ally”,“neutral”, and “enemy” relationships in international relations. These latent states manifest through countries  cooperative versus conflictual interactions over time. State-space models (SSMs) explicitly relate the dynamics of observed measurements to transitions in latent states. For discrete data, SSMs commonly do so through a state-to-action emission matrix and a state-to …
+Cites: ‪Learning to Extract International Relations from Political Context‬

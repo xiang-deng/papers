@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "STen: Productive and Efficient Sparsity in PyTorch"
+date:   2023-04-20 07:45:04 -0400
+categories: jekyll update
+author: "A Ivanov, N Dryden, T Ben-Nun, S Ashkboos, T Hoefler - arXiv preprint arXiv …, 2023"
+---
+As deep learning models grow, sparsity is becoming an increasingly critical component of deep neural networks, enabling improved performance and reduced storage. However, existing frameworks offer poor support for sparsity. Specialized sparsity engines focus exclusively on sparse inference, while general frameworks primarily focus on sparse tensors in classical formats and neglect the broader sparsification pipeline necessary for using sparse models, especially during training …
+Cites: ‪Palm: Scaling language modeling with pathways‬

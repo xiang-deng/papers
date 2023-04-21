@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study"
+date:   2023-04-20 07:45:04 -0400
+categories: jekyll update
+author: "B Wang, W Ping, P Xu, L McAfee, Z Liu, M Shoeybi… - arXiv preprint arXiv …, 2023"
+---
+Large decoder-only language models (LMs) can be largely improved in terms of perplexity by retrieval (eg, RETRO), but its impact on text generation quality and downstream task accuracy is unclear. Thus, it is still an open question: shall we pretrain large autoregressive LMs with retrieval? To answer it, we perform a comprehensive study on a scalable pre-trained retrieval-augmented LM (ie, RETRO) compared with standard GPT and retrieval-augmented GPT incorporated at fine …
+Cites: ‪REALM: Retrieval-Augmented Language Model Pre-Training‬

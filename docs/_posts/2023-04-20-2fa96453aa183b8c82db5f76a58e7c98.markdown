@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Structured Pruning for Multi-Task Deep Neural Networks"
+date:   2023-04-20 07:45:04 -0400
+categories: jekyll update
+author: "S Garg, L Zhang, H Guan - arXiv preprint arXiv:2304.06840, 2023"
+---
+Although multi-task deep neural network (DNN) models have computation and storage benefits over individual single-task DNN models, they can be further optimized via model compression. Numerous structured pruning methods are already developed that can readily achieve speedups in single-task models, but the pruning of multi-task networks has not yet been extensively studied. In this work, we investigate the effectiveness of structured pruning on multi-task models. We use an …
+Cites: ‪Multi-task self-training for learning general representations‬

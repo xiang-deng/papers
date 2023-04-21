@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "EBUNet: a fast and accurate semantic segmentation network with lightweight efficient bottleneck unit"
+date:   2023-04-20 07:45:04 -0400
+categories: jekyll update
+author: "S Shen, Z Zhai, G Yu, Y Yan, W Dai - Complex & Intelligent Systems, 2023"
+---
+It has been difficult to achieve a suitable balance between effectiveness and efficiency in lightweight semantic segmentation networks in recent years. The goal of this work is to present an efficient and reliable semantic segmentation method called EBUNet, which is aimed at achieving a favorable trade-off between inference speed and prediction accuracy. Initially, we develop an Efficient Bottleneck Unit (EBU) that employs depth-wise convolution and depth-wise dilated convolution to obtain …
+Cites: ‪Structured Pruning Learns Compact and Accurate Models‬
