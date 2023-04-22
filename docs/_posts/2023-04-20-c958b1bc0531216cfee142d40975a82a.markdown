@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Label Dependencies-aware Set Prediction Networks for Multi-label Text Classification"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "H Quanjie, D Xinkai, S Yalin, L Chao - arXiv preprint arXiv:2304.07022, 2023"
----
-Multi-label text classification aims to extract all the related labels from a sentence, which can be viewed as a sequence generation problem. However, the labels in training dataset are unordered. We propose to treat it as a direct set prediction problem and don t need to consider the order of labels. Besides, in order to model the correlation between labels, the adjacency matrix is constructed through the statistical relations between labels and GCN is employed to learn the label …
-Cites: ‪Ask me anything: Dynamic memory networks for natural language …‬
+--- 
+layout: post 
+title: "Label Dependencies-aware Set Prediction Networks for Multi-label Text Classification" 
+date: 2023-04-20 07:45:04 -0400 
+categories: jekyll update 
+author: "H Quanjie, D Xinkai, S Yalin, L Chao - arXiv preprint arXiv:2304.07022, 2023" 
+--- 
+Multi-label text classification aims to extract all the related labels from a sentence, which can be viewed as a sequence generation problem. However, the labels in training dataset are unordered. We propose to treat it as a direct set prediction problem and don t need to consider the order of labels. Besides, in order to model the correlation between labels, the adjacency matrix is constructed through the statistical relations between labels and GCN is employed to learn the label  Cites: Ask me anything: Dynamic memory networks for natural language

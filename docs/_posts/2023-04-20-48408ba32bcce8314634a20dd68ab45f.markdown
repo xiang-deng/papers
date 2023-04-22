@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "Z Chen, Z Wu, Z Lin, S Wang, C Plant, W Guo - arXiv preprint arXiv:2304.07014, 2023"
----
-Graph Convolutional Network (GCN) with the powerful capacity to explore graph-structural data has gained noticeable success in recent years. Nonetheless, most of the existing GCN-based models suffer from the notorious over-smoothing issue, owing to which shallow networks are extensively adopted. This may be problematic for complex graph datasets because a deeper GCN should be beneficial to propagating information across remote neighbors. Recent works have devoted effort …
-Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬
+--- 
+layout: post 
+title: "AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing" 
+date: 2023-04-20 07:45:04 -0400 
+categories: jekyll update 
+author: "Z Chen, Z Wu, Z Lin, S Wang, C Plant, W Guo - arXiv preprint arXiv:2304.07014, 2023" 
+--- 
+Graph Convolutional Network (GCN) with the powerful capacity to explore graph-structural data has gained noticeable success in recent years. Nonetheless, most of the existing GCN-based models suffer from the notorious over-smoothing issue, owing to which shallow networks are extensively adopted. This may be problematic for complex graph datasets because a deeper GCN should be beneficial to propagating information across remote neighbors. Recent works have devoted effort  Cites: Adaptive Graph Encoder for Attributed Graph Embedding

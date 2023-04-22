@@ -1,9 +1,0 @@
----
-layout: post
-title:  "The MiniPile Challenge for Data-Efficient Language Models"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "J Kaddour - arXiv preprint arXiv:2304.08442, 2023"
----
-The ever-growing diversity of pre-training text corpora has equipped language models with generalization capabilities across various downstream tasks. However, such diverse datasets are often too large for academic budgets; hence, most research on Transformer architectures, training procedures, optimizers, etc. gets conducted on smaller, homogeneous datasets. To this end, we present The MiniPile Challenge, where one pre-trains a language model on a diverse text corpus …
-Cites: ‪Nonparametric Masked Language Modeling‬

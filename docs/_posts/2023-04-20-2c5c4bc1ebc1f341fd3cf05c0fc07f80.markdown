@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tractable Control for Autoregressive Language Generation"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "H Zhang, M Dang, N Peng, GV Broeck - arXiv preprint arXiv:2304.07438, 2023"
----
-Despite the success of autoregressive large language models in text generation, it remains a major challenge to generate text that satisfies complex constraints: sampling from the conditional distribution $\Pr (\text {text}|\alpha) $ is intractable for even the simplest lexical constraints $\alpha $. To overcome this challenge, we propose to use tractable probabilistic models to impose lexical constraints in autoregressive text generation, which we refer to as GeLaTo. To demonstrate the …
-Cites: ‪On the hardness of approximate reasoning‬
+--- 
+layout: post 
+title: "Tractable Control for Autoregressive Language Generation" 
+date: 2023-04-20 07:45:04 -0400 
+categories: jekyll update 
+author: "H Zhang, M Dang, N Peng, GV Broeck - arXiv preprint arXiv:2304.07438, 2023" 
+--- 
+Despite the success of autoregressive large language models in text generation, it remains a major challenge to generate text that satisfies complex constraints: sampling from the conditional distribution $\Pr (\text {text}|\alpha) $ is intractable for even the simplest lexical constraints $\alpha $. To overcome this challenge, we propose to use tractable probabilistic models to impose lexical constraints in autoregressive text generation, which we refer to as GeLaTo. To demonstrate the  Cites: On the hardness of approximate reasoning

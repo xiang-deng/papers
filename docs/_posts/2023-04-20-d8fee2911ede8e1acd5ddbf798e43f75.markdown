@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A PROBABILISTIC FRAMEWORK FOR PRUNING TRANSFORMERS VIA A FINITE ADMIXTURE OF KEYS"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "TM Nguyen, T Nguyen, L Bui, H Do, DK Nguyen"
----
-Pairwise dot product-based self-attention is key to the success of transformers which achieve state-of-the-art performance across a variety of applications in language and vision, but are costly to compute. It has been shown that most attention scores and keys in transformers are redundant and can be removed without loss of accuracy. In this paper, we develop a novel probabilistic framework for pruning attention scores and keys in transformers. We first formulate an admixture model of attention keys …
-Cites: ‪Length-adaptive transformer: Train once with length drop, use …‬
+--- 
+layout: post 
+title: "A PROBABILISTIC FRAMEWORK FOR PRUNING TRANSFORMERS VIA A FINITE ADMIXTURE OF KEYS" 
+date: 2023-04-20 07:45:04 -0400 
+categories: jekyll update 
+author: "TM Nguyen, T Nguyen, L Bui, H Do, DK Nguyen" 
+--- 
+Pairwise dot product-based self-attention is key to the success of transformers which achieve state-of-the-art performance across a variety of applications in language and vision, but are costly to compute. It has been shown that most attention scores and keys in transformers are redundant and can be removed without loss of accuracy. In this paper, we develop a novel probabilistic framework for pruning attention scores and keys in transformers. We first formulate an admixture model of attention keys  Cites: Length-adaptive transformer: Train once with length drop, use

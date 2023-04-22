@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluation of ChatGPT Model for Vulnerability Detection"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "A Cheshkov, P Zadorozhny, R Levichev - arXiv preprint arXiv:2304.07232, 2023"
----
-In this technical report, we evaluated the performance of the ChatGPT and GPT-3 models for the task of vulnerability detection in code. Our evaluation was conducted on our real-world dataset, using binary and multi-label classification tasks on CWE vulnerabilities. We decided to evaluate the model because it has shown good performance on other code-based tasks, such as solving programming challenges and understanding code at a high level. However, we found that the ChatGPT model …
-Cites: ‪Sparks of artificial general intelligence: Early experiments with gpt-4‬
+--- 
+layout: post 
+title: "Evaluation of ChatGPT Model for Vulnerability Detection" 
+date: 2023-04-20 07:45:04 -0400 
+categories: jekyll update 
+author: "A Cheshkov, P Zadorozhny, R Levichev - arXiv preprint arXiv:2304.07232, 2023" 
+--- 
+In this technical report, we evaluated the performance of the ChatGPT and GPT-3 models for the task of vulnerability detection in code. Our evaluation was conducted on our real-world dataset, using binary and multi-label classification tasks on CWE vulnerabilities. We decided to evaluate the model because it has shown good performance on other code-based tasks, such as solving programming challenges and understanding code at a high level. However, we found that the ChatGPT model  Cites: Sparks of artificial general intelligence: Early experiments with gpt-4

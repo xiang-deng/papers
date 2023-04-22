@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Blessing of Dimensionality in Membership Inference through Regularization"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "J Tan, D LeJeune, B Mason, H Javadi, RG Baraniuk - International Conference on …, 2023"
----
-Is overparameterization a privacy liability? In this work, we study the effect that the number of parameters has on a classifier s vulnerability to membership inference attacks. We first demonstrate how the number of parameters of a model can induce a privacy-utility trade-off: increasing the number of parameters generally improves generalization performance at the expense of lower privacy. However, remarkably, we then show that if coupled with proper regularization, increasing the number of …
-Cites: ‪Large language models can be strong differentially private learners‬
+--- 
+layout: post 
+title: "A Blessing of Dimensionality in Membership Inference through Regularization" 
+date: 2023-04-20 07:45:04 -0400 
+categories: jekyll update 
+author: "J Tan, D LeJeune, B Mason, H Javadi, RG Baraniuk - International Conference on , 2023" 
+--- 
+Is overparameterization a privacy liability? In this work, we study the effect that the number of parameters has on a classifier s vulnerability to membership inference attacks. We first demonstrate how the number of parameters of a model can induce a privacy-utility trade-off: increasing the number of parameters generally improves generalization performance at the expense of lower privacy. However, remarkably, we then show that if coupled with proper regularization, increasing the number of  Cites: Large language models can be strong differentially private learners

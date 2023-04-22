@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Automated Program Repair Based on Code Review: How do Pre-trained Transformer Models Perform?"
-date:   2023-04-20 07:45:04 -0400
-categories: jekyll update
-author: "R Paul, M Hossain, M Hasan, A Iqbal - arXiv preprint arXiv:2304.07840, 2023"
----
-Sequence-to-sequence models have been used to transform erroneous programs into correct ones when trained with a large enough dataset. Some recent studies also demonstrated strong empirical evidence that code review (natural language instruction about suggestive changes in code) can improve the program repair further. Large language models, trained with Natural Language (NL) and computer program corpora, have the capacity to contain inherent knowledge of both. In this …
-Cites: ‪Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming …‬
+--- 
+layout: post 
+title: "Automated Program Repair Based on Code Review: How do Pre-trained Transformer Models Perform?" 
+date: 2023-04-20 07:45:04 -0400 
+categories: jekyll update 
+author: "R Paul, M Hossain, M Hasan, A Iqbal - arXiv preprint arXiv:2304.07840, 2023" 
+--- 
+Sequence-to-sequence models have been used to transform erroneous programs into correct ones when trained with a large enough dataset. Some recent studies also demonstrated strong empirical evidence that code review (natural language instruction about suggestive changes in code) can improve the program repair further. Large language models, trained with Natural Language (NL) and computer program corpora, have the capacity to contain inherent knowledge of both. In this  Cites: Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming
