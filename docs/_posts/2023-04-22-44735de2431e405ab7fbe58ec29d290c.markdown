@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Green Carbon Footprint for Model Inference Serving via Exploiting Mixed-Quality Models and GPU Partitioning"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "B Li, S Samsi, V Gadepally, D Tiwari - arXiv preprint arXiv:2304.09781, 2023"
+---
+This paper presents a solution to the challenge of mitigating carbon emissions from large-scale high performance computing (HPC) systems and datacenters that host machine learning (ML) inference services. ML inference is critical to modern technology products, but it is also a significant contributor to datacenter compute cycles and carbon emissions. We introduce Clover, a carbon-friendly ML inference service runtime system that balances performance, accuracy, and carbon emissions …
+Cites: ‪Measuring the carbon intensity of ai in cloud instances‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generalized Weak Supervision for Neural Information Retrieval"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "YC Lien, H Zamani, WB Croft - arXiv preprint arXiv:2304.08912, 2023"
+---
+Neural ranking models (NRMs) have demonstrated effective performance in several information retrieval (IR) tasks. However, training NRMs often requires large-scale training data, which is difficult and expensive to obtain. To address this issue, one can train NRMs via weak supervision, where a large dataset is automatically generated using an existing ranking model (called the weak labeler) for training NRMs. Weakly supervised NRMs can generalize from the observed data and …
+Cites: ‪Dense passage retrieval for open-domain question answering‬

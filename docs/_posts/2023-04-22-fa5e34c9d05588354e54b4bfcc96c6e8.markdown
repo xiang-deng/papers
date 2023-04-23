@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "GeneGPT: Teaching Large Language Models to Use NCBI Web APIs"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "Q Jin, Y Yang, Q Chen, Z Lu - arXiv preprint arXiv:2304.09667, 2023"
+---
+In this paper, we present GeneGPT, a novel method for teaching large language models (LLMs) to use the Web Application Programming Interfaces (APIs) of the National Center for Biotechnology Information (NCBI) and answer genomics questions. Specifically, we prompt Codex (code-davinci-002) to solve the GeneTuring tests with few-shot URL requests of NCBI API calls as demonstrations for in-context learning. During inference, we stop the decoding once a call request is …
+Cites: ‪Palm: Scaling language modeling with pathways‬

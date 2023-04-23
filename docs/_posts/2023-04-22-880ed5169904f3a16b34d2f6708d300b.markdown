@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can discrete information extraction prompts generalize across language models?"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "M Baroni - 2023"
+---
+We study whether automatically-induced prompts that effectively extract information from a language model can also be used, out-of-the-box, to probe other language models for the same information. After confirming that discrete prompts induced with the AutoPrompt algorithm outperform manual and semi-manual prompts on the slot-filling task, we demonstrate a drop in performance for AutoPrompt prompts learned on a model and tested on another. We introduce a way to induce prompts by mixing …
+Cites: ‪BERTese: Learning to Speak to BERT‬

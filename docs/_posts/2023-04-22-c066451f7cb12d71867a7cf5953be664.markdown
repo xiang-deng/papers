@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "S Li, X Han, J Bai - arXiv preprint arXiv:2304.09595, 2023"
+---
+Fine-tuning pre-trained models has recently yielded remarkable performance gains in graph neural networks (GNNs). In addition to pre-training techniques, inspired by the latest work in the natural language fields, more recent work has shifted towards applying effective fine-tuning approaches, such as parameter-efficient tuning (delta tuning). However, given the substantial differences between GNNs and transformer-based models, applying such approaches directly to GNNs proved to be less …
+Cites: ‪Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper …‬

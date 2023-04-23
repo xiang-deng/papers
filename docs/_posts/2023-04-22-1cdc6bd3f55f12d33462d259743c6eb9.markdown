@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning to predict user-defined types"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "K Jesse, P Devanbu, AA Sawant - IEEE Transactions on Software Engineering, 2022"
+---
+TypeScript is a widely adopted gradual typed language where developers can optionally type variables, functions, parameters and more. Probabilistic type inference approaches with ML (machine learning) work well especially for commonly occurring types such as boolean, number, and string. TypeScript permits a wide range of types including developer defined class names and type interfaces. These developer defined types, termed user-defined types, can be written within the realm …
+Cites: ‪Deep contextualized word representations‬

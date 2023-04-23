@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Domain-Region Based Evaluation of ML Performance Robustness to Covariate Shift"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "F Bayram, BS Ahmed - arXiv preprint arXiv:2304.08855, 2023"
+---
+Most machine learning methods assume that the input data distribution is the same in the training and testing phases. However, in practice, this stationarity is usually not met and the distribution of inputs differs, leading to unexpected performance of the learned model in deployment. The issue in which the training and test data inputs follow different probability distributions while the input-output relationship remains unchanged is referred to as covariate shift. In this paper, the performance of …
+Cites: ‪Accuracy on the line: on the strong correlation between out-of …‬

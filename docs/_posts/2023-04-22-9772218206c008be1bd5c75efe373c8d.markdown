@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Towards Zero-Shot Personalized Table-to-Text Generation with Contrastive Persona Distillation"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "H Zhan, X Lin, S Cui, Z Zhao, W Zhou, H Chen - arXiv preprint arXiv:2304.08911, 2023"
+---
+Existing neural methods have shown great potentials towards generating informative text from structured tabular data as well as maintaining high content fidelity. However, few of them shed light on generating personalized expressions, which often requires well-aligned persona-table-text datasets that are difficult to obtain. To overcome these obstacles, we explore personalized table-to-text generation under a zero-shot setting, by assuming no well-aligned persona-table-text triples are required …
+Cites: ‪Data-to-text generation with entity modeling‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Masked Language Model Based Textual Adversarial Example Detection"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "X Zhang, Z Zhang, Q Zhong, X Zheng, Y Zhang, S Hu… - arXiv preprint arXiv …, 2023"
+---
+Adversarial attacks are a serious threat to the reliable deployment of machine learning models in safety-critical applications. They can misguide current models to predict incorrectly by slightly modifying the inputs. Recently, substantial work has shown that adversarial examples tend to deviate from the underlying data manifold of normal examples, whereas pre-trained masked language models can fit the manifold of normal NLP data. To explore how to use the masked language model in …
+Cites: ‪SSMBA: Self-supervised manifold based data augmentation for …‬

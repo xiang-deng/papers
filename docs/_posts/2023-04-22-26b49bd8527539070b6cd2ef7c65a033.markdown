@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DFS: Joint data formatting and sparsification for efficient communication in Distributed Machine Learning"
+date:   2023-04-22 04:11:24 -0400
+categories: jekyll update
+author: "C Yang, Y Zhao, G Zhao, H Xu - Computer Networks, 2023"
+---
+Efficient communication is crucial to Distributed Machine Learning (DML). In this work, we propose an approach jointing Data Formatting and Sparsification (DFS) to optimize the communication in DML systems based on the parameter server framework. By doing so, we can reduce the time to transmit (aggregated) gradients between the parameter server and workers, and consequently the time to complete training jobs. More specifically, in DFS, every worker first tries to derive as many …
+Cites: ‪Deep contextualized word representations‬
