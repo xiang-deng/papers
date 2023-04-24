@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Spectral Clustering with Robust Self-Learning Constraints"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "L Bai, M Qi, J Liang - Artificial Intelligence, 2023"
----
-Spectral clustering is a leading unsupervised classification algorithm widely used to capture complex clusters in unlabeled data. Additional prior information can further enhance the quality of spectral clustering results to satisfy users  expectations. However, it is challenging for users to find the prior information under unsupervised scenes. To get rid of the deficiency, we propose a spectral clustering model with robust self-learning constraints. In this model, we first extend the optimization …
-Cites: ‪Learning with Local and Global Consistency.‬
+--- 
+layout: post 
+title: "Spectral Clustering with Robust Self-Learning Constraints" 
+date: 2023-04-22 04:11:24 -0400 
+categories: jekyll update 
+author: "L Bai, M Qi, J Liang - Artificial Intelligence, 2023" 
+--- 
+Spectral clustering is a leading unsupervised classification algorithm widely used to capture complex clusters in unlabeled data. Additional prior information can further enhance the quality of spectral clustering results to satisfy users expectations. However, it is challenging for users to find the prior information under unsupervised scenes. To get rid of the deficiency, we propose a spectral clustering model with robust self-learning constraints. In this model, we first extend the optimization  Cites: Learning with Local and Global Consistency.

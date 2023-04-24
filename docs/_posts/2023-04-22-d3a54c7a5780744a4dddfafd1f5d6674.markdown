@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Causal Parrots: Large Language Models May Talk Causality But Are Not Causal"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "M WILLIG, M ZEČEVIĆ, DS DHAMI, K KERSTING"
----
-Some argue scale is all what is needed to achieve AI, covering even causal models. We make it clear that large language models (LLMs) cannot be causal and give reason onto why sometimes we might feel otherwise. To this end, we define and exemplify a new subgroup of Structural Causal Model (SCM) that we call meta SCM which encode causal facts about other SCM within their variables. We conjecture that in the cases were LLM succeed in doing causal inference, underlying was a …
-Cites: ‪CommonsenseQA 2.0: Exposing the Limits of AI through Gamification‬
+--- 
+layout: post 
+title: "Causal Parrots: Large Language Models May Talk Causality But Are Not Causal" 
+date: 2023-04-22 04:11:24 -0400 
+categories: jekyll update 
+author: "M WILLIG, M ZEEVI, DS DHAMI, K KERSTING" 
+--- 
+Some argue scale is all what is needed to achieve AI, covering even causal models. We make it clear that large language models (LLMs) cannot be causal and give reason onto why sometimes we might feel otherwise. To this end, we define and exemplify a new subgroup of Structural Causal Model (SCM) that we call meta SCM which encode causal facts about other SCM within their variables. We conjecture that in the cases were LLM succeed in doing causal inference, underlying was a  Cites: CommonsenseQA 2.0: Exposing the Limits of AI through Gamification

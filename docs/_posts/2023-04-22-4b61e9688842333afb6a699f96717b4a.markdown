@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BART-based contrastive and retrospective network for aspect-category-opinion-sentiment quadruple extraction"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "H Xiong, Z Yan, C Wu, G Lu, S Pang, Y Xue, Q Cai - International Journal of Machine …, 2023"
----
-Abstract Aspect-category-opinion-sentiment (ACOS) quadruple extraction is a fine-grained sentiment analysis task to extract full sentiment information, which aims to extract all the ACOS quads in a given sentence. ACOS contains four types of quads: explicit aspect and explicit opinion, implicit aspect and explicit opinion, explicit aspect and implicit opinion, and implicit aspect and implicit opinion. Current studies generally apply the two-stage methods to ACOS studies. However, there are two …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "BART-based contrastive and retrospective network for aspect-category-opinion-sentiment quadruple extraction" 
+date: 2023-04-22 04:11:24 -0400 
+categories: jekyll update 
+author: "H Xiong, Z Yan, C Wu, G Lu, S Pang, Y Xue, Q Cai - International Journal of Machine , 2023" 
+--- 
+Abstract Aspect-category-opinion-sentiment (ACOS) quadruple extraction is a fine-grained sentiment analysis task to extract full sentiment information, which aims to extract all the ACOS quads in a given sentence. ACOS contains four types of quads: explicit aspect and explicit opinion, implicit aspect and explicit opinion, explicit aspect and implicit opinion, and implicit aspect and implicit opinion. Current studies generally apply the two-stage methods to ACOS studies. However, there are two  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

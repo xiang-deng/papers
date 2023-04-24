@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Loss minimization yields multicalibration for large neural networks"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "J Błasiok, P Gopalan, L Hu, AT Kalai, P Nakkiran - arXiv preprint arXiv:2304.09424, 2023"
----
-Multicalibration is a notion of fairness that aims to provide accurate predictions across a large set of groups. Multicalibration is known to be a different goal than loss minimization, even for simple predictors such as linear functions. In this note, we show that for (almost all) large neural network sizes, optimally minimizing squared error leads to multicalibration. Our results are about representational aspects of neural networks, and not about algorithmic or sample complexity considerations …
-Cites: ‪Calibration of Pre-trained Transformers‬
+--- 
+layout: post 
+title: "Loss minimization yields multicalibration for large neural networks" 
+date: 2023-04-22 04:11:24 -0400 
+categories: jekyll update 
+author: "J Basiok, P Gopalan, L Hu, AT Kalai, P Nakkiran - arXiv preprint arXiv:2304.09424, 2023" 
+--- 
+Multicalibration is a notion of fairness that aims to provide accurate predictions across a large set of groups. Multicalibration is known to be a different goal than loss minimization, even for simple predictors such as linear functions. In this note, we show that for (almost all) large neural network sizes, optimally minimizing squared error leads to multicalibration. Our results are about representational aspects of neural networks, and not about algorithmic or sample complexity considerations  Cites: Calibration of Pre-trained Transformers

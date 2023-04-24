@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Revisiting k-NN for Pre-trained Language Models"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "L Li, J Chen, B Tian, N Zhang - arXiv preprint arXiv:2304.09058, 2023"
----
-Pre-trained Language Models (PLMs), as parametric-based eager learners, have become the de-facto choice for current paradigms of Natural Language Processing (NLP). In contrast, k-Nearest-Neighbor (k-NN) classifiers, as the lazy learning paradigm, tend to mitigate over-fitting and isolated noise. In this paper, we revisit k-NN classifiers for augmenting the PLMs-based classifiers. From the methodological level, we propose to adopt k-NN with textual representations of PLMs in two steps:(1) …
-Cites: ‪Search engine guided neural machine translation‬
+--- 
+layout: post 
+title: "Revisiting k-NN for Pre-trained Language Models" 
+date: 2023-04-22 04:11:24 -0400 
+categories: jekyll update 
+author: "L Li, J Chen, B Tian, N Zhang - arXiv preprint arXiv:2304.09058, 2023" 
+--- 
+Pre-trained Language Models (PLMs), as parametric-based eager learners, have become the de-facto choice for current paradigms of Natural Language Processing (NLP). In contrast, k-Nearest-Neighbor (k-NN) classifiers, as the lazy learning paradigm, tend to mitigate over-fitting and isolated noise. In this paper, we revisit k-NN classifiers for augmenting the PLMs-based classifiers. From the methodological level, we propose to adopt k-NN with textual representations of PLMs in two steps:(1)  Cites: Search engine guided neural machine translation

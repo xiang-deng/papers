@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Towards Efficient Minimum Bayes Risk Decoding"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "G Foks - 2023"
----
-Minimum Bayes risk (MBR) decoding for machine translation is getting renewed attention as it is a principled approach to neural machine translation that exhibits fewer pathologies than the widely adopted maximum a posteriori (MAP) decoding. Estimating the MBR objective, however, can be a costly endeavor. In this thesis, we explore two different approaches for estimating the MBR objective. Lastly, we try to construct the MBR translation by backpropagating through the utility function. The …
-Cites: ‪Quality-Aware Decoding for Neural Machine Translation‬

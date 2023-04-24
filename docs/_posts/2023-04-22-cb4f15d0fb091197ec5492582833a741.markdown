@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Jet energy calibration with deep learning as a Kubeflow pipeline"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "D Holmberg, D Golubovic, H Kirschenmann - 2023"
----
-Precise measurements of the energy of jets emerging from particle collisions at the LHC are essential for a vast majority of physics searches at the CMS experiment. In this study, we leverage well-established deep learning models for point clouds and CMS open data to improve the energy calibration of particle jets. To enable production-ready machine learning based jet energy calibration an end-to-end pipeline is built on the Kubeflow cloud platform. The pipeline allowed us to scale up …
-Cites: ‪QCD-aware recursive neural networks for jet physics‬
+--- 
+layout: post 
+title: "Jet energy calibration with deep learning as a Kubeflow pipeline" 
+date: 2023-04-22 04:11:24 -0400 
+categories: jekyll update 
+author: "D Holmberg, D Golubovic, H Kirschenmann - 2023" 
+--- 
+Precise measurements of the energy of jets emerging from particle collisions at the LHC are essential for a vast majority of physics searches at the CMS experiment. In this study, we leverage well-established deep learning models for point clouds and CMS open data to improve the energy calibration of particle jets. To enable production-ready machine learning based jet energy calibration an end-to-end pipeline is built on the Kubeflow cloud platform. The pipeline allowed us to scale up  Cites: QCD-aware recursive neural networks for jet physics

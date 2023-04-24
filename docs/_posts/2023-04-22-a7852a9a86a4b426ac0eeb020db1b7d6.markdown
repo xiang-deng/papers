@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MixPro: Simple yet Effective Data Augmentation for Prompt-based Learning"
-date:   2023-04-22 04:11:24 -0400
-categories: jekyll update
-author: "B Li, L Dou, Y Hou, Y Feng, H Mu, W Che - arXiv preprint arXiv:2304.09402, 2023"
----
-Prompt-based learning reformulates downstream tasks as cloze problems by combining the original input with a template. This technique is particularly useful in few-shot learning, where a model is trained on a limited amount of data. However, the limited templates and text used in few-shot prompt-based learning still leave significant room for performance improvement. Additionally, existing methods using model ensembles can constrain the model efficiency. To address these issues, we …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "MixPro: Simple yet Effective Data Augmentation for Prompt-based Learning" 
+date: 2023-04-22 04:11:24 -0400 
+categories: jekyll update 
+author: "B Li, L Dou, Y Hou, Y Feng, H Mu, W Che - arXiv preprint arXiv:2304.09402, 2023" 
+--- 
+Prompt-based learning reformulates downstream tasks as cloze problems by combining the original input with a template. This technique is particularly useful in few-shot learning, where a model is trained on a limited amount of data. However, the limited templates and text used in few-shot prompt-based learning still leave significant room for performance improvement. Additionally, existing methods using model ensembles can constrain the model efficiency. To address these issues, we  Cites: Universal adversarial triggers for attacking and analyzing NLP
