@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SimCPD: a simple framework for contrastive prompts of target-aspect-sentiment joint detection"
+date:   2023-04-25 03:38:40 -0400
+categories: jekyll update
+author: "C Ke, Q Xiong, C Wu, H Yi, M Gao, J Chen - Neural Computing and Applications, 2023"
+---
+Target-aspect-sentiment detection (TASD) task is a vital task for aspect-based sentiment analysis, which aims to detect (target, aspect, sentiment) triples from sentences. However, most of the existing methods do not generate high-quality textual representations and thus produce poor performances on the TASD task. Moreover, how to deal with insufficient high-quality labeled data is also a great challenge. In this paper, we design DPDA, a Dual Prompts-based Data …
+Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬

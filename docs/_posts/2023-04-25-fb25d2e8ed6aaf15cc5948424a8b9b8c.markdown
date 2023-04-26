@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Abductive and Contrastive Explanations for Bayesian Networks and their Computational Complexity"
+date:   2023-04-25 03:38:40 -0400
+categories: jekyll update
+author: "T Beek - 2023"
+---
+Contrastive and abductive explanations are types of explanations that can be used to explain a classification by a classifier. An abductive explanation is a minimal subset of input variables that guarantees the observed classification. A contrastive explanation is a minimal subset of input variables that, when changed, could lead to another predicted class. We show that computing these types of explanations for Bayesian network classifiers (Bayesian networks used as classifiers) is NP-hard for …
+Cites: ‪On the hardness of approximate reasoning‬

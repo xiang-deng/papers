@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Attention Scheme Inspired Softmax Regression"
+date:   2023-04-25 03:38:40 -0400
+categories: jekyll update
+author: "Y Deng, Z Li, Z Song - arXiv preprint arXiv:2304.10411, 2023"
+---
+Large language models (LLMs) have made transformed changes for human society. One of the key computation in LLMs is the softmax unit. This operation is important in LLMs because it allows the model to generate a distribution over possible next words or phrases, given a sequence of input words. This distribution is then used to select the most likely next word or phrase, based on the probabilities assigned by the model. The softmax unit plays a crucial role in training LLMs, as it allows the model to …
+Cites: ‪Palm: Scaling language modeling with pathways‬

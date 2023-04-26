@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Sample Difficulty from Pre-trained Models for Reliable Prediction"
+date:   2023-04-25 03:38:40 -0400
+categories: jekyll update
+author: "P Cui, D Zhang, Z Deng, Y Dong, J Zhu - arXiv preprint arXiv:2304.10127, 2023"
+---
+Large-scale pre-trained models have achieved remarkable success in a variety of scenarios and applications, but how to leverage them to improve the prediction reliability of downstream models is undesirably under-explored. Moreover, modern neural networks have been found to be poorly calibrated and make overconfident predictions regardless of inherent sample difficulty and data uncertainty. To address this issue, we propose to utilize large-scale pre-trained models to guide downstream …
+Cites: ‪Combined scaling for zero-shot transfer learning‬
