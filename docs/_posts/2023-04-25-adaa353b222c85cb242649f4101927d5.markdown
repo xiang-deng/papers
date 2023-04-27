@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploratory Training: When Annotators Learn About Data"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "R SHRESTHA, O HABIBELAHIAN, A TERMEHCHY… - environment, 2023"
----
-Data Systems often actively present examples and solicit labels and training examples from users to learn a target model, eg, in active learning [5, 15, 23, 46, 47]. In each interaction, the system selects an example for labeling based on the training data already given by the user and the effectiveness of the current model. This improves the flexibility of choosing examples and may significantly reduce the amount of training data, which is arguably the most expensive resource in learning a …
-Cites: ‪HILDA 22: The SIGMOD 2022 Workshop on Human-in-the-Loop …‬
+--- 
+layout: post 
+title: "Exploratory Training: When Annotators Learn About Data" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "R SHRESTHA, O HABIBELAHIAN, A TERMEHCHY - environment, 2023" 
+--- 
+Data Systems often actively present examples and solicit labels and training examples from users to learn a target model, eg, in active learning [5, 15, 23, 46, 47]. In each interaction, the system selects an example for labeling based on the training data already given by the user and the effectiveness of the current model. This improves the flexibility of choosing examples and may significantly reduce the amount of training data, which is arguably the most expensive resource in learning a  Cites: HILDA 22: The SIGMOD 2022 Workshop on Human-in-the-Loop

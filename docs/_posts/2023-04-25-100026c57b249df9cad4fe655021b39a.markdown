@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fully Autonomous Programming with Large Language Models"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "V Liventsev, A Grishina, A Härmä, L Moonen - arXiv preprint arXiv:2304.10423, 2023"
----
-Current approaches to program synthesis with Large Language Models (LLMs) exhibit a  near miss syndrome : they tend to generate programs that semantically resemble the correct answer (as measured by text similarity metrics or human evaluation), but achieve a low or even zero accuracy as measured by unit tests due to small imperfections, such as the wrong input or output format. This calls for an approach known as Synthesize, Execute, Debug (SED), whereby a draft of the …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Fully Autonomous Programming with Large Language Models" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "V Liventsev, A Grishina, A Hrm, L Moonen - arXiv preprint arXiv:2304.10423, 2023" 
+--- 
+Current approaches to program synthesis with Large Language Models (LLMs) exhibit a near miss syndrome : they tend to generate programs that semantically resemble the correct answer (as measured by text similarity metrics or human evaluation), but achieve a low or even zero accuracy as measured by unit tests due to small imperfections, such as the wrong input or output format. This calls for an approach known as Synthesize, Execute, Debug (SED), whereby a draft of the  Cites: Codexglue: A machine learning benchmark dataset for code

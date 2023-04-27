@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prototypical Network with Instance-Level Attention in Multi-Label Few-Shot Learning"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "LUO Senlin, Z Ruizhi, PAN Limin, WU Zhouting - 北京理工大学学报自然版, 2023"
----
-In multi-label classification, an instance may have multiple labels, and in few-shot scenario, the performance of model is more vulnerable to the complex semantic features in the instance. However, current prototype network only takes the mean value of instances in support set as label prototype. Therefore, there is noise caused by features of other labels in the calculated prototype, weakening the differences among prototypes, and affecting the prediction effect. To solve the above problem, a …
-Cites: ‪Hybrid attention-based prototypical networks for noisy few-shot …‬
+--- 
+layout: post 
+title: "Prototypical Network with Instance-Level Attention in Multi-Label Few-Shot Learning" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "LUO Senlin, Z Ruizhi, PAN Limin, WU Zhouting - , 2023" 
+--- 
+In multi-label classification, an instance may have multiple labels, and in few-shot scenario, the performance of model is more vulnerable to the complex semantic features in the instance. However, current prototype network only takes the mean value of instances in support set as label prototype. Therefore, there is noise caused by features of other labels in the calculated prototype, weakening the differences among prototypes, and affecting the prediction effect. To solve the above problem, a  Cites: Hybrid attention-based prototypical networks for noisy few-shot

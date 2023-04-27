@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Resampling Generative Models: An Empirical Study"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "PR Jadhav - 2023"
----
-Despite Generative AI s rapid growth (eg, ChatGPT, GPT-4, Dalle-2, etc.), generated data from these models may have an inherent bias. This bias can propagate to downstream tasks eg, classification, and data augmentation that utilize data from generative AI models. This thesis empirically evaluates model bias in different deep generative models like Variational Autoencoder and PixelCNN++. Further, we resample generated data using importance sampling to reduce bias in the generated …
-Cites: ‪Modeling exclusion with a differentiable factor graph constraint‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Is augmentation effective to improve prediction in imbalanced text datasets?"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "GO Assunção, R Izbicki, MO Prates - arXiv preprint arXiv:2304.10283, 2023"
----
-Imbalanced datasets present a significant challenge for machine learning models, often leading to biased predictions. To address this issue, data augmentation techniques are widely used in natural language processing (NLP) to generate new samples for the minority class. However, in this paper, we challenge the common assumption that data augmentation is always necessary to improve predictions on imbalanced datasets. Instead, we argue that adjusting the classifier cutoffs without …
-Cites: ‪The multilingual amazon reviews corpus‬

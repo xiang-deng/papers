@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GVQA: Learning to Answer Questions about Graphs with Visualizations via Knowledge Base"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "S Song, J Chen, C Li, C Wang - Proceedings of the 2023 CHI Conference on Human …, 2023"
----
-Graphs are common charts used to represent the topological relationship between nodes. It is a powerful tool for data analysis and information retrieval tasks involve asking questions about graphs. In formative study, we found that questions for graphs are not only about the relationship of nodes but also about the properties of graph elements. We propose a pipeline to answer natural language questions about graph visualizations and generate visual answers. We first extract the data from …
-Cites: ‪Semantic parsing via staged query graph generation: Question …‬
+--- 
+layout: post 
+title: "GVQA: Learning to Answer Questions about Graphs with Visualizations via Knowledge Base" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "S Song, J Chen, C Li, C Wang - Proceedings of the 2023 CHI Conference on Human , 2023" 
+--- 
+Graphs are common charts used to represent the topological relationship between nodes. It is a powerful tool for data analysis and information retrieval tasks involve asking questions about graphs. In formative study, we found that questions for graphs are not only about the relationship of nodes but also about the properties of graph elements. We propose a pipeline to answer natural language questions about graph visualizations and generate visual answers. We first extract the data from  Cites: Semantic parsing via staged query graph generation: Question

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Accurate Generated Text Detection Based on Deep Layer-wise Relevance Propagation"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "M Guo, L Liu, M Guo, S Liu, Z Xu - 2023 IEEE 8th International Conference on Big …, 2023"
----
-Text generation models (TGMs) excel in producing text that matches the style of human language reasonably well. Such TGMs (eg, GAN-based text generation model) can be misused for fake news and fake product reviews that can look authentic and fool humans. To distinguish the generated texts by TGM from the real texts, the latest detection models leverage learning algorithms with a variety of features to improve the detection performance against generated texts. However, the …
-Cites: ‪Scarecrow: A framework for scrutinizing machine text‬
+--- 
+layout: post 
+title: "Accurate Generated Text Detection Based on Deep Layer-wise Relevance Propagation" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "M Guo, L Liu, M Guo, S Liu, Z Xu - 2023 IEEE 8th International Conference on Big , 2023" 
+--- 
+Text generation models (TGMs) excel in producing text that matches the style of human language reasonably well. Such TGMs (eg, GAN-based text generation model) can be misused for fake news and fake product reviews that can look authentic and fool humans. To distinguish the generated texts by TGM from the real texts, the latest detection models leverage learning algorithms with a variety of features to improve the detection performance against generated texts. However, the  Cites: Scarecrow: A framework for scrutinizing machine text

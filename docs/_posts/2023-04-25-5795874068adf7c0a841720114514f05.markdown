@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "L Meng, K Liang, B Xiao, S Zhou, Y Liu, M Liu, X Yang… - arXiv preprint arXiv …, 2023"
----
-Few-shot relation reasoning on knowledge graphs (FS-KGR) aims to infer long-tail data-poor relations, which has drawn increasing attention these years due to its practicalities. The pre-training of previous methods needs to manually construct the meta-relation set, leading to numerous labor costs. Self-supervised learning (SSL) is treated as a solution to tackle the issue, but still at an early stage for FS-KGR task. Moreover, most of the existing methods ignore leveraging the beneficial information …
-Cites: ‪Multi-hop knowledge graph reasoning with reward shaping‬
+--- 
+layout: post 
+title: "SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "L Meng, K Liang, B Xiao, S Zhou, Y Liu, M Liu, X Yang - arXiv preprint arXiv , 2023" 
+--- 
+Few-shot relation reasoning on knowledge graphs (FS-KGR) aims to infer long-tail data-poor relations, which has drawn increasing attention these years due to its practicalities. The pre-training of previous methods needs to manually construct the meta-relation set, leading to numerous labor costs. Self-supervised learning (SSL) is treated as a solution to tackle the issue, but still at an early stage for FS-KGR task. Moreover, most of the existing methods ignore leveraging the beneficial information  Cites: Multi-hop knowledge graph reasoning with reward shaping

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to Program with Natural Language"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "Y Guo, Y Liang, C Wu, W Wu, D Zhao, N Duan - arXiv preprint arXiv:2304.10464, 2023"
----
-Large Language Models (LLMs) have shown remarkable performance in various basic natural language tasks, which raises hopes for achieving Artificial General Intelligence. To better complete complex tasks, we need LLMs to program for the task and then follow the program to generate a specific solution for the test sample. We propose using natural language as a new programming language to describe task procedures, making them easily understandable to both humans and LLMs. LLMs …
-Cites: ‪Factual Probing Is [MASK]: Learning vs. Learning to Recall‬
+--- 
+layout: post 
+title: "Learning to Program with Natural Language" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "Y Guo, Y Liang, C Wu, W Wu, D Zhao, N Duan - arXiv preprint arXiv:2304.10464, 2023" 
+--- 
+Large Language Models (LLMs) have shown remarkable performance in various basic natural language tasks, which raises hopes for achieving Artificial General Intelligence. To better complete complex tasks, we need LLMs to program for the task and then follow the program to generate a specific solution for the test sample. We propose using natural language as a new programming language to describe task procedures, making them easily understandable to both humans and LLMs. LLMs  Cites: Factual Probing Is [MASK]: Learning vs. Learning to Recall

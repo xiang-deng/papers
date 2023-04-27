@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CoT-MoTE: Exploring ConTextual Masked Auto-Encoder Pre-training with Mixture-of-Textual-Experts for Passage Retrieval"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "G Ma, X Wu, P Wang, S Hu - arXiv preprint arXiv:2304.10195, 2023"
----
-Passage retrieval aims to retrieve relevant passages from large collections of the open-domain corpus. Contextual Masked Auto-Encoding has been proven effective in representation bottleneck pre-training of a monolithic dual-encoder for passage retrieval. Siamese or fully separated dual-encoders are often adopted as basic retrieval architecture in the pre-training and fine-tuning stages for encoding queries and passages into their latent embedding spaces. However, simply sharing or …
-Cites: ‪Dense passage retrieval for open-domain question answering‬
+--- 
+layout: post 
+title: "CoT-MoTE: Exploring ConTextual Masked Auto-Encoder Pre-training with Mixture-of-Textual-Experts for Passage Retrieval" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "G Ma, X Wu, P Wang, S Hu - arXiv preprint arXiv:2304.10195, 2023" 
+--- 
+Passage retrieval aims to retrieve relevant passages from large collections of the open-domain corpus. Contextual Masked Auto-Encoding has been proven effective in representation bottleneck pre-training of a monolithic dual-encoder for passage retrieval. Siamese or fully separated dual-encoders are often adopted as basic retrieval architecture in the pre-training and fine-tuning stages for encoding queries and passages into their latent embedding spaces. However, simply sharing or  Cites: Dense passage retrieval for open-domain question answering

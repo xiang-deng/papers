@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Regularizing Second-Order Influences for Continual Learning"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "Z Sun, Y Mu, G Hua - arXiv preprint arXiv:2304.10177, 2023"
----
-Continual learning aims to learn on non-stationary data streams without catastrophically forgetting previous knowledge. Prevalent replay-based methods address this challenge by rehearsing on a small buffer holding the seen data, for which a delicate sample selection strategy is required. However, existing selection schemes typically seek only to maximize the utility of the ongoing selection, overlooking the interference between successive rounds of selection. Motivated by …
-Cites: ‪FastIF: Scalable Influence Functions for Efficient Model …‬
+--- 
+layout: post 
+title: "Regularizing Second-Order Influences for Continual Learning" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "Z Sun, Y Mu, G Hua - arXiv preprint arXiv:2304.10177, 2023" 
+--- 
+Continual learning aims to learn on non-stationary data streams without catastrophically forgetting previous knowledge. Prevalent replay-based methods address this challenge by rehearsing on a small buffer holding the seen data, for which a delicate sample selection strategy is required. However, existing selection schemes typically seek only to maximize the utility of the ongoing selection, overlooking the interference between successive rounds of selection. Motivated by  Cites: FastIF: Scalable Influence Functions for Efficient Model

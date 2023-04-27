@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Comparing general purpose pre-trained Word and Sentence embeddings for Requirements Classification"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "F Cruciania, S Moorea, C Nugenta - 2023"
----
-The recent evolution of NLP has enriched the set of DL-based approaches to include a number of generalpurpose Large Language Models (LLMs). Whereas new models have been proven useful for generic text handling, their applicability to domain-specific NLP tasks still remains doubtful, particularly because of the limited amount of dataset available in certain domains, such as Requirements Engineering. In this study, different pre-trained embeddings were tested in three requirements …
-Cites: ‪To tune or not to tune? adapting pretrained representations to …‬
+--- 
+layout: post 
+title: "Comparing general purpose pre-trained Word and Sentence embeddings for Requirements Classification" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "F Cruciania, S Moorea, C Nugenta - 2023" 
+--- 
+The recent evolution of NLP has enriched the set of DL-based approaches to include a number of generalpurpose Large Language Models (LLMs). Whereas new models have been proven useful for generic text handling, their applicability to domain-specific NLP tasks still remains doubtful, particularly because of the limited amount of dataset available in certain domains, such as Requirements Engineering. In this study, different pre-trained embeddings were tested in three requirements  Cites: To tune or not to tune? adapting pretrained representations to

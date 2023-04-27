@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MEDIC: Remove Model Backdoors via Importance Driven Cloning"
-date:   2023-04-25 03:38:40 -0400
-categories: jekyll update
-author: "Q Xu, G Tao, J Honorio, Y Liu, S An, G Shen, S Cheng…"
----
-We develop a novel method to remove injected backdoors in deep learning models. It works by cloning the benign behaviors of a trojaned model to a new model of the same structure. It trains the clone model from scratch on a very small subset of samples and aims to minimize a cloning loss that denotes the differences between the activations of important neurons across the two models. The set of important neurons varies for each input, depending on their magnitude of activations and their …
-Cites: ‪Weight Poisoning Attacks on Pre-trained Models‬
+--- 
+layout: post 
+title: "MEDIC: Remove Model Backdoors via Importance Driven Cloning" 
+date: 2023-04-25 03:38:40 -0400 
+categories: jekyll update 
+author: "Q Xu, G Tao, J Honorio, Y Liu, S An, G Shen, S Cheng" 
+--- 
+We develop a novel method to remove injected backdoors in deep learning models. It works by cloning the benign behaviors of a trojaned model to a new model of the same structure. It trains the clone model from scratch on a very small subset of samples and aims to minimize a cloning loss that denotes the differences between the activations of important neurons across the two models. The set of important neurons varies for each input, depending on their magnitude of activations and their  Cites: Weight Poisoning Attacks on Pre-trained Models
