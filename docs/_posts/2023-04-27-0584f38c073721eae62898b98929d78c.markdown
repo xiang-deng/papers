@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Smart Learning to Find Dumb Contracts"
+date:   2023-04-27 01:18:20 -0400
+categories: jekyll update
+author: "T Abdelaziz, A Hobor - arXiv preprint arXiv:2304.10726, 2023"
+---
+We introduce Deep Learning Vulnerability Analyzer (DLVA), a vulnerability detection tool for Ethereum smart contracts based on powerful deep learning techniques for sequential data adapted for bytecode. We train DLVA to judge bytecode even though the supervising oracle, Slither, can only judge source code. DLVA s training algorithm is general: we  extend  a source code analysis to bytecode without any manual feature engineering, predefined patterns, or expert rules. DLVA s training …
+Cites: ‪Deep unordered composition rivals syntactic methods for text …‬

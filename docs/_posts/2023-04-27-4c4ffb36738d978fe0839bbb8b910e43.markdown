@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "WizardLM: Empowering Large Language Models to Follow Complex Instructions"
+date:   2023-04-27 01:18:20 -0400
+categories: jekyll update
+author: "C Xu, Q Sun, K Zheng, X Geng, P Zhao, J Feng, C Tao… - arXiv preprint arXiv …, 2023"
+---
+Training large language models (LLM) with open-domain instruction following data brings colossal success. However, manually creating such instruction data is very time-consuming and labor-intensive. Moreover, humans may struggle to produce high-complexity instructions. In this paper, we show an avenue for creating large amounts of instruction data with varying levels of complexity using LLM instead of humans. Starting with an initial set of instructions, we use our proposed Evol-Instruct …
+Cites: ‪Self-Instruct: Aligning Language Model with Self Generated …‬

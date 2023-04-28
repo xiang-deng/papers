@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Few-shot Text-to-SQL Translation using Structure and Content Prompt Learning"
+date:   2023-04-27 01:18:20 -0400
+categories: jekyll update
+author: "SAM MADDEN - 2023"
+---
+The “Pre-train, Fine-tune” Paradigm. Language models, eg, GPT-3 [2] and T5 [18], are pretrained on very large corpora to learn general knowledge. Fine-tuning adapts these PLMs to downstream tasks using task-specific objective functions and datasets, eg, question answering [32] and text summarization [41]. Recent studies, based on Text-to-SQL benchmarks such as Spider [39], show that the state-of-the-art (SOTA) performance on Text-to-SQL is achieved by fine-tuning large PLMs, such as …
+Cites: ‪Lingpeng Kong, Rui Zhang, Noah A‬

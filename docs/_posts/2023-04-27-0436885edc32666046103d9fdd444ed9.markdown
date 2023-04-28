@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic Specialization for Knowledge-based Word Sense Disambiguation"
+date:   2023-04-27 01:18:20 -0400
+categories: jekyll update
+author: "S Mizuki, N Okazaki - arXiv preprint arXiv:2304.11340, 2023"
+---
+A promising approach for knowledge-based Word Sense Disambiguation (WSD) is to select the sense whose contextualized embeddings computed for its definition sentence are closest to those computed for a target word in a given sentence. This approach relies on the similarity of the\textit {sense} and\textit {context} embeddings computed by a pre-trained language model. We propose a semantic specialization for WSD where contextualized embeddings are adapted to the WSD task using …
+Cites: ‪Moving down the long tail of word sense disambiguation with gloss …‬

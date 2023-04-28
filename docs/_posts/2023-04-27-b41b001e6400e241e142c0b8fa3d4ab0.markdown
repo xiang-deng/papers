@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generation-driven Contrastive Self-training for Zero-shot Text Classification with Instruction-tuned GPT"
+date:   2023-04-27 01:18:20 -0400
+categories: jekyll update
+author: "R Zhang, YS Wang, Y Yang - arXiv preprint arXiv:2304.11872, 2023"
+---
+Moreover, GPT-based zero-shot classification models tend to make independent predictions over test instances, which can be sub-optimal as the instance correlations and the decision boundaries in the target space are ignored. To address these difficulties and limitations, we propose a new approach to zero-shot text classification, namely\ourmodelshort, which leverages the strong generative power of GPT to assist in training a smaller, more adaptable, and efficient sentence encoder …
+Cites: ‪Nearest neighbor zero-shot inference‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fundamental Limitations of Alignment in Large Language Models"
+date:   2023-04-27 01:18:20 -0400
+categories: jekyll update
+author: "Y Wolf, N Wies, Y Levine, A Shashua - arXiv preprint arXiv:2304.11082, 2023"
+---
+An important aspect in developing language models that interact with humans is aligning their behavior to be useful and unharmful for their human users. This is usually achieved by tuning the model in a way that enhances desired behaviors and inhibits undesired ones, a process referred to as alignment. In this paper, we propose a theoretical approach called Behavior Expectation Bounds (BEB) which allows us to formally investigate several inherent characteristics and limitations of …
+Cites: ‪Realtoxicityprompts: Evaluating neural toxic degeneration in …‬

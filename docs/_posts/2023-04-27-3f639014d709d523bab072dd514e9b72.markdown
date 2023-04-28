@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Lightweight Constrained Generation Alternative for Query-focused Summarization"
+date:   2023-04-27 01:18:20 -0400
+categories: jekyll update
+author: "Z Xu, D Cohen - arXiv preprint arXiv:2304.11721, 2023"
+---
+Query-focused summarization (QFS) aims to provide a summary of a document that satisfies information need of a given query and is useful in various IR applications, such as abstractive snippet generation. Current QFS approaches typically involve injecting additional information, eg query-answer relevance or fine-grained token-level interaction between a query and document, into a finetuned large language model. However, these approaches often require extra parameters\& training, and …
+Cites: ‪Pathologies of neural models make interpretations difficult‬
