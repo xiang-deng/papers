@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "C Mavromatis, VN Ioannidis, S Wang, D Zheng… - arXiv preprint arXiv …, 2023"
----
-How can we learn effective node representations on textual graphs? Graph Neural Networks (GNNs) that use Language Models (LMs) to encode textual information of graphs achieve state-of-the-art performance in many node classification tasks. Yet, combining GNNs with LMs has not been widely explored for practical deployments due to its scalability issues. In this work, we tackle this challenge by developing a Graph-Aware Distillation framework (GRAD) to encode graph structures into an LM …
-Cites: ‪Deep bidirectional language-knowledge graph pretraining‬
+--- 
+layout: post 
+title: "Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "C Mavromatis, VN Ioannidis, S Wang, D Zheng - arXiv preprint arXiv , 2023" 
+--- 
+How can we learn effective node representations on textual graphs? Graph Neural Networks (GNNs) that use Language Models (LMs) to encode textual information of graphs achieve state-of-the-art performance in many node classification tasks. Yet, combining GNNs with LMs has not been widely explored for practical deployments due to its scalability issues. In this work, we tackle this challenge by developing a Graph-Aware Distillation framework (GRAD) to encode graph structures into an LM  Cites: Deep bidirectional language-knowledge graph pretraining

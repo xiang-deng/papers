@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enhancing Semantic Relation Classification With Shortest Dependency Path Reasoning"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "J Li, K Shuang, J Guo, Z Shi, H Wang - IEEE/ACM Transactions on Audio, Speech …, 2023"
----
-Relation Classification (RC) is a basic and essential task of Natural Language Processing. Existing RC methods can be classified into two categories: sequence-based methods and dependency-based methods. Sequence-based methods identify the target relation based on the overall semantics of the whole sentence, which will inevitably introduce noisy features. Dependency-based methods extract indicative word-level features from the Shortest Dependency Path (SDP) between given …
-Cites: ‪End-to-end Relation Extraction using LSTMs on Sequences and …‬
+--- 
+layout: post 
+title: "Enhancing Semantic Relation Classification With Shortest Dependency Path Reasoning" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "J Li, K Shuang, J Guo, Z Shi, H Wang - IEEE/ACM Transactions on Audio, Speech , 2023" 
+--- 
+Relation Classification (RC) is a basic and essential task of Natural Language Processing. Existing RC methods can be classified into two categories: sequence-based methods and dependency-based methods. Sequence-based methods identify the target relation based on the overall semantics of the whole sentence, which will inevitably introduce noisy features. Dependency-based methods extract indicative word-level features from the Shortest Dependency Path (SDP) between given  Cites: End-to-end Relation Extraction using LSTMs on Sequences and

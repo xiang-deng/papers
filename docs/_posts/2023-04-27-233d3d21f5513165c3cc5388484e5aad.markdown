@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Entity Linking Improvement Model by Deep Modeling of Sentence Semantics"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "YX Luo, BL Yang, DH Xu, LG Tian, JY He - 2023"
----
-Entity linking is one of the critical technologies for knowledge graph applications. Still, the existing entity linking model has problems such as weak semantic expressiveness of the generated sentence embedding, significant errors in calculating semantic similarity features, and insufficient utilization of sentence-level entity features. The existing entity linking models develop weak semantic expressiveness of sentence embedding and bring mistakes to the computation of …
-Cites: ‪Relational inference for wikification‬
+--- 
+layout: post 
+title: "Entity Linking Improvement Model by Deep Modeling of Sentence Semantics" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "YX Luo, BL Yang, DH Xu, LG Tian, JY He - 2023" 
+--- 
+Entity linking is one of the critical technologies for knowledge graph applications. Still, the existing entity linking model has problems such as weak semantic expressiveness of the generated sentence embedding, significant errors in calculating semantic similarity features, and insufficient utilization of sentence-level entity features. The existing entity linking models develop weak semantic expressiveness of sentence embedding and bring mistakes to the computation of  Cites: Relational inference for wikification

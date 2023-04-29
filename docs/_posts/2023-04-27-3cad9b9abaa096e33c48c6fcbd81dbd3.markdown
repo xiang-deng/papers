@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph Neural Networks for Text Classification: A Survey"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "K Wang, Y Ding, SC Han - arXiv preprint arXiv:2304.11534, 2023"
----
-Text Classification is the most essential and fundamental problem in Natural Language Processing. While numerous recent text classification models applied the sequential deep learning technique, graph neural network-based models can directly deal with complex structured text data and exploit global information. Many real text classification applications can be naturally cast into a graph, which captures words, documents, and corpus global features. In this survey, we bring the coverage …
-Cites: ‪Learning question classifiers‬
+--- 
+layout: post 
+title: "Graph Neural Networks for Text Classification: A Survey" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "K Wang, Y Ding, SC Han - arXiv preprint arXiv:2304.11534, 2023" 
+--- 
+Text Classification is the most essential and fundamental problem in Natural Language Processing. While numerous recent text classification models applied the sequential deep learning technique, graph neural network-based models can directly deal with complex structured text data and exploit global information. Many real text classification applications can be naturally cast into a graph, which captures words, documents, and corpus global features. In this survey, we bring the coverage  Cites: Learning question classifiers

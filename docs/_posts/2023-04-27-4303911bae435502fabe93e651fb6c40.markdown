@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring the reasons for non-generalizability of KBQA systems"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "S Khosla, R Dutt, VB Kumar, R Gangadharaiah - 2023"
----
-Recent research has demonstrated impressive generalization capabilities of several Knowledge Base Question Answering (KBQA) models on the GrailQA dataset. We inspect whether these models can generalize to other datasets in a zero-shot setting. We notice a significant drop in performance and investigate the causes for the same. We observe that the models are dependent not only on the structural complexity of the questions, but also on the linguistic styles of framing a question. Specifically, the …
-Cites: ‪Knowledge base question answering by case-based reasoning …‬
+--- 
+layout: post 
+title: "Exploring the reasons for non-generalizability of KBQA systems" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "S Khosla, R Dutt, VB Kumar, R Gangadharaiah - 2023" 
+--- 
+Recent research has demonstrated impressive generalization capabilities of several Knowledge Base Question Answering (KBQA) models on the GrailQA dataset. We inspect whether these models can generalize to other datasets in a zero-shot setting. We notice a significant drop in performance and investigate the causes for the same. We observe that the models are dependent not only on the structural complexity of the questions, but also on the linguistic styles of framing a question. Specifically, the  Cites: Knowledge base question answering by case-based reasoning

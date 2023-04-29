@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Can GPT-4 Perform Neural Architecture Search?"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "M Zheng, X Su, S You, F Wang, C Qian, C Xu… - arXiv preprint arXiv …, 2023"
----
-We investigate the potential of GPT-4~\cite {gpt4} to perform Neural Architecture Search (NAS)--the task of designing effective neural architectures. Our proposed approach,\textbf {G} PT-4\textbf {I} nformed\textbf {N} eural\textbf {A} rchitecture\textbf {S} earch (GINAS), leverages the generative capabilities of GPT-4 as a black-box optimiser to quickly navigate the architecture search space, pinpoint promising candidates, and iteratively refine these candidates to improve performance. We …
-Cites: ‪Sparks of artificial general intelligence: Early experiments with gpt-4‬
+--- 
+layout: post 
+title: "Can GPT-4 Perform Neural Architecture Search?" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "M Zheng, X Su, S You, F Wang, C Qian, C Xu - arXiv preprint arXiv , 2023" 
+--- 
+We investigate the potential of GPT-4~\cite {gpt4} to perform Neural Architecture Search (NAS)--the task of designing effective neural architectures. Our proposed approach,\textbf {G} PT-4\textbf {I} nformed\textbf {N} eural\textbf {A} rchitecture\textbf {S} earch (GINAS), leverages the generative capabilities of GPT-4 as a black-box optimiser to quickly navigate the architecture search space, pinpoint promising candidates, and iteratively refine these candidates to improve performance. We  Cites: Sparks of artificial general intelligence: Early experiments with gpt-4

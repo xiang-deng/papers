@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "X Chen, H Zhang, X Gu, K Bi, L Xie, Q Tian - arXiv preprint arXiv:2304.11414, 2023"
----
-The Mixture of Experts (MoE) model becomes an important choice of large language models nowadays because of its scalability with sublinear computational complexity for training and inference. However, existing MoE models suffer from two critical drawbacks, 1) tremendous inner-node and inter-node communication overhead introduced by all-to-all dispatching and gathering, and 2) limited scalability for the backbone because of the bound data parallel and expert parallel to scale in the …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "X Chen, H Zhang, X Gu, K Bi, L Xie, Q Tian - arXiv preprint arXiv:2304.11414, 2023" 
+--- 
+The Mixture of Experts (MoE) model becomes an important choice of large language models nowadays because of its scalability with sublinear computational complexity for training and inference. However, existing MoE models suffer from two critical drawbacks, 1) tremendous inner-node and inter-node communication overhead introduced by all-to-all dispatching and gathering, and 2) limited scalability for the backbone because of the bound data parallel and expert parallel to scale in the  Cites: Palm: Scaling language modeling with pathways

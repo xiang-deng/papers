@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Constructing Tree-based Index for Efficient and Effective Dense Retrieval"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "H Li, Q Ai, J Zhan, J Mao, Y Liu, Z Liu, Z Cao - arXiv preprint arXiv:2304.11943, 2023"
----
-Recent studies have shown that Dense Retrieval (DR) techniques can significantly improve the performance of first-stage retrieval in IR systems. Despite its empirical effectiveness, the application of DR is still limited. In contrast to statistic retrieval models that rely on highly efficient inverted index solutions, DR models build dense embeddings that are difficult to be pre-processed with most existing search indexing systems. To avoid the expensive cost of brute-force search, the Approximate Nearest …
-Cites: ‪Contextualized sparse representations for real-time open-domain …‬
+--- 
+layout: post 
+title: "Constructing Tree-based Index for Efficient and Effective Dense Retrieval" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "H Li, Q Ai, J Zhan, J Mao, Y Liu, Z Liu, Z Cao - arXiv preprint arXiv:2304.11943, 2023" 
+--- 
+Recent studies have shown that Dense Retrieval (DR) techniques can significantly improve the performance of first-stage retrieval in IR systems. Despite its empirical effectiveness, the application of DR is still limited. In contrast to statistic retrieval models that rely on highly efficient inverted index solutions, DR models build dense embeddings that are difficult to be pre-processed with most existing search indexing systems. To avoid the expensive cost of brute-force search, the Approximate Nearest  Cites: Contextualized sparse representations for real-time open-domain

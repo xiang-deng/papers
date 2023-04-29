@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generative Flow Networks for Precise Reward-Oriented Active Learning on Graphs"
-date:   2023-04-27 01:18:20 -0400
-categories: jekyll update
-author: "Y Li, Z Li, W Li, Y Shao, Y Zheng, J Hao - arXiv preprint arXiv:2304.11989, 2023"
----
-Many score-based active learning methods have been successfully applied to graph-structured data, aiming to reduce the number of labels and achieve better performance of graph neural networks based on predefined score functions. However, these algorithms struggle to learn policy distributions that are proportional to rewards and have limited exploration capabilities. In this paper, we innovatively formulate the graph active learning problem as a generative process, named …
-Cites: ‪Graph Policy Network for Transferable Active Learning on Graphs‬
+--- 
+layout: post 
+title: "Generative Flow Networks for Precise Reward-Oriented Active Learning on Graphs" 
+date: 2023-04-27 01:18:20 -0400 
+categories: jekyll update 
+author: "Y Li, Z Li, W Li, Y Shao, Y Zheng, J Hao - arXiv preprint arXiv:2304.11989, 2023" 
+--- 
+Many score-based active learning methods have been successfully applied to graph-structured data, aiming to reduce the number of labels and achieve better performance of graph neural networks based on predefined score functions. However, these algorithms struggle to learn policy distributions that are proportional to rewards and have limited exploration capabilities. In this paper, we innovatively formulate the graph active learning problem as a generative process, named  Cites: Graph Policy Network for Transferable Active Learning on Graphs
