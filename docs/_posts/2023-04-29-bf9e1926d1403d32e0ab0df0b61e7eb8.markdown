@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LINEEX: Data Extraction from Scientific Line Charts"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "S VP, MY Hassan, M Singh"
+---
+In this paper, we introduce LINEEX that extracts data from scientific line charts. We adapt existing vision transformers and pose detection methods and showcase significant performance gains over existing SOTA baselines. We also propose a new loss function and present its effectiveness against existing loss functions. In addition, we synthetically created the largest line chart dataset comprising 430K images. The code is available at https://github. com/Shiva-sankaran/LineEX.
+Cites: ‪MedICaT: A Dataset of Medical Images, Captions, and Textual …‬

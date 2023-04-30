@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SkyWords: An automatic keyword extraction system based on the skyline operator and semantic similarity"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "F Goz, A Mutlu - Engineering Applications of Artificial Intelligence, 2023"
+---
+This study presents a hybrid keyword extraction method called SkyWords. It implements a novel supervised step based on the skyline operator and the majority voting principle for high-quality candidate keyword selection and an unsupervised step based on contextual semantics for the candidate keyword ranking. To achieve this, firstly, we build a feature vector database using the features of known keywords and then apply the skyline operator to retrieve the dominating feature vectors. To …
+Cites: ‪Semeval 2017 task 10: Scienceie-extracting keyphrases and …‬

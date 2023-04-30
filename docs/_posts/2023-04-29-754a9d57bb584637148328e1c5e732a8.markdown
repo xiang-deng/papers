@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Controlling Posterior Collapse by an Inverse Lipschitz Constraint on the Decoder Network"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "Y Kinoshita, K Oono, K Fukumizu, Y Yoshida, S Maeda - arXiv preprint arXiv …, 2023"
+---
+Variational autoencoders (VAEs) are one of the deep generative models that have experienced enormous success over the past decades. However, in practice, they suffer from a problem called posterior collapse, which occurs when the encoder coincides, or collapses, with the prior taking no information from the latent structure of the input data into consideration. In this work, we introduce an inverse Lipschitz neural network into the decoder and, based on this architecture, provide a new …
+Cites: ‪A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text‬

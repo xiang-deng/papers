@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SAFE: Machine Unlearning With Shard Graphs"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "Y Dukler, B Bowman, A Achille, A Golatkar… - arXiv preprint arXiv …, 2023"
+---
+We present Synergy Aware Forgetting Ensemble (SAFE), a method to adapt large models on a diverse collection of data while minimizing the expected cost to remove the influence of training samples from the trained model. This process, also known as selective forgetting or unlearning, is often conducted by partitioning a dataset into shards, training fully independent models on each, then ensembling the resulting models. Increasing the number of shards reduces the expected cost to forget but at …
+Cites: ‪Privacy Adhering Machine Un-learning in NLP‬

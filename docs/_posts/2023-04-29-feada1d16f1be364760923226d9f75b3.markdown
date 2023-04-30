@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Data Search for Table Augmentation"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "A Brinkmann - 2023"
+---
+Tabular data is widely available on the web and in private data lakes run by commercial companies or research institutes. However, data that is essential for a specific task at hand is often scattered throughout numerous tables in these data lakes. Accessing this data requires retrieving the relevant information for the task. One approach to retrieve this data is through table augmentation. Table augmentation adds an additional attribute to a query table and populates the values …
+Cites: ‪Retrieval-augmented generation for knowledge-intensive NLP tasks‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Extreme Classification for Answer Type Prediction in Question Answering"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "V Setty - arXiv preprint arXiv:2304.12395, 2023"
+---
+Semantic answer type prediction (SMART) is known to be a useful step towards effective question answering (QA) systems. The SMART task involves predicting the top-$ k $ knowledge graph (KG) types for a given natural language question. This is challenging due to the large number of types in KGs. In this paper, we propose use of extreme multi-label classification using Transformer models (XBERT) by clustering KG types using structural and semantic features based on question text. We …
+Cites: ‪Multi-task learning for conversational question answering over a …‬

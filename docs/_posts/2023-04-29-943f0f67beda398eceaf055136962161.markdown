@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Conversational Passage Re-ranking with View Ensemble"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "JH Ju, SC Lin, MF Tsai, CJ Wang - arXiv preprint arXiv:2304.13290, 2023"
+---
+This paper presents ConvRerank, a conversational passage re-ranker that employs a newly developed pseudo-labeling approach. Our proposed view-ensemble method enhances the quality of pseudo-labeled data, thus improving the fine-tuning of ConvRerank. Our experimental evaluation on benchmark datasets shows that combining ConvRerank with a conversational dense retriever in a cascaded manner achieves a good balance between effectiveness and efficiency. Compared to …
+Cites: ‪Can you unpack that? learning to rewrite questions-in-context‬

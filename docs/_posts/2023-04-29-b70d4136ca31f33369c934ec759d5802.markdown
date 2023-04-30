@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Closeness of In-Context Learning and Weight Shifting for Softmax Regression"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "S Li, Z Song, Y Xia, T Yu, T Zhou - arXiv preprint arXiv:2304.13276, 2023"
+---
+Large language models (LLMs) are known for their exceptional performance in natural language processing, making them highly effective in many human life-related or even job-related tasks. The attention mechanism in the Transformer architecture is a critical component of LLMs, as it allows the model to selectively focus on specific input parts. The softmax unit, which is a key part of the attention mechanism, normalizes the attention scores. Hence, the performance of LLMs in …
+Cites: ‪Palm: Scaling language modeling with pathways‬

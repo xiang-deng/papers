@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A novel sequential structure for lightweight multi-scale feature learning under limited available images"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "P Liu, J Du, CM Vong - Neural Networks, 2023"
+---
+Although multi-scale feature learning can improve the performances of deep models, its parallel structure quadratically increases the model parameters and causes deep models to become larger and larger when enlarging the receptive fields (RFs). This leads to deep models easily suffering from over-fitting issue in many practical applications where the available training samples are always insufficient or limited. In addition, under this limited situation, although lightweight models (with fewer …
+Cites: ‪ESPNetv2: A Light-weight, Power Efficient, and General Purpose …‬

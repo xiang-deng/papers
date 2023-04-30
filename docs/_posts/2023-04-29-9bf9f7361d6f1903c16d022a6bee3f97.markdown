@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "A Foote, N Nanda, E Kran, I Konstas, F Barez - arXiv preprint arXiv:2304.12918, 2023"
+---
+Understanding the function of individual neurons within language models is essential for mechanistic interpretability research. We propose $\textbf {Neuron to Graph (N2G)} $, a tool which takes a neuron and its dataset examples, and automatically distills the neuron s behaviour on those examples to an interpretable graph. This presents a less labour intensive approach to interpreting neurons than current manual methods, that will better scale these methods to Large Language …
+Cites: ‪Transformer feed-forward layers are key-value memories‬

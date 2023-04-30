@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning on graphs with graph convolution"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "Q Li - 2023"
+---
+Graph convolutional neural networks (GCNN) have been the model of choice for graph representation learning, which is mainly due to the effective design of graph convolution that computes the representation of a node by aggregating those of its neighbors. This thesis reveals the mechanisms behind graph convolution neural networks from the perspective of graph signal processing theory and focuses on developing theoretic algorithms for modeling complex, richly labeled, and large …
+Cites: ‪Never-ending learning‬

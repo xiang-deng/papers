@@ -5,4 +5,4 @@ date: 2023-04-27 01:18:20 -0400
 categories: jekyll update 
 author: "T Hiraoka, T Iwakura - arXiv preprint arXiv:2304.10808, 2023" 
 --- 
-This paper proposes a method to optimize tokenization for the performance improvement of already trained downstream models. Our method generates tokenization results attaining lower loss values of a given downstream model on the training data for restricting vocabularies and trains a tokenizer reproducing the tokenization results. Therefore, our method can be applied to variety of tokenization methods, while existing work cannot due to the simultaneous learning of the  Cites: Fast wordpiece tokenization
+This paper proposes a method to optimize tokenization for the performance improvement of already trained downstream models. Our method generates tokenization results attaining lower loss values of a given downstream model on the training data for restricting vocabularies and trains a tokenizer reproducing the tokenization results. Therefore, our method can be applied to variety of tokenization methods, while existing work cannot due to the simultaneous learning of the Cites: Fast wordpiece tokenization

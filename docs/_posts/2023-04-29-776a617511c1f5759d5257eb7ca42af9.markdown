@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neuro-symbolic Zero-Shot Code Cloning with Cross-Language Intermediate Representation"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "K Hasija, S Pradhan, M Patwardhan, RK Medicherla… - arXiv preprint arXiv …, 2023"
+---
+In this paper, we define a neuro-symbolic approach to address the task of finding semantically similar clones for the codes of the legacy programming language COBOL, without training data. We define a meta-model that is instantiated to have an Intermediate Representation (IR) in the form of Abstract Syntax Trees (ASTs) common across codes in C and COBOL. We linearize the IRs using Structure Based Traversal (SBT) to create sequential inputs. We further fine-tune UnixCoder, the best …
+Cites: ‪Palm: Scaling language modeling with pathways‬

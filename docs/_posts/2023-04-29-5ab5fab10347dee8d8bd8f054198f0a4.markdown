@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism"
+date:   2023-04-29 05:44:29 -0400
+categories: jekyll update
+author: "Z Zhang, D Yang, Y Xia, L Ding, D Tao, X Zhou…"
+---
+Recently, Mixture-of-Experts (MoE) has become one of the most popular techniques to scale pre-trained models to extraordinarily large sizes. Dynamic activation of experts allows for conditional computation, increasing the number of parameters of neural networks, which is critical for absorbing the vast amounts of knowledge available in many deep learning areas. However, despite the existing system and algorithm optimizations, there are significant challenges to be tackled when it comes …
+Cites: ‪Base layers: Simplifying training of large, sparse models‬
