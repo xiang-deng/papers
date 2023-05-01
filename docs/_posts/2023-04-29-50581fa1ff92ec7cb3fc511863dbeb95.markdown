@@ -1,9 +1,0 @@
----
-layout: post
-title:  "KINLP at SemEval-2023 Task 12: Kinyarwanda Tweet Sentiment Analysis"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "A Nzeyimana - arXiv preprint arXiv:2304.12569, 2023"
----
-This paper describes the system entered by the author to the SemEval-2023 Task 12: Sentiment analysis for African languages. The system focuses on the Kinyarwanda language and uses a language-specific model. Kinyarwanda morphology is modeled in a two tier transformer architecture and the transformer model is pre-trained on a large text corpus using multi-task masked morphology prediction. The model is deployed on an experimental platform that allows users to experiment with …
-Cites: ‪Byte Pair Encoding is Suboptimal for Language Model Pretraining‬

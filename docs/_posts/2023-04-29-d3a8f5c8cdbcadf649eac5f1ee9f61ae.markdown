@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Answering Questions by Meta-Reasoning over Multiple Chains of Thought"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "O Yoran, T Wolfson, B Bogin, U Katz, D Deutch… - arXiv preprint arXiv …, 2023"
----
-Modern systems for multi-hop question answering (QA) typically break questions into a sequence of reasoning steps, termed chain-of-thought (CoT), before arriving at a final answer. Often, multiple chains are sampled and aggregated through a voting mechanism over the final answers, but the intermediate steps themselves are discarded. While such approaches improve performance, they do not consider the relations between intermediate steps across chains and do not provide a unified …
-Cites: ‪QuaRTz: An Open-Domain Dataset of Qualitative Relationship …‬
+--- 
+layout: post 
+title: "Answering Questions by Meta-Reasoning over Multiple Chains of Thought" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "O Yoran, T Wolfson, B Bogin, U Katz, D Deutch - arXiv preprint arXiv , 2023" 
+--- 
+Modern systems for multi-hop question answering (QA) typically break questions into a sequence of reasoning steps, termed chain-of-thought (CoT), before arriving at a final answer. Often, multiple chains are sampled and aggregated through a voting mechanism over the final answers, but the intermediate steps themselves are discarded. While such approaches improve performance, they do not consider the relations between intermediate steps across chains and do not provide a unified  Cites: QuaRTz: An Open-Domain Dataset of Qualitative Relationship

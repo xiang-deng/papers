@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Better Question-Answering Models on a Budget"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "Y Wijeratne, I Marikar - arXiv preprint arXiv:2304.12370, 2023"
----
-Low-rank adaptation (LoRA) and question-answer datasets from large language models have made it much easier for much smaller models to be finetuned to the point where they display sophisticated conversational abilities. In this paper, we present Eluwa, a family of LoRA models that use the Stanford Alpaca dataset and massively improve the capabilities of Facebook s OPT 1.3 B, 2.7 B and 6.7 B models. We benchmark these models in multiple ways, including letting GPT-4 judge their …
-Cites: ‪The case for 4-bit precision: k-bit Inference Scaling Laws‬
+--- 
+layout: post 
+title: "Better Question-Answering Models on a Budget" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "Y Wijeratne, I Marikar - arXiv preprint arXiv:2304.12370, 2023" 
+--- 
+Low-rank adaptation (LoRA) and question-answer datasets from large language models have made it much easier for much smaller models to be finetuned to the point where they display sophisticated conversational abilities. In this paper, we present Eluwa, a family of LoRA models that use the Stanford Alpaca dataset and massively improve the capabilities of Facebook s OPT 1.3 B, 2.7 B and 6.7 B models. We benchmark these models in multiple ways, including letting GPT-4 judge their  Cites: The case for 4-bit precision: k-bit Inference Scaling Laws

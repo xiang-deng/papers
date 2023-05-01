@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PIPER: A logic-driven deep contrastive optimization pipeline for event temporal reasoning"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "B Zhang, L Li - Neural Networks, 2023"
----
-Event temporal relation extraction is an important task for information extraction. The existing methods usually rely on feature engineering and require post-process to achieve optimization, though inconsistent optimization may occur in the post-process module and main neural network due to their independence. Recently, a few works start to incorporate the temporal logic rules into the neural network and achieve joint optimization. However, these methods still suffer from two shortcomings:(1) Although …
-Cites: ‪TORQUE: A Reading Comprehension Dataset of Temporal …‬
+--- 
+layout: post 
+title: "PIPER: A logic-driven deep contrastive optimization pipeline for event temporal reasoning" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "B Zhang, L Li - Neural Networks, 2023" 
+--- 
+Event temporal relation extraction is an important task for information extraction. The existing methods usually rely on feature engineering and require post-process to achieve optimization, though inconsistent optimization may occur in the post-process module and main neural network due to their independence. Recently, a few works start to incorporate the temporal logic rules into the neural network and achieve joint optimization. However, these methods still suffer from two shortcomings:(1) Although  Cites: TORQUE: A Reading Comprehension Dataset of Temporal

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Case-Based Reasoning Framework for Adaptive Prompting in Cross-Domain Text-to-SQL"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "C Guo, Z Tian, J Tang, P Wang, Z Wen, K Yang… - arXiv preprint arXiv …, 2023"
----
-Recent advancements in Large Language Models (LLMs), such as Codex, ChatGPT and GPT-4 have significantly impacted the AI community, including Text-to-SQL tasks. Some evaluations and analyses on LLMs show their potential to generate SQL queries but they point out poorly designed prompts (eg simplistic construction or random sampling) limit LLMs  performance and may cause unnecessary or irrelevant outputs. To address these issues, we propose CBR-ApSQL, a Case-Based …
-Cites: ‪Representing Schema Structure with Graph Neural Networks for …‬
+--- 
+layout: post 
+title: "A Case-Based Reasoning Framework for Adaptive Prompting in Cross-Domain Text-to-SQL" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "C Guo, Z Tian, J Tang, P Wang, Z Wen, K Yang - arXiv preprint arXiv , 2023" 
+--- 
+Recent advancements in Large Language Models (LLMs), such as Codex, ChatGPT and GPT-4 have significantly impacted the AI community, including Text-to-SQL tasks. Some evaluations and analyses on LLMs show their potential to generate SQL queries but they point out poorly designed prompts (eg simplistic construction or random sampling) limit LLMs performance and may cause unnecessary or irrelevant outputs. To address these issues, we propose CBR-ApSQL, a Case-Based  Cites: Representing Schema Structure with Graph Neural Networks for

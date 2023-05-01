@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Implicit Counterfactual Data Augmentation for Deep Neural Networks"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "X Zhou, O Wu - arXiv preprint arXiv:2304.13431, 2023"
----
-Machine-learning models are prone to capturing the spurious correlations between non-causal attributes and classes, with counterfactual data augmentation being a promising direction for breaking these spurious associations. However, explicitly generating counterfactual data is challenging, with the training efficiency declining. Therefore, this study proposes an implicit counterfactual data augmentation (ICDA) method to remove spurious correlations and make stable predictions. Specifically …
-Cites: ‪MABEL: Attenuating Gender Bias using Textual Entailment Data‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active learning using Generative Adversarial Networks for improving generalization and avoiding distractor points"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "H Lim, KW Chon, MS Kim - Expert Systems with Applications, 2023"
----
-In supervised computer vision tasks, convolutional neural networks (CNNs) have demonstrated superiority over alternative methods. However, training and validating these models requires large-scale labeled datasets, which are generated using specific expert knowledge and are expensive. With the limitation of a limited labeling budget, active learning is a promising approach for generating labeled datasets. The conventional methods used for active learning only consider a pool of unlabeled …
-Cites: ‪Selection via proxy: Efficient data selection for deep learning‬
+--- 
+layout: post 
+title: "Active learning using Generative Adversarial Networks for improving generalization and avoiding distractor points" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "H Lim, KW Chon, MS Kim - Expert Systems with Applications, 2023" 
+--- 
+In supervised computer vision tasks, convolutional neural networks (CNNs) have demonstrated superiority over alternative methods. However, training and validating these models requires large-scale labeled datasets, which are generated using specific expert knowledge and are expensive. With the limitation of a limited labeling budget, active learning is a promising approach for generating labeled datasets. The conventional methods used for active learning only consider a pool of unlabeled  Cites: Selection via proxy: Efficient data selection for deep learning

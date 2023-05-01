@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Trajectories are Generalization Indicators"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "J Fu, Z Zhang, D Yin, Y Lu, N Zheng - arXiv preprint arXiv:2304.12579, 2023"
----
-The aim of this paper is to investigate the connection between learning trajectories of the Deep Neural Networks (DNNs) and their corresponding generalization capabilities when being optimized with broadly used gradient descent and stochastic gradient descent algorithms. In this paper, we construct Linear Approximation Function to model the trajectory information and we propose a new generalization bound with richer trajectory information based on it. Our proposed generalization …
-Cites: ‪Catastrophic fisher explosion: Early phase fisher matrix impacts …‬
+--- 
+layout: post 
+title: "Learning Trajectories are Generalization Indicators" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "J Fu, Z Zhang, D Yin, Y Lu, N Zheng - arXiv preprint arXiv:2304.12579, 2023" 
+--- 
+The aim of this paper is to investigate the connection between learning trajectories of the Deep Neural Networks (DNNs) and their corresponding generalization capabilities when being optimized with broadly used gradient descent and stochastic gradient descent algorithms. In this paper, we construct Linear Approximation Function to model the trajectory information and we propose a new generalization bound with richer trajectory information based on it. Our proposed generalization  Cites: Catastrophic fisher explosion: Early phase fisher matrix impacts

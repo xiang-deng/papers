@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Combining Adversaries with Anti-adversaries in Training"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "X Zhou, N Yang, O Wu - arXiv preprint arXiv:2304.12550, 2023"
----
-Adversarial training is an effective learning technique to improve the robustness of deep neural networks. In this study, the influence of adversarial training on deep learning models in terms of fairness, robustness, and generalization is theoretically investigated under more general perturbation scope that different samples can have different perturbation directions (the adversarial and anti-adversarial directions) and varied perturbation bounds. Our theoretical explorations suggest that the …
-Cites: ‪Smooth adversarial training‬
+--- 
+layout: post 
+title: "Combining Adversaries with Anti-adversaries in Training" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "X Zhou, N Yang, O Wu - arXiv preprint arXiv:2304.12550, 2023" 
+--- 
+Adversarial training is an effective learning technique to improve the robustness of deep neural networks. In this study, the influence of adversarial training on deep learning models in terms of fairness, robustness, and generalization is theoretically investigated under more general perturbation scope that different samples can have different perturbation directions (the adversarial and anti-adversarial directions) and varied perturbation bounds. Our theoretical explorations suggest that the  Cites: Smooth adversarial training

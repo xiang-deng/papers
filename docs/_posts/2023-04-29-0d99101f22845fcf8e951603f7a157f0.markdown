@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fulfilling Formal Specifications ASAP by Model-free Reinforcement Learning"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "M Liu, P Lu, X Chen, F Kong, O Sokolsky, I Lee - arXiv preprint arXiv:2304.12508, 2023"
----
-We propose a model-free reinforcement learning solution, namely the ASAP-Phi framework, to encourage an agent to fulfill a formal specification ASAP. The framework leverages a piece-wise reward function that assigns quantitative semantic reward to traces not satisfying the specification, and a high constant reward to the remaining. Then, it trains an agent with an actor-critic-based algorithm, such as soft actor-critic (SAC), or deep deterministic policy gradient (DDPG). Moreover, we prove …
-Cites: ‪Keeping your distance: Solving sparse reward tasks using self …‬
+--- 
+layout: post 
+title: "Fulfilling Formal Specifications ASAP by Model-free Reinforcement Learning" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "M Liu, P Lu, X Chen, F Kong, O Sokolsky, I Lee - arXiv preprint arXiv:2304.12508, 2023" 
+--- 
+We propose a model-free reinforcement learning solution, namely the ASAP-Phi framework, to encourage an agent to fulfill a formal specification ASAP. The framework leverages a piece-wise reward function that assigns quantitative semantic reward to traces not satisfying the specification, and a high constant reward to the remaining. Then, it trains an agent with an actor-critic-based algorithm, such as soft actor-critic (SAC), or deep deterministic policy gradient (DDPG). Moreover, we prove  Cites: Keeping your distance: Solving sparse reward tasks using self

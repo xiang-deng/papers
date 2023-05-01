@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generative Relevance Feedback with Large Language Models"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "I Mackie, S Chatterjee, J Dalton - arXiv preprint arXiv:2304.13157, 2023"
----
-Current query expansion models use pseudo-relevance feedback to improve first-pass retrieval effectiveness; however, this fails when the initial results are not relevant. Instead of building a language model from retrieved results, we propose Generative Relevance Feedback (GRF) that builds probabilistic feedback models from long-form text generated from Large Language Models. We study the effective methods for generating text by varying the zero-shot generation subtasks: queries …
-Cites: ‪Query Expansion Using Contextual Clue Sampling with Language …‬
+--- 
+layout: post 
+title: "Generative Relevance Feedback with Large Language Models" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "I Mackie, S Chatterjee, J Dalton - arXiv preprint arXiv:2304.13157, 2023" 
+--- 
+Current query expansion models use pseudo-relevance feedback to improve first-pass retrieval effectiveness; however, this fails when the initial results are not relevant. Instead of building a language model from retrieved results, we propose Generative Relevance Feedback (GRF) that builds probabilistic feedback models from long-form text generated from Large Language Models. We study the effective methods for generating text by varying the zero-shot generation subtasks: queries  Cites: Query Expansion Using Contextual Clue Sampling with Language

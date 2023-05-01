@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TABLET: Learning From Instructions For Tabular Data"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "D Slack, S Singh - arXiv preprint arXiv:2304.13188, 2023"
----
-Acquiring high-quality data is often a significant challenge in training machine learning (ML) models for tabular prediction, particularly in privacy-sensitive and costly domains like medicine and finance. Providing natural language instructions to large language models (LLMs) offers an alternative solution. However, it is unclear how effectively instructions leverage the knowledge in LLMs for solving tabular prediction problems. To address this gap, we introduce TABLET, a benchmark of 20 …
-Cites: ‪Cross-task generalization via natural language crowdsourcing …‬
+--- 
+layout: post 
+title: "TABLET: Learning From Instructions For Tabular Data" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "D Slack, S Singh - arXiv preprint arXiv:2304.13188, 2023" 
+--- 
+Acquiring high-quality data is often a significant challenge in training machine learning (ML) models for tabular prediction, particularly in privacy-sensitive and costly domains like medicine and finance. Providing natural language instructions to large language models (LLMs) offers an alternative solution. However, it is unclear how effectively instructions leverage the knowledge in LLMs for solving tabular prediction problems. To address this gap, we introduce TABLET, a benchmark of 20  Cites: Cross-task generalization via natural language crowdsourcing

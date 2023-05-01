@@ -1,9 +1,8 @@
----
-layout: post
-title:  "What does BERT learn about prosody?"
-date:   2023-04-29 05:44:29 -0400
-categories: jekyll update
-author: "S Kakouros, J O Mahony - arXiv preprint arXiv:2304.12706, 2023"
----
-Language models have become nearly ubiquitous in natural language processing applications achieving state-of-the-art results in many tasks including prosody. As the model design does not define predetermined linguistic targets during training but rather aims at learning generalized representations of the language, analyzing and interpreting the representations that models implicitly capture is important in bridging the gap between interpretability and model performance. Several studies have …
-Cites: ‪What does BERT look at? An analysis of BERT s attention‬
+--- 
+layout: post 
+title: "What does BERT learn about prosody?" 
+date: 2023-04-29 05:44:29 -0400 
+categories: jekyll update 
+author: "S Kakouros, J O Mahony - arXiv preprint arXiv:2304.12706, 2023" 
+--- 
+Language models have become nearly ubiquitous in natural language processing applications achieving state-of-the-art results in many tasks including prosody. As the model design does not define predetermined linguistic targets during training but rather aims at learning generalized representations of the language, analyzing and interpreting the representations that models implicitly capture is important in bridging the gap between interpretability and model performance. Several studies have  Cites: What does BERT look at? An analysis of BERT s attention
