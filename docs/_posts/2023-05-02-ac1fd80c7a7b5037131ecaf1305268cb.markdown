@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contrastive Fine-tuning on Few Shot Intent Detection with Topological Intent Tree"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "W Yuan, M Dimkovski, A An - Companion Proceedings of the ACM Web Conference …, 2023"
+---
+We present a few-shot intent detection model for an enterprise s conversational dialogue system. The model uses an intent topological tree to guide the search for the user intent using large language models (LLMs). The intents are resolved based on semantic similarities between user utterances and the text descriptions of the internal nodes of the intent tree or the intent examples in the leaf nodes of the tree. Our results show that an off-the-shelf language model can work reasonably well in a …
+Cites: ‪Discriminative nearest neighbor few-shot intent detection by …‬

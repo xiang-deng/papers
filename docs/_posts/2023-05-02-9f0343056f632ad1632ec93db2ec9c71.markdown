@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contrastive Learning with Keyword-based Data Augmentation for Code Search and Code Question Answering"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "S Park, Y Kim, YS Han - Proceedings of the 17th Conference of the European …, 2023"
+---
+The semantic code search is to find code snippets from the collection of candidate code snippets with respect to a user query that describes functionality. Recent work on code search proposes data augmentation of queries for contrastive learning. This data augmentation approach modifies random words in queries. When a user web query for searching code snippet is too brief, the important word that represents the search intent of the query could be undesirably modified. A code snippet has …
+Cites: ‪Cosqa: 20,000+ web queries for code search and question …‬

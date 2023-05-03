@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Large Language Models are Strong Zero-Shot Retriever"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "T Shen, G Long, X Geng, C Tao, T Zhou, D Jiang - arXiv preprint arXiv:2304.14233, 2023"
+---
+In this work, we propose a simple method that applies a large language model (LLM) to large-scale retrieval in zero-shot scenarios. Our method, Language language model as Retriever (LameR) is built upon no other neural models but an LLM, while breaking up brute-force combinations of retrievers with LLMs and lifting the performance of zero-shot retrieval to be very competitive on benchmark datasets. Essentially, we propose to augment a query with its potential answers by prompting …
+Cites: ‪Learning To Retrieve Prompts for In-Context Learning‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Self-Supervised Learning to Prove Equivalence Between Straight-Line Programs via Rewrite Rules"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "S Kommrusch, M Monperrus, LN Pouchet - IEEE Transactions on Software …, 2023"
+---
+We target the problem of automatically synthesizing proofs of semantic equivalence between two programs made of sequences of statements. We represent programs using abstract syntax trees (AST), where a given set of semantics-preserving rewrite rules can be applied on a specific AST pattern to generate a transformed and semantically equivalent program. In our system, two programs are equivalent if there exists a sequence of application of these rewrite rules that leads to rewriting one …
+Cites: ‪Dire: A neural approach to decompiled identifier naming‬

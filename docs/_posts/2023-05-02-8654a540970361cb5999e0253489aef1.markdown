@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "q2d: Turning Questions into Dialogs to Teach Models How to Search"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "Y Bitton, S Cohen-Ganor, I Hakimi, Y Lewenberg… - arXiv preprint arXiv …, 2023"
+---
+One of the exciting capabilities of recent language models for dialog is their ability to independently search for relevant information to ground a given dialog response. However, obtaining training data to teach models how to issue search queries is time and resource consuming. In this work, we propose q2d: an automatic data generation pipeline that generates information-seeking dialogs from questions. We prompt a large language model (PaLM) to create conversational versions of question …
+Cites: ‪Can you unpack that? learning to rewrite questions-in-context‬

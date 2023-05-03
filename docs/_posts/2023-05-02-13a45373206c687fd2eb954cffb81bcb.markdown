@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DictPrompt: Comprehensive dictionary-integrated prompt tuning for pre-trained language model"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "R Cao, Y Wang, L Gao, M Yang - Knowledge-Based Systems, 2023"
+---
+The textual semantics contained in the PLM (Pre-trained Language Model) is constrained by the text distribution in the original training corpus. Due to the lack of sufficient contextual training corpus, the low-frequency word representations in the PLM often have difficulty capturing their actual semantics. Previous research has shown that using semantic information from dictionaries can alleviate this problem. Unfortunately, these works neglected the infinite potential of example sentences from …
+Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬

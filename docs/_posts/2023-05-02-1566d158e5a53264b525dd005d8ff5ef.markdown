@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "X Liu, T Pang, C Fan - arXiv preprint arXiv:2304.13911, 2023"
+---
+We investigate how to enhance answer precision in frequently asked questions posed by distributed users using cloud-based Large Language Models (LLMs). Our study focuses on a typical situations where users ask similar queries that involve identical mathematical reasoning steps and problem-solving procedures. Due to the unsatisfactory accuracy of LLMs  zero-shot prompting with standalone questions, we propose to improve the distributed synonymous questions using Self-Consistency …
+Cites: ‪Palm: Scaling language modeling with pathways‬

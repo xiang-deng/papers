@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MAFiD: Moving Average Equipped Fusion-in-Decoder for Question Answering over Tabular and Textual Data"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "SM Lee, E Park, D Seo, D Jeon, I Kang, SH Na - Findings of the Association for …, 2023"
+---
+Transformer-based models for question answering (QA) over tables and texts confront a “long” hybrid sequence over tabular and textual elements, causing long-range reasoning problems. To handle long-range reasoning, we extensively employ a fusion-in-decoder (FiD) and exponential moving average (EMA), proposing a {underline {M} oving {underline {A} verage Equipped {underline {F} usion-{underline {i} n-{underline {D} ecoder ({textbf {MAFiD}). With FiD as the backbone architecture …
+Cites: ‪TABBIE: Pretrained Representations of Tabular Data‬

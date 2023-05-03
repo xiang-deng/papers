@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Intent-based Web Page Summarization with Structure-Aware Chunking and Generative Language Models"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "HY Chen, H Yu - Companion Proceedings of the ACM Web Conference …, 2023"
+---
+This paper introduces a structure-aware method to segment web pages into chunks based on their web structures. We utilize large language models to select chunks correspond to a given intent and generate the abstractive summary. Experiments on a food pantry dataset developed for mitigating food insecurity show that the proposed framework is promising.
+Cites: ‪DOM-LM: Learning Generalizable Representations for HTML …‬

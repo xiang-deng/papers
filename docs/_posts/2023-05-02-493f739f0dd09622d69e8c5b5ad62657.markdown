@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Performance and Risk Trade-offs for Multi-word Text Prediction at Scale"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "A Vashishtha, SS Prasad, P Bajaj, V Chaudhary… - Findings of the Association …, 2023"
+---
+Abstract Large Language Models such as GPT-3 are well-suited for text prediction tasks, which can help and delight users during text composition. LLMs are known to generate ethically inappropriate predictions even for seemingly innocuous contexts. Toxicity detection followed by filtering is a common strategy for mitigating the harm from such predictions. However, as we shall argue in this paper, in the context of text prediction, it is not sufficient to detect and filter toxic content. One also needs to …
+Cites: ‪Quark: Controllable text generation with reinforced unlearning‬

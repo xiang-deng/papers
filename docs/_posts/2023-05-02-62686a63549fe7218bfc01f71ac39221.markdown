@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semi-supervised Relation Extraction via Data Augmentation and Consistency-training"
+date:   2023-05-02 02:27:35 -0400
+categories: jekyll update
+author: "K Teru - Proceedings of the 17th Conference of the European …, 2023"
+---
+Due to the semantic complexity of the Relation extraction (RE) task, obtaining high-quality human labelled data is an expensive and noisy process. To improve the sample efficiency of the models, semi-supervised learning (SSL) methods aim to leverage unlabelled data in addition to learning from limited labelled data points. Recently, strong data augmentation combined with consistency-based semi-supervised learning methods have advanced the state of the art in several SSL tasks …
+Cites: ‪Meta pseudo labels‬
