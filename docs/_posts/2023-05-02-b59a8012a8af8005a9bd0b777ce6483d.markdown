@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ICA-Proto: Iterative Cross Alignment Prototypical Network for Incremental Few-Shot Relation Classification"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "W Jiang, Z Ye, B Liu, R Zhao, J Zheng, M Li, Z Li… - Findings of the Association …, 2023"
----
-In the task of incremental few-shot relation classification, model performance is always limited by the incompatibility between the base feature embedding space and the novel feature embedding space. To tackle the issue, we propose a novel model named ICA-Proto: Iterative Cross Alignment prototypical network. Specifically, we incorporate the query representation into the encoding of novel prototypes and utilize the query-aware prototypes to update the query representation at the same time …
-Cites: ‪Meta-Information Guided Meta-Learning for Few-Shot Relation …‬
+--- 
+layout: post 
+title: "ICA-Proto: Iterative Cross Alignment Prototypical Network for Incremental Few-Shot Relation Classification" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "W Jiang, Z Ye, B Liu, R Zhao, J Zheng, M Li, Z Li - Findings of the Association , 2023" 
+--- 
+In the task of incremental few-shot relation classification, model performance is always limited by the incompatibility between the base feature embedding space and the novel feature embedding space. To tackle the issue, we propose a novel model named ICA-Proto: Iterative Cross Alignment prototypical network. Specifically, we incorporate the query representation into the encoding of novel prototypes and utilize the query-aware prototypes to update the query representation at the same time  Cites: Meta-Information Guided Meta-Learning for Few-Shot Relation

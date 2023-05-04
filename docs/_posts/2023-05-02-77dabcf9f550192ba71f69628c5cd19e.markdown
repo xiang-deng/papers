@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Structural Co-occurrences for Structured Web Data Extraction in Low-Resource Settings"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "Z Zhang, B Yu, T Liu, T Liu, Y Wang, L Guo - … of the ACM Web Conference 2023, 2023"
----
-Extracting structured information from all manner of webpages is an important problem with the potential to automate many real-world applications. Recent work has shown the effectiveness of leveraging DOM trees and pre-trained language models to describe and encode webpages. However, they typically optimize the model to learn the semantic co-occurrence of elements and labels in the same webpage, thus their effectiveness depends on sufficient labeled data, which is labor …
-Cites: ‪DOM-LM: Learning Generalizable Representations for HTML …‬
+--- 
+layout: post 
+title: "Learning Structural Co-occurrences for Structured Web Data Extraction in Low-Resource Settings" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "Z Zhang, B Yu, T Liu, T Liu, Y Wang, L Guo - of the ACM Web Conference 2023, 2023" 
+--- 
+Extracting structured information from all manner of webpages is an important problem with the potential to automate many real-world applications. Recent work has shown the effectiveness of leveraging DOM trees and pre-trained language models to describe and encode webpages. However, they typically optimize the model to learn the semantic co-occurrence of elements and labels in the same webpage, thus their effectiveness depends on sufficient labeled data, which is labor  Cites: DOM-LM: Learning Generalizable Representations for HTML

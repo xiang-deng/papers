@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "J Singh, F Bai, Z Wang - Proceedings of the 17th Conference of the European …, 2023"
----
-Cross-task knowledge transfer via multi-task learning has recently made remarkable progress in general NLP tasks. However, entity tracking on the procedural text has not benefited from such knowledge transfer because of its distinct formulation, ie, tracking the event flow while following structural constraints. State-of-the-art entity tracking approaches either design complicated model architectures or rely on task-specific pre-training to achieve good results. To this end, we propose MeeT, a Multi …
-Cites: ‪Lingpeng Kong, Rui Zhang, Noah A‬
+--- 
+layout: post 
+title: "Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "J Singh, F Bai, Z Wang - Proceedings of the 17th Conference of the European , 2023" 
+--- 
+Cross-task knowledge transfer via multi-task learning has recently made remarkable progress in general NLP tasks. However, entity tracking on the procedural text has not benefited from such knowledge transfer because of its distinct formulation, ie, tracking the event flow while following structural constraints. State-of-the-art entity tracking approaches either design complicated model architectures or rely on task-specific pre-training to achieve good results. To this end, we propose MeeT, a Multi  Cites: Lingpeng Kong, Rui Zhang, Noah A

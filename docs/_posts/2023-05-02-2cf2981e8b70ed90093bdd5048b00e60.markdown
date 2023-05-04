@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Community preserving adaptive graph convolutional networks for link prediction in attributed networks"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "C He, J Cheng, X Fei, Y Weng, Y Zheng, Y Tang - Knowledge-Based Systems, 2023"
----
-Link prediction in attributed networks has attracted increasing attention recently due to its valuable real-world applications. Various related methods have been proposed, but most of them cannot effectively utilize community structure, neither can they well fuse attribute information and link information to improve the performance. Inspired by our empirical observations on how community structure affects the generation of links, we propose a novel Community Preserving Adaptive Graph Convolutional …
-Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬
+--- 
+layout: post 
+title: "Community preserving adaptive graph convolutional networks for link prediction in attributed networks" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "C He, J Cheng, X Fei, Y Weng, Y Zheng, Y Tang - Knowledge-Based Systems, 2023" 
+--- 
+Link prediction in attributed networks has attracted increasing attention recently due to its valuable real-world applications. Various related methods have been proposed, but most of them cannot effectively utilize community structure, neither can they well fuse attribute information and link information to improve the performance. Inspired by our empirical observations on how community structure affects the generation of links, we propose a novel Community Preserving Adaptive Graph Convolutional  Cites: Adaptive Graph Encoder for Attributed Graph Embedding

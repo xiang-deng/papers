@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Model Robustness: Generating Contextual Counterfactuals for Entities in Relation Extraction"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "M Zhang, T Qian, T Zhang, X Miao - Proceedings of the ACM Web Conference 2023, 2023"
----
-The goal of relation extraction (RE) is to extract the semantic relations between/among entities in the text. As a fundamental task in information systems, it is crucial to ensure the robustness of RE models. Despite the high accuracy current deep neural models have achieved in RE tasks, they are easily affected by spurious correlations. One solution to this problem is to train the model with counterfactually augmented data (CAD) such that it can learn the causation rather than the …
-Cites: ‪Polyjuice: Generating Counterfactuals for Explaining, Evaluating …‬
+--- 
+layout: post 
+title: "Towards Model Robustness: Generating Contextual Counterfactuals for Entities in Relation Extraction" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "M Zhang, T Qian, T Zhang, X Miao - Proceedings of the ACM Web Conference 2023, 2023" 
+--- 
+The goal of relation extraction (RE) is to extract the semantic relations between/among entities in the text. As a fundamental task in information systems, it is crucial to ensure the robustness of RE models. Despite the high accuracy current deep neural models have achieved in RE tasks, they are easily affected by spurious correlations. One solution to this problem is to train the model with counterfactually augmented data (CAD) such that it can learn the causation rather than the  Cites: Polyjuice: Generating Counterfactuals for Explaining, Evaluating

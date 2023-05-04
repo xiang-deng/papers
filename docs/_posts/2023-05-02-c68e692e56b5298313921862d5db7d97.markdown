@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Identifying Topic and Cause for Sarcasm: An Unsupervised Knowledge-enhanced Prompt Method"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "M Yuan, Q Li, X Mao, DD Zeng - Companion Proceedings of the ACM Web …, 2023"
----
-Sarcasm is usually emotional and topical. Mining the characteristics of sarcasm semantics in different emotional tendencies and topic expressions helps gain insight into the sarcasm cause. Most of the existing work detect sarcasm or topic label based on a supervised learning framework, which requires heavy data annotation work. To overcome the above challenges, inspired by the multi-task learning framework, this paper proposes an unsupervised knowledge-enhanced prompt method. This method …
-Cites: ‪Nonparametric Masked Language Modeling‬
+--- 
+layout: post 
+title: "Identifying Topic and Cause for Sarcasm: An Unsupervised Knowledge-enhanced Prompt Method" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "M Yuan, Q Li, X Mao, DD Zeng - Companion Proceedings of the ACM Web , 2023" 
+--- 
+Sarcasm is usually emotional and topical. Mining the characteristics of sarcasm semantics in different emotional tendencies and topic expressions helps gain insight into the sarcasm cause. Most of the existing work detect sarcasm or topic label based on a supervised learning framework, which requires heavy data annotation work. To overcome the above challenges, inspired by the multi-task learning framework, this paper proposes an unsupervised knowledge-enhanced prompt method. This method  Cites: Nonparametric Masked Language Modeling

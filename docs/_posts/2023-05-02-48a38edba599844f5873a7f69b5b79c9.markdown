@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigating UD Treebanks via Dataset Difficulty Measures"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "A Kulmizev, J Nivre - Proceedings of the 17th Conference of the European …, 2023"
----
-Abstract Treebanks annotated with Universal Dependencies (UD) are currently available for over 100 languages and are widely utilized by the community. However, their inherent characteristics are hard to measure and are only partially reflected in parser evaluations via accuracy metrics like LAS. In this study, we analyze a large subset of the UD treebanks using three recently proposed accuracy-free dataset analysis methods: dataset cartography, ${mathcal {V} $-information, and minimum …
-Cites: ‪Evaluation Examples Are Not Equally Informative: How Should …‬
+--- 
+layout: post 
+title: "Investigating UD Treebanks via Dataset Difficulty Measures" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "A Kulmizev, J Nivre - Proceedings of the 17th Conference of the European , 2023" 
+--- 
+Abstract Treebanks annotated with Universal Dependencies (UD) are currently available for over 100 languages and are widely utilized by the community. However, their inherent characteristics are hard to measure and are only partially reflected in parser evaluations via accuracy metrics like LAS. In this study, we analyze a large subset of the UD treebanks using three recently proposed accuracy-free dataset analysis methods: dataset cartography, ${mathcal {V} $-information, and minimum  Cites: Evaluation Examples Are Not Equally Informative: How Should

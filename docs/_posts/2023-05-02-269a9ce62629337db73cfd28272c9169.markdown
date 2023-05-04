@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Combining Parameter-efficient Modules for Task-level Generalisation"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "EM Ponti, A Sordoni, Y Bengio, S Reddy - Proceedings of the 17th Conference of the …, 2023"
----
-A modular design encourages neural models to disentangle and recombine different facets of knowledge to generalise more systematically to new tasks. In this work, we assume that each task is associated with a subset of latent skills from an (arbitrary size) inventory. In turn, each skill corresponds to a parameter-efficient (sparse/low-rank) model adapter. By jointly learning adapters and a routing function that allocates skills to each task, the full network is instantiated as the average of the parameters of …
-Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬
+--- 
+layout: post 
+title: "Combining Parameter-efficient Modules for Task-level Generalisation" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "EM Ponti, A Sordoni, Y Bengio, S Reddy - Proceedings of the 17th Conference of the , 2023" 
+--- 
+A modular design encourages neural models to disentangle and recombine different facets of knowledge to generalise more systematically to new tasks. In this work, we assume that each task is associated with a subset of latent skills from an (arbitrary size) inventory. In turn, each skill corresponds to a parameter-efficient (sparse/low-rank) model adapter. By jointly learning adapters and a routing function that allocates skills to each task, the full network is instantiated as the average of the parameters of  Cites: AdapterFusion: Non-destructive task composition for transfer learning

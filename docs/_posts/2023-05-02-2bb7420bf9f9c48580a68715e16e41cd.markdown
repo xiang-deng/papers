@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fiction-Writing Mode: An Effective Control for Human-Machine Collaborative Writing"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "W Zhong, J Naradowsky, H Takamura, I Kobayashi… - Proceedings of the 17th …, 2023"
----
-We explore the idea of incorporating concepts from writing skills curricula into human-machine collaborative writing scenarios, focusing on adding writing modes as a control for text generation models. Using crowd-sourced workers, we annotate a corpus of narrative text paragraphs with writing mode labels. Classifiers trained on this data achieve an average accuracy of~ 87% on held-out data. We fine-tune a set of large language models to condition on writing mode labels, and show that the …
-Cites: ‪IGA: An intent-guided authoring assistant‬
+--- 
+layout: post 
+title: "Fiction-Writing Mode: An Effective Control for Human-Machine Collaborative Writing" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "W Zhong, J Naradowsky, H Takamura, I Kobayashi - Proceedings of the 17th , 2023" 
+--- 
+We explore the idea of incorporating concepts from writing skills curricula into human-machine collaborative writing scenarios, focusing on adding writing modes as a control for text generation models. Using crowd-sourced workers, we annotate a corpus of narrative text paragraphs with writing mode labels. Classifiers trained on this data achieve an average accuracy of~ 87% on held-out data. We fine-tune a set of large language models to condition on writing mode labels, and show that the  Cites: IGA: An intent-guided authoring assistant

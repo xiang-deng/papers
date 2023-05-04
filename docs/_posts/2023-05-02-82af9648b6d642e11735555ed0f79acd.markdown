@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On Evaluation of Document Classifiers using RVL-CDIP"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "S Larson, G Lim, K Leach - Proceedings of the 17th Conference of the European …, 2023"
----
-The RVL-CDIP benchmark is widely used for measuring performance on the task of document classification. Despite its widespread use, we reveal several undesirable characteristics of the RVL-CDIP benchmark. These include (1) substantial amounts of label noise, which we estimate to be 8.1%(ranging between 1.6% to 16.9% per document category);(2) presence of many ambiguous or multi-label documents;(3) a large overlap between test and train splits, which can inflate model performance …
-Cites: ‪Question and answer test-train overlap in open-domain question …‬
+--- 
+layout: post 
+title: "On Evaluation of Document Classifiers using RVL-CDIP" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "S Larson, G Lim, K Leach - Proceedings of the 17th Conference of the European , 2023" 
+--- 
+The RVL-CDIP benchmark is widely used for measuring performance on the task of document classification. Despite its widespread use, we reveal several undesirable characteristics of the RVL-CDIP benchmark. These include (1) substantial amounts of label noise, which we estimate to be 8.1%(ranging between 1.6% to 16.9% per document category);(2) presence of many ambiguous or multi-label documents;(3) a large overlap between test and train splits, which can inflate model performance  Cites: Question and answer test-train overlap in open-domain question

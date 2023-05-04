@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Identifying the limits of transformers when performing model-checking with natural language"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "T Madusanka, R Batista-navarro, I Pratt-Hartmann - … of the 17th Conference of the …, 2023"
----
-Can transformers learn to comprehend logical semantics in natural language? Although many strands of work on natural language inference have focussed on transformer models  ability to perform reasoning on text, the above question has not been answered adequately. This is primarily because the logical problems that have been studied in the context of natural language inference have their computational complexity vary with the logical and grammatical constructs within the sentences. As …
-Cites: ‪Differentiable reasoning on large knowledge bases and natural …‬
+--- 
+layout: post 
+title: "Identifying the limits of transformers when performing model-checking with natural language" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "T Madusanka, R Batista-navarro, I Pratt-Hartmann - of the 17th Conference of the , 2023" 
+--- 
+Can transformers learn to comprehend logical semantics in natural language? Although many strands of work on natural language inference have focussed on transformer models ability to perform reasoning on text, the above question has not been answered adequately. This is primarily because the logical problems that have been studied in the context of natural language inference have their computational complexity vary with the logical and grammatical constructs within the sentences. As  Cites: Differentiable reasoning on large knowledge bases and natural

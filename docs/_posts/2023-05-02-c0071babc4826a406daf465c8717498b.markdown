@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "Y Huang, Y Zhang, Q Wang, C Wang, F Feng - arXiv preprint arXiv:2304.14050, 2023"
----
-Sequential recommender models typically generate predictions in a single step during testing, without considering additional prediction correction to enhance performance as humans would. To improve the accuracy of these models, some researchers have attempted to simulate human analogical reasoning to correct predictions for testing data by drawing analogies with the prediction errors of similar training data. However, there are inherent gaps between testing and training data …
-Cites: ‪Abductive commonsense reasoning‬
+--- 
+layout: post 
+title: "Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "Y Huang, Y Zhang, Q Wang, C Wang, F Feng - arXiv preprint arXiv:2304.14050, 2023" 
+--- 
+Sequential recommender models typically generate predictions in a single step during testing, without considering additional prediction correction to enhance performance as humans would. To improve the accuracy of these models, some researchers have attempted to simulate human analogical reasoning to correct predictions for testing data by drawing analogies with the prediction errors of similar training data. However, there are inherent gaps between testing and training data  Cites: Abductive commonsense reasoning

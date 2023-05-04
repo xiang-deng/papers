@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "C Jiang, T Zhu, H Zhou, C Liu, T Deng, C Hu, J Li - … of the 17th Conference of the …, 2023"
----
-Multi-hop reasoning, a prevalent approach for query answering, aims at inferring new facts along reasonable paths over a knowledge graph. Reinforcement learning methods can be adopted by formulating the problem into a Markov decision process. However, common suffering within RL-based reasoning models is that the agent can be biased to spurious paths which coincidentally lead to the correct answer with poor explanation. In this work, we take a deep dive into this phenomenon and define a …
-Cites: ‪Representing Text for Joint Embedding of Text and Knowledge …‬
+--- 
+layout: post 
+title: "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "C Jiang, T Zhu, H Zhou, C Liu, T Deng, C Hu, J Li - of the 17th Conference of the , 2023" 
+--- 
+Multi-hop reasoning, a prevalent approach for query answering, aims at inferring new facts along reasonable paths over a knowledge graph. Reinforcement learning methods can be adopted by formulating the problem into a Markov decision process. However, common suffering within RL-based reasoning models is that the agent can be biased to spurious paths which coincidentally lead to the correct answer with poor explanation. In this work, we take a deep dive into this phenomenon and define a  Cites: Representing Text for Joint Embedding of Text and Knowledge

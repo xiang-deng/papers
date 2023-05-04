@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "AG Møller, JA Dalsgaard, A Pera, LM Aiello - arXiv preprint arXiv:2304.13861, 2023"
----
-Obtaining and annotating data can be expensive and time-consuming, especially in complex, low-resource domains. We use GPT-4 and ChatGPT to augment small labeled datasets with synthetic data via simple prompts, in three different classification tasks with varying complexity. For each task, we randomly select a base sample of 500 texts to generate 5,000 new synthetic samples. We explore two augmentation strategies: one that preserves original label distribution and another …
-Cites: ‪Chi, Quoc Le, and Denny Zhou. 2023. Chain-of-Thought Prompting …‬
+--- 
+layout: post 
+title: "Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "AG Mller, JA Dalsgaard, A Pera, LM Aiello - arXiv preprint arXiv:2304.13861, 2023" 
+--- 
+Obtaining and annotating data can be expensive and time-consuming, especially in complex, low-resource domains. We use GPT-4 and ChatGPT to augment small labeled datasets with synthetic data via simple prompts, in three different classification tasks with varying complexity. For each task, we randomly select a base sample of 500 texts to generate 5,000 new synthetic samples. We explore two augmentation strategies: one that preserves original label distribution and another  Cites: Chi, Quoc Le, and Denny Zhou. 2023. Chain-of-Thought Prompting

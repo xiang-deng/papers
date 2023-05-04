@@ -1,9 +1,8 @@
----
-layout: post
-title:  "UnifEE: Unified Evidence Extraction for Fact Verification"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "N Hu, Z Wu, Y Lai, C Zhang, Y Feng - Proceedings of the 17th Conference of the …, 2023"
----
-FEVEROUS is a fact extraction and verification task that requires systems to extract evidence of both sentences and table cells from a Wikipedia dump, then predict the veracity of the given claim accordingly. Existing works extract evidence in the two formats separately, ignoring potential connections between them. In this paper, we propose a Unified Evidence Extraction model (UnifEE), which uses a mixed evidence graph to extract the evidence in both formats. With the carefully-designed unified …
-Cites: ‪TwoWingOS: A two-wing optimization strategy for evidential claim …‬
+--- 
+layout: post 
+title: "UnifEE: Unified Evidence Extraction for Fact Verification" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "N Hu, Z Wu, Y Lai, C Zhang, Y Feng - Proceedings of the 17th Conference of the , 2023" 
+--- 
+FEVEROUS is a fact extraction and verification task that requires systems to extract evidence of both sentences and table cells from a Wikipedia dump, then predict the veracity of the given claim accordingly. Existing works extract evidence in the two formats separately, ignoring potential connections between them. In this paper, we propose a Unified Evidence Extraction model (UnifEE), which uses a mixed evidence graph to extract the evidence in both formats. With the carefully-designed unified  Cites: TwoWingOS: A two-wing optimization strategy for evidential claim

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "SMATCH++: Standardized and Extended Evaluation of Semantic Graphs"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "J Opitz - Findings of the Association for Computational …, 2023"
----
-The Smatch metric is a popular method for evaluating graph distances, as is necessary, for instance, to assess the performance of semantic graph parsing systems. However, we observe some issues in the metric that jeopardize meaningful evaluation. Eg, opaque pre-processing choices can affect results, and current graph-alignment solvers do not provide us with upper-bounds. Without upper-bounds, however, fair evaluation is not guaranteed. Furthermore, adaptions of Smatch for …
-Cites: ‪Promoting graph awareness in linearized graph-to-text generation‬

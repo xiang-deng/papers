@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Practical Takes on Federated Learning with Pretrained Language Models"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "A Agarwal, M Rezagholizadeh, P Parthasarathi - Findings of the Association for …, 2023"
----
-Real-world applications of language models entail data privacy constraints when learning from diverse data domains. Federated learning with pretrained language models for language tasks has been gaining attention lately but there are definite confounders that warrants a careful study. Specifically, understanding the limits of federated NLP applications through varying the effects of different aspects (such as data heterogeneity, the trade-off between training time and performance, the effect of …
-Cites: ‪Dynabench: Rethinking benchmarking in NLP‬
+--- 
+layout: post 
+title: "Practical Takes on Federated Learning with Pretrained Language Models" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "A Agarwal, M Rezagholizadeh, P Parthasarathi - Findings of the Association for , 2023" 
+--- 
+Real-world applications of language models entail data privacy constraints when learning from diverse data domains. Federated learning with pretrained language models for language tasks has been gaining attention lately but there are definite confounders that warrants a careful study. Specifically, understanding the limits of federated NLP applications through varying the effects of different aspects (such as data heterogeneity, the trade-off between training time and performance, the effect of  Cites: Dynabench: Rethinking benchmarking in NLP

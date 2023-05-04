@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sentiment as an Ordinal Latent Variable"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "N Stoehr, R Cotterell, A Schein - Proceedings of the 17th Conference of the …, 2023"
----
-Sentiment analysis has become a central tool in various disciplines outside of natural language processing. In particular in applied and domain-specific settings with strong requirements for interpretable methods, dictionary-based approaches are still a popular choice. However, existing dictionaries are often limited in coverage, static once annotation is completed and sentiment scales differ widely; some are discrete others continuous. We propose a Bayesian generative model that learns a composite …
-Cites: ‪Building large-scale twitter-specific sentiment lexicon: A …‬
+--- 
+layout: post 
+title: "Sentiment as an Ordinal Latent Variable" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "N Stoehr, R Cotterell, A Schein - Proceedings of the 17th Conference of the , 2023" 
+--- 
+Sentiment analysis has become a central tool in various disciplines outside of natural language processing. In particular in applied and domain-specific settings with strong requirements for interpretable methods, dictionary-based approaches are still a popular choice. However, existing dictionaries are often limited in coverage, static once annotation is completed and sentiment scales differ widely; some are discrete others continuous. We propose a Bayesian generative model that learns a composite  Cites: Building large-scale twitter-specific sentiment lexicon: A

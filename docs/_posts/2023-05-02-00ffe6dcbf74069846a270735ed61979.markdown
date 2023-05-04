@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FactGen: Faithful Text Generation by Factuality-aware Pre-training and Contrastive Ranking Fine-tuning"
-date:   2023-05-02 02:27:35 -0400
-categories: jekyll update
-author: "ZB Lan, W Li, J Su, X Xiao, J Liu, W Wu, Y Lyu - Journal of Artificial Intelligence …, 2023"
----
-Conditional text generation is supposed to generate a fluent and coherent target text that is faithful to the source text. Although pre-trained models have achieved promising results, they still suffer from the crucial factuality problem. To deal with this issue, we propose a factuality-aware pretraining-finetuning framework named FactGen, which fully considers factuality during two training stages. Specifically, at the pre-training stage, we utilize a natural language inference model to construct …
-Cites: ‪Asking and Answering Questions to Evaluate the Factual …‬
+--- 
+layout: post 
+title: "FactGen: Faithful Text Generation by Factuality-aware Pre-training and Contrastive Ranking Fine-tuning" 
+date: 2023-05-02 02:27:35 -0400 
+categories: jekyll update 
+author: "ZB Lan, W Li, J Su, X Xiao, J Liu, W Wu, Y Lyu - Journal of Artificial Intelligence , 2023" 
+--- 
+Conditional text generation is supposed to generate a fluent and coherent target text that is faithful to the source text. Although pre-trained models have achieved promising results, they still suffer from the crucial factuality problem. To deal with this issue, we propose a factuality-aware pretraining-finetuning framework named FactGen, which fully considers factuality during two training stages. Specifically, at the pre-training stage, we utilize a natural language inference model to construct  Cites: Asking and Answering Questions to Evaluate the Factual
