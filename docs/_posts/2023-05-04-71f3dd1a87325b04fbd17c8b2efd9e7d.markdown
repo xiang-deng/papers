@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "K Tanwisuth, S Zhang, H Zheng, P He, M Zhou - arXiv preprint arXiv:2305.00350, 2023"
+---
+Through prompting, large-scale pre-trained models have become more expressive and powerful, gaining significant attention in recent years. Though these big models have zero-shot capabilities, in general, labeled data are still required to adapt them to downstream tasks. To overcome this critical limitation, we propose an unsupervised fine-tuning framework to directly fine-tune the model or prompt on the unlabeled target data. We demonstrate how to apply our method to both language …
+Cites: ‪Scaling up visual and vision-language representation learning with …‬

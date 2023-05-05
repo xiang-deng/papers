@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "W Zheng, SP Sharan, AK Jaiswal, K Wang, Y Xi, D Xu… - arXiv preprint arXiv …, 2023"
+---
+For a complicated algorithm, its implementation by a human programmer usually starts with outlining a rough control flow followed by iterative enrichments, eventually yielding carefully generated syntactic structures and variables in a hierarchy. However, state-of-the-art large language models generate codes in a single pass, without intermediate warm-ups to reflect the structured thought process of  outline-then-detail . Inspired by the recent success of chain-of-thought prompting, we …
+Cites: ‪Language models are multilingual chain-of-thought reasoners‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Knowledge Graph Entity Alignment with Graph Augmentation"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "F Xie, X Zeng, B Zhou, Y Tan - arXiv preprint arXiv:2304.14585, 2023"
+---
+Entity alignment (EA) which links equivalent entities across different knowledge graphs (KGs) plays a crucial role in knowledge fusion. In recent years, graph neural networks (GNNs) have been successfully applied in many embedding-based EA methods. However, existing GNN-based methods either suffer from the structural heterogeneity issue that especially appears in the real KG distributions or ignore the heterogeneous representation learning for unseen (unlabeled) entities, which would …
+Cites: ‪Exploring and Evaluating Attributes, Values, and Structures for …‬

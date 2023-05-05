@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Calibration Error Estimation Using Fuzzy Binning"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "G Bihani, JT Rayz - arXiv preprint arXiv:2305.00543, 2023"
+---
+Neural network-based decisions tend to be overconfident, where their raw outcome probabilities do not align with the true decision probabilities. Calibration of neural networks is an essential step towards more reliable deep learning frameworks. Prior metrics of calibration error primarily utilize crisp bin membership-based measures. This exacerbates skew in model probabilities and portrays an incomplete picture of calibration error. In this work, we propose a Fuzzy Calibration Error metric (FCE) that …
+Cites: ‪How can we know when language models know? on the …‬

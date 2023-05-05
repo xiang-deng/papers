@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Multivariate Representation Learning for Information Retrieval"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "H Zamani, M Bendersky - arXiv preprint arXiv:2304.14522, 2023"
+---
+Dense retrieval models use bi-encoder network architectures for learning query and document representations. These representations are often in the form of a vector representation and their similarities are often computed using the dot product function. In this paper, we propose a new representation learning framework for dense retrieval. Instead of learning a vector for each query and document, our framework learns a multivariate distribution and uses negative multivariate KL …
+Cites: ‪Dense passage retrieval for open-domain question answering‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "X Xu, J Zhang, F Liu, M Sugiyama, M Kankanhalli - arXiv preprint arXiv:2305.00374, 2023"
+---
+Adversarial contrastive learning (ACL), without requiring labels, incorporates adversarial data with standard contrastive learning (SCL) and outputs a robust representation which is generalizable and resistant to adversarial attacks and common corruptions. The style-independence property of representations has been validated to be beneficial in improving robustness transferability. Standard invariant regularization (SIR) has been proposed to make the learned representations via SCL …
+Cites: ‪Fine-tuning can distort pretrained features and underperform out-of …‬

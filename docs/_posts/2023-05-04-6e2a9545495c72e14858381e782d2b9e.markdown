@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deep Graph Reprogramming"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "Y Jing, C Yuan, L Ju, Y Yang, X Wang, D Tao - arXiv preprint arXiv:2304.14593, 2023"
+---
+In this paper, we explore a novel model reusing task tailored for graph neural networks (GNNs), termed as  deep graph reprogramming . We strive to reprogram a pre-trained GNN, without amending raw node features nor model parameters, to handle a bunch of cross-level downstream tasks in various domains. To this end, we propose an innovative Data Reprogramming paradigm alongside a Model Reprogramming paradigm. The former one aims to address the challenge of …
+Cites: ‪On the opportunities and risks of foundation models‬

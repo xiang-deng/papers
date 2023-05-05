@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Graph Neural Networks using Exact Compression"
+date:   2023-05-04 03:16:47 -0400
+categories: jekyll update
+author: "J Bollen, J Steegmans, JV Bussche, S Vansummeren - arXiv preprint arXiv …, 2023"
+---
+Graph Neural Networks (GNNs) are a form of deep learning that enable a wide range of machine learning applications on graph-structured data. The learning of GNNs, however, is known to pose challenges for memory-constrained devices such as GPUs. In this paper, we study exact compression as a way to reduce the memory requirements of learning GNNs on large graphs. In particular, we adopt a formal approach to compression and propose a methodology that transforms GNN learning …
+Cites: ‪SCARA: scalable graph neural networks with feature-oriented …‬
