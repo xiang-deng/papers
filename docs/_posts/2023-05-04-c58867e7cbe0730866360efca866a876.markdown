@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semantic prefixes as an auxiliary target for code understanding and generation"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "K Qin, F Yang, KW Chang, P Wanigasekara, X Liu… - 2023"
----
-Code understanding and generation require learning the mapping between human and programming languages. As human and programming languages are different in vocabulary, semantic, and, syntax, it is challenging for an autoregressive model to generate a sequence of tokens that is both semantically (ie, carry the right meaning) and syntactically correct (ie, in the right sequence order). Inspired by this, we propose a prefix-based learning framework to lessen the burden of an …
-Cites: ‪Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming …‬
+--- 
+layout: post 
+title: "Semantic prefixes as an auxiliary target for code understanding and generation" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "K Qin, F Yang, KW Chang, P Wanigasekara, X Liu - 2023" 
+--- 
+Code understanding and generation require learning the mapping between human and programming languages. As human and programming languages are different in vocabulary, semantic, and, syntax, it is challenging for an autoregressive model to generate a sequence of tokens that is both semantically (ie, carry the right meaning) and syntactically correct (ie, in the right sequence order). Inspired by this, we propose a prefix-based learning framework to lessen the burden of an  Cites: Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming

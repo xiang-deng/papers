@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Exploring the Effectiveness of Large Language Models in Generating Unit Tests"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "ML Siddiq, J Santos, RH Tanvir, N Ulfat, FA Rifat… - arXiv preprint arXiv …, 2023"
----
-A code generation model generates code by taking a prompt from a code comment, existing code, or a combination of both. Although code generation models (eg, GitHub Copilot) are increasingly being adopted in practice, it is unclear whether they can successfully be used for unit test generation without fine-tuning. To fill this gap, we investigated how well three generative models (CodeGen, Codex, and GPT-3.5) can generate test cases. We used two benchmarks (HumanEval and Evosuite …
-Cites: ‪Multi-lingual Evaluation of Code Generation Models‬

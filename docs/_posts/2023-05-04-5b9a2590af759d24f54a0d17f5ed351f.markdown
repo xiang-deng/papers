@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Uncertainty Aware Neural Network from Similarity and Sensitivity"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "HM Kabir, SK Mondal, S Khanam, A Khosravi… - arXiv preprint arXiv …, 2023"
----
-Researchers have proposed several approaches for neural network (NN) based uncertainty quantification (UQ). However, most of the approaches are developed considering strong assumptions. Uncertainty quantification algorithms often perform poorly in an input domain and the reason for poor performance remains unknown. Therefore, we present a neural network training method that considers similar samples with sensitivity awareness in this paper. In the proposed NN training method …
-Cites: ‪Evaluating state-of-the-art classification models against bayes …‬
+--- 
+layout: post 
+title: "Uncertainty Aware Neural Network from Similarity and Sensitivity" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "HM Kabir, SK Mondal, S Khanam, A Khosravi - arXiv preprint arXiv , 2023" 
+--- 
+Researchers have proposed several approaches for neural network (NN) based uncertainty quantification (UQ). However, most of the approaches are developed considering strong assumptions. Uncertainty quantification algorithms often perform poorly in an input domain and the reason for poor performance remains unknown. Therefore, we present a neural network training method that considers similar samples with sensitivity awareness in this paper. In the proposed NN training method  Cites: Evaluating state-of-the-art classification models against bayes

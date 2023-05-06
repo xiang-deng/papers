@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Assessing Vulnerabilities of Adversarial Learning Algorithm through Poisoning Attacks"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "J Zhang, B Song, B Han, L Liu, G Niu, M Sugiyama - arXiv preprint arXiv:2305.00399, 2023"
----
-Adversarial training (AT) is a robust learning algorithm that can defend against adversarial attacks in the inference phase and mitigate the side effects of corrupted data in the training phase. As such, it has become an indispensable component of many artificial intelligence (AI) systems. However, in high-stake AI applications, it is crucial to understand AT s vulnerabilities to ensure reliable deployment. In this paper, we investigate AT s susceptibility to poisoning attacks, a type of malicious attack that …
-Cites: ‪Stronger data poisoning attacks break data sanitization defenses‬
+--- 
+layout: post 
+title: "Assessing Vulnerabilities of Adversarial Learning Algorithm through Poisoning Attacks" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "J Zhang, B Song, B Han, L Liu, G Niu, M Sugiyama - arXiv preprint arXiv:2305.00399, 2023" 
+--- 
+Adversarial training (AT) is a robust learning algorithm that can defend against adversarial attacks in the inference phase and mitigate the side effects of corrupted data in the training phase. As such, it has become an indispensable component of many artificial intelligence (AI) systems. However, in high-stake AI applications, it is crucial to understand AT s vulnerabilities to ensure reliable deployment. In this paper, we investigate AT s susceptibility to poisoning attacks, a type of malicious attack that  Cites: Stronger data poisoning attacks break data sanitization defenses

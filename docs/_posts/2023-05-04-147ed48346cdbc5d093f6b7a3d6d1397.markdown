@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross-Institutional Transfer Learning for Educational Models: Implications for Model Performance, Fairness, and Equity"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "J Gardner, R Yu, Q Nguyen, C Brooks, R Kizilcec - arXiv preprint arXiv:2305.00927, 2023"
----
-Modern machine learning increasingly supports paradigms that are multi-institutional (using data from multiple institutions during training) or cross-institutional (using models from multiple institutions for inference), but the empirical effects of these paradigms are not well understood. This study investigates cross-institutional learning via an empirical case study in higher education. We propose a framework and metrics for assessing the utility and fairness of student dropout prediction models …
-Cites: ‪Feature noise induces loss discrepancy across groups‬
+--- 
+layout: post 
+title: "Cross-Institutional Transfer Learning for Educational Models: Implications for Model Performance, Fairness, and Equity" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "J Gardner, R Yu, Q Nguyen, C Brooks, R Kizilcec - arXiv preprint arXiv:2305.00927, 2023" 
+--- 
+Modern machine learning increasingly supports paradigms that are multi-institutional (using data from multiple institutions during training) or cross-institutional (using models from multiple institutions for inference), but the empirical effects of these paradigms are not well understood. This study investigates cross-institutional learning via an empirical case study in higher education. We propose a framework and metrics for assessing the utility and fairness of student dropout prediction models  Cites: Feature noise induces loss discrepancy across groups

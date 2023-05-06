@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Flight Control Systems from Human Demonstrations and Real-Time Uncertainty-Informed Interventions"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "P Ganesh, JH Ramos, VG Goecks, J Paquet… - arXiv preprint arXiv …, 2023"
----
-This paper describes a methodology for learning flight control systems from human demonstrations and interventions while considering the estimated uncertainty in the learned models. The proposed approach uses human demonstrations to train an initial model via imitation learning and then iteratively, improve its performance by using real-time human interventions. The aim of the interventions is to correct undesired behaviors and adapt the model to changes in the task dynamics. The …
-Cites: ‪Listen, Attend, and Walk: Neural Mapping of Navigational …‬
+--- 
+layout: post 
+title: "Learning Flight Control Systems from Human Demonstrations and Real-Time Uncertainty-Informed Interventions" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "P Ganesh, JH Ramos, VG Goecks, J Paquet - arXiv preprint arXiv , 2023" 
+--- 
+This paper describes a methodology for learning flight control systems from human demonstrations and interventions while considering the estimated uncertainty in the learned models. The proposed approach uses human demonstrations to train an initial model via imitation learning and then iteratively, improve its performance by using real-time human interventions. The aim of the interventions is to correct undesired behaviors and adapt the model to changes in the task dynamics. The  Cites: Listen, Attend, and Walk: Neural Mapping of Navigational

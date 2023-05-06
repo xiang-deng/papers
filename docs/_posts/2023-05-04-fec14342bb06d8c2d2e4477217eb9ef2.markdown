@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Simplified Framework for Contrastive Learning for Node Representations"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "I Hong, H Tran, C Donnat - arXiv preprint arXiv:2305.00623, 2023"
----
-Contrastive learning has recently established itself as a powerful self-supervised learning framework for extracting rich and versatile data representations. Broadly speaking, contrastive learning relies on a data augmentation scheme to generate two versions of the input data and learns low-dimensional representations by maximizing a normalized temperature-scaled cross entropy loss (NT-Xent) to identify augmented samples corresponding to the same original entity. In this paper, we …
-Cites: ‪Spherical Latent Spaces for Stable Variational Autoencoders‬
+--- 
+layout: post 
+title: "A Simplified Framework for Contrastive Learning for Node Representations" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "I Hong, H Tran, C Donnat - arXiv preprint arXiv:2305.00623, 2023" 
+--- 
+Contrastive learning has recently established itself as a powerful self-supervised learning framework for extracting rich and versatile data representations. Broadly speaking, contrastive learning relies on a data augmentation scheme to generate two versions of the input data and learns low-dimensional representations by maximizing a normalized temperature-scaled cross entropy loss (NT-Xent) to identify augmented samples corresponding to the same original entity. In this paper, we  Cites: Spherical Latent Spaces for Stable Variational Autoencoders

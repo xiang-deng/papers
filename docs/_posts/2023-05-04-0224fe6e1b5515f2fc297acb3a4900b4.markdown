@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Synthetic Cross-language Information Retrieval Training Data"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "J Mayfield, E Yang, D Lawrie, S Barham, O Weller… - arXiv preprint arXiv …, 2023"
----
-A key stumbling block for neural cross-language information retrieval (CLIR) systems has been the paucity of training data. The appearance of the MS MARCO monolingual training set led to significant advances in the state of the art in neural monolingual retrieval. By translating the MS MARCO documents into other languages using machine translation, this resource has been made useful to the CLIR community. Yet such translation suffers from a number of problems. While MS …
-Cites: ‪RealTime QA: What s the Answer Right Now?‬
+--- 
+layout: post 
+title: "Synthetic Cross-language Information Retrieval Training Data" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "J Mayfield, E Yang, D Lawrie, S Barham, O Weller - arXiv preprint arXiv , 2023" 
+--- 
+A key stumbling block for neural cross-language information retrieval (CLIR) systems has been the paucity of training data. The appearance of the MS MARCO monolingual training set led to significant advances in the state of the art in neural monolingual retrieval. By translating the MS MARCO documents into other languages using machine translation, this resource has been made useful to the CLIR community. Yet such translation suffers from a number of problems. While MS  Cites: RealTime QA: What s the Answer Right Now?

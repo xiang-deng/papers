@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explainable Verbal Reasoner Plus (EVR+): A Natural Language Reasoning Framework that Supports Diverse Compositional Reasoning"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "Z Liang, Z Zhang, S Bethard, M Surdeanu - arXiv preprint arXiv:2305.00061, 2023"
----
-Languages models have been successfully applied to a variety of reasoning tasks in NLP, yet the language models still suffer from compositional generalization. In this paper we present Explainable Verbal Reasoner Plus (EVR+), a reasoning framework that enhances language models  compositional reasoning ability by (1) allowing the model to explicitly generate and execute symbolic operators, and (2) allowing the model to decompose a complex task into several simpler ones in a flexible manner …
-Cites: ‪Self-consistency improves chain of thought reasoning in language …‬
+--- 
+layout: post 
+title: "Explainable Verbal Reasoner Plus (EVR+): A Natural Language Reasoning Framework that Supports Diverse Compositional Reasoning" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "Z Liang, Z Zhang, S Bethard, M Surdeanu - arXiv preprint arXiv:2305.00061, 2023" 
+--- 
+Languages models have been successfully applied to a variety of reasoning tasks in NLP, yet the language models still suffer from compositional generalization. In this paper we present Explainable Verbal Reasoner Plus (EVR+), a reasoning framework that enhances language models compositional reasoning ability by (1) allowing the model to explicitly generate and execute symbolic operators, and (2) allowing the model to decompose a complex task into several simpler ones in a flexible manner  Cites: Self-consistency improves chain of thought reasoning in language

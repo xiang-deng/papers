@@ -1,9 +1,0 @@
----
-layout: post
-title:  "21. April 2023 Hintergrundpapier Nr. 26"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "S Albrecht - 2023"
----
-Das Training der Modelle erfolgt in zwei Phasen: In einem ersten Schritt liest das System weitgehend eigenständig (unüberwacht) große Mengen an Texten ein und bildet daraus seine Parameter. Im zweiten Schritt erfolgt mithilfe von menschlichem Feedback eine Feinjustierung des Modells auf seine spezielle Aufgabe, im Fall von ChatGPT die Dialogfähigkeit zu beliebigen Themen. Da zum Training vor allem menschlich erzeugte Texte aus dem Internet genutzt werden, beruhen beide Schritte …
-Cites: ‪Glam: Efficient scaling of language models with mixture-of-experts‬

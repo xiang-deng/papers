@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RexUIE: A Recursive Method with Explicit Schema Instructor for Universal Information Extraction"
-date:   2023-05-04 03:16:47 -0400
-categories: jekyll update
-author: "C Liu, F Zhao, Y Kang, J Zhang, X Zhou, C Sun, F Wu… - arXiv preprint arXiv …, 2023"
----
-Universal Information Extraction (UIE) is an area of interest due to the challenges posed by varying targets, heterogeneous structures, and demand-specific schemas. However, previous works have only achieved limited success by unifying a few tasks, such as Named Entity Recognition (NER) and Relation Extraction (RE), which fall short of being authentic UIE models particularly when extracting other general schemas such as quadruples and quintuples. Additionally, these models used an …
-Cites: ‪HellaSwag: Can a machine really finish your sentence?‬
+--- 
+layout: post 
+title: "RexUIE: A Recursive Method with Explicit Schema Instructor for Universal Information Extraction" 
+date: 2023-05-04 03:16:47 -0400 
+categories: jekyll update 
+author: "C Liu, F Zhao, Y Kang, J Zhang, X Zhou, C Sun, F Wu - arXiv preprint arXiv , 2023" 
+--- 
+Universal Information Extraction (UIE) is an area of interest due to the challenges posed by varying targets, heterogeneous structures, and demand-specific schemas. However, previous works have only achieved limited success by unifying a few tasks, such as Named Entity Recognition (NER) and Relation Extraction (RE), which fall short of being authentic UIE models particularly when extracting other general schemas such as quadruples and quintuples. Additionally, these models used an  Cites: HellaSwag: Can a machine really finish your sentence?
