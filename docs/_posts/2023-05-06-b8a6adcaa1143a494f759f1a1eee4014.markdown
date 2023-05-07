@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TopoBERT: Exploring the topology of fine-tuned word representations"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "A Rathore, Y Zhou, V Srikumar, B Wang - Information Visualization, 2023"
+---
+Transformer-based language models such as BERT and its variants have found widespread use in natural language processing (NLP). A common way of using these models is to fine-tune them to improve their performance on a specific task. However, it is currently unclear how the fine-tuning process affects the underlying structure of the word embeddings from these models. We present TopoBERT, a visual analytics system for interactively exploring the fine-tuning process of various …
+Cites: ‪Linguistic Knowledge and Transferability of Contextual …‬

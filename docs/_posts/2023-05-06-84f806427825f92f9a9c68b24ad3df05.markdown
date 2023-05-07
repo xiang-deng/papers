@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Benefits of Bad Advice: Autocontrastive Decoding across Model Layers"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "A Gera, R Friedman, O Arviv, C Gunasekara… - arXiv preprint arXiv …, 2023"
+---
+Applying language models to natural language processing tasks typically relies on the representations in the final model layer, as intermediate hidden layer representations are presumed to be less informative. In this work, we argue that due to the gradual improvement across model layers, additional information can be gleaned from the contrast between higher and lower layers during inference. Specifically, in choosing between the probable next token predictions of a generative …
+Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬

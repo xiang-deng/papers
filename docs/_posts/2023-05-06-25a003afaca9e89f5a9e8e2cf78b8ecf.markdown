@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generating Synthetic Documents for Cross-Encoder Re-Rankers: A Comparative Study of ChatGPT and Human Experts"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "A Askari, M Aliannejadi, E Kanoulas, S Verberne - arXiv preprint arXiv:2305.02320, 2023"
+---
+We investigate the usefulness of generative Large Language Models (LLMs) in generating training data for cross-encoder re-rankers in a novel direction: generating synthetic documents instead of synthetic queries. We introduce a new dataset, ChatGPT-RetrievalQA, and compare the effectiveness of models fine-tuned on LLM-generated and human-generated data. Data generated with generative LLMs can be used to augment training data, especially in domains with smaller amounts of …
+Cites: ‪Promptagator: Few-shot dense retrieval from 8 examples‬

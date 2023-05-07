@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Scalable Synthesis of Regular Expressions From Only Positive Examples"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "M BARBONE, E PERTSEVA"
+---
+But you lack the domain knowledge to write negative examples or natural language descriptions. Writing regexes is difficult [2], so a possible solution is to input the examples into a synthesis tool. However, to the best of our knowledge, no existing one-shot regex synthesizer correctly solves this problem. Enumerative tools [4, 12, 13] require negative examples, while neural tools [3, 4, 8, 12] need natural language descriptions to perform well. In prior work [9], we attempted to find a solution by …
+Cites: ‪Multi-modal synthesis of regular expressions‬

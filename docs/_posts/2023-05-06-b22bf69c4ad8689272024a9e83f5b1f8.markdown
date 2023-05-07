@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SafeWebUH at SemEval-2023 Task 11: Learning Annotator Disagreement in Derogatory Text: Comparison of Direct Training vs Aggregation"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "S Shahriar, T Solorio - arXiv preprint arXiv:2305.01050, 2023"
+---
+Subjectivity and difference of opinion are key social phenomena, and it is crucial to take these into account in the annotation and detection process of derogatory textual content. In this paper, we use four datasets provided by SemEval-2023 Task 11 and fine-tune a BERT model to capture the disagreement in the annotation. We find individual annotator modeling and aggregation lowers the Cross-Entropy score by an average of 0.21, compared to the direct training on the soft labels. Our findings …
+Cites: ‪BERT: Pre-training of Deep Bidirectional Transformers for …‬

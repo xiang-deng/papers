@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "S Zhao, J Wen, LA Tuan, J Zhao, J Fu - arXiv preprint arXiv:2305.01219, 2023"
+---
+The prompt-based learning paradigm, which bridges the gap between pre-training and fine-tuning, achieves state-of-the-art performance on several NLP tasks, particularly in few-shot settings. Despite being widely applied, prompt-based learning is vulnerable to backdoor attacks. Textual backdoor attacks are designed to introduce targeted vulnerabilities into models by poisoning a subset of training samples through trigger injection and label modification. However, they suffer from …
+Cites: ‪Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper …‬

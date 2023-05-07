@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sequence Modeling with Multiresolution Convolutional Memory"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "J Shi, KA Wang, EB Fox - arXiv preprint arXiv:2305.01638, 2023"
+---
+Efficiently capturing the long-range patterns in sequential data sources salient to a given task--such as classification and generative modeling--poses a fundamental challenge. Popular approaches in the space tradeoff between the memory burden of brute-force enumeration and comparison, as in transformers, the computational burden of complicated sequential dependencies, as in recurrent neural networks, or the parameter burden of convolutional networks with many or large filters. We …
+Cites: ‪Diagonal State Spaces are as Effective as Structured State Spaces‬

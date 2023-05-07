@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Lightweight CNN-Transformer Model for Learning Traveling Salesman Problems"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "M Jung, J Lee, J Kim - arXiv preprint arXiv:2305.01883, 2023"
+---
+Transformer-based models show state-of-the-art performance even for large-scale Traveling Salesman Problems (TSPs). However, they are based on fully-connected attention models and suffer from large computational complexity and GPU memory usage. We propose a lightweight CNN-Transformer model based on a CNN embedding layer and partial self-attention. Our CNN-Transformer model is able to better learn spatial features from input data using a CNN embedding layer compared …
+Cites: ‪Delight: Deep and light-weight transformer‬

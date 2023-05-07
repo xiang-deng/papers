@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mitigating Approximate Memorization in Language Models via Dissimilarity Learned Policy"
+date:   2023-05-06 06:19:24 -0400
+categories: jekyll update
+author: "AM Kassem - arXiv preprint arXiv:2305.01550, 2023"
+---
+Large Language models (LLMs) are trained on large amounts of data, which can include sensitive information that may compromise personal privacy. LLMs showed to memorize parts of the training data and emit those data verbatim when an adversary prompts appropriately. Previous research has primarily focused on data preprocessing and differential privacy techniques to address memorization or prevent verbatim memorization exclusively, which can give a false sense of privacy …
+Cites: ‪Palm: Scaling language modeling with pathways‬
