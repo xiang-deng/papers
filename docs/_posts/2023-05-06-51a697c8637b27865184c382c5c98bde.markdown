@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Complex Logical Reasoning over Knowledge Graphs using Large Language Models"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "N Choudhary, CK Reddy - arXiv preprint arXiv:2305.01157, 2023"
----
-Reasoning over knowledge graphs (KGs) is a challenging task that requires a deep understanding of the complex relationships between entities and the underlying logic of their relations. Current approaches rely on learning geometries to embed entities in vector space for logical query operations, but they suffer from subpar performance on complex queries and dataset-specific representations. In this paper, we propose a novel decoupled approach, Language-guided Abstract Reasoning over Knowledge …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Complex Logical Reasoning over Knowledge Graphs using Large Language Models" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "N Choudhary, CK Reddy - arXiv preprint arXiv:2305.01157, 2023" 
+--- 
+Reasoning over knowledge graphs (KGs) is a challenging task that requires a deep understanding of the complex relationships between entities and the underlying logic of their relations. Current approaches rely on learning geometries to embed entities in vector space for logical query operations, but they suffer from subpar performance on complex queries and dataset-specific representations. In this paper, we propose a novel decoupled approach, Language-guided Abstract Reasoning over Knowledge  Cites: Palm: Scaling language modeling with pathways

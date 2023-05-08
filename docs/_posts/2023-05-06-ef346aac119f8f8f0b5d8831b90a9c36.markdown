@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Chronosymbolic Learning: Efficient CHC Solving with Symbolic Reasoning and Inductive Learning"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "Z Luo, X Si - arXiv preprint arXiv:2305.01206, 2023"
----
-Solving Constrained Horn Clauses (CHCs) is a fundamental challenge behind a wide range of verification and analysis tasks. Data-driven approaches show great promise in improving CHC solving without the painstaking manual effort of creating and tuning various heuristics. However, a large performance gap exists between data-driven CHC solvers and symbolic reasoning-based solvers. In this work, we develop a simple but effective framework,  Chronosymbolic Learning , which unifies …
-Cites: ‪Learning invariants using decision trees and implication …‬
+--- 
+layout: post 
+title: "Chronosymbolic Learning: Efficient CHC Solving with Symbolic Reasoning and Inductive Learning" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "Z Luo, X Si - arXiv preprint arXiv:2305.01206, 2023" 
+--- 
+Solving Constrained Horn Clauses (CHCs) is a fundamental challenge behind a wide range of verification and analysis tasks. Data-driven approaches show great promise in improving CHC solving without the painstaking manual effort of creating and tuning various heuristics. However, a large performance gap exists between data-driven CHC solvers and symbolic reasoning-based solvers. In this work, we develop a simple but effective framework, Chronosymbolic Learning , which unifies  Cites: Learning invariants using decision trees and implication

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "J Kang, W Xu, A Ritter - arXiv preprint arXiv:2305.01645, 2023"
----
-Fine-tuning large models is highly effective, however, inference using these models can be expensive and produces carbon emissions. Knowledge distillation has been shown to be a practical solution to reduce inference costs, but the distillation process itself requires significant computational resources. Rather than buying or renting GPUs to fine-tune, then distill a large model, an NLP practitioner who needs a compact model might also choose to simply allocate an available budget to hire …
-Cites: ‪Prompt consistency for zero-shot task generalization‬
+--- 
+layout: post 
+title: "Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "J Kang, W Xu, A Ritter - arXiv preprint arXiv:2305.01645, 2023" 
+--- 
+Fine-tuning large models is highly effective, however, inference using these models can be expensive and produces carbon emissions. Knowledge distillation has been shown to be a practical solution to reduce inference costs, but the distillation process itself requires significant computational resources. Rather than buying or renting GPUs to fine-tune, then distill a large model, an NLP practitioner who needs a compact model might also choose to simply allocate an available budget to hire  Cites: Prompt consistency for zero-shot task generalization

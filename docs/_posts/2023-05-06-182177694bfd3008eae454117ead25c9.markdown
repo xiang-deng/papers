@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain-adaptive message passing graph neural network"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "X Shen, S Pan, KS Choi, X Zhou - Neural Networks, 2023"
----
-Cross-network node classification (CNNC), which aims to classify nodes in a label-deficient target network by transferring the knowledge from a source network with abundant labels, draws increasing attention recently. To address CNNC, we propose a domain-adaptive message passing graph neural network (DM-GNN), which integrates graph neural network (GNN) with conditional adversarial domain adaptation. DM-GNN is capable of learning informative representations for node …
-Cites: ‪Learning with Local and Global Consistency.‬
+--- 
+layout: post 
+title: "Domain-adaptive message passing graph neural network" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "X Shen, S Pan, KS Choi, X Zhou - Neural Networks, 2023" 
+--- 
+Cross-network node classification (CNNC), which aims to classify nodes in a label-deficient target network by transferring the knowledge from a source network with abundant labels, draws increasing attention recently. To address CNNC, we propose a domain-adaptive message passing graph neural network (DM-GNN), which integrates graph neural network (GNN) with conditional adversarial domain adaptation. DM-GNN is capable of learning informative representations for node  Cites: Learning with Local and Global Consistency.

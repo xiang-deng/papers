@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Class based Influence Functions for Error Detection"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "T Nguyen-Duc, H Thanh-Tung, QH Tran, D Huu-Tien… - arXiv preprint arXiv …, 2023"
----
-Influence functions (IFs) are a powerful tool for detecting anomalous examples in large scale datasets. However, they are unstable when applied to deep networks. In this paper, we provide an explanation for the instability of IFs and develop a solution to this problem. We show that IFs are unreliable when the two data points belong to two different classes. Our solution leverages class information to improve the stability of IFs. Extensive experiments show that our modification significantly improves the …
-Cites: ‪Dawn Drain‬

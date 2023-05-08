@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TransCP: A Transformer Pointer Network for Generic Entity Description Generation with Explicit Content-Planning"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "BD Trisedya, J Qi, H Zheng, FD Salim, R Zhang - IEEE Transactions on Knowledge & …, 2023"
----
-We study neural data-to-text generation to generate a sentence to describe a target entity based on its attributes. Specifically, we address two problems of the encoder-decoder framework for data-to-text generation: i) how to encode a non-linear input (eg, a set of attributes); and ii) how to order the attributes in the generated description. Existing studies focus on the encoding problem but do not address the ordering problem, ie, they learn the content-planning implicitly. The other …
-Cites: ‪Data-to-text generation with content selection and planning‬
+--- 
+layout: post 
+title: "TransCP: A Transformer Pointer Network for Generic Entity Description Generation with Explicit Content-Planning" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "BD Trisedya, J Qi, H Zheng, FD Salim, R Zhang - IEEE Transactions on Knowledge & , 2023" 
+--- 
+We study neural data-to-text generation to generate a sentence to describe a target entity based on its attributes. Specifically, we address two problems of the encoder-decoder framework for data-to-text generation: i) how to encode a non-linear input (eg, a set of attributes); and ii) how to order the attributes in the generated description. Existing studies focus on the encoding problem but do not address the ordering problem, ie, they learn the content-planning implicitly. The other  Cites: Data-to-text generation with content selection and planning

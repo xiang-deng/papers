@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Interpretable Machine Learning for Science with PySR and SymbolicRegression. jl"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "M Cranmer - arXiv preprint arXiv:2305.01582, 2023"
----
-PySR is an open-source library for practical symbolic regression, a type of machine learning which aims to discover human-interpretable symbolic models. PySR was developed to democratize and popularize symbolic regression for the sciences, and is built on a high-performance distributed back-end, a flexible search algorithm, and interfaces with several deep learning packages. PySR s internal search algorithm is a multi-population evolutionary algorithm, which consists of a unique evolve-simplify …
-Cites: ‪Automl-zero: Evolving machine learning algorithms from scratch‬

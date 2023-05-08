@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LSCB: a lightweight feature extraction block for SAR automatic target recognition and detection"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "G Zhou, J Yu, S Zhou - International Journal of Remote Sensing, 2023"
----
-Automatic target recognition and detection in synthetic aperture radar (SAR) images is playing a significant role in military and civilian fields. Traditional methods are weak in migration capabilities and cumbersome in manual design. Existing deep learning-based methods can achieve high recognition and detection accuracy, but most of them have a very large number of parameters and slow recognition and computational efficiency, which makes it difficult for them to migrate to edge …
-Cites: ‪Efficientnetv2: Smaller models and faster training‬
+--- 
+layout: post 
+title: "LSCB: a lightweight feature extraction block for SAR automatic target recognition and detection" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "G Zhou, J Yu, S Zhou - International Journal of Remote Sensing, 2023" 
+--- 
+Automatic target recognition and detection in synthetic aperture radar (SAR) images is playing a significant role in military and civilian fields. Traditional methods are weak in migration capabilities and cumbersome in manual design. Existing deep learning-based methods can achieve high recognition and detection accuracy, but most of them have a very large number of parameters and slow recognition and computational efficiency, which makes it difficult for them to migrate to edge  Cites: Efficientnetv2: Smaller models and faster training

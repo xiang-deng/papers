@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Representation learning of knowledge graphs with correlation-based methods"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "M Sabet, MR Pajoohan, MR Moosavi - Information Sciences, 2023"
----
-Abstract Knowledge graphs (KGs) are intrinsically incomplete. Knowledge representation learning methods deal with embedding components of a knowledge graph (ie, entities and relations) into a low-dimensional vector space with the aim of predicting the missing links. The KG Embedding models use gradient descent-based optimization techniques to optimize their parameters, but they suffer from late convergence, making them inefficient for dynamic knowledge graphs. Moreover …
-Cites: ‪Relation prediction as an auxiliary training objective for improving …‬
+--- 
+layout: post 
+title: "Representation learning of knowledge graphs with correlation-based methods" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "M Sabet, MR Pajoohan, MR Moosavi - Information Sciences, 2023" 
+--- 
+Abstract Knowledge graphs (KGs) are intrinsically incomplete. Knowledge representation learning methods deal with embedding components of a knowledge graph (ie, entities and relations) into a low-dimensional vector space with the aim of predicting the missing links. The KG Embedding models use gradient descent-based optimization techniques to optimize their parameters, but they suffer from late convergence, making them inefficient for dynamic knowledge graphs. Moreover  Cites: Relation prediction as an auxiliary training objective for improving

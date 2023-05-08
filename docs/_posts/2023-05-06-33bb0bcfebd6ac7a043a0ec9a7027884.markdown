@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding Differential Search Index for Text Retrieval"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "X Chen, Y Liu, B He, L Sun, Y Sun - arXiv preprint arXiv:2305.02073, 2023"
----
-The Differentiable Search Index (DSI) is a novel information retrieval (IR) framework that utilizes a differentiable function to generate a sorted list of document identifiers in response to a given query. However, due to the black-box nature of the end-to-end neural architecture, it remains to be understood to what extent DSI possesses the basic indexing and retrieval abilities. To mitigate this gap, in this study, we define and examine three important abilities that a functioning IR framework should possess …
-Cites: ‪Autoregressive search engines: Generating substrings as …‬
+--- 
+layout: post 
+title: "Understanding Differential Search Index for Text Retrieval" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "X Chen, Y Liu, B He, L Sun, Y Sun - arXiv preprint arXiv:2305.02073, 2023" 
+--- 
+The Differentiable Search Index (DSI) is a novel information retrieval (IR) framework that utilizes a differentiable function to generate a sorted list of document identifiers in response to a given query. However, due to the black-box nature of the end-to-end neural architecture, it remains to be understood to what extent DSI possesses the basic indexing and retrieval abilities. To mitigate this gap, in this study, we define and examine three important abilities that a functioning IR framework should possess  Cites: Autoregressive search engines: Generating substrings as

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Study notes on parameter-efficient finetuning techniques"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "L Miranda"
----
-F inetuning is a way to adapt pretrained language models (LMs) to a specific task or domain. It requires attaching a task head to the model and updating the weights of the entire network. However, this process can put a strain on one s compute budget. This becomes more true as language models get larger and larger in every release.In this blog post, I want to share my notes on parameter-efficient finetuning techniques (PEFT). Here, we only finetune a small number of parameters while …
-Cites: ‪Towards a unified view of parameter-efficient transfer learning‬

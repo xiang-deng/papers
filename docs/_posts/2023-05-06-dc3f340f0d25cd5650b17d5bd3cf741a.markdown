@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DiffuSum: Generation Enhanced Extractive Summarization with Diffusion"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "H Zhang, X Liu, J Zhang - arXiv preprint arXiv:2305.01735, 2023"
----
-Extractive summarization aims to form a summary by directly extracting sentences from the source document. Existing works mostly formulate it as a sequence labeling problem by making individual sentence label predictions. This paper proposes DiffuSum, a novel paradigm for extractive summarization, by directly generating the desired summary sentence representations with diffusion models and extracting sentences based on sentence representation matching. In addition, DiffuSum jointly …
-Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬
+--- 
+layout: post 
+title: "DiffuSum: Generation Enhanced Extractive Summarization with Diffusion" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "H Zhang, X Liu, J Zhang - arXiv preprint arXiv:2305.01735, 2023" 
+--- 
+Extractive summarization aims to form a summary by directly extracting sentences from the source document. Existing works mostly formulate it as a sequence labeling problem by making individual sentence label predictions. This paper proposes DiffuSum, a novel paradigm for extractive summarization, by directly generating the desired summary sentence representations with diffusion models and extracting sentences based on sentence representation matching. In addition, DiffuSum jointly  Cites: Discourse-Aware Neural Extractive Text Summarization

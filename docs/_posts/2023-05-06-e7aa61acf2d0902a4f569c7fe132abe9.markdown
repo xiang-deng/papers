@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CodeGen2: Lessons for Training LLMs on Programming and Natural Languages"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "E Nijkamp, H Hayashi, C Xiong, S Savarese, Y Zhou - arXiv preprint arXiv …, 2023"
----
-Large language models (LLMs) have demonstrated remarkable abilities in representation learning for program synthesis and understanding tasks. The quality of the learned representations appears to be dictated by the neural scaling laws as a function of the number of model parameters and observations, while imposing upper bounds on the model performance by the amount of available data and compute, which is costly. In this study, we attempt to render the training of LLMs for program …
-Cites: ‪Transcending scaling laws with 0.1% extra compute‬
+--- 
+layout: post 
+title: "CodeGen2: Lessons for Training LLMs on Programming and Natural Languages" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "E Nijkamp, H Hayashi, C Xiong, S Savarese, Y Zhou - arXiv preprint arXiv , 2023" 
+--- 
+Large language models (LLMs) have demonstrated remarkable abilities in representation learning for program synthesis and understanding tasks. The quality of the learned representations appears to be dictated by the neural scaling laws as a function of the number of model parameters and observations, while imposing upper bounds on the model performance by the amount of available data and compute, which is costly. In this study, we attempt to render the training of LLMs for program  Cites: Transcending scaling laws with 0.1% extra compute

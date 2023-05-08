@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Finding Neurons in a Haystack: Case Studies with Sparse Probing"
-date:   2023-05-06 06:19:24 -0400
-categories: jekyll update
-author: "W Gurnee, N Nanda, M Pauly, K Harvey, D Troitskii… - arXiv preprint arXiv …, 2023"
----
-Despite rapid adoption and deployment of large language models (LLMs), the internal computations of these models remain opaque and poorly understood. In this work, we seek to understand how high-level human-interpretable features are represented within the internal neuron activations of LLMs. We train $ k $-sparse linear classifiers (probes) on these internal activations to predict the presence of features in the input; by varying the value of $ k $ we study the sparsity of learned …
-Cites: ‪Sparks of artificial general intelligence: Early experiments with gpt-4‬
+--- 
+layout: post 
+title: "Finding Neurons in a Haystack: Case Studies with Sparse Probing" 
+date: 2023-05-06 06:19:24 -0400 
+categories: jekyll update 
+author: "W Gurnee, N Nanda, M Pauly, K Harvey, D Troitskii - arXiv preprint arXiv , 2023" 
+--- 
+Despite rapid adoption and deployment of large language models (LLMs), the internal computations of these models remain opaque and poorly understood. In this work, we seek to understand how high-level human-interpretable features are represented within the internal neuron activations of LLMs. We train $ k $-sparse linear classifiers (probes) on these internal activations to predict the presence of features in the input; by varying the value of $ k $ we study the sparsity of learned  Cites: Sparks of artificial general intelligence: Early experiments with gpt-4
