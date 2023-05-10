@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ChatGPT-steered Editing Instructor for Customization of Abstractive Summarization"
+date:   2023-05-09 11:33:00 -0400
+categories: jekyll update
+author: "W Xiao, Y Xie, G Carenini, P He - arXiv preprint arXiv:2305.02483, 2023"
+---
+Tailoring outputs of large language models, such as ChatGPT, to specific user needs remains a challenge despite their impressive generation quality. In this paper, we propose a tri-agent generation pipeline consisting of a generator, an instructor, and an editor to enhance the customization of generated outputs. The generator produces an initial output, the user-specific instructor generates editing instructions, and the editor generates a revised output aligned with user preferences. The …
+Cites: ‪Xi Victoria Lin, Todor Mihaylov, Myle Ott, Sam Shleifer, Kurt …‬

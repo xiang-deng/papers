@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "深度嵌入聚类及其在投诉文本分析中的应用"
+date:   2023-05-09 11:33:00 -0400
+categories: jekyll update
+author: "刘菲林， 邵立伟， 黄德皇， 喇磊 - Computer Science and Application, 2023"
+---
+针对互联网存在的巨量涉及电力投诉的用户生成超短文本, 本文提出一种基于深度嵌入的聚类模型, 以实现互联网电力投诉文本话题识别的方法. 首先, 通过改进算法进行词嵌入, 以提高文本特征的语义丰度并降低数据集维度; 然后, 在词嵌入的基础上, 借助Sentence-Bert 进行句子相似度计算, 从而实现短文本聚类; 最后, 在自主爬取的互联网用户留言中涉及电力投诉的文本数据集上部署提出的方法, 完成了投诉文本的话题聚类, 并与多个已有的话题识别算法在同一数据集上的效果进行 …
+Cites: ‪BERT with History Answer Embedding for Conversational Question …‬

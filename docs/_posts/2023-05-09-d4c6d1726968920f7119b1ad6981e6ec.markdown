@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reducing Training Cost and Improving Inference Speed Through Neural Network Compression"
+date:   2023-05-09 11:33:00 -0400
+categories: jekyll update
+author: "C Blakeney - 2023"
+---
+As AI models have become integral to many software applications used in everyday life, the need for ways to run these computationally intensive applications on mobile and edge devices has grown. To help solve these problems, a new research area of neural network compression has emerged. Techniques like quantization, pruning, and model distillation have become standard. However, these methods have several drawbacks. Many of these techniques require specialized hardware for inference …
+Cites: ‪The case for 4-bit precision: k-bit Inference Scaling Laws‬

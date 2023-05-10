@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ZipIt! Merging Models from Different Tasks without Training"
+date:   2023-05-09 11:33:00 -0400
+categories: jekyll update
+author: "G Stoica, D Bolya, J Bjorner, T Hearn, J Hoffman - arXiv preprint arXiv:2305.03053, 2023"
+---
+Typical deep visual recognition models are capable of performing the one task they were trained on. In this paper, we tackle the extremely difficult problem of combining completely distinct models with different initializations, each solving a separate task, into one multi-task model without any additional training. Prior work in model merging permutes one model to the space of the other then adds them together. While this works for models trained on the same task, we find that this fails to account …
+Cites: ‪Robust fine-tuning of zero-shot models‬

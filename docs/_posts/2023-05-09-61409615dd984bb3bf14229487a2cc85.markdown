@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hierarchical Representations in Dense Passage Retrieval for Question-Answering"
+date:   2023-05-09 11:33:00 -0400
+categories: jekyll update
+author: "P Ennen, F Freddi, CJ Lin, PN Kung, RC Wang… - Proceedings of the Sixth …, 2023"
+---
+An approach to improve question-answering performance is to retrieve accompanying information that contains factual evidence matching the question. These retrieved documents are then fed into a reader that generates an answer. A commonly applied retriever is dense passage retrieval. In this retriever, the output of a transformer neural network is used to query a knowledge database for matching documents. Inspired by the observation that different layers of a transformer network …
+Cites: ‪Break It Down: A Question Understanding Benchmark‬

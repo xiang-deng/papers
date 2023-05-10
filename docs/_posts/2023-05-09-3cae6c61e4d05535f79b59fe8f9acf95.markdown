@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Bert Fine-Tuning via Stabilizing Cross-Layer Mutual Information"
+date:   2023-05-09 11:33:00 -0400
+categories: jekyll update
+author: "J Li, X Li, T Wang, S Wang, Y Cao, C Xu, D Dou - ICASSP 2023-2023 IEEE …, 2023"
+---
+Fine-tuning pre-trained language models, such as BERT, has shown enormous success among various NLP tasks. Though simple and effective, the process of fine-tuning has been found unstable, which often leads to unexpected poor performance. To increase stability and generalizability, most existing works resort to maintaining the parameters or representations of pre-trained models during fine-tuning. Nevertheless, very little work explores mining the reliable part of pre-learned …
+Cites: ‪Better fine-tuning by reducing representational collapse‬

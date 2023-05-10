@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge"
+date:   2023-05-09 11:33:00 -0400
+categories: jekyll update
+author: "V Varadarajan, S Juhng, S Mahwish, X Liu, J Luby… - arXiv preprint arXiv …, 2023"
+---
+While transformer-based systems have enabled greater accuracies with fewer training examples, data acquisition obstacles still persist for rare-class tasks--when the class label is very infrequent (eg< 5% of samples). Active learning has in general been proposed to alleviate such challenges, but choice of selection strategy, the criteria by which rare-class examples are chosen, has not been systematically evaluated. Further, transformers enable iterative transfer-learning approaches. We …
+Cites: ‪Mind your outliers! Investigating the negative impact of outliers on …‬
