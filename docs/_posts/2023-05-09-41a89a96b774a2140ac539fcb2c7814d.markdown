@@ -1,9 +1,8 @@
----
-layout: post
-title:  "iPrompt: Explaining Data Patterns in Natural Language via Interpretable Autoprompting"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "C Singh, JX Morris, J Aneja, AM Rush, J Gao"
----
-Large language models (LLMs) have displayed an impressive ability to harness natural language to perform complex tasks. We explore whether we can leverage this ability to find and explain patterns in data. Specifically, given a pre-trained LLM and data examples, we introduce interpretable autoprompting (iPrompt), an algorithm that generates a natural language string explaining the data. iPrompt iteratively generates explanations with an LLM and reranks them based on their …
-Cites: ‪PTR: Prompt tuning with rules for text classification‬
+--- 
+layout: post 
+title: "iPrompt: Explaining Data Patterns in Natural Language via Interpretable Autoprompting" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "C Singh, JX Morris, J Aneja, AM Rush, J Gao" 
+--- 
+Large language models (LLMs) have displayed an impressive ability to harness natural language to perform complex tasks. We explore whether we can leverage this ability to find and explain patterns in data. Specifically, given a pre-trained LLM and data examples, we introduce interpretable autoprompting (iPrompt), an algorithm that generates a natural language string explaining the data. iPrompt iteratively generates explanations with an LLM and reranks them based on their  Cites: PTR: Prompt tuning with rules for text classification

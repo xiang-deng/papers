@@ -1,9 +1,8 @@
----
-layout: post
-title:  "An automatically discovered chain-of-thought prompt generalizes to novel models and datasets"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "K Hebenstreit, R Praas, LP Kiesewetter, M Samwald - arXiv preprint arXiv …, 2023"
----
-Emergent chain-of-thought (CoT) reasoning capabilities promise to improve performance and explainability of large language models (LLMs). However, uncertainties remain about how prompting strategies formulated for previous model generations generalize to new model generations and different datasets. In this small-scale study we compare the performance of a range of zero-shot prompts for inducing CoT reasoning across six recently released LLMs (davinci-002, davinci …
-Cites: ‪Chi, and Denny Zhou‬
+--- 
+layout: post 
+title: "An automatically discovered chain-of-thought prompt generalizes to novel models and datasets" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "K Hebenstreit, R Praas, LP Kiesewetter, M Samwald - arXiv preprint arXiv , 2023" 
+--- 
+Emergent chain-of-thought (CoT) reasoning capabilities promise to improve performance and explainability of large language models (LLMs). However, uncertainties remain about how prompting strategies formulated for previous model generations generalize to new model generations and different datasets. In this small-scale study we compare the performance of a range of zero-shot prompts for inducing CoT reasoning across six recently released LLMs (davinci-002, davinci  Cites: Chi, and Denny Zhou

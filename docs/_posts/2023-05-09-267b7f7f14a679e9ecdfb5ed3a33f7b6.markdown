@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Semantic Space Grounded Weighted Decoding for Multi-Attribute Controllable Dialogue Generation"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "Z Zhang, M Wu, KQ Zhu - arXiv preprint arXiv:2305.02820, 2023"
----
-Controlling chatbot utterance generation with multiple attributes such as personalities, emotions and dialogue acts is a practically useful but under-studied problem. We propose a novel controllable generation framework called DASC that possesses strong controllability with weighted decoding paradigm, while improving generation quality with the grounding in an attribute semantics space. Generation with multiple attributes is then intuitively implemented with an interpolation of multiple …
-Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬
+--- 
+layout: post 
+title: "Semantic Space Grounded Weighted Decoding for Multi-Attribute Controllable Dialogue Generation" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "Z Zhang, M Wu, KQ Zhu - arXiv preprint arXiv:2305.02820, 2023" 
+--- 
+Controlling chatbot utterance generation with multiple attributes such as personalities, emotions and dialogue acts is a practically useful but under-studied problem. We propose a novel controllable generation framework called DASC that possesses strong controllability with weighted decoding paradigm, while improving generation quality with the grounding in an attribute semantics space. Generation with multiple attributes is then intuitively implemented with an interpolation of multiple  Cites: DExperts: Decoding-time controlled text generation with experts

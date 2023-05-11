@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Edit Aware Representation Learning via Levenshtein Prediction"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "E Marrese-Taylor, M Reid, A Solano - The Fourth Workshop on Insights from Negative …, 2023"
----
-We propose a novel approach that employs token-level Levenshtein operations to learn a continuous latent space of vector representations to capture the underlying semantic information with regard to the document editing process. Though our model outperforms strong baselines when fine-tuned on edit-centric tasks, it is unclear if these results are due to domain similarities between fine-tuning and pre-training data, suggesting that the benefits of our proposed approach over regular masked …
-Cites: ‪Learning to Model Editing Processes‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta Learning for Domain Agnostic Soft Prompt"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "MY Chen, M Rohmatillah, CH Lee, JT Chien - ICASSP 2023-2023 IEEE International …, 2023"
----
-The prompt-based learning, as used in GPT-3, has become a popular approach to extract knowledge from a powerful pre-trained language model (PLM) for natural language understanding tasks. However, either applying the hard prompt for sentences by defining a collection of human-engineering prompt templates or directly optimizing the soft or continuous prompt with labeled data may not really generalize well for unseen domain data. To cope with this issue, this paper presents …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "Meta Learning for Domain Agnostic Soft Prompt" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "MY Chen, M Rohmatillah, CH Lee, JT Chien - ICASSP 2023-2023 IEEE International , 2023" 
+--- 
+The prompt-based learning, as used in GPT-3, has become a popular approach to extract knowledge from a powerful pre-trained language model (PLM) for natural language understanding tasks. However, either applying the hard prompt for sentences by defining a collection of human-engineering prompt templates or directly optimizing the soft or continuous prompt with labeled data may not really generalize well for unseen domain data. To cope with this issue, this paper presents  Cites: Making Pre-trained Language Models Better Few-shot Learners

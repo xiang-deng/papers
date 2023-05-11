@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tutorial Proposal: Retrieval-based Language Models and Applications"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "A Asai, S Min, Z Zhong, D Chen"
----
-Language models (LMs) such as GPT-3 (Brown et al., 2020) and PaLM (Chowdhery et al., 2022) have shown impressive abilities in a range of natural language processing (NLP) tasks. However, relying solely on their parameters to encode a wealth of world knowledge requires a prohibitively large number of parameters and hence massive computing, and they often struggle to learn long-rail knowledge (Roberts et al., 2020; Kandpal et al., 2022; Mallen et al., 2022). Moreover, these …
-Cites: ‪Neuro-symbolic language modeling with automaton-augmented …‬
+--- 
+layout: post 
+title: "Tutorial Proposal: Retrieval-based Language Models and Applications" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "A Asai, S Min, Z Zhong, D Chen" 
+--- 
+Language models (LMs) such as GPT-3 (Brown et al., 2020) and PaLM (Chowdhery et al., 2022) have shown impressive abilities in a range of natural language processing (NLP) tasks. However, relying solely on their parameters to encode a wealth of world knowledge requires a prohibitively large number of parameters and hence massive computing, and they often struggle to learn long-rail knowledge (Roberts et al., 2020; Kandpal et al., 2022; Mallen et al., 2022). Moreover, these  Cites: Neuro-symbolic language modeling with automaton-augmented

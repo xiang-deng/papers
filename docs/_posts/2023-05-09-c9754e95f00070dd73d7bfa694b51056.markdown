@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Polymorphic Adversarial Examples Generation for Short Text"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "Y Liang, Z Lin, F Yuan, H Zhang, L Wang, W Wang - ICASSP 2023-2023 IEEE …, 2023"
----
-NLP models are shown to be vulnerable to adversarial examples. The usual attack methods in NLP fields mainly focus on word-level perturbations. However, the word-substitution based method is not suitable for short text. Short texts are more susceptible to word substitution than long texts, which makes semantic shifting more likely to occur, and the number of words in short texts can be modified is small, making the attack difficult to succeed and hard to guarantee naturality and fluency …
-Cites: ‪Spherical latent spaces for stable variational autoencoders‬
+--- 
+layout: post 
+title: "Towards Polymorphic Adversarial Examples Generation for Short Text" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "Y Liang, Z Lin, F Yuan, H Zhang, L Wang, W Wang - ICASSP 2023-2023 IEEE , 2023" 
+--- 
+NLP models are shown to be vulnerable to adversarial examples. The usual attack methods in NLP fields mainly focus on word-level perturbations. However, the word-substitution based method is not suitable for short text. Short texts are more susceptible to word substitution than long texts, which makes semantic shifting more likely to occur, and the number of words in short texts can be modified is small, making the attack difficult to succeed and hard to guarantee naturality and fluency  Cites: Spherical latent spaces for stable variational autoencoders

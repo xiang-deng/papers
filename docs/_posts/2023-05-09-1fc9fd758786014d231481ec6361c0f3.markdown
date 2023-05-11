@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SADE: A Self-Adaptive Expert for Multi-Dataset Question Answering"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "Y Peng, Q Wang, Z Mao, Y Zhang - … 2023-2023 IEEE International Conference on …, 2023"
----
-Multi-dataset question answering (QA) aims to combine multiple QA datasets to build models that not only perform well on training distributions, but also transfer and generalize well to new distributions. Some prior work considered building a collection of dataset-specific experts upon a shared Transformer, so as to simultaneously encode both regularities across datasets and specificities of each dataset. This approach, however, has its limitations when generalized to an unseen …
-Cites: ‪MultiQA: An Empirical Investigation of Generalization and Transfer …‬
+--- 
+layout: post 
+title: "SADE: A Self-Adaptive Expert for Multi-Dataset Question Answering" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "Y Peng, Q Wang, Z Mao, Y Zhang - 2023-2023 IEEE International Conference on , 2023" 
+--- 
+Multi-dataset question answering (QA) aims to combine multiple QA datasets to build models that not only perform well on training distributions, but also transfer and generalize well to new distributions. Some prior work considered building a collection of dataset-specific experts upon a shared Transformer, so as to simultaneously encode both regularities across datasets and specificities of each dataset. This approach, however, has its limitations when generalized to an unseen  Cites: MultiQA: An Empirical Investigation of Generalization and Transfer

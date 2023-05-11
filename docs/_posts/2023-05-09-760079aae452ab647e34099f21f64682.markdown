@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "E Pan, Z Kang - arXiv preprint arXiv:2305.02931, 2023"
----
-Graph neural networks (GNNs) based methods have achieved impressive performance on node clustering task. However, they are designed on the homophilic assumption of graph and clustering on heterophilic graph is overlooked. Due to the lack of labels, it is impossible to first identify a graph as homophilic or heterophilic before a suitable GNN model can be found. Hence, clustering on real-world graph with various levels of homophily poses a new challenge to the graph research …
-Cites: ‪Adaptive Graph Encoder for Attributed Graph Embedding‬
+--- 
+layout: post 
+title: "Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "E Pan, Z Kang - arXiv preprint arXiv:2305.02931, 2023" 
+--- 
+Graph neural networks (GNNs) based methods have achieved impressive performance on node clustering task. However, they are designed on the homophilic assumption of graph and clustering on heterophilic graph is overlooked. Due to the lack of labels, it is impossible to first identify a graph as homophilic or heterophilic before a suitable GNN model can be found. Hence, clustering on real-world graph with various levels of homophily poses a new challenge to the graph research  Cites: Adaptive Graph Encoder for Attributed Graph Embedding

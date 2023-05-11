@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CausalAPM: Generalizable Literal Disentanglement for NLU Debiasing"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "S Gao, S Dou, J Shan, Q Zhang, X Huang - arXiv preprint arXiv:2305.02865, 2023"
----
-Dataset bias, ie, the over-reliance on dataset-specific literal heuristics, is getting increasing attention for its detrimental effect on the generalization ability of NLU models. Existing works focus on eliminating dataset bias by down-weighting problematic data in the training process, which induce the omission of valid feature information while mitigating bias. In this work, We analyze the causes of dataset bias from the perspective of causal inference and propose CausalAPM, a generalizable …
-Cites: ‪Learning to model and ignore dataset bias with mixed capacity …‬
+--- 
+layout: post 
+title: "CausalAPM: Generalizable Literal Disentanglement for NLU Debiasing" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "S Gao, S Dou, J Shan, Q Zhang, X Huang - arXiv preprint arXiv:2305.02865, 2023" 
+--- 
+Dataset bias, ie, the over-reliance on dataset-specific literal heuristics, is getting increasing attention for its detrimental effect on the generalization ability of NLU models. Existing works focus on eliminating dataset bias by down-weighting problematic data in the training process, which induce the omission of valid feature information while mitigating bias. In this work, We analyze the causes of dataset bias from the perspective of causal inference and propose CausalAPM, a generalizable  Cites: Learning to model and ignore dataset bias with mixed capacity

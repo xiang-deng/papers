@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Defending against Insertion-based Textual Backdoor Attacks via Attribution"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "J Li, Z Wu, W Ping, C Xiao, VG Vydiswaran - arXiv preprint arXiv:2305.02394, 2023"
----
-Textual backdoor attack, as a novel attack model, has been shown to be effective in adding a backdoor to the model during training. Defending against such backdoor attacks has become urgent and important. In this paper, we propose AttDef, an efficient attribution-based pipeline to defend against two insertion-based poisoning attacks, BadNL and InSent. Specifically, we regard the tokens with larger attribution scores as potential triggers since larger attribution words contribute more to the false …
-Cites: ‪Pre-Training Transformers as Energy-Based Cloze Models‬
+--- 
+layout: post 
+title: "Defending against Insertion-based Textual Backdoor Attacks via Attribution" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "J Li, Z Wu, W Ping, C Xiao, VG Vydiswaran - arXiv preprint arXiv:2305.02394, 2023" 
+--- 
+Textual backdoor attack, as a novel attack model, has been shown to be effective in adding a backdoor to the model during training. Defending against such backdoor attacks has become urgent and important. In this paper, we propose AttDef, an efficient attribution-based pipeline to defend against two insertion-based poisoning attacks, BadNL and InSent. Specifically, we regard the tokens with larger attribution scores as potential triggers since larger attribution words contribute more to the false  Cites: Pre-Training Transformers as Energy-Based Cloze Models

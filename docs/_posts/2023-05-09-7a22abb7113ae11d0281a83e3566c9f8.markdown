@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adaptive Selection of Anchor Items for CUR-based k-NN search with Cross-Encoders"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "N Yadav, N Monath, M Zaheer, A McCallum - arXiv preprint arXiv:2305.02996, 2023"
----
-Cross-encoder models, which jointly encode and score a query-item pair, are typically prohibitively expensive for k-nearest neighbor search. Consequently, k-NN search is performed not with a cross-encoder, but with a heuristic retrieve (eg, using BM25 or dual-encoder) and re-rank approach. Recent work proposes ANNCUR (Yadav et al., 2022) which uses CUR matrix factorization to produce an embedding space for efficient vector-based search that directly approximates the cross-encoder …
-Cites: ‪Sparse, dense, and attentional representations for text retrieval‬
+--- 
+layout: post 
+title: "Adaptive Selection of Anchor Items for CUR-based k-NN search with Cross-Encoders" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "N Yadav, N Monath, M Zaheer, A McCallum - arXiv preprint arXiv:2305.02996, 2023" 
+--- 
+Cross-encoder models, which jointly encode and score a query-item pair, are typically prohibitively expensive for k-nearest neighbor search. Consequently, k-NN search is performed not with a cross-encoder, but with a heuristic retrieve (eg, using BM25 or dual-encoder) and re-rank approach. Recent work proposes ANNCUR (Yadav et al., 2022) which uses CUR matrix factorization to produce an embedding space for efficient vector-based search that directly approximates the cross-encoder  Cites: Sparse, dense, and attentional representations for text retrieval

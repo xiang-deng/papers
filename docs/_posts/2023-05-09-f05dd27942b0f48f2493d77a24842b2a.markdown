@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SAN-T2T: An automated table-to-text generator based on selective attention network"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "H Ding, X Xu - Natural Language Engineering, 2023"
----
-Table-to-text generation aims to generate descriptions for structured data (ie, tables) and has been applied in many fields like question-answering systems and search engines. Current approaches mostly use neural language models to learn alignment between output and input based on the attention mechanisms, which are still flawed by the gradual weakening of attention when processing long texts and the inability to utilize the records  structural information. To solve these problems, we propose a …
-Cites: ‪Data-to-text generation with macro planning‬
+--- 
+layout: post 
+title: "SAN-T2T: An automated table-to-text generator based on selective attention network" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "H Ding, X Xu - Natural Language Engineering, 2023" 
+--- 
+Table-to-text generation aims to generate descriptions for structured data (ie, tables) and has been applied in many fields like question-answering systems and search engines. Current approaches mostly use neural language models to learn alignment between output and input based on the attention mechanisms, which are still flawed by the gradual weakening of attention when processing long texts and the inability to utilize the records structural information. To solve these problems, we propose a  Cites: Data-to-text generation with macro planning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GPT-2 metadata pretraining towards instruction finetuning for Ukrainian"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "V Kyrylov, D Chaplynskyi - Proceedings of the Second Ukrainian Natural …, 2023"
----
-We explore pretraining unidirectional language models on 4B tokens from the largest curated corpus of Ukrainian, UberText 2.0. We enrich document text by surrounding it with weakly structured metadata, such as title, tags, and publication year, enabling metadata-conditioned text generation and text-conditioned metadata prediction at the same time. We pretrain GPT-2 Small, Medium and Large models each on single GPU, reporting training times, BPC on BrUK and BERTScore on titles for 1000 News …
-Cites: ‪8-bit optimizers via block-wise quantization‬
+--- 
+layout: post 
+title: "GPT-2 metadata pretraining towards instruction finetuning for Ukrainian" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "V Kyrylov, D Chaplynskyi - Proceedings of the Second Ukrainian Natural , 2023" 
+--- 
+We explore pretraining unidirectional language models on 4B tokens from the largest curated corpus of Ukrainian, UberText 2.0. We enrich document text by surrounding it with weakly structured metadata, such as title, tags, and publication year, enabling metadata-conditioned text generation and text-conditioned metadata prediction at the same time. We pretrain GPT-2 Small, Medium and Large models each on single GPU, reporting training times, BPC on BrUK and BERTScore on titles for 1000 News  Cites: 8-bit optimizers via block-wise quantization

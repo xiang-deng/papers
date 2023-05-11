@@ -1,9 +1,8 @@
----
-layout: post
-title:  "What changes when you randomly choose BPE merge operations? Not much"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "J Sälevä, C Lignos - arXiv preprint arXiv:2305.03029, 2023"
----
-We introduce three simple randomized variants of byte pair encoding (BPE) and explore whether randomizing the selection of merge operations substantially affects a downstream machine translation task. We focus on translation into morphologically rich languages, hypothesizing that this task may show sensitivity to the method of choosing subwords. Analysis using a Bayesian linear model indicates that two of the variants perform nearly indistinguishably compared to standard BPE while the other …
-Cites: ‪Fast wordpiece tokenization‬
+--- 
+layout: post 
+title: "What changes when you randomly choose BPE merge operations? Not much" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "J Slev, C Lignos - arXiv preprint arXiv:2305.03029, 2023" 
+--- 
+We introduce three simple randomized variants of byte pair encoding (BPE) and explore whether randomizing the selection of merge operations substantially affects a downstream machine translation task. We focus on translation into morphologically rich languages, hypothesizing that this task may show sensitivity to the method of choosing subwords. Analysis using a Bayesian linear model indicates that two of the variants perform nearly indistinguishably compared to standard BPE while the other  Cites: Fast wordpiece tokenization

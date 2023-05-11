@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Adapter Tuning With Task-Aware Attention Mechanism"
-date:   2023-05-09 11:33:00 -0400
-categories: jekyll update
-author: "J Lu, F Jin, J Zhang - ICASSP 2023-2023 IEEE International Conference on …, 2023"
----
-Adapter-tuning inserts simple feed-forward layers (adapters) in pre-trained language models (PLMs) and just tunes the adapters when transferring to downstream tasks, having become the state-of-the-art parameter-efficient tuning (PET) strategy. Although the adapters aim to learn task-related representations, their inputs are still obtained from the task-independent and frozen multi-head attention (MHA) modules, leading to insufficient utilization of contextual information for various downstream …
-Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬
+--- 
+layout: post 
+title: "Adapter Tuning With Task-Aware Attention Mechanism" 
+date: 2023-05-09 11:33:00 -0400 
+categories: jekyll update 
+author: "J Lu, F Jin, J Zhang - ICASSP 2023-2023 IEEE International Conference on , 2023" 
+--- 
+Adapter-tuning inserts simple feed-forward layers (adapters) in pre-trained language models (PLMs) and just tunes the adapters when transferring to downstream tasks, having become the state-of-the-art parameter-efficient tuning (PET) strategy. Although the adapters aim to learn task-related representations, their inputs are still obtained from the task-independent and frozen multi-head attention (MHA) modules, leading to insufficient utilization of contextual information for various downstream  Cites: AdapterFusion: Non-destructive task composition for transfer learning
