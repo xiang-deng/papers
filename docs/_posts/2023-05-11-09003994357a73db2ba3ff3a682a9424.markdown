@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SNT: Sharpness-Minimizing Network Transformation for Fast Compression-friendly Pretraining"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "JH Heo, S Azizi, A Fayyazi, M Nazemi, M Pedram - arXiv preprint arXiv:2305.04526, 2023"
+---
+Model compression has become the de-facto approach for optimizing the efficiency of vision models. Recently, the focus of most compression efforts has shifted to post-training scenarios due to the very high cost of large-scale pretraining. This has created the need to build compressible models from scratch, which can effectively be compressed after training. In this work, we present a sharpness-minimizing network transformation (SNT) method applied during pretraining that can create models with …
+Cites: ‪Llm. int8 (): 8-bit matrix multiplication for transformers at scale‬

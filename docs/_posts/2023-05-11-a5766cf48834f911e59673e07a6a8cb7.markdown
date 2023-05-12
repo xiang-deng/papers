@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "Z Tang, P Wang, K Zhou, J Li, Z Cao, M Zhang - arXiv preprint arXiv:2305.04465, 2023"
+---
+Diffusion models have been successfully adapted to text generation tasks by mapping the discrete text into the continuous space. However, there exist nonnegligible gaps between training and inference, owing to the absence of the forward process during inference. Thus, the model only predicts based on the previously generated reverse noise rather than the noise computed by the forward process. Besides, the widely-used downsampling strategy in speeding up the …
+Cites: ‪Diffusion-lm improves controllable text generation‬

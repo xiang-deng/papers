@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "From Parse-Execute to Parse-Execute-Refine: Improving Semantic Parser for Complex Question Answering over Knowledge Base"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "W Guo, L Luo, H Lai, J Yin - arXiv preprint arXiv:2305.03356, 2023"
+---
+Parsing questions into executable logical forms has showed impressive results for knowledge-base question answering (KBQA). However, complex KBQA is a more challenging task that requires to perform complex multi-step reasoning. Recently, a new semantic parser called KoPL has been proposed to explicitly model the reasoning processes, which achieved the state-of-the-art on complex KBQA. In this paper, we further explore how to unlock the reasoning ability of semantic parsers by …
+Cites: ‪The web as a knowledge-base for answering complex questions‬

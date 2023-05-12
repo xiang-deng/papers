@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Language Models Don t Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "M Turpin, J Michael, E Perez, SR Bowman - arXiv preprint arXiv:2305.04388, 2023"
+---
+Large Language Models (LLMs) can achieve strong performance on many tasks by producing step-by-step reasoning before giving a final output, often referred to as chain-of-thought reasoning (CoT). It is tempting to interpret these CoT explanations as the LLM s process for solving a task. However, we find that CoT explanations can systematically misrepresent the true reason for a model s prediction. We demonstrate that CoT explanations can be heavily influenced by adding biasing features to model …
+Cites: ‪Beyond the imitation game: Quantifying and extrapolating the …‬

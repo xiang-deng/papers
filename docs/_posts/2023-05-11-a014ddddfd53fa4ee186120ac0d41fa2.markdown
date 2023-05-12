@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ToolCoder: Teach Code Generation Models to use APIs with search tools"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "K Zhang, G Li, J Li, Z Li, Z Jin - arXiv preprint arXiv:2305.04032, 2023"
+---
+Automatically generating source code from natural language descriptions has been a growing field of research in recent years. However, current large-scale code generation models often encounter difficulties when selecting appropriate APIs for specific contexts. These models may generate APIs that do not meet requirements or refer to non-existent APIs in third-party libraries, especially for lesser-known or private libraries. Inspired by the process of human developers using tools to search …
+Cites: ‪Dawn Drain‬

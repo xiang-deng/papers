@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On Bounding the Behavior of a Neuron"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "R Borowski, A Choi - The International FLAIRS Conference Proceedings, 2023"
+---
+A neuron with binary inputs and a binary output represents a Boolean function. Our goal is to extract this Boolean function into a tractable representation that will facilitate the explanation and formal verification of a neuron s behavior. Unfortunately, extracting a neuron s Boolean function is in general an NP-hard problem. However, it was recently shown that prime implicants of this Boolean function can be enumerated efficiently, with only polynomial time delay. Building on …
+Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬

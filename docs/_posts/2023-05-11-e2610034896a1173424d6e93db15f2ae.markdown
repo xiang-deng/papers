@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "M Weyssow, X Zhou, K Kim, D Lo, H Sahraoui - arXiv preprint arXiv:2305.04106, 2023"
+---
+Pre-trained language models (PLMs) have become a prevalent technique in deep learning for code, utilizing a two-stage pre-training and fine-tuning procedure to acquire general knowledge about code and specialize in a variety of downstream tasks. However, the dynamic nature of software codebases poses a challenge to the effectiveness and robustness of PLMs. In particular, world-realistic scenarios potentially lead to significant differences between the distribution of the pre-training …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

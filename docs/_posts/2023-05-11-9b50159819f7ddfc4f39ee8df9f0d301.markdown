@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias"
+date:   2023-05-11 03:26:59 -0400
+categories: jekyll update
+author: "Z Zhang, D Chen, H Zhou, F Meng, J Zhou, X Sun - arXiv preprint arXiv:2305.04547, 2023"
+---
+Pre-trained Language Models (PLMs) may be poisonous with backdoors or bias injected by the suspicious attacker during the fine-tuning process. A core challenge of purifying potentially poisonous PLMs is precisely finding poisonous dimensions. To settle this issue, we propose the Fine-purifying approach, which utilizes the diffusion theory to study the dynamic process of fine-tuning for finding potentially poisonous dimensions. According to the relationship between parameter drifts and …
+Cites: ‪Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic …‬
