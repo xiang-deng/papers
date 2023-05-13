@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unified Prompt Learning Makes Pre-Trained Language Models Better Few-Shot Learners"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "F Jin, J Lu, J Zhang - ICASSP 2023-2023 IEEE International Conference on …, 2023"
----
-Language prompting induces the model to produce a textual output during the training phase, which achieves remarkable performance in few-shot learning scenarios. However, current prompt-based methods either use the same task-specific prompts for each instance, losing the particularity of instance-dependent information, or generate an instance-dependent prompt for each instance, lacking shared information about the task. In this paper, we propose an efficient few-shot …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "Unified Prompt Learning Makes Pre-Trained Language Models Better Few-Shot Learners" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "F Jin, J Lu, J Zhang - ICASSP 2023-2023 IEEE International Conference on , 2023" 
+--- 
+Language prompting induces the model to produce a textual output during the training phase, which achieves remarkable performance in few-shot learning scenarios. However, current prompt-based methods either use the same task-specific prompts for each instance, losing the particularity of instance-dependent information, or generate an instance-dependent prompt for each instance, lacking shared information about the task. In this paper, we propose an efficient few-shot  Cites: Making Pre-trained Language Models Better Few-shot Learners

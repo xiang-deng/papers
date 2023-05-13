@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SkillQG: Learning to Generate Question for Reading Comprehension Assessment"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "X Wang, B Liu, S Tang, L Wu - arXiv preprint arXiv:2305.04737, 2023"
----
-We present $\textbf {$\texttt {SkillQG} $} $: a question generation framework with controllable comprehension types for assessing and improving machine reading comprehension models. Existing question generation systems widely differentiate questions by $\textit {literal} $ information such as question words and answer types to generate semantically relevant questions for a given context. However, they rarely consider the $\textit {comprehension} $ nature of questions, ie the different …
-Cites: ‪The web as a knowledge-base for answering complex questions‬
+--- 
+layout: post 
+title: "SkillQG: Learning to Generate Question for Reading Comprehension Assessment" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "X Wang, B Liu, S Tang, L Wu - arXiv preprint arXiv:2305.04737, 2023" 
+--- 
+We present $\textbf {$\texttt {SkillQG} $} $: a question generation framework with controllable comprehension types for assessing and improving machine reading comprehension models. Existing question generation systems widely differentiate questions by $\textit {literal} $ information such as question words and answer types to generate semantically relevant questions for a given context. However, they rarely consider the $\textit {comprehension} $ nature of questions, ie the different  Cites: The web as a knowledge-base for answering complex questions

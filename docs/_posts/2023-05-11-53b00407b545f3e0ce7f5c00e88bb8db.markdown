@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HistAlign: Improving Context Dependency in Language Generation by Aligning with History"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "D Wan, S Zhang, M Bansal - arXiv preprint arXiv:2305.04782, 2023"
----
-Language models (LMs) can generate hallucinations and incoherent outputs, which highlights their weak context dependency. Cache-LMs, which augment LMs with a memory of recent history, can increase context dependency and have shown remarkable performance in diverse language generation tasks. However, we find that even with training, the performance gain stemming from the cache component of current cache-LMs is suboptimal due to the misalignment between the current …
-Cites: ‪Improving faithfulness in abstractive summarization with contrast …‬
+--- 
+layout: post 
+title: "HistAlign: Improving Context Dependency in Language Generation by Aligning with History" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "D Wan, S Zhang, M Bansal - arXiv preprint arXiv:2305.04782, 2023" 
+--- 
+Language models (LMs) can generate hallucinations and incoherent outputs, which highlights their weak context dependency. Cache-LMs, which augment LMs with a memory of recent history, can increase context dependency and have shown remarkable performance in diverse language generation tasks. However, we find that even with training, the performance gain stemming from the cache component of current cache-LMs is suboptimal due to the misalignment between the current  Cites: Improving faithfulness in abstractive summarization with contrast

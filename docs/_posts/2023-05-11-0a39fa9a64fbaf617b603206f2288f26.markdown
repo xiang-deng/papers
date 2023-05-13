@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Demystifying Softmax Gating in Gaussian Mixture of Experts"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "H Nguyen, TT Nguyen, N Ho - arXiv preprint arXiv:2305.03288, 2023"
----
-Understanding parameter estimation of softmax gating Gaussian mixture of experts has remained a long-standing open problem in the literature. It is mainly due to three fundamental theoretical challenges associated with the softmax gating:(i) the identifiability only up to the translation of the parameters;(ii) the intrinsic interaction via partial differential equation between the softmax gating and the expert functions in Gaussian distribution;(iii) the complex dependence between the numerator and …
-Cites: ‪Glam: Efficient scaling of language models with mixture-of-experts‬
+--- 
+layout: post 
+title: "Demystifying Softmax Gating in Gaussian Mixture of Experts" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "H Nguyen, TT Nguyen, N Ho - arXiv preprint arXiv:2305.03288, 2023" 
+--- 
+Understanding parameter estimation of softmax gating Gaussian mixture of experts has remained a long-standing open problem in the literature. It is mainly due to three fundamental theoretical challenges associated with the softmax gating:(i) the identifiability only up to the translation of the parameters;(ii) the intrinsic interaction via partial differential equation between the softmax gating and the expert functions in Gaussian distribution;(iii) the complex dependence between the numerator and  Cites: Glam: Efficient scaling of language models with mixture-of-experts

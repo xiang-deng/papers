@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evading Watermark based Detection of AI-Generated Content"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "Z Jiang, J Zhang, NZ Gong - arXiv preprint arXiv:2305.03807, 2023"
----
-A generative AI model--such as DALL-E, Stable Diffusion, and ChatGPT--can generate extremely realistic-looking content, posing growing challenges to the authenticity of information. To address the challenges, watermark has been leveraged to detect AI-generated content. Specifically, a watermark is embedded into an AI-generated content before it is released. A content is detected as AI-generated if a similar watermark can be decoded from it. In this work, we perform a systematic …
-Cites: ‪DetectGPT: Zero-shot machine-generated text detection using …‬
+--- 
+layout: post 
+title: "Evading Watermark based Detection of AI-Generated Content" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "Z Jiang, J Zhang, NZ Gong - arXiv preprint arXiv:2305.03807, 2023" 
+--- 
+A generative AI model--such as DALL-E, Stable Diffusion, and ChatGPT--can generate extremely realistic-looking content, posing growing challenges to the authenticity of information. To address the challenges, watermark has been leveraged to detect AI-generated content. Specifically, a watermark is embedded into an AI-generated content before it is released. A content is detected as AI-generated if a similar watermark can be decoded from it. In this work, we perform a systematic  Cites: DetectGPT: Zero-shot machine-generated text detection using

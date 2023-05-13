@@ -1,9 +1,0 @@
----
-layout: post
-title:  "SRTK: A Toolkit for Semantic-relevant Subgraph Retrieval"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "Y Shen - arXiv preprint arXiv:2305.04101, 2023"
----
-Semantic analysis based on knowledge graphs requires a relevant subgraph of a reasonable size. Existing approaches have three issues that impede the integration of such subgraphs. First, there is no off-the-shelf framework for semantic-relevant subgraph retrieval. Second, existing approaches are knowledge-graph-dependent, resulting in outdated knowledge graphs even in recent studies. Third, existing approaches are flawed either in entity linking or path expansion, which often results …
-Cites: ‪Deep Bidirectional Language-Knowledge Graph Pretraining‬

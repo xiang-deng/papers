@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Laziness Is a Virtue When It Comes to Compositionality in Neural Semantic Parsing"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "M Crouse, P Kapanipathi, S Chaudhury, T Naseem… - arXiv preprint arXiv …, 2023"
----
-Nearly all general-purpose neural semantic parsers generate logical forms in a strictly top-down autoregressive fashion. Though such systems have achieved impressive results across a variety of datasets and domains, recent works have called into question whether they are ultimately limited in their ability to compositionally generalize. In this work, we approach semantic parsing from, quite literally, the opposite direction; that is, we introduce a neural semantic parsing …
-Cites: ‪Unlocking compositional generalization in pre-trained models …‬
+--- 
+layout: post 
+title: "Laziness Is a Virtue When It Comes to Compositionality in Neural Semantic Parsing" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "M Crouse, P Kapanipathi, S Chaudhury, T Naseem - arXiv preprint arXiv , 2023" 
+--- 
+Nearly all general-purpose neural semantic parsers generate logical forms in a strictly top-down autoregressive fashion. Though such systems have achieved impressive results across a variety of datasets and domains, recent works have called into question whether they are ultimately limited in their ability to compositionally generalize. In this work, we approach semantic parsing from, quite literally, the opposite direction; that is, we introduce a neural semantic parsing  Cites: Unlocking compositional generalization in pre-trained models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Frustratingly Easy Improvement for Position Embeddings via Random Padding"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "M Tao, Y Feng, D Zhao - arXiv preprint arXiv:2305.04859, 2023"
----
-Position embeddings, encoding the positional relationships among tokens in text sequences, make great contributions to modeling local context features in Transformer-based pre-trained language models. However, in Extractive Question Answering, position embeddings trained with instances of varied context lengths may not perform well as we expect. Since the embeddings of rear positions are updated fewer times than the front position embeddings, the rear ones may not be properly …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬
+--- 
+layout: post 
+title: "A Frustratingly Easy Improvement for Position Embeddings via Random Padding" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "M Tao, Y Feng, D Zhao - arXiv preprint arXiv:2305.04859, 2023" 
+--- 
+Position embeddings, encoding the positional relationships among tokens in text sequences, make great contributions to modeling local context features in Transformer-based pre-trained language models. However, in Extractive Question Answering, position embeddings trained with instances of varied context lengths may not perform well as we expect. Since the embeddings of rear positions are updated fewer times than the front position embeddings, the rear ones may not be properly  Cites: MRQA 2019 Shared Task: Evaluating Generalization in Reading

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How Do In-Context Examples Affect Compositional Generalization?"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "S An, Z Lin, Q Fu, B Chen, N Zheng, JG Lou, D Zhang - arXiv preprint arXiv …, 2023"
----
-Compositional generalization--understanding unseen combinations of seen primitives--is an essential reasoning capability in human intelligence. The AI community mainly studies this capability by fine-tuning neural networks on lots of training samples, while it is still unclear whether and how in-context learning--the prevailing few-shot paradigm based on large language models--exhibits compositional generalization. In this paper, we present CoFe, a test suite to …
-Cites: ‪Evaluating the impact of model scale for compositional …‬
+--- 
+layout: post 
+title: "How Do In-Context Examples Affect Compositional Generalization?" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "S An, Z Lin, Q Fu, B Chen, N Zheng, JG Lou, D Zhang - arXiv preprint arXiv , 2023" 
+--- 
+Compositional generalization--understanding unseen combinations of seen primitives--is an essential reasoning capability in human intelligence. The AI community mainly studies this capability by fine-tuning neural networks on lots of training samples, while it is still unclear whether and how in-context learning--the prevailing few-shot paradigm based on large language models--exhibits compositional generalization. In this paper, we present CoFe, a test suite to  Cites: Evaluating the impact of model scale for compositional

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-View Graph Representation Learning for Answering Hybrid Numerical Reasoning Question"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "Y Wei, F Lei, Y Zhang, J Zhao, K Liu - arXiv preprint arXiv:2305.03458, 2023"
----
-Hybrid question answering (HybridQA) over the financial report contains both textual and tabular data, and requires the model to select the appropriate evidence for the numerical reasoning task. Existing methods based on encoder-decoder framework employ a expression tree-based decoder to solve numerical reasoning problems. However, encoders rely more on Machine Reading Comprehension (MRC) methods, which take table serialization and text splicing as input, damaging the granularity …
-Cites: ‪The web as a knowledge-base for answering complex questions‬
+--- 
+layout: post 
+title: "Multi-View Graph Representation Learning for Answering Hybrid Numerical Reasoning Question" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "Y Wei, F Lei, Y Zhang, J Zhao, K Liu - arXiv preprint arXiv:2305.03458, 2023" 
+--- 
+Hybrid question answering (HybridQA) over the financial report contains both textual and tabular data, and requires the model to select the appropriate evidence for the numerical reasoning task. Existing methods based on encoder-decoder framework employ a expression tree-based decoder to solve numerical reasoning problems. However, encoders rely more on Machine Reading Comprehension (MRC) methods, which take table serialization and text splicing as input, damaging the granularity  Cites: The web as a knowledge-base for answering complex questions

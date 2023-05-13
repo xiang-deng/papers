@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "Z Zeng, C Hawkins, M Hong, A Zhang, N Pappas… - arXiv preprint arXiv …, 2023"
----
-Transformer models are foundational to natural language processing (NLP) and computer vision. Despite various recent works devoted to reducing the quadratic cost of such models (as a function of the sequence length $ n $), dealing with ultra long sequences efficiently (eg, with more than 16K tokens) remains challenging. Applications such as answering questions based on an entire book or summarizing a scientific article are inefficient or infeasible. In this paper, we propose to significantly …
-Cites: ‪A dataset of information-seeking questions and answers anchored …‬
+--- 
+layout: post 
+title: "Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "Z Zeng, C Hawkins, M Hong, A Zhang, N Pappas - arXiv preprint arXiv , 2023" 
+--- 
+Transformer models are foundational to natural language processing (NLP) and computer vision. Despite various recent works devoted to reducing the quadratic cost of such models (as a function of the sequence length $ n $), dealing with ultra long sequences efficiently (eg, with more than 16K tokens) remains challenging. Applications such as answering questions based on an entire book or summarizing a scientific article are inefficient or infeasible. In this paper, we propose to significantly  Cites: A dataset of information-seeking questions and answers anchored

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Retriever and Ranker Framework with Probabilistic Hard Negative Sampling for Code Search"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "H Dong, J Lin, Y Leng, J Chen, Y Xie - arXiv preprint arXiv:2305.04508, 2023"
----
-Pretrained Language Models (PLMs) have emerged as the state-of-the-art paradigm for code search tasks. The paradigm involves pretraining the model on search-irrelevant tasks such as masked language modeling, followed by the finetuning stage, which focuses on the search-relevant task. The typical finetuning method is to employ a dual-encoder architecture to encode semantic embeddings of query and code separately, and then calculate their similarity based on the embeddings …
-Cites: ‪Cosqa: 20,000+ web queries for code search and question …‬
+--- 
+layout: post 
+title: "Retriever and Ranker Framework with Probabilistic Hard Negative Sampling for Code Search" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "H Dong, J Lin, Y Leng, J Chen, Y Xie - arXiv preprint arXiv:2305.04508, 2023" 
+--- 
+Pretrained Language Models (PLMs) have emerged as the state-of-the-art paradigm for code search tasks. The paradigm involves pretraining the model on search-irrelevant tasks such as masked language modeling, followed by the finetuning stage, which focuses on the search-relevant task. The typical finetuning method is to employ a dual-encoder architecture to encode semantic embeddings of query and code separately, and then calculate their similarity based on the embeddings  Cites: Cosqa: 20,000+ web queries for code search and question

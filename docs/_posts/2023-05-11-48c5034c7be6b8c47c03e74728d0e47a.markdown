@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prompted LLMs as Chatbot Modules for Long Open-domain Conversation"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "G Lee, V Hartmann, J Park, D Papailiopoulos, K Lee - arXiv preprint arXiv …, 2023"
----
-In this paper, we propose MPC (Modular Prompted Chatbot), a new approach for creating high-quality conversational agents without the need for fine-tuning. Our method utilizes pre-trained large language models (LLMs) as individual modules for long-term consistency and flexibility, by using techniques such as few-shot prompting, chain-of-thought (CoT), and external memory. Our human evaluation results show that MPC is on par with fine-tuned chatbot models in open-domain …
-Cites: ‪Demonstrate-Search-Predict: Composing retrieval and language …‬
+--- 
+layout: post 
+title: "Prompted LLMs as Chatbot Modules for Long Open-domain Conversation" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "G Lee, V Hartmann, J Park, D Papailiopoulos, K Lee - arXiv preprint arXiv , 2023" 
+--- 
+In this paper, we propose MPC (Modular Prompted Chatbot), a new approach for creating high-quality conversational agents without the need for fine-tuning. Our method utilizes pre-trained large language models (LLMs) as individual modules for long-term consistency and flexibility, by using techniques such as few-shot prompting, chain-of-thought (CoT), and external memory. Our human evaluation results show that MPC is on par with fine-tuned chatbot models in open-domain  Cites: Demonstrate-Search-Predict: Composing retrieval and language

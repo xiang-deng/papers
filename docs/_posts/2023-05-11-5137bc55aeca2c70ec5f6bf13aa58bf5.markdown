@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Maintaining Stability and Plasticity for Predictive Churn Reduction"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "G Adam, B Haibe-Kains, A Goldenberg - arXiv preprint arXiv:2305.04135, 2023"
----
-Deployed machine learning models should be updated to take advantage of a larger sample size to improve performance, as more data is gathered over time. Unfortunately, even when model updates improve aggregate metrics such as accuracy, they can lead to errors on samples that were correctly predicted by the previous model causing per-sample regression in performance known as predictive churn. Such prediction flips erode user trust thereby reducing the effectiveness of the …
-Cites: ‪Does the whole exceed its parts? the effect of ai explanations on …‬
+--- 
+layout: post 
+title: "Maintaining Stability and Plasticity for Predictive Churn Reduction" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "G Adam, B Haibe-Kains, A Goldenberg - arXiv preprint arXiv:2305.04135, 2023" 
+--- 
+Deployed machine learning models should be updated to take advantage of a larger sample size to improve performance, as more data is gathered over time. Unfortunately, even when model updates improve aggregate metrics such as accuracy, they can lead to errors on samples that were correctly predicted by the previous model causing per-sample regression in performance known as predictive churn. Such prediction flips erode user trust thereby reducing the effectiveness of the  Cites: Does the whole exceed its parts? the effect of ai explanations on

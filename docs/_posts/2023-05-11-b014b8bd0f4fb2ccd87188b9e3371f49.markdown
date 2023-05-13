@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to Build Reasoning Chains by Reliable Path Retrieval"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "M Zhu, Y Weng, S He, C Wang, K Liu, L Cai, J Zhao - ICASSP 2023-2023 IEEE …, 2023"
----
-Question answering (QA) systems have long pursued the ability to reason over explicit knowledge credibly. Recent work has incorporated knowledge into fine-grained sentences and constructed natural language database (NLDB) task, and conducts complex QA with explicit reasoning chains. Existing models focus on retrieving evidence by combining multiple modules or discretely. However, these models ignore utilizing path information (eg sentence order), which is proven to be …
-Cites: ‪Jingfei Du, Patrick Lewis, William Yang Wang, Yashar Mehdad …‬
+--- 
+layout: post 
+title: "Learning to Build Reasoning Chains by Reliable Path Retrieval" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "M Zhu, Y Weng, S He, C Wang, K Liu, L Cai, J Zhao - ICASSP 2023-2023 IEEE , 2023" 
+--- 
+Question answering (QA) systems have long pursued the ability to reason over explicit knowledge credibly. Recent work has incorporated knowledge into fine-grained sentences and constructed natural language database (NLDB) task, and conducts complex QA with explicit reasoning chains. Existing models focus on retrieving evidence by combining multiple modules or discretely. However, these models ignore utilizing path information (eg sentence order), which is proven to be  Cites: Jingfei Du, Patrick Lewis, William Yang Wang, Yashar Mehdad

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Uncertainty-Aware Bootstrap Learning for Joint Extraction on Distantly-Supervised Data"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "Y Li, X Yu, Y Liu, H Chen, C Liu - arXiv preprint arXiv:2305.03827, 2023"
----
-Jointly extracting entity pairs and their relations is challenging when working on distantly-supervised data with ambiguous or noisy labels. To mitigate such impact, we propose uncertainty-aware bootstrap learning, which is motivated by the intuition that the higher uncertainty of an instance, the more likely the model confidence is inconsistent with the ground truths. Specifically, we first explore instance-level data uncertainty to create an initial high-confident examples. Such subset serves as …
-Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬
+--- 
+layout: post 
+title: "Uncertainty-Aware Bootstrap Learning for Joint Extraction on Distantly-Supervised Data" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "Y Li, X Yu, Y Liu, H Chen, C Liu - arXiv preprint arXiv:2305.03827, 2023" 
+--- 
+Jointly extracting entity pairs and their relations is challenging when working on distantly-supervised data with ambiguous or noisy labels. To mitigate such impact, we propose uncertainty-aware bootstrap learning, which is motivated by the intuition that the higher uncertainty of an instance, the more likely the model confidence is inconsistent with the ground truths. Specifically, we first explore instance-level data uncertainty to create an initial high-confident examples. Such subset serves as  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

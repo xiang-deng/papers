@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Shall We Trust All Relational Tuples by Open Information Extraction? A Study on Speculation Detection"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "K Dong, A Sun, JJ Kim, X Li - arXiv preprint arXiv:2305.04181, 2023"
----
-Open Information Extraction (OIE) aims to extract factual relational tuples from open-domain sentences. Downstream tasks use the extracted OIE tuples as facts, without examining the certainty of these facts. However, uncertainty/speculation is a common linguistic phenomenon. Existing studies on speculation detection are defined at sentence level, but even if a sentence is determined to be speculative, not all tuples extracted from it may be speculative. In this paper, we propose to study speculations …
-Cites: ‪Textrunner: open information extraction on the web‬
+--- 
+layout: post 
+title: "Shall We Trust All Relational Tuples by Open Information Extraction? A Study on Speculation Detection" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "K Dong, A Sun, JJ Kim, X Li - arXiv preprint arXiv:2305.04181, 2023" 
+--- 
+Open Information Extraction (OIE) aims to extract factual relational tuples from open-domain sentences. Downstream tasks use the extracted OIE tuples as facts, without examining the certainty of these facts. However, uncertainty/speculation is a common linguistic phenomenon. Existing studies on speculation detection are defined at sentence level, but even if a sentence is determined to be speculative, not all tuples extracted from it may be speculative. In this paper, we propose to study speculations  Cites: Textrunner: open information extraction on the web

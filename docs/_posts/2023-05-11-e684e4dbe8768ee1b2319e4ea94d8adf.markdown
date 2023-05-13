@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Combining Computer Vision and Word Processing to Classify Film Genres"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "N Andriyanov, V Dementev - 2023 25th International Conference on Digital Signal …, 2023"
----
-The paper investigates various deep learning approaches for classifying movies by genre. To prepare the initial dataset, a system for parsing textual information and images from the Internet Movie Database, IMDB (https://www. imdb. com/) was implemented. Pandas (Python library) methods were applied to generate the dataset. Particular attention was paid to the preparation of target information and the choice of the learning loss function due to the fact that the problem was reduced to a multi …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Combining Computer Vision and Word Processing to Classify Film Genres" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "N Andriyanov, V Dementev - 2023 25th International Conference on Digital Signal , 2023" 
+--- 
+The paper investigates various deep learning approaches for classifying movies by genre. To prepare the initial dataset, a system for parsing textual information and images from the Internet Movie Database, IMDB (https://www. imdb. com/) was implemented. Pandas (Python library) methods were applied to generate the dataset. Particular attention was paid to the preparation of target information and the choice of the learning loss function due to the fact that the problem was reduced to a multi  Cites: Bert: Pre-training of deep bidirectional transformers for language

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross-domain Augmentation Networks for Click-Through Rate Prediction"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "X Chen, Z Cheng, S Xiao, X Zeng, W Huang - arXiv preprint arXiv:2305.03953, 2023"
----
-Data sparsity is an important issue for click-through rate (CTR) prediction, particularly when user-item interactions is too sparse to learn a reliable model. Recently, many works on cross-domain CTR (CDCTR) prediction have been developed in an effort to leverage meaningful data from a related domain. However, most existing CDCTR works have an impractical limitation that requires homogeneous inputs (\textit {ie} shared feature fields) across domains, and CDCTR with heterogeneous inputs (\textit …
-Cites: ‪LST: Ladder Side-Tuning for Parameter and Memory Efficient …‬
+--- 
+layout: post 
+title: "Cross-domain Augmentation Networks for Click-Through Rate Prediction" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "X Chen, Z Cheng, S Xiao, X Zeng, W Huang - arXiv preprint arXiv:2305.03953, 2023" 
+--- 
+Data sparsity is an important issue for click-through rate (CTR) prediction, particularly when user-item interactions is too sparse to learn a reliable model. Recently, many works on cross-domain CTR (CDCTR) prediction have been developed in an effort to leverage meaningful data from a related domain. However, most existing CDCTR works have an impractical limitation that requires homogeneous inputs (\textit {ie} shared feature fields) across domains, and CDCTR with heterogeneous inputs (\textit  Cites: LST: Ladder Side-Tuning for Parameter and Memory Efficient

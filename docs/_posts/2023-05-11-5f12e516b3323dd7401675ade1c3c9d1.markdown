@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Picking the Underused Heads: A Network Pruning Perspective of Attention Head Selection for Fusing Dialogue Coreference Information"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "Z Liu, NF Chen - ICASSP 2023-2023 IEEE International Conference on …, 2023"
----
-The Transformer-based models with the multi-head self-attention mechanism are widely used in natural language processing, and provide state-of-the-art results. While the pre-trained language backbones are shown to implicitly capture certain linguistic knowledge, explicitly incorporating structure-aware features can bring about further improvement on the downstream tasks. However, such enhancement often requires additional neural components and increases training parameter size …
-Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬
+--- 
+layout: post 
+title: "Picking the Underused Heads: A Network Pruning Perspective of Attention Head Selection for Fusing Dialogue Coreference Information" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "Z Liu, NF Chen - ICASSP 2023-2023 IEEE International Conference on , 2023" 
+--- 
+The Transformer-based models with the multi-head self-attention mechanism are widely used in natural language processing, and provide state-of-the-art results. While the pre-trained language backbones are shown to implicitly capture certain linguistic knowledge, explicitly incorporating structure-aware features can bring about further improvement on the downstream tasks. However, such enhancement often requires additional neural components and increases training parameter size  Cites: Discourse-Aware Neural Extractive Text Summarization

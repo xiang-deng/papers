@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AttentionViz: A Global View of Transformer Attention"
-date:   2023-05-11 03:26:59 -0400
-categories: jekyll update
-author: "C Yeh, Y Chen, A Wu, C Chen, F Viégas, M Wattenberg - arXiv preprint arXiv …, 2023"
----
-Transformer models are revolutionizing machine learning, but their inner workings remain mysterious. In this work, we present a new visualization technique designed to help researchers understand the self-attention mechanism in transformers that allows these models to learn rich, contextual relationships between elements of a sequence. The main idea behind our method is to visualize a joint embedding of the query and key vectors used by transformer models to compute attention. Unlike …
-Cites: ‪Emergent abilities of large language models‬
+--- 
+layout: post 
+title: "AttentionViz: A Global View of Transformer Attention" 
+date: 2023-05-11 03:26:59 -0400 
+categories: jekyll update 
+author: "C Yeh, Y Chen, A Wu, C Chen, F Vigas, M Wattenberg - arXiv preprint arXiv , 2023" 
+--- 
+Transformer models are revolutionizing machine learning, but their inner workings remain mysterious. In this work, we present a new visualization technique designed to help researchers understand the self-attention mechanism in transformers that allows these models to learn rich, contextual relationships between elements of a sequence. The main idea behind our method is to visualize a joint embedding of the query and key vectors used by transformer models to compute attention. Unlike  Cites: Emergent abilities of large language models
