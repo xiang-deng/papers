@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A New Method for Extractive Text Summarization Using Neural Networks"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "SR Chowdhury, K Sarkar - SN Computer Science, 2023"
+---
+Summarization aims at extracting the salient information from a document and presenting the extracted information in a condensed form. Most existing methods for extractive text summarization generate a summary from a document using a two-stage process. In the first stage, the sentences are ranked based on their saliency scores and, in the second stage, the summary generation process starts with the top-ranked sentence and selects the next sentences one by one from the ranked list. To …
+Cites: ‪Neural summarization by extracting sentences and words‬

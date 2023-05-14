@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The EarlyBIRD Catches the Bug: On Exploiting Early Layers of Encoder Models for More Efficient Code Classification"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "A Grishina, M Hort, L Moonen - arXiv preprint arXiv:2305.04940, 2023"
+---
+The use of modern Natural Language Processing (NLP) techniques has shown to be beneficial for software engineering tasks, such as vulnerability detection and type inference. However, training deep NLP models requires significant computational resources. This paper explores techniques that aim at achieving the best usage of resources and available information in these models. We propose a generic approach, EarlyBIRD, to build composite representations of code from the early …
+Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Context-Aware Document Simplification"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "L Cripwell, J Legrand, C Gardent - arXiv preprint arXiv:2305.06274, 2023"
+---
+To date, most work on text simplification has focused on sentence-level inputs. Early attempts at document simplification merely applied these approaches iteratively over the sentences of a document. However, this fails to coherently preserve the discourse structure, leading to suboptimal output quality. Recently, strategies from controllable simplification have been leveraged to achieve state-of-the-art results on document simplification by first generating a document-level plan (a sequence of …
+Cites: ‪Conditional generation with a question-answering blueprint‬

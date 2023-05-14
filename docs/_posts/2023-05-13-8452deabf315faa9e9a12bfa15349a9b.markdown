@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Conversational Semantic Parsing using Dynamic Context Graphs"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "P Jain, M Lapata - arXiv preprint arXiv:2305.06164, 2023"
+---
+In this paper we consider the task of conversational semantic parsing over general purpose knowledge graphs (KGs) with millions of entities, and thousands of relation-types. We are interested in developing models capable of interactively mapping user utterances into executable logical forms (eg, SPARQL) in the context of the conversational history. Our key idea is to represent information about an utterance and its context via a subgraph which is created dynamically, ie, the number of nodes …
+Cites: ‪Global Reasoning over Database Structures for Text-to-SQL Parsing‬

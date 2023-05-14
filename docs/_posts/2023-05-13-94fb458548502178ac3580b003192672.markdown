@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Survey of Deep Code Search"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "Y Xie, J Lin, H Dong, L Zhang, Z Wu - arXiv preprint arXiv:2305.05959, 2023"
+---
+Code writing is repetitive and predictable, inspiring us to develop various code intelligence techniques. This survey focuses on code search, that is, to retrieve code that matches a given query by effectively capturing the semantic similarity between the query and code. Deep learning, being able to extract complex semantics information, has achieved great success in this field. Recently, various deep learning methods, such as graph neural networks and pretraining models, have been applied …
+Cites: ‪Learning to mine aligned code and natural language pairs from …‬

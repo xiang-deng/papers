@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "StrAE: Autoencoding for Pre-Trained Embeddings using Explicit Structure"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "M Opper, V Prokhorov, N Siddharth - arXiv preprint arXiv:2305.05588, 2023"
+---
+This work explores the utility of explicit structure for representation learning in NLP by developing StrAE--an autoencoding framework that faithfully leverages sentence structure to learn multi-level node embeddings in an unsupervised fashion. We use StrAE to train models across different types of sentential structure and objectives, including a novel contrastive loss over structure, and evaluate the learnt embeddings on a series of both intrinsic and extrinsic tasks. Our experiments indicate that …
+Cites: ‪Unsupervised parsing with S-DIORA: Single tree encoding for …‬

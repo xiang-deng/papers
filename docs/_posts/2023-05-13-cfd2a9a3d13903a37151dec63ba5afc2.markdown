@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "H Zhanga, C Tang, T Loakmana, C Lina, S Goetze - arXiv preprint arXiv:2305.06294, 2023"
+---
+Commonsense knowledge is crucial to many natural language processing tasks. Existing works usually incorporate graph knowledge with conventional graph neural networks (GNNs), leading to the text and graph knowledge encoding processes being separated in a serial pipeline. We argue that these separate representation learning stages may be suboptimal for neural networks to learn the overall context contained in both types of input knowledge. In this paper, we propose a novel context …
+Cites: ‪Grounded conversation generation as guided traverses in …‬

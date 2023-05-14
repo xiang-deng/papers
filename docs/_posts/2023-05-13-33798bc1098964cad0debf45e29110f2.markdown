@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RNNS: Representation Nearest Neighbor Search Black-Box Attack on Code Models"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "J Zhang, W Ma, Q Hu, X Xie, YL Traon, Y Liu - arXiv preprint arXiv:2305.05896, 2023"
+---
+Pre-trained code models are mainly evaluated using the in-distribution test data. The robustness of models, ie, the ability to handle hard unseen data, still lacks evaluation. In this paper, we propose a novel search-based black-box adversarial attack guided by model behaviours for pre-trained programming language models, named Representation Nearest Neighbor Search (RNNS), to evaluate the robustness of Pre-trained PL models. Unlike other black-box adversarial attacks …
+Cites: ‪Semantically Equivalent Adversarial Rules for Debugging NLP …‬

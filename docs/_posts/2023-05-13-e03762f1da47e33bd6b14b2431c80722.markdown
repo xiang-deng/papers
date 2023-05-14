@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "What is the best recipe for character-level encoder-only modelling?"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "K Cao - arXiv preprint arXiv:2305.05461, 2023"
+---
+This paper aims to benchmark recent progress in language understanding models that output contextualised representations at the character level. Many such modelling architectures and methods to train those architectures have been proposed, but it is currently unclear what the relative contributions of the architecture vs. the pretraining objective are to final model performance. We explore the design space of such models, comparing architectural innovations and a variety of different …
+Cites: ‪Byte Pair Encoding is Suboptimal for Language Model Pretraining‬

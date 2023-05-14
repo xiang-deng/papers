@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Rethinking the Value of Labels for Instance-Dependent Label Noise Learning"
+date:   2023-05-13 06:32:20 -0400
+categories: jekyll update
+author: "H Deng, W Zhang, ML Zhang - arXiv preprint arXiv:2305.06247, 2023"
+---
+Label noise widely exists in large-scale datasets and significantly degenerates the performances of deep learning algorithms. Due to the non-identifiability of the instance-dependent noise transition matrix, most existing algorithms address the problem by assuming the noisy label generation process to be independent of the instance features. Unfortunately, noisy labels in real-world applications often depend on both the true label and the features. In this work, we tackle instance-dependent …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬
