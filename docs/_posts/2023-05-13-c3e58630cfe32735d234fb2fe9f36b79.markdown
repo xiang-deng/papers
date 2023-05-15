@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigating Forgetting in Pre-Trained Representations Through Continual Learning"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "Y Luo, Z Yang, X Bai, F Meng, J Zhou, Y Zhang - arXiv preprint arXiv:2305.05968, 2023"
----
-Representation forgetting refers to the drift of contextualized representations during continual training. Intuitively, the representation forgetting can influence the general knowledge stored in pre-trained language models (LMs), but the concrete effect is still unclear. In this paper, we study the effect of representation forgetting on the generality of pre-trained language models, ie the potential capability for tackling future downstream tasks. Specifically, we design three metrics, including overall …
-Cites: ‪Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper …‬
+--- 
+layout: post 
+title: "Investigating Forgetting in Pre-Trained Representations Through Continual Learning" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "Y Luo, Z Yang, X Bai, F Meng, J Zhou, Y Zhang - arXiv preprint arXiv:2305.05968, 2023" 
+--- 
+Representation forgetting refers to the drift of contextualized representations during continual training. Intuitively, the representation forgetting can influence the general knowledge stored in pre-trained language models (LMs), but the concrete effect is still unclear. In this paper, we study the effect of representation forgetting on the generality of pre-trained language models, ie the potential capability for tackling future downstream tasks. Specifically, we design three metrics, including overall  Cites: Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper

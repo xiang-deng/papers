@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Attack Named Entity Recognition by Entity Boundary Interference"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "Y Yang, H Wu, H Zhao - arXiv preprint arXiv:2305.05253, 2023"
----
-Named Entity Recognition (NER) is a cornerstone NLP task while its robustness has been given little attention. This paper rethinks the principles of NER attacks derived from sentence classification, as they can easily violate the label consistency between the original and adversarial NER examples. This is due to the fine-grained nature of NER, as even minor word changes in the sentence can result in the emergence or mutation of any entities, resulting in invalid adversarial examples. To this end, we …
-Cites: ‪Robust named entity recognition with truecasing pretraining‬
+--- 
+layout: post 
+title: "Attack Named Entity Recognition by Entity Boundary Interference" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "Y Yang, H Wu, H Zhao - arXiv preprint arXiv:2305.05253, 2023" 
+--- 
+Named Entity Recognition (NER) is a cornerstone NLP task while its robustness has been given little attention. This paper rethinks the principles of NER attacks derived from sentence classification, as they can easily violate the label consistency between the original and adversarial NER examples. This is due to the fine-grained nature of NER, as even minor word changes in the sentence can result in the emergence or mutation of any entities, resulting in invalid adversarial examples. To this end, we  Cites: Robust named entity recognition with truecasing pretraining

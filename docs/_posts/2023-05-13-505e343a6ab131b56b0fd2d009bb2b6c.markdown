@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Who Needs Decoders? Efficient Estimation of Sequence-level Attributes"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "Y Fathullah, P Radmard, A Liusie, MJF Gales - arXiv preprint arXiv:2305.05098, 2023"
----
-State-of-the-art sequence-to-sequence models often require autoregressive decoding, which can be highly expensive. However, for some downstream tasks such as out-of-distribution (OOD) detection and resource allocation, the actual decoding output is not needed just a scalar attribute of this sequence. In these scenarios, where for example knowing the quality of a system s output to predict poor performance prevails over knowing the output itself, is it possible to bypass the …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Who Needs Decoders? Efficient Estimation of Sequence-level Attributes" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "Y Fathullah, P Radmard, A Liusie, MJF Gales - arXiv preprint arXiv:2305.05098, 2023" 
+--- 
+State-of-the-art sequence-to-sequence models often require autoregressive decoding, which can be highly expensive. However, for some downstream tasks such as out-of-distribution (OOD) detection and resource allocation, the actual decoding output is not needed just a scalar attribute of this sequence. In these scenarios, where for example knowing the quality of a system s output to predict poor performance prevails over knowing the output itself, is it possible to bypass the  Cites: Palm: Scaling language modeling with pathways

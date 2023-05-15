@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CrudeBERT: Applying Economic Theory towards fine-tuning Transformer-based Sentiment Analysis Models to the Crude Oil Market"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "H Kaplan, RP Mundani, H Rölke, A Weichselbraun - arXiv preprint arXiv:2305.06140, 2023"
----
-Predicting market movements based on the sentiment of news media has a long tradition in data analysis. With advances in natural language processing, transformer architectures have emerged that enable contextually aware sentiment classification. Nevertheless, current methods built for the general financial market such as FinBERT cannot distinguish asset-specific value-driving factors. This paper addresses this shortcoming by presenting a method that identifies and classifies events that impact …
-Cites: ‪Effective LSTMs for target-dependent sentiment classification‬
+--- 
+layout: post 
+title: "CrudeBERT: Applying Economic Theory towards fine-tuning Transformer-based Sentiment Analysis Models to the Crude Oil Market" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "H Kaplan, RP Mundani, H Rlke, A Weichselbraun - arXiv preprint arXiv:2305.06140, 2023" 
+--- 
+Predicting market movements based on the sentiment of news media has a long tradition in data analysis. With advances in natural language processing, transformer architectures have emerged that enable contextually aware sentiment classification. Nevertheless, current methods built for the general financial market such as FinBERT cannot distinguish asset-specific value-driving factors. This paper addresses this shortcoming by presenting a method that identifies and classifies events that impact  Cites: Effective LSTMs for target-dependent sentiment classification

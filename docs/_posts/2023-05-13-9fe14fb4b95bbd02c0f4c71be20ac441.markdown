@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mariusgnn: Resource-efficient out-of-core training of graph neural networks"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "R Waleffe, J Mohoney, T Rekatsinas, S Venkataraman - Proceedings of the …, 2023"
----
-We study training of Graph Neural Networks (GNNs) for large-scale graphs. We revisit the premise of using distributed training for billion-scale graphs and show that for graphs that fit in main memory or the SSD of a single machine, out-of-core pipelined training with a single GPU can outperform state-of-the-art (SoTA) multi-GPU solutions. We introduce MariusGNN, the first system that utilizes the entire storage hierarchy---including disk---for GNN training. MariusGNN introduces a series …
-Cites: ‪Representing Text for Joint Embedding of Text and Knowledge …‬
+--- 
+layout: post 
+title: "Mariusgnn: Resource-efficient out-of-core training of graph neural networks" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "R Waleffe, J Mohoney, T Rekatsinas, S Venkataraman - Proceedings of the , 2023" 
+--- 
+We study training of Graph Neural Networks (GNNs) for large-scale graphs. We revisit the premise of using distributed training for billion-scale graphs and show that for graphs that fit in main memory or the SSD of a single machine, out-of-core pipelined training with a single GPU can outperform state-of-the-art (SoTA) multi-GPU solutions. We introduce MariusGNN, the first system that utilizes the entire storage hierarchy---including disk---for GNN training. MariusGNN introduces a series  Cites: Representing Text for Joint Embedding of Text and Knowledge

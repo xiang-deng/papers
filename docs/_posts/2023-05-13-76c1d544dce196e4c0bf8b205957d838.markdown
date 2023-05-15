@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Novel Pipelined End-to-End Relation Extraction Framework with Entity Mentions and Contextual Semantic Representation"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "Z Liu, H Li, H Wang, Y Liao, X Liu, G Wu - Expert Systems with Applications, 2023"
----
-The mainstream method of end-to-end relation extraction is to jointly extract entities and relations by sharing span representation, which, however, may cause feature conflict. The advent of advanced pre-trained models enhances the ability to learn span semantic representation and allows the breaking of the dominance of joint models. We argue the benefits of using separate encoders for entity recognition and relation classification and propose a novel pipelined end-to-end relation extraction …
-Cites: ‪Learning from Context or Names? An Empirical Study on Neural …‬
+--- 
+layout: post 
+title: "A Novel Pipelined End-to-End Relation Extraction Framework with Entity Mentions and Contextual Semantic Representation" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "Z Liu, H Li, H Wang, Y Liao, X Liu, G Wu - Expert Systems with Applications, 2023" 
+--- 
+The mainstream method of end-to-end relation extraction is to jointly extract entities and relations by sharing span representation, which, however, may cause feature conflict. The advent of advanced pre-trained models enhances the ability to learn span semantic representation and allows the breaking of the dominance of joint models. We argue the benefits of using separate encoders for entity recognition and relation classification and propose a novel pipelined end-to-end relation extraction  Cites: Learning from Context or Names? An Empirical Study on Neural

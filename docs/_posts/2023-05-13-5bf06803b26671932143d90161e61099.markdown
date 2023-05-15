@@ -1,9 +1,0 @@
----
-layout: post
-title:  "DomainInv: Domain Invariant Fine Tuning and Adversarial Label Correction For QA Domain Adaptation"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "A Khandelwal - arXiv preprint arXiv:2305.05589, 2023"
----
-Existing Question Answering (QA) systems limited by the capability of answering questions from unseen domain or any out-of-domain distributions making them less reliable for deployment to real scenarios. Most importantly all the existing QA domain adaptation methods are either based on generating synthetic data or pseudo labeling the target domain data. The domain adaptation methods based on synthetic data and pseudo labeling suffers either from the requirement of computational …
-Cites: ‪MRQA 2019 Shared Task: Evaluating Generalization in Reading …‬

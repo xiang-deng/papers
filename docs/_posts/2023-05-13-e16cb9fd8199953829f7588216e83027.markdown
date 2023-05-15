@@ -1,9 +1,8 @@
----
-layout: post
-title:  "FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "L Chen, M Zaharia, J Zou - arXiv preprint arXiv:2305.05176, 2023"
----
-There is a rapidly growing number of large language models (LLMs) that users can query for a fee. We review the cost associated with querying popular LLM APIs, eg GPT-4, ChatGPT, J1-Jumbo, and find that these models have heterogeneous pricing structures, with fees that can differ by two orders of magnitude. In particular, using LLMs on large collections of queries and text can be expensive. Motivated by this, we outline and discuss three types of strategies that users can exploit to reduce the …
-Cites: ‪Successive Prompting for Decomposing Complex Questions‬
+--- 
+layout: post 
+title: "FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "L Chen, M Zaharia, J Zou - arXiv preprint arXiv:2305.05176, 2023" 
+--- 
+There is a rapidly growing number of large language models (LLMs) that users can query for a fee. We review the cost associated with querying popular LLM APIs, eg GPT-4, ChatGPT, J1-Jumbo, and find that these models have heterogeneous pricing structures, with fees that can differ by two orders of magnitude. In particular, using LLMs on large collections of queries and text can be expensive. Motivated by this, we outline and discuss three types of strategies that users can exploit to reduce the  Cites: Successive Prompting for Decomposing Complex Questions

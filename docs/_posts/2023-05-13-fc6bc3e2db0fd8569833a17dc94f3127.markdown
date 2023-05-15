@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distilling Script Knowledge from Large Language Models for Constrained Language Planning"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "S Yuan, J Chen, Z Fu, X Ge, S Shah, CR Jankowski… - arXiv preprint arXiv …, 2023"
----
-In everyday life, humans often plan their actions by following step-by-step instructions in the form of goal-oriented scripts. Previous work has exploited language models (LMs) to plan for abstract goals of stereotypical activities (eg,  make a cake ), but leaves more specific goals with multi-facet constraints understudied (eg,  make a cake for diabetics ). In this paper, we define the task of constrained language planning for the first time. We propose an overgenerate-then …
-Cites: ‪Wanli: Worker and ai collaboration for natural language inference …‬
+--- 
+layout: post 
+title: "Distilling Script Knowledge from Large Language Models for Constrained Language Planning" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "S Yuan, J Chen, Z Fu, X Ge, S Shah, CR Jankowski - arXiv preprint arXiv , 2023" 
+--- 
+In everyday life, humans often plan their actions by following step-by-step instructions in the form of goal-oriented scripts. Previous work has exploited language models (LMs) to plan for abstract goals of stereotypical activities (eg, make a cake ), but leaves more specific goals with multi-facet constraints understudied (eg, make a cake for diabetics ). In this paper, we define the task of constrained language planning for the first time. We propose an overgenerate-then  Cites: Wanli: Worker and ai collaboration for natural language inference

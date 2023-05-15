@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SRIL: Selective Regularization for Class-Incremental Learning"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "J Han, J Na, W Hwang - arXiv preprint arXiv:2305.05175, 2023"
----
-Human intelligence gradually accepts new information and accumulates knowledge throughout the lifespan. However, deep learning models suffer from a catastrophic forgetting phenomenon, where they forget previous knowledge when acquiring new information. Class-Incremental Learning aims to create an integrated model that balances plasticity and stability to overcome this challenge. In this paper, we propose a selective regularization method that accepts new knowledge while maintaining …
-Cites: ‪Robust fine-tuning of zero-shot models‬
+--- 
+layout: post 
+title: "SRIL: Selective Regularization for Class-Incremental Learning" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "J Han, J Na, W Hwang - arXiv preprint arXiv:2305.05175, 2023" 
+--- 
+Human intelligence gradually accepts new information and accumulates knowledge throughout the lifespan. However, deep learning models suffer from a catastrophic forgetting phenomenon, where they forget previous knowledge when acquiring new information. Class-Incremental Learning aims to create an integrated model that balances plasticity and stability to overcome this challenge. In this paper, we propose a selective regularization method that accepts new knowledge while maintaining  Cites: Robust fine-tuning of zero-shot models

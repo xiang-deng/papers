@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "Q Huang, M Xue, W Huang, H Zhang, J Song, Y Jing…"
----
-Part-prototype networks (eg, ProtoPNet, ProtoTree and ProtoPool) have attracted broad research interest for their intrinsic interpretability and comparable accuracy to noninterpretable counterparts. However, recent works find that the interpretability from prototypes is fragile, due to the semantic gap between the similarities in the feature space and that in the input space. In this work, we strive to address this challenge by making the first attempt to quantitatively and objectively evaluate the …
-Cites: ‪Reading tea leaves: How humans interpret topic models‬
+--- 
+layout: post 
+title: "Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "Q Huang, M Xue, W Huang, H Zhang, J Song, Y Jing" 
+--- 
+Part-prototype networks (eg, ProtoPNet, ProtoTree and ProtoPool) have attracted broad research interest for their intrinsic interpretability and comparable accuracy to noninterpretable counterparts. However, recent works find that the interpretability from prototypes is fragile, due to the semantic gap between the similarities in the feature space and that in the input space. In this work, we strive to address this challenge by making the first attempt to quantitatively and objectively evaluate the  Cites: Reading tea leaves: How humans interpret topic models

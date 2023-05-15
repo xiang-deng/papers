@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BadCS: A Backdoor Attack Framework for Code search"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "S Qi, Y Yang, S Gao, C Gao, Z Xu - arXiv preprint arXiv:2305.05503, 2023"
----
-With the development of deep learning (DL), DL-based code search models have achieved state-of-the-art performance and have been widely used by developers during software development. However, the security issue, eg, recommending vulnerable code, has not received sufficient attention, which will bring potential harm to software development. Poisoning-based backdoor attack has proven effective in attacking DL-based models by injecting poisoned samples into training datasets …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "BadCS: A Backdoor Attack Framework for Code search" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "S Qi, Y Yang, S Gao, C Gao, Z Xu - arXiv preprint arXiv:2305.05503, 2023" 
+--- 
+With the development of deep learning (DL), DL-based code search models have achieved state-of-the-art performance and have been widely used by developers during software development. However, the security issue, eg, recommending vulnerable code, has not received sufficient attention, which will bring potential harm to software development. Poisoning-based backdoor attack has proven effective in attacking DL-based models by injecting poisoned samples into training datasets  Cites: Graphcodebert: Pre-training code representations with data flow

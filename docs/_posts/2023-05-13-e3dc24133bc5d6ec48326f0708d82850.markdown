@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Auditing Cross-Cultural Consistency of Human-Annotated Labels for Recommendation Systems"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "RY Pang, J Cenatempo, F Graham, B Kuehn… - arXiv preprint arXiv …, 2023"
----
-Recommendation systems increasingly depend on massive human-labeled datasets; however, the human annotators hired to generate these labels increasingly come from homogeneous backgrounds. This poses an issue when downstream predictive models--based on these labels--are applied globally to a heterogeneous set of users. We study this disconnect with respect to the labels themselves, asking whether they are``consistently conceptualized  across annotators of different …
-Cites: ‪Adapting entities across languages and cultures‬
+--- 
+layout: post 
+title: "Auditing Cross-Cultural Consistency of Human-Annotated Labels for Recommendation Systems" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "RY Pang, J Cenatempo, F Graham, B Kuehn - arXiv preprint arXiv , 2023" 
+--- 
+Recommendation systems increasingly depend on massive human-labeled datasets; however, the human annotators hired to generate these labels increasingly come from homogeneous backgrounds. This poses an issue when downstream predictive models--based on these labels--are applied globally to a heterogeneous set of users. We study this disconnect with respect to the labels themselves, asking whether they are``consistently conceptualized across annotators of different  Cites: Adapting entities across languages and cultures

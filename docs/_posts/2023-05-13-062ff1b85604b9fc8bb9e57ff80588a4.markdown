@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "P Howard, J Wang, V Lal, G Singer, Y Choi… - arXiv preprint arXiv …, 2023"
----
-Comparative knowledge (eg, steel is stronger and heavier than styrofoam) is an essential component of our world knowledge, yet understudied in prior literature. In this paper, we study the task of comparative knowledge acquisition, motivated by the dramatic improvements in the capabilities of extreme-scale language models like GPT-3, which have fueled efforts towards harvesting their knowledge into knowledge bases. However, access to inference API for such models is limited, thereby …
-Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬
+--- 
+layout: post 
+title: "NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "P Howard, J Wang, V Lal, G Singer, Y Choi - arXiv preprint arXiv , 2023" 
+--- 
+Comparative knowledge (eg, steel is stronger and heavier than styrofoam) is an essential component of our world knowledge, yet understudied in prior literature. In this paper, we study the task of comparative knowledge acquisition, motivated by the dramatic improvements in the capabilities of extreme-scale language models like GPT-3, which have fueled efforts towards harvesting their knowledge into knowledge bases. However, access to inference API for such models is limited, thereby  Cites: DExperts: Decoding-time controlled text generation with experts

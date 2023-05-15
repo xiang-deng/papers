@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unsupervised Dense Retrieval Training with Web Anchors"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "Y Xie, X Liu, C Xiong - arXiv preprint arXiv:2305.05834, 2023"
----
-In this work, we present an unsupervised retrieval method with contrastive learning on web anchors. The anchor text describes the content that is referenced from the linked page. This shows similarities to search queries that aim to retrieve pertinent information from relevant documents. Based on their commonalities, we train an unsupervised dense retriever, Anchor-DR, with a contrastive learning task that matches the anchor text and the linked document. To filter out uninformative anchors …
-Cites: ‪Latent retrieval for weakly supervised open domain question …‬
+--- 
+layout: post 
+title: "Unsupervised Dense Retrieval Training with Web Anchors" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "Y Xie, X Liu, C Xiong - arXiv preprint arXiv:2305.05834, 2023" 
+--- 
+In this work, we present an unsupervised retrieval method with contrastive learning on web anchors. The anchor text describes the content that is referenced from the linked page. This shows similarities to search queries that aim to retrieve pertinent information from relevant documents. Based on their commonalities, we train an unsupervised dense retriever, Anchor-DR, with a contrastive learning task that matches the anchor text and the linked document. To filter out uninformative anchors  Cites: Latent retrieval for weakly supervised open domain question

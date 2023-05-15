@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge"
-date:   2023-05-13 06:32:20 -0400
-categories: jekyll update
-author: "J Chen, W Shi, Z Fu, S Cheng, L Li, Y Xiao - arXiv preprint arXiv:2305.05976, 2023"
----
-Large language models (LLMs) have been widely studied for their ability to store and utilize positive knowledge. However, negative knowledge, such as  lions don t live in the ocean , is also ubiquitous in the world but rarely mentioned explicitly in the text. What do LLMs know about negative knowledge? This work examines the ability of LLMs to negative commonsense knowledge. We design a constrained keywords-to-sentence generation task (CG) and a Boolean question-answering task (QA) to …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "Say What You Mean! Large Language Models Speak Too Positively about Negative Commonsense Knowledge" 
+date: 2023-05-13 06:32:20 -0400 
+categories: jekyll update 
+author: "J Chen, W Shi, Z Fu, S Cheng, L Li, Y Xiao - arXiv preprint arXiv:2305.05976, 2023" 
+--- 
+Large language models (LLMs) have been widely studied for their ability to store and utilize positive knowledge. However, negative knowledge, such as lions don t live in the ocean , is also ubiquitous in the world but rarely mentioned explicitly in the text. What do LLMs know about negative knowledge? This work examines the ability of LLMs to negative commonsense knowledge. We design a constrained keywords-to-sentence generation task (CG) and a Boolean question-answering task (QA) to  Cites: CommonsenseQA: A Question Answering Challenge Targeting
