@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Think Twice: Measuring the Efficiency of Eliminating Prediction Shortcuts of Question Answering Models"
+date:   2023-05-16 05:31:31 -0400
+categories: jekyll update
+author: "L Mikula, M Štefánik, M Petrovič, P Sojka - arXiv preprint arXiv:2305.06841, 2023"
+---
+While the Large Language Models (LLMs) dominate a majority of language understanding tasks, previous work shows that some of these results are supported by modelling spurious correlations of training datasets. Authors commonly assess model robustness by evaluating their models on out-of-distribution (OOD) datasets of the same task, but these datasets might share the bias of the training dataset. We propose a simple method for measuring a scale of models  reliance on any identified …
+Cites: ‪Pathologies of Neural Models Make Interpretation Difficult‬

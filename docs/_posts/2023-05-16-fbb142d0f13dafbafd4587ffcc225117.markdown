@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Distilling semantic concept embeddings from contrastively fine-tuned language models"
+date:   2023-05-16 05:31:31 -0400
+categories: jekyll update
+author: "N Li, H Kteich, Z Bouraoui, S Schockaert - 2023"
+---
+Learning vectors that capture the meaning of concepts remains a fundamental challenge. Somewhat surprisingly, perhaps, pretrained language models have thus far only enabled modest improvements to the quality of such concept embeddings. Current strategies for using language models typically represent a concept by averaging the contextualised representations of its mentions in some corpus. This is potentially sub-optimal for at least two reasons. First, contextualised word vectors …
+Cites: ‪Whiteningbert: An easy unsupervised sentence embedding …‬

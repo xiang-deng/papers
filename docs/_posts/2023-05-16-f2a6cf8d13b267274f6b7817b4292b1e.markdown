@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Time-and-Space-Efficient Weighted Deduction"
+date:   2023-05-16 05:31:31 -0400
+categories: jekyll update
+author: "J Eisner"
+---
+Many NLP algorithms have been described in terms of deduction systems. Unweighted deduction allows a generic forward-chaining execution strategy. For weighted deduction, however, efficient execution should propagate the weight of each item only after it has converged. This means visiting the items in topologically sorted order (as in dynamic programming). Toposorting is fast on a materialized graph; unfortunately, materializing the graph would take extra space. Is there a …
+Cites: ‪Unsupervised Latent Tree Induction with Deep Inside-Outside …‬

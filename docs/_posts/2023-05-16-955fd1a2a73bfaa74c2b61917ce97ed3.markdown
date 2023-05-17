@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Masked Siamese Prompt Tuning for Few-Shot Natural Language Understanding"
+date:   2023-05-16 05:31:31 -0400
+categories: jekyll update
+author: "S Ni, HY Kao - IEEE Transactions on Artificial Intelligence, 2023"
+---
+Recently, prompt-based learning has shown excellent performance on few-shot scenarios. Using frozen language models to tune trainable continuous prompt embeddings has become a popular and powerful methodology. For few-shot natural language understanding, even if we freeze the parameters of the pre-trained language model, the learned pseudo-prompts might still be overfitted. In this paper, we propose a novel masked siamese prompt tuning (MSP-tuning) to improve few …
+Cites: ‪BoolQ: Exploring the Surprising Difficulty of Natural Yes/No …‬

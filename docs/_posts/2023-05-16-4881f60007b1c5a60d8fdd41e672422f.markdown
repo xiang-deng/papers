@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PROM: A Phrase-level Copying Mechanism with Pre-training for Abstractive Summarization"
+date:   2023-05-16 05:31:31 -0400
+categories: jekyll update
+author: "X Ma, Y Gong, P He, H Zhao, N Duan - arXiv preprint arXiv:2305.06647, 2023"
+---
+Based on the remarkable achievements of pre-trained language models in abstractive summarization, the copying mechanism has proved helpful by improving the factuality, stability, and overall performance. This work proposes PROM, a new PhRase-level cOpying Mechanism that enhances attention on n-grams, which can be applied to zero-shot summarization with pre-training. PROM adds an indicator layer to explicitly pick up tokens in n-gram that can be copied from the source, and …
+Cites: ‪Evaluating the factual consistency of abstractive text summarization‬

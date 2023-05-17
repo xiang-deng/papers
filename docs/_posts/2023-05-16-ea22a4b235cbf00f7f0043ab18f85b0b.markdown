@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neapykantos kalbos atpažinimas lietuviškuose komentaruose panaudojant dirbtinį intelektą"
+date:   2023-05-16 05:31:31 -0400
+categories: jekyll update
+author: "E Kankevičiūtė, M Songailaitė, J Mandravickaitė - Vilnius University Open Series, 2023"
+---
+Šiame darbe pateikiame neapykantos kalbos aptikimo modelių palyginimą lietuvių kalbai. Neapykantos kalbai aptikti naudojome tris giliojo mokymosi modelius: daugiakalbį BERT, LitLat BERT ir Electra. Visi trys modeliai buvo adaptuoti lietuviškų komentarų klasifikavimui į tris klases: neapykantos, įžeidžią ir neutralią kalbą. Norint adaptuoti modelius atpažinti neapykantos kalbą, buvo parengtas anotuotas duomenų rinkinys, kuriame yra 25 219 lietuviški komentarai. Apmokyti modeliai buvo …
+Cites: ‪Google, KT, Language, AI: BERT: pre-training of deep bidirectional …‬

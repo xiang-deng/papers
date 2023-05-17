@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving PLMs for Graph-to-Text Generation by Relational Orientation Attention"
+date:   2023-05-16 05:31:31 -0400
+categories: jekyll update
+author: "T Wang, B Shen, J Zhang, Y Zhong - Neural Processing Letters, 2023"
+---
+Pretrained language models (PLMs) with impressive performances in graph-to-text generation have recently been employed. However, linearized graph data will lead to the loss of triplet structure information and the problem of insufficient syntactic information when graph data are converted into sequence data by PLMs. These defects prevent PLMs from absorbing all the information that knowledge graphs hold and exerting their full potential in graph-to-text generation. To address these issues …
+Cites: ‪Semantic parsing on freebase from question-answer pairs‬
