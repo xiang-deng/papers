@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Information Retrieval Experiment Platform"
-date:   2023-05-16 05:31:31 -0400
-categories: jekyll update
-author: "M Fröbe, JH Reimer, S MacAvaney, N Deckers… - 2023"
----
-We integrate ir_datasets, ir_measures, and PyTerrier with TIRA in the Information Retrieval Experiment Platform (TIREx) to promote more standardized, reproducible, scalable, and, if desired, even blinded retrieval experiments. Standardization is achieved when a retrieval approach implements PyTerrier s interfaces and the input and output of an experiment are compatible with ir_datasets and ir_measures. However, none of this is a must for reproducibility and scalability, as TIRA can run …
-Cites: ‪Multi-stage document ranking with BERT‬
+--- 
+layout: post 
+title: "The Information Retrieval Experiment Platform" 
+date: 2023-05-16 05:31:31 -0400 
+categories: jekyll update 
+author: "M Frbe, JH Reimer, S MacAvaney, N Deckers - 2023" 
+--- 
+We integrate ir_datasets, ir_measures, and PyTerrier with TIRA in the Information Retrieval Experiment Platform (TIREx) to promote more standardized, reproducible, scalable, and, if desired, even blinded retrieval experiments. Standardization is achieved when a retrieval approach implements PyTerrier s interfaces and the input and output of an experiment are compatible with ir_datasets and ir_measures. However, none of this is a must for reproducibility and scalability, as TIRA can run  Cites: Multi-stage document ranking with BERT

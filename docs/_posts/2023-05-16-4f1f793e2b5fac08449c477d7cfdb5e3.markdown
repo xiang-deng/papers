@@ -1,9 +1,8 @@
----
-layout: post
-title:  "QURG: Question Rewriting Guided Context-Dependent Text-to-SQL Semantic Parsing"
-date:   2023-05-16 05:31:31 -0400
-categories: jekyll update
-author: "L Chai, D Xiao, J Yang, L Yang, QW Zhang, Y Cao, Z Li… - arXiv preprint arXiv …, 2023"
----
-Context-dependent Text-to-SQL aims to translate multi-turn natural language questions into SQL queries. Despite various methods have exploited context-dependence information implicitly for contextual SQL parsing, there are few attempts to explicitly address the dependencies between current question and question context. This paper presents QURG, a novel Question Rewriting Guided approach to help the models achieve adequate contextual understanding. Specifically, we first …
-Cites: ‪Few-Shot Generative Conversational Query Rewriting‬
+--- 
+layout: post 
+title: "QURG: Question Rewriting Guided Context-Dependent Text-to-SQL Semantic Parsing" 
+date: 2023-05-16 05:31:31 -0400 
+categories: jekyll update 
+author: "L Chai, D Xiao, J Yang, L Yang, QW Zhang, Y Cao, Z Li - arXiv preprint arXiv , 2023" 
+--- 
+Context-dependent Text-to-SQL aims to translate multi-turn natural language questions into SQL queries. Despite various methods have exploited context-dependence information implicitly for contextual SQL parsing, there are few attempts to explicitly address the dependencies between current question and question context. This paper presents QURG, a novel Question Rewriting Guided approach to help the models achieve adequate contextual understanding. Specifically, we first  Cites: Few-Shot Generative Conversational Query Rewriting

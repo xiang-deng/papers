@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Hybrid Text Generation-Based Query Expansion Method for Open-Domain Question Answering"
-date:   2023-05-16 05:31:31 -0400
-categories: jekyll update
-author: "W Zhu, X Zhang, Q Zhai, C Liu - Future Internet, 2023"
----
-In the two-stage open-domain question answering (OpenQA) systems, the retriever identifies a subset of relevant passages, which the reader then uses to extract or generate answers. However, the performance of OpenQA systems is often hindered by issues such as short and semantically ambiguous queries, making it challenging for the retriever to find relevant passages quickly. This paper introduces Hybrid Text Generation-Based Query Expansion (HTGQE), an effective method to improve …
-Cites: ‪Learning to retrieve reasoning paths over wikipedia graph for …‬
+--- 
+layout: post 
+title: "A Hybrid Text Generation-Based Query Expansion Method for Open-Domain Question Answering" 
+date: 2023-05-16 05:31:31 -0400 
+categories: jekyll update 
+author: "W Zhu, X Zhang, Q Zhai, C Liu - Future Internet, 2023" 
+--- 
+In the two-stage open-domain question answering (OpenQA) systems, the retriever identifies a subset of relevant passages, which the reader then uses to extract or generate answers. However, the performance of OpenQA systems is often hindered by issues such as short and semantically ambiguous queries, making it challenging for the retriever to find relevant passages quickly. This paper introduces Hybrid Text Generation-Based Query Expansion (HTGQE), an effective method to improve  Cites: Learning to retrieve reasoning paths over wikipedia graph for

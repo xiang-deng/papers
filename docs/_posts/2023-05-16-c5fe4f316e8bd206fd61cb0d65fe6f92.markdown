@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enabling Programming Thinking in Large Language Models Toward Code Generation"
-date:   2023-05-16 05:31:31 -0400
-categories: jekyll update
-author: "J Li, G Li, Y Li, Z Jin - arXiv preprint arXiv:2305.06599, 2023"
----
-Large Language Models (LLMs)(eg, ChatGPT) have shown impressive performance in code generation. A large-scale study released that writing programs requires programming thinking, ie, analyzing and implementing requirements in programming logic (eg, sequence, branch, loop). Existing studies use LLMs to generate programs from requirements directly and do not explicitly introduce the programming thinking. This paper explores how to unlock the programming thinking of LLMs in code …
-Cites: ‪Natural language to code translation with execution‬
+--- 
+layout: post 
+title: "Enabling Programming Thinking in Large Language Models Toward Code Generation" 
+date: 2023-05-16 05:31:31 -0400 
+categories: jekyll update 
+author: "J Li, G Li, Y Li, Z Jin - arXiv preprint arXiv:2305.06599, 2023" 
+--- 
+Large Language Models (LLMs)(eg, ChatGPT) have shown impressive performance in code generation. A large-scale study released that writing programs requires programming thinking, ie, analyzing and implementing requirements in programming logic (eg, sequence, branch, loop). Existing studies use LLMs to generate programs from requirements directly and do not explicitly introduce the programming thinking. This paper explores how to unlock the programming thinking of LLMs in code  Cites: Natural language to code translation with execution

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Developer-Code Contribution Relationship via Heterogeneous Graph Attention Network for Repositories Oriented Code Readability Assessment"
-date:   2023-05-16 05:31:31 -0400
-categories: jekyll update
-author: "Q Mi, W Liu, Y Wang, L Yang"
----
-Context: Automatically assessing code readability is important for project maintenance and evolution. However, existing code readability research only focuses on single files  assessment. These studies fail to utilize developercode contribution relationship, which refers to the valuable information underlying code files and their developers in the context of code repository. Objective: To improve the performance of code readability assessment and enhance the practicality of existing …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "Learning Developer-Code Contribution Relationship via Heterogeneous Graph Attention Network for Repositories Oriented Code Readability Assessment" 
+date: 2023-05-16 05:31:31 -0400 
+categories: jekyll update 
+author: "Q Mi, W Liu, Y Wang, L Yang" 
+--- 
+Context: Automatically assessing code readability is important for project maintenance and evolution. However, existing code readability research only focuses on single files assessment. These studies fail to utilize developercode contribution relationship, which refers to the valuable information underlying code files and their developers in the context of code repository. Objective: To improve the performance of code readability assessment and enhance the practicality of existing  Cites: Graphcodebert: Pre-training code representations with data flow

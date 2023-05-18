@@ -1,9 +1,8 @@
----
-layout: post
-title:  "COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP tasks"
-date:   2023-05-16 05:31:31 -0400
-categories: jekyll update
-author: "F Jourdan, A Picard, T Fel, L Risser, JM Loubes… - arXiv preprint arXiv …, 2023"
----
-Transformer architectures are complex and their use in NLP, while it has engendered many successes, makes their interpretability or explainability challenging. Recent debates have shown that attention maps and attribution methods are unreliable (Pruthi et al., 2019; Brunner et al., 2019). In this paper, we present some of their limitations and introduce COCKATIEL, which successfully addresses some of them. COCKATIEL is a novel, post-hoc, concept-based, model-agnostic XAI technique that …
-Cites: ‪Is Attention Interpretable?‬
+--- 
+layout: post 
+title: "COCKATIEL: COntinuous Concept ranKed ATtribution with Interpretable ELements for explaining neural net classifiers on NLP tasks" 
+date: 2023-05-16 05:31:31 -0400 
+categories: jekyll update 
+author: "F Jourdan, A Picard, T Fel, L Risser, JM Loubes - arXiv preprint arXiv , 2023" 
+--- 
+Transformer architectures are complex and their use in NLP, while it has engendered many successes, makes their interpretability or explainability challenging. Recent debates have shown that attention maps and attribution methods are unreliable (Pruthi et al., 2019; Brunner et al., 2019). In this paper, we present some of their limitations and introduce COCKATIEL, which successfully addresses some of them. COCKATIEL is a novel, post-hoc, concept-based, model-agnostic XAI technique that  Cites: Is Attention Interpretable?

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications"
-date:   2023-05-16 05:31:31 -0400
-categories: jekyll update
-author: "HC Moon, S Joty, R Zhao, M Thakkar, X Chi - arXiv preprint arXiv:2305.06522, 2023"
----
-Large-scale pre-trained language models have shown outstanding performance in a variety of NLP tasks. However, they are also known to be significantly brittle against specifically crafted adversarial examples, leading to increasing interest in probing the adversarial robustness of NLP systems. We introduce RSMI, a novel two-stage framework that combines randomized smoothing (RS) with masked inference (MI) to improve the adversarial robustness of NLP systems. RS transforms a classifier into a …
-Cites: ‪Adversarial Example Generation with Syntactically Controlled …‬
+--- 
+layout: post 
+title: "Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications" 
+date: 2023-05-16 05:31:31 -0400 
+categories: jekyll update 
+author: "HC Moon, S Joty, R Zhao, M Thakkar, X Chi - arXiv preprint arXiv:2305.06522, 2023" 
+--- 
+Large-scale pre-trained language models have shown outstanding performance in a variety of NLP tasks. However, they are also known to be significantly brittle against specifically crafted adversarial examples, leading to increasing interest in probing the adversarial robustness of NLP systems. We introduce RSMI, a novel two-stage framework that combines randomized smoothing (RS) with masked inference (MI) to improve the adversarial robustness of NLP systems. RS transforms a classifier into a  Cites: Adversarial Example Generation with Syntactically Controlled
