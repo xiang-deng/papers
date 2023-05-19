@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Text Classification via Large Language Models"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "X Sun, X Li, J Li, F Wu, S Guo, T Zhang, G Wang - arXiv preprint arXiv:2305.08377, 2023"
+---
+Despite the remarkable success of large-scale Language Models (LLMs) such as GPT-3, their performances still significantly underperform fine-tuned models in the task of text classification. This is due to (1) the lack of reasoning ability in addressing complex linguistic phenomena (eg, intensification, contrast, irony etc);(2) limited number of tokens allowed in in-context learning. In this paper, we introduce\textbf {C} lue\textbf {A} nd\textbf {R} easoning\textbf {P} rompting (CARP). CARP adopts a …
+Cites: ‪Selective annotation makes language models better few-shot …‬

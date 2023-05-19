@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Holographic CCG Parsing"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "RYT Taniguchi, D Mochihashi"
+---
+We propose a method for formulating CCG as a recursive composition in a continuous vector space. Recent CCG supertagging and parsing models generally demonstrate high performance, yet rely on black-box neural architectures to implicitly model phrase structure dependencies. Instead, we leverage the method of holographic embeddings (Nickel et al., 2016) as a compositional operator to explicitly model the dependencies between words and phrase structures in the …
+Cites: ‪Top-down tree long short-term memory networks‬

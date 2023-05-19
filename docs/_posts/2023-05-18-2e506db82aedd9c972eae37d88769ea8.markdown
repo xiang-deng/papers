@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ParaLS: Lexical Substitution via Pretrained Paraphraser"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "J Qiang, K Liu, Y Li, Y Yuan, Y Zhu - arXiv preprint arXiv:2305.08146, 2023"
+---
+Lexical substitution (LS) aims at finding appropriate substitutes for a target word in a sentence. Recently, LS methods based on pretrained language models have made remarkable progress, generating potential substitutes for a target word through analysis of its contextual surroundings. However, these methods tend to overlook the preservation of the sentence s meaning when generating the substitutes. This study explores how to generate the substitute candidates from a paraphraser, as the …
+Cites: ‪Neurologic a* esque decoding: Constrained text generation with …‬

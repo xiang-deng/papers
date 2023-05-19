@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Legal Extractive Summarization of US Court Opinions"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "E Bauer, D Stammbach, N Gu, E Ash - arXiv preprint arXiv:2305.08428, 2023"
+---
+This paper tackles the task of legal extractive summarization using a dataset of 430K US court opinions with key passages annotated. According to automated summary quality metrics, the reinforcement-learning-based MemSum model is best and even out-performs transformer-based models. In turn, expert human evaluation shows that MemSum summaries effectively capture the key points of lengthy court opinions. Motivated by these results, we open-source our models to the general public. This …
+Cites: ‪Pile of Law: Learning Responsible Data Filtering from the Law and …‬

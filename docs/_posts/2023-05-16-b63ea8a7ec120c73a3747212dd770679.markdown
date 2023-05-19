@@ -5,4 +5,4 @@ date: 2023-05-16 05:31:31 -0400
 categories: jekyll update 
 author: "F Meyer, J Buys - arXiv preprint arXiv:2305.07005, 2023" 
 --- 
-Subword segmenters like BPE operate as a preprocessing step in neural machine translation and other (conditional) language models. They are applied to datasets before training, so translation or text generation quality relies on the quality of segmentations. We propose a departure from this paradigm, called subword segmental machine translation (SSMT). SSMT unifies subword segmentation and MT in a single trainable model. It learns to segment target sentence words while jointly  Cites: Multi-view Subword Regularization
+Subword segmenters like BPE operate as a preprocessing step in neural machine translation and other (conditional) language models. They are applied to datasets before training, so translation or text generation quality relies on the quality of segmentations. We propose a departure from this paradigm, called subword segmental machine translation (SSMT). SSMT unifies subword segmentation and MT in a single trainable model. It learns to segment target sentence words while jointly Cites: Multi-view Subword Regularization

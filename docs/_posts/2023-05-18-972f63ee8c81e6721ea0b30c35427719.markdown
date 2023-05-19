@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Surfacing Biases in Large Language Models using Contrastive Input Decoding"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "G Yona, O Honovich, I Laish, R Aharoni - arXiv preprint arXiv:2305.07378, 2023"
+---
+Ensuring that large language models (LMs) are fair, robust and useful requires an understanding of how different modifications to their inputs impact the model s behaviour. In the context of open-text generation tasks, however, such an evaluation is not trivial. For example, when introducing a model with an input text and a perturbed,  contrastive  version of it, meaningful differences in the next-token predictions may not be revealed with standard decoding strategies. With this …
+Cites: ‪Beyond the imitation game: Quantifying and extrapolating the …‬

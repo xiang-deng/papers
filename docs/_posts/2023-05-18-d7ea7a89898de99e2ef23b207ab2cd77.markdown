@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Symbol tuning improves in-context learning in language models"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "J Wei, L Hou, A Lampinen, X Chen, D Huang, Y Tay… - arXiv preprint arXiv …, 2023"
+---
+We present symbol tuning-finetuning language models on in-context input-label pairs where natural language labels (eg,  positive/negative sentiment ) are replaced with arbitrary symbols (eg,  foo/bar ). Symbol tuning leverages the intuition that when a model cannot use instructions or natural language labels to figure out a task, it must instead do so by learning the input-label mappings. We experiment with symbol tuning across Flan-PaLM models up to 540B parameters and observe benefits …
+Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬

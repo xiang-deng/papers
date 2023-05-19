@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Fine-tuning Pre-trained Models on Small Source Code Datasets via Variational Information Bottleneck"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "J Liu, C Sha, X Peng - 2023 IEEE International Conference on Software …, 2023"
+---
+Small datasets are common in software engineering tasks such as linguistic smell detection and code runtime complexity prediction, as crafting these datasets often involves expert knowledge. Prior work usually applies machine learning algorithms (eg, logistic regression and SVM) with hand-crafted features to tackle them, which could outperform neural models such as CNN. Recently, researchers have employed fine-tuning large pre-trained code models on various code-related tasks thanks to …
+Cites: ‪Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, and Ming …‬

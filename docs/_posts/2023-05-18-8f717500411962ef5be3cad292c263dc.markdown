@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility"
+date:   2023-05-18 07:22:22 -0400
+categories: jekyll update
+author: "S Chockchowwat, Z Li, Y Park - arXiv preprint arXiv:2305.08770, 2023"
+---
+In machine learning (ML), Python serves as a convenient abstraction for working with key libraries such as PyTorch, scikit-learn, and others. Unlike DBMS, however, Python applications may lose important data, such as trained models and extracted features, due to machine failures or human errors, leading to a waste of time and resources. Specifically, they lack four essential properties that could make ML more reliable and user-friendly--durability, atomicity, replicability, and time-versioning …
+Cites: ‪DBOS: a DBMS-oriented Operating System‬
