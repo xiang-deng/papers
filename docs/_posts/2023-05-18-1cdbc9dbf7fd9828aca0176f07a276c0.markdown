@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to Reason over Scene Graphs: A Case Study of Finetuning GPT-2 into a Robot Language Model for Grounded Task Planning"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "G Chalvatzaki, A Younes, D Nandha, A Le, LFR Ribeiro… - arXiv preprint arXiv …, 2023"
----
-Long-horizon task planning is essential for the development of intelligent assistive and service robots. In this work, we investigate the applicability of a smaller class of large language models (LLMs), specifically GPT-2, in robotic task planning by learning to decompose tasks into subgoal specifications for a planner to execute sequentially. Our method grounds the input of the LLM on the domain that is represented as a scene graph, enabling it to translate human requests into …
-Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬
+--- 
+layout: post 
+title: "Learning to Reason over Scene Graphs: A Case Study of Finetuning GPT-2 into a Robot Language Model for Grounded Task Planning" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "G Chalvatzaki, A Younes, D Nandha, A Le, LFR Ribeiro - arXiv preprint arXiv , 2023" 
+--- 
+Long-horizon task planning is essential for the development of intelligent assistive and service robots. In this work, we investigate the applicability of a smaller class of large language models (LLMs), specifically GPT-2, in robotic task planning by learning to decompose tasks into subgoal specifications for a planner to execute sequentially. Our method grounds the input of the LLM on the domain that is represented as a scene graph, enabling it to translate human requests into  Cites: AdapterFusion: Non-destructive task composition for transfer learning

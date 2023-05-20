@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interpretability at Scale: Identifying Causal Mechanisms in Alpaca"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "Z Wu, A Geiger, C Potts, ND Goodman - arXiv preprint arXiv:2305.08809, 2023"
----
-Obtaining human-interpretable explanations of large, general-purpose language models is an urgent goal for AI safety. However, it is just as important that our interpretability methods are faithful to the causal dynamics underlying model behavior and able to robustly generalize to unseen inputs. Distributed Alignment Search (DAS) is a powerful gradient descent method grounded in a theory of causal abstraction that uncovered perfect alignments between interpretable symbolic …
-Cites: ‪Chi, Nathanael Schärli, and Denny Zhou. 2023. Large language …‬
+--- 
+layout: post 
+title: "Interpretability at Scale: Identifying Causal Mechanisms in Alpaca" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "Z Wu, A Geiger, C Potts, ND Goodman - arXiv preprint arXiv:2305.08809, 2023" 
+--- 
+Obtaining human-interpretable explanations of large, general-purpose language models is an urgent goal for AI safety. However, it is just as important that our interpretability methods are faithful to the causal dynamics underlying model behavior and able to robustly generalize to unseen inputs. Distributed Alignment Search (DAS) is a powerful gradient descent method grounded in a theory of causal abstraction that uncovered perfect alignments between interpretable symbolic  Cites: Chi, Nathanael Schrli, and Denny Zhou. 2023. Large language

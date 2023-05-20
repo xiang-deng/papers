@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "AF Akyürek, E Akyürek, A Madaan, A Kalyan, P Clark… - arXiv preprint arXiv …, 2023"
----
-Despite their unprecedented success, even the largest language models make mistakes. Similar to how humans learn and improve using feedback, previous work proposed providing language models with natural language feedback to guide them in repairing their outputs. Because human-generated critiques are expensive to obtain, researchers have devised learned critique generators in lieu of human critics while assuming one can train downstream models to utilize generated feedback …
-Cites: ‪Fixing model bugs with natural language patches‬
+--- 
+layout: post 
+title: "RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "AF Akyrek, E Akyrek, A Madaan, A Kalyan, P Clark - arXiv preprint arXiv , 2023" 
+--- 
+Despite their unprecedented success, even the largest language models make mistakes. Similar to how humans learn and improve using feedback, previous work proposed providing language models with natural language feedback to guide them in repairing their outputs. Because human-generated critiques are expensive to obtain, researchers have devised learned critique generators in lieu of human critics while assuming one can train downstream models to utilize generated feedback  Cites: Fixing model bugs with natural language patches

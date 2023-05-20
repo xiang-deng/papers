@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Joint learning of text alignment and abstractive summarization for long documents via unbalanced optimal transport"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "X Shen, W Lam, S Ma, H Wang - Natural Language Engineering, 2023"
----
-Recently, neural abstractive text summarization (NATS) models based on sequence-to-sequence architecture have drawn a lot of attention. Real-world texts that need to be summarized range from short news with dozens of words to long reports with thousands of words. However, most existing NATS models are not good at summarizing long documents, due to the inherent limitations of their underlying neural architectures. In this paper, we focus on the task of long document …
-Cites: ‪Text summarization with pretrained encoders‬
+--- 
+layout: post 
+title: "Joint learning of text alignment and abstractive summarization for long documents via unbalanced optimal transport" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "X Shen, W Lam, S Ma, H Wang - Natural Language Engineering, 2023" 
+--- 
+Recently, neural abstractive text summarization (NATS) models based on sequence-to-sequence architecture have drawn a lot of attention. Real-world texts that need to be summarized range from short news with dozens of words to long reports with thousands of words. However, most existing NATS models are not good at summarizing long documents, due to the inherent limitations of their underlying neural architectures. In this paper, we focus on the task of long document  Cites: Text summarization with pretrained encoders

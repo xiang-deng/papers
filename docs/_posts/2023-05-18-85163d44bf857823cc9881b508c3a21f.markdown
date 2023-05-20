@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Seeing is Believing: Brain-Inspired Modular Training for Mechanistic Interpretability"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "Z Liu, E Gan, M Tegmark - arXiv preprint arXiv:2305.08746, 2023"
----
-We introduce Brain-Inspired Modular Training (BIMT), a method for making neural networks more modular and interpretable. Inspired by brains, BIMT embeds neurons in a geometric space and augments the loss function with a cost proportional to the length of each neuron connection. We demonstrate that BIMT discovers useful modular neural networks for many simple tasks, revealing compositional structures in symbolic formulas, interpretable decision boundaries and features for classification …
-Cites: ‪What learning algorithm is in-context learning? investigations with …‬
+--- 
+layout: post 
+title: "Seeing is Believing: Brain-Inspired Modular Training for Mechanistic Interpretability" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "Z Liu, E Gan, M Tegmark - arXiv preprint arXiv:2305.08746, 2023" 
+--- 
+We introduce Brain-Inspired Modular Training (BIMT), a method for making neural networks more modular and interpretable. Inspired by brains, BIMT embeds neurons in a geometric space and augments the loss function with a cost proportional to the length of each neuron connection. We demonstrate that BIMT discovers useful modular neural networks for many simple tasks, revealing compositional structures in symbolic formulas, interpretable decision boundaries and features for classification  Cites: What learning algorithm is in-context learning? investigations with

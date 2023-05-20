@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Towards Understanding and Improving GFlowNet Training"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "MW Shen, E Bengio, E Hajiramezanali, A Loukas… - arXiv preprint arXiv …, 2023"
----
-Generative flow networks (GFlowNets) are a family of algorithms that learn a generative policy to sample discrete objects $ x $ with non-negative reward $ R (x) $. Learning objectives guarantee the GFlowNet samples $ x $ from the target …
+--- 
+layout: post 
+title: "Towards Understanding and Improving GFlowNet Training" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "MW Shen, E Bengio, E Hajiramezanali, A Loukas - arXiv preprint arXiv , 2023" 
+--- 
+Generative flow networks (GFlowNets) are a family of algorithms that learn a generative policy to sample discrete objects $ x $ with non-negative reward $ R (x) $. Learning objectives guarantee the GFlowNet samples $ x $ from the target

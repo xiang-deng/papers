@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "Y Song, S Miret, B Liu - arXiv preprint arXiv:2305.08264, 2023"
----
-We present MatSci-NLP, a natural language benchmark for evaluating the performance of natural language processing (NLP) models on materials science text. We construct the benchmark from publicly available materials science text data to encompass seven different NLP tasks, including conventional NLP tasks like named entity recognition and relation classification, as well as NLP tasks specific to materials science, such as synthesis action retrieval which relates to creating …
-Cites: ‪A dataset of information-seeking questions and answers anchored …‬
+--- 
+layout: post 
+title: "MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "Y Song, S Miret, B Liu - arXiv preprint arXiv:2305.08264, 2023" 
+--- 
+We present MatSci-NLP, a natural language benchmark for evaluating the performance of natural language processing (NLP) models on materials science text. We construct the benchmark from publicly available materials science text data to encompass seven different NLP tasks, including conventional NLP tasks like named entity recognition and relation classification, as well as NLP tasks specific to materials science, such as synthesis action retrieval which relates to creating  Cites: A dataset of information-seeking questions and answers anchored

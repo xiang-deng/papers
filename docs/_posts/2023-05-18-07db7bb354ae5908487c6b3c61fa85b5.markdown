@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ZARA: Improving Few-Shot Self-Rationalization for Small Language Models"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "WL Chen, AZ Yen, HH Huang, CK Wu, HH Chen - arXiv preprint arXiv:2305.07355, 2023"
----
-Language models (LMs) that jointly generate end-task answers as well as free-text rationales are known as self-rationalization models. Recent works demonstrate great performance gain for self-rationalization by few-shot prompting LMs with rationale-augmented exemplars. However, the ability to benefit from explanations only emerges with large-scale LMs, which have poor accessibility. In this work, we explore the less-studied setting of leveraging explanations for small LMs to improve …
-Cites: ‪Measuring association between labels and free-text rationales‬
+--- 
+layout: post 
+title: "ZARA: Improving Few-Shot Self-Rationalization for Small Language Models" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "WL Chen, AZ Yen, HH Huang, CK Wu, HH Chen - arXiv preprint arXiv:2305.07355, 2023" 
+--- 
+Language models (LMs) that jointly generate end-task answers as well as free-text rationales are known as self-rationalization models. Recent works demonstrate great performance gain for self-rationalization by few-shot prompting LMs with rationale-augmented exemplars. However, the ability to benefit from explanations only emerges with large-scale LMs, which have poor accessibility. In this work, we explore the less-studied setting of leveraging explanations for small LMs to improve  Cites: Measuring association between labels and free-text rationales

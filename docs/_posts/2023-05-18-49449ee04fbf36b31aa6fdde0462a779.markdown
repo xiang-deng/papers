@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Comprehensive Solution Program Centric Pretraining for Table-and-Text Hybrid Numerical Reasoning"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "Q Liu, D Yang, W Zhong, F Cheng, S Kurohashi - arXiv preprint arXiv:2305.07475, 2023"
----
-Numerical reasoning over table-and-text hybrid passages, such as financial reports, poses significant challenges and has numerous potential applications. Noise and irrelevant variables in the model input have been a hindrance to its performance. Additionally, coarse-grained supervision of the whole solution program has impeded the model s ability to learn the underlying numerical reasoning process. In this paper, we propose three pretraining tasks that operate at both the whole program and sub …
-Cites: ‪Few-Shot Question Answering by Pretraining Span Selection‬
+--- 
+layout: post 
+title: "Comprehensive Solution Program Centric Pretraining for Table-and-Text Hybrid Numerical Reasoning" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "Q Liu, D Yang, W Zhong, F Cheng, S Kurohashi - arXiv preprint arXiv:2305.07475, 2023" 
+--- 
+Numerical reasoning over table-and-text hybrid passages, such as financial reports, poses significant challenges and has numerous potential applications. Noise and irrelevant variables in the model input have been a hindrance to its performance. Additionally, coarse-grained supervision of the whole solution program has impeded the model s ability to learn the underlying numerical reasoning process. In this paper, we propose three pretraining tasks that operate at both the whole program and sub  Cites: Few-Shot Question Answering by Pretraining Span Selection

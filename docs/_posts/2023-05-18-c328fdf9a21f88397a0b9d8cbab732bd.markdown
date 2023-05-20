@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "J Zhang, K Bao, Y Zhang, W Wang, F Feng, X He - arXiv preprint arXiv:2305.07609, 2023"
----
-The remarkable achievements of Large Language Models (LLMs) have led to the emergence of a novel recommendation paradigm--Recommendation via LLM (RecLLM). Nevertheless, it is important to note that LLMs may contain social prejudices, and therefore, the fairness of recommendations made by RecLLM requires further investigation. To avoid the potential risks of RecLLM, it is imperative to evaluate the fairness of RecLLM with respect to various sensitive attributes on the …
-Cites: ‪Holistic evaluation of language models‬
+--- 
+layout: post 
+title: "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "J Zhang, K Bao, Y Zhang, W Wang, F Feng, X He - arXiv preprint arXiv:2305.07609, 2023" 
+--- 
+The remarkable achievements of Large Language Models (LLMs) have led to the emergence of a novel recommendation paradigm--Recommendation via LLM (RecLLM). Nevertheless, it is important to note that LLMs may contain social prejudices, and therefore, the fairness of recommendations made by RecLLM requires further investigation. To avoid the potential risks of RecLLM, it is imperative to evaluate the fairness of RecLLM with respect to various sensitive attributes on the  Cites: Holistic evaluation of language models

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Schema-adaptable Knowledge Graph Construction"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "H Ye, H Gui, X Xu, H Chen, N Zhang - arXiv preprint arXiv:2305.08703, 2023"
----
-Conventional Knowledge Graph Construction (KGC) approaches typically follow the static information extraction paradigm with a closed set of pre-defined schema. As a result, such approaches fall short when applied to dynamic scenarios or domains, whereas a new type of knowledge emerges. This necessitates a system that can handle evolving schema automatically to extract information for KGC. To address this need, we propose a new task called schema-adaptable KGC, which aims to …
-Cites: ‪Greaselm: Graph reasoning enhanced language models for …‬
+--- 
+layout: post 
+title: "Schema-adaptable Knowledge Graph Construction" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "H Ye, H Gui, X Xu, H Chen, N Zhang - arXiv preprint arXiv:2305.08703, 2023" 
+--- 
+Conventional Knowledge Graph Construction (KGC) approaches typically follow the static information extraction paradigm with a closed set of pre-defined schema. As a result, such approaches fall short when applied to dynamic scenarios or domains, whereas a new type of knowledge emerges. This necessitates a system that can handle evolving schema automatically to extract information for KGC. To address this need, we propose a new task called schema-adaptable KGC, which aims to  Cites: Greaselm: Graph reasoning enhanced language models for

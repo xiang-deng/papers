@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "I Mackie, S Chatterjee, J Dalton - arXiv preprint arXiv:2305.07477, 2023"
----
-Pseudo-relevance feedback (PRF) is a classical approach to address lexical mismatch by enriching the query using first-pass retrieval. Moreover, recent work on generative-relevance feedback (GRF) shows that query expansion models using text generated from large language models can improve sparse retrieval without depending on first-pass retrieval effectiveness. This work extends GRF to dense and learned sparse retrieval paradigms with experiments over six standard document …
-Cites: ‪Query Expansion Using Contextual Clue Sampling with Language …‬
+--- 
+layout: post 
+title: "Generative and Pseudo-Relevant Feedback for Sparse, Dense and Learned Sparse Retrieval" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "I Mackie, S Chatterjee, J Dalton - arXiv preprint arXiv:2305.07477, 2023" 
+--- 
+Pseudo-relevance feedback (PRF) is a classical approach to address lexical mismatch by enriching the query using first-pass retrieval. Moreover, recent work on generative-relevance feedback (GRF) shows that query expansion models using text generated from large language models can improve sparse retrieval without depending on first-pass retrieval effectiveness. This work extends GRF to dense and learned sparse retrieval paradigms with experiments over six standard document  Cites: Query Expansion Using Contextual Clue Sampling with Language

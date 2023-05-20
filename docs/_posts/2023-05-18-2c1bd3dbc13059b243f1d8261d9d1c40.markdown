@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Query Performance Prediction: From Ad-hoc to Conversational Search"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "C Meng, N Arabzadeh, M Aliannejadi, M de Rijke - 2023"
----
-Query performance prediction (QPP) is a core task in information retrieval. The QPP task is to predict the retrieval quality of a search system for a query without relevance judgments. Research has shown the effectiveness and usefulness of QPP for ad-hoc search. Recent years have witnessed considerable progress in conversational search (CS). Effective QPP could help a CS system to decide an appropriate action to be taken at the next turn. Despite its potential, QPP for CS has been little studied …
-Cites: ‪Open-Retrieval Conversational Question Answering‬
+--- 
+layout: post 
+title: "Query Performance Prediction: From Ad-hoc to Conversational Search" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "C Meng, N Arabzadeh, M Aliannejadi, M de Rijke - 2023" 
+--- 
+Query performance prediction (QPP) is a core task in information retrieval. The QPP task is to predict the retrieval quality of a search system for a query without relevance judgments. Research has shown the effectiveness and usefulness of QPP for ad-hoc search. Recent years have witnessed considerable progress in conversational search (CS). Effective QPP could help a CS system to decide an appropriate action to be taken at the next turn. Despite its potential, QPP for CS has been little studied  Cites: Open-Retrieval Conversational Question Answering

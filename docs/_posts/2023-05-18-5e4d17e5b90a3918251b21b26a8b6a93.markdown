@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning to Generalize for Cross-domain QA"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "Y Niu, L Yang, R Dong, Y Zhang - arXiv preprint arXiv:2305.08208, 2023"
----
-There have been growing concerns regarding the out-of-domain generalization ability of natural language processing (NLP) models, particularly in question-answering (QA) tasks. Current synthesized data augmentation methods for QA are hampered by increased training costs. To address this issue, we propose a novel approach that combines prompting methods and linear probing then fine-tuning strategy, which does not entail additional cost. Our method has been theoretically …
-Cites: ‪Contrastive explanations for model interpretability‬
+--- 
+layout: post 
+title: "Learning to Generalize for Cross-domain QA" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "Y Niu, L Yang, R Dong, Y Zhang - arXiv preprint arXiv:2305.08208, 2023" 
+--- 
+There have been growing concerns regarding the out-of-domain generalization ability of natural language processing (NLP) models, particularly in question-answering (QA) tasks. Current synthesized data augmentation methods for QA are hampered by increased training costs. To address this issue, we propose a novel approach that combines prompting methods and linear probing then fine-tuning strategy, which does not entail additional cost. Our method has been theoretically  Cites: Contrastive explanations for model interpretability

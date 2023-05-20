@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TESS: Text-to-Text Self-Conditioned Simplex Diffusion"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "RK Mahabadi, J Tae, H Ivison, J Henderson, I Beltagy… - arXiv preprint arXiv …, 2023"
----
-Diffusion models have emerged as a powerful paradigm for generation, obtaining strong performance in various domains with continuous-valued inputs. Despite the promises of fully non-autoregressive text generation, applying diffusion models to natural language remains challenging due to its discrete nature. In this work, we propose Text-to-text Self-conditioned Simplex Diffusion (TESS), a text diffusion model that is fully non-autoregressive, employs a new form of self-conditioning, and …
-Cites: ‪Diffusion-lm improves controllable text generation‬
+--- 
+layout: post 
+title: "TESS: Text-to-Text Self-Conditioned Simplex Diffusion" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "RK Mahabadi, J Tae, H Ivison, J Henderson, I Beltagy - arXiv preprint arXiv , 2023" 
+--- 
+Diffusion models have emerged as a powerful paradigm for generation, obtaining strong performance in various domains with continuous-valued inputs. Despite the promises of fully non-autoregressive text generation, applying diffusion models to natural language remains challenging due to its discrete nature. In this work, we propose Text-to-text Self-conditioned Simplex Diffusion (TESS), a text diffusion model that is fully non-autoregressive, employs a new form of self-conditioning, and  Cites: Diffusion-lm improves controllable text generation

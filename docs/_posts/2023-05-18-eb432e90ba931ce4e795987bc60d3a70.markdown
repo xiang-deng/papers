@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Small Models are Valuable Plug-ins for Large Language Models"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "C Xu, Y Xu, S Wang, Y Liu, C Zhu, J McAuley - arXiv preprint arXiv:2305.08848, 2023"
----
-Large language models (LLMs) such as GPT-3 and GPT-4 are powerful but their weights are often publicly unavailable and their immense sizes make the models difficult to be tuned with common hardware. As a result, effectively tuning these models with large-scale supervised data can be challenging. As an alternative, In-Context Learning (ICL) can only use a small number of supervised examples due to context length limits. In this paper, we propose Super In-Context Learning (SuperICL) …
-Cites: ‪Toolformer: Language models can teach themselves to use tools‬
+--- 
+layout: post 
+title: "Small Models are Valuable Plug-ins for Large Language Models" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "C Xu, Y Xu, S Wang, Y Liu, C Zhu, J McAuley - arXiv preprint arXiv:2305.08848, 2023" 
+--- 
+Large language models (LLMs) such as GPT-3 and GPT-4 are powerful but their weights are often publicly unavailable and their immense sizes make the models difficult to be tuned with common hardware. As a result, effectively tuning these models with large-scale supervised data can be challenging. As an alternative, In-Context Learning (ICL) can only use a small number of supervised examples due to context length limits. In this paper, we propose Super In-Context Learning (SuperICL)  Cites: Toolformer: Language models can teach themselves to use tools

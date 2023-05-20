@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Understanding and Improving Knowledge Distillation for Neural Machine Translation"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "S Zhang, Y Liang, S Wang, W Han, J Liu, J Xu, Y Chen - arXiv preprint arXiv …, 2023"
----
-Knowledge distillation (KD) is a promising technique for model compression in neural machine translation. However, where the knowledge hides in KD is still not clear, which may hinder the development of KD. In this work, we first unravel this mystery from an empirical perspective and show that the knowledge comes from the top-1 predictions of teachers, which also helps us build a potential connection between word-and sequence-level KD. Further, we point out two inherent issues in …
-Cites: ‪Delight: Deep and light-weight transformer‬
+--- 
+layout: post 
+title: "Towards Understanding and Improving Knowledge Distillation for Neural Machine Translation" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "S Zhang, Y Liang, S Wang, W Han, J Liu, J Xu, Y Chen - arXiv preprint arXiv , 2023" 
+--- 
+Knowledge distillation (KD) is a promising technique for model compression in neural machine translation. However, where the knowledge hides in KD is still not clear, which may hinder the development of KD. In this work, we first unravel this mystery from an empirical perspective and show that the knowledge comes from the top-1 predictions of teachers, which also helps us build a potential connection between word-and sequence-level KD. Further, we point out two inherent issues in  Cites: Delight: Deep and light-weight transformer

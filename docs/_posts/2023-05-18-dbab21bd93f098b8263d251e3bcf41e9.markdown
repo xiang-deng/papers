@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving ChatGPT Prompt for Code Generation"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "C Liu, X Bao, H Zhang, N Zhang, H Hu, X Zhang… - arXiv preprint arXiv …, 2023"
----
-Automated code generation can be a powerful technique for software development, significantly reducing developers  efforts and time required to create new code by generating it automatically based on requirements. Recently, OpenAI s language model ChatGPT has emerged as a powerful tool for generating human-like responses to a wide range of textual inputs (ie, prompts), including those related to code generation. However, the effectiveness of ChatGPT for code generation is not …
-Cites: ‪Challenging BIG-Bench tasks and whether chain-of-thought can …‬
+--- 
+layout: post 
+title: "Improving ChatGPT Prompt for Code Generation" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "C Liu, X Bao, H Zhang, N Zhang, H Hu, X Zhang - arXiv preprint arXiv , 2023" 
+--- 
+Automated code generation can be a powerful technique for software development, significantly reducing developers efforts and time required to create new code by generating it automatically based on requirements. Recently, OpenAI s language model ChatGPT has emerged as a powerful tool for generating human-like responses to a wide range of textual inputs (ie, prompts), including those related to code generation. However, the effectiveness of ChatGPT for code generation is not  Cites: Challenging BIG-Bench tasks and whether chain-of-thought can

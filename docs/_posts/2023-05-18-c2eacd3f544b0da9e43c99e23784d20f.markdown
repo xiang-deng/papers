@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Interactive Text-to-SQL Generation via Editable Step-by-Step Explanations"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "Y Tian, TJJ Li, JK Kummerfeld, T Zhang - arXiv preprint arXiv:2305.07372, 2023"
----
-Relational databases play an important role in this Big Data era. However, it is challenging for non-experts to fully unleash the analytical power of relational databases, since they are not familiar with database languages such as SQL. Many techniques have been proposed to automatically generate SQL from natural language, but they suffer from two issues:(1) they still make many mistakes, particularly for complex queries, and (2) they do not provide a flexible way for non …
-Cites: ‪SmBoP: Semi-autoregressive Bottom-up Semantic Parsing‬
+--- 
+layout: post 
+title: "Interactive Text-to-SQL Generation via Editable Step-by-Step Explanations" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "Y Tian, TJJ Li, JK Kummerfeld, T Zhang - arXiv preprint arXiv:2305.07372, 2023" 
+--- 
+Relational databases play an important role in this Big Data era. However, it is challenging for non-experts to fully unleash the analytical power of relational databases, since they are not familiar with database languages such as SQL. Many techniques have been proposed to automatically generate SQL from natural language, but they suffer from two issues:(1) they still make many mistakes, particularly for complex queries, and (2) they do not provide a flexible way for non  Cites: SmBoP: Semi-autoregressive Bottom-up Semantic Parsing

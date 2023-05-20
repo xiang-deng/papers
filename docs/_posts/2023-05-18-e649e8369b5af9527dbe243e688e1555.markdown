@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion"
-date:   2023-05-18 07:22:22 -0400
-categories: jekyll update
-author: "W Xu, B Liu, M Peng, X Jia, M Peng - arXiv preprint arXiv:2305.07912, 2023"
----
-Temporal Knowledge graph completion (TKGC) is a crucial task that involves reasoning at known timestamps to complete the missing part of facts and has attracted more and more attention in recent years. Most existing methods focus on learning representations based on graph neural networks while inaccurately extracting information from timestamps and insufficiently utilizing the implied information in relations. To address these problems, we propose a novel TKGC …
-Cites: ‪Embedding entities and relations for learning and inference in …‬
+--- 
+layout: post 
+title: "Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion" 
+date: 2023-05-18 07:22:22 -0400 
+categories: jekyll update 
+author: "W Xu, B Liu, M Peng, X Jia, M Peng - arXiv preprint arXiv:2305.07912, 2023" 
+--- 
+Temporal Knowledge graph completion (TKGC) is a crucial task that involves reasoning at known timestamps to complete the missing part of facts and has attracted more and more attention in recent years. Most existing methods focus on learning representations based on graph neural networks while inaccurately extracting information from timestamps and insufficiently utilizing the implied information in relations. To address these problems, we propose a novel TKGC  Cites: Embedding entities and relations for learning and inference in
