@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Direct fact retrieval from knowledge graphs without entity linking"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "J Baek, AF Aji, J Lehmann, SJ Hwang - 2023"
+---
+There has been a surge of interest in utilizing Knowledge Graphs (KGs) for various natural language processing/understanding tasks. The conventional mechanism to retrieve facts in KGs usually involves three steps: entity span detection, entity disambiguation, and relation classification. However, this approach requires additional labels for training each of the three subcomponents in addition to pairs of input texts and facts, and also may accumulate errors propagated from failures in …
+Cites: ‪Learning Dense Representations of Phrases at Scale‬

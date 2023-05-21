@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MetaModulation: Learning Variational Feature Hierarchies for Few-Shot Learning with Fewer Tasks"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "W Sun, Y Du, X Zhen, F Wang, L Wang, CGM Snoek - arXiv preprint arXiv …, 2023"
+---
+Meta-learning algorithms are able to learn a new task using previously learned knowledge, but they often require a large number of meta-training tasks which may not be readily available. To address this issue, we propose a method for few-shot learning with fewer tasks, which we call MetaModulation. The key idea is to use a neural network to increase the density of the meta-training tasks by modulating batch normalization parameters during meta-training. Additionally, we modify parameters …
+Cites: ‪DReCa: A general task augmentation strategy for few-shot natural …‬

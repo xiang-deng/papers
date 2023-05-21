@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SLiC-HF: Sequence Likelihood Calibration with Human Feedback"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "Y Zhao, R Joshi, T Liu, M Khalman, M Saleh, PJ Liu - arXiv preprint arXiv:2305.10425, 2023"
+---
+Learning from human feedback has been shown to be effective at aligning language models with human preferences. Past work has often relied on Reinforcement Learning from Human Feedback (RLHF), which optimizes the language model using reward scores assigned from a reward model trained on human preference data. In this work we show how the recently introduced Sequence Likelihood Calibration (SLiC), can also be used to effectively learn from human preferences (SLiC-HF) …
+Cites: ‪Holistic evaluation of language models‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "What In-Context Learning  Learns  In-Context: Disentangling Task Recognition and Task Learning"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "J Pan, T Gao, H Chen, D Chen - arXiv preprint arXiv:2305.09731, 2023"
+---
+Large language models (LLMs) exploit in-context learning (ICL) to solve tasks with only a few demonstrations, but its mechanisms are not yet well-understood. Some works suggest that LLMs only recall already learned concepts from pre-training, while others hint that ICL performs implicit learning over demonstrations. We characterize two ways through which ICL leverages demonstrations. Task recognition (TR) captures the extent to which LLMs can recognize a task through …
+Cites: ‪What learning algorithm is in-context learning? investigations with …‬

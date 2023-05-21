@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Micro Replication"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "T Distler, M Eischer, L Lawniczak"
+---
+State-machine replication protocols represent the foundation of many fault-tolerant services. Unfortunately, their inherent complexity makes existing implementations notoriously difficult to debug and test. To address this problem, we propose a novel design approach, micro replication, whose main goal is to reduce bugs and enable replication protocols with improved debuggability properties. At its core, our concept consists of a set of principles that, if followed during protocol design, later …
+Cites: ‪Sledgehammer: Cluster-Fueled Debugging.‬

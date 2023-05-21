@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "K Wang, S Luo, D Lin - arXiv preprint arXiv:2305.09974, 2023"
+---
+We study Graph Neural Networks (GNNs)-based embedding techniques for knowledge graph (KG) reasoning. For the first time, we link the path redundancy issue in the state-of-the-art KG reasoning models based on path encoding and message passing to the transformation error in model training, which brings us new theoretical insights into KG reasoning, as well as high efficacy in practice. On the theoretical side, we analyze the entropy of transformation error in KG paths and point …
+Cites: ‪Observed versus latent features for knowledge base and text …‬

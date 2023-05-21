@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Easy-to-Hard Learning for Information Extraction"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "C Gao, W Zhang, W Lam, L Bing - arXiv preprint arXiv:2305.09193, 2023"
+---
+Information extraction (IE) systems aim to automatically extract structured information, such as named entities, relations between entities, and events, from unstructured texts. While most existing work addresses a particular IE task, universally modeling various IE tasks with one model has achieved great success recently. Despite their success, they employ a one-stage learning strategy, ie, directly learning to extract the target structure given the input text, which contradicts the human learning process. In …
+Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬

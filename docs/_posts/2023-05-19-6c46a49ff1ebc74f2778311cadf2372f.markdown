@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing Keyphrase Extraction from Long Scientific Documents using Graph Embeddings"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "R Martínez-Cruz, D Mahata, AJ López-López, J Portela - arXiv preprint arXiv …, 2023"
+---
+In this study, we investigate using graph neural network (GNN) representations to enhance contextualized representations of pre-trained language models (PLMs) for keyphrase extraction from lengthy documents. We show that augmenting a PLM with graph embeddings provides a more comprehensive semantic understanding of words in a document, particularly for long documents. We construct a co-occurrence graph of the text and embed it using a graph convolutional network (GCN) trained on …
+Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬

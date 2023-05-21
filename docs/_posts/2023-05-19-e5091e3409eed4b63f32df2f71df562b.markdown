@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Data Extraction via Semantic Regular Expression Synthesis"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "Q Chen, A Banerjee, Ç Demiralp, G Durrett, I Dillig - arXiv preprint arXiv:2305.10401, 2023"
+---
+Many data extraction tasks of practical relevance require not only syntactic pattern matching but also semantic reasoning about the content of the underlying text. While regular expressions are very well suited for tasks that require only syntactic pattern matching, they fall short for data extraction tasks that involve both a syntactic and semantic component. To address this issue, we introduce semantic regexes, a generalization of regular expressions that facilitates combined syntactic and …
+Cites: ‪Binding language models in symbolic languages‬

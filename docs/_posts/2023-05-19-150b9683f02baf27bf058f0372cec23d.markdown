@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "Y Fu, H Peng, T Khot, M Lapata - arXiv preprint arXiv:2305.10142, 2023"
+---
+We study whether multiple large language models (LLMs) can autonomously improve each other in a negotiation game by playing, reflecting, and criticizing. We are interested in this question because if LLMs were able to improve each other, it would imply the possibility of creating strong AI agents with minimal human intervention. We ask two LLMs to negotiate with each other, playing the roles of a buyer and a seller, respectively. They aim to reach a deal with the buyer targeting a …
+Cites: ‪Teaching large language models to self-debug‬

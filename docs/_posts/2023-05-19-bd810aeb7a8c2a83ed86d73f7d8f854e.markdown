@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Incorporating Signal Awareness in Source Code Modeling: an Application to Vulnerability Detection"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "S Suneja, Y Zhuang, Y Zheng, J Laredo, A Morari… - ACM Transactions on Software …"
+---
+AI models of code have made significant progress over the last few years. However, many models are actually not learning task-relevant source code features. Instead, they often fit non-relevant but correlated data, leading to a lack of robustness and generalizability, and limiting the subsequent practical use of such models. In this work, we focus on improving the model quality through signal awareness, ie, learning the relevant signals in the input for making predictions. We do so by …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

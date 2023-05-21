@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pre-Training to Learn in Context"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "Y Gu, L Dong, F Wei, M Huang - arXiv preprint arXiv:2305.09137, 2023"
+---
+In-context learning, where pre-trained language models learn to perform tasks from task examples and instructions in their contexts, has attracted much attention in the NLP community. However, the ability of in-context learning is not fully exploited because language models are not explicitly trained to learn in context. To this end, we propose PICL (Pre-training for In-Context Learning), a framework to enhance the language models  in-context learning ability by pre-training the model on a large …
+Cites: ‪Impact of Pretraining Term Frequencies on Few-Shot Reasoning‬

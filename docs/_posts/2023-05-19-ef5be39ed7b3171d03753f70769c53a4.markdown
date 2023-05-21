@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AD-KD: Attribution-Driven Knowledge Distillation for Language Model Compression"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "S Wu, H Chen, X Quan, Q Wang, R Wang - arXiv preprint arXiv:2305.10010, 2023"
+---
+Knowledge distillation has attracted a great deal of interest recently to compress pre-trained language models. However, existing knowledge distillation methods suffer from two limitations. First, the student model simply imitates the teacher s behavior while ignoring the underlying reasoning. Second, these methods usually focus on the transfer of sophisticated model-specific knowledge but overlook data-specific knowledge. In this paper, we present a novel attribution-driven knowledge distillation …
+Cites: ‪Well-read students learn better: On the importance of pre-training …‬

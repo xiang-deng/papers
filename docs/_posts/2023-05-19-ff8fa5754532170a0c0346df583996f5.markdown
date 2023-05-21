@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generative Table Pre-training Empowers Models for Tabular Prediction"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "T Zhang, S Wang, S Yan, J Li, Q Liu - arXiv preprint arXiv:2305.09696, 2023"
+---
+Recently, the topic of table pre-training has attracted considerable research interest. However, how to employ table pre-training to boost the performance of tabular prediction remains an open challenge. In this paper, we propose TapTap, the first attempt that leverages table pre-training to empower models for tabular prediction. After pre-training on a large corpus of real-world tabular data, TapTap can generate high-quality synthetic tables to support various applications on tabular data …
+Cites: ‪Do NLP Models Know Numbers? Probing Numeracy in Embeddings‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "Y Zhang, G Li, Z Jin, Y Xing - arXiv preprint arXiv:2305.09315, 2023"
+---
+Automated program repair is a crucial task for improving the efficiency of software developers. Recently, neural-based techniques have demonstrated significant promise in generating correct patches for buggy code snippets. However, most existing approaches arbitrarily treat the buggy context without any analysis to capture the semantic relationship between the buggy statement and its context. Additionally, we observe that existing neural models may output an unaltered patch consistent …
+Cites: ‪Graphcodebert: Pre-training code representations with data flow‬

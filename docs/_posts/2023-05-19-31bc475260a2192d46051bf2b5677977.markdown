@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Alleviating Exposure Bias for Neural Machine Translation via Contextual Augmentation and Self Distillation"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "Z Liu, J Li, M Zhu - IEEE/ACM Transactions on Audio, Speech, and …, 2023"
+---
+In neural machine translation (NMT), most sequence-to-sequence (seq2seq) models are trained only with the teacher-forcing paradigm, where the ground truth history is used to predict the next ground truth word. At the inference stage, however, the decoder predicts the next token solely based on history generated from scratch. Both using ground truth history and predicting ground truth words potentially lead to exposure bias. On the one hand, to alleviate the issue of exposure bias caused by …
+Cites: ‪Deep unordered composition rivals syntactic methods for text …‬

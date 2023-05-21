@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "X Miao, G Oliaro, Z Zhang, X Cheng, Z Wang… - arXiv preprint arXiv …, 2023"
+---
+The high computational and memory requirements of generative large language models (LLMs) make it challenging to serve them quickly and cheaply. This paper introduces SpecInfer, an LLM serving system that accelerates generative LLM inference with speculative inference and token tree verification. A key insight behind SpecInfer is to combine various collectively boost-tuned small language models to jointly predict the LLM s outputs; the predictions are organized as a token tree, whose …
+Cites: ‪GPT3. int8 (): 8-bit Matrix Multiplication for Transformers at Scale‬

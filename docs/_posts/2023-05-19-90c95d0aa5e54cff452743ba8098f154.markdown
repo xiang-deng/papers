@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FACE: Evaluating Natural Language Generation with Fourier Analysis of Cross-Entropy"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "Z Yang, Y Yuan, Y Xu, S Zhan, H Bai, K Chen - arXiv preprint arXiv:2305.10307, 2023"
+---
+Measuring the distance between machine-produced and human language is acritical open problem. Inspired by empirical findings from psycholinguistics on theperiodicity of entropy in language, we propose FACE, a set of metrics based onFourier Analysis of the estimated Cross-Entropy of language, for measuring thesimilarity between model-generated and human-written languages. Based on anopen-ended generation task and the experimental data from previous studies, weind that FACE …
+Cites: ‪Contrastive decoding: Open-ended text generation as optimization‬

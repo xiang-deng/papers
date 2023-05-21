@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A label noise filtering method for regression based on adaptive threshold and noise score"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "C Li, Z Mao - Expert Systems with Applications, 2023"
+---
+The quality of training data plays a decisive role in the establishment of intelligent models. Since raw data obtained from the real world are usually entwined with noise due to variety of causes, noise filtering has become an important aspect of machine learning techniques. In contrast with the extensive research conducted on noise elimination for classification purposes, papers addressing this problem for regression tasks are rather scarce. In this paper, we propose a novel noise filter to clean noisy …
+Cites: ‪Dividemix: Learning with noisy labels as semi-supervised learning‬

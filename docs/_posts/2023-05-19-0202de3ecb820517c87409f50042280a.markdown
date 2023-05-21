@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks"
+date:   2023-05-19 23:52:25 -0400
+categories: jekyll update
+author: "A Gui, J Ye, H Xiao - arXiv preprint arXiv:2305.10329, 2023"
+---
+It has become a popular paradigm to transfer the knowledge of large-scale pre-trained models to various downstream tasks via fine-tuning the entire model parameters. However, with the growth of model scale and the rising number of downstream tasks, this paradigm inevitably meets the challenges in terms of computation consumption and memory footprint issues. Recently, Parameter-Efficient Fine-Tuning (PEFT)(eg, Adapter, LoRA, BitFit) shows a promising paradigm to …
+Cites: ‪Sparse Structure Search for Delta Tuning‬
