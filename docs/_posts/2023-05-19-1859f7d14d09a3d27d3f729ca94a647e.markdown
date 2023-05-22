@@ -1,9 +1,8 @@
----
-layout: post
-title:  "StructGPT: A General Framework for Large Language Model to Reason over Structured Data"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "J Jiang, K Zhou, Z Dong, K Ye, WX Zhao, JR Wen - arXiv preprint arXiv:2305.09645, 2023"
----
-In this paper, we study how to improve the zero-shot reasoning ability of large language models~(LLMs) over structured data in a unified way. Inspired by the study on tool augmentation for LLMs, we develop an\emph {Iterative Reading-then-Reasoning~(IRR)} approach for solving question answering tasks based on structured data, called\textbf {StructGPT}. In our approach, we construct the specialized function to collect relevant evidence from structured data (\ie\emph …
-Cites: ‪Unik-qa: Unified representations of structured and unstructured …‬
+--- 
+layout: post 
+title: "StructGPT: A General Framework for Large Language Model to Reason over Structured Data" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "J Jiang, K Zhou, Z Dong, K Ye, WX Zhao, JR Wen - arXiv preprint arXiv:2305.09645, 2023" 
+--- 
+In this paper, we study how to improve the zero-shot reasoning ability of large language models~(LLMs) over structured data in a unified way. Inspired by the study on tool augmentation for LLMs, we develop an\emph {Iterative Reading-then-Reasoning~(IRR)} approach for solving question answering tasks based on structured data, called\textbf {StructGPT}. In our approach, we construct the specialized function to collect relevant evidence from structured data (\ie\emph  Cites: Unik-qa: Unified representations of structured and unstructured

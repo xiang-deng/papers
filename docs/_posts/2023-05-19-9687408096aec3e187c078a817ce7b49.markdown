@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MsPrompt: Multi-step Prompt Learning for Debiasing Few-shot Event Detection"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "S Wang, J Zheng, X Hu, F Cai, C Song, X Luo - arXiv preprint arXiv:2305.09335, 2023"
----
-Event detection (ED) is aimed to identify the key trigger words in unstructured text and predict the event types accordingly. Traditional ED models are too data-hungry to accommodate real applications with scarce labeled data. Besides, typical ED models are facing the context-bypassing and disabled generalization issues caused by the trigger bias stemming from ED datasets. Therefore, we focus on the true few-shot paradigm to satisfy the low-resource scenarios. In particular, we propose a multi …
-Cites: ‪True few-shot learning with language models‬
+--- 
+layout: post 
+title: "MsPrompt: Multi-step Prompt Learning for Debiasing Few-shot Event Detection" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "S Wang, J Zheng, X Hu, F Cai, C Song, X Luo - arXiv preprint arXiv:2305.09335, 2023" 
+--- 
+Event detection (ED) is aimed to identify the key trigger words in unstructured text and predict the event types accordingly. Traditional ED models are too data-hungry to accommodate real applications with scarce labeled data. Besides, typical ED models are facing the context-bypassing and disabled generalization issues caused by the trigger bias stemming from ED datasets. Therefore, we focus on the true few-shot paradigm to satisfy the low-resource scenarios. In particular, we propose a multi  Cites: True few-shot learning with language models

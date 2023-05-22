@@ -1,9 +1,8 @@
----
-layout: post
-title:  "UOR: Universal Backdoor Attacks on Pre-trained Language Models"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "W Du, P Li, B Li, H Zhao, G Liu - arXiv preprint arXiv:2305.09574, 2023"
----
-Backdoors implanted in pre-trained language models (PLMs) can be transferred to various downstream tasks, which exposes a severe security threat. However, most existing backdoor attacks against PLMs are un-targeted and task-specific. Few targeted and task-agnostic methods use manually pre-defined triggers and output representations, which prevent the attacks from being more effective and general. In this paper, we first summarize the requirements that a more threatening backdoor …
-Cites: ‪Red alarm for pre-trained models: Universal vulnerability to neuron …‬
+--- 
+layout: post 
+title: "UOR: Universal Backdoor Attacks on Pre-trained Language Models" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "W Du, P Li, B Li, H Zhao, G Liu - arXiv preprint arXiv:2305.09574, 2023" 
+--- 
+Backdoors implanted in pre-trained language models (PLMs) can be transferred to various downstream tasks, which exposes a severe security threat. However, most existing backdoor attacks against PLMs are un-targeted and task-specific. Few targeted and task-agnostic methods use manually pre-defined triggers and output representations, which prevent the attacks from being more effective and general. In this paper, we first summarize the requirements that a more threatening backdoor  Cites: Red alarm for pre-trained models: Universal vulnerability to neuron

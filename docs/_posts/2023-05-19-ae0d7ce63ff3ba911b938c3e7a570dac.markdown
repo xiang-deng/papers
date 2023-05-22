@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Epsilon Sampling Rocks: Investigating Sampling Strategies for\\Minimum Bayes Risk Decoding for Machine Translation"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "M Freitag, B Ghorbani, P Fernandes - arXiv preprint arXiv:2305.09860, 2023"
----
-Recent advances in machine translation (MT) have shown that Minimum Bayes Risk (MBR) decoding can be a powerful alternative to beam search decoding, especially when combined with neural-based utility functions. However, the performance of MBR decoding depends heavily on how and how many candidates are sampled from the model. In this paper, we explore how different sampling approaches for generating candidate lists for MBR decoding affect performance. We evaluate …
-Cites: ‪Truncation Sampling as Language Model Desmoothing‬
+--- 
+layout: post 
+title: "Epsilon Sampling Rocks: Investigating Sampling Strategies for\\Minimum Bayes Risk Decoding for Machine Translation" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "M Freitag, B Ghorbani, P Fernandes - arXiv preprint arXiv:2305.09860, 2023" 
+--- 
+Recent advances in machine translation (MT) have shown that Minimum Bayes Risk (MBR) decoding can be a powerful alternative to beam search decoding, especially when combined with neural-based utility functions. However, the performance of MBR decoding depends heavily on how and how many candidates are sampled from the model. In this paper, we explore how different sampling approaches for generating candidate lists for MBR decoding affect performance. We evaluate  Cites: Truncation Sampling as Language Model Desmoothing

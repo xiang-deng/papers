@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Consistent Multi-Granular Rationale Extraction for Explainable Multi-hop Fact Verification"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "J Si, Y Zhu, D Zhou - arXiv preprint arXiv:2305.09400, 2023"
----
-The success of deep learning models on multi-hop fact verification has prompted researchers to understand the behavior behind their veracity. One possible way is erasure search: obtaining the rationale by entirely removing a subset of input without compromising the veracity prediction. Although extensively explored, existing approaches fall within the scope of the single-granular (tokens or sentences) explanation, which inevitably leads to explanation redundancy and inconsistency. To …
-Cites: ‪Fine-grained fact verification with kernel graph attention network‬
+--- 
+layout: post 
+title: "Consistent Multi-Granular Rationale Extraction for Explainable Multi-hop Fact Verification" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "J Si, Y Zhu, D Zhou - arXiv preprint arXiv:2305.09400, 2023" 
+--- 
+The success of deep learning models on multi-hop fact verification has prompted researchers to understand the behavior behind their veracity. One possible way is erasure search: obtaining the rationale by entirely removing a subset of input without compromising the veracity prediction. Although extensively explored, existing approaches fall within the scope of the single-granular (tokens or sentences) explanation, which inevitably leads to explanation redundancy and inconsistency. To  Cites: Fine-grained fact verification with kernel graph attention network

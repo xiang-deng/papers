@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Clustering-Aware Negative Sampling for Unsupervised Sentence Representation"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "J Deng, F Wan, T Yang, X Quan, R Wang - arXiv preprint arXiv:2305.09892, 2023"
----
-Contrastive learning has been widely studied in sentence representation learning. However, earlier works mainly focus on the construction of positive examples, while in-batch samples are often simply treated as negative examples. This approach overlooks the importance of selecting appropriate negative examples, potentially leading to a scarcity of hard negatives and the inclusion of false negatives. To address these issues, we propose ClusterNS (Clustering-aware Negative Sampling) …
-Cites: ‪Prototypical Verbalizer for Prompt-based Few-shot Tuning‬
+--- 
+layout: post 
+title: "Clustering-Aware Negative Sampling for Unsupervised Sentence Representation" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "J Deng, F Wan, T Yang, X Quan, R Wang - arXiv preprint arXiv:2305.09892, 2023" 
+--- 
+Contrastive learning has been widely studied in sentence representation learning. However, earlier works mainly focus on the construction of positive examples, while in-batch samples are often simply treated as negative examples. This approach overlooks the importance of selecting appropriate negative examples, potentially leading to a scarcity of hard negatives and the inclusion of false negatives. To address these issues, we propose ClusterNS (Clustering-aware Negative Sampling)  Cites: Prototypical Verbalizer for Prompt-based Few-shot Tuning

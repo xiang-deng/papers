@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Tailoring Instructions to Student s Learning Levels Boosts Knowledge Distillation"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "Y Ren, Z Zhong, X Shi, Y Zhu, C Yuan, M Li - arXiv preprint arXiv:2305.09651, 2023"
----
-It has been commonly observed that a teacher model with superior performance does not necessarily result in a stronger student, highlighting a discrepancy between current teacher training practices and effective knowledge transfer. In order to enhance the guidance of the teacher training process, we introduce the concept of distillation influence to determine the impact of distillation from each training sample on the student s generalization ability. In this paper, we propose Learning Good …
-Cites: ‪On the opportunities and risks of foundation models‬
+--- 
+layout: post 
+title: "Tailoring Instructions to Student s Learning Levels Boosts Knowledge Distillation" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "Y Ren, Z Zhong, X Shi, Y Zhu, C Yuan, M Li - arXiv preprint arXiv:2305.09651, 2023" 
+--- 
+It has been commonly observed that a teacher model with superior performance does not necessarily result in a stronger student, highlighting a discrepancy between current teacher training practices and effective knowledge transfer. In order to enhance the guidance of the teacher training process, we introduce the concept of distillation influence to determine the impact of distillation from each training sample on the student s generalization ability. In this paper, we propose Learning Good  Cites: On the opportunities and risks of foundation models

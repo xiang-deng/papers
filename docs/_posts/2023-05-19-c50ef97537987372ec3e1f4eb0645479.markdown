@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Explaining black box text modules in natural language with language models"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "C Singh, AR Hsu, R Antonello, S Jain, AG Huth, B Yu… - arXiv preprint arXiv …, 2023"
----
-Large language models (LLMs) have demonstrated remarkable prediction performance for a growing array of tasks. However, their rapid proliferation and increasing opaqueness have created a growing need for interpretability. Here, we ask whether we can automatically obtain natural language explanations for black box text modules. A  text module  is any function that maps text to a scalar continuous value, such as a submodule within an LLM or a fitted model of a brain …
-Cites: ‪One Embedder, Any Task: Instruction-Finetuned Text Embeddings‬
+--- 
+layout: post 
+title: "Explaining black box text modules in natural language with language models" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "C Singh, AR Hsu, R Antonello, S Jain, AG Huth, B Yu - arXiv preprint arXiv , 2023" 
+--- 
+Large language models (LLMs) have demonstrated remarkable prediction performance for a growing array of tasks. However, their rapid proliferation and increasing opaqueness have created a growing need for interpretability. Here, we ask whether we can automatically obtain natural language explanations for black box text modules. A text module is any function that maps text to a scalar continuous value, such as a submodule within an LLM or a fitted model of a brain  Cites: One Embedder, Any Task: Instruction-Finetuned Text Embeddings

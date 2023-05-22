@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RelationMatch: Matching In-batch Relationships for Semi-supervised Learning"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "Y Zhang, J Yang, Z Tan, Y Yuan - arXiv preprint arXiv:2305.10397, 2023"
----
-Semi-supervised learning has achieved notable success by leveraging very few labeled data and exploiting the wealth of information derived from unlabeled data. However, existing algorithms usually focus on aligning predictions on paired data points augmented from an identical source, and overlook the inter-point relationships within each batch. This paper introduces a novel method, RelationMatch, which exploits in-batch relationships with a matrix cross-entropy (MCE) loss function …
-Cites: ‪Meta pseudo labels‬
+--- 
+layout: post 
+title: "RelationMatch: Matching In-batch Relationships for Semi-supervised Learning" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "Y Zhang, J Yang, Z Tan, Y Yuan - arXiv preprint arXiv:2305.10397, 2023" 
+--- 
+Semi-supervised learning has achieved notable success by leveraging very few labeled data and exploiting the wealth of information derived from unlabeled data. However, existing algorithms usually focus on aligning predictions on paired data points augmented from an identical source, and overlook the inter-point relationships within each batch. This paper introduces a novel method, RelationMatch, which exploits in-batch relationships with a matrix cross-entropy (MCE) loss function  Cites: Meta pseudo labels

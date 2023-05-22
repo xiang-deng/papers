@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "H Liu, N Liao, S Luo - arXiv preprint arXiv:2305.09958, 2023"
----
-Graph neural networks (GNNs) realize great success in graph learning but suffer from performance loss when meeting heterophily, ie neighboring nodes are dissimilar, due to their local and uniform aggregation. Existing attempts in incoorporating global aggregation for heterophilous GNNs usually require iteratively maintaining and updating full-graph information, which entails $\mathcal {O}(n^ 2) $ computation efficiency for a graph with $ n $ nodes, leading to weak scalability to …
-Cites: ‪SCARA: scalable graph neural networks with feature-oriented …‬
+--- 
+layout: post 
+title: "SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "H Liu, N Liao, S Luo - arXiv preprint arXiv:2305.09958, 2023" 
+--- 
+Graph neural networks (GNNs) realize great success in graph learning but suffer from performance loss when meeting heterophily, ie neighboring nodes are dissimilar, due to their local and uniform aggregation. Existing attempts in incoorporating global aggregation for heterophilous GNNs usually require iteratively maintaining and updating full-graph information, which entails $\mathcal {O}(n^ 2) $ computation efficiency for a graph with $ n $ nodes, leading to weak scalability to  Cites: SCARA: scalable graph neural networks with feature-oriented

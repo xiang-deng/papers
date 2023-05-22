@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prompt-Tuning Decision Transformer with Preference Ranking"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "S Hu, L Shen, Y Zhang, D Tao - arXiv preprint arXiv:2305.09648, 2023"
----
-Prompt-tuning has emerged as a promising method for adapting pre-trained models to downstream tasks or aligning with human preferences. Prompt learning is widely used in NLP but has limited applicability to RL due to the complex physical meaning and environment-specific information contained within RL prompts. These factors require supervised learning to imitate the demonstrations and may result in a loss of meaning after learning. Additionally, directly extending prompt-tuning approaches to …
-Cites: ‪Factual Probing Is [MASK]: Learning vs. Learning to Recall‬
+--- 
+layout: post 
+title: "Prompt-Tuning Decision Transformer with Preference Ranking" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "S Hu, L Shen, Y Zhang, D Tao - arXiv preprint arXiv:2305.09648, 2023" 
+--- 
+Prompt-tuning has emerged as a promising method for adapting pre-trained models to downstream tasks or aligning with human preferences. Prompt learning is widely used in NLP but has limited applicability to RL due to the complex physical meaning and environment-specific information contained within RL prompts. These factors require supervised learning to imitate the demonstrations and may result in a loss of meaning after learning. Additionally, directly extending prompt-tuning approaches to  Cites: Factual Probing Is [MASK]: Learning vs. Learning to Recall

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Boosting Event Extraction with Denoised Structure-to-Text Augmentation"
-date:   2023-05-19 23:52:25 -0400
-categories: jekyll update
-author: "H Huang, X Wei, G Shi, X Liu, C Feng, T Zhou, S Wang… - arXiv preprint arXiv …, 2023"
----
-Event extraction aims to recognize pre-defined event triggers and arguments from texts, which suffer from the lack of high-quality annotations. In most NLP applications, involving a large scale of synthetic training data is a practical and effective approach to alleviate the problem of data scarcity. However, when applying to the task of event extraction, recent data augmentation methods often neglect the problem of grammatical incorrectness, structure misalignment, and semantic drifting, leading to …
-Cites: ‪SSMBA: Self-supervised manifold based data augmentation for …‬
+--- 
+layout: post 
+title: "Boosting Event Extraction with Denoised Structure-to-Text Augmentation" 
+date: 2023-05-19 23:52:25 -0400 
+categories: jekyll update 
+author: "H Huang, X Wei, G Shi, X Liu, C Feng, T Zhou, S Wang - arXiv preprint arXiv , 2023" 
+--- 
+Event extraction aims to recognize pre-defined event triggers and arguments from texts, which suffer from the lack of high-quality annotations. In most NLP applications, involving a large scale of synthetic training data is a practical and effective approach to alleviate the problem of data scarcity. However, when applying to the task of event extraction, recent data augmentation methods often neglect the problem of grammatical incorrectness, structure misalignment, and semantic drifting, leading to  Cites: SSMBA: Self-supervised manifold based data augmentation for
