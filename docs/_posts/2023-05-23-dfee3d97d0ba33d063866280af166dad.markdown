@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Finding Cycles in Graph: A Unified Approach for Various NER Tasks"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "L Qiao, P Li, T Jin, X Li"
+---
+Named Entity Recognition (NER) is the task of recognizing the entities  locations and types in text, which can be generally categorized into flat NER, overlapped NER, and discontinuous NER. Most previous methods are usually designed specifically for one of the tasks, such as sequence labeling approaches for flat NER and span-based models for overlapped NER. Recently, some new work has begun to propose the unified NER framework that can addresses all three scenarios simultaneously …
+Cites: ‪Combining spans into entities: A neural two-stage approach for …‬

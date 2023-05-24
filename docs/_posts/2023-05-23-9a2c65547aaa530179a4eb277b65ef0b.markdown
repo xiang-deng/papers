@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Statistical Knowledge Assessment for Generative Language Models"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "Q Dong, J Xu, L Kong, Z Sui, L Li - arXiv preprint arXiv:2305.10519, 2023"
+---
+Generative Language Models (GLMs) have demonstrated capabilities to store factual knowledge and answer queries efficiently. Given varying prompts, does a GLM consistently generate factually correct answers? In this paper, we introduce a statistical knowledge assessment framework guided by latent variables and the KaRR metric, which quantifies a model s knowledge by computing its continuous probability across diverse text forms. We conduct a comprehensive comparison of …
+Cites: ‪Methods for Measuring, Updating, and Visualizing Factual Beliefs …‬

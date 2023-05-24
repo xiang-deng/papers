@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "X Li, Y Cao, M Chen, A Sun - arXiv preprint arXiv:2305.10907, 2023"
+---
+Goal-oriented Script Generation is a new task of generating a list of steps that can fulfill the given goal. In this paper, we propose to extend the task from the perspective of cognitive theory. Instead of a simple flat structure, the steps are typically organized hierarchically-Human often decompose a complex task into subgoals, where each subgoal can be further decomposed into steps. To establish the benchmark, we contribute a new dataset, propose several baseline methods, and set up evaluation …
+Cites: ‪Analogous process structure induction for sub-event sequence …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PartDistillation: Learning Parts from Instance Segmentation"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "JH Cho, P Krähenbühl, V Ramanathan - Proceedings of the IEEE/CVF Conference on …, 2023"
+---
+We present a scalable framework to learn part segmentation from object instance labels. State-of-the-art instance segmentation models contain a surprising amount of part information. However, much of this information is hidden from plain view. For each object instance, the part information is noisy, inconsistent, and incomplete. PartDistillation transfers the part information of an instance segmentation model into a part segmentation model through self-supervised self-training on a large dataset …
+Cites: ‪Simple copy-paste is a strong data augmentation method for …‬

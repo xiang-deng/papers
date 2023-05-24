@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Aspect-Pair Supervised Contrastive Learning for aspect-based sentiment analysis"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "P Li, P Li, X Xiao - Knowledge-Based Systems, 2023"
+---
+Aspect-based sentiment analysis (ABSA) is a fine-grained sentiment classification task, which identifies the sentiment polarity of a specific aspect in a sentence. In general, the syntactic dependency and semantic information between aspects and their contexts are modeled using deep neural networks. However, most of the existing methods treat specific aspects in a sentence independently, while ignoring the sentiment relationships between multiple aspects. In this work, we propose an …
+Cites: ‪Aspect level sentiment classification with deep memory network‬

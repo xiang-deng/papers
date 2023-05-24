@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Minimum-Risk Recalibration of Classifiers"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "Z Sun, D Song, A Hero - arXiv preprint arXiv:2305.10886, 2023"
+---
+Recalibrating probabilistic classifiers is vital for enhancing the reliability and accuracy of predictive models. Despite the development of numerous recalibration algorithms, there is still a lack of a comprehensive theory that integrates calibration and sharpness (which is essential for maintaining predictive power). In this paper, we introduce the concept of minimum-risk recalibration within the framework of mean-squared-error (MSE) decomposition, offering a principled approach for evaluating …
+Cites: ‪Calibration of Pre-trained Transformers‬

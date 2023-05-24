@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Counterfactual Debiasing for Generating Factually Consistent Text Summaries"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "C Dong, Y Xie, Y Li, Y Shen - arXiv preprint arXiv:2305.10736, 2023"
+---
+Despite substantial progress in abstractive text summarization to generate fluent and informative texts, the factual inconsistency in the generated summaries remains an important yet challenging problem to be solved. In this paper, we construct causal graphs for abstractive text summarization and identify the intrinsic causes of the factual inconsistency, ie, the language bias and irrelevancy bias, and further propose a debiasing framework, named CoFactSum, to alleviate the causal effects of these …
+Cites: ‪Improving faithfulness in abstractive summarization with contrast …‬

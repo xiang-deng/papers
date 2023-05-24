@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Decoupled Two-Phase Framework for Class-Incremental Few-Shot Named Entity Recognition"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "Y Chen, Z Huang, M Hu, D Li, C Wang, F Liu, X Lu - Tsinghua Science and …, 2023"
+---
+Class-Incremental Few-Shot Named Entity Recognition (CIFNER) aims to identify entity categories that have appeared with only a few newly added (novel) class examples. However, existing class-incremental methods typically introduce new parameters to adapt to new classes and treat all information equally, resulting in poor generalization. Meanwhile, few-shot methods necessitate samples for all observed classes, making them difficult to transfer into a class-incremental setting. Thus, a …
+Cites: ‪Few-NERD: A Few-Shot Named Entity Recognition Dataset‬

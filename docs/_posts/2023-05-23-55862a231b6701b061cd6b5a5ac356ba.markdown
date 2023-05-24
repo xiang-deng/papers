@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Prompting via Dynamic In-Context Learning"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "W Zhou, YE Jiang, R Cotterell, M Sachan - arXiv preprint arXiv:2305.11170, 2023"
+---
+The primary way of building AI applications is shifting from training specialist models to prompting generalist models. A common practice for prompting generalist models, often referred to as in-context learning, is to append a few examples (demonstrations) to the prompt to help the model better understand the task. While effective, in-context learning can be inefficient because it makes the input prompt much longer, consuming valuable space in the context window and leading to larger …
+Cites: ‪Gpt3. int8 (): 8-bit matrix multiplication for transformers at scale‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TOME: A Two-stage Approach for Model-based Retrieval"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "R Ren, WX Zhao, J Liu, H Wu, JR Wen, H Wang - arXiv preprint arXiv:2305.11161, 2023"
+---
+Recently, model-based retrieval has emerged as a new paradigm in text retrieval that discards the index in the traditional retrieval model and instead memorizes the candidate corpora using model parameters. This design employs a sequence-to-sequence paradigm to generate document identifiers, which enables the complete capture of the relevance between queries and documents and simplifies the classic indexretrieval-rerank pipeline. Despite its attractive qualities, there remain several …
+Cites: ‪XOR QA: Cross-lingual Open-Retrieval Question Answering‬

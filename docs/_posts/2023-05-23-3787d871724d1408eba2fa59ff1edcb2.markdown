@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Large Language Models Can be Lazy Learners: Analyze Shortcuts in In-Context Learning"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "R Tang, D Kong, L Huang, H Xue"
+---
+Large language models (LLMs) have recently shown great potential for in-context learning, where LLMs learn a new task simply by conditioning on a few input-label pairs (prompts). However, despite this potential, there remains a limited understanding of the factors that influence end-task performance and the robustness of in-context learning. This paper aims to address this gap in knowledge by examining the extent to which LLMs rely on shortcuts or spurious correlations …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

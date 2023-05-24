@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TAPIR: Learning Adaptive Revision for Incremental Natural Language Understanding with a Two-Pass Model"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "P Kahardipraja, B Madureira, D Schlangen - arXiv preprint arXiv:2305.10845, 2023"
+---
+Language is by its very nature incremental in how it is produced and processed. This property can be exploited by NLP systems to produce fast responses, which has been shown to be beneficial for real-time interactive applications. Recent neural network-based approaches for incremental processing mainly use RNNs or Transformers. RNNs are fast but monotonic (cannot correct earlier output, which can be necessary in incremental processing). Transformers, on the other hand, consume …
+Cites: ‪Don’t until the final verb wait: Reinforcement learning for …‬

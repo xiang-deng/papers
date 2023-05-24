@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "Z Wang, K Zhao, Y He, Z Chen, P Ren, M de Rijke… - arXiv preprint arXiv …, 2023"
+---
+Recent work on knowledge graph completion (KGC) focused on learning embeddings of entities and relations in knowledge graphs. These embedding methods require that all test entities are observed at training time, resulting in a time-consuming retraining process for out-of-knowledge-graph (OOKG) entities. To address this issue, current inductive knowledge embedding methods employ graph neural networks (GNNs) to represent unseen entities by aggregating information of …
+Cites: ‪KEPLER: A Unified Model for Knowledge Embedding and Pre …‬

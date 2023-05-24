@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BERM: Training the Balanced and Extractable Representation for Matching to Improve Generalization Ability of Dense Retrieval"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "S Xu, L Pang, H Shen, X Cheng - arXiv preprint arXiv:2305.11052, 2023"
+---
+Dense retrieval has shown promise in the first-stage retrieval process when trained on in-domain labeled datasets. However, previous studies have found that dense retrieval is hard to generalize to unseen domains due to its weak modeling of domain-invariant and interpretable feature (ie, matching signal between two texts, which is the essence of information retrieval). In this paper, we propose a novel method to improve the generalization of dense retrieval via capturing matching signal called …
+Cites: ‪Large dual encoders are generalizable retrievers‬

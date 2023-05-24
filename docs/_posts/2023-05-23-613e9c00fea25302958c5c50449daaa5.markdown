@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generalized Planning in PDDL Domains with Pretrained Large Language Models"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "T Silver, S Dan, K Srinivas, JB Tenenbaum… - arXiv preprint arXiv …, 2023"
+---
+Recent work has considered whether large language models (LLMs) can function as planners: given a task, generate a plan. We investigate whether LLMs can serve as generalized planners: given a domain and training tasks, generate a program that efficiently produces plans for other tasks in the domain. In particular, we consider PDDL domains and use GPT-4 to synthesize Python programs. We also consider (1) Chain-of-Thought (CoT) summarization, where the LLM is prompted to summarize …
+Cites: ‪PAL: Program-aided Language Models‬

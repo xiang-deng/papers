@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "単語分散表現のなす幾何的配置と単語共起行列のもつ内部構造の分析"
+date:   2023-05-23 02:52:43 -0400
+categories: jekyll update
+author: "前田晃弘 - 2023"
+---
+It is well known that a word vector is able to solve analogy tests by vector arithmetic, implying that semantic relations are embedded into the vector space and represented geometrically as a parallelogram. Motivated by Harris  structural linguistic view, this study aims to (1) clarify the distributional structure and semantic properties manifested in the distributed representation of words,(2) mathematically formulate the latent structure of the word co-occurrence matrix which is used to learn …
+Cites: ‪Dependency-based construction of semantic space models‬
