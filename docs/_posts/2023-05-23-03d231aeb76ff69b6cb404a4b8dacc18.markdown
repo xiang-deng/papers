@@ -1,9 +1,8 @@
----
-layout: post
-title:  "From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "J Coil, V Shwartz - arXiv preprint arXiv:2305.10568, 2023"
----
-Noun compound interpretation is the task of expressing a noun compound (eg chocolate bunny) in a free-text paraphrase that makes the relationship between the constituent nouns explicit (eg bunny-shaped chocolate). We propose modifications to the data and evaluation setup of the standard task (Hendrickx et al., 2013), and show that GPT-3 solves it almost perfectly. We then investigate the task of noun compound conceptualization, ie paraphrasing a novel or rare noun compound. Eg, chocolate …
-Cites: ‪Documenting Large Webtext Corpora: A Case Study on the …‬
+--- 
+layout: post 
+title: "From chocolate bunny to chocolate crocodile: Do Language Models Understand Noun Compounds?" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "J Coil, V Shwartz - arXiv preprint arXiv:2305.10568, 2023" 
+--- 
+Noun compound interpretation is the task of expressing a noun compound (eg chocolate bunny) in a free-text paraphrase that makes the relationship between the constituent nouns explicit (eg bunny-shaped chocolate). We propose modifications to the data and evaluation setup of the standard task (Hendrickx et al., 2013), and show that GPT-3 solves it almost perfectly. We then investigate the task of noun compound conceptualization, ie paraphrasing a novel or rare noun compound. Eg, chocolate  Cites: Documenting Large Webtext Corpora: A Case Study on the

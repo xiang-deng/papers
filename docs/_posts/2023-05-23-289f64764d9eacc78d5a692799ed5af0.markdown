@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "Z Gekhman, J Herzig, R Aharoni, C Elkind, I Szpektor - arXiv preprint arXiv …, 2023"
----
-Factual consistency evaluation is often conducted using Natural Language Inference (NLI) models, yet these models exhibit limited success in evaluating summaries. Previous work improved such models with synthetic training data. However, the data is typically based on perturbed human-written summaries, which often differ in their characteristics from real model-generated summaries and have limited coverage of possible factual errors. Alternatively, large language models (LLMs) have recently …
-Cites: ‪Summeval: Re-evaluating summarization evaluation‬
+--- 
+layout: post 
+title: "TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "Z Gekhman, J Herzig, R Aharoni, C Elkind, I Szpektor - arXiv preprint arXiv , 2023" 
+--- 
+Factual consistency evaluation is often conducted using Natural Language Inference (NLI) models, yet these models exhibit limited success in evaluating summaries. Previous work improved such models with synthetic training data. However, the data is typically based on perturbed human-written summaries, which often differ in their characteristics from real model-generated summaries and have limited coverage of possible factual errors. Alternatively, large language models (LLMs) have recently  Cites: Summeval: Re-evaluating summarization evaluation

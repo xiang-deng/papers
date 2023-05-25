@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Language Models Meet World Models: Embodied Experiences Enhance Language Models"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "J Xiang, T Tao, Y Gu, T Shu, Z Wang, Z Yang, Z Hu - arXiv preprint arXiv:2305.10626, 2023"
----
-While large language models (LMs) have shown remarkable capabilities across numerous tasks, they often struggle with simple reasoning and planning in physical environments, such as understanding object permanence or planning household activities. The limitation arises from the fact that LMs are trained only on written text and miss essential embodied knowledge and skills. In this paper, we propose a new paradigm of enhancing LMs by finetuning them with world models, to gain diverse …
-Cites: ‪Toolformer: Language models can teach themselves to use tools‬
+--- 
+layout: post 
+title: "Language Models Meet World Models: Embodied Experiences Enhance Language Models" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "J Xiang, T Tao, Y Gu, T Shu, Z Wang, Z Yang, Z Hu - arXiv preprint arXiv:2305.10626, 2023" 
+--- 
+While large language models (LMs) have shown remarkable capabilities across numerous tasks, they often struggle with simple reasoning and planning in physical environments, such as understanding object permanence or planning household activities. The limitation arises from the fact that LMs are trained only on written text and miss essential embodied knowledge and skills. In this paper, we propose a new paradigm of enhancing LMs by finetuning them with world models, to gain diverse  Cites: Toolformer: Language models can teach themselves to use tools

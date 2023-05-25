@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Approximate message passing algorithms for latent Dirichlet allocation"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "R Taylor - 2023"
----
-Latent Dirichlet allocation (LDA) is a hierarchical Bayesian model that is most well known for its ability to extract latent semantic topics from text corpora. Since exact inference of the posterior distribution is intractable, a variety of approximate inference techniques can be employed for LDA. The traditional variational Bayesian inference (VB) approach is sufficient for most text topic modelling problems. VB, however, does not perform topic extraction well where the corpora of documents are small, where …
-Cites: ‪Mr. LDA: A flexible large scale topic modeling package using …‬

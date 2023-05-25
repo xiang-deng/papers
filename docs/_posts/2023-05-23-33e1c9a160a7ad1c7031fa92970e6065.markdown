@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Taxonomy Completion with Probabilistic Scorer via Box Embedding"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "W Xue, Y Shen, W Ren, J Guo, S Pu, W Lu - arXiv preprint arXiv:2305.11004, 2023"
----
-Taxonomy completion, a task aimed at automatically enriching an existing taxonomy with new concepts, has gained significant interest in recent years. Previous works have introduced complex modules, external information, and pseudo-leaves to enrich the representation and unify the matching process of attachment and insertion. While they have achieved good performance, these introductions may have brought noise and unfairness during training and scoring. In this paper, we …
-Cites: ‪Modeling fine-grained entity types with box embeddings‬
+--- 
+layout: post 
+title: "Taxonomy Completion with Probabilistic Scorer via Box Embedding" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "W Xue, Y Shen, W Ren, J Guo, S Pu, W Lu - arXiv preprint arXiv:2305.11004, 2023" 
+--- 
+Taxonomy completion, a task aimed at automatically enriching an existing taxonomy with new concepts, has gained significant interest in recent years. Previous works have introduced complex modules, external information, and pseudo-leaves to enrich the representation and unify the matching process of attachment and insertion. While they have achieved good performance, these introductions may have brought noise and unfairness during training and scoring. In this paper, we  Cites: Modeling fine-grained entity types with box embeddings

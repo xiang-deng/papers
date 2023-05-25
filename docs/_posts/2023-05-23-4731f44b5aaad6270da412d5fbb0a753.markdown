@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Controlling the extraction of memorized data from large language models via Prompt-Tuning"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "M Ozdayi, C Peris, JGM FitzGerald, C Dupuy… - 2023"
----
-Abstract Large Language Models (LLMs) are known to memorize significant portions of their training data. Parts of this memorized content have been shown to be extractable by simply querying the model, which poses a privacy risk. We present a novel approach which uses prompttuning to control the extraction rates of memorized content in LLMs. We present two prompt training strategies to increase and decrease extraction rates, which correspond to an attack and a defense, respectively. We …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "Controlling the extraction of memorized data from large language models via Prompt-Tuning" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "M Ozdayi, C Peris, JGM FitzGerald, C Dupuy - 2023" 
+--- 
+Abstract Large Language Models (LLMs) are known to memorize significant portions of their training data. Parts of this memorized content have been shown to be extractable by simply querying the model, which poses a privacy risk. We present a novel approach which uses prompttuning to control the extraction rates of memorized content in LLMs. We present two prompt training strategies to increase and decrease extraction rates, which correspond to an attack and a defense, respectively. We  Cites: Universal adversarial triggers for attacking and analyzing NLP

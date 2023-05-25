@@ -1,9 +1,0 @@
----
-layout: post
-title:  "TextDiffuser: Diffusion Models as Text Painters"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "J Chen, Y Huang, T Lv, L Cui, Q Chen, F Wei - arXiv preprint arXiv:2305.10855, 2023"
----
-Diffusion models have gained increasing attention for their impressive generation abilities but currently struggle with rendering accurate and coherent text. To address this issue, we introduce\textbf {TextDiffuser}, focusing on generating images with visually appealing text that is coherent with backgrounds. TextDiffuser consists of two stages: first, a Transformer model generates the layout of keywords extracted from text prompts, and then diffusion models generate images conditioned on the text …
-Cites: ‪Clipscore: A reference-free evaluation metric for image captioning‬

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Universal Domain Adaptation from Foundation Models"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "B Deng, K Jia - arXiv preprint arXiv:2305.11092, 2023"
----
-Foundation models (eg, CLIP or DINOv2) have shown their impressive learning and transferring capabilities on a wide range of visual tasks, by training on a large corpus of data and adapting to specific downstream tasks. It is, however, interesting that foundation models have not been fully explored for universal domain adaptation (UniDA), which is to learn models using labeled data in a source domain and unlabeled data in a target one, such that the learned models can successfully adapt …
-Cites: ‪Surgical fine-tuning improves adaptation to distribution shifts‬

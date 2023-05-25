@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "J Ye, Y Li, Q Zhou, Y Li, S Ma, HT Zheng, Y Shen - arXiv preprint arXiv:2305.10819, 2023"
----
-It is intractable to evaluate the performance of Grammatical Error Correction (GEC) systems since GEC is a highly subjective task. Designing an evaluation metric that is as objective as possible is crucial to the development of GEC task. Previous mainstream evaluation metrics, ie, reference-based metrics, introduce bias into the multi-reference evaluation because they extract edits without considering the presence of multiple references. To overcome the problem, we propose Chunk-LEvel …
-Cites: ‪On the Limitations of Reference-Free Evaluations of Generated Text‬
+--- 
+layout: post 
+title: "CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "J Ye, Y Li, Q Zhou, Y Li, S Ma, HT Zheng, Y Shen - arXiv preprint arXiv:2305.10819, 2023" 
+--- 
+It is intractable to evaluate the performance of Grammatical Error Correction (GEC) systems since GEC is a highly subjective task. Designing an evaluation metric that is as objective as possible is crucial to the development of GEC task. Previous mainstream evaluation metrics, ie, reference-based metrics, introduce bias into the multi-reference evaluation because they extract edits without considering the presence of multiple references. To overcome the problem, we propose Chunk-LEvel  Cites: On the Limitations of Reference-Free Evaluations of Generated Text

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "KPT++: Refined knowledgeable prompt tuning for few-shot text classification"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "S Ni - Knowledge-Based Systems, 2023"
----
-Recently, the new paradigm “pre-train, prompt, and predict” has achieved remarkable few-shot learning achievements compared with the “pre-train, fine-tune” paradigm. Prompt-tuning inserts the prompt text into the input and converts the classification task into a masked language modeling task. One of the key steps is to build a projection between the labels and the label words, ie, the verbalizer. Knowledgeable prompt-tuning (KPT), which integrates external knowledge into the …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "H Zhang, J Zhang - arXiv preprint arXiv:2305.10563, 2023"
----
-The success of the knowledge graph completion task heavily depends on the quality of the knowledge graph embeddings (KGEs), which relies on self-supervised learning and augmenting the dataset with negative triples. There is a gap in literature between the theoretical analysis of negative samples on contrastive loss and heuristic generation of quality (ie, hard) negative triples. In this paper, we modify the InfoNCE loss to explicitly account for the negative sample distribution. We show …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "H Zhang, J Zhang - arXiv preprint arXiv:2305.10563, 2023" 
+--- 
+The success of the knowledge graph completion task heavily depends on the quality of the knowledge graph embeddings (KGEs), which relies on self-supervised learning and augmenting the dataset with negative triples. There is a gap in literature between the theoretical analysis of negative samples on contrastive loss and heuristic generation of quality (ie, hard) negative triples. In this paper, we modify the InfoNCE loss to explicitly account for the negative sample distribution. We show  Cites: Observed versus latent features for knowledge base and text

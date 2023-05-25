@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Attention-based Stacked Bidirectional Long Short-term Memory Model for Word Sense Disambiguation"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "Y Sun, J Platoš - ACM Transactions on Asian and Low-Resource …, 2023"
----
-Word sense disambiguation is a basic task in Natural Language Processing which aims to identify the most appropriate sense of ambiguous words in different contexts by applying algorithm models. In this work, we propose a model that uses a stacked bidirectional Long Short-Term Memory neural network and attention mechanism to determine the sense of ambiguous words. First, the stacked bidirectional Long Short-Term Memory is employed for deep embedding-based representation of sentences …
-Cites: ‪Non-Parametric Few-Shot Learning for Word Sense Disambiguation‬
+--- 
+layout: post 
+title: "Attention-based Stacked Bidirectional Long Short-term Memory Model for Word Sense Disambiguation" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "Y Sun, J Plato - ACM Transactions on Asian and Low-Resource , 2023" 
+--- 
+Word sense disambiguation is a basic task in Natural Language Processing which aims to identify the most appropriate sense of ambiguous words in different contexts by applying algorithm models. In this work, we propose a model that uses a stacked bidirectional Long Short-Term Memory neural network and attention mechanism to determine the sense of ambiguous words. First, the stacked bidirectional Long Short-Term Memory is employed for deep embedding-based representation of sentences  Cites: Non-Parametric Few-Shot Learning for Word Sense Disambiguation

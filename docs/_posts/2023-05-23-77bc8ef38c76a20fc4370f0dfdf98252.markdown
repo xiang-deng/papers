@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bits of Grass: Does GPT already know how to write like Whitman?"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "P Sawicki, M Grzes, F Goes, D Brown, M Peeperkorn… - arXiv preprint arXiv …, 2023"
----
-This study examines the ability of GPT-3.5, GPT-3.5-turbo (ChatGPT) and GPT-4 models to generate poems in the style of specific authors using zero-shot and many-shot prompts (which use the maximum context length of 8192 tokens). We assess the performance of models that are not fine-tuned for generating poetry in the style of specific authors, via automated evaluation. Our findings indicate that without fine-tuning, even when provided with the maximum number of 17 poem examples (8192 …
-Cites: ‪Sparks of artificial general intelligence: Early experiments with gpt-4‬
+--- 
+layout: post 
+title: "Bits of Grass: Does GPT already know how to write like Whitman?" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "P Sawicki, M Grzes, F Goes, D Brown, M Peeperkorn - arXiv preprint arXiv , 2023" 
+--- 
+This study examines the ability of GPT-3.5, GPT-3.5-turbo (ChatGPT) and GPT-4 models to generate poems in the style of specific authors using zero-shot and many-shot prompts (which use the maximum context length of 8192 tokens). We assess the performance of models that are not fine-tuned for generating poetry in the style of specific authors, via automated evaluation. Our findings indicate that without fine-tuning, even when provided with the maximum number of 17 poem examples (8192  Cites: Sparks of artificial general intelligence: Early experiments with gpt-4

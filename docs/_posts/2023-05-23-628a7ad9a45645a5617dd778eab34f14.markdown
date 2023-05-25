@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigation of Transitivity Relation in Natural Language Inference"
-date:   2023-05-23 02:52:43 -0400
-categories: jekyll update
-author: "P Zdebskyi, A Berko, V Vysotska - 2023"
----
-Motivation of this work is a data-centric approach of improving model accuracy by improving data quality instead of improving model architecture. The idea is to improve dataset with transitivity relations to help machine learning model learn such dependencies. Alongside with enriching dataset investigate how good is previously trained model in catching such relations. So, basically study can be divided into two main parts investigating dataset and investigating machine learning model trained …
-Cites: ‪Probing across time: What does RoBERTa know and when?‬
+--- 
+layout: post 
+title: "Investigation of Transitivity Relation in Natural Language Inference" 
+date: 2023-05-23 02:52:43 -0400 
+categories: jekyll update 
+author: "P Zdebskyi, A Berko, V Vysotska - 2023" 
+--- 
+Motivation of this work is a data-centric approach of improving model accuracy by improving data quality instead of improving model architecture. The idea is to improve dataset with transitivity relations to help machine learning model learn such dependencies. Alongside with enriching dataset investigate how good is previously trained model in catching such relations. So, basically study can be divided into two main parts investigating dataset and investigating machine learning model trained  Cites: Probing across time: What does RoBERTa know and when?
