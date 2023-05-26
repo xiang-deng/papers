@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "ZH Qiu, Q Hu, Z Yuan, D Zhou, L Zhang, T Yang - arXiv preprint arXiv:2305.11965, 2023"
+---
+In this paper, we aim to optimize a contrastive loss with individualized temperatures in a principled and systematic manner for self-supervised learning. The common practice of using a global temperature parameter $\tau $ ignores the fact that``not all …

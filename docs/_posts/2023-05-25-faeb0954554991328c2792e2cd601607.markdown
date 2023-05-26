@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MacLaSa: Multi-Aspect Controllable Text Generation via Efficient Sampling from Compact Latent Space"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "H Ding, L Pang, Z Wei, H Shen, X Cheng, TS Chua - arXiv preprint arXiv:2305.12785, 2023"
+---
+Multi-aspect controllable text generation aims to generate fluent sentences that possess multiple desired attributes simultaneously. Traditional methods either combine many operators in the decoding stage, often with costly iteration or search in the discrete text space, or train separate controllers for each aspect, resulting in a degeneration of text quality due to the discrepancy between different aspects. To address these limitations, we introduce a novel approach for multi-aspect control …
+Cites: ‪Energy-based reranking: Improving neural machine translation …‬

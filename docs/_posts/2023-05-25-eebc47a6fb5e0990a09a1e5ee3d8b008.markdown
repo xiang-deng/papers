@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fact-Checking Complex Claims with Program-Guided Reasoning"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "L Pan, X Wu, X Lu, AT Luu, WY Wang, MY Kan… - arXiv preprint arXiv …, 2023"
+---
+Fact-checking real-world claims often requires collecting multiple pieces of evidence and applying complex multi-step reasoning. In this paper, we present Program-Guided Fact-Checking (ProgramFC), a novel fact-checking model that decomposes complex claims into simpler sub-tasks that can be solved using a shared library of specialized functions. We first leverage the in-context learning ability of large language models to generate reasoning programs to guide the verification process …
+Cites: ‪Proofver: Natural logic theorem proving for fact verification‬

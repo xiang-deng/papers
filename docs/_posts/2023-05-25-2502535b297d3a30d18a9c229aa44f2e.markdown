@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Collaborative Development of NLP models"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "F Khani, MT Ribeiro - arXiv preprint arXiv:2305.12219, 2023"
+---
+Despite substantial advancements, Natural Language Processing (NLP) models often require post-training adjustments to enforce business rules, rectify undesired behavior, and align with user values. These adjustments involve operationalizing  concepts --dictating desired model responses to certain inputs. However, it s difficult for a single entity to enumerate and define all possible concepts, indicating a need for a multi-user, collaborative model alignment framework. Moreover, the exhaustive …
+Cites: ‪Patching open-vocabulary models by interpolating weights‬

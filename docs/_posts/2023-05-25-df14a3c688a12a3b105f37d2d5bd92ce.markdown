@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SLaDe: A Portable Small Language Model Decompiler for Optimized Assembler"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "J Armengol-Estapé, J Woodruff, C Cummins… - arXiv preprint arXiv …, 2023"
+---
+Decompilation is a well-studied area with numerous high-quality tools available. These are frequently used for security tasks and to port legacy code. However, they regularly generate difficult-to-read programs and require a large amount of engineering effort to support new programming languages and ISAs. Recent interest in neural approaches has produced portable tools that generate readable code. However, to-date such techniques are usually restricted to synthetic programs …
+Cites: ‪Dire: A neural approach to decompiled identifier naming‬

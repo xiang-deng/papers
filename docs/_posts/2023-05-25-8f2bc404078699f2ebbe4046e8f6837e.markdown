@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Weak Supervision Approach for Few-Shot Aspect Based Sentiment"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "R Vacareanu, S Varia, K Halder, S Wang, G Paolini… - arXiv preprint arXiv …, 2023"
+---
+We explore how weak supervision on abundant unlabeled data can be leveraged to improve few-shot performance in aspect-based sentiment analysis (ABSA) tasks. We propose a pipeline approach to construct a noisy ABSA dataset, and we use it to adapt a pre-trained sequence-to-sequence model to the ABSA tasks. We test the resulting model on three widely used ABSA datasets, before and after fine-tuning. Our proposed method preserves the full fine-tuning performance while showing …
+Cites: ‪Instruction Tuning for Few-Shot Aspect-Based Sentiment Analysis‬

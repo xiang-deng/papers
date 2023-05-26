@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Trade-Off Between Robustness and Accuracy of Vision Transformers"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "Y Li, C Xu - Proceedings of the IEEE/CVF Conference on Computer …, 2023"
+---
+Although deep neural networks (DNNs) have shown great successes in computer vision tasks, they are vulnerable to perturbations on inputs, and there exists a trade-off between the natural accuracy and robustness to such perturbations, which is mainly caused by the existence of robust non-predictive features and non-robust predictive features. Recent empirical analyses find Vision Transformers (ViTs) are inherently robust to various kinds of perturbations, but the aforementioned trade-off …
+Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MultiTabQA: Generating Tabular Answers\\for Multi-Table Question Answering"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "V Pal, A Yates, E Kanoulas, M de Rijke - arXiv preprint arXiv:2305.12820, 2023"
+---
+Recent advances in tabular question answering (QA) with large language models are constrained in their coverage and only answer questions over a single table. However, real-world queries are complex in nature, often over multiple tables in a relational database or web page. Single table questions do not involve common table operations such as set operations, Cartesian products (joins), or nested queries. Furthermore, multi-table operations often result in a tabular output, which …
+Cites: ‪On the potential of lexico-logical alignments for semantic parsing to …‬

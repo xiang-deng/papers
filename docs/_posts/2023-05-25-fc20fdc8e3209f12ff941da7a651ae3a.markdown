@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LLM-Pruner: On the Structural Pruning of Large Language Models"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "X Ma, G Fang, X Wang - arXiv preprint arXiv:2305.11627, 2023"
+---
+Large language models (LLMs) have shown remarkable capabilities in language understanding and generation. However, such impressive capability typically comes with a substantial model size, which presents significant challenges in both the deployment, inference, and training stages. With LLM being a general-purpose task solver, we explore its compression in a task-agnostic manner, which aims to preserve the multi-task solving and language generation ability of the original LLM …
+Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬

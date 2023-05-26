@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "D Yin, Y Yang, Z Wang, H Yu, K Wei, X Sun - … of the IEEE/CVF Conference on …, 2023"
+---
+Fine-tuning large-scale pre-trained vision models to downstream tasks is a standard technique for achieving state-of-the-art performance on computer vision benchmarks. However, fine-tuning the whole model with millions of parameters is inefficient as it requires storing a same-sized new model copy for each task. In this work, we propose LoRand, a method for fine-tuning large-scale vision models with a better trade-off between task performance and the number of trainable parameters. LoRand …
+Cites: ‪Unipelt: A unified framework for parameter-efficient language …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Extracting Graphs Properties with Semantic Joins"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "Y Cao, W Fan, W Fu, R Jin, W Ou, W Li - The 39th IEEE International Conference on …, 2023"
+---
+This paper proposes an approach to querying a relational database D and a graph G taken together in SQL. We introduce a semantic extension of joins across D and G such that if a tuple t in D and a vertex v in G refer to the same real-world entity, then we join t and v to correlate their information and complement tuple t with additional properties of vertex v from the graph. Moreover, we extract hidden relationships between t and other entities by exploring paths from v. To support the semantic joins …
+Cites: ‪Navigating Extracted Data with Schema Discovery.‬

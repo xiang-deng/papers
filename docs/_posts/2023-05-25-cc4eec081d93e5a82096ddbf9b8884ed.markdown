@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Few-Shot Dialogue Summarization via Skeleton-Assisted Prompt Transfer"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "K Xie, T Yu, H Wang, J Wu, H Zhao, R Zhang… - arXiv preprint arXiv …, 2023"
+---
+In real-world scenarios, labeled samples for dialogue summarization are usually limited (ie, few-shot) due to high annotation costs for high-quality dialogue summaries. To efficiently learn from few-shot samples, previous works have utilized massive annotated data from other downstream tasks and then performed prompt transfer in prompt tuning so as to enable cross-task knowledge transfer. However, existing general-purpose prompt transfer techniques lack consideration for dialogue …
+Cites: ‪oLMpics - On what Language Model Pre-training Captures‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Complex Claim Verification with Evidence Retrieved in the Wild"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "J Chen, G Kim, A Sriram, G Durrett, E Choi - arXiv preprint arXiv:2305.11859, 2023"
+---
+Evidence retrieval is a core part of automatic fact-checking. Prior work makes simplifying assumptions in retrieval that depart from real-world use cases: either no access to evidence, access to evidence curated by a human fact-checker, or access to evidence available long after the claim has been made. In this work, we present the first fully automated pipeline to check real-world claims by retrieving raw evidence from the web. We restrict our retriever to only search documents available …
+Cites: ‪Does the whole exceed its parts? the effect of ai explanations on …‬

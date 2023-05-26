@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DisCo: Distilled Student Models Co-training for Semi-supervised Text Mining"
+date:   2023-05-25 03:51:47 -0400
+categories: jekyll update
+author: "W Jiang, Q Mao, J Li, C Lin, W Yang, T Deng, Z Wang - arXiv preprint arXiv …, 2023"
+---
+Many text mining models are constructed by fine-tuning a large deep pre-trained language model (PLM) in downstream tasks. However, a significant challenge is maintaining performance when we use a lightweight model with limited labeled samples. We present DisCo, a semi-supervised learning (SSL) framework for fine-tuning a cohort of small student models generated from a large PLM using knowledge distillation. Our key insight is to share complementary knowledge among …
+Cites: ‪SLM: Learning a discourse language representation with sentence …‬
