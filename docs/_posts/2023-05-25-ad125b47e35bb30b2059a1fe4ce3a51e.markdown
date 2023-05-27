@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Inference-time Re-ranker Relevance Feedback for Neural Information Retrieval"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "RG Reddy, P Dasigi, MA Sultan, A Cohan, A Sil, H Ji… - arXiv preprint arXiv …, 2023"
----
-Neural information retrieval often adopts a retrieve-and-rerank framework: a bi-encoder network first retrieves K (eg, 100) candidates that are then re-ranked using a more powerful cross-encoder model to rank the better candidates higher. The re-ranker generally produces better candidate scores than the retriever, but is limited to seeing only the top K retrieved candidates, thus providing no improvements in retrieval performance as measured by Recall@ K. In this work, we leverage the re …
-Cites: ‪Open-domain Question Answering‬
+--- 
+layout: post 
+title: "Inference-time Re-ranker Relevance Feedback for Neural Information Retrieval" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "RG Reddy, P Dasigi, MA Sultan, A Cohan, A Sil, H Ji - arXiv preprint arXiv , 2023" 
+--- 
+Neural information retrieval often adopts a retrieve-and-rerank framework: a bi-encoder network first retrieves K (eg, 100) candidates that are then re-ranked using a more powerful cross-encoder model to rank the better candidates higher. The re-ranker generally produces better candidate scores than the retriever, but is limited to seeing only the top K retrieved candidates, thus providing no improvements in retrieval performance as measured by Recall@ K. In this work, we leverage the re  Cites: Open-domain Question Answering

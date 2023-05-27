@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Better Sampling of Negatives for Distantly Supervised Named Entity Recognition"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "L Xu, L Bing, W Lu - arXiv preprint arXiv:2305.13142, 2023"
----
-Distantly supervised named entity recognition (DS-NER) has been proposed to exploit the automatically labeled training data instead of human annotations. The distantly annotated datasets are often noisy and contain a considerable number of false negatives. The recent approach uses a weighted sampling approach to select a subset of negative samples for training. However, it requires a good classifier to assign weights to the negative samples. In this paper, we propose a simple and …
-Cites: ‪A Frustratingly Easy Approach for Entity and Relation Extraction‬
+--- 
+layout: post 
+title: "Better Sampling of Negatives for Distantly Supervised Named Entity Recognition" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "L Xu, L Bing, W Lu - arXiv preprint arXiv:2305.13142, 2023" 
+--- 
+Distantly supervised named entity recognition (DS-NER) has been proposed to exploit the automatically labeled training data instead of human annotations. The distantly annotated datasets are often noisy and contain a considerable number of false negatives. The recent approach uses a weighted sampling approach to select a subset of negative samples for training. However, it requires a good classifier to assign weights to the negative samples. In this paper, we propose a simple and  Cites: A Frustratingly Easy Approach for Entity and Relation Extraction

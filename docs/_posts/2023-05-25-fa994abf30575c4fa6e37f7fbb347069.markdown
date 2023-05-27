@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "CH Tan, JC Gu, ZH Ling - arXiv preprint arXiv:2305.11517, 2023"
----
-Diffusion models have emerged as the new state-of-the-art family of deep generative models, and their promising potentials for text generation have recently attracted increasing attention. Existing studies mostly adopt a single encoder architecture with partially noising processes for conditional text generation, but its degree of flexibility for conditional modeling is limited. In fact, the encoder-decoder architecture is naturally more flexible for its detachable encoder and decoder modules, which is …
-Cites: ‪Diffuser: Discrete diffusion via edit-based reconstruction‬
+--- 
+layout: post 
+title: "DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "CH Tan, JC Gu, ZH Ling - arXiv preprint arXiv:2305.11517, 2023" 
+--- 
+Diffusion models have emerged as the new state-of-the-art family of deep generative models, and their promising potentials for text generation have recently attracted increasing attention. Existing studies mostly adopt a single encoder architecture with partially noising processes for conditional text generation, but its degree of flexibility for conditional modeling is limited. In fact, the encoder-decoder architecture is naturally more flexible for its detachable encoder and decoder modules, which is  Cites: Diffuser: Discrete diffusion via edit-based reconstruction

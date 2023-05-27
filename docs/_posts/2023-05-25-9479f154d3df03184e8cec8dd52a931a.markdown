@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fast Contextual Scene Graph Generation With Unbiased Context Augmentation"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "T Jin, F Guo, Q Meng, S Zhu, X Xi, W Wang, Z Mu… - Proceedings of the IEEE …, 2023"
----
-Scene graph generation (SGG) methods have historically suffered from long-tail bias and slow inference speed. In this paper, we notice that humans can analyze relationships between objects relying solely on context descriptions, and this abstract cognitive process may be guided by experience. For example, given descriptions of cup and table with their spatial locations, humans can speculate possible relationships< cup, on, table> or< table, near, cup>. Even without visual appearance …
-Cites: ‪Fine-Grained Scene Graph Generation with Data Transfer‬
+--- 
+layout: post 
+title: "Fast Contextual Scene Graph Generation With Unbiased Context Augmentation" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "T Jin, F Guo, Q Meng, S Zhu, X Xi, W Wang, Z Mu - Proceedings of the IEEE , 2023" 
+--- 
+Scene graph generation (SGG) methods have historically suffered from long-tail bias and slow inference speed. In this paper, we notice that humans can analyze relationships between objects relying solely on context descriptions, and this abstract cognitive process may be guided by experience. For example, given descriptions of cup and table with their spatial locations, humans can speculate possible relationships< cup, on, table> or< table, near, cup>. Even without visual appearance  Cites: Fine-Grained Scene Graph Generation with Data Transfer

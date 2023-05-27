@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Distribution Shift Inversion for Out-of-Distribution Prediction"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "R Yu, S Liu, X Yang, X Wang - Proceedings of the IEEE/CVF Conference on Computer …, 2023"
----
-Abstract Machine learning society has witnessed the emergence of a myriad of Out-of-Distribution (OoD) algorithms, which address the distribution shift between the training and the testing distribution by searching for a unified predictor or invariant feature representation. However, the task of directly mitigating the distribution shift in the unseen testing set is rarely investigated, due to the unavailability of the testing distribution during the training phase and thus the impossibility of training a …
-Cites: ‪Diffusion-lm improves controllable text generation‬
+--- 
+layout: post 
+title: "Distribution Shift Inversion for Out-of-Distribution Prediction" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "R Yu, S Liu, X Yang, X Wang - Proceedings of the IEEE/CVF Conference on Computer , 2023" 
+--- 
+Abstract Machine learning society has witnessed the emergence of a myriad of Out-of-Distribution (OoD) algorithms, which address the distribution shift between the training and the testing distribution by searching for a unified predictor or invariant feature representation. However, the task of directly mitigating the distribution shift in the unseen testing set is rarely investigated, due to the unavailability of the testing distribution during the training phase and thus the impossibility of training a  Cites: Diffusion-lm improves controllable text generation

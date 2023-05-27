@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "H Shen, V Zayats, JC Rocholl, DD Walker, D Padfield - arXiv preprint arXiv …, 2023"
----
-Current disfluency detection models focus on individual utterances each from a single speaker. However, numerous discontinuity phenomena in spoken conversational transcripts occur across multiple turns, hampering human readability and the performance of downstream NLP tasks. This study addresses these phenomena by proposing an innovative Multi-Turn Cleanup task for spoken conversational transcripts and collecting a new dataset, MultiTurnCleanup1. We …
-Cites: ‪Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in …‬
+--- 
+layout: post 
+title: "MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "H Shen, V Zayats, JC Rocholl, DD Walker, D Padfield - arXiv preprint arXiv , 2023" 
+--- 
+Current disfluency detection models focus on individual utterances each from a single speaker. However, numerous discontinuity phenomena in spoken conversational transcripts occur across multiple turns, hampering human readability and the performance of downstream NLP tasks. This study addresses these phenomena by proposing an innovative Multi-Turn Cleanup task for spoken conversational transcripts and collecting a new dataset, MultiTurnCleanup1. We  Cites: Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in

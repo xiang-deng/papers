@@ -1,9 +1,8 @@
----
-layout: post
-title:  "EnCore: Pre-Training Entity Encoders using Coreference Chains"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "F Mtumbuka, S Schockaert - arXiv preprint arXiv:2305.12924, 2023"
----
-Entity typing is the task of assigning semantic types to the entities that are mentioned in a text. Since obtaining sufficient amounts of manual annotations is expensive, current state-of-the-art methods are typically trained on automatically labelled datasets, eg by exploiting links between Wikipedia pages. In this paper, we propose to use coreference chains as an additional supervision signal. Specifically, we pre-train an entity encoder using a contrastive loss, such that entity embeddings of …
-Cites: ‪Syntax-enhanced pre-trained model‬
+--- 
+layout: post 
+title: "EnCore: Pre-Training Entity Encoders using Coreference Chains" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "F Mtumbuka, S Schockaert - arXiv preprint arXiv:2305.12924, 2023" 
+--- 
+Entity typing is the task of assigning semantic types to the entities that are mentioned in a text. Since obtaining sufficient amounts of manual annotations is expensive, current state-of-the-art methods are typically trained on automatically labelled datasets, eg by exploiting links between Wikipedia pages. In this paper, we propose to use coreference chains as an additional supervision signal. Specifically, we pre-train an entity encoder using a contrastive loss, such that entity embeddings of  Cites: Syntax-enhanced pre-trained model

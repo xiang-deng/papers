@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "J Li, Y Wen, L He - Proceedings of the IEEE/CVF Conference on Computer …, 2023"
----
-Abstract Convolutional Neural Networks (CNNs) have achieved remarkable performance in various computer vision tasks but this comes at the cost of tremendous computational resources, partly due to convolutional layers extracting redundant features. Recent works either compress well-trained large-scale models or explore well-designed lightweight models. In this paper, we make an attempt to exploit spatial and channel redundancy among features for CNN compression and …
-Cites: ‪Structured Pruning Learns Compact and Accurate Models‬
+--- 
+layout: post 
+title: "SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "J Li, Y Wen, L He - Proceedings of the IEEE/CVF Conference on Computer , 2023" 
+--- 
+Abstract Convolutional Neural Networks (CNNs) have achieved remarkable performance in various computer vision tasks but this comes at the cost of tremendous computational resources, partly due to convolutional layers extracting redundant features. Recent works either compress well-trained large-scale models or explore well-designed lightweight models. In this paper, we make an attempt to exploit spatial and channel redundancy among features for CNN compression and  Cites: Structured Pruning Learns Compact and Accurate Models

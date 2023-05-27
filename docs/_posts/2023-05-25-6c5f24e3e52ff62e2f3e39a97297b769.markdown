@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Data Redaction from Conditional Generative Models"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "Z Kong, K Chaudhuri - arXiv preprint arXiv:2305.11351, 2023"
----
-Deep generative models are known to produce undesirable samples such as harmful content. Traditional mitigation methods include re-training from scratch, filtering, or editing; however, these are either computationally expensive or can be circumvented by third parties. In this paper, we take a different approach and study how to post-edit an already-trained conditional generative model so that it redacts certain conditionals that will, with high probability, lead to undesirable content. This is …
-Cites: ‪Universal adversarial triggers for attacking and analyzing NLP‬
+--- 
+layout: post 
+title: "Data Redaction from Conditional Generative Models" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "Z Kong, K Chaudhuri - arXiv preprint arXiv:2305.11351, 2023" 
+--- 
+Deep generative models are known to produce undesirable samples such as harmful content. Traditional mitigation methods include re-training from scratch, filtering, or editing; however, these are either computationally expensive or can be circumvented by third parties. In this paper, we take a different approach and study how to post-edit an already-trained conditional generative model so that it redacts certain conditionals that will, with high probability, lead to undesirable content. This is  Cites: Universal adversarial triggers for attacking and analyzing NLP

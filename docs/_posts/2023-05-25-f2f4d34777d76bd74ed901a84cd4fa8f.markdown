@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain Generalization Deep Graph Transformation"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "S Wang, G Bai, Q Zhu, Z Qin, L Zhao - arXiv preprint arXiv:2305.11389, 2023"
----
-Graph transformation that predicts graph transition from one mode to another is an important and common problem. Despite much progress in developing advanced graph transformation techniques in recent years, the fundamental assumption typically required in machine-learning models that the testing and training data preserve the same distribution does not always hold. As a result, domain generalization graph transformation that predicts graphs not available in the training …
-Cites: ‪Meta-learning for domain generalization in semantic parsing‬
+--- 
+layout: post 
+title: "Domain Generalization Deep Graph Transformation" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "S Wang, G Bai, Q Zhu, Z Qin, L Zhao - arXiv preprint arXiv:2305.11389, 2023" 
+--- 
+Graph transformation that predicts graph transition from one mode to another is an important and common problem. Despite much progress in developing advanced graph transformation techniques in recent years, the fundamental assumption typically required in machine-learning models that the testing and training data preserve the same distribution does not always hold. As a result, domain generalization graph transformation that predicts graphs not available in the training  Cites: Meta-learning for domain generalization in semantic parsing

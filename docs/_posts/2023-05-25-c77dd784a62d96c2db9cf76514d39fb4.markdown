@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Rethinking Semi-supervised Learning with Language Models"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "Z Shi, F Tonolini, N Aletras, E Yilmaz, G Kazai, Y Jiao - arXiv preprint arXiv …, 2023"
----
-Semi-supervised learning (SSL) is a popular setting aiming to effectively utilize unlabelled data to improve model performance in downstream natural language processing (NLP) tasks. Currently, there are two popular approaches to make use of unlabelled data: Self-training (ST) and Task-adaptive pre-training (TAPT). ST uses a teacher model to assign pseudo-labels to the unlabelled data, while TAPT continues pre-training on the unlabelled data before fine-tuning. To the best of our knowledge …
-Cites: ‪Zero-shot entity linking by reading entity descriptions‬
+--- 
+layout: post 
+title: "Rethinking Semi-supervised Learning with Language Models" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "Z Shi, F Tonolini, N Aletras, E Yilmaz, G Kazai, Y Jiao - arXiv preprint arXiv , 2023" 
+--- 
+Semi-supervised learning (SSL) is a popular setting aiming to effectively utilize unlabelled data to improve model performance in downstream natural language processing (NLP) tasks. Currently, there are two popular approaches to make use of unlabelled data: Self-training (ST) and Task-adaptive pre-training (TAPT). ST uses a teacher model to assign pseudo-labels to the unlabelled data, while TAPT continues pre-training on the unlabelled data before fine-tuning. To the best of our knowledge  Cites: Zero-shot entity linking by reading entity descriptions

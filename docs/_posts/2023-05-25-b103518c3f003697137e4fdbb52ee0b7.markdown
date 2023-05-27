@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "C Si, D Friedman, N Joshi, S Feng, D Chen, H He - arXiv preprint arXiv:2305.13299, 2023"
----
-In-context learning (ICL) is an important paradigm for adapting large language models (LLMs) to new tasks, but the generalization behavior of ICL remains poorly understood. We investigate the inductive biases of ICL from the perspective of feature bias: which feature ICL is more likely to use given a set of underspecified demonstrations in which two features are equally predictive of the labels. First, we characterize the feature biases of GPT-3 models by constructing underspecified …
-Cites: ‪What learning algorithm is in-context learning? investigations with …‬
+--- 
+layout: post 
+title: "Measuring Inductive Biases of In-Context Learning with Underspecified Demonstrations" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "C Si, D Friedman, N Joshi, S Feng, D Chen, H He - arXiv preprint arXiv:2305.13299, 2023" 
+--- 
+In-context learning (ICL) is an important paradigm for adapting large language models (LLMs) to new tasks, but the generalization behavior of ICL remains poorly understood. We investigate the inductive biases of ICL from the perspective of feature bias: which feature ICL is more likely to use given a set of underspecified demonstrations in which two features are equally predictive of the labels. First, we characterize the feature biases of GPT-3 models by constructing underspecified  Cites: What learning algorithm is in-context learning? investigations with

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "Z Jiang, J Guo, S Sun, H Deng, Z Wu, V Mijovic… - Proceedings of the IEEE …, 2023"
----
-Conditional graphic layout generation, which generates realistic layouts according to user constraints, is a challenging task that has not been well-studied yet. First, there is limited discussion about how to handle diverse user constraints flexibly and uniformly. Second, to make the layouts conform to user constraints, existing work often sacrifices generation quality significantly. In this work, we propose LayoutFormer++ to tackle the above problems. First, to flexibly handle diverse …
-Cites: ‪Neurologic a* esque decoding: Constrained text generation with …‬
+--- 
+layout: post 
+title: "LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "Z Jiang, J Guo, S Sun, H Deng, Z Wu, V Mijovic - Proceedings of the IEEE , 2023" 
+--- 
+Conditional graphic layout generation, which generates realistic layouts according to user constraints, is a challenging task that has not been well-studied yet. First, there is limited discussion about how to handle diverse user constraints flexibly and uniformly. Second, to make the layouts conform to user constraints, existing work often sacrifices generation quality significantly. In this work, we propose LayoutFormer++ to tackle the above problems. First, to flexibly handle diverse  Cites: Neurologic a* esque decoding: Constrained text generation with

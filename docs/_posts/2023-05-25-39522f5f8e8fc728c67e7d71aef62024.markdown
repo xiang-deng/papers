@@ -1,9 +1,8 @@
----
-layout: post
-title:  "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "YN Wu, PA Tsai, S Muralidharan, A Parashar, V Sze… - arXiv preprint arXiv …, 2023"
----
-Due to complex interactions among various deep neural network (DNN) optimization techniques, modern DNNs can have weights and activations that are dense or sparse with diverse sparsity degrees. To offer a good trade-off between accuracy and hardware performance, an ideal DNN accelerator should have high flexibility to efficiently translate DNN sparsity into reductions in energy and/or latency without incurring significant complexity overhead. This paper introduces hierarchical …
-Cites: ‪Pruning redundant mappings in transformer models via spectral …‬
+--- 
+layout: post 
+title: "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "YN Wu, PA Tsai, S Muralidharan, A Parashar, V Sze - arXiv preprint arXiv , 2023" 
+--- 
+Due to complex interactions among various deep neural network (DNN) optimization techniques, modern DNNs can have weights and activations that are dense or sparse with diverse sparsity degrees. To offer a good trade-off between accuracy and hardware performance, an ideal DNN accelerator should have high flexibility to efficiently translate DNN sparsity into reductions in energy and/or latency without incurring significant complexity overhead. This paper introduces hierarchical  Cites: Pruning redundant mappings in transformer models via spectral

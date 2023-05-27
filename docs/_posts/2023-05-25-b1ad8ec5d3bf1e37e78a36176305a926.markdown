@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Model Analysis & Evaluation for Ambiguous Question Answering"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "K Papakostas, I Papadopoulou - arXiv preprint arXiv:2305.12483, 2023"
----
-Ambiguous questions are a challenge for Question Answering models, as they require answers that cover multiple interpretations of the original query. To this end, these models are required to generate long-form answers that often combine conflicting pieces of information. Although recent advances in the field have shown strong capabilities in generating fluent responses, certain research questions remain unanswered. Does model/data scaling improve the answers  quality? Do automated …
-Cites: ‪Joint passage ranking for diverse multi-answer retrieval‬
+--- 
+layout: post 
+title: "Model Analysis & Evaluation for Ambiguous Question Answering" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "K Papakostas, I Papadopoulou - arXiv preprint arXiv:2305.12483, 2023" 
+--- 
+Ambiguous questions are a challenge for Question Answering models, as they require answers that cover multiple interpretations of the original query. To this end, these models are required to generate long-form answers that often combine conflicting pieces of information. Although recent advances in the field have shown strong capabilities in generating fluent responses, certain research questions remain unanswered. Does model/data scaling improve the answers quality? Do automated  Cites: Joint passage ranking for diverse multi-answer retrieval

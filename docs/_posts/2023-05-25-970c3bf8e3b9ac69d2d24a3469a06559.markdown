@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPARSEFIT: Few-shot Prompting with Sparse Fine-tuning for Jointly Generating Predictions and Natural Language Explanations"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "J Solano, OM Camburu, P Minervini - arXiv preprint arXiv:2305.13235, 2023"
----
-Explaining the decisions of neural models is crucial for ensuring their trustworthiness at deployment time. Using Natural Language Explanations (NLEs) to justify a model s predictions has recently gained increasing interest. However, this approach usually demands large datasets of human-written NLEs for the ground-truth answers, which are expensive and potentially infeasible for some applications. For models to generate high-quality NLEs when only a few NLEs are available, the fine-tuning of …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "SPARSEFIT: Few-shot Prompting with Sparse Fine-tuning for Jointly Generating Predictions and Natural Language Explanations" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "J Solano, OM Camburu, P Minervini - arXiv preprint arXiv:2305.13235, 2023" 
+--- 
+Explaining the decisions of neural models is crucial for ensuring their trustworthiness at deployment time. Using Natural Language Explanations (NLEs) to justify a model s predictions has recently gained increasing interest. However, this approach usually demands large datasets of human-written NLEs for the ground-truth answers, which are expensive and potentially infeasible for some applications. For models to generate high-quality NLEs when only a few NLEs are available, the fine-tuning of  Cites: CommonsenseQA: A Question Answering Challenge Targeting

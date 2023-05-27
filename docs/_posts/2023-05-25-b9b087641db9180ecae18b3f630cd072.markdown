@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MaNtLE: Model-agnostic Natural Language Explainer"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "RR Menon, K Zaman, S Srivastava - arXiv preprint arXiv:2305.12995, 2023"
----
-Understanding the internal reasoning behind the predictions of machine learning systems is increasingly vital, given their rising adoption and acceptance. While previous approaches, such as LIME, generate algorithmic explanations by attributing importance to input features for individual examples, recent research indicates that practitioners prefer examining language explanations that explain sub-groups of examples. In this paper, we introduce MaNtLE, a model-agnostic natural language …
-Cites: ‪Fixing model bugs with natural language patches‬
+--- 
+layout: post 
+title: "MaNtLE: Model-agnostic Natural Language Explainer" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "RR Menon, K Zaman, S Srivastava - arXiv preprint arXiv:2305.12995, 2023" 
+--- 
+Understanding the internal reasoning behind the predictions of machine learning systems is increasingly vital, given their rising adoption and acceptance. While previous approaches, such as LIME, generate algorithmic explanations by attributing importance to input features for individual examples, recent research indicates that practitioners prefer examining language explanations that explain sub-groups of examples. In this paper, we introduce MaNtLE, a model-agnostic natural language  Cites: Fixing model bugs with natural language patches

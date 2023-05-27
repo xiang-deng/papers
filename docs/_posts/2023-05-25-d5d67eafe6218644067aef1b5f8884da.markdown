@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "X Lu, L Pan, Q Liu, P Nakov, MY Kan - arXiv preprint arXiv:2305.13186, 2023"
----
-Scientific fact-checking is crucial for ensuring the accuracy, reliability, and trustworthiness of scientific claims. However, existing benchmarks are limited in terms of their claim diversity, reliance on text-based evidence, and oversimplification of scientific reasoning. To address these gaps, we introduce SCITAB, a novel dataset comprising 1,225 challenging scientific claims requiring compositional reasoning with scientific tables. The claims in SCITAB are derived from the actual scientific …
-Cites: ‪SciFact-Open: Towards open-domain scientific claim verification‬
+--- 
+layout: post 
+title: "SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "X Lu, L Pan, Q Liu, P Nakov, MY Kan - arXiv preprint arXiv:2305.13186, 2023" 
+--- 
+Scientific fact-checking is crucial for ensuring the accuracy, reliability, and trustworthiness of scientific claims. However, existing benchmarks are limited in terms of their claim diversity, reliance on text-based evidence, and oversimplification of scientific reasoning. To address these gaps, we introduce SCITAB, a novel dataset comprising 1,225 challenging scientific claims requiring compositional reasoning with scientific tables. The claims in SCITAB are derived from the actual scientific  Cites: SciFact-Open: Towards open-domain scientific claim verification

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "X He, Q Xu, J Wang, B Rubinstein, T Cohn - arXiv preprint arXiv:2305.11596, 2023"
----
-Modern NLP models are often trained over large untrusted datasets, raising the potential for a malicious adversary to compromise model behaviour. For instance, backdoors can be implanted through crafting training instances with a specific textual trigger and a target label. This paper posits that backdoor poisoning attacks exhibit spurious correlation between simple text features and classification labels, and accordingly, proposes methods for mitigating spurious correlation as means of …
-Cites: ‪Generating Data to Mitigate Spurious Correlations in Natural …‬
+--- 
+layout: post 
+title: "Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "X He, Q Xu, J Wang, B Rubinstein, T Cohn - arXiv preprint arXiv:2305.11596, 2023" 
+--- 
+Modern NLP models are often trained over large untrusted datasets, raising the potential for a malicious adversary to compromise model behaviour. For instance, backdoors can be implanted through crafting training instances with a specific textual trigger and a target label. This paper posits that backdoor poisoning attacks exhibit spurious correlation between simple text features and classification labels, and accordingly, proposes methods for mitigating spurious correlation as means of  Cites: Generating Data to Mitigate Spurious Correlations in Natural

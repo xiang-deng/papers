@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Re-visiting Automated Topic Model Evaluation with Large Language Models"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "D Stammbach, V Zouhar, A Hoyle, M Sachan, E Ash - arXiv preprint arXiv:2305.12152, 2023"
----
-Topic models are used to make sense of large text collections. However, automatically evaluating topic model output and determining the optimal number of topics both have been longstanding challenges, with no effective automated solutions to date. This paper proposes using large language models to evaluate such output. We find that large language models appropriately assess the resulting topics, correlating more strongly with human judgments than existing automated …
-Cites: ‪Reading tea leaves: How humans interpret topic models‬
+--- 
+layout: post 
+title: "Re-visiting Automated Topic Model Evaluation with Large Language Models" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "D Stammbach, V Zouhar, A Hoyle, M Sachan, E Ash - arXiv preprint arXiv:2305.12152, 2023" 
+--- 
+Topic models are used to make sense of large text collections. However, automatically evaluating topic model output and determining the optimal number of topics both have been longstanding challenges, with no effective automated solutions to date. This paper proposes using large language models to evaluate such output. We find that large language models appropriately assess the resulting topics, correlating more strongly with human judgments than existing automated  Cites: Reading tea leaves: How humans interpret topic models

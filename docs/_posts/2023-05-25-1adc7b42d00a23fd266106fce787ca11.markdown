@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Symbolic Framework for Systematic Evaluation of Mathematical Reasoning with Transformers"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "J Meadows, M Valentino, D Teney, A Freitas - arXiv preprint arXiv:2305.12563, 2023"
----
-Whether Transformers can learn to apply symbolic rules and generalise to out-of-distribution examples is an open research question. In this paper, we devise a data generation method for producing intricate mathematical derivations, and systematically perturb them with respect to syntax, structure, and semantics. Our task-agnostic approach generates equations, annotations, and inter-equation dependencies, employing symbolic algebra for scalable data production and …
-Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬
+--- 
+layout: post 
+title: "A Symbolic Framework for Systematic Evaluation of Mathematical Reasoning with Transformers" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "J Meadows, M Valentino, D Teney, A Freitas - arXiv preprint arXiv:2305.12563, 2023" 
+--- 
+Whether Transformers can learn to apply symbolic rules and generalise to out-of-distribution examples is an open research question. In this paper, we devise a data generation method for producing intricate mathematical derivations, and systematically perturb them with respect to syntax, structure, and semantics. Our task-agnostic approach generates equations, annotations, and inter-equation dependencies, employing symbolic algebra for scalable data production and  Cites: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList

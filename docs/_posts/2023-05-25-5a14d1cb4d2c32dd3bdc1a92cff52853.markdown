@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "R Gao, Z Zhang, Y Du, L Liu, R Wang - arXiv preprint arXiv:2305.13034, 2023"
----
-Nearest Neighbor Machine Translation ($ k $ NN-MT) has achieved great success on domain adaptation tasks by integrating pre-trained Neural Machine Translation (NMT) models with domain-specific token-level retrieval. However, the reasons underlying its success have not been thoroughly investigated. In this paper, we provide a comprehensive analysis of $ k $ NN-MT through theoretical and empirical studies. Initially, we offer a theoretical interpretation of the working mechanism of $ k …
-Cites: ‪Why do Nearest Neighbor Language Models Work?‬
+--- 
+layout: post 
+title: "Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "R Gao, Z Zhang, Y Du, L Liu, R Wang - arXiv preprint arXiv:2305.13034, 2023" 
+--- 
+Nearest Neighbor Machine Translation ($ k $ NN-MT) has achieved great success on domain adaptation tasks by integrating pre-trained Neural Machine Translation (NMT) models with domain-specific token-level retrieval. However, the reasons underlying its success have not been thoroughly investigated. In this paper, we provide a comprehensive analysis of $ k $ NN-MT through theoretical and empirical studies. Initially, we offer a theoretical interpretation of the working mechanism of $ k  Cites: Why do Nearest Neighbor Language Models Work?

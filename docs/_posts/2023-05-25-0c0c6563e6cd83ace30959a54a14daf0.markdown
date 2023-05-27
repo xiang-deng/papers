@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text-to-SQL Error Correction with Language Models of Code"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "Z Chen, S Chen, M White, R Mooney, A Payani… - arXiv preprint arXiv …, 2023"
----
-Despite recent progress in text-to-SQL parsing, current semantic parsers are still not accurate enough for practical use. In this paper, we investigate how to build automatic text-to-SQL error correction models. Noticing that token-level edits are out of context and sometimes ambiguous, we propose building clause-level edit models instead. Besides, while most language models of code are not specifically pre-trained for SQL, they know common data structures and their operations in …
-Cites: ‪Bridging textual and tabular data for cross-domain text-to-SQL …‬
+--- 
+layout: post 
+title: "Text-to-SQL Error Correction with Language Models of Code" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "Z Chen, S Chen, M White, R Mooney, A Payani - arXiv preprint arXiv , 2023" 
+--- 
+Despite recent progress in text-to-SQL parsing, current semantic parsers are still not accurate enough for practical use. In this paper, we investigate how to build automatic text-to-SQL error correction models. Noticing that token-level edits are out of context and sometimes ambiguous, we propose building clause-level edit models instead. Besides, while most language models of code are not specifically pre-trained for SQL, they know common data structures and their operations in  Cites: Bridging textual and tabular data for cross-domain text-to-SQL

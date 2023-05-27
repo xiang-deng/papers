@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Teaching Probabilistic Logical Reasoning to Transformers"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "A Nafar, KB Venable, P Kordjamshidi - arXiv preprint arXiv:2305.13179, 2023"
----
-Recent research on transformer-based language models investigates their reasoning ability over logical rules expressed in natural language text. However, their logic is not yet well-understood as we cannot explain the abstractions made by the models that help them in reasoning. These models are criticized for merely memorizing complex patterns in the data, which often creates issues for their generalizability in unobserved situations. In this work, we analyze the use of …
-Cites: ‪GLUECons: A Generic Benchmark for Learning Under Constraints‬
+--- 
+layout: post 
+title: "Teaching Probabilistic Logical Reasoning to Transformers" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "A Nafar, KB Venable, P Kordjamshidi - arXiv preprint arXiv:2305.13179, 2023" 
+--- 
+Recent research on transformer-based language models investigates their reasoning ability over logical rules expressed in natural language text. However, their logic is not yet well-understood as we cannot explain the abstractions made by the models that help them in reasoning. These models are criticized for merely memorizing complex patterns in the data, which often creates issues for their generalizability in unobserved situations. In this work, we analyze the use of  Cites: GLUECons: A Generic Benchmark for Learning Under Constraints

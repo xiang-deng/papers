@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Decouple knowledge from paramters for plug-and-play language modeling"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "X Cheng, Y Lin, X Chen, D Zhao, R Yan - arXiv preprint arXiv:2305.11564, 2023"
----
-Pre-trained language models (PLM) have made impressive results in various NLP tasks. It has been revealed that one of the key factors to their success is the parameters of these models implicitly learn all kinds of knowledge during pre-training. However, encoding knowledge implicitly in the model parameters has two fundamental drawbacks. First, the knowledge is neither editable nor scalable once the model is trained, which is especially problematic in that knowledge is consistently …
-Cites: ‪Training Language Models with Memory Augmentation‬
+--- 
+layout: post 
+title: "Decouple knowledge from paramters for plug-and-play language modeling" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "X Cheng, Y Lin, X Chen, D Zhao, R Yan - arXiv preprint arXiv:2305.11564, 2023" 
+--- 
+Pre-trained language models (PLM) have made impressive results in various NLP tasks. It has been revealed that one of the key factors to their success is the parameters of these models implicitly learn all kinds of knowledge during pre-training. However, encoding knowledge implicitly in the model parameters has two fundamental drawbacks. First, the knowledge is neither editable nor scalable once the model is trained, which is especially problematic in that knowledge is consistently  Cites: Training Language Models with Memory Augmentation

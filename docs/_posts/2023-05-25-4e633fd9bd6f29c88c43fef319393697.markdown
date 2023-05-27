@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "S Hao, T Liu, Z Wang, Z Hu - arXiv preprint arXiv:2305.11554, 2023"
----
-Augmenting large language models (LLMs) with external tools has emerged as a promising approach to solving complex problems. However, traditional methods, which finetune LLMs with tool demonstration data, can be both costly and restricted to a predefined set of tools. Recent in-context learning paradigm alleviates these issues, but the limited context length only allows for a few shots of demonstrations, leading to suboptimal understandings of the tools. Moreover, when there are …
-Cites: ‪ART: Automatic multi-step reasoning and tool-use for large …‬
+--- 
+layout: post 
+title: "ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "S Hao, T Liu, Z Wang, Z Hu - arXiv preprint arXiv:2305.11554, 2023" 
+--- 
+Augmenting large language models (LLMs) with external tools has emerged as a promising approach to solving complex problems. However, traditional methods, which finetune LLMs with tool demonstration data, can be both costly and restricted to a predefined set of tools. Recent in-context learning paradigm alleviates these issues, but the limited context length only allows for a few shots of demonstrations, leading to suboptimal understandings of the tools. Moreover, when there are  Cites: ART: Automatic multi-step reasoning and tool-use for large

@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Taxonomy Expansion for Named Entity Recognition"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "Y Vyas, J Ma, G Paolini, NA John, S Wang, Y Benajiba… - arXiv preprint arXiv …, 2023"
----
-Training a Named Entity Recognition (NER) model often involves fixing a taxonomy of entity types. However, requirements evolve and we might need the NER model to recognize additional entity types. A simple approach is to re-annotate entire dataset …
+--- 
+layout: post 
+title: "Taxonomy Expansion for Named Entity Recognition" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "Y Vyas, J Ma, G Paolini, NA John, S Wang, Y Benajiba - arXiv preprint arXiv , 2023" 
+--- 
+Training a Named Entity Recognition (NER) model often involves fixing a taxonomy of entity types. However, requirements evolve and we might need the NER model to recognize additional entity types. A simple approach is to re-annotate entire dataset

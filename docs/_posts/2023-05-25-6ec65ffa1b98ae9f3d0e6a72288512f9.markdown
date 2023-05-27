@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "L Pan, A Albalak, X Wang, WY Wang - arXiv preprint arXiv:2305.12295, 2023"
----
-Large Language Models (LLMs) have shown human-like reasoning abilities but still struggle with complex logical problems. This paper introduces a novel framework, Logic-LM, which integrates LLMs with symbolic reasoning to improve logical problem-solving. Our method first utilizes LLMs to translate a natural language problem into a symbolic formulation. Afterward, a deterministic symbolic solver performs inference on the formulated problem. We also introduce a self-refinement stage, which utilizes …
-Cites: ‪Generating Natural Language Proofs with Verifier-Guided Search‬
+--- 
+layout: post 
+title: "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "L Pan, A Albalak, X Wang, WY Wang - arXiv preprint arXiv:2305.12295, 2023" 
+--- 
+Large Language Models (LLMs) have shown human-like reasoning abilities but still struggle with complex logical problems. This paper introduces a novel framework, Logic-LM, which integrates LLMs with symbolic reasoning to improve logical problem-solving. Our method first utilizes LLMs to translate a natural language problem into a symbolic formulation. Afterward, a deterministic symbolic solver performs inference on the formulated problem. We also introduce a self-refinement stage, which utilizes  Cites: Generating Natural Language Proofs with Verifier-Guided Search

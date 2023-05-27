@@ -1,9 +1,8 @@
----
-layout: post
-title:  "QUEST: A Retrieval Dataset of Entity-Seeking Queries with Implicit Set Operations"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "C Malaviya, P Shaw, MW Chang, K Lee, K Toutanova - arXiv preprint arXiv …, 2023"
----
-Formulating selective information needs results in queries that implicitly specify set operations, such as intersection, union, and difference. For instance, one might search for  shorebirds that are not sandpipers  or  science-fiction films shot in England . To study the ability of retrieval systems to meet such information needs, we construct QUEST, a dataset of 3357 natural language queries with implicit set operations, that map to a set of entities corresponding to Wikipedia documents. The …
-Cites: ‪RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer …‬
+--- 
+layout: post 
+title: "QUEST: A Retrieval Dataset of Entity-Seeking Queries with Implicit Set Operations" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "C Malaviya, P Shaw, MW Chang, K Lee, K Toutanova - arXiv preprint arXiv , 2023" 
+--- 
+Formulating selective information needs results in queries that implicitly specify set operations, such as intersection, union, and difference. For instance, one might search for shorebirds that are not sandpipers or science-fiction films shot in England . To study the ability of retrieval systems to meet such information needs, we construct QUEST, a dataset of 3357 natural language queries with implicit set operations, that map to a set of entities corresponding to Wikipedia documents. The  Cites: RoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer

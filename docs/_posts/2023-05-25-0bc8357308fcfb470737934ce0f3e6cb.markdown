@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding the Effect of Data Augmentation on Knowledge Distillation"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "Z Wang, C Han, W Bao, H Ji - arXiv preprint arXiv:2305.12565, 2023"
----
-Knowledge distillation (KD) requires sufficient data to transfer knowledge from large-scale teacher models to small-scale student models. Therefore, data augmentation has been widely used to mitigate the shortage of data under specific scenarios. Classic data augmentation techniques, such as synonym replacement and k-nearest-neighbors, are initially designed for fine-tuning. To avoid severe semantic shifts and preserve task-specific labels, those methods prefer to change only a small proportion …
-Cites: ‪Well-Read Students Learn Better: On the Importance of Pre …‬
+--- 
+layout: post 
+title: "Understanding the Effect of Data Augmentation on Knowledge Distillation" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "Z Wang, C Han, W Bao, H Ji - arXiv preprint arXiv:2305.12565, 2023" 
+--- 
+Knowledge distillation (KD) requires sufficient data to transfer knowledge from large-scale teacher models to small-scale student models. Therefore, data augmentation has been widely used to mitigate the shortage of data under specific scenarios. Classic data augmentation techniques, such as synonym replacement and k-nearest-neighbors, are initially designed for fine-tuning. To avoid severe semantic shifts and preserve task-specific labels, those methods prefer to change only a small proportion  Cites: Well-Read Students Learn Better: On the Importance of Pre

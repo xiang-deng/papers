@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "Z Gou, Z Shao, Y Gong, Y Shen, Y Yang, N Duan… - arXiv preprint arXiv …, 2023"
----
-Recent developments in large language models (LLMs) have been impressive. However, these models sometimes show inconsistencies and problematic behavior, such as hallucinating facts, generating flawed code, or creating offensive and toxic content. Unlike these models, humans typically utilize external tools to cross-check and refine their initial content, like using a search engine for fact-checking, or a code interpreter for debugging. Inspired by this observation, we introduce a framework …
-Cites: ‪Prompting gpt-3 to be reliable‬
+--- 
+layout: post 
+title: "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "Z Gou, Z Shao, Y Gong, Y Shen, Y Yang, N Duan - arXiv preprint arXiv , 2023" 
+--- 
+Recent developments in large language models (LLMs) have been impressive. However, these models sometimes show inconsistencies and problematic behavior, such as hallucinating facts, generating flawed code, or creating offensive and toxic content. Unlike these models, humans typically utilize external tools to cross-check and refine their initial content, like using a search engine for fact-checking, or a code interpreter for debugging. Inspired by this observation, we introduce a framework  Cites: Prompting gpt-3 to be reliable

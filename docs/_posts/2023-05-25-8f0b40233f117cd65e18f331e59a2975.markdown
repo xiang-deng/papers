@@ -1,8 +1,8 @@
----
-layout: post
-title:  "TaskWeb: Selecting Better Source Tasks for Multi-task NLP"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "J Kim, A Asai, G Ilharco, H Hajishirzi - arXiv preprint arXiv:2305.13256, 2023"
----
-Recent work in NLP has shown promising results in training models on large amounts of tasks to achieve better generalization. However, it is not well-understood how tasks are related, and how helpful training tasks can be chosen for a new task …
+--- 
+layout: post 
+title: "TaskWeb: Selecting Better Source Tasks for Multi-task NLP" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "J Kim, A Asai, G Ilharco, H Hajishirzi - arXiv preprint arXiv:2305.13256, 2023" 
+--- 
+Recent work in NLP has shown promising results in training models on large amounts of tasks to achieve better generalization. However, it is not well-understood how tasks are related, and how helpful training tasks can be chosen for a new task

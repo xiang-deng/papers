@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Interpretable Style Embeddings via Prompting LLMs"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "A Patel, D Rao, C Callison-Burch - arXiv preprint arXiv:2305.12696, 2023"
----
-Style representation learning builds content-independent representations of author style in text. Stylometry, the analysis of style in text, is often performed by expert forensic linguists and no large dataset of stylometric annotations exists for training. Current style representation learning uses neural methods to disentangle style from content to create style vectors, however, these approaches result in uninterpretable representations, complicating their usage in downstream applications like authorship …
-Cites: ‪Self-Instruct: Aligning Language Model with Self Generated …‬
+--- 
+layout: post 
+title: "Learning Interpretable Style Embeddings via Prompting LLMs" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "A Patel, D Rao, C Callison-Burch - arXiv preprint arXiv:2305.12696, 2023" 
+--- 
+Style representation learning builds content-independent representations of author style in text. Stylometry, the analysis of style in text, is often performed by expert forensic linguists and no large dataset of stylometric annotations exists for training. Current style representation learning uses neural methods to disentangle style from content to create style vectors, however, these approaches result in uninterpretable representations, complicating their usage in downstream applications like authorship  Cites: Self-Instruct: Aligning Language Model with Self Generated

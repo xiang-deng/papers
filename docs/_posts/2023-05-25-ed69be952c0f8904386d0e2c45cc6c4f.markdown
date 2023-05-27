@@ -1,9 +1,8 @@
----
-layout: post
-title:  "WEBIE: Faithful and Robust Information Extraction on the Web"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "C Whitehouse, C Vania, AF Aji, C Christodoulopoulos…"
----
-Extracting structured and grounded fact triples from raw text is a fundamental task in Information Extraction (IE). Existing IE datasets are typically collected from Wikipedia articles, using hyperlinks to link entities to the Wikidata knowledge base. However, models trained only on Wikipedia have limitations when applied to web domains, which often contain noisy text or text that does not have any factual information. We present WEBIE, the first large-scale, entity-linked closed IE dataset consisting of 1.6 …
-Cites: ‪A well-composed text is half done! composition sampling for …‬
+--- 
+layout: post 
+title: "WEBIE: Faithful and Robust Information Extraction on the Web" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "C Whitehouse, C Vania, AF Aji, C Christodoulopoulos" 
+--- 
+Extracting structured and grounded fact triples from raw text is a fundamental task in Information Extraction (IE). Existing IE datasets are typically collected from Wikipedia articles, using hyperlinks to link entities to the Wikidata knowledge base. However, models trained only on Wikipedia have limitations when applied to web domains, which often contain noisy text or text that does not have any factual information. We present WEBIE, the first large-scale, entity-linked closed IE dataset consisting of 1.6  Cites: A well-composed text is half done! composition sampling for

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learn to Compose Syntactic and Semantic Representations Appropriately for Compositional Generalization"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "L Lin, S Li, B Fu, Y Zheng, S Liu, Y Chen, X Shi - arXiv preprint arXiv:2305.12169, 2023"
----
-Recent studies have shown that sequence-to-sequence (Seq2Seq) models are limited in solving the compositional generalization (CG) tasks, failing to systematically generalize to unseen compositions of seen components. There is mounting evidence that one of the reasons hindering CG is the representation of the encoder uppermost layer is entangled. In other words, the syntactic and semantic representations of sequences are twisted inappropriately. However, most previous …
-Cites: ‪Disentangled sequence to sequence learning for compositional …‬
+--- 
+layout: post 
+title: "Learn to Compose Syntactic and Semantic Representations Appropriately for Compositional Generalization" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "L Lin, S Li, B Fu, Y Zheng, S Liu, Y Chen, X Shi - arXiv preprint arXiv:2305.12169, 2023" 
+--- 
+Recent studies have shown that sequence-to-sequence (Seq2Seq) models are limited in solving the compositional generalization (CG) tasks, failing to systematically generalize to unseen compositions of seen components. There is mounting evidence that one of the reasons hindering CG is the representation of the encoder uppermost layer is entangled. In other words, the syntactic and semantic representations of sequences are twisted inappropriately. However, most previous  Cites: Disentangled sequence to sequence learning for compositional

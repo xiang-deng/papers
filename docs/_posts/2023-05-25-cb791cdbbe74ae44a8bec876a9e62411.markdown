@@ -1,9 +1,8 @@
----
-layout: post
-title:  "uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "J Lee, S Park, M Yoon, J Lee - arXiv preprint arXiv:2305.12768, 2023"
----
-Because implicit user feedback for the collaborative filtering (CF) models is biased toward popular items, CF models tend to yield recommendation lists with popularity bias. Previous studies have utilized inverse propensity weighting (IPW) or causal inference to mitigate this problem. However, they solely employ pointwise or pairwise loss functions and neglect to adopt a contrastive loss function for learning meaningful user and item representations. In this paper, we propose Unbiased ConTrastive …
-Cites: ‪Knowledge-Adaptive Contrastive Learning for Recommendation‬
+--- 
+layout: post 
+title: "uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "J Lee, S Park, M Yoon, J Lee - arXiv preprint arXiv:2305.12768, 2023" 
+--- 
+Because implicit user feedback for the collaborative filtering (CF) models is biased toward popular items, CF models tend to yield recommendation lists with popularity bias. Previous studies have utilized inverse propensity weighting (IPW) or causal inference to mitigate this problem. However, they solely employ pointwise or pairwise loss functions and neglect to adopt a contrastive loss function for learning meaningful user and item representations. In this paper, we propose Unbiased ConTrastive  Cites: Knowledge-Adaptive Contrastive Learning for Recommendation

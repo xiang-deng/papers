@@ -1,9 +1,8 @@
----
-layout: post
-title:  "What do others think? : Task-Oriented Conversational Modeling with Subjective Knowledge"
-date:   2023-05-25 03:51:47 -0400
-categories: jekyll update
-author: "C Zhao, S Gella, S Kim, D Jin, D Hazarika… - arXiv preprint arXiv …, 2023"
----
-Task-oriented Dialogue (TOD) Systems aim to build dialogue systems that assist users in accomplishing specific goals, such as booking a hotel or a restaurant. Traditional TODs rely on domain-specific APIs/DBs or external factual knowledge to generate responses, which cannot accommodate subjective user requests (eg,  Is the WIFI reliable?  or  Does the restaurant have a good atmosphere? ). To address this issue, we propose a novel task of subjective-knowledge-based TOD (SK-TOD) …
-Cites: ‪Extractive opinion summarization in quantized transformer spaces‬
+--- 
+layout: post 
+title: "What do others think? : Task-Oriented Conversational Modeling with Subjective Knowledge" 
+date: 2023-05-25 03:51:47 -0400 
+categories: jekyll update 
+author: "C Zhao, S Gella, S Kim, D Jin, D Hazarika - arXiv preprint arXiv , 2023" 
+--- 
+Task-oriented Dialogue (TOD) Systems aim to build dialogue systems that assist users in accomplishing specific goals, such as booking a hotel or a restaurant. Traditional TODs rely on domain-specific APIs/DBs or external factual knowledge to generate responses, which cannot accommodate subjective user requests (eg, Is the WIFI reliable? or Does the restaurant have a good atmosphere? ). To address this issue, we propose a novel task of subjective-knowledge-based TOD (SK-TOD)  Cites: Extractive opinion summarization in quantized transformer spaces
