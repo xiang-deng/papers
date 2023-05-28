@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Robust Instruction Optimization for Large Language Models with Distribution Shifts"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "M Li, W Wang, F Feng, J Zhang, TS Chua - arXiv preprint arXiv:2305.13954, 2023"
+---
+Large Language Models have demonstrated significant ability in accomplishing a wide range of Natural Language Processing (NLP) tasks. However, their performance is highly sensitive to the even minor changes in the phrasing of the task instructions, leading to a line of research in automatic instruction optimization towards better performance for NLP tasks. Unfortunately, existing methods for instruction optimization fail to consider the distribution shift between the seen training …
+Cites: ‪TEMPERA: Test-Time Prompt Editing via Reinforcement Learning‬

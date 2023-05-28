@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Goal-Driven Explainable Clustering via Language Descriptions"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "Z Wang, J Shang, R Zhong - arXiv preprint arXiv:2305.13749, 2023"
+---
+Unsupervised clustering is widely used to explore large corpora, but existing formulations neither consider the users  goals nor explain clusters  meanings. We propose a new task formulation,  Goal-Driven Clustering with Explanations (GoalEx), which represents both the goal and the explanations as free-form language descriptions. For example, to categorize the errors made by a summarization system, the input to GoalEx is a corpus of annotator-written comments for system-generated …
+Cites: ‪Scaling instruction-finetuned language models‬

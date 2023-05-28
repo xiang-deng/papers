@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "J Kim, JH Lee, S Kim, J Park, KM Yoo, SJ Kwon, D Lee - arXiv preprint arXiv …, 2023"
+---
+Parameter-efficient fine-tuning (PEFT) methods have emerged to mitigate the prohibitive cost of full fine-tuning large language models (LLMs). Nonetheless, the enormous size of LLMs impedes routine deployment. To address the issue, we present Parameter-Efficient and Quantization-aware Adaptation (PEQA), a novel quantization-aware PEFT technique that facilitates model compression and accelerates inference. PEQA operates through a dual-stage process: initially, the …
+Cites: ‪Unifiedskg: Unifying and multi-tasking structured knowledge …‬

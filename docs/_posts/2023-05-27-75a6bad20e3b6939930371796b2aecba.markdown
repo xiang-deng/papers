@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DAPR: A Benchmark on Document-Aware Passage Retrieval"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "K Wang, N Reimers, I Gurevych - arXiv preprint arXiv:2305.13915, 2023"
+---
+Recent neural retrieval mainly focuses on ranking short texts and is challenged with long documents. Existing work mainly evaluates either ranking passages or whole documents. However, there are many cases where the users want to find a relevant passage within a long document from a huge corpus, eg legal cases, research papers, etc. In this scenario, the passage often provides little document context and thus challenges the current approaches to finding the correct document and …
+Cites: ‪Natural questions: a benchmark for question answering research‬

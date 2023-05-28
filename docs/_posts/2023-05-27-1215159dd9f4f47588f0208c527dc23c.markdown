@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ClusterLLM: Large Language Models as a Guide for Text Clustering"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "Y Zhang, Z Wang, J Shang - arXiv preprint arXiv:2305.14871, 2023"
+---
+We introduce ClusterLLM, a novel text clustering framework that leverages feedback from an instruction-tuned large language model, such as ChatGPT. Compared with traditional unsupervised methods that builds upon  small  embedders, ClusterLLM exhibits two intriguing advantages:(1) it enjoys the emergent capability of LLM even if its embeddings are inaccessible; and (2) it understands the user s preference on clustering through textual instruction and/or a few annotated data. First, we prompt …
+Cites: ‪New Frontiers of Information Extraction‬

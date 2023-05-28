@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Coverage-based Example Selection for In-Context Learning"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "S Gupta, S Singh, M Gardner - arXiv preprint arXiv:2305.14907, 2023"
+---
+In-context learning (ICL), the ability of large language models to perform novel tasks by conditioning on a prompt with a few task examples, requires demonstrations that are informative about the test instance. The standard approach of independently selecting the most similar examples selects redundant demonstrations while overlooking important information. This work proposes a framework for assessing the informativeness of demonstrations based on their coverage of salient aspects (eg …
+Cites: ‪Evaluating the impact of model scale for compositional …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "M Li, B Peng, Z Zhang - arXiv preprint arXiv:2305.14623, 2023"
+---
+Fact-checking is an essential task in NLP that is commonly utilized for validating the factual accuracy of claims. Prior work has mainly focused on fine-tuning pre-trained languages models on specific datasets, which can be computationally intensive and time-consuming. With the rapid development of large language models (LLMs), such as ChatGPT and GPT-3, researchers are now exploring their in-context learning capabilities for a wide range of tasks. In this paper, we aim to assess the capacity of …
+Cites: ‪Proofver: Natural logic theorem proving for fact verification‬

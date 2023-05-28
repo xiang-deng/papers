@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mastering the ABCDs of Complex Questions: Answer-Based Claim Decomposition for Fine-grained Self-Evaluation"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "N Balepur, J Huang, S Moorjani, H Sundaram… - arXiv preprint arXiv …, 2023"
+---
+When answering complex questions, large language models (LLMs) may produce answers that do not satisfy all criteria of the question. While existing self-evaluation techniques aim to detect if such answers are correct, these techniques are unable to determine which criteria of the question are satisfied by the generated answers. To address this issue, we propose answer-based claim decomposition (ABCD), a prompting strategy that decomposes questions into a series of true/false claims that …
+Cites: ‪Crawling the internal knowledge-base of language models‬

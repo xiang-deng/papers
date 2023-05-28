@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Flan-MoE: Scaling Instruction-Finetuned Language Models with Sparse Mixture of Experts"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "S Shen, L Hou, Y Zhou, N Du, S Longpre, J Wei… - arXiv preprint arXiv …, 2023"
+---
+The explosive growth of language models and their applications have led to an increased demand for efficient and scalable methods. In this paper, we introduce Flan-MoE, a set of Instruction-Finetuned Sparse Mixture-of-Expert (MoE) models. We show that naively finetuning MoE models on a task-specific dataset (in other words, no instruction-finetuning) often yield worse performance compared to dense models of the same computational complexity. However, our Flan-MoE outperforms dense …
+Cites: ‪Super-naturalinstructions: Generalization via declarative …‬

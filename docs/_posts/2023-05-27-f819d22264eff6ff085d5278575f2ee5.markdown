@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "H Liu, Z Li, D Hall, P Liang, T Ma - arXiv preprint arXiv:2305.14342, 2023"
+---
+Given the massive cost of language model pre-training, a non-trivial improvement of the optimization algorithm would lead to a material reduction on the time and cost of training. Adam and its variants have been state-of-the-art for years, and more sophisticated second-order (Hessian-based) optimizers often incur too much per-step overhead. In this paper, we propose Sophia, Second-order Clipped Stochastic Optimization, a simple scalable second-order optimizer that uses a light-weight …
+Cites: ‪Mistral—A Journey towards Reproducible Language Model Training‬

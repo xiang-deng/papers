@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Language Models with Advantage-based Offline Policy Gradients"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "A Baheti, X Lu, F Brahman, RL Bras, M Sap, M Riedl - arXiv preprint arXiv …, 2023"
+---
+Improving language model generations according to some user-defined quality or style constraints is challenging. Typical approaches include learning on additional human-written data, filtering``low-quality  data using heuristics and/or using reinforcement learning with human feedback (RLHF). However, filtering can remove valuable training signals, whereas data collection and RLHF constantly require additional human-written or LM exploration data which can be costly to obtain. A …
+Cites: ‪Measuring the carbon intensity of ai in cloud instances‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "QLoRA: Efficient Finetuning of Quantized LLMs"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "T Dettmers, A Pagnoni, A Holtzman, L Zettlemoyer - arXiv preprint arXiv:2305.14314, 2023"
+---
+We present QLoRA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance. QLoRA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters~(LoRA). Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3% of the performance level …
+Cites: ‪The flan collection: Designing data and methods for effective …‬

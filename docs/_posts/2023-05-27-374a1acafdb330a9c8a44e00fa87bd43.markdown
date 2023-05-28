@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Instruction Tuning with Lexicons for Zero-Shot Style Classification"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "R Guo, W Xu, A Ritter - arXiv preprint arXiv:2305.14592, 2023"
+---
+Style is used to convey authors  intentions and attitudes. Despite the success of large pre-trained language models on style classification, prior work relies on fine-tuning with labeled examples. Prompting large language models to classify style without fine-tuning is challenging because language styles can be difficult to define. In this study, we investigate the effectiveness of style lexicons as a means for instructing language models how to identify new styles that are unseen during training. Our …
+Cites: ‪Inverse scaling can become U-shaped‬

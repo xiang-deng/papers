@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SummIt: Iterative Text Summarization via ChatGPT"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "H Zhang, X Liu, J Zhang - arXiv preprint arXiv:2305.14835, 2023"
+---
+Existing text summarization systems have made significant progress in recent years but typically generates summaries in a single step. The one-shot summarization setting is sometimes inadequate, however, as the generated summary may contain hallucinations or overlook important details related to the reader s interests. In this paper, we address this limitation by proposing SummIt, an iterative text summarization framework based on large language models like ChatGPT. Our …
+Cites: ‪FRUIT: faithfully reflecting updated information in text‬

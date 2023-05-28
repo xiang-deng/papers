@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "W Wang, T Fang, W Ding, B Xu, X Liu, Y Song… - arXiv preprint arXiv …, 2023"
+---
+The task of zero-shot commonsense question answering evaluates models on their capacity to reason about general scenarios beyond those presented in specific datasets. Existing approaches for tackling this task leverage external knowledge from CommonSense Knowledge Bases (CSKBs) by pretraining the model on synthetic QA pairs constructed from CSKBs. In these approaches, negative examples (distractors) are formulated by randomly sampling from CSKBs using fairly primitive keyword …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬

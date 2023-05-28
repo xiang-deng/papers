@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Privacy Implications of Retrieval-Based Language Models"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "Y Huang, S Gupta, Z Zhong, K Li, D Chen - arXiv preprint arXiv:2305.14888, 2023"
+---
+Retrieval-based language models (LMs) have demonstrated improved interpretability, factuality, and adaptability compared to their parametric counterparts, by incorporating retrieved text from external datastores. While it is well known that parametric models are prone to leaking private data, it remains unclear how the addition of a retrieval datastore impacts model privacy. In this work, we present the first study of privacy risks in retrieval-based LMs, particularly $ k $ NN-LMs. Our goal …
+Cites: ‪Nonparametric Masked Language Modeling‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "L Guan, K Valmeekam, S Sreedharan, S Kambhampati - arXiv preprint arXiv …, 2023"
+---
+There is a growing interest in applying pre-trained large language models (LLMs) to planning problems. However, methods that use LLMs directly as planners are currently impractical due to several factors, including limited correctness of plans, strong reliance on feedback from interactions with simulators or even the actual environment, and the inefficiency in utilizing human feedback. In this work, we introduce a novel alternative paradigm that constructs an explicit world (domain) …
+Cites: ‪Do embodied agents dream of pixelated sheep?: Embodied …‬

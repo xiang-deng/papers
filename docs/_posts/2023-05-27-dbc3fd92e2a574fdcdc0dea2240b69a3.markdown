@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mitigating Temporal Misalignment by Discarding Outdated Facts"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "MJQ Zhang, E Choi - arXiv preprint arXiv:2305.14824, 2023"
+---
+While large language models are able to retain vast amounts of world knowledge seen during pretraining, such knowledge is prone to going out of date and is nontrivial to update. Furthermore, these models are often used under temporal misalignment, tasked with answering questions about the present, despite having only been trained on data collected in the past. To mitigate the effects of temporal misalignment, we propose fact duration prediction: the task of predicting how long a …
+Cites: ‪RealTime QA: What s the Answer Right Now?‬

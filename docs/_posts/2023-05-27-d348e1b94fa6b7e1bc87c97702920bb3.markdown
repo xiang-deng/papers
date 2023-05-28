@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Large Language Model Distillation Doesn t Need a Teacher"
+date:   2023-05-27 10:00:59 -0400
+categories: jekyll update
+author: "AH Jha, D Groeneveld, E Strubell, I Beltagy - arXiv preprint arXiv:2305.14864, 2023"
+---
+Knowledge distillation trains a smaller student model to match the output distribution of a larger teacher to maximize the end-task performance under computational constraints. However, existing literature on language model distillation primarily focuses on compressing encoder-only models that are then specialized by task-specific supervised finetuning. We need to rethink this setup for more recent large language models with tens to hundreds of billions of parameters. Task-specific …
+Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬
