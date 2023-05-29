@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Challenges in Context-Aware Neural Machine Translation"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "L Jin, J He, J May, X Ma - arXiv preprint arXiv:2305.13751, 2023"
----
-Context-aware neural machine translation involves leveraging information beyond sentence-level context to resolve inter-sentential discourse dependencies and improve document-level translation quality, and has given rise to a number of recent techniques. However, despite well-reasoned intuitions, most context-aware translation models show only modest improvements over sentence-level systems. In this work, we investigate several challenges that impede progress within this field …
-Cites: ‪Modeling Context With Linear Attention for Scalable Document …‬
+--- 
+layout: post 
+title: "Challenges in Context-Aware Neural Machine Translation" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "L Jin, J He, J May, X Ma - arXiv preprint arXiv:2305.13751, 2023" 
+--- 
+Context-aware neural machine translation involves leveraging information beyond sentence-level context to resolve inter-sentential discourse dependencies and improve document-level translation quality, and has given rise to a number of recent techniques. However, despite well-reasoned intuitions, most context-aware translation models show only modest improvements over sentence-level systems. In this work, we investigate several challenges that impede progress within this field  Cites: Modeling Context With Linear Attention for Scalable Document

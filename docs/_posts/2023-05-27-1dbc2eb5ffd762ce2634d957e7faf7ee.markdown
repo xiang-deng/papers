@@ -1,9 +1,0 @@
----
-layout: post
-title:  "PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "YS Wang, TC Chi, R Zhang, Y Yang - arXiv preprint arXiv:2305.14963, 2023"
----
-We present PESCO, a novel contrastive learning framework that substantially improves the performance of zero-shot text classification. We formulate text classification as a neural text matching problem where each document is treated as a query, and the system learns the mapping from each query to the relevant class labels by (1) adding prompts to enhance label matching, and (2) using retrieved labels to enrich the training set in a self-training loop of contrastive learning. PESCO …
-Cites: ‪English Contrastive Learning Can Learn Universal Cross-lingual …‬

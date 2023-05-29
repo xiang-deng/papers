@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "J Xu, MD Ma, F Wang, C Xiao, M Chen - arXiv preprint arXiv:2305.14710, 2023"
----
-Instruction-tuned models are trained on crowdsourcing datasets with task instructions to achieve superior performance. However, in this work we raise security concerns about this training paradigm. Our studies demonstrate that an attacker can inject backdoors by issuing very few malicious instructions among thousands of gathered data and control model behavior through data poisoning, without even the need of modifying data instances or labels themselves. Through such instruction attacks, the …
-Cites: ‪Mind the Style of Text! Adversarial and Backdoor Attacks Based on …‬
+--- 
+layout: post 
+title: "Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "J Xu, MD Ma, F Wang, C Xiao, M Chen - arXiv preprint arXiv:2305.14710, 2023" 
+--- 
+Instruction-tuned models are trained on crowdsourcing datasets with task instructions to achieve superior performance. However, in this work we raise security concerns about this training paradigm. Our studies demonstrate that an attacker can inject backdoors by issuing very few malicious instructions among thousands of gathered data and control model behavior through data poisoning, without even the need of modifying data instances or labels themselves. Through such instruction attacks, the  Cites: Mind the Style of Text! Adversarial and Backdoor Attacks Based on

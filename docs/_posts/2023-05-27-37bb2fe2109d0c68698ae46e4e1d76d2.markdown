@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Measuring Job Loss during the Pandemic Recession in Real Time with Twitter Data"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Aizenman, CM Brennan, T Cajner, C Doniger… - 2023"
----
-We present an indicator of job loss derived from Twitter data, based on a fine-tuned neural network with transfer learning to classify if a tweet is job-loss related or not. We show that our Twitter-based measure of job loss is well-correlated with and predictive of other measures of unemployment available in the official statistics and with the added benefits of real-time availability and daily frequency. These findings are especially strong for the period of the Pandemic Recession, when our Twitter …
-Cites: ‪Using social media to measure labor market flows‬
+--- 
+layout: post 
+title: "Measuring Job Loss during the Pandemic Recession in Real Time with Twitter Data" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "A Aizenman, CM Brennan, T Cajner, C Doniger - 2023" 
+--- 
+We present an indicator of job loss derived from Twitter data, based on a fine-tuned neural network with transfer learning to classify if a tweet is job-loss related or not. We show that our Twitter-based measure of job loss is well-correlated with and predictive of other measures of unemployment available in the official statistics and with the added benefits of real-time availability and daily frequency. These findings are especially strong for the period of the Pandemic Recession, when our Twitter  Cites: Using social media to measure labor market flows

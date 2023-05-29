@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Neural Machine Translation for Code Generation"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "D KC, CT Morrison - arXiv preprint arXiv:2305.13504, 2023"
----
-Neural machine translation (NMT) methods developed for natural language processing have been shown to be highly successful in automating translation from one natural language to another. Recently, these NMT methods have been adapted to the generation of program code. In NMT for code generation, the task is to generate output source code that satisfies constraints expressed in the input. In the literature, a variety of different input scenarios have been explored, including …
-Cites: ‪Learning to mine aligned code and natural language pairs from …‬
+--- 
+layout: post 
+title: "Neural Machine Translation for Code Generation" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "D KC, CT Morrison - arXiv preprint arXiv:2305.13504, 2023" 
+--- 
+Neural machine translation (NMT) methods developed for natural language processing have been shown to be highly successful in automating translation from one natural language to another. Recently, these NMT methods have been adapted to the generation of program code. In NMT for code generation, the task is to generate output source code that satisfies constraints expressed in the input. In the literature, a variety of different input scenarios have been explored, including  Cites: Learning to mine aligned code and natural language pairs from

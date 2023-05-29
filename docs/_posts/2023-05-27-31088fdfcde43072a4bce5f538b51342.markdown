@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Trusting Your Evidence: Hallucinate Less with Context-aware Decoding"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "W Shi, X Han, M Lewis, Y Tsvetkov, L Zettlemoyer… - arXiv preprint arXiv …, 2023"
----
-Language models (LMs) often struggle to pay enough attention to the input context, and generate texts that are unfaithful or contain hallucinations. To mitigate this issue, we present context-aware decoding (CAD), which follows a contrastive output …
+--- 
+layout: post 
+title: "Trusting Your Evidence: Hallucinate Less with Context-aware Decoding" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "W Shi, X Han, M Lewis, Y Tsvetkov, L Zettlemoyer - arXiv preprint arXiv , 2023" 
+--- 
+Language models (LMs) often struggle to pay enough attention to the input context, and generate texts that are unfaithful or contain hallucinations. To mitigate this issue, we present context-aware decoding (CAD), which follows a contrastive output

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Balashankar, X Wang, Y Qin, B Packer, N Thain… - arXiv preprint arXiv …, 2023"
----
-Counterfactual Data Augmentation (CDA) is a commonly used technique for improving robustness in natural language classifiers. However, one fundamental challenge is how to discover meaningful counterfactuals and efficiently label them, with minimal human labeling cost. Most existing methods either completely rely on human-annotated labels, an expensive process which limits the scale of counterfactual data, or implicitly assume label invariance, which may mislead the …
-Cites: ‪Polyjuice: Generating Counterfactuals for Explaining, Evaluating …‬
+--- 
+layout: post 
+title: "Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "A Balashankar, X Wang, Y Qin, B Packer, N Thain - arXiv preprint arXiv , 2023" 
+--- 
+Counterfactual Data Augmentation (CDA) is a commonly used technique for improving robustness in natural language classifiers. However, one fundamental challenge is how to discover meaningful counterfactuals and efficiently label them, with minimal human labeling cost. Most existing methods either completely rely on human-annotated labels, an expensive process which limits the scale of counterfactual data, or implicitly assume label invariance, which may mislead the  Cites: Polyjuice: Generating Counterfactuals for Explaining, Evaluating

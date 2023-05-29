@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ImageNetVC: Zero-Shot Visual Commonsense Evaluation on 1000 ImageNet Categories"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "H Xia, Q Dong, L Li, J Xu, Z Qin, Z Sui - arXiv preprint arXiv:2305.15028, 2023"
----
-Recently, Pretrained Language Models (PLMs) have been serving as general-purpose interfaces, posing a significant demand for comprehensive visual knowledge. However, it remains unclear how well current PLMs and their visually augmented counterparts (VaLMs) can master visual commonsense knowledge. To investigate this, we propose ImageNetVC, a fine-grained, human-annotated dataset specifically designed for zero-shot visual commonsense evaluation across 1,000 …
-Cites: ‪Visually Grounded Commonsense Knowledge Acquisition‬
+--- 
+layout: post 
+title: "ImageNetVC: Zero-Shot Visual Commonsense Evaluation on 1000 ImageNet Categories" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "H Xia, Q Dong, L Li, J Xu, Z Qin, Z Sui - arXiv preprint arXiv:2305.15028, 2023" 
+--- 
+Recently, Pretrained Language Models (PLMs) have been serving as general-purpose interfaces, posing a significant demand for comprehensive visual knowledge. However, it remains unclear how well current PLMs and their visually augmented counterparts (VaLMs) can master visual commonsense knowledge. To investigate this, we propose ImageNetVC, a fine-grained, human-annotated dataset specifically designed for zero-shot visual commonsense evaluation across 1,000  Cites: Visually Grounded Commonsense Knowledge Acquisition

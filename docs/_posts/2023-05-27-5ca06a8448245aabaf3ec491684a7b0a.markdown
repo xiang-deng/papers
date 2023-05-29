@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Caciularu, ME Peters, J Goldberger, I Dagan… - arXiv preprint arXiv …, 2023"
----
-The integration of multi-document pre-training objectives into language models has resulted in remarkable improvements in multi-document downstream tasks. In this work, we propose extending this idea by pre-training a generic multi-document model from a novel cross-document question answering pre-training objective. To that end, given a set (or cluster) of topically-related documents, we systematically generate semantically-oriented questions from a salient sentence in one document …
-Cites: ‪What s in your Head? Emergent Behaviour in Multi-Task …‬
+--- 
+layout: post 
+title: "Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "A Caciularu, ME Peters, J Goldberger, I Dagan - arXiv preprint arXiv , 2023" 
+--- 
+The integration of multi-document pre-training objectives into language models has resulted in remarkable improvements in multi-document downstream tasks. In this work, we propose extending this idea by pre-training a generic multi-document model from a novel cross-document question answering pre-training objective. To that end, given a set (or cluster) of topically-related documents, we systematically generate semantically-oriented questions from a salient sentence in one document  Cites: What s in your Head? Emergent Behaviour in Multi-Task

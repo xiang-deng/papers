@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "WL Chen, CK Wu, HH Chen - arXiv preprint arXiv:2305.15035, 2023"
----
-Large language models (LMs) have exhibited superior in-context learning (ICL) ability to adopt to target tasks by prompting with a few input-output demonstrations. Towards better ICL, different methods are proposed to select representative demonstrations from existing training corpora. However, such a setting is not aligned with real-world practices, as end-users usually query LMs without accesses to demonstration pools. Inspired by evidence suggesting LMs  zero-shot capabilities …
-Cites: ‪Diverse Demonstrations Improve In-context Compositional …‬
+--- 
+layout: post 
+title: "Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "WL Chen, CK Wu, HH Chen - arXiv preprint arXiv:2305.15035, 2023" 
+--- 
+Large language models (LMs) have exhibited superior in-context learning (ICL) ability to adopt to target tasks by prompting with a few input-output demonstrations. Towards better ICL, different methods are proposed to select representative demonstrations from existing training corpora. However, such a setting is not aligned with real-world practices, as end-users usually query LMs without accesses to demonstration pools. Inspired by evidence suggesting LMs zero-shot capabilities  Cites: Diverse Demonstrations Improve In-context Compositional

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BM25 Query Augmentation Learned End-to-End"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "X Chen, S Wiseman - arXiv preprint arXiv:2305.14087, 2023"
----
-Given BM25 s enduring competitiveness as an information retrieval baseline, we investigate to what extent it can be even further improved by augmenting and re-weighting its sparse query-vector representation. We propose an approach to learning an augmentation and a re-weighting end-to-end, and we find that our approach improves performance over BM25 while retaining its speed. We furthermore find that the learned augmentations and re-weightings transfer well to …
-Cites: ‪Simple Entity-Centric Questions Challenge Dense Retrievers‬
+--- 
+layout: post 
+title: "BM25 Query Augmentation Learned End-to-End" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "X Chen, S Wiseman - arXiv preprint arXiv:2305.14087, 2023" 
+--- 
+Given BM25 s enduring competitiveness as an information retrieval baseline, we investigate to what extent it can be even further improved by augmenting and re-weighting its sparse query-vector representation. We propose an approach to learning an augmentation and a re-weighting end-to-end, and we find that our approach improves performance over BM25 while retaining its speed. We furthermore find that the learned augmentations and re-weightings transfer well to  Cites: Simple Entity-Centric Questions Challenge Dense Retrievers

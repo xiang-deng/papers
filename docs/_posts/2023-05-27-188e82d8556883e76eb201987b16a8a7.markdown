@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Who Wrote this Code? Watermarking for Code Generation"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "T Lee, S Hong, J Ahn, I Hong, H Lee, S Yun, J Shin… - arXiv preprint arXiv …, 2023"
----
-Large language models for code have recently shown remarkable performance in generating executable code. However, this rapid advancement has been accompanied by many legal and ethical concerns, such as code licensing issues, code plagiarism, and malware generation, making watermarking machine-generated code a very timely problem. Despite such imminent needs, we discover that existing watermarking and machine-generated text detection methods for LLMs fail to …
-Cites: ‪DetectGPT: Zero-shot machine-generated text detection using …‬
+--- 
+layout: post 
+title: "Who Wrote this Code? Watermarking for Code Generation" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "T Lee, S Hong, J Ahn, I Hong, H Lee, S Yun, J Shin - arXiv preprint arXiv , 2023" 
+--- 
+Large language models for code have recently shown remarkable performance in generating executable code. However, this rapid advancement has been accompanied by many legal and ethical concerns, such as code licensing issues, code plagiarism, and malware generation, making watermarking machine-generated code a very timely problem. Despite such imminent needs, we discover that existing watermarking and machine-generated text detection methods for LLMs fail to  Cites: DetectGPT: Zero-shot machine-generated text detection using

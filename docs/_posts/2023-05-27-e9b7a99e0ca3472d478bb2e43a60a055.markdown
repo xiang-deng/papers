@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "S Wang, S Jean, S Sengupta, J Gung, N Pappas… - arXiv preprint arXiv …, 2023"
----
-In executable task-oriented semantic parsing, the system aims to translate users  utterances in natural language to machine-interpretable programs (API calls) that can be executed according to pre-defined API specifications. With the popularity of Large Language Models (LLMs), in-context learning offers a strong baseline for such scenarios, especially in data-limited regimes. However, LLMs are known to hallucinate and therefore pose a formidable challenge in constraining generated …
-Cites: ‪Dialog2API: Task-Oriented Dialogue with API Description and …‬
+--- 
+layout: post 
+title: "Measuring and Mitigating Constraint Violations of In-Context Learning for Utterance-to-API Semantic Parsing" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "S Wang, S Jean, S Sengupta, J Gung, N Pappas - arXiv preprint arXiv , 2023" 
+--- 
+In executable task-oriented semantic parsing, the system aims to translate users utterances in natural language to machine-interpretable programs (API calls) that can be executed according to pre-defined API specifications. With the popularity of Large Language Models (LLMs), in-context learning offers a strong baseline for such scenarios, especially in data-limited regimes. However, LLMs are known to hallucinate and therefore pose a formidable challenge in constraining generated  Cites: Dialog2API: Task-Oriented Dialogue with API Description and

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ELICE: Embedding language through informative contrastive-encoder"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "CS Chiao, DT Lin - Expert Systems with Applications, 2023"
----
-In recent years, pre-trained transformer encoders have achieved successful milestones in natural language understanding (NLU). However, they still suffer from the representations with insufficient semantics, the sequences with finite lengths, and the need for a considerable number of parameters. These issues lead to difficulties not only in practical deployment under limited computational resources but also in downstream applications. To address such issues, this paper presents ELICE, a …
-Cites: ‪Whiteningbert: An easy unsupervised sentence embedding …‬
+--- 
+layout: post 
+title: "ELICE: Embedding language through informative contrastive-encoder" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "CS Chiao, DT Lin - Expert Systems with Applications, 2023" 
+--- 
+In recent years, pre-trained transformer encoders have achieved successful milestones in natural language understanding (NLU). However, they still suffer from the representations with insufficient semantics, the sequences with finite lengths, and the need for a considerable number of parameters. These issues lead to difficulties not only in practical deployment under limited computational resources but also in downstream applications. To address such issues, this paper presents ELICE, a  Cites: Whiteningbert: An easy unsupervised sentence embedding

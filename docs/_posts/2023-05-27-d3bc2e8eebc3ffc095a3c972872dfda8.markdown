@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Language Models via Plug-and-Play Retrieval Feedback"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "W Yu, Z Zhang, Z Liang, M Jiang, A Sabharwal - arXiv preprint arXiv:2305.14002, 2023"
----
-Large language models (LLMs) exhibit remarkable performance across various NLP tasks. However, they often generate incorrect or hallucinated information, which hinders their practical applicability in real-world scenarios. Human feedback has been shown to effectively enhance the factuality and quality of generated content, addressing some of these limitations. However, this approach is resource-intensive, involving manual input and supervision, which can be time-consuming and …
-Cites: ‪Chi, and Denny Zhou. 2023b. Self-consistency improves chain of …‬
+--- 
+layout: post 
+title: "Improving Language Models via Plug-and-Play Retrieval Feedback" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "W Yu, Z Zhang, Z Liang, M Jiang, A Sabharwal - arXiv preprint arXiv:2305.14002, 2023" 
+--- 
+Large language models (LLMs) exhibit remarkable performance across various NLP tasks. However, they often generate incorrect or hallucinated information, which hinders their practical applicability in real-world scenarios. Human feedback has been shown to effectively enhance the factuality and quality of generated content, addressing some of these limitations. However, this approach is resource-intensive, involving manual input and supervision, which can be time-consuming and  Cites: Chi, and Denny Zhou. 2023b. Self-consistency improves chain of

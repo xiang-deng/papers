@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Don t Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Yerukola, X Zhou, M Sap - arXiv preprint arXiv:2305.14755, 2023"
----
-Most existing stylistic text rewriting methods operate on a sentence level, but ignoring the broader context of the text can lead to generic, ambiguous, and incoherent rewrites. In this paper, we propose the integration of preceding textual context into both the rewriting and evaluation stages of stylistic text rewriting, focusing on formality, toxicity, and sentiment transfer tasks. We conduct a comparative evaluation of rewriting through few-shot prompting of GPT-3.5 and GPT NeoX, comparing non …
-Cites: ‪Detoxifying Text with MaRCo: Controllable Revision with Experts …‬
+--- 
+layout: post 
+title: "Don t Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "A Yerukola, X Zhou, M Sap - arXiv preprint arXiv:2305.14755, 2023" 
+--- 
+Most existing stylistic text rewriting methods operate on a sentence level, but ignoring the broader context of the text can lead to generic, ambiguous, and incoherent rewrites. In this paper, we propose the integration of preceding textual context into both the rewriting and evaluation stages of stylistic text rewriting, focusing on formality, toxicity, and sentiment transfer tasks. We conduct a comparative evaluation of rewriting through few-shot prompting of GPT-3.5 and GPT NeoX, comparing non  Cites: Detoxifying Text with MaRCo: Controllable Revision with Experts

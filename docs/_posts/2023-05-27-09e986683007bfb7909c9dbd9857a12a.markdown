@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Transferring Learning Trajectories of Neural Networks"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "D Chijiwa - arXiv preprint arXiv:2305.14122, 2023"
----
-Training deep neural networks (DNNs) is computationally expensive, which is problematic especially when performing duplicated training runs, such as model ensemble or knowledge distillation. Once we have trained one DNN on some dataset, we have its learning trajectory (ie, a sequence of intermediate parameters during training) which may potentially contain useful information for learning the dataset. However, there has been no attempt to utilize such information of a given …
-Cites: ‪Editing Models with Task Arithmetic‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "QTSumm: A New Benchmark for Query-Focused Table Summarization"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "Y Zhao, Z Qi, L Nan, B Mi, Y Liu, W Zou, S Han, X Tang… - arXiv preprint arXiv …, 2023"
----
-People primarily consult tables to conduct data analysis or answer specific questions. Text generation systems that can provide accurate table summaries tailored to users  information needs can facilitate more efficient access to relevant data insights. However, existing table-to-text generation studies primarily focus on converting tabular data into coherent statements, rather than addressing information-seeking purposes. In this paper, we define a new query-focused table summarization …
-Cites: ‪Document summarization with latent queries‬
+--- 
+layout: post 
+title: "QTSumm: A New Benchmark for Query-Focused Table Summarization" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "Y Zhao, Z Qi, L Nan, B Mi, Y Liu, W Zou, S Han, X Tang - arXiv preprint arXiv , 2023" 
+--- 
+People primarily consult tables to conduct data analysis or answer specific questions. Text generation systems that can provide accurate table summaries tailored to users information needs can facilitate more efficient access to relevant data insights. However, existing table-to-text generation studies primarily focus on converting tabular data into coherent statements, rather than addressing information-seeking purposes. In this paper, we define a new query-focused table summarization  Cites: Document summarization with latent queries

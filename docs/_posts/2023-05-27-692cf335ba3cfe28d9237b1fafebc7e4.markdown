@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A graph-based code representation method to improve code readability classification"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "Q Mi, Y Zhan, H Weng, Q Bao, L Cui, W Ma - Empirical Software Engineering, 2023"
----
-Context Code readability is crucial for developers since it is closely related to code maintenance and affects developers  work efficiency. Code readability classification refers to the source code being classified as pre-defined certain levels according to its readability. So far, many code readability classification models have been proposed in existing studies, including deep learning networks that have achieved relatively high accuracy and good performance. Objective However, in terms of …
-Cites: ‪Codebert: A pre-trained model for programming and natural …‬
+--- 
+layout: post 
+title: "A graph-based code representation method to improve code readability classification" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "Q Mi, Y Zhan, H Weng, Q Bao, L Cui, W Ma - Empirical Software Engineering, 2023" 
+--- 
+Context Code readability is crucial for developers since it is closely related to code maintenance and affects developers work efficiency. Code readability classification refers to the source code being classified as pre-defined certain levels according to its readability. So far, many code readability classification models have been proposed in existing studies, including deep learning networks that have achieved relatively high accuracy and good performance. Objective However, in terms of  Cites: Codebert: A pre-trained model for programming and natural

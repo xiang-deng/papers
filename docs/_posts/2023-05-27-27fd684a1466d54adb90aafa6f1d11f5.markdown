@@ -1,9 +1,8 @@
----
-layout: post
-title:  "In-Context Demonstration Selection with Cross Entropy Difference"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "D Iter, R Pryzant, R Xu, S Wang, Y Liu, Y Xu, C Zhu - arXiv preprint arXiv:2305.14726, 2023"
----
-Large language models (LLMs) can use in-context demonstrations to improve performance on zero-shot tasks. However, selecting the best in-context examples is challenging because model performance can vary widely depending on the selected examples. We present a cross-entropy difference (CED) method for selecting in-context demonstrations. Our method is based on the observation that the effectiveness of in-context demonstrations negatively correlates with the perplexity of …
-Cites: ‪How does in-context learning help prompt tuning?‬
+--- 
+layout: post 
+title: "In-Context Demonstration Selection with Cross Entropy Difference" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "D Iter, R Pryzant, R Xu, S Wang, Y Liu, Y Xu, C Zhu - arXiv preprint arXiv:2305.14726, 2023" 
+--- 
+Large language models (LLMs) can use in-context demonstrations to improve performance on zero-shot tasks. However, selecting the best in-context examples is challenging because model performance can vary widely depending on the selected examples. We present a cross-entropy difference (CED) method for selecting in-context demonstrations. Our method is based on the observation that the effectiveness of in-context demonstrations negatively correlates with the perplexity of  Cites: How does in-context learning help prompt tuning?

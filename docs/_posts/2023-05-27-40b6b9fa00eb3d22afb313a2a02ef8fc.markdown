@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring Large Language Models for Classical Philology"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "F Riemenschneider, A Frank - arXiv preprint arXiv:2305.13698, 2023"
----
-Recent advances in NLP have led to the creation of powerful language models for many languages including Ancient Greek and Latin. While prior work on Classical languages unanimously uses BERT, in this work we create four language models for Ancient Greek that vary along two dimensions to study their versatility for tasks of interest for Classical languages: we explore (i) encoder-only and encoder-decoder architectures using RoBERTa and T5 as strong model types, and create for each of …
-Cites: ‪oLMpics - On what Language Model Pre-training Captures‬
+--- 
+layout: post 
+title: "Exploring Large Language Models for Classical Philology" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "F Riemenschneider, A Frank - arXiv preprint arXiv:2305.13698, 2023" 
+--- 
+Recent advances in NLP have led to the creation of powerful language models for many languages including Ancient Greek and Latin. While prior work on Classical languages unanimously uses BERT, in this work we create four language models for Ancient Greek that vary along two dimensions to study their versatility for tasks of interest for Classical languages: we explore (i) encoder-only and encoder-decoder architectures using RoBERTa and T5 as strong model types, and create for each of  Cites: oLMpics - On what Language Model Pre-training Captures

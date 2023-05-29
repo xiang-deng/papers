@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Look-back Decoding for Open-Ended Text Generation"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "N Xu, C Zhou, A Celikyilmaz, X Ma - arXiv preprint arXiv:2305.13477, 2023"
----
-Given a prefix (context), open-ended generation aims to decode texts that are coherent, which don t abruptly drift from previous topics, and informative, which don t suffer from undesired repetitions. In this paper, we propose Look-back, an improved decoding algorithm that leverages the Kullback-Leibler divergence to track the distribution distance between current and historical decoding steps. Thus Look-back can automatically predict potential repetitive phrase and topic drift, and remove …
-Cites: ‪Truncation Sampling as Language Model Desmoothing‬
+--- 
+layout: post 
+title: "Look-back Decoding for Open-Ended Text Generation" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "N Xu, C Zhou, A Celikyilmaz, X Ma - arXiv preprint arXiv:2305.13477, 2023" 
+--- 
+Given a prefix (context), open-ended generation aims to decode texts that are coherent, which don t abruptly drift from previous topics, and informative, which don t suffer from undesired repetitions. In this paper, we propose Look-back, an improved decoding algorithm that leverages the Kullback-Leibler divergence to track the distribution distance between current and historical decoding steps. Thus Look-back can automatically predict potential repetitive phrase and topic drift, and remove  Cites: Truncation Sampling as Language Model Desmoothing

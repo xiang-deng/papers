@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Mitigating Language Model Hallucination with Interactive Question-Knowledge Alignment"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "S Zhang, L Pan, J Zhao, WY Wang - arXiv preprint arXiv:2305.13669, 2023"
----
-Despite the remarkable recent advances in language models, they still struggle with the hallucination problem and can generate misleading and unsupported responses. A common approach to mitigate the hallucination issue is retrieving and incorporating supporting evidence from a knowledge base. However, user questions usually do not align well with the stored knowledge, as they are unaware of the information available before asking questions. This misalignment can limit the …
-Cites: ‪Reinforced Clarification Question Generation with Defeasibility …‬
+--- 
+layout: post 
+title: "Mitigating Language Model Hallucination with Interactive Question-Knowledge Alignment" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "S Zhang, L Pan, J Zhao, WY Wang - arXiv preprint arXiv:2305.13669, 2023" 
+--- 
+Despite the remarkable recent advances in language models, they still struggle with the hallucination problem and can generate misleading and unsupported responses. A common approach to mitigate the hallucination issue is retrieving and incorporating supporting evidence from a knowledge base. However, user questions usually do not align well with the stored knowledge, as they are unaware of the information available before asking questions. This misalignment can limit the  Cites: Reinforced Clarification Question Generation with Defeasibility

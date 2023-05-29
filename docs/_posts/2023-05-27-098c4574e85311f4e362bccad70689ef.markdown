@@ -1,9 +1,8 @@
----
-layout: post
-title:  "LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "F Jiao, Z Teng, S Joty, B Ding, A Sun, Z Liu, NF Chen - arXiv preprint arXiv …, 2023"
----
-Existing efforts to improve logical reasoning ability of language models have predominantly relied on supervised fine-tuning, hindering generalization to new domains and/or tasks. The development of Large Langauge Models (LLMs) has demonstrated the capacity of compressing abundant knowledge into a single proxy, enabling them to tackle multiple tasks effectively. Our preliminary experiments, nevertheless, show that LLMs do not show capability on logical reasoning. The …
-Cites: ‪Logic-driven context extension and data augmentation for logical …‬
+--- 
+layout: post 
+title: "LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "F Jiao, Z Teng, S Joty, B Ding, A Sun, Z Liu, NF Chen - arXiv preprint arXiv , 2023" 
+--- 
+Existing efforts to improve logical reasoning ability of language models have predominantly relied on supervised fine-tuning, hindering generalization to new domains and/or tasks. The development of Large Langauge Models (LLMs) has demonstrated the capacity of compressing abundant knowledge into a single proxy, enabling them to tackle multiple tasks effectively. Our preliminary experiments, nevertheless, show that LLMs do not show capability on logical reasoning. The  Cites: Logic-driven context extension and data augmentation for logical

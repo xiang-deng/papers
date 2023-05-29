@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PURR: Efficiently Editing Language Model Hallucinations by Denoising Language Model Corruptions"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Chen, P Pasupat, S Singh, H Lee, K Guu - arXiv preprint arXiv:2305.14908, 2023"
----
-The remarkable capabilities of large language models have been accompanied by a persistent drawback: the generation of false and unsubstantiated claims commonly known as  hallucinations . To combat this issue, recent research has introduced approaches that involve editing and attributing the outputs of language models, particularly through prompt-based editing. However, the inference cost and speed of using large language models for editing currently bottleneck prompt-based methods …
-Cites: ‪Correcting diverse factual errors in abstractive summarization via …‬
+--- 
+layout: post 
+title: "PURR: Efficiently Editing Language Model Hallucinations by Denoising Language Model Corruptions" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "A Chen, P Pasupat, S Singh, H Lee, K Guu - arXiv preprint arXiv:2305.14908, 2023" 
+--- 
+The remarkable capabilities of large language models have been accompanied by a persistent drawback: the generation of false and unsubstantiated claims commonly known as hallucinations . To combat this issue, recent research has introduced approaches that involve editing and attributing the outputs of language models, particularly through prompt-based editing. However, the inference cost and speed of using large language models for editing currently bottleneck prompt-based methods  Cites: Correcting diverse factual errors in abstractive summarization via

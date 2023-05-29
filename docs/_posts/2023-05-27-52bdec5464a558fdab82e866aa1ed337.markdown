@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "X Han, S Kumar, Y Tsvetkov, M Ghazvininejad - arXiv preprint arXiv:2305.14771, 2023"
----
-Diffusion-based language models (LMs) have been shown to be competent generative models that are easy to control at inference and are a promising alternative to autoregressive LMs. While autoregressive LMs have benefited immensely from scaling and instruction-based learning, existing studies on diffusion LMs have been conducted on a relatively smaller scale. Starting with a recently proposed diffusion model SSD-LM, in this work we explore methods to scale it from …
-Cites: ‪Diffuser: Discrete diffusion via edit-based reconstruction‬
+--- 
+layout: post 
+title: "SSD-2: Scaling and Inference-time Fusion of Diffusion Language Models" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "X Han, S Kumar, Y Tsvetkov, M Ghazvininejad - arXiv preprint arXiv:2305.14771, 2023" 
+--- 
+Diffusion-based language models (LMs) have been shown to be competent generative models that are easy to control at inference and are a promising alternative to autoregressive LMs. While autoregressive LMs have benefited immensely from scaling and instruction-based learning, existing studies on diffusion LMs have been conducted on a relatively smaller scale. Starting with a recently proposed diffusion model SSD-LM, in this work we explore methods to scale it from  Cites: Diffuser: Discrete diffusion via edit-based reconstruction

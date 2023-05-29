@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Can Large Language Models Infer and Disagree Like Humans?"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "N Lee, NM An, J Thorne - arXiv preprint arXiv:2305.13788, 2023"
----
-Large Language Models (LLMs) have shown stellar achievements in solving a broad range of tasks. When generating text, it is common to sample tokens from these models: whether LLMs closely align with the human disagreement distribution has not been well-studied, especially within the scope of Natural Language Inference (NLI). In this paper, we evaluate the performance and alignment of LLM distribution with humans using two different techniques: Monte Carlo Reconstruction (MCR) and …
-Cites: ‪We re Afraid Language Models Aren t Modeling Ambiguity‬
+--- 
+layout: post 
+title: "Can Large Language Models Infer and Disagree Like Humans?" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "N Lee, NM An, J Thorne - arXiv preprint arXiv:2305.13788, 2023" 
+--- 
+Large Language Models (LLMs) have shown stellar achievements in solving a broad range of tasks. When generating text, it is common to sample tokens from these models: whether LLMs closely align with the human disagreement distribution has not been well-studied, especially within the scope of Natural Language Inference (NLI). In this paper, we evaluate the performance and alignment of LLM distribution with humans using two different techniques: Monte Carlo Reconstruction (MCR) and  Cites: We re Afraid Language Models Aren t Modeling Ambiguity

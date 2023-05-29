@@ -1,8 +1,8 @@
----
-layout: post
-title:  "MQUAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "Z Zhong, Z Wu, CD Manning, C Potts, D Chen - arXiv preprint arXiv:2305.14795, 2023"
----
-The information stored in large language models (LLMs) falls out of date quickly, and retraining from scratch is often not an option. This has recently given rise to a range of techniques for injecting new facts through updating model weights. Current …
+--- 
+layout: post 
+title: "MQUAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "Z Zhong, Z Wu, CD Manning, C Potts, D Chen - arXiv preprint arXiv:2305.14795, 2023" 
+--- 
+The information stored in large language models (LLMs) falls out of date quickly, and retraining from scratch is often not an option. This has recently given rise to a range of techniques for injecting new facts through updating model weights. Current

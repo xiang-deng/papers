@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Meta-Learning Online Adaptation of Language Models"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "N Hu, E Mitchell, CD Manning, C Finn - arXiv preprint arXiv:2305.15076, 2023"
----
-Large language models encode surprisingly broad knowledge about the world into their parameters. However, the knowledge in static language models can fall out of date, limiting the model s effective  shelf life.  While online fine-tuning can reduce this …
+--- 
+layout: post 
+title: "Meta-Learning Online Adaptation of Language Models" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "N Hu, E Mitchell, CD Manning, C Finn - arXiv preprint arXiv:2305.15076, 2023" 
+--- 
+Large language models encode surprisingly broad knowledge about the world into their parameters. However, the knowledge in static language models can fall out of date, limiting the model s effective shelf life. While online fine-tuning can reduce this

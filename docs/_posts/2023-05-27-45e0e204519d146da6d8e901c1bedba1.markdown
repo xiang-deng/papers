@@ -1,9 +1,8 @@
----
-layout: post
-title:  "GrACE: Generation using Associated Code Edits"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "P Gupta, A Khare, Y Bajpai, S Chakraborty, S Gulwani… - arXiv preprint arXiv …, 2023"
----
-Developers expend a significant amount of time in editing code for a variety of reasons such as bug fixing or adding new features. Designing effective methods to predict code edits has been an active yet challenging area of research due to the diversity of code edits and the difficulty of capturing the developer intent. In this work, we address these challenges by endowing pre-trained large language models (LLMs) of code with the knowledge of prior, relevant edits. The generative capability …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "GrACE: Generation using Associated Code Edits" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "P Gupta, A Khare, Y Bajpai, S Chakraborty, S Gulwani - arXiv preprint arXiv , 2023" 
+--- 
+Developers expend a significant amount of time in editing code for a variety of reasons such as bug fixing or adding new features. Designing effective methods to predict code edits has been an active yet challenging area of research due to the diversity of code edits and the difficulty of capturing the developer intent. In this work, we address these challenges by endowing pre-trained large language models (LLMs) of code with the knowledge of prior, relevant edits. The generative capability  Cites: Graphcodebert: Pre-training code representations with data flow

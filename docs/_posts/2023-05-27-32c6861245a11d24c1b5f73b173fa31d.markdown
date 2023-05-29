@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Difference-Masking: Choosing What to Mask in Continued Pretraining"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Wilf, SN Akter, L Mathur, PP Liang, S Mathew… - arXiv preprint arXiv …, 2023"
----
-Self-supervised learning (SSL) and the objective of masking-and-predicting in particular have led to promising SSL performance on a variety of downstream tasks. However, while most approaches randomly mask tokens, there is strong intuition from the field of education that deciding what to mask can substantially improve learning outcomes. We introduce Difference-Masking, an approach that automatically chooses what to mask during continued pretraining by considering …
-Cites: ‪AANG: Automating Auxiliary Learning‬
+--- 
+layout: post 
+title: "Difference-Masking: Choosing What to Mask in Continued Pretraining" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "A Wilf, SN Akter, L Mathur, PP Liang, S Mathew - arXiv preprint arXiv , 2023" 
+--- 
+Self-supervised learning (SSL) and the objective of masking-and-predicting in particular have led to promising SSL performance on a variety of downstream tasks. However, while most approaches randomly mask tokens, there is strong intuition from the field of education that deciding what to mask can substantially improve learning outcomes. We introduce Difference-Masking, an approach that automatically chooses what to mask during continued pretraining by considering  Cites: AANG: Automating Auxiliary Learning

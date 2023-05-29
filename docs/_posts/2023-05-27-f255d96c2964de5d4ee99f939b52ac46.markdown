@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "M He, PN Garner - arXiv preprint arXiv:2305.13512, 2023"
----
-Recently, large pretrained language models have demonstrated strong language understanding capabilities. This is particularly reflected in their zero-shot and in-context learning abilities on downstream tasks through prompting. To assess their impact on spoken language understanding (SLU), we evaluate several such models like ChatGPT and OPT of different sizes on multiple benchmarks. We verify the emergent ability unique to the largest models as they can reach intent classification …
-Cites: ‪Beyond the Imitation Game: Quantifying and extrapolating the …‬
+--- 
+layout: post 
+title: "Can ChatGPT Detect Intent? Evaluating Large Language Models for Spoken Language Understanding" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "M He, PN Garner - arXiv preprint arXiv:2305.13512, 2023" 
+--- 
+Recently, large pretrained language models have demonstrated strong language understanding capabilities. This is particularly reflected in their zero-shot and in-context learning abilities on downstream tasks through prompting. To assess their impact on spoken language understanding (SLU), we evaluate several such models like ChatGPT and OPT of different sizes on multiple benchmarks. We verify the emergent ability unique to the largest models as they can reach intent classification  Cites: Beyond the Imitation Game: Quantifying and extrapolating the

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Knowledge Graphs Querying"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Khan - arXiv preprint arXiv:2305.14485, 2023"
----
-Knowledge graphs (KGs) such as DBpedia, Freebase, YAGO, Wikidata, and NELL were constructed to store large-scale, real-world facts as (subject, predicate, object) triples--that can also be modeled as a graph, where a node (a subject or an object) represents an entity with attributes, and a directed edge (a predicate) is a relationship between two entities. Querying KGs is critical in web search, question answering (QA), semantic search, personal assistants, fact checking, and …
-Cites: ‪Deep Bidirectional Language-Knowledge Graph Pretraining‬

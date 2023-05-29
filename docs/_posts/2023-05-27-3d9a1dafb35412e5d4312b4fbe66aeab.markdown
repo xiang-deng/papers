@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Easily Updated General Purpose Text Representations with Adaptable Task-Specific Prefixes"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "KH Huang, L Tan, R Hou, S Wang, A Almahairi… - arXiv preprint arXiv …, 2023"
----
-Many real-world applications require making multiple predictions from the same text. Fine-tuning a large pre-trained language model for each downstream task causes computational burdens in the inference time due to several times of forward passes. To amortize the computational cost, freezing the language model and building lightweight models for downstream tasks based on fixed text representations are common solutions. Accordingly, how to learn fixed but general text representations …
-Cites: ‪Attempt: Parameter-efficient multi-task tuning via attentional …‬
+--- 
+layout: post 
+title: "Learning Easily Updated General Purpose Text Representations with Adaptable Task-Specific Prefixes" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "KH Huang, L Tan, R Hou, S Wang, A Almahairi - arXiv preprint arXiv , 2023" 
+--- 
+Many real-world applications require making multiple predictions from the same text. Fine-tuning a large pre-trained language model for each downstream task causes computational burdens in the inference time due to several times of forward passes. To amortize the computational cost, freezing the language model and building lightweight models for downstream tasks based on fixed text representations are common solutions. Accordingly, how to learn fixed but general text representations  Cites: Attempt: Parameter-efficient multi-task tuning via attentional

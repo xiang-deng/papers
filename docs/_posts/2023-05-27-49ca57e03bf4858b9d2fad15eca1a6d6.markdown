@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Better Zero-Shot Reasoning with Self-Adaptive Prompting"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "X Wan, R Sun, H Dai, SO Arik, T Pfister - arXiv preprint arXiv:2305.14106, 2023"
----
-Modern large language models (LLMs) have demonstrated impressive capabilities at sophisticated tasks, often through step-by-step reasoning similar to humans. This is made possible by their strong few and zero-shot abilities--they can effectively learn from a handful of handcrafted, completed responses (  in-context examples ), or are prompted to reason spontaneously through specially designed triggers. Nonetheless, some limitations have been observed. First, performance in the few …
-Cites: ‪Emergent abilities of large language models‬
+--- 
+layout: post 
+title: "Better Zero-Shot Reasoning with Self-Adaptive Prompting" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "X Wan, R Sun, H Dai, SO Arik, T Pfister - arXiv preprint arXiv:2305.14106, 2023" 
+--- 
+Modern large language models (LLMs) have demonstrated impressive capabilities at sophisticated tasks, often through step-by-step reasoning similar to humans. This is made possible by their strong few and zero-shot abilities--they can effectively learn from a handful of handcrafted, completed responses ( in-context examples ), or are prompted to reason spontaneously through specially designed triggers. Nonetheless, some limitations have been observed. First, performance in the few  Cites: Emergent abilities of large language models

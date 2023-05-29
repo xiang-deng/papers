@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Meta-review Generation with Checklist-guided Iterative Introspection"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "Q Zeng, M Sidhu, HP Chan, L Wang, H Ji - arXiv preprint arXiv:2305.14647, 2023"
----
-Opinions in the scientific domain can be divergent, leading to controversy or consensus among reviewers. However, current opinion summarization datasets mostly focus on product review domains, which do not account for this variability under the assumption that the input opinions are non-controversial. To address this gap, we propose the task of scientific opinion summarization, where research paper reviews are synthesized into meta-reviews. To facilitate this task, we introduce a new …
-Cites: ‪Zero-Shot Opinion Summarization with GPT-3‬
+--- 
+layout: post 
+title: "Meta-review Generation with Checklist-guided Iterative Introspection" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "Q Zeng, M Sidhu, HP Chan, L Wang, H Ji - arXiv preprint arXiv:2305.14647, 2023" 
+--- 
+Opinions in the scientific domain can be divergent, leading to controversy or consensus among reviewers. However, current opinion summarization datasets mostly focus on product review domains, which do not account for this variability under the assumption that the input opinions are non-controversial. To address this gap, we propose the task of scientific opinion summarization, where research paper reviews are synthesized into meta-reviews. To facilitate this task, we introduce a new  Cites: Zero-Shot Opinion Summarization with GPT-3

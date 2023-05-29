@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Evaluating Factual Consistency of Summaries with Large Language Models"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "S Chen, S Gao, J He - arXiv preprint arXiv:2305.14069, 2023"
----
-Detecting factual errors in summaries has been an important and challenging subject in summarization research. Inspired by the emergent ability of large language models (LLMs), we explore evaluating factual consistency of summaries by directly prompting LLMs. We present a comprehensive empirical study to assess the ability of LLMs as factual consistency evaluators, which consists of (1) analyzing different LLMs such as the GPT model series and Flan-T5;(2) investigating a variety of …
-Cites: ‪Understanding Factual Errors in Summarization: Errors …‬
+--- 
+layout: post 
+title: "Evaluating Factual Consistency of Summaries with Large Language Models" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "S Chen, S Gao, J He - arXiv preprint arXiv:2305.14069, 2023" 
+--- 
+Detecting factual errors in summaries has been an important and challenging subject in summarization research. Inspired by the emergent ability of large language models (LLMs), we explore evaluating factual consistency of summaries by directly prompting LLMs. We present a comprehensive empirical study to assess the ability of LLMs as factual consistency evaluators, which consists of (1) analyzing different LLMs such as the GPT model series and Flan-T5;(2) investigating a variety of  Cites: Understanding Factual Errors in Summarization: Errors

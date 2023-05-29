@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding Arithmetic Reasoning in Language Models using Causal Mediation Analysis"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "A Stolfo, Y Belinkov, M Sachan - arXiv preprint arXiv:2305.15054, 2023"
----
-Mathematical reasoning in large language models (LLMs) has garnered attention in recent research, but there is limited understanding of how these models process and store information related to arithmetic tasks. In this paper, we present a mechanistic interpretation of LLMs for arithmetic-based questions using a causal mediation analysis framework. By intervening on the activations of specific model components and measuring the resulting changes in predicted probabilities, we identify the …
-Cites: ‪Impact of pretraining term frequencies on few-shot numerical …‬
+--- 
+layout: post 
+title: "Understanding Arithmetic Reasoning in Language Models using Causal Mediation Analysis" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "A Stolfo, Y Belinkov, M Sachan - arXiv preprint arXiv:2305.15054, 2023" 
+--- 
+Mathematical reasoning in large language models (LLMs) has garnered attention in recent research, but there is limited understanding of how these models process and store information related to arithmetic tasks. In this paper, we present a mechanistic interpretation of LLMs for arithmetic-based questions using a causal mediation analysis framework. By intervening on the activations of specific model components and measuring the resulting changes in predicted probabilities, we identify the  Cites: Impact of pretraining term frequencies on few-shot numerical

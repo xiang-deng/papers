@@ -1,9 +1,8 @@
----
-layout: post
-title:  "From Shortcuts to Triggers: Backdoor Defense with Denoised PoE"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "Q Liu, F Wang, C Xiao, M Chen - arXiv preprint arXiv:2305.14910, 2023"
----
-Language models are often at risk of diverse backdoor attacks, especially data poisoning. Thus, it is important to investigate defense solutions for addressing them. Existing backdoor defense methods mainly focus on backdoor attacks with explicit triggers, leaving a universal defense against various backdoor attacks with diverse triggers largely unexplored. In this paper, we propose an end-to-end ensemble-based backdoor defense framework, DPoE (Denoised Product-of-Experts), which is …
-Cites: ‪Competency Problems: On Finding and Removing Artifacts in …‬
+--- 
+layout: post 
+title: "From Shortcuts to Triggers: Backdoor Defense with Denoised PoE" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "Q Liu, F Wang, C Xiao, M Chen - arXiv preprint arXiv:2305.14910, 2023" 
+--- 
+Language models are often at risk of diverse backdoor attacks, especially data poisoning. Thus, it is important to investigate defense solutions for addressing them. Existing backdoor defense methods mainly focus on backdoor attacks with explicit triggers, leaving a universal defense against various backdoor attacks with diverse triggers largely unexplored. In this paper, we propose an end-to-end ensemble-based backdoor defense framework, DPoE (Denoised Product-of-Experts), which is  Cites: Competency Problems: On Finding and Removing Artifacts in

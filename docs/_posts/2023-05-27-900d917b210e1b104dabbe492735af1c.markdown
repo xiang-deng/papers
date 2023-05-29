@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Estimating Large Language Model Capabilities without Labeled Test Data"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "HY Fu, Q Ye, A Xu, X Ren, R Jia - arXiv preprint arXiv:2305.14802, 2023"
----
-Large Language Models (LLMs) have exhibited an impressive ability to perform in-context learning (ICL) from only a few examples, but the success of ICL varies widely from task to task. Thus, it is important to quickly determine whether ICL is applicable to a new task, but directly evaluating ICL accuracy can be expensive in situations where test data is expensive to annotate--the exact situations where ICL is most appealing. In this paper, we propose the task of ICL accuracy estimation, in which we …
-Cites: ‪Assessing Out-of-Domain Language Model Performance from Few …‬
+--- 
+layout: post 
+title: "Estimating Large Language Model Capabilities without Labeled Test Data" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "HY Fu, Q Ye, A Xu, X Ren, R Jia - arXiv preprint arXiv:2305.14802, 2023" 
+--- 
+Large Language Models (LLMs) have exhibited an impressive ability to perform in-context learning (ICL) from only a few examples, but the success of ICL varies widely from task to task. Thus, it is important to quickly determine whether ICL is applicable to a new task, but directly evaluating ICL accuracy can be expensive in situations where test data is expensive to annotate--the exact situations where ICL is most appealing. In this paper, we propose the task of ICL accuracy estimation, in which we  Cites: Assessing Out-of-Domain Language Model Performance from Few

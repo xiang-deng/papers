@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PersonalTM: Transformer memory for personalized retrieval"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "R Lian, S Lu, C Solomon, G Aguilar, P Ponnusamy… - 2023"
----
-ABSTRACT The Transformer Memory as a Differentiable Search Index (DSI)[32] has been proposed as a new information retrieval paradigm, which aims to address the limitations of dual-encoder retrieval framework based on the similarity score. The DSI framework outperforms strong baselines by directly generating relevant document identifiers from queries without relying on an explicit index. The memorization power of DSI framework makes it suitable for personalized retrieval tasks. Therefore, we …
-Cites: ‪Unifiedskg: Unifying and multi-tasking structured knowledge …‬
+--- 
+layout: post 
+title: "PersonalTM: Transformer memory for personalized retrieval" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "R Lian, S Lu, C Solomon, G Aguilar, P Ponnusamy - 2023" 
+--- 
+ABSTRACT The Transformer Memory as a Differentiable Search Index (DSI)[32] has been proposed as a new information retrieval paradigm, which aims to address the limitations of dual-encoder retrieval framework based on the similarity score. The DSI framework outperforms strong baselines by directly generating relevant document identifiers from queries without relying on an explicit index. The memorization power of DSI framework makes it suitable for personalized retrieval tasks. Therefore, we  Cites: Unifiedskg: Unifying and multi-tasking structured knowledge

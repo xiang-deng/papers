@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Limitations of Simulating Active Learning"
-date:   2023-05-27 10:00:59 -0400
-categories: jekyll update
-author: "K Margatina, N Aletras - arXiv preprint arXiv:2305.13342, 2023"
----
-Active learning (AL) is a human-and-model-in-the-loop paradigm that iteratively selects informative unlabeled data for human annotation, aiming to improve over random sampling. However, performing AL experiments with human annotations on-the-fly is a laborious and expensive process, thus unrealistic for academic research. An easy fix to this impediment is to simulate AL, by treating an already labeled and publicly available dataset as the pool of unlabeled data. In this position paper, we …
-Cites: ‪Merging weak and active supervision for semantic parsing‬
+--- 
+layout: post 
+title: "On the Limitations of Simulating Active Learning" 
+date: 2023-05-27 10:00:59 -0400 
+categories: jekyll update 
+author: "K Margatina, N Aletras - arXiv preprint arXiv:2305.13342, 2023" 
+--- 
+Active learning (AL) is a human-and-model-in-the-loop paradigm that iteratively selects informative unlabeled data for human annotation, aiming to improve over random sampling. However, performing AL experiments with human annotations on-the-fly is a laborious and expensive process, thus unrealistic for academic research. An easy fix to this impediment is to simulate AL, by treating an already labeled and publicly available dataset as the pool of unlabeled data. In this position paper, we  Cites: Merging weak and active supervision for semantic parsing
