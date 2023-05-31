@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Leveraging Related Instances for Better Prediction"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "S Shan - 2023"
+---
+One fundamental task of machine learning is to predict output responses y from input data x. However, despite significant advances in the past decade, most current predictive models still only consider every single x in isolation when making predictions, which inevitably impacts model performance as the model may lose the opportunity to extract helpful information from other related instances to better predict x. This dissertation pushes the boundaries of machine learning research by explicitly …
+Cites: ‪Masked Part-Of-Speech Model: Does Modeling Long Context Help …‬

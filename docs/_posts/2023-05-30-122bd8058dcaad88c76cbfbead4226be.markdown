@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "Y Zheng, A Hao, AT Luu - arXiv preprint arXiv:2305.15872, 2023"
+---
+Semi-supervised learning has been an important approach to address challenges in extracting entities and relations from limited data. However, current semi-supervised works handle the two tasks (ie, Named Entity Recognition and Relation Extraction) separately and ignore the cross-correlation of entity and relation instances as well as the existence of similar instances across unlabeled data. To alleviate the issues, we propose Jointprop, a Heterogeneous Graph-based Propagation framework for joint …
+Cites: ‪Exploiting syntactico-semantic structures for relation extraction‬

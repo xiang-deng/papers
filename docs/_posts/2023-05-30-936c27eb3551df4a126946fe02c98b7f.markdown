@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "J He, V Gutiérrez-Basulto, JZ Pan - arXiv preprint arXiv:2305.15932, 2023"
+---
+Unsupervised commonsense reasoning (UCR) is becoming increasingly popular as the construction of commonsense reasoning datasets is expensive, and they are inevitably limited in their scope. A popular approach to UCR is to fine-tune language models with external knowledge (eg, knowledge graphs), but this usually requires a large number of training examples. In this paper, we propose to transform the downstream multiple choice question answering task into a simpler binary …
+Cites: ‪Deep bidirectional language-knowledge graph pretraining‬

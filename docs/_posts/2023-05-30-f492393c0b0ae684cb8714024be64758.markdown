@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Revisiting Non-Autoregressive Translation at Scale"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "Z Wang, L Wang, J Su, J Yao, Z Tu - arXiv preprint arXiv:2305.16155, 2023"
+---
+In real-world systems, scaling has been critical for improving the translation quality in autoregressive translation (AT), which however has not been well studied for non-autoregressive translation (NAT). In this work, we bridge the gap by systematically studying the impact of scaling on NAT behaviors. Extensive experiments on six WMT benchmarks over two advanced NAT models show that scaling can alleviate the commonly-cited weaknesses of NAT models, resulting in better translation …
+Cites: ‪Deep encoder, shallow decoder: Reevaluating non-autoregressive …‬

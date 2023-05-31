@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AUC Optimization from Multiple Unlabeled Datasets"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "Y Liu, Z Xie, M Li - arXiv preprint arXiv:2305.15776, 2023"
+---
+Weakly supervised learning aims to empower machine learning when the perfect supervision is unavailable, which has drawn great attention from researchers. Among various types of weak supervision, one of the most challenging cases is to learn from multiple unlabeled (U) datasets with only a little knowledge of the class priors, or U $^ m $ learning for short. In this paper, we study the problem of building an AUC (area under ROC curve) optimization model from multiple unlabeled …
+Cites: ‪Generalization Bounds for the Area Under the ROC Curve.‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reverse Engineering Self-Supervised Learning"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "I Ben-Shaul, R Shwartz-Ziv, T Galanti, S Dekel… - arXiv preprint arXiv …, 2023"
+---
+Self-supervised learning (SSL) is a powerful tool in machine learning, but understanding the learned representations and their underlying mechanisms remains a challenge. This paper presents an in-depth empirical analysis of SSL-trained representations, encompassing diverse models, architectures, and hyperparameters. Our study reveals an intriguing aspect of the SSL training process: it inherently facilitates the clustering of samples with respect to semantic labels …
+Cites: ‪Improving self-supervised learning by characterizing idealized …‬

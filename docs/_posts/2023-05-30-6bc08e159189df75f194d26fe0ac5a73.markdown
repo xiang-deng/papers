@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "S Yu, C Fan, C Xiong, D Jin, Z Liu, Z Liu - arXiv preprint arXiv:2305.14685, 2023"
+---
+Common IR pipelines are typically cascade systems that may involve multiple rankers and/or fusion models to integrate different information step-by-step. In this paper, we propose a novel re-ranker named Fusion-in-T5 (FiT5), which integrates …

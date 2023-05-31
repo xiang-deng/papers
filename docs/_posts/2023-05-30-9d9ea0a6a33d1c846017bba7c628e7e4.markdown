@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Parallel Sampling of Diffusion Models"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "A Shih, S Belkhale, S Ermon, D Sadigh, N Anari - arXiv preprint arXiv:2305.16317, 2023"
+---
+Diffusion models are powerful generative models but suffer from slow sampling, often taking 1000 sequential denoising steps for one sample. As a result, considerable efforts have been directed toward reducing the number of denoising steps, but these methods hurt sample quality. Instead of reducing the number of denoising steps (trading quality for speed), in this paper we explore an orthogonal approach: can we run the denoising steps in parallel (trading compute for speed)? In spite of the …
+Cites: ‪Clipscore: A reference-free evaluation metric for image captioning‬

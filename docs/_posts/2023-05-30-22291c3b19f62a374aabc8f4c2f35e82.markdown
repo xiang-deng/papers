@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The False Promise of Imitating Proprietary LLMs"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "A Gudibande, E Wallace, C Snell, X Geng, H Liu… - arXiv preprint arXiv …, 2023"
+---
+An emerging method to cheaply improve a weaker language model is to finetune it on outputs from a stronger model, such as a proprietary system like ChatGPT (eg, Alpaca, Self-Instruct, and others). This approach looks to cheaply imitate the proprietary model s capabilities using a weaker open-source model. In this work, we critically analyze this approach. We first finetune a series of LMs that imitate ChatGPT using varying base model sizes (1.5 B--13B), data sources, and imitation data …
+Cites: ‪Natural questions: a benchmark for question answering research‬

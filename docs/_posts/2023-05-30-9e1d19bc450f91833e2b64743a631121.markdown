@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Deriving Language Models from Masked Language Models"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "LT Hennigen, Y Kim - arXiv preprint arXiv:2305.15501, 2023"
+---
+Masked language models (MLM) do not explicitly define a distribution over language, ie, they are not language models per se. However, recent work has implicitly treated them as such for the purposes of generation and scoring. This paper studies methods for deriving explicit joint distributions from MLMs, focusing on distributions over two tokens, which makes it possible to calculate exact distributional properties. We find that an approach based on identifying joints whose conditionals …
+Cites: ‪Don t give me the details, just the summary! topic-aware …‬

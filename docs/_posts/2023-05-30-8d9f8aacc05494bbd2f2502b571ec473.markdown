@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PromptNER: Prompting For Named Entity Recognition"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "D Ashok, ZC Lipton - arXiv preprint arXiv:2305.15444, 2023"
+---
+In a surprising turn, Large Language Models (LLMs) together with a growing arsenal of prompt-based heuristics now offer powerful off-the-shelf approaches providing few-shot solutions to myriad classic NLP problems. However, despite promising early results, these LLM-based few-shot methods remain far from the state of the art in Named Entity Recognition (NER), where prevailing methods include learning representations via end-to-end structural understanding and fine-tuning on standard …
+Cites: ‪Palm: Scaling language modeling with pathways‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Don t Use a Cannon to Kill a Fly: An Efficient Cascading Pipeline for Long Documents"
+date:   2023-05-30 03:09:06 -0400
+categories: jekyll update
+author: "Z Li, N Guha, J Nyarko - 2023"
+---
+The computational cost of transformer-based models has a quadratic dependence on the length of the input sequence. This makes it challenging to deploy these models in domains in which long documents are especially lengthy, such as the legal domain. To address this issue, we propose a three-stage cascading approach for long document classification. We begin by filtering out likely irrelevant information with a lightweight logistic regression model before passing the more challenging …
+Cites: ‪Efficient long-text understanding with short-text models‬
