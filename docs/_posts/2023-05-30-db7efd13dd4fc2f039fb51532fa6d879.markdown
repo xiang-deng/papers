@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NLG Evaluation Metrics Beyond Correlation Analysis: An Empirical Metric Preference Checklist"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "N Iftitahu, M Fang, V Menkovski, M Pechenizkiy - 2023"
----
-In this study, we analyze NLG automatic metrics based on whether human evaluation aspect is used as context or objective to compute the metrics:(i) Task-agnostic and (ii) Humanaligned. Task-agnostic metrics, such as Perplexity, BLEU, BERTScore, are cost-effective and highly adaptable to diverse NLG tasks, yet they have a weak correlation with human. Humanaligned metrics (CTC, CtrlEval, UniEval) improves correlation level by incorporating desirable human-like qualities as training objective …
-Cites: ‪Understanding the extent to which content quality metrics measure …‬
+--- 
+layout: post 
+title: "NLG Evaluation Metrics Beyond Correlation Analysis: An Empirical Metric Preference Checklist" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "N Iftitahu, M Fang, V Menkovski, M Pechenizkiy - 2023" 
+--- 
+In this study, we analyze NLG automatic metrics based on whether human evaluation aspect is used as context or objective to compute the metrics:(i) Task-agnostic and (ii) Humanaligned. Task-agnostic metrics, such as Perplexity, BLEU, BERTScore, are cost-effective and highly adaptable to diverse NLG tasks, yet they have a weak correlation with human. Humanaligned metrics (CTC, CtrlEval, UniEval) improves correlation level by incorporating desirable human-like qualities as training objective  Cites: Understanding the extent to which content quality metrics measure

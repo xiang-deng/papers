@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Label Position Bias in Graph Neural Networks"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "H Han, X Liu, F Shi, MA Torkamani, CC Aggarwal… - arXiv preprint arXiv …, 2023"
----
-Graph Neural Networks (GNNs) have emerged as a powerful tool for semi-supervised node classification tasks. However, recent studies have revealed various biases in GNNs stemming from both node features and graph topology. In this work, we uncover a new bias-label position bias, which indicates that the node closer to the labeled nodes tends to perform better. We introduce a new metric, the Label Proximity Score, to quantify this bias, and find that it is closely related to performance …
-Cites: ‪Graph Policy Network for Transferable Active Learning on Graphs‬
+--- 
+layout: post 
+title: "Towards Label Position Bias in Graph Neural Networks" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "H Han, X Liu, F Shi, MA Torkamani, CC Aggarwal - arXiv preprint arXiv , 2023" 
+--- 
+Graph Neural Networks (GNNs) have emerged as a powerful tool for semi-supervised node classification tasks. However, recent studies have revealed various biases in GNNs stemming from both node features and graph topology. In this work, we uncover a new bias-label position bias, which indicates that the node closer to the labeled nodes tends to perform better. We introduce a new metric, the Label Proximity Score, to quantify this bias, and find that it is closely related to performance  Cites: Graph Policy Network for Transferable Active Learning on Graphs

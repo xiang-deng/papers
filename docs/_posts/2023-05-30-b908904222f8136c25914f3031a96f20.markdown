@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "Y Wu, SY Min, S Prabhumoye, Y Bisk, R Salakhutdinov… - arXiv preprint arXiv …, 2023"
----
-Open-world survival games pose significant challenges for AI algorithms due to their multi-tasking, deep exploration, and goal prioritization requirements. Despite reinforcement learning (RL) being popular for solving games, its high sample complexity limits its effectiveness in complex open-world games like Crafter or Minecraft. We propose a novel approach, SPRING, to read the game s original academic paper and use the knowledge learned to reason and play the game …
-Cites: ‪SILG: The Multi-domain Symbolic Interactive Language Grounding …‬
+--- 
+layout: post 
+title: "SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "Y Wu, SY Min, S Prabhumoye, Y Bisk, R Salakhutdinov - arXiv preprint arXiv , 2023" 
+--- 
+Open-world survival games pose significant challenges for AI algorithms due to their multi-tasking, deep exploration, and goal prioritization requirements. Despite reinforcement learning (RL) being popular for solving games, its high sample complexity limits its effectiveness in complex open-world games like Crafter or Minecraft. We propose a novel approach, SPRING, to read the game s original academic paper and use the knowledge learned to reason and play the game  Cites: SILG: The Multi-domain Symbolic Interactive Language Grounding

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "S Dyrmishi, S Ghamizi, M Cordy - arXiv preprint arXiv:2305.15587, 2023"
----
-Natural Language Processing (NLP) models based on Machine Learning (ML) are susceptible to adversarial attacks--malicious algorithms that imperceptibly modify input text to force models into making incorrect predictions. However, evaluations of these attacks ignore the property of imperceptibility or study it under limited settings. This entails that adversarial perturbations would not pass any human quality gate and do not represent real threats to human-checked NLP systems. To bypass this …
-Cites: ‪Pathologies of neural models make interpretations difficult‬
+--- 
+layout: post 
+title: "How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "S Dyrmishi, S Ghamizi, M Cordy - arXiv preprint arXiv:2305.15587, 2023" 
+--- 
+Natural Language Processing (NLP) models based on Machine Learning (ML) are susceptible to adversarial attacks--malicious algorithms that imperceptibly modify input text to force models into making incorrect predictions. However, evaluations of these attacks ignore the property of imperceptibility or study it under limited settings. This entails that adversarial perturbations would not pass any human quality gate and do not represent real threats to human-checked NLP systems. To bypass this  Cites: Pathologies of neural models make interpretations difficult

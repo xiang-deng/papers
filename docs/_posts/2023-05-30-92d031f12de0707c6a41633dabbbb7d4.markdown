@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Scaling Data-Constrained Language Models"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "N Muennighoff, AM Rush, B Barak, TL Scao, A Piktus… - arXiv preprint arXiv …, 2023"
----
-The current trend of scaling language models involves increasing both parameter count and training dataset size. Extrapolating this trend suggests that training dataset size may soon be limited by the amount of text data available on the internet. Motivated by this limit, we investigate scaling language models in data-constrained regimes. Specifically, we run a large set of experiments varying the extent of data repetition and compute budget, ranging up to 900 billion training tokens and 9 billion …
-Cites: ‪BoolQ: Exploring the Surprising Difficulty of Natural Yes/No …‬
+--- 
+layout: post 
+title: "Scaling Data-Constrained Language Models" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "N Muennighoff, AM Rush, B Barak, TL Scao, A Piktus - arXiv preprint arXiv , 2023" 
+--- 
+The current trend of scaling language models involves increasing both parameter count and training dataset size. Extrapolating this trend suggests that training dataset size may soon be limited by the amount of text data available on the internet. Motivated by this limit, we investigate scaling language models in data-constrained regimes. Specifically, we run a large set of experiments varying the extent of data repetition and compute budget, ranging up to 900 billion training tokens and 9 billion  Cites: BoolQ: Exploring the Surprising Difficulty of Natural Yes/No

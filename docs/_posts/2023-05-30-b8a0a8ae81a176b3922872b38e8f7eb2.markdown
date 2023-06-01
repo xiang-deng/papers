@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TCAMixer: A lightweight Mixer based on a novel triple concepts attention mechanism for NLP"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "X Liu, H Tang, J Zhao, Q Dou, M Lu - Engineering Applications of Artificial Intelligence, 2023"
----
-Large-scale model sizes and expensive computing costs cause the challenge of deploying and applying large pre-trained models. Hence, this paper presents a novel Triple Concepts Attention Mechanism and a lightweight TCAMixer model for edge devices to classify texts. Furthermore, the TCAMixer abstracts textual concepts in a human way, which is unmatched by other counterparts such as pNLP-Mixer (a projection-based MLP-Mixer model for Nature Language Processing) and …
-Cites: ‪Pay attention to mlps‬
+--- 
+layout: post 
+title: "TCAMixer: A lightweight Mixer based on a novel triple concepts attention mechanism for NLP" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "X Liu, H Tang, J Zhao, Q Dou, M Lu - Engineering Applications of Artificial Intelligence, 2023" 
+--- 
+Large-scale model sizes and expensive computing costs cause the challenge of deploying and applying large pre-trained models. Hence, this paper presents a novel Triple Concepts Attention Mechanism and a lightweight TCAMixer model for edge devices to classify texts. Furthermore, the TCAMixer abstracts textual concepts in a human way, which is unmatched by other counterparts such as pNLP-Mixer (a projection-based MLP-Mixer model for Nature Language Processing) and  Cites: Pay attention to mlps

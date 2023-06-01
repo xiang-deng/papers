@@ -1,9 +1,8 @@
----
-layout: post
-title:  "RewriteLM: An Instruction-Tuned Large Language Model for Text Rewriting"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "L Shu, L Luo, J Hoskere, Y Zhu, C Liu, S Tong, J Chen… - arXiv preprint arXiv …, 2023"
----
-Large Language Models (LLMs) have demonstrated impressive zero-shot capabilities in long-form text generation tasks expressed through natural language instructions. However, user expectations for long-form text rewriting is high, and unintended rewrites (  hallucinations  ) produced by the model can negatively impact its overall performance. Existing evaluation benchmarks primarily focus on limited rewriting styles and sentence-level rewriting rather than long-form open-ended …
-Cites: ‪Improving Wikipedia Verifiability with AI‬
+--- 
+layout: post 
+title: "RewriteLM: An Instruction-Tuned Large Language Model for Text Rewriting" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "L Shu, L Luo, J Hoskere, Y Zhu, C Liu, S Tong, J Chen - arXiv preprint arXiv , 2023" 
+--- 
+Large Language Models (LLMs) have demonstrated impressive zero-shot capabilities in long-form text generation tasks expressed through natural language instructions. However, user expectations for long-form text rewriting is high, and unintended rewrites ( hallucinations ) produced by the model can negatively impact its overall performance. Existing evaluation benchmarks primarily focus on limited rewriting styles and sentence-level rewriting rather than long-form open-ended  Cites: Improving Wikipedia Verifiability with AI

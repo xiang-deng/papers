@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Perturbation-based Self-supervised Attention for Attention Bias in Text Classification"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "H Feng, Z Lin, Q Ma - arXiv preprint arXiv:2305.15684, 2023"
----
-In text classification, the traditional attention mechanisms usually focus too much on frequent words, and need extensive labeled data in order to learn. This paper proposes a perturbation-based self-supervised attention approach to guide attention learning without any annotation overhead. Specifically, we add as much noise as possible to all the words in the sentence without changing their semantics and predictions. We hypothesize that words that tolerate more noise are less significant …
-Cites: ‪Aspect level sentiment classification with deep memory network‬
+--- 
+layout: post 
+title: "Perturbation-based Self-supervised Attention for Attention Bias in Text Classification" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "H Feng, Z Lin, Q Ma - arXiv preprint arXiv:2305.15684, 2023" 
+--- 
+In text classification, the traditional attention mechanisms usually focus too much on frequent words, and need extensive labeled data in order to learn. This paper proposes a perturbation-based self-supervised attention approach to guide attention learning without any annotation overhead. Specifically, we add as much noise as possible to all the words in the sentence without changing their semantics and predictions. We hypothesize that words that tolerate more noise are less significant  Cites: Aspect level sentiment classification with deep memory network

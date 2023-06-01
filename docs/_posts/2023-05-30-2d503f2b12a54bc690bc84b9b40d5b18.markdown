@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "M Chakraborty, A Kulkarni, Q Li - arXiv preprint arXiv:2305.15689, 2023"
----
-Recent studies have demonstrated that natural-language prompts can help to leverage the knowledge learned by pre-trained language models for the binary sentence-level sentiment classification task. Specifically, these methods utilize few-shot learning settings to fine-tune the sentiment classification model using manual or automatically generated prompts. However, the performance of these methods is sensitive to the perturbations of the utilized prompts. Furthermore, these methods …
-Cites: ‪Reframing Instructional Prompts to GPTk s Language‬
+--- 
+layout: post 
+title: "Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "M Chakraborty, A Kulkarni, Q Li - arXiv preprint arXiv:2305.15689, 2023" 
+--- 
+Recent studies have demonstrated that natural-language prompts can help to leverage the knowledge learned by pre-trained language models for the binary sentence-level sentiment classification task. Specifically, these methods utilize few-shot learning settings to fine-tune the sentiment classification model using manual or automatically generated prompts. However, the performance of these methods is sensitive to the perturbations of the utilized prompts. Furthermore, these methods  Cites: Reframing Instructional Prompts to GPTk s Language

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Enhancing Grammatical Error Correction Systems with Explanations"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "Y Fei, L Cui, S Yang, W Lam, Z Lan, S Shi - arXiv preprint arXiv:2305.15676, 2023"
----
-Grammatical error correction systems improve written communication by detecting and correcting language mistakes. To help language learners better understand why the GEC system makes a certain correction, the causes of errors (evidence words) and the corresponding error types are two key factors. To enhance GEC systems with explanations, we introduce EXPECT, a large dataset annotated with evidence words and grammatical error types. We propose several baselines and anlysis to …
-Cites: ‪AllenNLP: A Deep Semantic Natural Language Processing Platform‬
+--- 
+layout: post 
+title: "Enhancing Grammatical Error Correction Systems with Explanations" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "Y Fei, L Cui, S Yang, W Lam, Z Lan, S Shi - arXiv preprint arXiv:2305.15676, 2023" 
+--- 
+Grammatical error correction systems improve written communication by detecting and correcting language mistakes. To help language learners better understand why the GEC system makes a certain correction, the causes of errors (evidence words) and the corresponding error types are two key factors. To enhance GEC systems with explanations, we introduce EXPECT, a large dataset annotated with evidence words and grammatical error types. We propose several baselines and anlysis to  Cites: AllenNLP: A Deep Semantic Natural Language Processing Platform

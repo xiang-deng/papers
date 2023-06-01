@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MixER: MLP-Mixer Knowledge Graph Embedding for Capturing Rich Entity-Relation Interactions in Link Prediction"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "T Le, A Pham, T Chung, T Nguyen, T Nguyen, B Le - … 2023, Osaka, Japan, May 25–28 …, 2023"
----
-Abstract Knowledge graphs are often incomplete in practice, so link prediction becomes an important problem in developing many downstream applications. Therefore, many knowledge graph embedding models have been proposed to predict the missing links based on known facts. Convolutional neural networks (CNNs) play an essential role due to their excellent performance and parameter efficiency. Previous CNN-based models such as ConvE and KMAE use kernels to …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "MixER: MLP-Mixer Knowledge Graph Embedding for Capturing Rich Entity-Relation Interactions in Link Prediction" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "T Le, A Pham, T Chung, T Nguyen, T Nguyen, B Le - 2023, Osaka, Japan, May 2528 , 2023" 
+--- 
+Abstract Knowledge graphs are often incomplete in practice, so link prediction becomes an important problem in developing many downstream applications. Therefore, many knowledge graph embedding models have been proposed to predict the missing links based on known facts. Convolutional neural networks (CNNs) play an essential role due to their excellent performance and parameter efficiency. Previous CNN-based models such as ConvE and KMAE use kernels to  Cites: Observed versus latent features for knowledge base and text

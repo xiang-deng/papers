@@ -1,9 +1,8 @@
----
-layout: post
-title:  "PDE+: Enhancing Generalization via PDE with Adaptive Distributional Diffusion"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "Y Yuan, B Xu, B Lin, L Hou, F Sun, H Shen, X Cheng - arXiv preprint arXiv …, 2023"
----
-The generalization of neural networks is a central challenge in machine learning, especially concerning the performance under distributions that differ from training ones. Current methods, mainly based on the data-driven paradigm such as data augmentation, adversarial training, and noise injection, may encounter limited generalization due to model non-smoothness. In this paper, we propose to investigate generalization from a Partial Differential Equation (PDE) perspective …
-Cites: ‪Predicting out-of-domain generalization with local manifold …‬
+--- 
+layout: post 
+title: "PDE+: Enhancing Generalization via PDE with Adaptive Distributional Diffusion" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "Y Yuan, B Xu, B Lin, L Hou, F Sun, H Shen, X Cheng - arXiv preprint arXiv , 2023" 
+--- 
+The generalization of neural networks is a central challenge in machine learning, especially concerning the performance under distributions that differ from training ones. Current methods, mainly based on the data-driven paradigm such as data augmentation, adversarial training, and noise injection, may encounter limited generalization due to model non-smoothness. In this paper, we propose to investigate generalization from a Partial Differential Equation (PDE) perspective  Cites: Predicting out-of-domain generalization with local manifold

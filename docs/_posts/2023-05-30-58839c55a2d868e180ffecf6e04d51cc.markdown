@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Refocusing Is Key to Transfer Learning"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "B Shi, S Gai, T Darrell, X Wang - arXiv preprint arXiv:2305.15542, 2023"
----
-Transfer learning involves adapting a pre-trained model to novel downstream tasks. However, we observe that current transfer learning methods often fail to focus on task-relevant features. In this work, we emphasize the importance of refocusing the attention in transfer learning. We introduce Top-Down Attention Steering (TOAST), a novel transfer learning algorithm that keeps the pre-trained backbone frozen, while selecting the task-relevant elements in the output and feeding them back to the …
-Cites: ‪Self-Instruct: Aligning Language Model with Self Generated …‬
+--- 
+layout: post 
+title: "Refocusing Is Key to Transfer Learning" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "B Shi, S Gai, T Darrell, X Wang - arXiv preprint arXiv:2305.15542, 2023" 
+--- 
+Transfer learning involves adapting a pre-trained model to novel downstream tasks. However, we observe that current transfer learning methods often fail to focus on task-relevant features. In this work, we emphasize the importance of refocusing the attention in transfer learning. We introduce Top-Down Attention Steering (TOAST), a novel transfer learning algorithm that keeps the pre-trained backbone frozen, while selecting the task-relevant elements in the output and feeding them back to the  Cites: Self-Instruct: Aligning Language Model with Self Generated

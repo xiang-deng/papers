@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Imitating Task and Motion Planning with Visuomotor Transformers"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "M Dalal, A Mandlekar, C Garrett, A Handa… - arXiv preprint arXiv …, 2023"
----
-Imitation learning is a powerful tool for training robot manipulation policies, allowing them to learn from expert demonstrations without manual programming or trial-and-error. However, common methods of data collection, such as human supervision, scale poorly, as they are time-consuming and labor-intensive. In contrast, Task and Motion Planning (TAMP) can autonomously generate large-scale datasets of diverse demonstrations. In this work, we show that the combination of large-scale datasets …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Imitating Task and Motion Planning with Visuomotor Transformers" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "M Dalal, A Mandlekar, C Garrett, A Handa - arXiv preprint arXiv , 2023" 
+--- 
+Imitation learning is a powerful tool for training robot manipulation policies, allowing them to learn from expert demonstrations without manual programming or trial-and-error. However, common methods of data collection, such as human supervision, scale poorly, as they are time-consuming and labor-intensive. In contrast, Task and Motion Planning (TAMP) can autonomously generate large-scale datasets of diverse demonstrations. In this work, we show that the combination of large-scale datasets  Cites: Palm: Scaling language modeling with pathways

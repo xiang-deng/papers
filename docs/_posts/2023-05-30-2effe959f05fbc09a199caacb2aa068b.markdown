@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Beryllium: Neural Search for Algorithm Implementations"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "A Kulkarni, M Chakraborty, Y Sium, SC Valluri, W Le… - arXiv preprint arXiv …, 2023"
----
-In this paper, we explore the feasibility of finding algorithm implementations from code. Successfully matching code and algorithms can help understand unknown code, provide reference implementations, and automatically collect data for learning-based program synthesis. To achieve the goal, we designed a new language named p-language to specify the algorithms and a static analyzer for the p-language to automatically extract control flow, math, and natural language information from the …
-Cites: ‪Graphcodebert: Pre-training code representations with data flow‬
+--- 
+layout: post 
+title: "Beryllium: Neural Search for Algorithm Implementations" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "A Kulkarni, M Chakraborty, Y Sium, SC Valluri, W Le - arXiv preprint arXiv , 2023" 
+--- 
+In this paper, we explore the feasibility of finding algorithm implementations from code. Successfully matching code and algorithms can help understand unknown code, provide reference implementations, and automatically collect data for learning-based program synthesis. To achieve the goal, we designed a new language named p-language to specify the algorithms and a static analyzer for the p-language to automatically extract control flow, math, and natural language information from the  Cites: Graphcodebert: Pre-training code representations with data flow

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Interactive Segment Anything NeRF with Feature Imitation"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "X Chen, J Tang, D Wan, J Wang, G Zeng - arXiv preprint arXiv:2305.16233, 2023"
----
-This paper investigates the potential of enhancing Neural Radiance Fields (NeRF) with semantics to expand their applications. Although NeRF has been proven useful in real-world applications like VR and digital creation, the lack of semantics hinders interaction with objects in complex scenes. We propose to imitate the backbone feature of off-the-shelf perception models to achieve zero-shot semantic segmentation with NeRF. Our framework reformulates the segmentation process by …
-Cites: ‪Scaling up visual and vision-language representation learning with …‬

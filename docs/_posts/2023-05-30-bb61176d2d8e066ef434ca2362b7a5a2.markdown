@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Landmark Attention: Random-Access Infinite Context Length for Transformers"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "A Mohtashami, M Jaggi - arXiv preprint arXiv:2305.16300, 2023"
----
-While transformers have shown remarkable success in natural language processing, their attention mechanism s large memory requirements have limited their ability to handle longer contexts. Prior approaches, such as recurrent memory or retrieval-based augmentation, have either compromised the random-access flexibility of attention (ie, the capability to select any token in the entire context) or relied on separate mechanisms for relevant context retrieval, which may not be compatible …
-Cites: ‪Train short, test long: Attention with linear biases enables input …‬
+--- 
+layout: post 
+title: "Landmark Attention: Random-Access Infinite Context Length for Transformers" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "A Mohtashami, M Jaggi - arXiv preprint arXiv:2305.16300, 2023" 
+--- 
+While transformers have shown remarkable success in natural language processing, their attention mechanism s large memory requirements have limited their ability to handle longer contexts. Prior approaches, such as recurrent memory or retrieval-based augmentation, have either compromised the random-access flexibility of attention (ie, the capability to select any token in the entire context) or relied on separate mechanisms for relevant context retrieval, which may not be compatible  Cites: Train short, test long: Attention with linear biases enables input

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation"
-date:   2023-05-30 03:09:06 -0400
-categories: jekyll update
-author: "N Mündler, J He, S Jenko, M Vechev - arXiv preprint arXiv:2305.15852, 2023"
----
-Large language models (large LMs) are susceptible to producing text with hallucinated content. Self-contradiction, where the LM generates two contradictory sentences within the same context, is an important form of hallucination. In this work, we present a comprehensive analysis on self-contradiction for state-of-the-art, instruction-tuned LMs, including evaluation, detection, and mitigation. To effectively trigger self-contradictions, we design a framework that constrains LMs to generate …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation" 
+date: 2023-05-30 03:09:06 -0400 
+categories: jekyll update 
+author: "N Mndler, J He, S Jenko, M Vechev - arXiv preprint arXiv:2305.15852, 2023" 
+--- 
+Large language models (large LMs) are susceptible to producing text with hallucinated content. Self-contradiction, where the LM generates two contradictory sentences within the same context, is an important form of hallucination. In this work, we present a comprehensive analysis on self-contradiction for state-of-the-art, instruction-tuned LMs, including evaluation, detection, and mitigation. To effectively trigger self-contradictions, we design a framework that constrains LMs to generate  Cites: Palm: Scaling language modeling with pathways
