@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Annotating and Detecting Fine-grained Factual Errors for Dialogue Summarization"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "R Zhu, J Qi, JH Lau - arXiv preprint arXiv:2305.16548, 2023"
+---
+A series of datasets and models have been proposed for summaries generated for well-formatted documents such as news articles. Dialogue summaries, however, have been under explored. In this paper, we present the first dataset with fine-grained factual error annotations named DIASUMFACT. We define fine-grained factual error detection as a sentence-level multi-label classification problem, and we evaluate two state-of-the-art (SOTA) models on our dataset. Both models yield sub …
+Cites: ‪Improving faithfulness in abstractive summarization with contrast …‬

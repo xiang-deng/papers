@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Incorporating Distributions of Discourse Structure for Long Document Abstractive Summarization"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "D Pu, Y Wang, V Demberg - arXiv preprint arXiv:2305.16784, 2023"
+---
+For text summarization, the role of discourse structure is pivotal in discerning the core content of a text. Regrettably, prior studies on incorporating Rhetorical Structure Theory (RST) into transformer-based summarization models only consider the nuclearity annotation, thereby overlooking the variety of discourse relation types. This paper introduces the RSTformer , a novel summarization model that comprehensively incorporates both the types and uncertainty of rhetorical relations …
+Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬

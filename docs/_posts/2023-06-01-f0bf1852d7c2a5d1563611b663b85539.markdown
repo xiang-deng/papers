@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AlignScore: Evaluating Factual Consistency with a Unified Alignment Function"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "Y Zha, Y Yang, R Li, Z Hu - arXiv preprint arXiv:2305.16739, 2023"
+---
+Many text generation applications require the generated text to be factually consistent with input information. Automatic evaluation of factual consistency is challenging. Previous work has developed various metrics that often depend on specific functions, such as natural language inference (NLI) or question answering (QA), trained on limited data. Those metrics thus can hardly assess diverse factual inconsistencies (eg, contradictions, hallucinations) that occur in varying …
+Cites: ‪Evaluating Factuality in Generation with Dependency-level …‬

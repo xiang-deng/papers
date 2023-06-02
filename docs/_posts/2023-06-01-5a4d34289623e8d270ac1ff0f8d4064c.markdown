@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Plug-and-play document modules for pre-trained models"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "C Xiao, Z Zhang, X Han, CM Chan, Y Lin, Z Liu, X Li… - arXiv preprint arXiv …, 2023"
+---
+Large-scale pre-trained models (PTMs) have been widely used in document-oriented NLP tasks, such as question answering. However, the encoding-task coupling requirement results in the repeated encoding of the same documents for different tasks and queries, which is highly computationally inefficient. To this end, we target to decouple document encoding from downstream tasks, and propose to represent each document as a plug-and-play document module, ie, a document …
+Cites: ‪Natural questions: a benchmark for question answering research‬

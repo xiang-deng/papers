@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generating EDU Extracts for Plan-Guided Summary Re-Ranking"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "G Adams, AR Fabbri, F Ladhak, K McKeown… - arXiv preprint arXiv …, 2023"
+---
+Two-step approaches, in which summary candidates are generated-then-reranked to return a single summary, can improve ROUGE scores over the standard single-step approach. Yet, standard decoding methods (ie, beam search, nucleus sampling, and diverse beam search) produce candidates with redundant, and often low quality, content. In this paper, we design a novel method to generate candidates for re-ranking that addresses these issues. We ground each candidate abstract on its own …
+Cites: ‪A well-composed text is half done! composition sampling for …‬

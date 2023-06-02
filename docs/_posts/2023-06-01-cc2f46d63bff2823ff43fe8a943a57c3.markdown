@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "M Fu, C Tantithamthavorn, T Le, Y Kume, V Nguyen… - arXiv preprint arXiv …, 2023"
+---
+Many ML-based approaches have been proposed to automatically detect, localize, and repair software vulnerabilities. While ML-based methods are more effective than program analysis-based vulnerability analysis tools, few have been integrated into modern IDEs, hindering practical adoption. To bridge this critical gap, we propose AIBugHunter, a novel ML-based software vulnerability analysis tool for C/C++ languages that is integrated into Visual Studio Code. AIBugHunter helps software …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

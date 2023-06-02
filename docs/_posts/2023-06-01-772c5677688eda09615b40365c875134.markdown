@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Fine-Tuning Language Models with Just Forward Passes"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "S Malladi, T Gao, E Nichani, A Damian, JD Lee… - arXiv preprint arXiv …, 2023"
+---
+Fine-tuning language models (LMs) has yielded success on diverse downstream tasks, but as LMs grow in size, backpropagation requires a prohibitively large amount of memory. Zeroth-order (ZO) methods can in principle estimate gradients using only two forward passes but are theorized to be catastrophically slow for optimizing large models. In this work, we propose a memory-efficient zerothorder optimizer (MeZO), adapting the classical ZO-SGD method to operate in-place …
+Cites: ‪BoolQ: Exploring the surprising difficulty of natural yes/no questions‬

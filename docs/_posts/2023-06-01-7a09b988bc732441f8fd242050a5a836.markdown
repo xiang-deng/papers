@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Neural Machine Translation with Dynamic Graph Convolutional Decoder"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "L Li, K Fan, L Yang, H Li, C Yuan - arXiv preprint arXiv:2305.17698, 2023"
+---
+Existing wisdom demonstrates the significance of syntactic knowledge for the improvement of neural machine translation models. However, most previous works merely focus on leveraging the source syntax in the well-known encoder-decoder framework. In sharp contrast, this paper proposes an end-to-end translation architecture from the (graph\& sequence) structural inputs to the (graph\& sequence) outputs, where the target translation and its corresponding syntactic graph are jointly …
+Cites: ‪Text generation from knowledge graphs with graph transformers‬

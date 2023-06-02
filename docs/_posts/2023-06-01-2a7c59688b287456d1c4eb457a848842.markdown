@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Beyond Confidence: Reliable Models Should Also Consider Atypicality"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "M Yuksekgonul, L Zhang, J Zou, C Guestrin - arXiv preprint arXiv:2305.18262, 2023"
+---
+While most machine learning models can provide confidence in their predictions, confidence is insufficient to understand a prediction s reliability. For instance, the model may have a low confidence prediction if the input is not well-represented in the training dataset or if the input is inherently ambiguous. In this work, we investigate the relationship between how atypical (rare) a sample or a class is and the reliability of a model s predictions. We first demonstrate that atypicality is strongly …
+Cites: ‪Demystifying prompts in language models via perplexity estimation‬

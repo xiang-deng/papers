@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "Z Jie, W Lu - arXiv preprint arXiv:2305.18170, 2023"
+---
+Chain-of-thought (CoT) prompting with large language models has proven effective in numerous natural language processing tasks, but designing prompts that generalize well to diverse problem types can be challenging, especially in the context of math word problem (MWP) solving. Additionally, it is common to have a large amount of training data that have a better diversity coverage but CoT annotations are not available, which limits the use of supervised learning techniques …
+Cites: ‪ReCEval: Evaluating Reasoning Chains via Correctness and …‬

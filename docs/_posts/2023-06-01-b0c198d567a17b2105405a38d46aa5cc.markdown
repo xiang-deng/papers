@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "C Chung, J Lee, JJ Whang - arXiv preprint arXiv:2305.18256, 2023"
+---
+A hyper-relational knowledge graph has been recently studied where a triplet is associated with a set of qualifiers; a qualifier is composed of a relation and an entity, providing auxiliary information for a triplet. While existing hyper-relational knowledge graph embedding methods assume that the entities are discrete objects, some information should be represented using numeric values, eg,(JRR, was born in, 1892). Also, a triplet (JRR, educated at, Oxford Univ.) can be associated with a …
+Cites: ‪Smore: Knowledge graph completion and multi-hop reasoning in …‬

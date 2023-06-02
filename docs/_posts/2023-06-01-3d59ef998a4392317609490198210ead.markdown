@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Sublinear-Space Streaming Algorithms for Estimating Graph Parameters on Sparse Graphs"
+date:   2023-06-01 02:05:49 -0400
+categories: jekyll update
+author: "X Chen, R Chitnis, P Eades, A Wirth - arXiv preprint arXiv:2305.16815, 2023"
+---
+In this paper, we design sub-linear space streaming algorithms for estimating three fundamental parameters--maximum independent set, minimum dominating set and maximum matching--on sparse graph classes, ie, graphs which satisfy $ m= O (n) $ where $ m, n $ is the number of edges, vertices respectively. Each of the three graph parameters we consider can have size $\Omega (n) $ even on sparse graph classes, and hence for sublinear-space algorithms we are restricted to parameter estimation …
+Cites: ‪Finding related tables‬
