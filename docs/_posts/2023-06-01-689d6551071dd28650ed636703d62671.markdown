@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Z Cao, B Yang, H Lin, S Wu, X Wei, D Liu, J Xie… - arXiv preprint arXiv …, 2023"
----
-$ k $-Nearest neighbor machine translation ($ k $ NN-MT) has attracted increasing attention due to its ability to non-parametrically adapt to new translation domains. By using an upstream NMT model to traverse the downstream training corpus, it is equipped with a datastore containing vectorized key-value pairs, which are retrieved during inference to benefit translation. However, there often exists a significant gap between upstream and downstream domains, which hurts the retrieval accuracy and …
-Cites: ‪Efficient Nearest Neighbor Language Models‬
+--- 
+layout: post 
+title: "Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Z Cao, B Yang, H Lin, S Wu, X Wei, D Liu, J Xie - arXiv preprint arXiv , 2023" 
+--- 
+$ k $-Nearest neighbor machine translation ($ k $ NN-MT) has attracted increasing attention due to its ability to non-parametrically adapt to new translation domains. By using an upstream NMT model to traverse the downstream training corpus, it is equipped with a datastore containing vectorized key-value pairs, which are retrieved during inference to benefit translation. However, there often exists a significant gap between upstream and downstream domains, which hurts the retrieval accuracy and  Cites: Efficient Nearest Neighbor Language Models

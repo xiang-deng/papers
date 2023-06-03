@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Do We Really Need a Large Number of Visual Prompts?"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Y Kim, Y Li, A Moitra, P Panda - arXiv preprint arXiv:2305.17223, 2023"
----
-Due to increasing interest in adapting models on resource-constrained edges, parameter-efficient transfer learning has been widely explored. Among various methods, Visual Prompt Tuning (VPT), prepending learnable prompts to input space, shows competitive fine-tuning performance compared to training of full network parameters. However, VPT increases the number of input tokens, resulting in additional computational overhead. In this paper, we analyze the impact of the …
-Cites: ‪Back razor: Memory-efficient transfer learning by self-sparsified …‬
+--- 
+layout: post 
+title: "Do We Really Need a Large Number of Visual Prompts?" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Y Kim, Y Li, A Moitra, P Panda - arXiv preprint arXiv:2305.17223, 2023" 
+--- 
+Due to increasing interest in adapting models on resource-constrained edges, parameter-efficient transfer learning has been widely explored. Among various methods, Visual Prompt Tuning (VPT), prepending learnable prompts to input space, shows competitive fine-tuning performance compared to training of full network parameters. However, VPT increases the number of input tokens, resulting in additional computational overhead. In this paper, we analyze the impact of the  Cites: Back razor: Memory-efficient transfer learning by self-sparsified

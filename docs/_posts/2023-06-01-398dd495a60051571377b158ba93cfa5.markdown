@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Weaker Than You Think: A Critical Look atWeakly Supervised Learning"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "D Zhu, X Shen, M Mosbach, A Stephan, D Klakow - arXiv preprint arXiv:2305.17442, 2023"
----
-Weakly supervised learning is a popular approach for training machine learning models in low-resource settings. Instead of requesting high-quality yet costly human annotations, it allows training models with noisy annotations obtained from various weak sources. Recently, many sophisticated approaches have been proposed for robust training under label noise, reporting impressive results. In this paper, we revisit the setup of these approaches and find that the benefits brought by these …
-Cites: ‪Cutting down on prompts and parameters: Simple few-shot …‬
+--- 
+layout: post 
+title: "Weaker Than You Think: A Critical Look atWeakly Supervised Learning" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "D Zhu, X Shen, M Mosbach, A Stephan, D Klakow - arXiv preprint arXiv:2305.17442, 2023" 
+--- 
+Weakly supervised learning is a popular approach for training machine learning models in low-resource settings. Instead of requesting high-quality yet costly human annotations, it allows training models with noisy annotations obtained from various weak sources. Recently, many sophisticated approaches have been proposed for robust training under label noise, reporting impressive results. In this paper, we revisit the setup of these approaches and find that the benefits brought by these  Cites: Cutting down on prompts and parameters: Simple few-shot

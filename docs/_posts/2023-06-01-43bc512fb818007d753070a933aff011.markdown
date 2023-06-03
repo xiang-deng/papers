@@ -1,9 +1,8 @@
----
-layout: post
-title:  "WELL: Applying Bug Detectors to Bug Localization via Weakly Supervised Learning"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Z Li, H Zhang, Z Jin, G Li - arXiv preprint arXiv:2305.17384, 2023"
----
-Bug localization is a key software development task, where a developer locates the portion of the source code that must be modified based on the bug report. It is label-intensive and time-consuming due to the increasing size and complexity of the modern software. Effectively automating this task can greatly reduce costs by cutting down the developers  effort. Researchers have already made efforts to harness the great powerfulness of deep learning (DL) to automate bug localization. However …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "WELL: Applying Bug Detectors to Bug Localization via Weakly Supervised Learning" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Z Li, H Zhang, Z Jin, G Li - arXiv preprint arXiv:2305.17384, 2023" 
+--- 
+Bug localization is a key software development task, where a developer locates the portion of the source code that must be modified based on the bug report. It is label-intensive and time-consuming due to the increasing size and complexity of the modern software. Effectively automating this task can greatly reduce costs by cutting down the developers effort. Researchers have already made efforts to harness the great powerfulness of deep learning (DL) to automate bug localization. However  Cites: Codexglue: A machine learning benchmark dataset for code

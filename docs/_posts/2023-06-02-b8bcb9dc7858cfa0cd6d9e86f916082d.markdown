@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MixCE: Training Autoregressive Language Models by Mixing Forward and Reverse Cross-Entropies"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "S Zhang, S Wu, O Irsoy, S Lu, M Bansal, M Dredze… - arXiv preprint arXiv …, 2023"
+---
+Autoregressive language models are trained by minimizing the cross-entropy of the model distribution Q relative to the data distribution P--that is, minimizing the forward cross-entropy, which is equivalent to maximum likelihood estimation (MLE). We have …

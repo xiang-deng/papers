@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Robust Natural Language Understanding with Residual Attention Debiasing"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "F Wang, JY Huang, T Yan, W Zhou, M Chen - arXiv preprint arXiv:2305.17627, 2023"
----
-Natural language understanding (NLU) models often suffer from unintended dataset biases. Among bias mitigation methods, ensemble-based debiasing methods, especially product-of-experts (PoE), have stood out for their impressive empirical success. However, previous ensemble-based debiasing methods typically apply debiasing on top-level logits without directly addressing biased attention patterns. Attention serves as the main media of feature interaction and aggregation in PLMs …
-Cites: ‪Competency Problems: On Finding and Removing Artifacts in …‬
+--- 
+layout: post 
+title: "Robust Natural Language Understanding with Residual Attention Debiasing" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "F Wang, JY Huang, T Yan, W Zhou, M Chen - arXiv preprint arXiv:2305.17627, 2023" 
+--- 
+Natural language understanding (NLU) models often suffer from unintended dataset biases. Among bias mitigation methods, ensemble-based debiasing methods, especially product-of-experts (PoE), have stood out for their impressive empirical success. However, previous ensemble-based debiasing methods typically apply debiasing on top-level logits without directly addressing biased attention patterns. Attention serves as the main media of feature interaction and aggregation in PLMs  Cites: Competency Problems: On Finding and Removing Artifacts in

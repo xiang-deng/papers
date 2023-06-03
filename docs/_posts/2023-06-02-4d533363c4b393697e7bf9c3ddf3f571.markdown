@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ActiveAED: A Human in the Loop Improves Annotation Error Detection"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "L Weber, B Plank - arXiv preprint arXiv:2305.20045, 2023"
+---
+Manually annotated datasets are crucial for training and evaluating Natural Language Processing models. However, recent work has discovered that even widely-used benchmark datasets contain a substantial number of erroneous annotations. This problem has been addressed with Annotation Error Detection (AED) models, which can flag such errors for human re-annotation. However, even though many of these AED methods assume a final curation step in which a human …
+Cites: ‪Understanding Dataset Difficulty with $\mathcalV $-Usable …‬

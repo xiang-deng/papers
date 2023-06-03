@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Characterizing and Measuring Linguistic Dataset Drift"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "TA Chang, K Halder, NA John, Y Vyas, Y Benajiba… - arXiv preprint arXiv …, 2023"
----
-NLP models often degrade in performance when real world data distributions differ markedly from training data. However, existing dataset drift metrics in NLP have generally not considered specific dimensions of linguistic drift that affect model …
+--- 
+layout: post 
+title: "Characterizing and Measuring Linguistic Dataset Drift" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "TA Chang, K Halder, NA John, Y Vyas, Y Benajiba - arXiv preprint arXiv , 2023" 
+--- 
+NLP models often degrade in performance when real world data distributions differ markedly from training data. However, existing dataset drift metrics in NLP have generally not considered specific dimensions of linguistic drift that affect model

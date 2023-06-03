@@ -1,9 +1,8 @@
----
-layout: post
-title:  "QA-Matcher: Unsupervised Entity Matching Using a Question Answering Model"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "S Hayashi, Y Dong, M Oyamada - Advances in Knowledge Discovery and Data …, 2023"
----
-Entity matching (EM) is a fundamental task in data integration, which involves identifying records that refer to the same real-world entity. Unsupervised EM is often preferred in real-world applications, as labeling data is often a labor-intensive process. However, existing unsupervised methods may not always perform well because the assumptions for these methods may not hold for tasks in different domains. In this paper, we propose QA-Matcher, an unsupervised EM model that is …
-Cites: ‪A neural network for factoid question answering over paragraphs‬
+--- 
+layout: post 
+title: "QA-Matcher: Unsupervised Entity Matching Using a Question Answering Model" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "S Hayashi, Y Dong, M Oyamada - Advances in Knowledge Discovery and Data , 2023" 
+--- 
+Entity matching (EM) is a fundamental task in data integration, which involves identifying records that refer to the same real-world entity. Unsupervised EM is often preferred in real-world applications, as labeling data is often a labor-intensive process. However, existing unsupervised methods may not always perform well because the assumptions for these methods may not hold for tasks in different domains. In this paper, we propose QA-Matcher, an unsupervised EM model that is  Cites: A neural network for factoid question answering over paragraphs

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Learning Two-Layer Neural Networks, One (Giant) Step at a Time"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Y Dandi, F Krzakala, B Loureiro, L Pesce, L Stephan - arXiv preprint arXiv …, 2023"
----
-We study the training dynamics of shallow neural networks, investigating the conditions under which a limited number of large batch gradient descent steps can facilitate feature learning beyond the kernel regime. We compare the influence of batch size and that of multiple (but finitely many) steps. Our analysis of a single-step process reveals that while a batch size of $ n= O (d) $ enables feature learning, it is only adequate for learning a single direction, or a single-index model. In contrast …
-Cites: ‪Towards understanding hierarchical learning: Benefits of neural …‬
+--- 
+layout: post 
+title: "Learning Two-Layer Neural Networks, One (Giant) Step at a Time" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Y Dandi, F Krzakala, B Loureiro, L Pesce, L Stephan - arXiv preprint arXiv , 2023" 
+--- 
+We study the training dynamics of shallow neural networks, investigating the conditions under which a limited number of large batch gradient descent steps can facilitate feature learning beyond the kernel regime. We compare the influence of batch size and that of multiple (but finitely many) steps. Our analysis of a single-step process reveals that while a batch size of $ n= O (d) $ enables feature learning, it is only adequate for learning a single direction, or a single-index model. In contrast  Cites: Towards understanding hierarchical learning: Benefits of neural

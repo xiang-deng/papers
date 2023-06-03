@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Handling Realistic Label Noise in BERT Text Classification"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "MT Agro, H Aldarmaki - arXiv preprint arXiv:2305.16337, 2023"
----
-Labels noise refers to errors in training labels caused by cheap data annotation methods, such as web scraping or crowd-sourcing, which can be detrimental to the performance of supervised classifiers. Several methods have been proposed to counteract the effect of random label noise in supervised classification, and some studies have shown that BERT is already robust against high rates of randomly injected label noise. However, real label noise is not random; rather, it is often …
-Cites: ‪Detecting Label Errors using Pre-Trained Language Models‬
+--- 
+layout: post 
+title: "Handling Realistic Label Noise in BERT Text Classification" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "MT Agro, H Aldarmaki - arXiv preprint arXiv:2305.16337, 2023" 
+--- 
+Labels noise refers to errors in training labels caused by cheap data annotation methods, such as web scraping or crowd-sourcing, which can be detrimental to the performance of supervised classifiers. Several methods have been proposed to counteract the effect of random label noise in supervised classification, and some studies have shown that BERT is already robust against high rates of randomly injected label noise. However, real label noise is not random; rather, it is often  Cites: Detecting Label Errors using Pre-Trained Language Models

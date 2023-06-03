@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "BLEU Meets COMET: Combining Lexical and Neural Metrics Towards Robust Machine Translation Evaluation"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "T Glushkova, C Zerva, AFT Martins - arXiv preprint arXiv:2305.19144, 2023"
+---
+Although neural-based machine translation evaluation metrics, such as COMET or BLEURT, have achieved strong correlations with human judgements, they are sometimes unreliable in detecting certain phenomena that can be considered as critical errors, such as deviations in entities and numbers. In contrast, traditional evaluation metrics, such as BLEU or chrF, which measure lexical or character overlap between translation hypotheses and human references, have lower …
+Cites: ‪DEMETR: Diagnosing Evaluation Metrics for Translation‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Controlled Text Generation with Hidden Representation Transformations"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "V Kumar, H Koorehdavoudi, M Moshtaghi, A Misra… - arXiv preprint arXiv …, 2023"
+---
+We propose CHRT (Control Hidden Representation Transformation)-a controlled language generation framework that steers large language models to generate text pertaining to certain attributes (such as toxicity). CHRT gains attribute control by modifying the hidden representation of the base model through learned transformations. We employ a contrastive-learning framework to learn these transformations that can be combined to gain multi-attribute control. The …
+Cites: ‪DExperts: Decoding-time controlled text generation with experts …‬

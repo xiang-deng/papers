@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Measuring and Predicting the Quality of a Join for Data Discovery"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "S Nadal, R Panadero, J Flores, O Romero - arXiv preprint arXiv:2305.19629, 2023"
+---
+We study the problem of discovering joinable datasets at scale. We approach the problem from a learning perspective relying on profiles. These are succinct representations that capture the underlying characteristics of the schemata and data values of datasets, which can be efficiently extracted in a distributed and parallel fashion. Profiles are then compared, to predict the quality of a join operation among a pair of attributes from different datasets. In contrast to the state-of-the-art, we define a …
+Cites: ‪The seattle report on database research‬

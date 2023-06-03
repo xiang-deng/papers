@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Attention Schema in Neural Agents"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "D Liu, S Bolotta, H Zhu, Y Bengio, G Dumas - arXiv preprint arXiv:2305.17375, 2023"
----
-Attention has become a common ingredient in deep learning architectures. It adds a dynamical selection of information on top of the static selection of information supported by weights. In the same way, we can imagine a higher-order informational filter built on top of attention: an Attention Schema (AS), namely, a descriptive and predictive model of attention. In cognitive neuroscience, Attention Schema Theory (AST) supports this idea of distinguishing attention from AS. A strong prediction of …
-Cites: ‪Opponent modeling in deep reinforcement learning‬
+--- 
+layout: post 
+title: "Attention Schema in Neural Agents" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "D Liu, S Bolotta, H Zhu, Y Bengio, G Dumas - arXiv preprint arXiv:2305.17375, 2023" 
+--- 
+Attention has become a common ingredient in deep learning architectures. It adds a dynamical selection of information on top of the static selection of information supported by weights. In the same way, we can imagine a higher-order informational filter built on top of attention: an Attention Schema (AS), namely, a descriptive and predictive model of attention. In cognitive neuroscience, Attention Schema Theory (AST) supports this idea of distinguishing attention from AS. A strong prediction of  Cites: Opponent modeling in deep reinforcement learning

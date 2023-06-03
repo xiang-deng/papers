@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tuning Models of Code with Compiler-Generated Reinforcement Learning Feedback"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "A Jain, C Adiole, S Chaudhuri, T Reps, C Jermaine - arXiv preprint arXiv:2305.18341, 2023"
+---
+Large Language Models (LLMs) pre-trained on code have recently emerged as the dominant approach to program synthesis. However, the code that these models produce can violate basic language-level invariants, leading to lower performance in downstream tasks. We address this issue through an approach, called RLCF, that further trains a pre-trained LLM using feedback from a code compiler. RLCF views the LLM as an RL agent that generates code step by step and receives:(i) compiler …
+Cites: ‪Multi-lingual Evaluation of Code Generation Models‬

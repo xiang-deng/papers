@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Automatic Neural Architecture Search within General Super-Networks"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "T Chen, L Liang, T Ding, I Zharkov - arXiv preprint arXiv:2305.18030, 2023"
----
-Existing neural architecture search (NAS) methods typically rely on pre-specified super deep neural networks (super-networks) with handcrafted search spaces beforehand. Such requirements make it challenging to extend them onto general scenarios without significant human expertise and manual intervention. To overcome the limitations, we propose the third generation of Only-Train-Once (OTOv3). OTOv3 is perhaps the first automated system that trains general super-networks and …
-Cites: ‪Theory-inspired path-regularized differential network architecture …‬
+--- 
+layout: post 
+title: "Towards Automatic Neural Architecture Search within General Super-Networks" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "T Chen, L Liang, T Ding, I Zharkov - arXiv preprint arXiv:2305.18030, 2023" 
+--- 
+Existing neural architecture search (NAS) methods typically rely on pre-specified super deep neural networks (super-networks) with handcrafted search spaces beforehand. Such requirements make it challenging to extend them onto general scenarios without significant human expertise and manual intervention. To overcome the limitations, we propose the third generation of Only-Train-Once (OTOv3). OTOv3 is perhaps the first automated system that trains general super-networks and  Cites: Theory-inspired path-regularized differential network architecture

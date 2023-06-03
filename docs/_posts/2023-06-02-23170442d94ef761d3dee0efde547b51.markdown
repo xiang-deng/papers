@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Semantic Parsing for Knowledge Graph Question Answering with Large Language Models"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "D Banerjee"
+---
+This thesis explores the topic of Knowledge Graph Question Answering with a special emphasis on semantic parsing approaches, incorporating pre-trained text-to-text language models. We use the text generation ability of these models to convert natural language questions to logical forms. We test whether correct logical forms are being generated, and if not, how to mitigate the failure cases. As a second step, we try to make the same models generate additional information to aid the process of …
+Cites: ‪The web as a knowledge-base for answering complex questions‬

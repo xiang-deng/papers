@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Better Entity Linking with Multi-View Enhanced Distillation"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Y Liu, Y Tian, J Lian, X Wang, Y Cao, F Fang, W Zhang… - arXiv preprint arXiv …, 2023"
----
-Dense retrieval is widely used for entity linking to retrieve entities from large-scale knowledge bases. Mainstream techniques are based on a dual-encoder framework, which encodes mentions and entities independently and calculates their relevances via rough interaction metrics, resulting in difficulty in explicitly modeling multiple mention-relevant parts within entities to match divergent mentions. Aiming at learning entity representations that can match divergent mentions, this paper proposes a Multi …
-Cites: ‪Zero-Shot Entity Linking by Reading Entity Descriptions‬
+--- 
+layout: post 
+title: "Towards Better Entity Linking with Multi-View Enhanced Distillation" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Y Liu, Y Tian, J Lian, X Wang, Y Cao, F Fang, W Zhang - arXiv preprint arXiv , 2023" 
+--- 
+Dense retrieval is widely used for entity linking to retrieve entities from large-scale knowledge bases. Mainstream techniques are based on a dual-encoder framework, which encodes mentions and entities independently and calculates their relevances via rough interaction metrics, resulting in difficulty in explicitly modeling multiple mention-relevant parts within entities to match divergent mentions. Aiming at learning entity representations that can match divergent mentions, this paper proposes a Multi  Cites: Zero-Shot Entity Linking by Reading Entity Descriptions

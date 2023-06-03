@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DyGen: Learning from Noisy Labels via Dynamics-Enhanced Generative Modeling"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "Y Zhuang, Y Yu, L Kong, X Chen, C Zhang - arXiv preprint arXiv:2305.19395, 2023"
+---
+Learning from noisy labels is a challenge that arises in many real-world applications where training data can contain incorrect or corrupted labels. When fine-tuning language models with noisy labels, models can easily overfit the label noise, leading to decreased performance. Most existing methods for learning from noisy labels use static input features for denoising, but these methods are limited by the information they can provide on true label distributions and can result in biased or incorrect …
+Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬

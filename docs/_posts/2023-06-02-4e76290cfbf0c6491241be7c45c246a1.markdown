@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How to Plant Trees in Language Models: Data and Architectural Effects on the Emergence of Syntactic Inductive Biases"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "A Mueller, T Linzen - arXiv preprint arXiv:2305.19905, 2023"
+---
+Accurate syntactic representations are essential for robust generalization in natural language. Recent work has found that pre-training can teach language models to rely on hierarchical syntactic features-as opposed to incorrect linear features-when performing tasks after fine-tuning. We test what aspects of pre-training are important for endowing encoder-decoder Transformers with an inductive bias that favors hierarchical syntactic generalizations. We focus on architectural features (depth …
+Cites: ‪Characterizing Intrinsic Compositionality In Transformers With Tree …‬

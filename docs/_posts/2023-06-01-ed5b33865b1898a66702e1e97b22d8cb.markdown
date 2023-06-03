@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Kernel-SSL: Kernel KL Divergence for Self-supervised Learning"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Y Zhang, Z Tan, J Yang, Y Yuan - arXiv preprint arXiv:2305.17326, 2023"
----
-Contrastive learning usually compares one positive anchor sample with lots of negative samples to perform Self-Supervised Learning (SSL). Alternatively, non-contrastive learning, as exemplified by methods like BYOL, SimSiam, and Barlow Twins, accomplishes SSL without the explicit use of negative samples. Inspired by the existing analysis for contrastive learning, we provide a reproducing kernel Hilbert space (RKHS) understanding of many existing non-contrastive learning methods …
-Cites: ‪Improving self-supervised learning by characterizing idealized …‬
+--- 
+layout: post 
+title: "Kernel-SSL: Kernel KL Divergence for Self-supervised Learning" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Y Zhang, Z Tan, J Yang, Y Yuan - arXiv preprint arXiv:2305.17326, 2023" 
+--- 
+Contrastive learning usually compares one positive anchor sample with lots of negative samples to perform Self-Supervised Learning (SSL). Alternatively, non-contrastive learning, as exemplified by methods like BYOL, SimSiam, and Barlow Twins, accomplishes SSL without the explicit use of negative samples. Inspired by the existing analysis for contrastive learning, we provide a reproducing kernel Hilbert space (RKHS) understanding of many existing non-contrastive learning methods  Cites: Improving self-supervised learning by characterizing idealized

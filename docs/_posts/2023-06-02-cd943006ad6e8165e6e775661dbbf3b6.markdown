@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Accelerating Reinforcement Learning with Value-Conditional State Entropy Exploration"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "D Kim, J Shin, P Abbeel, Y Seo - arXiv preprint arXiv:2305.19476, 2023"
+---
+A promising technique for exploration is to maximize the entropy of visited state distribution, ie, state entropy, by encouraging uniform coverage of visited state space. While it has been effective for an unsupervised setup, it tends to struggle in a supervised setup with a task reward, where an agent prefers to visit high-value states to exploit the task reward. Such a preference can cause an imbalance between the distributions of high-value states and low-value states, which biases exploration …
+Cites: ‪Decoupled exploration and exploitation policies for sample …‬

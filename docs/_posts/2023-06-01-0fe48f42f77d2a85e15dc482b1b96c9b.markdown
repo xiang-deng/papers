@@ -1,9 +1,8 @@
----
-layout: post
-title:  "NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "K Mei, Z Li, Z Wang, Y Zhang, S Ma - arXiv preprint arXiv:2305.17826, 2023"
----
-Prompt-based learning is vulnerable to backdoor attacks. Existing backdoor attacks against prompt-based models consider injecting backdoors into the entire embedding layers or word embedding vectors. Such attacks can be easily affected by retraining on downstream tasks and with different prompting strategies, limiting the transferability of backdoor attacks. In this work, we propose transferable backdoor attacks against prompt-based models, called NOTABLE, which is independent of …
-Cites: ‪Red alarm for pre-trained models: Universal vulnerability to neuron …‬
+--- 
+layout: post 
+title: "NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "K Mei, Z Li, Z Wang, Y Zhang, S Ma - arXiv preprint arXiv:2305.17826, 2023" 
+--- 
+Prompt-based learning is vulnerable to backdoor attacks. Existing backdoor attacks against prompt-based models consider injecting backdoors into the entire embedding layers or word embedding vectors. Such attacks can be easily affected by retraining on downstream tasks and with different prompting strategies, limiting the transferability of backdoor attacks. In this work, we propose transferable backdoor attacks against prompt-based models, called NOTABLE, which is independent of  Cites: Red alarm for pre-trained models: Universal vulnerability to neuron

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Grammar Prompting for Domain-Specific Language Generation with Large Language Models"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "B Wang, Z Wang, X Wang, Y Cao, RA Saurous, Y Kim - arXiv preprint arXiv …, 2023"
+---
+Large language models (LLMs) can learn to perform a wide range of natural language tasks from just a handful of in-context examples. However, for generating strings from highly structured languages (eg, semantic parsing to complex domain-specific languages), it is challenging for the LLM to generalize from just a few exemplars. We explore $\textbf {grammar prompting} $ as a simple approach for enabling LLMs to use external knowledge and domain-specific constraints …
+Cites: ‪Toolformer: Language models can teach themselves to use tools‬

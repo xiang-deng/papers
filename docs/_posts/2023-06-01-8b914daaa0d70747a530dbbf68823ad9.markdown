@@ -1,9 +1,8 @@
----
-layout: post
-title:  "More than Classification: A Unified Framework for Event Temporal Relation Extraction"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Q Huang, Y Hu, S Zhu, Y Feng, C Liu, D Zhao - arXiv preprint arXiv:2305.17607, 2023"
----
-Event temporal relation extraction~(ETRE) is usually formulated as a multi-label classification task, where each type of relation is simply treated as a one-hot label. This formulation ignores the meaning of relations and wipes out their intrinsic dependency. After examining the relation definitions in various ETRE tasks, we observe that all relations can be interpreted using the start and end time points of events. For example, relation\textit {Includes} could be interpreted as event 1 starting …
-Cites: ‪MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference …‬
+--- 
+layout: post 
+title: "More than Classification: A Unified Framework for Event Temporal Relation Extraction" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Q Huang, Y Hu, S Zhu, Y Feng, C Liu, D Zhao - arXiv preprint arXiv:2305.17607, 2023" 
+--- 
+Event temporal relation extraction~(ETRE) is usually formulated as a multi-label classification task, where each type of relation is simply treated as a one-hot label. This formulation ignores the meaning of relations and wipes out their intrinsic dependency. After examining the relation definitions in various ETRE tasks, we observe that all relations can be interpreted using the start and end time points of events. For example, relation\textit {Includes} could be interpreted as event 1 starting  Cites: MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Backdooring Neural Code Search"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "W Sun, Y Chen, G Tao, C Fang, X Zhang, Q Zhang… - arXiv preprint arXiv …, 2023"
----
-Reusing off-the-shelf code snippets from online repositories is a common practice, which significantly enhances the productivity of software developers. To find desired code snippets, developers resort to code search engines through natural language queries. Neural code search models are hence behind many such engines. These models are based on deep learning and gain substantial attention due to their impressive performance. However, the security aspect of these models is rarely …
-Cites: ‪Turn the combination lock: Learnable textual backdoor attacks via …‬
+--- 
+layout: post 
+title: "Backdooring Neural Code Search" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "W Sun, Y Chen, G Tao, C Fang, X Zhang, Q Zhang - arXiv preprint arXiv , 2023" 
+--- 
+Reusing off-the-shelf code snippets from online repositories is a common practice, which significantly enhances the productivity of software developers. To find desired code snippets, developers resort to code search engines through natural language queries. Neural code search models are hence behind many such engines. These models are based on deep learning and gain substantial attention due to their impressive performance. However, the security aspect of these models is rarely  Cites: Turn the combination lock: Learnable textual backdoor attacks via

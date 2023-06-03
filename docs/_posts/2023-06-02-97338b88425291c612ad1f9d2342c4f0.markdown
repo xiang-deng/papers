@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exploring Lottery Prompts for Pre-trained Language Models"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "Y Chen, N Ding, X Wang, S Hu, HT Zheng, Z Liu, P Xie - arXiv preprint arXiv …, 2023"
+---
+Consistently scaling pre-trained language models (PLMs) imposes substantial burdens on model adaptation, necessitating more efficient alternatives to conventional fine-tuning. Given the advantage of prompting in the zero-shot setting and the observed performance fluctuation among different prompts, we explore the instance-level prompt and their generalizability. By searching through the prompt space, we first validate the assumption that for every instance, there is almost always …
+Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬

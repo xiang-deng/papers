@@ -1,9 +1,0 @@
----
-layout: post
-title:  "多注意力机制的文本摘要事实一致性评估模型."
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "魏楚元， 张鑫贤， 王致远， 李金哲， 刘杰 - Journal of Computer Engineering & …, 2023"
----
-文本摘要事实一致性是摘要内容与源文档内容的信息一致. 最近的研究表明, 文本摘要模型生成的摘要存在较多与原文事实不一致的问题, 设计能够检测并评估出事实不一致错误的方法至关重要. 目前基于自然语言推理的方法存在对源文档内容提取简单, 推理信息交互不充分等问题. 提出多注意力机制的文本摘要事实一致性评估模型, 利用预训练模型微调的sentence-BERT 模型挑选源文档中的关键句, 然后将摘要句与关键句组合成句子对, 输入BERT 模型编码获得向量表示结合ESIM …
-Cites: ‪Open information extraction from the web‬

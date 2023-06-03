@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "J Bai, X Liu, W Wang, C Luo, Y Song - arXiv preprint arXiv:2305.19068, 2023"
+---
+Querying incomplete knowledge graphs (KGs) using deep learning approaches can naturally leverage the reasoning and generalization ability to learn to infer better answers. Traditional neural complex query answering (CQA) approaches mostly work on entity-centric KGs. However, in the real world, we also need to make logical inferences about events, states, and activities (ie, eventualities or situations) to push learning systems from System I to System II, as proposed by Yoshua Bengio …
+Cites: ‪Learning reasoning strategies in end-to-end differentiable proving‬

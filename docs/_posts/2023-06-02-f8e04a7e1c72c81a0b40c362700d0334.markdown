@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mitigating Label Biases for In-context Learning"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "Y Fei, Y Hou, Z Chen, A Bosselut - arXiv preprint arXiv:2305.19148, 2023"
+---
+Various design settings for in-context learning (ICL), such as the choice and order of the in-context examples, can bias the model s predictions. While many studies discuss these design choices, there have been few systematic investigations into categorizing them and mitigating their impact. In this work, we define a typology for three types of label biases in ICL for text classification: vanilla-label bias, context-label bias, and domain-label bias (which we conceptualize and detect for the first …
+Cites: ‪Rethinking the Role of Demonstrations: What Makes In-Context …‬

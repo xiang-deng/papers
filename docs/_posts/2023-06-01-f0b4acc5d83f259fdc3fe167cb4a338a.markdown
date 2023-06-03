@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Plug-and-play knowledge injection for pre-trained language models"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "Z Zhang, Z Zeng, Y Lin, H Wang, D Ye, C Xiao, X Han… - arXiv preprint arXiv …, 2023"
----
-Injecting external knowledge can improve the performance of pre-trained language models (PLMs) on various downstream NLP tasks. However, massive retraining is required to deploy new knowledge injection methods or knowledge bases for downstream tasks. In this work, we are the first to study how to improve the flexibility and efficiency of knowledge injection by reusing existing downstream models. To this end, we explore a new paradigm plug-and-play knowledge injection, where …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Plug-and-play knowledge injection for pre-trained language models" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "Z Zhang, Z Zeng, Y Lin, H Wang, D Ye, C Xiao, X Han - arXiv preprint arXiv , 2023" 
+--- 
+Injecting external knowledge can improve the performance of pre-trained language models (PLMs) on various downstream NLP tasks. However, massive retraining is required to deploy new knowledge injection methods or knowledge bases for downstream tasks. In this work, we are the first to study how to improve the flexibility and efficiency of knowledge injection by reusing existing downstream models. To this end, we explore a new paradigm plug-and-play knowledge injection, where  Cites: Bert: Pre-training of deep bidirectional transformers for language

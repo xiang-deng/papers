@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "When Does Optimizing a Proper Loss Yield Calibration?"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "J Błasiok, P Gopalan, L Hu, P Nakkiran - arXiv preprint arXiv:2305.18764, 2023"
+---
+Optimizing proper loss functions is popularly believed to yield predictors with good calibration properties; the intuition being that for such losses, the global optimum is to predict the ground-truth probabilities, which is indeed calibrated. However, typical machine learning models are trained to approximately minimize loss over restricted families of predictors, that are unlikely to contain the ground truth. Under what circumstances does optimizing proper loss over a restricted family yield calibrated …
+Cites: ‪Calibration of Pre-trained Transformers‬

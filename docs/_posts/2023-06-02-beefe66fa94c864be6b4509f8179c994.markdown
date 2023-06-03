@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Optimisation of Link Traversal Query Processing over Distributed Linked Data through Adaptive Techniques"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "J Hanski"
+---
+An increasing amount of distributed Linked Data is being made available at different locations, with varying formats, structures, interfaces and availability. Making use of that data through declarative query languages such as SPARQL requires query engines capable of executing queries over it. Efficiently executing queries over the data requires efficient query plans, yet prior access to the information for producing such plans may not be possible due to the distributed and dynamic nature of the …
+Cites: ‪Adapting to source properties in processing data integration queries‬

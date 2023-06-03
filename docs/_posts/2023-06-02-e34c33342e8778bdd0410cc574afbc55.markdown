@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Graph Reasoning for Question Answering with Triplet Retrieval"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "S Li, Y Gao, H Jiang, Q Yin, Z Li, X Yan, C Zhang, B Yin - arXiv preprint arXiv …, 2023"
+---
+Answering complex questions often requires reasoning over knowledge graphs (KGs). State-of-the-art methods often utilize entities in questions to retrieve local subgraphs, which are then fed into KG encoder, eg graph neural networks (GNNs), to model their local structures and integrated into language models for question answering. However, this paradigm constrains retrieved knowledge in local subgraphs and discards more diverse triplets buried in KGs that are disconnected …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬

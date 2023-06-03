@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain Aligned Prefix Averaging for Domain Generalization in Abstractive Summarization"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "PA Nair, S Pal, P Verm - arXiv preprint arXiv:2305.16820, 2023"
----
-Domain generalization is hitherto an underexplored area applied in abstractive summarization. Moreover, most existing works on domain generalization have sophisticated training algorithms. In this paper, we propose a lightweight, weight averaging based, Domain Aligned Prefix Averaging approach to domain generalization for abstractive summarization. Given a number of source domains, our method first trains a prefix for each one of them. These source prefixes generate …
-Cites: ‪Meta-learning for domain generalization in semantic parsing‬
+--- 
+layout: post 
+title: "Domain Aligned Prefix Averaging for Domain Generalization in Abstractive Summarization" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "PA Nair, S Pal, P Verm - arXiv preprint arXiv:2305.16820, 2023" 
+--- 
+Domain generalization is hitherto an underexplored area applied in abstractive summarization. Moreover, most existing works on domain generalization have sophisticated training algorithms. In this paper, we propose a lightweight, weight averaging based, Domain Aligned Prefix Averaging approach to domain generalization for abstractive summarization. Given a number of source domains, our method first trains a prefix for each one of them. These source prefixes generate  Cites: Meta-learning for domain generalization in semantic parsing

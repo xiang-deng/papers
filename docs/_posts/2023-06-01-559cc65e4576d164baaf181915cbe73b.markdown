@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Reason to explain: Interactive contrastive explanations (REASONX)"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "L State, S Ruggieri, F Turini - arXiv preprint arXiv:2305.18143, 2023"
----
-Many high-performing machine learning models are not interpretable. As they are increasingly used in decision scenarios that can critically affect individuals, it is necessary to develop tools to better understand their outputs. Popular explanation methods include contrastive explanations. However, they suffer several shortcomings, among others an insufficient incorporation of background knowledge, and a lack of interactivity. While (dialogue-like) interactivity is important to better …
-Cites: ‪Polyjuice: Generating counterfactuals for explaining, evaluating …‬
+--- 
+layout: post 
+title: "Reason to explain: Interactive contrastive explanations (REASONX)" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "L State, S Ruggieri, F Turini - arXiv preprint arXiv:2305.18143, 2023" 
+--- 
+Many high-performing machine learning models are not interpretable. As they are increasingly used in decision scenarios that can critically affect individuals, it is necessary to develop tools to better understand their outputs. Popular explanation methods include contrastive explanations. However, they suffer several shortcomings, among others an insufficient incorporation of background knowledge, and a lack of interactivity. While (dialogue-like) interactivity is important to better  Cites: Polyjuice: Generating counterfactuals for explaining, evaluating

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Training Socially Aligned Language Models in Simulated Human Society"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "R Liu, R Yang, C Jia, G Zhang, D Zhou, AM Dai… - arXiv preprint arXiv …, 2023"
----
-Social alignment in AI systems aims to ensure that these models behave according to established societal values. However, unlike humans, who derive consensus on value judgments through social interaction, current language models (LMs) are trained to rigidly replicate their training corpus in isolation, leading to subpar generalization in unfamiliar scenarios and vulnerability to adversarial attacks. This work presents a novel training paradigm that permits LMs to learn from simulated …
-Cites: ‪Pile of Law: Learning Responsible Data Filtering from the Law and …‬
+--- 
+layout: post 
+title: "Training Socially Aligned Language Models in Simulated Human Society" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "R Liu, R Yang, C Jia, G Zhang, D Zhou, AM Dai - arXiv preprint arXiv , 2023" 
+--- 
+Social alignment in AI systems aims to ensure that these models behave according to established societal values. However, unlike humans, who derive consensus on value judgments through social interaction, current language models (LMs) are trained to rigidly replicate their training corpus in isolation, leading to subpar generalization in unfamiliar scenarios and vulnerability to adversarial attacks. This work presents a novel training paradigm that permits LMs to learn from simulated  Cites: Pile of Law: Learning Responsible Data Filtering from the Law and

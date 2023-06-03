@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improved Instruction Ordering in Recipe-Grounded Conversation"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "DM Le, R Guo, W Xu, A Ritter - arXiv preprint arXiv:2305.17280, 2023"
----
-In this paper, we study the task of instructional dialogue and focus on the cooking domain. Analyzing the generated output of the GPT-J model, we reveal that the primary challenge for a recipe-grounded dialog system is how to provide the instructions in the correct order. We hypothesize that this is due to the model s lack of understanding of user intent and inability to track the instruction state (ie, which step was last instructed). Therefore, we propose to explore two auxiliary subtasks, namely …
-Cites: ‪QuAC: Question Answering in Context‬
+--- 
+layout: post 
+title: "Improved Instruction Ordering in Recipe-Grounded Conversation" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "DM Le, R Guo, W Xu, A Ritter - arXiv preprint arXiv:2305.17280, 2023" 
+--- 
+In this paper, we study the task of instructional dialogue and focus on the cooking domain. Analyzing the generated output of the GPT-J model, we reveal that the primary challenge for a recipe-grounded dialog system is how to provide the instructions in the correct order. We hypothesize that this is due to the model s lack of understanding of user intent and inability to track the instruction state (ie, which step was last instructed). Therefore, we propose to explore two auxiliary subtasks, namely  Cites: QuAC: Question Answering in Context

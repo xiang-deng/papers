@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving semantic coverage of data-to-text generation model using dynamic memory networks"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "E Seifossadat, H Sameti - Natural Language Engineering, 2023"
+---
+This paper proposes a sequence-to-sequence model for data-to-text generation, called DM-NLG, to generate a natural language text from structured nonlinguistic input. Specifically, by adding a dynamic memory module to the attention-based sequence-to-sequence model, it can store the information that leads to generate previous output words and use it to generate the next word. In this way, the decoder part of the model is aware of all previous decisions, and as a result, the generation of …
+Cites: ‪Ask me anything: Dynamic memory networks for natural language …‬

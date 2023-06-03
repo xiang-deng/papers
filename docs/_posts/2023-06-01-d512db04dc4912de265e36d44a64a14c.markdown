@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Entailment as Robust Self-Learner"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "J Ge, H Luo, Y Kim, J Glass - arXiv preprint arXiv:2305.17197, 2023"
----
-Entailment has been recognized as an important metric for evaluating natural language understanding (NLU) models, and recent studies have found that entailment pretraining benefits weakly supervised fine-tuning. In this work, we design a prompting strategy that formulates a number of different NLU tasks as contextual entailment. This approach improves the zero-shot adaptation of pretrained entailment models. Secondly, we notice that self-training entailment-based models …
-Cites: ‪Ppt: Pre-trained prompt tuning for few-shot learning‬
+--- 
+layout: post 
+title: "Entailment as Robust Self-Learner" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "J Ge, H Luo, Y Kim, J Glass - arXiv preprint arXiv:2305.17197, 2023" 
+--- 
+Entailment has been recognized as an important metric for evaluating natural language understanding (NLU) models, and recent studies have found that entailment pretraining benefits weakly supervised fine-tuning. In this work, we design a prompting strategy that formulates a number of different NLU tasks as contextual entailment. This approach improves the zero-shot adaptation of pretrained entailment models. Secondly, we notice that self-training entailment-based models  Cites: Ppt: Pre-trained prompt tuning for few-shot learning

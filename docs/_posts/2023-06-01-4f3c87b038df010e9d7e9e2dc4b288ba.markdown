@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Controlling Learned Effects to Reduce Spurious Correlations in Text Classifiers"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "P Bansal, A Sharma - arXiv preprint arXiv:2305.16863, 2023"
----
-To address the problem of NLP classifiers learning spurious correlations between training features and target labels, a common approach is to make the model s predictions invariant to these features. However, this can be counter-productive when the features have a non-zero causal effect on the target label and thus are important for prediction. Therefore, using methods from the causal inference literature, we propose an algorithm to regularize the learnt effect of the features on …
-Cites: ‪Polyjuice: Generating Counterfactuals for Explaining, Evaluating …‬
+--- 
+layout: post 
+title: "Controlling Learned Effects to Reduce Spurious Correlations in Text Classifiers" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "P Bansal, A Sharma - arXiv preprint arXiv:2305.16863, 2023" 
+--- 
+To address the problem of NLP classifiers learning spurious correlations between training features and target labels, a common approach is to make the model s predictions invariant to these features. However, this can be counter-productive when the features have a non-zero causal effect on the target label and thus are important for prediction. Therefore, using methods from the causal inference literature, we propose an algorithm to regularize the learnt effect of the features on  Cites: Polyjuice: Generating Counterfactuals for Explaining, Evaluating

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How Effective Are Neural Networks for Fixing Security Vulnerabilities"
+date:   2023-06-02 15:36:55 -0400
+categories: jekyll update
+author: "Y Wu, N Jiang, HV Pham, T Lutellier, J Davis, L Tan… - arXiv preprint arXiv …, 2023"
+---
+Security vulnerability repair is a difficult task that is in dire need of automation. Two groups of techniques have shown promise:(1) large code language models (LLMs) that have been pre-trained on source code for tasks such as code completion, and (2) automated program repair (APR) techniques that use deep learning (DL) models to automatically fix software bugs. This paper is the first to study and compare Java vulnerability repair capabilities of LLMs and DL-based APR models. The …
+Cites: ‪Incoder: A generative model for code infilling and synthesis‬

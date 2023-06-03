@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Type Prediction With Program Decomposition and Fill-in-the-Type Training"
-date:   2023-06-01 02:05:49 -0400
-categories: jekyll update
-author: "F Cassano, MH Yee, N Shinn, A Guha, S Holtzen - arXiv preprint arXiv:2305.17145, 2023"
----
-TypeScript and Python are two programming languages that support optional type annotations, which are useful but tedious to introduce and maintain. This has motivated automated type prediction: given an untyped program, produce a well-typed output program. Large language models (LLMs) are promising for type prediction, but there are challenges: fill-in-the-middle performs poorly, programs may not fit into the context window, generated types may not type check, and it is difficult …
-Cites: ‪Lambdanet: Probabilistic type inference using graph neural networks‬
+--- 
+layout: post 
+title: "Type Prediction With Program Decomposition and Fill-in-the-Type Training" 
+date: 2023-06-01 02:05:49 -0400 
+categories: jekyll update 
+author: "F Cassano, MH Yee, N Shinn, A Guha, S Holtzen - arXiv preprint arXiv:2305.17145, 2023" 
+--- 
+TypeScript and Python are two programming languages that support optional type annotations, which are useful but tedious to introduce and maintain. This has motivated automated type prediction: given an untyped program, produce a well-typed output program. Large language models (LLMs) are promising for type prediction, but there are challenges: fill-in-the-middle performs poorly, programs may not fit into the context window, generated types may not type check, and it is difficult  Cites: Lambdanet: Probabilistic type inference using graph neural networks
