@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fighting Bias with Bias: Promoting Model Robustness by Amplifying Dataset Biases"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "Y Reif, R Schwartz - arXiv preprint arXiv:2305.18917, 2023"
----
-NLP models often rely on superficial cues known as dataset biases to achieve impressive performance, and can fail on examples where these biases do not hold. Recent work sought to develop robust, unbiased models by filtering biased examples from training sets. In this work, we argue that such filtering can obscure the true capabilities of models to overcome biases, which might never be removed in full from the dataset. We suggest that in order to drive the development of models robust to …
-Cites: ‪Dataset cartography: Mapping and diagnosing datasets with …‬
+--- 
+layout: post 
+title: "Fighting Bias with Bias: Promoting Model Robustness by Amplifying Dataset Biases" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "Y Reif, R Schwartz - arXiv preprint arXiv:2305.18917, 2023" 
+--- 
+NLP models often rely on superficial cues known as dataset biases to achieve impressive performance, and can fail on examples where these biases do not hold. Recent work sought to develop robust, unbiased models by filtering biased examples from training sets. In this work, we argue that such filtering can obscure the true capabilities of models to overcome biases, which might never be removed in full from the dataset. We suggest that in order to drive the development of models robust to  Cites: Dataset cartography: Mapping and diagnosing datasets with

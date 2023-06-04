@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "U Gupta, A Galstyan, GV Steeg - arXiv preprint arXiv:2305.19264, 2023"
----
-Efficient finetuning of pretrained language transformers is becoming increasingly prevalent for solving natural language processing tasks. While effective, it can still require a large number of tunable parameters. This can be a drawback for low-resource applications and training with differential-privacy constraints, where excessive noise may be introduced during finetuning. To this end, we propose a novel language transformer finetuning strategy that introduces task-specific …
-Cites: ‪AdapterFusion: Non-destructive task composition for transfer learning‬
+--- 
+layout: post 
+title: "Jointly Reparametrized Multi-Layer Adaptation for Efficient and Private Tuning" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "U Gupta, A Galstyan, GV Steeg - arXiv preprint arXiv:2305.19264, 2023" 
+--- 
+Efficient finetuning of pretrained language transformers is becoming increasingly prevalent for solving natural language processing tasks. While effective, it can still require a large number of tunable parameters. This can be a drawback for low-resource applications and training with differential-privacy constraints, where excessive noise may be introduced during finetuning. To this end, we propose a novel language transformer finetuning strategy that introduces task-specific  Cites: AdapterFusion: Non-destructive task composition for transfer learning

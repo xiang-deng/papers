@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "M Kang, S Lee, J Baek, K Kawaguchi, SJ Hwang - arXiv preprint arXiv:2305.18395, 2023"
----
-Large Language Models (LLMs) have shown promising performance in knowledge-intensive reasoning tasks that require a compound understanding of knowledge. However, deployment of the LLMs in real-world applications can be challenging due to their high computational requirements and concerns on data privacy. Previous studies have focused on building task-specific small language models (LMs) by fine-tuning them with labeled data or distilling LLMs. However, these approaches are ill …
-Cites: ‪Did Aristotle Use a Laptop? A Question Answering Benchmark with …‬
+--- 
+layout: post 
+title: "Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "M Kang, S Lee, J Baek, K Kawaguchi, SJ Hwang - arXiv preprint arXiv:2305.18395, 2023" 
+--- 
+Large Language Models (LLMs) have shown promising performance in knowledge-intensive reasoning tasks that require a compound understanding of knowledge. However, deployment of the LLMs in real-world applications can be challenging due to their high computational requirements and concerns on data privacy. Previous studies have focused on building task-specific small language models (LMs) by fine-tuning them with labeled data or distilling LLMs. However, these approaches are ill  Cites: Did Aristotle Use a Laptop? A Question Answering Benchmark with

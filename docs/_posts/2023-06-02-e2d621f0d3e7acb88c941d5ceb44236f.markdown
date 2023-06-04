@@ -1,9 +1,8 @@
----
-layout: post
-title:  "REFinD: Relation Extraction Financial Dataset"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "S Kaur, C Smiley, A Gupta, J Sain, D Wang… - arXiv preprint arXiv …, 2023"
----
-A number of datasets for Relation Extraction (RE) have been created to aide downstream tasks such as information retrieval, semantic search, question answering and textual entailment. However, these datasets fail to capture financial-domain specific challenges since most of these datasets are compiled using general knowledge sources such as Wikipedia, web-based text and news articles, hindering real-life progress and adoption within the financial world. To address this limitation …
-Cites: ‪MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference …‬
+--- 
+layout: post 
+title: "REFinD: Relation Extraction Financial Dataset" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "S Kaur, C Smiley, A Gupta, J Sain, D Wang - arXiv preprint arXiv , 2023" 
+--- 
+A number of datasets for Relation Extraction (RE) have been created to aide downstream tasks such as information retrieval, semantic search, question answering and textual entailment. However, these datasets fail to capture financial-domain specific challenges since most of these datasets are compiled using general knowledge sources such as Wikipedia, web-based text and news articles, hindering real-life progress and adoption within the financial world. To address this limitation  Cites: MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference

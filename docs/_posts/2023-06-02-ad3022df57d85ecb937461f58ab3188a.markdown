@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Feature-Learning Networks Are Consistent Across Widths At Realistic Scales"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "N Vyas, A Atanasov, B Bordelon, D Morwani… - arXiv preprint arXiv …, 2023"
----
-We study the effect of width on the dynamics of feature-learning neural networks across a variety of architectures and datasets. Early in training, wide neural networks trained on online data have not only identical loss curves but also agree in their point-wise test predictions throughout training. For simple tasks such as CIFAR-5m this holds throughout training for networks of realistic widths. We also show that structural properties of the models, including internal representations, preactivation …
-Cites: ‪Emergent abilities of large language models‬
+--- 
+layout: post 
+title: "Feature-Learning Networks Are Consistent Across Widths At Realistic Scales" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "N Vyas, A Atanasov, B Bordelon, D Morwani - arXiv preprint arXiv , 2023" 
+--- 
+We study the effect of width on the dynamics of feature-learning neural networks across a variety of architectures and datasets. Early in training, wide neural networks trained on online data have not only identical loss curves but also agree in their point-wise test predictions throughout training. For simple tasks such as CIFAR-5m this holds throughout training for networks of realistic widths. We also show that structural properties of the models, including internal representations, preactivation  Cites: Emergent abilities of large language models

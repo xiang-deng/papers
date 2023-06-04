@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Representer Point Selection for Explaining Regularized High-dimensional Models"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "CP Tsai, J Zhang, E Chien, HF Yu, CJ Hsieh… - arXiv preprint arXiv …, 2023"
----
-We introduce a novel class of sample-based explanations we term high-dimensional representers, that can be used to explain the predictions of a regularized high-dimensional model in terms of importance weights for each of the training samples. Our workhorse is a novel representer theorem for general regularized high-dimensional models, which decomposes the model prediction in terms of contributions from each of the training samples: with positive (negative) values …
-Cites: ‪FastIF: Scalable Influence Functions for Efficient Model …‬
+--- 
+layout: post 
+title: "Representer Point Selection for Explaining Regularized High-dimensional Models" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "CP Tsai, J Zhang, E Chien, HF Yu, CJ Hsieh - arXiv preprint arXiv , 2023" 
+--- 
+We introduce a novel class of sample-based explanations we term high-dimensional representers, that can be used to explain the predictions of a regularized high-dimensional model in terms of importance weights for each of the training samples. Our workhorse is a novel representer theorem for general regularized high-dimensional models, which decomposes the model prediction in terms of contributions from each of the training samples: with positive (negative) values  Cites: FastIF: Scalable Influence Functions for Efficient Model

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Self Information Update for Large Language Models through Mitigating Exposure Bias"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "P Yu, H Ji - arXiv preprint arXiv:2305.18582, 2023"
----
-Current LLMs have demonstrated remarkable capabilities in addressing users  requests for various types of information. However, these models are limited by the most recent data available in their pretraining corpora, rendering them incapable of providing up-to-date information. Retraining LLMs from scratch is cost-prohibitive, and the effectiveness of continual fine-tuning on new corpora has not been thoroughly examined. Additionally, current update procedures typically demand …
-Cites: ‪Do Language Models Have Beliefs? Methods for Detecting …‬
+--- 
+layout: post 
+title: "Self Information Update for Large Language Models through Mitigating Exposure Bias" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "P Yu, H Ji - arXiv preprint arXiv:2305.18582, 2023" 
+--- 
+Current LLMs have demonstrated remarkable capabilities in addressing users requests for various types of information. However, these models are limited by the most recent data available in their pretraining corpora, rendering them incapable of providing up-to-date information. Retraining LLMs from scratch is cost-prohibitive, and the effectiveness of continual fine-tuning on new corpora has not been thoroughly examined. Additionally, current update procedures typically demand  Cites: Do Language Models Have Beliefs? Methods for Detecting

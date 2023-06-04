@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Investigating the Generalizability of Deep Learning-based Clone Detectors"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "E Choi, N Fuke, Y Fujiwara, N Yoshida, K Inoue"
----
-The generalizability of Deep Learning (DL) models is a significant challenge, as poor generalizability indicates that the model has overfitted to the training data and is not able to generalize to new data. Despite numerous DL-based clone detectors emerging in recent years, their generalizability has not been thoroughly assessed. This study investigates the generalizability of three DL-based clone detectors (CCLearner, ASTNN, and CodeBERT) by comparing their detection accuracy on …
-Cites: ‪Codexglue: A machine learning benchmark dataset for code …‬
+--- 
+layout: post 
+title: "Investigating the Generalizability of Deep Learning-based Clone Detectors" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "E Choi, N Fuke, Y Fujiwara, N Yoshida, K Inoue" 
+--- 
+The generalizability of Deep Learning (DL) models is a significant challenge, as poor generalizability indicates that the model has overfitted to the training data and is not able to generalize to new data. Despite numerous DL-based clone detectors emerging in recent years, their generalizability has not been thoroughly assessed. This study investigates the generalizability of three DL-based clone detectors (CCLearner, ASTNN, and CodeBERT) by comparing their detection accuracy on  Cites: Codexglue: A machine learning benchmark dataset for code

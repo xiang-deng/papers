@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Test-Time Training on Nearest Neighbors for Large Language Models"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "M Hardt, Y Sun - arXiv preprint arXiv:2305.18466, 2023"
----
-Many recent efforts aim to augment language models with relevant information retrieved from a database at test time. We avoid the need for prompt engineering by directly fine-tuning the model on data retrieved at test time using its standard training setup. For this purpose, we build a large-scale distributed nearest neighbor index based on text embeddings of the Pile dataset. Given a query to a language model, our system retrieves the neighbors of the query and fine-tunes the model on the text …
-Cites: ‪Neuro-symbolic language modeling with automaton-augmented …‬
+--- 
+layout: post 
+title: "Test-Time Training on Nearest Neighbors for Large Language Models" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "M Hardt, Y Sun - arXiv preprint arXiv:2305.18466, 2023" 
+--- 
+Many recent efforts aim to augment language models with relevant information retrieved from a database at test time. We avoid the need for prompt engineering by directly fine-tuning the model on data retrieved at test time using its standard training setup. For this purpose, we build a large-scale distributed nearest neighbor index based on text embeddings of the Pile dataset. Given a query to a language model, our system retrieves the neighbors of the query and fine-tunes the model on the text  Cites: Neuro-symbolic language modeling with automaton-augmented

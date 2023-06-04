@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Correcting Semantic Parses with Natural Language through Dynamic Schema Encoding"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "P Glenn, PP Dakle, P Raghavan - arXiv preprint arXiv:2305.19974, 2023"
----
-In addressing the task of converting natural language to SQL queries, there are several semantic and syntactic challenges. It becomes increasingly important to understand and remedy the points of failure as the performance of semantic parsing systems improve. We explore semantic parse correction with natural language feedback, proposing a new solution built on the success of autoregressive decoders in text-to-SQL tasks. By separating the semantic and syntactic difficulties of the task …
-Cites: ‪Bridging textual and tabular data for cross-domain text-to-SQL …‬
+--- 
+layout: post 
+title: "Correcting Semantic Parses with Natural Language through Dynamic Schema Encoding" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "P Glenn, PP Dakle, P Raghavan - arXiv preprint arXiv:2305.19974, 2023" 
+--- 
+In addressing the task of converting natural language to SQL queries, there are several semantic and syntactic challenges. It becomes increasingly important to understand and remedy the points of failure as the performance of semantic parsing systems improve. We explore semantic parse correction with natural language feedback, proposing a new solution built on the success of autoregressive decoders in text-to-SQL tasks. By separating the semantic and syntactic difficulties of the task  Cites: Bridging textual and tabular data for cross-domain text-to-SQL

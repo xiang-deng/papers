@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Few-shot data-to-text generation via unified representation and multi-source learning"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "AH Li, M Shang, E Spiliopoulou, JMP Ng, Z Wang… - 2023"
----
-We present a novel approach for structured datato-text generation that addresses the limitations of existing methods that primarily focus on specific types of structured data. Our proposed method aims to improve performance in multitask training, zero-shot and few-shot scenarios by providing a unified representation that can handle various forms of structured data such as tables, knowledge graph triples, and meaning representations. We demonstrate that our proposed approach can …
-Cites: ‪Dart: Open-domain structured data record to text generation‬
+--- 
+layout: post 
+title: "Few-shot data-to-text generation via unified representation and multi-source learning" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "AH Li, M Shang, E Spiliopoulou, JMP Ng, Z Wang - 2023" 
+--- 
+We present a novel approach for structured datato-text generation that addresses the limitations of existing methods that primarily focus on specific types of structured data. Our proposed method aims to improve performance in multitask training, zero-shot and few-shot scenarios by providing a unified representation that can handle various forms of structured data such as tables, knowledge graph triples, and meaning representations. We demonstrate that our proposed approach can  Cites: Dart: Open-domain structured data record to text generation

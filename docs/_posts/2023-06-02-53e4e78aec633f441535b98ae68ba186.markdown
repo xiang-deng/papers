@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fine-grained Text Style Transfer with Diffusion-Based Language Models"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "Y Lyu, T Luo, J Shi, TC Hollon, H Lee - arXiv preprint arXiv:2305.19512, 2023"
----
-Diffusion probabilistic models have shown great success in generating high-quality images controllably, and researchers have tried to utilize this controllability into text generation domain. Previous works on diffusion-based language models have shown that they can be trained without external knowledge (such as pre-trained weights) and still achieve stable performance and controllability. In this paper, we trained a diffusion-based model on StylePTB dataset, the standard benchmark for …
-Cites: ‪Tailor: Generating and Perturbing Text with Semantic Controls‬
+--- 
+layout: post 
+title: "Fine-grained Text Style Transfer with Diffusion-Based Language Models" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "Y Lyu, T Luo, J Shi, TC Hollon, H Lee - arXiv preprint arXiv:2305.19512, 2023" 
+--- 
+Diffusion probabilistic models have shown great success in generating high-quality images controllably, and researchers have tried to utilize this controllability into text generation domain. Previous works on diffusion-based language models have shown that they can be trained without external knowledge (such as pre-trained weights) and still achieve stable performance and controllability. In this paper, we trained a diffusion-based model on StylePTB dataset, the standard benchmark for  Cites: Tailor: Generating and Perturbing Text with Semantic Controls

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "KEYword based Sampling (KEYS) for Large Language Models"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "J SV, Z Akhtar, SR Bowman - arXiv preprint arXiv:2305.18679, 2023"
----
-Question answering (Q/A) can be formulated as a generative task (Mitra, 2017) where the task is to generate an answer given the question and the passage (knowledge, if available). Recent advances in QA task is focused a lot on language model advancements and less on other areas such as sampling (Krishna et al., 2021),(Nakano et al., 2021). Keywords play very important role for humans in language generation.(Humans formulate keywords and use grammar to connect …
-Cites: ‪Hurdles to Progress in Long-form Question Answering‬
+--- 
+layout: post 
+title: "KEYword based Sampling (KEYS) for Large Language Models" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "J SV, Z Akhtar, SR Bowman - arXiv preprint arXiv:2305.18679, 2023" 
+--- 
+Question answering (Q/A) can be formulated as a generative task (Mitra, 2017) where the task is to generate an answer given the question and the passage (knowledge, if available). Recent advances in QA task is focused a lot on language model advancements and less on other areas such as sampling (Krishna et al., 2021),(Nakano et al., 2021). Keywords play very important role for humans in language generation.(Humans formulate keywords and use grammar to connect  Cites: Hurdles to Progress in Long-form Question Answering

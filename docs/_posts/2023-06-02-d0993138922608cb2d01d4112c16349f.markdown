@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Blockwise Parallel Transformer for Long Context Large Models"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "H Liu, P Abbeel - arXiv preprint arXiv:2305.19370, 2023"
----
-Transformers have emerged as the cornerstone of state-of-the-art natural language processing models, showcasing exceptional performance across a wide range of AI applications. However, the memory demands posed by the self-attention mechanism and the large feedforward network in Transformers limit their ability to handle long sequences, thereby creating challenges for tasks involving multiple long sequences or long-term dependencies. We present a distinct approach, Blockwise Parallel …
-Cites: ‪Transformer quality in linear time‬
+--- 
+layout: post 
+title: "Blockwise Parallel Transformer for Long Context Large Models" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "H Liu, P Abbeel - arXiv preprint arXiv:2305.19370, 2023" 
+--- 
+Transformers have emerged as the cornerstone of state-of-the-art natural language processing models, showcasing exceptional performance across a wide range of AI applications. However, the memory demands posed by the self-attention mechanism and the large feedforward network in Transformers limit their ability to handle long sequences, thereby creating challenges for tasks involving multiple long sequences or long-term dependencies. We present a distinct approach, Blockwise Parallel  Cites: Transformer quality in linear time

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "How to Query Human Feedback Efficiently in RL?"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "W Zhan, M Uehara, W Sun, JD Lee - arXiv preprint arXiv:2305.18505, 2023"
----
-Reinforcement Learning with Human Feedback (RLHF) is a paradigm in which an RL agent learns to optimize a task using pair-wise preference-based feedback over trajectories, rather than explicit reward signals. While RLHF has demonstrated practical success in fine-tuning language models, existing empirical work does not address the challenge of how to efficiently sample trajectory pairs for querying human feedback. In this study, we propose an efficient sampling approach to …
-Cites: ‪Is Reinforcement Learning (Not) for Natural Language Processing …‬
+--- 
+layout: post 
+title: "How to Query Human Feedback Efficiently in RL?" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "W Zhan, M Uehara, W Sun, JD Lee - arXiv preprint arXiv:2305.18505, 2023" 
+--- 
+Reinforcement Learning with Human Feedback (RLHF) is a paradigm in which an RL agent learns to optimize a task using pair-wise preference-based feedback over trajectories, rather than explicit reward signals. While RLHF has demonstrated practical success in fine-tuning language models, existing empirical work does not address the challenge of how to efficiently sample trajectory pairs for querying human feedback. In this study, we propose an efficient sampling approach to  Cites: Is Reinforcement Learning (Not) for Natural Language Processing

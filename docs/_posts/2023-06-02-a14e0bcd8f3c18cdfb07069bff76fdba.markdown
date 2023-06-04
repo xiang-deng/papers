@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross Encoding as Augmentation: Towards Effective Educational Text Classification"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "HS Lee, S Choi, Y Lee, H Moon, S Oh, M Jeong, H Go… - arXiv preprint arXiv …, 2023"
----
-Text classification in education, usually called auto-tagging, is the automated process of assigning relevant tags to educational content, such as questions and textbooks. However, auto-tagging suffers from a data scarcity problem, which stems from two major challenges: 1) it possesses a large tag space and 2) it is multi-label. Though a retrieval approach is reportedly good at low-resource scenarios, there have been fewer efforts to directly address the data scarcity problem. To mitigate …
-Cites: ‪Latent retrieval for weakly supervised open domain question …‬
+--- 
+layout: post 
+title: "Cross Encoding as Augmentation: Towards Effective Educational Text Classification" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "HS Lee, S Choi, Y Lee, H Moon, S Oh, M Jeong, H Go - arXiv preprint arXiv , 2023" 
+--- 
+Text classification in education, usually called auto-tagging, is the automated process of assigning relevant tags to educational content, such as questions and textbooks. However, auto-tagging suffers from a data scarcity problem, which stems from two major challenges: 1) it possesses a large tag space and 2) it is multi-label. Though a retrieval approach is reportedly good at low-resource scenarios, there have been fewer efforts to directly address the data scarcity problem. To mitigate  Cites: Latent retrieval for weakly supervised open domain question

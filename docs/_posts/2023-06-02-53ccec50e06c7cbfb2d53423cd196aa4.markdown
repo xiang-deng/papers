@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "JS She, C Potts, SR Bowman, A Geiger - arXiv preprint arXiv:2305.19426, 2023"
----
-A number of recent benchmarks seek to assess how well models handle natural language negation. However, these benchmarks lack the controlled example paradigms that would allow us to infer whether a model had learned how negation morphemes semantically scope. To fill these analytical gaps, we present the Scoped Negation NLI (ScoNe-NLI) benchmark, which contains contrast sets of six examples with up to two negations where either zero, one, or both negative morphemes affect …
-Cites: ‪Evaluating models  local decision boundaries via contrast sets‬
+--- 
+layout: post 
+title: "ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "JS She, C Potts, SR Bowman, A Geiger - arXiv preprint arXiv:2305.19426, 2023" 
+--- 
+A number of recent benchmarks seek to assess how well models handle natural language negation. However, these benchmarks lack the controlled example paradigms that would allow us to infer whether a model had learned how negation morphemes semantically scope. To fill these analytical gaps, we present the Scoped Negation NLI (ScoNe-NLI) benchmark, which contains contrast sets of six examples with up to two negations where either zero, one, or both negative morphemes affect  Cites: Evaluating models local decision boundaries via contrast sets

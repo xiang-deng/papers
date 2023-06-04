@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Continually Updating Generative Retrieval on Dynamic Corpora"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "S Yoon, C Kim, H Lee, J Jang, M Seo - arXiv preprint arXiv:2305.18952, 2023"
----
-Generative retrieval has recently been gaining a lot of attention from the research community for its simplicity, high performance, and the ability to fully leverage the power of deep autoregressive models. However, prior work on generative retrieval has mostly investigated on static benchmarks, while realistic retrieval applications often involve dynamic environments where knowledge is temporal and accumulated over time. In this paper, we introduce a new benchmark called STREAMINGIR …
-Cites: ‪Autoregressive search engines: Generating substrings as …‬
+--- 
+layout: post 
+title: "Continually Updating Generative Retrieval on Dynamic Corpora" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "S Yoon, C Kim, H Lee, J Jang, M Seo - arXiv preprint arXiv:2305.18952, 2023" 
+--- 
+Generative retrieval has recently been gaining a lot of attention from the research community for its simplicity, high performance, and the ability to fully leverage the power of deep autoregressive models. However, prior work on generative retrieval has mostly investigated on static benchmarks, while realistic retrieval applications often involve dynamic environments where knowledge is temporal and accumulated over time. In this paper, we introduce a new benchmark called STREAMINGIR  Cites: Autoregressive search engines: Generating substrings as

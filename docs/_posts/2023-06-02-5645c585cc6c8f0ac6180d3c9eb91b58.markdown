@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "B Xu, Z Peng, B Lei, S Mukherjee, Y Liu, D Xu - arXiv preprint arXiv:2305.18323, 2023"
----
-Augmented Language Models (ALMs) blend the reasoning capabilities of Large Language Models (LLMs) with tools that allow for knowledge retrieval and action execution. Existing ALM systems trigger LLM thought processes while pulling observations from these tools in an interleaved fashion. Specifically, an LLM reasons to call an external tool, gets halted to fetch the tool s response, and then decides the next action based on all preceding response tokens. Such a paradigm, though …
-Cites: ‪ART: Automatic multi-step reasoning and tool-use for large …‬
+--- 
+layout: post 
+title: "ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "B Xu, Z Peng, B Lei, S Mukherjee, Y Liu, D Xu - arXiv preprint arXiv:2305.18323, 2023" 
+--- 
+Augmented Language Models (ALMs) blend the reasoning capabilities of Large Language Models (LLMs) with tools that allow for knowledge retrieval and action execution. Existing ALM systems trigger LLM thought processes while pulling observations from these tools in an interleaved fashion. Specifically, an LLM reasons to call an external tool, gets halted to fetch the tool s response, and then decides the next action based on all preceding response tokens. Such a paradigm, though  Cites: ART: Automatic multi-step reasoning and tool-use for large

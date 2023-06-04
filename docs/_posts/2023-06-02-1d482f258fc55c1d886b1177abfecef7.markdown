@@ -1,9 +1,8 @@
----
-layout: post
-title:  "What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization"
-date:   2023-06-02 15:36:55 -0400
-categories: jekyll update
-author: "Y Zhang, F Zhang, Z Yang, Z Wang - arXiv preprint arXiv:2305.19420, 2023"
----
-In this paper, we conduct a comprehensive study of In-Context Learning (ICL) by addressing several open questions:(a) What type of ICL estimator is learned within language models?(b) What are suitable performance metrics to evaluate ICL accurately and what are the error rates?(c) How does the transformer architecture enable ICL? To answer (a), we take a Bayesian view and demonstrate that ICL implicitly implements the Bayesian model averaging algorithm. This Bayesian model …
-Cites: ‪OPT-IML: Scaling Language Model Instruction Meta Learning …‬
+--- 
+layout: post 
+title: "What and How does In-Context Learning Learn? Bayesian Model Averaging, Parameterization, and Generalization" 
+date: 2023-06-02 15:36:55 -0400 
+categories: jekyll update 
+author: "Y Zhang, F Zhang, Z Yang, Z Wang - arXiv preprint arXiv:2305.19420, 2023" 
+--- 
+In this paper, we conduct a comprehensive study of In-Context Learning (ICL) by addressing several open questions:(a) What type of ICL estimator is learned within language models?(b) What are suitable performance metrics to evaluate ICL accurately and what are the error rates?(c) How does the transformer architecture enable ICL? To answer (a), we take a Bayesian view and demonstrate that ICL implicitly implements the Bayesian model averaging algorithm. This Bayesian model  Cites: OPT-IML: Scaling Language Model Instruction Meta Learning
