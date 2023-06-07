@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning disentangled skills for hierarchical reinforcement learning through trajectory autoencoder with weak labels"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "W Song, S Jeon, H Choi, K Sohn, D Min - Expert Systems with Applications, 2023"
+---
+Typically, hierarchical reinforcement learning (RL) requires skills that are applicable to various downstream tasks. Although several recent studies have proposed the supervised and unsupervised learning of such skills, the learned skills are often entangled, which hinders their interpretation. To alleviate this, we propose a novel method to use weak labels for learning disentangled skills from the continuous latent representations of trajectories. To this end, we extended a trajectory variational …
+Cites: ‪Explore, discover and learn: Unsupervised discovery of state …‬

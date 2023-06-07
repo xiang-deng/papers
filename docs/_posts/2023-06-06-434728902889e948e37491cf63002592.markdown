@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UNGOML: Automated Classification of unsafe Usages in Go"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "AK Wickert, C Damke, L Baumgärtner, E Hüllermeier… - arXiv preprint arXiv …, 2023"
+---
+The Go programming language offers strong protection from memory corruption. As an escape hatch of these protections, it provides the unsafe package. Previous studies identified that this unsafe package is frequently used in real-world code for several purposes, eg, serialization or casting types. Due to the variety of these reasons, it may be possible to refactor specific usages to avoid potential vulnerabilities. However, the classification of unsafe usages is challenging and …
+Cites: ‪Codebert: A pre-trained model for programming and natural …‬

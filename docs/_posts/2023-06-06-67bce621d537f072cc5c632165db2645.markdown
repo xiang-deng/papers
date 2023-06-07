@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Explanation Graph Generation via Generative Pre-training over Synthetic Graphs"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "H Cui, S Li, Y Zhang, Q Shi - arXiv preprint arXiv:2306.00652, 2023"
+---
+The generation of explanation graphs is a significant task that aims to produce explanation graphs in response to user input, revealing the internal reasoning process. This task is challenging due to the significant discrepancy between unstructured user queries and structured explanation graphs. Current research commonly fine-tunes a text-based pre-trained language model on a small downstream dataset that is annotated with labeled graphs. However, due to the …
+Cites: ‪Language models of code are few-shot commonsense learners‬

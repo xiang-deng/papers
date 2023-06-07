@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Contrastive Hierarchical Discourse Graph for Scientific Document Summarization"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "H Zhang, X Liu, J Zhang - arXiv preprint arXiv:2306.00177, 2023"
+---
+The extended structural context has made scientific paper summarization a challenging task. This paper proposes CHANGES, a contrastive hierarchical graph neural network for extractive scientific paper summarization. CHANGES represents a scientific paper with a hierarchical discourse graph and learns effective sentence representations with dedicated designed hierarchical graph information aggregation. We also propose a graph contrastive learning module to learn global theme-aware …
+Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬

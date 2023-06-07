@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Replicação síncrona para sistemas de armazenamento chave-valor em memória primária"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "DJP Ferreira - 2023"
+---
+A partir de desafios de consistência e replicação em aberto no Redis, o presente trabalho aborda o uso de replicação síncrona como uma estratégia para fornecer ao banco de dados uma consistência forte de dados, com opção de persistência de dados em disco e suporte a recuperação. Além disto, é possível por meio deste trabalho compreender de maneira geral o custo de tal consistência em prol do desempenho. Desenvolveu-se neste trabalho um proxy utilizando o framework de …
+Cites: ‪What can database do for peer-to-peer?‬

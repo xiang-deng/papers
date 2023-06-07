@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SQL-PaLM: Improved Large Language ModelAdaptation for Text-to-SQL"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "R Sun, SO Arik, H Nakhost, H Dai, R Sinha, P Yin… - arXiv preprint arXiv …, 2023"
+---
+One impressive emergent capability of large language models (LLMs) is generation of code, including Structured Query Language (SQL) for databases. For the task of converting natural language text to SQL queries, Text-to-SQL, adaptation of LLMs is of paramount importance, both in in-context learning and fine-tuning settings, depending on the amount of adaptation data used. In this paper, we propose an LLM-based Text-to-SQL model SQL-PaLM, leveraging on PaLM-2, that pushes the state …
+Cites: ‪Structure-Grounded Pretraining for Text-to-SQL‬

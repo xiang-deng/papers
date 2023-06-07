@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PreQuant: A Task-agnostic Quantization Approach for Pre-trained Language Models"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "Z Gong, J Liu, Q Wang, Y Yang, J Wang, W Wu, Y Xian… - arXiv preprint arXiv …, 2023"
+---
+While transformer-based pre-trained language models (PLMs) have dominated a number of NLP applications, these models are heavy to deploy and expensive to use. Therefore, effectively compressing large-scale PLMs becomes an increasingly important problem. Quantization, which represents high-precision tensors with low-bit fix-point format, is a viable solution. However, most existing quantization methods are task-specific, requiring customized training and quantization with a large number …
+Cites: ‪Delta Tuning: A Comprehensive Study of Parameter Efficient …‬

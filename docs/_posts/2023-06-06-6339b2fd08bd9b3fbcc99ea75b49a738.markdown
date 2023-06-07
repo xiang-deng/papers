@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "J Lin, J Tang, H Tang, S Yang, X Dang, S Han - arXiv preprint arXiv:2306.00978, 2023"
+---
+Large language models (LLMs) have shown excellent performance on various tasks, but the astronomical model size raises the hardware barrier for serving (memory size) and slows down token generation (memory bandwidth). In this paper, we propose Activation-aware Weight Quantization (AWQ), a hardware-friendly approach for LLM low-bit weight-only quantization. Our method is based on the observation that weights are not equally important: protecting only 1% of salient weights can …
+Cites: ‪High-throughput generative inference of large language models …‬

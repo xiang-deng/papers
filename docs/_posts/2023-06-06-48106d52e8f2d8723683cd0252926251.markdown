@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Majority Rule: better patching via Self-Consistency"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "T Ahmed, P Devanbu - arXiv preprint arXiv:2306.00108, 2023"
+---
+Large Language models (LLMs) can be induced to solve non-trivial problems with  few-shot  prompts including illustrative problem-solution examples. Now if the few-shots also include  chain of thought (CoT) explanations, which are of the form problem-explanation-solution, LLMs will generate a  explained  solution, and perform even better. Recently an exciting, substantially better technique, self-consistency [1](SC) has emerged, based on the intuition that there are many …
+Cites: ‪Palm: Scaling language modeling with pathways‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Cross-Domain Detection With Self-Supervised Learning"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "K Li, C Wigington, C Tensmeyer, VI Morariu, H Zhao… - Proceedings of the IEEE …, 2023"
+---
+Abstract Cross-Domain Detection (XDD) aims to train a domain-adaptive object detector using unlabeled images from a target domain and labeled images from a source domain. Existing approaches achieve this either by aligning the feature maps or the region proposals from the two domains, or by transferring the style of source images to that of target images. In this paper, rather than proposing another method following the existing lines, we introduce a new framework complementary to existing …
+Cites: ‪Semi-supervised sequence modeling with cross-view training‬

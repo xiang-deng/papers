@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Estimating and Improving the Robustness of Attributions in Text"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "ÁD Ivánkay - 2023"
+---
+End-to-end learning methods like deep neural networks have been the driving force in the remarkable progress of machine learning in recent years. However, despite their success, the deployment process of such networks in safety-critical use cases, such as healthcare, has been lagging. This is due to the black-box nature of deep neural networks. Such networks rely on raw data as input and learn relevant features directly from the data, which makes understanding the inference process hard. To …
+Cites: ‪Pathologies of Neural Models Make Interpretation Difficult‬

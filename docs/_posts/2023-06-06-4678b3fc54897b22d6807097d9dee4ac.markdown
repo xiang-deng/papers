@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection"
+date:   2023-06-06 05:46:58 -0400
+categories: jekyll update
+author: "R Shao, T Wu, L Nie, Z Liu - arXiv preprint arXiv:2306.00863, 2023"
+---
+Existing deepfake detection methods fail to generalize well to unseen or degraded samples, which can be attributed to the over-fitting of low-level forgery patterns. Here we argue that high-level semantics are also indispensable recipes for generalizable forgery detection. Recently, large pre-trained Vision Transformers (ViTs) have shown promising generalization capability. In this paper, we propose the first parameter-efficient tuning approach for deepfake detection, namely DeepFake-Adapter, to …
+Cites: ‪Towards a unified view of parameter-efficient transfer learning‬
