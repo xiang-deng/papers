@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Link Prediction in Knowledge Graphs (and its Relation to RDF2vec)"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "H Paulheim, P Ristoski, J Portisch - Embedding Knowledge Graphs with RDF2vec, 2023"
----
-In recent years, a long list of research works has been published which utilize knowledge graph embeddings for link prediction (rather than node classification, which we have considered so far). In this chapter, we give a very brief overview of the main embedding techniques for link prediction and flesh out the main differences between the well-known link prediction technique TransE and RDF2vec. Moreover, we show how RDF2vec can be used for link prediction.
-Cites: ‪KEPLER: A Unified Model for Knowledge Embedding and Pre …‬
+--- 
+layout: post 
+title: "Link Prediction in Knowledge Graphs (and its Relation to RDF2vec)" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "H Paulheim, P Ristoski, J Portisch - Embedding Knowledge Graphs with RDF2vec, 2023" 
+--- 
+In recent years, a long list of research works has been published which utilize knowledge graph embeddings for link prediction (rather than node classification, which we have considered so far). In this chapter, we give a very brief overview of the main embedding techniques for link prediction and flesh out the main differences between the well-known link prediction technique TransE and RDF2vec. Moreover, we show how RDF2vec can be used for link prediction.  Cites: KEPLER: A Unified Model for Knowledge Embedding and Pre

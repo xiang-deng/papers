@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Transformers learn to implement preconditioned gradient descent for in-context learning"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "K Ahn, X Cheng, H Daneshmand, S Sra - arXiv preprint arXiv:2306.00297, 2023"
----
-Motivated by the striking ability of transformers for in-context learning, several works demonstrate that transformers can implement algorithms like gradient descent. By a careful construction of weights, these works show that multiple layers of transformers are expressive enough to simulate gradient descent iterations. Going beyond the question of expressivity, we ask: Can transformers learn to implement such algorithms by training over random problem instances? To our knowledge, we make …
-Cites: ‪What learning algorithm is in-context learning? investigations with …‬
+--- 
+layout: post 
+title: "Transformers learn to implement preconditioned gradient descent for in-context learning" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "K Ahn, X Cheng, H Daneshmand, S Sra - arXiv preprint arXiv:2306.00297, 2023" 
+--- 
+Motivated by the striking ability of transformers for in-context learning, several works demonstrate that transformers can implement algorithms like gradient descent. By a careful construction of weights, these works show that multiple layers of transformers are expressive enough to simulate gradient descent iterations. Going beyond the question of expressivity, we ask: Can transformers learn to implement such algorithms by training over random problem instances? To our knowledge, we make  Cites: What learning algorithm is in-context learning? investigations with

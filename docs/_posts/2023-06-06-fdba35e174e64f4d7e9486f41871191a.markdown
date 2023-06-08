@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hnssl: Hard negative-based self-supervised learning"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "W Zhu, J Liu, Y Huang - Proceedings of the IEEE/CVF Conference on Computer …, 2023"
----
-Recently, learning from vast unlabeled data, especially self-supervised learning, has been emerging and attracting widespread attention. Self-supervised learning followed by supervised fine-tuning on a few labeled examples can significantly improve label efficiency and outperform standard supervised training using fully annotated data. In this work, we present a novel hard negative-based self-supervised deep learning paradigm, named HNSSL. Specifically, we design a student-teacher …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Hnssl: Hard negative-based self-supervised learning" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "W Zhu, J Liu, Y Huang - Proceedings of the IEEE/CVF Conference on Computer , 2023" 
+--- 
+Recently, learning from vast unlabeled data, especially self-supervised learning, has been emerging and attracting widespread attention. Self-supervised learning followed by supervised fine-tuning on a few labeled examples can significantly improve label efficiency and outperform standard supervised training using fully annotated data. In this work, we present a novel hard negative-based self-supervised deep learning paradigm, named HNSSL. Specifically, we design a student-teacher  Cites: Bert: Pre-training of deep bidirectional transformers for language

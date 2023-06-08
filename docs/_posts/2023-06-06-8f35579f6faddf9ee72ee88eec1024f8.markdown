@@ -1,9 +1,0 @@
----
-layout: post
-title:  "A Note On Interpreting Canary Exposure"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "M Jagielski - arXiv preprint arXiv:2306.00133, 2023"
----
-Canary exposure, introduced in Carlini et al. is frequently used to empirically evaluate, or audit, the privacy of machine learning model training. The goal of this note is to provide some intuition on how to interpret canary exposure, including by relating it to membership inference attacks and differential privacy.
-Cites: ‪Palm 2 technical report‬

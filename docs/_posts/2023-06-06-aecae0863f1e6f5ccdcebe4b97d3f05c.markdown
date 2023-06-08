@@ -1,9 +1,8 @@
----
-layout: post
-title:  "EMOTE: An Explainable architecture for Modelling the Other Through Empathy"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "M Senadeera, TK George, S Gupta, S Jacobs, S Rana - arXiv preprint arXiv …, 2023"
----
-We can usually assume others have goals analogous to our own. This assumption can also, at times, be applied to multi-agent games-eg Agent 1 s attraction to green pellets is analogous to Agent 2 s attraction to red pellets. This  analogy  assumption is tied closely to the cognitive process known as empathy. Inspired by empathy, we design a simple and explainable architecture to model another agent s action-value function. This involves learning an  Imagination Network  to transform the other …
-Cites: ‪Opponent modeling in deep reinforcement learning‬
+--- 
+layout: post 
+title: "EMOTE: An Explainable architecture for Modelling the Other Through Empathy" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "M Senadeera, TK George, S Gupta, S Jacobs, S Rana - arXiv preprint arXiv , 2023" 
+--- 
+We can usually assume others have goals analogous to our own. This assumption can also, at times, be applied to multi-agent games-eg Agent 1 s attraction to green pellets is analogous to Agent 2 s attraction to red pellets. This analogy assumption is tied closely to the cognitive process known as empathy. Inspired by empathy, we design a simple and explainable architecture to model another agent s action-value function. This involves learning an Imagination Network to transform the other  Cites: Opponent modeling in deep reinforcement learning

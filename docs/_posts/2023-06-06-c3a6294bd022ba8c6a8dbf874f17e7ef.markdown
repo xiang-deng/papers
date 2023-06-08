@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Few-Shot Relation Extraction With Dual Graph Neural Network Interaction"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "J Li, S Feng, B Chiu - IEEE Transactions on Neural Networks and Learning …, 2023"
----
-Recent advances in relation extraction with deep neural architectures have achieved excellent performance. However, current models still suffer from two main drawbacks: 1) they require enormous volumes of training data to avoid model overfitting and 2) there is a sharp decrease in performance when the data distribution during training and testing shift from one domain to the other. It is thus vital to reduce the data requirement in training and explicitly model the distribution difference when …
-Cites: ‪Improving open information extraction via iterative rank-aware …‬
+--- 
+layout: post 
+title: "Few-Shot Relation Extraction With Dual Graph Neural Network Interaction" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "J Li, S Feng, B Chiu - IEEE Transactions on Neural Networks and Learning , 2023" 
+--- 
+Recent advances in relation extraction with deep neural architectures have achieved excellent performance. However, current models still suffer from two main drawbacks: 1) they require enormous volumes of training data to avoid model overfitting and 2) there is a sharp decrease in performance when the data distribution during training and testing shift from one domain to the other. It is thus vital to reduce the data requirement in training and explicitly model the distribution difference when  Cites: Improving open information extraction via iterative rank-aware

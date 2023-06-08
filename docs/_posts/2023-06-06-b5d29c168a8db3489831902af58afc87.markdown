@@ -1,9 +1,8 @@
----
-layout: post
-title:  "AI Chain on Large Language Model for Unsupervised Control Flow Graph Generation for Statically-Typed Partial Code"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "Q Huang, Z Zou, Z Xing, Z Zuo, X Xu, Q Lu - arXiv preprint arXiv:2306.00757, 2023"
----
-Control Flow Graphs (CFGs) are essential for visualizing, understanding and analyzing program behavior. For statically-typed programming language like Java, developers obtain CFGs by using bytecode-based methods for compilable code and Abstract Syntax Tree (AST)-based methods for partially uncompilable code. However, explicit syntax errors during AST construction and implicit semantic errors caused by bad coding practices can lead to behavioral loss and deviation of CFGs …
-Cites: ‪AI Chains: Transparent and Controllable Human-AI Interaction by …‬
+--- 
+layout: post 
+title: "AI Chain on Large Language Model for Unsupervised Control Flow Graph Generation for Statically-Typed Partial Code" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "Q Huang, Z Zou, Z Xing, Z Zuo, X Xu, Q Lu - arXiv preprint arXiv:2306.00757, 2023" 
+--- 
+Control Flow Graphs (CFGs) are essential for visualizing, understanding and analyzing program behavior. For statically-typed programming language like Java, developers obtain CFGs by using bytecode-based methods for compilable code and Abstract Syntax Tree (AST)-based methods for partially uncompilable code. However, explicit syntax errors during AST construction and implicit semantic errors caused by bad coding practices can lead to behavioral loss and deviation of CFGs  Cites: AI Chains: Transparent and Controllable Human-AI Interaction by

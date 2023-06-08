@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Domain-adaptive graph neural network for few-shot learning"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "Z Yang, W Li, T Zheng, J Lv, X Yang, Z Ding - Knowledge-Based Systems, 2023"
----
-The task of few-shot classification (FSC) is to build a model to discriminate novel categories that do not present in training categories with limited labeled samples. However, in many applications, the training categories and novel categories are assumed to come from the same domain. Existing few-shot classification algorithms achieve promising performance in a single domain, but often fail to generalize to unseen domains because of the different feature distribution across domains. The …
-Cites: ‪Improving out-of-distribution generalization via multi-task self …‬
+--- 
+layout: post 
+title: "Domain-adaptive graph neural network for few-shot learning" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "Z Yang, W Li, T Zheng, J Lv, X Yang, Z Ding - Knowledge-Based Systems, 2023" 
+--- 
+The task of few-shot classification (FSC) is to build a model to discriminate novel categories that do not present in training categories with limited labeled samples. However, in many applications, the training categories and novel categories are assumed to come from the same domain. Existing few-shot classification algorithms achieve promising performance in a single domain, but often fail to generalize to unseen domains because of the different feature distribution across domains. The  Cites: Improving out-of-distribution generalization via multi-task self

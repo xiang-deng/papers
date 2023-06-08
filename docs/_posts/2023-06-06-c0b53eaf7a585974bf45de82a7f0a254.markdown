@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Evaluating Classifiers During Dataset Shift"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "C Fritsch - 2023"
----
-Deployment of a classifier into a machine learning application likely begins with training different types of algorithms on a subset of the available historical data and then evaluating them on datasets that are drawn from identical distributions. The goal of this evaluation process is to select the classifier that is believed to be most robust in maintaining good future performance, and then deploy that classifier to end-users who use it to make predictions on new data. Often times, predictive models are …
-Cites: ‪Not all claims are created equal: Choosing the right statistical …‬

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Improving Grammar-based Sequence-to-Sequence Modeling with Decomposition and Constraints"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "C Lou, K Tu"
----
-Neural QCFG is a grammar-based sequence-tosequence (seq2seq) model with strong inductive biases on hierarchical structures. It excels in interpretability and generalization but suffers from expensive inference. In this paper, we study two low-rank variants of Neural QCFG for faster inference with different trade-offs between efficiency and expressiveness. Furthermore, utilizing the symbolic interface provided by the grammar, we introduce two soft constraints over tree hierarchy and source …
-Cites: ‪Hierarchical Phrase-based Sequence-to-Sequence Learning‬
+--- 
+layout: post 
+title: "Improving Grammar-based Sequence-to-Sequence Modeling with Decomposition and Constraints" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "C Lou, K Tu" 
+--- 
+Neural QCFG is a grammar-based sequence-tosequence (seq2seq) model with strong inductive biases on hierarchical structures. It excels in interpretability and generalization but suffers from expensive inference. In this paper, we study two low-rank variants of Neural QCFG for faster inference with different trade-offs between efficiency and expressiveness. Furthermore, utilizing the symbolic interface provided by the grammar, we introduce two soft constraints over tree hierarchy and source  Cites: Hierarchical Phrase-based Sequence-to-Sequence Learning

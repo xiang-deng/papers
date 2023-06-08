@@ -1,9 +1,8 @@
----
-layout: post
-title:  "DiCeR: Dialogue-Centric Representation for Knowledge-Grounded Dialogue through Contrastive Learning"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "J Cho, Y Ko - Pattern Recognition Letters, 2023"
----
-Abstract Knowledge-grounded dialogue is a task that utilizes external knowledge to generate appropriate and fluent responses to statements. Owing to the relevance of generating responses based on relevant knowledge in diverse fields, the knowledge selection task has been spotlighted. In this study, we propose a novel selection model that applies contrastive-learning with negative sampling loss to create dialogue-centric representation of knowledge. A two-part loss is considered …
-Cites: ‪DIALKI: Knowledge Identification in Conversational Systems …‬
+--- 
+layout: post 
+title: "DiCeR: Dialogue-Centric Representation for Knowledge-Grounded Dialogue through Contrastive Learning" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "J Cho, Y Ko - Pattern Recognition Letters, 2023" 
+--- 
+Abstract Knowledge-grounded dialogue is a task that utilizes external knowledge to generate appropriate and fluent responses to statements. Owing to the relevance of generating responses based on relevant knowledge in diverse fields, the knowledge selection task has been spotlighted. In this study, we propose a novel selection model that applies contrastive-learning with negative sampling loss to create dialogue-centric representation of knowledge. A two-part loss is considered  Cites: DIALKI: Knowledge Identification in Conversational Systems

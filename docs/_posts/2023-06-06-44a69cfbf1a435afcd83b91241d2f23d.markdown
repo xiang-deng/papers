@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "E Arakelyan, A Arora, I Augenstein - arXiv preprint arXiv:2306.00765, 2023"
----
-Stance Detection is concerned with identifying the attitudes expressed by an author towards a target of interest. This task spans a variety of domains ranging from social media opinion identification to detecting the stance for a legal claim. However, the framing of the task varies within these domains, in terms of the data collection protocol, the label dictionary and the number of available annotations. Furthermore, these stance annotations are significantly imbalanced on a per-topic and inter-topic …
-Cites: ‪Seeing things from a different angle: Discovering diverse …‬
+--- 
+layout: post 
+title: "Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "E Arakelyan, A Arora, I Augenstein - arXiv preprint arXiv:2306.00765, 2023" 
+--- 
+Stance Detection is concerned with identifying the attitudes expressed by an author towards a target of interest. This task spans a variety of domains ranging from social media opinion identification to detecting the stance for a legal claim. However, the framing of the task varies within these domains, in terms of the data collection protocol, the label dictionary and the number of available annotations. Furthermore, these stance annotations are significantly imbalanced on a per-topic and inter-topic  Cites: Seeing things from a different angle: Discovering diverse

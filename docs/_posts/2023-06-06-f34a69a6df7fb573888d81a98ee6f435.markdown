@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Don t Parse, Choose Spans! Continuous and Discontinuous Constituency Parsing via Autoregressive Span Selection"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "S Yang, K Tu"
----
-We present a simple and unified approach for both continuous and discontinuous constituency parsing via autoregressive span selection. Constituency parsing aims to produce a set of non-crossing spans so that they can form a constituency parse tree. We sort gold spans in a predefined order and train a pointer network to autoregressively select spans by that order. To deal with a discontinuous span, we consecutively select its subspans from left to right, label all but the last subspans with …
-Cites: ‪Syntactically Supervised Transformers for Faster Neural Machine …‬
+--- 
+layout: post 
+title: "Don t Parse, Choose Spans! Continuous and Discontinuous Constituency Parsing via Autoregressive Span Selection" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "S Yang, K Tu" 
+--- 
+We present a simple and unified approach for both continuous and discontinuous constituency parsing via autoregressive span selection. Constituency parsing aims to produce a set of non-crossing spans so that they can form a constituency parse tree. We sort gold spans in a predefined order and train a pointer network to autoregressively select spans by that order. To deal with a discontinuous span, we consecutively select its subspans from left to right, label all but the last subspans with  Cites: Syntactically Supervised Transformers for Faster Neural Machine

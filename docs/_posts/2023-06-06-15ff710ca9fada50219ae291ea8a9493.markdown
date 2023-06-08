@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Cross Modal Data Discovery over Structured and Unstructured Data Lakes"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "MY Eltabakh, M Kunjir, A Elmagarmid, MS Ahmad - arXiv preprint arXiv:2306.00932, 2023"
----
-Organizations are collecting increasingly large amounts of data for data driven decision making. These data are often dumped into a centralized repository, eg, a data lake, consisting of thousands of structured and unstructured datasets. Perversely, such mixture of datasets makes the problem of discovering elements (eg, tables or documents) that are relevant to a user s query or an analytical task very challenging. Despite the recent efforts in data discovery, the problem remains widely …
-Cites: ‪TURL: Table Understanding through Representation Learning‬
+--- 
+layout: post 
+title: "Cross Modal Data Discovery over Structured and Unstructured Data Lakes" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "MY Eltabakh, M Kunjir, A Elmagarmid, MS Ahmad - arXiv preprint arXiv:2306.00932, 2023" 
+--- 
+Organizations are collecting increasingly large amounts of data for data driven decision making. These data are often dumped into a centralized repository, eg, a data lake, consisting of thousands of structured and unstructured datasets. Perversely, such mixture of datasets makes the problem of discovering elements (eg, tables or documents) that are relevant to a user s query or an analytical task very challenging. Despite the recent efforts in data discovery, the problem remains widely  Cites: TURL: Table Understanding through Representation Learning

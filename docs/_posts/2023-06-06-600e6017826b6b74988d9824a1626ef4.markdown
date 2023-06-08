@@ -1,9 +1,8 @@
----
-layout: post
-title:  "This is not new! Spotting previously-verified claims over Twitter"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "W Mansour, T Elsayed, A Al-Ali - Information Processing & Management, 2023"
----
-Several fake claims are commonly repeated over time, especially on social media. To identify such previous claims, the verified claim retrieval task was studied, where, for a given input claim, the goal is to find previously-verified claims that are relevant to it. However, this view assumes that each claim was already verified, which may not be true for all claims in the real-world scenario. In this work, we introduce the Verified Claim Checking problem over Twitter, in which the relevant verified claims are …
-Cites: ‪Dense Passage Retrieval for Open-Domain Question Answering‬
+--- 
+layout: post 
+title: "This is not new! Spotting previously-verified claims over Twitter" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "W Mansour, T Elsayed, A Al-Ali - Information Processing & Management, 2023" 
+--- 
+Several fake claims are commonly repeated over time, especially on social media. To identify such previous claims, the verified claim retrieval task was studied, where, for a given input claim, the goal is to find previously-verified claims that are relevant to it. However, this view assumes that each claim was already verified, which may not be true for all claims in the real-world scenario. In this work, we introduce the Verified Claim Checking problem over Twitter, in which the relevant verified claims are  Cites: Dense Passage Retrieval for Open-Domain Question Answering

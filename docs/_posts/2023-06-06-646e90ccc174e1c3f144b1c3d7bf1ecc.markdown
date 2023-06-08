@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Universal Guidance for Diffusion Models"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "A Bansal, HM Chu, A Schwarzschild, S Sengupta… - Proceedings of the IEEE …, 2023"
----
-Typical diffusion models are trained to accept a particular form of conditioning, most commonly text, and cannot be conditioned on other modalities without retraining. In this work, we propose a universal guidance algorithm that enables diffusion models to be controlled by arbitrary guidance modalities without the need to retrain any use-specific components. We show that our algorithm successfully generates quality images with guidance functions including segmentation, face recognition, object …
-Cites: ‪Diffusion-lm improves controllable text generation‬
+--- 
+layout: post 
+title: "Universal Guidance for Diffusion Models" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "A Bansal, HM Chu, A Schwarzschild, S Sengupta - Proceedings of the IEEE , 2023" 
+--- 
+Typical diffusion models are trained to accept a particular form of conditioning, most commonly text, and cannot be conditioned on other modalities without retraining. In this work, we propose a universal guidance algorithm that enables diffusion models to be controlled by arbitrary guidance modalities without the need to retrain any use-specific components. We show that our algorithm successfully generates quality images with guidance functions including segmentation, face recognition, object  Cites: Diffusion-lm improves controllable text generation

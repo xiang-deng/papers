@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Dataset Efficient Training With Model Ensembling"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "Y Ro, C Xu, A Ciborowska, S Bhattacharya, F Li… - Proceedings of the IEEE …, 2023"
----
-We propose a dataset-efficient deep learning training method by ensembling different models trained on different subsets. The ensembling method leverages the difficulty level of data samples to select subsets that are representative and diverse. The approach involves building a common base model with a random subset of data and then allotting different subsets to different models in an ensemble. The models are trained with their own subsets and then merged into a single model. We then …
-Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬
+--- 
+layout: post 
+title: "Dataset Efficient Training With Model Ensembling" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "Y Ro, C Xu, A Ciborowska, S Bhattacharya, F Li - Proceedings of the IEEE , 2023" 
+--- 
+We propose a dataset-efficient deep learning training method by ensembling different models trained on different subsets. The ensembling method leverages the difficulty level of data samples to select subsets that are representative and diverse. The approach involves building a common base model with a random subset of data and then allotting different subsets to different models in an ensemble. The models are trained with their own subsets and then merged into a single model. We then  Cites: Branch-train-merge: Embarrassingly parallel training of expert

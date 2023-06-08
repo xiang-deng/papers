@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "R Liu, NB Shah - arXiv preprint arXiv:2306.00622, 2023"
----
-Given the rapid ascent of large language models (LLMs), we study the question:(How) can large language models help in reviewing of scientific papers or proposals? We first conduct some pilot studies where we find that (i) GPT-4 outperforms other LLMs (Bard, Vicuna, Koala, Alpaca, LLaMa, Dolly, OpenAssistant, StableLM), and (ii) prompting with a specific question (eg, to identify errors) outperforms prompting to simply write a review. With these insights, we study the use …
-Cites: ‪Palm 2 technical report‬
+--- 
+layout: post 
+title: "ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "R Liu, NB Shah - arXiv preprint arXiv:2306.00622, 2023" 
+--- 
+Given the rapid ascent of large language models (LLMs), we study the question:(How) can large language models help in reviewing of scientific papers or proposals? We first conduct some pilot studies where we find that (i) GPT-4 outperforms other LLMs (Bard, Vicuna, Koala, Alpaca, LLaMa, Dolly, OpenAssistant, StableLM), and (ii) prompting with a specific question (eg, to identify errors) outperforms prompting to simply write a review. With these insights, we study the use  Cites: Palm 2 technical report

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking"
-date:   2023-06-06 05:46:58 -0400
-categories: jekyll update
-author: "M Elaraby, Y Zhong, D Litman - arXiv preprint arXiv:2306.00672, 2023"
----
-We propose a simple approach for the abstractive summarization of long legal opinions that considers the argument structure of the document. Legal opinions often contain complex and nuanced argumentation, making it challenging to generate a concise summary that accurately captures the main points of the legal opinion. Our approach involves using argument role information to generate multiple candidate summaries, then reranking these candidates based on alignment with the …
-Cites: ‪Sentence centrality revisited for unsupervised summarization‬
+--- 
+layout: post 
+title: "Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking" 
+date: 2023-06-06 05:46:58 -0400 
+categories: jekyll update 
+author: "M Elaraby, Y Zhong, D Litman - arXiv preprint arXiv:2306.00672, 2023" 
+--- 
+We propose a simple approach for the abstractive summarization of long legal opinions that considers the argument structure of the document. Legal opinions often contain complex and nuanced argumentation, making it challenging to generate a concise summary that accurately captures the main points of the legal opinion. Our approach involves using argument role information to generate multiple candidate summaries, then reranking these candidates based on alignment with the  Cites: Sentence centrality revisited for unsupervised summarization
