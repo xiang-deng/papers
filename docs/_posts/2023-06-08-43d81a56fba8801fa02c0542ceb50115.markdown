@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "D Jiang, X Ren, BY Lin - arXiv preprint arXiv:2306.02561, 2023"
+---
+We present LLM-Blender, an ensembling framework designed to attain consistently superior performance by leveraging the diverse strengths of multiple open-source large language models (LLMs). Our framework consists of two modules: PairRanker and GenFuser, addressing the observation that optimal LLMs for different examples can significantly vary. PairRanker employs a specialized pairwise comparison method to distinguish subtle differences between candidate outputs. It jointly …
+Cites: ‪Self-Instruct: Aligning Language Model with Self Generated …‬

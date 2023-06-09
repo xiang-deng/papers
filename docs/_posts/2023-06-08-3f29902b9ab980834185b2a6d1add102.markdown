@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving Generalization in Task-oriented Dialogues with Workflows and Action Plans"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "S Raimondo, C Pal, X Liu, D Vazquez, H Palacios - arXiv preprint arXiv:2306.01729, 2023"
+---
+Task-oriented dialogue is difficult in part because it involves understanding user intent, collecting information from the user, executing API calls, and generating helpful and fluent responses. However, for complex tasks one must also correctly do all of these things over multiple steps, and in a specific order. While large pre-trained language models can be fine-tuned end-to-end to create multi-step task-oriented dialogue agents that generate fluent text, our experiments confirm that this approach …
+Cites: ‪Converse--A Tree-Based Modular Task-Oriented Dialogue System‬

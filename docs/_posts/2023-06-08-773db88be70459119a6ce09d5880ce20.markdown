@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improving the Robustness of Summarization Systems with Dual Augmentation"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "X Chen, G Long, C Tao, M Li, X Gao, C Zhang, X Zhang - arXiv preprint arXiv …, 2023"
+---
+A robust summarization system should be able to capture the gist of the document, regardless of the specific word choices or noise in the input. In this work, we first explore the summarization models  robustness against perturbations including word-level synonym substitution and noise. To create semantic-consistent substitutes, we propose a SummAttacker, which is an efficient approach to generating adversarial samples based on language models. Experimental results show that state-of-the-art …
+Cites: ‪Noisy self-knowledge distillation for text summarization‬

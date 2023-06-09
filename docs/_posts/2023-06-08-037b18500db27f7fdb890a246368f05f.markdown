@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Segment Anything in High Quality"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "L Ke, M Ye, M Danelljan, Y Liu, YW Tai, CK Tang, F Yu - arXiv preprint arXiv …, 2023"
+---
+The recent Segment Anything Model (SAM) represents a big leap in scaling up segmentation models, allowing for powerful zero-shot capabilities and flexible prompting. Despite being trained with 1.1 billion masks, SAM s mask prediction quality falls short in many cases, particularly when dealing with objects that have intricate structures. We propose HQ-SAM, equipping SAM with the ability to accurately segment any object, while maintaining SAM s original promptable design …
+Cites: ‪CPT: Colorful Prompt Tuning for Pre-trained Vision-Language …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LambdaBeam: Neural Program Search with Higher-Order Functions and Lambdas"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "K Shi, H Dai, WD Li, K Ellis, C Sutton - arXiv preprint arXiv:2306.02049, 2023"
+---
+Search is an important technique in program synthesis that allows for adaptive strategies such as focusing on particular search directions based on execution results. Several prior works have demonstrated that neural models are effective at guiding program synthesis searches. However, a common drawback of those approaches is the inability to handle iterative loops, higher-order functions, or lambda functions, thus limiting prior neural searches from synthesizing longer and …
+Cites: ‪A syntactic neural model for general-purpose code generation‬

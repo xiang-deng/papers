@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Improved Active Multi-Task Representation Learning via Lasso"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "Y Wang, Y Chen, K Jamieson, SS Du - arXiv preprint arXiv:2306.02556, 2023"
+---
+To leverage the copious amount of data from source tasks and overcome the scarcity of the target task samples, representation learning based on multi-task pretraining has become a standard approach in many applications. However, up until now, most existing works design a source task selection strategy from a purely empirical perspective. Recently,\citet {chen2022active} gave the first active multi-task representation learning (A-MTRL) algorithm which adaptively samples from source …
+Cites: ‪Weighted training for cross-task learning‬

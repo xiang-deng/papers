@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "L Chen, J Chen, T Goldstein, H Huang, T Zhou - arXiv preprint arXiv:2306.03082, 2023"
+---
+Large language models~(LLMs) are instruction followers, but it can be challenging to find the best instruction for different situations, especially for black-box LLMs on which backpropagation is forbidden. Instead of directly optimizing the discrete instruction, we optimize a low-dimensional soft prompt applied to an open-source LLM to generate the instruction for the black-box LLM. On each iteration of the proposed method, which we call InstructZero, a soft prompt is converted into an …
+Cites: ‪Palm: Scaling language modeling with pathways‬

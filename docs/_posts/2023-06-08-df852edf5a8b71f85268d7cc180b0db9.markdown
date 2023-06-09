@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Binary and Ternary Natural Language Generation"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "Z Liu, B Oguz, A Pappu, Y Shi, R Krishnamoorthi - arXiv preprint arXiv:2306.01841, 2023"
+---
+Ternary and binary neural networks enable multiplication-free computation and promise multiple orders of magnitude efficiency gains over full-precision networks if implemented on specialized hardware. However, since both the parameter and the output space are highly discretized, such networks have proven very difficult to optimize. The difficulties are compounded for the class of transformer text generation models due to the sensitivity of the attention operation to quantization and the noise …
+Cites: ‪Bit: Robustly binarized multi-distilled transformer‬

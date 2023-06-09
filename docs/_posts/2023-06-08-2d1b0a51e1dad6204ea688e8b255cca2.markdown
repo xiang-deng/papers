@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Resolving Interference When Merging Models"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "P Yadav, D Tam, L Choshen, C Raffel, M Bansal - arXiv preprint arXiv:2306.01708, 2023"
+---
+Transfer learning-ie, further fine-tuning a pre-trained model on a downstream task-can confer significant advantages, including improved downstream performance, faster convergence, and better sample efficiency. These advantages have led to a proliferation of task-specific fine-tuned models, which typically can only perform a single task and do not benefit from one another. Recently, model merging techniques have emerged as a solution to combine multiple task-specific models into a single …
+Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬

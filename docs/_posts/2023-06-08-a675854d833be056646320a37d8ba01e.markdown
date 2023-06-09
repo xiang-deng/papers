@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "MS Hussain, MJ Zaki, D Subramanian - arXiv preprint arXiv:2306.01705, 2023"
+---
+Transformers use the dense self-attention mechanism which gives a lot of flexibility for long-range connectivity. Over multiple layers of a deep transformer, the number of possible connectivity patterns increases exponentially. However, very few of these contribute to the performance of the network, and even fewer are essential. We hypothesize that there are sparsely connected sub-networks within a transformer, called information pathways which can be trained independently. However, the …
+Cites: ‪Simple local attentions remain competitive for long-context tasks‬

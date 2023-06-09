@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PassGPT: Password Modeling and (Guided) Generation with Large Language Models"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "J Rando, F Perez-Cruz, B Hitaj - arXiv preprint arXiv:2306.01545, 2023"
+---
+Large language models (LLMs) successfully model natural language from vast amounts of text without the need for explicit supervision. In this paper, we investigate the efficacy of LLMs in modeling passwords. We present PassGPT, a LLM trained on password leaks for password generation. PassGPT outperforms existing methods based on generative adversarial networks (GAN) by guessing twice as many previously unseen passwords. Furthermore, we introduce the concept of guided …
+Cites: ‪Palm: Scaling language modeling with pathways‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Learning Multi-step Reasoning from Arithmetic Task"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "T Wang, W Lu - arXiv preprint arXiv:2306.01707, 2023"
+---
+Mathematical reasoning is regarded as a necessary ability for Language Models (LMs). Recent works demonstrate large LMs  impressive performance in solving math problems. The success is attributed to their Chain-of-Thought (CoT) reasoning abilities, ie, the ability to decompose complex questions into step-by-step reasoning chains, but such ability seems only to emerge from models with abundant parameters. This work investigates how to incorporate relatively small LMs with the …
+Cites: ‪Palm: Scaling language modeling with pathways‬

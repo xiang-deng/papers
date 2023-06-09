@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hierarchical Attention Encoder Decoder"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "A Mujika - arXiv preprint arXiv:2306.01070, 2023"
+---
+Recent advances in large language models have shown that autoregressive modeling can generate complex and novel sequences that have many real-world applications. However, these models must generate outputs autoregressively, which becomes time-consuming when dealing with long sequences. Hierarchical autoregressive approaches that compress data have been proposed as a solution, but these methods still generate outputs at the original data frequency, resulting in …
+Cites: ‪Megabyte: Predicting million-byte sequences with multiscale …‬

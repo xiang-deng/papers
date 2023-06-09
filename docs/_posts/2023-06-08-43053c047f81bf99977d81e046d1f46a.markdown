@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization"
+date:   2023-06-08 03:52:18 -0400
+categories: jekyll update
+author: "J Xu, S Li, R Yang, C Yuan, L Han - Journal of Artificial Intelligence Research, 2023"
+---
+Goal-conditioned reinforcement learning (RL) with sparse rewards remains a challenging problem in deep RL. Hindsight Experience Replay (HER) has been demonstrated to be an effective solution, where HER replaces desired goals in failed experiences with practically achieved states. Existing approaches mainly focus on either exploration or exploitation to improve the performance of HER. From a joint perspective, exploiting specific past experiences can also implicitly drive exploration …
+Cites: ‪Keeping your distance: Solving sparse reward tasks using self …‬
