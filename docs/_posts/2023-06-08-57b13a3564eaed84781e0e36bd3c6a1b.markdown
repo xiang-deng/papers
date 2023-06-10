@@ -1,9 +1,8 @@
----
-layout: post
-title:  "MEC-DA: Memory-Efficient Collaborative Domain Adaptation for Mobile Edge Devices"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "X Zhou, Y Tian, X Wang - IEEE Transactions on Mobile Computing, 2023"
----
-It is prevalent for a mobile edge device to conduct local inference using a compact machine learning model, which achieves lower latency and less compromise of data privacy as compared to cloud-based inference. To work in a new environment, the compact model needs to be adapted to the target data from the environment so as to maintain a high inference accuracy. However, directly applying domain adaptation to the compact model leads to a low inference accuracy. Hence, a scheme called …
-Cites: ‪LST: Ladder Side-Tuning for Parameter and Memory Efficient …‬
+--- 
+layout: post 
+title: "MEC-DA: Memory-Efficient Collaborative Domain Adaptation for Mobile Edge Devices" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "X Zhou, Y Tian, X Wang - IEEE Transactions on Mobile Computing, 2023" 
+--- 
+It is prevalent for a mobile edge device to conduct local inference using a compact machine learning model, which achieves lower latency and less compromise of data privacy as compared to cloud-based inference. To work in a new environment, the compact model needs to be adapted to the target data from the environment so as to maintain a high inference accuracy. However, directly applying domain adaptation to the compact model leads to a low inference accuracy. Hence, a scheme called  Cites: LST: Ladder Side-Tuning for Parameter and Memory Efficient

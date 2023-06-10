@@ -1,9 +1,8 @@
----
-layout: post
-title:  "5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "J Lu, BH Tseng, JRA Moniz, S Li, X Zhu, H Yu… - arXiv preprint arXiv …, 2023"
----
-Providing voice assistants the ability to navigate multi-turn conversations is a challenging problem. Handling multi-turn interactions requires the system to understand various conversational use-cases, such as steering, intent carryover, disfluencies, entity carryover, and repair. The complexity of this problem is compounded by the fact that these use-cases mix with each other, often appearing simultaneously in natural language. This work proposes a non-autoregressive query …
-Cites: ‪Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in …‬
+--- 
+layout: post 
+title: "5IDER: Unified Query Rewriting for Steering, Intent Carryover, Disfluencies, Entity Carryover and Repair" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "J Lu, BH Tseng, JRA Moniz, S Li, X Zhu, H Yu - arXiv preprint arXiv , 2023" 
+--- 
+Providing voice assistants the ability to navigate multi-turn conversations is a challenging problem. Handling multi-turn interactions requires the system to understand various conversational use-cases, such as steering, intent carryover, disfluencies, entity carryover, and repair. The complexity of this problem is compounded by the fact that these use-cases mix with each other, often appearing simultaneously in natural language. This work proposes a non-autoregressive query  Cites: Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in

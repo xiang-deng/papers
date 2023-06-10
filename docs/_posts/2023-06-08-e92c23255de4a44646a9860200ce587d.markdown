@@ -1,9 +1,8 @@
----
-layout: post
-title:  "A Contrastive Learning-based Framework for Wind power forecast"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "Z Dai, Y Wang, N Zhu, K Zhang - Expert Systems with Applications, 2023"
----
-The feature representation of wind power sequences is crucial in the modeling of short-tern wind power forecast, but the existing feature representation methods mostly depend on the end-to-end model based on supervised learning, ignoring the superiority of self-supervised learning in the feature distribution of similar and non-similar sequences in the feature space. Therefore, this paper applies contrastive learning that is a type of self-supervised learning for the feature representation of …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "A Contrastive Learning-based Framework for Wind power forecast" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "Z Dai, Y Wang, N Zhu, K Zhang - Expert Systems with Applications, 2023" 
+--- 
+The feature representation of wind power sequences is crucial in the modeling of short-tern wind power forecast, but the existing feature representation methods mostly depend on the end-to-end model based on supervised learning, ignoring the superiority of self-supervised learning in the feature distribution of similar and non-similar sequences in the feature space. Therefore, this paper applies contrastive learning that is a type of self-supervised learning for the feature representation of  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models with Same Tower Negatives"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "F Moiseev, GH Abrego, P Dornbach, I Zitouni… - arXiv preprint arXiv …, 2023"
----
-Dual encoders have been used for retrieval tasks and representation learning with good results. A standard way to train dual encoders is using a contrastive loss with in-batch negatives. In this work, we propose an improved contrastive learning objective by adding queries or documents from the same encoder towers to the negatives, for which we name it as  contrastive loss with SAMe TOwer NEgatives (SamToNe). By evaluating on question answering retrieval benchmarks from MS MARCO and …
-Cites: ‪Large dual encoders are generalizable retrievers‬
+--- 
+layout: post 
+title: "SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models with Same Tower Negatives" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "F Moiseev, GH Abrego, P Dornbach, I Zitouni - arXiv preprint arXiv , 2023" 
+--- 
+Dual encoders have been used for retrieval tasks and representation learning with good results. A standard way to train dual encoders is using a contrastive loss with in-batch negatives. In this work, we propose an improved contrastive learning objective by adding queries or documents from the same encoder towers to the negatives, for which we name it as contrastive loss with SAMe TOwer NEgatives (SamToNe). By evaluating on question answering retrieval benchmarks from MS MARCO and  Cites: Large dual encoders are generalizable retrievers

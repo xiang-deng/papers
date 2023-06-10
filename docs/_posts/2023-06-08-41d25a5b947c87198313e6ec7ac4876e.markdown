@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "D Hu, Y Bao, L Wei, W Zhou, S Hu - arXiv preprint arXiv:2306.01505, 2023"
----
-Extracting generalized and robust representations is a major challenge in emotion recognition in conversations (ERC). To address this, we propose a supervised adversarial contrastive learning (SACL) framework for learning class-spread structured representations. The framework applies contrast-aware adversarial training to generate worst-case samples and uses a joint class-spread contrastive learning objective on both original and adversarial samples. It can effectively utilize …
-Cites: ‪Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis …‬
+--- 
+layout: post 
+title: "Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "D Hu, Y Bao, L Wei, W Zhou, S Hu - arXiv preprint arXiv:2306.01505, 2023" 
+--- 
+Extracting generalized and robust representations is a major challenge in emotion recognition in conversations (ERC). To address this, we propose a supervised adversarial contrastive learning (SACL) framework for learning class-spread structured representations. The framework applies contrast-aware adversarial training to generate worst-case samples and uses a joint class-spread contrastive learning objective on both original and adversarial samples. It can effectively utilize  Cites: Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis

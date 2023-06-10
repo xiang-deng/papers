@@ -1,9 +1,8 @@
----
-layout: post
-title:  "INFER: Distilling Knowledge From Human-Generated Rules With Uncertainty for STINs"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "J Liu, F Tang, Y Zhu, J Yu, L Chen, M Gao, X Hou… - Information Sciences, 2023"
----
-As a long-time wish, researchers always want to find a way to fuse human knowledge directly into machine models that can fulfill intelligent tasks. Existing researches attempted to approach this goal by manually labeling data or writing simple rules without considering the human s inherent ability to estimate uncertainty. These approaches cannot take full advantage of human abilities and hence make the overall system inefficient. In this paper, we propose a novel approach INFER that …
-Cites: ‪Anchors: High-Precision Model-Agnostic Explanations‬
+--- 
+layout: post 
+title: "INFER: Distilling Knowledge From Human-Generated Rules With Uncertainty for STINs" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "J Liu, F Tang, Y Zhu, J Yu, L Chen, M Gao, X Hou - Information Sciences, 2023" 
+--- 
+As a long-time wish, researchers always want to find a way to fuse human knowledge directly into machine models that can fulfill intelligent tasks. Existing researches attempted to approach this goal by manually labeling data or writing simple rules without considering the human s inherent ability to estimate uncertainty. These approaches cannot take full advantage of human abilities and hence make the overall system inefficient. In this paper, we propose a novel approach INFER that  Cites: Anchors: High-Precision Model-Agnostic Explanations

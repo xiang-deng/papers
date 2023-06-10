@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Local Boosting for Weakly-Supervised Learning"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "R Zhang, Y Yu, J Shen, X Cui, C Zhang - arXiv preprint arXiv:2306.02859, 2023"
----
-Boosting is a commonly used technique to enhance the performance of a set of base models by combining them into a strong ensemble model. Though widely adopted, boosting is typically used in supervised learning where the data is labeled accurately. However, in weakly supervised learning, where most of the data is labeled through weak and noisy sources, it remains nontrivial to design effective boosting approaches. In this work, we show that the standard implementation of the …
-Cites: ‪Bert: Pre-training of deep bidirectional transformers for language …‬
+--- 
+layout: post 
+title: "Local Boosting for Weakly-Supervised Learning" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "R Zhang, Y Yu, J Shen, X Cui, C Zhang - arXiv preprint arXiv:2306.02859, 2023" 
+--- 
+Boosting is a commonly used technique to enhance the performance of a set of base models by combining them into a strong ensemble model. Though widely adopted, boosting is typically used in supervised learning where the data is labeled accurately. However, in weakly supervised learning, where most of the data is labeled through weak and noisy sources, it remains nontrivial to design effective boosting approaches. In this work, we show that the standard implementation of the  Cites: Bert: Pre-training of deep bidirectional transformers for language

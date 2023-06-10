@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "C Hu, C Wang, S Wang, N Sun, Y Bao, J Zhao… - 2023"
----
-Data-intensive systems are the backbone of today s computing and are responsible for shaping data centers. Over the years, cloud providers have relied on three principles to maintain cost-effective data systems: use disaggregation to decouple scaling, use domain-specific computing to battle waning laws, and use serverless to lower costs. Although they work well individually, they fail to work in harmony: an issue amplified by emerging data system workloads. In this paper, we envision a …
-Cites: ‪Apiary: A DBMS-Backed Transactional Function-as-a-Service …‬
+--- 
+layout: post 
+title: "Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "C Hu, C Wang, S Wang, N Sun, Y Bao, J Zhao - 2023" 
+--- 
+Data-intensive systems are the backbone of today s computing and are responsible for shaping data centers. Over the years, cloud providers have relied on three principles to maintain cost-effective data systems: use disaggregation to decouple scaling, use domain-specific computing to battle waning laws, and use serverless to lower costs. Although they work well individually, they fail to work in harmony: an issue amplified by emerging data system workloads. In this paper, we envision a  Cites: Apiary: A DBMS-Backed Transactional Function-as-a-Service

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hybrid Long Document Summarization using C2F-FAR and ChatGPT: A Practical Study"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "G Lu, SB Larcher, T Tran - arXiv preprint arXiv:2306.01169, 2023"
----
-Text summarization is a downstream natural language processing (NLP) task that challenges the understanding and generation capabilities of language models. Considerable progress has been made in automatically summarizing short texts, such as news articles, often leading to satisfactory results. However, summarizing long documents remains a major challenge. This is due to the complex contextual information in the text and the lack of open-source benchmarking datasets and …
-Cites: ‪Benchmarking large language models for news summarization‬
+--- 
+layout: post 
+title: "Hybrid Long Document Summarization using C2F-FAR and ChatGPT: A Practical Study" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "G Lu, SB Larcher, T Tran - arXiv preprint arXiv:2306.01169, 2023" 
+--- 
+Text summarization is a downstream natural language processing (NLP) task that challenges the understanding and generation capabilities of language models. Considerable progress has been made in automatically summarizing short texts, such as news articles, often leading to satisfactory results. However, summarizing long documents remains a major challenge. This is due to the complex contextual information in the text and the lack of open-source benchmarking datasets and  Cites: Benchmarking large language models for news summarization

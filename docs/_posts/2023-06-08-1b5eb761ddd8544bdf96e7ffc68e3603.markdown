@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Text Style Transfer Back-Translation"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "D Wei, Z Wu, H Shang, Z Li, M Wang, J Guo, X Chen… - arXiv preprint arXiv …, 2023"
----
-Back Translation (BT) is widely used in the field of machine translation, as it has been proved effective for enhancing translation quality. However, BT mainly improves the translation of inputs that share a similar style (to be more specific, translation-like inputs), since the source side of BT data is machine-translated. For natural inputs, BT brings only slight improvements and sometimes even adverse effects. To address this issue, we propose Text Style Transfer Back Translation (TST …
-Cites: ‪Reformulating Unsupervised Style Transfer as Paraphrase …‬
+--- 
+layout: post 
+title: "Text Style Transfer Back-Translation" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "D Wei, Z Wu, H Shang, Z Li, M Wang, J Guo, X Chen - arXiv preprint arXiv , 2023" 
+--- 
+Back Translation (BT) is widely used in the field of machine translation, as it has been proved effective for enhancing translation quality. However, BT mainly improves the translation of inputs that share a similar style (to be more specific, translation-like inputs), since the source side of BT data is machine-translated. For natural inputs, BT brings only slight improvements and sometimes even adverse effects. To address this issue, we propose Text Style Transfer Back Translation (TST  Cites: Reformulating Unsupervised Style Transfer as Paraphrase

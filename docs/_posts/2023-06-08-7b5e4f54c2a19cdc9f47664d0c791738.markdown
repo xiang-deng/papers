@@ -1,9 +1,8 @@
----
-layout: post
-title:  "White-Box Transformers via Sparse Rate Reduction"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "Y Yu, S Buchanan, D Pai, T Chu, Z Wu, S Tong… - arXiv preprint arXiv …, 2023"
----
-In this paper, we contend that the objective of representation learning is to compress and transform the distribution of the data, say sets of tokens, towards a mixture of low-dimensional Gaussian distributions supported on incoherent subspaces. The quality of the final representation can be measured by a unified objective function called sparse rate reduction. From this perspective, popular deep networks such as transformers can be naturally viewed as realizing iterative schemes to optimize this …
-Cites: ‪Symbolic discovery of optimization algorithms‬
+--- 
+layout: post 
+title: "White-Box Transformers via Sparse Rate Reduction" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "Y Yu, S Buchanan, D Pai, T Chu, Z Wu, S Tong - arXiv preprint arXiv , 2023" 
+--- 
+In this paper, we contend that the objective of representation learning is to compress and transform the distribution of the data, say sets of tokens, towards a mixture of low-dimensional Gaussian distributions supported on incoherent subspaces. The quality of the final representation can be measured by a unified objective function called sparse rate reduction. From this perspective, popular deep networks such as transformers can be naturally viewed as realizing iterative schemes to optimize this  Cites: Symbolic discovery of optimization algorithms

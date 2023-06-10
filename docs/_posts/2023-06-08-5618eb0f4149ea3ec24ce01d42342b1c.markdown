@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Augmented Modular Reinforcement Learning based on Heterogeneous Knowledge"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "L Wolf, M Musolesi - arXiv preprint arXiv:2306.01158, 2023"
----
-In order to mitigate some of the inefficiencies of Reinforcement Learning (RL), modular approaches composing different decision-making policies to derive agents capable of performing a variety of tasks have been proposed. The modules at the basis of these architectures are generally reusable, also allowing for  plug-and-play  integration. However, such solutions still lack the ability to process and integrate multiple types of information (knowledge), such as rules, sub-goals, and skills. We …
-Cites: ‪Generative agents: Interactive simulacra of human behavior‬
+--- 
+layout: post 
+title: "Augmented Modular Reinforcement Learning based on Heterogeneous Knowledge" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "L Wolf, M Musolesi - arXiv preprint arXiv:2306.01158, 2023" 
+--- 
+In order to mitigate some of the inefficiencies of Reinforcement Learning (RL), modular approaches composing different decision-making policies to derive agents capable of performing a variety of tasks have been proposed. The modules at the basis of these architectures are generally reusable, also allowing for plug-and-play integration. However, such solutions still lack the ability to process and integrate multiple types of information (knowledge), such as rules, sub-goals, and skills. We  Cites: Generative agents: Interactive simulacra of human behavior

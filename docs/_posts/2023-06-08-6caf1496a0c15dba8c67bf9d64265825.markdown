@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Modeling Human-like Concept Learning with Bayesian Inference over Natural Language"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "K Ellis - arXiv preprint arXiv:2306.02797, 2023"
----
-We model learning of abstract symbolic concepts by performing Bayesian inference over utterances in natural language. For efficient inference, we use a large language model as a proposal distribution. We fit a prior to human data to better model human learners, and evaluate on both generative and logical concepts.
-Cites: ‪Llm. int8 (): 8-bit matrix multiplication for transformers at scale‬

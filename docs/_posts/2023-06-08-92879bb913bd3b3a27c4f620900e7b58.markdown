@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "K Garov, DI Dimitrov, N Jovanović, M Vechev - arXiv preprint arXiv:2306.03013, 2023"
----
-Malicious server (MS) attacks have enabled the scaling of data stealing in federated learning to large batch sizes and secure aggregation, settings previously considered private. However, many concerns regarding client-side detectability of MS attacks were raised, questioning their practicality once they are publicly known. In this work, for the first time, we thoroughly study the problem of client-side detectability. We demonstrate that most prior MS attacks, which fundamentally rely on one of two key …
-Cites: ‪Recovering Private Text in Federated Learning of Language Models‬
+--- 
+layout: post 
+title: "Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "K Garov, DI Dimitrov, N Jovanovi, M Vechev - arXiv preprint arXiv:2306.03013, 2023" 
+--- 
+Malicious server (MS) attacks have enabled the scaling of data stealing in federated learning to large batch sizes and secure aggregation, settings previously considered private. However, many concerns regarding client-side detectability of MS attacks were raised, questioning their practicality once they are publicly known. In this work, for the first time, we thoroughly study the problem of client-side detectability. We demonstrate that most prior MS attacks, which fundamentally rely on one of two key  Cites: Recovering Private Text in Federated Learning of Language Models

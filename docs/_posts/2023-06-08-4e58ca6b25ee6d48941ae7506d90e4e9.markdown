@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Overcoming the Stability Gap in Continual Learning"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "MY Harun, C Kanan - arXiv preprint arXiv:2306.01904, 2023"
----
-In many real-world applications, deep neural networks are retrained from scratch as a dataset grows in size. Given the computational expense for retraining networks, it has been argued that continual learning could make updating networks more efficient. An obstacle to achieving this goal is the stability gap, which refers to an observation that when updating on new data, performance on previously learned data degrades before recovering. Addressing this problem would enable continual …
-Cites: ‪Carbon emissions and large neural network training‬
+--- 
+layout: post 
+title: "Overcoming the Stability Gap in Continual Learning" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "MY Harun, C Kanan - arXiv preprint arXiv:2306.01904, 2023" 
+--- 
+In many real-world applications, deep neural networks are retrained from scratch as a dataset grows in size. Given the computational expense for retraining networks, it has been argued that continual learning could make updating networks more efficient. An obstacle to achieving this goal is the stability gap, which refers to an observation that when updating on new data, performance on previously learned data degrades before recovering. Addressing this problem would enable continual  Cites: Carbon emissions and large neural network training

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "P Li, Y Wang, EH Chi, M Chen - arXiv preprint arXiv:2306.01475, 2023"
----
-Existing aspect extraction methods mostly rely on explicit or ground truth aspect information, or using data mining or machine learning approaches to extract aspects from implicit user feedback such as user reviews. It however remains under-explored how the extracted aspects can help generate more meaningful recommendations to the users. Meanwhile, existing research on aspect-based recommendations often relies on separate aspect extraction models or assumes the aspects are given …
-Cites: ‪Sparks of artificial general intelligence: Early experiments with gpt-4‬
+--- 
+layout: post 
+title: "Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "P Li, Y Wang, EH Chi, M Chen - arXiv preprint arXiv:2306.01475, 2023" 
+--- 
+Existing aspect extraction methods mostly rely on explicit or ground truth aspect information, or using data mining or machine learning approaches to extract aspects from implicit user feedback such as user reviews. It however remains under-explored how the extracted aspects can help generate more meaningful recommendations to the users. Meanwhile, existing research on aspect-based recommendations often relies on separate aspect extraction models or assumes the aspects are given  Cites: Sparks of artificial general intelligence: Early experiments with gpt-4

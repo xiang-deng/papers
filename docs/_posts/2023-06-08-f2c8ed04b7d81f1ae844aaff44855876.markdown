@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "AK Lew, T Zhi-Xuan, G Grand, VK Mansinghka - arXiv preprint arXiv:2306.03081, 2023"
----
-Even after fine-tuning and reinforcement learning, large language models (LLMs) can be difficult, if not impossible, to control reliably with prompts alone. We propose a new inference-time approach to enforcing syntactic and semantic constraints on the outputs of LLMs, called sequential Monte Carlo (SMC) steering. The key idea is to specify language generation tasks as posterior inference problems in a class of discrete probabilistic sequence models, and replace standard decoding with …
-Cites: ‪Direct Preference Optimization: Your Language Model is Secretly a …‬
+--- 
+layout: post 
+title: "Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "AK Lew, T Zhi-Xuan, G Grand, VK Mansinghka - arXiv preprint arXiv:2306.03081, 2023" 
+--- 
+Even after fine-tuning and reinforcement learning, large language models (LLMs) can be difficult, if not impossible, to control reliably with prompts alone. We propose a new inference-time approach to enforcing syntactic and semantic constraints on the outputs of LLMs, called sequential Monte Carlo (SMC) steering. The key idea is to specify language generation tasks as posterior inference problems in a class of discrete probabilistic sequence models, and replace standard decoding with  Cites: Direct Preference Optimization: Your Language Model is Secretly a

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Extract and Attend: Improving Entity Translation in Neural Machine Translation"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "Z Zeng, R Wang, Y Leng, J Guo, X Tan, T Qin, T Liu - arXiv preprint arXiv:2306.02242, 2023"
----
-While Neural Machine Translation (NMT) has achieved great progress in recent years, it still suffers from inaccurate translation of entities (eg, person/organization name, location), due to the lack of entity training instances. When we humans encounter an unknown entity during translation, we usually first look up in a dictionary and then organize the entity translation together with the translations of other parts to form a smooth target sentence. Inspired by this translation process, we …
-Cites: ‪DEEP: DEnoising Entity Pre-training for Neural Machine Translation‬
+--- 
+layout: post 
+title: "Extract and Attend: Improving Entity Translation in Neural Machine Translation" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "Z Zeng, R Wang, Y Leng, J Guo, X Tan, T Qin, T Liu - arXiv preprint arXiv:2306.02242, 2023" 
+--- 
+While Neural Machine Translation (NMT) has achieved great progress in recent years, it still suffers from inaccurate translation of entities (eg, person/organization name, location), due to the lack of entity training instances. When we humans encounter an unknown entity during translation, we usually first look up in a dictionary and then organize the entity translation together with the translations of other parts to form a smooth target sentence. Inspired by this translation process, we  Cites: DEEP: DEnoising Entity Pre-training for Neural Machine Translation

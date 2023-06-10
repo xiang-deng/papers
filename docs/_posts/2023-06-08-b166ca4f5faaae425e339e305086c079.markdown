@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Multi-Dimensional Evaluation of Text Summarization with In-Context Learning"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "S Jain, V Keshava, SM Sathyendra, P Fernandes, P Liu… - arXiv preprint arXiv …, 2023"
----
-Evaluation of natural language generation (NLG) is complex and multi-dimensional. Generated text can be evaluated for fluency, coherence, factuality, or any other dimensions of interest. Most frameworks that perform such multi-dimensional evaluation require training on large manually or synthetically generated datasets. In this paper, we study the efficacy of large language models as multi-dimensional evaluators using in-context learning, obviating the need for large training datasets …
-Cites: ‪News Summarization and Evaluation in the Era of GPT-3‬
+--- 
+layout: post 
+title: "Multi-Dimensional Evaluation of Text Summarization with In-Context Learning" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "S Jain, V Keshava, SM Sathyendra, P Fernandes, P Liu - arXiv preprint arXiv , 2023" 
+--- 
+Evaluation of natural language generation (NLG) is complex and multi-dimensional. Generated text can be evaluated for fluency, coherence, factuality, or any other dimensions of interest. Most frameworks that perform such multi-dimensional evaluation require training on large manually or synthetically generated datasets. In this paper, we study the efficacy of large language models as multi-dimensional evaluators using in-context learning, obviating the need for large training datasets  Cites: News Summarization and Evaluation in the Era of GPT-3

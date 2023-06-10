@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "H Xie, D Zheng, J Ma, H Zhang, VN Ioannidis, X Song… - arXiv preprint arXiv …, 2023"
----
-Model pre-training on large text corpora has been demonstrated effective for various downstream applications in the NLP domain. In the graph mining domain, a similar analogy can be drawn for pre-training graph models on large graphs in the hope of benefiting downstream graph applications, which has also been explored by several recent studies. However, no existing study has ever investigated the pre-training of text plus graph models on large heterogeneous graphs with abundant textual …
-Cites: ‪Deep bidirectional language-knowledge graph pretraining‬
+--- 
+layout: post 
+title: "Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "H Xie, D Zheng, J Ma, H Zhang, VN Ioannidis, X Song - arXiv preprint arXiv , 2023" 
+--- 
+Model pre-training on large text corpora has been demonstrated effective for various downstream applications in the NLP domain. In the graph mining domain, a similar analogy can be drawn for pre-training graph models on large graphs in the hope of benefiting downstream graph applications, which has also been explored by several recent studies. However, no existing study has ever investigated the pre-training of text plus graph models on large heterogeneous graphs with abundant textual  Cites: Deep bidirectional language-knowledge graph pretraining

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SelfEvolve: A Code Evolution Framework via Large Language Models"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "S Jiang, Y Wang, Y Wang - arXiv preprint arXiv:2306.02907, 2023"
----
-Large language models (LLMs) have already revolutionized code generation, after being pretrained on publicly available code data. However, while various methods have been proposed to augment LLMs with retrieved knowledge and enhance the quality of code generation, the performance of these retrieval-based methods is limited by the strength of the retrievers used. In addition, while LLMs show great emergent ability, they still struggle to produce the correct code in one turn. To …
-Cites: ‪DS-1000: A Natural and Reliable Benchmark for Data Science …‬
+--- 
+layout: post 
+title: "SelfEvolve: A Code Evolution Framework via Large Language Models" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "S Jiang, Y Wang, Y Wang - arXiv preprint arXiv:2306.02907, 2023" 
+--- 
+Large language models (LLMs) have already revolutionized code generation, after being pretrained on publicly available code data. However, while various methods have been proposed to augment LLMs with retrieved knowledge and enhance the quality of code generation, the performance of these retrieval-based methods is limited by the strength of the retrievers used. In addition, while LLMs show great emergent ability, they still struggle to produce the correct code in one turn. To  Cites: DS-1000: A Natural and Reliable Benchmark for Data Science

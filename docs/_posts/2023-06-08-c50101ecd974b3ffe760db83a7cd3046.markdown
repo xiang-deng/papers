@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Fine-Grained Human Feedback Gives Better Rewards for Language Model Training"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "Z Wu, Y Hu, W Shi, N Dziri, A Suhr, P Ammanabrolu… - arXiv preprint arXiv …, 2023"
----
-Language models (LMs) often exhibit undesirable text generation behaviors, including generating false, toxic, or irrelevant outputs. Reinforcement learning from human feedback (RLHF)-where human preference judgments on LM outputs are transformed into a learning signal-has recently shown promise in addressing these issues. However, such holistic feedback conveys limited information on long text outputs; it does not indicate which aspects of the outputs influenced user preference; …
-Cites: ‪FActScore: Fine-grained Atomic Evaluation of Factual Precision in …‬
+--- 
+layout: post 
+title: "Fine-Grained Human Feedback Gives Better Rewards for Language Model Training" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "Z Wu, Y Hu, W Shi, N Dziri, A Suhr, P Ammanabrolu - arXiv preprint arXiv , 2023" 
+--- 
+Language models (LMs) often exhibit undesirable text generation behaviors, including generating false, toxic, or irrelevant outputs. Reinforcement learning from human feedback (RLHF)-where human preference judgments on LM outputs are transformed into a learning signal-has recently shown promise in addressing these issues. However, such holistic feedback conveys limited information on long text outputs; it does not indicate which aspects of the outputs influenced user preference;  Cites: FActScore: Fine-grained Atomic Evaluation of Factual Precision in

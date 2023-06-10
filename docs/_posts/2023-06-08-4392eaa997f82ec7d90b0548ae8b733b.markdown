@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Active Code Learning: Benchmarking Sample-Efficient Training of Code Models"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "Q Hu, Y Guo, X Xie, M Cordy, L Ma, M Papadakis… - arXiv preprint arXiv …, 2023"
----
-The costly human effort required to prepare the training data of machine learning (ML) models hinders their practical development and usage in software engineering (ML4Code), especially for those with limited budgets. Therefore, efficiently training models of code with less human effort has become an emergent problem. Active learning is such a technique to address this issue that allows developers to train a model with reduced data while producing models with desired performance, which …
-Cites: ‪Dawn Drain‬
+--- 
+layout: post 
+title: "Active Code Learning: Benchmarking Sample-Efficient Training of Code Models" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "Q Hu, Y Guo, X Xie, M Cordy, L Ma, M Papadakis - arXiv preprint arXiv , 2023" 
+--- 
+The costly human effort required to prepare the training data of machine learning (ML) models hinders their practical development and usage in software engineering (ML4Code), especially for those with limited budgets. Therefore, efficiently training models of code with less human effort has become an emergent problem. Active learning is such a technique to address this issue that allows developers to train a model with reduced data while producing models with desired performance, which  Cites: Dawn Drain

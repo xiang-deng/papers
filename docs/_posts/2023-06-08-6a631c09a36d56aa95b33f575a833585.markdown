@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Commonsense Knowledge Transfer for Pre-trained Language Models"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "W Zhou, RL Bras, Y Choi - arXiv preprint arXiv:2306.02388, 2023"
----
-Despite serving as the foundation models for a wide range of NLP benchmarks, pre-trained language models have shown limited capabilities of acquiring implicit commonsense knowledge from self-supervision alone, compared to learning linguistic and factual knowledge that appear more explicitly in the surface patterns in text. In this work, we introduce commonsense knowledge transfer, a framework to transfer the commonsense knowledge stored in a neural commonsense knowledge …
-Cites: ‪Emergent linguistic structure in artificial neural networks trained by …‬
+--- 
+layout: post 
+title: "Commonsense Knowledge Transfer for Pre-trained Language Models" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "W Zhou, RL Bras, Y Choi - arXiv preprint arXiv:2306.02388, 2023" 
+--- 
+Despite serving as the foundation models for a wide range of NLP benchmarks, pre-trained language models have shown limited capabilities of acquiring implicit commonsense knowledge from self-supervision alone, compared to learning linguistic and factual knowledge that appear more explicitly in the surface patterns in text. In this work, we introduce commonsense knowledge transfer, a framework to transfer the commonsense knowledge stored in a neural commonsense knowledge  Cites: Emergent linguistic structure in artificial neural networks trained by

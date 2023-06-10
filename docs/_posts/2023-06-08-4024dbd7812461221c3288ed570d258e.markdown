@@ -1,9 +1,0 @@
----
-layout: post
-title:  "KL-Divergence Guided Temperature Sampling"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "CC Chang, D Reitter, R Aksitov, YH Sung - arXiv preprint arXiv:2306.01286, 2023"
----
-Temperature sampling is a conventional approach to diversify large language model predictions. As temperature increases, the prediction becomes diverse but also vulnerable to hallucinations--generating tokens that are sensible but not factual. One common approach to mitigate hallucinations is to provide source/grounding documents and the model is trained to produce predictions that bind to and are attributable to the provided source. It appears that there is a trade-off between …
-Cites: ‪mFACE: Multilingual Summarization with Factual Consistency …‬

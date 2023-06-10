@@ -1,9 +1,0 @@
----
-layout: post
-title:  "多注意力机制 BERT 分类模型及其在电力运维中的应用."
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "王文娟， 何晓莲， 胡峰， 赵伟， 钟淘淘 - Journal of Chongqing University of Posts & …, 2023"
----
-为了提高变换网路中双向编码表示(bidirectional encoder representations from transformersꎬBERT) 在文本分类中的应用效果ꎬ 针对基于BERT 的文本分类模型在注意力机制设计中无法关注文本中重点信息的问题ꎬ 提出了一种基于多注意力机制的BERT 分类模型ꎮ 对BERT 模型框架中后四层的每一层输入向量ꎬ 设计词向量注意力机制ꎬ 捕捉向量表中每一个词的重要性ꎻ 对得到的BERT 模型框架中后四层ꎬ 设计层向量注意力机制ꎬ 将这四层上由自适应权重计算得到的每一层输出向量进行融合 …
-Cites: ‪Google, KT, Language, AI: BERT: pre-training of deep bidirectional …‬

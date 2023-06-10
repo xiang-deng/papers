@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Sen2Pro: A Probabilistic Perspective to Sentence Embedding from Pre-trained Language Model"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "L Shen, H Jiang, L Liu, S Shi - arXiv preprint arXiv:2306.02247, 2023"
----
-Sentence embedding is one of the most fundamental tasks in Natural Language Processing and plays an important role in various tasks. The recent breakthrough in sentence embedding is achieved by pre-trained language models (PLMs). Despite its success, an embedded vector (Sen2Vec) representing a point estimate does not naturally express uncertainty in a taskagnostic way. This paper thereby proposes an efficient framework on probabilistic sentence embedding (Sen2Pro) from PLMs, and …
-Cites: ‪Whiteningbert: An easy unsupervised sentence embedding …‬
+--- 
+layout: post 
+title: "Sen2Pro: A Probabilistic Perspective to Sentence Embedding from Pre-trained Language Model" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "L Shen, H Jiang, L Liu, S Shi - arXiv preprint arXiv:2306.02247, 2023" 
+--- 
+Sentence embedding is one of the most fundamental tasks in Natural Language Processing and plays an important role in various tasks. The recent breakthrough in sentence embedding is achieved by pre-trained language models (PLMs). Despite its success, an embedded vector (Sen2Vec) representing a point estimate does not naturally express uncertainty in a taskagnostic way. This paper thereby proposes an efficient framework on probabilistic sentence embedding (Sen2Pro) from PLMs, and  Cites: Whiteningbert: An easy unsupervised sentence embedding

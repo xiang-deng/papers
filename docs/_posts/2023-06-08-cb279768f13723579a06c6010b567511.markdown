@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Thorough Data Pruning for Join Query in Database System"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "G Jintao, L Zhanhuai, S Jian - IEEE Transactions on Sustainable Computing, 2023"
----
-The improvement of robustness and efficiency for multi-way equijoin query is challenging, no-matter for centralized database systems or distributed database systems. Due to lots of unnecessary data existing during query processing, these two metrics will be seriously reduced. If we can thoroughly prune unnecessary data in advance, the robustness and efficiency will be highly improved. However, the pruning power of current strategies, such as predicate push-down and algebraic …
-Cites: ‪Query optimization by predicate move-around‬
+--- 
+layout: post 
+title: "Thorough Data Pruning for Join Query in Database System" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "G Jintao, L Zhanhuai, S Jian - IEEE Transactions on Sustainable Computing, 2023" 
+--- 
+The improvement of robustness and efficiency for multi-way equijoin query is challenging, no-matter for centralized database systems or distributed database systems. Due to lots of unnecessary data existing during query processing, these two metrics will be seriously reduced. If we can thoroughly prune unnecessary data in advance, the robustness and efficiency will be highly improved. However, the pruning power of current strategies, such as predicate push-down and algebraic  Cites: Query optimization by predicate move-around

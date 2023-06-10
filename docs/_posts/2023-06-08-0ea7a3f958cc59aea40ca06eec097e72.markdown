@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "T Dettmers, R Svirschevski, V Egiazarian… - arXiv preprint arXiv …, 2023"
----
-Recent advances in large language model (LLM) pretraining have led to high-quality LLMs with impressive abilities. By compressing such LLMs via quantization to 3-4 bits per parameter, they can fit into memory-limited devices such as laptops and mobile phones, enabling personalized use. However, quantization down to 3-4 bits per parameter usually leads to moderate-to-high accuracy losses, especially for smaller models in the 1-10B parameter range, which are well-suited for edge …
-Cites: ‪The case for 4-bit precision: k-bit Inference Scaling Laws‬
+--- 
+layout: post 
+title: "SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "T Dettmers, R Svirschevski, V Egiazarian - arXiv preprint arXiv , 2023" 
+--- 
+Recent advances in large language model (LLM) pretraining have led to high-quality LLMs with impressive abilities. By compressing such LLMs via quantization to 3-4 bits per parameter, they can fit into memory-limited devices such as laptops and mobile phones, enabling personalized use. However, quantization down to 3-4 bits per parameter usually leads to moderate-to-high accuracy losses, especially for smaller models in the 1-10B parameter range, which are well-suited for edge  Cites: The case for 4-bit precision: k-bit Inference Scaling Laws

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On Optimal Caching and Model Multiplexing for Large Model Inference"
-date:   2023-06-08 03:52:18 -0400
-categories: jekyll update
-author: "B Zhu, Y Sheng, L Zheng, C Barrett, MI Jordan, J Jiao - arXiv preprint arXiv …, 2023"
----
-Large Language Models (LLMs) and other large foundation models have achieved noteworthy success, but their size exacerbates existing resource consumption and latency challenges. In particular, the large-scale deployment of these models is hindered by the significant resource requirements during inference. In this paper, we study two approaches for mitigating these challenges: employing a cache to store previous queries and learning a model multiplexer to choose from an ensemble of …
-Cites: ‪Emergent abilities of large language models‬
+--- 
+layout: post 
+title: "On Optimal Caching and Model Multiplexing for Large Model Inference" 
+date: 2023-06-08 03:52:18 -0400 
+categories: jekyll update 
+author: "B Zhu, Y Sheng, L Zheng, C Barrett, MI Jordan, J Jiao - arXiv preprint arXiv , 2023" 
+--- 
+Large Language Models (LLMs) and other large foundation models have achieved noteworthy success, but their size exacerbates existing resource consumption and latency challenges. In particular, the large-scale deployment of these models is hindered by the significant resource requirements during inference. In this paper, we study two approaches for mitigating these challenges: employing a cache to store previous queries and learning a model multiplexer to choose from an ensemble of  Cites: Emergent abilities of large language models
