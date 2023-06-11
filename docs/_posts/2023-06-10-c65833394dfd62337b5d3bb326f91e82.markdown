@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ModuleFormer: Learning Modular Large Language Models From Uncurated Data"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "Y Shen, Z Zhang, T Cao, S Tan, Z Chen, C Gan - arXiv preprint arXiv:2306.04640, 2023"
+---
+Large Language Models (LLMs) have achieved remarkable results. But existing models are expensive to train and deploy, and it is also difficult to expand their knowledge beyond pre-training data without forgetting previous knowledge. This paper proposes a new neural network architecture, ModuleFormer, that leverages modularity to improve the efficiency and flexibility of large language models. ModuleFormer is based on the Sparse Mixture of Experts (SMoE). Unlike the …
+Cites: ‪Train short, test long: Attention with linear biases enables input …‬

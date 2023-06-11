@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "SP Arango, F Ferreira, A Kadra, FHJ Grabocka - arXiv preprint arXiv:2306.03828, 2023"
+---
+With the ever-increasing number of pretrained models, machine learning practitioners are continuously faced with which pretrained model to use, and how to finetune it for a new dataset. In this paper, we propose a methodology that jointly searches for the optimal pretrained model and the hyperparameters for finetuning it. Our method transfers knowledge about the performance of many pretrained models with multiple hyperparameter configurations on a series of datasets. To this aim, we …
+Cites: ‪Robust fine-tuning of zero-shot models‬

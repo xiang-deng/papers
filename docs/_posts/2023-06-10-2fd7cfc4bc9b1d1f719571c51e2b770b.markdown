@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dual policy as self-model for planning"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "J Yoo, F de la Torre, RG Yang - arXiv preprint arXiv:2306.04440, 2023"
+---
+Planning is a data efficient decision-making strategy where an agent selects candidate actions by exploring possible future states. To simulate future states when there is a high-dimensional action space, the knowledge of one s decision making strategy must be used to limit the number of actions to be explored. We refer to the model used to simulate one s decisions as the agent s self-model. While self-models are implicitly used widely in conjunction with world models to plan actions, it remains …
+Cites: ‪Separating the world and ego models for self-driving‬

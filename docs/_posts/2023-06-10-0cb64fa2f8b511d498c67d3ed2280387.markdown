@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Static Evaluation of Code Completion by Large Language Models"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "H Ding, V Kumar, Y Tian, Z Wang, R Kwiatkowski, X Li… - arXiv preprint arXiv …, 2023"
+---
+Large language models trained on code have shown great potential to increase productivity of software developers. Several execution-based benchmarks have been proposed to evaluate functional correctness of model-generated code on simple programming problems. Nevertheless, it is expensive to perform the same evaluation on complex real-world projects considering the execution cost. On the contrary, static analysis tools such as linters, which can detect errors without running …
+Cites: ‪DS-1000: A Natural and Reliable Benchmark for Data Science …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "Y Bai, F Chen, H Wang, C Xiong, S Mei - arXiv preprint arXiv:2306.04637, 2023"
+---
+Neural sequence models based on the transformer architecture have demonstrated remarkable\emph {in-context learning}(ICL) abilities, where they can perform new tasks when prompted with training and test examples, without any parameter update to the model. This work first provides a comprehensive statistical theory for transformers to perform ICL. Concretely, we show that transformers can implement a broad class of standard machine learning algorithms in context, such as least …
+Cites: ‪Metaicl: Learning to learn in context‬

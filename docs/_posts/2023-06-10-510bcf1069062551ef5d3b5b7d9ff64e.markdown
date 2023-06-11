@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How Can We Train Deep Learning Models Across Clouds and Continents? An Experimental Study"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "A Isenko, R Mayer, HA Jacobsen - arXiv preprint arXiv:2306.03163, 2023"
+---
+Training deep learning models in the cloud or on dedicated hardware is expensive. A more cost-efficient option are hyperscale clouds offering spot instances, a cheap but ephemeral alternative to on-demand resources. As spot instance availability can change depending on the time of day, continent, and cloud provider, it could be more cost-efficient to distribute resources over the world. Still, it has not been investigated whether geo-distributed, data-parallel spot deep learning training could be a more …
+Cites: ‪Stable and low-precision training for large-scale vision-language …‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PromptAttack: Probing Dialogue State Trackers with Adversarial Prompts"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "X Dong, Y He, Z Zhu, J Caverlee - arXiv preprint arXiv:2306.04535, 2023"
+---
+A key component of modern conversational systems is the Dialogue State Tracker (or DST), which models a user s goals and needs. Toward building more robust and reliable DSTs, we introduce a prompt-based learning approach to automatically generate effective adversarial examples to probe DST models. Two key characteristics of this approach are:(i) it only needs the output of the DST with no need for model parameters, and (ii) it can learn to generate natural language …
+Cites: ‪Factual Probing Is [MASK]: Learning vs. Learning to Recall‬

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "JJY Chung, E Kamar, S Amershi - arXiv preprint arXiv:2306.04140, 2023"
+---
+Large language models (LLMs) can be used to generate text data for training and evaluating other models. However, creating high-quality datasets with LLMs can be challenging. In this work, we explore human-AI partnerships to facilitate high diversity and accuracy in LLM-based text data generation. We first examine two approaches to diversify text generation: 1) logit suppression, which minimizes the generation of languages that have already been frequently generated, and 2) temperature …
+Cites: ‪Adaptive testing and debugging of nlp models‬

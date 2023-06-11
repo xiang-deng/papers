@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "K Zhu, J Wang, J Zhou, Z Wang, H Chen, Y Wang… - arXiv preprint arXiv …, 2023"
+---
+The increasing reliance on Large Language Models (LLMs) across academia and industry necessitates a comprehensive understanding of their robustness to prompts. In response to this vital need, we introduce PromptBench, a robustness benchmark designed to measure LLMs  resilience to adversarial prompts. This study uses a plethora of adversarial textual attacks targeting prompts across multiple levels: character, word, sentence, and semantic. These prompts are then employed in …
+Cites: ‪Beyond Accuracy: Behavioral Testing of NLP Models with CheckList‬

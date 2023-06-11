@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "B Sun, Y Yang, L Zhang, MM Cheng, Q Hou - arXiv preprint arXiv:2306.04300, 2023"
+---
+In this paper, we present a simple but performant semi-supervised semantic segmentation approach, termed CorrMatch. Our goal is to mine more high-quality regions from the unlabeled images to leverage the unlabeled data more efficiently via consistency regularization. The key contributions of our CorrMatch are two novel and complementary strategies. First, we introduce an adaptive threshold updating strategy with a relaxed initialization to expand the high-quality regions. Furthermore …
+Cites: ‪Rethinking pre-training and self-training‬

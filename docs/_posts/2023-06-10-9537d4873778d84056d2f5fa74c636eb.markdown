@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unsupervised Dense Retrieval with Relevance-Aware Contrastive Pre-Training"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "Y Lei, L Ding, Y Cao, C Zan, A Yates, D Tao - arXiv preprint arXiv:2306.03166, 2023"
+---
+Dense retrievers have achieved impressive performance, but their demand for abundant training data limits their application scenarios. Contrastive pre-training, which constructs pseudo-positive examples from unlabeled data, has shown great potential to solve this problem. However, the pseudo-positive examples crafted by data augmentations can be irrelevant. To this end, we propose relevance-aware contrastive learning. It takes the intermediate-trained model itself as an imperfect …
+Cites: ‪Unsupervised dense information retrieval with contrastive learning‬

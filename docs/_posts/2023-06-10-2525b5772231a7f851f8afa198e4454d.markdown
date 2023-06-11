@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Phrase Retrieval for Open-Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "S Jeong, J Baek, SJ Hwang, JC Park - arXiv preprint arXiv:2306.04293, 2023"
+---
+Open-Domain Conversational Question Answering (ODConvQA) aims at answering questions through a multi-turn conversation based on a retriever-reader pipeline, which retrieves passages and then predicts answers with them. However, such a pipeline approach not only makes the reader vulnerable to the errors propagated from the retriever, but also demands additional effort to develop both the retriever and the reader, which further makes it slower since they are not runnable in parallel …
+Cites: ‪Ditch the Gold Standard: Re-evaluating Conversational Question …‬

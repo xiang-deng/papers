@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Effective Neural Topic Modeling with Embedding Clustering Regularization"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "X Wu, X Dong, T Nguyen, AT Luu - arXiv preprint arXiv:2306.04217, 2023"
+---
+Topic models have been prevalent for decades with various applications. However, existing topic models commonly suffer from the notorious topic collapsing: discovered topics semantically collapse towards each other, leading to highly repetitive topics, insufficient topic discovery, and damaged model interpretability. In this paper, we propose a new neural topic model, Embedding Clustering Regularization Topic Model (ECRTM). Besides the existing reconstruction error, we …
+Cites: ‪Applications of topic models‬

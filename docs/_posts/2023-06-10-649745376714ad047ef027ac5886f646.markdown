@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Few Shot Rationale Generation using Self-Training with Dual Teachers"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "AS Veerubhotla, L Poddar, J Yin, G Szarvas… - arXiv preprint arXiv …, 2023"
+---
+Self-rationalizing models that also generate a free-text explanation for their predicted labels are an important tool to build trustworthy AI applications. Since generating explanations for annotated labels is a laborious and costly pro cess, recent models rely on large pretrained language models (PLMs) as their backbone and few-shot learning. In this work we explore a self-training approach leveraging both labeled and unlabeled data to further improve few-shot models, under the assumption that …
+Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬

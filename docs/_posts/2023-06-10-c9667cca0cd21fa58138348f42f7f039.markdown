@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Obscurity-Quantified Curriculum Learning for Machine Translation Evaluation"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "C Zhang, DF Wong, ESK Lei, R Zhan, LS Chao - IEEE/ACM Transactions on Audio …, 2023"
+---
+The pre-trained language model has been developed for evaluating the quality of machine translation. It achieves state-of-the-art results. However, building a model for the evaluation of machine translation still faces the following challenges: 1) large scale of the training data affects the speed of the optimization; 2) the varied quality of the training data makes the optimization process unstable. To alleviate the issues of data learning, curriculum learning is proposed to rearrange the training sequence …
+Cites: ‪BARTScore: Evaluating Generated Text as Text Generation‬

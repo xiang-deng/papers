@@ -5,4 +5,4 @@ date: 2023-06-08 03:52:18 -0400
 categories: jekyll update 
 author: "Y Peng, S Gao, C Gao, Y Huo, MR Lyu - arXiv preprint arXiv:2306.01394, 2023" 
 --- 
-Although the dynamic type system of Python facilitates the developers in writing Python programs, it also brings type errors at run-time. There exist rule-based approaches for automatically repairing Python type errors. The approaches can generate accurate patches but they require domain experts to design patch synthesis rules and suffer from low template coverage of real-world type errors. Learning-based approaches alleviate the manual efforts in designing patch synthesis rules  Cites: Dawn Drain
+Although the dynamic type system of Python facilitates the developers in writing Python programs, it also brings type errors at run-time. There exist rule-based approaches for automatically repairing Python type errors. The approaches can generate accurate patches but they require domain experts to design patch synthesis rules and suffer from low template coverage of real-world type errors. Learning-based approaches alleviate the manual efforts in designing patch synthesis rules Cites: Dawn Drain

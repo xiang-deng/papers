@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Joint Event Extraction via Structural Semantic Matching"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "H Li, T Gao, J Wang, W Li - arXiv preprint arXiv:2306.03469, 2023"
+---
+Event Extraction (EE) is one of the essential tasks in information extraction, which aims to detect event mentions from text and find the corresponding argument roles. The EE task can be abstracted as a process of matching the semantic definitions and argument structures of event types with the target text. This paper encodes the semantic features of event types and makes structural matching with target text. Specifically, Semantic Type Embedding (STE) and Dynamic Structure Encoder …
+Cites: ‪A language-independent neural network for event detection‬

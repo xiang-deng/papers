@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Enhancing In-Context Learning with Answer Feedback for Multi-Span Question Answering"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "Z Huang, J Zhou, G Xiao, G Cheng - arXiv preprint arXiv:2306.04508, 2023"
+---
+Whereas the recent emergence of large language models (LLMs) like ChatGPT has exhibited impressive general performance, it still has a large gap with fully-supervised models on specific tasks such as multi-span question answering. Previous researches found that in-context learning is an effective approach to exploiting LLM, by using a few task-related labeled data as demonstration examples to construct a few-shot prompt for answering new questions. A popular …
+Cites: ‪Fantastically ordered prompts and where to find them: Overcoming …‬

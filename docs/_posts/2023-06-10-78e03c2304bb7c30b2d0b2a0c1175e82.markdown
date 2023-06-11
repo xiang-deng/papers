@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "An inner table retriever for robust table question answering"
+date:   2023-06-10 05:24:39 -0400
+categories: jekyll update
+author: "W Lin, R Blloshmi, B Byrne, A de Gispert, G Iglesias - 2023"
+---
+Recent years have witnessed the thriving of pretrained Transformer-based language models for understanding semi-structured tables, with several applications, such as Table Question Answering (TableQA). These models are typically trained on joint tables and surrounding natural language text, by linearizing table content into sequences comprising special tokens and cell information. This yields very long sequences which increase system inefficiency, and moreover, simply truncating long …
+Cites: ‪OmniTab: Pretraining with Natural and Synthetic Data for Few-shot …‬
