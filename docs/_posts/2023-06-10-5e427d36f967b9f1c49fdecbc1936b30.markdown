@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CONCORD: Clone-aware Contrastive Learning for Source Code"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "Y Ding, S Chakraborty, L Buratti, S Pujar, A Morari… - arXiv preprint arXiv …, 2023"
----
-Deep Learning (DL) models to analyze source code have shown immense promise during the past few years. More recently, self-supervised pre-training has gained traction for learning generic code representations valuable for many downstream SE tasks, such as clone and bug detection. While previous work successfully learned from different code abstractions (eg, token, AST, graph), we argue that it is also essential to factor in how developers code day-to-day for general-purpose …
-Cites: ‪A Systematic Evaluation of Large Language Models of Code‬
+--- 
+layout: post 
+title: "CONCORD: Clone-aware Contrastive Learning for Source Code" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "Y Ding, S Chakraborty, L Buratti, S Pujar, A Morari - arXiv preprint arXiv , 2023" 
+--- 
+Deep Learning (DL) models to analyze source code have shown immense promise during the past few years. More recently, self-supervised pre-training has gained traction for learning generic code representations valuable for many downstream SE tasks, such as clone and bug detection. While previous work successfully learned from different code abstractions (eg, token, AST, graph), we argue that it is also essential to factor in how developers code day-to-day for general-purpose  Cites: A Systematic Evaluation of Large Language Models of Code

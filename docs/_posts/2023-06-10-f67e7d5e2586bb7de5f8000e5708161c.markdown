@@ -1,8 +1,8 @@
----
-layout: post
-title:  "Exploring Chain-of-Thought Style Prompting for Text-to-SQL"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "CY Tai, Z Chen, T Zhang, X Deng, H Sun - arXiv preprint arXiv:2305.14215, 2023"
----
-Conventional supervised approaches for text-to-SQL parsing often require large amounts of annotated data, which is costly to obtain in practice. Recently, in-context learning with large language models (LLMs) has caught increasing attention due to …
+--- 
+layout: post 
+title: "Exploring Chain-of-Thought Style Prompting for Text-to-SQL" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "CY Tai, Z Chen, T Zhang, X Deng, H Sun - arXiv preprint arXiv:2305.14215, 2023" 
+--- 
+Conventional supervised approaches for text-to-SQL parsing often require large amounts of annotated data, which is costly to obtain in practice. Recently, in-context learning with large language models (LLMs) has caught increasing attention due to

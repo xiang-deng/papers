@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Large Language Models of Code Fail at Completing Code with Potential Bugs"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "T Dinh, J Zhao, S Tan, R Negrinho, L Lausen, S Zha… - arXiv preprint arXiv …, 2023"
----
-Large language models of code (Code-LLMs) have recently brought tremendous advances to code completion, a fundamental feature of programming assistance and code intelligence. However, most existing works ignore the possible presence of bugs in the code context for generation, which are inevitable in software development. Therefore, we introduce and study the buggy-code completion problem, inspired by the realistic scenario of real-time code suggestion where the …
-Cites: ‪Incoder: A generative model for code infilling and synthesis‬
+--- 
+layout: post 
+title: "Large Language Models of Code Fail at Completing Code with Potential Bugs" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "T Dinh, J Zhao, S Tan, R Negrinho, L Lausen, S Zha - arXiv preprint arXiv , 2023" 
+--- 
+Large language models of code (Code-LLMs) have recently brought tremendous advances to code completion, a fundamental feature of programming assistance and code intelligence. However, most existing works ignore the possible presence of bugs in the code context for generation, which are inevitable in software development. Therefore, we introduce and study the buggy-code completion problem, inspired by the realistic scenario of real-time code suggestion where the  Cites: Incoder: A generative model for code infilling and synthesis

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Liu, S Yang, P Jia, M Lu, Y Guo, W Xue, S Zhang - arXiv preprint arXiv:2306.04344, 2023"
----
-Since real-world machine systems are running in non-stationary and continually changing environments, Continual Test-Time Adaptation (CTTA) task is proposed to adapt the pre-trained model to continually changing target domains. Recently, existing methods mainly focus on model-based adaptation, which aims to leverage a self-training manner to extract the target domain knowledge. However, pseudo labels can be noisy and the updated model parameters are uncertain under dynamic data …
-Cites: ‪Making Pre-trained Language Models Better Few-shot Learners‬
+--- 
+layout: post 
+title: "ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Liu, S Yang, P Jia, M Lu, Y Guo, W Xue, S Zhang - arXiv preprint arXiv:2306.04344, 2023" 
+--- 
+Since real-world machine systems are running in non-stationary and continually changing environments, Continual Test-Time Adaptation (CTTA) task is proposed to adapt the pre-trained model to continually changing target domains. Recently, existing methods mainly focus on model-based adaptation, which aims to leverage a self-training manner to extract the target domain knowledge. However, pseudo labels can be noisy and the updated model parameters are uncertain under dynamic data  Cites: Making Pre-trained Language Models Better Few-shot Learners

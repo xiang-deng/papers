@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "M Mukherjee, VJ Hellendoorn - arXiv preprint arXiv:2306.03268, 2023"
----
-Large pre-trained neural language models have brought immense progress to both NLP and software engineering. Models in OpenAI s GPT series now dwarf Google s BERT and Meta s RoBERTa, which previously set new benchmarks on a wide range of NLP applications. These models are trained on massive corpora of heterogeneous data from web crawls, which enables them to learn general language patterns and semantic relationships. However, the largest models are both expensive to train and …
-Cites: ‪Palm: Scaling language modeling with pathways‬
+--- 
+layout: post 
+title: "Stack Over-Flowing with Results: The Case for Domain-Specific Pre-Training Over One-Size-Fits-All Models" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "M Mukherjee, VJ Hellendoorn - arXiv preprint arXiv:2306.03268, 2023" 
+--- 
+Large pre-trained neural language models have brought immense progress to both NLP and software engineering. Models in OpenAI s GPT series now dwarf Google s BERT and Meta s RoBERTa, which previously set new benchmarks on a wide range of NLP applications. These models are trained on massive corpora of heterogeneous data from web crawls, which enables them to learn general language patterns and semantic relationships. However, the largest models are both expensive to train and  Cites: Palm: Scaling language modeling with pathways

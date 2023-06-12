@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Impact of Large Language Models on Generating Software Specifications"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "D Xie, B Yoo, N Jiang, M Kim, L Tan, X Zhang, JS Lee - arXiv preprint arXiv …, 2023"
----
-Software specifications are essential for ensuring the reliability of software systems. Existing specification extraction approaches, however, suffer from limited generalizability and require manual efforts. We study the effectiveness of Large Language Models (LLMs) in generating software specifications from software documentation, utilizing Few-Shot Learning (FSL) to enable LLMs to generalize from a small number of examples. We compare the performance of LLMs with FSL to that …
-Cites: ‪Learning To Retrieve Prompts for In-Context Learning‬
+--- 
+layout: post 
+title: "Impact of Large Language Models on Generating Software Specifications" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "D Xie, B Yoo, N Jiang, M Kim, L Tan, X Zhang, JS Lee - arXiv preprint arXiv , 2023" 
+--- 
+Software specifications are essential for ensuring the reliability of software systems. Existing specification extraction approaches, however, suffer from limited generalizability and require manual efforts. We study the effectiveness of Large Language Models (LLMs) in generating software specifications from software documentation, utilizing Few-Shot Learning (FSL) to enable LLMs to generalize from a small number of examples. We compare the performance of LLMs with FSL to that  Cites: Learning To Retrieve Prompts for In-Context Learning

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "CUE: An Uncertainty Interpretation Framework for Text Classifiers Built on Pre-Trained Language Models"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Li, Z Sun, B Liang, L Gui, Y He - arXiv preprint arXiv:2306.03598, 2023"
----
-Text classifiers built on Pre-trained Language Models (PLMs) have achieved remarkable progress in various tasks including sentiment analysis, natural language inference, and question-answering. However, the occurrence of uncertain predictions by these classifiers poses a challenge to their reliability when deployed in practical applications. Much effort has been devoted to designing various probes in order to understand what PLMs capture. But few studies have delved into factors …
-Cites: ‪Calibration of Pre-trained Transformers‬
+--- 
+layout: post 
+title: "CUE: An Uncertainty Interpretation Framework for Text Classifiers Built on Pre-Trained Language Models" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Li, Z Sun, B Liang, L Gui, Y He - arXiv preprint arXiv:2306.03598, 2023" 
+--- 
+Text classifiers built on Pre-trained Language Models (PLMs) have achieved remarkable progress in various tasks including sentiment analysis, natural language inference, and question-answering. However, the occurrence of uncertain predictions by these classifiers poses a challenge to their reliability when deployed in practical applications. Much effort has been devoted to designing various probes in order to understand what PLMs capture. But few studies have delved into factors  Cites: Calibration of Pre-trained Transformers

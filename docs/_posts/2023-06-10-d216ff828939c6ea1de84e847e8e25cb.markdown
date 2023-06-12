@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Making It Tractable to Catch Duplicates and Conflicts in Graphs"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "W Fan, W Fu, R Jin, M Liu, P Lu, C Tian - Proceedings of the ACM on Management of …, 2023"
----
-This paper proposes an approach for entity resolution (ER) and conflict resolution (CR) in large-scale graphs. It is based on a class of Graph Cleaning Rules (GCRs), which support the primitives of relational data cleaning rules, and may embed machine learning classifiers as predicates. As opposed to previous graph rules, GCRs are defined with a dual graph pattern to accommodate irregular structures of schemaless graphs, and adopt patterns of a star form to reduce the complexity. We …
-Cites: ‪Multi-hop knowledge graph reasoning with reward shaping‬
+--- 
+layout: post 
+title: "Making It Tractable to Catch Duplicates and Conflicts in Graphs" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "W Fan, W Fu, R Jin, M Liu, P Lu, C Tian - Proceedings of the ACM on Management of , 2023" 
+--- 
+This paper proposes an approach for entity resolution (ER) and conflict resolution (CR) in large-scale graphs. It is based on a class of Graph Cleaning Rules (GCRs), which support the primitives of relational data cleaning rules, and may embed machine learning classifiers as predicates. As opposed to previous graph rules, GCRs are defined with a dual graph pattern to accommodate irregular structures of schemaless graphs, and adopt patterns of a star form to reduce the complexity. We  Cites: Multi-hop knowledge graph reasoning with reward shaping

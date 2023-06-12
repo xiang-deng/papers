@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Reliability of Watermarks for Large Language Models"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Kirchenbauer, J Geiping, Y Wen, M Shu, K Saifullah… - arXiv preprint arXiv …, 2023"
----
-Large language models (LLMs) are now deployed to everyday use and positioned to produce large quantities of text in the coming decade. Machine-generated text may displace human-written text on the internet and has the potential to be used for malicious purposes, such as spearphishing attacks and social media bots. Watermarking is a simple and effective strategy for mitigating such harms by enabling the detection and documentation of LLM-generated text. Yet, a crucial …
-Cites: ‪Paraphrasing evades detectors of ai-generated text, but retrieval is …‬
+--- 
+layout: post 
+title: "On the Reliability of Watermarks for Large Language Models" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Kirchenbauer, J Geiping, Y Wen, M Shu, K Saifullah - arXiv preprint arXiv , 2023" 
+--- 
+Large language models (LLMs) are now deployed to everyday use and positioned to produce large quantities of text in the coming decade. Machine-generated text may displace human-written text on the internet and has the potential to be used for malicious purposes, such as spearphishing attacks and social media bots. Watermarking is a simple and effective strategy for mitigating such harms by enabling the detection and documentation of LLM-generated text. Yet, a crucial  Cites: Paraphrasing evades detectors of ai-generated text, but retrieval is

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Expanding Explainability Horizons: A Unified Concept-Based System for Local, Global, and Misclassification Explanations"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "F Aghaeipoor, D Asgarian, M Sabokrou - arXiv preprint arXiv:2306.03531, 2023"
----
-Explainability of intelligent models has been garnering increasing attention in recent years. Of the various explainability approaches, concept-based techniques are notable for utilizing a set of human-meaningful concepts instead of focusing on individual pixels. However, there is a scarcity of methods that consistently provide both local and global explanations. Moreover, most of the methods have no offer to explain misclassification cases. To address these challenges, our study follows a …
-Cites: ‪Do feature attribution methods correctly attribute features?‬
+--- 
+layout: post 
+title: "Expanding Explainability Horizons: A Unified Concept-Based System for Local, Global, and Misclassification Explanations" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "F Aghaeipoor, D Asgarian, M Sabokrou - arXiv preprint arXiv:2306.03531, 2023" 
+--- 
+Explainability of intelligent models has been garnering increasing attention in recent years. Of the various explainability approaches, concept-based techniques are notable for utilizing a set of human-meaningful concepts instead of focusing on individual pixels. However, there is a scarcity of methods that consistently provide both local and global explanations. Moreover, most of the methods have no offer to explain misclassification cases. To address these challenges, our study follows a  Cites: Do feature attribution methods correctly attribute features?

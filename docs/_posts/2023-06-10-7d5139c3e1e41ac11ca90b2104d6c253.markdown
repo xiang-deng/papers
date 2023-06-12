@@ -1,9 +1,0 @@
----
-layout: post
-title:  "问答系统中复杂问题分解方法研究综述."
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "冯钧， 李艳， 杭婷婷 - Journal of Computer Engineering & Applications, 2022"
----
-问答系统可以针对用户提出的自然语言问题给出精准的答案, 是自然语言处理领域中一个重要的研究方向. 对于具有复杂语义结构和句法结构的多跳问题, 模型需要强大的自然语言理解能力. 问题分解作为问题理解的一种技术, 有着不可估量的作用. 阐述了问题分解的研究背景与意义; 根据问题特征提取的方式, 将现有的方法分为传统机器学习方法和深度学习方法两大类, 传统机器学习方法以规则模板匹配和基于分割的方法为主, 深度学习方法以基于Transformer, 图神经网络 …
-Cites: ‪Rat-sql: Relation-aware schema encoding and linking for text-to …‬

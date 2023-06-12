@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Logic Diffusion for Knowledge Graph Reasoning"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "X Xie, B Gong, Y Lv, Z Han, G Zhao, X Qian - arXiv preprint arXiv:2306.03515, 2023"
----
-Most recent works focus on answering first order logical queries to explore the knowledge graph reasoning via multi-hop logic predictions. However, existing reasoning models are limited by the circumscribed logical paradigms of training samples, which leads to a weak generalization of unseen logic. To address these issues, we propose a plug-in module called Logic Diffusion (LoD) to discover unseen queries from surroundings and achieves dynamical equilibrium between different …
-Cites: ‪Observed versus latent features for knowledge base and text …‬
+--- 
+layout: post 
+title: "Logic Diffusion for Knowledge Graph Reasoning" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "X Xie, B Gong, Y Lv, Z Han, G Zhao, X Qian - arXiv preprint arXiv:2306.03515, 2023" 
+--- 
+Most recent works focus on answering first order logical queries to explore the knowledge graph reasoning via multi-hop logic predictions. However, existing reasoning models are limited by the circumscribed logical paradigms of training samples, which leads to a weak generalization of unseen logic. To address these issues, we propose a plug-in module called Logic Diffusion (LoD) to discover unseen queries from surroundings and achieves dynamical equilibrium between different  Cites: Observed versus latent features for knowledge base and text

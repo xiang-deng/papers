@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Hierarchical Clause Annotation: Building a Clause-Level Corpus for Semantic Parsing with Complex Sentences"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "Y Fan, B Li, Y Sataer, M Gao, C Shi, S Cao, Z Gao - 2023"
----
-Most natural language processing (NLP) tasks suffer performance degradation when encountering long complex sentences, such as semantic parsing, syntactic parsing, machine translation, and text summarization. Previous works address the issue with an intuition of decomposing complex sentences and linking simple ones, such as RST-style discourse parsing, split-and-rephrase (SPRP), text simplification (TS), simple-sentence-decomposition (SSD), etc. However, these works are not applicable …
-Cites: ‪Discourse-Aware Neural Extractive Text Summarization‬
+--- 
+layout: post 
+title: "Hierarchical Clause Annotation: Building a Clause-Level Corpus for Semantic Parsing with Complex Sentences" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "Y Fan, B Li, Y Sataer, M Gao, C Shi, S Cao, Z Gao - 2023" 
+--- 
+Most natural language processing (NLP) tasks suffer performance degradation when encountering long complex sentences, such as semantic parsing, syntactic parsing, machine translation, and text summarization. Previous works address the issue with an intuition of decomposing complex sentences and linking simple ones, such as RST-style discourse parsing, split-and-rephrase (SPRP), text simplification (TS), simple-sentence-decomposition (SSD), etc. However, these works are not applicable  Cites: Discourse-Aware Neural Extractive Text Summarization

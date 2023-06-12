@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Continuously evolving dropout with multi-objective evolutionary optimisation"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "P Jiang, Y Xue, F Neri - Engineering Applications of Artificial Intelligence, 2023"
----
-Dropout is an effective method of mitigating over-fitting while training deep neural networks (DNNs). This method consists of switching off (dropping) some of the neurons of the DNN and training it by keeping the remaining neurons active. This approach makes the DNN general and resilient to changes in its inputs. However, the probability of a neuron belonging to a layer to be dropped, the dropout rate , is a hard-to-tune parameter that affects the performance of the trained model. Moreover …
-Cites: ‪Autodropout: Learning dropout patterns to regularize deep networks‬
+--- 
+layout: post 
+title: "Continuously evolving dropout with multi-objective evolutionary optimisation" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "P Jiang, Y Xue, F Neri - Engineering Applications of Artificial Intelligence, 2023" 
+--- 
+Dropout is an effective method of mitigating over-fitting while training deep neural networks (DNNs). This method consists of switching off (dropping) some of the neurons of the DNN and training it by keeping the remaining neurons active. This approach makes the DNN general and resilient to changes in its inputs. However, the probability of a neuron belonging to a layer to be dropped, the dropout rate , is a hard-to-tune parameter that affects the performance of the trained model. Moreover  Cites: Autodropout: Learning dropout patterns to regularize deep networks

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unicorn: A unified multi-tasking model for supporting matching tasks in data integration"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Tu, J Fan, N Tang, P Wang, G Li, X Du, X Jia, S Gao - … of the ACM on Management of …, 2023"
----
-Data matching-which decides whether two data elements (eg, string, tuple, column, or knowledge graph entity) are the  same (aka a match)-is a key concept in data integration, such as entity matching and schema matching. The widely used practice is to build task-specific or even dataset-specific solutions, which are hard to generalize and disable the opportunities of knowledge sharing that can be learned from different datasets and multiple tasks. In this paper, we propose Unicorn, a …
-Cites: ‪Pre-train, prompt, and predict: A systematic survey of prompting …‬
+--- 
+layout: post 
+title: "Unicorn: A unified multi-tasking model for supporting matching tasks in data integration" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Tu, J Fan, N Tang, P Wang, G Li, X Du, X Jia, S Gao - of the ACM on Management of , 2023" 
+--- 
+Data matching-which decides whether two data elements (eg, string, tuple, column, or knowledge graph entity) are the same (aka a match)-is a key concept in data integration, such as entity matching and schema matching. The widely used practice is to build task-specific or even dataset-specific solutions, which are hard to generalize and disable the opportunities of knowledge sharing that can be learned from different datasets and multiple tasks. In this paper, we propose Unicorn, a  Cites: Pre-train, prompt, and predict: A systematic survey of prompting

@@ -1,9 +1,8 @@
----
-layout: post
-title:  "The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "A Jaiswal, S Liu, T Chen, Z Wang - arXiv preprint arXiv:2306.03805, 2023"
----
-Large pre-trained transformers are show-stealer in modern-day deep learning, and it becomes crucial to comprehend the parsimonious patterns that exist within them as they grow in scale. With exploding parameter counts, Lottery Ticket Hypothesis (LTH) and its variants, have lost their pragmatism in sparsifying them due to high computation and memory bottleneck of the repetitive train-prune-retrain routine of iterative magnitude pruning (IMP) which worsens with increasing model size. In this …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "A Jaiswal, S Liu, T Chen, Z Wang - arXiv preprint arXiv:2306.03805, 2023" 
+--- 
+Large pre-trained transformers are show-stealer in modern-day deep learning, and it becomes crucial to comprehend the parsimonious patterns that exist within them as they grow in scale. With exploding parameter counts, Lottery Ticket Hypothesis (LTH) and its variants, have lost their pragmatism in sparsifying them due to high computation and memory bottleneck of the repetitive train-prune-retrain routine of iterative magnitude pruning (IMP) which worsens with increasing model size. In this  Cites: CommonsenseQA: A Question Answering Challenge Targeting

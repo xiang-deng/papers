@@ -1,9 +1,8 @@
----
-layout: post
-title:  "TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Liu, H Fei, F Li, J Li, B Li, L Zhao, C Teng, D Ji - arXiv preprint arXiv:2306.03974, 2023"
----
-Few-shot named entity recognition (NER) exploits limited annotated instances to identify named mentions. Effectively transferring the internal or external resources thus becomes the key to few-shot NER. While the existing prompt tuning methods have shown remarkable few-shot performances, they still fail to make full use of knowledge. In this work, we investigate the integration of rich knowledge to prompt tuning for stronger few-shot NER. We propose incorporating the deep prompt tuning …
-Cites: ‪RoBERTa: A Robustly Optimized BERT Pretraining Approach‬
+--- 
+layout: post 
+title: "TKDP: Threefold Knowledge-enriched Deep Prompt Tuning for Few-shot Named Entity Recognition" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Liu, H Fei, F Li, J Li, B Li, L Zhao, C Teng, D Ji - arXiv preprint arXiv:2306.03974, 2023" 
+--- 
+Few-shot named entity recognition (NER) exploits limited annotated instances to identify named mentions. Effectively transferring the internal or external resources thus becomes the key to few-shot NER. While the existing prompt tuning methods have shown remarkable few-shot performances, they still fail to make full use of knowledge. In this work, we investigate the integration of rich knowledge to prompt tuning for stronger few-shot NER. We propose incorporating the deep prompt tuning  Cites: RoBERTa: A Robustly Optimized BERT Pretraining Approach

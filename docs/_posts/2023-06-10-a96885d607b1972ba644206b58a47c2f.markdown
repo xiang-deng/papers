@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Soft Merging of Experts with Adaptive Routing"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "M Muqeeth, H Liu, C Raffel - arXiv preprint arXiv:2306.03745, 2023"
----
-Sparsely activated neural networks with conditional computation learn to route their inputs through different  expert  subnetworks, providing a form of modularity that densely activated models lack. Despite their possible benefits, models with learned routing often underperform their parameter-matched densely activated counterparts as well as models that use non-learned heuristic routing strategies. In this paper, we hypothesize that these shortcomings stem from the gradient estimation techniques …
-Cites: ‪Branch-train-merge: Embarrassingly parallel training of expert …‬
+--- 
+layout: post 
+title: "Soft Merging of Experts with Adaptive Routing" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "M Muqeeth, H Liu, C Raffel - arXiv preprint arXiv:2306.03745, 2023" 
+--- 
+Sparsely activated neural networks with conditional computation learn to route their inputs through different expert subnetworks, providing a form of modularity that densely activated models lack. Despite their possible benefits, models with learned routing often underperform their parameter-matched densely activated counterparts as well as models that use non-learned heuristic routing strategies. In this paper, we hypothesize that these shortcomings stem from the gradient estimation techniques  Cites: Branch-train-merge: Embarrassingly parallel training of expert

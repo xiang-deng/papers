@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Exploring the Compositional Generalization in Context Dependent Text-to-SQL Parsing"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "A Liu, W Liu, X Hu, S Li, F Ma, Y Yang, L Wen - arXiv preprint arXiv:2306.04480, 2023"
----
-In the context-dependent Text-to-SQL task, the generated SQL statements are refined iteratively based on the user input utterance from each interaction. The input text from each interaction can be viewed as component modifications to the previous SQL statements, which could be further extracted as the modification patterns. Since these modification patterns could also be combined with other SQL statements, the models are supposed to have the compositional generalization to these novel …
-Cites: ‪Compositional generalization and natural language variation: Can …‬
+--- 
+layout: post 
+title: "Exploring the Compositional Generalization in Context Dependent Text-to-SQL Parsing" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "A Liu, W Liu, X Hu, S Li, F Ma, Y Yang, L Wen - arXiv preprint arXiv:2306.04480, 2023" 
+--- 
+In the context-dependent Text-to-SQL task, the generated SQL statements are refined iteratively based on the user input utterance from each interaction. The input text from each interaction can be viewed as component modifications to the previous SQL statements, which could be further extracted as the modification patterns. Since these modification patterns could also be combined with other SQL statements, the models are supposed to have the compositional generalization to these novel  Cites: Compositional generalization and natural language variation: Can

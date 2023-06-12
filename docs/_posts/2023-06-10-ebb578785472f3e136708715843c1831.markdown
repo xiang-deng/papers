@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Efficient e-mail spam filtering approach combining Logistic Regression model and Orthogonal Atomic Orbital Search algorithm"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "G Manita, A Chhabra, O Korbaa - Applied Soft Computing, 2023"
----
-Phishing emails called spam have created a need for reliable and intelligent spam filters. Machine-learning techniques are effective, but current methods such as Logistic Regression (LR), Support Vector Machine (SVM), Decision Trees (DT), and Naive Bayes (NB) sometimes produce low detection rates and struggle with large amounts of data. Motivated by these concerns, we propose an efficient spam-filtering approach, OAOS-LR, combining an improved Atomic Orbital Search (AOS) algorithm …
-Cites: ‪Partitioned logistic regression for spam filtering‬
+--- 
+layout: post 
+title: "Efficient e-mail spam filtering approach combining Logistic Regression model and Orthogonal Atomic Orbital Search algorithm" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "G Manita, A Chhabra, O Korbaa - Applied Soft Computing, 2023" 
+--- 
+Phishing emails called spam have created a need for reliable and intelligent spam filters. Machine-learning techniques are effective, but current methods such as Logistic Regression (LR), Support Vector Machine (SVM), Decision Trees (DT), and Naive Bayes (NB) sometimes produce low detection rates and struggle with large amounts of data. Motivated by these concerns, we propose an efficient spam-filtering approach, OAOS-LR, combining an improved Atomic Orbital Search (AOS) algorithm  Cites: Partitioned logistic regression for spam filtering

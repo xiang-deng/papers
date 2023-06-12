@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Improving neural network representations using human similarity judgments"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "L Muttenthaler, L Linhardt, J Dippel, RA Vandermeulen… - arXiv preprint arXiv …, 2023"
----
-Deep neural networks have reached human-level performance on many computer vision tasks. However, the objectives used to train these networks enforce only that similar images are embedded at similar locations in the representation space, and do not directly constrain the global structure of the resulting space. Here, we explore the impact of supervising this global structure by linearly aligning it with human similarity judgments. We find that a naive approach leads to large changes in local …
-Cites: ‪Scaling up visual and vision-language representation learning with …‬

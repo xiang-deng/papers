@@ -1,8 +1,8 @@
----
-layout: post
-title:  "One-sided Matrix Completion from Two Observations Per Row"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "S Cao, P Liang, G Valiant - arXiv preprint arXiv:2306.04049, 2023"
----
-Given only a few observed entries from a low-rank matrix $ X $, matrix completion is the problem of imputing the missing entries, and it formalizes a wide range of real-world settings that involve estimating missing data. However, when there are too few …
+--- 
+layout: post 
+title: "One-sided Matrix Completion from Two Observations Per Row" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "S Cao, P Liang, G Valiant - arXiv preprint arXiv:2306.04049, 2023" 
+--- 
+Given only a few observed entries from a low-rank matrix $ X $, matrix completion is the problem of imputing the missing entries, and it formalizes a wide range of real-world settings that involve estimating missing data. However, when there are too few

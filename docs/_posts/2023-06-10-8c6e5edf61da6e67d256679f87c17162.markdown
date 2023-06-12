@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Deductive Verification of Chain-of-Thought Reasoning"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "Z Ling, Y Fang, X Li, Z Huang, M Lee, R Memisevic… - arXiv preprint arXiv …, 2023"
----
-Large Language Models (LLMs) significantly benefit from Chain-of-Thought (CoT) prompting in performing various reasoning tasks. While CoT allows models to produce more comprehensive reasoning processes, its emphasis on intermediate reasoning steps can inadvertently introduce hallucinations and accumulated errors, thereby limiting models  ability to solve complex reasoning tasks. Inspired by how humans engage in careful and meticulous deductive logical reasoning processes to …
-Cites: ‪Beyond the imitation game: Quantifying and extrapolating the …‬
+--- 
+layout: post 
+title: "Deductive Verification of Chain-of-Thought Reasoning" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "Z Ling, Y Fang, X Li, Z Huang, M Lee, R Memisevic - arXiv preprint arXiv , 2023" 
+--- 
+Large Language Models (LLMs) significantly benefit from Chain-of-Thought (CoT) prompting in performing various reasoning tasks. While CoT allows models to produce more comprehensive reasoning processes, its emphasis on intermediate reasoning steps can inadvertently introduce hallucinations and accumulated errors, thereby limiting models ability to solve complex reasoning tasks. Inspired by how humans engage in careful and meticulous deductive logical reasoning processes to  Cites: Beyond the imitation game: Quantifying and extrapolating the

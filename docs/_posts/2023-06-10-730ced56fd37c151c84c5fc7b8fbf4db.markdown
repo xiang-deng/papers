@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Benchmarking Foundation Models with Language-Model-as-an-Examiner"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "Y Bai, J Ying, Y Cao, X Lv, Y He, X Wang, J Yu, K Zeng… - arXiv preprint arXiv …, 2023"
----
-Numerous benchmarks have been established to assess the performance of foundation models on open-ended question answering, which serves as a comprehensive test of a model s ability to understand and generate language in a manner similar to humans. Most of these works focus on proposing new datasets, however, we see two main issues within previous benchmarking pipelines, namely testing leakage and evaluation automation. In this paper, we propose a novel …
-Cites: ‪Hurdles to Progress in Long-form Question Answering‬
+--- 
+layout: post 
+title: "Benchmarking Foundation Models with Language-Model-as-an-Examiner" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "Y Bai, J Ying, Y Cao, X Lv, Y He, X Wang, J Yu, K Zeng - arXiv preprint arXiv , 2023" 
+--- 
+Numerous benchmarks have been established to assess the performance of foundation models on open-ended question answering, which serves as a comprehensive test of a model s ability to understand and generate language in a manner similar to humans. Most of these works focus on proposing new datasets, however, we see two main issues within previous benchmarking pipelines, namely testing leakage and evaluation automation. In this paper, we propose a novel  Cites: Hurdles to Progress in Long-form Question Answering

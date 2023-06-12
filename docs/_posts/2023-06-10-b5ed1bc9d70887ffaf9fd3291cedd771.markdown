@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Correction of Errors in Preference Ratings from Automated Metrics for Text Generation"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Deriu, P von Däniken, D Tuggener, M Cieliebak - arXiv preprint arXiv:2306.03866, 2023"
----
-A major challenge in the field of Text Generation is evaluation: Human evaluations are cost-intensive, and automated metrics often display considerable disagreement with human judgments. In this paper, we propose a statistical model of Text Generation evaluation that accounts for the error-proneness of automated metrics when used to generate preference rankings between system outputs. We show that existing automated metrics are generally over-confident in assigning significant …
-Cites: ‪Summeval: Re-evaluating summarization evaluation‬
+--- 
+layout: post 
+title: "Correction of Errors in Preference Ratings from Automated Metrics for Text Generation" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Deriu, P von Dniken, D Tuggener, M Cieliebak - arXiv preprint arXiv:2306.03866, 2023" 
+--- 
+A major challenge in the field of Text Generation is evaluation: Human evaluations are cost-intensive, and automated metrics often display considerable disagreement with human judgments. In this paper, we propose a statistical model of Text Generation evaluation that accounts for the error-proneness of automated metrics when used to generate preference rankings between system outputs. We show that existing automated metrics are generally over-confident in assigning significant  Cites: Summeval: Re-evaluating summarization evaluation

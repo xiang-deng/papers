@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Uncertainty in Natural Language Processing: Sources, Quantification, and Applications"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "M Hu, Z Zhang, S Zhao, M Huang, B Wu - arXiv preprint arXiv:2306.04459, 2023"
----
-As a main field of artificial intelligence, natural language processing (NLP) has achieved remarkable success via deep neural networks. Plenty of NLP tasks have been addressed in a unified manner, with various tasks being associated with each other through sharing the same paradigm. However, neural networks are black boxes and rely on probability computation. Making mistakes is inevitable. Therefore, estimating the reliability and trustworthiness (in other words, uncertainty) of neural …
-Cites: ‪Understanding Neural Abstractive Summarization Models via …‬
+--- 
+layout: post 
+title: "Uncertainty in Natural Language Processing: Sources, Quantification, and Applications" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "M Hu, Z Zhang, S Zhao, M Huang, B Wu - arXiv preprint arXiv:2306.04459, 2023" 
+--- 
+As a main field of artificial intelligence, natural language processing (NLP) has achieved remarkable success via deep neural networks. Plenty of NLP tasks have been addressed in a unified manner, with various tasks being associated with each other through sharing the same paradigm. However, neural networks are black boxes and rely on probability computation. Making mistakes is inevitable. Therefore, estimating the reliability and trustworthiness (in other words, uncertainty) of neural  Cites: Understanding Neural Abstractive Summarization Models via

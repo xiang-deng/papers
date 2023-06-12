@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Natural Language Commanding via Program Synthesis"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "A Gandhi, TQ Nguyen, H Jiao, R Steen, A Bhatawdekar - arXiv preprint arXiv …, 2023"
----
-We present Semantic Interpreter, a natural language-friendly AI system for productivity software such as Microsoft Office that leverages large language models (LLMs) to execute user intent across application features. While LLMs are excellent at understanding user intent expressed as natural language, they are not sufficient for fulfilling application-specific user intent that requires more than text-to-text transformations. We therefore introduce the Office Domain Specific Language …
-Cites: ‪PAL: Program-aided Language Models‬
+--- 
+layout: post 
+title: "Natural Language Commanding via Program Synthesis" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "A Gandhi, TQ Nguyen, H Jiao, R Steen, A Bhatawdekar - arXiv preprint arXiv , 2023" 
+--- 
+We present Semantic Interpreter, a natural language-friendly AI system for productivity software such as Microsoft Office that leverages large language models (LLMs) to execute user intent across application features. While LLMs are excellent at understanding user intent expressed as natural language, they are not sufficient for fulfilling application-specific user intent that requires more than text-to-text transformations. We therefore introduce the Office Domain Specific Language  Cites: PAL: Program-aided Language Models

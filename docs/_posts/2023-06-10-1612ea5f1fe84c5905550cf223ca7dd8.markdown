@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Understanding the Effectiveness of Early Weight Averaging for Training Large Language Models"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "S Sanyal, J Kaddour, A Kumar, S Sanghavi - arXiv preprint arXiv:2306.03241, 2023"
----
-Training LLMs is expensive, and recent evidence indicates training all the way to convergence is inefficient. In this paper, we investigate the ability of a simple idea, checkpoint averaging along the trajectory of a training run to improve the quality of models before they have converged. This approach incurs no extra cost during training or inference. Specifically, we analyze the training trajectories of Pythia LLMs with 1 to 12 billion parameters and demonstrate that, particularly during the early to …
-Cites: ‪Crowdsourcing Multiple Choice Science Questions‬
+--- 
+layout: post 
+title: "Understanding the Effectiveness of Early Weight Averaging for Training Large Language Models" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "S Sanyal, J Kaddour, A Kumar, S Sanghavi - arXiv preprint arXiv:2306.03241, 2023" 
+--- 
+Training LLMs is expensive, and recent evidence indicates training all the way to convergence is inefficient. In this paper, we investigate the ability of a simple idea, checkpoint averaging along the trajectory of a training run to improve the quality of models before they have converged. This approach incurs no extra cost during training or inference. Specifically, we analyze the training trajectories of Pythia LLMs with 1 to 12 billion parameters and demonstrate that, particularly during the early to  Cites: Crowdsourcing Multiple Choice Science Questions

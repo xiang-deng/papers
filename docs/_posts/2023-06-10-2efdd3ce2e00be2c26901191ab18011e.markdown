@@ -1,9 +1,8 @@
----
-layout: post
-title:  "BatchSampler: Sampling Mini-Batches for Contrastive Learning in Vision, Language, and Graphs"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "Z Yang, T Huang, M Ding, Y Dong, R Ying, Y Cen… - arXiv preprint arXiv …, 2023"
----
-In-Batch contrastive learning is a state-of-the-art self-supervised method that brings semantically-similar instances close while pushing dissimilar instances apart within a mini-batch. Its key to success is the negative sharing strategy, in which every instance serves as a negative for the others within the mini-batch. Recent studies aim to improve performance by sampling hard negatives\textit {within the current mini-batch}, whose quality is bounded by the mini-batch itself. In this work, we propose to …
-Cites: ‪SimCSE: Simple Contrastive Learning of Sentence Embeddings‬
+--- 
+layout: post 
+title: "BatchSampler: Sampling Mini-Batches for Contrastive Learning in Vision, Language, and Graphs" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "Z Yang, T Huang, M Ding, Y Dong, R Ying, Y Cen - arXiv preprint arXiv , 2023" 
+--- 
+In-Batch contrastive learning is a state-of-the-art self-supervised method that brings semantically-similar instances close while pushing dissimilar instances apart within a mini-batch. Its key to success is the negative sharing strategy, in which every instance serves as a negative for the others within the mini-batch. Recent studies aim to improve performance by sampling hard negatives\textit {within the current mini-batch}, whose quality is bounded by the mini-batch itself. In this work, we propose to  Cites: SimCSE: Simple Contrastive Learning of Sentence Embeddings

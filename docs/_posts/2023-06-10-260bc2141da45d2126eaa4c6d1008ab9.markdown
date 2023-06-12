@@ -1,9 +1,8 @@
----
-layout: post
-title:  "On the Design Fundamentals of Diffusion Models: A Survey"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "Z Chang, GA Koulieris, HPH Shum - arXiv preprint arXiv:2306.04542, 2023"
----
-Diffusion models are generative models, which gradually add and remove noise to learn the underlying distribution of training data for data generation. The components of diffusion models have gained significant attention with many design choices proposed. Existing reviews have primarily focused on higher-level solutions, thereby covering less on the design fundamentals of components. This study seeks to address this gap by providing a comprehensive and coherent review on component …
-Cites: ‪DiffusER: Diffusion via Edit-based Reconstruction‬
+--- 
+layout: post 
+title: "On the Design Fundamentals of Diffusion Models: A Survey" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "Z Chang, GA Koulieris, HPH Shum - arXiv preprint arXiv:2306.04542, 2023" 
+--- 
+Diffusion models are generative models, which gradually add and remove noise to learn the underlying distribution of training data for data generation. The components of diffusion models have gained significant attention with many design choices proposed. Existing reviews have primarily focused on higher-level solutions, thereby covering less on the design fundamentals of components. This study seeks to address this gap by providing a comprehensive and coherent review on component  Cites: DiffusER: Diffusion via Edit-based Reconstruction

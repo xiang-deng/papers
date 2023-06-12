@@ -1,9 +1,8 @@
----
-layout: post
-title:  "SPQR@ Deft2023: Résolution automatique de QCM médicaux à partir de corpus de domaine et de mesures de similarité"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Bezançon, T Boubehziz, C Chutaux, O Zine…"
----
-Nous présentons le travail de SPQR (Sorbonne Question-Réponses) au DÉfi Fouille de Textes 2023 sur la réponse automatique à des questionnaires à choix multiples dans le domaine de la pharmacologie. Nous proposons une approche fondée sur la constitution de corpus de spécialité et la recherche de phrases similaires entre ces corpus et les différentes réponses possibles à une question. Nous calculons une similarité cosinus sur des vecteurs en n-grammes de caractères pour déterminer les …
-Cites: ‪CommonsenseQA: A Question Answering Challenge Targeting …‬
+--- 
+layout: post 
+title: "SPQR@ Deft2023: Rsolution automatique de QCM mdicaux partir de corpus de domaine et de mesures de similarit" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Bezanon, T Boubehziz, C Chutaux, O Zine" 
+--- 
+Nous prsentons le travail de SPQR (Sorbonne Question-Rponses) au Dfi Fouille de Textes 2023 sur la rponse automatique des questionnaires choix multiples dans le domaine de la pharmacologie. Nous proposons une approche fonde sur la constitution de corpus de spcialit et la recherche de phrases similaires entre ces corpus et les diffrentes rponses possibles une question. Nous calculons une similarit cosinus sur des vecteurs en n-grammes de caractres pour dterminer les  Cites: CommonsenseQA: A Question Answering Challenge Targeting

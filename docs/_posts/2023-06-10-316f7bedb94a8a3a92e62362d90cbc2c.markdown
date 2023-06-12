@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Unbalanced Optimal Transport for Unbalanced Word Alignment"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "Y Arase, H Bao, S Yokoi - arXiv preprint arXiv:2306.04116, 2023"
----
-Monolingual word alignment is crucial to model semantic interactions between sentences. In particular, null alignment, a phenomenon in which words have no corresponding counterparts, is pervasive and critical in handling semantically divergent sentences. Identification of null alignment is useful on its own to reason about the semantic similarity of sentences by indicating there exists information inequality. To achieve unbalanced word alignment that values both alignment and …
-Cites: ‪ifacetsum: Coreference-based interactive faceted summarization …‬
+--- 
+layout: post 
+title: "Unbalanced Optimal Transport for Unbalanced Word Alignment" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "Y Arase, H Bao, S Yokoi - arXiv preprint arXiv:2306.04116, 2023" 
+--- 
+Monolingual word alignment is crucial to model semantic interactions between sentences. In particular, null alignment, a phenomenon in which words have no corresponding counterparts, is pervasive and critical in handling semantically divergent sentences. Identification of null alignment is useful on its own to reason about the semantic similarity of sentences by indicating there exists information inequality. To achieve unbalanced word alignment that values both alignment and  Cites: ifacetsum: Coreference-based interactive faceted summarization

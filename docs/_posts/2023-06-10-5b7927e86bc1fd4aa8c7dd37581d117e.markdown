@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Demonstrating MATE and COCOA for Data Discovery"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "J Becktepe, M Esmailoghli, M Koch, Z Abedjan - Companion of the 2023 International …, 2023"
----
-One of the common use cases for data discovery is to enrich a given table with additional columns from related tables inside a data lake. We have recently introduced MATE and COCOA, two systems for joinability discovery and correlation calculation, respectively. By leveraging two novel index structures, a hash-based Super Key Index, and an Order Index, our system is capable of efficiently identifying tables that join on multiple columns and contain relevant features. We show how the …
-Cites: ‪Webtables: exploring the power of tables on the web‬
+--- 
+layout: post 
+title: "Demonstrating MATE and COCOA for Data Discovery" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "J Becktepe, M Esmailoghli, M Koch, Z Abedjan - Companion of the 2023 International , 2023" 
+--- 
+One of the common use cases for data discovery is to enrich a given table with additional columns from related tables inside a data lake. We have recently introduced MATE and COCOA, two systems for joinability discovery and correlation calculation, respectively. By leveraging two novel index structures, a hash-based Super Key Index, and an Order Index, our system is capable of efficiently identifying tables that join on multiple columns and contain relevant features. We show how the  Cites: Webtables: exploring the power of tables on the web

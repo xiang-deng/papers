@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Examining Bias in Opinion Summarisation Through the Perspective of Opinion Diversity"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "N Huang, L Tian, H Fayek, X Zhang - arXiv preprint arXiv:2306.04424, 2023"
----
-Opinion summarisation is a task that aims to condense the information presented in the source documents while retaining the core message and opinions. A summary that only represents the majority opinions will leave the minority opinions unrepresented in the summary. In this paper, we use the stance towards a certain target as an opinion. We study bias in opinion summarisation from the perspective of opinion diversity, which measures whether the model generated summary can cover …
-Cites: ‪Unsupervised opinion summarization as copycat-review generation‬
+--- 
+layout: post 
+title: "Examining Bias in Opinion Summarisation Through the Perspective of Opinion Diversity" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "N Huang, L Tian, H Fayek, X Zhang - arXiv preprint arXiv:2306.04424, 2023" 
+--- 
+Opinion summarisation is a task that aims to condense the information presented in the source documents while retaining the core message and opinions. A summary that only represents the majority opinions will leave the minority opinions unrepresented in the summary. In this paper, we use the stance towards a certain target as an opinion. We study bias in opinion summarisation from the perspective of opinion diversity, which measures whether the model generated summary can cover  Cites: Unsupervised opinion summarization as copycat-review generation

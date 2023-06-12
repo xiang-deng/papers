@@ -1,9 +1,8 @@
----
-layout: post
-title:  "Information Flow Control in Machine Learning through Modular Model Architecture"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "T Tiwari, S Gururangan, C Guo, W Hua, S Kariyappa… - arXiv preprint arXiv …, 2023"
----
-In today s machine learning (ML) models, any part of the training data can affect its output. This lack of control for information flow from training data to model output is a major obstacle in training models on sensitive data when access control only allows individual users to access a subset of data. To enable secure machine learning for access controlled data, we propose the notion of information flow control for machine learning, and develop a secure Transformer-based language model based on the …
-Cites: ‪Demix layers: Disentangling domains for modular language …‬
+--- 
+layout: post 
+title: "Information Flow Control in Machine Learning through Modular Model Architecture" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "T Tiwari, S Gururangan, C Guo, W Hua, S Kariyappa - arXiv preprint arXiv , 2023" 
+--- 
+In today s machine learning (ML) models, any part of the training data can affect its output. This lack of control for information flow from training data to model output is a major obstacle in training models on sensitive data when access control only allows individual users to access a subset of data. To enable secure machine learning for access controlled data, we propose the notion of information flow control for machine learning, and develop a secure Transformer-based language model based on the  Cites: Demix layers: Disentangling domains for modular language

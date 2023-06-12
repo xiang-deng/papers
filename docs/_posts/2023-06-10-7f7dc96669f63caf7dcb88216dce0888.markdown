@@ -1,9 +1,8 @@
----
-layout: post
-title:  "World Models for Math Story Problems"
-date:   2023-06-10 05:24:39 -0400
-categories: jekyll update
-author: "A Opedal, N Stoehr, A Saparov, M Sachan - arXiv preprint arXiv:2306.04347, 2023"
----
-Solving math story problems is a complex task for students and NLP models alike, requiring them to understand the world as described in the story and reason over it to compute an answer. Recent years have seen impressive performance on automatically solving these problems with large pre-trained language models and innovative techniques to prompt them. However, it remains unclear if these models possess accurate representations of mathematical concepts. This leads to lack of …
-Cites: ‪Language models of code are few-shot commonsense learners‬
+--- 
+layout: post 
+title: "World Models for Math Story Problems" 
+date: 2023-06-10 05:24:39 -0400 
+categories: jekyll update 
+author: "A Opedal, N Stoehr, A Saparov, M Sachan - arXiv preprint arXiv:2306.04347, 2023" 
+--- 
+Solving math story problems is a complex task for students and NLP models alike, requiring them to understand the world as described in the story and reason over it to compute an answer. Recent years have seen impressive performance on automatically solving these problems with large pre-trained language models and innovative techniques to prompt them. However, it remains unclear if these models possess accurate representations of mathematical concepts. This leads to lack of  Cites: Language models of code are few-shot commonsense learners
